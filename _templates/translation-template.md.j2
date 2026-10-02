@@ -1,0 +1,91 @@
+---
+# Translation overrides for {{ lang }} - only include fields that differ from base
+# Base file: birds/{{ order }}/{{ family }}/{{ species }}.md
+# This file will be merged at build/runtime
+
+{% if names %}
+names:
+{% for k, v in names.items() %}
+  {{ k }}: "{{ v }}"
+{% endfor %}
+{% endif %}
+
+{% if habitat %}
+habitat:
+{% if habitat.primary %}  primary: "{{ habitat.primary }}"{% endif %}
+{% if habitat.secondary %}
+  secondary:
+{% for h in habitat.secondary %}
+    - "{{ h }}"
+{% endfor %}
+{% endif %}
+{% if habitat.microhabitat %}  microhabitat: "{{ habitat.microhabitat }}"{% endif %}
+{% endif %}
+
+{% if diet %}
+diet:
+{% if diet.primary %}  primary: "{{ diet.primary }}"{% endif %}
+{% endif %}
+
+{% if behavior %}
+behavior:
+{% if behavior.vocalizations %}
+  vocalizations:
+{% if behavior.vocalizations.song %}    song: "{{ behavior.vocalizations.song }}"{% endif %}
+{% if behavior.vocalizations.calls %}
+    calls:
+{% for c in behavior.vocalizations.calls %}
+      - "{{ c }}"
+{% endfor %}
+{% endif %}
+{% endif %}
+{% endif %}
+
+{% if conservation %}
+conservation:
+{% if conservation.threats %}
+  threats:
+{% for t in conservation.threats %}
+    - "{{ t }}"
+{% endfor %}
+{% endif %}
+{% if conservation.conservation_actions %}
+  conservation_actions:
+{% for a in conservation.conservation_actions %}
+    - "{{ a }}"
+{% endfor %}
+{% endif %}
+{% endif %}
+
+{% if veterinary %}
+veterinary:
+{% if veterinary.common_diseases %}
+  common_diseases:
+{% for d in veterinary.common_diseases %}
+    - "{{ d }}"
+{% endfor %}
+{% endif %}
+{% if veterinary.emergency_signs %}
+  emergency_signs:
+{% for e in veterinary.emergency_signs %}
+    - "{{ e }}"
+{% endfor %}
+{% endif %}
+{% endif %}
+
+{% if enrichment %}
+enrichment:
+{% if enrichment.foraging_toys %}
+  foraging_toys:
+{% for t in enrichment.foraging_toys %}
+    - "{{ t }}"
+{% endfor %}
+{% endif %}
+{% if enrichment.social_enrichment %}  social_enrichment: "{{ enrichment.social_enrichment }}"{% endif %}
+{% if enrichment.play_behaviors %}
+  play_behaviors:
+{% for p in enrichment.play_behaviors %}
+    - "{{ p }}"
+{% endfor %}
+{% endif %}
+{% endif %}

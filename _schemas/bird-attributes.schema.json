@@ -1,0 +1,385 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://openbird.org/schemas/bird-attributes.schema.json",
+  "title": "Bird Species Attributes",
+  "description": "Complete schema for bird species markdown frontmatter including all 78 BIRDBASE traits + AVONICHE foraging niches + veterinary/enrichment",
+  "type": "object",
+  "required": [
+    "taxon_id",
+    "ebird_code",
+    "gbif_key",
+    "names",
+    "taxonomy",
+    "morphology",
+    "distribution",
+    "habitat",
+    "diet",
+    "behavior",
+    "reproduction",
+    "demography",
+    "conservation",
+    "veterinary",
+    "enrichment",
+    "sources",
+    "last_updated",
+    "data_quality"
+  ],
+  "properties": {
+    "taxon_id": {
+      "type": "string",
+      "pattern": "^BT[0-9]{8}$",
+      "description": "BirdNET taxon ID (BT + 8 digits)"
+    },
+    "ebird_code": {
+      "type": "string",
+      "pattern": "^[a-z0-9]{6}$",
+      "description": "eBird 6-letter species code"
+    },
+    "gbif_key": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "GBIF taxon key"
+    },
+    "avibase_id": {
+      "type": "string",
+      "description": "Avibase ID"
+    },
+    "iucn_status": {
+      "type": "string",
+      "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"],
+      "description": "IUCN Red List category"
+    },
+    "taxon_order": {
+      "type": "number",
+      "description": "Taxonomic sort order"
+    },
+    "names": {
+      "type": "object",
+      "required": ["scientific", "fa", "en"],
+      "properties": {
+        "scientific": { "type": "string", "description": "Scientific name (binomial)" },
+        "fa": { "type": "string", "description": "Persian common name" },
+        "en": { "type": "string", "description": "English common name" }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "description": "Additional language codes (ISO 639-1)"
+      }
+    },
+    "taxonomy": {
+      "type": "object",
+      "required": ["order", "family", "genus", "species"],
+      "properties": {
+        "order": { "type": "string" },
+        "family": { "type": "string" },
+        "genus": { "type": "string" },
+        "species": { "type": "string" },
+        "subspecies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "scientific"],
+            "properties": {
+              "name": { "type": "string" },
+              "scientific": { "type": "string" },
+              "range": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "morphology": {
+      "type": "object",
+      "properties": {
+        "body_mass_g": { "type": "number", "minimum": 0 },
+        "body_length_cm": { "type": "number", "minimum": 0 },
+        "wingspan_cm": { "type": "number", "minimum": 0 },
+        "bill_length_mm": { "type": "number", "minimum": 0 },
+        "tarsus_length_mm": { "type": "number", "minimum": 0 },
+        "wing_length_mm": { "type": "number", "minimum": 0 },
+        "tail_length_mm": { "type": "number", "minimum": 0 }
+      }
+    },
+    "distribution": {
+      "type": "object",
+      "required": ["countries", "biogeographic_realms"],
+      "properties": {
+        "breeding_range": { "type": "string" },
+        "non_breeding_range": { "type": "string" },
+        "countries": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[A-Z]{2}$" },
+          "description": "ISO 3166-1 alpha-2 country codes"
+        },
+        "biogeographic_realms": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "endemic": { "type": "boolean" },
+        "island_endemic": { "type": "boolean" }
+      }
+    },
+    "habitat": {
+      "type": "object",
+      "required": ["primary", "habitat_breadth", "elevational_min_m", "elevational_max_m"],
+      "properties": {
+        "primary": { "type": "string" },
+        "secondary": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "habitat_breadth": { "type": "integer", "minimum": 1, "maximum": 15 },
+        "elevational_min_m": { "type": "integer", "minimum": -500 },
+        "elevational_max_m": { "type": "integer", "minimum": 0 },
+        "habitat_types": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "BirdFYI 15 habitat types"
+        },
+        "microhabitat": { "type": "string" }
+      }
+    },
+    "diet": {
+      "type": "object",
+      "required": ["primary", "diet_breadth", "categories", "foraging_niches"],
+      "properties": {
+        "primary": {
+          "type": "string",
+          "enum": ["Carnivore", "Herbivore", "Omnivore", "Invertivore", "Frugivore", "Granivore", "Nectarivore", "Piscivore", "Scavenger"]
+        },
+        "diet_breadth": { "type": "integer", "minimum": 1, "maximum": 8 },
+        "categories": {
+          "type": "object",
+          "required": ["invertebrates", "seeds", "fruit", "nectar", "vertebrates", "fish", "carrion", "plant_material"],
+          "properties": {
+            "invertebrates": { "type": "number", "minimum": 0, "maximum": 10 },
+            "seeds": { "type": "number", "minimum": 0, "maximum": 10 },
+            "fruit": { "type": "number", "minimum": 0, "maximum": 10 },
+            "nectar": { "type": "number", "minimum": 0, "maximum": 10 },
+            "vertebrates": { "type": "number", "minimum": 0, "maximum": 10 },
+            "fish": { "type": "number", "minimum": 0, "maximum": 10 },
+            "carrion": { "type": "number", "minimum": 0, "maximum": 10 },
+            "plant_material": { "type": "number", "minimum": 0, "maximum": 10 }
+          },
+          "additionalProperties": false
+        },
+        "foraging_niches": {
+          "type": "object",
+          "description": "AVONICHE 32 foraging niches (proportional 0-1)",
+          "properties": {
+            "plants_aquatic_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "plants_aquatic_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+            "plants_aquatic_dive": { "type": "number", "minimum": 0, "maximum": 1 },
+            "plants_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+            "plants_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "nectar_aerial": { "type": "number", "minimum": 0, "maximum": 1 },
+            "nectar_glean": { "type": "number", "minimum": 0, "maximum": 1 },
+            "seeds_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+            "seeds_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "fruit_aerial": { "type": "number", "minimum": 0, "maximum": 1 },
+            "fruit_glean": { "type": "number", "minimum": 0, "maximum": 1 },
+            "fruit_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_aerial_screening": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_sally_to_air": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_sally_to_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_sally_to_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_vertical_substrate": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_glean_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+            "invertebrates_glean_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_air": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_plunge": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_perch": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+            "aquatic_predator_dive": { "type": "number", "minimum": 0, "maximum": 1 },
+            "vertebrates_aerial_screening": { "type": "number", "minimum": 0, "maximum": 1 },
+            "vertebrates_air_to_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+            "vertebrates_perch": { "type": "number", "minimum": 0, "maximum": 1 },
+            "vertebrates_glean_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+            "vertebrates_glean_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+            "carrion_aquatic": { "type": "number", "minimum": 0, "maximum": 1 },
+            "carrion_ground": { "type": "number", "minimum": 0, "maximum": 1 }
+          },
+          "additionalProperties": false
+        },
+        "diet_sources": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "behavior": {
+      "type": "object",
+      "required": ["sociality", "territorial", "migration_status", "movement_type", "activity_pattern"],
+      "properties": {
+        "sociality": {
+          "type": "string",
+          "enum": ["Solitary", "Pairs", "Pairs and family groups", "Small groups", "Large flocks", "Colonial", "Lekking"]
+        },
+        "flock_size_typical": { "type": "string" },
+        "flock_size_max": { "type": "integer", "minimum": 1 },
+        "territorial": { "type": "boolean" },
+        "migration_status": {
+          "type": "string",
+          "enum": ["Resident", "Partial migrant", "Full migrant", "Nomadic", "Altitudinal migrant"]
+        },
+        "movement_type": {
+          "type": "string",
+          "enum": ["Sedentary", "Migratory", "Nomadic", "Dispersive", "Altitudinal"]
+        },
+        "activity_pattern": {
+          "type": "string",
+          "enum": ["Diurnal", "Nocturnal", "Crepuscular", "Cathemeral"]
+        },
+        "vocalizations": {
+          "type": "object",
+          "properties": {
+            "song": { "type": "string" },
+            "calls": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "xeno_canto_ids": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^XC[0-9]+$" }
+        }
+      }
+    },
+    "reproduction": {
+      "type": "object",
+      "properties": {
+        "clutch_size_mean": { "type": "number", "minimum": 0 },
+        "clutch_size_min": { "type": "integer", "minimum": 0 },
+        "clutch_size_max": { "type": "integer", "minimum": 0 },
+        "egg_length_mm": { "type": "number", "minimum": 0 },
+        "egg_width_mm": { "type": "number", "minimum": 0 },
+        "incubation_days": { "type": "integer", "minimum": 0 },
+        "fledging_days": { "type": "integer", "minimum": 0 },
+        "broods_per_year": { "type": "integer", "minimum": 0 },
+        "nest_type": { "type": "string" },
+        "nest_placement": { "type": "string" },
+        "nest_material": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "mating_system": {
+          "type": "string",
+          "enum": ["Monogamous", "Polygynous", "Polyandrous", "Polygynandrous", "Cooperative", "Lek"]
+        },
+        "parental_care": {
+          "type": "string",
+          "enum": ["Female only", "Male only", "Biparental", "Cooperative", "None"]
+        }
+      }
+    },
+    "demography": {
+      "type": "object",
+      "properties": {
+        "generation_length_years": { "type": "number", "minimum": 0 },
+        "max_longevity_years": { "type": "integer", "minimum": 0 },
+        "annual_survival_adult": { "type": "number", "minimum": 0, "maximum": 1 },
+        "annual_survival_juvenile": { "type": "number", "minimum": 0, "maximum": 1 },
+        "population_trend": {
+          "type": "string",
+          "enum": ["Increasing", "Stable", "Decreasing", "Unknown"]
+        },
+        "population_size": { "type": "string" },
+        "density_individuals_per_km2": { "type": "number", "minimum": 0 }
+      }
+    },
+    "conservation": {
+      "type": "object",
+      "required": ["iucn_status"],
+      "properties": {
+        "iucn_status": {
+          "type": "string",
+          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"]
+        },
+        "iucn_criteria": { "type": "string" },
+        "cites_appendix": {
+          "type": "string",
+          "enum": ["I", "II", "III", "Not listed"]
+        },
+        "threats": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "conservation_actions": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "veterinary": {
+      "type": "object",
+      "description": "Veterinary care data - manually curated, may be empty",
+      "properties": {
+        "common_diseases": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "vaccination_schedule": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "deworming_frequency_months": { "type": "integer", "minimum": 0 },
+        "health_check_frequency_months": { "type": "integer", "minimum": 0 },
+        "zoonotic_risks": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "emergency_signs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "vet_specialist_type": { "type": "string" }
+      }
+    },
+    "enrichment": {
+      "type": "object",
+      "description": "Enrichment and training data - manually curated, may be empty",
+      "properties": {
+        "foraging_toys": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "social_enrichment": { "type": "string" },
+        "cognitive_toys": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "bathing": { "type": "string" },
+        "training": {
+          "type": "object",
+          "properties": {
+            "target_training": { "type": "boolean" },
+            "recall_training": { "type": "boolean" },
+            "harness_training": { "type": "string" }
+          }
+        },
+        "play_behaviors": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "environmental_enrichment": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date"
+    },
+    "data_quality": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low", "Interpolated"],
+      "description": "Data quality assessment"
+    }
+  }
+}

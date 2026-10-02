@@ -1,0 +1,279 @@
+---
+# === CORE IDENTIFIERS ===
+taxon_id: "{{ taxon_id }}"
+ebird_code: "{{ ebird_code }}"
+gbif_key: {{ gbif_key }}
+{% if avibase_id %}avibase_id: "{{ avibase_id }}"{% endif %}
+iucn_status: "{{ iucn_status }}"
+taxon_order: {{ taxon_order }}
+
+# === NAMES (English keys, Persian values) ===
+names:
+  scientific: "{{ names.scientific }}"
+  fa: "{{ names.fa }}"
+  en: "{{ names.en }}"
+{% for lang, name in names.items() if lang not in ['scientific', 'fa', 'en'] %}
+  {{ lang }}: "{{ name }}"
+{% endfor %}
+
+# === TAXONOMY ===
+taxonomy:
+  order: "{{ taxonomy.order }}"
+  family: "{{ taxonomy.family }}"
+  genus: "{{ taxonomy.genus }}"
+  species: "{{ taxonomy.species }}"
+{% if taxonomy.subspecies %}
+  subspecies:
+{% for sub in taxonomy.subspecies %}
+    - name: "{{ sub.name }}"
+      scientific: "{{ sub.scientific }}"
+{% if sub.range %}      range: "{{ sub.range }}"{% endif %}
+{% endfor %}
+{% endif %}
+
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+{% if morphology.body_mass_g %}  body_mass_g: {{ morphology.body_mass_g }}{% endif %}
+{% if morphology.body_length_cm %}  body_length_cm: {{ morphology.body_length_cm }}{% endif %}
+{% if morphology.wingspan_cm %}  wingspan_cm: {{ morphology.wingspan_cm }}{% endif %}
+{% if morphology.bill_length_mm %}  bill_length_mm: {{ morphology.bill_length_mm }}{% endif %}
+{% if morphology.tarsus_length_mm %}  tarsus_length_mm: {{ morphology.tarsus_length_mm }}{% endif %}
+{% if morphology.wing_length_mm %}  wing_length_mm: {{ morphology.wing_length_mm }}{% endif %}
+{% if morphology.tail_length_mm %}  tail_length_mm: {{ morphology.tail_length_mm }}{% endif %}
+
+# === DISTRIBUTION ===
+distribution:
+  breeding_range: "{{ distribution.breeding_range }}"
+  non_breeding_range: "{{ distribution.non_breeding_range }}"
+  countries:
+{% for c in distribution.countries %}
+    - "{{ c }}"
+{% endfor %}
+  biogeographic_realms:
+{% for r in distribution.biogeographic_realms %}
+    - "{{ r }}"
+{% endfor %}
+  endemic: {{ distribution.endemic | lower }}
+  island_endemic: {{ distribution.island_endemic | lower }}
+
+# === HABITAT (BIRDBASE + BirdFYI) ===
+habitat:
+  primary: "{{ habitat.primary }}"
+{% if habitat.secondary %}
+  secondary:
+{% for h in habitat.secondary %}
+    - "{{ h }}"
+{% endfor %}
+{% endif %}
+  habitat_breadth: {{ habitat.habitat_breadth }}
+  elevational_min_m: {{ habitat.elevational_min_m }}
+  elevational_max_m: {{ habitat.elevational_max_m }}
+{% if habitat.habitat_types %}
+  habitat_types:
+{% for h in habitat.habitat_types %}
+    - "{{ h }}"
+{% endfor %}
+{% endif %}
+{% if habitat.microhabitat %}  microhabitat: "{{ habitat.microhabitat }}"{% endif %}
+
+# === DIET (BIRDBASE + AVONICHE) ===
+diet:
+  primary: "{{ diet.primary }}"
+  diet_breadth: {{ diet.diet_breadth }}
+  categories:
+    invertebrates: {{ diet.categories.invertebrates }}
+    seeds: {{ diet.categories.seeds }}
+    fruit: {{ diet.categories.fruit }}
+    nectar: {{ diet.categories.nectar }}
+    vertebrates: {{ diet.categories.vertebrates }}
+    fish: {{ diet.categories.fish }}
+    carrion: {{ diet.categories.carrion }}
+    plant_material: {{ diet.categories.plant_material }}
+  foraging_niches:
+{% for niche, value in diet.foraging_niches.items() %}
+    {{ niche }}: {{ value }}
+{% endfor %}
+{% if diet.diet_sources %}
+  diet_sources:
+{% for s in diet.diet_sources %}
+    - "{{ s }}"
+{% endfor %}
+{% endif %}
+
+# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
+behavior:
+  sociality: "{{ behavior.sociality }}"
+  flock_size_typical: "{{ behavior.flock_size_typical }}"
+{% if behavior.flock_size_max %}  flock_size_max: {{ behavior.flock_size_max }}{% endif %}
+  territorial: {{ behavior.territorial | lower }}
+  migration_status: "{{ behavior.migration_status }}"
+  movement_type: "{{ behavior.movement_type }}"
+  activity_pattern: "{{ behavior.activity_pattern }}"
+{% if behavior.vocalizations.song or behavior.vocalizations.calls %}
+  vocalizations:
+{% if behavior.vocalizations.song %}    song: "{{ behavior.vocalizations.song }}"{% endif %}
+{% if behavior.vocalizations.calls %}
+    calls:
+{% for c in behavior.vocalizations.calls %}
+      - "{{ c }}"
+{% endfor %}
+{% endif %}
+{% endif %}
+{% if behavior.xeno_canto_ids %}
+  xeno_canto_ids:
+{% for x in behavior.xeno_canto_ids %}
+    - "{{ x }}"
+{% endfor %}
+{% endif %}
+
+# === REPRODUCTION (BIRDBASE) ===
+reproduction:
+{% if reproduction.clutch_size_mean %}  clutch_size_mean: {{ reproduction.clutch_size_mean }}{% endif %}
+{% if reproduction.clutch_size_min %}  clutch_size_min: {{ reproduction.clutch_size_min }}{% endif %}
+{% if reproduction.clutch_size_max %}  clutch_size_max: {{ reproduction.clutch_size_max }}{% endif %}
+{% if reproduction.egg_length_mm %}  egg_length_mm: {{ reproduction.egg_length_mm }}{% endif %}
+{% if reproduction.egg_width_mm %}  egg_width_mm: {{ reproduction.egg_width_mm }}{% endif %}
+{% if reproduction.incubation_days %}  incubation_days: {{ reproduction.incubation_days }}{% endif %}
+{% if reproduction.fledging_days %}  fledging_days: {{ reproduction.fledging_days }}{% endif %}
+{% if reproduction.broods_per_year %}  broods_per_year: {{ reproduction.broods_per_year }}{% endif %}
+{% if reproduction.nest_type %}  nest_type: "{{ reproduction.nest_type }}"{% endif %}
+{% if reproduction.nest_placement %}  nest_placement: "{{ reproduction.nest_placement }}"{% endif %}
+{% if reproduction.nest_material %}
+  nest_material:
+{% for m in reproduction.nest_material %}
+    - "{{ m }}"
+{% endfor %}
+{% endif %}
+{% if reproduction.mating_system %}  mating_system: "{{ reproduction.mating_system }}"{% endif %}
+{% if reproduction.parental_care %}  parental_care: "{{ reproduction.parental_care }}"{% endif %}
+
+# === DEMOGRAPHY (BIRDBASE) ===
+demography:
+{% if demography.generation_length_years %}  generation_length_years: {{ demography.generation_length_years }}{% endif %}
+{% if demography.max_longevity_years %}  max_longevity_years: {{ demography.max_longevity_years }}{% endif %}
+{% if demography.annual_survival_adult %}  annual_survival_adult: {{ demography.annual_survival_adult }}{% endif %}
+{% if demography.annual_survival_juvenile %}  annual_survival_juvenile: {{ demography.annual_survival_juvenile }}{% endif %}
+{% if demography.population_trend %}  population_trend: "{{ demography.population_trend }}"{% endif %}
+{% if demography.population_size %}  population_size: "{{ demography.population_size }}"{% endif %}
+{% if demography.density_individuals_per_km2 %}  density_individuals_per_km2: {{ demography.density_individuals_per_km2 }}{% endif %}
+
+# === CONSERVATION ===
+conservation:
+  iucn_status: "{{ conservation.iucn_status }}"
+{% if conservation.iucn_criteria %}  iucn_criteria: "{{ conservation.iucn_criteria }}"{% endif %}
+  cites_appendix: "{{ conservation.cites_appendix }}"
+{% if conservation.threats %}
+  threats:
+{% for t in conservation.threats %}
+    - "{{ t }}"
+{% endfor %}
+{% endif %}
+{% if conservation.conservation_actions %}
+  conservation_actions:
+{% for a in conservation.conservation_actions %}
+    - "{{ a }}"
+{% endfor %}
+{% endif %}
+
+# === VETERINARY & CARE (Manual curation) ===
+veterinary:
+{% if veterinary.common_diseases %}
+  common_diseases:
+{% for d in veterinary.common_diseases %}
+    - "{{ d }}"
+{% endfor %}
+{% endif %}
+{% if veterinary.vaccination_schedule %}
+  vaccination_schedule:
+{% for v in veterinary.vaccination_schedule %}
+    - "{{ v }}"
+{% endfor %}
+{% endif %}
+{% if veterinary.deworming_frequency_months %}  deworming_frequency_months: {{ veterinary.deworming_frequency_months }}{% endif %}
+{% if veterinary.health_check_frequency_months %}  health_check_frequency_months: {{ veterinary.health_check_frequency_months }}{% endif %}
+{% if veterinary.zoonotic_risks %}
+  zoonotic_risks:
+{% for z in veterinary.zoonotic_risks %}
+    - "{{ z }}"
+{% endfor %}
+{% endif %}
+{% if veterinary.emergency_signs %}
+  emergency_signs:
+{% for e in veterinary.emergency_signs %}
+    - "{{ e }}"
+{% endfor %}
+{% endif %}
+{% if veterinary.vet_specialist_type %}  vet_specialist_type: "{{ veterinary.vet_specialist_type }}"{% endif %}
+
+# === ENRICHMENT & PLAY (Manual curation) ===
+enrichment:
+{% if enrichment.foraging_toys %}
+  foraging_toys:
+{% for t in enrichment.foraging_toys %}
+    - "{{ t }}"
+{% endfor %}
+{% endif %}
+{% if enrichment.social_enrichment %}  social_enrichment: "{{ enrichment.social_enrichment }}"{% endif %}
+{% if enrichment.cognitive_toys %}
+  cognitive_toys:
+{% for t in enrichment.cognitive_toys %}
+    - "{{ t }}"
+{% endfor %}
+{% endif %}
+{% if enrichment.bathing %}  bathing: "{{ enrichment.bathing }}"{% endif %}
+{% if enrichment.training %}
+  training:
+    target_training: {{ enrichment.training.target_training | lower }}
+    recall_training: {{ enrichment.training.recall_training | lower }}
+{% if enrichment.training.harness_training %}    harness_training: "{{ enrichment.training.harness_training }}"{% endif %}
+{% endif %}
+{% if enrichment.play_behaviors %}
+  play_behaviors:
+{% for p in enrichment.play_behaviors %}
+    - "{{ p }}"
+{% endfor %}
+{% endif %}
+{% if enrichment.environmental_enrichment %}
+  environmental_enrichment:
+{% for e in enrichment.environmental_enrichment %}
+    - "{{ e }}"
+{% endfor %}
+{% endif %}
+
+# === SOURCES & METADATA ===
+sources:
+{% for s in sources %}
+  - "{{ s }}"
+{% endfor %}
+last_updated: "{{ last_updated }}"
+data_quality: "{{ data_quality }}"
+---
+
+# {{ names.scientific }} ({{ names.fa }})
+
+## Overview
+{{ overview }}
+
+## Identification
+{{ identification }}
+
+## Habitat & Distribution
+{{ habitat_distribution }}
+
+## Diet & Foraging
+{{ diet_foraging }}
+
+## Behavior & Ecology
+{{ behavior_ecology }}
+
+## Breeding
+{{ breeding }}
+
+## Conservation
+{{ conservation }}
+
+## Veterinary Care
+{{ veterinary_care }}
+
+## Enrichment & Training
+{{ enrichment_training }}

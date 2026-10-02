@@ -1,0 +1,128 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://openbird.org/schemas/foraging-niches.schema.json",
+  "title": "AVONICHE Foraging Niches",
+  "description": "32 foraging niches = 9 dietary categories × foraging strategies. Proportional usage (0-1) summing to 1 per species.",
+  "type": "object",
+  "required": [
+    "dietary_niches",
+    "foraging_niches",
+    "taxonomy_version"
+  ],
+  "properties": {
+    "taxonomy_version": {
+      "type": "string",
+      "enum": ["AviList_2025", "BirdLife_2020", "eBird_2021", "BirdTree_2012"],
+      "description": "Taxonomy treatment used"
+    },
+    "dietary_niches": {
+      "type": "object",
+      "description": "9 major dietary niches (proportional 0-1, sum=1)",
+      "required": [
+        "plants_aquatic",
+        "plants_terrestrial",
+        "nectar",
+        "seeds",
+        "fruit",
+        "invertebrates",
+        "aquatic_prey",
+        "vertebrates",
+        "carrion"
+      ],
+      "properties": {
+        "plants_aquatic": { "type": "number", "minimum": 0, "maximum": 1 },
+        "plants_terrestrial": { "type": "number", "minimum": 0, "maximum": 1 },
+        "nectar": { "type": "number", "minimum": 0, "maximum": 1 },
+        "seeds": { "type": "number", "minimum": 0, "maximum": 1 },
+        "fruit": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_prey": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates": { "type": "number", "minimum": 0, "maximum": 1 },
+        "carrion": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "foraging_niches": {
+      "type": "object",
+      "description": "32 foraging niches (diet × foraging strategy, proportional 0-1, sum=1)",
+      "required": [
+        "plants_aquatic_ground",
+        "plants_aquatic_surface",
+        "plants_aquatic_dive",
+        "plants_elevated",
+        "plants_ground",
+        "nectar_aerial",
+        "nectar_glean",
+        "seeds_elevated",
+        "seeds_ground",
+        "fruit_aerial",
+        "fruit_glean",
+        "fruit_ground",
+        "invertebrates_aerial_screening",
+        "invertebrates_sally_to_air",
+        "invertebrates_sally_to_surface",
+        "invertebrates_sally_to_ground",
+        "invertebrates_vertical_substrate",
+        "invertebrates_glean_elevated",
+        "invertebrates_glean_ground",
+        "aquatic_predator_air",
+        "aquatic_predator_plunge",
+        "aquatic_predator_perch",
+        "aquatic_predator_ground",
+        "aquatic_predator_surface",
+        "aquatic_predator_dive",
+        "vertebrates_aerial_screening",
+        "vertebrates_air_to_surface",
+        "vertebrates_perch",
+        "vertebrates_glean_elevated",
+        "vertebrates_glean_ground",
+        "carrion_aquatic",
+        "carrion_ground"
+      ],
+      "properties": {
+        "plants_aquatic_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "plants_aquatic_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+        "plants_aquatic_dive": { "type": "number", "minimum": 0, "maximum": 1 },
+        "plants_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+        "plants_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "nectar_aerial": { "type": "number", "minimum": 0, "maximum": 1 },
+        "nectar_glean": { "type": "number", "minimum": 0, "maximum": 1 },
+        "seeds_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+        "seeds_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "fruit_aerial": { "type": "number", "minimum": 0, "maximum": 1 },
+        "fruit_glean": { "type": "number", "minimum": 0, "maximum": 1 },
+        "fruit_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_aerial_screening": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_sally_to_air": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_sally_to_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_sally_to_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_vertical_substrate": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_glean_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+        "invertebrates_glean_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_air": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_plunge": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_perch": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+        "aquatic_predator_dive": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates_aerial_screening": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates_air_to_surface": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates_perch": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates_glean_elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vertebrates_glean_ground": { "type": "number", "minimum": 0, "maximum": 1 },
+        "carrion_aquatic": { "type": "number", "minimum": 0, "maximum": 1 },
+        "carrion_ground": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "source": { "type": "string" },
+        "version": { "type": "string" },
+        "doi": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
