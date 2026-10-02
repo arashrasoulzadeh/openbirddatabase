@@ -1,0 +1,40 @@
+# Data downloads (large, regeneratable)
+_data/
+*.zip
+*.xlsx
+*.xls
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.tox/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MeiliSearch
+meili_data/
+
+# Docker
+docker-compose.override.yml
+
+# Temporary
+*.tmp
+*.temp
