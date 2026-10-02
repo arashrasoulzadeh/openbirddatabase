@@ -10,13 +10,10 @@
     "gbif_key",
     "names",
     "taxonomy",
-    "morphology",
     "distribution",
     "habitat",
     "diet",
     "behavior",
-    "reproduction",
-    "demography",
     "conservation",
     "veterinary",
     "enrichment",
@@ -27,13 +24,13 @@
   "properties": {
     "taxon_id": {
       "type": "string",
-      "pattern": "^BT[0-9]{8}$",
-      "description": "BirdNET taxon ID (BT + 8 digits)"
+      "pattern": "^BN[0-9]{5}$",
+      "description": "BirdNET taxon ID (BN + 5 digits)"
     },
     "ebird_code": {
       "type": "string",
-      "pattern": "^[a-z0-9]{6}$",
-      "description": "eBird 6-letter species code"
+      "pattern": "^[a-z0-9]{6,8}$",
+      "description": "eBird species code (6-8 characters)"
     },
     "gbif_key": {
       "type": "integer",
@@ -145,7 +142,7 @@
       "properties": {
         "primary": {
           "type": "string",
-          "enum": ["Carnivore", "Herbivore", "Omnivore", "Invertivore", "Frugivore", "Granivore", "Nectarivore", "Piscivore", "Scavenger"]
+          "enum": ["Carnivore", "Herbivore", "Omnivore", "Invertivore", "Frugivore", "Granivore", "Nectarivore", "Piscivore", "Scavenger", "Unknown"]
         },
         "diet_breadth": { "type": "integer", "minimum": 1, "maximum": 8 },
         "categories": {
@@ -214,18 +211,18 @@
       "properties": {
         "sociality": {
           "type": "string",
-          "enum": ["Solitary", "Pairs", "Pairs and family groups", "Small groups", "Large flocks", "Colonial", "Lekking"]
+          "enum": ["Solitary", "Pairs", "Pairs and family groups", "Small groups", "Large flocks", "Colonial", "Lekking", "Unknown"]
         },
         "flock_size_typical": { "type": "string" },
         "flock_size_max": { "type": "integer", "minimum": 1 },
         "territorial": { "type": "boolean" },
         "migration_status": {
           "type": "string",
-          "enum": ["Resident", "Partial migrant", "Full migrant", "Nomadic", "Altitudinal migrant"]
+          "enum": ["Resident", "Partial migrant", "Full migrant", "Nomadic", "Altitudinal migrant", "Unknown"]
         },
         "movement_type": {
           "type": "string",
-          "enum": ["Sedentary", "Migratory", "Nomadic", "Dispersive", "Altitudinal"]
+          "enum": ["Sedentary", "Migratory", "Nomadic", "Dispersive", "Altitudinal", "Unknown"]
         },
         "activity_pattern": {
           "type": "string",
@@ -297,7 +294,7 @@
         "iucn_criteria": { "type": "string" },
         "cites_appendix": {
           "type": "string",
-          "enum": ["I", "II", "III", "Not listed"]
+          "enum": ["I", "II", "III", "Not listed", ""]
         },
         "threats": {
           "type": "array",
