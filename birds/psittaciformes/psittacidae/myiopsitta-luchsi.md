@@ -4,7 +4,7 @@ taxon_id: "BN09304"
 ebird_code: "monpar2"
 gbif_key: 2479411
 avibase_id: "FDD9A634186F9DD3"
-iucn_status: "LC"
+iucn_status: "NT"
 taxon_order: 12823.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Myiopsitta"
   species: "luchsi"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 120.0
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["L"]
   endemic: false
   island_endemic: false
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Rocky"
   secondary: []
-  habitat_breadth: 1
-  elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  habitat_breadth: 2
+  elevational_min_m: 1300
+  elevational_max_m: 3000
+  habitat_types: ["Rocky", "Artificial"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
-  diet_breadth: 1
+  primary: "Herbivore"
+  diet_breadth: 3
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 0.01
+    seeds: 5.0
+    fruit: 2.0
+    nectar: 0.01
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 3.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -92,8 +94,8 @@ behavior:
   sociality: "Unknown"
   flock_size_typical: ""
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
+  migration_status: "Resident"
+  movement_type: "Sedentary"
   activity_pattern: "Diurnal"
   vocalizations:
     song: ""
@@ -101,12 +103,16 @@ behavior:
   xeno_canto_ids: []
 
 # === REPRODUCTION (BIRDBASE) ===
+reproduction:
+  nest_type: "CR"
+  nest_placement: "Rock"
+  nest_material: []
 
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "NT"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +136,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Myiopsitta luchsi (nan)
@@ -156,7 +162,7 @@ Myiopsitta luchsi is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'NT', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

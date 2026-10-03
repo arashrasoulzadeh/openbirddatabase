@@ -4,7 +4,7 @@ taxon_id: "BN06307"
 ebird_code: "slbvul1"
 gbif_key: 4850076
 avibase_id: "11324DC80E8BBB9F"
-iucn_status: "LC"
+iucn_status: "CR"
 taxon_order: 7940.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Gyps"
   species: "tenuirostris"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 5600.0
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["IP"]
   endemic: false
   island_endemic: false
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Savanna"
   secondary: []
-  habitat_breadth: 1
-  elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  habitat_breadth: 5
+  elevational_min_m: 200
+  elevational_max_m: 1500
+  habitat_types: ["Forest", "Shrubland", "Savanna", "Grassland", "Artificial"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: "Scavenger"
   diet_breadth: 1
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 0.0
+    seeds: 0.0
+    fruit: 0.0
+    nectar: 0.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 10.0
+    plant_material: 0.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -92,8 +94,8 @@ behavior:
   sociality: "Unknown"
   flock_size_typical: ""
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
+  migration_status: "Altitudinal migrant"
+  movement_type: "Altitudinal"
   activity_pattern: "Diurnal"
   vocalizations:
     song: ""
@@ -101,12 +103,17 @@ behavior:
   xeno_canto_ids: []
 
 # === REPRODUCTION (BIRDBASE) ===
+reproduction:
+  clutch_size_mean: 1.0
+  clutch_size_min: 1
+  clutch_size_max: 1
+  nest_material: []
 
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "CR"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +137,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Gyps tenuirostris (کرکس نوکباریک)
@@ -156,7 +163,7 @@ Gyps tenuirostris is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'CR', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

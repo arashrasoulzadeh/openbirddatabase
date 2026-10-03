@@ -4,7 +4,7 @@ taxon_id: "BN03416"
 ebird_code: "whtsta1"
 gbif_key: 2477041
 avibase_id: "2954B8747EB9639A"
-iucn_status: "LC"
+iucn_status: "NT"
 taxon_order: 4646.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Coeligena"
   species: "phalerata"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 6.1
 # === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
+  breeding_range: "Range size: 1.0"
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["L"]
   endemic: false
   island_endemic: false
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Forest"
   secondary: []
-  habitat_breadth: 1
-  elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  habitat_breadth: 2
+  elevational_min_m: 1400
+  elevational_max_m: 3700
+  habitat_types: ["Forest", "Shrubland"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
-  diet_breadth: 1
+  primary: "Nectar"
+  diet_breadth: 2
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 2.0
+    seeds: 0.0
+    fruit: 0.0
+    nectar: 8.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 0.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -105,8 +107,8 @@ behavior:
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "NT"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +132,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Coeligena phalerata (اخترپیشانی دمسفید)
@@ -156,7 +158,7 @@ Coeligena phalerata is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'NT', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

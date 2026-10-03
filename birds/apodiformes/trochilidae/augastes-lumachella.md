@@ -4,7 +4,7 @@ taxon_id: "BN01501"
 ebird_code: "hoovis2"
 gbif_key: 2476276
 avibase_id: "DFFC8C88E56E1670"
-iucn_status: "LC"
+iucn_status: "NT"
 taxon_order: 4352.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Augastes"
   species: "lumachella"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 4.4
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["L"]
   endemic: false
   island_endemic: false
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Shrub"
   secondary: []
-  habitat_breadth: 1
-  elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  habitat_breadth: 2
+  elevational_min_m: 900
+  elevational_max_m: 2000
+  habitat_types: ["Shrubland", "Grassland"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
-  diet_breadth: 1
+  primary: "Nectar"
+  diet_breadth: 2
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 2.0
+    seeds: 0.0
+    fruit: 0.0
+    nectar: 8.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 0.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -92,8 +94,8 @@ behavior:
   sociality: "Unknown"
   flock_size_typical: ""
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
+  migration_status: "Resident"
+  movement_type: "Sedentary"
   activity_pattern: "Diurnal"
   vocalizations:
     song: ""
@@ -101,12 +103,22 @@ behavior:
   xeno_canto_ids: []
 
 # === REPRODUCTION (BIRDBASE) ===
+reproduction:
+  clutch_size_mean: 2.0
+  clutch_size_min: 2
+  clutch_size_max: 2
+  incubation_days: 15
+  fledging_days: 20
+  nest_type: "CP"
+  nest_placement: "Shrub, Tree"
+  nest_material: []
+  parental_care: "Female only"
 
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "NT"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +142,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Augastes lumachella (آفتابگیر کلاهدار)
@@ -156,7 +168,7 @@ Augastes lumachella is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'NT', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

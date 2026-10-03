@@ -20,38 +20,40 @@ taxonomy:
   genus: "Timeliopsis"
   species: "griseigula"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 35.68
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["A"]
   endemic: false
-  island_endemic: false
+  island_endemic: true
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Forest"
   secondary: []
-  habitat_breadth: 1
+  habitat_breadth: 2
   elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  elevational_max_m: 800
+  habitat_types: ["Forest", "Riverine"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
-  diet_breadth: 1
+  primary: "Omnivore"
+  diet_breadth: 4
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 4.0
+    seeds: 0.0
+    fruit: 2.0
+    nectar: 3.0
+    vertebrates: 0.01
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 1.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -89,11 +91,11 @@ diet_sources: []
 
 # === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
+  sociality: "Small groups"
   flock_size_typical: ""
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
+  migration_status: "Resident"
+  movement_type: "Sedentary"
   activity_pattern: "Diurnal"
   vocalizations:
     song: ""
@@ -106,7 +108,7 @@ behavior:
 # === CONSERVATION ===
 conservation:
   iucn_status: "LC"
-  cites_appendix: ""
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +132,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Timeliopsis griseigula (نوکصاف گندمی)
@@ -156,7 +158,7 @@ Timeliopsis griseigula is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'LC', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

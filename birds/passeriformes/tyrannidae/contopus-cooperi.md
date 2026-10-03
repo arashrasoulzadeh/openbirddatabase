@@ -4,7 +4,7 @@ taxon_id: "BN03612"
 ebird_code: "olsfly"
 gbif_key: 5229743
 avibase_id: "951C150C10C1B0BA"
-iucn_status: "LC"
+iucn_status: "NT"
 taxon_order: 16890.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Contopus"
   species: "cooperi"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 33.833333333333336
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["LN"]
   endemic: false
   island_endemic: false
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Forest"
   secondary: []
-  habitat_breadth: 1
-  elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  habitat_breadth: 2
+  elevational_min_m: 600
+  elevational_max_m: 2800
+  habitat_types: ["Forest", "Shrubland"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: "Invertebrate"
   diet_breadth: 1
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 10.0
+    seeds: 0.0
+    fruit: 0.0
+    nectar: 0.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 0.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -92,8 +94,8 @@ behavior:
   sociality: "Unknown"
   flock_size_typical: ""
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
+  migration_status: "Full migrant"
+  movement_type: "Migratory"
   activity_pattern: "Diurnal"
   vocalizations:
     song: ""
@@ -101,12 +103,21 @@ behavior:
   xeno_canto_ids: []
 
 # === REPRODUCTION (BIRDBASE) ===
+reproduction:
+  clutch_size_mean: 3.5
+  clutch_size_min: 2
+  clutch_size_max: 5
+  incubation_days: 14
+  fledging_days: 15
+  nest_type: "CP"
+  nest_placement: "Tree"
+  nest_material: []
 
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "NT"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +141,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Contopus cooperi (مگسگیر پهلوزیتونی)
@@ -156,7 +167,7 @@ Contopus cooperi is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'NT', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

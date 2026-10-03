@@ -148,18 +148,18 @@ async def search_species(request: SearchRequest):
     if meili_client:
         try:
             index = meili_client.index(MEILI_INDEX_NAME)
-            search_params = {
-                "q": request.q,
+            opt_params = {
                 "limit": request.limit,
                 "offset": request.offset,
                 "attributesToRetrieve": request.attributes or ["*"]
             }
             if request.filters:
-                search_params["filter"] = request.filters
-            result = index.search(**search_params)
+                opt_params["filter"] = request.filters
+            result = index.search(request.q, opt_params)
             return result
         except Exception as e:
-            raise HTTPException(status_code=500, detail=f"MeiliSearch error: {e}")
+            # Fallback to JSON search on any MeiliSearch error
+            return await fallback_search(request)
     else:
         # Fallback to simple JSON search
         return await fallback_search(request)

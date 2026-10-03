@@ -4,7 +4,7 @@ taxon_id: "BN10578"
 ebird_code: "pogdov1"
 gbif_key: 8899306
 avibase_id: "DD2985FA9B47F239"
-iucn_status: "LC"
+iucn_status: "CR"
 taxon_order: 2203.0
 
 # === NAMES (English keys, Persian values) ===
@@ -20,38 +20,40 @@ taxonomy:
   genus: "Pampusana"
   species: "erythroptera"
 
-
+# === MORPHOLOGY (BIRDBASE) ===
+morphology:
+  body_mass_g: 113.5
 # === DISTRIBUTION ===
 distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["O"]
   endemic: false
-  island_endemic: false
+  island_endemic: true
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Forest"
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
-  elevational_max_m: 0
-  habitat_types: []
+  elevational_max_m: 80
+  habitat_types: ["Forest"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
-  diet_breadth: 1
+  primary: "Omnivore"
+  diet_breadth: 4
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 4.0
+    seeds: 3.0
+    fruit: 1.0
+    nectar: 0.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 2.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -105,8 +107,8 @@ behavior:
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "CR"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +132,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Pampusana erythroptera (کبوتر زمینی پلینزیا)
@@ -156,7 +158,7 @@ Pampusana erythroptera is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'CR', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

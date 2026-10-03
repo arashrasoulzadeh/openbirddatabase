@@ -4,7 +4,7 @@ taxon_id: "BN02217"
 ebird_code: "spgpig1"
 gbif_key: 5788469
 avibase_id: "6E8B492EF727540B"
-iucn_status: "LC"
+iucn_status: "EX"
 taxon_order: 2426.0
 
 # === NAMES (English keys, Persian values) ===
@@ -26,32 +26,32 @@ distribution:
   breeding_range: ""
   non_breeding_range: ""
   countries: []
-  biogeographic_realms: []
+  biogeographic_realms: ["O"]
   endemic: false
-  island_endemic: false
+  island_endemic: true
 
 # === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: "Forest"
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: []
+  habitat_types: ["Forest"]
 
 # === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: "Fruit"
   diet_breadth: 1
   categories:
-    invertebrates: 0
-    seeds: 0
-    fruit: 0
-    nectar: 0
-    vertebrates: 0
-    fish: 0
-    carrion: 0
-    plant_material: 0
+    invertebrates: 0.0
+    seeds: 0.0
+    fruit: 10.0
+    nectar: 0.0
+    vertebrates: 0.0
+    fish: 0.0
+    carrion: 0.0
+    plant_material: 0.0
   foraging_niches:
     plants_aquatic_ground: 0.0
     plants_aquatic_surface: 0.0
@@ -105,8 +105,8 @@ behavior:
 
 # === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: ""
+  iucn_status: "EX"
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -130,9 +130,9 @@ enrichment:
   environmental_enrichment: []
 
 # === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
+sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
 last_updated: "2026-10-02"
-data_quality: "Low"
+data_quality: "High"
 ---
 
 # Caloenas maculata (کبوتر سبز خالدار)
@@ -156,7 +156,7 @@ Caloenas maculata is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'EX', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

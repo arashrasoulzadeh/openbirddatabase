@@ -106,7 +106,7 @@ behavior:
 # === CONSERVATION ===
 conservation:
   iucn_status: "LC"
-  cites_appendix: ""
+  cites_appendix: "Not listed"
   threats: []
   conservation_actions: []
 
@@ -156,7 +156,7 @@ Chalcothraupis ruficervix is a species of bird...
 
 
 ## Conservation
-
+{'iucn_status': 'LC', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 
