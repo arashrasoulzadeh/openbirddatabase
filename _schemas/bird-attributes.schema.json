@@ -40,11 +40,11 @@
       "type": "string",
       "description": "Avibase ID"
     },
-    "iucn_status": {
-      "type": "string",
-      "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"],
-      "description": "IUCN Red List category"
-    },
+"iucn_status": {
+          "type": "string",
+          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE", "CR (PEW)", "CR (PE)"],
+          "description": "IUCN Red List category"
+        },
     "taxon_order": {
       "type": "number",
       "description": "Taxonomic sort order"
@@ -141,9 +141,9 @@
       "properties": {
         "primary": {
           "type": "string",
-          "enum": ["Carnivore", "Herbivore", "Omnivore", "Invertivore", "Frugivore", "Granivore", "Nectarivore", "Piscivore", "Scavenger", "Unknown"]
+          "enum": ["Carnivore", "Herbivore", "Omnivore", "Invertivore", "Frugivore", "Granivore", "Nectarivore", "Piscivore", "Scavenger", "Unknown", "Fish", "Invertebrate", "Insectivore", "Vertebrate", "No Information", "Fruit", "Seed", "Plant", "Nectar", "Ovivore", "Beeswax"]
         },
-        "diet_breadth": { "type": "integer", "minimum": 1, "maximum": 8 },
+        "diet_breadth": { "type": "integer", "minimum": 0, "maximum": 8 },
         "categories": {
           "type": "object",
           "required": ["invertebrates", "seeds", "fruit", "nectar", "vertebrates", "fish", "carrion", "plant_material"],
@@ -225,7 +225,7 @@
         },
         "activity_pattern": {
           "type": "string",
-          "enum": ["Diurnal", "Nocturnal", "Crepuscular", "Cathemeral"]
+          "enum": ["Diurnal", "Nocturnal", "Crepuscular", "Cathemeral", "Flightless"]
         },
         "vocalizations": {
           "type": "object",
@@ -288,7 +288,7 @@
       "properties": {
         "iucn_status": {
           "type": "string",
-          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"]
+          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE", "CR (PEW)", "CR (PE)"]
         },
         "iucn_criteria": { "type": "string" },
         "cites_appendix": {
