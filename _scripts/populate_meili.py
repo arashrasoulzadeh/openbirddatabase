@@ -6,12 +6,13 @@ import meilisearch
 import os
 
 MEILI_HOST = os.getenv("MEILI_HOST", "http://localhost:7700")
+MEILI_MASTER_KEY = os.getenv("MEILI_MASTER_KEY", "80bohYKVODFF_RwmZej22I8nIcseR6NOIH4lQW-Vt3o")
 MEILI_INDEX_NAME = "birds"
 INDEX_FILE = "_index/species-index.json"
 
 def main():
     print(f"Connecting to MeiliSearch at {MEILI_HOST}...")
-    client = meilisearch.Client(MEILI_HOST)
+    client = meilisearch.Client(MEILI_HOST, MEILI_MASTER_KEY)
     
     # Load index
     print(f"Loading index from {INDEX_FILE}...")
@@ -26,8 +27,17 @@ def main():
         index = client.get_index(MEILI_INDEX_NAME)
         print("Index exists, updating...")
     except:
-        index = client.create_index(MEILI_INDEX_NAME, {"primaryKey": "id"})
+        task = client.create_index(MEILI_INDEX_NAME, {"primaryKey": "id"})
+        print(f"Index creation task: {task.task_uid}")
+        # Wait for task to complete
+        import time
+        while True:
+            task_info = client.get_task(task.task_uid)
+            if task_info.status in ['succeeded', 'failed']:
+                break
+            time.sleep(0.5)
         print("Index created")
+        index = client.get_index(MEILI_INDEX_NAME)
     
     # Configure index settings
     print("Configuring index settings...")
