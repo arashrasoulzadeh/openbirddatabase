@@ -7,7 +7,6 @@
   "required": [
     "taxon_id",
     "ebird_code",
-    "gbif_key",
     "names",
     "taxonomy",
     "distribution",
@@ -29,11 +28,11 @@
     },
     "ebird_code": {
       "type": "string",
-      "pattern": "^[a-z0-9]{6,8}$",
-      "description": "eBird species code (6-8 characters)"
+      "pattern": "^[a-z0-9]{2,8}$",
+      "description": "eBird species code (2-8 characters)"
     },
     "gbif_key": {
-      "type": "integer",
+      "type": ["integer", "null"],
       "minimum": 1,
       "description": "GBIF taxon key"
     },

@@ -2,8 +2,8 @@
 # === CORE IDENTIFIERS ===
 taxon_id: "{{ taxon_id }}"
 ebird_code: "{{ ebird_code }}"
-gbif_key: {{ gbif_key }}
-{% if avibase_id %}avibase_id: "{{ avibase_id }}"
+{% if gbif_key is not none and gbif_key != 'None' and gbif_key != '' %}gbif_key: {{ gbif_key }}
+{% endif %}{% if avibase_id %}avibase_id: "{{ avibase_id }}"
 {% endif %}{% if iucn_status %}iucn_status: "{{ iucn_status }}"
 {% endif %}taxon_order: {{ taxon_order }}
 
