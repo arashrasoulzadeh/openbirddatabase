@@ -1,0 +1,26 @@
+{
+  "common_diseases": [
+    "Aspergillosis",
+    "Psittacine Beak and Feather Disease"
+  ],
+  "vaccination_schedule": [
+    "Polyomavirus at 30 days",
+    "Psittacine Herpesvirus annually"
+  ],
+  "deworming_frequency_months": 6,
+  "health_check_frequency_months": 12,
+  "zoonotic_risks": [
+    "Chlamydia psittaci",
+    "Salmonella"
+  ],
+  "emergency_signs": [
+    "Labored breathing",
+    "Anorexia >24h",
+    "Severe diarrhea"
+  ],
+  "vet_specialist_type": "Avian veterinarian (ABVP certified preferred)",
+  "source": "Avian Medicine and Surgery, 3rd Ed. (2023)",
+  "contributor": "Dr. Jane Smith, DVM, Dipl. ABVP (Avian)",
+  "date_added": "2026-10-05",
+  "verified": true
+}

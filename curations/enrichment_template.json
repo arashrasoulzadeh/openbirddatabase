@@ -1,0 +1,33 @@
+{
+  "foraging_toys": [
+    "Puzzle feeders",
+    "Scatter feeding trays",
+    "Browse branches"
+  ],
+  "social_enrichment": "Conspecifics required; mirrors acceptable for single birds",
+  "cognitive_toys": [
+    "Color discrimination puzzles",
+    "Tool use tasks",
+    "String pulling"
+  ],
+  "bathing": "Daily misting or shallow water dish",
+  "training": {
+    "target_training": true,
+    "recall_training": true,
+    "harness_training": "Possible with positive reinforcement"
+  },
+  "play_behaviors": [
+    "Object manipulation",
+    "Swinging",
+    "Social allopreening"
+  ],
+  "environmental_enrichment": [
+    "Variable perch diameters",
+    "UV lighting",
+    "Seasonal diet variation"
+  ],
+  "source": "AZA Parrot Husbandry Manual (2022)",
+  "contributor": "AZA Parrot TAG",
+  "date_added": "2026-10-05",
+  "verified": true
+}
