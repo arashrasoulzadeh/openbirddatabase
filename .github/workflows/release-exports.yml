@@ -80,14 +80,6 @@ jobs:
           retention-days: 30
           compression-level: 6
 
-      - name: Upload exports as workflow artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: bird-exports-${{ github.sha }}
-          path: exports/*
-          retention-days: 30
-          compression-level: 6
-
   create-sql-dump:
     name: Create SQL Dump
     runs-on: ubuntu-latest
@@ -137,27 +129,7 @@ jobs:
 
       - name: Create YAML export
         run: |
-          python3 << 'EOF'
-import pandas as pd
-import yaml
-import subprocess
-
-# Read compact CSV (has all essential fields)
-df = pd.read_csv('exports/all_birds_compact.csv')
-
-# Convert to list of dicts
-records = df.to_dict('records')
-
-# Write YAML
-with open('exports/all_birds.yaml', 'w', encoding='utf-8') as f:
-    yaml.dump(records, f, allow_unicode=True, sort_keys=False, indent=2)
-
-# Compress
-subprocess.run(['gzip', '-k', 'exports/all_birds.yaml'], check=True)
-
-print(f'YAML: {subprocess.run(["du", "-h", "exports/all_birds.yaml"], capture_output=True, text=True).stdout.strip()}')
-print(f'YAML.gz: {subprocess.run(["du", "-h", "exports/all_birds.yaml.gz"], capture_output=True, text=True).stdout.strip()}')
-EOF
+          python _scripts/create_yaml_export.py
         working-directory: ${{ github.workspace }}
 
       - name: Upload YAML to release
