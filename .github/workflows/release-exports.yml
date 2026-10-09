@@ -23,6 +23,7 @@ jobs:
       commit_sha: ${{ steps.vars.outputs.commit_sha }}
       commit_short: ${{ steps.vars.outputs.commit_short }}
       commit_date: ${{ steps.vars.outputs.commit_date }}
+      release_tag: ${{ steps.vars.outputs.release_tag }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,7 +37,9 @@ jobs:
         run: |
           echo "commit_sha=${GITHUB_SHA}" >> $GITHUB_OUTPUT
           echo "commit_short=$(echo ${GITHUB_SHA} | cut -c1-8)" >> $GITHUB_OUTPUT
-          echo "commit_date=$(date -u +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+          # Format: 2025/5/23-10:34-commithash
+          echo "commit_date=$(date -u +'%Y/%-m/%-d-%H:%M')" >> $GITHUB_OUTPUT
+          echo "release_tag=$(date -u +'%Y/%-m/%-d-%H:%M')-${GITHUB_SHA::8}" >> $GITHUB_OUTPUT
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -118,7 +121,7 @@ jobs:
       - name: Upload exports as workflow artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: bird-exports-${{ steps.vars.outputs.commit_short }}-${{ steps.vars.outputs.commit_date }}
+          name: bird-exports-${{ steps.vars.outputs.release_tag }}
           path: exports/*
           retention-days: 30
           compression-level: 6
@@ -127,8 +130,8 @@ jobs:
         if: github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: continuous-${{ steps.vars.outputs.commit_short }}
-          name: "Continuous Build ${{ steps.vars.outputs.commit_short }} (${{ steps.vars.outputs.commit_date }})"
+          tag_name: ${{ steps.vars.outputs.release_tag }}
+          name: "Build ${{ steps.vars.outputs.release_tag }}"
           body: |
             Automated build from commit ${{ github.sha }}
             
@@ -157,7 +160,7 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
+          name: bird-exports-${{ needs.generate-exports.outputs.release_tag }}
           path: exports/
 
       - name: Create SQL dump
@@ -170,7 +173,7 @@ jobs:
       - name: Upload SQL dump as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-sql-dump-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
+          name: bird-sql-dump-${{ needs.generate-exports.outputs.release_tag }}
           path: |
             exports/all_birds.sql
             exports/all_birds.sql.gz
@@ -180,7 +183,7 @@ jobs:
         if: github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: continuous-${{ needs.generate-exports.outputs.commit_short }}
+          tag_name: ${{ needs.generate-exports.outputs.release_tag }}
           files: |
             exports/all_birds.sql
             exports/all_birds.sql.gz
@@ -216,7 +219,7 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
+          name: bird-exports-${{ needs.generate-exports.outputs.release_tag }}
           path: exports/
 
       - name: Create YAML export
@@ -227,7 +230,7 @@ jobs:
       - name: Upload YAML as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-yaml-export-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
+          name: bird-yaml-export-${{ needs.generate-exports.outputs.release_tag }}
           path: |
             exports/all_birds.yaml
             exports/all_birds.yaml.gz
@@ -237,7 +240,7 @@ jobs:
         if: github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: continuous-${{ needs.generate-exports.outputs.commit_short }}
+          tag_name: ${{ needs.generate-exports.outputs.release_tag }}
           files: |
             exports/all_birds.yaml
             exports/all_birds.yaml.gz
