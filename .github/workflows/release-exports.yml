@@ -83,7 +83,7 @@ jobs:
       - name: Upload exports as workflow artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: bird-exports-${{ github.run_id }}
+          name: bird-exports-${{ github.sha }}
           path: exports/*
           retention-days: 30
           compression-level: 6
@@ -118,7 +118,7 @@ jobs:
       - name: Upload SQL dump as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-sql-dump-${{ github.run_id }}
+          name: bird-sql-dump-${{ github.sha }}
           path: |
             exports/all_birds.sql
             exports/all_birds.sql.gz
@@ -132,15 +132,15 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ needs.generate-exports.outputs.run_id }}
+          name: bird-exports-${{ github.sha }}
           path: exports/
 
       - name: Create YAML export
         run: |
-          python3 -c "
+          python3 << 'EOF'
 import pandas as pd
 import yaml
-import gzip
+import subprocess
 
 # Read compact CSV (has all essential fields)
 df = pd.read_csv('exports/all_birds_compact.csv')
@@ -153,12 +153,11 @@ with open('exports/all_birds.yaml', 'w', encoding='utf-8') as f:
     yaml.dump(records, f, allow_unicode=True, sort_keys=False, indent=2)
 
 # Compress
-import subprocess
 subprocess.run(['gzip', '-k', 'exports/all_birds.yaml'], check=True)
 
-print(f'YAML: {subprocess.run([\"du\", \"-h\", \"exports/all_birds.yaml\"], capture_output=True, text=True).stdout.strip()}')
-print(f'YAML.gz: {subprocess.run([\"du\", \"-h\", \"exports/all_birds.yaml.gz\"], capture_output=True, text=True).stdout.strip()}')
-"
+print(f'YAML: {subprocess.run(["du", "-h", "exports/all_birds.yaml"], capture_output=True, text=True).stdout.strip()}')
+print(f'YAML.gz: {subprocess.run(["du", "-h", "exports/all_birds.yaml.gz"], capture_output=True, text=True).stdout.strip()}')
+EOF
         working-directory: ${{ github.workspace }}
 
       - name: Upload YAML to release
@@ -173,7 +172,7 @@ print(f'YAML.gz: {subprocess.run([\"du\", \"-h\", \"exports/all_birds.yaml.gz\"]
       - name: Upload YAML as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-yaml-export-${{ github.run_id }}
+          name: bird-yaml-export-${{ github.sha }}
           path: |
             exports/all_birds.yaml
             exports/all_birds.yaml.gz
