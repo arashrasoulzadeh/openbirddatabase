@@ -41,6 +41,16 @@ jobs:
           python _scripts/export_unified.py
         working-directory: ${{ github.workspace }}
 
+      - name: Package translations
+        run: |
+          if [ -d "translations" ] && [ "$(find translations -name '*.md' | wc -l)" -gt 0 ]; then
+            tar -czf exports/translations.tar.gz translations/
+            echo "Translations packaged: $(du -h exports/translations.tar.gz | cut -f1)"
+          else
+            echo "No translation files found, skipping"
+            touch exports/translations.tar.gz
+          fi
+
       - name: Verify export files
         run: |
           ls -la exports/
@@ -57,6 +67,7 @@ jobs:
             exports/all_birds_compact.csv
             exports/all_birds.xlsx
             exports/all_birds.sqlite
+            exports/translations.tar.gz
           tag_name: ${{ github.event.release.tag_name }}
 
       - name: Upload exports as workflow artifacts
