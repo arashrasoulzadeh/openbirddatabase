@@ -1,0 +1,159 @@
+name: Release Exports
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Git tag to release (optional)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  generate-exports:
+    name: Generate Export Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive
+          lfs: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas openpyxl pyyaml tqdm
+
+      - name: Generate exports
+        run: |
+          python _scripts/export_unified.py
+        working-directory: ${{ github.workspace }}
+
+      - name: Verify export files
+        run: |
+          ls -la exports/
+          for f in exports/*; do
+            echo "File: $(basename $f), Size: $(du -h $f | cut -f1)"
+          done
+
+      - name: Upload exports as release assets
+        uses: softprops/action-gh-release@v2
+        if: github.event_name == 'release'
+        with:
+          files: |
+            exports/all_birds.csv
+            exports/all_birds_compact.csv
+            exports/all_birds.xlsx
+            exports/all_birds.sqlite
+          tag_name: ${{ github.event.release.tag_name }}
+
+      - name: Upload exports as workflow artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: bird-exports-${{ github.run_id }}
+          path: exports/*
+          retention-days: 30
+          compression-level: 6
+
+  create-sql-dump:
+    name: Create SQL Dump
+    runs-on: ubuntu-latest
+    needs: generate-exports
+    steps:
+      - name: Download exports artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: bird-exports-${{ needs.generate-exports.outputs.run_id }}
+          path: exports/
+
+      - name: Create SQL dump
+        run: |
+          sqlite3 exports/all_birds.sqlite .dump > exports/all_birds.sql
+          gzip -k exports/all_birds.sql
+          echo "SQL dump created: $(du -h exports/all_birds.sql | cut -f1)"
+          echo "Gzipped: $(du -h exports/all_birds.sql.gz | cut -f1)"
+
+      - name: Upload SQL dump to release
+        uses: softprops/action-gh-release@v2
+        if: github.event_name == 'release'
+        with:
+          files: |
+            exports/all_birds.sql
+            exports/all_birds.sql.gz
+          tag_name: ${{ github.event.release.tag_name }}
+
+      - name: Upload SQL dump as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bird-sql-dump-${{ github.run_id }}
+          path: |
+            exports/all_birds.sql
+            exports/all_birds.sql.gz
+          retention-days: 30
+
+  create-yaml-export:
+    name: Create YAML Export
+    runs-on: ubuntu-latest
+    needs: generate-exports
+    steps:
+      - name: Download exports artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: bird-exports-${{ needs.generate-exports.outputs.run_id }}
+          path: exports/
+
+      - name: Create YAML export
+        run: |
+          python3 -c "
+import pandas as pd
+import yaml
+import gzip
+
+# Read compact CSV (has all essential fields)
+df = pd.read_csv('exports/all_birds_compact.csv')
+
+# Convert to list of dicts
+records = df.to_dict('records')
+
+# Write YAML
+with open('exports/all_birds.yaml', 'w', encoding='utf-8') as f:
+    yaml.dump(records, f, allow_unicode=True, sort_keys=False, indent=2)
+
+# Compress
+import subprocess
+subprocess.run(['gzip', '-k', 'exports/all_birds.yaml'], check=True)
+
+print(f'YAML: {subprocess.run([\"du\", \"-h\", \"exports/all_birds.yaml\"], capture_output=True, text=True).stdout.strip()}')
+print(f'YAML.gz: {subprocess.run([\"du\", \"-h\", \"exports/all_birds.yaml.gz\"], capture_output=True, text=True).stdout.strip()}')
+"
+        working-directory: ${{ github.workspace }}
+
+      - name: Upload YAML to release
+        uses: softprops/action-gh-release@v2
+        if: github.event_name == 'release'
+        with:
+          files: |
+            exports/all_birds.yaml
+            exports/all_birds.yaml.gz
+          tag_name: ${{ github.event.release.tag_name }}
+
+      - name: Upload YAML as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bird-yaml-export-${{ github.run_id }}
+          path: |
+            exports/all_birds.yaml
+            exports/all_birds.yaml.gz
+          retention-days: 30

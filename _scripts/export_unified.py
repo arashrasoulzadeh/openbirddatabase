@@ -116,6 +116,7 @@ def create_exports():
     cursor.execute("CREATE INDEX IF NOT EXISTS idx_habitat ON birds(habitat_primary)")
     
     # Create view for easy querying
+    cursor.execute("DROP VIEW IF EXISTS bird_summary")
     cursor.execute("""
         CREATE VIEW bird_summary AS
         SELECT 
@@ -134,10 +135,6 @@ def create_exports():
         FROM birds
     """)
     
-    conn.commit()
-    conn.close()
-    print(f"SQLite saved: {sql_path}")
-    
     # Also export a compact CSV for quick loading
     compact_cols = [
         'taxon_id', 'ebird_code', 'gbif_key',
@@ -152,10 +149,27 @@ def create_exports():
     compact_path = EXPORT_DIR / "all_birds_compact.csv"
     compact_df.to_csv(compact_path, index=False, encoding='utf-8')
     print(f"Compact CSV saved: {compact_path}")
-    
+
+    # SQL dump (.sql file) - must be before conn.close()
+    sql_dump_path = EXPORT_DIR / "all_birds.sql"
+    with open(sql_dump_path, 'w', encoding='utf-8') as f:
+        for line in conn.iterdump():
+            f.write(f"{line}\n")
+    print(f"SQL dump saved: {sql_dump_path}")
+
+    # YAML export (compact)
+    yaml_path = EXPORT_DIR / "all_birds.yaml"
+    with open(yaml_path, 'w', encoding='utf-8') as f:
+        yaml.dump(compact_df.to_dict('records'), f, allow_unicode=True, sort_keys=False, indent=2)
+    print(f"YAML saved: {yaml_path}")
+
+    conn.commit()
+    conn.close()
+    print(f"SQLite saved: {sql_path}")
+
     print("\nExport complete!")
     print(f"Files created in {EXPORT_DIR}/:")
-    for f in EXPORT_DIR.glob("*"):
+    for f in sorted(EXPORT_DIR.glob("*")):
         print(f"  {f.name} ({f.stat().st_size / 1024 / 1024:.1f} MB)")
 
 if __name__ == "__main__":
