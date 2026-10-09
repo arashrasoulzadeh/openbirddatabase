@@ -1,6 +1,8 @@
 name: Release Exports
 
 on:
+  push:
+    branches: [main]
   release:
     types: [published]
   workflow_dispatch:
@@ -73,6 +75,14 @@ jobs:
       - name: Upload exports as workflow artifacts
         uses: actions/upload-artifact@v4
         with:
+          name: bird-exports-${{ github.sha }}
+          path: exports/*
+          retention-days: 30
+          compression-level: 6
+
+      - name: Upload exports as workflow artifacts
+        uses: actions/upload-artifact@v4
+        with:
           name: bird-exports-${{ github.run_id }}
           path: exports/*
           retention-days: 30
@@ -86,7 +96,7 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ needs.generate-exports.outputs.run_id }}
+          name: bird-exports-${{ github.sha }}
           path: exports/
 
       - name: Create SQL dump
