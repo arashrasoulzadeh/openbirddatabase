@@ -19,6 +19,10 @@ jobs:
   generate-exports:
     name: Generate Export Files
     runs-on: ubuntu-latest
+    outputs:
+      commit_sha: ${{ steps.vars.outputs.commit_sha }}
+      commit_short: ${{ steps.vars.outputs.commit_short }}
+      commit_date: ${{ steps.vars.outputs.commit_date }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,6 +30,13 @@ jobs:
           fetch-depth: 0
           submodules: recursive
           lfs: true
+
+      - name: Set commit variables
+        id: vars
+        run: |
+          echo "commit_sha=${GITHUB_SHA}" >> $GITHUB_OUTPUT
+          echo "commit_short=$(echo ${GITHUB_SHA} | cut -c1-8)" >> $GITHUB_OUTPUT
+          echo "commit_date=$(date -u +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -43,14 +54,25 @@ jobs:
           python _scripts/export_unified.py
         working-directory: ${{ github.workspace }}
 
-      - name: Package translations
+      - name: Package translations per language
         run: |
-          if [ -d "translations" ] && [ "$(find translations -name '*.md' | wc -l)" -gt 0 ]; then
-            tar -czf exports/translations.tar.gz translations/
-            echo "Translations packaged: $(du -h exports/translations.tar.gz | cut -f1)"
+          if [ -d "translations" ]; then
+            for lang_dir in translations/*/; do
+              lang=$(basename "$lang_dir")
+              count=$(find "$lang_dir" -name '*.md' | wc -l)
+              if [ "$count" -gt 0 ]; then
+                tar -czf "exports/translations-${lang}.tar.gz" "$lang_dir"
+                echo "Packaged $lang: $count files ($(du -h exports/translations-${lang}.tar.gz | cut -f1))"
+              else
+                echo "No files for $lang, skipping"
+              fi
+            done
+            # Also create combined
+            tar -czf exports/translations-all.tar.gz translations/
+            echo "Combined: $(du -h exports/translations-all.tar.gz | cut -f1)"
           else
-            echo "No translation files found, skipping"
-            touch exports/translations.tar.gz
+            echo "No translations directory"
+            touch exports/translations-all.tar.gz
           fi
 
       - name: Verify export files
@@ -60,7 +82,40 @@ jobs:
             echo "File: $(basename $f), Size: $(du -h $f | cut -f1)"
           done
 
-      - name: Upload exports as release assets
+      - name: Upload exports as workflow artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: bird-exports-${{ steps.vars.outputs.commit_short }}-${{ steps.vars.outputs.commit_date }}
+          path: exports/*
+          retention-days: 30
+          compression-level: 6
+
+      - name: Create/Update continuous release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: continuous-${{ steps.vars.outputs.commit_short }}
+          name: "Continuous Build ${{ steps.vars.outputs.commit_short }} (${{ steps.vars.outputs.commit_date }})"
+          body: |
+            Automated build from commit ${{ github.sha }}
+            
+            **Commit:** ${{ github.sha }}
+            **Date:** ${{ steps.vars.outputs.commit_date }}
+            **Branch:** ${{ github.ref_name }}
+            
+            Contains exports for all 11,149+ bird species.
+          files: |
+            exports/all_birds.csv
+            exports/all_birds_compact.csv
+            exports/all_birds.xlsx
+            exports/all_birds.sqlite
+            exports/translations-all.tar.gz
+            exports/translations-*.tar.gz
+          draft: false
+          prerelease: true
+          make_latest: true
+
+      - name: Upload exports as release assets (for tagged releases)
         uses: softprops/action-gh-release@v2
         if: github.event_name == 'release'
         with:
@@ -69,16 +124,9 @@ jobs:
             exports/all_birds_compact.csv
             exports/all_birds.xlsx
             exports/all_birds.sqlite
-            exports/translations.tar.gz
+            exports/translations-all.tar.gz
+            exports/translations-*.tar.gz
           tag_name: ${{ github.event.release.tag_name }}
-
-      - name: Upload exports as workflow artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: bird-exports-${{ github.sha }}
-          path: exports/*
-          retention-days: 30
-          compression-level: 6
 
   create-sql-dump:
     name: Create SQL Dump
@@ -88,7 +136,7 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ github.sha }}
+          name: bird-exports-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
           path: exports/
 
       - name: Create SQL dump
@@ -98,23 +146,32 @@ jobs:
           echo "SQL dump created: $(du -h exports/all_birds.sql | cut -f1)"
           echo "Gzipped: $(du -h exports/all_birds.sql.gz | cut -f1)"
 
-      - name: Upload SQL dump to release
-        uses: softprops/action-gh-release@v2
-        if: github.event_name == 'release'
-        with:
-          files: |
-            exports/all_birds.sql
-            exports/all_birds.sql.gz
-          tag_name: ${{ github.event.release.tag_name }}
-
       - name: Upload SQL dump as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-sql-dump-${{ github.sha }}
+          name: bird-sql-dump-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
           path: |
             exports/all_birds.sql
             exports/all_birds.sql.gz
           retention-days: 30
+
+      - name: Upload SQL dump to continuous release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: continuous-${{ needs.generate-exports.outputs.commit_short }}
+          files: |
+            exports/all_birds.sql
+            exports/all_birds.sql.gz
+
+      - name: Upload SQL dump to tagged release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.release.tag_name }}
+          files: |
+            exports/all_birds.sql
+            exports/all_birds.sql.gz
 
   create-yaml-export:
     name: Create YAML Export
@@ -138,7 +195,7 @@ jobs:
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
-          name: bird-exports-${{ github.sha }}
+          name: bird-exports-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
           path: exports/
 
       - name: Create YAML export
@@ -146,20 +203,29 @@ jobs:
           python _scripts/create_yaml_export.py
         working-directory: ${{ github.workspace }}
 
-      - name: Upload YAML to release
-        uses: softprops/action-gh-release@v2
-        if: github.event_name == 'release'
-        with:
-          files: |
-            exports/all_birds.yaml
-            exports/all_birds.yaml.gz
-          tag_name: ${{ github.event.release.tag_name }}
-
       - name: Upload YAML as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: bird-yaml-export-${{ github.sha }}
+          name: bird-yaml-export-${{ needs.generate-exports.outputs.commit_short }}-${{ needs.generate-exports.outputs.commit_date }}
           path: |
             exports/all_birds.yaml
             exports/all_birds.yaml.gz
           retention-days: 30
+
+      - name: Upload YAML to continuous release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: continuous-${{ needs.generate-exports.outputs.commit_short }}
+          files: |
+            exports/all_birds.yaml
+            exports/all_birds.yaml.gz
+
+      - name: Upload YAML to tagged release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.release.tag_name }}
+          files: |
+            exports/all_birds.yaml
+            exports/all_birds.yaml.gz
