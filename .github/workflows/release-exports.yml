@@ -75,12 +75,45 @@ jobs:
             touch exports/translations-all.tar.gz
           fi
 
+      - name: Filter empty translation files
+        run: |
+          # Remove empty translation archives
+          for f in exports/translations-*.tar.gz; do
+            if [ -f "$f" ] && [ ! -s "$f" ]; then
+              echo "Removing empty file: $f"
+              rm "$f"
+            fi
+          done
+          # Also check combined
+          if [ -f exports/translations-all.tar.gz ] && [ ! -s exports/translations-all.tar.gz ]; then
+            echo "Removing empty combined translations file"
+            rm exports/translations-all.tar.gz
+          fi
+
       - name: Verify export files
         run: |
           ls -la exports/
           for f in exports/*; do
             echo "File: $(basename $f), Size: $(du -h $f | cut -f1)"
           done
+
+      - name: Build release file list
+        id: release-files
+        run: |
+          FILES=""
+          for f in exports/all_birds.csv exports/all_birds_compact.csv exports/all_birds.xlsx exports/all_birds.sqlite; do
+            if [ -f "$f" ] && [ -s "$f" ]; then
+              FILES="$FILES $f"
+            fi
+          done
+          for f in exports/translations-*.tar.gz; do
+            if [ -f "$f" ] && [ -s "$f" ]; then
+              FILES="$FILES $f"
+            fi
+          done
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Upload exports as workflow artifacts
         uses: actions/upload-artifact@v4
@@ -104,13 +137,7 @@ jobs:
             **Branch:** ${{ github.ref_name }}
             
             Contains exports for all 11,149+ bird species.
-          files: |
-            exports/all_birds.csv
-            exports/all_birds_compact.csv
-            exports/all_birds.xlsx
-            exports/all_birds.sqlite
-            exports/translations-all.tar.gz
-            exports/translations-*.tar.gz
+          files: ${{ steps.release-files.outputs.files }}
           draft: false
           prerelease: true
           make_latest: true
@@ -119,13 +146,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         if: github.event_name == 'release'
         with:
-          files: |
-            exports/all_birds.csv
-            exports/all_birds_compact.csv
-            exports/all_birds.xlsx
-            exports/all_birds.sqlite
-            exports/translations-all.tar.gz
-            exports/translations-*.tar.gz
+          files: ${{ steps.release-files.outputs.files }}
           tag_name: ${{ github.event.release.tag_name }}
 
   create-sql-dump:
