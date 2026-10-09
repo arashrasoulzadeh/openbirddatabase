@@ -38,11 +38,11 @@ jobs:
         run: |
           echo "commit_sha=${GITHUB_SHA}" >> $GITHUB_OUTPUT
           echo "commit_short=$(echo ${GITHUB_SHA} | cut -c1-8)" >> $GITHUB_OUTPUT
-          # Release tag format: 2025/5/23-10:34-commithash (for GitHub releases)
-          echo "release_tag=$(date -u +'%Y/%-m/%-d-%H:%M')-${GITHUB_SHA::8}" >> $GITHUB_OUTPUT
-          # Artifact-safe format: replace invalid chars (: /) with dashes
+          # Release tag format: YYYY-MM-DD-HH-MM-commithash (valid for GitHub)
+          echo "release_tag=$(date -u +'%Y-%m-%d-%H-%M')-${GITHUB_SHA::8}" >> $GITHUB_OUTPUT
+          # Artifact-safe format (same as release_tag now)
           echo "artifact_tag=$(date -u +'%Y-%m-%d-%H-%M')-${GITHUB_SHA::8}" >> $GITHUB_OUTPUT
-          # Human-readable date
+          # Human-readable date for display
           echo "commit_date=$(date -u +'%Y/%-m/%-d-%H:%M')" >> $GITHUB_OUTPUT
 
       - name: Setup Python
