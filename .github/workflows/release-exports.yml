@@ -121,6 +121,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: generate-exports
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Download exports artifact
         uses: actions/download-artifact@v4
         with:
