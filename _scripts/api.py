@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""FastAPI server for OpenBird database with MeiliSearch integration."""
+"""FastAPI server for OpenBird database with MeiliSearch and GraphQL integration."""
 
 import json
 import yaml
@@ -9,6 +9,9 @@ from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import meilisearch
+import strawberry
+from strawberry.fastapi import GraphQLRouter
+from _scripts.graphql_schema import schema
 
 # Configuration
 BIRDS_DIR = Path("birds")
@@ -30,6 +33,12 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# GraphQL router
+graphql_app = GraphQLRouter(schema)
+
+# Include GraphQL router
+app.include_router(graphql_app, prefix="/graphql")
 
 # MeiliSearch client
 meili_client = None
@@ -134,7 +143,8 @@ async def root():
         "endpoints": [
             "/search", "/species/{scientific_name}", 
             "/taxonomy", "/taxonomy/{order}", 
-            "/taxonomy/{order}/{family}", "/filters"
+            "/taxonomy/{order}/{family}", "/filters",
+            "/graphql", "/graphql/schema"
         ]
     }
 
