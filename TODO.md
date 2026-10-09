@@ -262,11 +262,19 @@ Languages: fa, en, +432 more
 ## Next Actions
 
 1. **Mobile app** (React Native/Flutter)
-2. **MCP server** for AI assistants
-3. **GraphQL endpoint** for API
-4. **Continuous curation** of veterinary/enrichment data
-5. **Expand Persian translations** coverage
-6. **Add more languages** (Arabic, etc.)
+2. **Continuous curation** of veterinary/enrichment data
+3. **Expand Persian translations** coverage
+4. **Add more languages** (Arabic, etc.)
+
+---
+
+## Completed (Recent)
+
+- [x] GitHub Actions workflow for release exports (.sql, .csv, .xlsx, .yaml) with translations
+- [x] YAML export format added to unified exports
+- [x] SQL dump (.sql) export format added
+- [x] **MCP server** for AI assistants (`_scripts/mcp_server/`)
+- [x] **GraphQL endpoint** for API (`/graphql`)
 
 ---
 
