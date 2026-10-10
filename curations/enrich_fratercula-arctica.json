@@ -1,0 +1,39 @@
+{
+  "foraging_toys": [
+    "Live fish / whole prey",
+    "Floating feeders",
+    "Underwater feeding simulation",
+    "Krill / shrimp variety"
+  ],
+  "social_enrichment": "Colonial; maintain in groups. Visual/acoustic contact essential.",
+  "cognitive_toys": [
+    "Target training for veterinary procedures",
+    "Recall to feeding station"
+  ],
+  "bathing": "Constant saltwater access essential. Freshwater rinse after saltwater.",
+  "training": {
+    "target_training": true,
+    "recall_training": "To feeding station",
+    "harness_training": false
+  },
+  "play_behaviors": [
+    "Swimming / diving",
+    "Preening (extensive)",
+    "Social displays",
+    "Vocalizations"
+  ],
+  "environmental_enrichment": [
+    "Large saltwater pools with haul-outs",
+    "Nesting substrate (species-specific)",
+    "Colony acoustic environment",
+    "Natural light cycles",
+    "Wind/weather exposure",
+    "Visual barriers from public"
+  ],
+  "source": "Seabird Husbandry Manual (2022); AZA Seabird TAG",
+  "contributor": "AZA Seabird TAG",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Fratercula arctica",
+  "common_name": "Atlantic Puffin"
+}

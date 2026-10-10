@@ -1,0 +1,41 @@
+{
+  "foraging_toys": [
+    "Scatter feeding in deep litter",
+    "Dust bathing substrate (sand, soil, ash)",
+    "Sprouted grains / greens",
+    "Insect larvae (black soldier fly)",
+    "Hanging vegetables (cabbage, lettuce)"
+  ],
+  "social_enrichment": "Social hierarchy important; provide space for subordinates. Multiple feeding stations.",
+  "cognitive_toys": [
+    "Simple puzzles for treats",
+    "Target training for handling",
+    "Recall to coop"
+  ],
+  "bathing": "Dust bathing essential daily. Provide dry substrate areas.",
+  "training": {
+    "target_training": true,
+    "recall_training": "Coop recall at dusk",
+    "harness_training": "Not typical"
+  },
+  "play_behaviors": [
+    "Dust bathing (social)",
+    "Sun bathing",
+    "Foraging scratching",
+    "Perching / roosting"
+  ],
+  "environmental_enrichment": [
+    "Deep litter system",
+    "Elevated perches / roosts",
+    "Nest boxes (1 per 4-5 hens)",
+    "Dust bathing areas",
+    "Outdoor access with cover",
+    "Pecking blocks / grit stones"
+  ],
+  "source": "Poultry Welfare Standards (2023); UEP Guidelines",
+  "contributor": "Poultry Welfare Committee",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Gallus gallus",
+  "common_name": "Red Junglefowl (Chicken)"
+}

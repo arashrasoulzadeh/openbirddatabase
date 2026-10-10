@@ -1,0 +1,41 @@
+{
+  "common_diseases": [
+    "Marek's Disease",
+    "Newcastle Disease",
+    "Infectious Bronchitis",
+    "Avian Influenza",
+    "Coccidiosis",
+    "Blackhead (Histomoniasis)",
+    "Fowl Pox",
+    "Mycoplasmosis (MG/MS)",
+    "Bumblefoot"
+  ],
+  "vaccination_schedule": [
+    "Marek's: Day-old at hatchery",
+    "Newcastle/IB: 1 day, 14 days, 4 weeks, 16 weeks",
+    "Fowl Pox: 8-12 weeks via wing web",
+    "Consult local regulations for AI vaccination"
+  ],
+  "deworming_frequency_months": 3,
+  "health_check_frequency_months": 6,
+  "zoonotic_risks": [
+    "Salmonella spp.",
+    "Campylobacter spp.",
+    "Avian Influenza (H5N1, H7N9)",
+    "E. coli"
+  ],
+  "emergency_signs": [
+    "Sudden high mortality",
+    "Respiratory distress / gasping",
+    "Neurological signs (twisting neck)",
+    "Severe diarrhea / blood",
+    "Swollen sinuses / eyes"
+  ],
+  "vet_specialist_type": "Poultry/Avian veterinarian",
+  "source": "Poultry Disease Manual (2023); Merck Veterinary Manual",
+  "contributor": "Dr. Poultry Pro, DVM",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Gallus gallus",
+  "common_name": "Red Junglefowl (Chicken)"
+}

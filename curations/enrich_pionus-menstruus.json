@@ -1,0 +1,51 @@
+{
+  "foraging_toys": [
+    "Puzzle feeders (various difficulty levels)",
+    "Scatter feeding trays with substrate",
+    "Browse branches (eucalyptus, bottlebrush, apple)",
+    "Pine cones with hidden treats",
+    "Cardboard boxes/tubes for shredding",
+    "Coconut shells with food inside",
+    "Vine balls stuffed with treats",
+    "Commercial foraging toys (Caitec, Super Bird Creations)"
+  ],
+  "social_enrichment": "Highly social; conspecifics strongly recommended. Mirrors acceptable temporary substitute for single birds. Daily human interaction minimum 2-3 hours.",
+  "cognitive_toys": [
+    "Color/shape discrimination puzzles",
+    "Tool use tasks (stick for food)",
+    "String pulling tasks",
+    "Lever/peg boards",
+    "Touchscreen training (cognitive research)",
+    "Object permanence games",
+    "Matching-to-sample tasks"
+  ],
+  "bathing": "Daily misting or shallow water dish; some prefer shower perches. Offer 3-4x weekly minimum.",
+  "training": {
+    "target_training": true,
+    "recall_training": true,
+    "harness_training": "Possible with positive reinforcement; start young"
+  },
+  "play_behaviors": [
+    "Object manipulation / throwing",
+    "Swinging / hanging upside down",
+    "Social allopreening",
+    "Vocal play / mimicry",
+    "Chase games (with conspecifics)",
+    "Foot toys manipulation"
+  ],
+  "environmental_enrichment": [
+    "Variable perch diameters (natural branches preferred)",
+    "UV lighting (UVB 290-310nm, 12h cycle)",
+    "Seasonal diet variation (fresh foods daily)",
+    "Audio enrichment (rainforest sounds, conspecific calls)",
+    "Visual barriers for privacy",
+    "Climbing structures (ropes, ladders, nets)",
+    "Destructible items (phone books, palm fronds, balsa wood)"
+  ],
+  "source": "AZA Parrot TAG Husbandry Manual (2022); Psittacine Enrichment Guidelines",
+  "contributor": "AZA Parrot TAG Enrichment Committee",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Pionus menstruus",
+  "common_name": "Blue-headed Parrot"
+}

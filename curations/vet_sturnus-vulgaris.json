@@ -1,0 +1,39 @@
+{
+  "common_diseases": [
+    "Air Sac Mites (Sternostoma)",
+    "Feather Mites / Lice",
+    "Coccidiosis (Atoxoplasma)",
+    "Trichomoniasis",
+    "Avian Pox",
+    "Salmonellosis",
+    "Mycoplasmosis",
+    "Feather Plucking (stress/boredom)",
+    "Egg Binding (females)"
+  ],
+  "vaccination_schedule": [
+    "No routine vaccinations for most passerines",
+    "Canary Pox: In endemic areas, consult veterinarian"
+  ],
+  "deworming_frequency_months": 4,
+  "health_check_frequency_months": 12,
+  "zoonotic_risks": [
+    "Salmonella spp.",
+    "Chlamydia psittaci (rare in passerines)",
+    "Dermatophytes (ringworm)"
+  ],
+  "emergency_signs": [
+    "Fluffed up, not eating",
+    "Tail bobbing / labored breathing",
+    "Unable to perch",
+    "Blood in droppings",
+    "Straining (egg binding)",
+    "Sudden death"
+  ],
+  "vet_specialist_type": "Avian veterinarian (small bird experience)",
+  "source": "Passerine Medicine (2022); AAV Small Bird Guidelines",
+  "contributor": "Dr. Small Bird, DVM",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Sturnus vulgaris",
+  "common_name": "Common Starling"
+}

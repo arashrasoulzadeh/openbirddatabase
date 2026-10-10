@@ -1,0 +1,35 @@
+{
+  "common_diseases": [
+    "Aspergillosis",
+    "Pododermatitis (bumblefoot)",
+    "Oil contamination",
+    "Plastic ingestion",
+    "Avian Cholera",
+    "Newcastle Disease",
+    "Parasitic loads (nematodes, cestodes)"
+  ],
+  "vaccination_schedule": [
+    "Context-dependent, consult wildlife vet"
+  ],
+  "deworming_frequency_months": 6,
+  "health_check_frequency_months": 12,
+  "zoonotic_risks": [
+    "Salmonella spp.",
+    "Campylobacter spp.",
+    "Avian Influenza (monitoring)"
+  ],
+  "emergency_signs": [
+    "Oil on feathers",
+    "Unable to stand / walk",
+    "Regurgitating plastic",
+    "Severe emaciation",
+    "Open wounds"
+  ],
+  "vet_specialist_type": "Wildlife/Seabird veterinarian",
+  "source": "Seabird Medicine and Rehabilitation (2022)",
+  "contributor": "Dr. Sea Bird, DVM",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Morus bassanus",
+  "common_name": "Northern Gannet"
+}

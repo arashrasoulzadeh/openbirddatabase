@@ -1,0 +1,39 @@
+{
+  "common_diseases": [
+    "Bumblefoot (Pododermatitis)",
+    "Aspergillosis",
+    "Trichomoniasis (Frounce)",
+    "West Nile Virus",
+    "Lead Poisoning",
+    "Trauma / Fractures",
+    "Feather Damage / Imping needed",
+    "Parasitic infections (Capillaria, Coccidia)"
+  ],
+  "vaccination_schedule": [
+    "West Nile Virus: Initial series (2 doses 3-4 weeks apart), then annually before mosquito season",
+    "Tetanus: Consider for rehabilitation birds"
+  ],
+  "deworming_frequency_months": 3,
+  "health_check_frequency_months": 6,
+  "zoonotic_risks": [
+    "Salmonella spp.",
+    "Campylobacter spp.",
+    "Mycobacterium avium",
+    "West Nile Virus (vector-borne)"
+  ],
+  "emergency_signs": [
+    "Drooping wing / inability to fly",
+    "Leg paralysis / inability to stand",
+    "Open-mouth breathing",
+    "Blood in feces / mouth",
+    "Severe emaciation (keel prominent)",
+    "Head tilt / neurological signs"
+  ],
+  "vet_specialist_type": "Raptor/Exotic veterinarian with falconry experience",
+  "source": "Raptor Medicine and Surgery (2022); Falconry Medicine Guidelines",
+  "contributor": "Dr. John Raptor, DVM, Raptor Specialist",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Accipiter cooperii",
+  "common_name": "Cooper's Hawk"
+}

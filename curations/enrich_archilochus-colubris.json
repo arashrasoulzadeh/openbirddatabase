@@ -1,0 +1,38 @@
+{
+  "foraging_toys": [
+    "Multiple feeder stations (reduce aggression)",
+    "Native flowering plants",
+    "Fruit fly cultures for protein",
+    "Nectar variety (different concentrations)"
+  ],
+  "social_enrichment": "Territorial; house individually or with visual barriers. Not social.",
+  "cognitive_toys": [
+    "Feeder puzzles (simple)",
+    "Spatial memory tasks (natural)"
+  ],
+  "bathing": "Misting preferred; fine spray 2-3x daily. Leaf bathing in nature.",
+  "training": {
+    "target_training": false,
+    "recall_training": false,
+    "harness_training": false
+  },
+  "play_behaviors": [
+    "Aerial displays",
+    "Territorial chases",
+    "Perching / sunning"
+  ],
+  "environmental_enrichment": [
+    "Multiple feeding stations",
+    "Native nectar plants",
+    "Perches at varied heights",
+    "Misting system",
+    "Protection from wind/rain",
+    "Night roosting sites"
+  ],
+  "source": "Hummingbird Husbandry Guidelines (2023); Wildlife Rehab Standards",
+  "contributor": "Hummingbird Rehabilitation Network",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Archilochus colubris",
+  "common_name": "Ruby-throated Hummingbird"
+}

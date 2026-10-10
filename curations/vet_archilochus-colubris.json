@@ -1,0 +1,31 @@
+{
+  "common_diseases": [
+    "Candidiasis (sour crop)",
+    "Fermentation syndrome (improper nectar)",
+    "Window collision trauma",
+    "Predation injuries",
+    "Dehydration / starvation",
+    "Mites / feather lice"
+  ],
+  "vaccination_schedule": [
+    "No vaccinations"
+  ],
+  "deworming_frequency_months": null,
+  "health_check_frequency_months": null,
+  "zoonotic_risks": [
+    "Minimal direct zoonotic risk"
+  ],
+  "emergency_signs": [
+    "Unable to fly / hovering difficulty",
+    "Lethargic, not feeding",
+    "Visible injury / bleeding",
+    "Cold to touch"
+  ],
+  "vet_specialist_type": "Wildlife rehabilitator with hummingbird experience",
+  "source": "Hummingbird Rehabilitation Guidelines (2023)",
+  "contributor": "Wildlife Rehab Network",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Archilochus colubris",
+  "common_name": "Ruby-throated Hummingbird"
+}

@@ -1,0 +1,42 @@
+{
+  "foraging_toys": [
+    "Scatter feeding on clean paper/substrate",
+    "Millet sprays",
+    "Seeding grasses (live plants)",
+    "Small puzzle feeders",
+    "Insect dishes (mealworms, fruit flies)"
+  ],
+  "social_enrichment": "Species-dependent: flock species need groups; territorial species need pairs only. Mirrors for singles.",
+  "cognitive_toys": [
+    "Simple color discrimination",
+    "String pulling (some species)",
+    "Target training for hand-taming"
+  ],
+  "bathing": "Daily shallow water dish; some prefer misting. Critical for feather health.",
+  "training": {
+    "target_training": true,
+    "recall_training": "Limited; flight recall possible",
+    "harness_training": "Rare; some species accept harnesses"
+  },
+  "play_behaviors": [
+    "Bathing / water play",
+    "Swinging on perches",
+    "Social allopreening (flock species)",
+    "Song practice / vocalization",
+    "Object manipulation (small items)"
+  ],
+  "environmental_enrichment": [
+    "Multiple perch diameters (natural branches)",
+    "UV lighting (critical for indoor birds)",
+    "Live plants (non-toxic)",
+    "Visual barriers / hiding spots",
+    "Seasonal photoperiod changes",
+    "Varied diet (seeds, pellets, fresh, insects)"
+  ],
+  "source": "Passerine Husbandry Manual (2022); AAV Small Bird Guidelines",
+  "contributor": "AAV Passerine Committee",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Cyanistes caeruleus",
+  "common_name": "Eurasian Blue Tit"
+}

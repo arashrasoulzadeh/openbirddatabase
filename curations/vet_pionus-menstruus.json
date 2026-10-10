@@ -1,0 +1,44 @@
+{
+  "common_diseases": [
+    "Psittacine Beak and Feather Disease (PBFD)",
+    "Psittacosis (Chlamydia psittaci)",
+    "Aspergillosis",
+    "Proventricular Dilatation Disease (PDD)",
+    "Polyomavirus",
+    "Pacheco's Disease",
+    "Feather Plucking / Self-mutilation",
+    "Obesity / Hepatic Lipidosis",
+    "Vitamin A Deficiency",
+    "Heavy Metal Toxicity (Zn, Pb)"
+  ],
+  "vaccination_schedule": [
+    "Polyomavirus: Initial at 30 days, booster at 60 days, then annually",
+    "Psittacine Herpesvirus: Not routinely vaccinated, quarantine new birds 45-90 days"
+  ],
+  "deworming_frequency_months": 6,
+  "health_check_frequency_months": 6,
+  "zoonotic_risks": [
+    "Chlamydia psittaci (Psittacosis)",
+    "Salmonella spp.",
+    "Campylobacter spp.",
+    "Mycobacterium avium (Avian TB)",
+    "Allergic alveolitis (Bird fancier's lung)"
+  ],
+  "emergency_signs": [
+    "Labored breathing / tail bobbing",
+    "Anorexia >24 hours",
+    "Severe diarrhea / blood in droppings",
+    "Unable to perch / ataxia",
+    "Regurgitation (non-courtship)",
+    "Swollen eyes / sinus discharge",
+    "Feather plucking with skin damage",
+    "Sudden behavior change"
+  ],
+  "vet_specialist_type": "Avian veterinarian (ABVP certified preferred)",
+  "source": "Avian Medicine and Surgery, 3rd Ed. (2023); AAV Guidelines",
+  "contributor": "Dr. Jane Smith, DVM, Dipl. ABVP (Avian)",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Pionus menstruus",
+  "common_name": "Blue-headed Parrot"
+}

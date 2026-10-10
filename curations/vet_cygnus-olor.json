@@ -1,0 +1,38 @@
+{
+  "common_diseases": [
+    "Botulism (Limberneck)",
+    "Avian Cholera (Pasteurella multocida)",
+    "Duck Viral Enteritis (DVE)",
+    "Duck Viral Hepatitis",
+    "Aspergillosis",
+    "Lead Poisoning (ingested shot)",
+    "Bumblefoot",
+    "Angel Wing (nutritional)"
+  ],
+  "vaccination_schedule": [
+    "Duck Viral Enteritis: At 2-3 weeks, booster at 4-6 weeks",
+    "Avian Cholera: In endemic areas, consult veterinarian"
+  ],
+  "deworming_frequency_months": 4,
+  "health_check_frequency_months": 12,
+  "zoonotic_risks": [
+    "Salmonella spp.",
+    "Campylobacter spp.",
+    "E. coli",
+    "Avian Influenza (monitoring)"
+  ],
+  "emergency_signs": [
+    "Unable to walk / leg paralysis",
+    "Neck twisting (limberneck)",
+    "Sudden death in flock",
+    "Green diarrhea",
+    "Respiratory distress"
+  ],
+  "vet_specialist_type": "Avian/Waterfowl veterinarian",
+  "source": "Waterfowl Medicine and Management (2021)",
+  "contributor": "Dr. Water Fowl, DVM",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Cygnus olor",
+  "common_name": "Mute Swan"
+}

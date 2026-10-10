@@ -1,0 +1,40 @@
+{
+  "foraging_toys": [
+    "Floating feeders / platforms",
+    "Submerged food trays",
+    "Aquatic plants for grazing",
+    "Insect colonies (mealworms in water)",
+    "Grit stations"
+  ],
+  "social_enrichment": "Highly social; maintain in pairs or flocks. Species-specific flock sizes.",
+  "cognitive_toys": [
+    "Food dispersion in water",
+    "Simple puzzle feeders",
+    "Target training for veterinary care"
+  ],
+  "bathing": "Constant access to swimming water essential. Minimum 30cm depth for diving species.",
+  "training": {
+    "target_training": true,
+    "recall_training": "Possible with consistent training",
+    "harness_training": "Rarely used; transport in carriers"
+  },
+  "play_behaviors": [
+    "Dabbling / diving",
+    "Preening in water",
+    "Social displays",
+    "Splashing / wing flapping"
+  ],
+  "environmental_enrichment": [
+    "Large water bodies with varied depths",
+    "Islands / haul-out areas",
+    "Aquatic vegetation",
+    "Nesting materials (seasonal)",
+    "Grit and calcium sources"
+  ],
+  "source": "Waterfowl Husbandry Guidelines (2020); AZA Waterfowl TAG",
+  "contributor": "AZA Waterfowl TAG",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Branta canadensis",
+  "common_name": "Canada Goose"
+}

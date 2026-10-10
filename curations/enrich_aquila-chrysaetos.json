@@ -1,0 +1,41 @@
+{
+  "foraging_toys": [
+    "Whole prey items (mice, quail, chicks)",
+    "Food hidden in cavities / under objects",
+    "Tug toys (simulate prey struggle)",
+    "Feathered lures for flight training"
+  ],
+  "social_enrichment": "Generally solitary or pair-bonded. Human imprinting requires careful management. Conspecifics only for breeding pairs.",
+  "cognitive_toys": [
+    "Problem solving for food access",
+    "Target training for husbandry",
+    "Flight training / recall",
+    "Hood training (falconry)"
+  ],
+  "bathing": "Shallow pan daily; some species enjoy misting. Critical for feather maintenance.",
+  "training": {
+    "target_training": true,
+    "recall_training": true,
+    "harness_training": "Standard falconry equipment (jesses, leash, swivel)"
+  },
+  "play_behaviors": [
+    "Mantling (food protection behavior)",
+    "Caching behavior",
+    "Soaring / thermal riding",
+    "Footing (gripping practice)"
+  ],
+  "environmental_enrichment": [
+    "Large flight chambers / weathering areas",
+    "Varied perch textures and heights",
+    "Bathing facilities",
+    "Visual barriers from public",
+    "Natural light cycles",
+    "Hunting simulation (lure flying)"
+  ],
+  "source": "Raptor Enrichment Guidelines (2021); Falconry Standards",
+  "contributor": "International Association of Falconry",
+  "date_added": "2026-10-10",
+  "verified": true,
+  "species": "Aquila chrysaetos",
+  "common_name": "Golden Eagle"
+}
