@@ -98,9 +98,9 @@ Global bird database (~10,000+ species) as Markdown files with:
 ## Phase 5: Apps (Ongoing) ✅ MAJOR PROGRESS
 
 - [x] Web app (Next.js/React) - `frontend/` with search, species detail, taxonomy browser
-- [ ] Mobile (React Native/Flutter)
+- [x] Mobile (React Native/Expo) - `mobile/` with search, taxonomy browser, species detail, favorites, settings
 - [x] CLI tool (various scripts)
-- [ ] MCP server for AI assistants
+- [x] MCP server for AI assistants (`_scripts/mcp_server/`)
 
 ---
 
@@ -261,10 +261,10 @@ Languages: fa, en, +432 more
 
 ## Next Actions
 
-1. **Mobile app** (React Native/Flutter)
-2. **Continuous curation** of veterinary/enrichment data
-3. **Expand Persian translations** coverage
-4. **Add more languages** (Arabic, etc.)
+1. **Continuous curation** of veterinary/enrichment data (expand to more species)
+2. **Add more languages** (Arabic, Hebrew, Hindi, Indonesian, Korean, Italian, etc.)
+3. **Mobile app enhancements** (offline sync, image gallery, audio playback)
+4. **Web app enhancements** (comparison tools, range maps, checklist export)
 
 ---
 
@@ -275,6 +275,10 @@ Languages: fa, en, +432 more
 - [x] SQL dump (.sql) export format added
 - [x] **MCP server** for AI assistants (`_scripts/mcp_server/`)
 - [x] **GraphQL endpoint** for API (`/graphql`)
+- [x] **Mobile app** (React Native/Expo) with full species browsing
+- [x] **Veterinary curations** for 45 key species (parrots, raptors, waterfowl, gamebirds, passerines, hummingbirds, seabirds)
+- [x] **Enrichment curations** for 45 key species (foraging, cognitive, social, training)
+- [x] **10 new languages** added (es, fr, de, pt, ru, ja, zh, nl, pl, tr) - ~11K species each
 
 ---
 
@@ -293,6 +297,8 @@ Languages: fa, en, +432 more
 - **Orders covered**: 47
 - **Families covered**: 200+
 - **Data sources integrated**: 4 (BirdNET, BIRDBASE, AVONICHE, BirdFYI)
-- **Languages available**: 434 (via BirdNET)
+- **Languages available**: 434 (via BirdNET) + 10 high-coverage languages (es, fr, de, pt, ru, ja, zh, nl, pl, tr)
+- **Veterinary curations**: 45 species
+- **Enrichment curations**: 45 species
 - **Schema validation**: 100% pass
 - **Search index**: 11,149 documents indexed in MeiliSearch
