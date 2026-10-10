@@ -1,5 +1,6 @@
 'use client';
 
+import React from 'react';
 import { Species } from '@/lib/types';
 
 interface SpeciesDetailProps {
@@ -8,7 +9,7 @@ interface SpeciesDetailProps {
 
 export default function SpeciesDetail({ species }: SpeciesDetailProps) {
   const formatNumber = (num: number | null | undefined) => {
-    if (num === null || num === undefined) return '—';
+    if (num === null || num === undefined) return '--';
     return typeof num === 'number' ? num.toLocaleString() : num;
   };
 
@@ -36,7 +37,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
   };
 
   const renderKeyValue = (label: string, value: any, unit?: string) => {
-    if (value === null || value === undefined || value === '' || value === '—') return null;
+    if (value === null || value === undefined || value === '' || value === '--') return null;
     return (
       <div className="flex justify-between py-2 border-b border-gray-100 last:border-0">
         <span className="text-gray-600">{label}</span>
@@ -66,7 +67,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
             <div className="flex items-center gap-3 mb-2">
               <h1 className="text-3xl font-bold text-gray-900">{species.common_name_en || species.scientific_name}</h1>
               {species.common_name_fa && (
-                <span className="text-xl font-vazir text-gray-600" dir="rtl">{species.common_name_fa}</span>
+                <span className="text-xl text-gray-600" dir="rtl">{species.common_name_fa}</span>
               )}
             </div>
             <p className="text-2xl text-gray-500 font-italic mb-4">{species.scientific_name}</p>
@@ -93,7 +94,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
           <div className="md:w-64 flex-shrink-0">
             <div className="bg-gray-50 rounded-lg p-4">
               <div className="text-center">
-                <p className="text-3xl font-bold text-gray-900">{species.body_mass_g ? species.body_mass_g.toLocaleString() : '—'} <span className="text-sm font-normal text-gray-500">g</span></p>
+                <p className="text-3xl font-bold text-gray-900">{species.body_mass_g ? species.body_mass_g.toLocaleString() : '--'} <span className="text-sm font-normal text-gray-500">g</span></p>
                 <p className="text-sm text-gray-500">Body Mass</p>
               </div>
               {species.wingspan_cm && (
@@ -166,7 +167,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
             {renderKeyValue('Primary Habitat', species.habitat?.primary)}
             {renderArray('Secondary Habitats', species.habitat?.secondary || [])}
             {renderKeyValue('Habitat Breadth', species.habitat?.habitat_breadth)}
-            {renderKeyValue('Elevation Range', `${species.habitat?.elevational_min_m || 0}–${species.habitat?.elevational_max_m || 0} m`)}
+            {renderKeyValue('Elevation Range', `${species.habitat?.elevational_min_m || 0}-${species.habitat?.elevational_max_m || 0} m`)}
             {renderArray('Habitat Types', species.habitat?.habitat_types || [])}
             {renderKeyValue('Microhabitat', species.habitat?.microhabitat)}
           </div>
@@ -205,9 +206,9 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
         {renderSection('Reproduction', (
           <dl className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {renderKeyValue('Clutch Size (mean)', species.reproduction?.clutch_size_mean)}
-            {renderKeyValue('Clutch Size Range', `${species.reproduction?.clutch_size_min || '—'}–${species.reproduction?.clutch_size_max || '—'}`)
-            {renderKeyValue('Incubation', species.reproduction?.incubation_days ? `${species.reproduction.incubation_days} days` : '—')}
-            {renderKeyValue('Fledging', species.reproduction?.fledging_days ? `${species.reproduction.fledging_days} days` : '—')}
+            {renderKeyValue('Clutch Size Range', `${species.reproduction?.clutch_size_min || '--'}--${species.reproduction?.clutch_size_max || '--'})`}
+            {renderKeyValue('Incubation', species.reproduction?.incubation_days ? `${species.reproduction.incubation_days} days` : '--')}
+            {renderKeyValue('Fledging', species.reproduction?.fledging_days ? `${species.reproduction.fledging_days} days` : '--')}
             {renderKeyValue('Broods/Year', species.reproduction?.broods_per_year)}
             {renderKeyValue('Nest Type', species.reproduction?.nest_type)}
             {renderKeyValue('Nest Placement', species.reproduction?.nest_placement)}
@@ -219,13 +220,13 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
 
         {renderSection('Demography', (
           <dl className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {renderKeyValue('Generation Length', species.demography?.generation_length_years ? `${species.demography.generation_length_years} years` : '—')}
-            {renderKeyValue('Max Longevity', species.demography?.max_longevity_years ? `${species.demography.max_longevity_years} years` : '—')}
-            {renderKeyValue('Adult Survival', species.demography?.annual_survival_adult ? `${(species.demography.annual_survival_adult * 100).toFixed(1)}%` : '—')}
-            {renderKeyValue('Juvenile Survival', species.demography?.annual_survival_juvenile ? `${(species.demography.annual_survival_juvenile * 100).toFixed(1)}%` : '—')}
+            {renderKeyValue('Generation Length', species.demography?.generation_length_years ? `${species.demography.generation_length_years} years` : '--')}
+            {renderKeyValue('Max Longevity', species.demography?.max_longevity_years ? `${species.demography.max_longevity_years} years` : '--')}
+            {renderKeyValue('Adult Survival', species.demography?.annual_survival_adult ? `${(species.demography.annual_survival_adult * 100).toFixed(1)}%` : '--')}
+            {renderKeyValue('Juvenile Survival', species.demography?.annual_survival_juvenile ? `${(species.demography.annual_survival_juvenile * 100).toFixed(1)}%` : '--')}
             {renderKeyValue('Population Trend', species.demography?.population_trend)}
             {renderKeyValue('Population Size', species.demography?.population_size)}
-            {renderKeyValue('Density', species.demography?.density_individuals_per_km2 ? `${species.demography.density_individuals_per_km2}/km²` : '—')}
+            {renderKeyValue('Density', species.demography?.density_individuals_per_km2 ? `${species.demography.density_individuals_per_km2}/km2` : '--')}
           </dl>
         ), species.demography?.generation_length_years || species.demography?.max_longevity_years)}
 
@@ -244,8 +245,8 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
           <div className="space-y-4">
             {renderArray('Common Diseases', species.veterinary?.common_diseases || [])}
             {renderArray('Vaccination Schedule', species.veterinary?.vaccination_schedule || [])}
-            {renderKeyValue('Deworming Frequency', species.veterinary?.deworming_frequency_months ? `${species.veterinary.deworming_frequency_months} months` : '—')}
-            {renderKeyValue('Health Check Frequency', species.veterinary?.health_check_frequency_months ? `${species.veterinary.health_check_frequency_months} months` : '—')}
+            {renderKeyValue('Deworming Frequency', species.veterinary?.deworming_frequency_months ? `${species.veterinary.deworming_frequency_months} months` : '--')}
+            {renderKeyValue('Health Check Frequency', species.veterinary?.health_check_frequency_months ? `${species.veterinary.health_check_frequency_months} months` : '--')}
             {renderArray('Zoonotic Risks', species.veterinary?.zoonotic_risks || [])}
             {renderArray('Emergency Signs', species.veterinary?.emergency_signs || [])}
             {renderKeyValue('Specialist Type', species.veterinary?.vet_specialist_type)}
@@ -260,7 +261,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
             {renderKeyValue('Bathing', species.enrichment?.bathing)}
             {renderKeyValue('Target Training', species.enrichment?.training?.target_training ? 'Yes' : 'No')}
             {renderKeyValue('Recall Training', species.enrichment?.training?.recall_training ? 'Yes' : 'No')}
-            {renderKeyValue('Harness Training', species.enrichment?.training?.harness_training || '—')}
+            {renderKeyValue('Harness Training', species.enrichment?.training?.harness_training || '--')}
             {renderArray('Play Behaviors', species.enrichment?.play_behaviors || [])}
             {renderArray('Environmental Enrichment', species.enrichment?.environmental_enrichment || [])}
           </div>
@@ -269,7 +270,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
         {renderSection('Sources & Quality', (
           <div className="space-y-2">
             <p className="text-sm text-gray-600">Sources: {species.sources?.join(', ') || '—'}</p>
-            <p className="text-sm text-gray-600">Last Updated: {species.last_updated || '—'}</p>
+            <p className="text-sm text-gray-600">Last Updated: {species.last_updated || '--'}</p>
             <span className={`inline-block px-2 py-1 rounded text-xs font-medium ${{
               'bg-green-100 text-green-800': species.data_quality === 'High',
               'bg-yellow-100 text-yellow-800': species.data_quality === 'Medium',

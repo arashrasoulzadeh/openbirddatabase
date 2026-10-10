@@ -98,19 +98,20 @@ behavior:
 # === REPRODUCTION (BIRDBASE) ===
 {% if reproduction and (reproduction.clutch_size_mean or reproduction.clutch_size_min or reproduction.clutch_size_max or reproduction.egg_length_mm or reproduction.egg_width_mm or reproduction.incubation_days or reproduction.fledging_days or reproduction.broods_per_year or reproduction.nest_type or reproduction.nest_placement or reproduction.nest_material or reproduction.mating_system or reproduction.parental_care) %}
 reproduction:
-{% if reproduction.clutch_size_mean %}  clutch_size_mean: {{ reproduction.clutch_size_mean }}{% endif %}
-{% if reproduction.clutch_size_min %}  clutch_size_min: {{ reproduction.clutch_size_min }}{% endif %}
-{% if reproduction.clutch_size_max %}  clutch_size_max: {{ reproduction.clutch_size_max }}{% endif %}
-{% if reproduction.egg_length_mm %}  egg_length_mm: {{ reproduction.egg_length_mm }}{% endif %}
-{% if reproduction.egg_width_mm %}  egg_width_mm: {{ reproduction.egg_width_mm }}{% endif %}
-{% if reproduction.incubation_days %}  incubation_days: {{ reproduction.incubation_days }}{% endif %}
-{% if reproduction.fledging_days %}  fledging_days: {{ reproduction.fledging_days }}{% endif %}
-{% if reproduction.broods_per_year %}  broods_per_year: {{ reproduction.broods_per_year }}{% endif %}
-{% if reproduction.nest_type %}  nest_type: "{{ reproduction.nest_type }}"{% endif %}
-{% if reproduction.nest_placement %}  nest_placement: "{{ reproduction.nest_placement }}"{% endif %}
-  nest_material: {{ (reproduction.nest_material | default([])) | tojson }}
-{% if reproduction.mating_system %}  mating_system: "{{ reproduction.mating_system }}"{% endif %}
-{% if reproduction.parental_care %}  parental_care: "{{ reproduction.parental_care }}"{% endif %}
+{% if reproduction.clutch_size_mean %}  clutch_size_mean: {{ reproduction.clutch_size_mean }}
+{% endif %}{% if reproduction.clutch_size_min %}  clutch_size_min: {{ reproduction.clutch_size_min }}
+{% endif %}{% if reproduction.clutch_size_max %}  clutch_size_max: {{ reproduction.clutch_size_max }}
+{% endif %}{% if reproduction.egg_length_mm %}  egg_length_mm: {{ reproduction.egg_length_mm }}
+{% endif %}{% if reproduction.egg_width_mm %}  egg_width_mm: {{ reproduction.egg_width_mm }}
+{% endif %}{% if reproduction.incubation_days %}  incubation_days: {{ reproduction.incubation_days }}
+{% endif %}{% if reproduction.fledging_days %}  fledging_days: {{ reproduction.fledging_days }}
+{% endif %}{% if reproduction.broods_per_year %}  broods_per_year: {{ reproduction.broods_per_year }}
+{% endif %}{% if reproduction.nest_type %}  nest_type: "{{ reproduction.nest_type }}"
+{% endif %}{% if reproduction.nest_placement %}  nest_placement: "{{ reproduction.nest_placement }}"
+{% endif %}  nest_material: {{ (reproduction.nest_material | default([])) | tojson }}
+{% if reproduction.mating_system %}  mating_system: "{{ reproduction.mating_system }}"
+{% endif %}{% if reproduction.parental_care %}  parental_care: "{{ reproduction.parental_care }}"
+{% endif %}
 {% endif %}
 
 {% if demography and (demography.generation_length_years or demography.max_longevity_years or demography.annual_survival_adult or demography.annual_survival_juvenile or demography.population_trend or demography.population_size or demography.density_individuals_per_km2) %}

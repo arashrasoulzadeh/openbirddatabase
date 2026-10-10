@@ -28,6 +28,7 @@ def load_template():
 
 def load_data_sources():
     """Load all available data sources."""
+    import pandas as pd
     data = {}
     
     # BirdNET (primary)
@@ -36,15 +37,37 @@ def load_data_sources():
     data['birdnet'] = birdnet_df.set_index('scientific_name').to_dict('index')
     print(f"  {len(data['birdnet'])} species")
     
+    # eBird taxonomy (for family/order lookup)
+    ebird_file = DATA_DIR / "ebird" / "ebird_taxonomy.csv"
+    if ebird_file.exists():
+        print("Loading eBird taxonomy...")
+        df = pd.read_csv(ebird_file)
+        # Filter to species only
+        df = df[df['CATEGORY'] == 'species']
+        data['ebird_taxonomy'] = df.set_index('SCIENTIFIC_NAME')[['ORDER', 'FAMILY_SCI_NAME', 'TAXON_ORDER']].to_dict('index')
+        print(f"  {len(data['ebird_taxonomy'])} species")
+    else:
+        print("eBird taxonomy not found")
+        data['ebird_taxonomy'] = {}
+    
     # AVONICHE (foraging niches)
     avoniche_dir = DATA_DIR / "avoniche"
     avoniche_file = avoniche_dir / "Avoniche4_AviList_2025.csv"
-    if avoniche_file.exists():
-        import pandas as pd
+    if avoniche_file.exists() and avoniche_file.stat().st_size > 1000:
         print("Loading AVONICHE...")
         df = pd.read_csv(avoniche_file)
-        data['avoniche'] = df.set_index('Scientific_Name').to_dict('index')
-        print(f"  {len(data['avoniche'])} species")
+        # Try different possible column names for scientific name
+        sci_col = None
+        for col in ['Scientific_Name', 'ScientificName', 'scientific_name', 'Species', 'species']:
+            if col in df.columns:
+                sci_col = col
+                break
+        if sci_col:
+            data['avoniche'] = df.set_index(sci_col).to_dict('index')
+            print(f"  {len(data['avoniche'])} species")
+        else:
+            print(f"  AVONICHE file missing expected column, columns: {list(df.columns)}")
+            data['avoniche'] = {}
     else:
         print("AVONICHE not found - will use empty foraging niches")
         data['avoniche'] = {}
@@ -53,10 +76,11 @@ def load_data_sources():
     birdbase_dir = DATA_DIR / "birdbase"
     birdbase_files = list(birdbase_dir.glob("*.xlsx"))
     if birdbase_files:
-        import pandas as pd
         print("Loading BIRDBASE...")
-        df = pd.read_excel(birdbase_files[0], sheet_name="Traits")
-        data['birdbase'] = df.set_index('Scientific_Name').to_dict('index')
+        df = pd.read_excel(birdbase_files[0], sheet_name="Data", header=1)
+        # Use scientific name (Latin) as index - column 'Latin (BirdLife > IOC > Clements>AviList)'
+        sci_col = 'Latin (BirdLife > IOC > Clements>AviList)'
+        data['birdbase'] = df.set_index(sci_col).to_dict('index')
         print(f"  {len(data['birdbase'])} species")
     else:
         print("BIRDBASE not found - will use empty traits")
@@ -68,20 +92,23 @@ def load_data_sources():
     
     return data
 
-def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data):
+def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data, ebird_taxonomy):
     """Build complete species record from all sources."""
+    import pandas as pd
+    
     # Start with BirdNET data
     bn = birdnet_data.get(sci_name, {})
+    
+    # Get taxonomy from eBird
+    ebird_tax = ebird_taxonomy.get(sci_name, {})
+    order = ebird_tax.get('ORDER', 'Passeriformes')
+    family = ebird_tax.get('FAMILY_SCI_NAME', 'Unknown')
+    taxon_order = ebird_tax.get('TAXON_ORDER', 0)
     
     # Parse scientific name
     parts = sci_name.split(' ', 1)
     genus = parts[0] if parts else ''
     species = parts[1] if len(parts) > 1 else ''
-    
-    # Get family/order from taxonomy (would need eBird API or taxonomy file)
-    # For now, use placeholder
-    order = "Passeriformes"  # Default, should be looked up
-    family = "Unknown"
     
     # Build record
     record = {
@@ -91,7 +118,7 @@ def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data):
         'gbif_key': int(bn['gbif_id']) if bn.get('gbif_id') and not pd.isna(bn['gbif_id']) else None,
         'avibase_id': bn.get('avibase_id', ''),
         'iucn_status': 'LC',  # Default, should come from BIRDBASE
-        'taxon_order': 0,
+        'taxon_order': float(taxon_order) if taxon_order else 0,
         
         # Names
         'names': {
@@ -211,7 +238,6 @@ def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data):
         'diet_foraging': '',
         'behavior_ecology': '',
         'breeding': '',
-        'conservation': '',
         'veterinary_care': '',
         'enrichment_training': ''
     }
@@ -222,7 +248,168 @@ def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data):
         record['sources'].append('BIRDBASE 2025')
         record['data_quality'] = 'High'
         # Map BIRDBASE fields to our schema
-        # This would need detailed field mapping
+        # Morphology
+        if pd.notna(bb.get('Average Mass')):
+            record['morphology']['body_mass_g'] = float(bb['Average Mass'])
+        if pd.notna(bb.get('Female MinMass')) or pd.notna(bb.get('Male MinMass')):
+            # Use average of male/female or unsexed
+            pass
+        
+        # Distribution
+        if pd.notna(bb.get('RR')):
+            record['distribution']['breeding_range'] = f"Range size: {bb['RR']}" if bb['RR'] > 0 else ""
+        if pd.notna(bb.get('LAT')):
+            record['distribution']['biogeographic_realms'] = [bb['RLM']] if pd.notna(bb.get('RLM')) else []
+        if pd.notna(bb.get('ISL')):
+            record['distribution']['island_endemic'] = bool(bb['ISL'])
+        
+        # Elevational
+        if pd.notna(bb.get('NormMin')):
+            val = bb['NormMin']
+            if val == 'L' or val == 'l':
+                record['habitat']['elevational_min_m'] = 0
+            else:
+                try:
+                    record['habitat']['elevational_min_m'] = int(float(val))
+                except (ValueError, TypeError):
+                    pass
+        if pd.notna(bb.get('NormMax')):
+            val = bb['NormMax']
+            if val == 'L' or val == 'l':
+                record['habitat']['elevational_max_m'] = 0
+            else:
+                try:
+                    record['habitat']['elevational_max_m'] = int(float(val))
+                except (ValueError, TypeError):
+                    pass
+        
+        # Habitat
+        habitat_codes = {
+            'F': 'Forest', 'BM': 'Bamboo', 'WD': 'Woodland', 'SH': 'Shrubland',
+            'SV': 'Savanna', 'G': 'Grassland', 'PL': 'Plains', 'R': 'Rocky',
+            'D': 'Desert', 'A': 'Artificial', 'RV': 'Riverine', 'C': 'Coastal',
+            'W': 'Wetland', 'SE': 'Sea/Pelagic', 'O': 'Other'
+        }
+        habitat_list = []
+        for code, name in habitat_codes.items():
+            if pd.notna(bb.get(code)) and bb.get(code):
+                habitat_list.append(name)
+        if habitat_list:
+            record['habitat']['habitat_types'] = habitat_list
+            record['habitat']['habitat_breadth'] = len(habitat_list)
+        if pd.notna(bb.get('Primary Habitat')):
+            record['habitat']['primary'] = str(bb['Primary Habitat'])
+        
+        # Diet
+        diet_mapping = {
+            'invertebrates': 'IN-Wt',
+            'fruit': 'FR-Wt',
+            'nectar': 'NE-Wt',
+            'seeds': 'SE-Wt',
+            'vertebrates': 'VE-Wt',
+            'fish': 'FI-Wt',
+            'carrion': 'SC-Wt',
+            'plant_material': 'PL-Wt'
+        }
+        diet_sum = 0
+        for our_key, bb_key in diet_mapping.items():
+            val = bb.get(bb_key)
+            if pd.notna(val):
+                if val == 'T' or val == 't':
+                    val = 0.01  # Trace amount
+                else:
+                    try:
+                        val = float(val)
+                    except (ValueError, TypeError):
+                        val = 0
+                record['diet']['categories'][our_key] = val
+                diet_sum += val
+        if diet_sum > 0:
+            record['diet']['diet_breadth'] = sum(1 for v in record['diet']['categories'].values() if v > 0)
+        if pd.notna(bb.get('Primary Diet')):
+            record['diet']['primary'] = str(bb['Primary Diet'])
+        if pd.notna(bb.get('DB')):
+            record['diet']['diet_breadth'] = int(bb['DB'])
+        
+        # Conservation
+        if pd.notna(bb.get('2024 IUCN Red List category')):
+            record['conservation']['iucn_status'] = str(bb['2024 IUCN Red List category'])
+            record['iucn_status'] = str(bb['2024 IUCN Red List category'])
+        
+        # Behavior - Social
+        social_map = {
+            0: 'Solitary', 1: 'Pairs', 2: 'Pairs and family groups',
+            3: 'Small groups', 4: 'Large flocks', 5: 'Colonial', 6: 'Lekking'
+        }
+        for i in range(1, 7):
+            if pd.notna(bb.get(f'Social_{i}')) and bb.get(f'Social_{i}') == 1:
+                record['behavior']['sociality'] = social_map.get(i, 'Unknown')
+                break
+        
+        # Behavior - Migration
+        if pd.notna(bb.get('Mig')) and bb.get('Mig') == 1:
+            record['behavior']['migration_status'] = 'Full migrant'
+            record['behavior']['movement_type'] = 'Migratory'
+        elif pd.notna(bb.get('Alt')) and bb.get('Alt') == 1:
+            record['behavior']['migration_status'] = 'Altitudinal migrant'
+            record['behavior']['movement_type'] = 'Altitudinal'
+        elif pd.notna(bb.get('Sed')) and bb.get('Sed') == 1:
+            record['behavior']['migration_status'] = 'Resident'
+            record['behavior']['movement_type'] = 'Sedentary'
+        elif pd.notna(bb.get('Irreg')) and bb.get('Irreg') == 1:
+            record['behavior']['migration_status'] = 'Nomadic'
+            record['behavior']['movement_type'] = 'Nomadic'
+        elif pd.notna(bb.get('Disp')) and bb.get('Disp') == 1:
+            record['behavior']['movement_type'] = 'Dispersive'
+        
+        # Reproduction
+        if pd.notna(bb.get('Clutch_Min')):
+            record['reproduction']['clutch_size_min'] = int(bb['Clutch_Min'])
+        if pd.notna(bb.get('Clutch_Max')):
+            record['reproduction']['clutch_size_max'] = int(bb['Clutch_Max'])
+        if pd.notna(bb.get('Clutch_Min')) and pd.notna(bb.get('Clutch_Max')):
+            record['reproduction']['clutch_size_mean'] = (float(bb['Clutch_Min']) + float(bb['Clutch_Max'])) / 2
+        if pd.notna(bb.get('Incu1')):
+            record['reproduction']['incubation_days'] = int(bb['Incu1'])
+        if pd.notna(bb.get('Fldg1')):
+            record['reproduction']['fledging_days'] = int(bb['Fldg1'])
+        if pd.notna(bb.get('Incu_Sex')):
+            incu_sex = str(bb['Incu_Sex']).upper()
+            if 'B' in incu_sex and ('F' in incu_sex or 'M' in incu_sex):
+                record['reproduction']['parental_care'] = 'Biparental'
+            elif 'B' in incu_sex:
+                record['reproduction']['parental_care'] = 'Biparental'
+            elif 'F' in incu_sex and 'M' in incu_sex:
+                record['reproduction']['parental_care'] = 'Biparental'
+            elif 'F' in incu_sex:
+                record['reproduction']['parental_care'] = 'Female only'
+            elif 'M' in incu_sex:
+                record['reproduction']['parental_care'] = 'Male only'
+            else:
+                record['reproduction']['parental_care'] = 'Unknown'
+        
+        nest_type_map = {'SC': 'Scrape', 'CA': 'Cavity', 'PL': 'Platform', 'CU': 'Cup', 'HO': 'Hole', 'BU': 'Burrow'}
+        if pd.notna(bb.get('Nest_Type')):
+            record['reproduction']['nest_type'] = nest_type_map.get(str(bb['Nest_Type']), str(bb['Nest_Type']))
+        nest_placement_map = {
+            'G': 'Ground', 'T': 'Tree', 'W': 'Water', 'Z': 'Cliff/Crevice',
+            'S': 'Shrub/Bush', 'R': 'Rock', 'B': 'Building', 'N': 'Cavity',
+            'S': 'Shrub'
+        }
+        if pd.notna(bb.get('Nest_SBS')):
+            sbs = str(bb['Nest_SBS']).split(',')
+            placements = []
+            for code in sbs:
+                code = code.strip()
+                if code in nest_placement_map:
+                    placements.append(nest_placement_map[code])
+                else:
+                    placements.append(code)
+            record['reproduction']['nest_placement'] = ', '.join(placements)
+        
+        # Demography
+        if pd.notna(bb.get('Flightlessness')):
+            record['behavior']['activity_pattern'] = 'Flightless' if str(bb['Flightlessness']) == 'Yes' else 'Diurnal'
     
     # Merge AVONICHE data if available
     av = avoniche_data.get(sci_name, {})
@@ -337,6 +524,7 @@ def main():
     birdnet_data = data['birdnet']
     avoniche_data = data['avoniche']
     birdbase_data = data['birdbase']
+    ebird_taxonomy = data.get('ebird_taxonomy', {})
     
     # Get species list
     if args.species:
@@ -345,7 +533,12 @@ def main():
         species_list = list(birdnet_data.keys())
         
         # Filter by family/order if specified
-        # Would need taxonomy data
+        if args.family and ebird_taxonomy:
+            species_list = [s for s in species_list 
+                          if ebird_taxonomy.get(s, {}).get('FAMILY_SCI_NAME') == args.family]
+        if args.order and ebird_taxonomy:
+            species_list = [s for s in species_list 
+                          if ebird_taxonomy.get(s, {}).get('ORDER') == args.order]
         
         if args.limit:
             species_list = species_list[:args.limit]
@@ -358,7 +551,7 @@ def main():
     
     for sci_name in species_list:
         try:
-            record = build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data)
+            record = build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data, ebird_taxonomy)
             generate_species_file(sci_name, record, template, args.dry_run)
             success += 1
         except Exception as e:
