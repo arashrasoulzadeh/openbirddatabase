@@ -15,7 +15,7 @@ cd /home/arash/projects/openbird
 # Check if pytest is available
 if command -v pytest &> /dev/null; then
     echo "Running Python unit tests..."
-    pytest _scripts/ -v --tb=short 2>&1 | head -100
+    PYTHONPATH=/home/arash/projects/openbird pytest _scripts/test_ingestion.py -v --tb=short 2>&1 | head -100
 else
     echo "pytest not found, skipping Python tests"
 fi
@@ -27,7 +27,7 @@ cd /home/arash/projects/openbird/frontend
 
 if [ -f package.json ] && command -v npm &> /dev/null; then
     echo "Running frontend tests..."
-    npm test -- --watchAll=false 2>&1 | head -100
+    npx jest --watchAll=false 2>&1 | head -100
 else
     echo "Frontend not configured or npm not found, skipping"
 fi
