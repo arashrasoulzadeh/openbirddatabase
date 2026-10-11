@@ -99,6 +99,7 @@ Global bird database (~10,000+ species) as Markdown files with:
 
 - [x] Web app (Next.js/React) - `frontend/` with search, species detail, taxonomy browser
 - [x] Mobile (React Native/Expo) - `mobile/` with search, taxonomy browser, species detail, favorites, settings
+- [x] Mobile (Flutter) - `flutter_app/` with Material 3, 13 languages, dark mode, full test suite
 - [x] CLI tool (various scripts)
 - [x] MCP server for AI assistants (`_scripts/mcp_server/`)
 
@@ -220,6 +221,8 @@ birds-db/
 │   ├── SCHEMA_GUIDE.md
 │   └── CONTRIBUTING.md
 ├── frontend/                       # Next.js web app
+├── mobile/                         # React Native/Expo mobile app
+├── flutter_app/                    # Flutter mobile app
 ├── curations/                      # Expert curation files
 ├── exports/                        # Generated exports (CSV, XLSX, SQL)
 ├── dumps/                          # Database dumps
@@ -276,9 +279,11 @@ Languages: fa, en, +432 more
 - [x] **MCP server** for AI assistants (`_scripts/mcp_server/`)
 - [x] **GraphQL endpoint** for API (`/graphql`)
 - [x] **Mobile app** (React Native/Expo) with full species browsing
+- [x] **Flutter mobile app** with Material 3, 13 languages, dark/light/system themes, full test suite, GitHub Actions CI/CD
 - [x] **Veterinary curations** for 45 key species (parrots, raptors, waterfowl, gamebirds, passerines, hummingbirds, seabirds)
 - [x] **Enrichment curations** for 45 key species (foraging, cognitive, social, training)
 - [x] **10 new languages** added (es, fr, de, pt, ru, ja, zh, nl, pl, tr) - ~11K species each
+- [x] **Comprehensive test suite** - unit, widget, and integration tests for all apps
 
 ---
 
@@ -297,8 +302,10 @@ Languages: fa, en, +432 more
 - **Orders covered**: 47
 - **Families covered**: 200+
 - **Data sources integrated**: 4 (BirdNET, BIRDBASE, AVONICHE, BirdFYI)
-- **Languages available**: 434 (via BirdNET) + 10 high-coverage languages (es, fr, de, pt, ru, ja, zh, nl, pl, tr)
+- **Languages available**: 434 (via BirdNET) + 13 high-coverage languages (en, fa, ar, es, fr, de, pt, ru, ja, zh, nl, pl, tr)
 - **Veterinary curations**: 45 species
 - **Enrichment curations**: 45 species
 - **Schema validation**: 100% pass
 - **Search index**: 11,149 documents indexed in MeiliSearch
+- **Test coverage**: Unit, widget, and integration tests for all apps
+- **Mobile apps**: 2 (React Native/Expo + Flutter)
