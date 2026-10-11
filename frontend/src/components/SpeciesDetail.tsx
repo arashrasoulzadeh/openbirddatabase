@@ -2,16 +2,13 @@
 
 import React from 'react';
 import { Species } from '@/lib/types';
+import { formatNumber, formatRange, formatPercent } from '@/lib/utils';
 
 interface SpeciesDetailProps {
   species: any;
 }
 
 export default function SpeciesDetail({ species }: SpeciesDetailProps) {
-  const formatNumber = (num: number | null | undefined) => {
-    if (num === null || num === undefined) return '--';
-    return typeof num === 'number' ? num.toLocaleString() : num;
-  };
 
   const getIUCNColor = (status: string) => {
     switch (status) {

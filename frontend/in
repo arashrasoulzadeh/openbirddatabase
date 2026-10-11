@@ -1,0 +1,50 @@
+Failed to compile.
+
+Failed to compile.
+
+./src/components/SpeciesDetail.tsx
+Error: 
+  [31mx[0m Unexpected token `div`. Expected jsx identifier
+    ,-[[36;1;4m/home/arash/projects/openbird/frontend/src/components/SpeciesDetail.tsx[0m:58:1]
+ [2m58[0m |   };
+ [2m59[0m | 
+ [2m60[0m |   return (
+ [2m61[0m |     <div className="space-y-8">
+    : [31;1m     ^^^[0m
+ [2m62[0m |       {/* Header */}
+ [2m63[0m |       <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-6">
+ [2m64[0m |         <div className="flex flex-col md:flex-row gap-6 items-start">
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/SpeciesDetail.tsx
+./src/app/page.tsx
+
+./src/components/SpeciesDetail.tsx
+Error: 
+  [31mx[0m Unexpected token `div`. Expected jsx identifier
+    ,-[[36;1;4m/home/arash/projects/openbird/frontend/src/components/SpeciesDetail.tsx[0m:58:1]
+ [2m58[0m |   };
+ [2m59[0m | 
+ [2m60[0m |   return (
+ [2m61[0m |     <div className="space-y-8">
+    : [31;1m     ^^^[0m
+ [2m62[0m |       {/* Header */}
+ [2m63[0m |       <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-6">
+ [2m64[0m |         <div className="flex flex-col md:flex-row gap-6 items-start">
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/SpeciesDetail.tsx
+./src/app/page.tsx
+
+
+
+> Build failed because of webpack errors
+> Build failed because of webpack errors
