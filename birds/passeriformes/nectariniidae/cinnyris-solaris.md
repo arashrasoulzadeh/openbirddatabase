@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03214"
-ebird_code: "flbsun2"
+taxon_id: BN03214
+ebird_code: flbsun2
 gbif_key: 7340570
-avibase_id: "AB27B1A6976DF70F"
-iucn_status: "LC"
+avibase_id: AB27B1A6976DF70F
+iucn_status: LC
 taxon_order: 30481.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinnyris solaris"
-  fa: "شهدخوار سینهشعلهای"
-  en: "Flame-breasted Sunbird"
-
-# === TAXONOMY ===
+  scientific: Cinnyris solaris
+  fa: شهدخوار سینهشعلهای
+  en: Flame-breasted Sunbird
+  es: Suimanga de Timor
+  fr: Souimanga de Timor
+  de: Sonnennektarvogel
+  pt: beija-flor-de-peito-laranja
+  ru: Солнечная нектарница
+  ja: チモールタイヨウチョウ
+  nl: Zonnehoningzuiger
+  pl: nektarnik słoneczny
+  tr: Güneş Nektarkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Cinnyris"
-  species: "solaris"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Cinnyris
+  species: solaris
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -86,38 +87,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_type: "PN"
-  nest_placement: "Shrub"
+  nest_type: PN
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinnyris solaris (شهدخوار سینهشعلهای)
 

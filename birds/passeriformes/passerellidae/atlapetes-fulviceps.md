@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01448"
-ebird_code: "fhbfin1"
+taxon_id: BN01448
+ebird_code: fhbfin1
 gbif_key: 2491403
-avibase_id: "280F5CC15FB8AD08"
-iucn_status: "LC"
+avibase_id: 280F5CC15FB8AD08
+iucn_status: LC
 taxon_order: 33517.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Atlapetes fulviceps"
-  fa: "سهرهفرچهای سرگندمی"
-  en: "Fulvous-headed Brushfinch"
-
-# === TAXONOMY ===
+  scientific: Atlapetes fulviceps
+  fa: سهرهفرچهای سرگندمی
+  en: Fulvous-headed Brushfinch
+  es: Atlapetes Cabecirrufo
+  fr: Tohi à tête rousse
+  de: Braunbart-Buschammer
+  pt: fulvous-headed brushfinch
+  ru: Буроголовая атлапета
+  ja: ズアカヤブシトド
+  nl: Bruinbaardstruikgors
+  pl: zaroślak żółtowąsy
+  tr: Sarıca Çalı Serçesi
 taxonomy:
-  order: "Passeriformes"
-  family: "Passerellidae"
-  genus: "Atlapetes"
-  species: "fulviceps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Passerellidae
+  genus: Atlapetes
+  species: fulviceps
 morphology:
   body_mass_g: 28.2
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1500
   elevational_max_m: 3600
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Atlapetes fulviceps (سهرهفرچهای سرگندمی)
 

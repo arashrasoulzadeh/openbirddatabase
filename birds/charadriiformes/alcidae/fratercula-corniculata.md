@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05685"
-ebird_code: "horpuf"
+taxon_id: BN05685
+ebird_code: horpuf
 gbif_key: 2481359
-avibase_id: "24111FA5AE00A5DB"
-iucn_status: "LC"
+avibase_id: 24111FA5AE00A5DB
+iucn_status: LC
 taxon_order: 6383.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Fratercula corniculata"
-  fa: "طوطی دریایی شاخدار"
-  en: "Horned Puffin"
-
-# === TAXONOMY ===
+  scientific: Fratercula corniculata
+  fa: طوطی دریایی شاخدار
+  en: Horned Puffin
+  es: Frailecillo Corniculado
+  fr: Macareux cornu
+  de: Hornlund
+  pt: horned puffin
+  ru: Ипатка
+  ja: ツノメドリ
+  zh: 角海鹦
+  nl: Hoornpapegaaiduiker
+  pl: maskonur pacyficzny
+  tr: Sarı Gagalı Denizpapağanı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Alcidae"
-  genus: "Fratercula"
-  species: "corniculata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Alcidae
+  genus: Fratercula
+  species: corniculata
 morphology:
   body_mass_g: 559.8333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Coastal
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 38
   fledging_days: 34
-  nest_type: "CR,BU"
-  nest_placement: "Ground, Rock"
+  nest_type: CR,BU
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Fratercula corniculata (طوطی دریایی شاخدار)
 

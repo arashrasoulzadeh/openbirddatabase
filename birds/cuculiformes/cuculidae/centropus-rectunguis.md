@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02588"
-ebird_code: "shtcou1"
+taxon_id: BN02588
+ebird_code: shtcou1
 gbif_key: 5231972
-avibase_id: "B4E9B5B65CF35D76"
-iucn_status: "VU"
+avibase_id: B4E9B5B65CF35D76
+iucn_status: VU
 taxon_order: 3090.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Centropus rectunguis"
-  fa: "میخپنجه انگشتکوتاه"
-  en: "Short-toed Coucal"
-
-# === TAXONOMY ===
+  scientific: Centropus rectunguis
+  fa: میخپنجه انگشتکوتاه
+  en: Short-toed Coucal
+  es: Cucal de Strickland
+  fr: Coucal de Strickland
+  de: Kurzspornkuckuck
+  pt: short-toed coucal
+  ru: Короткопалый кукаль
+  ja: コユビバンケン
+  zh: 短趾鴉鵑
+  nl: Kortteenspoorkoekoek
+  pl: kukal krótkopalcowy
+  tr: Küçük Kukal
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Centropus"
-  species: "rectunguis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Centropus
+  species: rectunguis
 morphology:
   body_mass_g: 200.625
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Forest", "Shrubland", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Centropus rectunguis (میخپنجه انگشتکوتاه)
 

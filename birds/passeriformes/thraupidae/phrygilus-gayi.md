@@ -1,49 +1,55 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11223"
-ebird_code: "gyhsif1"
+taxon_id: BN11223
+ebird_code: gyhsif1
 gbif_key: 5231088
-avibase_id: "453C47FD55632263"
-iucn_status: "LC"
+avibase_id: 453C47FD55632263
+iucn_status: LC
 taxon_order: 35347.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phrygilus gayi"
-  fa: "nan"
-  en: "Grey-hooded Sierra Finch"
-
-# === TAXONOMY ===
+  scientific: Phrygilus gayi
+  fa: nan
+  en: Grey-hooded Sierra Finch
+  es: Yal Cabecigrís
+  fr: Phrygile à tête grise
+  de: Kordillerenammertangare
+  pt: gray-hooded sierra finch
+  ru: Кордильерский овсяночник
+  ja: ハイズキンヤマシトド
+  zh: Grey-hooded Sierra Finch
+  nl: Grijskapsierragors
+  pl: chruściak szarogłowy
+  tr: Gri Başlı And İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Phrygilus"
-  species: "gayi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Phrygilus
+  species: gayi
 morphology:
   body_mass_g: 27.133333333333336
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 7
   elevational_min_m: 0
   elevational_max_m: 4300
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Grassland", "Rocky", "Desert", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Desert
+  - Wetland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -88,41 +94,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 14
   fledging_days: 14
-  nest_type: "CP"
-  nest_placement: "Rock, Shrub, Cliff/Crevice"
+  nest_type: CP
+  nest_placement: Rock, Shrub, Cliff/Crevice
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +127,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +135,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phrygilus gayi (nan)
 

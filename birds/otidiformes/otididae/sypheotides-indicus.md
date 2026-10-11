@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14562"
-ebird_code: "lesflo2"
+taxon_id: BN14562
+ebird_code: lesflo2
 gbif_key: 2474868
-avibase_id: "FEA2C3CDFCACEEF2"
-iucn_status: "CR"
+avibase_id: FEA2C3CDFCACEEF2
+iucn_status: CR
 taxon_order: 2965.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sypheotides indicus"
-  fa: "هوبره کوچک"
-  en: "Lesser Florican"
-
-# === TAXONOMY ===
+  scientific: Sypheotides indicus
+  fa: هوبره کوچک
+  en: Lesser Florican
+  es: Sisón de Penacho
+  fr: Outarde passarage
+  de: Flaggentrappe
+  pt: lesser florican
+  ru: Малый флорикан
+  ja: インドショウノガン
+  zh: 姬鴇
+  nl: Kleine Indische trap
+  pl: hubarka długoczuba
+  tr: Telli Florikan
 taxonomy:
-  order: "Otidiformes"
-  family: "Otididae"
-  genus: "Sypheotides"
-  species: "indicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Otidiformes
+  family: Otididae
+  genus: Sypheotides
+  species: indicus
 morphology:
   body_mass_g: 610.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 5
   categories:
     invertebrates: 1.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sypheotides indicus (هوبره کوچک)
 

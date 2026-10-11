@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12574"
-ebird_code: "bkcpet2"
+taxon_id: BN12574
+ebird_code: bkcpet2
 gbif_key: 4352304
-avibase_id: "8B2FD89049C2AD46"
-iucn_status: "CR (PE)"
+avibase_id: 8B2FD89049C2AD46
+iucn_status: CR (PE)
 taxon_order: 7134.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pterodroma caribbaea"
-  fa: "مرغ باران جامائیکا"
-  en: "Jamaican Petrel"
-
-# === TAXONOMY ===
+  scientific: Pterodroma caribbaea
+  fa: مرغ باران جامائیکا
+  en: Jamaican Petrel
+  es: Petrel Jamaicano
+  fr: Pétrel de Jamaïque
+  de: Jamaikasturmvogel
+  pt: jamaican petrel
+  ru: Ямайский тайфунник
+  ja: ジャマイカミズナギドリ
+  zh: 牙買加圓尾鸌
+  nl: Jamaicaanse stormvogel
+  pl: petrel jamajski
+  tr: Jameika Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Pterodroma"
-  species: "caribbaea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Pterodroma
+  species: caribbaea
 morphology:
   body_mass_g: 278.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "BU,CR"
-  nest_placement: "Ground"
+  nest_type: BU,CR
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR (PE)"
-  cites_appendix: "Not listed"
+  iucn_status: CR (PE)
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pterodroma caribbaea (مرغ باران جامائیکا)
 

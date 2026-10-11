@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15181"
-ebird_code: "westra1"
+taxon_id: BN15181
+ebird_code: westra1
 gbif_key: 2473543
-avibase_id: "44BD6CF10F289FE5"
-iucn_status: "VU"
+avibase_id: 44BD6CF10F289FE5
+iucn_status: VU
 taxon_order: 1246.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tragopan melanocephalus"
-  fa: "قرقاول شاخدار غربی"
-  en: "Western Tragopan"
-
-# === TAXONOMY ===
+  scientific: Tragopan melanocephalus
+  fa: قرقاول شاخدار غربی
+  en: Western Tragopan
+  es: Tragopán Dorsigrís
+  fr: Tragopan de Hastings
+  de: Schwarzkopftragopan
+  pt: western tragopan
+  ru: Черноголовый трагопан
+  ja: ハイイロジュケイ
+  zh: 黑头角雉
+  nl: Zwartkruinsaterhoen
+  pl: tragopan rudolicy
+  tr: Karaca Tragopan
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Tragopan"
-  species: "melanocephalus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Tragopan
+  species: melanocephalus
 morphology:
   body_mass_g: 1650.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1735
   elevational_max_m: 3600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
-  nest_type: "CV,O"
-  nest_placement: "Ground, Tree"
+  nest_type: CV,O
+  nest_placement: Ground, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tragopan melanocephalus (قرقاول شاخدار غربی)
 

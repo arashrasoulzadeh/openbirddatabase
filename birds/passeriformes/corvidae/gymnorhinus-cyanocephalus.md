@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06292"
-ebird_code: "pinjay"
+taxon_id: BN06292
+ebird_code: pinjay
 gbif_key: 5229498
-avibase_id: "A6905B3C49A359B0"
-iucn_status: "VU"
+avibase_id: A6905B3C49A359B0
+iucn_status: VU
 taxon_order: 21273.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gymnorhinus cyanocephalus"
-  fa: "جیجاق پینیون"
-  en: "Pinyon Jay"
-
-# === TAXONOMY ===
+  scientific: Gymnorhinus cyanocephalus
+  fa: جیجاق پینیون
+  en: Pinyon Jay
+  es: Chara Piñonera
+  fr: Geai des pinèdes
+  de: Schlankschnabelhäher
+  pt: pinyon jay
+  ru: Остроклювая сойка
+  ja: マツカケス
+  zh: 藍頭鴉
+  nl: Pinyongaai
+  pl: modrowroniec
+  tr: Çamfıstığı Kargası
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Gymnorhinus"
-  species: "cyanocephalus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Gymnorhinus
+  species: cyanocephalus
 morphology:
   body_mass_g: 104.35
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1000
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 17
   fledging_days: 21
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gymnorhinus cyanocephalus (جیجاق پینیون)
 

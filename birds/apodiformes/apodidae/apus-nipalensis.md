@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01098"
-ebird_code: "houswi1"
+taxon_id: BN01098
+ebird_code: houswi1
 gbif_key: 5228679
-avibase_id: "2A241F0C119F0276"
-iucn_status: "LC"
+avibase_id: 2A241F0C119F0276
+iucn_status: LC
 taxon_order: 4144.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Apus nipalensis"
-  fa: "بادقپک خانگی"
-  en: "House Swift"
-
-# === TAXONOMY ===
+  scientific: Apus nipalensis
+  fa: بادقپک خانگی
+  en: House Swift
+  es: Vencejo Oriental
+  fr: Martinet malais
+  de: Malaiensegler
+  pt: house swift
+  ru: Домовый стриж
+  ja: ヒメアマツバメ
+  zh: 小白腰雨燕
+  nl: Grote huisgierzwaluw
+  pl: jerzyk nepalski
+  tr: Doğu Küçük Ebabili
 taxonomy:
-  order: "Apodiformes"
-  family: "Apodidae"
-  genus: "Apus"
-  species: "nipalensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Apodidae
+  genus: Apus
+  species: nipalensis
 morphology:
   body_mass_g: 28.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Artificial"
+  primary: Artificial
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 2100
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 1
   clutch_size_max: 5
   incubation_days: 18
   fledging_days: 36
-  nest_type: "O,PN"
-  nest_placement: "Building"
+  nest_type: O,PN
+  nest_placement: Building
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Apus nipalensis (بادقپک خانگی)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03663"
-ebird_code: "puwrol1"
+taxon_id: BN03663
+ebird_code: puwrol1
 gbif_key: 2475372
-avibase_id: "B8895D02ED486BB5"
-iucn_status: "LC"
+avibase_id: B8895D02ED486BB5
+iucn_status: LC
 taxon_order: 10346.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coracias temminckii"
-  fa: "سبزقبای بالارغوانی"
-  en: "Purple-winged Roller"
-
-# === TAXONOMY ===
+  scientific: Coracias temminckii
+  fa: سبزقبای بالارغوانی
+  en: Purple-winged Roller
+  es: Carraca de Célebes
+  fr: Rollier de Temminck
+  de: Celebesracke
+  pt: purple-winged roller
+  ru: Сулавесская сизоворонка
+  ja: セレベスブッポウソウ
+  nl: Sulawesischarrelaar
+  pl: kraska purpurowa
+  tr: Selebes Gökkuzgunu
 taxonomy:
-  order: "Coraciiformes"
-  family: "Coraciidae"
-  genus: "Coracias"
-  species: "temminckii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Coraciiformes
+  family: Coraciidae
+  genus: Coracias
+  species: temminckii
 morphology:
   body_mass_g: 154.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1150
-  habitat_types: ["Forest", "Woodland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 3
   clutch_size_max: 3
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coracias temminckii (سبزقبای بالارغوانی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06503"
-ebird_code: "nezpig3"
+taxon_id: BN06503
+ebird_code: nezpig3
 gbif_key: 4851668
-avibase_id: "1819B63FE8A124FD"
-iucn_status: "VU"
+avibase_id: 1819B63FE8A124FD
+iucn_status: VU
 taxon_order: 2848.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hemiphaga chathamensis"
-  fa: "کبوتر چتهم"
-  en: "Chatham Islands Pigeon"
-
-# === TAXONOMY ===
+  scientific: Hemiphaga chathamensis
+  fa: کبوتر چتهم
+  en: Chatham Islands Pigeon
+  es: Paloma de las Chatham
+  fr: Carpophage des Chatham
+  de: Chathamfruchttaube
+  pt: chatham islands pigeon
+  ru: Чатемский плодовый голубь
+  ja: チャタムバト
+  nl: Chathamduif
+  pl: garlica szarorzytna
+  tr: Chatham Güvercini
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Hemiphaga"
-  species: "chathamensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Hemiphaga
+  species: chathamensis
 morphology:
   body_mass_g: 734.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["Z"]
+  biogeographic_realms:
+  - Z
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 26
-  nest_type: "Platform"
+  nest_type: Platform
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hemiphaga chathamensis (کبوتر چتهم)
 

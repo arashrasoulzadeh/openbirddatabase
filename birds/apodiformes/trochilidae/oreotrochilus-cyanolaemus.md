@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10231"
-ebird_code: "buthil1"
+taxon_id: BN10231
+ebird_code: buthil1
 gbif_key: 10734190
-avibase_id: "7503BD8B46821A28"
-iucn_status: "CR"
+avibase_id: 7503BD8B46821A28
+iucn_status: CR
 taxon_order: 4490.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Oreotrochilus cyanolaemus"
-  fa: "nan"
-  en: "Blue-throated Hillstar"
-
-# === TAXONOMY ===
+  scientific: Oreotrochilus cyanolaemus
+  fa: nan
+  en: Blue-throated Hillstar
+  es: Colibrí del Arcos
+  fr: Colibri d'El Oro
+  de: Blaulatzkolibri
+  pt: blue-throated hillstar
+  ru: Синегорлая ореада
+  zh: 蓝喉山蜂鸟
+  nl: Blauwkeelbergnimf
+  pl: górzak modrogardły
+  tr: Mavi Gerdanlı Dağyıldızı
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Oreotrochilus"
-  species: "cyanolaemus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Oreotrochilus
+  species: cyanolaemus
 morphology:
   body_mass_g: 7.6
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 3325
   elevational_max_m: 3680
-  habitat_types: ["Shrubland", "Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Oreotrochilus cyanolaemus (nan)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00914"
-ebird_code: "yetpip1"
+taxon_id: BN00914
+ebird_code: yetpip1
 gbif_key: 2490291
-avibase_id: "56CB3F84F8258AEA"
-iucn_status: "NT"
+avibase_id: 56CB3F84F8258AEA
+iucn_status: NT
 taxon_order: 31847.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anthus crenatus"
-  fa: "پیپت کاکلزرد"
-  en: "African Rock Pipit"
-
-# === TAXONOMY ===
+  scientific: Anthus crenatus
+  fa: پیپت کاکلزرد
+  en: African Rock Pipit
+  es: Bisbita Roquero
+  fr: Pipit des rochers
+  de: Klippenpieper
+  pt: yellow-tufted pipit
+  ru: Каменный конёк
+  ja: フナシイワタヒバリ
+  zh: African Rock Pipit
+  nl: Kopjespieper
+  pl: świergotek natalski
+  tr: Afrika Kaya İncirkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Motacillidae"
-  genus: "Anthus"
-  species: "crenatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Motacillidae
+  genus: Anthus
+  species: crenatus
 morphology:
   body_mass_g: 32.166666666666664
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 300
   elevational_max_m: 3000
-  habitat_types: ["Shrubland", "Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 12
   fledging_days: 11
-  nest_type: "HC"
-  nest_placement: "Ground"
+  nest_type: HC
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anthus crenatus (پیپت کاکلزرد)
 

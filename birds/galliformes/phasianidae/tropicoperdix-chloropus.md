@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15343"
-ebird_code: "scbpar1"
+taxon_id: BN15343
+ebird_code: scbpar1
 gbif_key: 8735646
-avibase_id: "C12EB40194A75247"
-iucn_status: "LC"
+avibase_id: C12EB40194A75247
+iucn_status: LC
 taxon_order: 1580.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tropicoperdix chloropus"
-  fa: "کبک پاسبز"
-  en: "Green-legged Partridge"
-
-# === TAXONOMY ===
+  scientific: Tropicoperdix chloropus
+  fa: کبک پاسبز
+  en: Green-legged Partridge
+  es: Arborófila Pativerde
+  fr: Torquéole des bois
+  de: Grünfuß-Buschwachtel
+  pt: scaly-breasted partridge
+  ru: Зеленоногая лесная куропатка
+  ja: アオアシミヤマテッケイ
+  zh: 绿脚树鹧鸪
+  nl: Groenpootbospatrijs
+  pl: kuropatwokur zielononogi
+  tr: Yeşil Bacaklı Dağ Kekliği
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Tropicoperdix"
-  species: "chloropus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Tropicoperdix
+  species: chloropus
 morphology:
   body_mass_g: 276.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Bamboo"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 3.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Ground"
+  nest_type: CP
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tropicoperdix chloropus (کبک پاسبز)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04109"
-ebird_code: "buwgoo1"
+taxon_id: BN04109
+ebird_code: buwgoo1
 gbif_key: 2498381
-avibase_id: "842CC0BCEDC06131"
-iucn_status: "NT"
+avibase_id: 842CC0BCEDC06131
+iucn_status: NT
 taxon_order: 376.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyanochen cyanoptera"
-  fa: "غاز بالآبی"
-  en: "Blue-winged Goose"
-
-# === TAXONOMY ===
+  scientific: Cyanochen cyanoptera
+  fa: غاز بالآبی
+  en: Blue-winged Goose
+  es: Ganso Aliazul
+  fr: Cyanoie à ailes bleues
+  de: Blauflügelgans
+  pt: blue-winged goose
+  ru: Голубокрылый гусь
+  ja: アオバコバシガン
+  zh: 藍翅雁
+  nl: Blauwvleugelgans
+  pl: etiopka
+  tr: Mavi Kanatlı Kaz
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Cyanochen"
-  species: "cyanoptera"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Cyanochen
+  species: cyanoptera
 morphology:
   body_mass_g: 1796.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 2100
   elevational_max_m: 4500
-  habitat_types: ["Grassland", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Riverine
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 8.0
   clutch_size_min: 4
   clutch_size_max: 12
   incubation_days: 30
   fledging_days: 85
-  nest_placement: "Ground"
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyanochen cyanoptera (غاز بالآبی)
 

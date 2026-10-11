@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02423"
-ebird_code: "pyrrhu"
+taxon_id: BN02423
+ebird_code: pyrrhu
 gbif_key: 2490405
-avibase_id: "DE21A6BE0D3EE1AD"
-iucn_status: "LC"
+avibase_id: DE21A6BE0D3EE1AD
+iucn_status: LC
 taxon_order: 34535.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cardinalis sinuatus"
-  fa: "کاردینال بیابانی"
-  en: "Pyrrhuloxia"
-
-# === TAXONOMY ===
+  scientific: Cardinalis sinuatus
+  fa: کاردینال بیابانی
+  en: Pyrrhuloxia
+  es: Cardenal Pardo
+  fr: Cardinal pyrrhuloxia
+  de: Schmalschnabelkardinal
+  pt: pyrrhuloxia
+  ru: Попугаевый кардинал
+  ja: ムネアカコウカンチョウ
+  zh: 灰額主紅雀
+  nl: Grijze kardinaal
+  pl: kardynał karmazynowy
+  tr: Arizona Kardinalı
 taxonomy:
-  order: "Passeriformes"
-  family: "Cardinalidae"
-  genus: "Cardinalis"
-  species: "sinuatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cardinalidae
+  genus: Cardinalis
+  species: sinuatus
 morphology:
   body_mass_g: 35.375
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Shrubland", "Desert", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Desert
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 3.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 14
   fledging_days: 10
-  nest_type: "CP"
-  nest_placement: "Tree, Shrub"
+  nest_type: CP
+  nest_placement: Tree, Shrub
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cardinalis sinuatus (کاردینال بیابانی)
 

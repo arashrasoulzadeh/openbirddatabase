@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13774"
-ebird_code: "pertap1"
+taxon_id: BN13774
+ebird_code: pertap1
 gbif_key: 8986607
-avibase_id: "C98B936330D30636"
-iucn_status: "NT"
+avibase_id: C98B936330D30636
+iucn_status: NT
 taxon_order: 14458.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Scytalopus perijanus"
-  fa: "nan"
-  en: "Perija Tapaculo"
-
-# === TAXONOMY ===
+  scientific: Scytalopus perijanus
+  fa: nan
+  en: Perija Tapaculo
+  es: Churrín del Perijá
+  fr: Mérulaxe de la Perija
+  de: Perijátapaculo
+  pt: perija tapaculo
+  ru: Перихский тапакуло
+  ja: ペリハオタテドリ
+  nl: Perijatapaculo
+  pl: krytonosek brązowokarkowy
+  tr: Periha Tapakolası
 taxonomy:
-  order: "Passeriformes"
-  family: "Rhinocryptidae"
-  genus: "Scytalopus"
-  species: "perijanus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Rhinocryptidae
+  genus: Scytalopus
+  species: perijanus
 morphology:
   body_mass_g: 18.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2500
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Scytalopus perijanus (nan)
 

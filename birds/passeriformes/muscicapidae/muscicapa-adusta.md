@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09155"
-ebird_code: "afdfly1"
+taxon_id: BN09155
+ebird_code: afdfly1
 gbif_key: 2492569
-avibase_id: "6E95C4A9B92FC8BB"
-iucn_status: "LC"
+avibase_id: 6E95C4A9B92FC8BB
+iucn_status: LC
 taxon_order: 28804.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Muscicapa adusta"
-  fa: "nan"
-  en: "African Dusky Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Muscicapa adusta
+  fa: nan
+  en: African Dusky Flycatcher
+  es: Papamoscas Sombrío
+  fr: Gobemouche sombre
+  de: Dunkelschnäpper
+  pt: african dusky flycatcher
+  ru: Бурая мухоловка
+  ja: アフリカコサメビタキ
+  nl: Donkere vliegenvanger
+  pl: muchołówka myszata
+  tr: Afrika Esmer Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Muscicapa"
-  species: "adusta"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Muscicapa
+  species: adusta
 morphology:
   body_mass_g: 11.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 900
   elevational_max_m: 3400
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 11
   fledging_days: 17
-  nest_type: "CP,O,CV"
-  nest_placement: "Tree, Rock"
+  nest_type: CP,O,CV
+  nest_placement: Tree, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Muscicapa adusta (nan)
 

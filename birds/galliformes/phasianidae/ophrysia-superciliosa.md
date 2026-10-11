@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10180"
-ebird_code: "himqua1"
+taxon_id: BN10180
+ebird_code: himqua1
 gbif_key: 2473657
-avibase_id: "1EDD86FF97DAFBAB"
-iucn_status: "CR"
+avibase_id: 1EDD86FF97DAFBAB
+iucn_status: CR
 taxon_order: 1809.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ophrysia superciliosa"
-  fa: "بلدرچین هیمالیا"
-  en: "Himalayan Quail"
-
-# === TAXONOMY ===
+  scientific: Ophrysia superciliosa
+  fa: بلدرچین هیمالیا
+  en: Himalayan Quail
+  es: Perdicilla Himalaya
+  fr: Ophrysie de l'Himalaya
+  de: Himalajawachtel
+  pt: himalayan quail
+  ru: Гималайский перепел
+  ja: ケバネウズラ
+  zh: 喜馬拉亞鶉
+  nl: Himalayakwartel
+  pl: przepiórecznik
+  tr: Kurşuni Bıldırcın
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Ophrysia"
-  species: "superciliosa"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Ophrysia
+  species: superciliosa
 morphology:
   body_mass_g: 189.7
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1650
   elevational_max_m: 2400
-  habitat_types: ["Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ophrysia superciliosa (بلدرچین هیمالیا)
 

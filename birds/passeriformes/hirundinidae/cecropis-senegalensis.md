@@ -1,49 +1,55 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02541"
-ebird_code: "mosswa2"
+taxon_id: BN02541
+ebird_code: mosswa2
 gbif_key: 7342250
-avibase_id: "9185D29DF441336D"
-iucn_status: "LC"
+avibase_id: 9185D29DF441336D
+iucn_status: LC
 taxon_order: 24265.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cecropis senegalensis"
-  fa: "پرستوی مسجدی"
-  en: "Mosque Swallow"
-
-# === TAXONOMY ===
+  scientific: Cecropis senegalensis
+  fa: پرستوی مسجدی
+  en: Mosque Swallow
+  es: Golondrina Senegalesa
+  fr: Hirondelle des mosquées
+  de: Senegalrötelschwalbe
+  pt: andorinha-do-senegal
+  ru: Сенегальская ласточка
+  ja: アフリカコシアカツバメ
+  zh: 塞内加尔金腰燕
+  nl: Moskeezwaluw
+  pl: jaskółka moskitowa
+  tr: Senegal Kırlangıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Hirundinidae"
-  genus: "Cecropis"
-  species: "senegalensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Hirundinidae
+  genus: Cecropis
+  species: senegalensis
 morphology:
   body_mass_g: 44.833333333333336
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 7
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Grassland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +94,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Building, Cavity, Tree"
+  nest_type: CP
+  nest_placement: Building, Cavity, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cecropis senegalensis (پرستوی مسجدی)
 

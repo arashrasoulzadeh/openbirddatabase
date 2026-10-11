@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15373"
-ebird_code: "mawbab1"
+taxon_id: BN15373
+ebird_code: mawbab1
 gbif_key: 7341220
-avibase_id: "E5EA242EE1BA555C"
-iucn_status: "LC"
+avibase_id: E5EA242EE1BA555C
+iucn_status: LC
 taxon_order: 26147.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turdinus marmoratus"
-  fa: "لیکوالیکایی مرمری"
-  en: "Marbled Wren-Babbler"
-
-# === TAXONOMY ===
+  scientific: Turdinus marmoratus
+  fa: لیکوالیکایی مرمری
+  en: Marbled Wren-Babbler
+  es: Ratina Jaspeada
+  fr: Turdinule marbrée
+  de: Marmordrossling
+  pt: marbled wren-babbler
+  ru: Мраморная подкоренница
+  ja: ウロコサザイチメドリ
+  zh: 石纹鹪鹛
+  nl: Marmersluiptimalia
+  pl: tymalek rdzawouchy
+  tr: Damarlı Yalancıardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Pellorneidae"
-  genus: "Turdinus"
-  species: "marmoratus"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Pellorneidae
+  genus: Turdinus
+  species: marmoratus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 610
   elevational_max_m: 2000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turdinus marmoratus (لیکوالیکایی مرمری)
 

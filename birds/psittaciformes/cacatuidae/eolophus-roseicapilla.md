@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05140"
-ebird_code: "galah"
+taxon_id: BN05140
+ebird_code: galah
 gbif_key: 2479598
-avibase_id: "155F5285693BF58B"
-iucn_status: "LC"
+avibase_id: 155F5285693BF58B
+iucn_status: LC
 taxon_order: 12176.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Eolophus roseicapilla"
-  fa: "طوطیکاکلی سینهصورتی"
-  en: "Galah"
-
-# === TAXONOMY ===
+  scientific: Eolophus roseicapilla
+  fa: طوطیکاکلی سینهصورتی
+  en: Galah
+  es: Cacatúa Galah
+  fr: Cacatoès rosalbin
+  de: Rosakakadu
+  pt: galah
+  ru: Розовый какаду
+  ja: モモイロインコ
+  zh: 粉紅鳳頭鸚鵡
+  nl: Roze kaketoe
+  pl: kakadu różowa
+  tr: Gül Rengi Kakadu
 taxonomy:
-  order: "Psittaciformes"
-  family: "Cacatuidae"
-  genus: "Eolophus"
-  species: "roseicapilla"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Cacatuidae
+  genus: Eolophus
+  species: roseicapilla
 morphology:
   body_mass_g: 335.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Woodland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 2
   clutch_size_max: 6
   incubation_days: 22
   fledging_days: 49
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Eolophus roseicapilla (طوطیکاکلی سینهصورتی)
 

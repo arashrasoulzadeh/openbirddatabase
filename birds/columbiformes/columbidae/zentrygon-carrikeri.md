@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16006"
-ebird_code: "tuqdov1"
+taxon_id: BN16006
+ebird_code: tuqdov1
 gbif_key: 8164124
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 2371.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zentrygon carrikeri"
-  fa: "nan"
-  en: "Tuxtla Quail-Dove"
-
-# === TAXONOMY ===
+  scientific: Zentrygon carrikeri
+  fa: nan
+  en: Tuxtla Quail-Dove
+  es: Paloma Perdiz de Veracruz
+  fr: Colombe de Tuxtla
+  de: Veracruztaube
+  pt: tuxtla quail-dove
+  ru: Веракрусская перепелиная горлица
+  ja: ベラクルスウズラバト
+  zh: 卡氏鹑鸠
+  nl: Tuxtlakwartelduif
+  pl: cuglogołębik kraterowy
+  tr: Verakruz Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Zentrygon"
-  species: "carrikeri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Zentrygon
+  species: carrikeri
 morphology:
   body_mass_g: 270.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 350
   elevational_max_m: 2100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "Platform"
+  nest_type: Platform
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zentrygon carrikeri (nan)
 

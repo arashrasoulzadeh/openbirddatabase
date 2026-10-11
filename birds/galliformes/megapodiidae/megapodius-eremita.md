@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08481"
-ebird_code: "melscr1"
+taxon_id: BN08481
+ebird_code: melscr1
 gbif_key: 2482143
-avibase_id: "5795BC17912E08C2"
-iucn_status: "LC"
+avibase_id: 5795BC17912E08C2
+iucn_status: LC
 taxon_order: 843.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Megapodius eremita"
-  fa: "پابزرگ ملانزی"
-  en: "Melanesian Megapode"
-
-# === TAXONOMY ===
+  scientific: Megapodius eremita
+  fa: پابزرگ ملانزی
+  en: Melanesian Megapode
+  es: Talégalo Eremita
+  fr: Mégapode mélanésien
+  de: Bismarck-Großfußhuhn
+  pt: melanesian megapode
+  ru: Меланезийский большеног
+  ja: メラネシアツカツクリ
+  zh: 美拉尼西亞塚雉
+  nl: Heremietboshoen
+  pl: nogal melanezyjski
+  tr: Melanezya Megapodu
 taxonomy:
-  order: "Galliformes"
-  family: "Megapodiidae"
-  genus: "Megapodius"
-  species: "eremita"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Megapodiidae
+  genus: Megapodius
+  species: eremita
 morphology:
   body_mass_g: 657.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1575
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.5
   clutch_size_min: 4
   clutch_size_max: 11
   incubation_days: 42
-  nest_type: "BU,M"
-  nest_placement: "C, Ground"
+  nest_type: BU,M
+  nest_placement: C, Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Megapodius eremita (پابزرگ ملانزی)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07587"
-ebird_code: "grbcra1"
+taxon_id: BN07587
+ebird_code: grbcra1
 gbif_key: 2474589
-avibase_id: "8ABC8268F1439C0B"
-iucn_status: "LC"
+avibase_id: 8ABC8268F1439C0B
+iucn_status: LC
 taxon_order: 5649.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Laterallus exilis"
-  fa: "یلوه سینهخاکستری"
-  en: "Grey-breasted Crake"
-
-# === TAXONOMY ===
+  scientific: Laterallus exilis
+  fa: یلوه سینهخاکستری
+  en: Grey-breasted Crake
+  es: Polluela Pechigrís
+  fr: Râle grêle
+  de: Amazonasralle
+  pt: sanã-do-capim
+  ru: Серогрудый коростелёк
+  ja: ハイムネコビトクイナ
+  zh: Grey-breasted Crake
+  nl: Amazonedwergral
+  pl: derkaczyk amazoński
+  tr: Gök Yüzlü Yelve
 taxonomy:
-  order: "Gruiformes"
-  family: "Rallidae"
-  genus: "Laterallus"
-  species: "exilis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gruiformes
+  family: Rallidae
+  genus: Laterallus
+  species: exilis
 morphology:
   body_mass_g: 33.875
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1700
-  habitat_types: ["Grassland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,37 +91,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
-  nest_type: "SP"
+  nest_type: SP
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Laterallus exilis (یلوه سینهخاکستری)
 

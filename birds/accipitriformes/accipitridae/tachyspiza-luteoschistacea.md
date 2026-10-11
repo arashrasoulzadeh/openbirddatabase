@@ -1,46 +1,44 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14625"
-ebird_code: "slmgos1"
-avibase_id: "nan"
-iucn_status: "LC"
+taxon_id: BN14625
+ebird_code: slmgos1
+avibase_id: nan
+iucn_status: LC
 taxon_order: 8223.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachyspiza luteoschistacea"
-  fa: "nan"
-  en: "Slaty-mantled Goshawk"
-
-# === TAXONOMY ===
+  scientific: Tachyspiza luteoschistacea
+  fa: nan
+  en: Slaty-mantled Goshawk
+  es: Gavilán de Nueva Bretaña
+  fr: Autour bleu et gris
+  de: Schiefermantelhabicht
+  pt: slaty-mantled goshawk
+  ru: Шиферный ястреб
+  ja: アオハイタカ
+  zh: 藍灰雀鷹
+  nl: Grauwe sperwer
+  pl: krogulec białogardły
+  tr: Gri Sırtlı Atmaca
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Tachyspiza"
-  species: "luteoschistacea"
-
-
-# === DISTRIBUTION ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Tachyspiza
+  species: luteoschistacea
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -85,31 +83,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -117,8 +106,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -127,12 +114,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Tachyspiza luteoschistacea (nan)
 

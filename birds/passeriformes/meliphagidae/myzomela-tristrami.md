@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09513"
-ebird_code: "soomyz1"
+taxon_id: BN09513
+ebird_code: soomyz1
 gbif_key: 2487254
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 18038.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myzomela tristrami"
-  fa: "nan"
-  en: "Sooty Myzomela"
-
-# === TAXONOMY ===
+  scientific: Myzomela tristrami
+  fa: nan
+  en: Sooty Myzomela
+  es: Mielero de Tristram
+  fr: Myzomèle de Tristram
+  de: Tristramhonigfresser
+  pt: sooty myzomela
+  ru: Соломонская медовка
+  ja: ソロモンミツスイ
+  nl: Tristramdwerghoningeter
+  pl: miodówka okopcona
+  tr: Tristram Mizomelası
 taxonomy:
-  order: "Passeriformes"
-  family: "Meliphagidae"
-  genus: "Myzomela"
-  species: "tristrami"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Meliphagidae
+  genus: Myzomela
+  species: tristrami
 morphology:
   body_mass_g: 13.625
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 700
   elevational_max_m: 900
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myzomela tristrami (nan)
 

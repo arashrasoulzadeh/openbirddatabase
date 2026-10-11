@@ -1,46 +1,43 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14308"
-ebird_code: "bubtan2"
-avibase_id: "D9A843C8A421D467"
-iucn_status: "LC"
+taxon_id: BN14308
+ebird_code: bubtan2
+avibase_id: D9A843C8A421D467
+iucn_status: LC
 taxon_order: 35007.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Stilpnia cayana"
-  fa: "nan"
-  en: "Burnished-buff Tanager"
-
-# === TAXONOMY ===
+  scientific: Stilpnia cayana
+  fa: nan
+  en: Burnished-buff Tanager
+  es: Tangara Isabel
+  fr: Calliste passevert
+  de: Isabelltangare
+  pt: saíra-amarela
+  ru: Разноцветная танагра
+  ja: バフイロフウキンチョウ
+  nl: Sabeltangare
+  pl: tangarka płowa
+  tr: Saman Sarısı Tangara
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Stilpnia"
-  species: "cayana"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Stilpnia
+  species: cayana
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -85,31 +82,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -117,8 +105,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -127,12 +113,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Stilpnia cayana (nan)
 

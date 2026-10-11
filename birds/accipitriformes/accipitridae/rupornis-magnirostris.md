@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13428"
-ebird_code: "roahaw"
+taxon_id: BN13428
+ebird_code: roahaw
 gbif_key: 5844398
-avibase_id: "C39CC0F2B0D88669"
-iucn_status: "LC"
+avibase_id: C39CC0F2B0D88669
+iucn_status: LC
 taxon_order: 8430.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rupornis magnirostris"
-  fa: "قوش کنارجادهای"
-  en: "Roadside Hawk"
-
-# === TAXONOMY ===
+  scientific: Rupornis magnirostris
+  fa: قوش کنارجادهای
+  en: Roadside Hawk
+  es: Busardo Caminero
+  fr: Buse à gros bec
+  de: Wegebussard
+  pt: gavião-carijó
+  ru: Дорожный канюк
+  ja: オオハシノスリ
+  zh: 大嘴鵟
+  nl: Wegbuizerd
+  pl: myszołowczyk
+  tr: Yol Şahini
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Rupornis"
-  species: "magnirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Rupornis
+  species: magnirostris
 morphology:
   body_mass_g: 315.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2500
-  habitat_types: ["Forest", "Shrubland", "Savanna", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 33
   fledging_days: 38
-  nest_type: "Platform"
-  nest_placement: "Shrub, Tree"
+  nest_type: Platform
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rupornis magnirostris (قوش کنارجادهای)
 

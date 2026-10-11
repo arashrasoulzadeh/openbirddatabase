@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14347"
-ebird_code: "phicod1"
+taxon_id: BN14347
+ebird_code: phicod1
 gbif_key: 7378868
-avibase_id: "nan"
-iucn_status: "VU"
+avibase_id: nan
+iucn_status: VU
 taxon_order: 2030.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Streptopelia dusumieri"
-  fa: "یاکریم فیلیپینی"
-  en: "Philippine Collared Dove"
-
-# === TAXONOMY ===
+  scientific: Streptopelia dusumieri
+  fa: یاکریم فیلیپینی
+  en: Philippine Collared Dove
+  es: Tórtola Bicollar Filipina
+  fr: Tourterelle des Philippines
+  de: Philippinenkichertaube
+  pt: philippine collared-dove
+  ja: フィリピンシラコバト
+  zh: 菲律宾斑鸠
+  nl: Filipijnse tortel
+  pl: synogarlica dwuobrożna
+  tr: Filipin Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Streptopelia"
-  species: "dusumieri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Streptopelia
+  species: dusumieri
 morphology:
   body_mass_g: 157.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Streptopelia dusumieri (یاکریم فیلیپینی)
 

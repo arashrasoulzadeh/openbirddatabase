@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10539"
-ebird_code: "grcbec1"
+taxon_id: BN10539
+ebird_code: grcbec1
 gbif_key: 5230312
-avibase_id: "1E00CDF20EDC5A08"
-iucn_status: "LC"
+avibase_id: 1E00CDF20EDC5A08
+iucn_status: LC
 taxon_order: 16062.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pachyramphus major"
-  fa: "nan"
-  en: "Grey-collared Becard"
-
-# === TAXONOMY ===
+  scientific: Pachyramphus major
+  fa: nan
+  en: Grey-collared Becard
+  es: Anambé Mexicano
+  fr: Bécarde du Mexique
+  de: Schwarzrückenbekarde
+  pt: gray-collared becard
+  ru: Мексиканский бекард
+  ja: オオカザリドリモドキ
+  zh: Grey-collared Becard
+  nl: Grijskraagbekarde
+  pl: bekardzik szaroszyi
+  tr: Orta Amerika Bekardı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tityridae"
-  genus: "Pachyramphus"
-  species: "major"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tityridae
+  genus: Pachyramphus
+  species: major
 morphology:
   body_mass_g: 24.96666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 800
   elevational_max_m: 2500
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pachyramphus major (nan)
 

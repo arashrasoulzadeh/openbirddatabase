@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09168"
-ebird_code: "subfly3"
+taxon_id: BN09168
+ebird_code: subfly3
 gbif_key: 7793395
-avibase_id: "5613E15E188CD060"
-iucn_status: "LC"
+avibase_id: 5613E15E188CD060
+iucn_status: LC
 taxon_order: 28799.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Muscicapa sodhii"
-  fa: "مگسگیر رگهدار سولاوسی"
-  en: "Sulawesi Streaked Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Muscicapa sodhii
+  fa: مگسگیر رگهدار سولاوسی
+  en: Sulawesi Streaked Flycatcher
+  es: Papamoscas Pardo de Célebes
+  fr: Gobemouche de Sodhi
+  de: Sulawesischnäpper
+  pt: sulawesi brown flycatcher
+  ru: Сулавесская мухоловка
+  ja: スラウェシサメビタキ
+  zh: Sulawesi Streaked Flycatcher
+  nl: Sulawesivliegenvanger
+  pl: muchołówka celebeska
+  tr: Selebes Boz Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Muscicapa"
-  species: "sodhii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Muscicapa
+  species: sodhii
 morphology:
   body_mass_g: 12.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 150
   elevational_max_m: 1200
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Muscicapa sodhii (مگسگیر رگهدار سولاوسی)
 

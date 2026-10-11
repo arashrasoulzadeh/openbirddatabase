@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04644"
-ebird_code: "chbflo1"
+taxon_id: BN04644
+ebird_code: chbflo1
 gbif_key: 5230666
-avibase_id: "B5A814A59401D232"
-iucn_status: "NT"
+avibase_id: B5A814A59401D232
+iucn_status: NT
 taxon_order: 35271.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Diglossa gloriosissima"
-  fa: "گلشکاف شکمبلوطی"
-  en: "Chestnut-bellied Flowerpiercer"
-
-# === TAXONOMY ===
+  scientific: Diglossa gloriosissima
+  fa: گلشکاف شکمبلوطی
+  en: Chestnut-bellied Flowerpiercer
+  es: Pinchaflor Ventrirrufo
+  fr: Percefleur à ventre marron
+  de: Maronenbauch-Hakenschnabel
+  pt: chestnut-bellied flowerpiercer
+  ru: Каштановобрюхий цветокол
+  ja: チャバラハナサシミツドリ
+  zh: 栗腹刺花鸟
+  nl: Roestbuikberghoningkruiper
+  pl: haczykodziobek epoletowy
+  tr: Kestane Karınlı Çiçekdelen
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Diglossa"
-  species: "gloriosissima"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Diglossa
+  species: gloriosissima
 morphology:
   body_mass_g: 15.733333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 3000
   elevational_max_m: 3750
-  habitat_types: ["Forest", "Shrubland", "Savanna"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Savanna
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Diglossa gloriosissima (گلشکاف شکمبلوطی)
 

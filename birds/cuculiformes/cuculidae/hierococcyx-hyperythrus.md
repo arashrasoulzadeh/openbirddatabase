@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06632"
-ebird_code: "nohcuc1"
+taxon_id: BN06632
+ebird_code: nohcuc1
 gbif_key: 6085657
-avibase_id: "207B35376E56241B"
-iucn_status: "LC"
+avibase_id: 207B35376E56241B
+iucn_status: LC
 taxon_order: 3423.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hierococcyx hyperythrus"
-  fa: "کوکوباز شمالی"
-  en: "Northern Hawk-Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Hierococcyx hyperythrus
+  fa: کوکوباز شمالی
+  en: Northern Hawk-Cuckoo
+  es: Cuco Ventrirrojo
+  fr: Coucou de Chine
+  de: Weißnackenkuckuck
+  pt: northern hawk-cuckoo
+  ru: Ширококрылая кукушка
+  ja: ジュウイチ
+  nl: Chinese sperwerkoekoek
+  pl: kukułka amurska
+  tr: Kuzeyli Atmaca Guguğu
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Hierococcyx"
-  species: "hyperythrus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Hierococcyx
+  species: hyperythrus
 morphology:
   body_mass_g: 120.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   fledging_days: 19
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hierococcyx hyperythrus (کوکوباز شمالی)
 

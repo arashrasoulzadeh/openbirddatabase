@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15036"
-ebird_code: "blatin1"
+taxon_id: BN15036
+ebird_code: blatin1
 gbif_key: 2477618
-avibase_id: "63C5F122B24D11DB"
-iucn_status: "VU"
+avibase_id: 63C5F122B24D11DB
+iucn_status: VU
 taxon_order: 146.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tinamus osgoodi"
-  fa: "وشم سیاه"
-  en: "Black Tinamou"
-
-# === TAXONOMY ===
+  scientific: Tinamus osgoodi
+  fa: وشم سیاه
+  en: Black Tinamou
+  es: Tinamú Negro
+  fr: Tinamou noir
+  de: Schwarztinamu
+  pt: black tinamou
+  ru: Чёрный тинаму
+  ja: クロシギダチョウ
+  zh: 黑䳍
+  nl: Zwarte tinamoe
+  pl: kusacz czarny
+  tr: Kara Tinamu
 taxonomy:
-  order: "Tinamiformes"
-  family: "Tinamidae"
-  genus: "Tinamus"
-  species: "osgoodi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Tinamiformes
+  family: Tinamidae
+  genus: Tinamus
+  species: osgoodi
 morphology:
   body_mass_g: 1392.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 600
   elevational_max_m: 2100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,36 +88,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tinamus osgoodi (وشم سیاه)
 

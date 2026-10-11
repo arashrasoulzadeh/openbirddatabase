@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01853"
-ebird_code: "botwea1"
+taxon_id: BN01853
+ebird_code: botwea1
 gbif_key: 2494007
-avibase_id: "D76AC221F53047CD"
-iucn_status: "LC"
+avibase_id: D76AC221F53047CD
+iucn_status: LC
 taxon_order: 30928.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Brachycope anomala"
-  fa: "جولای دمبریده"
-  en: "Bob-tailed Weaver"
-
-# === TAXONOMY ===
+  scientific: Brachycope anomala
+  fa: جولای دمبریده
+  en: Bob-tailed Weaver
+  es: Tejedor Anómalo
+  fr: Brachycope du Congo
+  de: Kurzschwanzweber
+  pt: bob-tailed weaver
+  ru: Короткохвостый ткач
+  ja: カワリオウゴンチョウ
+  zh: 短尾织雀
+  nl: Kortstaartwever
+  pl: wikłacz kusy
+  tr: Kısa Kuyruklu Dokumacı
 taxonomy:
-  order: "Passeriformes"
-  family: "Ploceidae"
-  genus: "Brachycope"
-  species: "anomala"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Ploceidae
+  genus: Brachycope
+  species: anomala
 morphology:
   body_mass_g: 25.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "SP"
-  nest_placement: "Shrub, Tree"
+  nest_type: SP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Brachycope anomala (جولای دمبریده)
 

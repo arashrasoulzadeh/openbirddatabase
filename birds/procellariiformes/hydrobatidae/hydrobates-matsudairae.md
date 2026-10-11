@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06757"
-ebird_code: "maspet2"
+taxon_id: BN06757
+ebird_code: maspet2
 gbif_key: 9306959
-avibase_id: "6AA236DD9E0781A7"
-iucn_status: "VU"
+avibase_id: 6AA236DD9E0781A7
+iucn_status: VU
 taxon_order: 7078.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hydrobates matsudairae"
-  fa: "مرغ توفان ماتسودایرا"
-  en: "Matsudaira's Storm Petrel"
-
-# === TAXONOMY ===
+  scientific: Hydrobates matsudairae
+  fa: مرغ توفان ماتسودایرا
+  en: Matsudaira's Storm Petrel
+  es: Paíño de Matsudaira
+  fr: Océanite de Matsudaira
+  de: Matsudairawellenläufer
+  pt: painho-de-matsudaira
+  ru: Японская качурка
+  ja: クロウミツバメ
+  zh: 日本叉尾海燕
+  nl: Iwostormvogeltje
+  pl: nawałnik wędrowny
+  tr: Matsudaira Fırtınakırlangıcı
 taxonomy:
-  order: "Procellariiformes"
-  family: "Hydrobatidae"
-  genus: "Hydrobates"
-  species: "matsudairae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Hydrobatidae
+  genus: Hydrobates
+  species: matsudairae
 morphology:
   body_mass_g: 62.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hydrobates matsudairae (مرغ توفان ماتسودایرا)
 

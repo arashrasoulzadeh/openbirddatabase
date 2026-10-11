@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09043"
-ebird_code: "bnhcow"
+taxon_id: BN09043
+ebird_code: bnhcow
 gbif_key: 2484391
-avibase_id: "1E1AB415D083AAD4"
-iucn_status: "LC"
+avibase_id: 1E1AB415D083AAD4
+iucn_status: LC
 taxon_order: 33833.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Molothrus ater"
-  fa: "گاومرغ سرقهوهای"
-  en: "Brown-headed Cowbird"
-
-# === TAXONOMY ===
+  scientific: Molothrus ater
+  fa: گاومرغ سرقهوهای
+  en: Brown-headed Cowbird
+  es: Tordo Cabecipardo
+  fr: Vacher à tête brune
+  de: Braunkopf-Kuhstärling
+  pt: chopim-mulato
+  ru: Коровий трупиал, буроголовый желтушник
+  ja: コウウチョウ
+  zh: 褐头牛鹂
+  nl: Bruinkopkoevogel
+  pl: starzyk brunatnogłowy
+  tr: Boz Başlı İnekkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Icteridae"
-  genus: "Molothrus"
-  species: "ater"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Icteridae
+  genus: Molothrus
+  species: ater
 morphology:
   body_mass_g: 42.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2895
-  habitat_types: ["Forest", "Woodland", "Grassland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Grassland
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.5
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
   incubation_days: 10
   fledging_days: 10
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Molothrus ater (گاومرغ سرقهوهای)
 

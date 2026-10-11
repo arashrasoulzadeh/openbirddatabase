@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03679"
-ebird_code: "larcuc1"
+taxon_id: BN03679
+ebird_code: larcuc1
 gbif_key: 2486770
-avibase_id: "AB82799A91735EFF"
-iucn_status: "LC"
+avibase_id: AB82799A91735EFF
+iucn_status: LC
 taxon_order: 18719.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coracina macei"
-  fa: "کوکوسنگچشم هندی"
-  en: "Indian Cuckooshrike"
-
-# === TAXONOMY ===
+  scientific: Coracina macei
+  fa: کوکوسنگچشم هندی
+  en: Indian Cuckooshrike
+  es: Oruguero Indio
+  fr: Échenilleur de Macé
+  de: Maskenraupenfänger
+  pt: indian cuckooshrike
+  ru: Большой сорокопутовый личинкоед
+  ja: インドオオオニサンショウクイ
+  zh: 印度鹃鵙
+  nl: Indiase rupsvogel
+  pl: kruczyna hinduska
+  tr: Büyük Tırtılyiyen
 taxonomy:
-  order: "Passeriformes"
-  family: "Campephagidae"
-  genus: "Coracina"
-  species: "macei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Campephagidae
+  genus: Coracina
+  species: macei
 morphology:
   body_mass_g: 105.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2620
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 7.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "SA"
-  nest_placement: "Tree"
+  nest_type: SA
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coracina macei (کوکوسنگچشم هندی)
 

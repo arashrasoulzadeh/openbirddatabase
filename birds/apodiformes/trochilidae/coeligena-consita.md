@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03409"
-ebird_code: "gobsta2"
+taxon_id: BN03409
+ebird_code: gobsta2
 gbif_key: 10707191
-avibase_id: "ED9636C0FD9E6AB7"
-iucn_status: "EN"
+avibase_id: ED9636C0FD9E6AB7
+iucn_status: EN
 taxon_order: 4651.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coeligena consita"
-  fa: "اخترپیشانی پریجا"
-  en: "Perija Starfrontlet"
-
-# === TAXONOMY ===
+  scientific: Coeligena consita
+  fa: اخترپیشانی پریجا
+  en: Perija Starfrontlet
+  es: Inca de Perijá
+  fr: Inca de la Perija
+  de: Perijákolibri
+  pt: perija starfrontlet
+  zh: 佩里哈星额蜂鸟
+  nl: Perija-incakolibrie
+  pl: elfik rdzawoskrzydły
+  tr: Periha Parlakalını
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Coeligena"
-  species: "consita"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Coeligena
+  species: consita
 morphology:
   body_mass_g: 6.49
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1400
   elevational_max_m: 3200
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coeligena consita (اخترپیشانی پریجا)
 

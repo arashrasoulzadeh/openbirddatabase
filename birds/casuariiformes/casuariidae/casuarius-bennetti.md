@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02489"
-ebird_code: "dwacas1"
+taxon_id: BN02489
+ebird_code: dwacas1
 gbif_key: 5231784
-avibase_id: "7751E0D145194220"
-iucn_status: "LC"
+avibase_id: 7751E0D145194220
+iucn_status: LC
 taxon_order: 11.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Casuarius bennetti"
-  fa: "کاسواری کوچک"
-  en: "Dwarf Cassowary"
-
-# === TAXONOMY ===
+  scientific: Casuarius bennetti
+  fa: کاسواری کوچک
+  en: Dwarf Cassowary
+  es: Casuario Menor
+  fr: Casoar de Bennett
+  de: Bennettkasuar
+  pt: dwarf cassowary
+  ru: Казуар-мурук
+  ja: コヒクイドリ
+  zh: 侏鶴鴕
+  nl: Dwergkasuaris
+  pl: kazuar mniejszy
+  tr: Küçük Kasuari
 taxonomy:
-  order: "Casuariiformes"
-  family: "Casuariidae"
-  genus: "Casuarius"
-  species: "bennetti"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Casuariiformes
+  family: Casuariidae
+  genus: Casuarius
+  species: bennetti
 morphology:
   body_mass_g: 26300.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 3300
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 5
   categories:
     invertebrates: 1.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Flightless"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Flightless
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 49
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Male only"
-
-
-# === CONSERVATION ===
+  parental_care: Male only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Casuarius bennetti (کاسواری کوچک)
 

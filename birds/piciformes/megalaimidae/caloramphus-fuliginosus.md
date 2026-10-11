@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02226"
-ebird_code: "brnbar2"
+taxon_id: BN02226
+ebird_code: brnbar2
 gbif_key: 2478987
-avibase_id: "F1D6E36CB6428C12"
-iucn_status: "LC"
+avibase_id: F1D6E36CB6428C12
+iucn_status: LC
 taxon_order: 10688.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Caloramphus fuliginosus"
-  fa: "nan"
-  en: "Brown Barbet"
-
-# === TAXONOMY ===
+  scientific: Caloramphus fuliginosus
+  fa: nan
+  en: Brown Barbet
+  es: Barbudo Pardo de Borneo
+  fr: Barbu fuligineux
+  de: Rostbartvogel
+  pt: brown barbet
+  ru: Бурый бородастик
+  ja: チャイロゴシキドリ
+  zh: 褐擬啄木
+  nl: Bruine baardvogel
+  pl: gołodziób rdzawogardły
+  tr: Borneo Esmer Barbeti
 taxonomy:
-  order: "Piciformes"
-  family: "Megalaimidae"
-  genus: "Caloramphus"
-  species: "fuliginosus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Megalaimidae
+  genus: Caloramphus
+  species: fuliginosus
 morphology:
   body_mass_g: 43.1
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 900
-  habitat_types: ["Forest", "Woodland", "Artificial", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Riverine
+  - Coastal
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,38 +92,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "CV"
-  nest_placement: "C, Tree"
+  nest_type: CV
+  nest_placement: C, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Caloramphus fuliginosus (nan)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06946"
-ebird_code: "oriwar2"
+taxon_id: BN06946
+ebird_code: oriwar2
 gbif_key: 2492769
-avibase_id: "315576052522AB42"
-iucn_status: "LC"
+avibase_id: 315576052522AB42
+iucn_status: LC
 taxon_order: 23352.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hypergerus atriceps"
-  fa: "nan"
-  en: "Oriole Warbler"
-
-# === TAXONOMY ===
+  scientific: Hypergerus atriceps
+  fa: nan
+  en: Oriole Warbler
+  es: Prinia Oropéndola
+  fr: Noircap loriot
+  de: Pirolsänger
+  pt: oriole warbler
+  ru: Иволговый седоголов
+  ja: キンイロオオムシクイ
+  nl: Wielewaalzanger
+  pl: wilgowiec czarnogłowy
+  tr: Kır Başlı Prinya
 taxonomy:
-  order: "Passeriformes"
-  family: "Cisticolidae"
-  genus: "Hypergerus"
-  species: "atriceps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cisticolidae
+  genus: Hypergerus
+  species: atriceps
 morphology:
   body_mass_g: 28.766666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Shrubland", "Rocky", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Rocky
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 14
   fledging_days: 12
-  nest_type: "SP"
+  nest_type: SP
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hypergerus atriceps (nan)
 

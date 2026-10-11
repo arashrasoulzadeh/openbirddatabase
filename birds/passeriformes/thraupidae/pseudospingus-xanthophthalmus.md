@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12429"
-ebird_code: "drahem1"
+taxon_id: BN12429
+ebird_code: drahem1
 gbif_key: 9417542
-avibase_id: "17A843C17F9C3490"
-iucn_status: "LC"
+avibase_id: 17A843C17F9C3490
+iucn_status: LC
 taxon_order: 35431.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pseudospingus xanthophthalmus"
-  fa: "nan"
-  en: "Drab Hemispingus"
-
-# === TAXONOMY ===
+  scientific: Pseudospingus xanthophthalmus
+  fa: nan
+  en: Drab Hemispingus
+  es: Hemispingo Modesto
+  fr: Tangara aux yeux jaunes
+  de: Schlichtfinkentangare
+  pt: drab hemispingus
+  ru: Желтоглазая пипира
+  ja: ハイイロモリフウキンチョウ
+  nl: Geeloogtangare
+  pl: zieleńczyk siwy
+  tr: Soluk Renkli Hemispingus
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Pseudospingus"
-  species: "xanthophthalmus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Pseudospingus
+  species: xanthophthalmus
 morphology:
   body_mass_g: 12.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2200
   elevational_max_m: 3350
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pseudospingus xanthophthalmus (nan)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02604"
-ebird_code: "spegui1"
+taxon_id: BN02604
+ebird_code: spegui1
 gbif_key: 2481318
-avibase_id: "906805208A4BB584"
-iucn_status: "LC"
+avibase_id: 906805208A4BB584
+iucn_status: LC
 taxon_order: 6403.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cepphus carbo"
-  fa: "گیلهمات عینکدار"
-  en: "Spectacled Guillemot"
-
-# === TAXONOMY ===
+  scientific: Cepphus carbo
+  fa: گیلهمات عینکدار
+  en: Spectacled Guillemot
+  es: Arao de Anteojos
+  fr: Guillemot à lunettes
+  de: Brillenteiste
+  pt: spectacled guillemot
+  ru: Очковый чистик
+  ja: ケイマフリ
+  zh: 白眶海鴿
+  nl: Brilzeekoet
+  pl: nurnik ochocki
+  tr: Gözlüklü Alk
 taxonomy:
-  order: "Charadriiformes"
-  family: "Alcidae"
-  genus: "Cepphus"
-  species: "carbo"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Alcidae
+  genus: Cepphus
+  species: carbo
 morphology:
   body_mass_g: 480.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 120
-  habitat_types: ["Rocky", "Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 30
   fledging_days: 33
-  nest_type: "CR,CV"
-  nest_placement: "Rock"
+  nest_type: CR,CV
+  nest_placement: Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cepphus carbo (گیلهمات عینکدار)
 

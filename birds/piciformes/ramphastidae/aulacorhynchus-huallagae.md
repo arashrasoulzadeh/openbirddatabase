@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01509"
-ebird_code: "yebtou1"
+taxon_id: BN01509
+ebird_code: yebtou1
 gbif_key: 5229005
-avibase_id: "0224509AB28F092B"
-iucn_status: "NT"
+avibase_id: 0224509AB28F092B
+iucn_status: NT
 taxon_order: 10868.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aulacorhynchus huallagae"
-  fa: "توکانچه ابروزرد"
-  en: "Yellow-browed Toucanet"
-
-# === TAXONOMY ===
+  scientific: Aulacorhynchus huallagae
+  fa: توکانچه ابروزرد
+  en: Yellow-browed Toucanet
+  es: Tucanete del Huallaga
+  fr: Toucanet à sourcils jaunes
+  de: Gelbbrauenarassari
+  pt: yellow-browed toucanet
+  ru: Желтобровый туканет
+  ja: キマユミドリチュウハシ
+  nl: Geelbrauwarassari
+  pl: pieprzojad żółtobrewy
+  tr: Huallaga Tukaneti
 taxonomy:
-  order: "Piciformes"
-  family: "Ramphastidae"
-  genus: "Aulacorhynchus"
-  species: "huallagae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Ramphastidae
+  genus: Aulacorhynchus
+  species: huallagae
 morphology:
   body_mass_g: 268.6666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 2000
   elevational_max_m: 2600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aulacorhynchus huallagae (توکانچه ابروزرد)
 

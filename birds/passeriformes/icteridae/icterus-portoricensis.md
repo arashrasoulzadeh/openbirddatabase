@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07100"
-ebird_code: "graori4"
+taxon_id: BN07100
+ebird_code: graori4
 gbif_key: 6086178
-avibase_id: "05284D57D2F6CC6C"
-iucn_status: "LC"
+avibase_id: 05284D57D2F6CC6C
+iucn_status: LC
 taxon_order: 33668.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Icterus portoricensis"
-  fa: "پریشاهرخ پورتوریکو"
-  en: "Puerto Rican Oriole"
-
-# === TAXONOMY ===
+  scientific: Icterus portoricensis
+  fa: پریشاهرخ پورتوریکو
+  en: Puerto Rican Oriole
+  es: Turpial Puertorriqueño
+  fr: Oriole de Porto Rico
+  de: Puerto-Rico-Trupial
+  pt: puerto rican oriole
+  ru: Пуэрториканский трупиал
+  ja: プエルトリコムクドリモドキ
+  nl: Puertoricaanse troepiaal
+  pl: kacyk portorykański
+  tr: Porto Riko Turpiyali
 taxonomy:
-  order: "Passeriformes"
-  family: "Icteridae"
-  genus: "Icterus"
-  species: "portoricensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Icteridae
+  genus: Icterus
+  species: portoricensis
 morphology:
   body_mass_g: 38.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   fledging_days: 14
-  nest_type: "PL,PN"
-  nest_placement: "Tree"
+  nest_type: PL,PN
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Icterus portoricensis (پریشاهرخ پورتوریکو)
 

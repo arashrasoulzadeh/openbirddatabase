@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15457"
-ebird_code: "eyethr"
+taxon_id: BN15457
+ebird_code: eyethr
 gbif_key: 2490728
-avibase_id: "6E24CCD187765B9A"
-iucn_status: "LC"
+avibase_id: 6E24CCD187765B9A
+iucn_status: LC
 taxon_order: 28586.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turdus obscurus"
-  fa: "توکای ابرودار"
-  en: "Eyebrowed Thrush"
-
-# === TAXONOMY ===
+  scientific: Turdus obscurus
+  fa: توکای ابرودار
+  en: Eyebrowed Thrush
+  es: Zorzal Rojigrís
+  fr: Merle obscur
+  de: Weißbrauendrossel
+  pt: tordo-escuro
+  ru: Оливковый дрозд
+  ja: マミチャジナイ
+  zh: 白眉鸫
+  nl: Vale lijster
+  pl: drozd oliwkowy
+  tr: Ak Kaşlı Ardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Turdus"
-  species: "obscurus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Turdus
+  species: obscurus
 morphology:
   body_mass_g: 78.33333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2300
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,39 +93,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
   fledging_days: 10
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turdus obscurus (توکای ابرودار)
 

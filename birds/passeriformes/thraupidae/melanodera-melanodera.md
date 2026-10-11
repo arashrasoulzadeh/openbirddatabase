@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08609"
-ebird_code: "cawfin1"
+taxon_id: BN08609
+ebird_code: cawfin1
 gbif_key: 2491658
-avibase_id: "8116C25489C7AB37"
-iucn_status: "LC"
+avibase_id: 8116C25489C7AB37
+iucn_status: LC
 taxon_order: 35359.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melanodera melanodera"
-  fa: "سهره ریشسفید"
-  en: "White-bridled Finch"
-
-# === TAXONOMY ===
+  scientific: Melanodera melanodera
+  fa: سهره ریشسفید
+  en: White-bridled Finch
+  es: Yal Cejiblanco
+  fr: Mélanodère à sourcils blancs
+  de: Weißbart-Ammertangare
+  pt: white-bridled finch
+  ru: Черногорлый овсяночник
+  ja: ノドグロシトド
+  zh: 黑喉雀鹀
+  nl: Magelhaengors
+  pl: magelańczyk żółtoskrzydły
+  tr: Ak Kaşlı And İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Melanodera"
-  species: "melanodera"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Melanodera
+  species: melanodera
 morphology:
   body_mass_g: 30.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 3.0
@@ -88,37 +89,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_placement: "Ground, Cliff/Crevice, Rock"
+  nest_placement: Ground, Cliff/Crevice, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melanodera melanodera (سهره ریشسفید)
 

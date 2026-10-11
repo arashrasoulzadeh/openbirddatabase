@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12573"
-ebird_code: "berpet"
+taxon_id: BN12573
+ebird_code: berpet
 gbif_key: 2481465
-avibase_id: "F6533C4B9F518365"
-iucn_status: "EN"
+avibase_id: F6533C4B9F518365
+iucn_status: EN
 taxon_order: 7129.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pterodroma cahow"
-  fa: "مرغطوفان برمودایی"
-  en: "Bermuda Petrel"
-
-# === TAXONOMY ===
+  scientific: Pterodroma cahow
+  fa: مرغطوفان برمودایی
+  en: Bermuda Petrel
+  es: Petrel Cahow
+  fr: Pétrel des Bermudes
+  de: Bermudasturmvogel
+  pt: bermuda petrel
+  ru: Бермудский тайфунник
+  ja: バミューダミズナギドリ
+  zh: 百慕大海燕
+  nl: Bermudastormvogel
+  pl: petrel bermudzki
+  tr: Bermuda Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Pterodroma"
-  species: "cahow"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Pterodroma
+  species: cahow
 morphology:
   body_mass_g: 329.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 79
-  habitat_types: ["Rocky", "Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 51
   fledging_days: 90
-  nest_type: "BU,CR"
-  nest_placement: "Ground"
+  nest_type: BU,CR
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pterodroma cahow (مرغطوفان برمودایی)
 

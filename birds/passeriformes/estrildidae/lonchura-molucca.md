@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08034"
-ebird_code: "blfmun1"
+taxon_id: BN08034
+ebird_code: blfmun1
 gbif_key: 2493600
-avibase_id: "F84846C32BBE2406"
-iucn_status: "LC"
+avibase_id: F84846C32BBE2406
+iucn_status: LC
 taxon_order: 31094.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lonchura molucca"
-  fa: "فنچ مونیای ملوکان"
-  en: "Black-faced Munia"
-
-# === TAXONOMY ===
+  scientific: Lonchura molucca
+  fa: فنچ مونیای ملوکان
+  en: Black-faced Munia
+  es: Capuchino Carinegro
+  fr: Capucin jacobin
+  de: Wellenbauch-Bronzemännchen
+  pt: capuchinho-de-faces-pretas
+  ru: Молуккская муния
+  ja: モルッカキンパラ
+  zh: 印尼黑臉文鳥
+  nl: Moluks bronzemannetje
+  pl: mniszka jarzębata
+  tr: Kara Yüzlü Munya
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Lonchura"
-  species: "molucca"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Lonchura
+  species: molucca
 morphology:
   body_mass_g: 12.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1150
-  habitat_types: ["Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
   incubation_days: 15
   fledging_days: 18
-  nest_type: "SP"
-  nest_placement: "Tree, Cliff/Crevice"
+  nest_type: SP
+  nest_placement: Tree, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lonchura molucca (فنچ مونیای ملوکان)
 

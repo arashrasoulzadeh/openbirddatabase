@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01573"
-ebird_code: "grccra1"
+taxon_id: BN01573
+ebird_code: grccra1
 gbif_key: 5228229
-avibase_id: "D10CAC5DE781E990"
-iucn_status: "EN"
+avibase_id: D10CAC5DE781E990
+iucn_status: EN
 taxon_order: 5690.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Balearica regulorum"
-  fa: "Grey -crowned crane"
-  en: "Grey Crowned Crane"
-
-# === TAXONOMY ===
+  scientific: Balearica regulorum
+  fa: Grey -crowned crane
+  en: Grey Crowned Crane
+  es: Grulla Coronada Cuelligrís
+  fr: Grue royale
+  de: Grauhals-Kronenkranich
+  pt: gray crowned-crane
+  ru: Венценосный журавль
+  ja: ホオジロカンムリヅル
+  zh: Grey Crowned Crane
+  nl: Grijze kroonkraanvogel
+  pl: koronnik szary
+  tr: Gri Taçlı Turna
 taxonomy:
-  order: "Gruiformes"
-  family: "Gruidae"
-  genus: "Balearica"
-  species: "regulorum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gruiformes
+  family: Gruidae
+  genus: Balearica
+  species: regulorum
 morphology:
   body_mass_g: 3636.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Savanna", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Savanna
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 3.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 1
   clutch_size_max: 4
   incubation_days: 28
   fledging_days: 56
-  nest_type: "Platform"
-  nest_placement: "Cliff/Crevice"
+  nest_type: Platform
+  nest_placement: Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Balearica regulorum (Grey -crowned crane)
 

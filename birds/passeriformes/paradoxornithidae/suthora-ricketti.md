@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14448"
-ebird_code: "bnwpar1"
+taxon_id: BN14448
+ebird_code: bnwpar1
 gbif_key: 11973109
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 25499.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Suthora ricketti"
-  fa: "nan"
-  en: "Eye-ringed Parrotbill"
-
-# === TAXONOMY ===
+  scientific: Suthora ricketti
+  fa: nan
+  en: Eye-ringed Parrotbill
+  es: Picoloro de Yunnán
+  fr: Paradoxornis de Rickett
+  de: Yunnanpapageimeise
+  pt: eye-ringed parrotbill
+  ru: Китайская сутора
+  zh: 云南鸦雀
+  nl: Yunnandiksnavelmees
+  pl: ogoniatka kasztanowata
+  tr: Ak Gözlü Papağangaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Paradoxornithidae"
-  genus: "Suthora"
-  species: "ricketti"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Paradoxornithidae
+  genus: Suthora
+  species: ricketti
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 900
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -86,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_min: 3
-  nest_placement: "Shrub"
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -122,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -132,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Suthora ricketti (nan)
 

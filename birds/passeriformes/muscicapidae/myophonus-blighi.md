@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09338"
-ebird_code: "ceywht1"
+taxon_id: BN09338
+ebird_code: ceywht1
 gbif_key: 5789040
-avibase_id: "F7B59EF70474112B"
-iucn_status: "EN"
+avibase_id: F7B59EF70474112B
+iucn_status: EN
 taxon_order: 29418.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myophonus blighi"
-  fa: "nan"
-  en: "Sri Lanka Whistling Thrush"
-
-# === TAXONOMY ===
+  scientific: Myophonus blighi
+  fa: nan
+  en: Sri Lanka Whistling Thrush
+  es: Arrenga de Sri Lanka
+  fr: Arrenga de Ceylan
+  de: Ceylonpfeifdrossel
+  pt: sri lanka whistling-thrush
+  ru: Ланкийская синяя птица
+  ja: セイロンルリチョウ
+  zh: Sri Lanka Whistling Thrush
+  nl: Ceylonese fluitlijster
+  pl: gwizdokos cejloński
+  tr: Seylan Islıkçı Bülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Myophonus"
-  species: "blighi"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Myophonus
+  species: blighi
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1200
   elevational_max_m: 2100
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -86,37 +87,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_placement: "C, Rock, Tree"
+  nest_placement: C, Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myophonus blighi (nan)
 

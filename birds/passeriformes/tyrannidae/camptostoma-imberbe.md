@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02292"
-ebird_code: "nobtyr"
+taxon_id: BN02292
+ebird_code: nobtyr
 gbif_key: 2483507
-avibase_id: "FD5DACEEEDD05571"
-iucn_status: "LC"
+avibase_id: FD5DACEEEDD05571
+iucn_status: LC
 taxon_order: 16551.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Camptostoma imberbe"
-  fa: "ژیانمرغک بیریش شمالی"
-  en: "Northern Beardless Tyrannulet"
-
-# === TAXONOMY ===
+  scientific: Camptostoma imberbe
+  fa: ژیانمرغک بیریش شمالی
+  en: Northern Beardless Tyrannulet
+  es: Mosquerito Imberbe
+  fr: Tyranneau imberbe
+  de: Blasskleintyrann
+  pt: northern beardless-tyrannulet
+  ru: Центральноамериканский москитолов
+  ja: メグロハエトリ
+  zh: Northern Beardless Tyrannulet
+  nl: Chaparralvliegenpikker
+  pl: koszykotyranik północny
+  tr: Kuzeyli Bıyıksız Tiranulet
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Camptostoma"
-  species: "imberbe"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Camptostoma
+  species: imberbe
 morphology:
   body_mass_g: 7.575
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2100
-  habitat_types: ["Forest", "Shrubland", "Savanna", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Savanna
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 14
   fledging_days: 12
-  nest_type: "SP"
-  nest_placement: "Shrub, Tree"
+  nest_type: SP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Camptostoma imberbe (ژیانمرغک بیریش شمالی)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05662"
-ebird_code: "rehfod3"
+taxon_id: BN05662
+ebird_code: rehfod3
 gbif_key: 6100866
-avibase_id: "8999FD8C6664DA46"
-iucn_status: "EN"
+avibase_id: 8999FD8C6664DA46
+iucn_status: EN
 taxon_order: 30930.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Foudia aldabrana"
-  fa: "سرخابسر الدبرا"
-  en: "Aldabra Fody"
-
-# === TAXONOMY ===
+  scientific: Foudia aldabrana
+  fa: سرخابسر الدبرا
+  en: Aldabra Fody
+  es: Fodi de Aldabra
+  fr: Foudi d'Aldabra
+  de: Aldabraweber
+  pt: aldabra fody
+  ru: Альдабранский фуди
+  ja: アルダブラベニノジコ
+  zh: 阿尔达布拉艳织雀
+  nl: Aldabrawever
+  pl: wikłacz żółtobrzuchy
+  tr: Aldabra Fodisi
 taxonomy:
-  order: "Passeriformes"
-  family: "Ploceidae"
-  genus: "Foudia"
-  species: "aldabrana"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Ploceidae
+  genus: Foudia
+  species: aldabrana
 morphology:
   body_mass_g: 24.125
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Woodland", "Shrubland", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Coastal
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 3.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 13
   fledging_days: 15
-  nest_type: "SP"
+  nest_type: SP
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Foudia aldabrana (سرخابسر الدبرا)
 

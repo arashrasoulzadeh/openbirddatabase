@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12086"
-ebird_code: "grapri1"
+taxon_id: BN12086
+ebird_code: grapri1
 gbif_key: 2492748
-avibase_id: "4509E1A387E37D7B"
-iucn_status: "LC"
+avibase_id: 4509E1A387E37D7B
+iucn_status: LC
 taxon_order: 23244.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prinia gracilis"
-  fa: "پریسسک شکیل"
-  en: "Graceful Prinia"
-
-# === TAXONOMY ===
+  scientific: Prinia gracilis
+  fa: پریسسک شکیل
+  en: Graceful Prinia
+  es: Prinia Grácil
+  fr: Prinia gracile
+  de: Streifenprinie
+  pt: fuinha-elegante
+  ru: Изящная приния
+  ja: セスジハウチワドリ
+  zh: 優雅鷦鶯
+  nl: Westelijke gestreepte prinia
+  pl: prinia
+  tr: Dik Kuyruklu Ötleğen
 taxonomy:
-  order: "Passeriformes"
-  family: "Cisticolidae"
-  genus: "Prinia"
-  species: "gracilis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cisticolidae
+  genus: Prinia
+  species: gracilis
 morphology:
   body_mass_g: 7.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["FP"]
+  biogeographic_realms:
+  - FP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 3200
-  habitat_types: ["Woodland", "Shrubland", "Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 11
   fledging_days: 12
-  nest_type: "O,HC"
-  nest_placement: "Tree, Cliff/Crevice"
+  nest_type: O,HC
+  nest_placement: Tree, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prinia gracilis (پریسسک شکیل)
 

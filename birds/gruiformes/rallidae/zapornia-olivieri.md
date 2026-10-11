@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15987"
-ebird_code: "sakrai1"
+taxon_id: BN15987
+ebird_code: sakrai1
 gbif_key: 9506894
-avibase_id: "60DB31176234D93A"
-iucn_status: "EN"
+avibase_id: 60DB31176234D93A
+iucn_status: EN
 taxon_order: 5601.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zapornia olivieri"
-  fa: "یلوه ساکالاوا"
-  en: "Sakalava Rail"
-
-# === TAXONOMY ===
+  scientific: Zapornia olivieri
+  fa: یلوه ساکالاوا
+  en: Sakalava Rail
+  es: Polluela Negra Malgache
+  fr: Marouette d'Olivier
+  de: Malegassenkielralle
+  pt: sakalava rail
+  ru: Мадагаскарский погоныш
+  ja: マダガスカルクロクイナ
+  nl: Olivierwaterhoen
+  pl: bagiewnik madagaskarski
+  tr: Madagaskar Kara Yelvesi
 taxonomy:
-  order: "Gruiformes"
-  family: "Rallidae"
-  genus: "Zapornia"
-  species: "olivieri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gruiformes
+  family: Rallidae
+  genus: Zapornia
+  species: olivieri
 morphology:
   body_mass_g: 121.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 100
-  habitat_types: ["Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_placement: "Cliff/Crevice"
+  nest_placement: Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zapornia olivieri (یلوه ساکالاوا)
 

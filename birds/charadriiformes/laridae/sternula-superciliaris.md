@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14290"
-ebird_code: "yebter2"
+taxon_id: BN14290
+ebird_code: yebter2
 gbif_key: 5789280
-avibase_id: "8B4BBC2A71F3403E"
-iucn_status: "LC"
+avibase_id: 8B4BBC2A71F3403E
+iucn_status: LC
 taxon_order: 6704.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sternula superciliaris"
-  fa: "پرستوی دریایی نوکزرد"
-  en: "Yellow-billed Tern"
-
-# === TAXONOMY ===
+  scientific: Sternula superciliaris
+  fa: پرستوی دریایی نوکزرد
+  en: Yellow-billed Tern
+  es: Charrancito Amazónico
+  fr: Sterne argentée
+  de: Amazonasseeschwalbe
+  pt: trinta-réis-pequeno
+  ru: Амазонская крачка
+  ja: アマゾンアジサシ
+  nl: Amazonestern
+  pl: rybitwa brazylijska
+  tr: Amazon Sumrusu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Sternula"
-  species: "superciliaris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Sternula
+  species: superciliaris
 morphology:
   body_mass_g: 47.800000000000004
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,36 +90,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sternula superciliaris (پرستوی دریایی نوکزرد)
 

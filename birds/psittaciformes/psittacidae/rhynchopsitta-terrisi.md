@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13351"
-ebird_code: "mafpar1"
+taxon_id: BN13351
+ebird_code: mafpar1
 gbif_key: 2480012
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 13091.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rhynchopsitta terrisi"
-  fa: "طوطی پیشانیعنابی"
-  en: "Maroon-fronted Parrot"
-
-# === TAXONOMY ===
+  scientific: Rhynchopsitta terrisi
+  fa: طوطی پیشانیعنابی
+  en: Maroon-fronted Parrot
+  es: Cotorra Serrana Oriental
+  fr: Conure à front brun
+  de: Maronenstirnsittich
+  pt: maroon-fronted parrot
+  ru: Каштановолобый арара
+  ja: クリムネインコ
+  nl: Grote araparkiet
+  pl: meksykana kasztanowoczelna
+  tr: Kahverengi Alınlı Papağan
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittacidae"
-  genus: "Rhynchopsitta"
-  species: "terrisi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Psittacidae
+  genus: Rhynchopsitta
+  species: terrisi
 morphology:
   body_mass_g: 441.6666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 2000
   elevational_max_m: 3000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,39 +87,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
-  nest_type: "CV"
-  nest_placement: "Rock"
+  nest_type: CV
+  nest_placement: Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rhynchopsitta terrisi (طوطی پیشانیعنابی)
 

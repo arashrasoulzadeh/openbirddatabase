@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02737"
-ebird_code: "shbcuc1"
+taxon_id: BN02737
+ebird_code: shbcuc1
 gbif_key: 2496325
-avibase_id: "1926839510D8C228"
-iucn_status: "LC"
+avibase_id: 1926839510D8C228
+iucn_status: LC
 taxon_order: 3318.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chalcites lucidus"
-  fa: "nan"
-  en: "Shining Bronze Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Chalcites lucidus
+  fa: nan
+  en: Shining Bronze Cuckoo
+  es: Cuclillo Broncíneo
+  fr: Coucou éclatant
+  de: Glanzbronzekuckuck
+  pt: cuco-brilhante
+  ru: Бронзовая кукушка
+  ja: ヨコジマテリカッコウ
+  zh: Shining Bronze Cuckoo
+  nl: Gouden bronskoekoek
+  pl: kukułeczka jarzębata
+  tr: Parlak Zümrüt Guguğu
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Chalcites"
-  species: "lucidus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Chalcites
+  species: lucidus
 morphology:
   body_mass_g: 33.35
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["AWZ"]
+  biogeographic_realms:
+  - AWZ
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1920
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,36 +93,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   incubation_days: 13
   fledging_days: 18
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chalcites lucidus (nan)
 

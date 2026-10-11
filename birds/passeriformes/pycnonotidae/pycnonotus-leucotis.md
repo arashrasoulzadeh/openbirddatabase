@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12836"
-ebird_code: "whebul1"
+taxon_id: BN12836
+ebird_code: whebul1
 gbif_key: 2486132
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 24776.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pycnonotus leucotis"
-  fa: "nan"
-  en: "White-eared Bulbul"
-
-# === TAXONOMY ===
+  scientific: Pycnonotus leucotis
+  fa: nan
+  en: White-eared Bulbul
+  es: Bulbul Orejiblanco
+  fr: Bulbul à oreillons blancs
+  de: Weißohrbülbül
+  pt: tuta-de-faces-brancas
+  ru: Белоухий бюльбюль
+  ja: シロミミヒヨドリ
+  zh: 白眉鵯
+  nl: Witoorbuulbuul
+  pl: bilbil białouchy
+  tr: Ak Yanaklı Arapbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Pycnonotus"
-  species: "leucotis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Pycnonotus
+  species: leucotis
 morphology:
   body_mass_g: 26.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2100
-  habitat_types: ["Woodland", "Shrubland", "Plains", "Artificial", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Plains
+  - Artificial
+  - Riverine
+  - Coastal
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 5
   categories:
     invertebrates: 2.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 10
   fledging_days: 9
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pycnonotus leucotis (nan)
 

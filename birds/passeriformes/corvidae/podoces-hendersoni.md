@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11823"
-ebird_code: "mogjay1"
+taxon_id: BN11823
+ebird_code: mogjay1
 gbif_key: 5229501
-avibase_id: "AF49B4CF0E5FE555"
-iucn_status: "LC"
+avibase_id: AF49B4CF0E5FE555
+iucn_status: LC
 taxon_order: 21480.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Podoces hendersoni"
-  fa: "زاغ زمینی هندرسون"
-  en: "Mongolian Ground Jay"
-
-# === TAXONOMY ===
+  scientific: Podoces hendersoni
+  fa: زاغ زمینی هندرسون
+  en: Mongolian Ground Jay
+  es: Arrendajo Terrestre Mongol
+  fr: Podoce de Henderson
+  de: Mongolenhäher
+  pt: mongolian ground-jay
+  ru: Монгольская сойка
+  ja: ハシナガサバクガラス
+  zh: 黑尾地鸦
+  nl: Mongoolse steppegaai
+  pl: sójeczka mongolska
+  tr: Moğol Yer Kargası
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Podoces"
-  species: "hendersoni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Podoces
+  species: hendersoni
 morphology:
   body_mass_g: 124.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Desert"
+  primary: Desert
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1000
   elevational_max_m: 1700
-  habitat_types: ["Shrubland", "Plains", "Desert"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Plains
+  - Desert
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Podoces hendersoni (زاغ زمینی هندرسون)
 

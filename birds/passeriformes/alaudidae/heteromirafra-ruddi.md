@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06595"
-ebird_code: "rudlar1"
+taxon_id: BN06595
+ebird_code: rudlar1
 gbif_key: 2490703
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 22474.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Heteromirafra ruddi"
-  fa: "چکاوک راد"
-  en: "Rudd's Lark"
-
-# === TAXONOMY ===
+  scientific: Heteromirafra ruddi
+  fa: چکاوک راد
+  en: Rudd's Lark
+  es: Alondra de Rudd
+  fr: Alouette de Rudd
+  de: Transvaalspornlerche
+  pt: rudd's lark
+  ru: Короткохвостый жаворонок
+  ja: ニセヤブヒバリ
+  zh: 拉氏歌百灵
+  nl: Sporenleeuwerik
+  pl: pazurczak jasny
+  tr: Rudd Toygarı
 taxonomy:
-  order: "Passeriformes"
-  family: "Alaudidae"
-  genus: "Heteromirafra"
-  species: "ruddi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Alaudidae
+  genus: Heteromirafra
+  species: ruddi
 morphology:
   body_mass_g: 26.55
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1600
   elevational_max_m: 2200
-  habitat_types: ["Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 14
-  nest_type: "DM"
-  nest_placement: "Ground"
+  nest_type: DM
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Heteromirafra ruddi (چکاوک راد)
 

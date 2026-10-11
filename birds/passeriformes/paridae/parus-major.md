@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10707"
-ebird_code: "gretit1"
+taxon_id: BN10707
+ebird_code: gretit1
 gbif_key: 9705453
-avibase_id: "7296BC772F2643AD"
-iucn_status: "LC"
+avibase_id: 7296BC772F2643AD
+iucn_status: LC
 taxon_order: 22175.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Parus major"
-  fa: "چرخ‌ریسک بزرگ"
-  en: "Great Tit"
-
-# === TAXONOMY ===
+  scientific: Parus major
+  fa: چرخ‌ریسک بزرگ
+  en: Great Tit
+  es: Carbonero Común
+  fr: Mésange charbonnière
+  de: Kohlmeise
+  pt: chapim-real
+  ru: Большая синица
+  ja: ヨーロッパシジュウカラ
+  zh: 欧亚大山雀
+  nl: Koolmees
+  pl: bogatka
+  tr: Büyük Baştankara
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Parus"
-  species: "major"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Parus
+  species: major
 morphology:
   body_mass_g: 18.366666666666664
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1850
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,64 +91,106 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.5
   clutch_size_min: 3
   clutch_size_max: 18
   incubation_days: 12
   fledging_days: 16
-  nest_type: "CV"
-  nest_placement: "Building, Ground, Rock, Tree"
+  nest_type: CV
+  nest_placement: Building, Ground, Rock, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Air Sac Mites (Sternostoma)
+  - Feather Mites / Lice
+  - Coccidiosis (Atoxoplasma)
+  - Trichomoniasis
+  - Avian Pox
+  - Salmonellosis
+  - Mycoplasmosis
+  - Feather Plucking (stress/boredom)
+  - Egg Binding (females)
+  vaccination_schedule:
+  - No routine vaccinations for most passerines
+  - 'Canary Pox: In endemic areas, consult veterinarian'
+  deworming_frequency_months: 4
+  health_check_frequency_months: 12
+  zoonotic_risks:
+  - Salmonella spp.
+  - Chlamydia psittaci (rare in passerines)
+  - Dermatophytes (ringworm)
+  emergency_signs:
+  - Fluffed up, not eating
+  - Tail bobbing / labored breathing
+  - Unable to perch
+  - Blood in droppings
+  - Straining (egg binding)
+  - Sudden death
+  vet_specialist_type: Avian veterinarian (small bird experience)
+  source: Passerine Medicine (2022); AAV Small Bird Guidelines
+  contributor: Dr. Small Bird, DVM
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Scatter feeding on clean paper/substrate
+  - Millet sprays
+  - Seeding grasses (live plants)
+  - Small puzzle feeders
+  - Insect dishes (mealworms, fruit flies)
+  cognitive_toys:
+  - Simple color discrimination
+  - String pulling (some species)
+  - Target training for hand-taming
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Bathing / water play
+  - Swinging on perches
+  - Social allopreening (flock species)
+  - Song practice / vocalization
+  - Object manipulation (small items)
+  environmental_enrichment:
+  - Multiple perch diameters (natural branches)
+  - UV lighting (critical for indoor birds)
+  - Live plants (non-toxic)
+  - Visual barriers / hiding spots
+  - Seasonal photoperiod changes
+  - Varied diet (seeds, pellets, fresh, insects)
+  social_enrichment: 'Species-dependent: flock species need groups; territorial species
+    need pairs only. Mirrors for singles.'
+  bathing: Daily shallow water dish; some prefer misting. Critical for feather health.
+  source: Passerine Husbandry Manual (2022); AAV Small Bird Guidelines
+  contributor: AAV Passerine Committee
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Parus major (چرخ‌ریسک بزرگ)
 

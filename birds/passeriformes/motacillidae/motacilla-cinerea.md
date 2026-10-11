@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09127"
-ebird_code: "grywag"
+taxon_id: BN09127
+ebird_code: grywag
 gbif_key: 2490310
-avibase_id: "AE073221679039C2"
-iucn_status: "LC"
+avibase_id: AE073221679039C2
+iucn_status: LC
 taxon_order: 31678.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Motacilla cinerea"
-  fa: "دم‌جنبانک خاکستری"
-  en: "Grey Wagtail"
-
-# === TAXONOMY ===
+  scientific: Motacilla cinerea
+  fa: دم‌جنبانک خاکستری
+  en: Grey Wagtail
+  es: Lavandera Cascadeña
+  fr: Bergeronnette des ruisseaux
+  de: Gebirgsstelze
+  pt: alvéola-cinzenta
+  ru: Горная трясогузка
+  ja: キセキレイ
+  zh: 灰鹡鸰
+  nl: Grote gele kwikstaart
+  pl: pliszka górska
+  tr: Dağ Kuyruksallayanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Motacillidae"
-  genus: "Motacilla"
-  species: "cinerea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Motacillidae
+  genus: Motacilla
+  species: cinerea
 morphology:
   body_mass_g: 17.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 4100
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 3
   clutch_size_max: 7
   incubation_days: 11
   fledging_days: 11
-  nest_type: "CP"
-  nest_placement: "Building, Ground, Rock"
+  nest_type: CP
+  nest_placement: Building, Ground, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Motacilla cinerea (دم‌جنبانک خاکستری)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13539"
-ebird_code: "berhum"
+taxon_id: BN13539
+ebird_code: berhum
 gbif_key: 5788537
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 5057.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Saucerottia beryllina"
-  fa: "nan"
-  en: "Berylline Hummingbird"
-
-# === TAXONOMY ===
+  scientific: Saucerottia beryllina
+  fa: nan
+  en: Berylline Hummingbird
+  es: Amazilia Berilina
+  fr: Ariane béryl
+  de: Beryllamazilie
+  pt: berylline hummingbird
+  ru: Берилловая амазилия
+  ja: コウゲンエメラルドハチドリ
+  nl: Berylamazilia
+  pl: szmaragdzik berylowy
+  tr: Beril Kolibrisi
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Saucerottia"
-  species: "beryllina"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Saucerottia
+  species: beryllina
 morphology:
   body_mass_g: 4.3
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 500
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   fledging_days: 20
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Saucerottia beryllina (nan)
 

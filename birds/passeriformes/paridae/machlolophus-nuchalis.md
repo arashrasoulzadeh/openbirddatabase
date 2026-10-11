@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08237"
-ebird_code: "whwtit2"
+taxon_id: BN08237
+ebird_code: whwtit2
 gbif_key: 7489783
-avibase_id: "ACF0445BEA7F8483"
-iucn_status: "VU"
+avibase_id: ACF0445BEA7F8483
+iucn_status: VU
 taxon_order: 22219.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Machlolophus nuchalis"
-  fa: "nan"
-  en: "White-naped Tit"
-
-# === TAXONOMY ===
+  scientific: Machlolophus nuchalis
+  fa: nan
+  en: White-naped Tit
+  es: Carbonero Nuquiblanco
+  fr: Mésange à ailes blanches
+  de: Weißflügelmeise
+  pt: white-naped tit
+  ru: Пегая синица
+  ja: ハジロシジュウカラ
+  nl: Witvleugelmees
+  pl: sikora białokarkowa
+  tr: Ak Kanatlı Baştankara
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Machlolophus"
-  species: "nuchalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Machlolophus
+  species: nuchalis
 morphology:
   body_mass_g: 13.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 375
   elevational_max_m: 920
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Machlolophus nuchalis (nan)
 

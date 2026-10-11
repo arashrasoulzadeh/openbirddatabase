@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08110"
-ebird_code: "crefir6"
+taxon_id: BN08110
+ebird_code: crefir6
 gbif_key: 8149620
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 1558.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lophura pyronota"
-  fa: "nan"
-  en: "Bornean Crestless Fireback"
-
-# === TAXONOMY ===
+  scientific: Lophura pyronota
+  fa: nan
+  en: Bornean Crestless Fireback
+  es: Faisán Colicanelo de Borneo
+  fr: Faisan pyronote
+  de: Borneo-Gelbschwanzfasan
+  pt: bornean crestless fireback
+  ru: Вилохвостая лофура
+  zh: 婆罗洲火背鹇
+  nl: Borneose vuurrugfazant
+  pl: kiściec rdzawogrzbiety
+  tr: Borneo Kızıl Kuyruklu Sülünü
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Lophura"
-  species: "pyronota"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Lophura
+  species: pyronota
 morphology:
   body_mass_g: 934.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 5.0
@@ -88,36 +88,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lophura pyronota (nan)
 

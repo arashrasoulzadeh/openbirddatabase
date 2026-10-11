@@ -1,47 +1,44 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14609"
-ebird_code: "fuctan1"
+taxon_id: BN14609
+ebird_code: fuctan1
 gbif_key: 2488566
-avibase_id: "A90F77DC3085A6ED"
-iucn_status: "LC"
+avibase_id: A90F77DC3085A6ED
+iucn_status: LC
 taxon_order: 34769.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachyphonus surinamus"
-  fa: "فرخنده کاکلگندمی"
-  en: "Fulvous-crested Tanager"
-
-# === TAXONOMY ===
+  scientific: Tachyphonus surinamus
+  fa: فرخنده کاکلگندمی
+  en: Fulvous-crested Tanager
+  es: Tangara Crestifulva
+  fr: Tangara à crête fauve
+  de: Goldschopf-Haubentangare
+  pt: tem-tem-de-topete-ferrugíneo
+  ru: Украшенная танагра
+  ja: キゴシクロフウキンチョウ
+  nl: Goudkuiftangare
+  pl: lanio płowoczuby
+  tr: Kızıl Taçlı Tangara
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Tachyphonus"
-  species: "surinamus"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Tachyphonus
+  species: surinamus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -86,31 +83,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +106,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +114,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Tachyphonus surinamus (فرخنده کاکلگندمی)
 

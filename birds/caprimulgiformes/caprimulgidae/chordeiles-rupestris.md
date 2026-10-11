@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02995"
-ebird_code: "sacnig1"
+taxon_id: BN02995
+ebird_code: sacnig1
 gbif_key: 2497028
-avibase_id: "18D14B20D823D0C7"
-iucn_status: "LC"
+avibase_id: 18D14B20D823D0C7
+iucn_status: LC
 taxon_order: 3481.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chordeiles rupestris"
-  fa: "شبگردباز شنرنگ"
-  en: "Sand-colored Nighthawk"
-
-# === TAXONOMY ===
+  scientific: Chordeiles rupestris
+  fa: شبگردباز شنرنگ
+  en: Sand-colored Nighthawk
+  es: Añapero Blanco
+  fr: Engoulevent sable
+  de: Flussnachtschwalbe
+  pt: bacurau-da-praia
+  ru: Речной сумеречник
+  ja: スナイロアメリカヨタカ
+  zh: 沙色美洲夜鹰
+  nl: Zandkleurige nachtzwaluw
+  pl: lelczyk blady
+  tr: Kum Gecedoğanı
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Chordeiles"
-  species: "rupestris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Chordeiles
+  species: rupestris
 morphology:
   body_mass_g: 52.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Rocky", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 21
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chordeiles rupestris (شبگردباز شنرنگ)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11780"
-ebird_code: "lalmaw1"
+taxon_id: BN11780
+ebird_code: lalmaw1
 gbif_key: 2494060
-avibase_id: "B4E50529FD2C00C1"
-iucn_status: "LC"
+avibase_id: B4E50529FD2C00C1
+iucn_status: LC
 taxon_order: 30835.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ploceus ruweti"
-  fa: "جولای نقابدار لوفیرا"
-  en: "Lufira Masked Weaver"
-
-# === TAXONOMY ===
+  scientific: Ploceus ruweti
+  fa: جولای نقابدار لوفیرا
+  en: Lufira Masked Weaver
+  es: Tejedor de Ruwet
+  fr: Tisserin de Ruwet
+  de: Ruwetweber
+  pt: lake lufira masked-weaver
+  ru: Луфирский ткач
+  ja: ザイールメンガタハタオリ
+  zh: Lufira Masked Weaver
+  nl: Lufirawever
+  pl: wikłacz bagienny
+  tr: Ruwet Dokumacısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Ploceidae"
-  genus: "Ploceus"
-  species: "ruweti"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Ploceidae
+  genus: Ploceus
+  species: ruweti
 morphology:
   body_mass_g: 16.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 900
   elevational_max_m: 1100
-  habitat_types: ["Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ploceus ruweti (جولای نقابدار لوفیرا)
 

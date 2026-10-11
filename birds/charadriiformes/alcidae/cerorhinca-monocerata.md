@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02657"
-ebird_code: "rhiauk"
+taxon_id: BN02657
+ebird_code: rhiauk
 gbif_key: 2481324
-avibase_id: "53D94597DFB84ECB"
-iucn_status: "LC"
+avibase_id: 53D94597DFB84ECB
+iucn_status: LC
 taxon_order: 6377.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cerorhinca monocerata"
-  fa: "ماهیگیرک شاخبینی"
-  en: "Rhinoceros Auklet"
-
-# === TAXONOMY ===
+  scientific: Cerorhinca monocerata
+  fa: ماهیگیرک شاخبینی
+  en: Rhinoceros Auklet
+  es: Alca Unicórnea
+  fr: Macareux rhinocéros
+  de: Nashornalk
+  pt: rhinoceros auklet
+  ru: Тупик-носорог
+  ja: ウトウ
+  zh: 角嘴海雀
+  nl: Neushoornalk
+  pl: nurek
+  tr: Boynuz Gagalı Alklet
 taxonomy:
-  order: "Charadriiformes"
-  family: "Alcidae"
-  genus: "Cerorhinca"
-  species: "monocerata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Alcidae
+  genus: Cerorhinca
+  species: monocerata
 morphology:
   body_mass_g: 503.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 200
-  habitat_types: ["Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 39
   fledging_days: 38
-  nest_type: "BU,CV"
-  nest_placement: "Ground, Rock, Cliff/Crevice"
+  nest_type: BU,CV
+  nest_placement: Ground, Rock, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cerorhinca monocerata (ماهیگیرک شاخبینی)
 

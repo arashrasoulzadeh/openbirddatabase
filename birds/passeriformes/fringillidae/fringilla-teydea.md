@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05706"
-ebird_code: "blucha2"
+taxon_id: BN05706
+ebird_code: blucha2
 gbif_key: 2494442
-avibase_id: "C757AC22C38D9C6A"
-iucn_status: "NT"
+avibase_id: C757AC22C38D9C6A
+iucn_status: NT
 taxon_order: 31972.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Fringilla teydea"
-  fa: "سهره جنگلی آبی"
-  en: "Tenerife Blue Chaffinch"
-
-# === TAXONOMY ===
+  scientific: Fringilla teydea
+  fa: سهره جنگلی آبی
+  en: Tenerife Blue Chaffinch
+  es: Pinzón Azul de Tenerife
+  fr: Pinson bleu
+  de: Teidefink
+  pt: tentilhão-azul-de-tenerife
+  ru: Голубой зяблик
+  ja: テネリフェオアトリ
+  zh: 特內里費島藍燕雀
+  nl: Teneriefse blauwe vink
+  pl: zięba modra
+  tr: Mavi İspinoz
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Fringilla"
-  species: "teydea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Fringilla
+  species: teydea
 morphology:
   body_mass_g: 30.650000000000002
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1200
   elevational_max_m: 2300
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +88,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 13
   fledging_days: 17
-  nest_placement: "Tree, Shrub"
+  nest_placement: Tree, Shrub
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Fringilla teydea (سهره جنگلی آبی)
 

@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12367"
-ebird_code: "buftuf3"
+taxon_id: BN12367
+ebird_code: buftuf3
 gbif_key: 6100763
-avibase_id: "399DC57420468EDF"
-iucn_status: "LC"
+avibase_id: 399DC57420468EDF
+iucn_status: LC
 taxon_order: 15013.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pseudocolaptes johnsoni"
-  fa: "nan"
-  en: "Pacific Tuftedcheek"
-
-# === TAXONOMY ===
+  scientific: Pseudocolaptes johnsoni
+  fa: nan
+  en: Pacific Tuftedcheek
+  es: Trepamusgos Barbablanca del Pacífico
+  fr: Pseudocolapte de Johnson
+  de: Tropfenbrust-Astspäher
+  pt: pacific tuftedcheek
+  ru: Тихоокеанский гусар
+  ja: ミナミキホオカマドドリ
+  nl: Chocopluimoor
+  pl: kowalczyk ekwadorski
+  tr: Çoko Puf Yanaklı Tırmaşığı
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Pseudocolaptes"
-  species: "johnsoni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Pseudocolaptes
+  species: johnsoni
 morphology:
   body_mass_g: 58.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 900
   elevational_max_m: 1500
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +87,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "CV"
-  nest_placement: "P, Tree"
+  nest_type: CV
+  nest_placement: P, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pseudocolaptes johnsoni (nan)
 

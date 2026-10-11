@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04652"
-ebird_code: "venflo1"
+taxon_id: BN04652
+ebird_code: venflo1
 gbif_key: 5230660
-avibase_id: "D2A59F9331F4F2AB"
-iucn_status: "EN"
+avibase_id: D2A59F9331F4F2AB
+iucn_status: EN
 taxon_order: 35290.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Diglossa venezuelensis"
-  fa: "گلشکاف ونزوئلایی"
-  en: "Venezuelan Flowerpiercer"
-
-# === TAXONOMY ===
+  scientific: Diglossa venezuelensis
+  fa: گلشکاف ونزوئلایی
+  en: Venezuelan Flowerpiercer
+  es: Pinchaflor Venezolano
+  fr: Percefleur du Venezuela
+  de: Dunkelhakenschnabel
+  pt: venezuelan flowerpiercer
+  ru: Траурный цветокол
+  ja: ミヤマハナサシミツドリ
+  zh: 委内瑞拉刺花鸟
+  nl: Rouwberghoningkruiper
+  pl: haczykodziobek wenezuelski
+  tr: Venezüela Çiçekdeleni
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Diglossa"
-  species: "venezuelensis"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Diglossa
+  species: venezuelensis
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1525
   elevational_max_m: 2450
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Diglossa venezuelensis (گلشکاف ونزوئلایی)
 

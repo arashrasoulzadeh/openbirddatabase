@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03209"
-ebird_code: "regsun2"
+taxon_id: BN03209
+ebird_code: regsun2
 gbif_key: 7340726
-avibase_id: "F995313FDAE91CE1"
-iucn_status: "LC"
+avibase_id: F995313FDAE91CE1
+iucn_status: LC
 taxon_order: 30379.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinnyris regius"
-  fa: "شهدخوار شاهانه"
-  en: "Regal Sunbird"
-
-# === TAXONOMY ===
+  scientific: Cinnyris regius
+  fa: شهدخوار شاهانه
+  en: Regal Sunbird
+  es: Suimanga Real
+  fr: Souimanga royal
+  de: Königsnektarvogel
+  pt: regal sunbird
+  ru: Королевская нектарница
+  ja: シリアカゴシキタイヨウチョウ
+  nl: Koningshoningzuiger
+  pl: nektarnik królewski
+  tr: Kral Nektarkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Cinnyris"
-  species: "regius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Cinnyris
+  species: regius
 morphology:
   body_mass_g: 6.416666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1500
   elevational_max_m: 3100
-  habitat_types: ["Forest", "Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "SP"
-  nest_placement: "A, Shrub"
+  nest_type: SP
+  nest_placement: A, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinnyris regius (شهدخوار شاهانه)
 

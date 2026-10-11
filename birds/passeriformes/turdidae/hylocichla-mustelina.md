@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06880"
-ebird_code: "woothr"
+taxon_id: BN06880
+ebird_code: woothr
 gbif_key: 2490872
-avibase_id: "8E1D9327B8DAFD54"
-iucn_status: "LC"
+avibase_id: 8E1D9327B8DAFD54
+iucn_status: LC
 taxon_order: 28347.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hylocichla mustelina"
-  fa: "توکای درختزار"
-  en: "Wood Thrush"
-
-# === TAXONOMY ===
+  scientific: Hylocichla mustelina
+  fa: توکای درختزار
+  en: Wood Thrush
+  es: Zorzalito Maculado
+  fr: Grive des bois
+  de: Walddrossel
+  pt: tordo-dos-bosques
+  ru: Лесной дрозд
+  ja: モリツグミ
+  zh: 黃褐森鶇
+  nl: Amerikaanse boslijster
+  pl: drozdek rudy
+  tr: Orman Ardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Hylocichla"
-  species: "mustelina"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Hylocichla
+  species: mustelina
 morphology:
   body_mass_g: 53.875
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 50
   elevational_max_m: 1325
-  habitat_types: ["Forest", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 11
   fledging_days: 12
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hylocichla mustelina (توکای درختزار)
 

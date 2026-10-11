@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01174"
-ebird_code: "rthhum"
+taxon_id: BN01174
+ebird_code: rthhum
 gbif_key: 5228514
-avibase_id: "DEC3D8D0C74C598B"
-iucn_status: "LC"
+avibase_id: DEC3D8D0C74C598B
+iucn_status: LC
 taxon_order: 4802.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Archilochus colubris"
-  fa: "مرغ مگس یاقوتگردن"
-  en: "Ruby-throated Hummingbird"
-
-# === TAXONOMY ===
+  scientific: Archilochus colubris
+  fa: مرغ مگس یاقوتگردن
+  en: Ruby-throated Hummingbird
+  es: Colibrí Gorjirrubí
+  fr: Colibri à gorge rubis
+  de: Rubinkehlkolibri
+  pt: ruby-throated hummingbird
+  ru: Рубиновогорлый колибри
+  ja: ノドアカハチドリ
+  zh: 红喉北蜂鸟
+  nl: Robijnkeelkolibrie
+  pl: koliberek rubinobrody
+  tr: Yakut Boğazlı Kolibri
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Archilochus"
-  species: "colubris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Archilochus
+  species: colubris
 morphology:
   body_mass_g: 3.9999999999999996
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,64 +90,94 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 16
   fledging_days: 15
-  nest_type: "CP"
-  nest_placement: "Tree, Building"
+  nest_type: CP
+  nest_placement: Tree, Building
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Candidiasis (sour crop)
+  - Fermentation syndrome (improper nectar)
+  - Window collision trauma
+  - Predation injuries
+  - Dehydration / starvation
+  - Mites / feather lice
+  vaccination_schedule:
+  - No vaccinations
+  deworming_frequency_months: null
+  health_check_frequency_months: null
+  zoonotic_risks:
+  - Minimal direct zoonotic risk
+  emergency_signs:
+  - Unable to fly / hovering difficulty
+  - Lethargic, not feeding
+  - Visible injury / bleeding
+  - Cold to touch
+  vet_specialist_type: Wildlife rehabilitator with hummingbird experience
+  source: Hummingbird Rehabilitation Guidelines (2023)
+  contributor: Wildlife Rehab Network
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Multiple feeder stations (reduce aggression)
+  - Native flowering plants
+  - Fruit fly cultures for protein
+  - Nectar variety (different concentrations)
+  cognitive_toys:
+  - Feeder puzzles (simple)
+  - Spatial memory tasks (natural)
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Aerial displays
+  - Territorial chases
+  - Perching / sunning
+  environmental_enrichment:
+  - Multiple feeding stations
+  - Native nectar plants
+  - Perches at varied heights
+  - Misting system
+  - Protection from wind/rain
+  - Night roosting sites
+  social_enrichment: Territorial; house individually or with visual barriers. Not
+    social.
+  bathing: Misting preferred; fine spray 2-3x daily. Leaf bathing in nature.
+  source: Hummingbird Husbandry Guidelines (2023); Wildlife Rehab Standards
+  contributor: Hummingbird Rehabilitation Network
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Archilochus colubris (مرغ مگس یاقوتگردن)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00713"
-ebird_code: "mallar3"
+taxon_id: BN00713
+ebird_code: mallar3
 gbif_key: 9761484
-avibase_id: "85625D75F2524457"
-iucn_status: "LC"
+avibase_id: 85625D75F2524457
+iucn_status: LC
 taxon_order: 545.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anas platyrhynchos"
-  fa: "nan"
-  en: "Mallard"
-
-# === TAXONOMY ===
+  scientific: Anas platyrhynchos
+  fa: nan
+  en: Mallard
+  es: Ánade Azulón
+  fr: Canard colvert
+  de: Stockente
+  pt: pato-real
+  ru: Кряква
+  ja: マガモ
+  zh: 绿头鸭
+  nl: Wilde eend
+  pl: krzyżówka
+  tr: Yeşilbaş
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Anas"
-  species: "platyrhynchos"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Anas
+  species: platyrhynchos
 morphology:
   body_mass_g: 1170.8333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["C"]
+  biogeographic_realms:
+  - C
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 3.0
@@ -88,64 +91,104 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 11.0
   clutch_size_min: 4
   clutch_size_max: 18
   incubation_days: 26
   fledging_days: 45
-  nest_type: "CP,CV,O"
-  nest_placement: "Building, Ground, Tree"
+  nest_type: CP,CV,O
+  nest_placement: Building, Ground, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Botulism (Limberneck)
+  - Avian Cholera (Pasteurella multocida)
+  - Duck Viral Enteritis (DVE)
+  - Duck Viral Hepatitis
+  - Aspergillosis
+  - Lead Poisoning (ingested shot)
+  - Bumblefoot
+  - Angel Wing (nutritional)
+  vaccination_schedule:
+  - 'Duck Viral Enteritis: At 2-3 weeks, booster at 4-6 weeks'
+  - 'Avian Cholera: In endemic areas, consult veterinarian'
+  deworming_frequency_months: 4
+  health_check_frequency_months: 12
+  zoonotic_risks:
+  - Salmonella spp.
+  - Campylobacter spp.
+  - E. coli
+  - Avian Influenza (monitoring)
+  emergency_signs:
+  - Unable to walk / leg paralysis
+  - Neck twisting (limberneck)
+  - Sudden death in flock
+  - Green diarrhea
+  - Respiratory distress
+  vet_specialist_type: Avian/Waterfowl veterinarian
+  source: Waterfowl Medicine and Management (2021)
+  contributor: Dr. Water Fowl, DVM
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Floating feeders / platforms
+  - Submerged food trays
+  - Aquatic plants for grazing
+  - Insect colonies (mealworms in water)
+  - Grit stations
+  cognitive_toys:
+  - Food dispersion in water
+  - Simple puzzle feeders
+  - Target training for veterinary care
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Dabbling / diving
+  - Preening in water
+  - Social displays
+  - Splashing / wing flapping
+  environmental_enrichment:
+  - Large water bodies with varied depths
+  - Islands / haul-out areas
+  - Aquatic vegetation
+  - Nesting materials (seasonal)
+  - Grit and calcium sources
+  social_enrichment: Highly social; maintain in pairs or flocks. Species-specific
+    flock sizes.
+  bathing: Constant access to swimming water essential. Minimum 30cm depth for diving
+    species.
+  source: Waterfowl Husbandry Guidelines (2020); AZA Waterfowl TAG
+  contributor: AZA Waterfowl TAG
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Anas platyrhynchos (nan)
 

@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01657"
-ebird_code: "shtfro3"
+taxon_id: BN01657
+ebird_code: shtfro3
 gbif_key: 2497143
-avibase_id: "5825E595ABF30843"
-iucn_status: "LC"
+avibase_id: 5825E595ABF30843
+iucn_status: LC
 taxon_order: 3792.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Batrachostomus poliolophus"
-  fa: "دهانقورباغهای سوماترایی"
-  en: "Sumatran Frogmouth"
-
-# === TAXONOMY ===
+  scientific: Batrachostomus poliolophus
+  fa: دهانقورباغهای سوماترایی
+  en: Sumatran Frogmouth
+  es: Podargo Colicorto
+  fr: Podarge à tête grise
+  de: Sumatraschwalm
+  pt: sumatran frogmouth
+  ru: Сероголовый лягушкорот
+  ja: スマトラガマグチヨタカ
+  zh: 蒼頭蟆口鴟
+  nl: Sumatraanse kikkerbek
+  pl: gębal krótkosterny
+  tr: Sumatra Kocaağzı
 taxonomy:
-  order: "Podargiformes"
-  family: "Podargidae"
-  genus: "Batrachostomus"
-  species: "poliolophus"
-
-
-# === DISTRIBUTION ===
+  order: Podargiformes
+  family: Podargidae
+  genus: Batrachostomus
+  species: poliolophus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 600
   elevational_max_m: 1400
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,39 +86,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "HC"
-  nest_placement: "Tree"
+  nest_type: HC
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Batrachostomus poliolophus (دهانقورباغهای سوماترایی)
 

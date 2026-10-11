@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06153"
-ebird_code: "bicant3"
+taxon_id: BN06153
+ebird_code: bicant3
 gbif_key: 2490543
-avibase_id: "E1A86347487501C4"
-iucn_status: "LC"
+avibase_id: E1A86347487501C4
+iucn_status: LC
 taxon_order: 14267.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Grallaria rufocinerea"
-  fa: "nan"
-  en: "Bicolored Antpitta"
-
-# === TAXONOMY ===
+  scientific: Grallaria rufocinerea
+  fa: nan
+  en: Bicolored Antpitta
+  es: Tororoí Bicolor
+  fr: Grallaire bicolore
+  de: Zweifarben-Ameisenpitta
+  pt: bicolored antpitta
+  ru: Рыжеголовая питтовая муравьеловка
+  ja: ニショクジアリドリ
+  nl: Tweekleurige mierpitta
+  pl: kusaczka rdzawo-szara
+  tr: İki Renkli Yerçavuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Grallariidae"
-  genus: "Grallaria"
-  species: "rufocinerea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Grallariidae
+  genus: Grallaria
+  species: rufocinerea
 morphology:
   body_mass_g: 44.7
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2200
   elevational_max_m: 3150
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Grallaria rufocinerea (nan)
 

@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06684"
-ebird_code: "pacswa5"
+taxon_id: BN06684
+ebird_code: pacswa5
 gbif_key: 5230787
-avibase_id: "B9AC53DEE40266A7"
-iucn_status: "LC"
+avibase_id: B9AC53DEE40266A7
+iucn_status: LC
 taxon_order: 24181.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hirundo tahitica"
-  fa: "پرستوی اقیانوس آرام"
-  en: "Tahiti Swallow"
-
-# === TAXONOMY ===
+  scientific: Hirundo tahitica
+  fa: پرستوی اقیانوس آرام
+  en: Tahiti Swallow
+  es: Golondrina de Tahití
+  fr: Hirondelle de Tahiti
+  de: Tahitischwalbe
+  pt: tahiti swallow
+  ru: Домовая ласточка
+  ja: タヒチツバメ
+  zh: 洋燕
+  nl: Tahitizwaluw
+  pl: jaskółka pacyficzna
+  tr: Tahiti Kırlangıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Hirundinidae"
-  genus: "Hirundo"
-  species: "tahitica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Hirundinidae
+  genus: Hirundo
+  species: tahitica
 morphology:
   body_mass_g: 15.219999999999999
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Rocky", "Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Rocky
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 15
   fledging_days: 17
-  nest_type: "HC"
-  nest_placement: "Rock, Ground, Building, Tree"
+  nest_type: HC
+  nest_placement: Rock, Ground, Building, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hirundo tahitica (پرستوی اقیانوس آرام)
 

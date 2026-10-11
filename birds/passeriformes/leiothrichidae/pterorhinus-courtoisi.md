@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12654"
-ebird_code: "buclau1"
+taxon_id: BN12654
+ebird_code: buclau1
 gbif_key: 10989354
-avibase_id: "8A908A7E8AE7DCA7"
-iucn_status: "CR"
+avibase_id: 8A908A7E8AE7DCA7
+iucn_status: CR
 taxon_order: 26780.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pterorhinus courtoisi"
-  fa: "nan"
-  en: "Blue-crowned Laughingthrush"
-
-# === TAXONOMY ===
+  scientific: Pterorhinus courtoisi
+  fa: nan
+  en: Blue-crowned Laughingthrush
+  es: Charlatán Coroniazul
+  fr: Garrulaxe de Courtois
+  de: Blaukappenhäherling
+  pt: blue-crowned laughingthrush
+  ru: Сизоголовая кустарница
+  ja: ズアオキノドガビチョウ
+  zh: 靛冠噪鹛
+  nl: Ménégauxlijstergaai
+  pl: sójkowiec żółtobrzuchy
+  tr: Courtois Gevezeardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Pterorhinus"
-  species: "courtoisi"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Pterorhinus
+  species: courtoisi
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -86,40 +87,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 3
   clutch_size_max: 3
   incubation_days: 13
   fledging_days: 13
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pterorhinus courtoisi (nan)
 

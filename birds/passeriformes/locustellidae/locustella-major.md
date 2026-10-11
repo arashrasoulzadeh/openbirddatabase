@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08007"
-ebird_code: "lbbwar1"
+taxon_id: BN08007
+ebird_code: lbbwar1
 gbif_key: 7590291
-avibase_id: "0EB857ACDE72A0A5"
-iucn_status: "NT"
+avibase_id: 0EB857ACDE72A0A5
+iucn_status: NT
 taxon_order: 23813.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Locustella major"
-  fa: "سسک بیشهای نوکدراز"
-  en: "Long-billed Bush Warbler"
-
-# === TAXONOMY ===
+  scientific: Locustella major
+  fa: سسک بیشهای نوکدراز
+  en: Long-billed Bush Warbler
+  es: Zarzalero Piquilargo
+  fr: Locustelle à long bec
+  de: Kaschmirschwirl
+  pt: long-billed bush warbler
+  ru: Длинноклювая пестрогрудка
+  ja: ハシナガオウギセッカ
+  zh: 巨嘴短翅蝗莺
+  nl: Kasjmirstruikzanger
+  pl: świerszczak długodzioby
+  tr: Uzun Gagalı Çalı Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Locustellidae"
-  genus: "Locustella"
-  species: "major"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Locustellidae
+  genus: Locustella
+  species: major
 morphology:
   body_mass_g: 13.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1200
   elevational_max_m: 3600
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_type: CP
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Locustella major (سسک بیشهای نوکدراز)
 

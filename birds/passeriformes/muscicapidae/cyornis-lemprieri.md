@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04247"
-ebird_code: "pabfly1"
+taxon_id: BN04247
+ebird_code: pabfly1
 gbif_key: 2492439
-avibase_id: "37C2CC2EC12F7630"
-iucn_status: "NT"
+avibase_id: 37C2CC2EC12F7630
+iucn_status: NT
 taxon_order: 29150.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyornis lemprieri"
-  fa: "مگسگیر آبی پالاوان"
-  en: "Palawan Blue Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Cyornis lemprieri
+  fa: مگسگیر آبی پالاوان
+  en: Palawan Blue Flycatcher
+  es: Papamoscas de Balabac
+  fr: Gobemouche de Balabac
+  de: Palawanblauschnäpper
+  pt: palawan blue flycatcher
+  ru: Палаванская нильтава
+  ja: ラムゼイヒメアオヒタキ
+  nl: Balabakniltava
+  pl: dżunglówka płowogardła
+  tr: Palavan Mavi Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Cyornis"
-  species: "lemprieri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Cyornis
+  species: lemprieri
 morphology:
   body_mass_g: 21.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   incubation_days: 15
-  nest_placement: "C"
+  nest_placement: C
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyornis lemprieri (مگسگیر آبی پالاوان)
 

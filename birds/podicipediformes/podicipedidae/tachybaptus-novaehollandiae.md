@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14585"
-ebird_code: "ausgre1"
+taxon_id: BN14585
+ebird_code: ausgre1
 gbif_key: 2482043
-avibase_id: "1ABF840F615A6DDA"
-iucn_status: "LC"
+avibase_id: 1ABF840F615A6DDA
+iucn_status: LC
 taxon_order: 6840.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachybaptus novaehollandiae"
-  fa: "کشیم استرالیایی"
-  en: "Australasian Grebe"
-
-# === TAXONOMY ===
+  scientific: Tachybaptus novaehollandiae
+  fa: کشیم استرالیایی
+  en: Australasian Grebe
+  es: Zampullín Australiano
+  fr: Grèbe australasien
+  de: Australzwergtaucher
+  pt: mergulhão-australasiático
+  ru: Австралийская поганка
+  ja: ノドグロカイツブリ
+  zh: 黑喉小鸊鷉
+  nl: Australische dodaars
+  pl: perkozek australijski
+  tr: Avustralya Küçük Batağanı
 taxonomy:
-  order: "Podicipediformes"
-  family: "Podicipedidae"
-  genus: "Tachybaptus"
-  species: "novaehollandiae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Podicipediformes
+  family: Podicipedidae
+  genus: Tachybaptus
+  species: novaehollandiae
 morphology:
   body_mass_g: 190.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["AZ"]
+  biogeographic_realms:
+  - AZ
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 1
   clutch_size_max: 9
   incubation_days: 23
   fledging_days: 56
-  nest_type: "Platform"
-  nest_placement: "Ground"
+  nest_type: Platform
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tachybaptus novaehollandiae (کشیم استرالیایی)
 

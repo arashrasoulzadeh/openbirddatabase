@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01106"
-ebird_code: "goleag"
+taxon_id: BN01106
+ebird_code: goleag
 gbif_key: 2480506
-avibase_id: "5F8E7CA845BD413F"
-iucn_status: "LC"
+avibase_id: 5F8E7CA845BD413F
+iucn_status: LC
 taxon_order: 8064.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aquila chrysaetos"
-  fa: "عقاب طلایی"
-  en: "Golden Eagle"
-
-# === TAXONOMY ===
+  scientific: Aquila chrysaetos
+  fa: عقاب طلایی
+  en: Golden Eagle
+  es: Águila Real
+  fr: Aigle royal
+  de: Steinadler
+  pt: águia-real
+  ru: Беркут
+  ja: イヌワシ
+  zh: 金雕
+  nl: Steenarend
+  pl: orzeł przedni
+  tr: Kaya Kartalı
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Aquila"
-  species: "chrysaetos"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Aquila
+  species: chrysaetos
 morphology:
   body_mass_g: 4258.333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["C"]
+  biogeographic_realms:
+  - C
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 3630
-  habitat_types: ["Woodland", "Shrubland", "Grassland", "Plains", "Desert", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Grassland
+  - Plains
+  - Desert
+  - Wetland
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 2
   categories:
     invertebrates: 0.01
@@ -88,64 +93,106 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 41
   fledging_days: 65
-  nest_type: "Platform"
-  nest_placement: "Rock, Tree"
+  nest_type: Platform
+  nest_placement: Rock, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Bumblefoot (Pododermatitis)
+  - Aspergillosis
+  - Trichomoniasis (Frounce)
+  - West Nile Virus
+  - Lead Poisoning
+  - Trauma / Fractures
+  - Feather Damage / Imping needed
+  - Parasitic infections (Capillaria, Coccidia)
+  vaccination_schedule:
+  - 'West Nile Virus: Initial series (2 doses 3-4 weeks apart), then annually before
+    mosquito season'
+  - 'Tetanus: Consider for rehabilitation birds'
+  deworming_frequency_months: 3
+  health_check_frequency_months: 6
+  zoonotic_risks:
+  - Salmonella spp.
+  - Campylobacter spp.
+  - Mycobacterium avium
+  - West Nile Virus (vector-borne)
+  emergency_signs:
+  - Drooping wing / inability to fly
+  - Leg paralysis / inability to stand
+  - Open-mouth breathing
+  - Blood in feces / mouth
+  - Severe emaciation (keel prominent)
+  - Head tilt / neurological signs
+  vet_specialist_type: Raptor/Exotic veterinarian with falconry experience
+  source: Raptor Medicine and Surgery (2022); Falconry Medicine Guidelines
+  contributor: Dr. John Raptor, DVM, Raptor Specialist
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Whole prey items (mice, quail, chicks)
+  - Food hidden in cavities / under objects
+  - Tug toys (simulate prey struggle)
+  - Feathered lures for flight training
+  cognitive_toys:
+  - Problem solving for food access
+  - Target training for husbandry
+  - Flight training / recall
+  - Hood training (falconry)
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Mantling (food protection behavior)
+  - Caching behavior
+  - Soaring / thermal riding
+  - Footing (gripping practice)
+  environmental_enrichment:
+  - Large flight chambers / weathering areas
+  - Varied perch textures and heights
+  - Bathing facilities
+  - Visual barriers from public
+  - Natural light cycles
+  - Hunting simulation (lure flying)
+  social_enrichment: Generally solitary or pair-bonded. Human imprinting requires
+    careful management. Conspecifics only for breeding pairs.
+  bathing: Shallow pan daily; some species enjoy misting. Critical for feather maintenance.
+  source: Raptor Enrichment Guidelines (2021); Falconry Standards
+  contributor: International Association of Falconry
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Aquila chrysaetos (عقاب طلایی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02670"
-ebird_code: "grywaf1"
+taxon_id: BN02670
+ebird_code: grywaf1
 gbif_key: 2491697
-avibase_id: "3A320757A59F3F9C"
-iucn_status: "LC"
+avibase_id: 3A320757A59F3F9C
+iucn_status: LC
 taxon_order: 35739.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Certhidea fusca"
-  fa: "سهرهسسکی خاکستری"
-  en: "Grey Warbler-Finch"
-
-# === TAXONOMY ===
+  scientific: Certhidea fusca
+  fa: سهرهسسکی خاکستری
+  en: Grey Warbler-Finch
+  es: Pinzón de Darwin Gris
+  fr: Géospize gris
+  de: Laubsänger-Darwinfink
+  pt: gray warbler-finch
+  ru: Славковый дарвинов вьюрок
+  ja: ハイイロムシクイフィンチ
+  zh: Grey Warbler-Finch
+  nl: Grijze boszangervink
+  pl: owadziarka szara
+  tr: Gri Ötleğen İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Certhidea"
-  species: "fusca"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Certhidea
+  species: fusca
 morphology:
   body_mass_g: 8.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Shrubland", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   incubation_days: 10
   fledging_days: 11
-  nest_type: "SP"
+  nest_type: SP
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Certhidea fusca (سهرهسسکی خاکستری)
 

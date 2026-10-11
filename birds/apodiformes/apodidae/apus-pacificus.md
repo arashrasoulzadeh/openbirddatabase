@@ -1,49 +1,56 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01099"
-ebird_code: "fotswi1"
+taxon_id: BN01099
+ebird_code: fotswi1
 gbif_key: 5228670
-avibase_id: "E23EBEFB47EB1EB0"
-iucn_status: "LC"
+avibase_id: E23EBEFB47EB1EB0
+iucn_status: LC
 taxon_order: 4127.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Apus pacificus"
-  fa: "بادقپک اقیانوس آرام"
-  en: "Fork-tailed Swift"
-
-# === TAXONOMY ===
+  scientific: Apus pacificus
+  fa: بادقپک اقیانوس آرام
+  en: Fork-tailed Swift
+  es: Vencejo del Pacífico
+  fr: Martinet de Sibérie
+  de: Pazifiksegler
+  pt: Andorinhão-asiático
+  ru: Белопоясничный стриж
+  ja: アマツバメ
+  zh: 叉尾雨燕
+  nl: Siberische Gierzwaluw
+  pl: jerzyk białorzytny
 taxonomy:
-  order: "Apodiformes"
-  family: "Apodidae"
-  genus: "Apus"
-  species: "pacificus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Apodidae
+  genus: Apus
+  species: pacificus
 morphology:
   body_mass_g: 41.516666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 9
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Grassland", "Plains", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Plains
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +95,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 17
   fledging_days: 40
-  nest_type: "HC"
-  nest_placement: "Building, Rock"
+  nest_type: HC
+  nest_placement: Building, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +128,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +136,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Apus pacificus (بادقپک اقیانوس آرام)
 

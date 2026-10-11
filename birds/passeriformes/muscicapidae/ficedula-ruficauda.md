@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05611"
-ebird_code: "rutfly6"
+taxon_id: BN05611
+ebird_code: rutfly6
 gbif_key: 9574669
-avibase_id: "F6A82D7F68416ACD"
-iucn_status: "LC"
+avibase_id: F6A82D7F68416ACD
+iucn_status: LC
 taxon_order: 29552.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ficedula ruficauda"
-  fa: "مگسگیر دمحنایی"
-  en: "Rusty-tailed Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Ficedula ruficauda
+  fa: مگسگیر دمحنایی
+  en: Rusty-tailed Flycatcher
+  es: Papamoscas Colirrojo
+  fr: Gobemouche à queue rousse
+  de: Rotschwanzschnäpper
+  pt: rusty-tailed flycatcher
+  ru: Рыжехвостая мухоловка
+  ja: アカオサメビタキ
+  zh: 栗尾姬鹟
+  nl: Roodstaartvliegenvanger
+  pl: muchołówka rudosterna
+  tr: Al Kuyruklu Sinekkapan
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Ficedula"
-  species: "ruficauda"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Ficedula
+  species: ruficauda
 morphology:
   body_mass_g: 13.433333333333332
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1000
   elevational_max_m: 3600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Ground, Shrub, Tree"
+  nest_type: CP
+  nest_placement: Ground, Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ficedula ruficauda (مگسگیر دمحنایی)
 

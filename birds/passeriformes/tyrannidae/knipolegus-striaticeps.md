@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07360"
-ebird_code: "cintyr1"
+taxon_id: BN07360
+ebird_code: cintyr1
 gbif_key: 2483034
-avibase_id: "013E99A82C30CD3C"
-iucn_status: "LC"
+avibase_id: 013E99A82C30CD3C
+iucn_status: LC
 taxon_order: 17067.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Knipolegus striaticeps"
-  fa: "ژیانمرغ خاکستری"
-  en: "Cinereous Tyrant"
-
-# === TAXONOMY ===
+  scientific: Knipolegus striaticeps
+  fa: ژیانمرغ خاکستری
+  en: Cinereous Tyrant
+  es: Viudita Chaqueña
+  fr: Ada cendré
+  de: Schwarzmasken-Dunkeltyrann
+  pt: maria-preta-acinzentada
+  ru: Пепельная вдовка
+  ja: ヒメハイイロタイランチョウ
+  nl: Grauwe moortiran
+  pl: wdowik okopcony
+  tr: Çako Esmer Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Knipolegus"
-  species: "striaticeps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Knipolegus
+  species: striaticeps
 morphology:
   body_mass_g: 11.033333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Knipolegus striaticeps (ژیانمرغ خاکستری)
 

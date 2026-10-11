@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02341"
-ebird_code: "lobwre1"
+taxon_id: BN02341
+ebird_code: lobwre1
 gbif_key: 7341035
-avibase_id: "8966445CA31BB62A"
-iucn_status: "LC"
+avibase_id: 8966445CA31BB62A
+iucn_status: LC
 taxon_order: 27566.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cantorchilus longirostris"
-  fa: "الیکایی نوکدراز"
-  en: "Long-billed Wren"
-
-# === TAXONOMY ===
+  scientific: Cantorchilus longirostris
+  fa: الیکایی نوکدراز
+  en: Long-billed Wren
+  es: Cucarachero Piquilargo
+  fr: Troglodyte à long bec
+  de: Langschnabel-Zaunkönig
+  pt: garrinchão-de-bico-grande
+  ru: Длинноклювый крапивник
+  ja: ハシナガマユミソサザイ
+  nl: Langsnavelwinterkoning
+  pl: pręgostrzyżyk długodzioby
+  tr: Uzun Gagalı Çıtkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Troglodytidae"
-  genus: "Cantorchilus"
-  species: "longirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Troglodytidae
+  genus: Cantorchilus
+  species: longirostris
 morphology:
   body_mass_g: 20.95
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 900
-  habitat_types: ["Forest", "Shrubland", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "DM"
-  nest_placement: "Tree"
+  nest_type: DM
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cantorchilus longirostris (الیکایی نوکدراز)
 

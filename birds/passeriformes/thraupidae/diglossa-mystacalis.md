@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04649"
-ebird_code: "mouflo1"
+taxon_id: BN04649
+ebird_code: mouflo1
 gbif_key: 5230655
-avibase_id: "24F6EAA195856DCC"
-iucn_status: "LC"
+avibase_id: 24F6EAA195856DCC
+iucn_status: LC
 taxon_order: 35275.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Diglossa mystacalis"
-  fa: "گلشکاف سبیلدار"
-  en: "Moustached Flowerpiercer"
-
-# === TAXONOMY ===
+  scientific: Diglossa mystacalis
+  fa: گلشکاف سبیلدار
+  en: Moustached Flowerpiercer
+  es: Pinchaflor Bigotudo
+  fr: Percefleur moustachu
+  de: Barthakenschnabel
+  pt: moustached flowerpiercer
+  ru: Усатый цветокол
+  ja: シラヒゲハナサシミツドリ
+  zh: 须刺花鸟
+  nl: Witbaardberghoningkruiper
+  pl: haczykodziobek rudowąsy
+  tr: Bıyıklı Çiçekdelen
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Diglossa"
-  species: "mystacalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Diglossa
+  species: mystacalis
 morphology:
   body_mass_g: 15.733333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 2400
   elevational_max_m: 3700
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,36 +91,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Diglossa mystacalis (گلشکاف سبیلدار)
 

@@ -1,47 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09085"
-ebird_code: "kerlau3"
+taxon_id: BN09085
+ebird_code: kerlau3
 gbif_key: 10785624
-avibase_id: "9D9DBBDCAD7674CE"
-iucn_status: "VU"
+avibase_id: 9D9DBBDCAD7674CE
+iucn_status: VU
 taxon_order: 26499.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Montecincla meridionalis"
-  fa: "nan"
-  en: "Ashambu Laughingthrush"
-
-# === TAXONOMY ===
+  scientific: Montecincla meridionalis
+  fa: nan
+  en: Ashambu Laughingthrush
+  es: Charlatán de Los Ashambu
+  fr: Garrulaxe du Travancore
+  de: Graubrusthäherling
+  pt: ashambu laughingthrush
+  ru: Траванкорская кустарница
+  ja: アシャンブガビチョウ
+  zh: 阿沙部噪鹛
+  nl: Ashambulijstergaai
+  pl: malabarosójkownik szarogrzbiety
+  tr: Aşambu Gevezeardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Montecincla"
-  species: "meridionalis"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Montecincla
+  species: meridionalis
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1200
   elevational_max_m: 2135
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -86,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Montecincla meridionalis (nan)
 

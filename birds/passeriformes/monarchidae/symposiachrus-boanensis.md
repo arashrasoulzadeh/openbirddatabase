@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14486"
-ebird_code: "blcmon1"
+taxon_id: BN14486
+ebird_code: blcmon1
 gbif_key: 6101041
-avibase_id: "9E53BDE4573A8552"
-iucn_status: "CR"
+avibase_id: 9E53BDE4573A8552
+iucn_status: CR
 taxon_order: 20893.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Symposiachrus boanensis"
-  fa: "شهریارک چانهسیاه"
-  en: "Boano Monarch"
-
-# === TAXONOMY ===
+  scientific: Symposiachrus boanensis
+  fa: شهریارک چانهسیاه
+  en: Boano Monarch
+  es: Monarca de Isla Boano
+  fr: Monarque de Boano
+  de: Boanomonarch
+  pt: boano monarch
+  ru: Боанский монарх
+  ja: クロアゴカササギビタキ
+  nl: Boanomonarch
+  pl: monareczka czarnobroda
+  tr: Boano Adası Monarkı
 taxonomy:
-  order: "Passeriformes"
-  family: "Monarchidae"
-  genus: "Symposiachrus"
-  species: "boanensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Monarchidae
+  genus: Symposiachrus
+  species: boanensis
 morphology:
   body_mass_g: 17.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 150
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,34 +87,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Symposiachrus boanensis (شهریارک چانهسیاه)
 

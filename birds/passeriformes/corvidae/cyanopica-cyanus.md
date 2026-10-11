@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04164"
-ebird_code: "azwmag2"
+taxon_id: BN04164
+ebird_code: azwmag2
 gbif_key: 7341881
-avibase_id: "659D6E44CDDBC5F1"
-iucn_status: "LC"
+avibase_id: 659D6E44CDDBC5F1
+iucn_status: LC
 taxon_order: 21391.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyanopica cyanus"
-  fa: "زاغی باللاجوردی"
-  en: "Azure-winged Magpie"
-
-# === TAXONOMY ===
+  scientific: Cyanopica cyanus
+  fa: زاغی باللاجوردی
+  en: Azure-winged Magpie
+  es: Rabilargo Asiático
+  fr: Pie-bleue à calotte noire
+  de: Azurelster
+  pt: charneco-oriental
+  ru: Голубая сорока
+  ja: オナガ
+  zh: 灰喜鹊
+  nl: Aziatische blauwe ekster
+  pl: sójka błękitna
+  tr: Mavi Saksağan
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Cyanopica"
-  species: "cyanus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Cyanopica
+  species: cyanus
 morphology:
   body_mass_g: 96.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 6.0
   clutch_size_min: 5
   clutch_size_max: 7
   incubation_days: 15
   fledging_days: 16
-  nest_type: "CP"
-  nest_placement: "Ground, Tree"
+  nest_type: CP
+  nest_placement: Ground, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyanopica cyanus (زاغی باللاجوردی)
 

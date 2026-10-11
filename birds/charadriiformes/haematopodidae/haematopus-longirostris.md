@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06337"
-ebird_code: "pieoys1"
+taxon_id: BN06337
+ebird_code: pieoys1
 gbif_key: 2480261
-avibase_id: "D828B84DC5372B2C"
-iucn_status: "LC"
+avibase_id: D828B84DC5372B2C
+iucn_status: LC
 taxon_order: 5791.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Haematopus longirostris"
-  fa: "صدفخوار ابلق"
-  en: "Pied Oystercatcher"
-
-# === TAXONOMY ===
+  scientific: Haematopus longirostris
+  fa: صدفخوار ابلق
+  en: Pied Oystercatcher
+  es: Ostrero Pío Australiano
+  fr: Huîtrier à long bec
+  de: Australausternfischer
+  pt: pied oystercatcher
+  ru: Длинноклювый кулик-сорока
+  ja: オーストラリアミヤコドリ
+  zh: 澳洲斑蛎鹬
+  nl: Australische bonte scholekster
+  pl: ostrygojad długodzioby
+  tr: Avustralya Poyrazkuşu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Haematopodidae"
-  genus: "Haematopus"
-  species: "longirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Haematopodidae
+  genus: Haematopus
+  species: longirostris
 morphology:
   body_mass_g: 617.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["AW"]
+  biogeographic_realms:
+  - AW
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Grassland", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 28
   fledging_days: 42
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Haematopus longirostris (صدفخوار ابلق)
 

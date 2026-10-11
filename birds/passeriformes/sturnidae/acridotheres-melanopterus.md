@@ -1,47 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00059"
-ebird_code: "bkwsta1"
+taxon_id: BN00059
+ebird_code: bkwsta1
 gbif_key: 5845376
-avibase_id: "EC5675E3191E369B"
-iucn_status: "EN"
+avibase_id: EC5675E3191E369B
+iucn_status: EN
 taxon_order: 27866.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Acridotheres melanopterus"
-  fa: "سار پرسیاه"
-  en: "Black-winged Myna"
-
-# === TAXONOMY ===
+  scientific: Acridotheres melanopterus
+  fa: سار پرسیاه
+  en: Black-winged Myna
+  es: Miná Alinegro
+  fr: Martin à ailes noires
+  de: Schwarzflügelmaina
+  pt: black-winged myna
+  ru: Чернокрылая майна
+  ja: ソデグロムクドリ
+  zh: 黑翅椋鳥
+  nl: Zwartvleugelmaina
+  pl: majna czarnoskrzydła
+  tr: Ak Çiğdeci
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Acridotheres"
-  species: "melanopterus"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Acridotheres
+  species: melanopterus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Artificial"
+  primary: Artificial
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2400
-  habitat_types: ["Forest", "Woodland", "Savanna", "Grassland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Savanna
+  - Grassland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -86,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_type: "CV"
-  nest_placement: "Rock, Tree"
+  nest_type: CV
+  nest_placement: Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Acridotheres melanopterus (سار پرسیاه)
 

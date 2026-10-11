@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01328"
-ebird_code: "ussfly1"
+taxon_id: BN01328
+ebird_code: ussfly1
 gbif_key: 2492560
-avibase_id: "79993B3335BE0EA5"
-iucn_status: "LC"
+avibase_id: 79993B3335BE0EA5
+iucn_status: LC
 taxon_order: 28840.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Artomyias ussheri"
-  fa: "nan"
-  en: "Ussher's Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Artomyias ussheri
+  fa: nan
+  en: Ussher's Flycatcher
+  es: Papamoscas de Ussher
+  fr: Gobemouche d'Ussher
+  de: Schwalbenschnäpper
+  pt: ussher's flycatcher
+  ru: Ласточковая мухоловка
+  ja: ススグロヒタキ
+  nl: Usshervliegenvanger
+  pl: muchołówka ciemna
+  tr: Ussher Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Artomyias"
-  species: "ussheri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Artomyias
+  species: ussheri
 morphology:
   body_mass_g: 17.983333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Savanna", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Savanna
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Artomyias ussheri (nan)
 

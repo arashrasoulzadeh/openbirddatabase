@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16091"
-ebird_code: "fepspe1"
+taxon_id: BN16091
+ebird_code: fepspe1
 gbif_key: 6092105
-avibase_id: "5784EE2F82809BAF"
-iucn_status: "VU"
+avibase_id: 5784EE2F82809BAF
+iucn_status: VU
 taxon_order: 25677.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zosterops brunneus"
-  fa: "چشمسفید فرناندو پو"
-  en: "Fernando Po Speirops"
-
-# === TAXONOMY ===
+  scientific: Zosterops brunneus
+  fa: چشمسفید فرناندو پو
+  en: Fernando Po Speirops
+  es: Anteojitos de Fernando Póo
+  fr: Zostérops de Fernando Po
+  de: Braunbrillenvogel
+  pt: bioko speirops
+  ru: Бурая белоглазка
+  ja: フェルナンドポーメジロモドキ
+  zh: Fernando Po Speirops
+  nl: Biokobrilvogel
+  pl: szlarnik brunatny
+  tr: Fernando Po Gözlükçüsü
 taxonomy:
-  order: "Passeriformes"
-  family: "Zosteropidae"
-  genus: "Zosterops"
-  species: "brunneus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Zosteropidae
+  genus: Zosterops
+  species: brunneus
 morphology:
   body_mass_g: 14.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1900
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zosterops brunneus (چشمسفید فرناندو پو)
 

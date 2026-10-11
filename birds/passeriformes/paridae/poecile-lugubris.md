@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11834"
-ebird_code: "somtit3"
+taxon_id: BN11834
+ebird_code: somtit3
 gbif_key: 2487857
-avibase_id: "3EDDBA595BCD215E"
-iucn_status: "LC"
+avibase_id: 3EDDBA595BCD215E
+iucn_status: LC
 taxon_order: 22024.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Poecile lugubris"
-  fa: "چرخ‌ریسک سرسیاه"
-  en: "Sombre Tit"
-
-# === TAXONOMY ===
+  scientific: Poecile lugubris
+  fa: چرخ‌ریسک سرسیاه
+  en: Sombre Tit
+  es: Carbonero Lúgubre
+  fr: Mésange lugubre
+  de: Balkanmeise
+  pt: chapim-sombrio
+  ru: Средиземноморская гаичка
+  ja: バルカンコガラ
+  zh: 暗山雀
+  nl: Rouwmees
+  pl: sikora żałobna
+  tr: Ak Yanaklı Baştankara
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Poecile"
-  species: "lugubris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Poecile
+  species: lugubris
 morphology:
   body_mass_g: 17.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2200
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.0
   clutch_size_min: 4
   clutch_size_max: 10
   incubation_days: 12
   fledging_days: 17
-  nest_type: "CV"
-  nest_placement: "Tree, Rock, Building"
+  nest_type: CV
+  nest_placement: Tree, Rock, Building
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Poecile lugubris (چرخ‌ریسک سرسیاه)
 

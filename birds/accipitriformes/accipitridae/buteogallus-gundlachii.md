@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02035"
-ebird_code: "cubblh1"
+taxon_id: BN02035
+ebird_code: cubblh1
 gbif_key: 5788521
-avibase_id: "048545EA3EFECC38"
-iucn_status: "NT"
+avibase_id: 048545EA3EFECC38
+iucn_status: NT
 taxon_order: 8417.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Buteogallus gundlachii"
-  fa: "قوش سیاه کوبایی"
-  en: "Cuban Black Hawk"
-
-# === TAXONOMY ===
+  scientific: Buteogallus gundlachii
+  fa: قوش سیاه کوبایی
+  en: Cuban Black Hawk
+  es: Busardo Cubano
+  fr: Buse de Gundlach
+  de: Kubabussard
+  pt: cuban black hawk
+  ru: Кубинский крабоед
+  ja: キューバノスリ
+  nl: Cubaanse zwarte buizerd
+  pl: czarnostrząb brunatny
+  tr: Küba Şahini
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Buteogallus"
-  species: "gundlachii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Buteogallus
+  species: gundlachii
 morphology:
   body_mass_g: 707.6666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Forest", "Shrubland", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Buteogallus gundlachii (قوش سیاه کوبایی)
 

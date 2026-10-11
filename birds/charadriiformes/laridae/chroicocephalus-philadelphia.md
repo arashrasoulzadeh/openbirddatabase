@@ -1,47 +1,44 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03027"
-ebird_code: "bongul"
+taxon_id: BN03027
+ebird_code: bongul
 gbif_key: 6065818
-avibase_id: "0337440E2A88E638"
-iucn_status: "LC"
+avibase_id: 0337440E2A88E638
+iucn_status: LC
 taxon_order: 6462.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chroicocephalus philadelphia"
-  fa: "کاکایی بناپارت"
-  en: "Bonaparte's Gull"
-
-# === TAXONOMY ===
+  scientific: Chroicocephalus philadelphia
+  fa: کاکایی بناپارت
+  en: Bonaparte's Gull
+  es: Gaviota de Bonaparte
+  fr: Mouette de Bonaparte
+  de: Bonapartemöwe
+  pt: guincho-americano
+  ru: Бонапартова чайка
+  ja: ボナパルトカモメ
+  nl: Kleine kokmeeuw
+  pl: mewa kanadyjska
+  tr: Küçük Karabaş Martı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Chroicocephalus"
-  species: "philadelphia"
-
-
-# === DISTRIBUTION ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Chroicocephalus
+  species: philadelphia
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -86,31 +83,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +106,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +114,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Chroicocephalus philadelphia (کاکایی بناپارت)
 

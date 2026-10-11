@@ -1,47 +1,45 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14262"
-ebird_code: "brnsku3"
+taxon_id: BN14262
+ebird_code: brnsku3
 gbif_key: 2481622
-avibase_id: "4D5D2BC3F80BD645"
-iucn_status: "LC"
+avibase_id: 4D5D2BC3F80BD645
+iucn_status: LC
 taxon_order: 6368.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Stercorarius antarcticus"
-  fa: "کاکایی‌اقیانوسی قهوه‌ای"
-  en: "Brown Skua"
-
-# === TAXONOMY ===
+  scientific: Stercorarius antarcticus
+  fa: کاکایی‌اقیانوسی قهوه‌ای
+  en: Brown Skua
+  es: Págalo Subantártico
+  fr: Labbe antarctique
+  de: Braunskua
+  pt: mandrião-antártico
+  ru: Антарктический поморник
+  ja: ミナミオオトウゾクカモメ
+  zh: 棕色贼鸥
+  nl: Subantarctische grote jager
+  pl: wydrzyk brunatny
+  tr: Kahverengi Korsanmartı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Stercorariidae"
-  genus: "Stercorarius"
-  species: "antarcticus"
-
-
-# === DISTRIBUTION ===
+  order: Charadriiformes
+  family: Stercorariidae
+  genus: Stercorarius
+  species: antarcticus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -86,31 +84,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +107,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +115,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Stercorarius antarcticus (کاکایی‌اقیانوسی قهوه‌ای)
 

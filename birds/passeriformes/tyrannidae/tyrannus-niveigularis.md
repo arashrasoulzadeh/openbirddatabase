@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15555"
-ebird_code: "sntkin1"
+taxon_id: BN15555
+ebird_code: sntkin1
 gbif_key: 5229677
-avibase_id: "B826FFA55E26AC03"
-iucn_status: "LC"
+avibase_id: B826FFA55E26AC03
+iucn_status: LC
 taxon_order: 17450.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tyrannus niveigularis"
-  fa: "شاهمرغ گلوبرفی"
-  en: "Snowy-throated Kingbird"
-
-# === TAXONOMY ===
+  scientific: Tyrannus niveigularis
+  fa: شاهمرغ گلوبرفی
+  en: Snowy-throated Kingbird
+  es: Tirano Gorjiníveo
+  fr: Tyran chimu
+  de: Schneekehl-Königstyrann
+  pt: snowy-throated kingbird
+  ru: Белогорлый тиранн
+  ja: ユキノドタイランチョウ
+  nl: Sneeuwkeelkoningstiran
+  pl: tyran szarogrzbiety
+  tr: Karbeyazı Gerdanlı Tiran
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Tyrannus"
-  species: "niveigularis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Tyrannus
+  species: niveigularis
 morphology:
   body_mass_g: 34.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Woodland", "Shrubland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Desert
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 15
   fledging_days: 14
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tyrannus niveigularis (شاهمرغ گلوبرفی)
 

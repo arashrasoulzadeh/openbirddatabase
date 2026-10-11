@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10250"
-ebird_code: "bacori1"
+taxon_id: BN10250
+ebird_code: bacori1
 gbif_key: 11058099
-avibase_id: "3D1CC341609B5B5D"
-iucn_status: "LC"
+avibase_id: 3D1CC341609B5B5D
+iucn_status: LC
 taxon_order: 19692.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Oriolus consanguineus"
-  fa: "nan"
-  en: "Black-and-crimson Oriole"
-
-# === TAXONOMY ===
+  scientific: Oriolus consanguineus
+  fa: nan
+  en: Black-and-crimson Oriole
+  es: Oropéndola Consanguínea
+  fr: Loriot de Ramsay
+  de: Rotbrustpirol
+  pt: black-and-crimson oriole
+  ja: ヒムネスミゴロモ
+  zh: 緋胸黃鸝
+  nl: Soendabloedwielewaal
+  pl: wilga krasnoskrzydła
+  tr: Al-Kara Sarıasma
 taxonomy:
-  order: "Passeriformes"
-  family: "Oriolidae"
-  genus: "Oriolus"
-  species: "consanguineus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Oriolidae
+  genus: Oriolus
+  species: consanguineus
 morphology:
   body_mass_g: 60.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 500
   elevational_max_m: 2400
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 4
   categories:
     invertebrates: 2.0
@@ -88,38 +87,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Oriolus consanguineus (nan)
 

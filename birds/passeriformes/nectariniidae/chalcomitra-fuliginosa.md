@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02745"
-ebird_code: "carsun2"
+taxon_id: BN02745
+ebird_code: carsun2
 gbif_key: 7340891
-avibase_id: "23BEFB1980A7D06F"
-iucn_status: "LC"
+avibase_id: 23BEFB1980A7D06F
+iucn_status: LC
 taxon_order: 30256.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chalcomitra fuliginosa"
-  fa: "nan"
-  en: "Carmelite Sunbird"
-
-# === TAXONOMY ===
+  scientific: Chalcomitra fuliginosa
+  fa: nan
+  en: Carmelite Sunbird
+  es: Suimanga Carmelita
+  fr: Souimanga carmélite
+  de: Rußglanzköpfchen
+  pt: carmelite sunbird
+  ru: Красно-бурая нектарница
+  ja: チョコレートタイヨウチョウ
+  nl: Karmeliethoningzuiger
+  pl: nektarnik czekoladowy
+  tr: Karmelit Nektarkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Chalcomitra"
-  species: "fuliginosa"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Chalcomitra
+  species: fuliginosa
 morphology:
   body_mass_g: 11.899999999999999
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Shrubland", "Savanna", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "PN"
-  nest_placement: "Tree, Shrub, P"
+  nest_type: PN
+  nest_placement: Tree, Shrub, P
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chalcomitra fuliginosa (nan)
 

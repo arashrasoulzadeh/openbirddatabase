@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11254"
-ebird_code: "baugre1"
+taxon_id: BN11254
+ebird_code: baugre1
 gbif_key: 2486095
-avibase_id: "D5A35997E3471A7F"
-iucn_status: "LC"
+avibase_id: D5A35997E3471A7F
+iucn_status: LC
 taxon_order: 24444.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phyllastrephus baumanni"
-  fa: "بوبر زیتونی باومان"
-  en: "Baumann's Olive Greenbul"
-
-# === TAXONOMY ===
+  scientific: Phyllastrephus baumanni
+  fa: بوبر زیتونی باومان
+  en: Baumann's Olive Greenbul
+  es: Bulbul de Baumann
+  fr: Bulbul de Baumann
+  de: Baumannbülbül
+  pt: baumann's greenbul
+  ru: Оливковый бюльбюль
+  ja: アカオオリーブヒヨドリ
+  zh: Baumann's Olive Greenbul
+  nl: Baumannloofbuulbuul
+  pl: jasnobrzuch oliwkowy
+  tr: Baumann Yaprakbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Phyllastrephus"
-  species: "baumanni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Phyllastrephus
+  species: baumanni
 morphology:
   body_mass_g: 27.625
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Forest", "Savanna", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Savanna
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,34 +90,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phyllastrephus baumanni (بوبر زیتونی باومان)
 

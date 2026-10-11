@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01377"
-ebird_code: "cancan1"
+taxon_id: BN01377
+ebird_code: cancan1
 gbif_key: 5230097
-avibase_id: "60EFDF36D5B886AD"
-iucn_status: "LC"
+avibase_id: 60EFDF36D5B886AD
+iucn_status: LC
 taxon_order: 15442.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Asthenes pudibunda"
-  fa: "nan"
-  en: "Canyon Canastero"
-
-# === TAXONOMY ===
+  scientific: Asthenes pudibunda
+  fa: nan
+  en: Canyon Canastero
+  es: Piscuiz Peruano
+  fr: Synallaxe des canyons
+  de: Rostschwanzcanastero
+  pt: canyon canastero
+  ru: Каньонный канастеро
+  ja: タニサボテンカマドドリ
+  nl: Canyoncanastero
+  pl: koszykarz kanionowy
+  tr: Peru Sepetöreni
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Asthenes"
-  species: "pudibunda"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Asthenes
+  species: pudibunda
 morphology:
   body_mass_g: 15.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 2400
   elevational_max_m: 3700
-  habitat_types: ["Woodland", "Shrubland", "Rocky", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Asthenes pudibunda (nan)
 

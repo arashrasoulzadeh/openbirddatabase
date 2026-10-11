@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06505"
-ebird_code: "whitre1"
+taxon_id: BN06505
+ebird_code: whitre1
 gbif_key: 2477440
-avibase_id: "76477B324EFF7953"
-iucn_status: "LC"
+avibase_id: 76477B324EFF7953
+iucn_status: LC
 taxon_order: 4207.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hemiprocne comata"
-  fa: "بادخورک درختی سبیلدار"
-  en: "Whiskered Treeswift"
-
-# === TAXONOMY ===
+  scientific: Hemiprocne comata
+  fa: بادخورک درختی سبیلدار
+  en: Whiskered Treeswift
+  es: Vencejo Arborícola Chico
+  fr: Hémiprocné coiffé
+  de: Ohrenbaumsegler
+  pt: whiskered treeswift
+  ru: Ушастый клехо
+  ja: コシラヒゲカンムリアマツバメ
+  zh: 小鳳頭雨燕
+  nl: Kleine boomgierzwaluw
+  pl: czubik mały
+  tr: Küçük Ağaç Ebabili
 taxonomy:
-  order: "Apodiformes"
-  family: "Hemiprocnidae"
-  genus: "Hemiprocne"
-  species: "comata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Hemiprocnidae
+  genus: Hemiprocne
+  species: comata
 morphology:
   body_mass_g: 21.05
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Forest", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 21
   fledging_days: 28
-  nest_type: "SA"
-  nest_placement: "Tree"
+  nest_type: SA
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hemiprocne comata (بادخورک درختی سبیلدار)
 

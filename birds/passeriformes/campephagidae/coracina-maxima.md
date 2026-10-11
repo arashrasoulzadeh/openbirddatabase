@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03680"
-ebird_code: "grocus1"
+taxon_id: BN03680
+ebird_code: grocus1
 gbif_key: 2486755
-avibase_id: "69C99EC0A6331835"
-iucn_status: "LC"
+avibase_id: 69C99EC0A6331835
+iucn_status: LC
 taxon_order: 18671.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coracina maxima"
-  fa: "سنگچشم-کوکوی زمینی"
-  en: "Ground Cuckooshrike"
-
-# === TAXONOMY ===
+  scientific: Coracina maxima
+  fa: سنگچشم-کوکوی زمینی
+  en: Ground Cuckooshrike
+  es: Oruguero Terrestre
+  fr: Échenilleur terrestre
+  de: Grundraupenfänger
+  pt: ground cuckooshrike
+  ru: Земляной воронец
+  ja: ジサンショウクイ
+  zh: 细嘴地鹃鵙
+  nl: Grondrupsvogel
+  pl: kruczyna ziemna
+  tr: Yer Tırtılyiyeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Campephagidae"
-  genus: "Coracina"
-  species: "maxima"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Campephagidae
+  genus: Coracina
+  species: maxima
 morphology:
   body_mass_g: 139.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Shrubland", "Savanna", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Savanna
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   fledging_days: 29
-  nest_type: "CP"
-  nest_placement: "Cavity, Tree"
+  nest_type: CP
+  nest_placement: Cavity, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coracina maxima (سنگچشم-کوکوی زمینی)
 

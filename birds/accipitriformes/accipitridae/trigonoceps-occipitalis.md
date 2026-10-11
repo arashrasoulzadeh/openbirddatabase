@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15255"
-ebird_code: "whhvul1"
+taxon_id: BN15255
+ebird_code: whhvul1
 gbif_key: 2480408
-avibase_id: "93D7EC56BA180F9A"
-iucn_status: "CR"
+avibase_id: 93D7EC56BA180F9A
+iucn_status: CR
 taxon_order: 7929.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Trigonoceps occipitalis"
-  fa: "کرکس سرسفید"
-  en: "White-headed Vulture"
-
-# === TAXONOMY ===
+  scientific: Trigonoceps occipitalis
+  fa: کرکس سرسفید
+  en: White-headed Vulture
+  es: Buitre Cabeciblanco
+  fr: Vautour à tête blanche
+  de: Wollkopfgeier
+  pt: abutre-de-cabeça-branca
+  ru: Белоголовый гриф
+  ja: カオジロハゲワシ
+  zh: 白頭禿鷲
+  nl: Witkopgier
+  pl: sęp białogłowy
+  tr: Ak Başlı Akbaba
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Trigonoceps"
-  species: "occipitalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Trigonoceps
+  species: occipitalis
 morphology:
   body_mass_g: 3710.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 4000
-  habitat_types: ["Woodland", "Shrubland", "Savanna"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Savanna
 diet:
-  primary: "Scavenger"
+  primary: Scavenger
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 55
   fledging_days: 115
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Trigonoceps occipitalis (کرکس سرسفید)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08583"
-ebird_code: "soublt1"
+taxon_id: BN08583
+ebird_code: soublt1
 gbif_key: 7341992
-avibase_id: "6EF0803BC72BED02"
-iucn_status: "LC"
+avibase_id: 6EF0803BC72BED02
+iucn_status: LC
 taxon_order: 22240.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melaniparus niger"
-  fa: "nan"
-  en: "Southern Black Tit"
-
-# === TAXONOMY ===
+  scientific: Melaniparus niger
+  fa: nan
+  en: Southern Black Tit
+  es: Carbonero Negro
+  fr: Mésange demi-deuil
+  de: Sambesi-Rußmeise
+  pt: southern black-tit
+  ru: Чёрная синица
+  ja: ミナミクロガラ
+  zh: Southern Black Tit
+  nl: Roetmees
+  pl: sikora czarna
+  tr: Güneyli Kömürcü Baştankara
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Melaniparus"
-  species: "niger"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Melaniparus
+  species: niger
 morphology:
   body_mass_g: 21.6
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1070
-  habitat_types: ["Woodland", "Shrubland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 7.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
   incubation_days: 14
-  nest_type: "CV,PL"
-  nest_placement: "C, P, Tree"
+  nest_type: CV,PL
+  nest_placement: C, P, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melaniparus niger (nan)
 

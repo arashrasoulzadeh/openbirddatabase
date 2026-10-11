@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09299"
-ebird_code: "flafly2"
+taxon_id: BN09299
+ebird_code: flafly2
 gbif_key: 5229791
-avibase_id: "5D79CB292BC667EB"
-iucn_status: "LC"
+avibase_id: 5D79CB292BC667EB
+iucn_status: LC
 taxon_order: 16844.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiophobus flavicans"
-  fa: "مگسگیر زرینتاب"
-  en: "Flavescent Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Myiophobus flavicans
+  fa: مگسگیر زرینتاب
+  en: Flavescent Flycatcher
+  es: Mosquero Amarillo
+  fr: Moucherolle flavescent
+  de: Gelbzügel-Schnäppertyrann
+  pt: flavescent flycatcher
+  ru: Желтоватая курэта
+  ja: キバラフタスジハエトリ
+  nl: Goudtiran
+  pl: tyranka oliwkowa
+  tr: Sarımsı Sinek Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiophobus"
-  species: "flavicans"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiophobus
+  species: flavicans
 morphology:
   body_mass_g: 11.1
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1500
   elevational_max_m: 2700
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,34 +87,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
+  nest_type: CP
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiophobus flavicans (مگسگیر زرینتاب)
 

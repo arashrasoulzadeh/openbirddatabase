@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08238"
-ebird_code: "yectit1"
+taxon_id: BN08238
+ebird_code: yectit1
 gbif_key: 8317485
-avibase_id: "AEF498CA30D3E2EF"
-iucn_status: "LC"
+avibase_id: AEF498CA30D3E2EF
+iucn_status: LC
 taxon_order: 22225.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Machlolophus spilonotus"
-  fa: "nan"
-  en: "Yellow-cheeked Tit"
-
-# === TAXONOMY ===
+  scientific: Machlolophus spilonotus
+  fa: nan
+  en: Yellow-cheeked Tit
+  es: Carbonero Carigualdo Chino
+  fr: Mésange à dos tacheté
+  de: Königsmeise
+  pt: yellow-cheeked tit
+  ru: Королевская синица
+  ja: セボシカンムリガラ
+  zh: 黄颊山雀
+  nl: Geelwangmees
+  pl: sikora żółtolica
+  tr: Çin Altın Yüzlü Baştankarası
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Machlolophus"
-  species: "spilonotus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Machlolophus
+  species: spilonotus
 morphology:
   body_mass_g: 18.939999999999998
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 350
   elevational_max_m: 3100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
-  nest_type: "Platform"
-  nest_placement: "Building, Rock, Tree"
+  nest_type: Platform
+  nest_placement: Building, Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Machlolophus spilonotus (nan)
 

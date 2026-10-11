@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04963"
-ebird_code: "swtkit"
+taxon_id: BN04963
+ebird_code: swtkit
 gbif_key: 2480461
-avibase_id: "1BAC66452DCC9AC9"
-iucn_status: "LC"
+avibase_id: 1BAC66452DCC9AC9
+iucn_status: LC
 taxon_order: 7921.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Elanoides forficatus"
-  fa: "کورکور دمپرستویی"
-  en: "Swallow-tailed Kite"
-
-# === TAXONOMY ===
+  scientific: Elanoides forficatus
+  fa: کورکور دمپرستویی
+  en: Swallow-tailed Kite
+  es: Elanio Tijereta
+  fr: Naucler à queue fourchue
+  de: Schwalbenweih
+  pt: gavião-tesoura
+  ru: Вилохвостый коршун
+  ja: ツバメトビ
+  zh: 燕尾鳶
+  nl: Zwaluwstaartwouw
+  pl: jaskólak
+  tr: Kırlangıç Kuyruklu Çaylak
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Elanoides"
-  species: "forficatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Elanoides
+  species: forficatus
 morphology:
   body_mass_g: 438.1666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 24
   fledging_days: 38
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Elanoides forficatus (کورکور دمپرستویی)
 

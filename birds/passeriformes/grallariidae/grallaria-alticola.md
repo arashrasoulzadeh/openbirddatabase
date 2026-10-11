@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06118"
-ebird_code: "tawant2"
+taxon_id: BN06118
+ebird_code: tawant2
 gbif_key: 10797540
-avibase_id: "0416064D9F42A1B7"
-iucn_status: "LC"
+avibase_id: 0416064D9F42A1B7
+iucn_status: LC
 taxon_order: 14285.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Grallaria alticola"
-  fa: "nan"
-  en: "Boyaca Antpitta"
-
-# === TAXONOMY ===
+  scientific: Grallaria alticola
+  fa: nan
+  en: Boyaca Antpitta
+  es: Tororoí Leonado Norteño
+  fr: Grallaire alticole
+  de: Ockerwangen-Ameisenpitta
+  pt: boyaca antpitta
+  nl: Boyacamierpitta
+  pl: kusaczka turniowa
+  tr: Boyaka Yerçavuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Grallariidae"
-  genus: "Grallaria"
-  species: "alticola"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Grallariidae
+  genus: Grallaria
+  species: alticola
 morphology:
   body_mass_g: 47.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 2800
   elevational_max_m: 4000
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Grallaria alticola (nan)
 

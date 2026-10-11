@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00089"
-ebird_code: "agurew1"
+taxon_id: BN00089
+ebird_code: agurew1
 gbif_key: 7365548
-avibase_id: "43B1D88C9BF896FC"
-iucn_status: "EX"
+avibase_id: 43B1D88C9BF896FC
+iucn_status: EX
 taxon_order: 23733.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Acrocephalus nijoi"
-  fa: "nan"
-  en: "Aguiguan Reed Warbler"
-
-# === TAXONOMY ===
+  scientific: Acrocephalus nijoi
+  fa: nan
+  en: Aguiguan Reed Warbler
+  es: Carricero de Isla Aguiján
+  fr: Rousserolle d'Aguijan
+  de: Aguijanrohrsänger
+  pt: aguiguan reed warbler
+  ja: アギハンヨシキリ
+  zh: 马里亚纳苇莺
+  nl: Aguijankarekiet
+  pl: trzciniak brunatny
+  tr: Aguihan Kamışçını
 taxonomy:
-  order: "Passeriformes"
-  family: "Acrocephalidae"
-  genus: "Acrocephalus"
-  species: "nijoi"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Acrocephalidae
+  genus: Acrocephalus
+  species: nijoi
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IO"]
+  biogeographic_realms:
+  - IO
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Wetland
 diet:
-  primary: "No Information"
+  primary: No Information
   diet_breadth: 0
   categories:
     invertebrates: 0.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EX"
-  cites_appendix: "Not listed"
+  iucn_status: EX
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Acrocephalus nijoi (nan)
 

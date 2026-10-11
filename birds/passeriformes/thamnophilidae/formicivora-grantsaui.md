@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05645"
-ebird_code: "sinant1"
+taxon_id: BN05645
+ebird_code: sinant1
 gbif_key: 6091658
-avibase_id: "630AA24BD95982A1"
-iucn_status: "EN"
+avibase_id: 630AA24BD95982A1
+iucn_status: EN
 taxon_order: 13855.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Formicivora grantsaui"
-  fa: "مورچهگیرک سینکورا"
-  en: "Sincora Antwren"
-
-# === TAXONOMY ===
+  scientific: Formicivora grantsaui
+  fa: مورچهگیرک سینکورا
+  en: Sincora Antwren
+  es: Hormiguerito de Sincorá
+  fr: Grisin de Grantsau
+  de: Sincorá-Ameisenfänger
+  pt: papa-formiga-do-sincorá
+  ru: Коричневый муравьелов
+  ja: シンコラアリサザイ
+  nl: Sincoramiersluiper
+  pl: mrówkodławik skalny
+  tr: Sinkora Karıncakuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thamnophilidae"
-  genus: "Formicivora"
-  species: "grantsaui"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thamnophilidae
+  genus: Formicivora
+  species: grantsaui
 morphology:
   body_mass_g: 10.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 850
   elevational_max_m: 1100
-  habitat_types: ["Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Formicivora grantsaui (مورچهگیرک سینکورا)
 

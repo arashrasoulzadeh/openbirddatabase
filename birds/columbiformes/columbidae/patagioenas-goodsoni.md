@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10753"
-ebird_code: "duspig2"
+taxon_id: BN10753
+ebird_code: duspig2
 gbif_key: 2495333
-avibase_id: "A057002FE9FA2C5D"
-iucn_status: "LC"
+avibase_id: A057002FE9FA2C5D
+iucn_status: LC
 taxon_order: 2001.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Patagioenas goodsoni"
-  fa: "کبوتر تیرهرنگ"
-  en: "Dusky Pigeon"
-
-# === TAXONOMY ===
+  scientific: Patagioenas goodsoni
+  fa: کبوتر تیرهرنگ
+  en: Dusky Pigeon
+  es: Paloma Oscura
+  fr: Pigeon de Goodson
+  de: Goodsontaube
+  pt: dusky pigeon
+  ru: Тёмный голубь
+  ja: ウスグロバト
+  zh: 烏鴿
+  nl: Goodsonduif
+  pl: gołąbczak mały
+  tr: Küçük Kurşuni Güvercin
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Patagioenas"
-  species: "goodsoni"
-
-
-# === DISTRIBUTION ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Patagioenas
+  species: goodsoni
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Patagioenas goodsoni (کبوتر تیرهرنگ)
 

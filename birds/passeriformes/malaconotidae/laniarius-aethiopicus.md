@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07469"
-ebird_code: "trobou2"
+taxon_id: BN07469
+ebird_code: trobou2
 gbif_key: 2484868
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 20110.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Laniarius aethiopicus"
-  fa: "زنگآوای اتیوپی"
-  en: "Ethiopian Boubou"
-
-# === TAXONOMY ===
+  scientific: Laniarius aethiopicus
+  fa: زنگآوای اتیوپی
+  en: Ethiopian Boubou
+  es: Bubú Abisinio
+  fr: Gonolek d'Abyssinie
+  de: Äthiopienwürger
+  pt: ethiopian boubou
+  ru: Эфиопский бубу
+  ja: エチオピアヤブモズ
+  nl: Ethiopische fiskaal
+  pl: dzierzyk zaroślowy
+  tr: Habeş Bubusu
 taxonomy:
-  order: "Passeriformes"
-  family: "Malaconotidae"
-  genus: "Laniarius"
-  species: "aethiopicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Malaconotidae
+  genus: Laniarius
+  species: aethiopicus
 morphology:
   body_mass_g: 54.95
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 7
   elevational_min_m: 0
   elevational_max_m: 3030
-  habitat_types: ["Forest", "Bamboo", "Woodland", "Shrubland", "Savanna", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 7.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 3
   clutch_size_max: 3
   incubation_days: 15
   fledging_days: 15
-  nest_type: "HC"
-  nest_placement: "Shrub, Tree"
+  nest_type: HC
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Laniarius aethiopicus (زنگآوای اتیوپی)
 

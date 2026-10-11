@@ -1,46 +1,44 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14612"
-ebird_code: "nebspa1"
-avibase_id: "nan"
-iucn_status: "LC"
+taxon_id: BN14612
+ebird_code: nebspa1
+avibase_id: nan
+iucn_status: LC
 taxon_order: 8154.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachyspiza brachyura"
-  fa: "nan"
-  en: "New Britain Sparrowhawk"
-
-# === TAXONOMY ===
+  scientific: Tachyspiza brachyura
+  fa: nan
+  en: New Britain Sparrowhawk
+  es: Gavilancito de Nueva Bretaña
+  fr: Épervier de Nouvelle-Bretagne
+  de: Dreifarbensperber
+  pt: new britain sparrowhawk
+  ru: Новобританский перепелятник
+  ja: シロハラツミ
+  zh: 短尾雀鷹
+  nl: Nieuw-Brittanniësperwer
+  pl: krogulec trójbarwny
+  tr: New Britain Atmacası
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Tachyspiza"
-  species: "brachyura"
-
-
-# === DISTRIBUTION ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Tachyspiza
+  species: brachyura
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
   biogeographic_realms: []
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: ""
+  primary: ''
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
   habitat_types: []
-
-# === DIET (BIRDBASE + AVONICHE) ===
 diet:
-  primary: "Unknown"
+  primary: Unknown
   diet_breadth: 1
   categories:
     invertebrates: 0
@@ -85,31 +83,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -117,8 +106,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -127,12 +114,12 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3"]
-last_updated: "2026-10-02"
-data_quality: "Low"
+sources:
+- BirdNET Taxonomy v0.3
+last_updated: '2026-10-02'
+data_quality: Low
 ---
+
 
 # Tachyspiza brachyura (nan)
 

@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10378"
-ebird_code: "pasowl3"
+taxon_id: BN10378
+ebird_code: pasowl3
 gbif_key: 2497755
-avibase_id: "08C90B0FEAD6B9AF"
-iucn_status: "LC"
+avibase_id: 08C90B0FEAD6B9AF
+iucn_status: LC
 taxon_order: 8762.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Otus brucei"
-  fa: "مرغ حق جنوبی"
-  en: "Pallid Scops Owl"
-
-# === TAXONOMY ===
+  scientific: Otus brucei
+  fa: مرغ حق جنوبی
+  en: Pallid Scops Owl
+  es: Autillo Persa
+  fr: Petit-duc de Bruce
+  de: Streifen-Zwergohreule
+  pt: mocho-d'orelhas-pálido
+  ru: Буланая совка
+  ja: サバクミミズク
+  zh: 纵纹角鸮
+  nl: Gestreepte dwergooruil
+  pl: syczek arabski
+  tr: Çizgili İshakkuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Strigidae"
-  genus: "Otus"
-  species: "brucei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Strigidae
+  genus: Otus
+  species: brucei
 morphology:
   body_mass_g: 105.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Woodland", "Plains", "Rocky", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Plains
+  - Rocky
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +92,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
-  nest_type: "CR,CV,O"
-  nest_placement: "Building, Rock, Tree"
+  nest_type: CR,CV,O
+  nest_placement: Building, Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Otus brucei (مرغ حق جنوبی)
 

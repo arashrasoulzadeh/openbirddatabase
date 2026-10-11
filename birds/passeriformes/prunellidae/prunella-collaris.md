@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12267"
-ebird_code: "alpacc1"
+taxon_id: BN12267
+ebird_code: alpacc1
 gbif_key: 5231770
-avibase_id: "A783468FC167312E"
-iucn_status: "LC"
+avibase_id: A783468FC167312E
+iucn_status: LC
 taxon_order: 31480.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prunella collaris"
-  fa: "صعوه کوهی"
-  en: "Alpine Accentor"
-
-# === TAXONOMY ===
+  scientific: Prunella collaris
+  fa: صعوه کوهی
+  en: Alpine Accentor
+  es: Acentor Alpino
+  fr: Accenteur alpin
+  de: Alpenbraunelle
+  pt: ferreirinha-serrana
+  ru: Альпийская завирушка
+  ja: イワヒバリ
+  zh: 领岩鹨
+  nl: Alpenheggenmus
+  pl: płochacz halny
+  tr: Büyük Dağbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Prunellidae"
-  genus: "Prunella"
-  species: "collaris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Prunellidae
+  genus: Prunella
+  species: collaris
 morphology:
   body_mass_g: 38.58
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 5000
-  habitat_types: ["Woodland", "Shrubland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 11
   fledging_days: 12
-  nest_type: "CP,CR"
-  nest_placement: "Rock, Ground"
+  nest_type: CP,CR
+  nest_placement: Rock, Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prunella collaris (صعوه کوهی)
 

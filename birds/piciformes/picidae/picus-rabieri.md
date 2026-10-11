@@ -1,47 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11497"
-ebird_code: "recwoo2"
+taxon_id: BN11497
+ebird_code: recwoo2
 gbif_key: 2478511
-avibase_id: "nan"
-iucn_status: "NT"
+avibase_id: nan
+iucn_status: NT
 taxon_order: 11650.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Picus rabieri"
-  fa: "nan"
-  en: "Red-collared Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Picus rabieri
+  fa: nan
+  en: Red-collared Woodpecker
+  es: Pito Vietnamita
+  fr: Pic de Rabier
+  de: Halsbandspecht
+  pt: red-collared woodpecker
+  ru: Капюшоновый дятел
+  ja: アンナンヤマゲラ
+  zh: 红颈绿啄木鸟
+  nl: Roodkraagspecht
+  pl: dzięcioł wietnamski
+  tr: Al Başlıklı Yeşil Ağaçkakan
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Picus"
-  species: "rabieri"
-
-
-# === DISTRIBUTION ===
+  order: Piciformes
+  family: Picidae
+  genus: Picus
+  species: rabieri
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Forest", "Bamboo", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Picus rabieri (nan)
 

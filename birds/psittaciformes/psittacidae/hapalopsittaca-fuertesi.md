@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06380"
-ebird_code: "inwpar1"
+taxon_id: BN06380
+ebird_code: inwpar1
 gbif_key: 2479477
-avibase_id: "485B3D874EAF9370"
-iucn_status: "EN"
+avibase_id: 485B3D874EAF9370
+iucn_status: EN
 taxon_order: 12856.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hapalopsittaca fuertesi"
-  fa: "nan"
-  en: "Fuertes's Parrot"
-
-# === TAXONOMY ===
+  scientific: Hapalopsittaca fuertesi
+  fa: nan
+  en: Fuertes's Parrot
+  es: Lorito de Fuertes
+  fr: Caïque de Fuertes
+  de: Fuertespapagei
+  pt: indigo-winged parrot
+  ru: Желтолицый лорито
+  ja: アイバネインコ
+  zh: Fuertes's Parrot
+  nl: Blauwvleugelpapegaai
+  pl: amazoneczka żółtolica
+  tr: Fuerte Papağanı
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittacidae"
-  genus: "Hapalopsittaca"
-  species: "fuertesi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Psittacidae
+  genus: Hapalopsittaca
+  species: fuertesi
 morphology:
   body_mass_g: 124.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 2900
   elevational_max_m: 3150
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,41 +88,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 24
   fledging_days: 55
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hapalopsittaca fuertesi (nan)
 

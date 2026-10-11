@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10604"
-ebird_code: "abbboo2"
+taxon_id: BN10604
+ebird_code: abbboo2
 gbif_key: 2480983
-avibase_id: "92A2CCFC06063A60"
-iucn_status: "EN"
+avibase_id: 92A2CCFC06063A60
+iucn_status: EN
 taxon_order: 7332.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Papasula abbotti"
-  fa: "کودن ابوت"
-  en: "Abbott's Booby"
-
-# === TAXONOMY ===
+  scientific: Papasula abbotti
+  fa: کودن ابوت
+  en: Abbott's Booby
+  es: Piquero de Abbott
+  fr: Fou d'Abbott
+  de: Abbotttölpel
+  pt: abbott's booby
+  ru: Олуша Эбботта
+  ja: モモグロカツオドリ
+  zh: 粉嘴鰹鳥
+  nl: Abbottgent
+  pl: głuptak czarnoskrzydły
+  tr: Abbott Sümsüğü
 taxonomy:
-  order: "Suliformes"
-  family: "Sulidae"
-  genus: "Papasula"
-  species: "abbotti"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Suliformes
+  family: Sulidae
+  genus: Papasula
+  species: abbotti
 morphology:
   body_mass_g: 1540.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["AI"]
+  biogeographic_realms:
+  - AI
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 260
-  habitat_types: ["Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,40 +88,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 57
   fledging_days: 140
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Papasula abbotti (کودن ابوت)
 

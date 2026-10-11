@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11943"
-ebird_code: "brtcom1"
+taxon_id: BN11943
+ebird_code: brtcom1
 gbif_key: 2476157
-avibase_id: "EA348366C5DFC03E"
-iucn_status: "LC"
+avibase_id: EA348366C5DFC03E
+iucn_status: LC
 taxon_order: 4485.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Polyonymus caroli"
-  fa: "دنبالهدار دمبرنزی"
-  en: "Bronze-tailed Comet"
-
-# === TAXONOMY ===
+  scientific: Polyonymus caroli
+  fa: دنبالهدار دمبرنزی
+  en: Bronze-tailed Comet
+  es: Colibrí Colibronce
+  fr: Colibri de Bourcier
+  de: Rosenkehlsylphe
+  pt: bronze-tailed comet
+  ru: Бронзовохвостая комета
+  ja: スミレフタオハチドリ
+  zh: 铜尾慧星蜂鸟
+  nl: Bronsstaartkomeetkolibrie
+  pl: górokomecik
+  tr: Bronz Kuyruklu Peri
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Polyonymus"
-  species: "caroli"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Polyonymus
+  species: caroli
 morphology:
   body_mass_g: 5.125
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2100
   elevational_max_m: 3400
-  habitat_types: ["Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
+  nest_type: CP
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Polyonymus caroli (دنبالهدار دمبرنزی)
 

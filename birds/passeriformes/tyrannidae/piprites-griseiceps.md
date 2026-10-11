@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11562"
-ebird_code: "grhpip1"
+taxon_id: BN11562
+ebird_code: grhpip1
 gbif_key: 2486426
-avibase_id: "8CED47378EDC4414"
-iucn_status: "LC"
+avibase_id: 8CED47378EDC4414
+iucn_status: LC
 taxon_order: 16155.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Piprites griseiceps"
-  fa: "رنگینکنمای سرخاکستری"
-  en: "Grey-headed Piprites"
-
-# === TAXONOMY ===
+  scientific: Piprites griseiceps
+  fa: رنگینکنمای سرخاکستری
+  en: Grey-headed Piprites
+  es: Piprites Cabecigrís
+  fr: Piprite à tête grise
+  de: Graustirn-Pipratyrann
+  pt: gray-headed piprites
+  ru: Сероголовая пиприта
+  ja: メジロマイコドリ
+  zh: Grey-headed Piprites
+  nl: Grijskopmanakin
+  pl: krzykaczyk szarogłowy
+  tr: Gri Başlı Piprit
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Piprites"
-  species: "griseiceps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Piprites
+  species: griseiceps
 morphology:
   body_mass_g: 16.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 100
   elevational_max_m: 600
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Piprites griseiceps (رنگینکنمای سرخاکستری)
 

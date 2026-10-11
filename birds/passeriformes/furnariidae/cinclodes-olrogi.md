@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03126"
-ebird_code: "olrcin1"
+taxon_id: BN03126
+ebird_code: olrcin1
 gbif_key: 2485081
-avibase_id: "73C73E034C66C083"
-iucn_status: "LC"
+avibase_id: 73C73E034C66C083
+iucn_status: LC
 taxon_order: 15096.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinclodes olrogi"
-  fa: "nan"
-  en: "Olrog's Cinclodes"
-
-# === TAXONOMY ===
+  scientific: Cinclodes olrogi
+  fa: nan
+  en: Olrog's Cinclodes
+  es: Remolinera de Olrog
+  fr: Cinclode d'Olrog
+  de: Zweifarb-Uferwipper
+  pt: olrog's cinclodes
+  ru: Пестрокрылая трясохвостка
+  ja: アルゼンチンカワカマドドリ
+  nl: Olrogwipstaart
+  pl: trzęsiogon skalny
+  tr: Orlog Sinklotu
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Cinclodes"
-  species: "olrogi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Cinclodes
+  species: olrogi
 morphology:
   body_mass_g: 28.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1600
   elevational_max_m: 2800
-  habitat_types: ["Plains", "Rocky", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Plains
+  - Rocky
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "BU,CR"
-  nest_placement: "Building, Ground, Rock"
+  nest_type: BU,CR
+  nest_placement: Building, Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinclodes olrogi (nan)
 

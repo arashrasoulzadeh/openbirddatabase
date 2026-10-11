@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00932"
-ebird_code: "yelpip3"
+taxon_id: BN00932
+ebird_code: yelpip3
 gbif_key: 8725257
-avibase_id: "3FAE5E4B3D8F36E7"
-iucn_status: "LC"
+avibase_id: 3FAE5E4B3D8F36E7
+iucn_status: LC
 taxon_order: 31893.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anthus peruvianus"
-  fa: "پیپت پرویی"
-  en: "Peruvian Pipit"
-
-# === TAXONOMY ===
+  scientific: Anthus peruvianus
+  fa: پیپت پرویی
+  en: Peruvian Pipit
+  es: Bisbita Peruano
+  fr: Pipit du Pérou
+  de: Perupieper
+  pt: peruvian pipit
+  ru: Перуанский конёк
+  ja: ペルータヒバリ
+  nl: Peruaanse pieper
+  pl: świergotek peruwiański
+  tr: Peru İncirkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Motacillidae"
-  genus: "Anthus"
-  species: "peruvianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Motacillidae
+  genus: Anthus
+  species: peruvianus
 morphology:
   body_mass_g: 15.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 450
-  habitat_types: ["Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anthus peruvianus (پیپت پرویی)
 

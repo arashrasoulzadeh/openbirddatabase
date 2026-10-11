@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10012"
-ebird_code: "venwoq1"
+taxon_id: BN10012
+ebird_code: venwoq1
 gbif_key: 5228057
-avibase_id: "062EC06C4FC874A0"
-iucn_status: "NT"
+avibase_id: 062EC06C4FC874A0
+iucn_status: NT
 taxon_order: 1165.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Odontophorus columbianus"
-  fa: "بلدرچین جنگلی ونزوئلایی"
-  en: "Venezuelan Wood Quail"
-
-# === TAXONOMY ===
+  scientific: Odontophorus columbianus
+  fa: بلدرچین جنگلی ونزوئلایی
+  en: Venezuelan Wood Quail
+  es: Corcovado Venezolano
+  fr: Tocro du Venezuela
+  de: Venezuelawachtel
+  pt: venezuelan wood-quail
+  ru: Венесуэльский зубцеклювый перепел
+  ja: ベネゼエラウズラ
+  zh: Venezuelan Wood Quail
+  nl: Venezolaanse tandkwartel
+  pl: przepiór wenezuelski
+  tr: Benekli Tokro
 taxonomy:
-  order: "Galliformes"
-  family: "Odontophoridae"
-  genus: "Odontophorus"
-  species: "columbianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Odontophoridae
+  genus: Odontophorus
+  species: columbianus
 morphology:
   body_mass_g: 339.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 800
   elevational_max_m: 2400
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 6.0
   clutch_size_min: 6
   clutch_size_max: 6
   incubation_days: 30
-  nest_type: "DM"
-  nest_placement: "Ground"
+  nest_type: DM
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Odontophorus columbianus (بلدرچین جنگلی ونزوئلایی)
 

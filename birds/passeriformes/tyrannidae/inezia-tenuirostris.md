@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07196"
-ebird_code: "slbtyr1"
+taxon_id: BN07196
+ebird_code: slbtyr1
 gbif_key: 5229715
-avibase_id: "2741129523F290C7"
-iucn_status: "LC"
+avibase_id: 2741129523F290C7
+iucn_status: LC
 taxon_order: 16836.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Inezia tenuirostris"
-  fa: "nan"
-  en: "Slender-billed Inezia"
-
-# === TAXONOMY ===
+  scientific: Inezia tenuirostris
+  fa: nan
+  en: Slender-billed Inezia
+  es: Piojito Picofino
+  fr: Tyranneau à bec fin
+  de: Olivbraun-Tachurityrann
+  pt: slender-billed tyrannulet
+  ru: Тонкоклювая инезия
+  ja: ハシボソマメタイランチョウ
+  zh: Slender-billed Inezia
+  nl: Dunsnavelinezia
+  pl: pręgówek cienkodzioby
+  tr: İnce Gagalı İnezya
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Inezia"
-  species: "tenuirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Inezia
+  species: tenuirostris
 morphology:
   body_mass_g: 6.333333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,31 +91,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Inezia tenuirostris (nan)
 

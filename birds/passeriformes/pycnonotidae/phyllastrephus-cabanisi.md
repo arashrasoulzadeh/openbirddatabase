@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11255"
-ebird_code: "cabgre1"
+taxon_id: BN11255
+ebird_code: cabgre1
 gbif_key: 2486087
-avibase_id: "24F71192CF4A968D"
-iucn_status: "LC"
+avibase_id: 24F71192CF4A968D
+iucn_status: LC
 taxon_order: 24431.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phyllastrephus cabanisi"
-  fa: "بوبر آرام"
-  en: "Cabanis's Greenbul"
-
-# === TAXONOMY ===
+  scientific: Phyllastrephus cabanisi
+  fa: بوبر آرام
+  en: Cabanis's Greenbul
+  es: Bulbul de Cabanis
+  fr: Bulbul de Cabanis
+  de: Cabanisbülbül
+  pt: cabanis's greenbul
+  ru: Рувензорский бюльбюль
+  ja: ニシキスジチャイロヒヨドリ
+  nl: Cabanisloofbuulbuul
+  pl: jasnobrzuch płowy
+  tr: Cabanis Yaprakbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Phyllastrephus"
-  species: "cabanisi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Phyllastrephus
+  species: cabanisi
 morphology:
   body_mass_g: 30.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 600
   elevational_max_m: 2700
-  habitat_types: ["Forest", "Woodland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 11
   fledging_days: 16
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phyllastrephus cabanisi (بوبر آرام)
 

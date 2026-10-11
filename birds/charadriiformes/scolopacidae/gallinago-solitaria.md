@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05799"
-ebird_code: "solsni1"
+taxon_id: BN05799
+ebird_code: solsni1
 gbif_key: 2481810
-avibase_id: "F6B72EAFCB98A437"
-iucn_status: "LC"
+avibase_id: F6B72EAFCB98A437
+iucn_status: LC
 taxon_order: 6086.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gallinago solitaria"
-  fa: "پاشلک تک‌زی"
-  en: "Solitary Snipe"
-
-# === TAXONOMY ===
+  scientific: Gallinago solitaria
+  fa: پاشلک تک‌زی
+  en: Solitary Snipe
+  es: Agachadiza Solitaria
+  fr: Bécassine solitaire
+  de: Einsiedlerbekassine
+  pt: narceja-solitária
+  ru: Горный дупель
+  ja: アオシギ
+  zh: 孤沙锥
+  nl: Bergsnip
+  pl: bekas górski
+  tr: Kehribar Göğüslü Suçulluğu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Scolopacidae"
-  genus: "Gallinago"
-  species: "solitaria"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Scolopacidae
+  genus: Gallinago
+  species: solitaria
 morphology:
   body_mass_g: 152.66666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1500
   elevational_max_m: 5000
-  habitat_types: ["Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
-  nest_type: "Scrape"
-  nest_placement: "Shrub"
+  nest_type: Scrape
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gallinago solitaria (پاشلک تک‌زی)
 

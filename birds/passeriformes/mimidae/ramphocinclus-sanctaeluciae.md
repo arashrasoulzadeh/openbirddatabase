@@ -1,48 +1,46 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13016"
-ebird_code: "whbthr4"
-avibase_id: "D8F3F82C46B685F6"
-iucn_status: "LC"
+taxon_id: BN13016
+ebird_code: whbthr4
+avibase_id: D8F3F82C46B685F6
+iucn_status: LC
 taxon_order: 28002.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ramphocinclus sanctaeluciae"
-  fa: "nan"
-  en: "St. Lucia Thrasher"
-
-# === TAXONOMY ===
+  scientific: Ramphocinclus sanctaeluciae
+  fa: nan
+  en: St. Lucia Thrasher
+  es: Cuitlacoche de Santa Lucía
+  fr: Moqueur de Sainte-Lucie
+  pt: st. lucia thrasher
+  nl: Sint-Luciaspotlijster
+  pl: skrzeczek większy
+  tr: Santa Lucia Çöpçüsü
 taxonomy:
-  order: "Passeriformes"
-  family: "Mimidae"
-  genus: "Ramphocinclus"
-  species: "sanctaeluciae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Mimidae
+  genus: Ramphocinclus
+  species: sanctaeluciae
 morphology:
   body_mass_g: 50.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 200
-  habitat_types: ["Woodland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -87,40 +85,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 1
   clutch_size_max: 4
   incubation_days: 14
   fledging_days: 12
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ramphocinclus sanctaeluciae (nan)
 

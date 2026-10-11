@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08336"
-ebird_code: "pieduc1"
+taxon_id: BN08336
+ebird_code: pieduc1
 gbif_key: 5232435
-avibase_id: "FE03DD1E0BE0D9E5"
-iucn_status: "LC"
+avibase_id: FE03DD1E0BE0D9E5
+iucn_status: LC
 taxon_order: 656.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Malacorhynchus membranaceus"
-  fa: "اردک گوش صورتی"
-  en: "Pink-eared Duck"
-
-# === TAXONOMY ===
+  scientific: Malacorhynchus membranaceus
+  fa: اردک گوش صورتی
+  en: Pink-eared Duck
+  es: Pato Pachón
+  fr: Malacorhynque à oreilles roses
+  de: Rosenohrente
+  pt: pink-eared duck
+  ru: Розовоухая утка
+  ja: サザナミオオハシガモ
+  zh: 紅耳鴨
+  nl: Lepelbekeend
+  pl: łopatonos
+  tr: Zebra Ördeği
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Malacorhynchus"
-  species: "membranaceus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Malacorhynchus
+  species: membranaceus
 morphology:
   body_mass_g: 366.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.0
   clutch_size_min: 6
   clutch_size_max: 8
   incubation_days: 26
   fledging_days: 45
-  nest_type: "M,O"
-  nest_placement: "Cavity, Tree"
+  nest_type: M,O
+  nest_placement: Cavity, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Malacorhynchus membranaceus (اردک گوش صورتی)
 

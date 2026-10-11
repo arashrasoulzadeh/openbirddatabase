@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15639"
-ebird_code: "unstit1"
+taxon_id: BN15639
+ebird_code: unstit1
 gbif_key: 2482698
-avibase_id: "D3F80AF341E3851F"
-iucn_status: "LC"
+avibase_id: D3F80AF341E3851F
+iucn_status: LC
 taxon_order: 16616.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Uromyias agraphia"
-  fa: "شاهچرخریسک بیرگه"
-  en: "Unstreaked Tit-Tyrant"
-
-# === TAXONOMY ===
+  scientific: Uromyias agraphia
+  fa: شاهچرخریسک بیرگه
+  en: Unstreaked Tit-Tyrant
+  es: Cachudito Liso
+  fr: Taurillon uni
+  de: Weißbauch-Tachurityrann
+  pt: unstreaked tit-tyrant
+  ru: Черношапочный качудито
+  ja: ムジカラタイランチョウ
+  zh: 無紋雀霸鶲
+  nl: Witbuikmeestiran
+  pl: czuprynek brązowoskrzydły
+  tr: Çizgisiz Tiranulet
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Uromyias"
-  species: "agraphia"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Uromyias
+  species: agraphia
 morphology:
   body_mass_g: 9.95
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2700
   elevational_max_m: 3100
-  habitat_types: ["Forest", "Bamboo"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Uromyias agraphia (شاهچرخریسک بیرگه)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06179"
-ebird_code: "robcha2"
+taxon_id: BN06179
+ebird_code: robcha2
 gbif_key: 2489620
-avibase_id: "37E546A438F566F4"
-iucn_status: "LC"
+avibase_id: 37E546A438F566F4
+iucn_status: LC
 taxon_order: 34571.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Granatellus pelzelni"
-  fa: "چک سینهگلی"
-  en: "Rose-breasted Chat"
-
-# === TAXONOMY ===
+  scientific: Granatellus pelzelni
+  fa: چک سینهگلی
+  en: Rose-breasted Chat
+  es: Reinita Pechirroja Común
+  fr: Granatelle de Pelzeln
+  de: Weißflanken-Sängerkardinal
+  ru: Розовогрудая гранателла
+  ja: バラムネアメリカムシクイ
+  nl: Rozeborstgranaatzanger
+  pl: granatówka różowobrzucha
+  tr: Amazon Bülbül Kardinali
 taxonomy:
-  order: "Passeriformes"
-  family: "Cardinalidae"
-  genus: "Granatellus"
-  species: "pelzelni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cardinalidae
+  genus: Granatellus
+  species: pelzelni
 morphology:
   body_mass_g: 11.175
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 850
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Granatellus pelzelni (چک سینهگلی)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05388"
-ebird_code: "afrsil1"
+taxon_id: BN05388
+ebird_code: afrsil1
 gbif_key: 7340335
-avibase_id: "FC6A9CD0979A6DE8"
-iucn_status: "LC"
+avibase_id: FC6A9CD0979A6DE8
+iucn_status: LC
 taxon_order: 31062.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Euodice cantans"
-  fa: "نوکنقرهای آفریقایی"
-  en: "African Silverbill"
-
-# === TAXONOMY ===
+  scientific: Euodice cantans
+  fa: نوکنقرهای آفریقایی
+  en: African Silverbill
+  es: Capuchino Picoplata Africano
+  fr: Capucin bec-d'argent
+  de: Afrikasilberschnabel
+  pt: bico-de-chumbo-africano
+  ru: Серебряноклювая амадина
+  ja: アフリカギンバシ
+  zh: 銀嘴文鳥
+  nl: Zilverbekje
+  pl: srebrnodziobek afrykański
+  tr: Afrika Gümüşgagası
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Euodice"
-  species: "cantans"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Euodice
+  species: cantans
 morphology:
   body_mass_g: 12.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Woodland", "Shrubland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
   incubation_days: 11
   fledging_days: 21
-  nest_type: "SP"
-  nest_placement: "Shrub, Tree, Cavity"
+  nest_type: SP
+  nest_placement: Shrub, Tree, Cavity
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Euodice cantans (نوکنقرهای آفریقایی)
 

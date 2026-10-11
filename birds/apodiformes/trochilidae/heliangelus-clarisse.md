@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06439"
-ebird_code: "amtsun2"
+taxon_id: BN06439
+ebird_code: amtsun2
 gbif_key: 9376700
-avibase_id: "7AA566901250BFDA"
-iucn_status: "LC"
+avibase_id: 7AA566901250BFDA
+iucn_status: LC
 taxon_order: 4404.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Heliangelus clarisse"
-  fa: "nan"
-  en: "Longuemare's Sunangel"
-
-# === TAXONOMY ===
+  scientific: Heliangelus clarisse
+  fa: nan
+  en: Longuemare's Sunangel
+  es: Colibrí de Clarissa
+  fr: Héliange de Clarisse
+  de: Longuemare-Sonnennymphe
+  pt: longuemare's sunangel
+  ru: Блестящий феб
+  zh: 隆氏领蜂鸟
+  nl: Longuemarezonnekolibrie
+  pl: lordzik kolumbijski
+  tr: Longuemare Günmeleği
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Heliangelus"
-  species: "clarisse"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Heliangelus
+  species: clarisse
 morphology:
   body_mass_g: 5.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1800
   elevational_max_m: 3600
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,37 +90,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Heliangelus clarisse (nan)
 

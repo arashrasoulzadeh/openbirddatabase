@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12828"
-ebird_code: "stebul2"
+taxon_id: BN12828
+ebird_code: stebul2
 gbif_key: 7677539
-avibase_id: "E5A86DFADC35777E"
-iucn_status: "LC"
+avibase_id: E5A86DFADC35777E
+iucn_status: LC
 taxon_order: 24689.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pycnonotus conradi"
-  fa: "بلبل گوشرگهای"
-  en: "Streak-eared Bulbul"
-
-# === TAXONOMY ===
+  scientific: Pycnonotus conradi
+  fa: بلبل گوشرگهای
+  en: Streak-eared Bulbul
+  es: Bulbul de Blanford Oriental
+  fr: Bulbul de Conrad
+  de: Strichelwangenbülbül
+  pt: streak-eared bulbul
+  ru: Пестрощёкий бюльбюль
+  ja: ミミスジヒヨドリ
+  zh: 条耳鹎
+  nl: Streepoorbuulbuul
+  pl: bilbil malajski
+  tr: Conrad Arapbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Pycnonotus"
-  species: "conradi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Pycnonotus
+  species: conradi
 morphology:
   body_mass_g: 32.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Artificial"
+  primary: Artificial
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 6
   categories:
     invertebrates: 3.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 11
   fledging_days: 10
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pycnonotus conradi (بلبل گوشرگهای)
 

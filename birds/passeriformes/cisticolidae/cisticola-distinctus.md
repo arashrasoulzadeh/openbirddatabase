@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03280"
-ebird_code: "waicis2"
+taxon_id: BN03280
+ebird_code: waicis2
 gbif_key: 2492817
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 23443.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cisticola distinctus"
-  fa: "nan"
-  en: "Lynes's Cisticola"
-
-# === TAXONOMY ===
+  scientific: Cisticola distinctus
+  fa: nan
+  en: Lynes's Cisticola
+  es: Cistícola de Lynes
+  fr: Cisticole de Lynes
+  de: Lyneszistensänger
+  pt: lynes's cisticola
+  ru: Смуглая цистикола
+  ja: ヒガシシロハラセッカ
+  nl: Masaigraszanger
+  pl: chwastówka smugowana
+  tr: Lynes Yelpazekuyruğu
 taxonomy:
-  order: "Passeriformes"
-  family: "Cisticolidae"
-  genus: "Cisticola"
-  species: "distinctus"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Cisticolidae
+  genus: Cisticola
+  species: distinctus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1500
   elevational_max_m: 2750
-  habitat_types: ["Shrubland", "Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 7.0
@@ -86,38 +87,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "SP"
-  nest_placement: "Cliff/Crevice, Shrub"
+  nest_type: SP
+  nest_placement: Cliff/Crevice, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cisticola distinctus (nan)
 

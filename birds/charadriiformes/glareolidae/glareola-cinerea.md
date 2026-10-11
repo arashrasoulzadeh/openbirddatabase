@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06026"
-ebird_code: "grypra1"
+taxon_id: BN06026
+ebird_code: grypra1
 gbif_key: 2480760
-avibase_id: "B21AF428B52A88D3"
-iucn_status: "LC"
+avibase_id: B21AF428B52A88D3
+iucn_status: LC
 taxon_order: 6344.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Glareola cinerea"
-  fa: "گلاریول خاکستری"
-  en: "Grey Pratincole"
-
-# === TAXONOMY ===
+  scientific: Glareola cinerea
+  fa: گلاریول خاکستری
+  en: Grey Pratincole
+  es: Canastera Gris
+  fr: Glaréole grise
+  de: Graubrachschwalbe
+  pt: gray pratincole
+  ru: Серая тиркушка
+  ja: ハイイロツバメチドリ
+  zh: Grey Pratincole
+  nl: Grijze vorkstaartplevier
+  pl: żwirowiec popielaty
+  tr: Akça Bataklıkkırlangıcı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Glareolidae"
-  genus: "Glareola"
-  species: "cinerea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Glareolidae
+  genus: Glareola
+  species: cinerea
 morphology:
   body_mass_g: 37.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_type: "Scrape"
-  nest_placement: "Rock"
+  nest_type: Scrape
+  nest_placement: Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Glareola cinerea (گلاریول خاکستری)
 

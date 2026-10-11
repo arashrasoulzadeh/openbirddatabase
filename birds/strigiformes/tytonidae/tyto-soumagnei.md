@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15571"
-ebird_code: "marowl1"
+taxon_id: BN15571
+ebird_code: marowl1
 gbif_key: 5232371
-avibase_id: "BDD10FB1A5CB5185"
-iucn_status: "VU"
+avibase_id: BDD10FB1A5CB5185
+iucn_status: VU
 taxon_order: 8649.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tyto soumagnei"
-  fa: "جغد سرخ"
-  en: "Red Owl"
-
-# === TAXONOMY ===
+  scientific: Tyto soumagnei
+  fa: جغد سرخ
+  en: Red Owl
+  es: Lechuza Malgache
+  fr: Effraie de Soumagne
+  de: Malegasseneule
+  pt: red owl
+  ru: Мадагаскарская сипуха
+  ja: マダガスカルメンフクロウ
+  zh: 馬島草鴞
+  nl: Madagaskargrasuil
+  pl: płomykówka madagaskarska
+  tr: Madagaskar Peçeli Baykuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Tytonidae"
-  genus: "Tyto"
-  species: "soumagnei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Tytonidae
+  genus: Tyto
+  species: soumagnei
 morphology:
   body_mass_g: 340.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 800
   elevational_max_m: 1300
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,36 +89,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   fledging_days: 70
-  nest_type: "CV"
-  nest_placement: "Rock, Tree"
+  nest_type: CV
+  nest_placement: Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tyto soumagnei (جغد سرخ)
 

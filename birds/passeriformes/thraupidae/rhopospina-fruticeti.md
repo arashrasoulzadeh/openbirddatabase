@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13337"
-ebird_code: "mosfin1"
+taxon_id: BN13337
+ebird_code: mosfin1
 gbif_key: 11002466
-avibase_id: "F3A048A608539CBE"
-iucn_status: "LC"
+avibase_id: F3A048A608539CBE
+iucn_status: LC
 taxon_order: 35415.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rhopospina fruticeti"
-  fa: "سهره سیرای مویهگر"
-  en: "Mourning Sierra Finch"
-
-# === TAXONOMY ===
+  scientific: Rhopospina fruticeti
+  fa: سهره سیرای مویهگر
+  en: Mourning Sierra Finch
+  es: Yal Pechinegro
+  fr: Incaspize petit-deuil
+  de: Strauchammertangare
+  pt: canário-andino-negro
+  ru: Печальная пизарита
+  ja: ムナグロヤマシトド
+  nl: Rouwsierragors
+  pl: chruściak śniady
+  tr: Karaca And İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Rhopospina"
-  species: "fruticeti"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Rhopospina
+  species: fruticeti
 morphology:
   body_mass_g: 38.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 4000
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Plains", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Plains
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 0.2
@@ -88,37 +91,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_placement: "Shrub"
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rhopospina fruticeti (سهره سیرای مویهگر)
 

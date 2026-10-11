@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05757"
-ebird_code: "whejac1"
+taxon_id: BN05757
+ebird_code: whejac1
 gbif_key: 2475087
-avibase_id: "E3EC251CBFAA31E3"
-iucn_status: "LC"
+avibase_id: E3EC251CBFAA31E3
+iucn_status: LC
 taxon_order: 10480.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Galbalcyrhynchus leucotis"
-  fa: "رنگینتاب گوشسفید"
-  en: "White-eared Jacamar"
-
-# === TAXONOMY ===
+  scientific: Galbalcyrhynchus leucotis
+  fa: رنگینتاب گوشسفید
+  en: White-eared Jacamar
+  es: Jacamará Orejiblanco
+  fr: Jacamar oreillard
+  de: Kastanienglanzvogel
+  pt: ariramba-vermelha
+  ru: Белоухая якамара
+  ja: ミミジロキリハシ
+  nl: Kortstaartglansvogel
+  pl: złotopiór białouchy
+  tr: Ak Kulaklı Jakamar
 taxonomy:
-  order: "Piciformes"
-  family: "Galbulidae"
-  genus: "Galbalcyrhynchus"
-  species: "leucotis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Galbulidae
+  genus: Galbalcyrhynchus
+  species: leucotis
 morphology:
   body_mass_g: 46.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV"
-  nest_placement: "Cavity"
+  nest_type: CV
+  nest_placement: Cavity
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Galbalcyrhynchus leucotis (رنگینتاب گوشسفید)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11460"
-ebird_code: "whbwoo7"
+taxon_id: BN11460
+ebird_code: whbwoo7
 gbif_key: 5228880
-avibase_id: "00CCDD7938505297"
-iucn_status: "NT"
+avibase_id: 00CCDD7938505297
+iucn_status: NT
 taxon_order: 11850.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Piculus aurulentus"
-  fa: "nan"
-  en: "Yellow-browed Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Piculus aurulentus
+  fa: nan
+  en: Yellow-browed Woodpecker
+  es: Carpintero Cejigualdo
+  fr: Pic à bandeaux
+  de: Weißbrauenspecht
+  pt: pica-pau-dourado
+  ru: Желтобровый дятел
+  ja: マミジロモリゲラ
+  zh: Yellow-browed Woodpecker
+  nl: Witbrauwspecht
+  pl: dzięcioł złotogardły
+  tr: Altın Kaşlı Ağaçkakan
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Piculus"
-  species: "aurulentus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Picidae
+  genus: Piculus
+  species: aurulentus
 morphology:
   body_mass_g: 63.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3100
-  habitat_types: ["Forest", "Woodland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Piculus aurulentus (nan)
 

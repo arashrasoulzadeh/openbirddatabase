@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09283"
-ebird_code: "strfly1"
+taxon_id: BN09283
+ebird_code: strfly1
 gbif_key: 2483497
-avibase_id: "D94C61774276D9FC"
-iucn_status: "LC"
+avibase_id: D94C61774276D9FC
+iucn_status: LC
 taxon_order: 17429.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiodynastes maculatus"
-  fa: "مگسگیر رگهدار"
-  en: "Streaked Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Myiodynastes maculatus
+  fa: مگسگیر رگهدار
+  en: Streaked Flycatcher
+  es: Bienteveo Rayado
+  fr: Tyran audacieux
+  de: Süd-Fleckenmaskentyrann
+  pt: bem-te-vi-rajado
+  ru: Пёстрый бентеви
+  ja: ブチタイランチョウ
+  nl: Gestreepte tiran
+  pl: bentewi kreskowany
+  tr: Çizgili Büyük Tiran
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiodynastes"
-  species: "maculatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiodynastes
+  species: maculatus
 morphology:
   body_mass_g: 43.98333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1675
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 15
   fledging_days: 17
-  nest_type: "CP,CV"
-  nest_placement: "Tree, Building"
+  nest_type: CP,CV
+  nest_placement: Tree, Building
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiodynastes maculatus (مگسگیر رگهدار)
 

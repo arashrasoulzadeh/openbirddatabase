@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10956"
-ebird_code: "resswa2"
+taxon_id: BN10956
+ebird_code: resswa2
 gbif_key: 6094965
-avibase_id: "BBDD34B269D77C54"
-iucn_status: "DD"
+avibase_id: BBDD34B269D77C54
+iucn_status: DD
 taxon_order: 24272.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Petrochelidon perdita"
-  fa: "پرستوی صخره دریای سرخ"
-  en: "Red Sea Cliff Swallow"
-
-# === TAXONOMY ===
+  scientific: Petrochelidon perdita
+  fa: پرستوی صخره دریای سرخ
+  en: Red Sea Cliff Swallow
+  es: Golondrina del Mar Rojo
+  fr: Hirondelle de la mer Rouge
+  de: Rotmeerschwalbe
+  pt: red sea swallow
+  ru: Красноморская ласточка
+  ja: コウカイサンショクツバメ
+  zh: Red Sea Cliff Swallow
+  nl: Rodezeeklifzwaluw
+  pl: jaskółka czerwonomorska
+  tr: Kayıp Kırlangıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Hirundinidae"
-  genus: "Petrochelidon"
-  species: "perdita"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Hirundinidae
+  genus: Petrochelidon
+  species: perdita
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "DD"
-  cites_appendix: "Not listed"
+  iucn_status: DD
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Petrochelidon perdita (پرستوی صخره دریای سرخ)
 

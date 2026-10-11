@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01228"
-ebird_code: "combab3"
+taxon_id: BN01228
+ebird_code: combab3
 gbif_key: 8791626
-avibase_id: "310AEDC8BFC8BE21"
-iucn_status: "LC"
+avibase_id: 310AEDC8BFC8BE21
+iucn_status: LC
 taxon_order: 26637.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Argya caudata"
-  fa: "لیکوی معمولی"
-  en: "Common Babbler"
-
-# === TAXONOMY ===
+  scientific: Argya caudata
+  fa: لیکوی معمولی
+  en: Common Babbler
+  es: Turdoide Indio
+  fr: Cratérope indien
+  de: Langschwanz-Drosselhäherling
+  pt: common babbler
+  ru: Длиннохвостая дроздовка
+  ja: スジカブリヤブチメドリ
+  zh: 普通鶇鶥
+  nl: Gewone babbelaar
+  pl: dżunglotymal indyjski
+  tr: Hint Yedikardeşi
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Argya"
-  species: "caudata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Argya
+  species: caudata
 morphology:
   body_mass_g: 34.28333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 900
-  habitat_types: ["Forest", "Shrubland", "Plains", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Plains
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 5.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 13
   fledging_days: 12
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree, Cliff/Crevice"
+  nest_type: CP
+  nest_placement: Shrub, Tree, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Argya caudata (لیکوی معمولی)
 

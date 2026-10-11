@@ -1,47 +1,45 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01458"
-ebird_code: "yebbru1"
+taxon_id: BN01458
+ebird_code: yebbru1
 gbif_key: 8090315
-avibase_id: "FB4C2D40045B8E46"
-iucn_status: "LC"
+avibase_id: FB4C2D40045B8E46
+iucn_status: LC
 taxon_order: 33484.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Atlapetes nigrifrons"
-  fa: "nan"
-  en: "Black-fronted Brushfinch"
-
-# === TAXONOMY ===
+  scientific: Atlapetes nigrifrons
+  fa: nan
+  en: Black-fronted Brushfinch
+  es: Atlapetes del Perijá
+  fr: Tohi à front noir
+  de: Schwarzstirn-Buschammer
+  pt: black-fronted brushfinch
+  ru: Чернолобая атлапета
+  nl: Zwartvoorhoofdstruikgors
+  pl: zaroślak czarnoczelny
 taxonomy:
-  order: "Passeriformes"
-  family: "Passerellidae"
-  genus: "Atlapetes"
-  species: "nigrifrons"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Passerellidae
+  genus: Atlapetes
+  species: nigrifrons
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1100
   elevational_max_m: 2850
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -86,31 +84,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +107,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +115,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Atlapetes nigrifrons (nan)
 

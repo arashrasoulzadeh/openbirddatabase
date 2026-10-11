@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09737"
-ebird_code: "robpoc1"
+taxon_id: BN09737
+ebird_code: robpoc1
 gbif_key: 2498181
-avibase_id: "03A3B6160D09A42D"
-iucn_status: "LC"
+avibase_id: 03A3B6160D09A42D
+iucn_status: LC
 taxon_order: 665.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Netta peposaca"
-  fa: "نوکگلی"
-  en: "Rosy-billed Pochard"
-
-# === TAXONOMY ===
+  scientific: Netta peposaca
+  fa: نوکگلی
+  en: Rosy-billed Pochard
+  es: Pato Picazo
+  fr: Nette demi-deuil
+  de: Rosenschnabelente
+  pt: marrecão
+  ru: Пампасный нырок
+  ja: ベニバシガモ
+  zh: 粉嘴潛鴨
+  nl: Peposakaeend
+  pl: hełmiatka różowodzioba
+  tr: Gül Gagalı Ördek
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Netta"
-  species: "peposaca"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Netta
+  species: peposaca
 morphology:
   body_mass_g: 1103.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.0
   clutch_size_min: 10
   clutch_size_max: 10
   incubation_days: 27
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Netta peposaca (نوکگلی)
 

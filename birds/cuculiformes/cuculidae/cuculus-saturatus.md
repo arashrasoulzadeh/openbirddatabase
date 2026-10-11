@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04058"
-ebird_code: "himcuc1"
+taxon_id: BN04058
+ebird_code: himcuc1
 gbif_key: 2496215
-avibase_id: "66812DE278F9AD07"
-iucn_status: "LC"
+avibase_id: 66812DE278F9AD07
+iucn_status: LC
 taxon_order: 3440.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cuculus saturatus"
-  fa: "کوکوی هیمالیایی"
-  en: "Himalayan Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Cuculus saturatus
+  fa: کوکوی هیمالیایی
+  en: Himalayan Cuckoo
+  es: Cuco del Himalaya
+  fr: Coucou de l'Himalaya
+  de: Himalajakuckuck
+  pt: himalayan cuckoo
+  ru: Гималайская кукушка
+  ja: ヒマラヤツツドリ
+  zh: 中杜鹃
+  nl: Himalayakoekoek
+  pl: kukułka wschodnia
+  tr: Tayga Guguğu
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Cuculus"
-  species: "saturatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Cuculus
+  species: saturatus
 morphology:
   body_mass_g: 94.86666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["AIW"]
+  biogeographic_realms:
+  - AIW
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 4500
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,37 +90,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cuculus saturatus (کوکوی هیمالیایی)
 

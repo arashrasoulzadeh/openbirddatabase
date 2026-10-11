@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12582"
-ebird_code: "bkcpet"
+taxon_id: BN12582
+ebird_code: bkcpet
 gbif_key: 2481477
-avibase_id: "DCD73C3AFC4BDD4B"
-iucn_status: "EN"
+avibase_id: DCD73C3AFC4BDD4B
+iucn_status: EN
 taxon_order: 7130.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pterodroma hasitata"
-  fa: "مرغ باران کلاهسیاه"
-  en: "Black-capped Petrel"
-
-# === TAXONOMY ===
+  scientific: Pterodroma hasitata
+  fa: مرغ باران کلاهسیاه
+  en: Black-capped Petrel
+  es: Petrel Antillano
+  fr: Pétrel diablotin
+  de: Teufelssturmvogel
+  pt: freira-das-antilhas
+  ru: Черношапочный тайфунник
+  ja: ズグロシロハラミズナギドリ
+  zh: 黑顶圆尾鹱
+  nl: Zwartkapstormvogel
+  pl: petrel antylski
+  tr: Kara Başlıklı Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Pterodroma"
-  species: "hasitata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Pterodroma
+  species: hasitata
 morphology:
   body_mass_g: 443.8333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2350
-  habitat_types: ["Forest", "Rocky", "Riverine", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Rocky
+  - Riverine
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   fledging_days: 105
-  nest_type: "BU,CP"
-  nest_placement: "Ground, Tree"
+  nest_type: BU,CP
+  nest_placement: Ground, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pterodroma hasitata (مرغ باران کلاهسیاه)
 

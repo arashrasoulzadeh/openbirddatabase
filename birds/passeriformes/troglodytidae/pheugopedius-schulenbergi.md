@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11112"
-ebird_code: "pltwre3"
+taxon_id: BN11112
+ebird_code: pltwre3
 gbif_key: 7881120
-avibase_id: "92A6502DAA6050E0"
-iucn_status: "LC"
+avibase_id: 92A6502DAA6050E0
+iucn_status: LC
 taxon_order: 27453.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pheugopedius schulenbergi"
-  fa: "nan"
-  en: "Grey-browed Wren"
-
-# === TAXONOMY ===
+  scientific: Pheugopedius schulenbergi
+  fa: nan
+  en: Grey-browed Wren
+  es: Cucarachero Cejigrís
+  fr: Troglodyte de Schulenberg
+  de: Graubrauen-Zaunkönig
+  pt: gray-browed wren
+  zh: Grey-browed Wren
+  nl: Grijsbrauwwinterkoning
+  pl: strzyżal blady
+  tr: Güneyli Düz Kuyuklu Çıtkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Troglodytidae"
-  genus: "Pheugopedius"
-  species: "schulenbergi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Troglodytidae
+  genus: Pheugopedius
+  species: schulenbergi
 morphology:
   body_mass_g: 33.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Bamboo"
+  primary: Bamboo
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2000
   elevational_max_m: 3500
-  habitat_types: ["Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pheugopedius schulenbergi (nan)
 

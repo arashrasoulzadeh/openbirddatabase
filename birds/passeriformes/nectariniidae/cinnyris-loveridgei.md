@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03192"
-ebird_code: "lovsun3"
+taxon_id: BN03192
+ebird_code: lovsun3
 gbif_key: 6087985
-avibase_id: "85666B495ADF4802"
-iucn_status: "EN"
+avibase_id: 85666B495ADF4802
+iucn_status: EN
 taxon_order: 30389.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinnyris loveridgei"
-  fa: "nan"
-  en: "Loveridge's Sunbird"
-
-# === TAXONOMY ===
+  scientific: Cinnyris loveridgei
+  fa: nan
+  en: Loveridge's Sunbird
+  es: Suimanga de Loveridge
+  fr: Souimanga de Loveridge
+  de: Orangebauch-Nektarvogel
+  pt: loveridge's sunbird
+  ru: Морогорская нектарница
+  ja: ハシナガゴシキタイヨウチョウ
+  nl: Loveridgehoningzuiger
+  pl: nektarnik masajski
+  tr: Loveridge Nektarkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Cinnyris"
-  species: "loveridgei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Cinnyris
+  species: loveridgei
 morphology:
   body_mass_g: 10.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1200
   elevational_max_m: 2580
-  habitat_types: ["Forest", "Bamboo", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
-  nest_type: "SP"
-  nest_placement: "Shrub, Tree"
+  nest_type: SP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinnyris loveridgei (nan)
 

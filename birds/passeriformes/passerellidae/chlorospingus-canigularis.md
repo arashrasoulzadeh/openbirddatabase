@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02963"
-ebird_code: "atbtan1"
+taxon_id: BN02963
+ebird_code: atbtan1
 gbif_key: 2488739
-avibase_id: "C6F07B0B029C9F9A"
-iucn_status: "LC"
+avibase_id: C6F07B0B029C9F9A
+iucn_status: LC
 taxon_order: 32857.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chlorospingus canigularis"
-  fa: "سبزجامه گلوخاکستری"
-  en: "Ashy-throated Chlorospingus"
-
-# === TAXONOMY ===
+  scientific: Chlorospingus canigularis
+  fa: سبزجامه گلوخاکستری
+  en: Ashy-throated Chlorospingus
+  es: Clorospingo Gorjigrís
+  fr: Chlorospin à gorge grise
+  de: Graukehl-Grünammer
+  pt: ashy-throated chlorospingus
+  ru: Серогорлый дромник
+  ja: ハイノドヤブフウキンチョウ
+  nl: Grijskeeltangare
+  pl: zieleniec obrożny
+  tr: Gri Gerdanlı Klorospingus
 taxonomy:
-  order: "Passeriformes"
-  family: "Passerellidae"
-  genus: "Chlorospingus"
-  species: "canigularis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Passerellidae
+  genus: Chlorospingus
+  species: canigularis
 morphology:
   body_mass_g: 17.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 300
   elevational_max_m: 2600
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chlorospingus canigularis (سبزجامه گلوخاکستری)
 

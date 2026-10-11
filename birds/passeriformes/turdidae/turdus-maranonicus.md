@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15443"
-ebird_code: "marthr2"
+taxon_id: BN15443
+ebird_code: marthr2
 gbif_key: 2490759
-avibase_id: "1F4DAD8075F43323"
-iucn_status: "LC"
+avibase_id: 1F4DAD8075F43323
+iucn_status: LC
 taxon_order: 28709.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turdus maranonicus"
-  fa: "nan"
-  en: "Maranon Thrush"
-
-# === TAXONOMY ===
+  scientific: Turdus maranonicus
+  fa: nan
+  en: Maranon Thrush
+  es: Zorzal del Marañón
+  fr: Merle du Maranon
+  de: Marañóndrossel
+  pt: marañon thrush
+  ru: Мараньонский дрозд
+  ja: ペルーウロコツグミ
+  zh: Maranon Thrush
+  nl: Marañonlijster
+  pl: drozd Taczanowskiego
+  tr: Maranyon Ardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Turdus"
-  species: "maranonicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Turdus
+  species: maranonicus
 morphology:
   body_mass_g: 70.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 200
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,31 +92,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turdus maranonicus (nan)
 

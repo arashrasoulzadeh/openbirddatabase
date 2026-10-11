@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15672"
-ebird_code: "whtlap1"
+taxon_id: BN15672
+ebird_code: whtlap1
 gbif_key: 5229147
-avibase_id: "A480FDDF8BBC5443"
-iucn_status: "LC"
+avibase_id: A480FDDF8BBC5443
+iucn_status: LC
 taxon_order: 5895.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vanellus leucurus"
-  fa: "خروس‌کلی دم‌سفید"
-  en: "White-tailed Lapwing"
-
-# === TAXONOMY ===
+  scientific: Vanellus leucurus
+  fa: خروس‌کلی دم‌سفید
+  en: White-tailed Lapwing
+  es: Avefría Coliblanca
+  fr: Vanneau à queue blanche
+  de: Weißschwanzkiebitz
+  pt: abibe-de-cauda-branca
+  ru: Белохвостая пигалица
+  ja: オジロゲリ
+  zh: 白尾麦鸡
+  nl: Witstaartkievit
+  pl: czajka stepowa
+  tr: Ak Kuyruklu Kızkuşu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Charadriidae"
-  genus: "Vanellus"
-  species: "leucurus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Charadriidae
+  genus: Vanellus
+  species: leucurus
 morphology:
   body_mass_g: 145.33333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 21
   fledging_days: 30
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vanellus leucurus (خروس‌کلی دم‌سفید)
 

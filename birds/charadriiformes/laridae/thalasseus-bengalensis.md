@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14878"
-ebird_code: "lecter2"
+taxon_id: BN14878
+ebird_code: lecter2
 gbif_key: 6065833
-avibase_id: "D01CDECDCA736E26"
-iucn_status: "LC"
+avibase_id: D01CDECDCA736E26
+iucn_status: LC
 taxon_order: 6783.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thalasseus bengalensis"
-  fa: "پرستودریایی کاکلی کوچک"
-  en: "Lesser Crested Tern"
-
-# === TAXONOMY ===
+  scientific: Thalasseus bengalensis
+  fa: پرستودریایی کاکلی کوچک
+  en: Lesser Crested Tern
+  es: Charrán Bengalí
+  fr: Sterne voyageuse
+  de: Rüppellseeschwalbe
+  pt: garajau-pequeno
+  ru: Бенгальская крачка
+  ja: ベンガルアジサシ
+  zh: 小凤头燕鸥
+  nl: Bengaalse stern
+  pl: rybitwa bengalska
+  tr: Tepeli Sumru
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Thalasseus"
-  species: "bengalensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Thalasseus
+  species: bengalensis
 morphology:
   body_mass_g: 212.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,41 +88,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 21
   fledging_days: 30
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thalasseus bengalensis (پرستودریایی کاکلی کوچک)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15282"
-ebird_code: "rewlau1"
+taxon_id: BN15282
+ebird_code: rewlau1
 gbif_key: 6101130
-avibase_id: "2C87AFACCFC02D67"
-iucn_status: "LC"
+avibase_id: 2C87AFACCFC02D67
+iucn_status: LC
 taxon_order: 26484.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Trochalopteron formosum"
-  fa: "nan"
-  en: "Red-winged Laughingthrush"
-
-# === TAXONOMY ===
+  scientific: Trochalopteron formosum
+  fa: nan
+  en: Red-winged Laughingthrush
+  es: Charlatán Alirrojo
+  fr: Garrulaxe élégant
+  de: Prachthäherling
+  pt: red-winged laughingthrush
+  ru: Краснокрылая кустарница
+  ja: アカバネガビチョウ
+  zh: 丽色噪鹛
+  nl: Roodvleugellijstergaai
+  pl: krasnosójkowiec czerwonoskrzydły
+  tr: Kızıl Kanatlı Gevezeardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Trochalopteron"
-  species: "formosum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Trochalopteron
+  species: formosum
 morphology:
   body_mass_g: 94.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 900
   elevational_max_m: 3150
-  habitat_types: ["Forest", "Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Trochalopteron formosum (nan)
 

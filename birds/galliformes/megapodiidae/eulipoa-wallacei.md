@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05359"
-ebird_code: "molscr1"
+taxon_id: BN05359
+ebird_code: molscr1
 gbif_key: 2482112
-avibase_id: "9CE98D286E310D1F"
-iucn_status: "VU"
+avibase_id: 9CE98D286E310D1F
+iucn_status: VU
 taxon_order: 816.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Eulipoa wallacei"
-  fa: "پابزرگ ملوکی"
-  en: "Moluccan Megapode"
-
-# === TAXONOMY ===
+  scientific: Eulipoa wallacei
+  fa: پابزرگ ملوکی
+  en: Moluccan Megapode
+  es: Talégalo de Wallace
+  fr: Mégapode de Wallace
+  de: Wallace-Großfußhuhn
+  pt: moluccan megapode
+  ru: Молуккский большеног
+  ja: モルッカツカツクリ
+  zh: 摩鹿加塚雉
+  nl: Moluks boshoen
+  pl: nogal molucki
+  tr: Boyalı Megapod
 taxonomy:
-  order: "Galliformes"
-  family: "Megapodiidae"
-  genus: "Eulipoa"
-  species: "wallacei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Megapodiidae
+  genus: Eulipoa
+  species: wallacei
 morphology:
   body_mass_g: 503.3333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1950
-  habitat_types: ["Forest", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Coastal
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 97
-  nest_type: "BU,M"
-  nest_placement: "Ground"
+  nest_type: BU,M
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Eulipoa wallacei (پابزرگ ملوکی)
 

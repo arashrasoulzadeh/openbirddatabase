@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00827"
-ebird_code: "taibeg1"
+taxon_id: BN00827
+ebird_code: taibeg1
 gbif_key: 2498027
-avibase_id: "BDB497A352D152DB"
-iucn_status: "LC"
+avibase_id: BDB497A352D152DB
+iucn_status: LC
 taxon_order: 301.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anser fabalis"
-  fa: "غاز پازرد"
-  en: "Taiga Bean Goose"
-
-# === TAXONOMY ===
+  scientific: Anser fabalis
+  fa: غاز پازرد
+  en: Taiga Bean Goose
+  es: Ánsar Campestre de la Taiga
+  fr: Oie des moissons
+  de: Waldsaatgans
+  pt: ganso-campestre-da-taiga
+  ru: Лесной гуменник
+  ja: オオヒシクイ
+  zh: 豆雁
+  nl: Taigarietgans
+  pl: gęś zbożowa
+  tr: Tayga Kazı
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Anser"
-  species: "fabalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Anser
+  species: fabalis
 morphology:
   body_mass_g: 3115.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 0.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.5
   clutch_size_min: 3
   clutch_size_max: 8
   incubation_days: 25
   fledging_days: 49
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anser fabalis (غاز پازرد)
 

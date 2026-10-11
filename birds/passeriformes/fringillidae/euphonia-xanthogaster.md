@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05435"
-ebird_code: "orbeup1"
+taxon_id: BN05435
+ebird_code: orbeup1
 gbif_key: 2488011
-avibase_id: "2D1A6C0F3363EE13"
-iucn_status: "LC"
+avibase_id: 2D1A6C0F3363EE13
+iucn_status: LC
 taxon_order: 32052.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Euphonia xanthogaster"
-  fa: "خوشخوان شکمنارنجی"
-  en: "Orange-bellied Euphonia"
-
-# === TAXONOMY ===
+  scientific: Euphonia xanthogaster
+  fa: خوشخوان شکمنارنجی
+  en: Orange-bellied Euphonia
+  es: Eufonia Ventrinaranja
+  fr: Organiste à ventre orange
+  de: Gelbbauchorganist
+  pt: fim-fim-grande
+  ru: Оранжевобрюхая эуфония
+  ja: キバラスミレフウキンチョウ
+  nl: Vuurbuikorganist
+  pl: organka złotoczelna
+  tr: Kızıl Taçlı Öfonya
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Euphonia"
-  species: "xanthogaster"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Euphonia
+  species: xanthogaster
 morphology:
   body_mass_g: 12.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2250
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
-  nest_type: "DM"
-  nest_placement: "Shrub, Tree"
+  nest_type: DM
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Euphonia xanthogaster (خوشخوان شکمنارنجی)
 

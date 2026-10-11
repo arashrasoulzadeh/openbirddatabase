@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02464"
-ebird_code: "crbfin3"
+taxon_id: BN02464
+ebird_code: crbfin3
 gbif_key: 7644832
-avibase_id: "48F59E1E13A3F1C2"
-iucn_status: "LC"
+avibase_id: 48F59E1E13A3F1C2
+iucn_status: LC
 taxon_order: 32207.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Carpodacus subhimachalus"
-  fa: "سهره ابرو زرشکی"
-  en: "Crimson-browed Finch"
-
-# === TAXONOMY ===
+  scientific: Carpodacus subhimachalus
+  fa: سهره ابرو زرشکی
+  en: Crimson-browed Finch
+  es: Camachuelo Cejirrojo
+  fr: Roselin à tête rouge
+  de: Rhododendrongimpel
+  pt: crimson-browed finch
+  ru: Рододендроновая чечевица
+  ja: ベニマユマシコ
+  zh: 红眉松雀
+  nl: Himalayahaakbek
+  pl: dziwonia rododendronowa
+  tr: Kumar Çütresi
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Carpodacus"
-  species: "subhimachalus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Carpodacus
+  species: subhimachalus
 morphology:
   body_mass_g: 46.449999999999996
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1800
   elevational_max_m: 4200
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 0.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Carpodacus subhimachalus (سهره ابرو زرشکی)
 

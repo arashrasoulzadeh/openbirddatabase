@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04213"
-ebird_code: "whoswa"
+taxon_id: BN04213
+ebird_code: whoswa
 gbif_key: 2498347
-avibase_id: "BDDB5670D2D20A55"
-iucn_status: "LC"
+avibase_id: BDDB5670D2D20A55
+iucn_status: LC
 taxon_order: 390.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cygnus cygnus"
-  fa: "قوی فریادکش"
-  en: "Whooper Swan"
-
-# === TAXONOMY ===
+  scientific: Cygnus cygnus
+  fa: قوی فریادکش
+  en: Whooper Swan
+  es: Cisne Cantor
+  fr: Cygne chanteur
+  de: Singschwan
+  pt: cisne-bravo
+  ru: Лебедь-кликун
+  ja: オオハクチョウ
+  zh: 大天鹅
+  nl: Wilde zwaan
+  pl: łabędź krzykliwy
+  tr: Ötücü Kuğu
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Cygnus"
-  species: "cygnus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Cygnus
+  species: cygnus
 morphology:
   body_mass_g: 10350.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Forest", "Grassland", "Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Grassland
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.0
   clutch_size_min: 2
   clutch_size_max: 12
   incubation_days: 31
   fledging_days: 87
-  nest_type: "M"
-  nest_placement: "Cliff/Crevice"
+  nest_type: M
+  nest_placement: Cliff/Crevice
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cygnus cygnus (قوی فریادکش)
 

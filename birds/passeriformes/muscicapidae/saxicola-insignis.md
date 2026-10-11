@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13556"
-ebird_code: "whtbus1"
+taxon_id: BN13556
+ebird_code: whtbus1
 gbif_key: 2492517
-avibase_id: "8C0E2D6289D83C4F"
-iucn_status: "VU"
+avibase_id: 8C0E2D6289D83C4F
+iucn_status: VU
 taxon_order: 29669.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Saxicola insignis"
-  fa: "چک بیشه گلوسفید"
-  en: "White-throated Bush Chat"
-
-# === TAXONOMY ===
+  scientific: Saxicola insignis
+  fa: چک بیشه گلوسفید
+  en: White-throated Bush Chat
+  es: Tarabilla de Hodgson
+  fr: Tarier de Hodgson
+  de: Mattenschmätzer
+  pt: white-throated bushchat
+  ru: Большой чекан
+  ja: オオノビタキ
+  zh: 白喉石䳭
+  nl: Hodgsonpaapje
+  pl: kląskawka mongolska
+  tr: Hodgson Taşkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Saxicola"
-  species: "insignis"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Saxicola
+  species: insignis
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2100
   elevational_max_m: 3100
-  habitat_types: ["Grassland", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,39 +87,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
-  nest_type: "CR"
-  nest_placement: "Ground, Rock"
+  nest_type: CR
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Saxicola insignis (چک بیشه گلوسفید)
 

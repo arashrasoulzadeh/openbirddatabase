@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10097"
-ebird_code: "varwhe1"
+taxon_id: BN10097
+ebird_code: varwhe1
 gbif_key: 5231238
-avibase_id: "F0CB79C0AA81DF96"
-iucn_status: "LC"
+avibase_id: F0CB79C0AA81DF96
+iucn_status: LC
 taxon_order: 29850.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Oenanthe picata"
-  fa: "چکچک ابلق خاوری"
-  en: "Variable Wheatear"
-
-# === TAXONOMY ===
+  scientific: Oenanthe picata
+  fa: چکچک ابلق خاوری
+  en: Variable Wheatear
+  es: Collalba Variable
+  fr: Traquet variable
+  de: Elstersteinschmätzer
+  pt: chasco-oriental
+  ru: Черная каменка
+  ja: カワリサバクヒタキ
+  zh: 东方斑䳭
+  nl: Picatatapuit
+  pl: białorzytka zmienna
+  tr: Doğu Kuyrukkakanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Oenanthe"
-  species: "picata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Oenanthe
+  species: picata
 morphology:
   body_mass_g: 22.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2400
-  habitat_types: ["Shrubland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Desert
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.5
   clutch_size_min: 4
   clutch_size_max: 7
   incubation_days: 12
   fledging_days: 13
-  nest_type: "BU,HC,CR"
-  nest_placement: "Building, Ground, Rock"
+  nest_type: BU,HC,CR
+  nest_placement: Building, Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Oenanthe picata (چکچک ابلق خاوری)
 

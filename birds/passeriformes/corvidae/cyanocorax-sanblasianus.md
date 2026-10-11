@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04128"
-ebird_code: "sabjay"
+taxon_id: BN04128
+ebird_code: sabjay
 gbif_key: 2482578
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 21255.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyanocorax sanblasianus"
-  fa: "جیجاق سانبلاس"
-  en: "San Blas Jay"
-
-# === TAXONOMY ===
+  scientific: Cyanocorax sanblasianus
+  fa: جیجاق سانبلاس
+  en: San Blas Jay
+  es: Chara de San Blas
+  fr: Geai de San Blas
+  de: Acapulcoblaurabe
+  pt: san blas jay
+  ru: Акапулькская сойка
+  ja: ヌレバカケス
+  zh: 黑蓝冠鸦
+  nl: Acapulcogaai
+  pl: modrowronka stokowa
+  tr: San Blas Mavi Kargası
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Cyanocorax"
-  species: "sanblasianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Cyanocorax
+  species: sanblasianus
 morphology:
   body_mass_g: 110.03333333333335
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1200
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,39 +92,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 17
   fledging_days: 18
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyanocorax sanblasianus (جیجاق سانبلاس)
 

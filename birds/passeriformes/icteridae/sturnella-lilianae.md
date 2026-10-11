@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14395"
-ebird_code: "lilmea2"
+taxon_id: BN14395
+ebird_code: lilmea2
 gbif_key: 6175094
-avibase_id: "18D6C99D6B426568"
-iucn_status: "LC"
+avibase_id: 18D6C99D6B426568
+iucn_status: LC
 taxon_order: 33587.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sturnella lilianae"
-  fa: "چکاوک مرغزار لیلیان"
-  en: "Chihuahuan Meadowlark"
-
-# === TAXONOMY ===
+  scientific: Sturnella lilianae
+  fa: چکاوک مرغزار لیلیان
+  en: Chihuahuan Meadowlark
+  es: Pradero Chihuahuense
+  fr: Sturnelle de Lilian
+  de: Chihuahuastärling
+  pt: chihuahuan meadowlark
+  nl: Chihuahuaweidespreeuw
+  pl: wojak białosterny
+  tr: Çihuahua Tarlasığırcığı
 taxonomy:
-  order: "Passeriformes"
-  family: "Icteridae"
-  genus: "Sturnella"
-  species: "lilianae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Icteridae
+  genus: Sturnella
+  species: lilianae
 morphology:
   body_mass_g: 100.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NL"]
+  biogeographic_realms:
+  - NL
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Grassland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Desert
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,38 +87,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
-  nest_type: "DM"
-  nest_placement: "Ground"
+  nest_type: DM
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sturnella lilianae (چکاوک مرغزار لیلیان)
 

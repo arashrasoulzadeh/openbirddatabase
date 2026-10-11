@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02952"
-ebird_code: "leglea1"
+taxon_id: BN02952
+ebird_code: leglea1
 gbif_key: 5230729
-avibase_id: "nan"
-iucn_status: "NT"
+avibase_id: nan
+iucn_status: NT
 taxon_order: 30663.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chloropsis cyanopogon"
-  fa: "برگنشین سبز کوچک"
-  en: "Lesser Green Leafbird"
-
-# === TAXONOMY ===
+  scientific: Chloropsis cyanopogon
+  fa: برگنشین سبز کوچک
+  en: Lesser Green Leafbird
+  es: Verdín Gorjiazul
+  fr: Verdin barbe-bleue
+  de: Blaubart-Blattvogel
+  pt: lesser green leafbird
+  ru: Малая листовка
+  ja: コノハドリ
+  nl: Blauwbaardbladvogel
+  pl: zielenik niebieskowąsy
+  tr: Mavi Bıyıklı Yaprakkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Chloropseidae"
-  genus: "Chloropsis"
-  species: "cyanopogon"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Chloropseidae
+  genus: Chloropsis
+  species: cyanopogon
 morphology:
   body_mass_g: 21.083333333333332
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 5.0
@@ -88,34 +87,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chloropsis cyanopogon (برگنشین سبز کوچک)
 

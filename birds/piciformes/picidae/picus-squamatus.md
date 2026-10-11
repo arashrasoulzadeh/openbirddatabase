@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11499"
-ebird_code: "scbwoo1"
+taxon_id: BN11499
+ebird_code: scbwoo1
 gbif_key: 2478544
-avibase_id: "886871E9C53B6D33"
-iucn_status: "LC"
+avibase_id: 886871E9C53B6D33
+iucn_status: LC
 taxon_order: 11647.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Picus squamatus"
-  fa: "دارکوب سبز شکم‌پولکی"
-  en: "Scaly-bellied Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Picus squamatus
+  fa: دارکوب سبز شکم‌پولکی
+  en: Scaly-bellied Woodpecker
+  es: Pito Escamoso
+  fr: Pic écaillé
+  de: Schuppengrünspecht
+  pt: scaly-bellied woodpecker
+  ru: Чешуйчатый дятел
+  ja: ヒマラヤアオゲラ
+  zh: 鳞腹绿啄木鸟
+  nl: Geschubde groene specht
+  pl: dzięcioł łuskobrzuchy
+  tr: Halkalı Yeşil Ağaçkakan
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Picus"
-  species: "squamatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Picidae
+  genus: Picus
+  species: squamatus
 morphology:
   body_mass_g: 175.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 1500
   elevational_max_m: 3700
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
   incubation_days: 17
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Picus squamatus (دارکوب سبز شکم‌پولکی)
 

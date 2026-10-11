@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12024"
-ebird_code: "cbmfin1"
+taxon_id: BN12024
+ebird_code: cbmfin1
 gbif_key: 2491151
-avibase_id: "86A7F7150840CFFE"
-iucn_status: "LC"
+avibase_id: 86A7F7150840CFFE
+iucn_status: LC
 taxon_order: 35439.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Poospizopsis caesar"
-  fa: "سهره چهچههزن سینهبلوطی"
-  en: "Chestnut-breasted Mountain Finch"
-
-# === TAXONOMY ===
+  scientific: Poospizopsis caesar
+  fa: سهره چهچههزن سینهبلوطی
+  en: Chestnut-breasted Mountain Finch
+  es: Monterita Pechicastaña
+  fr: Tangara césar
+  de: Grauflanken-Finkentangare
+  pt: chestnut-breasted mountain finch
+  ru: Королевская монтерита
+  ja: ノドジロマユシトド
+  nl: Grijsflankboomgors
+  pl: czywik duży
+  tr: Kestane Göğüslü And İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Poospizopsis"
-  species: "caesar"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Poospizopsis
+  species: caesar
 morphology:
   body_mass_g: 35.85
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2500
   elevational_max_m: 3500
-  habitat_types: ["Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Poospizopsis caesar (سهره چهچههزن سینهبلوطی)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14920"
-ebird_code: "plwant1"
+taxon_id: BN14920
+ebird_code: plwant1
 gbif_key: 5959219
-avibase_id: "1464C2B0D8CBB304"
-iucn_status: "LC"
+avibase_id: 1464C2B0D8CBB304
+iucn_status: LC
 taxon_order: 13540.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thamnophilus schistaceus"
-  fa: "مورچهمرغ بالساده"
-  en: "Plain-winged Antshrike"
-
-# === TAXONOMY ===
+  scientific: Thamnophilus schistaceus
+  fa: مورچهمرغ بالساده
+  en: Plain-winged Antshrike
+  es: Batará Alillano
+  fr: Batara à ailes unies
+  de: Schieferameisenwürger
+  pt: choca-de-olho-vermelho
+  ru: Свинцовый колючник
+  ja: ズグロアリモズ
+  zh: 黑顶蚁鵙
+  nl: Leikleurige mierklauwier
+  pl: chronka czarnoskrzydła
+  tr: Düz Kanatlı Karıncaavcısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Thamnophilidae"
-  genus: "Thamnophilus"
-  species: "schistaceus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thamnophilidae
+  genus: Thamnophilus
+  species: schistaceus
 morphology:
   body_mass_g: 20.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thamnophilus schistaceus (مورچهمرغ بالساده)
 

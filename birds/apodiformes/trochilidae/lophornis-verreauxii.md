@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08086"
-ebird_code: "fescoq2"
+taxon_id: BN08086
+ebird_code: fescoq2
 gbif_key: 9081205
-avibase_id: "BF9C468DE2BE8E00"
-iucn_status: "LC"
+avibase_id: BF9C468DE2BE8E00
+iucn_status: LC
 taxon_order: 4448.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lophornis verreauxii"
-  fa: "nan"
-  en: "Butterfly Coquette"
-
-# === TAXONOMY ===
+  scientific: Lophornis verreauxii
+  fa: nan
+  en: Butterfly Coquette
+  es: Coqueta Verde Norteña
+  fr: Coquette de Verreaux
+  de: Grünschopfelfe
+  ru: Кокетка-бабочка
+  zh: 蝴蝶冠蜂鸟
+  nl: Groenkuifkoketkolibrie
+  pl: sylfik zielonoczelny
+  tr: Yeşil And Koketi
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Lophornis"
-  species: "verreauxii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Lophornis
+  species: verreauxii
 morphology:
   body_mass_g: 3.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
+  - Riverine
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lophornis verreauxii (nan)
 

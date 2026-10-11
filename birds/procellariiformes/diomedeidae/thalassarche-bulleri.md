@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14869"
-ebird_code: "bulalb2"
+taxon_id: BN14869
+ebird_code: bulalb2
 gbif_key: 2481415
-avibase_id: "F79F09E14E0CE6E8"
-iucn_status: "NT"
+avibase_id: F79F09E14E0CE6E8
+iucn_status: NT
 taxon_order: 6997.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thalassarche bulleri"
-  fa: "آلباتروس بولر"
-  en: "Buller's Albatross"
-
-# === TAXONOMY ===
+  scientific: Thalassarche bulleri
+  fa: آلباتروس بولر
+  en: Buller's Albatross
+  es: Albatros de Buller
+  fr: Albatros de Buller
+  de: Bulleralbatros
+  pt: buller's albatross
+  ru: Буллеров альбатрос
+  ja: ニュージーランドアホウドリ
+  zh: 布勒信天翁
+  nl: Bulleralbatros
+  pl: albatross białoczelny
+  tr: Buller Albatrosu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Diomedeidae"
-  genus: "Thalassarche"
-  species: "bulleri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Diomedeidae
+  genus: Thalassarche
+  species: bulleri
 morphology:
   body_mass_g: 2912.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["SZ"]
+  biogeographic_realms:
+  - SZ
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 50
-  habitat_types: ["Grassland", "Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 69
   fledging_days: 147
-  nest_type: "M"
-  nest_placement: "Ground"
+  nest_type: M
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thalassarche bulleri (آلباتروس بولر)
 

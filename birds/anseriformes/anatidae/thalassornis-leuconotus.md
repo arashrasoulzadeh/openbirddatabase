@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14885"
-ebird_code: "whbduc1"
+taxon_id: BN14885
+ebird_code: whbduc1
 gbif_key: 2498229
-avibase_id: "2EEDACD56C704AE5"
-iucn_status: "LC"
+avibase_id: 2EEDACD56C704AE5
+iucn_status: LC
 taxon_order: 262.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thalassornis leuconotus"
-  fa: "مرغابی پشتسفید"
-  en: "White-backed Duck"
-
-# === TAXONOMY ===
+  scientific: Thalassornis leuconotus
+  fa: مرغابی پشتسفید
+  en: White-backed Duck
+  es: Pato Dorsiblanco
+  fr: Dendrocygne à dos blanc
+  de: Weißrücken-Pfeifgans
+  pt: white-backed duck
+  ru: Белоспинная утка
+  ja: コシジロガモ
+  zh: 白背鸭
+  nl: Witrugeend
+  pl: pokraczka
+  tr: Ak Sırtlı Ördek
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Thalassornis"
-  species: "leuconotus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Thalassornis
+  species: leuconotus
 morphology:
   body_mass_g: 704.6666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["FM"]
+  biogeographic_realms:
+  - FM
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.0
   clutch_size_min: 4
   clutch_size_max: 10
   incubation_days: 29
   fledging_days: 55
-  nest_placement: "Ground, Water, Cliff/Crevice"
+  nest_placement: Ground, Water, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thalassornis leuconotus (مرغابی پشتسفید)
 

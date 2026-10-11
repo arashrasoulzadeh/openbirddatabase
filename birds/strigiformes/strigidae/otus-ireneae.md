@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10391"
-ebird_code: "sosowl1"
+taxon_id: BN10391
+ebird_code: sosowl1
 gbif_key: 5232277
-avibase_id: "75194A63399FCD8A"
-iucn_status: "EN"
+avibase_id: 75194A63399FCD8A
+iucn_status: EN
 taxon_order: 8669.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Otus ireneae"
-  fa: "مرغ حق سوکوکه"
-  en: "Sokoke Scops Owl"
-
-# === TAXONOMY ===
+  scientific: Otus ireneae
+  fa: مرغ حق سوکوکه
+  en: Sokoke Scops Owl
+  es: Autillo del Sokoke
+  fr: Petit-duc d'Irene
+  de: Sokoke-Zwergohreule
+  pt: sokoke scops-owl
+  ru: Сококская сплюшка
+  ja: ハイイロコノハズク
+  zh: Sokoke Scops Owl
+  nl: Sokokedwergooruil
+  pl: syczek brunatny
+  tr: Sokoke İshakkuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Strigidae"
-  genus: "Otus"
-  species: "ireneae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Strigidae
+  genus: Otus
+  species: ireneae
 morphology:
   body_mass_g: 48.76666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 50
   elevational_max_m: 400
-  habitat_types: ["Forest", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Otus ireneae (مرغ حق سوکوکه)
 

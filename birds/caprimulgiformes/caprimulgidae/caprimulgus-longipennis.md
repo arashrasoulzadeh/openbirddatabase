@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02390"
-ebird_code: "stwnig1"
+taxon_id: BN02390
+ebird_code: stwnig1
 gbif_key: 7431467
-avibase_id: "D36F4D980D23FDD7"
-iucn_status: "LC"
+avibase_id: D36F4D980D23FDD7
+iucn_status: LC
 taxon_order: 3627.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Caprimulgus longipennis"
-  fa: "شبگرد بالپرچمی"
-  en: "Standard-winged Nightjar"
-
-# === TAXONOMY ===
+  scientific: Caprimulgus longipennis
+  fa: شبگرد بالپرچمی
+  en: Standard-winged Nightjar
+  es: Chotacabras Portaestandarte
+  fr: Engoulevent à balanciers
+  de: Fahnennachtschwalbe
+  pt: noitibó-de-estandarte
+  ru: Четырёхкрылый козодой
+  ja: ラケットヨタカ
+  zh: 纓翅夜鷹
+  nl: Viervleugelnachtzwaluw
+  pl: dziwolotek flagopióry
+  tr: Bayrak Kanatlı Çobanaldatan
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Caprimulgus"
-  species: "longipennis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Caprimulgus
+  species: longipennis
 morphology:
   body_mass_g: 48.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1400
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Grassland", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +93,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Caprimulgus longipennis (شبگرد بالپرچمی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07610"
-ebird_code: "lucwar"
+taxon_id: BN07610
+ebird_code: lucwar
 gbif_key: 8293756
-avibase_id: "E8EB3C96846FB708"
-iucn_status: "LC"
+avibase_id: E8EB3C96846FB708
+iucn_status: LC
 taxon_order: 33980.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Leiothlypis luciae"
-  fa: "nan"
-  en: "Lucy's Warbler"
-
-# === TAXONOMY ===
+  scientific: Leiothlypis luciae
+  fa: nan
+  en: Lucy's Warbler
+  es: Reinita de Lucy
+  fr: Paruline de Lucy
+  de: Rotbürzel-Waldsänger
+  pt: lucy's warbler
+  ru: Краснопоясничная древесница
+  ja: ルシーアメリカムシクイ
+  nl: Lucyzanger
+  pl: lasówka rdzaworzytna
+  tr: Lucy Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Parulidae"
-  genus: "Leiothlypis"
-  species: "luciae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Parulidae
+  genus: Leiothlypis
+  species: luciae
 morphology:
   body_mass_g: 6.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 300
   elevational_max_m: 1220
-  habitat_types: ["Woodland", "Shrubland", "Desert"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Desert
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 3
   clutch_size_max: 7
   incubation_days: 12
   fledging_days: 11
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Leiothlypis luciae (nan)
 

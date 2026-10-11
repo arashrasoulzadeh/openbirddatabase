@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08325"
-ebird_code: "sccbab1"
+taxon_id: BN08325
+ebird_code: sccbab1
 gbif_key: 2493505
-avibase_id: "9AB7E1FF6DBCA18B"
-iucn_status: "LC"
+avibase_id: 9AB7E1FF6DBCA18B
+iucn_status: LC
 taxon_order: 26157.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Malacopteron cinereum"
-  fa: "nan"
-  en: "Scaly-crowned Babbler"
-
-# === TAXONOMY ===
+  scientific: Malacopteron cinereum
+  fa: nan
+  en: Scaly-crowned Babbler
+  es: Tordina Coroniescamada
+  fr: Akalat à calotte maillée
+  de: Schuppenstirn-Zweigdrossling
+  pt: scaly-crowned babbler
+  ru: Краснолобый шелкопёр
+  ja: コズアカチャイロチメドリ
+  zh: 小紅頭樹鶥
+  nl: Schubkruintwijgtimalia
+  pl: sundajek łuskogłowy
+  tr: Pullu Tepeli Kasapardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Pellorneidae"
-  genus: "Malacopteron"
-  species: "cinereum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pellorneidae
+  genus: Malacopteron
+  species: cinereum
 morphology:
   body_mass_g: 17.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 9
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Malacopteron cinereum (nan)
 

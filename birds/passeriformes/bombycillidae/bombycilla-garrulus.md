@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01799"
-ebird_code: "bohwax"
+taxon_id: BN01799
+ebird_code: bohwax
 gbif_key: 2484605
-avibase_id: "AEF821EC4625150E"
-iucn_status: "LC"
+avibase_id: AEF821EC4625150E
+iucn_status: LC
 taxon_order: 29885.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Bombycilla garrulus"
-  fa: "بال‌لاکی"
-  en: "Bohemian Waxwing"
-
-# === TAXONOMY ===
+  scientific: Bombycilla garrulus
+  fa: بال‌لاکی
+  en: Bohemian Waxwing
+  es: Ampelis Europeo
+  fr: Jaseur boréal
+  de: Seidenschwanz
+  pt: picoteiro
+  ru: Свиристель
+  ja: キレンジャク
+  zh: 太平鸟
+  nl: Pestvogel
+  pl: jemiołuszka
+  tr: İpekkuyruk
 taxonomy:
-  order: "Passeriformes"
-  family: "Bombycillidae"
-  genus: "Bombycilla"
-  species: "garrulus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Bombycillidae
+  genus: Bombycilla
+  species: garrulus
 morphology:
   body_mass_g: 59.699999999999996
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["C"]
+  biogeographic_realms:
+  - C
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 3650
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 2
   clutch_size_max: 7
   incubation_days: 13
   fledging_days: 15
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Bombycilla garrulus (بال‌لاکی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03523"
-ebird_code: "pacpig1"
+taxon_id: BN03523
+ebird_code: pacpig1
 gbif_key: 5231837
-avibase_id: "D5C3E9C9DE56FF50"
-iucn_status: "VU"
+avibase_id: D5C3E9C9DE56FF50
+iucn_status: VU
 taxon_order: 1911.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Columba punicea"
-  fa: "کبوتر کلاهروشن"
-  en: "Pale-capped Pigeon"
-
-# === TAXONOMY ===
+  scientific: Columba punicea
+  fa: کبوتر کلاهروشن
+  en: Pale-capped Pigeon
+  es: Paloma Purpúrea
+  fr: Pigeon marron
+  de: Kupfertaube
+  pt: pale-capped pigeon
+  ru: Пурпурный вяхирь
+  ja: ムラサキモリバト
+  zh: 紫林鸽
+  nl: Bleekkopduif
+  pl: gołąb jasnogłowy
+  tr: Gümüş Tepeli Güvercin
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Columba"
-  species: "punicea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Columba
+  species: punicea
 morphology:
   body_mass_g: 440.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_type: "Platform"
-  nest_placement: "Shrub"
+  nest_type: Platform
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Columba punicea (کبوتر کلاهروشن)
 

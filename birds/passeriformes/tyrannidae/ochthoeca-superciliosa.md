@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09994"
-ebird_code: "bnbcht2"
+taxon_id: BN09994
+ebird_code: bnbcht2
 gbif_key: 8855744
-avibase_id: "11773DB93F32C823"
-iucn_status: "LC"
+avibase_id: 11773DB93F32C823
+iucn_status: LC
 taxon_order: 17207.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ochthoeca superciliosa"
-  fa: "چاوک ابروحنایی"
-  en: "Rufous-browed Chat-Tyrant"
-
-# === TAXONOMY ===
+  scientific: Ochthoeca superciliosa
+  fa: چاوک ابروحنایی
+  en: Rufous-browed Chat-Tyrant
+  es: Pitajo Cejirrojo
+  fr: Pitajo à sourcils roux
+  de: Rötelbrauen-Schmätzertyrann
+  pt: rufous-browed chat-tyrant
+  nl: Roestbrauwtapuittiran
+  pl: kląszczyk rdzawobrewy
+  tr: Kızıl Kaşlı Bülbül Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Ochthoeca"
-  species: "superciliosa"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Ochthoeca
+  species: superciliosa
 morphology:
   body_mass_g: 14.666666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 2700
   elevational_max_m: 4200
-  habitat_types: ["Woodland", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP,CV"
-  nest_placement: "Ground, Shrub"
+  nest_type: CP,CV
+  nest_placement: Ground, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ochthoeca superciliosa (چاوک ابروحنایی)
 

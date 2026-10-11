@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15032"
-ebird_code: "pattin1"
+taxon_id: BN15032
+ebird_code: pattin1
 gbif_key: 2477460
-avibase_id: "EC451D911F7D2806"
-iucn_status: "LC"
+avibase_id: EC451D911F7D2806
+iucn_status: LC
 taxon_order: 45.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tinamotis ingoufi"
-  fa: "وشم پاتاگونیا"
-  en: "Patagonian Tinamou"
-
-# === TAXONOMY ===
+  scientific: Tinamotis ingoufi
+  fa: وشم پاتاگونیا
+  en: Patagonian Tinamou
+  es: Kiula Patagona
+  fr: Tinamou de Patagonie
+  de: Patagonientinamu
+  pt: patagonian tinamou
+  ru: Патагонский тинаму
+  ja: パタゴニアシギダチョウ
+  zh: 南山䳍
+  nl: Patagonische tinamoe
+  pl: kusoń patagoński
+  tr: Boyalı Tinamu
 taxonomy:
-  order: "Tinamiformes"
-  family: "Tinamidae"
-  genus: "Tinamotis"
-  species: "ingoufi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Tinamiformes
+  family: Tinamidae
+  genus: Tinamotis
+  species: ingoufi
 morphology:
   body_mass_g: 950.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Shrubland", "Savanna", "Grassland", "Desert"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Desert
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.0
   clutch_size_min: 8
   clutch_size_max: 12
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tinamotis ingoufi (وشم پاتاگونیا)
 

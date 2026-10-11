@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03175"
-ebird_code: "consun2"
+taxon_id: BN03175
+ebird_code: consun2
 gbif_key: 6087909
-avibase_id: "6A9FC674828BCEA6"
-iucn_status: "LC"
+avibase_id: 6A9FC674828BCEA6
+iucn_status: LC
 taxon_order: 30400.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinnyris congensis"
-  fa: "nan"
-  en: "Congo Sunbird"
-
-# === TAXONOMY ===
+  scientific: Cinnyris congensis
+  fa: nan
+  en: Congo Sunbird
+  es: Suimanga Congoleño
+  fr: Souimanga du Congo
+  de: Kongonektarvogel
+  pt: congo sunbird
+  ru: Конголезская нектарница
+  ja: オオムネアカオナガタイヨウチョウ
+  nl: Congolese honingzuiger
+  pl: nektarnik kongijski
+  tr: Kongo Nektarkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Cinnyris"
-  species: "congensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Cinnyris
+  species: congensis
 morphology:
   body_mass_g: 16.625
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,34 +89,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_placement: "Shrub"
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinnyris congensis (nan)
 

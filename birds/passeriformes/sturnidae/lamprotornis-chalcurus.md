@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07451"
-ebird_code: "btgsta1"
+taxon_id: BN07451
+ebird_code: btgsta1
 gbif_key: 2489083
-avibase_id: "AEEED5D0B888A356"
-iucn_status: "LC"
+avibase_id: AEEED5D0B888A356
+iucn_status: LC
 taxon_order: 27989.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lamprotornis chalcurus"
-  fa: "nan"
-  en: "Bronze-tailed Starling"
-
-# === TAXONOMY ===
+  scientific: Lamprotornis chalcurus
+  fa: nan
+  en: Bronze-tailed Starling
+  es: Estornino Colibronceado
+  fr: Choucador à queue violette
+  de: Erzglanzstar
+  pt: bronze-tailed starling
+  ru: Бронзовохвостый спрео
+  ja: ブロンズテリムク
+  nl: Bronsstaartglansspreeuw
+  pl: błyszczak spiżowosterny
+  tr: Bronz Kuyruklu Sığırcık
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Lamprotornis"
-  species: "chalcurus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Lamprotornis
+  species: chalcurus
 morphology:
   body_mass_g: 63.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 500
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,36 +90,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lamprotornis chalcurus (nan)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14994"
-ebird_code: "deasof1"
+taxon_id: BN14994
+ebird_code: deasof1
 gbif_key: 8127857
-avibase_id: "76537A2AFF689B81"
-iucn_status: "VU"
+avibase_id: 76537A2AFF689B81
+iucn_status: VU
 taxon_order: 15475.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thripophaga amacurensis"
-  fa: "nan"
-  en: "Delta Amacuro Softtail"
-
-# === TAXONOMY ===
+  scientific: Thripophaga amacurensis
+  fa: nan
+  en: Delta Amacuro Softtail
+  es: Colasuave del Amacuro
+  fr: Synallaxe du Delta Amacuro
+  de: Orinokocanastero
+  pt: delta amacuro softtail
+  ru: Амакурская мягкохвостка
+  ja: デルタアマクロマルオカマドドリ
+  nl: Amacurocanastero
+  pl: miękkoster rdzawogardły
+  tr: Amakuro Yumuşakkuyruğu
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Thripophaga"
-  species: "amacurensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Thripophaga
+  species: amacurensis
 morphology:
   body_mass_g: 28.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 100
-  habitat_types: ["Forest", "Savanna", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Savanna
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thripophaga amacurensis (nan)
 

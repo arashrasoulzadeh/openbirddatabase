@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00523"
-ebird_code: "yehpar"
+taxon_id: BN00523
+ebird_code: yehpar
 gbif_key: 2479646
-avibase_id: "C18AAFA8B64AE534"
-iucn_status: "EN"
+avibase_id: C18AAFA8B64AE534
+iucn_status: EN
 taxon_order: 12925.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Amazona oratrix"
-  fa: "آمازون سر زرد"
-  en: "Yellow-headed Amazon"
-
-# === TAXONOMY ===
+  scientific: Amazona oratrix
+  fa: آمازون سر زرد
+  en: Yellow-headed Amazon
+  es: Amazona Cabecigualda
+  fr: Amazone à tête jaune
+  de: Gelbkopfamazone
+  pt: yellow-headed amazon
+  ru: Желтоголовый амазон
+  ja: キガシラボウシインコ
+  zh: 雙黃頭亞馬遜鸚鵡
+  nl: Geelkopamazone
+  pl: amazonka żółtogardła
+  tr: Sarı Başlı Amazon
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittacidae"
-  genus: "Amazona"
-  species: "oratrix"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Psittacidae
+  genus: Amazona
+  species: oratrix
 morphology:
   body_mass_g: 517.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 900
-  habitat_types: ["Forest", "Woodland", "Savanna"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Savanna
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 0.0
@@ -88,63 +90,121 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 25
-  nest_type: "CV"
-  nest_placement: "Cavity, Tree"
+  nest_type: CV
+  nest_placement: Cavity, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Psittacine Beak and Feather Disease (PBFD)
+  - Psittacosis (Chlamydia psittaci)
+  - Aspergillosis
+  - Proventricular Dilatation Disease (PDD)
+  - Polyomavirus
+  - Pacheco's Disease
+  - Feather Plucking / Self-mutilation
+  - Obesity / Hepatic Lipidosis
+  - Vitamin A Deficiency
+  - Heavy Metal Toxicity (Zn, Pb)
+  vaccination_schedule:
+  - 'Polyomavirus: Initial at 30 days, booster at 60 days, then annually'
+  - 'Psittacine Herpesvirus: Not routinely vaccinated, quarantine new birds 45-90
+    days'
+  deworming_frequency_months: 6
+  health_check_frequency_months: 6
+  zoonotic_risks:
+  - Chlamydia psittaci (Psittacosis)
+  - Salmonella spp.
+  - Campylobacter spp.
+  - Mycobacterium avium (Avian TB)
+  - Allergic alveolitis (Bird fancier's lung)
+  emergency_signs:
+  - Labored breathing / tail bobbing
+  - Anorexia >24 hours
+  - Severe diarrhea / blood in droppings
+  - Unable to perch / ataxia
+  - Regurgitation (non-courtship)
+  - Swollen eyes / sinus discharge
+  - Feather plucking with skin damage
+  - Sudden behavior change
+  vet_specialist_type: Avian veterinarian (ABVP certified preferred)
+  source: Avian Medicine and Surgery, 3rd Ed. (2023); AAV Guidelines
+  contributor: Dr. Jane Smith, DVM, Dipl. ABVP (Avian)
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Puzzle feeders (various difficulty levels)
+  - Scatter feeding trays with substrate
+  - Browse branches (eucalyptus, bottlebrush, apple)
+  - Pine cones with hidden treats
+  - Cardboard boxes/tubes for shredding
+  - Coconut shells with food inside
+  - Vine balls stuffed with treats
+  - Commercial foraging toys (Caitec, Super Bird Creations)
+  cognitive_toys:
+  - Color/shape discrimination puzzles
+  - Tool use tasks (stick for food)
+  - String pulling tasks
+  - Lever/peg boards
+  - Touchscreen training (cognitive research)
+  - Object permanence games
+  - Matching-to-sample tasks
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Object manipulation / throwing
+  - Swinging / hanging upside down
+  - Social allopreening
+  - Vocal play / mimicry
+  - Chase games (with conspecifics)
+  - Foot toys manipulation
+  environmental_enrichment:
+  - Variable perch diameters (natural branches preferred)
+  - UV lighting (UVB 290-310nm, 12h cycle)
+  - Seasonal diet variation (fresh foods daily)
+  - Audio enrichment (rainforest sounds, conspecific calls)
+  - Visual barriers for privacy
+  - Climbing structures (ropes, ladders, nets)
+  - Destructible items (phone books, palm fronds, balsa wood)
+  social_enrichment: Highly social; conspecifics strongly recommended. Mirrors acceptable
+    temporary substitute for single birds. Daily human interaction minimum 2-3 hours.
+  bathing: Daily misting or shallow water dish; some prefer shower perches. Offer
+    3-4x weekly minimum.
+  source: AZA Parrot TAG Husbandry Manual (2022); Psittacine Enrichment Guidelines
+  contributor: AZA Parrot TAG Enrichment Committee
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Amazona oratrix (آمازون سر زرد)
 

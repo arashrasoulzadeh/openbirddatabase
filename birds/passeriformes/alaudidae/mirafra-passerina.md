@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08996"
-ebird_code: "monlar2"
+taxon_id: BN08996
+ebird_code: monlar2
 gbif_key: 2490594
-avibase_id: "86E9D9F4CAF62C5F"
-iucn_status: "LC"
+avibase_id: 86E9D9F4CAF62C5F
+iucn_status: LC
 taxon_order: 22481.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Mirafra passerina"
-  fa: "چکاوک یکنواخت"
-  en: "Monotonous Lark"
-
-# === TAXONOMY ===
+  scientific: Mirafra passerina
+  fa: چکاوک یکنواخت
+  en: Monotonous Lark
+  es: Alondra Monótona
+  fr: Alouette monotone
+  de: Sperlingslerche
+  pt: monotonous lark
+  ru: Воробьиный жаворонок
+  ja: ヒトコエヤブヒバリ
+  zh: 雀歌百靈
+  nl: Musleeuwerik
+  pl: skowroniec białogardły
+  tr: Monoton Toygar
 taxonomy:
-  order: "Passeriformes"
-  family: "Alaudidae"
-  genus: "Mirafra"
-  species: "passerina"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Alaudidae
+  genus: Mirafra
+  species: passerina
 morphology:
   body_mass_g: 25.125
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Woodland", "Savanna", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Savanna
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "DM"
-  nest_placement: "Cliff/Crevice"
+  nest_type: DM
+  nest_placement: Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Mirafra passerina (چکاوک یکنواخت)
 

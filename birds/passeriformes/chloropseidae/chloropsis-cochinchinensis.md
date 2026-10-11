@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02951"
-ebird_code: "buwlea2"
+taxon_id: BN02951
+ebird_code: buwlea2
 gbif_key: 5230732
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 30674.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chloropsis cochinchinensis"
-  fa: "برگنشین بالآبی"
-  en: "Javan Leafbird"
-
-# === TAXONOMY ===
+  scientific: Chloropsis cochinchinensis
+  fa: برگنشین بالآبی
+  en: Javan Leafbird
+  es: Verdín de Java
+  fr: Verdin de Java
+  de: Javablattvogel
+  pt: javan leafbird
+  ru: Синекрылая листовка
+  ja: アオバネコノハドリ
+  zh: 蓝翅叶鹎
+  nl: Javaanse bladvogel
+  pl: zielenik maskowy
+  tr: Cava Yaprakkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Chloropseidae"
-  genus: "Chloropsis"
-  species: "cochinchinensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Chloropseidae
+  genus: Chloropsis
+  species: cochinchinensis
 morphology:
   body_mass_g: 23.583333333333332
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1400
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 13
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chloropsis cochinchinensis (برگنشین بالآبی)
 

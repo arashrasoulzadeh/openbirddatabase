@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01545"
-ebird_code: "lessca"
+taxon_id: BN01545
+ebird_code: lessca
 gbif_key: 2498257
-avibase_id: "50566E50C91B8686"
-iucn_status: "LC"
+avibase_id: 50566E50C91B8686
+iucn_status: LC
 taxon_order: 700.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aythya affinis"
-  fa: "اردک سرسیاه کوچک"
-  en: "Lesser Scaup"
-
-# === TAXONOMY ===
+  scientific: Aythya affinis
+  fa: اردک سرسیاه کوچک
+  en: Lesser Scaup
+  es: Porrón Bola
+  fr: Petit Fuligule
+  de: Kanadabergente
+  pt: negrelho-americano
+  ru: Малая морская чернеть
+  ja: コスズガモ
+  zh: 小潜鸭
+  nl: Kleine topper
+  pl: ogorzałka mała
+  tr: Morbaş Patka
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Aythya"
-  species: "affinis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Aythya
+  species: affinis
 morphology:
   body_mass_g: 853.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Artificial", "Riverine", "Coastal", "Wetland", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 7.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.0
   clutch_size_min: 6
   clutch_size_max: 14
   incubation_days: 21
   fledging_days: 45
-  nest_type: "CP"
-  nest_placement: "Ground"
+  nest_type: CP
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aythya affinis (اردک سرسیاه کوچک)
 

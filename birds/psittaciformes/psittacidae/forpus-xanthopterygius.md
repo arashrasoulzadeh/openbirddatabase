@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05661"
-ebird_code: "buwpar3"
+taxon_id: BN05661
+ebird_code: buwpar3
 gbif_key: 2479075
-avibase_id: "4FC2DF643DCD4AC1"
-iucn_status: "LC"
+avibase_id: 4FC2DF643DCD4AC1
+iucn_status: LC
 taxon_order: 12986.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Forpus xanthopterygius"
-  fa: "طوطیچه بالآبی"
-  en: "Cobalt-rumped Parrotlet"
-
-# === TAXONOMY ===
+  scientific: Forpus xanthopterygius
+  fa: طوطیچه بالآبی
+  en: Cobalt-rumped Parrotlet
+  es: Cotorrita Aliazul
+  fr: Toui de Spix
+  de: Blauflügel-Sperlingspapagei
+  pt: tuim
+  ru: Синекрылый воробьиный попугайчик
+  ja: ハシブトルリハシインコ
+  nl: Blauwvleugelmuspapegaai
+  pl: wróbliczka niebieskoskrzydła
+  tr: Çivit Kanatlı Serçe Papağanı
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittacidae"
-  genus: "Forpus"
-  species: "xanthopterygius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Psittacidae
+  genus: Forpus
+  species: xanthopterygius
 morphology:
   body_mass_g: 28.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1200
-  habitat_types: ["Forest", "Shrubland", "Savanna", "Grassland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.5
   clutch_size_min: 3
   clutch_size_max: 8
   incubation_days: 18
   fledging_days: 28
-  nest_type: "CV"
-  nest_placement: "Cavity, Tree"
+  nest_type: CV
+  nest_placement: Cavity, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Forpus xanthopterygius (طوطیچه بالآبی)
 

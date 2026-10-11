@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13840"
-ebird_code: "whctan1"
+taxon_id: BN13840
+ebird_code: whctan1
 gbif_key: 2488675
-avibase_id: "961A51A723D30F75"
-iucn_status: "VU"
+avibase_id: 961A51A723D30F75
+iucn_status: VU
 taxon_order: 34661.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sericossypha albocristata"
-  fa: "فرخنده کلاهسفید"
-  en: "White-capped Tanager"
-
-# === TAXONOMY ===
+  scientific: Sericossypha albocristata
+  fa: فرخنده کلاهسفید
+  en: White-capped Tanager
+  es: Tangara Coroniblanca
+  fr: Tangara à coiffe blanche
+  de: Weißkappentangare
+  pt: white-capped tanager
+  ru: Белошапочная танагра
+  ja: シラガフウキンチョウ
+  zh: 白顶唐纳雀
+  nl: Witkoptangare
+  pl: śnieżnogłowik
+  tr: Ak Peruklu Tangara
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Sericossypha"
-  species: "albocristata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Sericossypha
+  species: albocristata
 morphology:
   body_mass_g: 105.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1600
   elevational_max_m: 3200
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sericossypha albocristata (فرخنده کلاهسفید)
 

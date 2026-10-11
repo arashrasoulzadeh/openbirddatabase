@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02222"
-ebird_code: "strshe"
+taxon_id: BN02222
+ebird_code: strshe
 gbif_key: 2481519
-avibase_id: "13B165A3056EF798"
-iucn_status: "NT"
+avibase_id: 13B165A3056EF798
+iucn_status: NT
 taxon_order: 7199.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Calonectris leucomelas"
-  fa: "کبوتر دریایی نواری"
-  en: "Streaked Shearwater"
-
-# === TAXONOMY ===
+  scientific: Calonectris leucomelas
+  fa: کبوتر دریایی نواری
+  en: Streaked Shearwater
+  es: Pardela Canosa
+  fr: Puffin leucomèle
+  de: Weißgesicht-Sturmtaucher
+  pt: cagarra-do-pacífico
+  ru: Пестролицый буревестник
+  ja: オオミズナギドリ
+  zh: 白额鹱
+  nl: Gestreepte pijlstormvogel
+  pl: burzyk kreskowany
+  tr: Ak Yüzlü Yelkovan
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Calonectris"
-  species: "leucomelas"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Calonectris
+  species: leucomelas
 morphology:
   body_mass_g: 530.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 64
   fledging_days: 66
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Calonectris leucomelas (کبوتر دریایی نواری)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01375"
-ebird_code: "eyrthi1"
+taxon_id: BN01375
+ebird_code: eyrthi1
 gbif_key: 6088375
-avibase_id: "48C5FC42C98D8961"
-iucn_status: "LC"
+avibase_id: 48C5FC42C98D8961
+iucn_status: LC
 taxon_order: 15448.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Asthenes palpebralis"
-  fa: "تیغچهدم چشمسفید"
-  en: "Eye-ringed Thistletail"
-
-# === TAXONOMY ===
+  scientific: Asthenes palpebralis
+  fa: تیغچهدم چشمسفید
+  en: Eye-ringed Thistletail
+  es: Piscuiz de Anteojos
+  fr: Synallaxe à lunettes
+  de: Brillencanastero
+  pt: eye-ringed thistletail
+  ru: Очковый чертополошник
+  ja: メガネトゲオカマドドリ
+  nl: Oogringdistelstaart
+  pl: koszykarz okularowy
+  tr: Gözlüklü Sepetören
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Asthenes"
-  species: "palpebralis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Asthenes
+  species: palpebralis
 morphology:
   body_mass_g: 17.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 3030
   elevational_max_m: 3710
-  habitat_types: ["Forest", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Asthenes palpebralis (تیغچهدم چشمسفید)
 

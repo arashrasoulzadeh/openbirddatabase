@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00958"
-ebird_code: "granig2"
+taxon_id: BN00958
+ebird_code: granig2
 gbif_key: 6101176
-avibase_id: "A89EA38B0FDDB224"
-iucn_status: "LC"
+avibase_id: A89EA38B0FDDB224
+iucn_status: LC
 taxon_order: 3602.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Antrostomus cubanensis"
-  fa: "شبگرد کوبایی"
-  en: "Cuban Nightjar"
-
-# === TAXONOMY ===
+  scientific: Antrostomus cubanensis
+  fa: شبگرد کوبایی
+  en: Cuban Nightjar
+  es: Chotacabras Cubano
+  fr: Engoulevent de Cuba
+  de: Kubanachtschwalbe
+  pt: cuban nightjar
+  ru: Кубинский козодой
+  ja: キューバヨタカ
+  zh: 古巴夜鹰
+  nl: Cubaanse nachtzwaluw
+  pl: lelkowiec kubański
+  tr: Küba Çobanaldatanı
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Antrostomus"
-  species: "cubanensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Antrostomus
+  species: cubanensis
 morphology:
   body_mass_g: 71.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Woodland", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Antrostomus cubanensis (شبگرد کوبایی)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03419"
-ebird_code: "vitsta1"
+taxon_id: BN03419
+ebird_code: vitsta1
 gbif_key: 2477028
-avibase_id: "FA738B335F497A14"
-iucn_status: "LC"
+avibase_id: FA738B335F497A14
+iucn_status: LC
 taxon_order: 4634.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coeligena violifer"
-  fa: "اخترپیشانی گلوبنفش"
-  en: "Violet-throated Starfrontlet"
-
-# === TAXONOMY ===
+  scientific: Coeligena violifer
+  fa: اخترپیشانی گلوبنفش
+  en: Violet-throated Starfrontlet
+  es: Inca Boliviano
+  fr: Inca violifère
+  de: Veilchenkehlkolibri
+  pt: violet-throated starfrontlet
+  ru: Фиолетовогорлый инка
+  ja: ルリノドインカハチドリ
+  zh: 紫喉星额蜂鸟
+  nl: Violetkeelincakolibrie
+  pl: elfik płowy
+  tr: Mor Gerdanlı Parlakalın
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Coeligena"
-  species: "violifer"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Coeligena
+  species: violifer
 morphology:
   body_mass_g: 7.675
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1300
   elevational_max_m: 3700
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coeligena violifer (اخترپیشانی گلوبنفش)
 

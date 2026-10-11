@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12108"
-ebird_code: "grrtai1"
+taxon_id: BN12108
+ebird_code: grrtai1
 gbif_key: 2480043
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 12297.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prioniturus luconensis"
-  fa: "دمپارویی سبز"
-  en: "Green Racket-tail"
-
-# === TAXONOMY ===
+  scientific: Prioniturus luconensis
+  fa: دمپارویی سبز
+  en: Green Racket-tail
+  es: Lorito Momoto de Luzón
+  fr: Palette verte
+  de: Luzon-Spatelschwanzpapagei
+  pt: green racquet-tail
+  ru: Лузонский ракетохвост
+  ja: ミドリウチワインコ
+  zh: Green Racket-tail
+  nl: Groene vlagstaartpapegaai
+  pl: listkogonka zielona
+  tr: Luzon Raket Kuyruklu Papağanı
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittaculidae"
-  genus: "Prioniturus"
-  species: "luconensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Psittaciformes
+  family: Psittaculidae
+  genus: Prioniturus
+  species: luconensis
 morphology:
   body_mass_g: 109.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 300
   elevational_max_m: 700
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 0.0
@@ -88,34 +89,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prioniturus luconensis (دمپارویی سبز)
 

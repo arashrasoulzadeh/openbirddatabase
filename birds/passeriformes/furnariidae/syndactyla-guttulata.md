@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14546"
-ebird_code: "gufgle1"
+taxon_id: BN14546
+ebird_code: gufgle1
 gbif_key: 2485374
-avibase_id: "612F60B66D652F0C"
-iucn_status: "LC"
+avibase_id: 612F60B66D652F0C
+iucn_status: LC
 taxon_order: 15163.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Syndactyla guttulata"
-  fa: "nan"
-  en: "Guttulate Foliage-gleaner"
-
-# === TAXONOMY ===
+  scientific: Syndactyla guttulata
+  fa: nan
+  en: Guttulate Foliage-gleaner
+  es: Ticotico Goteado
+  fr: Anabate à gouttelettes
+  de: Zimtbrauen-Blattspäher
+  pt: guttulate foliage-gleaner
+  ru: Пёстрый сростнопал
+  ja: キノドマユカマドドリ
+  nl: Gevlekte bladspeurder
+  pl: liściowiec wenezuelski
+  tr: Damlacıklı Yaprakkarıştıran
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Syndactyla"
-  species: "guttulata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Syndactyla
+  species: guttulata
 morphology:
   body_mass_g: 36.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 900
   elevational_max_m: 2100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV"
-  nest_placement: "Building"
+  nest_type: CV
+  nest_placement: Building
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Syndactyla guttulata (nan)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16039"
-ebird_code: "chityr1"
+taxon_id: BN16039
+ebird_code: chityr1
 gbif_key: 8119633
-avibase_id: "29A192BAD7B6414A"
-iucn_status: "NT"
+avibase_id: 29A192BAD7B6414A
+iucn_status: NT
 taxon_order: 16797.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zimmerius chicomendesi"
-  fa: "nan"
-  en: "Chico's Tyrannulet"
-
-# === TAXONOMY ===
+  scientific: Zimmerius chicomendesi
+  fa: nan
+  en: Chico's Tyrannulet
+  es: Mosquerito de Chico Mendes
+  fr: Tyranneau de Mendes
+  de: Grünkleintyrann
+  pt: poaieiro-de-chico-mendes
+  ru: Тапажосский москитолов
+  ja: チコメンデスコタイランチョウ
+  nl: Chicovliegenpikker
+  pl: oliwiaczek jemiołowy
+  tr: Chico Mendes Tiranületi
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Zimmerius"
-  species: "chicomendesi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Zimmerius
+  species: chicomendesi
 morphology:
   body_mass_g: 5.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zimmerius chicomendesi (nan)
 

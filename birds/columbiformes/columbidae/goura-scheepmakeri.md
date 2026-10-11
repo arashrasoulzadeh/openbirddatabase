@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06101"
-ebird_code: "soucrp2"
+taxon_id: BN06101
+ebird_code: soucrp2
 gbif_key: 2495201
-avibase_id: "095FF97976940939"
-iucn_status: "VU"
+avibase_id: 095FF97976940939
+iucn_status: VU
 taxon_order: 2462.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Goura scheepmakeri"
-  fa: "کبوتر تاجدار جنوبی"
-  en: "Scheepmaker's Crowned Pigeon"
-
-# === TAXONOMY ===
+  scientific: Goura scheepmakeri
+  fa: کبوتر تاجدار جنوبی
+  en: Scheepmaker's Crowned Pigeon
+  es: Gura de Scheepmaker
+  fr: Goura de Scheepmaker
+  de: Graubug-Krontaube
+  pt: scheepmaker's crowned-pigeon
+  ru: Каштановогрудый венценосный голубь
+  ja: ミナミカンムリバト
+  zh: Scheepmaker's Crowned Pigeon
+  nl: Scheepmakerkroonduif
+  pl: koroniec błękitny
+  tr: Güneyli Taçlı Güvercin
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Goura"
-  species: "scheepmakeri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Goura
+  species: scheepmakeri
 morphology:
   body_mass_g: 2120.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 0.01
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "Platform"
+  nest_type: Platform
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Goura scheepmakeri (کبوتر تاجدار جنوبی)
 

@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06279"
-ebird_code: "oribla1"
+taxon_id: BN06279
+ebird_code: oribla1
 gbif_key: 2484109
-avibase_id: "2F92B33311F71E7D"
-iucn_status: "LC"
+avibase_id: 2F92B33311F71E7D
+iucn_status: LC
 taxon_order: 33907.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gymnomystax mexicanus"
-  fa: "سیاهپر پریشاهرخی"
-  en: "Oriole Blackbird"
-
-# === TAXONOMY ===
+  scientific: Gymnomystax mexicanus
+  fa: سیاهپر پریشاهرخی
+  en: Oriole Blackbird
+  es: Chango Oriolino
+  fr: Carouge loriot
+  de: Gelbbauchstärling
+  pt: iratauá-grande
+  ru: Иволговый гракл
+  ja: オオムクドリモドキ
+  zh: 黄头拟鹂属
+  nl: Wielewaaltroepiaal
+  pl: wilgokacyk
+  tr: Sarı Karınlı Kiskal
 taxonomy:
-  order: "Passeriformes"
-  family: "Icteridae"
-  genus: "Gymnomystax"
-  species: "mexicanus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Icteridae
+  genus: Gymnomystax
+  species: mexicanus
 morphology:
   body_mass_g: 95.375
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 400
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,39 +93,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 3
   clutch_size_max: 3
   incubation_days: 17
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gymnomystax mexicanus (سیاهپر پریشاهرخی)
 

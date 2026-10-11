@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02443"
-ebird_code: "sugcuc1"
+taxon_id: BN02443
+ebird_code: sugcuc1
 gbif_key: 2496389
-avibase_id: "64A8C1C5FF42FA06"
-iucn_status: "CR"
+avibase_id: 64A8C1C5FF42FA06
+iucn_status: CR
 taxon_order: 3055.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Carpococcyx viridis"
-  fa: "nan"
-  en: "Sumatran Ground Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Carpococcyx viridis
+  fa: nan
+  en: Sumatran Ground Cuckoo
+  es: Cuco Terrestre de Sumatra
+  fr: Calobate de Sumatra
+  de: Sumatrakuckuck
+  pt: sumatran ground-cuckoo
+  ru: Суматранская воронья кукушка
+  ja: スマトラハシリカッコウ
+  zh: Sumatran Ground Cuckoo
+  nl: Sumatraanse grondkoekoek
+  pl: kukielnik zielony
+  tr: Sumatra Yer Guguğu
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Carpococcyx"
-  species: "viridis"
-
-
-# === DISTRIBUTION ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Carpococcyx
+  species: viridis
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 300
   elevational_max_m: 1400
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Carpococcyx viridis (nan)
 

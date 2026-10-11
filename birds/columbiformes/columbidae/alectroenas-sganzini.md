@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00405"
-ebird_code: "cobpig1"
+taxon_id: BN00405
+ebird_code: cobpig1
 gbif_key: 2495386
-avibase_id: "E396A6433296D4D8"
-iucn_status: "NT"
+avibase_id: E396A6433296D4D8
+iucn_status: NT
 taxon_order: 2617.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Alectroenas sganzini"
-  fa: "nan"
-  en: "Comoro Blue Pigeon"
-
-# === TAXONOMY ===
+  scientific: Alectroenas sganzini
+  fa: nan
+  en: Comoro Blue Pigeon
+  es: Paloma Azul de las Comoras
+  fr: Founingo des Comores
+  de: Komorenfruchttaube
+  pt: comoro blue-pigeon
+  ru: Коморский гривун
+  ja: コモロルリバト
+  zh: Comoro Blue Pigeon
+  nl: Comorenblauwduif
+  pl: koralczyk srebrnogłowy
+  tr: Komor Mavi Güvercini
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Alectroenas"
-  species: "sganzini"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Alectroenas
+  species: sganzini
 morphology:
   body_mass_g: 154.33333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Coastal
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Alectroenas sganzini (nan)
 

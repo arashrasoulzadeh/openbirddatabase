@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15190"
-ebird_code: "madgrp1"
+taxon_id: BN15190
+ebird_code: madgrp1
 gbif_key: 2495771
-avibase_id: "BA5B593502113515"
-iucn_status: "LC"
+avibase_id: BA5B593502113515
+iucn_status: LC
 taxon_order: 2536.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Treron australis"
-  fa: "nan"
-  en: "Madagascar Green Pigeon"
-
-# === TAXONOMY ===
+  scientific: Treron australis
+  fa: nan
+  en: Madagascar Green Pigeon
+  es: Vinago Malgache
+  fr: Colombar maïtsou
+  de: Madagaskargrüntaube
+  pt: madagascar green-pigeon
+  ru: Мадагаскарский зелёный голубь
+  ja: マダガスカルアオバト
+  zh: Madagascar Green Pigeon
+  nl: Madagaskarpapegaaiduif
+  pl: treron malgaski
+  tr: Madagaskar Yeşil Güvercini
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Treron"
-  species: "australis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Treron
+  species: australis
 morphology:
   body_mass_g: 216.66666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,38 +93,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Treron australis (nan)
 

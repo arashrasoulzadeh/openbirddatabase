@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08605"
-ebird_code: "callar1"
+taxon_id: BN08605
+ebird_code: callar1
 gbif_key: 2490613
-avibase_id: "BDC24A8AA8A51BF9"
-iucn_status: "LC"
+avibase_id: BDC24A8AA8A51BF9
+iucn_status: LC
 taxon_order: 22796.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melanocorypha calandra"
-  fa: "nan"
-  en: "Calandra Lark"
-
-# === TAXONOMY ===
+  scientific: Melanocorypha calandra
+  fa: nan
+  en: Calandra Lark
+  es: Calandria Común
+  fr: Alouette calandre
+  de: Kalanderlerche
+  pt: calhandra-real
+  ru: Степной жаворонок
+  ja: クロエリコウテンシ
+  zh: 草原百灵
+  nl: Kalanderleeuwerik
+  pl: kalandra szara
+  tr: Boğmaklı Toygar
 taxonomy:
-  order: "Passeriformes"
-  family: "Alaudidae"
-  genus: "Melanocorypha"
-  species: "calandra"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Alaudidae
+  genus: Melanocorypha
+  species: calandra
 morphology:
   body_mass_g: 59.03333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Grassland", "Plains", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Plains
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
   incubation_days: 11
   fledging_days: 19
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melanocorypha calandra (nan)
 

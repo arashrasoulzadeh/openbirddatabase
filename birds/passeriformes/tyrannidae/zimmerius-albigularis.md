@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16037"
-ebird_code: "chotyr1"
+taxon_id: BN16037
+ebird_code: chotyr1
 gbif_key: 5789111
-avibase_id: "23DF2A079B47C13D"
-iucn_status: "LC"
+avibase_id: 23DF2A079B47C13D
+iucn_status: LC
 taxon_order: 16802.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zimmerius albigularis"
-  fa: "ژیانمرغک چوکو"
-  en: "Choco Tyrannulet"
-
-# === TAXONOMY ===
+  scientific: Zimmerius albigularis
+  fa: ژیانمرغک چوکو
+  en: Choco Tyrannulet
+  es: Mosquerito del Chocó
+  fr: Tyranneau du Choco
+  de: Chocókleintyrann
+  pt: choco tyrannulet
+  ru: Чокский москитолов
+  ja: ノドジロコタイランチョウ
+  nl: Chocovliegenpikker
+  pl: oliwiaczek stokowy
+  tr: Çoko Tiranületi
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Zimmerius"
-  species: "albigularis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Zimmerius
+  species: albigularis
 morphology:
   body_mass_g: 8.05
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zimmerius albigularis (ژیانمرغک چوکو)
 

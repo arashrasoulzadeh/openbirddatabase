@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13768"
-ebird_code: "bratap1"
+taxon_id: BN13768
+ebird_code: bratap1
 gbif_key: 2491011
-avibase_id: "31C66B1A020562CE"
-iucn_status: "EN"
+avibase_id: 31C66B1A020562CE
+iucn_status: EN
 taxon_order: 14396.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Scytalopus novacapitalis"
-  fa: "nan"
-  en: "Brasilia Tapaculo"
-
-# === TAXONOMY ===
+  scientific: Scytalopus novacapitalis
+  fa: nan
+  en: Brasilia Tapaculo
+  es: Churrín de Brasilia
+  fr: Mérulaxe de Brasilia
+  de: Brasiliatapaculo
+  pt: tapaculo-de-brasília
+  ru: Бразильский тапакуло
+  ja: ブラジリアオタテドリ
+  nl: Brasiliatapaculo
+  pl: krytonosek brazylijski
+  tr: Brasilia Tapakolası
 taxonomy:
-  order: "Passeriformes"
-  family: "Rhinocryptidae"
-  genus: "Scytalopus"
-  species: "novacapitalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Rhinocryptidae
+  genus: Scytalopus
+  species: novacapitalis
 morphology:
   body_mass_g: 18.075
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 800
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,36 +89,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Scytalopus novacapitalis (nan)
 

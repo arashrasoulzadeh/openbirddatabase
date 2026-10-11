@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00829"
-ebird_code: "rosgoo"
+taxon_id: BN00829
+ebird_code: rosgoo
 gbif_key: 2498161
-avibase_id: "7A24F57F87F66E97"
-iucn_status: "LC"
+avibase_id: 7A24F57F87F66E97
+iucn_status: LC
 taxon_order: 272.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anser rossii"
-  fa: "غاز راس"
-  en: "Ross's Goose"
-
-# === TAXONOMY ===
+  scientific: Anser rossii
+  fa: غاز راس
+  en: Ross's Goose
+  es: Ánsar de Ross
+  fr: Oie de Ross
+  de: Zwergschneegans
+  pt: ganso-das-neves-pequeno
+  ru: Гусь Росса
+  ja: ヒメハクガン
+  zh: 細嘴雁
+  nl: Ross' gans
+  pl: śnieżyca mała
+  tr: Küçük Kar Kazı
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Anser"
-  species: "rossii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Anser
+  species: rossii
 morphology:
   body_mass_g: 1513.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2500
-  habitat_types: ["Shrubland", "Rocky", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Rocky
+  - Artificial
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 0.01
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 2
   clutch_size_max: 8
   incubation_days: 21
   fledging_days: 40
-  nest_type: "M"
-  nest_placement: "Ground"
+  nest_type: M
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anser rossii (غاز راس)
 

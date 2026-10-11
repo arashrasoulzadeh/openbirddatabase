@@ -1,47 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03113"
-ebird_code: "stosto1"
+taxon_id: BN03113
+ebird_code: stosto1
 gbif_key: 2481917
-avibase_id: "0C6D8B195D83534D"
-iucn_status: "EN"
+avibase_id: 0C6D8B195D83534D
+iucn_status: EN
 taxon_order: 7289.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ciconia stormi"
-  fa: "لکلک توفان"
-  en: "Storm's Stork"
-
-# === TAXONOMY ===
+  scientific: Ciconia stormi
+  fa: لکلک توفان
+  en: Storm's Stork
+  es: Cigüeña de Storm
+  fr: Cigogne de Storm
+  de: Höckerstorch
+  pt: storm's stork
+  ru: Малайский аист
+  ja: スンダエンビコウ
+  zh: 黃臉鸛
+  nl: Soendaooievaar
+  pl: bocian garbaty
+  tr: Storm Leyleği
 taxonomy:
-  order: "Ciconiiformes"
-  family: "Ciconiidae"
-  genus: "Ciconia"
-  species: "stormi"
-
-
-# === DISTRIBUTION ===
+  order: Ciconiiformes
+  family: Ciconiidae
+  genus: Ciconia
+  species: stormi
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 240
-  habitat_types: ["Forest", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
+  - Wetland
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -86,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   fledging_days: 45
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ciconia stormi (لکلک توفان)
 

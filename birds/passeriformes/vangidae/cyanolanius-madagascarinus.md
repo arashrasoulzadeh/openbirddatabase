@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04141"
-ebird_code: "bluvan3"
+taxon_id: BN04141
+ebird_code: bluvan3
 gbif_key: 2495111
-avibase_id: "DB5D67FDAD7D9E8C"
-iucn_status: "LC"
+avibase_id: DB5D67FDAD7D9E8C
+iucn_status: LC
 taxon_order: 19990.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyanolanius madagascarinus"
-  fa: "وانگای آبی رنگ"
-  en: "Madagascar Blue Vanga"
-
-# === TAXONOMY ===
+  scientific: Cyanolanius madagascarinus
+  fa: وانگای آبی رنگ
+  en: Madagascar Blue Vanga
+  es: Vanga Azul de Madagascar
+  fr: Artamie azurée
+  de: Blauvanga
+  pt: madagascar blue vanga
+  ru: Синяя расписная ванга
+  ja: ルリイロマダガスカルモズ
+  nl: Blauwe vanga
+  pl: wanga błękitna
+  tr: Madagaskar Mavi Vangası
 taxonomy:
-  order: "Passeriformes"
-  family: "Vangidae"
-  genus: "Cyanolanius"
-  species: "madagascarinus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Vangidae
+  genus: Cyanolanius
+  species: madagascarinus
 morphology:
   body_mass_g: 22.2
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1200
-  habitat_types: ["Forest", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyanolanius madagascarinus (وانگای آبی رنگ)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05065"
-ebird_code: "bkfbun2"
+taxon_id: BN05065
+ebird_code: bkfbun2
 gbif_key: 10777640
-avibase_id: "BB80BD82ADA73243"
-iucn_status: "LC"
+avibase_id: BB80BD82ADA73243
+iucn_status: LC
 taxon_order: 32838.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Emberiza personata"
-  fa: "nan"
-  en: "Masked Bunting"
-
-# === TAXONOMY ===
+  scientific: Emberiza personata
+  fa: nan
+  en: Masked Bunting
+  es: Escribano Enmascarado
+  fr: Bruant de Temminck
+  de: Strohammer
+  pt: masked bunting
+  ru: Маскированная овсянка
+  ja: アオジ
+  zh: 日本灰头鹀
+  nl: Japanse maskergors
+  pl: trznadel kreskowany
+  tr: Maskeli Çinte
 taxonomy:
-  order: "Passeriformes"
-  family: "Emberizidae"
-  genus: "Emberiza"
-  species: "personata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Emberizidae
+  genus: Emberiza
+  species: personata
 morphology:
   body_mass_g: 20.65
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 700
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Woodland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
   incubation_days: 13
   fledging_days: 9
-  nest_type: "CP"
-  nest_placement: "Ground, Shrub"
+  nest_type: CP
+  nest_placement: Ground, Shrub
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Emberiza personata (nan)
 

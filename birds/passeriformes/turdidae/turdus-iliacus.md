@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15428"
-ebird_code: "redwin"
+taxon_id: BN15428
+ebird_code: redwin
 gbif_key: 2490781
-avibase_id: "A8A85BCF1AFB7BBD"
-iucn_status: "NT"
+avibase_id: A8A85BCF1AFB7BBD
+iucn_status: NT
 taxon_order: 28497.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turdus iliacus"
-  fa: "توکای پهلوسرخ"
-  en: "Redwing"
-
-# === TAXONOMY ===
+  scientific: Turdus iliacus
+  fa: توکای پهلوسرخ
+  en: Redwing
+  es: Zorzal Alirrojo
+  fr: Grive mauvis
+  de: Rotdrossel
+  pt: sabiá-ruivo
+  ru: Белобровик
+  ja: ワキアカツグミ
+  zh: 白眉歌鸫
+  nl: Koperwiek
+  pl: droździk
+  tr: Kızıl Ardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Turdus"
-  species: "iliacus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Turdus
+  species: iliacus
 morphology:
   body_mass_g: 63.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Grassland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
   incubation_days: 10
   fledging_days: 12
-  nest_type: "CP"
-  nest_placement: "Ground, Shrub, Tree"
+  nest_type: CP
+  nest_placement: Ground, Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turdus iliacus (توکای پهلوسرخ)
 

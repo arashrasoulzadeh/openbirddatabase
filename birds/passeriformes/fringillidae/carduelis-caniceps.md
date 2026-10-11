@@ -1,49 +1,56 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02427"
-ebird_code: "eurgol2"
+taxon_id: BN02427
+ebird_code: eurgol2
 gbif_key: 10823562
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 32563.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Carduelis caniceps"
-  fa: "سهره طلایی تاج‌خاکستری"
-  en: "Grey-crowned Goldfinch"
-
-# === TAXONOMY ===
+  scientific: Carduelis caniceps
+  fa: سهره طلایی تاج‌خاکستری
+  en: Grey-crowned Goldfinch
+  es: Jilguero Oriental
+  fr: Chardonneret de l'Himalaya
+  de: Graukopfstieglitz
+  pt: gray-crowned goldfinch
+  ru: Седоголовый щегол
+  ja: ハイガシラゴシキヒワ
+  zh: 红额金翅雀
+  nl: Grijskopputter
+  pl: szczygieł szarogłowy
+  tr: Boz Saka
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Carduelis"
-  species: "caniceps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Carduelis
+  species: caniceps
 morphology:
   body_mass_g: 18.766666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["PI"]
+  biogeographic_realms:
+  - PI
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 8
   elevational_min_m: 1500
   elevational_max_m: 4250
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Grassland", "Plains", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Grassland
+  - Plains
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -88,41 +95,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 13
   fledging_days: 13
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +128,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +136,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Carduelis caniceps (سهره طلایی تاج‌خاکستری)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16125"
-ebird_code: "brrwhe3"
+taxon_id: BN16125
+ebird_code: brrwhe3
 gbif_key: 5846029
-avibase_id: "6483A467141BC6F4"
-iucn_status: "LC"
+avibase_id: 6483A467141BC6F4
+iucn_status: LC
 taxon_order: 25682.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zosterops kikuyuensis"
-  fa: "nan"
-  en: "Kikuyu White-eye"
-
-# === TAXONOMY ===
+  scientific: Zosterops kikuyuensis
+  fa: nan
+  en: Kikuyu White-eye
+  es: Anteojitos Serrano Kikuyu
+  fr: Zostérops du Kikuyu
+  de: Kikuyubrillenvogel
+  pt: kikuyu white-eye
+  ru: Кикуйская белоглазка
+  ja: キクユメジロ
+  zh: 基庫尤繡眼
+  nl: Kikuyubrilvogel
+  pl: szlarnik żółtolicy
+  tr: Kikuyu Gözlükçüsü
 taxonomy:
-  order: "Passeriformes"
-  family: "Zosteropidae"
-  genus: "Zosterops"
-  species: "kikuyuensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Zosteropidae
+  genus: Zosterops
+  species: kikuyuensis
 morphology:
   body_mass_g: 10.833333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1500
   elevational_max_m: 3400
-  habitat_types: ["Forest", "Bamboo", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 11
   fledging_days: 15
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zosterops kikuyuensis (nan)
 

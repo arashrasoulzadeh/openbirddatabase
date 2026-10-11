@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10881"
-ebird_code: "minhor2"
+taxon_id: BN10881
+ebird_code: minhor2
 gbif_key: 2476019
-avibase_id: "nan"
-iucn_status: "EN"
+avibase_id: nan
+iucn_status: EN
 taxon_order: 9760.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Penelopides mindorensis"
-  fa: "نوکشاخ میندورو"
-  en: "Mindoro Hornbill"
-
-# === TAXONOMY ===
+  scientific: Penelopides mindorensis
+  fa: نوکشاخ میندورو
+  en: Mindoro Hornbill
+  es: Cálao Chico de Mindoro
+  fr: Calao de Mindoro
+  de: Mindorohornvogel
+  pt: mindoro hornbill
+  ru: Миндорский калао
+  ja: ミンドロカオグロサイチョウ
+  nl: Mindoroneushoornvogel
+  pl: dzioborożec mindorski
+  tr: Mindoro Boynuzgagası
 taxonomy:
-  order: "Bucerotiformes"
-  family: "Bucerotidae"
-  genus: "Penelopides"
-  species: "mindorensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Bucerotiformes
+  family: Bucerotidae
+  genus: Penelopides
+  species: mindorensis
 morphology:
   body_mass_g: 462.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,34 +87,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Penelopides mindorensis (نوکشاخ میندورو)
 

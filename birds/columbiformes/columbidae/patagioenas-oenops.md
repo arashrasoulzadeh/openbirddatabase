@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10758"
-ebird_code: "perpig2"
+taxon_id: BN10758
+ebird_code: perpig2
 gbif_key: 2495312
-avibase_id: "2328CDB8DA7F1867"
-iucn_status: "NT"
+avibase_id: 2328CDB8DA7F1867
+iucn_status: NT
 taxon_order: 1979.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Patagioenas oenops"
-  fa: "کبوتر سالوین"
-  en: "Maranon Pigeon"
-
-# === TAXONOMY ===
+  scientific: Patagioenas oenops
+  fa: کبوتر سالوین
+  en: Maranon Pigeon
+  es: Paloma Peruana
+  fr: Pigeon du Pérou
+  de: Pfeffertaube
+  pt: peruvian pigeon
+  ru: Мараньонский голубь
+  ja: ペルーバト
+  zh: Maranon Pigeon
+  nl: Salvinduif
+  pl: gołąbczak peruwiański
+  tr: Peru Kızılca Güvercini
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Patagioenas"
-  species: "oenops"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Patagioenas
+  species: oenops
 morphology:
   body_mass_g: 265.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 850
   elevational_max_m: 2400
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Patagioenas oenops (کبوتر سالوین)
 

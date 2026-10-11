@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15179"
-ebird_code: "blytra1"
+taxon_id: BN15179
+ebird_code: blytra1
 gbif_key: 2473540
-avibase_id: "528CC7C2E85AD4C0"
-iucn_status: "VU"
+avibase_id: 528CC7C2E85AD4C0
+iucn_status: VU
 taxon_order: 1248.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tragopan blythii"
-  fa: "قرقاول شاخدار بلایث"
-  en: "Blyth's Tragopan"
-
-# === TAXONOMY ===
+  scientific: Tragopan blythii
+  fa: قرقاول شاخدار بلایث
+  en: Blyth's Tragopan
+  es: Tragopán de Blyth
+  fr: Tragopan de Blyth
+  de: Blythtragopan
+  pt: blyth's tragopan
+  ru: Серобрюхий трагопан
+  ja: ミヤマジュケイ
+  zh: 灰腹角雉
+  nl: Blythsaterhoen
+  pl: tragopan żółtolicy
+  tr: Sarı Yüzlü Tragopan
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Tragopan"
-  species: "blythii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Tragopan
+  species: blythii
 morphology:
   body_mass_g: 1476.6666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1800
   elevational_max_m: 2400
-  habitat_types: ["Forest", "Bamboo", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 0.01
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 2
   clutch_size_max: 6
   incubation_days: 28
-  nest_placement: "Building, Shrub, Tree"
+  nest_placement: Building, Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tragopan blythii (قرقاول شاخدار بلایث)
 

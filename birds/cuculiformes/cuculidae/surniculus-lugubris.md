@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14436"
-ebird_code: "asidrc3"
+taxon_id: BN14436
+ebird_code: asidrc3
 gbif_key: 2496506
-avibase_id: "E3138E023C5D2DF0"
-iucn_status: "LC"
+avibase_id: E3138E023C5D2DF0
+iucn_status: LC
 taxon_order: 3409.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Surniculus lugubris"
-  fa: "کوکو-بوچانگای دمچارگوش"
-  en: "Square-tailed Drongo-Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Surniculus lugubris
+  fa: کوکو-بوچانگای دمچارگوش
+  en: Square-tailed Drongo-Cuckoo
+  es: Cuclillo Drongo Colitruncado
+  fr: Coucou surnicou
+  de: Geradschwanz-Drongokuckuck
+  pt: square-tailed drongo-cuckoo
+  ru: Дронговая кукушка
+  ja: オウチュウカッコウ
+  zh: 乌鹃
+  nl: Rechtstaartdrongokoekoek
+  pl: kukielczyk
+  tr: Asya Drongo Guguğu
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Surniculus"
-  species: "lugubris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Surniculus
+  species: lugubris
 morphology:
   body_mass_g: 31.65
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IW"]
+  biogeographic_realms:
+  - IW
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2100
-  habitat_types: ["Forest", "Bamboo", "Shrubland", "Artificial", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,34 +93,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Surniculus lugubris (کوکو-بوچانگای دمچارگوش)
 

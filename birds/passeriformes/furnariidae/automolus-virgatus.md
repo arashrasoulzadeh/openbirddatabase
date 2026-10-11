@@ -1,49 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01535"
-ebird_code: "strwoo5"
+taxon_id: BN01535
+ebird_code: strwoo5
 gbif_key: 9174663
-avibase_id: "BD6ADDF58DB3B970"
-iucn_status: "LC"
+avibase_id: BD6ADDF58DB3B970
+iucn_status: LC
 taxon_order: 15265.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Automolus virgatus"
-  fa: "جنگلنشین غربی"
-  en: "Western Woodhaunter"
-
-# === TAXONOMY ===
+  scientific: Automolus virgatus
+  fa: جنگلنشین غربی
+  en: Western Woodhaunter
+  es: Ticotico Listado Occidental
+  fr: Anabate de Lawrence
+  de: Olivbauch-Baumspäher
+  pt: western woodhaunter
+  ru: Андская лесовка
+  nl: Westelijke bosbladspeurder
+  pl: liściak kreskowany
+  tr: Batılı Çizgili Yaprakkarıştıranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Automolus"
-  species: "virgatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Automolus
+  species: virgatus
 morphology:
   body_mass_g: 33.849999999999994
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +86,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Automolus virgatus (جنگلنشین غربی)
 

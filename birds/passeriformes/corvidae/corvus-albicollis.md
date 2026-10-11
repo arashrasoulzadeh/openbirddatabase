@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03719"
-ebird_code: "whnrav1"
+taxon_id: BN03719
+ebird_code: whnrav1
 gbif_key: 2482478
-avibase_id: "EA326EA211784390"
-iucn_status: "LC"
+avibase_id: EA326EA211784390
+iucn_status: LC
 taxon_order: 21622.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Corvus albicollis"
-  fa: "غراب گردنسفید"
-  en: "White-necked Raven"
-
-# === TAXONOMY ===
+  scientific: Corvus albicollis
+  fa: غراب گردنسفید
+  en: White-necked Raven
+  es: Cuervo Cuelliblanco
+  fr: Corbeau à nuque blanche
+  de: Geierrabe
+  pt: white-necked raven
+  ru: Белошейный ворон
+  ja: シロエリオオハシガラス
+  zh: 非洲渡鴉
+  nl: Witnekraaf
+  pl: kruk wielkodzioby
+  tr: Ak Enseli Karga
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Corvus"
-  species: "albicollis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Corvus
+  species: albicollis
 morphology:
   body_mass_g: 962.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1000
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Grassland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Grassland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 5
   categories:
     invertebrates: 3.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 2
   clutch_size_max: 7
   incubation_days: 19
   fledging_days: 21
-  nest_type: "CP"
-  nest_placement: "Ground, Rock"
+  nest_type: CP
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Corvus albicollis (غراب گردنسفید)
 

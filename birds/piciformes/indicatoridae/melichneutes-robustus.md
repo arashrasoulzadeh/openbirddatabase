@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08655"
-ebird_code: "lython1"
+taxon_id: BN08655
+ebird_code: lython1
 gbif_key: 2478611
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 11000.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melichneutes robustus"
-  fa: "عسلیاب دمچنگ"
-  en: "Lyre-tailed Honeyguide"
-
-# === TAXONOMY ===
+  scientific: Melichneutes robustus
+  fa: عسلیاب دمچنگ
+  en: Lyre-tailed Honeyguide
+  es: Indicador Lira
+  fr: Indicateur à queue en lyre
+  de: Leierschwanz-Honiganzeiger
+  pt: lyre-tailed honeyguide
+  ru: Лирохвостый медоуказчик
+  ja: タテゴトミツオシエ
+  nl: Lierstaarthoningspeurder
+  pl: miodowód lirosterny
+  tr: Lir Kuyruklu Balkılavuzu
 taxonomy:
-  order: "Piciformes"
-  family: "Indicatoridae"
-  genus: "Melichneutes"
-  species: "robustus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Indicatoridae
+  genus: Melichneutes
+  species: robustus
 morphology:
   body_mass_g: 54.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Beeswax"
+  primary: Beeswax
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Lekking"
-  flock_size_typical: ""
+  sociality: Lekking
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melichneutes robustus (عسلیاب دمچنگ)
 

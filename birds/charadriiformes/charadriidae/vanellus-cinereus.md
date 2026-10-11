@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15666"
-ebird_code: "gyhlap1"
+taxon_id: BN15666
+ebird_code: gyhlap1
 gbif_key: 5229145
-avibase_id: "8F8F0CF04F2CB9F8"
-iucn_status: "LC"
+avibase_id: 8F8F0CF04F2CB9F8
+iucn_status: LC
 taxon_order: 5882.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vanellus cinereus"
-  fa: "خروس‌کلی سرخاکستری"
-  en: "Grey-headed Lapwing"
-
-# === TAXONOMY ===
+  scientific: Vanellus cinereus
+  fa: خروس‌کلی سرخاکستری
+  en: Grey-headed Lapwing
+  es: Avefría Ceniza
+  fr: Vanneau à tête grise
+  de: Graukopfkiebitz
+  pt: gray-headed lapwing
+  ru: Серый чибис
+  ja: ケリ
+  zh: 灰头麦鸡
+  nl: Grijskopkievit
+  pl: czajka szarogłowa
+  tr: Gri Başlı Kızkuşu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Charadriidae"
-  genus: "Vanellus"
-  species: "cinereus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Charadriidae
+  genus: Vanellus
+  species: cinereus
 morphology:
   body_mass_g: 259.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1300
-  habitat_types: ["Grassland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   incubation_days: 28
-  nest_type: "Scrape"
+  nest_type: Scrape
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vanellus cinereus (خروس‌کلی سرخاکستری)
 

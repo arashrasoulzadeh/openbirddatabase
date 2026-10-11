@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14959"
-ebird_code: "bubtan1"
+taxon_id: BN14959
+ebird_code: bubtan1
 gbif_key: 2488691
-avibase_id: "CC33C7BB3DEA8A72"
-iucn_status: "LC"
+avibase_id: CC33C7BB3DEA8A72
+iucn_status: LC
 taxon_order: 34700.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thlypopsis inornata"
-  fa: "فرخنده شکمنخودی"
-  en: "Buff-bellied Tanager"
-
-# === TAXONOMY ===
+  scientific: Thlypopsis inornata
+  fa: فرخنده شکمنخودی
+  en: Buff-bellied Tanager
+  es: Tangara Sencilla
+  fr: Tangara à ventre roux
+  de: Braunbauchtangare
+  pt: buff-bellied tanager
+  ru: Буробрюхая пипира
+  ja: キバラフウキンチョウ
+  nl: Taanbuiktangare
+  pl: kapturzyk Taczanowskiego
+  tr: Soluk Göğüslü Tangara
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Thlypopsis"
-  species: "inornata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Thlypopsis
+  species: inornata
 morphology:
   body_mass_g: 15.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 450
   elevational_max_m: 2000
-  habitat_types: ["Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thlypopsis inornata (فرخنده شکمنخودی)
 

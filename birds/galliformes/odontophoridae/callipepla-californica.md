@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02186"
-ebird_code: "calqua"
+taxon_id: BN02186
+ebird_code: calqua
 gbif_key: 5228080
-avibase_id: "F93AC929F265F3EF"
-iucn_status: "LC"
+avibase_id: F93AC929F265F3EF
+iucn_status: LC
 taxon_order: 1094.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Callipepla californica"
-  fa: "بلدرچین کالیفرنیایی"
-  en: "California Quail"
-
-# === TAXONOMY ===
+  scientific: Callipepla californica
+  fa: بلدرچین کالیفرنیایی
+  en: California Quail
+  es: Colín de California
+  fr: Colin de Californie
+  de: Schopfwachtel
+  pt: codorniz-da-califórnia
+  ru: Калифорнийский перепел
+  ja: カンムリウズラ
+  zh: 珠頸翎鶉
+  nl: Californische kuifkwartel
+  pl: przepiór kalifornijski
+  tr: Kaliforniya Kolini
 taxonomy:
-  order: "Galliformes"
-  family: "Odontophoridae"
-  genus: "Callipepla"
-  species: "californica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Odontophoridae
+  genus: Callipepla
+  species: californica
 morphology:
   body_mass_g: 176.05000000000004
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2590
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Desert
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 13.5
   clutch_size_min: 1
   clutch_size_max: 26
   incubation_days: 22
   fledging_days: 10
-  nest_type: "Scrape"
-  nest_placement: "Ground, Rock"
+  nest_type: Scrape
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Callipepla californica (بلدرچین کالیفرنیایی)
 

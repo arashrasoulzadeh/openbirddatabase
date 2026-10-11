@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03997"
-ebird_code: "pluhaw"
+taxon_id: BN03997
+ebird_code: pluhaw
 gbif_key: 7506330
-avibase_id: "A6775D0C69D1C00B"
-iucn_status: "NT"
+avibase_id: A6775D0C69D1C00B
+iucn_status: NT
 taxon_order: 8409.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cryptoleucopteryx plumbea"
-  fa: "قوش سربی"
-  en: "Plumbeous Hawk"
-
-# === TAXONOMY ===
+  scientific: Cryptoleucopteryx plumbea
+  fa: قوش سربی
+  en: Plumbeous Hawk
+  es: Busardo Plomizo
+  fr: Buse plombée
+  de: Bleibussard
+  pt: plumbeous hawk
+  ru: Свинцовый крабоед
+  ja: ヒメアオノスリ
+  nl: Donkergrijze buizerd
+  pl: szarostrząb
+  tr: Kurşuni Atmaca
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Cryptoleucopteryx"
-  species: "plumbea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Cryptoleucopteryx
+  species: plumbea
 morphology:
   body_mass_g: 482.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 200
   elevational_max_m: 800
-  habitat_types: ["Forest", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Wetland
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 3
   categories:
     invertebrates: 3.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cryptoleucopteryx plumbea (قوش سربی)
 

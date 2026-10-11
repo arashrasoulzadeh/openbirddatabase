@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09096"
-ebird_code: "carthr1"
+taxon_id: BN09096
+ebird_code: carthr1
 gbif_key: 5231002
-avibase_id: "22E11A7D0F545386"
-iucn_status: "LC"
+avibase_id: 22E11A7D0F545386
+iucn_status: LC
 taxon_order: 29663.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Monticola rupestris"
-  fa: "nan"
-  en: "Cape Rock Thrush"
-
-# === TAXONOMY ===
+  scientific: Monticola rupestris
+  fa: nan
+  en: Cape Rock Thrush
+  es: Roquero de El Cabo
+  fr: Monticole rocar
+  de: Klippenrötel
+  pt: cape rock-thrush
+  ru: Южноафриканский каменный дрозд
+  ja: ルリガシライソヒヨ
+  zh: Cape Rock Thrush
+  nl: Kaapse rotslijster
+  pl: nagórnik brązowoskrzydły
+  tr: Kap Taşkızılı
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Monticola"
-  species: "rupestris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Monticola
+  species: rupestris
 morphology:
   body_mass_g: 57.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2500
-  habitat_types: ["Shrubland", "Grassland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 14
   fledging_days: 16
-  nest_type: "PL,CR"
-  nest_placement: "Building, Rock, Shrub"
+  nest_type: PL,CR
+  nest_placement: Building, Rock, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Monticola rupestris (nan)
 

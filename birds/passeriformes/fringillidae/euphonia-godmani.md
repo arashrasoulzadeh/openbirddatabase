@@ -1,49 +1,46 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05420"
-ebird_code: "screup3"
+taxon_id: BN05420
+ebird_code: screup3
 gbif_key: 10684661
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 32013.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Euphonia godmani"
-  fa: "nan"
-  en: "West Mexican Euphonia"
-
-# === TAXONOMY ===
+  scientific: Euphonia godmani
+  fa: nan
+  en: West Mexican Euphonia
+  es: Eufonia Mexicana
+  fr: Organiste de Godman
+  de: Weißsteißorganist
+  pt: west mexican euphonia
+  nl: West-Mexicaanse organist
+  pl: organka żółtoczelna
+  tr: Batı Meksika Öfonyası
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Euphonia"
-  species: "godmani"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Euphonia
+  species: godmani
 morphology:
   body_mass_g: 11.399999999999999
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,35 +85,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Euphonia godmani (nan)
 

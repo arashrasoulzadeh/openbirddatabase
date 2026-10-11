@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09301"
-ebird_code: "orcfly1"
+taxon_id: BN09301
+ebird_code: orcfly1
 gbif_key: 5229797
-avibase_id: "F9FB9FEE034D312B"
-iucn_status: "LC"
+avibase_id: F9FB9FEE034D312B
+iucn_status: LC
 taxon_order: 16850.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiophobus phoenicomitra"
-  fa: "مگسگیر کاکلنارنجی"
-  en: "Orange-crested Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Myiophobus phoenicomitra
+  fa: مگسگیر کاکلنارنجی
+  en: Orange-crested Flycatcher
+  es: Mosquero Crestinaranja
+  fr: Moucherolle à cimier orange
+  de: Olivrücken-Schnäppertyrann
+  pt: orange-crested flycatcher
+  ru: Оливковая курэта
+  ja: アカイタダキフタスジハエトリ
+  nl: Oranjekuiftiran
+  pl: tyranka stokowa
+  tr: Turuncu Taçlı Sinek Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiophobus"
-  species: "phoenicomitra"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiophobus
+  species: phoenicomitra
 morphology:
   body_mass_g: 10.700000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 500
   elevational_max_m: 1550
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiophobus phoenicomitra (مگسگیر کاکلنارنجی)
 

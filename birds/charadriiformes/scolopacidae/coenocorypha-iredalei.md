@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03428"
-ebird_code: "soisni1"
+taxon_id: BN03428
+ebird_code: soisni1
 gbif_key: 4849784
-avibase_id: "8DE52990C767F58A"
-iucn_status: "EX"
+avibase_id: 8DE52990C767F58A
+iucn_status: EX
 taxon_order: 6076.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Coenocorypha iredalei"
-  fa: "پاشلک جزیره جنوبی"
-  en: "South Island Snipe"
-
-# === TAXONOMY ===
+  scientific: Coenocorypha iredalei
+  fa: پاشلک جزیره جنوبی
+  en: South Island Snipe
+  es: Chochita de Isla Stewart
+  fr: Bécassine d'Iredale
+  de: Stewartschnepfe
+  pt: south island snipe
+  ru: Новозеландский хакавай
+  ja: ナントウムジシギ
+  zh: 南岛沙锥
+  nl: Zuidereilandsnip
+  pl: bekas rdzawy
+  tr: Güney Adası Çulluğu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Scolopacidae"
-  genus: "Coenocorypha"
-  species: "iredalei"
-
-
-# === DISTRIBUTION ===
+  order: Charadriiformes
+  family: Scolopacidae
+  genus: Coenocorypha
+  species: iredalei
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["Z"]
+  biogeographic_realms:
+  - Z
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,34 +86,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EX"
-  cites_appendix: "Not listed"
+  iucn_status: EX
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -121,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -131,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Coenocorypha iredalei (پاشلک جزیره جنوبی)
 

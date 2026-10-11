@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08559"
-ebird_code: "guawoo1"
+taxon_id: BN08559
+ebird_code: guawoo1
 gbif_key: 2478097
-avibase_id: "21DB707D6E07C24D"
-iucn_status: "LC"
+avibase_id: 21DB707D6E07C24D
+iucn_status: LC
 taxon_order: 11143.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melanerpes herminieri"
-  fa: "دارکوب گوادلوپ"
-  en: "Guadeloupe Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Melanerpes herminieri
+  fa: دارکوب گوادلوپ
+  en: Guadeloupe Woodpecker
+  es: Carpintero de Isla Guadalupe
+  fr: Pic de Guadeloupe
+  de: Guadeloupespecht
+  pt: guadeloupe woodpecker
+  ru: Гваделупский дятел
+  ja: グアドループキツツキ
+  nl: Guadeloupespecht
+  pl: dzięciur ciemny
+  tr: Guadelup Ağaçkakanı
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Melanerpes"
-  species: "herminieri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Picidae
+  genus: Melanerpes
+  species: herminieri
 morphology:
   body_mass_g: 86.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 100
   elevational_max_m: 700
-  habitat_types: ["Forest", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 1
   clutch_size_max: 5
   incubation_days: 14
   fledging_days: 33
-  nest_type: "CV"
-  nest_placement: "P, Tree"
+  nest_type: CV
+  nest_placement: P, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melanerpes herminieri (دارکوب گوادلوپ)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01456"
-ebird_code: "bksbrf1"
+taxon_id: BN01456
+ebird_code: bksbrf1
 gbif_key: 2491440
-avibase_id: "43F4F789E65BB15D"
-iucn_status: "NT"
+avibase_id: 43F4F789E65BB15D
+iucn_status: NT
 taxon_order: 33509.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Atlapetes melanopsis"
-  fa: "سهرهفرچهای عینکسیاه"
-  en: "Black-spectacled Brushfinch"
-
-# === TAXONOMY ===
+  scientific: Atlapetes melanopsis
+  fa: سهرهفرچهای عینکسیاه
+  en: Black-spectacled Brushfinch
+  es: Atlapetes de Anteojos
+  fr: Tohi à face noire
+  de: Schwarzbrillen-Buschammer
+  pt: black-spectacled brushfinch
+  ru: Чернолицая атлапета
+  ja: メンガタヤブシトド
+  nl: Zwartbrilstruikgors
+  pl: zaroślak inkaski
+  tr: Kara Gözlüklü Çalı Serçesi
 taxonomy:
-  order: "Passeriformes"
-  family: "Passerellidae"
-  genus: "Atlapetes"
-  species: "melanopsis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Passerellidae
+  genus: Atlapetes
+  species: melanopsis
 morphology:
   body_mass_g: 29.6
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2500
   elevational_max_m: 3400
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Atlapetes melanopsis (سهرهفرچهای عینکسیاه)
 

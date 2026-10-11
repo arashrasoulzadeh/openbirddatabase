@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11863"
-ebird_code: "lotfin1"
+taxon_id: BN11863
+ebird_code: lotfin1
 gbif_key: 5231425
-avibase_id: "1C1BB52BA8B273D5"
-iucn_status: "LC"
+avibase_id: 1C1BB52BA8B273D5
+iucn_status: LC
 taxon_order: 31043.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Poephila acuticauda"
-  fa: "سهره دمدراز"
-  en: "Long-tailed Finch"
-
-# === TAXONOMY ===
+  scientific: Poephila acuticauda
+  fa: سهره دمدراز
+  en: Long-tailed Finch
+  es: Diamante Colilargo
+  fr: Diamant à longue queue
+  de: Spitzschwanzamadine
+  pt: long-tailed finch
+  ru: Острохвостая амадина
+  ja: オナガキンセイチョウ
+  zh: 长尾草雀
+  nl: Spitsstaartamadine
+  pl: amadynka długosterna
+  tr: Uzun Kuyruklu Çim İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Poephila"
-  species: "acuticauda"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Poephila
+  species: acuticauda
 morphology:
   body_mass_g: 14.05
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Woodland", "Savanna", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Savanna
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
   incubation_days: 13
   fledging_days: 21
-  nest_type: "SP"
-  nest_placement: "Tree, Shrub, Cliff/Crevice"
+  nest_type: SP
+  nest_placement: Tree, Shrub, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Poephila acuticauda (سهره دمدراز)
 

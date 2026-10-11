@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06589"
-ebird_code: "orcman3"
+taxon_id: BN06589
+ebird_code: orcman3
 gbif_key: 5230538
-avibase_id: "9A003ACA2A56C369"
-iucn_status: "LC"
+avibase_id: 9A003ACA2A56C369
+iucn_status: LC
 taxon_order: 15760.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Heterocercus aurantiivertex"
-  fa: "رنگینک کاکلنارنجی"
-  en: "Orange-crested Manakin"
-
-# === TAXONOMY ===
+  scientific: Heterocercus aurantiivertex
+  fa: رنگینک کاکلنارنجی
+  en: Orange-crested Manakin
+  es: Saltarín Crestinaranja
+  fr: Manakin à bandeau orange
+  de: Orangescheitelpipra
+  pt: dançarino-de-crista-laranja
+  ru: Оранжевошапочный манакин
+  ja: マルオマイコドリ
+  zh: Orange-crested Manakin
+  nl: Oranjekruinmanakin
+  pl: manakin andyjski
+  tr: Turuncu Taçlı Manakin
 taxonomy:
-  order: "Passeriformes"
-  family: "Pipridae"
-  genus: "Heterocercus"
-  species: "aurantiivertex"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pipridae
+  genus: Heterocercus
+  species: aurantiivertex
 morphology:
   body_mass_g: 21.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Heterocercus aurantiivertex (رنگینک کاکلنارنجی)
 

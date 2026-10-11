@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13602"
-ebird_code: "silpri2"
+taxon_id: BN13602
+ebird_code: silpri2
 gbif_key: 5846089
-avibase_id: "45411DD0AD2F9354"
-iucn_status: "EN"
+avibase_id: 45411DD0AD2F9354
+iucn_status: EN
 taxon_order: 22974.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Schistolais leontica"
-  fa: "پریسسک سیرالئونی"
-  en: "Sierra Leone Prinia"
-
-# === TAXONOMY ===
+  scientific: Schistolais leontica
+  fa: پریسسک سیرالئونی
+  en: Sierra Leone Prinia
+  es: Prinia de Sierra Leona
+  fr: Apalis du Sierra Leone
+  de: Hochland-Feinsänger
+  pt: sierra leone prinia
+  ru: Белоглазая приния
+  ja: シェラレオネハウチワドリ
+  nl: Witoogprinia
+  pl: ciemnogłowik czarnobrody
+  tr: Sierra Leone Prinyası
 taxonomy:
-  order: "Passeriformes"
-  family: "Cisticolidae"
-  genus: "Schistolais"
-  species: "leontica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cisticolidae
+  genus: Schistolais
+  species: leontica
 morphology:
   body_mass_g: 12.950000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1000
   elevational_max_m: 1600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Schistolais leontica (پریسسک سیرالئونی)
 

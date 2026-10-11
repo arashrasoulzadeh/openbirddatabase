@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01251"
-ebird_code: "easmog6"
+taxon_id: BN01251
+ebird_code: easmog6
 gbif_key: 6100809
-avibase_id: "8EDD570A1B38983F"
-iucn_status: "LC"
+avibase_id: 8EDD570A1B38983F
+iucn_status: LC
 taxon_order: 24363.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Arizelocichla neumanni"
-  fa: "nan"
-  en: "Uluguru Mountain Greenbul"
-
-# === TAXONOMY ===
+  scientific: Arizelocichla neumanni
+  fa: nan
+  en: Uluguru Mountain Greenbul
+  es: Bulbul de Los Uluguru
+  fr: Bulbul des Uluguru
+  de: Ulugurubülbül
+  pt: uluguru mountain greenbul
+  ru: Улугурский бюльбюль
+  ja: ウルグルアオノドヒヨ
+  nl: Ulugurubuulbuul
+  pl: górobilbil tanzański
+  tr: Uluguru Yaprakbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Arizelocichla"
-  species: "neumanni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Arizelocichla
+  species: neumanni
 morphology:
   body_mass_g: 37.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1050
   elevational_max_m: 2600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Arizelocichla neumanni (nan)
 

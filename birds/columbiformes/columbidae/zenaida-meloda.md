@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16004"
-ebird_code: "wepdov1"
+taxon_id: BN16004
+ebird_code: wepdov1
 gbif_key: 2495375
-avibase_id: "542D7AFAE7F7ADBF"
-iucn_status: "LC"
+avibase_id: 542D7AFAE7F7ADBF
+iucn_status: LC
 taxon_order: 2388.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zenaida meloda"
-  fa: "قمری غرب پرو"
-  en: "West Peruvian Dove"
-
-# === TAXONOMY ===
+  scientific: Zenaida meloda
+  fa: قمری غرب پرو
+  en: West Peruvian Dove
+  es: Zenaida Peruana
+  fr: Tourterelle côtière
+  de: Perutaube
+  pt: west peruvian dove
+  ru: Перуанская горлица
+  ja: ミナミハジロバト
+  nl: Peruaanse treurduif
+  pl: gołębiak szarosterny
+  tr: Peru Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Zenaida"
-  species: "meloda"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Zenaida
+  species: meloda
 morphology:
   body_mass_g: 209.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Savanna", "Plains", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Savanna
+  - Plains
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 13
   fledging_days: 11
-  nest_type: "HC"
-  nest_placement: "Tree"
+  nest_type: HC
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zenaida meloda (قمری غرب پرو)
 

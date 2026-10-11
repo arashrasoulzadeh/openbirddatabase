@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07508"
-ebird_code: "brnshr"
+taxon_id: BN07508
+ebird_code: brnshr
 gbif_key: 2492846
-avibase_id: "E4968582E577D9D1"
-iucn_status: "LC"
+avibase_id: E4968582E577D9D1
+iucn_status: LC
 taxon_order: 21054.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lanius cristatus"
-  fa: "سنگ‌چشم قهوه‌ای"
-  en: "Brown Shrike"
-
-# === TAXONOMY ===
+  scientific: Lanius cristatus
+  fa: سنگ‌چشم قهوه‌ای
+  en: Brown Shrike
+  es: Alcaudón Pardo
+  fr: Pie-grièche brune
+  de: Braunwürger
+  pt: picanço-castanho
+  ru: Сибирский жулан
+  ja: アカモズ
+  zh: 红尾伯劳
+  nl: Bruine klauwier
+  pl: dzierzba brązowa
+  tr: Kahverengi Örümcekkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Laniidae"
-  genus: "Lanius"
-  species: "cristatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Laniidae
+  genus: Lanius
+  species: cristatus
 morphology:
   body_mass_g: 32.166666666666664
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.5
   clutch_size_min: 3
   clutch_size_max: 8
   incubation_days: 12
   fledging_days: 13
-  nest_type: "CP"
-  nest_placement: "Ground, Shrub, Tree"
+  nest_type: CP
+  nest_placement: Ground, Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lanius cristatus (سنگ‌چشم قهوه‌ای)
 

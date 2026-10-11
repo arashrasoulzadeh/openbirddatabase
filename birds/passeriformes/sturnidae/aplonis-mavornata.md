@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01056"
-ebird_code: "myssta1"
+taxon_id: BN01056
+ebird_code: myssta1
 gbif_key: 2489026
-avibase_id: "nan"
-iucn_status: "EX"
+avibase_id: nan
+iucn_status: EX
 taxon_order: 27774.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aplonis mavornata"
-  fa: "nan"
-  en: "Mauke Starling"
-
-# === TAXONOMY ===
+  scientific: Aplonis mavornata
+  fa: nan
+  en: Mauke Starling
+  es: Estornino Misterioso
+  fr: Stourne mystérieux
+  de: Schlichtstar
+  pt: mysterious starling
+  ru: Маукский скворец
+  ja: ライアテカラスモドキ
+  zh: Mauke Starling
+  nl: Maukespreeuw
+  pl: skworczyk skromny
+  tr: Mauke Sığırcığı
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Aplonis"
-  species: "mavornata"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Aplonis
+  species: mavornata
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 3.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EX"
-  cites_appendix: "Not listed"
+  iucn_status: EX
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aplonis mavornata (nan)
 

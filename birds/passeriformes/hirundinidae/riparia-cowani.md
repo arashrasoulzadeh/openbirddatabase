@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13381"
-ebird_code: "plamar3"
+taxon_id: BN13381
+ebird_code: plamar3
 gbif_key: 8299120
-avibase_id: "D9F712D6B1632533"
-iucn_status: "LC"
+avibase_id: D9F712D6B1632533
+iucn_status: LC
 taxon_order: 24045.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Riparia cowani"
-  fa: "nan"
-  en: "Madagascar Martin"
-
-# === TAXONOMY ===
+  scientific: Riparia cowani
+  fa: nan
+  en: Madagascar Martin
+  es: Avión Paludícola Malgache
+  fr: Hirondelle de Madagascar
+  de: Madagaskaruferschwalbe
+  pt: andorinha-dos-charcos-de-madagáscar
+  nl: Madagaskaroeverzwaluw
+  pl: brzegówka madagaskarska
+  tr: Madagaskar Kum Kırlangıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Hirundinidae"
-  genus: "Riparia"
-  species: "cowani"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Hirundinidae
+  genus: Riparia
+  species: cowani
 morphology:
   body_mass_g: 9.6
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 500
   elevational_max_m: 2400
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Riparia cowani (nan)
 

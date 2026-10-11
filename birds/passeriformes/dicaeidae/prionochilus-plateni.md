@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12118"
-ebird_code: "palflo1"
+taxon_id: BN12118
+ebird_code: palflo1
 gbif_key: 5229959
-avibase_id: "AB5413A026B263BF"
-iucn_status: "LC"
+avibase_id: AB5413A026B263BF
+iucn_status: LC
 taxon_order: 29944.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prionochilus plateni"
-  fa: "گلکوب پالاوان"
-  en: "Palawan Flowerpecker"
-
-# === TAXONOMY ===
+  scientific: Prionochilus plateni
+  fa: گلکوب پالاوان
+  en: Palawan Flowerpecker
+  es: Picaflores de Palawan
+  fr: Dicée de Palawan
+  de: Palawanmistelfresser
+  pt: palawan flowerpecker
+  ru: Палаванский цветоед
+  ja: パラワンハナドリモドキ
+  zh: 巴拉望啄花鸟
+  nl: Palawanhoningvogel
+  pl: kraśniak zbroczony
+  tr: Palavan Öksekuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Dicaeidae"
-  genus: "Prionochilus"
-  species: "plateni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Dicaeidae
+  genus: Prionochilus
+  species: plateni
 morphology:
   body_mass_g: 8.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prionochilus plateni (گلکوب پالاوان)
 

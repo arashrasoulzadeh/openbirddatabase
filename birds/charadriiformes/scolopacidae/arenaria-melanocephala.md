@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01221"
-ebird_code: "blktur"
+taxon_id: BN01221
+ebird_code: blktur
 gbif_key: 5229406
-avibase_id: "0413ED30505338F9"
-iucn_status: "LC"
+avibase_id: 0413ED30505338F9
+iucn_status: LC
 taxon_order: 6164.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Arenaria melanocephala"
-  fa: "سنگ گردان"
-  en: "Black Turnstone"
-
-# === TAXONOMY ===
+  scientific: Arenaria melanocephala
+  fa: سنگ گردان
+  en: Black Turnstone
+  es: Vuelvepiedras Oscuro
+  fr: Tournepierre noir
+  de: Schwarzkopf-Steinwälzer
+  pt: black turnstone
+  ru: Чёрная камнешарка
+  ja: クロキョウジョシギ
+  zh: 黑翻石鷸
+  nl: Zwarte steenloper
+  pl: kamusznik czarnogłowy
+  tr: Kara Taşçeviren
 taxonomy:
-  order: "Charadriiformes"
-  family: "Scolopacidae"
-  genus: "Arenaria"
-  species: "melanocephala"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Scolopacidae
+  genus: Arenaria
+  species: melanocephala
 morphology:
   body_mass_g: 128.33333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Shrubland", "Grassland", "Rocky", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 7.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   incubation_days: 21
-  nest_type: "Scrape"
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_type: Scrape
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Arenaria melanocephala (سنگ گردان)
 

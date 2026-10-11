@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05883"
-ebird_code: "yebloo"
+taxon_id: BN05883
+ebird_code: yebloo
 gbif_key: 2481957
-avibase_id: "5349255DB4579713"
-iucn_status: "NT"
+avibase_id: 5349255DB4579713
+iucn_status: NT
 taxon_order: 6934.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gavia adamsii"
-  fa: "غواص منقارزرد"
-  en: "Yellow-billed Loon"
-
-# === TAXONOMY ===
+  scientific: Gavia adamsii
+  fa: غواص منقارزرد
+  en: Yellow-billed Loon
+  es: Colimbo de Adams
+  fr: Plongeon à bec blanc
+  de: Gelbschnabeltaucher
+  pt: mobelha-de-bico-amarelo
+  ru: Белоклювая гагара
+  ja: ハシジロアビ
+  zh: 黄嘴潜鸟
+  nl: Geelsnavelduiker
+  pl: nur białodzioby
+  tr: Sarı Gagalı Dalgıç
 taxonomy:
-  order: "Gaviiformes"
-  family: "Gaviidae"
-  genus: "Gavia"
-  species: "adamsii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gaviiformes
+  family: Gaviidae
+  genus: Gavia
+  species: adamsii
 morphology:
   body_mass_g: 5125.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 25
   fledging_days: 74
-  nest_type: "M"
-  nest_placement: "Ground"
+  nest_type: M
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gavia adamsii (غواص منقارزرد)
 

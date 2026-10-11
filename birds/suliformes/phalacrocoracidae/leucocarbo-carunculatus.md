@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07820"
-ebird_code: "rofsha1"
+taxon_id: BN07820
+ebird_code: rofsha1
 gbif_key: 4848924
-avibase_id: "nan"
-iucn_status: "VU"
+avibase_id: nan
+iucn_status: VU
 taxon_order: 7439.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Leucocarbo carunculatus"
-  fa: "باکلان شاه"
-  en: "New Zealand King Shag"
-
-# === TAXONOMY ===
+  scientific: Leucocarbo carunculatus
+  fa: باکلان شاه
+  en: New Zealand King Shag
+  es: Cormorán Carunculado
+  fr: Cormoran caronculé
+  de: Warzenscharbe
+  pt: new zealand king shag
+  ru: Королевский баклан
+  ja: ノドジロムナオビウ
+  nl: Wrattenaalscholver
+  pl: kormoran szorstkodzioby
+  tr: Cook Boğazı Karabatağı
 taxonomy:
-  order: "Suliformes"
-  family: "Phalacrocoracidae"
-  genus: "Leucocarbo"
-  species: "carunculatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Suliformes
+  family: Phalacrocoracidae
+  genus: Leucocarbo
+  species: carunculatus
 morphology:
   body_mass_g: 2577.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["Z"]
+  biogeographic_realms:
+  - Z
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 50
-  habitat_types: ["Rocky", "Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,37 +89,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
-  nest_placement: "Rock"
+  nest_placement: Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Leucocarbo carunculatus (باکلان شاه)
 

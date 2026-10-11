@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13427"
-ebird_code: "gcoroc1"
+taxon_id: BN13427
+ebird_code: gcoroc1
 gbif_key: 5230373
-avibase_id: "F792ED35383D3005"
-iucn_status: "LC"
+avibase_id: F792ED35383D3005
+iucn_status: LC
 taxon_order: 15899.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rupicola rupicola"
-  fa: "کاکلخروسی گینهای"
-  en: "Guianan Cock-of-the-rock"
-
-# === TAXONOMY ===
+  scientific: Rupicola rupicola
+  fa: کاکلخروسی گینهای
+  en: Guianan Cock-of-the-rock
+  es: Gallito de las Rocas Guayanés
+  fr: Coq-de-roche orange
+  de: Tiefland-Felsenhahn
+  pt: galo-da-serra
+  ru: Гвианский скальный петушок
+  ja: イワドリ
+  zh: 圭亚那动冠伞鸟
+  nl: Oranje rotshaan
+  pl: skalikurek gujański
+  tr: Guyana Horoz Kotingası
 taxonomy:
-  order: "Passeriformes"
-  family: "Cotingidae"
-  genus: "Rupicola"
-  species: "rupicola"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cotingidae
+  genus: Rupicola
+  species: rupicola
 morphology:
   body_mass_g: 194.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 300
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Rocky
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 27
   fledging_days: 33
-  nest_type: "Platform"
-  nest_placement: "Rock"
+  nest_type: Platform
+  nest_placement: Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rupicola rupicola (کاکلخروسی گینهای)
 

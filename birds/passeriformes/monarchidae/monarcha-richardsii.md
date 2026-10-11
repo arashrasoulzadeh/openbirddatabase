@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09060"
-ebird_code: "whcmon1"
+taxon_id: BN09060
+ebird_code: whcmon1
 gbif_key: 5230420
-avibase_id: "421C9B3869D57B61"
-iucn_status: "NT"
+avibase_id: 421C9B3869D57B61
+iucn_status: NT
 taxon_order: 20871.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Monarcha richardsii"
-  fa: "شهریارک کلاهسفید"
-  en: "White-capped Monarch"
-
-# === TAXONOMY ===
+  scientific: Monarcha richardsii
+  fa: شهریارک کلاهسفید
+  en: White-capped Monarch
+  es: Monarca de Richards
+  fr: Monarque de Richards
+  de: Kappenmonarch
+  pt: white-capped monarch
+  ru: Белоголовый монарх
+  ja: ソロモンカササギビタキ
+  nl: Richardsmonarch
+  pl: monarka białołbista
+  tr: Richards Monarkı
 taxonomy:
-  order: "Passeriformes"
-  family: "Monarchidae"
-  genus: "Monarcha"
-  species: "richardsii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Monarchidae
+  genus: Monarcha
+  species: richardsii
 morphology:
   body_mass_g: 17.974999999999998
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Monarcha richardsii (شهریارک کلاهسفید)
 

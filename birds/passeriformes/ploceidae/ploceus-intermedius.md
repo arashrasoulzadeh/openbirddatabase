@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11759"
-ebird_code: "lesmaw1"
+taxon_id: BN11759
+ebird_code: lesmaw1
 gbif_key: 2494014
-avibase_id: "E069A0BB844E9636"
-iucn_status: "LC"
+avibase_id: E069A0BB844E9636
+iucn_status: LC
 taxon_order: 30817.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ploceus intermedius"
-  fa: "جولای نقابدار کوچک"
-  en: "Lesser Masked Weaver"
-
-# === TAXONOMY ===
+  scientific: Ploceus intermedius
+  fa: جولای نقابدار کوچک
+  en: Lesser Masked Weaver
+  es: Tejedor Intermedio
+  fr: Tisserin intermédiaire
+  de: Cabanisweber
+  pt: lesser masked-weaver
+  ru: Масковый ткач
+  ja: メンハタオリドリ
+  zh: Lesser Masked Weaver
+  nl: Kleine textorwever
+  pl: wikłacz sawannowy
+  tr: Ortanca Dokumacı
 taxonomy:
-  order: "Passeriformes"
-  family: "Ploceidae"
-  genus: "Ploceus"
-  species: "intermedius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Ploceidae
+  genus: Ploceus
+  species: intermedius
 morphology:
   body_mass_g: 24.983333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Shrubland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 7.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 13
   fledging_days: 15
-  nest_type: "PN"
-  nest_placement: "Cliff/Crevice, Tree, Building, P"
+  nest_type: PN
+  nest_placement: Cliff/Crevice, Tree, Building, P
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ploceus intermedius (جولای نقابدار کوچک)
 

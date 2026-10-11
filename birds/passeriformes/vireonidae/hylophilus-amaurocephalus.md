@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06906"
-ebird_code: "gyegre1"
+taxon_id: BN06906
+ebird_code: gyegre1
 gbif_key: 5230499
-avibase_id: "7CA69E1B42B68301"
-iucn_status: "LC"
+avibase_id: 7CA69E1B42B68301
+iucn_status: LC
 taxon_order: 19080.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hylophilus amaurocephalus"
-  fa: "سبزک چشمخاکستری"
-  en: "Grey-eyed Greenlet"
-
-# === TAXONOMY ===
+  scientific: Hylophilus amaurocephalus
+  fa: سبزک چشمخاکستری
+  en: Grey-eyed Greenlet
+  es: Verdillo Ojigrís
+  fr: Viréon aux yeux gris
+  de: Grauaugenvireo
+  pt: vite-vite-de-olho-cinza
+  ru: Сероглазый виреончик
+  ja: キタズアカヒメモズモドキ
+  zh: Grey-eyed Greenlet
+  nl: Grijsoogvireo
+  pl: leśniak brazylijski
+  tr: Gri Gözlü Yaprak Vireosu
 taxonomy:
-  order: "Passeriformes"
-  family: "Vireonidae"
-  genus: "Hylophilus"
-  species: "amaurocephalus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Vireonidae
+  genus: Hylophilus
+  species: amaurocephalus
 morphology:
   body_mass_g: 11.7
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1100
-  habitat_types: ["Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hylophilus amaurocephalus (سبزک چشمخاکستری)
 

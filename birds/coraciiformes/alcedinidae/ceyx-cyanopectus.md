@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02692"
-ebird_code: "inbkin2"
+taxon_id: BN02692
+ebird_code: inbkin2
 gbif_key: 7342319
-avibase_id: "F7975DF0653B48EF"
-iucn_status: "LC"
+avibase_id: F7975DF0653B48EF
+iucn_status: LC
 taxon_order: 9949.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ceyx cyanopectus"
-  fa: "ماهیخورک نوارنیلی"
-  en: "Indigo-banded Kingfisher"
-
-# === TAXONOMY ===
+  scientific: Ceyx cyanopectus
+  fa: ماهیخورک نوارنیلی
+  en: Indigo-banded Kingfisher
+  es: Martín Pigmeo Pechiazul
+  fr: Martin-pêcheur à poitrine bleue
+  de: Blaubrust-Zwergfischer
+  pt: indigo-banded kingfisher
+  ru: Индиговый зимородок
+  ja: アオオビカワセミ
+  zh: 藍胸三趾翠鳥
+  nl: Blauwborstdwergijsvogel
+  pl: zimorodek obrożny
+  tr: Çivit Kuşaklı Yalıçapkını
 taxonomy:
-  order: "Coraciiformes"
-  family: "Alcedinidae"
-  genus: "Ceyx"
-  species: "cyanopectus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Coraciiformes
+  family: Alcedinidae
+  genus: Ceyx
+  species: cyanopectus
 morphology:
   body_mass_g: 19.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,35 +91,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ceyx cyanopectus (ماهیخورک نوارنیلی)
 

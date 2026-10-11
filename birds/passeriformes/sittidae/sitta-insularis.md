@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13973"
-ebird_code: "bnhnut2"
+taxon_id: BN13973
+ebird_code: bnhnut2
 gbif_key: 7837644
-avibase_id: "nan"
-iucn_status: "CR"
+avibase_id: nan
+iucn_status: CR
 taxon_order: 26933.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sitta insularis"
-  fa: "کمرکلی باهاما"
-  en: "Bahama Nuthatch"
-
-# === TAXONOMY ===
+  scientific: Sitta insularis
+  fa: کمرکلی باهاما
+  en: Bahama Nuthatch
+  es: Trepador de las Bahamas
+  fr: Sittelle des Bahamas
+  de: Bahamakleiber
+  pt: bahama nuthatch
+  ru: Багамский поползень
+  ja: バハマゴジュウカラ
+  nl: Bahamaboomklever
+  pl: bahamski
+  tr: Bahama Sıvacısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Sittidae"
-  genus: "Sitta"
-  species: "insularis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sittidae
+  genus: Sitta
+  species: insularis
 morphology:
   body_mass_g: 9.950000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 12
-  habitat_types: ["Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sitta insularis (کمرکلی باهاما)
 

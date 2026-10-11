@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13315"
-ebird_code: "rottan2"
+taxon_id: BN13315
+ebird_code: rottan2
 gbif_key: 2488552
-avibase_id: "358DFBA288093A93"
-iucn_status: "LC"
+avibase_id: 358DFBA288093A93
+iucn_status: LC
 taxon_order: 32684.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rhodinocichla rosea"
-  fa: "فرخندهتوکای گلگون"
-  en: "Rosy Thrush-tanager"
-
-# === TAXONOMY ===
+  scientific: Rhodinocichla rosea
+  fa: فرخندهتوکای گلگون
+  en: Rosy Thrush-tanager
+  es: Tangara Rosada
+  fr: Quéo rosalbin
+  de: Rosenbrust-Tangarenammer
+  pt: rosy thrush-tanager
+  ru: Дроздовидная кео
+  ja: バラムネフウキンチョウ
+  zh: Rosy Thrush-tanager
+  nl: Troepiaaltangare
+  pl: tanagrzec
+  tr: Pembe Gerdanlı Ardıç Tangarası
 taxonomy:
-  order: "Passeriformes"
-  family: "Rhodinocichlidae"
-  genus: "Rhodinocichla"
-  species: "rosea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Rhodinocichlidae
+  genus: Rhodinocichla
+  species: rosea
 morphology:
   body_mass_g: 47.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 200
   elevational_max_m: 1450
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rhodinocichla rosea (فرخندهتوکای گلگون)
 

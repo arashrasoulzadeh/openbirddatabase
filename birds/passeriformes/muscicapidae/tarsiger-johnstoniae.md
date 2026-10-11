@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14745"
-ebird_code: "cobrob1"
+taxon_id: BN14745
+ebird_code: cobrob1
 gbif_key: 2492511
-avibase_id: "55B75532"
-iucn_status: "LC"
+avibase_id: 55B75532
+iucn_status: LC
 taxon_order: 29495.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tarsiger johnstoniae"
-  fa: "سینهسرخ بیشه یقهنارنجی"
-  en: "Collared Bush Robin"
-
-# === TAXONOMY ===
+  scientific: Tarsiger johnstoniae
+  fa: سینهسرخ بیشه یقهنارنجی
+  en: Collared Bush Robin
+  es: Ruiseñor de Formosa Pintado
+  fr: Robin de Johnstone
+  de: Taiwanblauschwanz
+  pt: collared bush-robin
+  ru: Тайваньская синехвостка
+  ja: アリサンヒタキ
+  nl: Taiwanese blauwstaart
+  pl: modraczek obrożny
+  tr: Yakalı Mavi Kuyruklu Bülbül
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Tarsiger"
-  species: "johnstoniae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Tarsiger
+  species: johnstoniae
 morphology:
   body_mass_g: 13.939999999999998
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1500
   elevational_max_m: 3300
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   incubation_days: 14
   fledging_days: 18
-  nest_type: "CP"
-  nest_placement: "A, Shrub"
+  nest_type: CP
+  nest_placement: A, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tarsiger johnstoniae (سینهسرخ بیشه یقهنارنجی)
 

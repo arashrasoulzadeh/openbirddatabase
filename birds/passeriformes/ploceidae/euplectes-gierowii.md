@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05445"
-ebird_code: "blabis1"
+taxon_id: BN05445
+ebird_code: blabis1
 gbif_key: 2494100
-avibase_id: "CC7862AFB0AACF1B"
-iucn_status: "LC"
+avibase_id: CC7862AFB0AACF1B
+iucn_status: LC
 taxon_order: 30947.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Euplectes gierowii"
-  fa: "مرغ کشیش سیاه"
-  en: "Black Bishop"
-
-# === TAXONOMY ===
+  scientific: Euplectes gierowii
+  fa: مرغ کشیش سیاه
+  en: Black Bishop
+  es: Obispo Negro
+  fr: Euplecte de Gierow
+  de: Bischofsweber
+  pt: black bishop
+  ru: Чёрно-рыжий ткачик
+  ja: クロキンランチョウ
+  nl: Zwarte vuurwever
+  pl: wikłacz kryzowany
+  tr: Kara Piskopos
 taxonomy:
-  order: "Passeriformes"
-  family: "Ploceidae"
-  genus: "Euplectes"
-  species: "gierowii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Ploceidae
+  genus: Euplectes
+  species: gierowii
 morphology:
   body_mass_g: 27.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 700
   elevational_max_m: 1800
-  habitat_types: ["Shrubland", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "SP"
-  nest_placement: "Shrub, Cliff/Crevice"
+  nest_type: SP
+  nest_placement: Shrub, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Euplectes gierowii (مرغ کشیش سیاه)
 

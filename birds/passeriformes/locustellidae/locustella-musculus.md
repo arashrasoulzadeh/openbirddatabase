@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08010"
-ebird_code: "cbbwar4"
+taxon_id: BN08010
+ebird_code: cbbwar4
 gbif_key: 10968731
-avibase_id: "C5D95D65FD2A9840"
-iucn_status: "LC"
+avibase_id: C5D95D65FD2A9840
+iucn_status: LC
 taxon_order: 23823.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Locustella musculus"
-  fa: "nan"
-  en: "Seram Bush Warbler"
-
-# === TAXONOMY ===
+  scientific: Locustella musculus
+  fa: nan
+  en: Seram Bush Warbler
+  es: Zarzalero de Ceram
+  fr: Locustelle de Céram
+  de: Seramschwirl
+  pt: seram bush warbler
+  ru: Серамская пестрогрудка
+  ja: セラムオウギセッカ
+  zh: 斯兰短翅莺
+  nl: Seramstruikzanger
+  pl: świerszczak myszaty
+  tr: Seram Çalı Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Locustellidae"
-  genus: "Locustella"
-  species: "musculus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Locustellidae
+  genus: Locustella
+  species: musculus
 morphology:
   body_mass_g: 22.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 850
   elevational_max_m: 2290
-  habitat_types: ["Forest", "Bamboo"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Locustella musculus (nan)
 

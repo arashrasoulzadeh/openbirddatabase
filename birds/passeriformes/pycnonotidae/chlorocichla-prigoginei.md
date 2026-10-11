@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02915"
-ebird_code: "prigre1"
+taxon_id: BN02915
+ebird_code: prigre1
 gbif_key: 2486178
-avibase_id: "38652F1726C4D275"
-iucn_status: "EN"
+avibase_id: 38652F1726C4D275
+iucn_status: EN
 taxon_order: 24335.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chlorocichla prigoginei"
-  fa: "بوبر پریگوگین"
-  en: "Prigogine's Greenbul"
-
-# === TAXONOMY ===
+  scientific: Chlorocichla prigoginei
+  fa: بوبر پریگوگین
+  en: Prigogine's Greenbul
+  es: Bulbul de Prigogine
+  fr: Bulbul de Prigogine
+  de: Prigoginebülbül
+  pt: prigogine's greenbul
+  ru: Бенийский бюльбюль
+  ja: プリゴジンアオヒヨドリ
+  nl: Prigoginebuulbuul
+  pl: żółtobrzuch oliwkowy
+  tr: Prigogine Yaprakbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Pycnonotidae"
-  genus: "Chlorocichla"
-  species: "prigoginei"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Pycnonotidae
+  genus: Chlorocichla
+  species: prigoginei
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1350
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chlorocichla prigoginei (بوبر پریگوگین)
 

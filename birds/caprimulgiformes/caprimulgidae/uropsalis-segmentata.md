@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15644"
-ebird_code: "swtnig1"
+taxon_id: BN15644
+ebird_code: swtnig1
 gbif_key: 2497078
-avibase_id: "3981B194A6FE9080"
-iucn_status: "LC"
+avibase_id: 3981B194A6FE9080
+iucn_status: LC
 taxon_order: 3537.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Uropsalis segmentata"
-  fa: "nan"
-  en: "Swallow-tailed Nightjar"
-
-# === TAXONOMY ===
+  scientific: Uropsalis segmentata
+  fa: nan
+  en: Swallow-tailed Nightjar
+  es: Chotacabras Golondrina
+  fr: Engoulevent à queue d'aronde
+  de: Schwalbenschwanz-Nachtschwalbe
+  pt: swallow-tailed nightjar
+  ru: Ласточкохвостый козодой
+  ja: ツバメヨタカ
+  zh: 小燕尾夜鹰
+  nl: Vorkstaartnachtzwaluw
+  pl: lelkowiec wstęgosterny
+  tr: Kırlangıç Kuyruklu Çobanaldatan
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Uropsalis"
-  species: "segmentata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Uropsalis
+  species: segmentata
 morphology:
   body_mass_g: 42.25000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 2000
   elevational_max_m: 3600
-  habitat_types: ["Forest", "Bamboo", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,37 +91,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_min: 1
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Uropsalis segmentata (nan)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14586"
-ebird_code: "madgre1"
+taxon_id: BN14586
+ebird_code: madgre1
 gbif_key: 2482041
-avibase_id: "092C148438E0E270"
-iucn_status: "EN"
+avibase_id: 092C148438E0E270
+iucn_status: EN
 taxon_order: 6848.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachybaptus pelzelnii"
-  fa: "کشیم ماداگاسکار"
-  en: "Madagascar Grebe"
-
-# === TAXONOMY ===
+  scientific: Tachybaptus pelzelnii
+  fa: کشیم ماداگاسکار
+  en: Madagascar Grebe
+  es: Zampullín Malgache
+  fr: Grèbe malgache
+  de: Madagaskarzwergtaucher
+  pt: madagascar grebe
+  ru: Мадагаскарская поганка
+  ja: マダガスカルカイツブリ
+  zh: 馬達加斯加鸊鷉
+  nl: Madagaskardodaars
+  pl: perkozek białosmugi
+  tr: Madagaskar Küçük Batağanı
 taxonomy:
-  order: "Podicipediformes"
-  family: "Podicipedidae"
-  genus: "Tachybaptus"
-  species: "pelzelnii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Podicipediformes
+  family: Podicipedidae
+  genus: Tachybaptus
+  species: pelzelnii
 morphology:
   body_mass_g: 172.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["M"]
+  biogeographic_realms:
+  - M
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Wetland
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 3.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
-  nest_type: "Platform"
-  nest_placement: "Ground"
+  nest_type: Platform
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tachybaptus pelzelnii (کشیم ماداگاسکار)
 

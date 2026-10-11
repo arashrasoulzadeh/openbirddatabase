@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06092"
-ebird_code: "apomyn2"
+taxon_id: BN06092
+ebird_code: apomyn2
 gbif_key: 8049621
-avibase_id: "68A788836A0024B1"
-iucn_status: "NT"
+avibase_id: 68A788836A0024B1
+iucn_status: NT
 taxon_order: 27783.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Goodfellowia miranda"
-  fa: "nan"
-  en: "Apo Myna"
-
-# === TAXONOMY ===
+  scientific: Goodfellowia miranda
+  fa: nan
+  en: Apo Myna
+  es: Miná de Mindanao
+  fr: Basilorne de Mindanao
+  de: Prachtatzel
+  pt: apo myna
+  ru: Очковый раджа
+  ja: アポオオサマムクドリ
+  nl: Mindanaokoningsspreeuw
+  pl: perukarz białorzytny
+  tr: Çıplak Gözlü Çiğdeci
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Goodfellowia"
-  species: "miranda"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Goodfellowia
+  species: miranda
 morphology:
   body_mass_g: 109.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1250
   elevational_max_m: 0
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "O"
-  nest_placement: "Tree"
+  nest_type: O
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Goodfellowia miranda (nan)
 

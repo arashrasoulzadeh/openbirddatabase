@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01891"
-ebird_code: "jrswar1"
+taxon_id: BN01891
+ebird_code: jrswar1
 gbif_key: 5231346
-avibase_id: "4761DFE78080525A"
-iucn_status: "NT"
+avibase_id: 4761DFE78080525A
+iucn_status: NT
 taxon_order: 23940.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Bradypterus grandis"
-  fa: "سسک بوتهای رودخانه جا"
-  en: "Dja River Scrub Warbler"
-
-# === TAXONOMY ===
+  scientific: Bradypterus grandis
+  fa: سسک بوتهای رودخانه جا
+  en: Dja River Scrub Warbler
+  es: Zarzalero Grande
+  fr: Mégalure du Dja
+  de: Riedbuschsänger
+  pt: dja river swamp warbler
+  ru: Большая бурогрудка
+  ja: オニオウギセッカ
+  zh: Dja River Scrub Warbler
+  nl: Gabonese struikzanger
+  pl: krótkolotka ostrosterna
+  tr: Dja Nehri Bataklık Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Locustellidae"
-  genus: "Bradypterus"
-  species: "grandis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Locustellidae
+  genus: Bradypterus
+  species: grandis
 morphology:
   body_mass_g: 18.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 400
   elevational_max_m: 800
-  habitat_types: ["Grassland", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Bradypterus grandis (سسک بوتهای رودخانه جا)
 

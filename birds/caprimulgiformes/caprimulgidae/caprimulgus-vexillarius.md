@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02409"
-ebird_code: "pewnig1"
+taxon_id: BN02409
+ebird_code: pewnig1
 gbif_key: 7675358
-avibase_id: "A526534E0230B258"
-iucn_status: "LC"
+avibase_id: A526534E0230B258
+iucn_status: LC
 taxon_order: 3626.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Caprimulgus vexillarius"
-  fa: "شبگرد پرچمدار"
-  en: "Pennant-winged Nightjar"
-
-# === TAXONOMY ===
+  scientific: Caprimulgus vexillarius
+  fa: شبگرد پرچمدار
+  en: Pennant-winged Nightjar
+  es: Chotacabras Cuelgacintas
+  fr: Engoulevent porte-étendard
+  de: Flaggennachtschwalbe
+  pt: noitibó-de-balanceiros
+  ru: Вымпеловый козодой
+  ja: フキナガシヨタカ
+  zh: 翎翅夜鷹
+  nl: Wimpelnachtzwaluw
+  pl: dziwolotek wstęgopióry
+  tr: Kurdela Kanatlı Çobanaldatan
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Caprimulgus"
-  species: "vexillarius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Caprimulgus
+  species: vexillarius
 morphology:
   body_mass_g: 189.70000000000002
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Woodland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 15
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Caprimulgus vexillarius (شبگرد پرچمدار)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14884"
-ebird_code: "antpet1"
+taxon_id: BN14884
+ebird_code: antpet1
 gbif_key: 2481513
-avibase_id: "535186178E86447B"
-iucn_status: "LC"
+avibase_id: 535186178E86447B
+iucn_status: LC
 taxon_order: 7096.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thalassoica antarctica"
-  fa: "مرغ باران جنوبگان"
-  en: "Antarctic Petrel"
-
-# === TAXONOMY ===
+  scientific: Thalassoica antarctica
+  fa: مرغ باران جنوبگان
+  en: Antarctic Petrel
+  es: Petrel Antártico
+  fr: Pétrel antarctique
+  de: Antarktissturmvogel
+  pt: antarctic petrel
+  ru: Антарктический буревестник
+  ja: ナンキョクフルマカモメ
+  zh: 南极鹱
+  nl: Antarctische stormvogel
+  pl: petrel antarktyczny
+  tr: Antarktik Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Thalassoica"
-  species: "antarctica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Thalassoica
+  species: antarctica
 morphology:
   body_mass_g: 658.3333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["S"]
+  biogeographic_realms:
+  - S
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 40
   fledging_days: 42
-  nest_placement: "Ground"
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thalassoica antarctica (مرغ باران جنوبگان)
 

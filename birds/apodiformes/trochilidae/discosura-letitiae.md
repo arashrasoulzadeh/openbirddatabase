@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04681"
-ebird_code: "coptho2"
+taxon_id: BN04681
+ebird_code: coptho2
 gbif_key: 2476901
-avibase_id: "E77089BB81416078"
-iucn_status: "DD"
+avibase_id: E77089BB81416078
+iucn_status: DD
 taxon_order: 4437.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Discosura letitiae"
-  fa: "خاردم مسی"
-  en: "Letitia's Thorntail"
-
-# === TAXONOMY ===
+  scientific: Discosura letitiae
+  fa: خاردم مسی
+  en: Letitia's Thorntail
+  es: Rabudito Cobrizo
+  fr: Coquette de Letizia
+  de: Kupferfadenelfe
+  pt: coppery thorntail
+  ru: Медная шипохвостка
+  ja: ドウイロトゲオハチドリ
+  zh: Letitia's Thorntail
+  nl: Koperen draadkolibrie
+  pl: kolcosterek miedziany
+  tr: Bakır Rengi Telkuyruk
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Discosura"
-  species: "letitiae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Discosura
+  species: letitiae
 morphology:
   body_mass_g: 2.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "DD"
-  cites_appendix: "Not listed"
+  iucn_status: DD
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Discosura letitiae (خاردم مسی)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09517"
-ebird_code: "fitmyz1"
+taxon_id: BN09517
+ebird_code: fitmyz1
 gbif_key: 2492938
-avibase_id: "4C29F3A8B7E7D608"
-iucn_status: "LC"
+avibase_id: 4C29F3A8B7E7D608
+iucn_status: LC
 taxon_order: 25382.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myzornis pyrrhoura"
-  fa: "سسک دمآتشی"
-  en: "Fire-tailed Myzornis"
-
-# === TAXONOMY ===
+  scientific: Myzornis pyrrhoura
+  fa: سسک دمآتشی
+  en: Fire-tailed Myzornis
+  es: Timalí Melero
+  fr: Myzorne queue-de-feu
+  de: Smaragdgrasmücke
+  pt: fire-tailed myzornis
+  ru: Зелёная огнехвостка, мизорнис
+  ja: ゴシキチメドリ
+  zh: 火尾绿鹛
+  nl: Vuurstaartje
+  pl: olśniaczek
+  tr: Ateş Kuyruklu Mizornis
 taxonomy:
-  order: "Passeriformes"
-  family: "Paradoxornithidae"
-  genus: "Myzornis"
-  species: "pyrrhoura"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paradoxornithidae
+  genus: Myzornis
+  species: pyrrhoura
 morphology:
   body_mass_g: 11.666666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1600
   elevational_max_m: 3950
-  habitat_types: ["Forest", "Bamboo", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,35 +91,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "SP"
-  nest_placement: "Ground, Rock"
+  nest_type: SP
+  nest_placement: Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myzornis pyrrhoura (سسک دمآتشی)
 

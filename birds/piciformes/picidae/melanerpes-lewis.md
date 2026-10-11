@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08562"
-ebird_code: "lewwoo"
+taxon_id: BN08562
+ebird_code: lewwoo
 gbif_key: 2478142
-avibase_id: "E7C9A1F5BDE23849"
-iucn_status: "LC"
+avibase_id: E7C9A1F5BDE23849
+iucn_status: LC
 taxon_order: 11142.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Melanerpes lewis"
-  fa: "دارکوب لوییس"
-  en: "Lewis's Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Melanerpes lewis
+  fa: دارکوب لوییس
+  en: Lewis's Woodpecker
+  es: Carpintero de Lewis
+  fr: Pic de Lewis
+  de: Blutgesichtspecht
+  pt: lewis's woodpecker
+  ru: Краснолицый дятел
+  ja: ルイスキツツキ
+  zh: 刘氏啄木鸟
+  nl: Lewisspecht
+  pl: dzięciur różowobrzuchy
+  tr: Lewis Ağaçkakanı
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Melanerpes"
-  species: "lewis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Picidae
+  genus: Melanerpes
+  species: lewis
 morphology:
   body_mass_g: 107.31666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Woodland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 6.5
   clutch_size_min: 4
   clutch_size_max: 9
   incubation_days: 13
   fledging_days: 28
-  nest_type: "CV"
-  nest_placement: "C, P, Tree"
+  nest_type: CV
+  nest_placement: C, P, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Melanerpes lewis (دارکوب لوییس)
 

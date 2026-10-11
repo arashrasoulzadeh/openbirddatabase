@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03122"
-ebird_code: "corcin1"
+taxon_id: BN03122
+ebird_code: corcin1
 gbif_key: 2485052
-avibase_id: "9B0C898BC9F6E920"
-iucn_status: "LC"
+avibase_id: 9B0C898BC9F6E920
+iucn_status: LC
 taxon_order: 15091.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinclodes comechingonus"
-  fa: "nan"
-  en: "Cordoba Cinclodes"
-
-# === TAXONOMY ===
+  scientific: Cinclodes comechingonus
+  fa: nan
+  en: Cordoba Cinclodes
+  es: Remolinera de Córdoba
+  fr: Cinclode gris
+  de: Rostspitzen-Uferwipper
+  pt: cordoba cinclodes
+  ru: Кордобская трясохвостка
+  ja: コメチンゴネスカワカマドドリ
+  nl: Sierrawipstaart
+  pl: trzęsiogon rdzawoskrzydły
+  tr: Kordoba Sinklotu
 taxonomy:
-  order: "Passeriformes"
-  family: "Furnariidae"
-  genus: "Cinclodes"
-  species: "comechingonus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Furnariidae
+  genus: Cinclodes
+  species: comechingonus
 morphology:
   body_mass_g: 28.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1600
   elevational_max_m: 2800
-  habitat_types: ["Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "BU,CR"
-  nest_placement: "Ground, Rock"
+  nest_type: BU,CR
+  nest_placement: Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinclodes comechingonus (nan)
 

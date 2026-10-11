@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13789"
-ebird_code: "zimtap1"
+taxon_id: BN13789
+ebird_code: zimtap1
 gbif_key: 2490987
-avibase_id: "24F39183821BAAE7"
-iucn_status: "LC"
+avibase_id: 24F39183821BAAE7
+iucn_status: LC
 taxon_order: 14412.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Scytalopus zimmeri"
-  fa: "nan"
-  en: "Zimmer's Tapaculo"
-
-# === TAXONOMY ===
+  scientific: Scytalopus zimmeri
+  fa: nan
+  en: Zimmer's Tapaculo
+  es: Churrín de Zimmer
+  fr: Mérulaxe de Zimmer
+  de: Graukehltapaculo
+  pt: zimmer's tapaculo
+  ru: Серогорлый тапакуло
+  ja: ボリビアミヤマオタテドリ
+  nl: Zimmertapaculo
+  pl: krytonosek boliwijski
+  tr: Zimmer Tapakolası
 taxonomy:
-  order: "Passeriformes"
-  family: "Rhinocryptidae"
-  genus: "Scytalopus"
-  species: "zimmeri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Rhinocryptidae
+  genus: Scytalopus
+  species: zimmeri
 morphology:
   body_mass_g: 17.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 1700
   elevational_max_m: 3200
-  habitat_types: ["Woodland", "Shrubland", "Rocky", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,36 +90,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
-  nest_type: "CV"
-  nest_placement: "Rock"
+  nest_type: CV
+  nest_placement: Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Scytalopus zimmeri (nan)
 

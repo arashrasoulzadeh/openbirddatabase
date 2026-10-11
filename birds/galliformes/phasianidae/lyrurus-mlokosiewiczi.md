@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08207"
-ebird_code: "caugro1"
+taxon_id: BN08207
+ebird_code: caugro1
 gbif_key: 2473680
-avibase_id: "4ACE5613FF666F16"
-iucn_status: "NT"
+avibase_id: 4ACE5613FF666F16
+iucn_status: NT
 taxon_order: 1442.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lyrurus mlokosiewiczi"
-  fa: "سیاه‌خروس قفقازی"
-  en: "Caucasian Grouse"
-
-# === TAXONOMY ===
+  scientific: Lyrurus mlokosiewiczi
+  fa: سیاه‌خروس قفقازی
+  en: Caucasian Grouse
+  es: Gallo Lira Caucasiano
+  fr: Tétras du Caucase
+  de: Kaukasusbirkhuhn
+  pt: tetraz-caucasiano
+  ru: Кавказский тетерев
+  ja: コーカサスクロライチョウ
+  zh: 高加索黑琴鸡
+  nl: Kaukasisch korhoen
+  pl: cietrzew kaukaski
+  tr: Dağ Horozu
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Lyrurus"
-  species: "mlokosiewiczi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Lyrurus
+  species: mlokosiewiczi
 morphology:
   body_mass_g: 839.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 300
   elevational_max_m: 3300
-  habitat_types: ["Forest", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Lekking"
-  flock_size_typical: ""
+  sociality: Lekking
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.5
   clutch_size_min: 2
   clutch_size_max: 13
   incubation_days: 20
   fledging_days: 10
-  nest_type: "Scrape"
-  nest_placement: "Shrub, Rock"
+  nest_type: Scrape
+  nest_placement: Shrub, Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lyrurus mlokosiewiczi (سیاه‌خروس قفقازی)
 

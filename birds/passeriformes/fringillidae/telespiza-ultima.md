@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14783"
-ebird_code: "nihfin"
+taxon_id: BN14783
+ebird_code: nihfin
 gbif_key: 2494419
-avibase_id: "nan"
-iucn_status: "CR"
+avibase_id: nan
+iucn_status: CR
 taxon_order: 32110.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Telespiza ultima"
-  fa: "سهره نیهوآ"
-  en: "Nihoa Finch"
-
-# === TAXONOMY ===
+  scientific: Telespiza ultima
+  fa: سهره نیهوآ
+  en: Nihoa Finch
+  es: Palila de Nihoa
+  fr: Psittirostre de Nihoa
+  de: Nihoakleidervogel
+  pt: nihoa finch
+  ru: Нихоанская вьюрковая цветочница
+  ja: ニホアハワイマシコ
+  nl: Nihoavink
+  pl: hawajka tęgodzioba
+  tr: Nihoa İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Telespiza"
-  species: "ultima"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Telespiza
+  species: ultima
 morphology:
   body_mass_g: 24.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 277
-  habitat_types: ["Shrubland", "Grassland", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Coastal
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 2.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 15
   fledging_days: 24
-  nest_type: "CR"
-  nest_placement: "Rock"
+  nest_type: CR
+  nest_placement: Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Telespiza ultima (سهره نیهوآ)
 

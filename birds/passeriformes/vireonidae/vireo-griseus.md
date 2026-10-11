@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15787"
-ebird_code: "whevir"
+taxon_id: BN15787
+ebird_code: whevir
 gbif_key: 2487413
-avibase_id: "D97F93CC"
-iucn_status: "LC"
+avibase_id: D97F93CC
+iucn_status: LC
 taxon_order: 19165.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vireo griseus"
-  fa: "سرودخوان چشمسفید"
-  en: "White-eyed Vireo"
-
-# === TAXONOMY ===
+  scientific: Vireo griseus
+  fa: سرودخوان چشمسفید
+  en: White-eyed Vireo
+  es: Vireo Ojiblanco
+  fr: Viréo aux yeux blancs
+  de: Weißaugenvireo
+  pt: juruviara-d'olhos-brancos
+  ru: Белоглазый виреон
+  ja: メジロモズモドキ
+  zh: 白眼綠鵙
+  nl: Witoogvireo
+  pl: wireonek białooki
+  tr: Ak Gözlü Vireo
 taxonomy:
-  order: "Passeriformes"
-  family: "Vireonidae"
-  genus: "Vireo"
-  species: "griseus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Vireonidae
+  genus: Vireo
+  species: griseus
 morphology:
   body_mass_g: 11.173333333333332
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1000
-  habitat_types: ["Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 13
   fledging_days: 9
-  nest_type: "PN"
-  nest_placement: "Shrub, Tree"
+  nest_type: PN
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vireo griseus (سرودخوان چشمسفید)
 

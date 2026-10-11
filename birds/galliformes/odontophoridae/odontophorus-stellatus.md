@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10022"
-ebird_code: "stwqua1"
+taxon_id: BN10022
+ebird_code: stwqua1
 gbif_key: 5228043
-avibase_id: "B211270827652845"
-iucn_status: "LC"
+avibase_id: B211270827652845
+iucn_status: LC
 taxon_order: 1169.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Odontophorus stellatus"
-  fa: "بلدرچین جنگلی درخشان"
-  en: "Starred Wood Quail"
-
-# === TAXONOMY ===
+  scientific: Odontophorus stellatus
+  fa: بلدرچین جنگلی درخشان
+  en: Starred Wood Quail
+  es: Corcovado Estrellado
+  fr: Tocro étoilé
+  de: Sternwachtel
+  pt: uru-de-topete
+  ru: Звёздчатый зубцеклювый перепел
+  ja: ホシウズラ
+  zh: Starred Wood Quail
+  nl: Stippelborsttandkwartel
+  pl: przepiór rdzawobrzuchy
+  tr: Yıldızlı Tokro
 taxonomy:
-  order: "Galliformes"
-  family: "Odontophoridae"
-  genus: "Odontophorus"
-  species: "stellatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Odontophoridae
+  genus: Odontophorus
+  species: stellatus
 morphology:
   body_mass_g: 336.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 400
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "DM"
-  nest_placement: "Ground"
+  nest_type: DM
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Odontophorus stellatus (بلدرچین جنگلی درخشان)
 

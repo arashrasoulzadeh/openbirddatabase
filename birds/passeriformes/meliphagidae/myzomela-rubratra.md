@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09507"
-ebird_code: "micmyz1"
+taxon_id: BN09507
+ebird_code: micmyz1
 gbif_key: 2487324
-avibase_id: "45B5DE59C6981DB5"
-iucn_status: "LC"
+avibase_id: 45B5DE59C6981DB5
+iucn_status: LC
 taxon_order: 18005.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myzomela rubratra"
-  fa: "عسلخوار میکرونزی"
-  en: "Micronesian Myzomela"
-
-# === TAXONOMY ===
+  scientific: Myzomela rubratra
+  fa: عسلخوار میکرونزی
+  en: Micronesian Myzomela
+  es: Mielero de Micronesia
+  fr: Myzomèle de Micronésie
+  de: Mikronesienhonigfresser
+  pt: micronesian myzomela
+  ru: Микронезийская медовка
+  ja: ミクロネシアミツスイ
+  zh: 密克羅尼西亞吸蜜鳥
+  nl: Vuurdwerghoningeter
+  pl: miodówka mikronezyjska
+  tr: Mikronezya Mizomelası
 taxonomy:
-  order: "Passeriformes"
-  family: "Meliphagidae"
-  genus: "Myzomela"
-  species: "rubratra"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Meliphagidae
+  genus: Myzomela
+  species: rubratra
 morphology:
   body_mass_g: 13.74
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 12
   fledging_days: 13
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myzomela rubratra (عسلخوار میکرونزی)
 

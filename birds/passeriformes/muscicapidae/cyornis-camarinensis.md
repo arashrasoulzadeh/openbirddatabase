@@ -1,49 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04240"
-ebird_code: "bubfly2"
+taxon_id: BN04240
+ebird_code: bubfly2
 gbif_key: 7766800
-avibase_id: "A9493977058A7596"
-iucn_status: "VU"
+avibase_id: A9493977058A7596
+iucn_status: VU
 taxon_order: 29111.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cyornis camarinensis"
-  fa: "مگسگیر آبی سینهحنایی"
-  en: "Rufous-breasted Blue Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Cyornis camarinensis
+  fa: مگسگیر آبی سینهحنایی
+  en: Rufous-breasted Blue Flycatcher
+  es: Papamoscas Pechicanela
+  fr: Gobemouche des Caramines
+  de: Zimtbrust-Blauschnäpper
+  pt: rufous-breasted blue flycatcher
+  ja: カタンドゥアネスヒメアオヒタキ
+  nl: Zuid-Luzonniltava
+  pl: dżunglówka rudzikowa
+  tr: Kızıl Göğüslü Mavi Sinekkapan
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Cyornis"
-  species: "camarinensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Cyornis
+  species: camarinensis
 morphology:
   body_mass_g: 19.9
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 100
   elevational_max_m: 1200
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cyornis camarinensis (مگسگیر آبی سینهحنایی)
 

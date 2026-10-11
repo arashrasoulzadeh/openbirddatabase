@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14160"
-ebird_code: "spwfal2"
+taxon_id: BN14160
+ebird_code: spwfal2
 gbif_key: 2481068
-avibase_id: "0CB76DBD82BB772E"
-iucn_status: "LC"
+avibase_id: 0CB76DBD82BB772E
+iucn_status: LC
 taxon_order: 11960.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Spiziapteryx circumcincta"
-  fa: "شاهینک بالنقطهای"
-  en: "Spot-winged Falconet"
-
-# === TAXONOMY ===
+  scientific: Spiziapteryx circumcincta
+  fa: شاهینک بالنقطهای
+  en: Spot-winged Falconet
+  es: Halconcito Argentino
+  fr: Fauconnet à ailes tachetées
+  de: Tropfenfalke
+  pt: falcãozinho-cinza
+  ru: Американский соколок
+  ja: シラボシハヤブサ
+  zh: 斑翅花隼
+  nl: Witstuitvalk
+  pl: sokółeczka
+  tr: Amerika Cüce Doğanı
 taxonomy:
-  order: "Falconiformes"
-  family: "Falconidae"
-  genus: "Spiziapteryx"
-  species: "circumcincta"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Falconiformes
+  family: Falconidae
+  genus: Spiziapteryx
+  species: circumcincta
 morphology:
   body_mass_g: 181.66666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 100
   elevational_max_m: 500
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Desert"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Desert
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,38 +92,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   fledging_days: 33
-  nest_type: "O"
+  nest_type: O
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Spiziapteryx circumcincta (شاهینک بالنقطهای)
 

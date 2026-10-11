@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01237"
-ebird_code: "orbbab1"
+taxon_id: BN01237
+ebird_code: orbbab1
 gbif_key: 11007317
-avibase_id: "C4F17E29F0EA7658"
-iucn_status: "LC"
+avibase_id: C4F17E29F0EA7658
+iucn_status: LC
 taxon_order: 26611.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Argya rufescens"
-  fa: "لیکوی نوکنارنجی"
-  en: "Orange-billed Babbler"
-
-# === TAXONOMY ===
+  scientific: Argya rufescens
+  fa: لیکوی نوکنارنجی
+  en: Orange-billed Babbler
+  es: Turdoide Cingalés
+  fr: Cratérope de Ceylan
+  de: Orangeschnabel-Drosselhäherling
+  pt: orange-billed babbler
+  ru: Оранжевоклювая дроздовка
+  ja: セイロンヤブチメドリ
+  zh: 橙嘴鶇鶥
+  nl: Ceylonese babbelaar
+  pl: tymal cejloński
+  tr: Turuncu Gagalı Yedikardeş
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Argya"
-  species: "rufescens"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Argya
+  species: rufescens
 morphology:
   body_mass_g: 64.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2100
-  habitat_types: ["Forest", "Bamboo", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Argya rufescens (لیکوی نوکنارنجی)
 

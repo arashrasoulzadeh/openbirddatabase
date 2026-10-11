@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06769"
-ebird_code: "litgul"
+taxon_id: BN06769
+ebird_code: litgul
 gbif_key: 6065841
-avibase_id: "F89FD6E3A367C008"
-iucn_status: "LC"
+avibase_id: F89FD6E3A367C008
+iucn_status: LC
 taxon_order: 6447.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hydrocoloeus minutus"
-  fa: "کاکایی کوچک"
-  en: "Little Gull"
-
-# === TAXONOMY ===
+  scientific: Hydrocoloeus minutus
+  fa: کاکایی کوچک
+  en: Little Gull
+  es: Gaviota Enana
+  fr: Mouette pygmée
+  de: Zwergmöwe
+  pt: gaivota-pequena
+  ru: Малая чайка
+  ja: ヒメカモメ
+  zh: 小鸥
+  nl: Dwergmeeuw
+  pl: mewa mała
+  tr: Küçük Martı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Hydrocoloeus"
-  species: "minutus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Hydrocoloeus
+  species: minutus
 morphology:
   body_mass_g: 114.08333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 23
   fledging_days: 21
-  nest_type: "HC"
-  nest_placement: "Ground, Water"
+  nest_type: HC
+  nest_placement: Ground, Water
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hydrocoloeus minutus (کاکایی کوچک)
 

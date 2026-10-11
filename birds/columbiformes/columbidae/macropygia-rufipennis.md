@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08279"
-ebird_code: "ancdov1"
+taxon_id: BN08279
+ebird_code: ancdov1
 gbif_key: 2496142
-avibase_id: "DC1A20598538D457"
-iucn_status: "LC"
+avibase_id: DC1A20598538D457
+iucn_status: LC
 taxon_order: 2110.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Macropygia rufipennis"
-  fa: "کوکوکبوتر آندامان"
-  en: "Andaman Cuckoo-Dove"
-
-# === TAXONOMY ===
+  scientific: Macropygia rufipennis
+  fa: کوکوکبوتر آندامان
+  en: Andaman Cuckoo-Dove
+  es: Tórtola Cuco de las Andamán
+  fr: Phasianelle des Nicobar
+  de: Rotsteißtaube
+  pt: andaman cuckoo-dove
+  ru: Андаманская кукушковая горлица
+  ja: アンダマンオナガバト
+  nl: Andamanenkoekoeksduif
+  pl: kasztanówka rudogłowa
+  tr: Kızıl Guguk Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Macropygia"
-  species: "rufipennis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Macropygia
+  species: rufipennis
 morphology:
   body_mass_g: 257.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,34 +89,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 1
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Macropygia rufipennis (کوکوکبوتر آندامان)
 

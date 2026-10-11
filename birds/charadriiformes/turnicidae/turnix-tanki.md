@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15513"
-ebird_code: "yelbut1"
+taxon_id: BN15513
+ebird_code: yelbut1
 gbif_key: 2474968
-avibase_id: "950909C3D0F5B1CD"
-iucn_status: "LC"
+avibase_id: 950909C3D0F5B1CD
+iucn_status: LC
 taxon_order: 6240.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turnix tanki"
-  fa: "بلدرچین بوتهای پازرد"
-  en: "Yellow-legged Buttonquail"
-
-# === TAXONOMY ===
+  scientific: Turnix tanki
+  fa: بلدرچین بوتهای پازرد
+  en: Yellow-legged Buttonquail
+  es: Torillo Tanki
+  fr: Turnix indien
+  de: Rotnacken-Laufhühnchen
+  pt: yellow-legged buttonquail
+  ru: Пятнистая трёхперстка
+  ja: チョウセンミフウズラ
+  zh: 黄脚三趾鹑
+  nl: Chinese vechtkwartel
+  pl: przepiórnik żółtonogi
+  tr: Hint Bıldırcınyelvesi
 taxonomy:
-  order: "Charadriiformes"
-  family: "Turnicidae"
-  genus: "Turnix"
-  species: "tanki"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Turnicidae
+  genus: Turnix
+  species: tanki
 morphology:
   body_mass_g: 67.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1200
-  habitat_types: ["Bamboo", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Bamboo
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   incubation_days: 12
   fledging_days: 10
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Male only"
-
-
-# === CONSERVATION ===
+  parental_care: Male only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turnix tanki (بلدرچین بوتهای پازرد)
 

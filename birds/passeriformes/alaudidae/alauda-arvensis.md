@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00362"
-ebird_code: "skylar"
+taxon_id: BN00362
+ebird_code: skylar
 gbif_key: 8077224
-avibase_id: "2D9A361995111F42"
-iucn_status: "LC"
+avibase_id: 2D9A361995111F42
+iucn_status: LC
 taxon_order: 22615.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Alauda arvensis"
-  fa: "چکاوک آسمانی بزرگ"
-  en: "Eurasian Skylark"
-
-# === TAXONOMY ===
+  scientific: Alauda arvensis
+  fa: چکاوک آسمانی بزرگ
+  en: Eurasian Skylark
+  es: Alondra Común
+  fr: Alouette des champs
+  de: Feldlerche
+  pt: laverca
+  ru: Полевой жаворонок
+  ja: ヒバリ
+  zh: 云雀
+  nl: Veldleeuwerik
+  pl: skowronek
+  tr: Tarlakuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Alaudidae"
-  genus: "Alauda"
-  species: "arvensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Alaudidae
+  genus: Alauda
+  species: arvensis
 morphology:
   body_mass_g: 36.71666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 3500
-  habitat_types: ["Grassland", "Plains", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Plains
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 1
   clutch_size_max: 7
   incubation_days: 10
   fledging_days: 16
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Alauda arvensis (چکاوک آسمانی بزرگ)
 

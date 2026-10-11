@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02321"
-ebird_code: "runwre2"
+taxon_id: BN02321
+ebird_code: runwre2
 gbif_key: 5231482
-avibase_id: "nan"
-iucn_status: "LC"
+avibase_id: nan
+iucn_status: LC
 taxon_order: 27400.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Campylorhynchus rufinucha"
-  fa: "الیکایی پشتگردنخرمایی"
-  en: "Veracruz Wren"
-
-# === TAXONOMY ===
+  scientific: Campylorhynchus rufinucha
+  fa: الیکایی پشتگردنخرمایی
+  en: Veracruz Wren
+  es: Cucarachero Nuquirrufo
+  fr: Troglodyte à nuque rousse
+  de: Veracruz-Zaunkönig
+  pt: veracruz wren
+  ru: Рыжешейный кактусовый крапивник
+  ja: アカエリサボテンミソサザイ
+  zh: 棕颈曲嘴鹪鹩
+  nl: Veracruzwinterkoning
+  pl: strzyż rdzawokarkowy
+  tr: Verakruz Çıtkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Troglodytidae"
-  genus: "Campylorhynchus"
-  species: "rufinucha"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Troglodytidae
+  genus: Campylorhynchus
+  species: rufinucha
 morphology:
   body_mass_g: 30.416666666666668
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 4
   clutch_size_max: 5
-  nest_type: "DM"
-  nest_placement: "Tree, Shrub"
+  nest_type: DM
+  nest_placement: Tree, Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Campylorhynchus rufinucha (الیکایی پشتگردنخرمایی)
 

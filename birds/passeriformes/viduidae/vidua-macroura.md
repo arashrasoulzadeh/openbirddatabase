@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15747"
-ebird_code: "pitwhy"
+taxon_id: BN15747
+ebird_code: pitwhy
 gbif_key: 2484628
-avibase_id: "673E66F0FA0E3817"
-iucn_status: "LC"
+avibase_id: 673E66F0FA0E3817
+iucn_status: LC
 taxon_order: 31443.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vidua macroura"
-  fa: "نیلیمرغ دمگیرهای"
-  en: "Pin-tailed Whydah"
-
-# === TAXONOMY ===
+  scientific: Vidua macroura
+  fa: نیلیمرغ دمگیرهای
+  en: Pin-tailed Whydah
+  es: Viuda Colicinta
+  fr: Veuve dominicaine
+  de: Dominikanerwitwe
+  pt: viuvinha-bico-de-lacre
+  ru: Узкохвостая вдовушка
+  ja: テンニンチョウ
+  zh: 針尾維達雀
+  nl: Dominicanerwida
+  pl: wdówka białobrzucha
+  tr: Sivri Kuyruklu Vidya
 taxonomy:
-  order: "Passeriformes"
-  family: "Viduidae"
-  genus: "Vidua"
-  species: "macroura"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Viduidae
+  genus: Vidua
+  species: macroura
 morphology:
   body_mass_g: 15.366666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2600
-  habitat_types: ["Savanna", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Savanna
+  - Grassland
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   incubation_days: 11
   fledging_days: 20
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vidua macroura (نیلیمرغ دمگیرهای)
 

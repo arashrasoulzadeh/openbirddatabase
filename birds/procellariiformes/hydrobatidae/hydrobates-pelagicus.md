@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06762"
-ebird_code: "bripet"
+taxon_id: BN06762
+ebird_code: bripet
 gbif_key: 4408455
-avibase_id: "E1638A370D09095C"
-iucn_status: "LC"
+avibase_id: E1638A370D09095C
+iucn_status: LC
 taxon_order: 7046.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Hydrobates pelagicus"
-  fa: "مرغ طوفان اروپایی"
-  en: "European Storm Petrel"
-
-# === TAXONOMY ===
+  scientific: Hydrobates pelagicus
+  fa: مرغ طوفان اروپایی
+  en: European Storm Petrel
+  es: Paíño Europeo
+  fr: Océanite tempête
+  de: Sturmwellenläufer
+  pt: alma-de-mestre-europeu
+  ru: Прямохвостая качурка
+  ja: ヒメウミツバメ
+  zh: European Storm Petrel
+  nl: Stormvogeltje
+  pl: nawałnik burzowy
+  tr: Fırtınakırlangıcı
 taxonomy:
-  order: "Procellariiformes"
-  family: "Hydrobatidae"
-  genus: "Hydrobates"
-  species: "pelagicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Hydrobatidae
+  genus: Hydrobates
+  species: pelagicus
 morphology:
   body_mass_g: 26.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 41
   fledging_days: 59
-  nest_type: "CR"
-  nest_placement: "Ground, Rock"
+  nest_type: CR
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Hydrobates pelagicus (مرغ طوفان اروپایی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01561"
-ebird_code: "oaktit"
+taxon_id: BN01561
+ebird_code: oaktit
 gbif_key: 2487905
-avibase_id: "F3BEE8C7A3B509DE"
-iucn_status: "LC"
+avibase_id: F3BEE8C7A3B509DE
+iucn_status: LC
 taxon_order: 22150.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Baeolophus inornatus"
-  fa: "چرخریسک بلوط"
-  en: "Oak Titmouse"
-
-# === TAXONOMY ===
+  scientific: Baeolophus inornatus
+  fa: چرخریسک بلوط
+  en: Oak Titmouse
+  es: Herrerillo Unicolor
+  fr: Mésange unicolore
+  de: Eichenmeise
+  pt: oak titmouse
+  ru: Дубовая гренадерка
+  ja: ハイエボシガラ
+  nl: Grijze mees
+  pl: sikora kalifornijska
+  tr: Meşe Baştankarası
 taxonomy:
-  order: "Passeriformes"
-  family: "Paridae"
-  genus: "Baeolophus"
-  species: "inornatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paridae
+  genus: Baeolophus
+  species: inornatus
 morphology:
   body_mass_g: 16.125
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 12
   elevational_max_m: 2194
-  habitat_types: ["Forest", "Woodland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.0
   clutch_size_min: 6
   clutch_size_max: 8
   fledging_days: 16
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Baeolophus inornatus (چرخریسک بلوط)
 

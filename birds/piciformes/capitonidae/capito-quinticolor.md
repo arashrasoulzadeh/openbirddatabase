@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02356"
-ebird_code: "ficbar1"
+taxon_id: BN02356
+ebird_code: ficbar1
 gbif_key: 2479040
-avibase_id: "nan"
-iucn_status: "NT"
+avibase_id: nan
+iucn_status: NT
 taxon_order: 10797.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Capito quinticolor"
-  fa: "nan"
-  en: "Five-colored Barbet"
-
-# === TAXONOMY ===
+  scientific: Capito quinticolor
+  fa: nan
+  en: Five-colored Barbet
+  es: Cabezón Cincocolores
+  fr: Cabézon à cinq couleurs
+  de: Fünffarben-Bartvogel
+  pt: five-colored barbet
+  ru: Пятицветная бородатка
+  ja: コロンビアゴシキドリ
+  nl: Vijfkleurenbaardvogel
+  pl: brodacz pięciobarwny
+  tr: Beş Renkli Barbet
 taxonomy:
-  order: "Piciformes"
-  family: "Capitonidae"
-  genus: "Capito"
-  species: "quinticolor"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Capitonidae
+  genus: Capito
+  species: quinticolor
 morphology:
   body_mass_g: 60.666666666666664
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 350
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV,O"
-  nest_placement: "Tree"
+  nest_type: CV,O
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Capito quinticolor (nan)
 

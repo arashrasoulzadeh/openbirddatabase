@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09261"
-ebird_code: "venfly1"
+taxon_id: BN09261
+ebird_code: venfly1
 gbif_key: 2483552
-avibase_id: "A1288AF257D45DA2"
-iucn_status: "LC"
+avibase_id: A1288AF257D45DA2
+iucn_status: LC
 taxon_order: 17307.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiarchus venezuelensis"
-  fa: "nan"
-  en: "Venezuelan Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Myiarchus venezuelensis
+  fa: nan
+  en: Venezuelan Flycatcher
+  es: Copetón Venezolano
+  fr: Tyran du Venezuela
+  de: Venezuelaschopftyrann
+  pt: venezuelan flycatcher
+  ru: Венесуэльский миарх
+  ja: ベネズエラヒタキモドキ
+  zh: 委内瑞拉蝇霸鹟
+  nl: Venezolaanse tiran
+  pl: muchołap wenezuelski
+  tr: Venezüela Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiarchus"
-  species: "venezuelensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiarchus
+  species: venezuelensis
 morphology:
   body_mass_g: 29.666666666666668
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiarchus venezuelensis (nan)
 

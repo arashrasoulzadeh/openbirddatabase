@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05173"
-ebird_code: "fooant1"
+taxon_id: BN05173
+ebird_code: fooant1
 gbif_key: 7341740
-avibase_id: "A186C9C645B5EAD0"
-iucn_status: "LC"
+avibase_id: A186C9C645B5EAD0
+iucn_status: LC
 taxon_order: 13701.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Epinecrophylla spodionota"
-  fa: "گلونقطهای کوهپایه"
-  en: "Foothill Stipplethroat"
-
-# === TAXONOMY ===
+  scientific: Epinecrophylla spodionota
+  fa: گلونقطهای کوهپایه
+  en: Foothill Stipplethroat
+  es: Hormiguerito Submontano
+  fr: Myrmidon des contreforts
+  de: Andenameisenschlüpfer
+  pt: foothill stipplethroat
+  ru: Сероспинный алапи
+  ja: サンロクヒメアリサザイ
+  nl: Heuvelmiersluiper
+  pl: gardlinek stokowy
+  tr: Dağ Eteği Karıncaçıvgını
 taxonomy:
-  order: "Passeriformes"
-  family: "Thamnophilidae"
-  genus: "Epinecrophylla"
-  species: "spodionota"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thamnophilidae
+  genus: Epinecrophylla
+  species: spodionota
 morphology:
   body_mass_g: 9.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 500
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Epinecrophylla spodionota (گلونقطهای کوهپایه)
 

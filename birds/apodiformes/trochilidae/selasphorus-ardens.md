@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13796"
-ebird_code: "glthum1"
+taxon_id: BN13796
+ebird_code: glthum1
 gbif_key: 2476846
-avibase_id: "DA7DAB3E38948576"
-iucn_status: "EN"
+avibase_id: DA7DAB3E38948576
+iucn_status: EN
 taxon_order: 4857.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Selasphorus ardens"
-  fa: "nan"
-  en: "Glow-throated Hummingbird"
-
-# === TAXONOMY ===
+  scientific: Selasphorus ardens
+  fa: nan
+  en: Glow-throated Hummingbird
+  es: Colibrí Ardiente
+  fr: Colibri ardent
+  de: Feuerkehlelfe
+  pt: glow-throated hummingbird
+  ru: Пламенный колибри
+  ja: パナマノドジロフトオハチドリ
+  zh: 辉喉煌蜂鸟
+  nl: Gloeikeelkolibrie
+  pl: rudaczek panamski
+  tr: Kor Gerdanlı Kolibri
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Selasphorus"
-  species: "ardens"
-
-
-# === DISTRIBUTION ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Selasphorus
+  species: ardens
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 750
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Selasphorus ardens (nan)
 

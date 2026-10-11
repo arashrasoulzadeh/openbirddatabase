@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14229"
-ebird_code: "ancbar1"
+taxon_id: BN14229
+ebird_code: ancbar1
 gbif_key: 2478809
-avibase_id: "35145A7EB0A5F5FC"
-iucn_status: "LC"
+avibase_id: 35145A7EB0A5F5FC
+iucn_status: LC
 taxon_order: 10579.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Stactolaema anchietae"
-  fa: "nan"
-  en: "Anchieta's Barbet"
-
-# === TAXONOMY ===
+  scientific: Stactolaema anchietae
+  fa: nan
+  en: Anchieta's Barbet
+  es: Barbudo de Anchieta
+  fr: Barbican à tête jaune
+  de: Strohkopf-Bartvogel
+  pt: anchieta's barbet
+  ru: Желтолицая либия
+  ja: キガシラゴシキドリ
+  nl: Geelkopbaardvogel
+  pl: brodacznik żółtolicy
+  tr: Sarı Kafalı Barbet
 taxonomy:
-  order: "Piciformes"
-  family: "Lybiidae"
-  genus: "Stactolaema"
-  species: "anchietae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Lybiidae
+  genus: Stactolaema
+  species: anchietae
 morphology:
   body_mass_g: 45.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 900
   elevational_max_m: 2440
-  habitat_types: ["Woodland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Riverine
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
-  nest_type: "CV"
-  nest_placement: "C"
+  nest_type: CV
+  nest_placement: C
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Stactolaema anchietae (nan)
 

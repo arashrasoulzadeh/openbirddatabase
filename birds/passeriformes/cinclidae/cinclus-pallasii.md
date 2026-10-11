@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03155"
-ebird_code: "brodip1"
+taxon_id: BN03155
+ebird_code: brodip1
 gbif_key: 5231774
-avibase_id: "4E5EB9872F37E3A1"
-iucn_status: "LC"
+avibase_id: 4E5EB9872F37E3A1
+iucn_status: LC
 taxon_order: 27664.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cinclus pallasii"
-  fa: "زیرآبروک قهوهای"
-  en: "Brown Dipper"
-
-# === TAXONOMY ===
+  scientific: Cinclus pallasii
+  fa: زیرآبروک قهوهای
+  en: Brown Dipper
+  es: Mirlo Acuático Pardo
+  fr: Cincle de Pallas
+  de: Pallaswasseramsel
+  pt: brown dipper
+  ru: Бурая оляпка
+  ja: カワガラス
+  zh: 褐河乌
+  nl: Zwarte waterspreeuw
+  pl: pluszcz ciemny
+  tr: Kahverengi Derekuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Cinclidae"
-  genus: "Cinclus"
-  species: "pallasii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cinclidae
+  genus: Cinclus
+  species: pallasii
 morphology:
   body_mass_g: 76.68333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 450
   elevational_max_m: 5000
-  habitat_types: ["Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +88,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 3
   clutch_size_max: 6
   incubation_days: 15
   fledging_days: 21
-  nest_type: "SP,CR"
-  nest_placement: "Rock"
+  nest_type: SP,CR
+  nest_placement: Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cinclus pallasii (زیرآبروک قهوهای)
 

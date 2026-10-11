@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12807"
-ebird_code: "audshe3"
+taxon_id: BN12807
+ebird_code: audshe3
 gbif_key: 5843962
-avibase_id: "5FE42C6D7EAEBA84"
-iucn_status: "LC"
+avibase_id: 5FE42C6D7EAEBA84
+iucn_status: LC
 taxon_order: 7217.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Puffinus subalaris"
-  fa: "کبوتر دریایی گالاپاگوس"
-  en: "Galapagos Shearwater"
-
-# === TAXONOMY ===
+  scientific: Puffinus subalaris
+  fa: کبوتر دریایی گالاپاگوس
+  en: Galapagos Shearwater
+  es: Pardela de Galápagos
+  fr: Puffin des Galapagos
+  de: Galápagossturmtaucher
+  pt: galapagos shearwater
+  ru: Галапагосский буревестник
+  ja: ガラパゴスミズナギドリ
+  zh: 加岛鹱
+  nl: Galapagospijlstormvogel
+  pl: burzyk galapagoski
+  tr: Galapagos Yelkovanı
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Puffinus"
-  species: "subalaris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Puffinus
+  species: subalaris
 morphology:
   body_mass_g: 176.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 44
   fledging_days: 62
-  nest_type: "BU,CR"
-  nest_placement: "Ground, Rock"
+  nest_type: BU,CR
+  nest_placement: Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Puffinus subalaris (کبوتر دریایی گالاپاگوس)
 

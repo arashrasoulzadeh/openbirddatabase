@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12268"
-ebird_code: "broacc1"
+taxon_id: BN12268
+ebird_code: broacc1
 gbif_key: 5231771
-avibase_id: "AEBE407C1AF8F822"
-iucn_status: "LC"
+avibase_id: AEBE407C1AF8F822
+iucn_status: LC
 taxon_order: 31504.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prunella fulvescens"
-  fa: "صعوه قهوهای"
-  en: "Brown Accentor"
-
-# === TAXONOMY ===
+  scientific: Prunella fulvescens
+  fa: صعوه قهوهای
+  en: Brown Accentor
+  es: Acentor Pardo
+  fr: Accenteur brun
+  de: Fahlbraunelle
+  pt: brown accentor
+  ru: Бледная завирушка
+  ja: ウスヤマヒバリ
+  zh: 褐岩鹨
+  nl: Bruine heggenmus
+  pl: płochacz płowy
+  tr: Kahverengi Dağbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Prunellidae"
-  genus: "Prunella"
-  species: "fulvescens"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Prunellidae
+  genus: Prunella
+  species: fulvescens
 morphology:
   body_mass_g: 18.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1500
   elevational_max_m: 5100
-  habitat_types: ["Shrubland", "Rocky", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Rocky
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 10
   fledging_days: 10
-  nest_type: "CP,CR"
-  nest_placement: "Shrub, Tree, Building, Rock"
+  nest_type: CP,CR
+  nest_placement: Shrub, Tree, Building, Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prunella fulvescens (صعوه قهوهای)
 

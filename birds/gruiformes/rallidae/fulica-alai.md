@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05711"
-ebird_code: "hawcoo"
+taxon_id: BN05711
+ebird_code: hawcoo
 gbif_key: 2474386
-avibase_id: "5E3BDB159007F82F"
-iucn_status: "NT"
+avibase_id: 5E3BDB159007F82F
+iucn_status: NT
 taxon_order: 5497.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Fulica alai"
-  fa: "چنگر هاوایی"
-  en: "Hawaiian Coot"
-
-# === TAXONOMY ===
+  scientific: Fulica alai
+  fa: چنگر هاوایی
+  en: Hawaiian Coot
+  es: Focha Hawaiana
+  fr: Foulque des Hawaï
+  de: Hawaiiblässhuhn
+  pt: hawaiian coot
+  ru: Гавайская лысуха
+  ja: ハワイオオバン
+  zh: 夏威夷骨顶
+  nl: Hawaïmeerkoet
+  pl: łyska hawajska
+  tr: Hawaii Mekesi
 taxonomy:
-  order: "Gruiformes"
-  family: "Rallidae"
-  genus: "Fulica"
-  species: "alai"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gruiformes
+  family: Rallidae
+  genus: Fulica
+  species: alai
 morphology:
   body_mass_g: 544.7
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 400
-  habitat_types: ["Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.5
   clutch_size_min: 1
   clutch_size_max: 10
   incubation_days: 23
-  nest_type: "Platform"
-  nest_placement: "Ground, Water"
+  nest_type: Platform
+  nest_placement: Ground, Water
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Fulica alai (چنگر هاوایی)
 

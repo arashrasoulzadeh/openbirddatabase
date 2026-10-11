@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11905"
-ebird_code: "nezgre1"
+taxon_id: BN11905
+ebird_code: nezgre1
 gbif_key: 2482035
-avibase_id: "5DE62468753E0435"
-iucn_status: "LC"
+avibase_id: 5DE62468753E0435
+iucn_status: LC
 taxon_order: 6862.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Poliocephalus rufopectus"
-  fa: "کشیم نیوزیلند"
-  en: "New Zealand Grebe"
-
-# === TAXONOMY ===
+  scientific: Poliocephalus rufopectus
+  fa: کشیم نیوزیلند
+  en: New Zealand Grebe
+  es: Zampullín Maorí
+  fr: Grèbe de Nouvelle-Zélande
+  de: Maoritaucher
+  pt: new zealand grebe
+  ru: Новозеландская поганка
+  ja: ニュージーランドカイツブリ
+  nl: Nieuw-Zeelandse fuut
+  pl: perkoz maoryski
+  tr: Yeni Zelanda Batağanı
 taxonomy:
-  order: "Podicipediformes"
-  family: "Podicipedidae"
-  genus: "Poliocephalus"
-  species: "rufopectus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Podicipediformes
+  family: Podicipedidae
+  genus: Poliocephalus
+  species: rufopectus
 morphology:
   body_mass_g: 230.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["Z"]
+  biogeographic_realms:
+  - Z
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 22
-  nest_type: "Platform"
-  nest_placement: "Ground, Water"
+  nest_type: Platform
+  nest_placement: Ground, Water
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Poliocephalus rufopectus (کشیم نیوزیلند)
 

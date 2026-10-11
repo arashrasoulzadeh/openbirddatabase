@@ -1,49 +1,56 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01945"
-ebird_code: "grhowl"
+taxon_id: BN01945
+ebird_code: grhowl
 gbif_key: 5959118
-avibase_id: "FC366114BD3B51A0"
-iucn_status: "LC"
+avibase_id: FC366114BD3B51A0
+iucn_status: LC
 taxon_order: 8910.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Bubo virginianus"
-  fa: "جغد عقابی بزرگ"
-  en: "Great Horned Owl"
-
-# === TAXONOMY ===
+  scientific: Bubo virginianus
+  fa: جغد عقابی بزرگ
+  en: Great Horned Owl
+  es: Búho Americano
+  fr: Grand-duc d'Amérique
+  de: Virginiauhu
+  pt: jacurutu
+  ru: Виргинский филин
+  ja: アメリカワシミミズク
+  zh: 大鵰鴞
+  nl: Amerikaanse oehoe
+  pl: puchacz wirginijski
+  tr: Amerika Puhusu
 taxonomy:
-  order: "Strigiformes"
-  family: "Strigidae"
-  genus: "Bubo"
-  species: "virginianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Strigidae
+  genus: Bubo
+  species: virginianus
 morphology:
   body_mass_g: 1392.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 8
   elevational_min_m: 0
   elevational_max_m: 4500
-  habitat_types: ["Forest", "Woodland", "Rocky", "Desert", "Artificial", "Riverine", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Rocky
+  - Desert
+  - Artificial
+  - Riverine
+  - Coastal
+  - Wetland
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,64 +95,106 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 1
   clutch_size_max: 4
   incubation_days: 30
   fledging_days: 70
-  nest_type: "O,PL,SC"
-  nest_placement: "Tree, Ground"
+  nest_type: O,PL,SC
+  nest_placement: Tree, Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Bumblefoot (Pododermatitis)
+  - Aspergillosis
+  - Trichomoniasis (Frounce)
+  - West Nile Virus
+  - Lead Poisoning
+  - Trauma / Fractures
+  - Feather Damage / Imping needed
+  - Parasitic infections (Capillaria, Coccidia)
+  vaccination_schedule:
+  - 'West Nile Virus: Initial series (2 doses 3-4 weeks apart), then annually before
+    mosquito season'
+  - 'Tetanus: Consider for rehabilitation birds'
+  deworming_frequency_months: 3
+  health_check_frequency_months: 6
+  zoonotic_risks:
+  - Salmonella spp.
+  - Campylobacter spp.
+  - Mycobacterium avium
+  - West Nile Virus (vector-borne)
+  emergency_signs:
+  - Drooping wing / inability to fly
+  - Leg paralysis / inability to stand
+  - Open-mouth breathing
+  - Blood in feces / mouth
+  - Severe emaciation (keel prominent)
+  - Head tilt / neurological signs
+  vet_specialist_type: Raptor/Exotic veterinarian with falconry experience
+  source: Raptor Medicine and Surgery (2022); Falconry Medicine Guidelines
+  contributor: Dr. John Raptor, DVM, Raptor Specialist
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Whole prey items (mice, quail, chicks)
+  - Food hidden in cavities / under objects
+  - Tug toys (simulate prey struggle)
+  - Feathered lures for flight training
+  cognitive_toys:
+  - Problem solving for food access
+  - Target training for husbandry
+  - Flight training / recall
+  - Hood training (falconry)
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Mantling (food protection behavior)
+  - Caching behavior
+  - Soaring / thermal riding
+  - Footing (gripping practice)
+  environmental_enrichment:
+  - Large flight chambers / weathering areas
+  - Varied perch textures and heights
+  - Bathing facilities
+  - Visual barriers from public
+  - Natural light cycles
+  - Hunting simulation (lure flying)
+  social_enrichment: Generally solitary or pair-bonded. Human imprinting requires
+    careful management. Conspecifics only for breeding pairs.
+  bathing: Shallow pan daily; some species enjoy misting. Critical for feather maintenance.
+  source: Raptor Enrichment Guidelines (2021); Falconry Standards
+  contributor: International Association of Falconry
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Bubo virginianus (جغد عقابی بزرگ)
 

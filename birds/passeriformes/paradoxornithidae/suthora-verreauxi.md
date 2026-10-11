@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14449"
-ebird_code: "golpar2"
+taxon_id: BN14449
+ebird_code: golpar2
 gbif_key: 6100930
-avibase_id: "12B5904902F50648"
-iucn_status: "LC"
+avibase_id: 12B5904902F50648
+iucn_status: LC
 taxon_order: 25485.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Suthora verreauxi"
-  fa: "طوطیمنقاری طلایی"
-  en: "Golden Parrotbill"
-
-# === TAXONOMY ===
+  scientific: Suthora verreauxi
+  fa: طوطیمنقاری طلایی
+  en: Golden Parrotbill
+  es: Picoloro Dorado
+  fr: Paradoxornis de Verreaux
+  de: Goldstirn-Papageimeise
+  pt: golden parrotbill
+  ru: Золотистая сутора
+  ja: キンイロダルマエナガ
+  zh: 金色鸦雀
+  nl: Gouden diksnavelmees
+  pl: ogoniatka złotawa
+  tr: Altın Rengi Papağangaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Paradoxornithidae"
-  genus: "Suthora"
-  species: "verreauxi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paradoxornithidae
+  genus: Suthora
+  species: verreauxi
 morphology:
   body_mass_g: 6.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1500
   elevational_max_m: 3050
-  habitat_types: ["Forest", "Bamboo"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 3
   clutch_size_max: 3
-  nest_type: "SP"
-  nest_placement: "A"
+  nest_type: SP
+  nest_placement: A
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Suthora verreauxi (طوطیمنقاری طلایی)
 

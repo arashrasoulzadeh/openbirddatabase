@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13387"
-ebird_code: "luzwrb1"
+taxon_id: BN13387
+ebird_code: luzwrb1
 gbif_key: 5788956
-avibase_id: "A06552F554C66EA2"
-iucn_status: "NT"
+avibase_id: A06552F554C66EA2
+iucn_status: NT
 taxon_order: 23774.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Robsonius rabori"
-  fa: "سسک زمینی کوردیلرا"
-  en: "Cordillera Ground Warbler"
-
-# === TAXONOMY ===
+  scientific: Robsonius rabori
+  fa: سسک زمینی کوردیلرا
+  en: Cordillera Ground Warbler
+  es: Ratina de Rabor
+  fr: Robsonie de Luçon
+  de: Rostkopf-Grundsänger
+  pt: cordillera ground-warbler
+  ru: Краснолицый жемчужнокрыл
+  ja: シラボシサザイチメドリ
+  zh: Cordillera Ground Warbler
+  nl: Randsluipzanger
+  pl: perłopiórek rdzawouchy
+  tr: Kordiyera Yer Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Locustellidae"
-  genus: "Robsonius"
-  species: "rabori"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Locustellidae
+  genus: Robsonius
+  species: rabori
 morphology:
   body_mass_g: 56.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Robsonius rabori (سسک زمینی کوردیلرا)
 

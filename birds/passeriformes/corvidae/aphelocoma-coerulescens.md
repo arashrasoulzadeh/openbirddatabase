@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01021"
-ebird_code: "flsjay"
+taxon_id: BN01021
+ebird_code: flsjay
 gbif_key: 2482400
-avibase_id: "114C4EDC631C18BD"
-iucn_status: "VU"
+avibase_id: 114C4EDC631C18BD
+iucn_status: VU
 taxon_order: 21301.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aphelocoma coerulescens"
-  fa: "جیجاق خاشاک فلوریدا"
-  en: "Florida Scrub Jay"
-
-# === TAXONOMY ===
+  scientific: Aphelocoma coerulescens
+  fa: جیجاق خاشاک فلوریدا
+  en: Florida Scrub Jay
+  es: Chara Floridana
+  fr: Geai à gorge blanche
+  de: Floridahäher
+  pt: florida scrub-jay
+  ru: Флоридская сойка
+  ja: フロリダカケス
+  zh: Florida Scrub Jay
+  nl: Floridastruikgaai
+  pl: modrowronka zaroślowa
+  tr: Florida Çalı Kargası
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Aphelocoma"
-  species: "coerulescens"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Aphelocoma
+  species: coerulescens
 morphology:
   body_mass_g: 76.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 100
-  habitat_types: ["Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,41 +88,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 1
   clutch_size_max: 6
   incubation_days: 16
   fledging_days: 12
-  nest_type: "CP,PL"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP,PL
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aphelocoma coerulescens (جیجاق خاشاک فلوریدا)
 

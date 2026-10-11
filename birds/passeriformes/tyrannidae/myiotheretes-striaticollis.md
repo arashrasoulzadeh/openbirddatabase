@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09313"
-ebird_code: "stbtyr1"
+taxon_id: BN09313
+ebird_code: stbtyr1
 gbif_key: 2483326
-avibase_id: "8200F58CF0A9414B"
-iucn_status: "LC"
+avibase_id: 8200F58CF0A9414B
+iucn_status: LC
 taxon_order: 17148.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiotheretes striaticollis"
-  fa: "ژیانمرغ بیشه گلورگهای"
-  en: "Streak-throated Bush Tyrant"
-
-# === TAXONOMY ===
+  scientific: Myiotheretes striaticollis
+  fa: ژیانمرغ بیشه گلورگهای
+  en: Streak-throated Bush Tyrant
+  es: Birro Grande
+  fr: Moucherolle à gorge rayée
+  de: Streifenkehl-Buschtyrann
+  pt: streak-throated bush-tyrant
+  ru: Пестрогорлая гевара
+  ja: ヤブタイランチョウ
+  zh: Streak-throated Bush Tyrant
+  nl: Streepkeelstruiktiran
+  pl: kopciuch smugoszyi
+  tr: Çizgili Boğazlı Çalı Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiotheretes"
-  species: "striaticollis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiotheretes
+  species: striaticollis
 morphology:
   body_mass_g: 60.35
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 2400
   elevational_max_m: 3400
-  habitat_types: ["Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Building"
+  nest_type: CP
+  nest_placement: Building
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiotheretes striaticollis (ژیانمرغ بیشه گلورگهای)
 

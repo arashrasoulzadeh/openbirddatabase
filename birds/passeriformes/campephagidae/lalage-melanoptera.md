@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07414"
-ebird_code: "bkhcus1"
+taxon_id: BN07414
+ebird_code: bkhcus1
 gbif_key: 7364967
-avibase_id: "58BC7F5D1AD730B3"
-iucn_status: "LC"
+avibase_id: 58BC7F5D1AD730B3
+iucn_status: LC
 taxon_order: 18847.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lalage melanoptera"
-  fa: "سنگ‌چشم-کوکوی سرسیاه"
-  en: "Black-headed Cuckooshrike"
-
-# === TAXONOMY ===
+  scientific: Lalage melanoptera
+  fa: سنگ‌چشم-کوکوی سرسیاه
+  en: Black-headed Cuckooshrike
+  es: Oruguero Cabecinegro
+  fr: Échenilleur à tête noire
+  de: Schwarzkopf-Raupenfänger
+  pt: black-headed cuckooshrike
+  ru: Чернокрылый личинкоед-свистун
+  ja: ズグロアサクラサンショウクイ
+  zh: 黑頭鵑鵙
+  nl: Zwartkoprupsvogel
+  pl: gąsienicojad czarnogardły
+  tr: Kara Başlı Tırtılyiyen
 taxonomy:
-  order: "Passeriformes"
-  family: "Campephagidae"
-  genus: "Lalage"
-  species: "melanoptera"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Campephagidae
+  genus: Lalage
+  species: melanoptera
 morphology:
   body_mass_g: 28.666666666666668
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1650
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +92,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "SA"
-  nest_placement: "Tree"
+  nest_type: SA
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lalage melanoptera (سنگ‌چشم-کوکوی سرسیاه)
 

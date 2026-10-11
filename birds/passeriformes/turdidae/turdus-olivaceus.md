@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15460"
-ebird_code: "olithr2"
+taxon_id: BN15460
+ebird_code: olithr2
 gbif_key: 2490723
-avibase_id: "407A34D9FDDE2DB5"
-iucn_status: "LC"
+avibase_id: 407A34D9FDDE2DB5
+iucn_status: LC
 taxon_order: 28453.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Turdus olivaceus"
-  fa: "توکای زیتونی"
-  en: "Olive Thrush"
-
-# === TAXONOMY ===
+  scientific: Turdus olivaceus
+  fa: توکای زیتونی
+  en: Olive Thrush
+  es: Zorzal Oliváceo
+  fr: Merle olivâtre
+  de: Kapdrossel
+  pt: olive thrush
+  ru: Капский дрозд
+  ja: オリーブツグミ
+  zh: 橄欖鶇
+  nl: Kaapse lijster
+  pl: drozd ogorzały
+  tr: Zeytuni Ardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Turdus"
-  species: "olivaceus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Turdus
+  species: olivaceus
 morphology:
   body_mass_g: 79.91666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 800
   elevational_max_m: 2200
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 14
   fledging_days: 16
-  nest_type: "CP"
-  nest_placement: "Building, Shrub, Tree"
+  nest_type: CP
+  nest_placement: Building, Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Turdus olivaceus (توکای زیتونی)
 

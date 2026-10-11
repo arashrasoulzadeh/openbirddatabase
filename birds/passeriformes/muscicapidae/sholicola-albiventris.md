@@ -1,47 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13915"
-ebird_code: "whbsho3"
+taxon_id: BN13915
+ebird_code: whbsho3
 gbif_key: 9465431
-avibase_id: "76F3C88519C4B684"
-iucn_status: "NT"
+avibase_id: 76F3C88519C4B684
+iucn_status: NT
 taxon_order: 29046.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sholicola albiventris"
-  fa: "nan"
-  en: "White-bellied Blue Robin"
-
-# === TAXONOMY ===
+  scientific: Sholicola albiventris
+  fa: nan
+  en: White-bellied Blue Robin
+  es: Alicorto Ventriblanco
+  fr: Myiomèle à ventre blanc
+  de: Weißbauchschmätzer
+  pt: white-bellied sholakili
+  ru: Белобрюхий шолакили
+  ja: シロハラコンヒタキ
+  zh: White-bellied Blue Robin
+  nl: Witbuikkortvleugel
+  pl: runniczek białobrzuchy
+  tr: Ak Karınlı Çivit Bülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Muscicapidae"
-  genus: "Sholicola"
-  species: "albiventris"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Muscicapidae
+  genus: Sholicola
+  species: albiventris
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1000
   elevational_max_m: 2200
-  habitat_types: ["Forest", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sholicola albiventris (nan)
 

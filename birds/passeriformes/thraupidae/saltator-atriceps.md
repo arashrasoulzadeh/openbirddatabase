@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13482"
-ebird_code: "blhsal1"
+taxon_id: BN13482
+ebird_code: blhsal1
 gbif_key: 5230896
-avibase_id: "9B7AF03549CE9873"
-iucn_status: "LC"
+avibase_id: 9B7AF03549CE9873
+iucn_status: LC
 taxon_order: 35792.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Saltator atriceps"
-  fa: "پایکوب سرسیاه"
-  en: "Black-headed Saltator"
-
-# === TAXONOMY ===
+  scientific: Saltator atriceps
+  fa: پایکوب سرسیاه
+  en: Black-headed Saltator
+  es: Pepitero Cabecinegro
+  fr: Saltator à tête noire
+  de: Schwarzscheitelsaltator
+  pt: black-headed saltator
+  ru: Черноголовый сальтатор
+  ja: ズグロイカル
+  nl: Zwartkopsaltator
+  pl: ziarnołusk ciemnogłowy
+  tr: Kara Başlı Saltator
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Saltator"
-  species: "atriceps"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Saltator
+  species: atriceps
 morphology:
   body_mass_g: 81.2
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1800
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 2.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Saltator atriceps (پایکوب سرسیاه)
 

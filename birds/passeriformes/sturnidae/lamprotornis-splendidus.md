@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07465"
-ebird_code: "spgsta1"
+taxon_id: BN07465
+ebird_code: spgsta1
 gbif_key: 2489089
-avibase_id: "18B10CF9F269693B"
-iucn_status: "LC"
+avibase_id: 18B10CF9F269693B
+iucn_status: LC
 taxon_order: 27958.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lamprotornis splendidus"
-  fa: "سار باشکوه"
-  en: "Splendid Starling"
-
-# === TAXONOMY ===
+  scientific: Lamprotornis splendidus
+  fa: سار باشکوه
+  en: Splendid Starling
+  es: Estornino Espléndido
+  fr: Choucador splendide
+  de: Prachtglanzstar
+  pt: splendid starling
+  ru: Великолепный спрео
+  ja: セイキテリムク
+  nl: Prachtglansspreeuw
+  pl: błyszczak wspaniały
+  tr: Mücevher Sığırcığı
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Lamprotornis"
-  species: "splendidus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Lamprotornis
+  species: splendidus
 morphology:
   body_mass_g: 127.83333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2300
-  habitat_types: ["Forest", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
+  - Coastal
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,36 +89,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lamprotornis splendidus (سار باشکوه)
 

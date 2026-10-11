@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00632"
-ebird_code: "shtgra1"
+taxon_id: BN00632
+ebird_code: shtgra1
 gbif_key: 2487548
-avibase_id: "63D1DCD1376B5AAA"
-iucn_status: "NT"
+avibase_id: 63D1DCD1376B5AAA
+iucn_status: NT
 taxon_order: 17612.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Amytornis merrotsyi"
-  fa: "الیکایی چمنی دمکوتاه"
-  en: "Short-tailed Grasswren"
-
-# === TAXONOMY ===
+  scientific: Amytornis merrotsyi
+  fa: الیکایی چمنی دمکوتاه
+  en: Short-tailed Grasswren
+  es: Maluro Colicorto
+  fr: Amytis de Merrotsy
+  de: Kurzschwanz-Grasschlüpfer
+  pt: short-tailed grasswren
+  ru: Короткохвостый амитис
+  ja: ヒメノドジロセスジムシクイ
+  zh: 短尾草鹩莺
+  nl: Kortstaartgrassluiper
+  pl: zielak krótkosterny
+  tr: Kısa Kuyruklu Otbülbülü
 taxonomy:
-  order: "Passeriformes"
-  family: "Maluridae"
-  genus: "Amytornis"
-  species: "merrotsyi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Maluridae
+  genus: Amytornis
+  species: merrotsyi
 morphology:
   body_mass_g: 22.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Shrubland", "Grassland", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 2
-  nest_placement: "Cliff/Crevice"
+  nest_placement: Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Amytornis merrotsyi (الیکایی چمنی دمکوتاه)
 

@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13168"
-ebird_code: "grerhe1"
+taxon_id: BN13168
+ebird_code: grerhe1
 gbif_key: 2495165
-avibase_id: "00986B2456382647"
-iucn_status: "NT"
+avibase_id: 00986B2456382647
+iucn_status: NT
 taxon_order: 32.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rhea americana"
-  fa: "ریا بزرگ"
-  en: "Greater Rhea"
-
-# === TAXONOMY ===
+  scientific: Rhea americana
+  fa: ریا بزرگ
+  en: Greater Rhea
+  es: Ñandú Común
+  fr: Nandou d'Amérique
+  de: Nandu
+  pt: ema
+  ru: Нанду
+  ja: レア
+  zh: 大美洲鴕
+  nl: Nandoe
+  pl: nandu szare
+  tr: Büyük Rea
 taxonomy:
-  order: "Rheiformes"
-  family: "Rheidae"
-  genus: "Rhea"
-  species: "americana"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Rheiformes
+  family: Rheidae
+  genus: Rhea
+  species: americana
 morphology:
   body_mass_g: 25250.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1200
-  habitat_types: ["Shrubland", "Savanna", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 6
   categories:
     invertebrates: 0.01
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Flightless"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Flightless
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 25.0
   clutch_size_min: 20
   clutch_size_max: 30
   incubation_days: 27
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Male only"
-
-
-# === CONSERVATION ===
+  parental_care: Male only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rhea americana (ریا بزرگ)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05335"
-ebird_code: "macpen1"
+taxon_id: BN05335
+ebird_code: macpen1
 gbif_key: 2481643
-avibase_id: "2C2BC004781E7F20"
-iucn_status: "VU"
+avibase_id: 2C2BC004781E7F20
+iucn_status: VU
 taxon_order: 6963.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Eudyptes chrysolophus"
-  fa: "پنگوئن ماکارونی"
-  en: "Macaroni Penguin"
-
-# === TAXONOMY ===
+  scientific: Eudyptes chrysolophus
+  fa: پنگوئن ماکارونی
+  en: Macaroni Penguin
+  es: Pingüino Macaroni
+  fr: Gorfou doré
+  de: Goldschopfpinguin
+  pt: pinguim-macaroni
+  ru: Златохохлый пингвин
+  ja: マカロニペンギン
+  zh: 冠企鵝
+  nl: Macaronipinguïn
+  pl: pingwin złotoczuby
+  tr: Saçlı Penguen
 taxonomy:
-  order: "Sphenisciformes"
-  family: "Spheniscidae"
-  genus: "Eudyptes"
-  species: "chrysolophus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Sphenisciformes
+  family: Spheniscidae
+  genus: Eudyptes
+  species: chrysolophus
 morphology:
   body_mass_g: 4650.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["S"]
+  biogeographic_realms:
+  - S
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 200
-  habitat_types: ["Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Flightless"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Flightless
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 33
   fledging_days: 60
-  nest_placement: "Ground"
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Eudyptes chrysolophus (پنگوئن ماکارونی)
 

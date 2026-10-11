@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08453"
-ebird_code: "subtyr1"
+taxon_id: BN08453
+ebird_code: subtyr1
 gbif_key: 2483842
-avibase_id: "95D9C295ED7F59B7"
-iucn_status: "LC"
+avibase_id: 95D9C295ED7F59B7
+iucn_status: LC
 taxon_order: 16595.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Mecocerculus minor"
-  fa: "nan"
-  en: "Sulphur-bellied Tyrannulet"
-
-# === TAXONOMY ===
+  scientific: Mecocerculus minor
+  fa: nan
+  en: Sulphur-bellied Tyrannulet
+  es: Piojito Azufre
+  fr: Tyranneau soufré
+  de: Gelbbauch-Tachurityrann
+  pt: sulphur-bellied tyrannulet
+  ru: Желтобрюхий москитолов
+  ja: キバラフタスジタイランチョウ
+  nl: Geelbuiktachuri
+  pl: andotyranek żółtawy
+  tr: Sülfür Karınlı Tiranulet
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Mecocerculus"
-  species: "minor"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Mecocerculus
+  species: minor
 morphology:
   body_mass_g: 9.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1600
   elevational_max_m: 2700
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Mecocerculus minor (nan)
 

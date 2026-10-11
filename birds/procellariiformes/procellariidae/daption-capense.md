@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04327"
-ebird_code: "cappet"
+taxon_id: BN04327
+ebird_code: cappet
 gbif_key: 2481545
-avibase_id: "AAC2D6136C46A743"
-iucn_status: "LC"
+avibase_id: AAC2D6136C46A743
+iucn_status: LC
 taxon_order: 7097.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Daption capense"
-  fa: "مرغ باران دماغه"
-  en: "Pintado Petrel"
-
-# === TAXONOMY ===
+  scientific: Daption capense
+  fa: مرغ باران دماغه
+  en: Pintado Petrel
+  es: Petrel Damero
+  fr: Damier du Cap
+  de: Kapsturmvogel
+  pt: pomba-do-cabo
+  ru: Капский голубок
+  ja: マダラフルマカモメ
+  zh: 南非鸌
+  nl: Kaapse stormvogel
+  pl: warcabnik
+  tr: Alaca Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Daption"
-  species: "capense"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Daption
+  species: capense
 morphology:
   body_mass_g: 444.6666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["SZ"]
+  biogeographic_realms:
+  - SZ
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 7.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 41
   fledging_days: 46
-  nest_type: "CR"
-  nest_placement: "Ground, Rock"
+  nest_type: CR
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Daption capense (مرغ باران دماغه)
 

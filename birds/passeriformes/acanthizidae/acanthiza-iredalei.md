@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00018"
-ebird_code: "slbtho2"
+taxon_id: BN00018
+ebird_code: slbtho2
 gbif_key: 5230405
-avibase_id: "D6ACB3613D00F2E4"
-iucn_status: "LC"
+avibase_id: D6ACB3613D00F2E4
+iucn_status: LC
 taxon_order: 18411.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Acanthiza iredalei"
-  fa: "نوکخاری نوکباریک"
-  en: "Slender-billed Thornbill"
-
-# === TAXONOMY ===
+  scientific: Acanthiza iredalei
+  fa: نوکخاری نوکباریک
+  en: Slender-billed Thornbill
+  es: Acantiza de Iredale
+  fr: Acanthize d'Iredale
+  de: Grunddornschnabel
+  pt: slender-billed thornbill
+  ru: Тонкоклювая шипоклювка
+  ja: キゴシトゲハシムシクイ
+  zh: 细嘴刺嘴莺
+  nl: Mulgadoornsnavel
+  pl: buszówka mała
+  tr: Boz Dikengaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Acanthizidae"
-  genus: "Acanthiza"
-  species: "iredalei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Acanthizidae
+  genus: Acanthiza
+  species: iredalei
 morphology:
   body_mass_g: 5.699999999999999
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +88,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "SP"
-  nest_placement: "Shrub"
+  nest_type: SP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Acanthiza iredalei (نوکخاری نوکباریک)
 

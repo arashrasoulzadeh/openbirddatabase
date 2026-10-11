@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12794"
-ebird_code: "bryshe1"
+taxon_id: BN12794
+ebird_code: bryshe1
 gbif_key: 5843959
-avibase_id: "4D3C7770AE8DF60F"
-iucn_status: "CR"
+avibase_id: 4D3C7770AE8DF60F
+iucn_status: CR
 taxon_order: 7233.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Puffinus bryani"
-  fa: "کبوتر دریایی براین"
-  en: "Bryan's Shearwater"
-
-# === TAXONOMY ===
+  scientific: Puffinus bryani
+  fa: کبوتر دریایی براین
+  en: Bryan's Shearwater
+  es: Pardela de Bryan
+  fr: Puffin de Bryan
+  de: Midwaysturmtaucher
+  pt: bryan's shearwater
+  ru: Мидуэйский буревестник
+  ja: オガサワラヒメミズナギドリ
+  nl: Bryanpijlstormvogel
+  pl: burzyk siodłaty
+  tr: Bonin Adası Küçük Yelkovanı
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Puffinus"
-  species: "bryani"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Puffinus
+  species: bryani
 morphology:
   body_mass_g: 147.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Burrow"
-  nest_placement: "Ground, Rock"
+  nest_type: Burrow
+  nest_placement: Ground, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Puffinus bryani (کبوتر دریایی براین)
 

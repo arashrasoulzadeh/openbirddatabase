@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05351"
-ebird_code: "watplo1"
+taxon_id: BN05351
+ebird_code: watplo1
 gbif_key: 2482534
-avibase_id: "936EA20788E37B9F"
-iucn_status: "LC"
+avibase_id: 936EA20788E37B9F
+iucn_status: LC
 taxon_order: 18985.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Eulacestoma nigropectus"
-  fa: "نوکگاوآهن غبغبکدار"
-  en: "Wattled Ploughbill"
-
-# === TAXONOMY ===
+  scientific: Eulacestoma nigropectus
+  fa: نوکگاوآهن غبغبکدار
+  en: Wattled Ploughbill
+  es: Silbador Picoarado
+  fr: Écorceur caronculé
+  de: Lappenpflugschnabel
+  pt: wattled ploughbill
+  ru: Бородатый толстоклюв
+  ja: ホオダレモズガラ
+  zh: 肉垂犁嘴鸟
+  nl: Leldikkop
+  pl: koralniczek
+  tr: Sabankuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Eulacestomatidae"
-  genus: "Eulacestoma"
-  species: "nigropectus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Eulacestomatidae
+  genus: Eulacestoma
+  species: nigropectus
 morphology:
   body_mass_g: 20.400000000000002
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1950
   elevational_max_m: 2850
-  habitat_types: ["Forest", "Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,34 +90,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   nest_material: []
-  parental_care: "Male only"
-
-
-# === CONSERVATION ===
+  parental_care: Male only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Eulacestoma nigropectus (نوکگاوآهن غبغبکدار)
 

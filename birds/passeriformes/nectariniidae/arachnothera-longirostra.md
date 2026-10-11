@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01132"
-ebird_code: "litspi1"
+taxon_id: BN01132
+ebird_code: litspi1
 gbif_key: 2484653
-avibase_id: "B4EF3CAD7F76988C"
-iucn_status: "LC"
+avibase_id: B4EF3CAD7F76988C
+iucn_status: LC
 taxon_order: 30610.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Arachnothera longirostra"
-  fa: "کارتنهخورک کوچک"
-  en: "Little Spiderhunter"
-
-# === TAXONOMY ===
+  scientific: Arachnothera longirostra
+  fa: کارتنهخورک کوچک
+  en: Little Spiderhunter
+  es: Arañero Chico
+  fr: Petit Arachnothère
+  de: Weißkehl-Spinnenjäger
+  pt: little spiderhunter
+  ru: Длинноклювая пауколовка
+  ja: コクモカリドリ
+  zh: 长嘴捕蛛鸟
+  nl: Kleine spinnenjager
+  pl: pajęcznik długodzioby
+  tr: Küçük Örümcekavcısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Nectariniidae"
-  genus: "Arachnothera"
-  species: "longirostra"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Nectariniidae
+  genus: Arachnothera
+  species: longirostra
 morphology:
   body_mass_g: 12.225
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 600
-  habitat_types: ["Forest", "Bamboo", "Shrubland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,38 +93,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "PN"
-  nest_placement: "Shrub, Tree, Cliff/Crevice"
+  nest_type: PN
+  nest_placement: Shrub, Tree, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Arachnothera longirostra (کارتنهخورک کوچک)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06278"
-ebird_code: "calcon"
+taxon_id: BN06278
+ebird_code: calcon
 gbif_key: 2481920
-avibase_id: "24F1432829285FA9"
-iucn_status: "CR"
+avibase_id: 24F1432829285FA9
+iucn_status: CR
 taxon_order: 7808.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gymnogyps californianus"
-  fa: "رخکرکس کالیفرنیا"
-  en: "California Condor"
-
-# === TAXONOMY ===
+  scientific: Gymnogyps californianus
+  fa: رخکرکس کالیفرنیا
+  en: California Condor
+  es: Cóndor Californiano
+  fr: Condor de Californie
+  de: Kalifornienkondor
+  pt: california condor
+  ru: Калифорнийский кондор
+  ja: カリフォルニアコンドル
+  zh: 加州神鷲
+  nl: Californische condor
+  pl: kondor kalifornijski
+  tr: Kaliforniya Kondoru
 taxonomy:
-  order: "Cathartiformes"
-  family: "Cathartidae"
-  genus: "Gymnogyps"
-  species: "californianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cathartiformes
+  family: Cathartidae
+  genus: Gymnogyps
+  species: californianus
 morphology:
   body_mass_g: 9283.333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Grassland
 diet:
-  primary: "Scavenger"
+  primary: Scavenger
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 55
   fledging_days: 180
-  nest_type: "NO"
-  nest_placement: "Rock, Tree"
+  nest_type: 'NO'
+  nest_placement: Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gymnogyps californianus (رخکرکس کالیفرنیا)
 

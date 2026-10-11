@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13969"
-ebird_code: "eurnut2"
+taxon_id: BN13969
+ebird_code: eurnut2
 gbif_key: 2484916
-avibase_id: "9C2B53A087F44E10"
-iucn_status: "LC"
+avibase_id: 9C2B53A087F44E10
+iucn_status: LC
 taxon_order: 26966.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sitta europaea"
-  fa: "کمرکلی جنگلی"
-  en: "Eurasian Nuthatch"
-
-# === TAXONOMY ===
+  scientific: Sitta europaea
+  fa: کمرکلی جنگلی
+  en: Eurasian Nuthatch
+  es: Trepador Azul
+  fr: Sittelle torchepot
+  de: Kleiber
+  pt: trepadeira-azul
+  ru: Обыкновенный поползень
+  ja: ゴジュウカラ
+  zh: 普通䴓
+  nl: Boomklever
+  pl: kowalik
+  tr: Sıvacı
 taxonomy:
-  order: "Passeriformes"
-  family: "Sittidae"
-  genus: "Sitta"
-  species: "europaea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sittidae
+  genus: Sitta
+  species: europaea
 morphology:
   body_mass_g: 21.516666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 3300
-  habitat_types: ["Forest", "Woodland", "Grassland", "Rocky", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Grassland
+  - Rocky
+  - Artificial
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 5.0
@@ -88,41 +93,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 8.5
   clutch_size_min: 4
   clutch_size_max: 13
   incubation_days: 13
   fledging_days: 18
-  nest_type: "CV,CR,O"
-  nest_placement: "Tree, Rock, A"
+  nest_type: CV,CR,O
+  nest_placement: Tree, Rock, A
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +126,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +134,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sitta europaea (کمرکلی جنگلی)
 

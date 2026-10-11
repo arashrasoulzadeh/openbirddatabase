@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07536"
-ebird_code: "incter1"
+taxon_id: BN07536
+ebird_code: incter1
 gbif_key: 2481125
-avibase_id: "FF6C3B9C8E71701B"
-iucn_status: "NT"
+avibase_id: FF6C3B9C8E71701B
+iucn_status: NT
 taxon_order: 6719.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Larosterna inca"
-  fa: "پرستوی دریایی اینکا"
-  en: "Inca Tern"
-
-# === TAXONOMY ===
+  scientific: Larosterna inca
+  fa: پرستوی دریایی اینکا
+  en: Inca Tern
+  es: Charrán Inca
+  fr: Sterne inca
+  de: Inkaseeschwalbe
+  pt: inca tern
+  ru: Крачка-инка
+  ja: インカアジサシ
+  zh: 印加燕鸥
+  nl: Incastern
+  pl: rybitwa wąsata
+  tr: İnka Sumrusu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Larosterna"
-  species: "inca"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Larosterna
+  species: inca
 morphology:
   body_mass_g: 199.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Artificial
+  - Coastal
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   fledging_days: 28
-  nest_type: "BU,CR"
-  nest_placement: "Ground, Rock"
+  nest_type: BU,CR
+  nest_placement: Ground, Rock
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Larosterna inca (پرستوی دریایی اینکا)
 

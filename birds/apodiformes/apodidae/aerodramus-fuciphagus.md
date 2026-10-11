@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00200"
-ebird_code: "y00731"
+taxon_id: BN00200
+ebird_code: y00731
 gbif_key: 2477269
-avibase_id: "F9EE54D9F7C1610B"
-iucn_status: "LC"
+avibase_id: F9EE54D9F7C1610B
+iucn_status: LC
 taxon_order: 4059.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aerodramus fuciphagus"
-  fa: "بادقپک لانهخوراکی"
-  en: "Edible-nest Swiftlet"
-
-# === TAXONOMY ===
+  scientific: Aerodramus fuciphagus
+  fa: بادقپک لانهخوراکی
+  en: Edible-nest Swiftlet
+  es: Salangana Nidoblanco
+  fr: Salangane à nid blanc
+  de: Weißnestsalangane
+  pt: andorinhão-de-ninho-comestível
+  ru: Салангана-водорослеед
+  ja: ジャワアナツバメ／マレーアナツバメ
+  zh: 爪哇金丝燕
+  nl: Eetbaarnestsalangaan
+  pl: salangana sundajska
+  tr: Beyaz Yuvalı Yelyutan
 taxonomy:
-  order: "Apodiformes"
-  family: "Apodidae"
-  genus: "Aerodramus"
-  species: "fuciphagus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Apodidae
+  genus: Aerodramus
+  species: fuciphagus
 morphology:
   body_mass_g: 13.040000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IW"]
+  biogeographic_realms:
+  - IW
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Forest", "Rocky", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Rocky
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +91,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 23
   fledging_days: 39
-  nest_type: "HC"
-  nest_placement: "Building, Rock"
+  nest_type: HC
+  nest_placement: Building, Rock
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aerodramus fuciphagus (بادقپک لانهخوراکی)
 

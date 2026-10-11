@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14282"
-ebird_code: "vichum2"
+taxon_id: BN14282
+ebird_code: vichum2
 gbif_key: 2476985
-avibase_id: "B1A4A6A075AAE499"
-iucn_status: "LC"
+avibase_id: B1A4A6A075AAE499
+iucn_status: LC
 taxon_order: 4721.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sternoclyta cyanopectus"
-  fa: "مگسمرغ سینهبنفش"
-  en: "Violet-chested Hummingbird"
-
-# === TAXONOMY ===
+  scientific: Sternoclyta cyanopectus
+  fa: مگسمرغ سینهبنفش
+  en: Violet-chested Hummingbird
+  es: Colibrí Pechiazul
+  fr: Colibri à poitrine violette
+  de: Veilchenbrustkolibri
+  pt: violet-chested hummingbird
+  ru: Лиловогрудый колибри
+  ja: スミレムネハチドリ
+  zh: 紫罗兰胸蜂鸟
+  nl: Paarsborstkolibrie
+  pl: fiołkowik
+  tr: Menekşe Gerdanlı Kolibri
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Sternoclyta"
-  species: "cyanopectus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Sternoclyta
+  species: cyanopectus
 morphology:
   body_mass_g: 7.816666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 700
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,39 +91,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sternoclyta cyanopectus (مگسمرغ سینهبنفش)
 

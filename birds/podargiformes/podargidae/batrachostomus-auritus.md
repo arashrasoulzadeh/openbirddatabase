@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01649"
-ebird_code: "larfro1"
+taxon_id: BN01649
+ebird_code: larfro1
 gbif_key: 2497148
-avibase_id: "9E4E307A7A012BE1"
-iucn_status: "VU"
+avibase_id: 9E4E307A7A012BE1
+iucn_status: VU
 taxon_order: 3781.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Batrachostomus auritus"
-  fa: "دهانقورباغهای بزرگ"
-  en: "Large Frogmouth"
-
-# === TAXONOMY ===
+  scientific: Batrachostomus auritus
+  fa: دهانقورباغهای بزرگ
+  en: Large Frogmouth
+  es: Podargo Orejudo
+  fr: Podarge oreillard
+  de: Riesenschwalm
+  pt: large frogmouth
+  ru: Ушастый лягушкорот
+  ja: オオガマグチヨタカ
+  zh: 大蟆口鴟
+  nl: Grote kikkerbek
+  pl: gębal uszaty
+  tr: Büyük Kocaağız
 taxonomy:
-  order: "Podargiformes"
-  family: "Podargidae"
-  genus: "Batrachostomus"
-  species: "auritus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Podargiformes
+  family: Podargidae
+  genus: Batrachostomus
+  species: auritus
 morphology:
   body_mass_g: 206.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Forest", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Batrachostomus auritus (دهانقورباغهای بزرگ)
 

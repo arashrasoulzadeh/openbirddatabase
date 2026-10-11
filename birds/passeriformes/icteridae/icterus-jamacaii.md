@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07089"
-ebird_code: "camtro1"
+taxon_id: BN07089
+ebird_code: camtro1
 gbif_key: 5229922
-avibase_id: "24D0C8884BD0B0D0"
-iucn_status: "LC"
+avibase_id: 24D0C8884BD0B0D0
+iucn_status: LC
 taxon_order: 33719.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Icterus jamacaii"
-  fa: "مرغانجیر کامپو"
-  en: "Campo Troupial"
-
-# === TAXONOMY ===
+  scientific: Icterus jamacaii
+  fa: مرغانجیر کامپو
+  en: Campo Troupial
+  es: Turpial Brasileño
+  fr: Oriole des campos
+  de: Campotrupial
+  pt: corrupião
+  ru: Светлоглазый трупиал
+  ja: カンポムクドリモドキ
+  nl: Oranjevleugeltroepiaal
+  pl: kacyk modrooki
+  tr: Kampo Turpiyalı
 taxonomy:
-  order: "Passeriformes"
-  family: "Icteridae"
-  genus: "Icterus"
-  species: "jamacaii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Icteridae
+  genus: Icterus
+  species: jamacaii
 morphology:
   body_mass_g: 53.525
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Woodland", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 4.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 14
-  nest_type: "O"
-  nest_placement: "Cavity"
+  nest_type: O
+  nest_placement: Cavity
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Icterus jamacaii (مرغانجیر کامپو)
 

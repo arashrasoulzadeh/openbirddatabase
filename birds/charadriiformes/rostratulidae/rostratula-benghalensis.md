@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13398"
-ebird_code: "grpsni1"
+taxon_id: BN13398
+ebird_code: grpsni1
 gbif_key: 2482029
-avibase_id: "7516E6872967C181"
-iucn_status: "LC"
+avibase_id: 7516E6872967C181
+iucn_status: LC
 taxon_order: 5983.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Rostratula benghalensis"
-  fa: "پاشلک رنگین"
-  en: "Greater Painted-snipe"
-
-# === TAXONOMY ===
+  scientific: Rostratula benghalensis
+  fa: پاشلک رنگین
+  en: Greater Painted-snipe
+  es: Aguatero Bengalí
+  fr: Rhynchée peinte
+  de: Goldschnepfe
+  pt: narceja-pintada-grande
+  ru: Цветной бекас
+  ja: タマシギ
+  zh: 彩鹬
+  nl: Goudsnip
+  pl: złotosłonka bengalska
+  tr: Boyalıçulluk
 taxonomy:
-  order: "Charadriiformes"
-  family: "Rostratulidae"
-  genus: "Rostratula"
-  species: "benghalensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Rostratulidae
+  genus: Rostratula
+  species: benghalensis
 morphology:
   body_mass_g: 129.83333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1800
-  habitat_types: ["Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 15
-  nest_type: "HC"
-  nest_placement: "Ground, Water"
+  nest_type: HC
+  nest_placement: Ground, Water
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Rostratula benghalensis (پاشلک رنگین)
 

@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01218"
-ebird_code: "korbus1"
+taxon_id: BN01218
+ebird_code: korbus1
 gbif_key: 2474909
-avibase_id: "4FC41CA0DC1B12AF"
-iucn_status: "NT"
+avibase_id: 4FC41CA0DC1B12AF
+iucn_status: NT
 taxon_order: 2918.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ardeotis kori"
-  fa: "هوبره کوری"
-  en: "Kori Bustard"
-
-# === TAXONOMY ===
+  scientific: Ardeotis kori
+  fa: هوبره کوری
+  en: Kori Bustard
+  es: Avutarda Kori
+  fr: Outarde kori
+  de: Riesentrappe
+  pt: kori bustard
+  ru: Дрофа-кори
+  ja: アフリカオオノガン
+  zh: 灰頸鷺鴇
+  nl: Koritrap
+  pl: drop olbrzymi
+  tr: Kori Toyu
 taxonomy:
-  order: "Otidiformes"
-  family: "Otididae"
-  genus: "Ardeotis"
-  species: "kori"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Otidiformes
+  family: Otididae
+  genus: Ardeotis
+  species: kori
 morphology:
   body_mass_g: 9300.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Woodland", "Shrubland", "Savanna", "Grassland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Desert
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 5
   categories:
     invertebrates: 4.0
@@ -88,39 +93,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 25
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ardeotis kori (هوبره کوری)
 

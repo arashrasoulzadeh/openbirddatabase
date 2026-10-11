@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13947"
-ebird_code: "jampau"
+taxon_id: BN13947
+ebird_code: jampau
 gbif_key: 2497000
-avibase_id: "07EC934EA44A7BD0"
-iucn_status: "CR (PE)"
+avibase_id: 07EC934EA44A7BD0
+iucn_status: CR (PE)
 taxon_order: 3578.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Siphonorhis americana"
-  fa: "nan"
-  en: "Jamaican Poorwill"
-
-# === TAXONOMY ===
+  scientific: Siphonorhis americana
+  fa: nan
+  en: Jamaican Poorwill
+  es: Chotacabras Jamaicano
+  fr: Engoulevent de Jamaïque
+  de: Jamaikanachtschwalbe
+  pt: jamaican pauraque
+  ru: Ямайский козодой
+  ja: ジャマイカコヨタカ
+  zh: Jamaican Poorwill
+  nl: Jamaicaanse nachtzwaluw
+  pl: lelkowiec jamajski
+  tr: Jamaika Porağı
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Siphonorhis"
-  species: "americana"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Siphonorhis
+  species: americana
 morphology:
   body_mass_g: 55.4
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Woodland", "Plains"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Plains
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR (PE)"
-  cites_appendix: "Not listed"
+  iucn_status: CR (PE)
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Siphonorhis americana (nan)
 

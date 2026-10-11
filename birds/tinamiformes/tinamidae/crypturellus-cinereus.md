@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04022"
-ebird_code: "cintin1"
+taxon_id: BN04022
+ebird_code: cintin1
 gbif_key: 2477533
-avibase_id: "7C90F8DB10FFD1F8"
-iucn_status: "LC"
+avibase_id: 7C90F8DB10FFD1F8
+iucn_status: LC
 taxon_order: 151.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Crypturellus cinereus"
-  fa: "وشم خاکسترگون"
-  en: "Cinereous Tinamou"
-
-# === TAXONOMY ===
+  scientific: Crypturellus cinereus
+  fa: وشم خاکسترگون
+  en: Cinereous Tinamou
+  es: Tinamú Sombrío
+  fr: Tinamou cendré
+  de: Grautinamu
+  pt: inhambu-pixuna
+  ru: Серый скрытохвост
+  ja: ムジシギダチョウ
+  zh: 灰穴䳍
+  nl: Grauwe tinamoe
+  pl: kusacz popielaty
+  tr: Karaca Tinamu
 taxonomy:
-  order: "Tinamiformes"
-  family: "Tinamidae"
-  genus: "Crypturellus"
-  species: "cinereus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Tinamiformes
+  family: Tinamidae
+  genus: Crypturellus
+  species: cinereus
 morphology:
   body_mass_g: 502.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 900
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 3.0
@@ -88,38 +92,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Crypturellus cinereus (وشم خاکسترگون)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04756"
-ebird_code: "crbwoo6"
+taxon_id: BN04756
+ebird_code: crbwoo6
 gbif_key: 2477920
-avibase_id: "97FFBAF9D027C44D"
-iucn_status: "LC"
+avibase_id: 97FFBAF9D027C44D
+iucn_status: LC
 taxon_order: 11389.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Dryobates cathpharius"
-  fa: "دارکوب سینهزرشکی"
-  en: "Crimson-naped Woodpecker"
-
-# === TAXONOMY ===
+  scientific: Dryobates cathpharius
+  fa: دارکوب سینهزرشکی
+  en: Crimson-naped Woodpecker
+  es: Pico Pechirrojo Occidental
+  fr: Pic à plastron rouge
+  de: Scharlachbrustspecht
+  pt: crimson-naped woodpecker
+  ru: Краснобрюхий дятел
+  ja: ヒムネアカゲラ
+  zh: 红枕啄木鸟
+  nl: Roodborstspecht
+  pl: dzięcioł czerwonopierśny
+  tr: Büyük Al Enseli Ağaçkakan
 taxonomy:
-  order: "Piciformes"
-  family: "Picidae"
-  genus: "Dryobates"
-  species: "cathpharius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Picidae
+  genus: Dryobates
+  species: cathpharius
 morphology:
   body_mass_g: 29.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1200
   elevational_max_m: 3000
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,37 +89,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "CV"
+  nest_type: CV
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Dryobates cathpharius (دارکوب سینهزرشکی)
 

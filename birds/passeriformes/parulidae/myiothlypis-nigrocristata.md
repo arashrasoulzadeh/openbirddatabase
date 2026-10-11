@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09328"
-ebird_code: "blcwar2"
+taxon_id: BN09328
+ebird_code: blcwar2
 gbif_key: 6092185
-avibase_id: "3D4F2A70AC192AE0"
-iucn_status: "LC"
+avibase_id: 3D4F2A70AC192AE0
+iucn_status: LC
 taxon_order: 34307.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiothlypis nigrocristata"
-  fa: "nan"
-  en: "Black-crested Warbler"
-
-# === TAXONOMY ===
+  scientific: Myiothlypis nigrocristata
+  fa: nan
+  en: Black-crested Warbler
+  es: Reinita Crestinegra
+  fr: Paruline à cimier noir
+  de: Schwarzscheitel-Waldsänger
+  pt: black-crested warbler
+  ru: Черношапочный певун
+  ja: クロイタダキアメリカムシクイ
+  nl: Zwartkuifzanger
+  pl: koronówka czarnołbista
+  tr: Kara Taçlı Ötleğen
 taxonomy:
-  order: "Passeriformes"
-  family: "Parulidae"
-  genus: "Myiothlypis"
-  species: "nigrocristata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Parulidae
+  genus: Myiothlypis
+  species: nigrocristata
 morphology:
   body_mass_g: 14.075
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 2600
   elevational_max_m: 3400
-  habitat_types: ["Forest", "Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "DM"
-  nest_placement: "Ground"
+  nest_type: DM
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiothlypis nigrocristata (nan)
 

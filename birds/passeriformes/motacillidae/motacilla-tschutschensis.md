@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09135"
-ebird_code: "eaywag"
+taxon_id: BN09135
+ebird_code: eaywag
 gbif_key: 2490303
-avibase_id: "5487B6500F6BCF90"
-iucn_status: "LC"
+avibase_id: 5487B6500F6BCF90
+iucn_status: LC
 taxon_order: 31700.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Motacilla tschutschensis"
-  fa: "دمجنبانک زرد شرقی"
-  en: "Eastern Yellow Wagtail"
-
-# === TAXONOMY ===
+  scientific: Motacilla tschutschensis
+  fa: دمجنبانک زرد شرقی
+  en: Eastern Yellow Wagtail
+  es: Lavandera de Chukotka
+  fr: Bergeronnette de Béringie
+  de: Tschuktschenstelze
+  pt: alvéola-amarela-oriental
+  ru: Берингийская жёлтая трясогузка
+  ja: ツメナガセキレイ
+  zh: 黄鹡鸰
+  nl: Oostelijke gele kwikstaart
+  pl: pliszka syberyjska
+  tr: Çukçen Kuyruksallayanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Motacillidae"
-  genus: "Motacilla"
-  species: "tschutschensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Motacillidae
+  genus: Motacilla
+  species: tschutschensis
 morphology:
   body_mass_g: 16.266666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1300
-  habitat_types: ["Forest", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 3
   clutch_size_max: 7
   incubation_days: 9
   fledging_days: 9
-  nest_type: "CP"
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_type: CP
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Motacilla tschutschensis (دمجنبانک زرد شرقی)
 

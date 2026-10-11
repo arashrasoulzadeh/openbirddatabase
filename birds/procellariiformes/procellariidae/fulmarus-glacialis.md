@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05722"
-ebird_code: "norful"
+taxon_id: BN05722
+ebird_code: norful
 gbif_key: 2481433
-avibase_id: "049D9AEA4AFBFDFA"
-iucn_status: "LC"
+avibase_id: 049D9AEA4AFBFDFA
+iucn_status: LC
 taxon_order: 7090.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Fulmarus glacialis"
-  fa: "مرغ باران بدبوی شمالی"
-  en: "Northern Fulmar"
-
-# === TAXONOMY ===
+  scientific: Fulmarus glacialis
+  fa: مرغ باران بدبوی شمالی
+  en: Northern Fulmar
+  es: Fulmar Boreal
+  fr: Fulmar boréal
+  de: Eissturmvogel
+  pt: pombalete
+  ru: Глупыш
+  ja: フルマカモメ
+  zh: 暴雪鹱
+  nl: Noordse stormvogel
+  pl: fulmar
+  tr: Kutup Fırtınakuşu
 taxonomy:
-  order: "Procellariiformes"
-  family: "Procellariidae"
-  genus: "Fulmarus"
-  species: "glacialis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Procellariiformes
+  family: Procellariidae
+  genus: Fulmarus
+  species: glacialis
 morphology:
   body_mass_g: 751.3333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 47
   fledging_days: 46
-  nest_type: "SA"
-  nest_placement: "Ground"
+  nest_type: SA
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Fulmarus glacialis (مرغ باران بدبوی شمالی)
 

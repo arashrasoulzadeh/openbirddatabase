@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04853"
-ebird_code: "palmch1"
+taxon_id: BN04853
+ebird_code: palmch1
 gbif_key: 2489266
-avibase_id: "A274284B4522E3BC"
-iucn_status: "LC"
+avibase_id: A274284B4522E3BC
+iucn_status: LC
 taxon_order: 29913.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Dulus dominicus"
-  fa: "چک نخلی"
-  en: "Palmchat"
-
-# === TAXONOMY ===
+  scientific: Dulus dominicus
+  fa: چک نخلی
+  en: Palmchat
+  es: Sigua Palmera
+  fr: Esclave palmiste
+  de: Palmenschwätzer
+  pt: palmchat
+  ru: Дулюс
+  ja: ヤシドリ
+  zh: 棕櫚䳭
+  nl: Palmtapuit
+  pl: palmowiec
+  tr: Dominik Palmiyekuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Dulidae"
-  genus: "Dulus"
-  species: "dominicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Dulidae
+  genus: Dulus
+  species: dominicus
 morphology:
   body_mass_g: 48.85
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 15
   fledging_days: 30
-  nest_type: "DM"
-  nest_placement: "Building, Tree"
+  nest_type: DM
+  nest_placement: Building, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Dulus dominicus (چک نخلی)
 

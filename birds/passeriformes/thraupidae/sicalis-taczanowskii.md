@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13932"
-ebird_code: "sutfin1"
+taxon_id: BN13932
+ebird_code: sutfin1
 gbif_key: 2491861
-avibase_id: "96F83DEDAA610986"
-iucn_status: "LC"
+avibase_id: 96F83DEDAA610986
+iucn_status: LC
 taxon_order: 35494.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sicalis taczanowskii"
-  fa: "سهره گلوگوگردی"
-  en: "Sulphur-throated Finch"
-
-# === TAXONOMY ===
+  scientific: Sicalis taczanowskii
+  fa: سهره گلوگوگردی
+  en: Sulphur-throated Finch
+  es: Chirigüe de Taczanowski
+  fr: Sicale de Taczanowski
+  de: Blasskehl-Gilbtangare
+  pt: sulphur-throated finch
+  ru: Желтогорлый зерноед
+  ja: キノドノジコ
+  nl: Geelkinsaffraangors
+  pl: szafranka Taczanowskiego
+  tr: Taczanowski Kanarya İspinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Sicalis"
-  species: "taczanowskii"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Sicalis
+  species: taczanowskii
 morphology:
   body_mass_g: 13.995000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 300
-  habitat_types: ["Shrubland", "Grassland", "Desert"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Desert
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sicalis taczanowskii (سهره گلوگوگردی)
 

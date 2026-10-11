@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15100"
-ebird_code: "yebfly3"
+taxon_id: BN15100
+ebird_code: yebfly3
 gbif_key: 2482874
-avibase_id: "E0B5F9D3DC324D24"
-iucn_status: "LC"
+avibase_id: E0B5F9D3DC324D24
+iucn_status: LC
 taxon_order: 16513.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tolmomyias flaviventris"
-  fa: "نوکتخت جلوچشماخرایی"
-  en: "Ochre-lored Flatbill"
-
-# === TAXONOMY ===
+  scientific: Tolmomyias flaviventris
+  fa: نوکتخت جلوچشماخرایی
+  en: Ochre-lored Flatbill
+  es: Picoplano Pechiamarillo
+  fr: Tyranneau à poitrine jaune
+  de: Gelbbauch-Breitschnabeltyrann
+  pt: bico-chato-amarelo
+  ru: Желтогрудый оливковый мухоед
+  ja: キムネヒラハシハエトリ
+  nl: Geelbuikbreedbektiran
+  pl: oliwiak żółty
+  tr: Sarı Göğüslü Yassıgaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Tolmomyias"
-  species: "flaviventris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Tolmomyias
+  species: flaviventris
 morphology:
   body_mass_g: 13.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 800
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 16
-  nest_type: "PN"
-  nest_placement: "Tree"
+  nest_type: PN
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tolmomyias flaviventris (نوکتخت جلوچشماخرایی)
 

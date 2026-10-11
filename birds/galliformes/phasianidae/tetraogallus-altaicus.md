@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14841"
-ebird_code: "altsno1"
+taxon_id: BN14841
+ebird_code: altsno1
 gbif_key: 2473454
-avibase_id: "D9A6E25C5C83C6F9"
-iucn_status: "LC"
+avibase_id: D9A6E25C5C83C6F9
+iucn_status: LC
 taxon_order: 1696.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tetraogallus altaicus"
-  fa: "کبک برفی آلتایی"
-  en: "Altai Snowcock"
-
-# === TAXONOMY ===
+  scientific: Tetraogallus altaicus
+  fa: کبک برفی آلتایی
+  en: Altai Snowcock
+  es: Perdigallo Altaico
+  fr: Tétraogalle de l'Altaï
+  de: Altaikönigshuhn
+  pt: altai snowcock
+  ru: Алтайский улар
+  ja: アルタイセッケイ
+  zh: 阿尔泰雪鸡
+  nl: Altaiberghoen
+  pl: ułar ałtajski
+  tr: Altay Urkekliği
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Tetraogallus"
-  species: "altaicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Tetraogallus
+  species: altaicus
 morphology:
   body_mass_g: 2770.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2000
   elevational_max_m: 3600
-  habitat_types: ["Grassland", "Plains"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Plains
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 9.5
   clutch_size_min: 4
   clutch_size_max: 15
   incubation_days: 28
-  nest_placement: "Rock"
+  nest_placement: Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tetraogallus altaicus (کبک برفی آلتایی)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12001"
-ebird_code: "sbsbab1"
+taxon_id: BN12001
+ebird_code: sbsbab1
 gbif_key: 6100829
-avibase_id: "F2705CFEB4F5FEC2"
-iucn_status: "LC"
+avibase_id: F2705CFEB4F5FEC2
+iucn_status: LC
 taxon_order: 26020.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pomatorhinus superciliaris"
-  fa: "nan"
-  en: "Slender-billed Scimitar Babbler"
-
-# === TAXONOMY ===
+  scientific: Pomatorhinus superciliaris
+  fa: nan
+  en: Slender-billed Scimitar Babbler
+  es: Cimitarra Picofina
+  fr: Pomatorhin à bec fin
+  de: Dünnschnabelsäbler
+  pt: slender-billed scimitar-babbler
+  ru: Тонкоклювый саблеклюв
+  ja: ハシナガチメドリ
+  zh: 剑嘴鹛
+  nl: Sikkelkruiplijster
+  pl: łączniak sierpodzioby
+  tr: İnce Gagalı Kıvrıkgaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Timaliidae"
-  genus: "Pomatorhinus"
-  species: "superciliaris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Timaliidae
+  genus: Pomatorhinus
+  species: superciliaris
 morphology:
   body_mass_g: 28.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 915
   elevational_max_m: 3500
-  habitat_types: ["Forest", "Bamboo", "Woodland", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
-  nest_type: "SP"
-  nest_placement: "Ground, Cliff/Crevice"
+  nest_type: SP
+  nest_placement: Ground, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pomatorhinus superciliaris (nan)
 

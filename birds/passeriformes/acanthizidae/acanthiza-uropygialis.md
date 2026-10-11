@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00026"
-ebird_code: "chrtho1"
+taxon_id: BN00026
+ebird_code: chrtho1
 gbif_key: 5230403
-avibase_id: "27F7E242B91684D2"
-iucn_status: "LC"
+avibase_id: 27F7E242B91684D2
+iucn_status: LC
 taxon_order: 18415.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Acanthiza uropygialis"
-  fa: "نوکخاری کفلبلوطی"
-  en: "Chestnut-rumped Thornbill"
-
-# === TAXONOMY ===
+  scientific: Acanthiza uropygialis
+  fa: نوکخاری کفلبلوطی
+  en: Chestnut-rumped Thornbill
+  es: Acantiza Culirroja
+  fr: Acanthize à croupion roux
+  de: Braunbürzel-Dornschnabel
+  pt: chestnut-rumped thornbill
+  ru: Рыжепоясничная шипоклювка
+  ja: コシアカトゲハシムシクイ
+  zh: 栗尾刺嘴莺
+  nl: Roodstaartdoornsnavel
+  pl: buszówka rudorzytna
+  tr: Kestane Belli Dikengaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Acanthizidae"
-  genus: "Acanthiza"
-  species: "uropygialis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Acanthizidae
+  genus: Acanthiza
+  species: uropygialis
 morphology:
   body_mass_g: 6.05
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Woodland", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 19
   fledging_days: 18
-  nest_type: "DM"
-  nest_placement: "C"
+  nest_type: DM
+  nest_placement: C
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Acanthiza uropygialis (نوکخاری کفلبلوطی)
 

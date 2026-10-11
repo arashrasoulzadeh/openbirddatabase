@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07539"
-ebird_code: "olrgul1"
+taxon_id: BN07539
+ebird_code: olrgul1
 gbif_key: 2481162
-avibase_id: "E2967A3F5E6702D8"
-iucn_status: "NT"
+avibase_id: E2967A3F5E6702D8
+iucn_status: NT
 taxon_order: 6511.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Larus atlanticus"
-  fa: "کاکایی آتلانتیکی"
-  en: "Olrog's Gull"
-
-# === TAXONOMY ===
+  scientific: Larus atlanticus
+  fa: کاکایی آتلانتیکی
+  en: Olrog's Gull
+  es: Gaviota Cangrejera
+  fr: Goéland d'Olrog
+  de: Olrogmöwe
+  pt: gaivota-de-rabo-preto
+  ru: Атлантическая чайка
+  ja: アルゼンチンカモメ
+  zh: 大西洋鸥
+  nl: Olrogmeeuw
+  pl: mewa argentyńska
+  tr: Orlog Martısı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Larus"
-  species: "atlanticus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Larus
+  species: atlanticus
 morphology:
   body_mass_g: 850.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +90,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "Scrape"
-  nest_placement: "Ground, Rock, Cliff/Crevice"
+  nest_type: Scrape
+  nest_placement: Ground, Rock, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Larus atlanticus (کاکایی آتلانتیکی)
 

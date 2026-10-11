@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00356"
-ebird_code: "lesaki"
+taxon_id: BN00356
+ebird_code: lesaki
 gbif_key: 5788932
-avibase_id: "67049C23102CFF69"
-iucn_status: "EX"
+avibase_id: 67049C23102CFF69
+iucn_status: EX
 taxon_order: 32130.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Akialoa obscura"
-  fa: "nan"
-  en: "Lesser Akialoa"
-
-# === TAXONOMY ===
+  scientific: Akialoa obscura
+  fa: nan
+  en: Lesser Akialoa
+  es: Akialoa de Hawái
+  fr: Akialoa d'Hawaï
+  de: Hawaii-Akialoakleidervogel
+  pt: lesser akialoa
+  ru: Малая акиалоа
+  ja: ユミハシハワイミツスイ
+  zh: 長嘴導顎雀
+  nl: Kleine akialoa
+  pl: hawajka cienkodzioba
+  tr: Küçük Akialoa
 taxonomy:
-  order: "Passeriformes"
-  family: "Fringillidae"
-  genus: "Akialoa"
-  species: "obscura"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Fringillidae
+  genus: Akialoa
+  species: obscura
 morphology:
   body_mass_g: 24.333333333333332
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["O"]
+  biogeographic_realms:
+  - O
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 350
   elevational_max_m: 2000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +88,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EX"
-  cites_appendix: "Not listed"
+  iucn_status: EX
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Akialoa obscura (nan)
 

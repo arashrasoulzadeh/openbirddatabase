@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10630"
-ebird_code: "lotpar1"
+taxon_id: BN10630
+ebird_code: lotpar1
 gbif_key: 2494886
-avibase_id: "F911AF79EE7CCC97"
-iucn_status: "NT"
+avibase_id: F911AF79EE7CCC97
+iucn_status: NT
 taxon_order: 20623.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Paradigalla carunculata"
-  fa: "مرغ بهشت جنگلی دمدراز"
-  en: "Long-tailed Paradigalla"
-
-# === TAXONOMY ===
+  scientific: Paradigalla carunculata
+  fa: مرغ بهشت جنگلی دمدراز
+  en: Long-tailed Paradigalla
+  es: Ave del Paraíso Carunculada
+  fr: Paradisier caronculé
+  de: Spitzschwanz-Paradieselster
+  pt: long-tailed paradigalla
+  ru: Длиннохвостый шлемоклюв
+  ja: キヅノフウチョウ
+  nl: Langstaartparadigalla
+  pl: tarczonos długosterny
+  tr: Uzun Kuyruklu Paradigella
 taxonomy:
-  order: "Passeriformes"
-  family: "Paradisaeidae"
-  genus: "Paradigalla"
-  species: "carunculata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paradisaeidae
+  genus: Paradigalla
+  species: carunculata
 morphology:
   body_mass_g: 170.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1400
   elevational_max_m: 2100
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Paradigalla carunculata (مرغ بهشت جنگلی دمدراز)
 

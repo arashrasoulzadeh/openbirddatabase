@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15565"
-ebird_code: "minowl1"
+taxon_id: BN15565
+ebird_code: minowl1
 gbif_key: 5232409
-avibase_id: "C54633EEB3749878"
-iucn_status: "LC"
+avibase_id: C54633EEB3749878
+iucn_status: LC
 taxon_order: 8598.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tyto inexspectata"
-  fa: "nan"
-  en: "Minahasa Masked Owl"
-
-# === TAXONOMY ===
+  scientific: Tyto inexspectata
+  fa: nan
+  en: Minahasa Masked Owl
+  es: Lechuza de Minahassa
+  fr: Effraie de Minahassa
+  de: Minahassaeule
+  pt: minahasa masked-owl
+  ru: Минахасская сипуха
+  ja: ミナハサメンフクロウ
+  zh: Minahasa Masked Owl
+  nl: Minahassakerkuil
+  pl: płomykówka rdzawolica
+  tr: Minahassa Peçeli Baykuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Tytonidae"
-  genus: "Tyto"
-  species: "inexspectata"
-
-
-# === DISTRIBUTION ===
+  order: Strigiformes
+  family: Tytonidae
+  genus: Tyto
+  species: inexspectata
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 100
   elevational_max_m: 1700
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tyto inexspectata (nan)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14755"
-ebird_code: "whctur2"
+taxon_id: BN14755
+ebird_code: whctur2
 gbif_key: 2475238
-avibase_id: "FF2AF138EF023C2D"
-iucn_status: "LC"
+avibase_id: FF2AF138EF023C2D
+iucn_status: LC
 taxon_order: 2999.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tauraco leucolophus"
-  fa: "موزخوار کاکلسفید"
-  en: "White-crested Turaco"
-
-# === TAXONOMY ===
+  scientific: Tauraco leucolophus
+  fa: موزخوار کاکلسفید
+  en: White-crested Turaco
+  es: Turaco Crestiblanco
+  fr: Touraco à huppe blanche
+  de: Weißhaubenturako
+  pt: white-crested turaco
+  ru: Белохохлый турако
+  ja: シロガシラエボシドリ
+  nl: Witkuiftoerako
+  pl: turak białoczuby
+  tr: Ak Tepeli Turako
 taxonomy:
-  order: "Musophagiformes"
-  family: "Musophagidae"
-  genus: "Tauraco"
-  species: "leucolophus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Musophagiformes
+  family: Musophagidae
+  genus: Tauraco
+  species: leucolophus
 morphology:
   body_mass_g: 212.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 100
   elevational_max_m: 2200
-  habitat_types: ["Savanna", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Savanna
+  - Riverine
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,40 +88,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 22
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tauraco leucolophus (موزخوار کاکلسفید)
 

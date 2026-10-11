@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15806"
-ebird_code: "ybsvir1"
+taxon_id: BN15806
+ebird_code: ybsvir1
 gbif_key: 2487486
-avibase_id: "5482299A49323FB2"
-iucn_status: "LC"
+avibase_id: 5482299A49323FB2
+iucn_status: LC
 taxon_order: 19113.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vireolanius eximius"
-  fa: "سرودخوان-سنگچشم ابروزرد"
-  en: "Yellow-browed Shrike-Vireo"
-
-# === TAXONOMY ===
+  scientific: Vireolanius eximius
+  fa: سرودخوان-سنگچشم ابروزرد
+  en: Yellow-browed Shrike-Vireo
+  es: Vireón Cejiamarillo
+  fr: Smaragdan à sourcils jaunes
+  de: Gelbbrauenvireo
+  pt: yellow-browed shrike-vireo
+  ru: Желтобровый сорокопутовый виреон
+  ja: ミナミミドリモズ
+  nl: Geelbrauwklauwiervireo
+  pl: gwizdodzierzba żółtobrewa
+  tr: Sarı Kaşlı Koca Vireo
 taxonomy:
-  order: "Passeriformes"
-  family: "Vireonidae"
-  genus: "Vireolanius"
-  species: "eximius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Vireonidae
+  genus: Vireolanius
+  species: eximius
 morphology:
   body_mass_g: 29.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 100
   elevational_max_m: 800
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vireolanius eximius (سرودخوان-سنگچشم ابروزرد)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03360"
-ebird_code: "rrbtyr1"
+taxon_id: BN03360
+ebird_code: rrbtyr1
 gbif_key: 2483780
-avibase_id: "3BB9E319BDA76236"
-iucn_status: "LC"
+avibase_id: 3BB9E319BDA76236
+iucn_status: LC
 taxon_order: 17110.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cnemarchus erythropygius"
-  fa: "ژیانمرغ بیشه دمگاهسرخ"
-  en: "Red-rumped Bush Tyrant"
-
-# === TAXONOMY ===
+  scientific: Cnemarchus erythropygius
+  fa: ژیانمرغ بیشه دمگاهسرخ
+  en: Red-rumped Bush Tyrant
+  es: Birro Culirrojo
+  fr: Moucherolle à croupion roux
+  de: Rostbürzel-Buschtyrann
+  pt: red-rumped bush-tyrant
+  ru: Красногузая гевара
+  ja: コシアカヤブタイランチョウ
+  zh: Red-rumped Bush Tyrant
+  nl: Roodstuitstruiktiran
+  pl: andotyran
+  tr: Kızıl Kuyruklu Çalı Tiranı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Cnemarchus"
-  species: "erythropygius"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Cnemarchus
+  species: erythropygius
 morphology:
   body_mass_g: 60.26666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2850
   elevational_max_m: 4300
-  habitat_types: ["Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cnemarchus erythropygius (ژیانمرغ بیشه دمگاهسرخ)
 

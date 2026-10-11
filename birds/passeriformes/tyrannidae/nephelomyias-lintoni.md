@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09703"
-ebird_code: "orbfly1"
+taxon_id: BN09703
+ebird_code: orbfly1
 gbif_key: 6093278
-avibase_id: "0A2158CAED1901D4"
-iucn_status: "LC"
+avibase_id: 0A2158CAED1901D4
+iucn_status: LC
 taxon_order: 16546.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Nephelomyias lintoni"
-  fa: "مگسگیر نوارنارنجی"
-  en: "Orange-banded Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Nephelomyias lintoni
+  fa: مگسگیر نوارنارنجی
+  en: Orange-banded Flycatcher
+  es: Mosquero de Linton
+  fr: Moucherolle de Linton
+  de: Orangeband-Schnäppertyrann
+  pt: orange-banded flycatcher
+  ru: Светлоглазая курэта
+  ja: アカバネフタスジハエトリ
+  nl: Oranjebandtiran
+  pl: tyranówka żółtobrzucha
+  tr: Turuncu Şeritli Sinekkapan
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Nephelomyias"
-  species: "lintoni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Nephelomyias
+  species: lintoni
 morphology:
   body_mass_g: 9.766666666666667
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 2250
   elevational_max_m: 3200
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Nephelomyias lintoni (مگسگیر نوارنارنجی)
 

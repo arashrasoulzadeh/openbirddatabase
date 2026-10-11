@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01111"
-ebird_code: "taweag1"
+taxon_id: BN01111
+ebird_code: taweag1
 gbif_key: 2480514
-avibase_id: "335F0D557C2031A1"
-iucn_status: "VU"
+avibase_id: 335F0D557C2031A1
+iucn_status: VU
 taxon_order: 8054.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Aquila rapax"
-  fa: "عقاب خاکی"
-  en: "Tawny Eagle"
-
-# === TAXONOMY ===
+  scientific: Aquila rapax
+  fa: عقاب خاکی
+  en: Tawny Eagle
+  es: Águila Rapaz
+  fr: Aigle ravisseur
+  de: Savannenadler
+  pt: águia-fulva
+  ru: Саванный орёл
+  ja: アフリカソウゲンワシ
+  zh: 非洲草原雕
+  nl: Savannearend
+  pl: orzeł sawannowy
+  tr: Korsan Kartal
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Aquila"
-  species: "rapax"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Aquila
+  species: rapax
 morphology:
   body_mass_g: 2299.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Woodland", "Savanna", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Savanna
+  - Grassland
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 1
   clutch_size_max: 3
   incubation_days: 39
   fledging_days: 77
-  nest_type: "Platform"
-  nest_placement: "P, Tree"
+  nest_type: Platform
+  nest_placement: P, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Aquila rapax (عقاب خاکی)
 

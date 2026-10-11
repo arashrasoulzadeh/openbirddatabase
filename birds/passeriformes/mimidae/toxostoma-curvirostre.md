@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15140"
-ebird_code: "cubthr"
+taxon_id: BN15140
+ebird_code: cubthr
 gbif_key: 5231688
-avibase_id: "2B37C1B59B70D72B"
-iucn_status: "LC"
+avibase_id: 2B37C1B59B70D72B
+iucn_status: LC
 taxon_order: 28024.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Toxostoma curvirostre"
-  fa: "باسترک نوکخمیده"
-  en: "Curve-billed Thrasher"
-
-# === TAXONOMY ===
+  scientific: Toxostoma curvirostre
+  fa: باسترک نوکخمیده
+  en: Curve-billed Thrasher
+  es: Cuitlacoche Piquicurvo
+  fr: Moqueur à bec courbe
+  de: Krummschnabel-Spottdrossel
+  pt: curve-billed thrasher
+  ru: Кривоклювый пересмешник
+  ja: マルハシツグミモドキ
+  nl: Krombekspotlijster
+  pl: przedrzeźniacz krzywodzioby
+  tr: Kıvrık Gagalı Çöpçü
 taxonomy:
-  order: "Passeriformes"
-  family: "Mimidae"
-  genus: "Toxostoma"
-  species: "curvirostre"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Mimidae
+  genus: Toxostoma
+  species: curvirostre
 morphology:
   body_mass_g: 78.76
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["LN"]
+  biogeographic_realms:
+  - LN
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Desert"
+  primary: Desert
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 3000
-  habitat_types: ["Woodland", "Shrubland", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Desert
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
   incubation_days: 12
   fledging_days: 15
-  nest_type: "CP"
-  nest_placement: "Shrub"
+  nest_type: CP
+  nest_placement: Shrub
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Toxostoma curvirostre (باسترک نوکخمیده)
 

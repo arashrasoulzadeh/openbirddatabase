@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02500"
-ebird_code: "obnthr1"
+taxon_id: BN02500
+ebird_code: obnthr1
 gbif_key: 2490801
-avibase_id: "7FC3681FDB70C5AD"
-iucn_status: "LC"
+avibase_id: 7FC3681FDB70C5AD
+iucn_status: LC
 taxon_order: 28256.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Catharus aurantiirostris"
-  fa: "nan"
-  en: "Orange-billed Nightingale-Thrush"
-
-# === TAXONOMY ===
+  scientific: Catharus aurantiirostris
+  fa: nan
+  en: Orange-billed Nightingale-Thrush
+  es: Zorzalito Piquigualdo
+  fr: Grive à bec orange
+  de: Goldschnabel-Musendrossel
+  pt: sabiazinho-de-bico-laranja
+  ru: Оранжевоклювый соловьиный дрозд
+  ja: アカハシチャツグミ
+  nl: Geelbekdwerglijster
+  pl: drozdek żółtodzioby
+  tr: Turuncu Gagalı Bülbül Ardıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Catharus"
-  species: "aurantiirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Catharus
+  species: aurantiirostris
 morphology:
   body_mass_g: 28.666666666666668
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 400
   elevational_max_m: 2900
-  habitat_types: ["Forest", "Bamboo", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 13
   fledging_days: 13
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Catharus aurantiirostris (nan)
 

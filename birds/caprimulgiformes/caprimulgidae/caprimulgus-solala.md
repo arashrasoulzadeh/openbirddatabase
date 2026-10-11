@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02406"
-ebird_code: "necnig1"
+taxon_id: BN02406
+ebird_code: necnig1
 gbif_key: 2496947
-avibase_id: "4535D9ABF212DB24"
-iucn_status: "VU"
+avibase_id: 4535D9ABF212DB24
+iucn_status: VU
 taxon_order: 3706.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Caprimulgus solala"
-  fa: "شبگرد نکیسار"
-  en: "Nechisar Nightjar"
-
-# === TAXONOMY ===
+  scientific: Caprimulgus solala
+  fa: شبگرد نکیسار
+  en: Nechisar Nightjar
+  es: Chotacabras de Nechisar
+  fr: Engoulevent du Nechisar
+  de: Nechisarnachtschwalbe
+  pt: nechisar nightjar
+  ru: Нечисарский козодой
+  ja: エチオピアヨタカ
+  zh: 内基萨夜鹰
+  nl: Nechisarnachtzwaluw
+  pl: lelek etiopski
+  tr: Neçisar Çobanaldatanı
 taxonomy:
-  order: "Caprimulgiformes"
-  family: "Caprimulgidae"
-  genus: "Caprimulgus"
-  species: "solala"
-
-
-# === DISTRIBUTION ===
+  order: Caprimulgiformes
+  family: Caprimulgidae
+  genus: Caprimulgus
+  species: solala
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1200
   elevational_max_m: 1200
-  habitat_types: ["Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Caprimulgus solala (شبگرد نکیسار)
 

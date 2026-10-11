@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07147"
-ebird_code: "blaill1"
+taxon_id: BN07147
+ebird_code: blaill1
 gbif_key: 2492907
-avibase_id: "58BB1A1423E4C544"
-iucn_status: "LC"
+avibase_id: 58BB1A1423E4C544
+iucn_status: LC
 taxon_order: 26298.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Illadopsis cleaveri"
-  fa: "توکانمای سرسیاه"
-  en: "Blackcap Illadopsis"
-
-# === TAXONOMY ===
+  scientific: Illadopsis cleaveri
+  fa: توکانمای سرسیاه
+  en: Blackcap Illadopsis
+  es: Tordina Capirotada
+  fr: Akalat à tête noire
+  de: Augenbrauen-Laubdrossling
+  pt: blackcap illadopsis
+  ru: Черношапочный дроздовник
+  ja: クロズキンムジチメドリ
+  zh: 黑冠非洲雅鹛
+  nl: Zwartkruinlijstertimalia
+  pl: wyżynniak czarnołbisty
+  tr: Kara Başlı İlladopsis
 taxonomy:
-  order: "Passeriformes"
-  family: "Pellorneidae"
-  genus: "Illadopsis"
-  species: "cleaveri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pellorneidae
+  genus: Illadopsis
+  species: cleaveri
 morphology:
   body_mass_g: 29.916666666666668
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1850
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "CP"
-  nest_placement: "Ground, Shrub"
+  nest_type: CP
+  nest_placement: Ground, Shrub
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Illadopsis cleaveri (توکانمای سرسیاه)
 

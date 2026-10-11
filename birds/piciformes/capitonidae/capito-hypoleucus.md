@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02353"
-ebird_code: "whmbar1"
+taxon_id: BN02353
+ebird_code: whmbar1
 gbif_key: 2479046
-avibase_id: "9DA6DE60832EDC24"
-iucn_status: "LC"
+avibase_id: 9DA6DE60832EDC24
+iucn_status: LC
 taxon_order: 10791.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Capito hypoleucus"
-  fa: "nan"
-  en: "White-mantled Barbet"
-
-# === TAXONOMY ===
+  scientific: Capito hypoleucus
+  fa: nan
+  en: White-mantled Barbet
+  es: Cabezón Dorsiblanco
+  fr: Cabézon à manteau blanc
+  de: Weißmantel-Bartvogel
+  pt: white-mantled barbet
+  ru: Белоспинная бородатка
+  ja: セジロゴシキドリ
+  zh: 白肩拟啄木鸟
+  nl: Witrugbaardvogel
+  pl: brodacz białogrzbiety
+  tr: Ak Sırtlı Barbet
 taxonomy:
-  order: "Piciformes"
-  family: "Capitonidae"
-  genus: "Capito"
-  species: "hypoleucus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Piciformes
+  family: Capitonidae
+  genus: Capito
+  species: hypoleucus
 morphology:
   body_mass_g: 70.94
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 700
   elevational_max_m: 1600
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Capito hypoleucus (nan)
 

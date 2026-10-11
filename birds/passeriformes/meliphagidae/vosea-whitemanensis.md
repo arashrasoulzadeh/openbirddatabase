@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15816"
-ebird_code: "bismel1"
+taxon_id: BN15816
+ebird_code: bismel1
 gbif_key: 8384528
-avibase_id: "nan"
-iucn_status: "NT"
+avibase_id: nan
+iucn_status: NT
 taxon_order: 17943.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Vosea whitemanensis"
-  fa: "nan"
-  en: "Gilliard's Honeyeater"
-
-# === TAXONOMY ===
+  scientific: Vosea whitemanensis
+  fa: nan
+  en: Gilliard's Honeyeater
+  es: Mielero de las Bismarck
+  fr: Myzomèle des Whiteman
+  de: Gilliardhonigfresser
+  pt: bismarck honeyeater
+  ru: Горный мелидек
+  ja: ユミハシミツスイ
+  zh: Gilliard's Honeyeater
+  nl: Whitemanhoningeter
+  pl: dziwook górski
+  tr: Gilliard Balkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Meliphagidae"
-  genus: "Vosea"
-  species: "whitemanensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Meliphagidae
+  genus: Vosea
+  species: whitemanensis
 morphology:
   body_mass_g: 45.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 1300
   elevational_max_m: 1740
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Vosea whitemanensis (nan)
 

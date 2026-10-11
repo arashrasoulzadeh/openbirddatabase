@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03226"
-ebird_code: "brseag1"
+taxon_id: BN03226
+ebird_code: brseag1
 gbif_key: 2480665
-avibase_id: "6904D83FD07E202F"
-iucn_status: "LC"
+avibase_id: 6904D83FD07E202F
+iucn_status: LC
 taxon_order: 7996.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Circaetus cinereus"
-  fa: "عقاب مارخور قهوهای"
-  en: "Brown Snake Eagle"
-
-# === TAXONOMY ===
+  scientific: Circaetus cinereus
+  fa: عقاب مارخور قهوهای
+  en: Brown Snake Eagle
+  es: Culebrera Sombría
+  fr: Circaète brun
+  de: Einfarb-Schlangenadler
+  pt: guincho-castanho
+  ru: Бурый змееяд
+  ja: チャイロチュウヒワシ
+  zh: Brown Snake Eagle
+  nl: Bruine slangenarend
+  pl: gadożer brunatny
+  tr: Kahverengi Yılan Kartalı
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Circaetus"
-  species: "cinereus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Circaetus
+  species: cinereus
 morphology:
   body_mass_g: 2000.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 3400
-  habitat_types: ["Woodland", "Savanna", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Savanna
+  - Grassland
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 48
   fledging_days: 97
-  nest_type: "Platform"
-  nest_placement: "Building, Cavity, P, Tree"
+  nest_type: Platform
+  nest_placement: Building, Cavity, P, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Circaetus cinereus (عقاب مارخور قهوهای)
 

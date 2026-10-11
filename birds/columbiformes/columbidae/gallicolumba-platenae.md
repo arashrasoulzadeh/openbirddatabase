@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05781"
-ebird_code: "mibhea2"
+taxon_id: BN05781
+ebird_code: mibhea2
 gbif_key: 2495251
-avibase_id: "6505921ED92B736A"
-iucn_status: "CR"
+avibase_id: 6505921ED92B736A
+iucn_status: CR
 taxon_order: 2439.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Gallicolumba platenae"
-  fa: "کبوتر دلخون میندورو"
-  en: "Mindoro Bleeding-heart"
-
-# === TAXONOMY ===
+  scientific: Gallicolumba platenae
+  fa: کبوتر دلخون میندورو
+  en: Mindoro Bleeding-heart
+  es: Paloma Apuñalada de Mindoro
+  fr: Gallicolombe de Mindoro
+  de: Platentaube
+  pt: mindoro bleeding-heart
+  ru: Миндорский кровавогрудый голубь
+  ja: ミンドロヒムネバト
+  nl: Mindorodolksteekduif
+  pl: wyspiarek szarosterny
+  tr: Mindoro Kınalı Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Gallicolumba"
-  species: "platenae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Gallicolumba
+  species: platenae
 morphology:
   body_mass_g: 196.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 400
-  habitat_types: ["Forest", "Woodland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 3
   categories:
     invertebrates: 2.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "Platform"
+  nest_type: Platform
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Gallicolumba platenae (کبوتر دلخون میندورو)
 

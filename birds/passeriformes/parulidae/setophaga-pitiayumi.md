@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13890"
-ebird_code: "tropar"
+taxon_id: BN13890
+ebird_code: tropar
 gbif_key: 7341895
-avibase_id: "4926BC8C8C3C7895"
-iucn_status: "LC"
+avibase_id: 4926BC8C8C3C7895
+iucn_status: LC
 taxon_order: 34066.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Setophaga pitiayumi"
-  fa: "چرخریسکنمای گرمسیری"
-  en: "Tropical Parula"
-
-# === TAXONOMY ===
+  scientific: Setophaga pitiayumi
+  fa: چرخریسکنمای گرمسیری
+  en: Tropical Parula
+  es: Parula Pitiayumí
+  fr: Paruline à joues noires
+  de: Elfenwaldsänger
+  pt: mariquita
+  ru: Тропическая древесница
+  ja: ミナミアサギアメリカムシクイ
+  nl: Maskerparulazanger
+  pl: lasówka oliwkowogrzbieta
+  tr: Tropikal Parula
 taxonomy:
-  order: "Passeriformes"
-  family: "Parulidae"
-  genus: "Setophaga"
-  species: "pitiayumi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Parulidae
+  genus: Setophaga
+  species: pitiayumi
 morphology:
   body_mass_g: 7.1
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 8.0
@@ -88,39 +90,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
-  nest_type: "DM,PN"
-  nest_placement: "Tree"
+  nest_type: DM,PN
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Setophaga pitiayumi (چرخریسکنمای گرمسیری)
 

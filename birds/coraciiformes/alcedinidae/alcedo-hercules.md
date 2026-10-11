@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00376"
-ebird_code: "blykin1"
+taxon_id: BN00376
+ebird_code: blykin1
 gbif_key: 2475519
-avibase_id: "nan"
-iucn_status: "NT"
+avibase_id: nan
+iucn_status: NT
 taxon_order: 9911.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Alcedo hercules"
-  fa: "ماهیخورک بلایت"
-  en: "Blyth's Kingfisher"
-
-# === TAXONOMY ===
+  scientific: Alcedo hercules
+  fa: ماهیخورک بلایت
+  en: Blyth's Kingfisher
+  es: Martín Pescador Hércules
+  fr: Martin-pêcheur de Blyth
+  de: Herkuleseisvogel
+  pt: blyth's kingfisher
+  ru: Зимородок-геркулес
+  ja: オオカワセミ
+  zh: 斑头大翠鸟
+  nl: Herculesijsvogel
+  pl: zimorodek duży
+  tr: Blyth Yalıçapkını
 taxonomy:
-  order: "Coraciiformes"
-  family: "Alcedinidae"
-  genus: "Alcedo"
-  species: "hercules"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Coraciiformes
+  family: Alcedinidae
+  genus: Alcedo
+  species: hercules
 morphology:
   body_mass_g: 62.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 400
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,39 +89,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
-  nest_type: "Burrow"
-  nest_placement: "Ground"
+  nest_type: Burrow
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Alcedo hercules (ماهیخورک بلایت)
 

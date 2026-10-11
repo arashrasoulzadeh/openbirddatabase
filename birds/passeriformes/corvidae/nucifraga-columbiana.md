@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09878"
-ebird_code: "clanut"
+taxon_id: BN09878
+ebird_code: clanut
 gbif_key: 2482614
-avibase_id: "D1FC2D6B79D0A812"
-iucn_status: "LC"
+avibase_id: D1FC2D6B79D0A812
+iucn_status: LC
 taxon_order: 21484.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Nucifraga columbiana"
-  fa: "فندقشکن کلارک"
-  en: "Clark's Nutcracker"
-
-# === TAXONOMY ===
+  scientific: Nucifraga columbiana
+  fa: فندقشکن کلارک
+  en: Clark's Nutcracker
+  es: Cascanueces Americano
+  fr: Cassenoix d'Amérique
+  de: Kiefernhäher
+  pt: clark's nutcracker
+  ru: Американская кедровка
+  ja: ハイイロホシガラス
+  zh: 北美星鴉
+  nl: Grijze notenkraker
+  pl: orzechówka popielata
+  tr: Çam Kargası
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Nucifraga"
-  species: "columbiana"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Nucifraga
+  species: columbiana
 morphology:
   body_mass_g: 132.495
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 300
   elevational_max_m: 3900
-  habitat_types: ["Forest", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Desert
+  - Artificial
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 5
   categories:
     invertebrates: 1.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 2
   clutch_size_max: 6
   incubation_days: 18
   fledging_days: 20
-  nest_type: "Platform"
-  nest_placement: "Tree"
+  nest_type: Platform
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Nucifraga columbiana (فندقشکن کلارک)
 

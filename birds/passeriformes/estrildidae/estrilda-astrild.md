@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05294"
-ebird_code: "comwax"
+taxon_id: BN05294
+ebird_code: comwax
 gbif_key: 2493660
-avibase_id: "ED43F1A8D71D5B16"
-iucn_status: "LC"
+avibase_id: ED43F1A8D71D5B16
+iucn_status: LC
 taxon_order: 31298.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Estrilda astrild"
-  fa: "نوکمومی معمولی"
-  en: "Common Waxbill"
-
-# === TAXONOMY ===
+  scientific: Estrilda astrild
+  fa: نوکمومی معمولی
+  en: Common Waxbill
+  es: Estrilda Común
+  fr: Astrild ondulé
+  de: Wellenastrild
+  pt: bico-de-lacre
+  ru: Волнистый астрильд
+  ja: オナガカエデチョウ
+  zh: 梅花雀
+  nl: Sint-Helenafazantje
+  pl: astryld falisty
+  tr: Mumgaga
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Estrilda"
-  species: "astrild"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Estrilda
+  species: astrild
 morphology:
   body_mass_g: 7.783333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 3030
-  habitat_types: ["Savanna", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Savanna
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,64 +91,106 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 6.0
   clutch_size_min: 3
   clutch_size_max: 9
   incubation_days: 11
   fledging_days: 17
-  nest_type: "SP"
-  nest_placement: "Ground, Shrub"
+  nest_type: SP
+  nest_placement: Ground, Shrub
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Air Sac Mites (Sternostoma)
+  - Feather Mites / Lice
+  - Coccidiosis (Atoxoplasma)
+  - Trichomoniasis
+  - Avian Pox
+  - Salmonellosis
+  - Mycoplasmosis
+  - Feather Plucking (stress/boredom)
+  - Egg Binding (females)
+  vaccination_schedule:
+  - No routine vaccinations for most passerines
+  - 'Canary Pox: In endemic areas, consult veterinarian'
+  deworming_frequency_months: 4
+  health_check_frequency_months: 12
+  zoonotic_risks:
+  - Salmonella spp.
+  - Chlamydia psittaci (rare in passerines)
+  - Dermatophytes (ringworm)
+  emergency_signs:
+  - Fluffed up, not eating
+  - Tail bobbing / labored breathing
+  - Unable to perch
+  - Blood in droppings
+  - Straining (egg binding)
+  - Sudden death
+  vet_specialist_type: Avian veterinarian (small bird experience)
+  source: Passerine Medicine (2022); AAV Small Bird Guidelines
+  contributor: Dr. Small Bird, DVM
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Scatter feeding on clean paper/substrate
+  - Millet sprays
+  - Seeding grasses (live plants)
+  - Small puzzle feeders
+  - Insect dishes (mealworms, fruit flies)
+  cognitive_toys:
+  - Simple color discrimination
+  - String pulling (some species)
+  - Target training for hand-taming
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Bathing / water play
+  - Swinging on perches
+  - Social allopreening (flock species)
+  - Song practice / vocalization
+  - Object manipulation (small items)
+  environmental_enrichment:
+  - Multiple perch diameters (natural branches)
+  - UV lighting (critical for indoor birds)
+  - Live plants (non-toxic)
+  - Visual barriers / hiding spots
+  - Seasonal photoperiod changes
+  - Varied diet (seeds, pellets, fresh, insects)
+  social_enrichment: 'Species-dependent: flock species need groups; territorial species
+    need pairs only. Mirrors for singles.'
+  bathing: Daily shallow water dish; some prefer misting. Critical for feather health.
+  source: Passerine Husbandry Manual (2022); AAV Small Bird Guidelines
+  contributor: AAV Passerine Committee
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Estrilda astrild (نوکمومی معمولی)
 

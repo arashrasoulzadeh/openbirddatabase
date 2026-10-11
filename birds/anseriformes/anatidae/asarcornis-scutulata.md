@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN01334"
-ebird_code: "whwduc1"
+taxon_id: BN01334
+ebird_code: whwduc1
 gbif_key: 2498183
-avibase_id: "FDB6503BA6873DFA"
-iucn_status: "CR"
+avibase_id: FDB6503BA6873DFA
+iucn_status: CR
 taxon_order: 659.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Asarcornis scutulata"
-  fa: "مرغابی بالسفید"
-  en: "White-winged Duck"
-
-# === TAXONOMY ===
+  scientific: Asarcornis scutulata
+  fa: مرغابی بالسفید
+  en: White-winged Duck
+  es: Pato de Jungla
+  fr: Nette à ailes blanches
+  de: Weißflügelente
+  pt: white-winged duck
+  ru: Белокрылая утка
+  ja: ハジロモリガモ
+  zh: 白翅栖鸭
+  nl: Witvleugelboseend
+  pl: malajka
+  tr: Ak Kanatlı Ördek
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Asarcornis"
-  species: "scutulata"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Asarcornis
+  species: scutulata
 morphology:
   body_mass_g: 2950.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1400
-  habitat_types: ["Forest", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
+  - Wetland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 1.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.5
   clutch_size_min: 6
   clutch_size_max: 15
   incubation_days: 33
   fledging_days: 98
-  nest_type: "CV,O"
-  nest_placement: "Ground, Tree"
+  nest_type: CV,O
+  nest_placement: Ground, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Asarcornis scutulata (مرغابی بالسفید)
 

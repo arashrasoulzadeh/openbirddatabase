@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03039"
-ebird_code: "viocuc1"
+taxon_id: BN03039
+ebird_code: viocuc1
 gbif_key: 2496321
-avibase_id: "A6C0353324EA444C"
-iucn_status: "LC"
+avibase_id: A6C0353324EA444C
+iucn_status: LC
 taxon_order: 3299.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chrysococcyx xanthorhynchus"
-  fa: "کوکوی بنفش"
-  en: "Violet Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Chrysococcyx xanthorhynchus
+  fa: کوکوی بنفش
+  en: Violet Cuckoo
+  es: Cuclillo Violeta
+  fr: Coucou violet
+  de: Amethystkuckuck
+  pt: violet cuckoo
+  ru: Аметистовая кукушка
+  ja: スミレテリカッコウ
+  zh: 紫金鹃
+  nl: Amethistkoekoek
+  pl: kukułeczka ametystowa
+  tr: Mor Guguk
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Chrysococcyx"
-  species: "xanthorhynchus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Chrysococcyx
+  species: xanthorhynchus
 morphology:
   body_mass_g: 22.2
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 700
-  habitat_types: ["Forest", "Woodland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,34 +91,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -123,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -133,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chrysococcyx xanthorhynchus (کوکوی بنفش)
 

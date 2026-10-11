@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08071"
-ebird_code: "sclmon1"
+taxon_id: BN08071
+ebird_code: sclmon1
 gbif_key: 5227749
-avibase_id: "298DEB8C1204C101"
-iucn_status: "LC"
+avibase_id: 298DEB8C1204C101
+iucn_status: LC
 taxon_order: 1258.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lophophorus sclateri"
-  fa: "کاکلپری اسکلیتر"
-  en: "Sclater's Monal"
-
-# === TAXONOMY ===
+  scientific: Lophophorus sclateri
+  fa: کاکلپری اسکلیتر
+  en: Sclater's Monal
+  es: Monal Coliblanco
+  fr: Lophophore de Sclater
+  de: Weißschwanz-Glanzfasan
+  pt: sclater's monal
+  ru: Белохвостый монал
+  ja: オジロニジキジ
+  zh: 白尾梢虹雉
+  nl: Sclaterglansfazant
+  pl: olśniak białosterny
+  tr: Ak Kuyruklu Monal
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Lophophorus"
-  species: "sclateri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Lophophorus
+  species: sclateri
 morphology:
   body_mass_g: 2402.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 2500
   elevational_max_m: 4200
-  habitat_types: ["Forest", "Bamboo", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
+  - Shrubland
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -88,37 +90,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 28
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lophophorus sclateri (کاکلپری اسکلیتر)
 

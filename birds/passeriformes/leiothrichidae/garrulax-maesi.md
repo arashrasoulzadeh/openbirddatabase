@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05856"
-ebird_code: "grylau1"
+taxon_id: BN05856
+ebird_code: grylau1
 gbif_key: 2493457
-avibase_id: "DF9E2D949CC5A4E6"
-iucn_status: "LC"
+avibase_id: DF9E2D949CC5A4E6
+iucn_status: LC
 taxon_order: 26748.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Garrulax maesi"
-  fa: "nan"
-  en: "Grey Laughingthrush"
-
-# === TAXONOMY ===
+  scientific: Garrulax maesi
+  fa: nan
+  en: Grey Laughingthrush
+  es: Charlatán de Maës
+  fr: Garrulaxe de Maës
+  de: Maeshäherling
+  pt: gray laughingthrush
+  ru: Серая кустарница
+  ja: ハイイロガビチョウ
+  zh: 褐胸噪鹛
+  nl: Grijze lijstergaai
+  pl: sójkowiec szary
+  tr: Gri Gevezeardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Garrulax"
-  species: "maesi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Garrulax
+  species: maesi
 morphology:
   body_mass_g: 108.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 380
   elevational_max_m: 1700
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Garrulax maesi (nan)
 

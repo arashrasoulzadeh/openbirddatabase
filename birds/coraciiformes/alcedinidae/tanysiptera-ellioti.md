@@ -1,47 +1,47 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14715"
-ebird_code: "kopkin1"
+taxon_id: BN14715
+ebird_code: kopkin1
 gbif_key: 2475645
-avibase_id: "4D4F15A4633FE4A3"
-iucn_status: "NT"
+avibase_id: 4D4F15A4633FE4A3
+iucn_status: NT
 taxon_order: 10282.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tanysiptera ellioti"
-  fa: "nan"
-  en: "Kofiau Paradise Kingfisher"
-
-# === TAXONOMY ===
+  scientific: Tanysiptera ellioti
+  fa: nan
+  en: Kofiau Paradise Kingfisher
+  es: Alción Colilargo de Isla Kofiau
+  fr: Martin-chasseur de Kofiau
+  de: Elliotliest
+  pt: kofiau paradise-kingfisher
+  ru: Эллиотов райский зимородок
+  ja: シロハララケットカワセミ
+  zh: Kofiau Paradise Kingfisher
+  nl: Kofiauvlagstaartijsvogel
+  pl: sterowik wstęgosterny
+  tr: Kofiau Cennet Yalıçapkını
 taxonomy:
-  order: "Coraciiformes"
-  family: "Alcedinidae"
-  genus: "Tanysiptera"
-  species: "ellioti"
-
-
-# === DISTRIBUTION ===
+  order: Coraciiformes
+  family: Alcedinidae
+  genus: Tanysiptera
+  species: ellioti
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 65
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,31 +86,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +109,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +117,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tanysiptera ellioti (nan)
 

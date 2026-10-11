@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11448"
-ebird_code: "eurmag3"
+taxon_id: BN11448
+ebird_code: eurmag3
 gbif_key: 10676018
-avibase_id: "3FA7E460EC07707F"
-iucn_status: "LC"
+avibase_id: 3FA7E460EC07707F
+iucn_status: LC
 taxon_order: 21463.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pica mauritanica"
-  fa: "زاغی مغربی"
-  en: "Maghreb Magpie"
-
-# === TAXONOMY ===
+  scientific: Pica mauritanica
+  fa: زاغی مغربی
+  en: Maghreb Magpie
+  es: Urraca Magrebí
+  fr: Pie du Maghreb
+  de: Maghrebelster
+  pt: pega-do-magreb
+  ru: Магрибская сорока
+  ja: マグレブカササギ
+  nl: Maghrebekster
+  pl: sroka gołooka
+  tr: Mağrip Saksağanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Corvidae"
-  genus: "Pica"
-  species: "mauritanica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Corvidae
+  genus: Pica
+  species: mauritanica
 morphology:
   body_mass_g: 180.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2300
-  habitat_types: ["Woodland", "Plains", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Plains
+  - Artificial
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 5
   categories:
     invertebrates: 3.0
@@ -88,38 +89,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
-  nest_type: "DM"
-  nest_placement: "Shrub, Tree"
+  nest_type: DM
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pica mauritanica (زاغی مغربی)
 

@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16070"
-ebird_code: "fabthr1"
+taxon_id: BN16070
+ebird_code: fabthr1
 gbif_key: 2490922
-avibase_id: "485394E0C52F2766"
-iucn_status: "NT"
+avibase_id: 485394E0C52F2766
+iucn_status: NT
 taxon_order: 28241.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zoothera machiki"
-  fa: "توکای سینهفندقی"
-  en: "Fawn-breasted Thrush"
-
-# === TAXONOMY ===
+  scientific: Zoothera machiki
+  fa: توکای سینهفندقی
+  en: Fawn-breasted Thrush
+  es: Zorzal de las Tanimbar
+  fr: Grive à poitrine fauve
+  de: Tanimbarerddrossel
+  pt: fawn-breasted thrush
+  ru: Танимбарский дрозд
+  ja: タニンバルトラツグミ
+  nl: Tanimbargoudlijster
+  pl: drozdoń płowy
+  tr: Sarı Göğüslü Ardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Turdidae"
-  genus: "Zoothera"
-  species: "machiki"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Turdidae
+  genus: Zoothera
+  species: machiki
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -86,34 +87,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_max: 3
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -121,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -131,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zoothera machiki (توکای سینهفندقی)
 

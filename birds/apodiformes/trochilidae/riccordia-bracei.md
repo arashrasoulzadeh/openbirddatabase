@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13373"
-ebird_code: "braeme2"
+taxon_id: BN13373
+ebird_code: braeme2
 gbif_key: 11060764
-avibase_id: "nan"
-iucn_status: "EX"
+avibase_id: nan
+iucn_status: EX
 taxon_order: 4862.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Riccordia bracei"
-  fa: "nan"
-  en: "Brace's Emerald"
-
-# === TAXONOMY ===
+  scientific: Riccordia bracei
+  fa: nan
+  en: Brace's Emerald
+  es: Esmeralda de Brace
+  fr: Émeraude de New Providence
+  de: Bahamasmaragdkolibri
+  pt: brace's emerald
+  ru: Багамскимй изумруд
+  ja: バハマヒメエメラルドハチドリ
+  nl: Bahamaanse smaragdkolibrie
+  pl: pląśnik bahamski
+  tr: Brace Zümrüdü
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Riccordia"
-  species: "bracei"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Riccordia
+  species: bracei
 morphology:
   body_mass_g: 3.54
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 23
-  habitat_types: ["Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EX"
-  cites_appendix: "Not listed"
+  iucn_status: EX
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Riccordia bracei (nan)
 

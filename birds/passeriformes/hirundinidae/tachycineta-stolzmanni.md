@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14596"
-ebird_code: "tumswa1"
+taxon_id: BN14596
+ebird_code: tumswa1
 gbif_key: 5230760
-avibase_id: "3ADA18E5D24A2DD1"
-iucn_status: "LC"
+avibase_id: 3ADA18E5D24A2DD1
+iucn_status: LC
 taxon_order: 24065.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tachycineta stolzmanni"
-  fa: "پرستوی زولتسمان"
-  en: "Tumbes Swallow"
-
-# === TAXONOMY ===
+  scientific: Tachycineta stolzmanni
+  fa: پرستوی زولتسمان
+  en: Tumbes Swallow
+  es: Golondrina de Tumbes
+  fr: Hirondelle de Stolzmann
+  de: Tumbesschwalbe
+  pt: tumbes swallow
+  ru: Тумбесская ласточка
+  ja: ペルーミドリツバメ
+  zh: 秘魯樹燕
+  nl: Stolzmannzwaluw
+  pl: nadobniczka białorzytna
+  tr: Tumbes Kırlangıcı
 taxonomy:
-  order: "Passeriformes"
-  family: "Hirundinidae"
-  genus: "Tachycineta"
-  species: "stolzmanni"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Hirundinidae
+  genus: Tachycineta
+  species: stolzmanni
 morphology:
   body_mass_g: 11.184000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Plains", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Plains
+  - Artificial
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.7
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 16
   fledging_days: 26
-  nest_type: "CV,O"
-  nest_placement: "Tree"
+  nest_type: CV,O
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tachycineta stolzmanni (پرستوی زولتسمان)
 

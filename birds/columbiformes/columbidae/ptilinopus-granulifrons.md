@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12692"
-ebird_code: "cafdov1"
+taxon_id: BN12692
+ebird_code: cafdov1
 gbif_key: 2495620
-avibase_id: "A8AAFCCE39B2E001"
-iucn_status: "VU"
+avibase_id: A8AAFCCE39B2E001
+iucn_status: VU
 taxon_order: 2683.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ptilinopus granulifrons"
-  fa: "کبوتر میوهخوار غبغبدار"
-  en: "Carunculated Fruit Dove"
-
-# === TAXONOMY ===
+  scientific: Ptilinopus granulifrons
+  fa: کبوتر میوهخوار غبغبدار
+  en: Carunculated Fruit Dove
+  es: Tilopo Carunculado
+  fr: Ptilope caronculé
+  de: Karunkelfruchttaube
+  pt: carunculated fruit-dove
+  ru: Бородавчатый фруктовый голубь
+  ja: トサカヒメアオバト
+  zh: Carunculated Fruit Dove
+  nl: Obi-jufferduif
+  pl: owocożer brodawkowy
+  tr: İbikli Meyve Kumrusu
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Ptilinopus"
-  species: "granulifrons"
-
-
-# === DISTRIBUTION ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Ptilinopus
+  species: granulifrons
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 40
   elevational_max_m: 550
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ptilinopus granulifrons (کبوتر میوهخوار غبغبدار)
 

@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07396"
-ebird_code: "reifir1"
+taxon_id: BN07396
+ebird_code: reifir1
 gbif_key: 2493685
-avibase_id: "D2EDC42AB1E7F31B"
-iucn_status: "LC"
+avibase_id: D2EDC42AB1E7F31B
+iucn_status: LC
 taxon_order: 31428.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lagonosticta umbrinodorsalis"
-  fa: "nan"
-  en: "Chad Firefinch"
-
-# === TAXONOMY ===
+  scientific: Lagonosticta umbrinodorsalis
+  fa: nan
+  en: Chad Firefinch
+  es: Amaranta de Chad
+  fr: Amarante du Tchad
+  de: Tschadamarant
+  pt: chad firefinch
+  ru: Чадский амарант
+  ja: チャドコウギョクチョウ
+  zh: 赖氏火雀
+  nl: Brunelamarant
+  pl: amarantka czadyjska
+  tr: Reichenow Ateşispinozu
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Lagonosticta"
-  species: "umbrinodorsalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Lagonosticta
+  species: umbrinodorsalis
 morphology:
   body_mass_g: 9.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Rocky"
+  primary: Rocky
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 400
   elevational_max_m: 800
-  habitat_types: ["Woodland", "Shrubland", "Plains", "Rocky", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Plains
+  - Rocky
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,31 +92,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lagonosticta umbrinodorsalis (nan)
 

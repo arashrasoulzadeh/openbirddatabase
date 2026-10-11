@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04414"
-ebird_code: "wiwduc1"
+taxon_id: BN04414
+ebird_code: wiwduc1
 gbif_key: 2498406
-avibase_id: "DC65FCE73C5A66BA"
-iucn_status: "NT"
+avibase_id: DC65FCE73C5A66BA
+iucn_status: NT
 taxon_order: 247.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Dendrocygna arborea"
-  fa: "اردک سوتزن سیاهنوک"
-  en: "West Indian Whistling Duck"
-
-# === TAXONOMY ===
+  scientific: Dendrocygna arborea
+  fa: اردک سوتزن سیاهنوک
+  en: West Indian Whistling Duck
+  es: Suirirí Yaguaza
+  fr: Dendrocygne des Antilles
+  de: Kubapfeifgans
+  pt: west indian whistling-duck
+  ru: Кубинская древесная утка
+  ja: ハシグロリュウキュウガモ
+  zh: West Indian Whistling Duck
+  nl: West-Indische fluiteend
+  pl: drzewica karaibska
+  tr: Karayip Islıkçı Ördeği
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Dendrocygna"
-  species: "arborea"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Dendrocygna
+  species: arborea
 morphology:
   body_mass_g: 1030.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 200
-  habitat_types: ["Forest", "Savanna", "Artificial", "Coastal", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Savanna
+  - Artificial
+  - Coastal
+  - Wetland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 0.01
@@ -88,40 +92,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 10.0
   clutch_size_min: 4
   clutch_size_max: 16
   incubation_days: 30
-  nest_type: "CV,SC"
-  nest_placement: "Ground, Tree"
+  nest_type: CV,SC
+  nest_placement: Ground, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Dendrocygna arborea (اردک سوتزن سیاهنوک)
 

@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10419"
-ebird_code: "sulsco2"
+taxon_id: BN10419
+ebird_code: sulsco2
 gbif_key: 5789318
-avibase_id: "07BB7971AE0FE450"
-iucn_status: "CR"
+avibase_id: 07BB7971AE0FE450
+iucn_status: CR
 taxon_order: 8740.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Otus siaoensis"
-  fa: "nan"
-  en: "Siau Scops Owl"
-
-# === TAXONOMY ===
+  scientific: Otus siaoensis
+  fa: nan
+  en: Siau Scops Owl
+  es: Autillo de Isla Siau
+  fr: Petit-duc de Siau
+  de: Siau-Zwergohreule
+  pt: siau scops-owl
+  ru: Сиаусская сплюшка
+  ja: シアウコノハズク
+  zh: Siau Scops Owl
+  nl: Siaudwergooruil
+  pl: syczek brązowy
+  tr: Siau İshakkuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Strigidae"
-  genus: "Otus"
-  species: "siaoensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Strigidae
+  genus: Otus
+  species: siaoensis
 morphology:
   body_mass_g: 88.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "CR"
-  cites_appendix: "Not listed"
+  iucn_status: CR
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Otus siaoensis (nan)
 

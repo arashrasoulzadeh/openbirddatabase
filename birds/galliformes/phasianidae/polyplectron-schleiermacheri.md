@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11970"
-ebird_code: "bopphe1"
+taxon_id: BN11970
+ebird_code: bopphe1
 gbif_key: 2474077
-avibase_id: "2F560EC78D64B628"
-iucn_status: "EN"
+avibase_id: 2F560EC78D64B628
+iucn_status: EN
 taxon_order: 1603.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Polyplectron schleiermacheri"
-  fa: "قرقاول طاووسی برنئو"
-  en: "Bornean Peacock-Pheasant"
-
-# === TAXONOMY ===
+  scientific: Polyplectron schleiermacheri
+  fa: قرقاول طاووسی برنئو
+  en: Bornean Peacock-Pheasant
+  es: Espolonero de Borneo
+  fr: Éperonnier de Bornéo
+  de: Borneopfaufasan
+  pt: bornean peacock-pheasant
+  ru: Борнейский павлиний фазан
+  ja: ボルネオエボシコクジャク
+  zh: 婆羅洲孔雀雉
+  nl: Borneose spiegelpauw
+  pl: wieloszpon białobrody
+  tr: Borneo Tavus Sülünü
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Polyplectron"
-  species: "schleiermacheri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Polyplectron
+  species: schleiermacheri
 morphology:
   body_mass_g: 512.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1070
-  habitat_types: ["Forest", "Grassland", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Grassland
+  - Riverine
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 4.0
@@ -88,37 +90,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 20
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "EN"
-  cites_appendix: "Not listed"
+  iucn_status: EN
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Polyplectron schleiermacheri (قرقاول طاووسی برنئو)
 

@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04343"
-ebird_code: "easbri1"
+taxon_id: BN04343
+ebird_code: easbri1
 gbif_key: 5230413
-avibase_id: "A9C5800555AD9FA1"
-iucn_status: "VU"
+avibase_id: A9C5800555AD9FA1
+iucn_status: VU
 taxon_order: 18219.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Dasyornis brachypterus"
-  fa: "مرغ فرچهای شرقی"
-  en: "Eastern Bristlebird"
-
-# === TAXONOMY ===
+  scientific: Dasyornis brachypterus
+  fa: مرغ فرچهای شرقی
+  en: Eastern Bristlebird
+  es: Picocerdas Oriental
+  fr: Dasyorne brun
+  de: Olivscheitel-Borstenvogel
+  pt: eastern bristlebird
+  ru: Буроголовая щетинкоклювка
+  ja: ヒゲムシクイ
+  zh: 棕刺莺
+  nl: Bruine borstelvogel
+  pl: kolcopiórek brązowy
+  tr: Doğulu Bıyıklıkuş
 taxonomy:
-  order: "Passeriformes"
-  family: "Dasyornithidae"
-  genus: "Dasyornis"
-  species: "brachypterus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Dasyornithidae
+  genus: Dasyornis
+  species: brachypterus
 morphology:
   body_mass_g: 40.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1160
-  habitat_types: ["Forest", "Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 6.0
@@ -88,41 +90,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
   incubation_days: 21
   fledging_days: 11
-  nest_type: "DM"
-  nest_placement: "Shrub, Cliff/Crevice"
+  nest_type: DM
+  nest_placement: Shrub, Cliff/Crevice
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Dasyornis brachypterus (مرغ فرچهای شرقی)
 

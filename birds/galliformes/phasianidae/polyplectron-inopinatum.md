@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11966"
-ebird_code: "mopphe1"
+taxon_id: BN11966
+ebird_code: mopphe1
 gbif_key: 2474074
-avibase_id: "B79C272AEE35468A"
-iucn_status: "NT"
+avibase_id: B79C272AEE35468A
+iucn_status: NT
 taxon_order: 1608.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Polyplectron inopinatum"
-  fa: "قرقاول طاووسی کوهستان"
-  en: "Mountain Peacock-Pheasant"
-
-# === TAXONOMY ===
+  scientific: Polyplectron inopinatum
+  fa: قرقاول طاووسی کوهستان
+  en: Mountain Peacock-Pheasant
+  es: Espolonero de Rothschild
+  fr: Éperonnier de Rothschild
+  de: Rothschild-Pfaufasan
+  pt: mountain peacock-pheasant
+  ru: Горный павлиний фазан
+  ja: アカコクジャク
+  zh: 羅氏孔雀
+  nl: Rothschildpauwfazant
+  pl: wieloszpon rdzawogrzbiety
+  tr: Kızıl Sırtlı Tavus Sülünü
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Polyplectron"
-  species: "inopinatum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Polyplectron
+  species: inopinatum
 morphology:
   body_mass_g: 477.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 1
   elevational_min_m: 820
   elevational_max_m: 2000
-  habitat_types: ["Forest"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,40 +88,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 19
-  nest_type: "Scrape"
-  nest_placement: "Rock"
+  nest_type: Scrape
+  nest_placement: Rock
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Polyplectron inopinatum (قرقاول طاووسی کوهستان)
 

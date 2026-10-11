@@ -1,47 +1,45 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05655"
-ebird_code: "buwpar2"
+taxon_id: BN05655
+ebird_code: buwpar2
 gbif_key: 5788410
-avibase_id: "64C68E69FB4281B1"
-iucn_status: "LC"
+avibase_id: 64C68E69FB4281B1
+iucn_status: LC
 taxon_order: 12985.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Forpus crassirostris"
-  fa: "طوطیچه نوکدراز"
-  en: "Riparian Parrotlet"
-
-# === TAXONOMY ===
+  scientific: Forpus crassirostris
+  fa: طوطیچه نوکدراز
+  en: Riparian Parrotlet
+  es: Cotorrita Azuleja
+  fr: Toui à gros bec
+  de: Dickschnabel-Sperlingspapagei
+  pt: tuim-de-bico-grosso
+  nl: Grootsnavelmuspapegaai
+  pl: wróbliczka Taczanowskiego
+  tr: Mavi Kanatlı Serçe Papağanı
 taxonomy:
-  order: "Psittaciformes"
-  family: "Psittacidae"
-  genus: "Forpus"
-  species: "crassirostris"
-
-
-# === DISTRIBUTION ===
+  order: Psittaciformes
+  family: Psittacidae
+  genus: Forpus
+  species: crassirostris
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 0.0
@@ -86,34 +84,25 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CV"
+  nest_type: CV
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -121,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -131,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Forpus crassirostris (طوطیچه نوکدراز)
 

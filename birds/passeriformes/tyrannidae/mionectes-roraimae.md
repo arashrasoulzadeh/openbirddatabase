@@ -1,49 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08988"
-ebird_code: "mccfly3"
+taxon_id: BN08988
+ebird_code: mccfly3
 gbif_key: 8737056
-avibase_id: "5155A0DC9528E58F"
-iucn_status: "LC"
+avibase_id: 5155A0DC9528E58F
+iucn_status: LC
 taxon_order: 16229.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Mionectes roraimae"
-  fa: "nan"
-  en: "Sierra de Lema Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Mionectes roraimae
+  fa: nan
+  en: Sierra de Lema Flycatcher
+  es: Mosquero de Sierra de Lema
+  fr: Pipromorphe des tépuis
+  de: Tepuipipratyrann
+  pt: abre-asa-do-tepui
+  ru: Рораймский тираннчик
+  nl: Tepuipipratiran
+  pl: muchotyranik zielonawy
+  tr: Sierra De Lema Tiranületi
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Mionectes"
-  species: "roraimae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Mionectes
+  species: roraimae
 morphology:
   body_mass_g: 13.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 640
   elevational_max_m: 1980
-  habitat_types: ["Forest", "Rocky"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Rocky
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -88,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Lekking"
-  flock_size_typical: ""
+  sociality: Lekking
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Mionectes roraimae (nan)
 

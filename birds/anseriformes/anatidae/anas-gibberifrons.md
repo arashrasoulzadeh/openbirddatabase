@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00707"
-ebird_code: "suntea1"
+taxon_id: BN00707
+ebird_code: suntea1
 gbif_key: 2498104
-avibase_id: "EC92E98D2C02D319"
-iucn_status: "NT"
+avibase_id: EC92E98D2C02D319
+iucn_status: NT
 taxon_order: 636.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anas gibberifrons"
-  fa: "خوتکای سوندا"
-  en: "Sunda Teal"
-
-# === TAXONOMY ===
+  scientific: Anas gibberifrons
+  fa: خوتکای سوندا
+  en: Sunda Teal
+  es: Cerceta de la Sonda
+  fr: Sarcelle grise
+  de: Sundaente
+  pt: marrequinha-de-sunda
+  ru: Зондский чирок
+  ja: インドネシアコガモ
+  zh: 爪哇灰鴨
+  nl: Soendataling
+  pl: cyraneczka szara
+  tr: Alınlı Ördek
 taxonomy:
-  order: "Anseriformes"
-  family: "Anatidae"
-  genus: "Anas"
-  species: "gibberifrons"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Anseriformes
+  family: Anatidae
+  genus: Anas
+  species: gibberifrons
 morphology:
   body_mass_g: 409.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IW"]
+  biogeographic_realms:
+  - IW
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Riverine", "Coastal", "Wetland", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Riverine
+  - Coastal
+  - Wetland
+  - Sea/Pelagic
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 3
   categories:
     invertebrates: 3.0
@@ -88,41 +91,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.5
   clutch_size_min: 7
   clutch_size_max: 8
   incubation_days: 26
   fledging_days: 49
-  nest_type: "CV,SC"
-  nest_placement: "Ground, Tree"
+  nest_type: CV,SC
+  nest_placement: Ground, Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anas gibberifrons (خوتکای سوندا)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02340"
-ebird_code: "bubwre1"
+taxon_id: BN02340
+ebird_code: bubwre1
 gbif_key: 7341038
-avibase_id: "DF6E7F1C91A07B2A"
-iucn_status: "LC"
+avibase_id: DF6E7F1C91A07B2A
+iucn_status: LC
 taxon_order: 27554.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cantorchilus leucotis"
-  fa: "الیکایی سینهپوشدار"
-  en: "Buff-breasted Wren"
-
-# === TAXONOMY ===
+  scientific: Cantorchilus leucotis
+  fa: الیکایی سینهپوشدار
+  en: Buff-breasted Wren
+  es: Cucarachero Pechihabano
+  fr: Troglodyte à face pâle
+  de: Weißohr-Zaunkönig
+  pt: garrinchão-de-barriga-vermelha
+  ru: Белоухий крапивник
+  ja: ホオジロマユミソサザイ
+  nl: Witoorwinterkoning
+  pl: pręgostrzyżyk amazoński
+  tr: Açık Suratlı Çıtkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Troglodytidae"
-  genus: "Cantorchilus"
-  species: "leucotis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Troglodytidae
+  genus: Cantorchilus
+  species: leucotis
 morphology:
   body_mass_g: 19.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 950
-  habitat_types: ["Forest", "Shrubland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.5
   clutch_size_min: 2
   clutch_size_max: 3
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cantorchilus leucotis (الیکایی سینهپوشدار)
 

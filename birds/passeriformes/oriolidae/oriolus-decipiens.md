@@ -1,47 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10254"
-ebird_code: "burori3"
+taxon_id: BN10254
+ebird_code: burori3
 gbif_key: 6101017
-avibase_id: "D48FFFDD5DAB6D2E"
-iucn_status: "LC"
+avibase_id: D48FFFDD5DAB6D2E
+iucn_status: LC
 taxon_order: 19600.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Oriolus decipiens"
-  fa: "پریشاهرخ تانیمبار"
-  en: "Tanimbar Oriole"
-
-# === TAXONOMY ===
+  scientific: Oriolus decipiens
+  fa: پریشاهرخ تانیمبار
+  en: Tanimbar Oriole
+  es: Oropéndola de las Tanimbar
+  fr: Loriot des Tanimbar
+  de: Tanimbarpirol
+  pt: tanimbar oriole
+  ru: Танимбарская иволга
+  ja: タニンバルコウライウグイス
+  nl: Tanimbarwielewaal
+  pl: wilga tanimbarska
+  tr: Tanimbar Sarıasması
 taxonomy:
-  order: "Passeriformes"
-  family: "Oriolidae"
-  genus: "Oriolus"
-  species: "decipiens"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Oriolidae
+  genus: Oriolus
+  species: decipiens
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["W"]
+  biogeographic_realms:
+  - W
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 120
-  habitat_types: ["Forest", "Woodland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -86,31 +88,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +111,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +119,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Oriolus decipiens (پریشاهرخ تانیمبار)
 

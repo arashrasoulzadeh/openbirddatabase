@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02710"
-ebird_code: "biskin1"
+taxon_id: BN02710
+ebird_code: biskin1
 gbif_key: 6095354
-avibase_id: "8ADDDF42661E6E2F"
-iucn_status: "VU"
+avibase_id: 8ADDDF42661E6E2F
+iucn_status: VU
 taxon_order: 9948.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Ceyx websteri"
-  fa: "nan"
-  en: "Bismarck Kingfisher"
-
-# === TAXONOMY ===
+  scientific: Ceyx websteri
+  fa: nan
+  en: Bismarck Kingfisher
+  es: Martín Pescador de las Bismarck
+  fr: Martin-pêcheur des Bismarck
+  de: Bismarckzwergfischer
+  pt: bismarck kingfisher
+  ru: Бисмаркский зимородок
+  ja: ビスマークカワセミ
+  nl: Bismarckijsvogel
+  pl: zimorodek atolowy
+  tr: Bismark Yalıçapkını
 taxonomy:
-  order: "Coraciiformes"
-  family: "Alcedinidae"
-  genus: "Ceyx"
-  species: "websteri"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Coraciiformes
+  family: Alcedinidae
+  genus: Ceyx
+  species: websteri
 morphology:
   body_mass_g: 59.333333333333336
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 250
-  habitat_types: ["Forest", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Riverine
+  - Wetland
 diet:
-  primary: "Carnivore"
+  primary: Carnivore
   diet_breadth: 2
   categories:
     invertebrates: 5.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Ceyx websteri (nan)
 

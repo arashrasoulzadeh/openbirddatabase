@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN06425"
-ebird_code: "pyweye1"
+taxon_id: BN06425
+ebird_code: pyweye1
 gbif_key: 11103006
-avibase_id: "1A31DD7F685BDBEA"
-iucn_status: "LC"
+avibase_id: 1A31DD7F685BDBEA
+iucn_status: LC
 taxon_order: 25576.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Heleia squamifrons"
-  fa: "چشمسفید کوتوله"
-  en: "Pygmy Heleia"
-
-# === TAXONOMY ===
+  scientific: Heleia squamifrons
+  fa: چشمسفید کوتوله
+  en: Pygmy Heleia
+  es: Anteojitos Pigmeo
+  fr: Zostérops pygmée
+  de: Zwergbrillenvogel
+  pt: pygmy heleia
+  ru: Чешуйчатая элейя
+  ja: コビトメジロ
+  zh: Pygmy White-eye
+  nl: Dwergbergbrilvogel
+  pl: okularowiec malutki
+  tr: Küçük Gözlükçü
 taxonomy:
-  order: "Passeriformes"
-  family: "Zosteropidae"
-  genus: "Heleia"
-  species: "squamifrons"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Zosteropidae
+  genus: Heleia
+  species: squamifrons
 morphology:
   body_mass_g: 6.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 550
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 3
   categories:
     invertebrates: 1.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Heleia squamifrons (چشمسفید کوتوله)
 

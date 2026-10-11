@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10466"
-ebird_code: "golwhi2"
+taxon_id: BN10466
+ebird_code: golwhi2
 gbif_key: 9403223
-avibase_id: "2A5D6D4A879A7785"
-iucn_status: "LC"
+avibase_id: 2A5D6D4A879A7785
+iucn_status: LC
 taxon_order: 19475.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pachycephala balim"
-  fa: "سوتزن بالیم"
-  en: "Baliem Whistler"
-
-# === TAXONOMY ===
+  scientific: Pachycephala balim
+  fa: سوتزن بالیم
+  en: Baliem Whistler
+  es: Silbador de Baliem
+  fr: Siffleur de Balim
+  de: Baliemdickkopf
+  pt: baliem whistler
+  ru: Балимский свистун
+  ja: バリエムモズヒタキ
+  nl: Baliemfluiter
+  pl: fletówka górska
+  tr: Baliem Islıkçısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Pachycephalidae"
-  genus: "Pachycephala"
-  species: "balim"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Pachycephalidae
+  genus: Pachycephala
+  species: balim
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1600
   elevational_max_m: 2400
-  habitat_types: ["Forest", "Woodland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -86,35 +87,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -122,8 +114,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -132,12 +122,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pachycephala balim (سوتزن بالیم)
 

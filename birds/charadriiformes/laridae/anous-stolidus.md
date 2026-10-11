@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00818"
-ebird_code: "brnnod"
+taxon_id: BN00818
+ebird_code: brnnod
 gbif_key: 2481113
-avibase_id: "A070171E774B95B5"
-iucn_status: "LC"
+avibase_id: A070171E774B95B5
+iucn_status: LC
 taxon_order: 6634.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anous stolidus"
-  fa: "پرستواقیانوسی قهوه‌ای"
-  en: "Brown Noddy"
-
-# === TAXONOMY ===
+  scientific: Anous stolidus
+  fa: پرستواقیانوسی قهوه‌ای
+  en: Brown Noddy
+  es: Tiñosa Boba
+  fr: Noddi brun
+  de: Braunnoddi
+  pt: trinta-réis-escuro
+  ru: Бурая кланяющаяся крачка
+  ja: クロアジサシ
+  zh: 白顶玄燕鸥
+  nl: Bruine noddy
+  pl: rybołówka brunatna
+  tr: Kahverengi Nodi
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Anous"
-  species: "stolidus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Anous
+  species: stolidus
 morphology:
   body_mass_g: 184.66666666666666
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["CZ"]
+  biogeographic_realms:
+  - CZ
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 50
-  habitat_types: ["Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 3.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 30
   fledging_days: 39
-  nest_type: "NO,PL,SC"
-  nest_placement: "Ground, Rock, Shrub, Tree"
+  nest_type: NO,PL,SC
+  nest_placement: Ground, Rock, Shrub, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anous stolidus (پرستواقیانوسی قهوه‌ای)
 

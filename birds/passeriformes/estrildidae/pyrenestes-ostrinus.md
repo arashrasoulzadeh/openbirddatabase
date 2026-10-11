@@ -1,47 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12866"
-ebird_code: "blbsee1"
+taxon_id: BN12866
+ebird_code: blbsee1
 gbif_key: 2493636
-avibase_id: "2322C712A7D52BFC"
-iucn_status: "LC"
+avibase_id: 2322C712A7D52BFC
+iucn_status: LC
 taxon_order: 31381.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Pyrenestes ostrinus"
-  fa: "دانهشکن شکمسیاه"
-  en: "Black-bellied Seedcracker"
-
-# === TAXONOMY ===
+  scientific: Pyrenestes ostrinus
+  fa: دانهشکن شکمسیاه
+  en: Black-bellied Seedcracker
+  es: Estrilda Piquigorda Ventrinegra
+  fr: Pyréneste ponceau
+  de: Purpurastrild
+  pt: black-bellied seedcracker
+  ru: Чернобрюхий толстоклюв
+  ja: アカクロタネワリキンパラ
+  zh: 黑腹裂籽雀
+  nl: Purperastrild
+  pl: krasnoliczka czarnobrzucha
+  tr: Fırfır Tohumçatlatan
 taxonomy:
-  order: "Passeriformes"
-  family: "Estrildidae"
-  genus: "Pyrenestes"
-  species: "ostrinus"
-
-
-# === DISTRIBUTION ===
+  order: Passeriformes
+  family: Estrildidae
+  genus: Pyrenestes
+  species: ostrinus
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 1700
-  habitat_types: ["Forest", "Woodland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -86,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 3
   clutch_size_max: 5
   incubation_days: 16
   fledging_days: 24
-  nest_type: "SP"
-  nest_placement: "Shrub, Tree, A"
+  nest_type: SP
+  nest_placement: Shrub, Tree, A
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Pyrenestes ostrinus (دانهشکن شکمسیاه)
 

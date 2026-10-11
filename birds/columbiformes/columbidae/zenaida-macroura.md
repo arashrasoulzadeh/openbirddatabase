@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16003"
-ebird_code: "moudov"
+taxon_id: BN16003
+ebird_code: moudov
 gbif_key: 2495347
-avibase_id: "00124D987C95811B"
-iucn_status: "LC"
+avibase_id: 00124D987C95811B
+iucn_status: LC
 taxon_order: 2412.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zenaida macroura"
-  fa: "کبوتر باران"
-  en: "Mourning Dove"
-
-# === TAXONOMY ===
+  scientific: Zenaida macroura
+  fa: کبوتر باران
+  en: Mourning Dove
+  es: Zenaida Huilota
+  fr: Tourterelle triste
+  de: Carolinataube
+  pt: rola-carpideira
+  ru: Плачущая горлица
+  ja: ナゲキバト
+  zh: 哀鴿
+  nl: Treurduif
+  pl: gołębiak długosterny
+  tr: Uzun Kuyruklu Kumru
 taxonomy:
-  order: "Columbiformes"
-  family: "Columbidae"
-  genus: "Zenaida"
-  species: "macroura"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Columbiformes
+  family: Columbidae
+  genus: Zenaida
+  species: macroura
 morphology:
   body_mass_g: 127.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Savanna"
+  primary: Savanna
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2500
-  habitat_types: ["Woodland", "Savanna", "Plains", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Savanna
+  - Plains
+  - Artificial
+  - Riverine
 diet:
-  primary: "Seed"
+  primary: Seed
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -88,39 +92,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 15
   fledging_days: 11
-  nest_placement: "Ground, Shrub, Tree"
+  nest_placement: Ground, Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zenaida macroura (کبوتر باران)
 

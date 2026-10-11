@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00819"
-ebird_code: "lesnod1"
+taxon_id: BN00819
+ebird_code: lesnod1
 gbif_key: 2481112
-avibase_id: "03F9EB153E1DD50C"
-iucn_status: "LC"
+avibase_id: 03F9EB153E1DD50C
+iucn_status: LC
 taxon_order: 6639.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Anous tenuirostris"
-  fa: "پرستواقیانوسی کوچک"
-  en: "Lesser Noddy"
-
-# === TAXONOMY ===
+  scientific: Anous tenuirostris
+  fa: پرستواقیانوسی کوچک
+  en: Lesser Noddy
+  es: Tiñosa Picofina
+  fr: Noddi marianne
+  de: Schlankschnabelnoddi
+  pt: lesser noddy
+  ru: Малая кланяющаяся крачка
+  ja: インドヒメクロアジサシ
+  zh: 小玄燕鷗
+  nl: Kleine noddy
+  pl: rybołówka cienkodzioba
+  tr: Küçük Nodi
 taxonomy:
-  order: "Charadriiformes"
-  family: "Laridae"
-  genus: "Anous"
-  species: "tenuirostris"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Laridae
+  genus: Anous
+  species: tenuirostris
 morphology:
   body_mass_g: 106.35
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["E"]
+  biogeographic_realms:
+  - E
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Coastal", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Coastal
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +89,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 34
   fledging_days: 40
-  nest_type: "Platform"
-  nest_placement: "Tree, Shrub, Ground"
+  nest_type: Platform
+  nest_placement: Tree, Shrub, Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Anous tenuirostris (پرستواقیانوسی کوچک)
 

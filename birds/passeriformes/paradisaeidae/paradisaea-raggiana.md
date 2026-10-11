@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10635"
-ebird_code: "rbopar1"
+taxon_id: BN10635
+ebird_code: rbopar1
 gbif_key: 2494861
-avibase_id: "BD094FE6B60908A7"
-iucn_status: "LC"
+avibase_id: BD094FE6B60908A7
+iucn_status: LC
 taxon_order: 20654.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Paradisaea raggiana"
-  fa: "پرنده بهشتی راجیانا"
-  en: "Raggiana Bird-of-paradise"
-
-# === TAXONOMY ===
+  scientific: Paradisaea raggiana
+  fa: پرنده بهشتی راجیانا
+  en: Raggiana Bird-of-paradise
+  es: Ave del Paraíso de Raggi
+  fr: Paradisier de Raggi
+  de: Raggiparadiesvogel
+  pt: raggiana bird-of-paradise
+  ru: Каштановая райская птица
+  ja: アカカザリフウチョウ
+  zh: Raggiana Bird-of-paradise
+  nl: Raggiparadijsvogel
+  pl: cudowronka krasnopióra
+  tr: Raggiana Cennetkuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Paradisaeidae"
-  genus: "Paradisaea"
-  species: "raggiana"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Paradisaeidae
+  genus: Paradisaea
+  species: raggiana
 morphology:
   body_mass_g: 221.75
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["A"]
+  biogeographic_realms:
+  - A
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,40 +90,31 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.5
   clutch_size_min: 1
   clutch_size_max: 2
   incubation_days: 18
   fledging_days: 17
-  nest_type: "CP"
-  nest_placement: "Tree"
+  nest_type: CP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -129,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -139,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Paradisaea raggiana (پرنده بهشتی راجیانا)
 

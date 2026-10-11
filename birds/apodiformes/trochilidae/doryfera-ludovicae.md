@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04708"
-ebird_code: "grflan1"
+taxon_id: BN04708
+ebird_code: grflan1
 gbif_key: 2476971
-avibase_id: "0EB01930E20923FD"
-iucn_status: "LC"
+avibase_id: 0EB01930E20923FD
+iucn_status: LC
 taxon_order: 4337.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Doryfera ludovicae"
-  fa: "نوکنیزهای جلوسبز"
-  en: "Green-fronted Lancebill"
-
-# === TAXONOMY ===
+  scientific: Doryfera ludovicae
+  fa: نوکنیزهای جلوسبز
+  en: Green-fronted Lancebill
+  es: Colibrí Picolanza Mayor
+  fr: Porte-lance de Louise
+  de: Grünstirn-Lanzettschnabel
+  pt: green-fronted lancebill
+  ru: Зеленолобый ланцетоклюв
+  ja: ミドリビタイヤリハチドリ
+  zh: 绿额矛嘴蜂鸟
+  nl: Groenvoorhoofdlancetkolibrie
+  pl: włócznik zielonoczelny
+  tr: Yeşil Alınlı Mızrakgaga
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Doryfera"
-  species: "ludovicae"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Doryfera
+  species: ludovicae
 morphology:
   body_mass_g: 5.95
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 550
   elevational_max_m: 2600
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
   incubation_days: 19
   fledging_days: 25
-  nest_type: "CP"
-  nest_placement: "Rock, Building"
+  nest_type: CP
+  nest_placement: Rock, Building
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Doryfera ludovicae (نوکنیزهای جلوسبز)
 

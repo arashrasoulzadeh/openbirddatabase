@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08008"
-ebird_code: "rubwar1"
+taxon_id: BN08008
+ebird_code: rubwar1
 gbif_key: 7368163
-avibase_id: "98719277DD27E8CF"
-iucn_status: "LC"
+avibase_id: 98719277DD27E8CF
+iucn_status: LC
 taxon_order: 23836.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Locustella mandelli"
-  fa: "سسک بیشه فندقی"
-  en: "Russet Bush Warbler"
-
-# === TAXONOMY ===
+  scientific: Locustella mandelli
+  fa: سسک بیشه فندقی
+  en: Russet Bush Warbler
+  es: Zarzalero de Mandelli
+  fr: Locustelle de Mandelli
+  de: Mandellischwirl
+  pt: russet bush warbler
+  ru: Ржавчатая пестрогрудка
+  ja: タイワンオオセッカ
+  zh: 高山短翅蝗莺
+  nl: Roodbruine struikzanger
+  pl: świerszczak zmienny
+  tr: Mandelli Çalı Ötleğeni
 taxonomy:
-  order: "Passeriformes"
-  family: "Locustellidae"
-  genus: "Locustella"
-  species: "mandelli"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Locustellidae
+  genus: Locustella
+  species: mandelli
 morphology:
   body_mass_g: 10.433333333333334
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["IP"]
+  biogeographic_realms:
+  - IP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2800
-  habitat_types: ["Bamboo", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Bamboo
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,36 +91,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Locustella mandelli (سسک بیشه فندقی)
 

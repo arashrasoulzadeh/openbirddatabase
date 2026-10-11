@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN16193"
-ebird_code: "lusbab1"
+taxon_id: BN16193
+ebird_code: lusbab1
 gbif_key: 6092512
-avibase_id: "A8066114A21EC76E"
-iucn_status: "LC"
+avibase_id: A8066114A21EC76E
+iucn_status: LC
 taxon_order: 25561.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Zosterornis striatus"
-  fa: "لیکوی خطدار لوزون"
-  en: "Luzon Striped Babbler"
-
-# === TAXONOMY ===
+  scientific: Zosterornis striatus
+  fa: لیکوی خطدار لوزون
+  en: Luzon Striped Babbler
+  es: Timalí Estriado
+  fr: Zostérops strié
+  de: Luzon-Streifenbrillenvogel
+  pt: luzon striped-babbler
+  ru: Лусонская пеструшка
+  ja: スジグロモリチメドリ
+  zh: Luzon Striped Babbler
+  nl: Gestreepte boomtimalia
+  pl: filipinek kreskowany
+  tr: Luzon Çizgili Gözlükçüsü
 taxonomy:
-  order: "Passeriformes"
-  family: "Zosteropidae"
-  genus: "Zosterornis"
-  species: "striatus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Zosteropidae
+  genus: Zosterornis
+  species: striatus
 morphology:
   body_mass_g: 14.15
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 115
   elevational_max_m: 1000
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Zosterornis striatus (لیکوی خطدار لوزون)
 

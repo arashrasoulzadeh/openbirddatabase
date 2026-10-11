@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15564"
-ebird_code: "asfowl1"
+taxon_id: BN15564
+ebird_code: asfowl1
 gbif_key: 5232421
-avibase_id: "F131C8307BB66C7A"
-iucn_status: "LC"
+avibase_id: F131C8307BB66C7A
+iucn_status: LC
 taxon_order: 8648.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Tyto glaucops"
-  fa: "جغد رخخاکستری"
-  en: "Ashy-faced Owl"
-
-# === TAXONOMY ===
+  scientific: Tyto glaucops
+  fa: جغد رخخاکستری
+  en: Ashy-faced Owl
+  es: Lechuza de la Española
+  fr: Effraie d'Hispaniola
+  de: Hispaniolaschleiereule
+  pt: ashy-faced owl
+  ru: Пепельнолицая сипуха
+  ja: ヒスパニオラメンフクロウ
+  zh: 灰面草鴞
+  nl: Hispaniolakerkuil
+  pl: płomykówka szarolica
+  tr: Hispanyola Peçeli Baykuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Tytonidae"
-  genus: "Tyto"
-  species: "glaucops"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Strigiformes
+  family: Tytonidae
+  genus: Tyto
+  species: glaucops
 morphology:
   body_mass_g: 401.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 0
   elevational_max_m: 2000
-  habitat_types: ["Woodland", "Shrubland", "Artificial", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 2
   categories:
     invertebrates: 1.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 3
   clutch_size_max: 7
-  nest_type: "NO"
-  nest_placement: "Building, C, Ground, Cavity, Rock, Tree"
+  nest_type: 'NO'
+  nest_placement: Building, C, Ground, Cavity, Rock, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Tyto glaucops (جغد رخخاکستری)
 

@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07586"
-ebird_code: "whtcra1"
+taxon_id: BN07586
+ebird_code: whtcra1
 gbif_key: 2474599
-avibase_id: "011EB942F2267D7B"
-iucn_status: "LC"
+avibase_id: 011EB942F2267D7B
+iucn_status: LC
 taxon_order: 5643.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Laterallus albigularis"
-  fa: "یلوه گلوسفید"
-  en: "White-throated Crake"
-
-# === TAXONOMY ===
+  scientific: Laterallus albigularis
+  fa: یلوه گلوسفید
+  en: White-throated Crake
+  es: Polluela Carrasqueadora
+  fr: Râle à menton blanc
+  de: Weißkehlralle
+  pt: white-throated crake
+  ru: Белозобый коростелёк
+  ja: キタノドジロコビトクイナ
+  zh: 白喉田鸡
+  nl: Witkeeldwergral
+  pl: derkaczyk białogardły
+  tr: Boyalı Kızıl Yelve
 taxonomy:
-  order: "Gruiformes"
-  family: "Rallidae"
-  genus: "Laterallus"
-  species: "albigularis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Gruiformes
+  family: Rallidae
+  genus: Laterallus
+  species: albigularis
 morphology:
   body_mass_g: 47.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Wetland"
+  primary: Wetland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1600
-  habitat_types: ["Shrubland", "Grassland", "Artificial", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Riverine
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 4
   categories:
     invertebrates: 5.0
@@ -88,38 +92,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
-  nest_type: "SP"
-  nest_placement: "Shrub, Cliff/Crevice"
+  nest_type: SP
+  nest_placement: Shrub, Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Laterallus albigularis (یلوه گلوسفید)
 

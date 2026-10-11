@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04539"
-ebird_code: "rekflo1"
+taxon_id: BN04539
+ebird_code: rekflo1
 gbif_key: 5789258
-avibase_id: "82F4FF0B367F620D"
-iucn_status: "LC"
+avibase_id: 82F4FF0B367F620D
+iucn_status: LC
 taxon_order: 29999.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Dicaeum haematostictum"
-  fa: "گلکوب کمربندسیاه"
-  en: "Black-belted Flowerpecker"
-
-# === TAXONOMY ===
+  scientific: Dicaeum haematostictum
+  fa: گلکوب کمربندسیاه
+  en: Black-belted Flowerpecker
+  es: Picaflores Pechinegro
+  fr: Dicée à poitrine noire
+  de: Schwarzgürtel-Mistelfresser
+  pt: black-belted flowerpecker
+  ru: Висаянский цветоед
+  ja: ネグロスハナドリ
+  zh: 紅縱紋啄花
+  nl: Zwartgordelhoningvogel
+  pl: kwiatówka czerwonobrzucha
+  tr: Kara Kuşaklı Öksekuşu
 taxonomy:
-  order: "Passeriformes"
-  family: "Dicaeidae"
-  genus: "Dicaeum"
-  species: "haematostictum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Dicaeidae
+  genus: Dicaeum
+  species: haematostictum
 morphology:
   body_mass_g: 8.95
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1250
-  habitat_types: ["Forest", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Artificial
 diet:
-  primary: "Fruit"
+  primary: Fruit
   diet_breadth: 2
   categories:
     invertebrates: 4.0
@@ -88,37 +89,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_placement: "Shrub, Tree"
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Dicaeum haematostictum (گلکوب کمربندسیاه)
 

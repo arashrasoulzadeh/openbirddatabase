@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN15281"
-ebird_code: "chclau2"
+taxon_id: BN15281
+ebird_code: chclau2
 gbif_key: 6101120
-avibase_id: "F9A2B4EBA272D299"
-iucn_status: "LC"
+avibase_id: F9A2B4EBA272D299
+iucn_status: LC
 taxon_order: 26473.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Trochalopteron erythrocephalum"
-  fa: "nan"
-  en: "Chestnut-crowned Laughingthrush"
-
-# === TAXONOMY ===
+  scientific: Trochalopteron erythrocephalum
+  fa: nan
+  en: Chestnut-crowned Laughingthrush
+  es: Charlatán Coronicastaño
+  fr: Garrulaxe à tête rousse
+  de: Rotscheitelhäherling
+  pt: chestnut-crowned laughingthrush
+  ru: Рыжеголовая кустарница
+  ja: ズアカガビチョウ
+  zh: 红头噪鹛
+  nl: Roodkoplijstergaai
+  pl: krasnosójkowiec złotoskrzydły
+  tr: Kestane Başlıklı Gevezeardıç
 taxonomy:
-  order: "Passeriformes"
-  family: "Leiothrichidae"
-  genus: "Trochalopteron"
-  species: "erythrocephalum"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Leiothrichidae
+  genus: Trochalopteron
+  species: erythrocephalum
 morphology:
   body_mass_g: 78.78333333333333
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1600
   elevational_max_m: 3400
-  habitat_types: ["Woodland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 4
   categories:
     invertebrates: 6.0
@@ -88,38 +90,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.0
   clutch_size_min: 2
   clutch_size_max: 4
-  nest_type: "CP"
-  nest_placement: "Shrub, Tree"
+  nest_type: CP
+  nest_placement: Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Trochalopteron erythrocephalum (nan)
 

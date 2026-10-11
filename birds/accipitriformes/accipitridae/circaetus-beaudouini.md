@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN03224"
-ebird_code: "beasne1"
+taxon_id: BN03224
+ebird_code: beasne1
 gbif_key: 4850063
-avibase_id: "F4E78AFABD80B6AD"
-iucn_status: "VU"
+avibase_id: F4E78AFABD80B6AD
+iucn_status: VU
 taxon_order: 7991.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Circaetus beaudouini"
-  fa: "عقاب مارخور بودون"
-  en: "Beaudouin's Snake Eagle"
-
-# === TAXONOMY ===
+  scientific: Circaetus beaudouini
+  fa: عقاب مارخور بودون
+  en: Beaudouin's Snake Eagle
+  es: Culebrera Sudanesa
+  fr: Circaète de Beaudouin
+  de: Beaudouin-Schlangenadler
+  pt: guincho-da-guiné
+  ru: Сахельский змееяд
+  ja: ボードワンチュウヒワシ
+  zh: Beaudouin's Snake Eagle
+  nl: Sahelslangenarend
+  pl: gadożer prążkowany
+  tr: Beaudouin Yılan Kartalı
 taxonomy:
-  order: "Accipitriformes"
-  family: "Accipitridae"
-  genus: "Circaetus"
-  species: "beaudouini"
-
-
-# === DISTRIBUTION ===
+  order: Accipitriformes
+  family: Accipitridae
+  genus: Circaetus
+  species: beaudouini
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Woodland"
+  primary: Woodland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Woodland", "Plains"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Woodland
+  - Plains
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.01
@@ -86,37 +87,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
-  nest_placement: "Tree"
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Circaetus beaudouini (عقاب مارخور بودون)
 

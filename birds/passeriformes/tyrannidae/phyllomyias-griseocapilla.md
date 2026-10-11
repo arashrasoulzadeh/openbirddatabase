@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11295"
-ebird_code: "gyctyr1"
+taxon_id: BN11295
+ebird_code: gyctyr1
 gbif_key: 2484061
-avibase_id: "4EE5569052FCB6CA"
-iucn_status: "NT"
+avibase_id: 4EE5569052FCB6CA
+iucn_status: NT
 taxon_order: 16779.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phyllomyias griseocapilla"
-  fa: "nan"
-  en: "Grey-capped Tyrannulet"
-
-# === TAXONOMY ===
+  scientific: Phyllomyias griseocapilla
+  fa: nan
+  en: Grey-capped Tyrannulet
+  es: Mosquerito Coronigrís
+  fr: Tyranneau à tête grise
+  de: Graukappen-Kleintyrann
+  pt: piolhinho-serrano
+  ru: Сероголовый москитеро
+  ja: ハイズキンコタイランチョウ
+  zh: Grey-capped Tyrannulet
+  nl: Grijskruinvliegenpikker
+  pl: oliwiarek szarogłowy
+  tr: Gri Takkeli Tiranület
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Phyllomyias"
-  species: "griseocapilla"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Phyllomyias
+  species: griseocapilla
 morphology:
   body_mass_g: 8.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 750
   elevational_max_m: 1850
-  habitat_types: ["Forest", "Shrubland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,35 +89,26 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Small groups"
-  flock_size_typical: ""
+  sociality: Small groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
-  nest_type: "SP"
-  nest_placement: "Tree"
+  nest_type: SP
+  nest_placement: Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -124,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -134,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phyllomyias griseocapilla (nan)
 

@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN13964"
-ebird_code: "rebnut"
+taxon_id: BN13964
+ebird_code: rebnut
 gbif_key: 2484879
-avibase_id: "0716A71C439DC09E"
-iucn_status: "LC"
+avibase_id: 0716A71C439DC09E
+iucn_status: LC
 taxon_order: 26937.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Sitta canadensis"
-  fa: "کمرکولی کانادایی"
-  en: "Red-breasted Nuthatch"
-
-# === TAXONOMY ===
+  scientific: Sitta canadensis
+  fa: کمرکولی کانادایی
+  en: Red-breasted Nuthatch
+  es: Trepador Canadiense
+  fr: Sittelle à poitrine rousse
+  de: Rotbrustkleiber
+  pt: trepadeira-azul-do-canadá
+  ru: Канадский поползень
+  ja: ムネアカゴジュウカラ
+  zh: 紅胸鳾
+  nl: Canadese boomklever
+  pl: kowalik czarnogłowy
+  tr: Kanada Sıvacısı
 taxonomy:
-  order: "Passeriformes"
-  family: "Sittidae"
-  genus: "Sitta"
-  species: "canadensis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sittidae
+  genus: Sitta
+  species: canadensis
 morphology:
   body_mass_g: 10.600000000000001
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 3075
-  habitat_types: ["Forest", "Woodland", "Rocky", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Rocky
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,41 +92,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 2
   clutch_size_max: 8
   incubation_days: 12
   fledging_days: 18
-  nest_type: "CV"
-  nest_placement: "Tree"
+  nest_type: CV
+  nest_placement: Tree
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +125,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +133,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Sitta canadensis (کمرکولی کانادایی)
 

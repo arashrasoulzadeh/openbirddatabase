@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN09242"
-ebird_code: "apifly1"
+taxon_id: BN09242
+ebird_code: apifly1
 gbif_key: 2483558
-avibase_id: "AA902955A737926B"
-iucn_status: "LC"
+avibase_id: AA902955A737926B
+iucn_status: LC
 taxon_order: 17316.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Myiarchus apicalis"
-  fa: "مگسگیر اوجی"
-  en: "Apical Flycatcher"
-
-# === TAXONOMY ===
+  scientific: Myiarchus apicalis
+  fa: مگسگیر اوجی
+  en: Apical Flycatcher
+  es: Copetón Apical
+  fr: Tyran à queue givrée
+  de: Kolumbienschopftyrann
+  pt: apical flycatcher
+  ru: Колумбийский миарх
+  ja: シロオビオオヒタキモドキ
+  zh: 尖顶蝇霸鹟
+  nl: Zoomstaarttiran
+  pl: muchołap kolumbijski
+  tr: Kolombiya Vadi Sinekkapanı
 taxonomy:
-  order: "Passeriformes"
-  family: "Tyrannidae"
-  genus: "Myiarchus"
-  species: "apicalis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Tyrannidae
+  genus: Myiarchus
+  species: apicalis
 morphology:
   body_mass_g: 29.599999999999998
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 400
   elevational_max_m: 1700
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,39 +92,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.6
   clutch_size_min: 2
   clutch_size_max: 2
   fledging_days: 16
-  nest_type: "CV"
-  nest_placement: "Building, C, Tree"
+  nest_type: CV
+  nest_placement: Building, C, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +123,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +131,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Myiarchus apicalis (مگسگیر اوجی)
 

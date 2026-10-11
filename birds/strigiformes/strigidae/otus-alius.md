@@ -1,47 +1,48 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN10371"
-ebird_code: "nicsco1"
+taxon_id: BN10371
+ebird_code: nicsco1
 gbif_key: 5232241
-avibase_id: "29998B5FF96459E0"
-iucn_status: "NT"
+avibase_id: 29998B5FF96459E0
+iucn_status: NT
 taxon_order: 8745.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Otus alius"
-  fa: "nan"
-  en: "Nicobar Scops Owl"
-
-# === TAXONOMY ===
+  scientific: Otus alius
+  fa: nan
+  en: Nicobar Scops Owl
+  es: Autillo de las Nicobar
+  fr: Petit-duc des Nicobar
+  de: Nikobaren-Zwergohreule
+  pt: nicobar scops-owl
+  ru: Никобарская сплюшка
+  ja: ニコバルコノハズク
+  zh: Nicobar Scops Owl
+  nl: Nicobarendwergooruil
+  pl: syczek nikobarski
+  tr: Nikobar İshakkuşu
 taxonomy:
-  order: "Strigiformes"
-  family: "Strigidae"
-  genus: "Otus"
-  species: "alius"
-
-
-# === DISTRIBUTION ===
+  order: Strigiformes
+  family: Strigidae
+  genus: Otus
+  species: alius
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Coastal"
+  primary: Coastal
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Forest", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Coastal
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 7.0
@@ -86,31 +87,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "NT"
-  cites_appendix: "Not listed"
+  iucn_status: NT
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -118,8 +110,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -128,12 +118,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Otus alius (nan)
 

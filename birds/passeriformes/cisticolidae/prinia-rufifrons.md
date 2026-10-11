@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN12097"
-ebird_code: "refwar2"
+taxon_id: BN12097
+ebird_code: refwar2
 gbif_key: 10944059
-avibase_id: "D8177CECEA46EF3E"
-iucn_status: "LC"
+avibase_id: D8177CECEA46EF3E
+iucn_status: LC
 taxon_order: 23331.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Prinia rufifrons"
-  fa: "پریسسک پیشانیسرخ"
-  en: "Red-fronted Prinia"
-
-# === TAXONOMY ===
+  scientific: Prinia rufifrons
+  fa: پریسسک پیشانیسرخ
+  en: Red-fronted Prinia
+  es: Prinia Frentirroja
+  fr: Prinia de Rüppell
+  de: Rotstirnprinie
+  pt: red-fronted prinia
+  ru: Краснолицая приния
+  ja: チャビタイムシクイ
+  nl: Roodmaskerprinia
+  pl: nikornik rdzawoczelny
+  tr: Kızıl Başlıklı Prinya
 taxonomy:
-  order: "Passeriformes"
-  family: "Cisticolidae"
-  genus: "Prinia"
-  species: "rufifrons"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Cisticolidae
+  genus: Prinia
+  species: rufifrons
 morphology:
   body_mass_g: 6.375
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1800
-  habitat_types: ["Shrubland", "Grassland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,36 +88,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 3
   clutch_size_max: 4
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +116,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +124,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Prinia rufifrons (پریسسک پیشانیسرخ)
 

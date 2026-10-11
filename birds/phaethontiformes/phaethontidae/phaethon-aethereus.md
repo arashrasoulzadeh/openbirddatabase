@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11017"
-ebird_code: "rebtro"
+taxon_id: BN11017
+ebird_code: rebtro
 gbif_key: 2481367
-avibase_id: "7EE005BD2701D129"
-iucn_status: "LC"
+avibase_id: 7EE005BD2701D129
+iucn_status: LC
 taxon_order: 6915.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phaethon aethereus"
-  fa: "نوک‌سرخ دریایی"
-  en: "Red-billed Tropicbird"
-
-# === TAXONOMY ===
+  scientific: Phaethon aethereus
+  fa: نوک‌سرخ دریایی
+  en: Red-billed Tropicbird
+  es: Rabijunco Etéreo
+  fr: Phaéton à bec rouge
+  de: Rotschnabel-Tropikvogel
+  pt: rabo-de-palha-de-bico-vermelho
+  ru: Красноклювый фаэтон
+  ja: アカハシネッタイチョウ
+  zh: 红嘴鹲
+  nl: Roodsnavelkeerkringvogel
+  pl: faeton białosterny
+  tr: Kırmızı Gagalı Tropikkuşu
 taxonomy:
-  order: "Phaethontiformes"
-  family: "Phaethontidae"
-  genus: "Phaethon"
-  species: "aethereus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Phaethontiformes
+  family: Phaethontidae
+  genus: Phaethon
+  species: aethereus
 morphology:
   body_mass_g: 632.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["C"]
+  biogeographic_realms:
+  - C
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Sea"
+  primary: Sea
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Rocky", "Sea/Pelagic"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Rocky
+  - Sea/Pelagic
 diet:
-  primary: "Fish"
+  primary: Fish
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,41 +89,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs"
-  flock_size_typical: ""
+  sociality: Pairs
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 1.0
   clutch_size_min: 1
   clutch_size_max: 1
   incubation_days: 42
   fledging_days: 80
-  nest_type: "CR,SC"
-  nest_placement: "Ground"
+  nest_type: CR,SC
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +122,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +130,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phaethon aethereus (نوک‌سرخ دریایی)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14949"
-ebird_code: "gybsee1"
+taxon_id: BN14949
+ebird_code: gybsee1
 gbif_key: 2480960
-avibase_id: "2A1A2F3A89887481"
-iucn_status: "LC"
+avibase_id: 2A1A2F3A89887481
+iucn_status: LC
 taxon_order: 5973.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Thinocorus orbignyianus"
-  fa: "دانهپاشلک سینهخاکستری"
-  en: "Grey-breasted Seedsnipe"
-
-# === TAXONOMY ===
+  scientific: Thinocorus orbignyianus
+  fa: دانهپاشلک سینهخاکستری
+  en: Grey-breasted Seedsnipe
+  es: Agachona Mediana
+  fr: Thinocore de d'Orbigny
+  de: Graubrust-Höhenläufer
+  pt: gray-breasted seedsnipe
+  ru: Серогрудый зобатый бегунок
+  ja: ノドジロヒバリチドリ
+  zh: Grey-breasted Seedsnipe
+  nl: Punakwartelsnip
+  pl: andówka szaropierśna
+  tr: Gri Göğüslü Tohumçulluğu
 taxonomy:
-  order: "Charadriiformes"
-  family: "Thinocoridae"
-  genus: "Thinocorus"
-  species: "orbignyianus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Thinocoridae
+  genus: Thinocorus
+  species: orbignyianus
 morphology:
   body_mass_g: 115.25
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1000
   elevational_max_m: 5000
-  habitat_types: ["Grassland", "Plains"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Grassland
+  - Plains
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,37 +89,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Altitudinal migrant"
-  movement_type: "Altitudinal"
-  activity_pattern: "Diurnal"
+  migration_status: Altitudinal migrant
+  movement_type: Altitudinal
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.0
   clutch_size_min: 4
   clutch_size_max: 4
-  nest_placement: "Cliff/Crevice"
+  nest_placement: Cliff/Crevice
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Thinocorus orbignyianus (دانهپاشلک سینهخاکستری)
 

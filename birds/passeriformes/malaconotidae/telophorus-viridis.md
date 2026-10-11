@@ -1,49 +1,54 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN14786"
-ebird_code: "focbus2"
+taxon_id: BN14786
+ebird_code: focbus2
 gbif_key: 2484846
-avibase_id: "ACDC8DEECA339B9E"
-iucn_status: "LC"
+avibase_id: ACDC8DEECA339B9E
+iucn_status: LC
 taxon_order: 20159.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Telophorus viridis"
-  fa: "سنگچشم بیشه چهاررنگ"
-  en: "Gorgeous Bushshrike"
-
-# === TAXONOMY ===
+  scientific: Telophorus viridis
+  fa: سنگچشم بیشه چهاررنگ
+  en: Gorgeous Bushshrike
+  es: Bubú Verde
+  fr: Gonolek vert
+  de: Doppelbandwürger
+  pt: four-colored bushshrike
+  ru: Красногрудый гладиатор
+  ja: ゴシキミドリヤブモズ
+  zh: Gorgeous Bushshrike
+  nl: Bonte bosklauwier
+  pl: dzierzbik zielony
+  tr: Dört Renkli Çalıkasabı
 taxonomy:
-  order: "Passeriformes"
-  family: "Malaconotidae"
-  genus: "Telophorus"
-  species: "viridis"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Malaconotidae
+  genus: Telophorus
+  species: viridis
 morphology:
   body_mass_g: 36.22
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 6
   elevational_min_m: 550
   elevational_max_m: 2000
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Savanna", "Artificial", "Riverine"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,39 +93,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Large flocks"
-  flock_size_typical: ""
+  sociality: Large flocks
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "Platform"
-  nest_placement: "Shrub"
+  nest_type: Platform
+  nest_placement: Shrub
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +124,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +132,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Telophorus viridis (سنگچشم بیشه چهاررنگ)
 

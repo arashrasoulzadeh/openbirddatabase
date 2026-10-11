@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07154"
-ebird_code: "thrbab1"
+taxon_id: BN07154
+ebird_code: thrbab1
 gbif_key: 7433876
-avibase_id: "874C8B3CB4A2A5C9"
-iucn_status: "LC"
+avibase_id: 874C8B3CB4A2A5C9
+iucn_status: LC
 taxon_order: 26309.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Illadopsis turdina"
-  fa: "لیکو-توکای خالدار"
-  en: "Spotted Thrush-Babbler"
-
-# === TAXONOMY ===
+  scientific: Illadopsis turdina
+  fa: لیکو-توکای خالدار
+  en: Spotted Thrush-Babbler
+  es: Tordina Moteada
+  fr: Akalat à dos roux
+  de: Grauzügel-Laubdrossling
+  pt: thrush babbler
+  ru: Белобрюхий дроздовник
+  ja: ツグミチメドリ
+  zh: Spotted Thrush-Babbler
+  nl: Witbuiklijstertimalia
+  pl: wyżynniak drozdowaty
+  tr: Benekli İlladopsis
 taxonomy:
-  order: "Passeriformes"
-  family: "Pellorneidae"
-  genus: "Illadopsis"
-  species: "turdina"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Pellorneidae
+  genus: Illadopsis
+  species: turdina
 morphology:
   body_mass_g: 65.9
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Riparian"
+  primary: Riparian
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 800
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Woodland", "Shrubland", "Riverine", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Woodland
+  - Shrubland
+  - Riverine
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 8.0
@@ -88,31 +92,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +115,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +123,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Illadopsis turdina (لیکو-توکای خالدار)
 

@@ -1,49 +1,52 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04096"
-ebird_code: "burcou2"
+taxon_id: BN04096
+ebird_code: burcou2
 gbif_key: 2480742
-avibase_id: "5FBB9662DBF4E6E9"
-iucn_status: "LC"
+avibase_id: 5FBB9662DBF4E6E9
+iucn_status: LC
 taxon_order: 6337.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cursorius rufus"
-  fa: "دودوک برشل"
-  en: "Burchell's Courser"
-
-# === TAXONOMY ===
+  scientific: Cursorius rufus
+  fa: دودوک برشل
+  en: Burchell's Courser
+  es: Corredor Rufo
+  fr: Courvite de Burchell
+  de: Rostrennvogel
+  pt: burchell's courser
+  ru: Рыжий бегунок
+  ja: ミナミスナバシリ
+  nl: Rosse renvogel
+  pl: rączak rdzawy
+  tr: Ak Kanatlı Çölkoşarı
 taxonomy:
-  order: "Charadriiformes"
-  family: "Glareolidae"
-  genus: "Cursorius"
-  species: "rufus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Charadriiformes
+  family: Glareolidae
+  genus: Cursorius
+  species: rufus
 morphology:
   body_mass_g: 82.8
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["F"]
+  biogeographic_realms:
+  - F
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Grassland"
+  primary: Grassland
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 500
-  habitat_types: ["Shrubland", "Grassland", "Rocky", "Desert", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Desert
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,38 +91,29 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Nomadic"
-  movement_type: "Nomadic"
-  activity_pattern: "Diurnal"
+  migration_status: Nomadic
+  movement_type: Nomadic
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 2.0
   clutch_size_min: 2
   clutch_size_max: 2
-  nest_type: "NO"
-  nest_placement: "Ground"
+  nest_type: 'NO'
+  nest_placement: Ground
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -127,8 +121,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -137,12 +129,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cursorius rufus (دودوک برشل)
 

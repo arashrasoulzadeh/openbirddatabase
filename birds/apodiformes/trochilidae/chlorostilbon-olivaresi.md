@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02977"
-ebird_code: "chieme1"
+taxon_id: BN02977
+ebird_code: chieme1
 gbif_key: 2476076
-avibase_id: "727A9FFC63CF5964"
-iucn_status: "LC"
+avibase_id: 727A9FFC63CF5964
+iucn_status: LC
 taxon_order: 4895.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Chlorostilbon olivaresi"
-  fa: "nan"
-  en: "Chiribiquete Emerald"
-
-# === TAXONOMY ===
+  scientific: Chlorostilbon olivaresi
+  fa: nan
+  en: Chiribiquete Emerald
+  es: Esmeralda del Chiribiquete
+  fr: Émeraude d'Olivares
+  de: Chiribiquete-Smaragdkolibri
+  pt: chiribiquete emerald
+  ru: Чирибикетесский изумруд
+  ja: コロンビアヒメエメラルドハチドリ
+  zh: 奇里翠蜂鸟
+  nl: Chiribiquetesmaragdkolibrie
+  pl: złocik zielony
+  tr: Çiribikete Zümrütü
 taxonomy:
-  order: "Apodiformes"
-  family: "Trochilidae"
-  genus: "Chlorostilbon"
-  species: "olivaresi"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Apodiformes
+  family: Trochilidae
+  genus: Chlorostilbon
+  species: olivaresi
 morphology:
   body_mass_g: 3.7
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: "Range size: 1.0"
-  non_breeding_range: ""
+  breeding_range: 'Range size: 1.0'
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 800
   elevational_max_m: 1600
-  habitat_types: ["Forest", "Shrubland", "Savanna"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Savanna
 diet:
-  primary: "Nectar"
+  primary: Nectar
   diet_breadth: 2
   categories:
     invertebrates: 2.0
@@ -88,31 +90,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +113,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +121,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Chlorostilbon olivaresi (nan)
 

@@ -1,49 +1,50 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN02492"
-ebird_code: "plushc1"
+taxon_id: BN02492
+ebird_code: plushc1
 gbif_key: 2488915
-avibase_id: "D8AD3D11FB46230B"
-iucn_status: "LC"
+avibase_id: D8AD3D11FB46230B
+iucn_status: LC
 taxon_order: 35338.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Catamblyrhynchus diadema"
-  fa: "کلاهمخملی"
-  en: "Plushcap"
-
-# === TAXONOMY ===
+  scientific: Catamblyrhynchus diadema
+  fa: کلاهمخملی
+  en: Plushcap
+  es: Tangara Peluda
+  fr: Tête-de-peluche couronné
+  de: Plüschkopftangare
+  pt: plushcap
+  ru: Плюшевоголов
+  ja: ズキンコウカンチョウ
+  zh: 绒顶唐纳雀
+  nl: Fluweelkoptangare
+  pl: pluszogłówka
+  tr: Peruklu Tangara
 taxonomy:
-  order: "Passeriformes"
-  family: "Thraupidae"
-  genus: "Catamblyrhynchus"
-  species: "diadema"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Thraupidae
+  genus: Catamblyrhynchus
+  species: diadema
 morphology:
   body_mass_g: 13.575
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["L"]
+  biogeographic_realms:
+  - L
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 1800
   elevational_max_m: 3500
-  habitat_types: ["Forest", "Bamboo"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Bamboo
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 3
   categories:
     invertebrates: 6.0
@@ -88,31 +89,22 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Unknown"
-  movement_type: "Unknown"
-  activity_pattern: "Diurnal"
+  migration_status: Unknown
+  movement_type: Unknown
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -120,8 +112,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -130,12 +120,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Catamblyrhynchus diadema (کلاهمخملی)
 

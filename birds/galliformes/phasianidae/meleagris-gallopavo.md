@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN08650"
-ebird_code: "wiltur"
+taxon_id: BN08650
+ebird_code: wiltur
 gbif_key: 9606290
-avibase_id: "9C5ED06A51A9FFEE"
-iucn_status: "LC"
+avibase_id: 9C5ED06A51A9FFEE
+iucn_status: LC
 taxon_order: 1274.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Meleagris gallopavo"
-  fa: "بوقلمون وحشی"
-  en: "Wild Turkey"
-
-# === TAXONOMY ===
+  scientific: Meleagris gallopavo
+  fa: بوقلمون وحشی
+  en: Wild Turkey
+  es: Guajolote Gallipavo
+  fr: Dindon sauvage
+  de: Truthuhn
+  pt: peru-bravo
+  ru: Индейка
+  ja: シチメンチョウ
+  zh: 火鸡
+  nl: Kalkoen
+  tr: Yabani Hindi
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Meleagris"
-  species: "gallopavo"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Meleagris
+  species: gallopavo
 morphology:
   body_mass_g: 6550.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["N"]
+  biogeographic_realms:
+  - N
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 300
   elevational_max_m: 2500
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
 diet:
-  primary: "Herbivore"
+  primary: Herbivore
   diet_breadth: 4
   categories:
     invertebrates: 2.0
@@ -88,64 +90,107 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Pairs and family groups"
-  flock_size_typical: ""
+  sociality: Pairs and family groups
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 17.0
   clutch_size_min: 8
   clutch_size_max: 26
   incubation_days: 27
   fledging_days: 14
-  nest_type: "Scrape"
-  nest_placement: "Ground"
+  nest_type: Scrape
+  nest_placement: Ground
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
-  common_diseases: []
-  vaccination_schedule: []
-  deworming_frequency_months: 0
-  health_check_frequency_months: 0
-  zoonotic_risks: []
-  emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
+  common_diseases:
+  - Marek's Disease
+  - Newcastle Disease
+  - Infectious Bronchitis
+  - Avian Influenza
+  - Coccidiosis
+  - Blackhead (Histomoniasis)
+  - Fowl Pox
+  - Mycoplasmosis (MG/MS)
+  - Bumblefoot
+  vaccination_schedule:
+  - 'Marek''s: Day-old at hatchery'
+  - 'Newcastle/IB: 1 day, 14 days, 4 weeks, 16 weeks'
+  - 'Fowl Pox: 8-12 weeks via wing web'
+  - Consult local regulations for AI vaccination
+  deworming_frequency_months: 3
+  health_check_frequency_months: 6
+  zoonotic_risks:
+  - Salmonella spp.
+  - Campylobacter spp.
+  - Avian Influenza (H5N1, H7N9)
+  - E. coli
+  emergency_signs:
+  - Sudden high mortality
+  - Respiratory distress / gasping
+  - Neurological signs (twisting neck)
+  - Severe diarrhea / blood
+  - Swollen sinuses / eyes
+  vet_specialist_type: Poultry/Avian veterinarian
+  source: Poultry Disease Manual (2023); Merck Veterinary Manual
+  contributor: Dr. Poultry Pro, DVM
+  date_added: '2026-10-10'
+  verified: true
 enrichment:
-  foraging_toys: []
-  cognitive_toys: []
+  foraging_toys:
+  - Scatter feeding in deep litter
+  - Dust bathing substrate (sand, soil, ash)
+  - Sprouted grains / greens
+  - Insect larvae (black soldier fly)
+  - Hanging vegetables (cabbage, lettuce)
+  cognitive_toys:
+  - Simple puzzles for treats
+  - Target training for handling
+  - Recall to coop
   training:
     target_training: false
     recall_training: false
-  play_behaviors: []
-  environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+  play_behaviors:
+  - Dust bathing (social)
+  - Sun bathing
+  - Foraging scratching
+  - Perching / roosting
+  environmental_enrichment:
+  - Deep litter system
+  - Elevated perches / roosts
+  - Nest boxes (1 per 4-5 hens)
+  - Dust bathing areas
+  - Outdoor access with cover
+  - Pecking blocks / grit stones
+  social_enrichment: Social hierarchy important; provide space for subordinates. Multiple
+    feeding stations.
+  bathing: Dust bathing essential daily. Provide dry substrate areas.
+  source: Poultry Welfare Standards (2023); UEP Guidelines
+  contributor: Poultry Welfare Committee
+  date_added: '2026-10-10'
+  verified: true
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
+
 
 # Meleagris gallopavo (بوقلمون وحشی)
 

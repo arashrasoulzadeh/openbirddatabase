@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN07401"
-ebird_code: "wilpta1"
+taxon_id: BN07401
+ebird_code: wilpta1
 gbif_key: 8189518
-avibase_id: "57065B64D3BADA12"
-iucn_status: "LC"
+avibase_id: 57065B64D3BADA12
+iucn_status: LC
 taxon_order: 1351.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Lagopus scotica"
-  fa: "باقرقره پرپای حنایی"
-  en: "Red Grouse"
-
-# === TAXONOMY ===
+  scientific: Lagopus scotica
+  fa: باقرقره پرپای حنایی
+  en: Red Grouse
+  es: Lagópodo Escocés
+  fr: Lagopède d'Écosse
+  de: Heideschneehuhn
+  pt: red grouse
+  nl: Schots sneeuwhoen
+  pl: pardwa szkocka
+  tr: Kızılca Kar Tavuğu
 taxonomy:
-  order: "Galliformes"
-  family: "Phasianidae"
-  genus: "Lagopus"
-  species: "scotica"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Galliformes
+  family: Phasianidae
+  genus: Lagopus
+  species: scotica
 morphology:
   body_mass_g: 583.125
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Shrub"
+  primary: Shrub
   secondary: []
   habitat_breadth: 4
   elevational_min_m: 850
   elevational_max_m: 1830
-  habitat_types: ["Shrubland", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Plant"
+  primary: Plant
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,37 +88,28 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 7.5
   clutch_size_min: 6
   clutch_size_max: 9
   nest_material: []
-  parental_care: "Female only"
-
-
-# === CONSERVATION ===
+  parental_care: Female only
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -126,8 +117,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -136,12 +125,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Lagopus scotica (باقرقره پرپای حنایی)
 

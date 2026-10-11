@@ -1,49 +1,49 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN00057"
-ebird_code: "whvmyn"
+taxon_id: BN00057
+ebird_code: whvmyn
 gbif_key: 5845375
-avibase_id: "D70B61EE7870070D"
-iucn_status: "VU"
+avibase_id: D70B61EE7870070D
+iucn_status: VU
 taxon_order: 27878.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Acridotheres javanicus"
-  fa: "مینای جاوهای"
-  en: "Javan Myna"
-
-# === TAXONOMY ===
+  scientific: Acridotheres javanicus
+  fa: مینای جاوهای
+  en: Javan Myna
+  es: Miná de Java
+  fr: Martin de Java
+  de: Javamaina
+  pt: javan myna
+  ru: Яванская майна
+  ja: ジャワハッカ
+  nl: Javaanse maina
+  pl: majna jawajska
+  tr: Cava Çiğdecisi
 taxonomy:
-  order: "Passeriformes"
-  family: "Sturnidae"
-  genus: "Acridotheres"
-  species: "javanicus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Sturnidae
+  genus: Acridotheres
+  species: javanicus
 morphology:
   body_mass_g: 95.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["I"]
+  biogeographic_realms:
+  - I
   endemic: false
   island_endemic: true
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Artificial"
+  primary: Artificial
   secondary: []
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
-  habitat_types: ["Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Artificial
+  - Wetland
 diet:
-  primary: "Omnivore"
+  primary: Omnivore
   diet_breadth: 5
   categories:
     invertebrates: 2.0
@@ -88,39 +88,30 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Resident"
-  movement_type: "Sedentary"
-  activity_pattern: "Diurnal"
+  migration_status: Resident
+  movement_type: Sedentary
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 3.5
   clutch_size_min: 2
   clutch_size_max: 5
   incubation_days: 13
-  nest_type: "CV,HC"
-  nest_placement: "Building, Shrub, Tree"
+  nest_type: CV,HC
+  nest_placement: Building, Shrub, Tree
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "VU"
-  cites_appendix: "Not listed"
+  iucn_status: VU
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -128,8 +119,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -138,12 +127,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Acridotheres javanicus (مینای جاوهای)
 

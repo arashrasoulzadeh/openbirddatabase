@@ -1,49 +1,55 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN05558"
-ebird_code: "gyrfal"
+taxon_id: BN05558
+ebird_code: gyrfal
 gbif_key: 8069880
-avibase_id: "E19252A76FC7845B"
-iucn_status: "LC"
+avibase_id: E19252A76FC7845B
+iucn_status: LC
 taxon_order: 12113.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Falco rusticolus"
-  fa: "شاهین چرخان"
-  en: "Gyrfalcon"
-
-# === TAXONOMY ===
+  scientific: Falco rusticolus
+  fa: شاهین چرخان
+  en: Gyrfalcon
+  es: Halcón Gerifalte
+  fr: Faucon gerfaut
+  de: Gerfalke
+  pt: gerifalte
+  ru: Кречет
+  ja: シロハヤブサ
+  zh: 矛隼
+  nl: Giervalk
+  pl: białozór
+  tr: Ak Sungur
 taxonomy:
-  order: "Falconiformes"
-  family: "Falconidae"
-  genus: "Falco"
-  species: "rusticolus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Falconiformes
+  family: Falconidae
+  genus: Falco
+  species: rusticolus
 morphology:
   body_mass_g: 1325.0
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["NP"]
+  biogeographic_realms:
+  - NP
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Plains"
+  primary: Plains
   secondary: []
   habitat_breadth: 7
   elevational_min_m: 0
   elevational_max_m: 1500
-  habitat_types: ["Shrubland", "Grassland", "Plains", "Rocky", "Artificial", "Riverine", "Coastal"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Shrubland
+  - Grassland
+  - Plains
+  - Rocky
+  - Artificial
+  - Riverine
+  - Coastal
 diet:
-  primary: "Vertebrate"
+  primary: Vertebrate
   diet_breadth: 1
   categories:
     invertebrates: 0.0
@@ -88,41 +94,32 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Colonial"
-  flock_size_typical: ""
+  sociality: Colonial
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 4.5
   clutch_size_min: 2
   clutch_size_max: 7
   incubation_days: 34
   fledging_days: 46
-  nest_type: "O,SC"
-  nest_placement: "Building, Rock, Tree"
+  nest_type: O,SC
+  nest_placement: Building, Rock, Tree
   nest_material: []
-  parental_care: "Biparental"
-
-
-# === CONSERVATION ===
+  parental_care: Biparental
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -130,8 +127,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -140,12 +135,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Falco rusticolus (شاهین چرخان)
 

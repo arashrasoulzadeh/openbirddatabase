@@ -1,49 +1,53 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN11346"
-ebird_code: "ibechi2"
+taxon_id: BN11346
+ebird_code: ibechi2
 gbif_key: 7341585
-avibase_id: "12EE678EE03BDFB2"
-iucn_status: "LC"
+avibase_id: 12EE678EE03BDFB2
+iucn_status: LC
 taxon_order: 24864.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Phylloscopus ibericus"
-  fa: "سسک چیفچاف ایبری"
-  en: "Iberian Chiffchaff"
-
-# === TAXONOMY ===
+  scientific: Phylloscopus ibericus
+  fa: سسک چیفچاف ایبری
+  en: Iberian Chiffchaff
+  es: Mosquitero Ibérico
+  fr: Pouillot ibérique
+  de: Iberienzilpzalp
+  pt: felosinha-ibérica
+  ru: Иберийская теньковка
+  ja: イベリアチフチャフ
+  zh: 伊比利亞柳鶯
+  nl: Iberische tjiftjaf
+  pl: świstunka iberyjska
+  tr: İberya Çıvgını
 taxonomy:
-  order: "Passeriformes"
-  family: "Phylloscopidae"
-  genus: "Phylloscopus"
-  species: "ibericus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Passeriformes
+  family: Phylloscopidae
+  genus: Phylloscopus
+  species: ibericus
 morphology:
   body_mass_g: 7.625
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["P"]
+  biogeographic_realms:
+  - P
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 4500
-  habitat_types: ["Forest", "Shrubland", "Grassland", "Artificial", "Wetland"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Wetland
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 2
   categories:
     invertebrates: 9.0
@@ -88,36 +92,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 4
   clutch_size_max: 6
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +120,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +128,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Phylloscopus ibericus (سسک چیفچاف ایبری)
 

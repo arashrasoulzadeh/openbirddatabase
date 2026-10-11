@@ -1,49 +1,51 @@
 ---
-# === CORE IDENTIFIERS ===
-taxon_id: "BN04056"
-ebird_code: "lescuc1"
+taxon_id: BN04056
+ebird_code: lescuc1
 gbif_key: 5231927
-avibase_id: "FF41B79FB9A5403D"
-iucn_status: "LC"
+avibase_id: FF41B79FB9A5403D
+iucn_status: LC
 taxon_order: 3432.0
-
-# === NAMES (English keys, Persian values) ===
 names:
-  scientific: "Cuculus poliocephalus"
-  fa: "کوکوی کوچک"
-  en: "Lesser Cuckoo"
-
-# === TAXONOMY ===
+  scientific: Cuculus poliocephalus
+  fa: کوکوی کوچک
+  en: Lesser Cuckoo
+  es: Cuco Chico
+  fr: Petit Coucou
+  de: Gackelkuckuck
+  pt: lesser cuckoo
+  ru: Малая кукушка
+  ja: ホトトギス
+  zh: 小杜鹃
+  nl: Kleine koekoek
+  pl: kukułka mała
+  tr: Küçük Guguk
 taxonomy:
-  order: "Cuculiformes"
-  family: "Cuculidae"
-  genus: "Cuculus"
-  species: "poliocephalus"
-
-# === MORPHOLOGY (BIRDBASE) ===
+  order: Cuculiformes
+  family: Cuculidae
+  genus: Cuculus
+  species: poliocephalus
 morphology:
   body_mass_g: 51.5
-# === DISTRIBUTION ===
 distribution:
-  breeding_range: ""
-  non_breeding_range: ""
+  breeding_range: ''
+  non_breeding_range: ''
   countries: []
-  biogeographic_realms: ["FI"]
+  biogeographic_realms:
+  - FI
   endemic: false
   island_endemic: false
-
-# === HABITAT (BIRDBASE + BirdFYI) ===
 habitat:
-  primary: "Forest"
+  primary: Forest
   secondary: []
   habitat_breadth: 3
   elevational_min_m: 1200
   elevational_max_m: 3660
-  habitat_types: ["Forest", "Shrubland", "Artificial"]
-
-# === DIET (BIRDBASE + AVONICHE) ===
+  habitat_types:
+  - Forest
+  - Shrubland
+  - Artificial
 diet:
-  primary: "Invertebrate"
+  primary: Invertebrate
   diet_breadth: 1
   categories:
     invertebrates: 10.0
@@ -88,36 +90,27 @@ diet:
     carrion_aquatic: 0.0
     carrion_ground: 0.0
 diet_sources: []
-
-# === BEHAVIOR & SOCIAL (BIRDBASE + BirdFYI) ===
 behavior:
-  sociality: "Unknown"
-  flock_size_typical: ""
+  sociality: Unknown
+  flock_size_typical: ''
   territorial: false
-  migration_status: "Full migrant"
-  movement_type: "Migratory"
-  activity_pattern: "Diurnal"
+  migration_status: Full migrant
+  movement_type: Migratory
+  activity_pattern: Diurnal
   vocalizations:
-    song: ""
+    song: ''
     calls: []
   xeno_canto_ids: []
-
-# === REPRODUCTION (BIRDBASE) ===
 reproduction:
   incubation_days: 14
   fledging_days: 15
-  nest_type: "NO"
+  nest_type: 'NO'
   nest_material: []
-
-
-# === CONSERVATION ===
 conservation:
-  iucn_status: "LC"
-  cites_appendix: "Not listed"
+  iucn_status: LC
+  cites_appendix: Not listed
   threats: []
   conservation_actions: []
-
-# === VETERINARY & CARE (Manual curation) ===
 veterinary:
   common_diseases: []
   vaccination_schedule: []
@@ -125,8 +118,6 @@ veterinary:
   health_check_frequency_months: 0
   zoonotic_risks: []
   emergency_signs: []
-
-# === ENRICHMENT & PLAY (Manual curation) ===
 enrichment:
   foraging_toys: []
   cognitive_toys: []
@@ -135,12 +126,13 @@ enrichment:
     recall_training: false
   play_behaviors: []
   environmental_enrichment: []
-
-# === SOURCES & METADATA ===
-sources: ["BirdNET Taxonomy v0.3", "BIRDBASE 2025"]
-last_updated: "2026-10-02"
-data_quality: "High"
+sources:
+- BirdNET Taxonomy v0.3
+- BIRDBASE 2025
+last_updated: '2026-10-02'
+data_quality: High
 ---
+
 
 # Cuculus poliocephalus (کوکوی کوچک)
 
