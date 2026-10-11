@@ -31,6 +31,7 @@ Thumbs.db
 
 # MeiliSearch
 meili_data/
+data.ms/
 
 # Docker
 docker-compose.override.yml
@@ -38,3 +39,38 @@ docker-compose.override.yml
 # Temporary
 *.tmp
 *.temp
+
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/.packages
+flutter_app/build/
+flutter_app/*.iml
+flutter_app/*.iws
+flutter_app/coverage/
+flutter_app/*.apk
+flutter_app/*.aab
+flutter_app/*.ipa
+flutter_app/.pub-cache/
+
+# Node (frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+frontend/package-lock.json
+frontend/*.log
+
+# Binary
+meilisearch
+meilisearch-linux-amd64
+
+# Cookies
+cookies.txt
+
+# Exports
+exports/*.sql
+exports/*.yaml
+exports/*.csv
+exports/*.xlsx
+
+# Images
+images/

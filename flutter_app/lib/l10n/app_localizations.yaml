@@ -1,0 +1,36 @@
+# App Localizations Configuration
+# This file configures the flutter_gen localization tool
+
+# Supported locales
+supported-locales:
+  - en
+  - fa
+  - ar
+  - es
+  - fr
+  - de
+  - pt
+  - ru
+  - ja
+  - zh
+  - nl
+  - pl
+  - tr
+
+# Default locale
+default-locale: en
+
+# Output directory
+output-dir: lib/l10n
+
+# Class name
+class-name: AppLocalizations
+
+# Synthetic package
+synthetic-package: false
+
+# Use code generation
+use-codegen: true
+
+# Arb dir
+arb-dir: lib/l10n

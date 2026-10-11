@@ -1,0 +1,42 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+*.iws
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated
+flutter_app/lib/l10n/app_localizations.dart
+flutter_app/lib/l10n/app_localizations.g.dart
+
+# Coverage
+coverage/
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.dSYM/
+build/
+flutter_app/build/
+
+# Pub cache
+.pub-cache/
+
+# Test
+flutter_app/test/reports/
