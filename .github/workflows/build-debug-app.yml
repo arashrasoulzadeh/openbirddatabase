@@ -46,7 +46,6 @@ jobs:
           output-localization-file: app_localizations.dart
           output-class: AppLocalizations
           output-dir: lib/l10n
-          synthetic-package: false
           YAML
 
       - run: flutter pub get
