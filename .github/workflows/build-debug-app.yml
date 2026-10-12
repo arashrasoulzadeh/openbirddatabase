@@ -52,19 +52,23 @@ jobs:
           path: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
           retention-days: 30
 
-      - name: Set release tag
-        id: vars
-        working-directory: .
-        run: echo "tag=app-debug-$(date -u +'%Y-%m-%d-%H-%M')-${GITHUB_SHA::8}" >> "$GITHUB_OUTPUT"
-
-      - name: Publish debug release
+      - name: Attach APK to the commit's Build release
         if: github.event_name == 'push'
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.vars.outputs.tag }}
-          name: "Debug app ${{ steps.vars.outputs.tag }}"
-          body: |
-            Debug APK built from commit ${{ github.sha }}.
-          files: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
-          prerelease: true
-          make_latest: false
+        working-directory: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          SHORT=${GITHUB_SHA::8}
+          cp flutter_app/build/app/outputs/flutter-apk/app-debug.apk "openbird-debug-${SHORT}.apk"
+          # The Release Exports workflow creates the "Build <date>-<sha>" release for this commit
+          for i in $(seq 1 30); do
+            TAG=$(gh release list --limit 30 --json tagName -q ".[].tagName" | grep -E -- "-${SHORT}$" | grep -v '^app-debug' | head -1 || true)
+            [ -n "$TAG" ] && break
+            echo "Waiting for Build release ($i/30)..."; sleep 20
+          done
+          if [ -z "$TAG" ]; then
+            TAG="app-debug-$(date -u +'%Y-%m-%d-%H-%M')-${SHORT}"
+            gh release create "$TAG" --prerelease --title "Debug app $TAG" --notes "Debug APK built from commit ${GITHUB_SHA}."
+          fi
+          gh release upload "$TAG" "openbird-debug-${SHORT}.apk" --clobber
+          echo "Attached APK to $TAG"
