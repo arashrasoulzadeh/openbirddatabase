@@ -5,6 +5,12 @@ import 'package:openbird/providers/app_provider.dart';
 import 'package:openbird/providers/theme_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
 import 'package:openbird/screens/splash_screen.dart';
+import 'package:openbird/screens/family_species_screen.dart';
+import 'package:openbird/screens/favorites_screen.dart';
+import 'package:openbird/screens/search_screen.dart';
+import 'package:openbird/screens/settings_screen.dart';
+import 'package:openbird/screens/species_detail_screen.dart';
+import 'package:openbird/screens/taxonomy_screen.dart';
 import 'package:openbird/utils/constants.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 
