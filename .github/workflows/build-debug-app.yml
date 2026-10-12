@@ -1,0 +1,80 @@
+name: Build Debug App
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'flutter_app/**'
+      - '.github/workflows/build-debug-app.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  android-debug:
+    name: Android debug APK
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: flutter_app
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Generate platform scaffolding
+        # The repo only tracks lib/, test/ and pubspec.yaml
+        run: |
+          flutter create --platforms=android --project-name openbird --org org.openbird .
+          mkdir -p assets/images assets/icons
+
+      - name: Configure localization
+        run: |
+          cat > l10n.yaml <<'YAML'
+          arb-dir: lib/l10n
+          template-arb-file: app_en.arb
+          output-localization-file: app_localizations.dart
+          output-class: AppLocalizations
+          output-dir: lib/l10n
+          synthetic-package: false
+          YAML
+
+      - run: flutter pub get
+      - run: flutter gen-l10n
+      - run: flutter test
+
+      - name: Build debug APK
+        run: flutter build apk --debug
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: openbird-debug-apk
+          path: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
+          retention-days: 30
+
+      - name: Set release tag
+        id: vars
+        working-directory: .
+        run: echo "tag=app-debug-$(date -u +'%Y-%m-%d-%H-%M')-${GITHUB_SHA::8}" >> "$GITHUB_OUTPUT"
+
+      - name: Publish debug release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: "Debug app ${{ steps.vars.outputs.tag }}"
+          body: |
+            Debug APK built from commit ${{ github.sha }}.
+          files: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
+          prerelease: true
+          make_latest: false
