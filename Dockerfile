@@ -17,7 +17,7 @@ COPY _schemas/ ./_schemas/
 COPY _templates/ ./_templates/
 COPY _index/ ./_index/
 COPY birds/ ./birds/
-COPY translations/ ./translations/
+RUN mkdir -p /app/translations
 
 EXPOSE 8000
 

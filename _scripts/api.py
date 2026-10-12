@@ -2,6 +2,7 @@
 """FastAPI server for OpenBird database with MeiliSearch and GraphQL integration."""
 
 import json
+import os
 import yaml
 from pathlib import Path
 from typing import Optional, List, Dict, Any
@@ -17,8 +18,16 @@ from _scripts.graphql_schema import schema
 BIRDS_DIR = Path("birds")
 TRANSLATIONS_DIR = Path("translations")
 INDEX_DIR = Path("_index")
-MEILI_HOST = "http://localhost:7700"
+MEILI_HOST = os.environ.get("MEILI_HOST", "http://localhost:7700")
 MEILI_INDEX_NAME = "birds"
+
+# Public deployment: SITE_DOMAIN is the website, API_DOMAIN is this API (see .env.example)
+SITE_DOMAIN = os.environ.get("SITE_DOMAIN", "").strip()
+CORS_ORIGINS = [o.strip() for o in os.environ.get("CORS_ORIGINS", "").split(",") if o.strip()]
+if SITE_DOMAIN:
+    CORS_ORIGINS += [f"https://{SITE_DOMAIN}", f"https://www.{SITE_DOMAIN}"]
+if not CORS_ORIGINS:
+    CORS_ORIGINS = ["*"]  # local development
 
 app = FastAPI(
     title="OpenBird API",
@@ -28,8 +37,8 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=CORS_ORIGINS,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -174,10 +183,19 @@ async def search_species(request: SearchRequest):
         # Fallback to simple JSON search
         return await fallback_search(request)
 
+_species_index: Optional[List[Dict]] = None
+
+def get_species_index() -> List[Dict]:
+    """Load the pre-built species index once and keep it in memory."""
+    global _species_index
+    if _species_index is None:
+        with open(INDEX_DIR / "species-index.json") as f:
+            _species_index = json.load(f)
+    return _species_index
+
 async def fallback_search(request: SearchRequest):
     """Simple fallback search using pre-built index."""
-    with open(INDEX_DIR / "species-index.json") as f:
-        species_index = json.load(f)
+    species_index = get_species_index()
     
     results = []
     q_lower = request.q.lower()
@@ -207,6 +225,15 @@ async def fallback_search(request: SearchRequest):
         "limit": request.limit,
         "offset": request.offset
     }
+
+@app.get("/search", response_model=Dict[str, Any])
+async def search_species_get(
+    q: str = "",
+    limit: int = Query(20, ge=1, le=100),
+    offset: int = Query(0, ge=0),
+):
+    """GET variant of /search for simple clients (website, mobile app)."""
+    return await search_species(SearchRequest(q=q, limit=limit, offset=offset))
 
 @app.get("/species/{scientific_name}")
 async def get_species(scientific_name: str, lang: str = Query("fa", description="Language code")):
@@ -259,10 +286,10 @@ async def get_stats():
         "total_species": len(species_files),
         "orders": len(taxonomy_tree),
         "families": sum(len(f) for f in taxonomy_tree.values()),
-        "languages": ["fa", "en"] + [d.name for d in TRANSLATIONS_DIR.iterdir() if d.is_dir() and d.name not in ['fa', 'en']],
+        "languages": ["fa", "en"] + ([d.name for d in TRANSLATIONS_DIR.iterdir() if d.is_dir() and d.name not in ['fa', 'en']] if TRANSLATIONS_DIR.exists() else []),
         "field_stats": {k: len(v) for k, v in field_stats.items()}
     }
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", "8000")))

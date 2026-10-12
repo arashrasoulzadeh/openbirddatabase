@@ -6,8 +6,11 @@ import SpeciesList from '@/components/SpeciesList';
 import SpeciesDetail from '@/components/SpeciesDetail';
 import TaxonomyTree from '@/components/TaxonomyTree';
 import { Species } from '@/lib/types';
+import { searchSpecies as apiSearch, getTaxonomy } from '@/lib/api';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
+  const router = useRouter();
   const [searchQuery, setSearchQuery] = useState('');
   const [species, setSpecies] = useState<Species[]>([]);
   const [selectedSpecies, setSelectedSpecies] = useState<Species | null>(null);
@@ -19,14 +22,9 @@ export default function Home() {
   const searchSpecies = async (query: string) => {
     setLoading(true);
     try {
-      const response = await fetch('/api/search', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ q: query, limit: 50 }),
-      });
-      const data = await response.json();
+      const data = await apiSearch(query, 50);
       setSpecies(data.hits || []);
-      setTotal(data.total || 0);
+      setTotal(data.total ?? data.estimatedTotalHits ?? 0);
       setSelectedSpecies(null);
     } catch (error) {
       console.error('Search error:', error);
@@ -36,15 +34,13 @@ export default function Home() {
   };
 
   const handleSpeciesClick = (species: Species) => {
-    setSelectedSpecies(species);
-    setViewMode('detail');
+    const name = species.scientific_name || (species as any).scientific;
+    if (name) router.push(`/species/${encodeURIComponent(name)}`);
   };
 
   const loadTaxonomy = async () => {
     try {
-      const response = await fetch('/api/taxonomy');
-      const data = await response.json();
-      setTaxonomyTree(data);
+      setTaxonomyTree(await getTaxonomy());
     } catch (error) {
       console.error('Taxonomy load error:', error);
     }

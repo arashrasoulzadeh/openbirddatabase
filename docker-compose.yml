@@ -1,31 +1,58 @@
-version: '3.8'
-
+# Production stack: Caddy (HTTPS) -> website + API, with MeiliSearch internal.
+# Configure domains in .env (see .env.example), then: docker compose up -d --build
 services:
+  caddy:
+    image: caddy:2
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - SITE_DOMAIN=${SITE_DOMAIN:?set SITE_DOMAIN in .env}
+      - API_DOMAIN=${API_DOMAIN:?set API_DOMAIN in .env}
+      - ACME_EMAIL=${ACME_EMAIL:-}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - api
+      - web
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./frontend
+      args:
+        NEXT_PUBLIC_API_URL: https://${API_DOMAIN}
+        NEXT_PUBLIC_SITE_URL: https://${SITE_DOMAIN}
+    environment:
+      # Server-side rendering talks to the API over the internal network
+      - API_INTERNAL_URL=http://api:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  api:
+    build: .
+    environment:
+      - MEILI_HOST=http://meilisearch:7700
+      - SITE_DOMAIN=${SITE_DOMAIN}
+    depends_on:
+      - meilisearch
+    volumes:
+      - ./birds:/app/birds
+      - ./_index:/app/_index
+    restart: unless-stopped
+
   meilisearch:
     image: getmeili/meilisearch:v1.7
-    ports:
-      - "7700:7700"
     environment:
       - MEILI_NO_ANALYTICS=true
     volumes:
       - ./meili_data:/meili_data
     restart: unless-stopped
 
-  api:
-    build: .
-    ports:
-      - "8000:8000"
-    environment:
-      - MEILI_HOST=http://meilisearch:7700
-    depends_on:
-      - meilisearch
-    volumes:
-      - ./birds:/app/birds
-      - ./translations:/app/translations
-      - ./_index:/app/_index
-    restart: unless-stopped
-
-  # Optional: Indexer service to populate MeiliSearch
+  # Optional: populate MeiliSearch (docker compose --profile indexing run --rm indexer)
   indexer:
     build: .
     command: python _scripts/populate_meili.py
@@ -37,3 +64,7 @@ services:
       - ./_index:/app/_index
     profiles:
       - indexing
+
+volumes:
+  caddy_data:
+  caddy_config:

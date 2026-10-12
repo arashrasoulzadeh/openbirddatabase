@@ -10,6 +10,15 @@ interface SpeciesDetailProps {
 
 export function SpeciesDetail({ species }: SpeciesDetailProps) {
 
+  const getQualityColor = (quality: string) => {
+    switch (quality) {
+      case 'High': return 'bg-green-100 text-green-800';
+      case 'Medium': return 'bg-yellow-100 text-yellow-800';
+      case 'Low': return 'bg-orange-100 text-orange-800';
+      default: return 'bg-gray-100 text-gray-700';
+    }
+  };
+
   const getIUCNColor = (status: string) => {
     switch (status) {
       case 'LC': return 'bg-green-100 text-green-800';
@@ -70,13 +79,7 @@ export function SpeciesDetail({ species }: SpeciesDetailProps) {
             <p className="text-2xl text-gray-500 font-italic mb-4">{species.scientific_name}</p>
             
             <div className="flex flex-wrap gap-3">
-              <span className={`px-3 py-1 rounded-full text-sm font-medium ${({
-                'bg-green-100 text-green-800': species.iucn_status === 'LC',
-                'bg-yellow-100 text-yellow-800': species.iucn_status === 'NT',
-                'bg-orange-100 text-orange-800': species.iucn_status === 'VU',
-                'bg-red-100 text-red-800': species.iucn_status === 'EN',
-                'bg-red-200 text-red-900': species.iucn_status === 'CR',
-              }[species.iucn_status] || 'bg-gray-100 text-gray-700')}`}>
+              <span className={`px-3 py-1 rounded-full text-sm font-medium ${getIUCNColor(species.iucn_status)}`}>
                 IUCN: {species.iucn_status}
               </span>
               <span className="px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-sm font-medium">
@@ -129,13 +132,7 @@ export function SpeciesDetail({ species }: SpeciesDetailProps) {
         {renderSection('Conservation Status', (
           <div className="space-y-4">
             <div className="flex items-center gap-4">
-              <span className={`px-4 py-2 rounded-full text-sm font-semibold ${({
-                'bg-green-100 text-green-800': species.iucn_status === 'LC',
-                'bg-yellow-100 text-yellow-800': species.iucn_status === 'NT',
-                'bg-orange-100 text-orange-800': species.iucn_status === 'VU',
-                'bg-red-100 text-red-800': species.iucn_status === 'EN',
-                'bg-red-200 text-red-900': species.iucn_status === 'CR',
-              }[species.iucn_status] || 'bg-gray-100 text-gray-700')}`}>
+              <span className={`px-4 py-2 rounded-full text-sm font-semibold ${getIUCNColor(species.iucn_status)}`}>
                 IUCN: {species.iucn_status}
               </span>
               <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-gray-700">
@@ -175,14 +172,14 @@ export function SpeciesDetail({ species }: SpeciesDetailProps) {
             {renderKeyValue('Primary Diet', species.diet?.primary)}
             {renderKeyValue('Diet Breadth', species.diet?.diet_breadth)}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {Object.entries(species.diet?.categories || {}).map(([key, value]) => (
+              {Object.entries((species.diet?.categories || {}) as Record<string, number>).map(([key, value]) => (
                 <div key={key} className="flex justify-between py-2 border-b border-gray-100">
                   <span className="capitalize text-gray-600">{key.replace('_', ' ')}</span>
                   <span className="font-medium text-gray-900">{value}</span>
                 </div>
               ))}
             </div>
-            <p className="text-sm text-gray-500">Sum: {Object.values(species.diet?.categories || {}).reduce((a: number, b: number) => a + (b || 0), 0)}</p>
+            <p className="text-sm text-gray-500">Sum: {Object.values((species.diet?.categories || {}) as Record<string, number>).reduce((a, b) => a + (b || 0), 0)}</p>
           </div>
         ), species.diet?.primary)}
 
@@ -268,12 +265,7 @@ export function SpeciesDetail({ species }: SpeciesDetailProps) {
           <div className="space-y-2">
             <p className="text-sm text-gray-600">Sources: {species.sources?.join(', ') || '—'}</p>
             <p className="text-sm text-gray-600">Last Updated: {species.last_updated || '--'}</p>
-            <span className={`inline-block px-2 py-1 rounded text-xs font-medium ${{
-              'bg-green-100 text-green-800': species.data_quality === 'High',
-              'bg-yellow-100 text-yellow-800': species.data_quality === 'Medium',
-              'bg-orange-100 text-orange-800': species.data_quality === 'Low',
-              'bg-gray-100 text-gray-700': species.data_quality === 'Interpolated',
-            }[species.data_quality] || 'bg-gray-100 text-gray-700'}`}>
+            <span className={`inline-block px-2 py-1 rounded text-xs font-medium ${getQualityColor(species.data_quality)}`}>
               Data Quality: {species.data_quality}
             </span>
           </div>

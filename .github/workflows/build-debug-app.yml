@@ -43,7 +43,16 @@ jobs:
       - run: flutter test
 
       - name: Build debug APK
-        run: flutter build apk --debug
+        # API_DOMAIN / SITE_DOMAIN: repository variables (Settings > Secrets and variables > Actions > Variables)
+        env:
+          API_DOMAIN: ${{ vars.API_DOMAIN }}
+          SITE_DOMAIN: ${{ vars.SITE_DOMAIN }}
+        run: |
+          DEFINES=""
+          [ -n "$API_DOMAIN" ] && DEFINES="$DEFINES --dart-define=API_BASE_URL=https://$API_DOMAIN"
+          [ -n "$SITE_DOMAIN" ] && DEFINES="$DEFINES --dart-define=SITE_URL=https://$SITE_DOMAIN"
+          echo "dart-defines:$DEFINES"
+          flutter build apk --debug $DEFINES
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4

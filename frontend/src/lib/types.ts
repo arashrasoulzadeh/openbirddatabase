@@ -25,11 +25,8 @@ export interface Species {
   taxon_order: number;
   ebird_code: string;
   gbif_key: number;
-  avibase_id: string;
   avibase_id?: string;
   taxon_id: string;
-  iucn_status: string;
-  taxon_order: number;
   names?: {
     scientific: string;
     fa: string;
@@ -151,10 +148,12 @@ export interface Species {
     play_behaviors: string[];
     environmental_enrichment: string[];
   };
-  sources: string[];
   last_updated: string;
-  data_quality: string;
   body_text?: string;
+  // taxonomy-tree entries use these short keys
+  scientific?: string;
+  common_fa?: string;
+  common_en?: string;
 }
 
 export interface SearchResult {

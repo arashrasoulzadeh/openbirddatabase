@@ -74,3 +74,6 @@ exports/*.xlsx
 
 # Images
 images/
+# Local deployment config
+.env
+meili_data/
