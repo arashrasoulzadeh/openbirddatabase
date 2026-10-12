@@ -185,7 +185,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
     switch (mode) {
       case ThemeMode.light: return Icons.light_mode;
       case ThemeMode.dark: return Icons.dark_mode;
-      case ThemeMode.system: return Icons.settings_system_day_rounded;
+      case ThemeMode.system: return Icons.brightness_auto;
     }
   }
 
@@ -194,8 +194,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
       children: LanguageProvider.supportedLocales.map((locale) {
         final code = locale.languageCode;
         return RadioListTile<String>(
-          title: Text(LanguageProvider.getLanguageName(code)),
-          subtitle: Text(LanguageProvider.getNativeName(code)),
+          title: Text((LanguageProvider.languageNames[code] ?? code)),
+          subtitle: Text((LanguageProvider.nativeNames[code] ?? code)),
           value: code,
           groupValue: languageProvider.locale.languageCode,
           onChanged: (value) => languageProvider.setLanguage(value!),

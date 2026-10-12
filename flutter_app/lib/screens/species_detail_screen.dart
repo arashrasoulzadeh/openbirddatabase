@@ -1,3 +1,4 @@
+import 'package:openbird/utils/extensions.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -326,7 +327,7 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
       title: l10n.demography,
       children: [
         if (d.generationLengthYears != null) DetailRow(label: l10n.generationLength, value: Formatters.formatYears(d.generationLengthYears!)),
-        if (d.maxLongevityYears != null) DetailRow(label: l10n.maxLongevity, value: Formatters.formatYears(d.maxLongevityYears!)),
+        if (d.maxLongevityYears != null) DetailRow(label: l10n.maxLongevity, value: Formatters.formatYears(d.maxLongevityYears!.toDouble())),
         if (d.annualSurvivalAdult != null) DetailRow(label: l10n.adultSurvival, value: Formatters.formatPercent(d.annualSurvivalAdult!)),
         if (d.annualSurvivalJuvenile != null) DetailRow(label: l10n.juvenileSurvival, value: Formatters.formatPercent(d.annualSurvivalJuvenile!)),
         if (d.populationTrend != null) DetailRow(label: l10n.populationTrend, value: d.populationTrend!),

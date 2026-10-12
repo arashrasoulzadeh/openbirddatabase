@@ -49,7 +49,7 @@ class _TaxonomyExpansionTileState extends State<TaxonomyExpansionTile> {
                   onFamilyTap: widget.onFamilyTap,
                 );
               }).toList()
-            : null,
+            : const <Widget>[],
         tilePadding: EdgeInsets.only(left: 16 + widget.level * 12, right: 16),
         childrenPadding: const EdgeInsets.only(left: 8, right: 8, bottom: 8),
       ),
@@ -65,7 +65,7 @@ class _TaxonomyExpansionTileState extends State<TaxonomyExpansionTile> {
         bottom: 4,
       ),
       child: ListTile(
-        leading: const Icon(Icons.nest),
+        leading: const Icon(Icons.account_tree),
         title: Text(widget.node.name),
         subtitle: widget.node.count != null
             ? Text('${widget.node.count} species')

@@ -47,7 +47,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
                     genus: '',
                     species: '',
                   ),
-                  languageCode: langCode,
+                  languageCode: languageProvider.locale.languageCode,
                   onTap: () => _navigateToSpecies(scientificName),
                   isFavorite: true,
                   onFavoriteToggle: (isFav) => _toggleFavorite(scientificName, isFav),
