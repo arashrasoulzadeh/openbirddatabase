@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:openbird/models/species.dart';
 
@@ -237,31 +238,25 @@ void main() {
     });
 
     test('getIUCNColor returns correct colors', () {
-      final species = Species(
-        scientificName: 'Test',
-        commonNameEn: 'Test',
-        birdnetId: '',
-        ebirdCode: '',
-        gbifKey: 0,
-        avibaseId: '',
-        iucnStatus: 'LC',
-        taxonOrder: 0,
-        order: '',
-        family: '',
-        genus: '',
-        species: '',
-      );
+      Species withStatus(String status) => Species(
+            scientificName: 'Test',
+            commonNameEn: 'Test',
+            birdnetId: '',
+            ebirdCode: '',
+            gbifKey: 0,
+            avibaseId: '',
+            iucnStatus: status,
+            taxonOrder: 0,
+            order: '',
+            family: '',
+            genus: '',
+            species: '',
+          );
 
-      expect(species.getIUCNColor(), Colors.green);
-      
-      species.iucnStatus = 'EN';
-      expect(species.getIUCNColor(), Colors.red);
-      
-      species.iucnStatus = 'CR';
-      expect(species.getIUCNColor(), Colors.red[900]);
-      
-      species.iucnStatus = 'DD';
-      expect(species.getIUCNColor(), Colors.blue);
+      expect(withStatus('LC').getIUCNColor(), Colors.green);
+      expect(withStatus('EN').getIUCNColor(), Colors.red);
+      expect(withStatus('CR').getIUCNColor(), Colors.red[900]);
+      expect(withStatus('DD').getIUCNColor(), Colors.blue);
     });
   });
 
