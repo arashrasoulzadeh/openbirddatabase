@@ -134,5 +134,8 @@
   "cacheCleared": "حافظه نهان پاک شد",
   "exportStarted": "صادرات آغاز شد",
   "footerText": "OpenBird متن‌باز است. داده‌ها تحت مجوز CC-BY 4.0.",
-  "close": "بستن"
+  "close": "بستن",
+  "source": "منبع",
+  "contributor": "مشارکت‌کننده",
+  "searchError": "جستجو ناموفق بود"
 }

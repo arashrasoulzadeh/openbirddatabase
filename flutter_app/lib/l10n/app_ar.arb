@@ -134,5 +134,8 @@
   "cacheCleared": "تم مسح ذاكرة التخزين المؤقت",
   "exportStarted": "بدأ التصدير",
   "footerText": "OpenBird مفتوح المصدر. البيانات مرخصة تحت CC-BY 4.0.",
-  "close": "إغلاق"
+  "close": "إغلاق",
+  "source": "المصدر",
+  "contributor": "المساهم",
+  "searchError": "فشل البحث"
 }

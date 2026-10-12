@@ -134,5 +134,8 @@
   "cacheCleared": "Cache cleared",
   "exportStarted": "Export started",
   "footerText": "OpenBird is open source. Data licensed under CC-BY 4.0.",
-  "close": "Close"
+  "close": "Close",
+  "source": "Source",
+  "contributor": "Contributor",
+  "searchError": "Search failed"
 }
