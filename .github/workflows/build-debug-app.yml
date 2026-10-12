@@ -36,6 +36,7 @@ jobs:
         run: |
           flutter create --platforms=android --project-name openbird --org org.openbird .
           mkdir -p assets/images assets/icons
+          rm -f test/widget_test.dart
 
       - name: Configure localization
         run: |
