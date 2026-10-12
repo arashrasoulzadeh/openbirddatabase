@@ -56,10 +56,7 @@ class Formatters {
   }
 
   static String formatDistance(double km) {
-    if (km >= 1000) {
-      return '${(km / 1000).toStringAsFixed(0)} km';
-    }
-    return '${km.toStringAsFixed(1)} km';
+    return '${km.toStringAsFixed(km >= 1000 ? 0 : 1)} km';
   }
 
   static String formatDensity(double density) {

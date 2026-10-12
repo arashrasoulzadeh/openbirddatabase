@@ -32,7 +32,7 @@ void main() {
       final labelText = tester.widget<Text>(find.text('Label').first);
       final valueText = tester.widget<Text>(find.text('Value').first);
 
-      expect(labelText.style?.color, Colors.grey[600]); // onSurfaceVariant in light theme
+      expect(labelText.style?.color, ThemeData.light().colorScheme.onSurfaceVariant);
       expect(valueText.style?.fontWeight, FontWeight.w500);
     });
   });
@@ -74,9 +74,10 @@ void main() {
     });
 
     testWidgets('applies primary color to title', (WidgetTester tester) async {
+      final theme = ThemeData(primarySwatch: Colors.blue);
       await tester.pumpWidget(
         MaterialApp(
-          theme: ThemeData(primarySwatch: Colors.blue),
+          theme: theme,
           home: const Scaffold(
             body: SectionCard(
               title: 'Test',
@@ -87,7 +88,7 @@ void main() {
       );
 
       final titleText = tester.widget<Text>(find.text('Test').first);
-      expect(titleText.style?.color, Colors.blue);
+      expect(titleText.style?.color, theme.colorScheme.primary);
       expect(titleText.style?.fontWeight, FontWeight.w700);
     });
   });
