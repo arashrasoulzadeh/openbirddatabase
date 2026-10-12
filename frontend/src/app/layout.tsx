@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'OpenBird Database',
   description: 'Global bird species database with multilingual support',

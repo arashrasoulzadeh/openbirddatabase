@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useRef, useEffect } from 'react';
 
 interface SearchBarProps {
   value: string;
@@ -11,17 +11,22 @@ interface SearchBarProps {
 }
 
 export default function SearchBar({ value, onChange, onSearch, loading, placeholder }: SearchBarProps) {
-  const [debouncedValue, setDebouncedValue] = useState(value);
   const timeoutRef = useRef<NodeJS.Timeout>();
+  // Keep the latest callback in a ref so a new function identity on each parent
+  // render does not retrigger the debounce (which caused an endless search loop).
+  const onSearchRef = useRef(onSearch);
+  onSearchRef.current = onSearch;
+  const isFirstRun = useRef(true);
 
   useEffect(() => {
-    timeoutRef.current = setTimeout(() => {
-      setDebouncedValue(value);
-      onSearch(value);
-    }, 300);
-
+    // The page already loads the initial results on mount
+    if (isFirstRun.current) {
+      isFirstRun.current = false;
+      return;
+    }
+    timeoutRef.current = setTimeout(() => onSearchRef.current(value), 300);
     return () => clearTimeout(timeoutRef.current);
-  }, [value, onSearch]);
+  }, [value]);
 
   return (
     <div className="relative">
