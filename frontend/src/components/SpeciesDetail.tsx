@@ -8,7 +8,7 @@ interface SpeciesDetailProps {
   species: any;
 }
 
-export default function SpeciesDetail({ species }: SpeciesDetailProps) {
+export function SpeciesDetail({ species }: SpeciesDetailProps) {
 
   const getIUCNColor = (status: string) => {
     switch (status) {
@@ -203,7 +203,7 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
         {renderSection('Reproduction', (
           <dl className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {renderKeyValue('Clutch Size (mean)', species.reproduction?.clutch_size_mean)}
-            {renderKeyValue('Clutch Size Range', `${species.reproduction?.clutch_size_min || '--'}--${species.reproduction?.clutch_size_max || '--'})`}
+            {renderKeyValue('Clutch Size Range', `${species.reproduction?.clutch_size_min || '--'}--${species.reproduction?.clutch_size_max || '--'}`)}
             {renderKeyValue('Incubation', species.reproduction?.incubation_days ? `${species.reproduction.incubation_days} days` : '--')}
             {renderKeyValue('Fledging', species.reproduction?.fledging_days ? `${species.reproduction.fledging_days} days` : '--')}
             {renderKeyValue('Broods/Year', species.reproduction?.broods_per_year)}
@@ -277,8 +277,10 @@ export default function SpeciesDetail({ species }: SpeciesDetailProps) {
               Data Quality: {species.data_quality}
             </span>
           </div>
-        ))}
+        ), true)}
       </div>
-    );
-  }
+    </div>
+  );
 }
+
+export default SpeciesDetail;

@@ -2,6 +2,7 @@
 # Run all tests for the OpenBird project
 
 set -e
+ROOT="$(cd "$(dirname "$0")" && pwd)"
 
 echo "======================================"
 echo "Running OpenBird Tests"
@@ -10,12 +11,12 @@ echo "======================================"
 # Python tests
 echo ""
 echo "=== Python Tests ==="
-cd /home/arash/projects/openbird
+cd "$ROOT"
 
 # Check if pytest is available
 if command -v pytest &> /dev/null; then
     echo "Running Python unit tests..."
-    PYTHONPATH=/home/arash/projects/openbird pytest _scripts/test_ingestion.py -v --tb=short 2>&1 | head -100
+    PYTHONPATH="$ROOT" pytest _scripts/test_ingestion.py -v --tb=short 2>&1 | head -100
 else
     echo "pytest not found, skipping Python tests"
 fi
@@ -23,7 +24,7 @@ fi
 # Frontend tests
 echo ""
 echo "=== Frontend Tests ==="
-cd /home/arash/projects/openbird/frontend
+cd "$ROOT/frontend"
 
 if [ -f package.json ] && command -v npm &> /dev/null; then
     echo "Running frontend tests..."
@@ -35,7 +36,7 @@ fi
 # Flutter tests
 echo ""
 echo "=== Flutter Tests ==="
-cd /home/arash/projects/openbird/flutter_app
+cd "$ROOT/flutter_app"
 
 if [ -f pubspec.yaml ] && command -v flutter &> /dev/null; then
     echo "Getting Flutter dependencies..."

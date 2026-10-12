@@ -42,13 +42,13 @@ describe('SpeciesDetail Component', () => {
 
   it('renders IUCN status badge', () => {
     render(<SpeciesDetail species={mockSpecies} />);
-    expect(screen.getByText('LC')).toBeInTheDocument();
+    expect(screen.getAllByText('IUCN: LC').length).toBeGreaterThan(0);
   });
 
   it('renders order and family', () => {
     render(<SpeciesDetail species={mockSpecies} />);
-    expect(screen.getByText('Passeriformes')).toBeInTheDocument();
-    expect(screen.getByText('Paridae')).toBeInTheDocument();
+    expect(screen.getAllByText('Passeriformes').length).toBeGreaterThan(0);
+    expect(screen.getAllByText('Paridae').length).toBeGreaterThan(0);
   });
 
   it('renders morphology data', () => {
@@ -72,8 +72,8 @@ describe('SpeciesDetail Component', () => {
 
   it('renders sources and quality', () => {
     render(<SpeciesDetail species={mockSpecies} />);
-    expect(screen.getByText('BirdNET, BIRDBASE')).toBeInTheDocument();
-    expect(screen.getByText('High')).toBeInTheDocument();
+    expect(screen.getByText('Sources: BirdNET, BIRDBASE')).toBeInTheDocument();
+    expect(screen.getByText('Data Quality: High')).toBeInTheDocument();
   });
 });
 
@@ -97,6 +97,6 @@ describe('SpeciesDetail with missing data', () => {
     render(<SpeciesDetail species={minimalSpecies} />);
     expect(screen.getByText('Test Bird')).toBeInTheDocument();
     expect(screen.getByText('Test Species')).toBeInTheDocument();
-    expect(screen.getByText('DD')).toBeInTheDocument();
+    expect(screen.getAllByText('IUCN: DD').length).toBeGreaterThan(0);
   });
 });
