@@ -1,0 +1,110 @@
+import messages from './messages.json';
+import { Lang, DEFAULT_LANG } from './locales';
+
+type Dict = Record<string, string>;
+const all = messages as Record<string, Dict>;
+
+/** Translate a UI string; falls back to English, then to the key. `{name}` placeholders are filled from params. */
+export function translate(lang: Lang, key: string, params?: Record<string, string | number>): string {
+  let text = all[lang]?.[key] ?? all[DEFAULT_LANG]?.[key] ?? key;
+  if (params) for (const [k, v] of Object.entries(params)) text = text.replaceAll(`{${k}}`, String(v));
+  return text;
+}
+
+// Species-file field -> message key. Entries with a dotted path win over the bare field name.
+const FIELD_BY_PATH: Record<string, string> = {
+  'habitat.primary': 'primaryHabitat',
+  'habitat.secondary': 'secondaryHabitats',
+  'diet.primary': 'primaryDiet',
+  'diet.categories': 'dietCategories',
+  'behavior.vocalizations.calls': 'vocalCalls',
+  'behavior.vocalizations.song': 'vocalSong',
+  'conservation.iucn_status': 'iucnStatus',
+  'taxonomy.species': 'speciesLabel',
+  'taxon_id': 'birdnetId',
+};
+
+const FIELD_BY_NAME: Record<string, string> = {
+  // sections
+  taxonomy: 'taxonomy', morphology: 'morphology', distribution: 'distribution', habitat: 'habitat',
+  diet: 'dietForaging', behavior: 'behavior', reproduction: 'reproduction', demography: 'demography',
+  conservation: 'conservation', veterinary: 'veterinaryCare', enrichment: 'enrichmentTraining',
+  // identifiers
+  avibase_id: 'avibaseId', ebird_code: 'ebirdCode', gbif_key: 'gbifKey', taxon_order: 'taxonOrder',
+  data_quality: 'dataQuality', last_updated: 'lastUpdated', sources: 'sources', iucn_status: 'iucnStatus',
+  order: 'order', family: 'family', genus: 'genus',
+  // morphology
+  body_mass_g: 'bodyMass', body_length_cm: 'bodyLength', wingspan_cm: 'wingspan', bill_length_mm: 'billLength',
+  tarsus_length_mm: 'tarsusLength', wing_length_mm: 'wingLength', tail_length_mm: 'tailLength',
+  // distribution
+  breeding_range: 'breedingRange', non_breeding_range: 'nonBreedingRange', countries: 'countries',
+  biogeographic_realms: 'biogeographicRealms', endemic: 'endemic', island_endemic: 'islandEndemic',
+  endemic_region: 'endemicRegion',
+  // habitat
+  habitat_breadth: 'habitatBreadth', habitat_types: 'habitatTypes', microhabitat: 'microhabitat',
+  elevational_min_m: 'elevationMin', elevational_max_m: 'elevationMax',
+  // diet
+  diet_breadth: 'dietBreadth', foraging_niches: 'foragingNiches', diet_sources: 'dietSources',
+  foraging_strategy: 'foragingStrategy',
+  invertebrates: 'dietInvertebrates', seeds: 'dietSeeds', fruit: 'dietFruit', nectar: 'dietNectar',
+  vertebrates: 'dietVertebrates', fish: 'dietFish', carrion: 'dietCarrion', plant_material: 'dietPlantMaterial',
+  // behavior
+  activity_pattern: 'activityPattern', flock_size_typical: 'flockSize', migration_status: 'migrationStatus',
+  movement_type: 'movementType', sociality: 'sociality', territorial: 'territoriality',
+  vocalizations: 'vocalizations', xeno_canto_ids: 'xenoCantoIds',
+  // reproduction
+  clutch_size_min: 'clutchSizeMin', clutch_size_max: 'clutchSizeMax', clutch_size_mean: 'meanClutchSize',
+  incubation_days: 'incubationPeriod', fledging_days: 'fledgingPeriod', broods_per_year: 'broodsPerYear',
+  nest_type: 'nestType', nest_placement: 'nestPlacement', nest_material: 'nestMaterial',
+  mating_system: 'matingSystem', parental_care: 'parentalCare',
+  // conservation
+  cites_appendix: 'citesAppendix', conservation_actions: 'conservationActions', threats: 'threats',
+  population_trend: 'populationTrend', population_size: 'populationSize',
+  // veterinary
+  common_diseases: 'commonDiseases', vaccination_schedule: 'vaccinationSchedule',
+  deworming_frequency_months: 'dewormingFrequency', health_check_frequency_months: 'healthCheckFrequency',
+  zoonotic_risks: 'zoonoticRisks', emergency_signs: 'emergencySigns', vet_specialist_type: 'specialistType',
+  // enrichment
+  foraging_toys: 'foragingToys', social_enrichment: 'socialEnrichment', cognitive_toys: 'cognitiveToys',
+  bathing: 'bathing', training: 'training', target_training: 'targetTraining', recall_training: 'recallTraining',
+  harness_training: 'harnessTraining', play_behaviors: 'playBehaviors', environmental_enrichment: 'environmentalEnrichment',
+  // shared
+  source: 'source', contributor: 'contributor', date_added: 'dateAdded', verified: 'verified',
+};
+
+const humanize = (s: string) => s.replace(/_/g, ' ').replace(/^\w/, (c) => c.toUpperCase());
+
+/** Label for a species-file field (`path` like "habitat.primary"), in the given language. */
+export function fieldLabel(lang: Lang, path: string): string {
+  const name = path.split('.').pop() as string;
+  const key = FIELD_BY_PATH[path] ?? FIELD_BY_NAME[name];
+  if (key && all[lang]?.[key] !== undefined) return translate(lang, key);
+  if (key && all[DEFAULT_LANG]?.[key]) return translate(DEFAULT_LANG, key);
+  return humanize(name);
+}
+
+export function iucnLabel(lang: Lang, code: string | undefined | null): string {
+  if (!code) return '';
+  const key = `iucn${code}`;
+  return all[lang]?.[key] ?? all[DEFAULT_LANG]?.[key] ?? code;
+}
+
+// --- names -------------------------------------------------------------
+
+/** Name from a search hit (flat `common_name_xx` keys). */
+export function nameFromHit(hit: any, lang: Lang): string {
+  const localized = lang === 'en' ? hit.common_name_en : hit[`common_name_${lang}`];
+  return localized || hit.common_name_en || hit.scientific_name || '';
+}
+
+/** Name from a taxonomy-tree entry (`common_en`, `common_fa`, `names: {xx}`). */
+export function nameFromTree(entry: any, lang: Lang): string {
+  const localized =
+    lang === 'en' ? entry.common_en : lang === 'fa' ? entry.common_fa : entry.names?.[lang];
+  return localized || entry.common_en || entry.scientific || '';
+}
+
+/** Name from a species-file `names` object. */
+export function nameFromNames(names: Record<string, string> | undefined, lang: Lang, fallback = ''): string {
+  return (names && (names[lang] || names.en)) || fallback;
+}

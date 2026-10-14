@@ -1,125 +1,144 @@
 'use client';
 
-import { useState } from 'react';
-import { Species } from '@/lib/types';
+import Link from 'next/link';
+import { memo, useMemo, useState } from 'react';
+import { useI18n } from '@/lib/i18n/I18nProvider';
+import { nameFromTree } from '@/lib/i18n/translate';
 
-interface TaxonomyTreeProps {
-  tree: any;
-  onSelect: (species: Species) => void;
+type Genus = any[]; // species entries: { scientific, common_en, common_fa, names?, id }
+type Tree = Record<string, Record<string, Record<string, Genus>>>;
+
+const countGenera = (families: Record<string, Genus>) =>
+  Object.values(families).reduce((n, species) => n + species.length, 0);
+
+function Chevron({ open }: { open: boolean }) {
+  return (
+    <svg
+      className={`w-4 h-4 text-gray-400 transition-transform flex-shrink-0 ${open ? 'rotate-90' : 'rtl:rotate-180'}`}
+      fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+    >
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+    </svg>
+  );
 }
 
-interface TreeNode {
-  name: string;
-  children?: Record<string, TreeNode>;
-  species?: Species[];
-  level: number;
+function Row({
+  label, count, open, onToggle, level,
+}: { label: string; count: number; open: boolean; onToggle: () => void; level: number }) {
+  const { t } = useI18n();
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      aria-expanded={open}
+      className="w-full flex items-center gap-2 py-1.5 px-2 rounded text-start hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500"
+    >
+      <Chevron open={open} />
+      <span className={`${level === 0 ? 'font-semibold text-gray-900' : level === 1 ? 'font-medium text-gray-800' : 'text-sm text-gray-700'}`} dir="ltr">
+        {label}
+      </span>
+      <span className="text-xs text-gray-400 ms-auto">{t('speciesCount', { count: count.toLocaleString() })}</span>
+    </button>
+  );
 }
 
-export default function TaxonomyTree({ tree, onSelect }: TaxonomyTreeProps) {
-  const [expanded, setExpanded] = useState<Set<string>>(new Set(['Passeriformes']));
+const SpeciesRows = memo(function SpeciesRows({ species }: { species: Genus }) {
+  const { lang } = useI18n();
+  return (
+    <ul className="ms-6 border-s border-gray-200 ps-2 space-y-0.5">
+      {species.map((sp) => {
+        const name = nameFromTree(sp, lang);
+        return (
+          <li key={sp.id || sp.scientific}>
+            <Link
+              href={`/species/${encodeURIComponent(sp.scientific)}`}
+              className="flex flex-wrap items-baseline gap-x-2 py-1 px-2 text-sm rounded hover:bg-blue-50"
+            >
+              <span className="italic text-gray-700" dir="ltr">{sp.scientific}</span>
+              {name && <span className="text-gray-500 text-xs">{name}</span>}
+              {/* keep the original English name visible when another language is selected */}
+              {lang !== 'en' && sp.common_en && sp.common_en !== name && (
+                <span className="text-gray-400 text-xs" dir="ltr">({sp.common_en})</span>
+              )}
+            </Link>
+          </li>
+        );
+      })}
+    </ul>
+  );
+});
 
-  const toggleExpand = (path: string) => {
-    setExpanded(prev => {
+export default function TaxonomyTree({ tree }: { tree: Tree | null }) {
+  const { t } = useI18n();
+  const [open, setOpen] = useState<Set<string>>(new Set());
+
+  const toggle = (path: string) =>
+    setOpen((prev) => {
       const next = new Set(prev);
       if (next.has(path)) next.delete(path);
       else next.add(path);
       return next;
     });
-  };
 
-  const buildTree = (treeData: any): TreeNode[] => {
-    if (!treeData) return [];
-    
-    const nodes: TreeNode[] = [];
-    for (const [orderName, families] of Object.entries(treeData as Record<string, any>)) {
-      const familyNodes: TreeNode[] = [];
-      for (const [familyName, genera] of Object.entries(families as Record<string, any>)) {
-        const genusNodes: TreeNode[] = [];
-        for (const [genusName, speciesList] of Object.entries(genera as Record<string, any>)) {
-          genusNodes.push({
-            name: genusName,
-            species: speciesList,
-            level: 3,
-          });
-        }
-        familyNodes.push({
-          name: familyName,
-          children: Object.fromEntries(genusNodes.map(g => [g.name, g])),
-          level: 2,
-        });
-      }
-      nodes.push({
-        name: orderName,
-        children: Object.fromEntries(familyNodes.map(f => [f.name, f])),
-        level: 1,
-      });
-    }
-    return nodes;
-  };
+  // Counts are computed once per tree, not on every expand/collapse
+  const orders = useMemo(() => {
+    if (!tree) return [];
+    return Object.entries(tree)
+      .map(([order, families]) => ({
+        order,
+        families: Object.entries(families)
+          .map(([family, genera]) => ({ family, genera, count: countGenera(genera) }))
+          .sort((a, b) => a.family.localeCompare(b.family)),
+      }))
+      .map((o) => ({ ...o, count: o.families.reduce((n, f) => n + f.count, 0) }))
+      .sort((a, b) => a.order.localeCompare(b.order));
+  }, [tree]);
 
-  const renderNode = (node: TreeNode, path: string) => {
-    const isExpanded = expanded.has(path);
-    const hasChildren = node.children && Object.keys(node.children).length > 0;
-    const speciesCount = node.species?.length || 0;
-
-    if (node.species && node.species.length > 0) {
-      // This is a genus with species
-      return (
-        <details open={isExpanded} onToggle={() => toggleExpand(path)} className="group">
-          <summary className="flex items-center gap-2 py-1 px-2 cursor-pointer select-none">
-            <span className="text-sm font-medium text-gray-700 group-hover:text-gray-900">
-              {node.name} <span className="text-xs text-gray-400">({speciesCount})</span>
-            </span>
-          </summary>
-          <div className="ml-4 mt-1 space-y-1 border-l border-gray-200 pl-2">
-            {node.species.map((sp: Species) => (
-              <button
-                key={sp.id}
-                onClick={() => onSelect(sp)}
-                className="w-full text-left py-1 px-2 text-sm text-gray-600 hover:bg-gray-50 hover:text-gray-900 rounded transition-colors flex items-center gap-2"
-              >
-                <span className="font-italic text-gray-700">{sp.scientific}</span>
-                {sp.common_fa && <span className="text-gray-500 text-xs font-vazir" dir="rtl">({sp.common_fa})</span>}
-                {sp.common_en && <span className="text-gray-500 text-xs">({sp.common_en})</span>}
-              </button>
-            ))}
-          </div>
-        </details>
-      );
-    }
-
-    if (hasChildren) {
-      return (
-        <details open={isExpanded} onToggle={() => toggleExpand(path)} className="group">
-          <summary className="flex items-center gap-2 py-1 px-2 cursor-pointer select-none">
-            <span className="font-medium text-gray-700 group-hover:text-gray-900">{node.name}</span>
-          </summary>
-          <div className="ml-4 mt-1 space-y-1 border-l border-gray-200 pl-2">
-            {Object.entries(node.children as Record<string, TreeNode>).map(([name, child]) => (
-              <div key={name}>{renderNode(child, `${path}/${name}`)}</div>
-            ))}
-          </div>
-        </details>
-      );
-    }
-
-    return null;
-  };
-
-  if (!tree) {
-    return <div className="text-center py-12 text-gray-500">Loading taxonomy...</div>;
-  }
-
-  const treeNodes = buildTree(tree);
+  if (!tree) return <div className="text-center py-12 text-gray-500">{t('loading')}</div>;
 
   return (
     <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
       <div className="p-4 border-b border-gray-200 bg-gray-50">
-        <h2 className="text-lg font-semibold text-gray-900">Taxonomy Browser</h2>
-        <p className="text-sm text-gray-500 mt-1">Click orders → families → genera → species</p>
+        <h2 className="text-lg font-semibold text-gray-900">{t('taxonomyBrowser')}</h2>
+        <p className="text-sm text-gray-500 mt-1">{t('taxonomyBrowserHint')}</p>
       </div>
-      <div className="p-4 space-y-2 max-h-[70vh] overflow-y-auto">
-        {treeNodes.map(node => renderNode(node, node.name))}
+      <div className="p-3 max-h-[70vh] overflow-y-auto">
+        {orders.map(({ order, families, count }) => {
+          const orderOpen = open.has(order);
+          return (
+            <div key={order}>
+              <Row label={order} count={count} open={orderOpen} onToggle={() => toggle(order)} level={0} />
+              {/* children are only rendered while expanded: ~11k species stay out of the DOM */}
+              {orderOpen && (
+                <div className="ms-4 border-s border-gray-200 ps-2">
+                  {families.map(({ family, genera, count: familyCount }) => {
+                    const fPath = `${order}/${family}`;
+                    const familyOpen = open.has(fPath);
+                    return (
+                      <div key={family}>
+                        <Row label={family} count={familyCount} open={familyOpen} onToggle={() => toggle(fPath)} level={1} />
+                        {familyOpen && (
+                          <div className="ms-4 border-s border-gray-200 ps-2">
+                            {Object.entries(genera).sort(([a], [b]) => a.localeCompare(b)).map(([genus, species]) => {
+                              const gPath = `${fPath}/${genus}`;
+                              const genusOpen = open.has(gPath);
+                              return (
+                                <div key={genus}>
+                                  <Row label={genus} count={species.length} open={genusOpen} onToggle={() => toggle(gPath)} level={2} />
+                                  {genusOpen && <SpeciesRows species={species} />}
+                                </div>
+                              );
+                            })}
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+          );
+        })}
       </div>
     </div>
   );

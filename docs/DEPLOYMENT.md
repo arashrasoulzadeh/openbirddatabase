@@ -30,3 +30,32 @@ The "Build Debug App" workflow does this from GitHub repository **variables** na
 ## API reference
 
 `GET /search?q=&limit=&offset=`, `POST /search`, `GET /species/{scientific_name}?lang=`, `GET /taxonomy[/{order}[/{family}]]`, `GET /filters`, `GET /stats`, `/graphql`, interactive docs at `/docs`.
+
+## Languages (website)
+
+The site has a language selector (13 languages, right-to-left for Persian and Arabic). Interface text and field labels
+come from the Flutter app's ARB files so both apps share one set of translations. After editing
+`flutter_app/lib/l10n/*.arb` run:
+
+```
+cd frontend && npm run i18n
+```
+
+and commit the regenerated `frontend/src/lib/i18n/messages.json` (the Docker build cannot read `flutter_app/`).
+Species names are shown in the selected language with the original English and scientific names alongside.
+Values taken straight from the data (for example habitat "Forest" or diet "Invertebrate") stay in English.
+
+## Vector (semantic) search
+
+MeiliSearch runs hybrid keyword + vector search with the multilingual `intfloat/multilingual-e5-small` model, so a
+query like "small blue forest bird" or the same in Persian finds relevant species even without matching names.
+
+- Build the index (first run downloads the model and computes vectors, this can take a long time on CPU):
+  `docker compose --profile indexing run --rm indexer`
+- `GET /health` reports `"vector_search": true` once the embedder is configured.
+- `SEMANTIC_RATIO` (default `0.5`) balances keywords vs vectors; override per request with `?semantic_ratio=0..1`.
+- `VECTOR_SEARCH=false` in `.env` turns it off. If the embedder is unavailable the API falls back to keyword search.
+- Upgrading from the old MeiliSearch 1.7 image: the compose file enables a dumpless upgrade; if the container still
+  refuses to start, remove `meili_data/` and re-run the indexer (the index is rebuildable).
+
+After regenerating `_index/` (`python _scripts/index.py`) re-run the indexer and restart the API.

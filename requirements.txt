@@ -19,7 +19,7 @@ referencing>=0.30
 rpds-py>=0.10
 
 # Search (later)
-meilisearch>=0.25
+meilisearch>=0.31
 
 # API (later)
 fastapi>=0.104

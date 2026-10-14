@@ -93,12 +93,18 @@ def build_indexes():
         if genus not in taxonomy_tree[order][family]:
             taxonomy_tree[order][family][genus] = []
         
-        taxonomy_tree[order][family][genus].append({
+        tree_entry = {
             'scientific': sci,
             'common_fa': doc['common_name_fa'],
             'common_en': doc['common_name_en'],
             'id': doc['id']
-        })
+        }
+        # Names in the other languages (for the language selector on the website)
+        extra_names = {lang: name for lang, name in names.items()
+                       if lang not in ('scientific', 'fa', 'en') and name}
+        if extra_names:
+            tree_entry['names'] = extra_names
+        taxonomy_tree[order][family][genus].append(tree_entry)
         
         # Update field stats for faceted search
         if doc['iucn_status']:

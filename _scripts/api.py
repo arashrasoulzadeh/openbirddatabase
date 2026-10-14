@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Optional, List, Dict, Any
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.gzip import GZipMiddleware
 from pydantic import BaseModel
 import meilisearch
 import strawberry
@@ -20,6 +21,14 @@ TRANSLATIONS_DIR = Path("translations")
 INDEX_DIR = Path("_index")
 MEILI_HOST = os.environ.get("MEILI_HOST", "http://localhost:7700")
 MEILI_INDEX_NAME = "birds"
+
+# Hybrid (keyword + vector) search. Needs the "default" embedder configured by populate_meili.py;
+# if it is missing or still downloading its model the API silently falls back to keyword search.
+VECTOR_SEARCH = os.environ.get("VECTOR_SEARCH", "true").lower() not in ("0", "false", "no")
+SEMANTIC_RATIO = float(os.environ.get("SEMANTIC_RATIO", "0.5"))  # 0 = keywords only, 1 = vectors only
+EMBEDDER_NAME = "default"
+# Search hits skip the long body_text; the species page loads full details from /species/{name}
+HIT_FIELDS_EXCLUDED = {"body_text"}
 
 # Public deployment: SITE_DOMAIN is the website, API_DOMAIN is this API (see .env.example)
 SITE_DOMAIN = os.environ.get("SITE_DOMAIN", "").strip()
@@ -35,6 +44,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
+app.add_middleware(GZipMiddleware, minimum_size=1024)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=CORS_ORIGINS,
@@ -129,6 +139,7 @@ class SearchRequest(BaseModel):
     limit: int = 20
     offset: int = 0
     attributes: Optional[List[str]] = None
+    semantic_ratio: Optional[float] = None  # overrides SEMANTIC_RATIO for this request
 
 class SpeciesResponse(BaseModel):
     id: str
@@ -157,30 +168,67 @@ async def root():
         ]
     }
 
+def _vector_ready() -> bool:
+    """True when the MeiliSearch index has the embedder configured."""
+    if not (meili_client and VECTOR_SEARCH):
+        return False
+    try:
+        embedders = meili_client.index(MEILI_INDEX_NAME).get_embedders()
+        return bool(embedders) and EMBEDDER_NAME in (embedders if isinstance(embedders, dict) else
+                                                      getattr(embedders, "embedders", {}) or {})
+    except Exception:
+        return False
+
 @app.get("/health")
 async def health():
-    return {"status": "ok", "meilisearch": meili_client is not None}
+    return {
+        "status": "ok",
+        "meilisearch": meili_client is not None,
+        "vector_search": _vector_ready(),
+    }
+
+def _hit_attributes() -> List[str]:
+    """Attributes returned for each hit (everything except the long body text)."""
+    docs = get_species_index()
+    keys: List[str] = []
+    for doc in docs[:50]:
+        for k in doc:
+            if k not in keys and k not in HIT_FIELDS_EXCLUDED:
+                keys.append(k)
+    for lang in ("ar", "es", "fr", "de", "pt", "ru", "ja", "zh", "nl", "pl", "tr"):
+        k = f"common_name_{lang}"
+        if k not in keys:
+            keys.append(k)
+    return keys
 
 @app.post("/search", response_model=Dict[str, Any])
 async def search_species(request: SearchRequest):
-    """Search species using MeiliSearch."""
-    if meili_client:
+    """Search species with MeiliSearch (hybrid keyword + vector), falling back to the JSON index."""
+    if not meili_client:
+        return await fallback_search(request)
+
+    index = meili_client.index(MEILI_INDEX_NAME)
+    params: Dict[str, Any] = {
+        "limit": request.limit,
+        "offset": request.offset,
+        "attributesToRetrieve": request.attributes or _hit_attributes(),
+    }
+    if request.filters:
+        params["filter"] = request.filters
+
+    ratio = SEMANTIC_RATIO if request.semantic_ratio is None else request.semantic_ratio
+    if VECTOR_SEARCH and request.q.strip() and ratio > 0:
         try:
-            index = meili_client.index(MEILI_INDEX_NAME)
-            opt_params = {
-                "limit": request.limit,
-                "offset": request.offset,
-                "attributesToRetrieve": request.attributes or ["*"]
-            }
-            if request.filters:
-                opt_params["filter"] = request.filters
-            result = index.search(request.q, opt_params)
-            return result
-        except Exception as e:
-            # Fallback to JSON search on any MeiliSearch error
-            return await fallback_search(request)
-    else:
-        # Fallback to simple JSON search
+            return index.search(
+                request.q,
+                {**params, "hybrid": {"semanticRatio": min(ratio, 1.0), "embedder": EMBEDDER_NAME}},
+            )
+        except Exception:
+            pass  # embedder not configured / model still loading: use plain keyword search
+
+    try:
+        return index.search(request.q, params)
+    except Exception:
         return await fallback_search(request)
 
 _species_index: Optional[List[Dict]] = None
@@ -204,11 +252,10 @@ async def fallback_search(request: SearchRequest):
         match = True
         if q_lower:
             match = (
-                q_lower in doc.get('scientific_name', '').lower() or
-                q_lower in doc.get('common_name_fa', '').lower() or
-                q_lower in doc.get('common_name_en', '').lower() or
-                q_lower in doc.get('order', '').lower() or
-                q_lower in doc.get('family', '').lower()
+                any(q_lower in (doc.get(f) or '').lower()
+                    for f in ('scientific_name', 'order', 'family', 'genus')) or
+                any(q_lower in str(v).lower()
+                    for k, v in doc.items() if k.startswith('common_name_'))
             )
         
         if match:
@@ -217,7 +264,7 @@ async def fallback_search(request: SearchRequest):
     # Apply pagination
     start = request.offset
     end = start + request.limit
-    paginated = results[start:end]
+    paginated = [{k: v for k, v in d.items() if k not in HIT_FIELDS_EXCLUDED} for d in results[start:end]]
     
     return {
         "hits": paginated,
@@ -231,9 +278,12 @@ async def search_species_get(
     q: str = "",
     limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
+    semantic_ratio: Optional[float] = Query(None, ge=0, le=1),
 ):
     """GET variant of /search for simple clients (website, mobile app)."""
-    return await search_species(SearchRequest(q=q, limit=limit, offset=offset))
+    return await search_species(
+        SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio)
+    )
 
 @app.get("/species/{scientific_name}")
 async def get_species(scientific_name: str, lang: str = Query("fa", description="Language code")):

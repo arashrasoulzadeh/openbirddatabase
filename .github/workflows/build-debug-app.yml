@@ -34,6 +34,9 @@ jobs:
           flutter create --platforms=android --project-name openbird --org org.openbird .
           mkdir -p assets/images assets/icons
           rm -f test/widget_test.dart
+          # flutter create only adds INTERNET to the debug/profile manifests; release builds need it too
+          grep -q 'android.permission.INTERNET' android/app/src/main/AndroidManifest.xml || \
+            sed -i 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' android/app/src/main/AndroidManifest.xml
 
       - run: flutter pub get
       - run: flutter gen-l10n

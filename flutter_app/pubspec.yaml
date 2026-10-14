@@ -29,6 +29,7 @@ dev_dependencies:
   build_runner: ^2.4.8
   integration_test:
     sdk: flutter
+  yaml: ^3.1.2
 
 flutter:
   generate: true

@@ -37,6 +37,9 @@ services:
     environment:
       - MEILI_HOST=http://meilisearch:7700
       - SITE_DOMAIN=${SITE_DOMAIN}
+      # hybrid keyword + vector search; set VECTOR_SEARCH=false to disable
+      - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
+      - SEMANTIC_RATIO=${SEMANTIC_RATIO:-0.5}
     depends_on:
       - meilisearch
     volumes:
@@ -45,9 +48,11 @@ services:
     restart: unless-stopped
 
   meilisearch:
-    image: getmeili/meilisearch:v1.7
+    image: getmeili/meilisearch:v1.13
     environment:
       - MEILI_NO_ANALYTICS=true
+      # lets the newer engine open data created by an older version (the index is rebuildable anyway)
+      - MEILI_EXPERIMENTAL_DUMPLESS_UPGRADE=true
     volumes:
       - ./meili_data:/meili_data
     restart: unless-stopped
@@ -58,6 +63,8 @@ services:
     command: python _scripts/populate_meili.py
     environment:
       - MEILI_HOST=http://meilisearch:7700
+      - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
+      - EMBEDDER_MODEL=${EMBEDDER_MODEL:-intfloat/multilingual-e5-small}
     depends_on:
       - meilisearch
     volumes:

@@ -82,30 +82,30 @@ class Species {
 
   factory Species.fromJson(Map<String, dynamic> json) {
     return Species(
-      scientificName: json['scientific_name'] ?? '',
-      commonNameEn: json['common_name_en'] ?? '',
-      commonNameFa: json['common_name_fa'],
-      commonNameAr: json['common_name_ar'],
-      commonNameEs: json['common_name_es'],
-      commonNameFr: json['common_name_fr'],
-      commonNameDe: json['common_name_de'],
-      commonNamePt: json['common_name_pt'],
-      commonNameRu: json['common_name_ru'],
-      commonNameJa: json['common_name_ja'],
-      commonNameZh: json['common_name_zh'],
-      commonNameNl: json['common_name_nl'],
-      commonNamePl: json['common_name_pl'],
-      commonNameTr: json['common_name_tr'],
-      birdnetId: json['birdnet_id'] ?? '',
-      ebirdCode: json['ebird_code'] ?? '',
-      gbifKey: json['gbif_key'] ?? 0,
-      avibaseId: json['avibase_id'] ?? '',
-      iucnStatus: json['iucn_status'] ?? 'LC',
-      taxonOrder: json['taxon_order'] ?? 0,
-      order: json['order'] ?? '',
-      family: json['family'] ?? '',
-      genus: json['genus'] ?? '',
-      species: json['species'] ?? '',
+      scientificName: _asString(json['scientific_name']) ?? '',
+      commonNameEn: _asString(json['common_name_en']) ?? '',
+      commonNameFa: _asString(json['common_name_fa']),
+      commonNameAr: _asString(json['common_name_ar']),
+      commonNameEs: _asString(json['common_name_es']),
+      commonNameFr: _asString(json['common_name_fr']),
+      commonNameDe: _asString(json['common_name_de']),
+      commonNamePt: _asString(json['common_name_pt']),
+      commonNameRu: _asString(json['common_name_ru']),
+      commonNameJa: _asString(json['common_name_ja']),
+      commonNameZh: _asString(json['common_name_zh']),
+      commonNameNl: _asString(json['common_name_nl']),
+      commonNamePl: _asString(json['common_name_pl']),
+      commonNameTr: _asString(json['common_name_tr']),
+      birdnetId: _asString(json['birdnet_id']) ?? '',
+      ebirdCode: _asString(json['ebird_code']) ?? '',
+      gbifKey: _asInt(json['gbif_key']) ?? 0,
+      avibaseId: _asString(json['avibase_id']) ?? '',
+      iucnStatus: _asString(json['iucn_status']) ?? 'LC',
+      taxonOrder: _asInt(json['taxon_order']) ?? 0,
+      order: _asString(json['order']) ?? '',
+      family: _asString(json['family']) ?? '',
+      genus: _asString(json['genus']) ?? '',
+      species: _asString(json['species']) ?? '',
       morphology: json['morphology'] != null ? Morphology.fromJson(json['morphology']) : null,
       distribution: json['distribution'] != null ? Distribution.fromJson(json['distribution']) : null,
       habitat: json['habitat'] != null ? Habitat.fromJson(json['habitat']) : null,
@@ -116,9 +116,9 @@ class Species {
       conservation: json['conservation'] != null ? Conservation.fromJson(json['conservation']) : null,
       veterinary: json['veterinary'] != null ? Veterinary.fromJson(json['veterinary']) : null,
       enrichment: json['enrichment'] != null ? Enrichment.fromJson(json['enrichment']) : null,
-      sources: (json['sources'] as List?)?.cast<String>(),
-      dataQuality: json['data_quality'],
-      lastUpdated: json['last_updated'],
+      sources: _asStringList(json['sources']),
+      dataQuality: _asString(json['data_quality']),
+      lastUpdated: _asString(json['last_updated']),
     );
   }
 
@@ -204,11 +204,11 @@ class Distribution {
 
   factory Distribution.fromJson(Map<String, dynamic> json) {
     return Distribution(
-      breedingRange: json['breeding_range'],
-      nonBreedingRange: json['non_breeding_range'],
-      biogeographicRealms: (json['biogeographic_realms'] as List?)?.cast<String>(),
-      islandEndemic: json['island_endemic'],
-      endemicRegion: json['endemic_region'],
+      breedingRange: _asString(json['breeding_range']),
+      nonBreedingRange: _asString(json['non_breeding_range']),
+      biogeographicRealms: _asStringList(json['biogeographic_realms']),
+      islandEndemic: _asBool(json['island_endemic']),
+      endemicRegion: _asString(json['endemic_region']),
     );
   }
 }
@@ -234,13 +234,13 @@ class Habitat {
 
   factory Habitat.fromJson(Map<String, dynamic> json) {
     return Habitat(
-      primary: json['primary'],
-      secondary: (json['secondary'] as List?)?.cast<String>(),
-      habitatBreadth: json['habitat_breadth'],
-      elevationalMinM: json['elevational_min_m'],
-      elevationalMaxM: json['elevational_max_m'],
-      habitatTypes: (json['habitat_types'] as List?)?.cast<String>(),
-      microhabitat: json['microhabitat'],
+      primary: _asString(json['primary']),
+      secondary: _asStringList(json['secondary']),
+      habitatBreadth: _asInt(json['habitat_breadth']),
+      elevationalMinM: _asInt(json['elevational_min_m']),
+      elevationalMaxM: _asInt(json['elevational_max_m']),
+      habitatTypes: _asStringList(json['habitat_types']),
+      microhabitat: _asString(json['microhabitat']),
     );
   }
 }
@@ -261,10 +261,10 @@ class Diet {
   factory Diet.fromJson(Map<String, dynamic> json) {
     final categoriesJson = json['categories'] as Map<String, dynamic>?;
     return Diet(
-      categories: categoriesJson?.map((k, v) => MapEntry(k, (v as num).toDouble())),
-      dietBreadth: json['diet_breadth'],
-      primary: json['primary'],
-      foragingStrategy: json['foraging_strategy'],
+      categories: categoriesJson?.map((k, v) => MapEntry(k, _asDouble(v) ?? 0.0)),
+      dietBreadth: _asInt(json['diet_breadth']),
+      primary: _asString(json['primary']),
+      foragingStrategy: _asString(json['foraging_strategy']),
     );
   }
 }
@@ -290,13 +290,13 @@ class Behavior {
 
   factory Behavior.fromJson(Map<String, dynamic> json) {
     return Behavior(
-      sociality: json['sociality'],
-      flockSize: json['flock_size'],
-      territoriality: json['territoriality'],
-      migrationStatus: json['migration_status'],
-      movementType: json['movement_type'],
+      sociality: _asString(json['sociality']),
+      flockSize: _asString(json['flock_size']),
+      territoriality: _asString(json['territoriality']),
+      migrationStatus: _asString(json['migration_status']),
+      movementType: _asString(json['movement_type']),
       dispersalDistanceKm: (json['dispersal_distance_km'] as num?)?.toDouble(),
-      activityPattern: json['activity_pattern'],
+      activityPattern: _asString(json['activity_pattern']),
     );
   }
 }
@@ -334,19 +334,19 @@ class Reproduction {
 
   factory Reproduction.fromJson(Map<String, dynamic> json) {
     return Reproduction(
-      clutchSizeMin: json['clutch_size_min'],
-      clutchSizeMax: json['clutch_size_max'],
+      clutchSizeMin: _asInt(json['clutch_size_min']),
+      clutchSizeMax: _asInt(json['clutch_size_max']),
       clutchSizeMean: (json['clutch_size_mean'] as num?)?.toDouble(),
       eggLengthMm: (json['egg_length_mm'] as num?)?.toDouble(),
       eggWidthMm: (json['egg_width_mm'] as num?)?.toDouble(),
-      incubationDays: json['incubation_days'],
-      fledgingDays: json['fledging_days'],
-      broodsPerYear: json['broods_per_year'],
-      nestType: json['nest_type'],
-      nestPlacement: json['nest_placement'],
-      nestMaterial: (json['nest_material'] as List?)?.cast<String>(),
-      matingSystem: json['mating_system'],
-      parentalCare: json['parental_care'],
+      incubationDays: _asInt(json['incubation_days']),
+      fledgingDays: _asInt(json['fledging_days']),
+      broodsPerYear: _asInt(json['broods_per_year']),
+      nestType: _asString(json['nest_type']),
+      nestPlacement: _asString(json['nest_placement']),
+      nestMaterial: _asStringList(json['nest_material']),
+      matingSystem: _asString(json['mating_system']),
+      parentalCare: _asString(json['parental_care']),
     );
   }
 }
@@ -373,11 +373,11 @@ class Demography {
   factory Demography.fromJson(Map<String, dynamic> json) {
     return Demography(
       generationLengthYears: (json['generation_length_years'] as num?)?.toDouble(),
-      maxLongevityYears: json['max_longevity_years'],
+      maxLongevityYears: _asInt(json['max_longevity_years']),
       annualSurvivalAdult: (json['annual_survival_adult'] as num?)?.toDouble(),
       annualSurvivalJuvenile: (json['annual_survival_juvenile'] as num?)?.toDouble(),
-      populationTrend: json['population_trend'],
-      populationSize: json['population_size'],
+      populationTrend: _asString(json['population_trend']),
+      populationSize: _asString(json['population_size']),
       densityIndividualsPerKm2: (json['density_individuals_per_km2'] as num?)?.toDouble(),
     );
   }
@@ -398,10 +398,10 @@ class Conservation {
 
   factory Conservation.fromJson(Map<String, dynamic> json) {
     return Conservation(
-      iucnStatus: json['iucn_status'],
-      populationTrend: json['population_trend'],
-      threats: (json['threats'] as List?)?.cast<String>(),
-      conservationActions: (json['conservation_actions'] as List?)?.cast<String>(),
+      iucnStatus: _asString(json['iucn_status']),
+      populationTrend: _asString(json['population_trend']),
+      threats: _asStringList(json['threats']),
+      conservationActions: _asStringList(json['conservation_actions']),
     );
   }
 }
@@ -435,17 +435,17 @@ class Veterinary {
 
   factory Veterinary.fromJson(Map<String, dynamic> json) {
     return Veterinary(
-      commonDiseases: (json['common_diseases'] as List?)?.cast<String>(),
-      vaccinationSchedule: (json['vaccination_schedule'] as List?)?.cast<String>(),
-      dewormingFrequencyMonths: json['deworming_frequency_months'],
-      healthCheckFrequencyMonths: json['health_check_frequency_months'],
-      zoonoticRisks: (json['zoonotic_risks'] as List?)?.cast<String>(),
-      emergencySigns: (json['emergency_signs'] as List?)?.cast<String>(),
-      vetSpecialistType: json['vet_specialist_type'],
-      source: json['source'],
-      contributor: json['contributor'],
-      dateAdded: json['date_added'],
-      verified: json['verified'],
+      commonDiseases: _asStringList(json['common_diseases']),
+      vaccinationSchedule: _asStringList(json['vaccination_schedule']),
+      dewormingFrequencyMonths: _asInt(json['deworming_frequency_months']),
+      healthCheckFrequencyMonths: _asInt(json['health_check_frequency_months']),
+      zoonoticRisks: _asStringList(json['zoonotic_risks']),
+      emergencySigns: _asStringList(json['emergency_signs']),
+      vetSpecialistType: _asString(json['vet_specialist_type']),
+      source: _asString(json['source']),
+      contributor: _asString(json['contributor']),
+      dateAdded: _asString(json['date_added']),
+      verified: _asBool(json['verified']),
     );
   }
 }
@@ -479,17 +479,17 @@ class Enrichment {
 
   factory Enrichment.fromJson(Map<String, dynamic> json) {
     return Enrichment(
-      foragingToys: (json['foraging_toys'] as List?)?.cast<String>(),
-      socialEnrichment: json['social_enrichment'],
-      cognitiveToys: (json['cognitive_toys'] as List?)?.cast<String>(),
-      bathing: json['bathing'],
+      foragingToys: _asStringList(json['foraging_toys']),
+      socialEnrichment: _asString(json['social_enrichment']),
+      cognitiveToys: _asStringList(json['cognitive_toys']),
+      bathing: _asString(json['bathing']),
       training: json['training'] != null ? Training.fromJson(json['training']) : null,
-      playBehaviors: (json['play_behaviors'] as List?)?.cast<String>(),
-      environmentalEnrichment: (json['environmental_enrichment'] as List?)?.cast<String>(),
-      source: json['source'],
-      contributor: json['contributor'],
-      dateAdded: json['date_added'],
-      verified: json['verified'],
+      playBehaviors: _asStringList(json['play_behaviors']),
+      environmentalEnrichment: _asStringList(json['environmental_enrichment']),
+      source: _asString(json['source']),
+      contributor: _asString(json['contributor']),
+      dateAdded: _asString(json['date_added']),
+      verified: _asBool(json['verified']),
     );
   }
 }
@@ -507,9 +507,9 @@ class Training {
 
   factory Training.fromJson(Map<String, dynamic> json) {
     return Training(
-      targetTraining: json['target_training'],
-      recallTraining: json['recall_training'],
-      harnessTraining: json['harness_training'],
+      targetTraining: _asBool(json['target_training']),
+      recallTraining: _asBool(json['recall_training']),
+      harnessTraining: _asString(json['harness_training']),
     );
   }
 }
@@ -531,11 +531,11 @@ class TaxonomyNode {
 
   factory TaxonomyNode.fromJson(Map<String, dynamic> json) {
     return TaxonomyNode(
-      name: json['name'] ?? '',
-      rank: json['rank'] ?? '',
-      scientificName: json['scientific_name'],
+      name: _asString(json['name']) ?? '',
+      rank: _asString(json['rank']) ?? '',
+      scientificName: _asString(json['scientific_name']),
       children: (json['children'] as List?)?.map((c) => TaxonomyNode.fromJson(c)).toList(),
-      count: json['count'],
+      count: _asInt(json['count']),
     );
   }
 }
@@ -554,8 +554,34 @@ class SearchResult {
   factory SearchResult.fromJson(Map<String, dynamic> json) {
     return SearchResult(
       species: (json['species'] as List).map((s) => Species.fromJson(s)).toList(),
-      total: json['total'] ?? 0,
-      query: json['query'] ?? '',
+      total: _asInt(json['total']) ?? 0,
+      query: _asString(json['query']) ?? '',
     );
   }
 }
+
+// Tolerant JSON readers: the API/YAML data mixes ints and doubles (e.g. `22163.0`)
+// and occasionally numbers where strings are expected.
+String? _asString(dynamic v) => v == null ? null : v.toString();
+
+int? _asInt(dynamic v) {
+  if (v is int) return v;
+  if (v is num) return v.toInt();
+  if (v is String) return int.tryParse(v) ?? double.tryParse(v)?.toInt();
+  return null;
+}
+
+double? _asDouble(dynamic v) {
+  if (v is num) return v.toDouble();
+  if (v is String) return double.tryParse(v);
+  return null;
+}
+
+bool? _asBool(dynamic v) {
+  if (v is bool) return v;
+  if (v is String) return v.toLowerCase() == 'true';
+  return null;
+}
+
+List<String>? _asStringList(dynamic v) =>
+    v is List ? v.where((e) => e != null).map((e) => e.toString()).toList() : null;
