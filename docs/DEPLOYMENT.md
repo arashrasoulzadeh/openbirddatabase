@@ -43,7 +43,9 @@ cd frontend && npm run i18n
 
 and commit the regenerated `frontend/src/lib/i18n/messages.json` (the Docker build cannot read `flutter_app/`).
 Species names are shown in the selected language with the original English and scientific names alongside.
-Values taken straight from the data (for example habitat "Forest" or diet "Invertebrate") stay in English.
+Categorical values such as habitat "Forest", diet "Invertebrate" or sociality "Small groups" are translated from
+`frontend/src/lib/i18n/values.json` (edit it by hand when new values appear in the data). Free-text veterinary and
+enrichment notes stay in English, as does the biogeographic realm code list.
 
 ## Vector (semantic) search
 

@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { getSpecies } from '@/lib/api';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
-import { fieldLabel, iucnLabel, nameFromNames, translate } from '@/lib/i18n/translate';
+import { fieldLabel, iucnLabel, nameFromNames, translate, valueLabel } from '@/lib/i18n/translate';
 
 type Props = { params: { name: string } };
 
@@ -27,7 +27,7 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
       <span className="flex flex-wrap gap-1 justify-end">
         {value.map((v, i) => (
           <span key={i} className="px-2 py-0.5 bg-gray-100 rounded text-xs">
-            {typeof v === 'object' ? JSON.stringify(v) : String(v)}
+            {typeof v === 'object' ? JSON.stringify(v) : valueLabel(lang, path, String(v))}
           </span>
         ))}
       </span>
@@ -36,7 +36,7 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
   if (typeof value === 'boolean') return <span>{translate(lang, value ? 'yes' : 'no')}</span>;
   if (typeof value === 'number') return <span>{Number.isInteger(value) ? value : value.toFixed(2)}</span>;
   if (path.endsWith('iucn_status')) return <span>{iucnLabel(lang, String(value))}</span>;
-  return <span>{String(value)}</span>;
+  return <span>{valueLabel(lang, path, String(value))}</span>;
 }
 
 function Fields({ lang, data, path = '' }: { lang: Lang; data: Record<string, any>; path?: string }) {

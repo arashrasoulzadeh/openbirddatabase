@@ -1,6 +1,7 @@
 import messages from '../messages.json';
 import { LOCALES, langFromAcceptLanguage, dirOf } from '../locales';
-import { fieldLabel, iucnLabel, nameFromHit, nameFromNames, nameFromTree, translate } from '../translate';
+import values from '../values.json';
+import { fieldLabel, iucnLabel, nameFromHit, nameFromNames, nameFromTree, translate, valueLabel } from '../translate';
 
 describe('translations', () => {
   it('every locale has every English key', () => {
@@ -54,5 +55,20 @@ describe('locales', () => {
     expect(langFromAcceptLanguage('xx')).toBe('en');
     expect(dirOf('ar')).toBe('rtl');
     expect(dirOf('de')).toBe('ltr');
+  });
+});
+
+describe('data values', () => {
+  it('translates categorical values only on the fields that use them', () => {
+    expect(valueLabel('es', 'habitat.primary', 'Forest')).toBe('Bosque');
+    expect(valueLabel('fa', 'behavior.sociality', 'Small groups')).toBe('گروه‌های کوچک');
+    expect(valueLabel('de', 'enrichment.bathing', 'Forest')).toBe('Forest'); // free text untouched
+    expect(valueLabel('es', 'diet.primary', 'Something new')).toBe('Something new');
+  });
+
+  it('has every language for every value', () => {
+    for (const [value, byLang] of Object.entries(values as Record<string, Record<string, string>>)) {
+      for (const { code } of LOCALES) expect({ value, code, text: !!byLang[code] }).toEqual({ value, code, text: true });
+    }
   });
 });

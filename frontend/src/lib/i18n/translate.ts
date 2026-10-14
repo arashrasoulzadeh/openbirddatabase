@@ -1,4 +1,5 @@
 import messages from './messages.json';
+import values from './values.json';
 import { Lang, DEFAULT_LANG } from './locales';
 
 type Dict = Record<string, string>;
@@ -107,4 +108,30 @@ export function nameFromTree(entry: any, lang: Lang): string {
 /** Name from a species-file `names` object. */
 export function nameFromNames(names: Record<string, string> | undefined, lang: Lang, fallback = ''): string {
   return (names && (names[lang] || names.en)) || fallback;
+}
+
+// --- data values ---------------------------------------------------------
+
+// Fields whose values come from a small fixed vocabulary (translated in values.json).
+// Free-text fields (veterinary/enrichment notes) stay in the language of the source data.
+const CATEGORICAL_PATHS = new Set([
+  'behavior.activity_pattern',
+  'behavior.migration_status',
+  'behavior.movement_type',
+  'behavior.sociality',
+  'conservation.cites_appendix',
+  'data_quality',
+  'diet.primary',
+  'habitat.habitat_types',
+  'habitat.primary',
+  'habitat.secondary',
+  'reproduction.parental_care',
+]);
+
+const valueTable = values as Record<string, Record<string, string>>;
+
+/** Translate a categorical data value such as "Forest" or "Small groups"; other values are returned unchanged. */
+export function valueLabel(lang: Lang, path: string, value: string): string {
+  if (!CATEGORICAL_PATHS.has(path)) return value;
+  return valueTable[value]?.[lang] ?? value;
 }
