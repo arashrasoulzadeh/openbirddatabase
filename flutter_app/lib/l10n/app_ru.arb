@@ -184,5 +184,9 @@
   "speciesLabel": "Вид",
   "filterAll": "Все",
   "clearFilters": "Сбросить фильтры",
-  "filters": "Фильтры"
+  "filters": "Фильтры",
+  "loadMore": "Показать ещё",
+  "showingCount": "Показано {shown} из {total}",
+  "randomBird": "Случайная птица",
+  "relatedSpecies": "Родственные виды"
 }

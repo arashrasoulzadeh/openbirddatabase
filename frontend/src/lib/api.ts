@@ -44,3 +44,14 @@ export function getSpecies(scientificName: string, lang = 'en'): Promise<any> {
 export function getStats(): Promise<any> {
   return getJson('/stats', { next: { revalidate: 3600 } } as RequestInit);
 }
+
+export function getRandomSpecies(): Promise<any> {
+  return getJson('/random', { cache: 'no-store' });
+}
+
+/** Genera of one family: { genus: [{ scientific, common_en, common_fa, names? }] } */
+export function getFamily(order: string, family: string): Promise<Record<string, any[]>> {
+  return getJson(`/taxonomy/${encodeURIComponent(order)}/${encodeURIComponent(family)}`, {
+    next: { revalidate: 3600 },
+  } as RequestInit);
+}

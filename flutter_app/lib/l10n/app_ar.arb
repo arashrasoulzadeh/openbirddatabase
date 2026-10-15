@@ -184,5 +184,9 @@
   "speciesLabel": "النوع",
   "filterAll": "الكل",
   "clearFilters": "مسح عوامل التصفية",
-  "filters": "عوامل التصفية"
+  "filters": "عوامل التصفية",
+  "loadMore": "عرض المزيد",
+  "showingCount": "عرض {shown} من {total}",
+  "randomBird": "طائر عشوائي",
+  "relatedSpecies": "أنواع ذات صلة"
 }

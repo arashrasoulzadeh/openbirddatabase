@@ -29,7 +29,7 @@ The "Build Debug App" workflow does this from GitHub repository **variables** na
 
 ## API reference
 
-`GET /search?q=&limit=&offset=` (optional exact filters: `iucn_status`, `order`, `family`, `primary_habitat`, `primary_diet`, `migration_status`, plus `semantic_ratio`), `POST /search`, `GET /species/{scientific_name}?lang=`, `GET /taxonomy[/{order}[/{family}]]`, `GET /filters`, `GET /stats`, `/graphql`, interactive docs at `/docs`.
+`GET /search?q=&limit=&offset=` (optional exact filters: `iucn_status`, `order`, `family`, `primary_habitat`, `primary_diet`, `migration_status`, plus `semantic_ratio`), `POST /search`, `GET /species/{scientific_name}?lang=`, `GET /taxonomy[/{order}[/{family}]]`, `GET /random`, `GET /filters`, `GET /stats`, `/graphql`, interactive docs at `/docs`.
 
 ## Languages (website)
 

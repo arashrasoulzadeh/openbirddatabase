@@ -184,5 +184,9 @@
   "speciesLabel": "Tür",
   "filterAll": "Tümü",
   "clearFilters": "Filtreleri temizle",
-  "filters": "Filtreler"
+  "filters": "Filtreler",
+  "loadMore": "Daha fazla",
+  "showingCount": "{total} sonuçtan {shown} gösteriliyor",
+  "randomBird": "Rastgele kuş",
+  "relatedSpecies": "İlgili türler"
 }

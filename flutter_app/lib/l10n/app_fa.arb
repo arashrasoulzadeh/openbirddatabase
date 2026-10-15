@@ -184,5 +184,9 @@
   "speciesLabel": "گونه",
   "filterAll": "همه",
   "clearFilters": "پاک کردن فیلترها",
-  "filters": "فیلترها"
+  "filters": "فیلترها",
+  "loadMore": "نمایش بیشتر",
+  "showingCount": "نمایش {shown} از {total}",
+  "randomBird": "پرنده تصادفی",
+  "relatedSpecies": "گونه‌های مرتبط"
 }

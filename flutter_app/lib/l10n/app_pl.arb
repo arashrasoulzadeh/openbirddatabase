@@ -184,5 +184,9 @@
   "speciesLabel": "Gatunek",
   "filterAll": "Wszystkie",
   "clearFilters": "Wyczyść filtry",
-  "filters": "Filtry"
+  "filters": "Filtry",
+  "loadMore": "Pokaż więcej",
+  "showingCount": "Pokazano {shown} z {total}",
+  "randomBird": "Losowy ptak",
+  "relatedSpecies": "Gatunki pokrewne"
 }

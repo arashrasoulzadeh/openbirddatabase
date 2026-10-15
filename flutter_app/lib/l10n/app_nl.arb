@@ -184,5 +184,9 @@
   "speciesLabel": "Soort",
   "filterAll": "Alle",
   "clearFilters": "Filters wissen",
-  "filters": "Filters"
+  "filters": "Filters",
+  "loadMore": "Meer laden",
+  "showingCount": "{shown} van {total} getoond",
+  "randomBird": "Willekeurige vogel",
+  "relatedSpecies": "Verwante soorten"
 }

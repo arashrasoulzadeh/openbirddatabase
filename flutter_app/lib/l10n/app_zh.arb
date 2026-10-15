@@ -184,5 +184,9 @@
   "speciesLabel": "种",
   "filterAll": "全部",
   "clearFilters": "清除筛选",
-  "filters": "筛选"
+  "filters": "筛选",
+  "loadMore": "加载更多",
+  "showingCount": "显示 {shown} / {total}",
+  "randomBird": "随机鸟类",
+  "relatedSpecies": "相关物种"
 }

@@ -184,5 +184,9 @@
   "speciesLabel": "種",
   "filterAll": "すべて",
   "clearFilters": "フィルターをクリア",
-  "filters": "フィルター"
+  "filters": "フィルター",
+  "loadMore": "さらに表示",
+  "showingCount": "{total}件中{shown}件を表示",
+  "randomBird": "ランダムな鳥",
+  "relatedSpecies": "近縁種"
 }

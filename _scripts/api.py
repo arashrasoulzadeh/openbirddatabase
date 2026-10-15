@@ -3,6 +3,7 @@
 
 import json
 import os
+import random
 import yaml
 from pathlib import Path
 from typing import Optional, List, Dict, Any
@@ -312,6 +313,12 @@ async def search_species_get(
     return await search_species(
         SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio, filter_map=filter_map or None)
     )
+
+@app.get("/random")
+async def random_species():
+    """A random species (search-hit shape, without the long body text)."""
+    doc = random.choice(get_species_index())
+    return {k: v for k, v in doc.items() if k not in HIT_FIELDS_EXCLUDED}
 
 @app.get("/species/{scientific_name}")
 async def get_species(scientific_name: str, lang: str = Query("fa", description="Language code")):

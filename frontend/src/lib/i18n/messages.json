@@ -185,7 +185,11 @@
   "speciesLabel": "النوع",
   "filterAll": "الكل",
   "clearFilters": "مسح عوامل التصفية",
-  "filters": "عوامل التصفية"
+  "filters": "عوامل التصفية",
+  "loadMore": "عرض المزيد",
+  "showingCount": "عرض {shown} من {total}",
+  "randomBird": "طائر عشوائي",
+  "relatedSpecies": "أنواع ذات صلة"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -373,7 +377,11 @@
   "speciesLabel": "Art",
   "filterAll": "Alle",
   "clearFilters": "Filter zurücksetzen",
-  "filters": "Filter"
+  "filters": "Filter",
+  "loadMore": "Mehr laden",
+  "showingCount": "{shown} von {total} angezeigt",
+  "randomBird": "Zufälliger Vogel",
+  "relatedSpecies": "Verwandte Arten"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -561,7 +569,11 @@
   "speciesLabel": "Species",
   "filterAll": "All",
   "clearFilters": "Clear filters",
-  "filters": "Filters"
+  "filters": "Filters",
+  "loadMore": "Load more",
+  "showingCount": "Showing {shown} of {total}",
+  "randomBird": "Random bird",
+  "relatedSpecies": "Related species"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -749,7 +761,11 @@
   "speciesLabel": "Especie",
   "filterAll": "Todos",
   "clearFilters": "Borrar filtros",
-  "filters": "Filtros"
+  "filters": "Filtros",
+  "loadMore": "Cargar más",
+  "showingCount": "Mostrando {shown} de {total}",
+  "randomBird": "Ave al azar",
+  "relatedSpecies": "Especies relacionadas"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -937,7 +953,11 @@
   "speciesLabel": "گونه",
   "filterAll": "همه",
   "clearFilters": "پاک کردن فیلترها",
-  "filters": "فیلترها"
+  "filters": "فیلترها",
+  "loadMore": "نمایش بیشتر",
+  "showingCount": "نمایش {shown} از {total}",
+  "randomBird": "پرنده تصادفی",
+  "relatedSpecies": "گونه‌های مرتبط"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1125,7 +1145,11 @@
   "speciesLabel": "Espèce",
   "filterAll": "Tous",
   "clearFilters": "Effacer les filtres",
-  "filters": "Filtres"
+  "filters": "Filtres",
+  "loadMore": "Afficher plus",
+  "showingCount": "Affichage de {shown} sur {total}",
+  "randomBird": "Oiseau au hasard",
+  "relatedSpecies": "Espèces apparentées"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1313,7 +1337,11 @@
   "speciesLabel": "種",
   "filterAll": "すべて",
   "clearFilters": "フィルターをクリア",
-  "filters": "フィルター"
+  "filters": "フィルター",
+  "loadMore": "さらに表示",
+  "showingCount": "{total}件中{shown}件を表示",
+  "randomBird": "ランダムな鳥",
+  "relatedSpecies": "近縁種"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1501,7 +1529,11 @@
   "speciesLabel": "Soort",
   "filterAll": "Alle",
   "clearFilters": "Filters wissen",
-  "filters": "Filters"
+  "filters": "Filters",
+  "loadMore": "Meer laden",
+  "showingCount": "{shown} van {total} getoond",
+  "randomBird": "Willekeurige vogel",
+  "relatedSpecies": "Verwante soorten"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1689,7 +1721,11 @@
   "speciesLabel": "Gatunek",
   "filterAll": "Wszystkie",
   "clearFilters": "Wyczyść filtry",
-  "filters": "Filtry"
+  "filters": "Filtry",
+  "loadMore": "Pokaż więcej",
+  "showingCount": "Pokazano {shown} z {total}",
+  "randomBird": "Losowy ptak",
+  "relatedSpecies": "Gatunki pokrewne"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1877,7 +1913,11 @@
   "speciesLabel": "Espécie",
   "filterAll": "Todos",
   "clearFilters": "Limpar filtros",
-  "filters": "Filtros"
+  "filters": "Filtros",
+  "loadMore": "Carregar mais",
+  "showingCount": "Mostrando {shown} de {total}",
+  "randomBird": "Ave aleatória",
+  "relatedSpecies": "Espécies relacionadas"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2065,7 +2105,11 @@
   "speciesLabel": "Вид",
   "filterAll": "Все",
   "clearFilters": "Сбросить фильтры",
-  "filters": "Фильтры"
+  "filters": "Фильтры",
+  "loadMore": "Показать ещё",
+  "showingCount": "Показано {shown} из {total}",
+  "randomBird": "Случайная птица",
+  "relatedSpecies": "Родственные виды"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2253,7 +2297,11 @@
   "speciesLabel": "Tür",
   "filterAll": "Tümü",
   "clearFilters": "Filtreleri temizle",
-  "filters": "Filtreler"
+  "filters": "Filtreler",
+  "loadMore": "Daha fazla",
+  "showingCount": "{total} sonuçtan {shown} gösteriliyor",
+  "randomBird": "Rastgele kuş",
+  "relatedSpecies": "İlgili türler"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2441,6 +2489,10 @@
   "speciesLabel": "种",
   "filterAll": "全部",
   "clearFilters": "清除筛选",
-  "filters": "筛选"
+  "filters": "筛选",
+  "loadMore": "加载更多",
+  "showingCount": "显示 {shown} / {total}",
+  "randomBird": "随机鸟类",
+  "relatedSpecies": "相关物种"
  }
 }

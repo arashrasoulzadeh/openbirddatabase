@@ -184,5 +184,9 @@
   "speciesLabel": "Art",
   "filterAll": "Alle",
   "clearFilters": "Filter zurücksetzen",
-  "filters": "Filter"
+  "filters": "Filter",
+  "loadMore": "Mehr laden",
+  "showingCount": "{shown} von {total} angezeigt",
+  "randomBird": "Zufälliger Vogel",
+  "relatedSpecies": "Verwandte Arten"
 }

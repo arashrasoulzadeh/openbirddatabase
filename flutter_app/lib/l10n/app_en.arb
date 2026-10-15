@@ -184,5 +184,9 @@
   "speciesLabel": "Species",
   "filterAll": "All",
   "clearFilters": "Clear filters",
-  "filters": "Filters"
+  "filters": "Filters",
+  "loadMore": "Load more",
+  "showingCount": "Showing {shown} of {total}",
+  "randomBird": "Random bird",
+  "relatedSpecies": "Related species"
 }
