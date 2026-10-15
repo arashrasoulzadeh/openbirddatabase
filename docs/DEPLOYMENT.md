@@ -66,3 +66,17 @@ After regenerating `_index/` (`python _scripts/index.py`) re-run the indexer and
 
 The website serves `/sitemap.xml` (home page plus every species page, generated from the API's taxonomy and cached for an hour)
 and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
+
+## Redis cache
+
+`docker compose up` also starts Redis and a one-shot `cache-warmer`. The API caches species details, search results
+(10 minutes), the taxonomy, filters and stats in Redis; if Redis is missing or down the API still works, just slower.
+
+- The warmer loads all species files and the common API responses (home-page search, one page per conservation
+  status, taxonomy, filters, stats). Run it again after changing data: `docker compose run --rm cache-warmer`
+  (it clears this app's keys first; pass `--no-flush` to keep them).
+- Check it: `curl -I https://API_DOMAIN/species/Parus%20major` shows `X-Cache: HIT` once cached, and
+  `curl https://API_DOMAIN/health` shows `"cache": true`.
+- Settings (environment of the `api` service): `CACHE_SEARCH_TTL` (default 600 s), `CACHE_STATIC_TTL` (default 7 days).
+  Redis memory is capped by `REDIS_MAXMEMORY` (default 768mb) with least-recently-used eviction.
+- Wipe it any time with `docker compose exec redis redis-cli FLUSHALL`; it refills on demand.

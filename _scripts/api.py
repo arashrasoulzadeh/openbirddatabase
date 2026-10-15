@@ -7,7 +7,7 @@ import random
 import yaml
 from pathlib import Path
 from typing import Optional, List, Dict, Any
-from fastapi import FastAPI, Query, HTTPException
+from fastapi import FastAPI, Query, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from pydantic import BaseModel
@@ -15,6 +15,7 @@ import meilisearch
 import strawberry
 from strawberry.fastapi import GraphQLRouter
 from _scripts.graphql_schema import schema
+from _scripts.cache_utils import CACHE_PREFIX, search_key, slug_of, species_key, to_json_bytes
 
 # Configuration
 BIRDS_DIR = Path("birds")
@@ -38,6 +39,44 @@ if SITE_DOMAIN:
     CORS_ORIGINS += [f"https://{SITE_DOMAIN}", f"https://www.{SITE_DOMAIN}"]
 if not CORS_ORIGINS:
     CORS_ORIGINS = ["*"]  # local development
+
+# Redis cache (optional). Without REDIS_URL, or if Redis is down, every request is simply a cache miss.
+REDIS_URL = os.environ.get("REDIS_URL", "").strip()
+CACHE_SEARCH_TTL = int(os.environ.get("CACHE_SEARCH_TTL", "600"))      # seconds
+CACHE_STATIC_TTL = int(os.environ.get("CACHE_STATIC_TTL", "604800"))   # species, taxonomy, filters, stats
+
+redis_client = None
+if REDIS_URL:
+    try:
+        import redis.asyncio as aioredis
+        redis_client = aioredis.from_url(REDIS_URL, socket_timeout=1, socket_connect_timeout=1)
+    except Exception:
+        redis_client = None
+
+async def cache_get(key: str) -> Optional[bytes]:
+    if not redis_client:
+        return None
+    try:
+        return await redis_client.get(CACHE_PREFIX + key)
+    except Exception:
+        return None
+
+async def cache_set(key: str, value: bytes, ttl: int) -> None:
+    if not redis_client:
+        return
+    try:
+        await redis_client.set(CACHE_PREFIX + key, value, ex=ttl)
+    except Exception:
+        pass
+
+async def cached_response(key: str, ttl: int, producer) -> Response:
+    """JSON response served from Redis when possible. Errors raised by `producer` are never cached."""
+    hit = await cache_get(key)
+    if hit is not None:
+        return Response(hit, media_type="application/json", headers={"X-Cache": "HIT"})
+    body = to_json_bytes(await producer())
+    await cache_set(key, body, ttl)
+    return Response(body, media_type="application/json", headers={"X-Cache": "MISS"})
 
 app = FastAPI(
     title="OpenBird API",
@@ -96,12 +135,14 @@ def parse_frontmatter(filepath: Path) -> Optional[Dict]:
     except Exception:
         return None
 
+_species_paths: Optional[Dict[str, Path]] = None
+
 def get_species_file(sci_name: str) -> Optional[Path]:
-    """Find species file by scientific name."""
-    slug = sci_name.lower().replace(' ', '-')
-    for filepath in BIRDS_DIR.glob(f"**/{slug}.md"):
-        return filepath
-    return None
+    """Find a species file by scientific name (the directory is scanned once, not on every request)."""
+    global _species_paths
+    if _species_paths is None:
+        _species_paths = {p.stem: p for p in BIRDS_DIR.glob("**/*.md")}
+    return _species_paths.get(slug_of(sci_name))
 
 def merge_translations(base_fm: Dict, lang: str) -> Dict:
     """Merge base frontmatter with translation overrides."""
@@ -181,12 +222,21 @@ def _vector_ready() -> bool:
     except Exception:
         return False
 
+async def _cache_ready() -> bool:
+    if not redis_client:
+        return False
+    try:
+        return bool(await redis_client.ping())
+    except Exception:
+        return False
+
 @app.get("/health")
 async def health():
     return {
         "status": "ok",
         "meilisearch": meili_client is not None,
         "vector_search": _vector_ready(),
+        "cache": await _cache_ready(),
     }
 
 FILTER_FIELDS = ("iucn_status", "order", "family", "primary_habitat", "primary_diet", "migration_status")
@@ -216,6 +266,20 @@ def _hit_attributes() -> List[str]:
 
 @app.post("/search", response_model=Dict[str, Any])
 async def search_species(request: SearchRequest):
+    """Search species (cached in Redis for a few minutes)."""
+    key = search_key(
+        q=request.q.strip(), limit=request.limit, offset=request.offset, filters=request.filters,
+        filter_map=request.filter_map, attributes=request.attributes, ratio=request.semantic_ratio,
+    )
+    hit = await cache_get(key)
+    if hit is not None:
+        return json.loads(hit)
+    result = await _search_uncached(request)
+    if isinstance(result, dict):
+        await cache_set(key, to_json_bytes(result), CACHE_SEARCH_TTL)
+    return result
+
+async def _search_uncached(request: SearchRequest):
     """Search species with MeiliSearch (hybrid keyword + vector), falling back to the JSON index."""
     if not meili_client:
         return await fallback_search(request)
@@ -322,25 +386,29 @@ async def random_species():
 
 @app.get("/species/{scientific_name}")
 async def get_species(scientific_name: str, lang: str = Query("fa", description="Language code")):
-    """Get full species details with optional translation."""
-    filepath = get_species_file(scientific_name)
-    if not filepath:
-        raise HTTPException(status_code=404, detail="Species not found")
-    
-    fm = parse_frontmatter(filepath)
-    if not fm:
-        raise HTTPException(status_code=500, detail="Invalid species file")
-    
-    # Merge translations
-    if lang != 'fa':
-        fm = merge_translations(fm, lang)
-    
-    return fm
+    """Get full species details with optional translation (cached in Redis)."""
+    slug = slug_of(scientific_name)
+    translated = lang not in ("fa", "en") and TRANSLATIONS_DIR.exists()
+
+    async def produce():
+        filepath = get_species_file(scientific_name)
+        if not filepath:
+            raise HTTPException(status_code=404, detail="Species not found")
+        fm = parse_frontmatter(filepath)
+        if not fm:
+            raise HTTPException(status_code=500, detail="Invalid species file")
+        return merge_translations(fm, lang) if translated else fm
+
+    # The base document is shared by fa/en; only real translation overrides get their own entry
+    key = species_key(slug) + (f":{lang}" if translated else "")
+    return await cached_response(key, CACHE_STATIC_TTL, produce)
 
 @app.get("/taxonomy")
 async def get_taxonomy():
-    """Get full taxonomy tree."""
-    return taxonomy_tree
+    """Get full taxonomy tree (about 4.6 MB, so it is worth caching)."""
+    async def produce():
+        return taxonomy_tree
+    return await cached_response("taxonomy", CACHE_STATIC_TTL, produce)
 
 @app.get("/taxonomy/{order}")
 async def get_order(order: str):
@@ -361,19 +429,23 @@ async def get_family(order: str, family: str):
 @app.get("/filters")
 async def get_filters():
     """Get available filter values for faceted search."""
-    return field_stats
+    async def produce():
+        return field_stats
+    return await cached_response("filters", CACHE_STATIC_TTL, produce)
 
 @app.get("/stats")
 async def get_stats():
     """Get database statistics."""
-    species_files = list(BIRDS_DIR.glob("**/*.md"))
-    return {
-        "total_species": len(species_files),
-        "orders": len(taxonomy_tree),
-        "families": sum(len(f) for f in taxonomy_tree.values()),
-        "languages": ["fa", "en"] + ([d.name for d in TRANSLATIONS_DIR.iterdir() if d.is_dir() and d.name not in ['fa', 'en']] if TRANSLATIONS_DIR.exists() else []),
-        "field_stats": {k: len(v) for k, v in field_stats.items()}
-    }
+    async def produce():
+        get_species_file("")  # makes sure the file map is loaded
+        return {
+            "total_species": len(_species_paths or {}),
+            "orders": len(taxonomy_tree),
+            "families": sum(len(f) for f in taxonomy_tree.values()),
+            "languages": ["fa", "en"] + ([d.name for d in TRANSLATIONS_DIR.iterdir() if d.is_dir() and d.name not in ['fa', 'en']] if TRANSLATIONS_DIR.exists() else []),
+            "field_stats": {k: len(v) for k, v in field_stats.items()}
+        }
+    return await cached_response("stats", CACHE_STATIC_TTL, produce)
 
 if __name__ == "__main__":
     import uvicorn

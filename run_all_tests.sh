@@ -16,7 +16,7 @@ cd "$ROOT"
 # Check if pytest is available
 if command -v pytest &> /dev/null; then
     echo "Running Python unit tests..."
-    PYTHONPATH="$ROOT" pytest _scripts/test_ingestion.py -v --tb=short 2>&1 | head -100
+    PYTHONPATH="$ROOT" pytest _scripts/test_ingestion.py _scripts/test_cache.py -v --tb=short 2>&1 | head -100
 else
     echo "pytest not found, skipping Python tests"
 fi

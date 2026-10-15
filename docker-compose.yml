@@ -40,12 +40,34 @@ services:
       # hybrid keyword + vector search; set VECTOR_SEARCH=false to disable
       - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
       - SEMANTIC_RATIO=${SEMANTIC_RATIO:-0.5}
+      - REDIS_URL=redis://redis:6379/0
     depends_on:
       - meilisearch
+      - redis
     volumes:
       - ./birds:/app/birds
       - ./_index:/app/_index
     restart: unless-stopped
+
+  # Response cache for the API (species, search, taxonomy...). Safe to wipe: it refills on demand.
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server", "--maxmemory", "${REDIS_MAXMEMORY:-768mb}", "--maxmemory-policy", "allkeys-lru", "--save", ""]
+    restart: unless-stopped
+
+  # One-shot: pre-fills Redis with every species and the common API responses on each `docker compose up`
+  cache-warmer:
+    build: .
+    command: python _scripts/warm_cache.py
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - API_URL=http://api:8000
+    depends_on:
+      - redis
+      - api
+    volumes:
+      - ./birds:/app/birds
+    restart: "no"
 
   meilisearch:
     image: getmeili/meilisearch:v1.13
