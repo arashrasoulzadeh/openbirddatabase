@@ -31,7 +31,7 @@ function Row({
       type="button"
       onClick={onToggle}
       aria-expanded={open}
-      className="w-full flex items-center gap-2 py-1.5 px-2 rounded text-start hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500"
+      className="w-full flex items-center gap-2 py-1.5 px-2 rounded text-start hover:bg-brand-50 focus:outline-none focus:ring-2 focus:ring-brand-500"
     >
       <Chevron open={open} />
       <span className={`${level === 0 ? 'font-semibold text-gray-900' : level === 1 ? 'font-medium text-gray-800' : 'text-sm text-gray-700'}`} dir="ltr">
@@ -52,7 +52,7 @@ const SpeciesRows = memo(function SpeciesRows({ species }: { species: Genus }) {
           <li key={sp.id || sp.scientific}>
             <Link
               href={`/species/${encodeURIComponent(sp.scientific)}`}
-              className="flex flex-wrap items-baseline gap-x-2 py-1 px-2 text-sm rounded hover:bg-blue-50"
+              className="flex flex-wrap items-baseline gap-x-2 py-1 px-2 text-sm rounded hover:bg-brand-50"
             >
               <span className="italic text-gray-700" dir="ltr">{sp.scientific}</span>
               {name && <span className="text-gray-500 text-xs">{name}</span>}
@@ -97,10 +97,10 @@ export default function TaxonomyTree({ tree }: { tree: Tree | null }) {
   if (!tree) return <div className="text-center py-12 text-gray-500">{t('loading')}</div>;
 
   return (
-    <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
-      <div className="p-4 border-b border-gray-200 bg-gray-50">
-        <h2 className="text-lg font-semibold text-gray-900">{t('taxonomyBrowser')}</h2>
-        <p className="text-sm text-gray-500 mt-1">{t('taxonomyBrowserHint')}</p>
+    <div className="overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm">
+      <div className="border-b border-stone-200 bg-brand-50 p-4 sm:p-5">
+        <h2 className="text-lg font-semibold text-brand-900">{t('taxonomyBrowser')}</h2>
+        <p className="mt-1 text-sm text-stone-500">{t('taxonomyBrowserHint')}</p>
       </div>
       <div className="p-3 max-h-[70vh] overflow-y-auto">
         {orders.map(({ order, families, count }) => {

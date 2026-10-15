@@ -184,7 +184,8 @@
   "dietCategories": "فئات النظام الغذائي",
   "speciesLabel": "النوع",
   "filterAll": "الكل",
-  "clearFilters": "مسح عوامل التصفية"
+  "clearFilters": "مسح عوامل التصفية",
+  "filters": "عوامل التصفية"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -371,7 +372,8 @@
   "dietCategories": "Nahrungskategorien",
   "speciesLabel": "Art",
   "filterAll": "Alle",
-  "clearFilters": "Filter zurücksetzen"
+  "clearFilters": "Filter zurücksetzen",
+  "filters": "Filter"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -558,7 +560,8 @@
   "dietCategories": "Diet Categories",
   "speciesLabel": "Species",
   "filterAll": "All",
-  "clearFilters": "Clear filters"
+  "clearFilters": "Clear filters",
+  "filters": "Filters"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -745,7 +748,8 @@
   "dietCategories": "Categorías de dieta",
   "speciesLabel": "Especie",
   "filterAll": "Todos",
-  "clearFilters": "Borrar filtros"
+  "clearFilters": "Borrar filtros",
+  "filters": "Filtros"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -932,7 +936,8 @@
   "dietCategories": "دسته‌های رژیم غذایی",
   "speciesLabel": "گونه",
   "filterAll": "همه",
-  "clearFilters": "پاک کردن فیلترها"
+  "clearFilters": "پاک کردن فیلترها",
+  "filters": "فیلترها"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1119,7 +1124,8 @@
   "dietCategories": "Catégories de régime",
   "speciesLabel": "Espèce",
   "filterAll": "Tous",
-  "clearFilters": "Effacer les filtres"
+  "clearFilters": "Effacer les filtres",
+  "filters": "Filtres"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1306,7 +1312,8 @@
   "dietCategories": "食性カテゴリ",
   "speciesLabel": "種",
   "filterAll": "すべて",
-  "clearFilters": "フィルターをクリア"
+  "clearFilters": "フィルターをクリア",
+  "filters": "フィルター"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1493,7 +1500,8 @@
   "dietCategories": "Dieetcategorieën",
   "speciesLabel": "Soort",
   "filterAll": "Alle",
-  "clearFilters": "Filters wissen"
+  "clearFilters": "Filters wissen",
+  "filters": "Filters"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1680,7 +1688,8 @@
   "dietCategories": "Kategorie diety",
   "speciesLabel": "Gatunek",
   "filterAll": "Wszystkie",
-  "clearFilters": "Wyczyść filtry"
+  "clearFilters": "Wyczyść filtry",
+  "filters": "Filtry"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1867,7 +1876,8 @@
   "dietCategories": "Categorias da dieta",
   "speciesLabel": "Espécie",
   "filterAll": "Todos",
-  "clearFilters": "Limpar filtros"
+  "clearFilters": "Limpar filtros",
+  "filters": "Filtros"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2054,7 +2064,8 @@
   "dietCategories": "Категории рациона",
   "speciesLabel": "Вид",
   "filterAll": "Все",
-  "clearFilters": "Сбросить фильтры"
+  "clearFilters": "Сбросить фильтры",
+  "filters": "Фильтры"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2241,7 +2252,8 @@
   "dietCategories": "Beslenme kategorileri",
   "speciesLabel": "Tür",
   "filterAll": "Tümü",
-  "clearFilters": "Filtreleri temizle"
+  "clearFilters": "Filtreleri temizle",
+  "filters": "Filtreler"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2428,6 +2440,7 @@
   "dietCategories": "食物类别",
   "speciesLabel": "种",
   "filterAll": "全部",
-  "clearFilters": "清除筛选"
+  "clearFilters": "清除筛选",
+  "filters": "筛选"
  }
 }

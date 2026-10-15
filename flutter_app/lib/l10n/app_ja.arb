@@ -183,5 +183,6 @@
   "dietCategories": "食性カテゴリ",
   "speciesLabel": "種",
   "filterAll": "すべて",
-  "clearFilters": "フィルターをクリア"
+  "clearFilters": "フィルターをクリア",
+  "filters": "フィルター"
 }

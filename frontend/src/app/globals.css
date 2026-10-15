@@ -19,6 +19,12 @@
   .font-vazir {
     font-family: var(--font-vazir);
   }
+
+  /* Persian and Arabic read better in Vazirmatn */
+  html[lang='fa'] body,
+  html[lang='ar'] body {
+    font-family: var(--font-vazir);
+  }
   
   /* RTL support for Persian */
   [dir="rtl"] {

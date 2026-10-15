@@ -4,8 +4,8 @@ import { useCallback, useEffect, useState } from 'react';
 import SearchBar from '@/components/SearchBar';
 import SpeciesList from '@/components/SpeciesList';
 import TaxonomyTree from '@/components/TaxonomyTree';
-import LanguageSwitcher from '@/components/LanguageSwitcher';
 import FilterBar from '@/components/FilterBar';
+import SiteHeader from '@/components/SiteHeader';
 import { searchSpecies, getTaxonomy, getFilterOptions, Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 
@@ -13,7 +13,7 @@ export default function Home() {
   const { t } = useI18n();
   const [query, setQuery] = useState('');
   const [species, setSpecies] = useState<any[]>([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [total, setTotal] = useState(0);
   const [error, setError] = useState(false);
   const [view, setView] = useState<'list' | 'taxonomy'>('list');
@@ -56,8 +56,9 @@ export default function Home() {
   const tab = (id: 'list' | 'taxonomy', label: string) => (
     <button
       onClick={() => setView(id)}
-      className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-        view === id ? 'bg-blue-100 text-blue-700' : 'text-gray-600 hover:bg-gray-100'
+      aria-current={view === id ? 'page' : undefined}
+      className={`flex-1 rounded-lg px-4 py-1.5 text-sm font-medium transition-colors sm:flex-none ${
+        view === id ? 'bg-brand-700 text-white shadow-sm' : 'text-stone-600 hover:bg-stone-100'
       }`}
     >
       {label}
@@ -65,45 +66,55 @@ export default function Home() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
-      <header className="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16 gap-3">
-            <div className="flex items-center gap-2">
-              <span className="text-2xl" aria-hidden="true">🐦</span>
-              <h1 className="text-xl font-bold text-gray-900">OpenBird</h1>
-            </div>
-            <nav className="flex items-center gap-2 sm:gap-4">
-              {tab('list', t('search'))}
-              {tab('taxonomy', t('taxonomy'))}
-              <span className="hidden md:inline text-sm text-gray-500">{t('speciesCount', { count: total.toLocaleString() })}</span>
-              <LanguageSwitcher />
-            </nav>
-          </div>
-        </div>
-      </header>
+    <div className="flex min-h-screen flex-col bg-stone-50">
+      <SiteHeader>
+        <nav className="flex gap-1 rounded-xl bg-stone-100 p-1 sm:bg-transparent sm:p-0">
+          {tab('list', t('search'))}
+          {tab('taxonomy', t('taxonomy'))}
+        </nav>
+      </SiteHeader>
 
-      <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-6">
+      {view === 'list' && (
+        <section className="bg-gradient-to-b from-brand-800 to-brand-700 text-white">
+          <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
+            <h1 className="text-2xl font-semibold tracking-tight sm:text-4xl">{t('openBirdDatabase')}</h1>
+            <p className="mt-2 max-w-2xl text-brand-100">{t('openBirdDatabaseSubtitle')}</p>
+            <div className="mt-6 max-w-2xl">
+              <SearchBar
+                value={query}
+                onChange={setQuery}
+                onSearch={(q) => runSearch(q, filters)}
+                loading={loading}
+                placeholder={t('searchHint')}
+              />
+            </div>
+          </div>
+        </section>
+      )}
+
+      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6">
         {view === 'list' ? (
-          <div className="flex flex-col gap-4">
-            <SearchBar value={query} onChange={setQuery} onSearch={(q) => runSearch(q, filters)} loading={loading} placeholder={t('searchHint')} />
+          <div className="flex flex-col gap-5">
             <FilterBar options={filterOptions} value={filters} onChange={setFilters} />
-            {loading && <div className="text-center py-8 text-gray-500">{t('searching')}</div>}
-            {error && <div className="text-center py-8 text-red-600">{t('searchError')}</div>}
-            {!loading && !error && species.length === 0 && (
-              <div className="text-center py-12">
-                <p className="text-gray-500 text-lg">{query ? t('noResults') : t('searchPrompt')}</p>
-              </div>
+            {!loading && !error && species.length > 0 && (
+              <p className="text-sm text-stone-500">{t('speciesCount', { count: total.toLocaleString() })}</p>
             )}
-            <SpeciesList species={species} />
+            {error && <div className="rounded-xl bg-red-50 py-8 text-center text-red-700">{t('searchError')}</div>}
+            {!loading && !error && species.length === 0 && (
+              <div className="py-16 text-center text-lg text-stone-500">{t('noResults')}</div>
+            )}
+            {loading && species.length === 0 && <div className="py-16 text-center text-stone-400">{t('searching')}</div>}
+            <div className={loading && species.length > 0 ? 'opacity-60 transition-opacity' : 'transition-opacity'}>
+              <SpeciesList species={species} />
+            </div>
           </div>
         ) : (
           <TaxonomyTree tree={taxonomy} />
         )}
       </main>
 
-      <footer className="bg-white border-t border-gray-200 py-6">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-gray-500">
+      <footer className="border-t border-stone-200 bg-white py-6">
+        <div className="mx-auto max-w-6xl px-4 text-center text-sm text-stone-500 sm:px-6">
           <p>{t('footerText')}</p>
           <p className="mt-1">{t('dataSources')}: {t('dataSourcesSubtitle')}</p>
         </div>

@@ -183,5 +183,6 @@
   "dietCategories": "Diet Categories",
   "speciesLabel": "Species",
   "filterAll": "All",
-  "clearFilters": "Clear filters"
+  "clearFilters": "Clear filters",
+  "filters": "Filters"
 }

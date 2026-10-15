@@ -30,22 +30,21 @@ export default function SearchBar({ value, onChange, onSearch, loading, placehol
 
   return (
     <div className="relative">
-      <div className="relative">
-        <input
-          type="text"
-          value={value}
-          onChange={(e) => onChange(e.target.value)}
-          onKeyDown={(e) => e.key === 'Enter' && onSearch(value)}
-          disabled={false}
-          className="w-full px-4 py-3 ps-10 text-base border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow"
-          placeholder={placeholder || 'Search birds...'}
-        />
-        <div className="absolute inset-y-0 start-0 ps-3 flex items-center pointer-events-none">
-          <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
-        </div>
-      </div>
+      <svg className="pointer-events-none absolute inset-y-0 start-4 my-auto h-5 w-5 text-stone-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+      <input
+        type="search"
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        onKeyDown={(e) => e.key === 'Enter' && onSearch(value)}
+        placeholder={placeholder || 'Search birds...'}
+        aria-label={placeholder || 'Search birds'}
+        className="w-full rounded-xl border-0 bg-white py-3.5 ps-12 pe-12 text-sm text-stone-900 sm:text-base shadow-lg ring-1 ring-black/5 placeholder:text-stone-400 focus:outline-none focus:ring-2 focus:ring-brand-400"
+      />
+      {loading && (
+        <span className="absolute inset-y-0 end-4 my-auto h-5 w-5 animate-spin rounded-full border-2 border-stone-200 border-t-brand-600" aria-hidden="true" />
+      )}
     </div>
   );
 }

@@ -183,5 +183,6 @@
   "dietCategories": "Nahrungskategorien",
   "speciesLabel": "Art",
   "filterAll": "Alle",
-  "clearFilters": "Filter zurücksetzen"
+  "clearFilters": "Filter zurücksetzen",
+  "filters": "Filter"
 }

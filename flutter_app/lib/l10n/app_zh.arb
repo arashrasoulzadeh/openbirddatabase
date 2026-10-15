@@ -183,5 +183,6 @@
   "dietCategories": "食物类别",
   "speciesLabel": "种",
   "filterAll": "全部",
-  "clearFilters": "清除筛选"
+  "clearFilters": "清除筛选",
+  "filters": "筛选"
 }

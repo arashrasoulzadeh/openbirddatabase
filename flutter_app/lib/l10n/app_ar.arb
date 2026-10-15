@@ -183,5 +183,6 @@
   "dietCategories": "فئات النظام الغذائي",
   "speciesLabel": "النوع",
   "filterAll": "الكل",
-  "clearFilters": "مسح عوامل التصفية"
+  "clearFilters": "مسح عوامل التصفية",
+  "filters": "عوامل التصفية"
 }

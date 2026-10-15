@@ -183,5 +183,6 @@
   "dietCategories": "Категории рациона",
   "speciesLabel": "Вид",
   "filterAll": "Все",
-  "clearFilters": "Сбросить фильтры"
+  "clearFilters": "Сбросить фильтры",
+  "filters": "Фильтры"
 }

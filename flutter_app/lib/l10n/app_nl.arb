@@ -183,5 +183,6 @@
   "dietCategories": "Dieetcategorieën",
   "speciesLabel": "Soort",
   "filterAll": "Alle",
-  "clearFilters": "Filters wissen"
+  "clearFilters": "Filters wissen",
+  "filters": "Filters"
 }

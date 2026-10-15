@@ -183,5 +183,6 @@
   "dietCategories": "Catégories de régime",
   "speciesLabel": "Espèce",
   "filterAll": "Tous",
-  "clearFilters": "Effacer les filtres"
+  "clearFilters": "Effacer les filtres",
+  "filters": "Filtres"
 }

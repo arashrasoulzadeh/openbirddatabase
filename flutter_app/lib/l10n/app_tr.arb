@@ -183,5 +183,6 @@
   "dietCategories": "Beslenme kategorileri",
   "speciesLabel": "Tür",
   "filterAll": "Tümü",
-  "clearFilters": "Filtreleri temizle"
+  "clearFilters": "Filtreleri temizle",
+  "filters": "Filtreler"
 }

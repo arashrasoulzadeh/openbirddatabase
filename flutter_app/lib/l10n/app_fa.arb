@@ -183,5 +183,6 @@
   "dietCategories": "دسته‌های رژیم غذایی",
   "speciesLabel": "گونه",
   "filterAll": "همه",
-  "clearFilters": "پاک کردن فیلترها"
+  "clearFilters": "پاک کردن فیلترها",
+  "filters": "فیلترها"
 }
