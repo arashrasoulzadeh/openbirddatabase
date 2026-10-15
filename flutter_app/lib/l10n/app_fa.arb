@@ -181,5 +181,7 @@
   "foragingNiches": "آشیان‌های جست‌وجوی غذا",
   "training": "آموزش",
   "dietCategories": "دسته‌های رژیم غذایی",
-  "speciesLabel": "گونه"
+  "speciesLabel": "گونه",
+  "filterAll": "همه",
+  "clearFilters": "پاک کردن فیلترها"
 }

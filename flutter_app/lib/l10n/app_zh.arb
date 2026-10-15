@@ -181,5 +181,7 @@
   "foragingNiches": "觅食生态位",
   "training": "训练",
   "dietCategories": "食物类别",
-  "speciesLabel": "种"
+  "speciesLabel": "种",
+  "filterAll": "全部",
+  "clearFilters": "清除筛选"
 }

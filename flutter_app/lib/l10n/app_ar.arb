@@ -181,5 +181,7 @@
   "foragingNiches": "مناطق البحث عن الغذاء",
   "training": "التدريب",
   "dietCategories": "فئات النظام الغذائي",
-  "speciesLabel": "النوع"
+  "speciesLabel": "النوع",
+  "filterAll": "الكل",
+  "clearFilters": "مسح عوامل التصفية"
 }

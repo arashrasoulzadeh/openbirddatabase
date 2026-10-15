@@ -5,7 +5,8 @@ import SearchBar from '@/components/SearchBar';
 import SpeciesList from '@/components/SpeciesList';
 import TaxonomyTree from '@/components/TaxonomyTree';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
-import { searchSpecies, getTaxonomy } from '@/lib/api';
+import FilterBar from '@/components/FilterBar';
+import { searchSpecies, getTaxonomy, getFilterOptions, Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 
 export default function Home() {
@@ -17,12 +18,14 @@ export default function Home() {
   const [error, setError] = useState(false);
   const [view, setView] = useState<'list' | 'taxonomy'>('list');
   const [taxonomy, setTaxonomy] = useState<any>(null);
+  const [filters, setFilters] = useState<Filters>({});
+  const [filterOptions, setFilterOptions] = useState<Record<string, Record<string, number>> | null>(null);
 
-  const runSearch = useCallback(async (q: string) => {
+  const runSearch = useCallback(async (q: string, f: Filters = {}) => {
     setLoading(true);
     setError(false);
     try {
-      const data = await searchSpecies(q, 50);
+      const data = await searchSpecies(q, 50, 0, f);
       setSpecies(data.hits || []);
       setTotal(data.total ?? data.estimatedTotalHits ?? 0);
     } catch (e) {
@@ -34,8 +37,14 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
-    runSearch('');
-  }, [runSearch]);
+    getFilterOptions().then(setFilterOptions).catch((e) => console.error('Filter options error:', e));
+  }, []);
+
+  // Re-run the search when a filter changes (typing is debounced inside SearchBar)
+  useEffect(() => {
+    runSearch(query, filters);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filters, runSearch]);
 
   // The taxonomy tree is large; fetch it only when its tab is opened
   useEffect(() => {
@@ -77,7 +86,8 @@ export default function Home() {
       <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-6">
         {view === 'list' ? (
           <div className="flex flex-col gap-4">
-            <SearchBar value={query} onChange={setQuery} onSearch={runSearch} loading={loading} placeholder={t('searchHint')} />
+            <SearchBar value={query} onChange={setQuery} onSearch={(q) => runSearch(q, filters)} loading={loading} placeholder={t('searchHint')} />
+            <FilterBar options={filterOptions} value={filters} onChange={setFilters} />
             {loading && <div className="text-center py-8 text-gray-500">{t('searching')}</div>}
             {error && <div className="text-center py-8 text-red-600">{t('searchError')}</div>}
             {!loading && !error && species.length === 0 && (

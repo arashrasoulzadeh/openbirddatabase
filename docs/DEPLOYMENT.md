@@ -29,7 +29,7 @@ The "Build Debug App" workflow does this from GitHub repository **variables** na
 
 ## API reference
 
-`GET /search?q=&limit=&offset=`, `POST /search`, `GET /species/{scientific_name}?lang=`, `GET /taxonomy[/{order}[/{family}]]`, `GET /filters`, `GET /stats`, `/graphql`, interactive docs at `/docs`.
+`GET /search?q=&limit=&offset=` (optional exact filters: `iucn_status`, `order`, `family`, `primary_habitat`, `primary_diet`, `migration_status`, plus `semantic_ratio`), `POST /search`, `GET /species/{scientific_name}?lang=`, `GET /taxonomy[/{order}[/{family}]]`, `GET /filters`, `GET /stats`, `/graphql`, interactive docs at `/docs`.
 
 ## Languages (website)
 
@@ -61,3 +61,8 @@ query like "small blue forest bird" or the same in Persian finds relevant specie
   refuses to start, remove `meili_data/` and re-run the indexer (the index is rebuildable).
 
 After regenerating `_index/` (`python _scripts/index.py`) re-run the indexer and restart the API.
+
+## SEO
+
+The website serves `/sitemap.xml` (home page plus every species page, generated from the API's taxonomy and cached for an hour)
+and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Console and Bing Webmaster Tools.

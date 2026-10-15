@@ -140,6 +140,7 @@ class SearchRequest(BaseModel):
     offset: int = 0
     attributes: Optional[List[str]] = None
     semantic_ratio: Optional[float] = None  # overrides SEMANTIC_RATIO for this request
+    filter_map: Optional[Dict[str, str]] = None  # exact-match filters, e.g. {"iucn_status": "EN"}
 
 class SpeciesResponse(BaseModel):
     id: str
@@ -187,6 +188,17 @@ async def health():
         "vector_search": _vector_ready(),
     }
 
+FILTER_FIELDS = ("iucn_status", "order", "family", "primary_habitat", "primary_diet", "migration_status")
+
+def _meili_filter(request: "SearchRequest") -> Optional[str]:
+    """Combine the explicit filter string with the exact-match filter_map."""
+    parts = [request.filters] if request.filters else []
+    for field, value in (request.filter_map or {}).items():
+        if field in FILTER_FIELDS and value:
+            escaped = value.replace("\\", "\\\\").replace('"', '\\"')
+            parts.append(f'{field} = "{escaped}"')
+    return " AND ".join(parts) or None
+
 def _hit_attributes() -> List[str]:
     """Attributes returned for each hit (everything except the long body text)."""
     docs = get_species_index()
@@ -213,8 +225,9 @@ async def search_species(request: SearchRequest):
         "offset": request.offset,
         "attributesToRetrieve": request.attributes or _hit_attributes(),
     }
-    if request.filters:
-        params["filter"] = request.filters
+    meili_filter = _meili_filter(request)
+    if meili_filter:
+        params["filter"] = meili_filter
 
     ratio = SEMANTIC_RATIO if request.semantic_ratio is None else request.semantic_ratio
     if VECTOR_SEARCH and request.q.strip() and ratio > 0:
@@ -249,6 +262,8 @@ async def fallback_search(request: SearchRequest):
     q_lower = request.q.lower()
     
     for doc in species_index:
+        if any(doc.get(f) != v for f, v in (request.filter_map or {}).items() if f in FILTER_FIELDS and v):
+            continue
         match = True
         if q_lower:
             match = (
@@ -279,10 +294,23 @@ async def search_species_get(
     limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
     semantic_ratio: Optional[float] = Query(None, ge=0, le=1),
+    iucn_status: Optional[str] = None,
+    order: Optional[str] = None,
+    family: Optional[str] = None,
+    primary_habitat: Optional[str] = None,
+    primary_diet: Optional[str] = None,
+    migration_status: Optional[str] = None,
 ):
-    """GET variant of /search for simple clients (website, mobile app)."""
+    """GET variant of /search for simple clients (website, mobile app). Filters are exact matches."""
+    filter_map = {
+        k: v for k, v in {
+            "iucn_status": iucn_status, "order": order, "family": family,
+            "primary_habitat": primary_habitat, "primary_diet": primary_diet,
+            "migration_status": migration_status,
+        }.items() if v
+    }
     return await search_species(
-        SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio)
+        SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio, filter_map=filter_map or None)
     )
 
 @app.get("/species/{scientific_name}")

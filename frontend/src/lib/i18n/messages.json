@@ -182,7 +182,9 @@
   "foragingNiches": "مناطق البحث عن الغذاء",
   "training": "التدريب",
   "dietCategories": "فئات النظام الغذائي",
-  "speciesLabel": "النوع"
+  "speciesLabel": "النوع",
+  "filterAll": "الكل",
+  "clearFilters": "مسح عوامل التصفية"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -367,7 +369,9 @@
   "foragingNiches": "Nahrungsnischen",
   "training": "Training",
   "dietCategories": "Nahrungskategorien",
-  "speciesLabel": "Art"
+  "speciesLabel": "Art",
+  "filterAll": "Alle",
+  "clearFilters": "Filter zurücksetzen"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -552,7 +556,9 @@
   "foragingNiches": "Foraging Niches",
   "training": "Training",
   "dietCategories": "Diet Categories",
-  "speciesLabel": "Species"
+  "speciesLabel": "Species",
+  "filterAll": "All",
+  "clearFilters": "Clear filters"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -737,7 +743,9 @@
   "foragingNiches": "Nichos de forrajeo",
   "training": "Entrenamiento",
   "dietCategories": "Categorías de dieta",
-  "speciesLabel": "Especie"
+  "speciesLabel": "Especie",
+  "filterAll": "Todos",
+  "clearFilters": "Borrar filtros"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -922,7 +930,9 @@
   "foragingNiches": "آشیان‌های جست‌وجوی غذا",
   "training": "آموزش",
   "dietCategories": "دسته‌های رژیم غذایی",
-  "speciesLabel": "گونه"
+  "speciesLabel": "گونه",
+  "filterAll": "همه",
+  "clearFilters": "پاک کردن فیلترها"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1107,7 +1117,9 @@
   "foragingNiches": "Niches de recherche de nourriture",
   "training": "Dressage",
   "dietCategories": "Catégories de régime",
-  "speciesLabel": "Espèce"
+  "speciesLabel": "Espèce",
+  "filterAll": "Tous",
+  "clearFilters": "Effacer les filtres"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1292,7 +1304,9 @@
   "foragingNiches": "採食ニッチ",
   "training": "トレーニング",
   "dietCategories": "食性カテゴリ",
-  "speciesLabel": "種"
+  "speciesLabel": "種",
+  "filterAll": "すべて",
+  "clearFilters": "フィルターをクリア"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1477,7 +1491,9 @@
   "foragingNiches": "Foerageernissen",
   "training": "Training",
   "dietCategories": "Dieetcategorieën",
-  "speciesLabel": "Soort"
+  "speciesLabel": "Soort",
+  "filterAll": "Alle",
+  "clearFilters": "Filters wissen"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1662,7 +1678,9 @@
   "foragingNiches": "Nisze żerowania",
   "training": "Trening",
   "dietCategories": "Kategorie diety",
-  "speciesLabel": "Gatunek"
+  "speciesLabel": "Gatunek",
+  "filterAll": "Wszystkie",
+  "clearFilters": "Wyczyść filtry"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1847,7 +1865,9 @@
   "foragingNiches": "Nichos de forrageamento",
   "training": "Treinamento",
   "dietCategories": "Categorias da dieta",
-  "speciesLabel": "Espécie"
+  "speciesLabel": "Espécie",
+  "filterAll": "Todos",
+  "clearFilters": "Limpar filtros"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2032,7 +2052,9 @@
   "foragingNiches": "Ниши добывания пищи",
   "training": "Обучение",
   "dietCategories": "Категории рациона",
-  "speciesLabel": "Вид"
+  "speciesLabel": "Вид",
+  "filterAll": "Все",
+  "clearFilters": "Сбросить фильтры"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2217,7 +2239,9 @@
   "foragingNiches": "Yiyecek arama nişleri",
   "training": "Eğitim",
   "dietCategories": "Beslenme kategorileri",
-  "speciesLabel": "Tür"
+  "speciesLabel": "Tür",
+  "filterAll": "Tümü",
+  "clearFilters": "Filtreleri temizle"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2402,6 +2426,8 @@
   "foragingNiches": "觅食生态位",
   "training": "训练",
   "dietCategories": "食物类别",
-  "speciesLabel": "种"
+  "speciesLabel": "种",
+  "filterAll": "全部",
+  "clearFilters": "清除筛选"
  }
 }

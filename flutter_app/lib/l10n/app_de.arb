@@ -181,5 +181,7 @@
   "foragingNiches": "Nahrungsnischen",
   "training": "Training",
   "dietCategories": "Nahrungskategorien",
-  "speciesLabel": "Art"
+  "speciesLabel": "Art",
+  "filterAll": "Alle",
+  "clearFilters": "Filter zurücksetzen"
 }

@@ -181,5 +181,7 @@
   "foragingNiches": "Nichos de forrajeo",
   "training": "Entrenamiento",
   "dietCategories": "Categorías de dieta",
-  "speciesLabel": "Especie"
+  "speciesLabel": "Especie",
+  "filterAll": "Todos",
+  "clearFilters": "Borrar filtros"
 }

@@ -181,5 +181,7 @@
   "foragingNiches": "Yiyecek arama nişleri",
   "training": "Eğitim",
   "dietCategories": "Beslenme kategorileri",
-  "speciesLabel": "Tür"
+  "speciesLabel": "Tür",
+  "filterAll": "Tümü",
+  "clearFilters": "Filtreleri temizle"
 }

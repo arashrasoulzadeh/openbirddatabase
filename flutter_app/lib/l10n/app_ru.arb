@@ -181,5 +181,7 @@
   "foragingNiches": "Ниши добывания пищи",
   "training": "Обучение",
   "dietCategories": "Категории рациона",
-  "speciesLabel": "Вид"
+  "speciesLabel": "Вид",
+  "filterAll": "Все",
+  "clearFilters": "Сбросить фильтры"
 }

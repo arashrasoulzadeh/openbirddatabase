@@ -76,6 +76,8 @@ export async function generateMetadata({ params }: Props) {
     return {
       title: `${local ? local + ' — ' : ''}${name} | OpenBird`,
       description: `${name}${sp?.names?.en ? ` (${sp.names.en})` : ''}`,
+      alternates: { canonical: `/species/${encodeURIComponent(name)}` },
+      openGraph: { type: 'article', title: `${local || name} — ${name}` },
     };
   } catch {
     return { title: `${name} | OpenBird` };

@@ -181,5 +181,7 @@
   "foragingNiches": "Foerageernissen",
   "training": "Training",
   "dietCategories": "Dieetcategorieën",
-  "speciesLabel": "Soort"
+  "speciesLabel": "Soort",
+  "filterAll": "Alle",
+  "clearFilters": "Filters wissen"
 }

@@ -181,5 +181,7 @@
   "foragingNiches": "Nisze żerowania",
   "training": "Trening",
   "dietCategories": "Kategorie diety",
-  "speciesLabel": "Gatunek"
+  "speciesLabel": "Gatunek",
+  "filterAll": "Wszystkie",
+  "clearFilters": "Wyczyść filtry"
 }
