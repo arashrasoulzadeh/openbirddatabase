@@ -189,7 +189,8 @@
   "loadMore": "عرض المزيد",
   "showingCount": "عرض {shown} من {total}",
   "randomBird": "طائر عشوائي",
-  "relatedSpecies": "أنواع ذات صلة"
+  "relatedSpecies": "أنواع ذات صلة",
+  "iucnTag": "وسم IUCN"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -381,7 +382,8 @@
   "loadMore": "Mehr laden",
   "showingCount": "{shown} von {total} angezeigt",
   "randomBird": "Zufälliger Vogel",
-  "relatedSpecies": "Verwandte Arten"
+  "relatedSpecies": "Verwandte Arten",
+  "iucnTag": "IUCN-Zusatz"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -573,7 +575,8 @@
   "loadMore": "Load more",
   "showingCount": "Showing {shown} of {total}",
   "randomBird": "Random bird",
-  "relatedSpecies": "Related species"
+  "relatedSpecies": "Related species",
+  "iucnTag": "IUCN tag"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -765,7 +768,8 @@
   "loadMore": "Cargar más",
   "showingCount": "Mostrando {shown} de {total}",
   "randomBird": "Ave al azar",
-  "relatedSpecies": "Especies relacionadas"
+  "relatedSpecies": "Especies relacionadas",
+  "iucnTag": "Etiqueta UICN"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -957,7 +961,8 @@
   "loadMore": "نمایش بیشتر",
   "showingCount": "نمایش {shown} از {total}",
   "randomBird": "پرنده تصادفی",
-  "relatedSpecies": "گونه‌های مرتبط"
+  "relatedSpecies": "گونه‌های مرتبط",
+  "iucnTag": "برچسب IUCN"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1149,7 +1154,8 @@
   "loadMore": "Afficher plus",
   "showingCount": "Affichage de {shown} sur {total}",
   "randomBird": "Oiseau au hasard",
-  "relatedSpecies": "Espèces apparentées"
+  "relatedSpecies": "Espèces apparentées",
+  "iucnTag": "Mention UICN"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1341,7 +1347,8 @@
   "loadMore": "さらに表示",
   "showingCount": "{total}件中{shown}件を表示",
   "randomBird": "ランダムな鳥",
-  "relatedSpecies": "近縁種"
+  "relatedSpecies": "近縁種",
+  "iucnTag": "IUCNタグ"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1533,7 +1540,8 @@
   "loadMore": "Meer laden",
   "showingCount": "{shown} van {total} getoond",
   "randomBird": "Willekeurige vogel",
-  "relatedSpecies": "Verwante soorten"
+  "relatedSpecies": "Verwante soorten",
+  "iucnTag": "IUCN-label"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1725,7 +1733,8 @@
   "loadMore": "Pokaż więcej",
   "showingCount": "Pokazano {shown} z {total}",
   "randomBird": "Losowy ptak",
-  "relatedSpecies": "Gatunki pokrewne"
+  "relatedSpecies": "Gatunki pokrewne",
+  "iucnTag": "Oznaczenie IUCN"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1917,7 +1926,8 @@
   "loadMore": "Carregar mais",
   "showingCount": "Mostrando {shown} de {total}",
   "randomBird": "Ave aleatória",
-  "relatedSpecies": "Espécies relacionadas"
+  "relatedSpecies": "Espécies relacionadas",
+  "iucnTag": "Etiqueta IUCN"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2109,7 +2119,8 @@
   "loadMore": "Показать ещё",
   "showingCount": "Показано {shown} из {total}",
   "randomBird": "Случайная птица",
-  "relatedSpecies": "Родственные виды"
+  "relatedSpecies": "Родственные виды",
+  "iucnTag": "Пометка МСОП"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2301,7 +2312,8 @@
   "loadMore": "Daha fazla",
   "showingCount": "{total} sonuçtan {shown} gösteriliyor",
   "randomBird": "Rastgele kuş",
-  "relatedSpecies": "İlgili türler"
+  "relatedSpecies": "İlgili türler",
+  "iucnTag": "IUCN etiketi"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2493,6 +2505,7 @@
   "loadMore": "加载更多",
   "showingCount": "显示 {shown} / {total}",
   "randomBird": "随机鸟类",
-  "relatedSpecies": "相关物种"
+  "relatedSpecies": "相关物种",
+  "iucnTag": "IUCN 标注"
  }
 }

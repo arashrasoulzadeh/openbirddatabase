@@ -3,7 +3,7 @@ taxon_id: BN15717
 ebird_code: bacwar
 gbif_key: 5230816
 avibase_id: 207491AE88C23BE8
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 33955.0
 names:
   scientific: Vermivora bachmanii
@@ -108,7 +108,8 @@ reproduction:
   nest_material: []
   parental_care: Female only
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -156,7 +157,7 @@ Vermivora bachmanii is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

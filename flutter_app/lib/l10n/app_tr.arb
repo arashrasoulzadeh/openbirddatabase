@@ -188,5 +188,6 @@
   "loadMore": "Daha fazla",
   "showingCount": "{total} sonuçtan {shown} gösteriliyor",
   "randomBird": "Rastgele kuş",
-  "relatedSpecies": "İlgili türler"
+  "relatedSpecies": "İlgili türler",
+  "iucnTag": "IUCN etiketi"
 }

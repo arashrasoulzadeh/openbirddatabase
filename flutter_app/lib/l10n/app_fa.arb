@@ -188,5 +188,6 @@
   "loadMore": "نمایش بیشتر",
   "showingCount": "نمایش {shown} از {total}",
   "randomBird": "پرنده تصادفی",
-  "relatedSpecies": "گونه‌های مرتبط"
+  "relatedSpecies": "گونه‌های مرتبط",
+  "iucnTag": "برچسب IUCN"
 }

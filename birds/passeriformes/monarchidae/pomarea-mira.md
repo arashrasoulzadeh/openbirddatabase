@@ -3,7 +3,7 @@ taxon_id: BN11987
 ebird_code: uapmon1
 gbif_key: 5788738
 avibase_id: 555F96E9BC523B0E
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 20808.0
 names:
   scientific: Pomarea mira
@@ -99,7 +99,8 @@ behavior:
     calls: []
   xeno_canto_ids: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -147,7 +148,7 @@ Pomarea mira is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

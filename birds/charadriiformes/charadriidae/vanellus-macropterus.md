@@ -3,7 +3,7 @@ taxon_id: BN15674
 ebird_code: sunlap1
 gbif_key: 5229129
 avibase_id: 12216EF64EEFB67C
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 5889.0
 names:
   scientific: Vanellus macropterus
@@ -107,7 +107,8 @@ reproduction:
   nest_type: Scrape
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -155,7 +156,7 @@ Vanellus macropterus is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

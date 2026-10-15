@@ -72,6 +72,11 @@ def build_indexes():
             'body_text': get_body_text(filepath)[:5000],  # Limit size
         }
         
+        # BirdLife "possibly extinct" tag on a Critically Endangered species (PE / PEW)
+        iucn_tag = fm.get('conservation', {}).get('iucn_tag')
+        if iucn_tag:
+            doc['iucn_tag'] = iucn_tag
+
         # Add all language names
         names = fm.get('names', {})
         for lang, name in names.items():

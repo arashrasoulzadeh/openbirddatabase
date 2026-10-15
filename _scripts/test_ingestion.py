@@ -1,7 +1,7 @@
 import pytest
 import tempfile
 from pathlib import Path
-from _scripts.generate_md import build_species_record
+from _scripts.generate_md import build_species_record, parse_iucn_category
 from _scripts.apply_curations import parse_frontmatter, merge_veterinary, merge_enrichment
 
 class TestGenerateMD:
@@ -42,7 +42,7 @@ class TestGenerateMD:
 
     def test_build_species_record_conservation(self):
         """Test IUCN status mapping"""
-        bb_data = {'2024 IUCN Red List category': 'LC'}
+        bb_data = {'Parus major': {'2024 IUCN Red List category': 'EN'}}  # keyed by name; not the LC default
         
         record = build_species_record(
             'Parus major',
@@ -52,7 +52,24 @@ class TestGenerateMD:
             {}
         )
         
-        assert record['iucn_status'] == 'LC'
+        assert record['iucn_status'] == 'EN'
+
+    def test_possibly_extinct_tag_is_split_from_the_status(self):
+        """'CR (PE)' becomes status CR plus a separate tag, so filters and the schema see a plain category"""
+        record = build_species_record(
+            'Pomarea mira', {'Pomarea mira': {}}, {}, {'Pomarea mira': {'2024 IUCN Red List category': 'CR (PE)'}}, {}
+        )
+        assert record['iucn_status'] == 'CR'
+        assert record['conservation']['iucn_status'] == 'CR'
+        assert record['conservation']['iucn_tag'] == 'PE'
+
+    def test_parse_iucn_category(self):
+        assert parse_iucn_category('CR (PE)') == ('CR', 'PE')
+        assert parse_iucn_category('CR (PEW)') == ('CR', 'PEW')
+        assert parse_iucn_category(' CR(PE) ') == ('CR', 'PE')
+        assert parse_iucn_category('LC') == ('LC', None)
+        assert parse_iucn_category('EX') == ('EX', None)
+
 
 class TestApplyCurations:
     def test_parse_frontmatter_valid(self):

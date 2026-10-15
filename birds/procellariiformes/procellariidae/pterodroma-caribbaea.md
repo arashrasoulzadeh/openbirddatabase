@@ -3,7 +3,7 @@ taxon_id: BN12574
 ebird_code: bkcpet2
 gbif_key: 4352304
 avibase_id: 8B2FD89049C2AD46
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 7134.0
 names:
   scientific: Pterodroma caribbaea
@@ -105,7 +105,8 @@ reproduction:
   nest_placement: Ground
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -153,7 +154,7 @@ Pterodroma caribbaea is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

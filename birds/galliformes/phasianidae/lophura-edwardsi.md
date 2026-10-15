@@ -3,7 +3,7 @@ taxon_id: BN08104
 ebird_code: edwphe1
 gbif_key: 5227960
 avibase_id: 7F93B0675875E230
-iucn_status: CR (PEW)
+iucn_status: CR
 taxon_order: 1526.0
 names:
   scientific: Lophura edwardsi
@@ -107,7 +107,8 @@ reproduction:
   incubation_days: 21
   nest_material: []
 conservation:
-  iucn_status: CR (PEW)
+  iucn_status: CR
+  iucn_tag: PEW
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -155,7 +156,7 @@ Lophura edwardsi is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PEW)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PEW', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

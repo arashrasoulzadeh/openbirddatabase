@@ -3,7 +3,7 @@ taxon_id: BN10697
 ebird_code: oahala
 gbif_key: 2494579
 avibase_id: nan
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 32105.0
 names:
   scientific: Paroreomyza maculata
@@ -104,7 +104,8 @@ reproduction:
   nest_placement: Shrub, Tree
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -152,7 +153,7 @@ Paroreomyza maculata is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

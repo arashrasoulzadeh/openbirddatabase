@@ -203,7 +203,9 @@ All 32 niches from `plants_aquatic_ground` to `carrion_ground` - see schema for 
 - Sum ≈ 1.0 (allow 0.95-1.05)
 
 ### IUCN Status
-Must be valid 2024 category
+Must be a valid 2024 category (`EX`, `EW`, `CR`, `EN`, `VU`, `NT`, `LC`, `DD`, `NE`). BirdLife's "possibly extinct" marks
+are not part of the status: `CR (PE)` / `CR (PEW)` in the source data become `iucn_status: CR` plus
+`conservation.iucn_tag: PE` (possibly extinct) or `PEW` (possibly extinct in the wild).
 
 ### Country Codes
 ISO 3166-1 alpha-2 (2 uppercase letters)

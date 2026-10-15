@@ -188,5 +188,6 @@
   "loadMore": "加载更多",
   "showingCount": "显示 {shown} / {total}",
   "randomBird": "随机鸟类",
-  "relatedSpecies": "相关物种"
+  "relatedSpecies": "相关物种",
+  "iucnTag": "IUCN 标注"
 }

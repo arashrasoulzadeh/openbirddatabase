@@ -3,7 +3,7 @@ taxon_id: BN06755
 ebird_code: guspet
 gbif_key: 11084803
 avibase_id: 6FC4B715116D390C
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 7075.0
 names:
   scientific: Hydrobates macrodactylus
@@ -108,7 +108,8 @@ reproduction:
   nest_placement: Ground, Tree
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -156,7 +157,7 @@ Hydrobates macrodactylus is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

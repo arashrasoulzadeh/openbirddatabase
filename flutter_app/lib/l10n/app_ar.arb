@@ -188,5 +188,6 @@
   "loadMore": "عرض المزيد",
   "showingCount": "عرض {shown} من {total}",
   "randomBird": "طائر عشوائي",
-  "relatedSpecies": "أنواع ذات صلة"
+  "relatedSpecies": "أنواع ذات صلة",
+  "iucnTag": "وسم IUCN"
 }

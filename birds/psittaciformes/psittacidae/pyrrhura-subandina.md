@@ -3,7 +3,7 @@ taxon_id: BN16237
 ebird_code: paipar1
 gbif_key: 2479812
 avibase_id: nan
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 13034.0
 names:
   scientific: Pyrrhura subandina
@@ -97,7 +97,8 @@ behavior:
     calls: []
   xeno_canto_ids: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -145,7 +146,7 @@ Pyrrhura subandina is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate markdown files for bird species from merged data."""
 
+import re
 import sys
 import yaml
 from pathlib import Path
@@ -11,6 +12,18 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 # Import crosswalk functions
 from crosswalk import load_birdnet, build_master_taxonomy, build_crosswalk_dicts
+
+# BirdLife marks some Critically Endangered species "Possibly Extinct" (PE) or "Possibly Extinct in the Wild" (PEW),
+# written like "CR (PE)". The status stays a plain IUCN category; the tag is stored separately.
+_IUCN_TAG = re.compile(r"^\s*([A-Z]{2})\s*\(\s*(PEW|PE)\s*\)\s*$")
+
+
+def parse_iucn_category(raw):
+    """'CR (PE)' -> ('CR', 'PE'); 'LC' -> ('LC', None)."""
+    text = str(raw).strip()
+    match = _IUCN_TAG.match(text)
+    return (match.group(1), match.group(2)) if match else (text, None)
+
 
 TEMPLATE_DIR = Path("_templates")
 BIRDS_DIR = Path("birds")
@@ -333,8 +346,11 @@ def build_species_record(sci_name, birdnet_data, avoniche_data, birdbase_data, e
         
         # Conservation
         if pd.notna(bb.get('2024 IUCN Red List category')):
-            record['conservation']['iucn_status'] = str(bb['2024 IUCN Red List category'])
-            record['iucn_status'] = str(bb['2024 IUCN Red List category'])
+            status, tag = parse_iucn_category(bb['2024 IUCN Red List category'])
+            record['conservation']['iucn_status'] = status
+            record['iucn_status'] = status
+            if tag:
+                record['conservation']['iucn_tag'] = tag
         
         # Behavior - Social
         social_map = {

@@ -3,7 +3,7 @@ taxon_id: BN05485
 ebird_code: necnig2
 gbif_key: 8015150
 avibase_id: EB1EC6B4A15F95A0
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 3457.0
 names:
   scientific: Eurostopodus exul
@@ -104,7 +104,8 @@ reproduction:
   clutch_size_max: 1
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -152,7 +153,7 @@ Eurostopodus exul is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

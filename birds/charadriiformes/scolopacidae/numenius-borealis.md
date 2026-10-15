@@ -3,7 +3,7 @@ taxon_id: BN09883
 ebird_code: eskcur
 gbif_key: 2481783
 avibase_id: FB9305DB788ED649
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 6020.0
 names:
   scientific: Numenius borealis
@@ -110,7 +110,8 @@ reproduction:
   nest_material: []
   parental_care: Biparental
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -158,7 +159,7 @@ Numenius borealis is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

@@ -188,5 +188,6 @@
   "loadMore": "Meer laden",
   "showingCount": "{shown} van {total} getoond",
   "randomBird": "Willekeurige vogel",
-  "relatedSpecies": "Verwante soorten"
+  "relatedSpecies": "Verwante soorten",
+  "iucnTag": "IUCN-label"
 }

@@ -3,7 +3,7 @@ taxon_id: BN06050
 ebird_code: perpyo1
 gbif_key: 5232080
 avibase_id: EAFBF060BB12F684
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 9035.0
 names:
   scientific: Glaucidium mooreorum
@@ -100,7 +100,8 @@ behavior:
     calls: []
   xeno_canto_ids: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -148,7 +149,7 @@ Glaucidium mooreorum is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

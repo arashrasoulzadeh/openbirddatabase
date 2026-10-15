@@ -64,6 +64,8 @@ describe('data values', () => {
     expect(valueLabel('fa', 'behavior.sociality', 'Small groups')).toBe('گروه‌های کوچک');
     expect(valueLabel('de', 'enrichment.bathing', 'Forest')).toBe('Forest'); // free text untouched
     expect(valueLabel('es', 'diet.primary', 'Something new')).toBe('Something new');
+    expect(valueLabel('es', 'conservation.iucn_tag', 'PE')).toBe('Posiblemente extinta');
+    expect(fieldLabel('es', 'conservation.iucn_tag')).toBe('Etiqueta UICN');
   });
 
   it('has every language for every value', () => {

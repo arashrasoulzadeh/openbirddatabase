@@ -188,5 +188,6 @@
   "loadMore": "Afficher plus",
   "showingCount": "Affichage de {shown} sur {total}",
   "randomBird": "Oiseau au hasard",
-  "relatedSpecies": "Espèces apparentées"
+  "relatedSpecies": "Espèces apparentées",
+  "iucnTag": "Mention UICN"
 }

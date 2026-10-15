@@ -188,5 +188,6 @@
   "loadMore": "Показать ещё",
   "showingCount": "Показано {shown} из {total}",
   "randomBird": "Случайная птица",
-  "relatedSpecies": "Родственные виды"
+  "relatedSpecies": "Родственные виды",
+  "iucnTag": "Пометка МСОП"
 }

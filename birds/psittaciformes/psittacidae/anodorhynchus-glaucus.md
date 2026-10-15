@@ -3,7 +3,7 @@ taxon_id: BN00793
 ebird_code: glamac1
 gbif_key: 2479360
 avibase_id: 6DCCF66C3B1EEF50
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 13088.0
 names:
   scientific: Anodorhynchus glaucus
@@ -107,7 +107,8 @@ reproduction:
   nest_material: []
   parental_care: Female only
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -155,7 +156,7 @@ Anodorhynchus glaucus is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

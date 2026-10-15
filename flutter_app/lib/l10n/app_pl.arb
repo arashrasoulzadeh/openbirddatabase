@@ -188,5 +188,6 @@
   "loadMore": "Pokaż więcej",
   "showingCount": "Pokazano {shown} z {total}",
   "randomBird": "Losowy ptak",
-  "relatedSpecies": "Gatunki pokrewne"
+  "relatedSpecies": "Gatunki pokrewne",
+  "iucnTag": "Oznaczenie IUCN"
 }

@@ -3,7 +3,7 @@ taxon_id: BN02263
 ebird_code: impwoo1
 gbif_key: 2478577
 avibase_id: 4D0B793108E821DD
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 11573.0
 names:
   scientific: Campephilus imperialis
@@ -107,7 +107,8 @@ reproduction:
   nest_placement: C
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -155,7 +156,7 @@ Campephilus imperialis is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

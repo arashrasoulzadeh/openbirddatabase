@@ -129,7 +129,8 @@ demography:
 # === CONSERVATION ===
 conservation:
   iucn_status: "{{ conservation.iucn_status if conservation.iucn_status else iucn_status }}"
-{% if conservation.iucn_criteria %}  iucn_criteria: "{{ conservation.iucn_criteria }}"{% endif %}
+{% if conservation.iucn_tag %}  iucn_tag: "{{ conservation.iucn_tag }}"
+{% endif %}{% if conservation.iucn_criteria %}  iucn_criteria: "{{ conservation.iucn_criteria }}"{% endif %}
   cites_appendix: "{{ conservation.cites_appendix }}"
   threats: {{ (conservation.threats | default([])) | tojson }}
   conservation_actions: {{ (conservation.conservation_actions | default([])) | tojson }}

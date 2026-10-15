@@ -188,5 +188,6 @@
   "loadMore": "Load more",
   "showingCount": "Showing {shown} of {total}",
   "randomBird": "Random bird",
-  "relatedSpecies": "Related species"
+  "relatedSpecies": "Related species",
+  "iucnTag": "IUCN tag"
 }

@@ -3,7 +3,7 @@ taxon_id: BN09201
 ebird_code: olomao
 gbif_key: 2490838
 avibase_id: nan
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 28194.0
 names:
   scientific: Myadestes lanaiensis
@@ -102,7 +102,8 @@ reproduction:
   nest_placement: Tree
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -150,7 +151,7 @@ Myadestes lanaiensis is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

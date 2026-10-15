@@ -3,7 +3,7 @@ taxon_id: BN05233
 ebird_code: tutpuf1
 gbif_key: 5228535
 avibase_id: 250E2A415CC271BF
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 4587.0
 names:
   scientific: Eriocnemis godini
@@ -108,7 +108,8 @@ reproduction:
   nest_material: []
   parental_care: Female only
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -156,7 +157,7 @@ Eriocnemis godini is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

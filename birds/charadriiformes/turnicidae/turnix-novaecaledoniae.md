@@ -3,7 +3,7 @@ taxon_id: BN15507
 ebird_code: paibut1
 gbif_key: 9020964
 avibase_id: nan
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 6300.0
 names:
   scientific: Turnix novaecaledoniae
@@ -96,7 +96,8 @@ behavior:
     calls: []
   xeno_canto_ids: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -144,7 +145,7 @@ Turnix novaecaledoniae is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

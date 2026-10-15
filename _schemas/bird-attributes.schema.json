@@ -42,7 +42,7 @@
     },
 "iucn_status": {
           "type": "string",
-          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE", "CR (PEW)", "CR (PE)"],
+          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"],
           "description": "IUCN Red List category"
         },
     "taxon_order": {
@@ -288,7 +288,12 @@
       "properties": {
         "iucn_status": {
           "type": "string",
-          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE", "CR (PEW)", "CR (PE)"]
+          "enum": ["EX", "EW", "CR", "EN", "VU", "NT", "LC", "DD", "NE"]
+        },
+        "iucn_tag": {
+          "type": "string",
+          "enum": ["PE", "PEW"],
+          "description": "BirdLife tag on a Critically Endangered species: PE = possibly extinct, PEW = possibly extinct in the wild"
         },
         "iucn_criteria": { "type": "string" },
         "cites_appendix": {

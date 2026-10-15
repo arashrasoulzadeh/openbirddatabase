@@ -3,7 +3,7 @@ taxon_id: BN02172
 ebird_code: kokako4
 gbif_key: 5229945
 avibase_id: nan
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 21697.0
 names:
   scientific: Callaeas cinereus
@@ -110,7 +110,8 @@ reproduction:
   nest_material: []
   parental_care: Female only
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -158,7 +159,7 @@ Callaeas cinereus is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

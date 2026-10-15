@@ -524,6 +524,36 @@
   "pl": "Jajożerca",
   "tr": "Yumurta yiyen"
  },
+ "PE": {
+  "en": "Possibly extinct",
+  "fa": "احتمالاً منقرض",
+  "ar": "يُحتمل انقراضه",
+  "es": "Posiblemente extinta",
+  "fr": "Peut-être éteinte",
+  "de": "Möglicherweise ausgestorben",
+  "pt": "Possivelmente extinta",
+  "ru": "Возможно вымерший",
+  "ja": "絶滅の可能性あり",
+  "zh": "可能已灭绝",
+  "nl": "Mogelijk uitgestorven",
+  "pl": "Prawdopodobnie wymarły",
+  "tr": "Muhtemelen nesli tükenmiş"
+ },
+ "PEW": {
+  "en": "Possibly extinct in the wild",
+  "fa": "احتمالاً منقرض در طبیعت",
+  "ar": "يُحتمل انقراضه في البرية",
+  "es": "Posiblemente extinta en estado silvestre",
+  "fr": "Peut-être éteinte à l'état sauvage",
+  "de": "Möglicherweise in der Natur ausgestorben",
+  "pt": "Possivelmente extinta na natureza",
+  "ru": "Возможно вымерший в дикой природе",
+  "ja": "野生絶滅の可能性あり",
+  "zh": "可能野外灭绝",
+  "nl": "Mogelijk uitgestorven in het wild",
+  "pl": "Prawdopodobnie wymarły na wolności",
+  "tr": "Muhtemelen doğada nesli tükenmiş"
+ },
  "Pairs": {
   "en": "Pairs",
   "fa": "جفت‌ها",

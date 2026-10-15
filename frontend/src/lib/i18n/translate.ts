@@ -59,7 +59,7 @@ const FIELD_BY_NAME: Record<string, string> = {
   nest_type: 'nestType', nest_placement: 'nestPlacement', nest_material: 'nestMaterial',
   mating_system: 'matingSystem', parental_care: 'parentalCare',
   // conservation
-  cites_appendix: 'citesAppendix', conservation_actions: 'conservationActions', threats: 'threats',
+  cites_appendix: 'citesAppendix', iucn_tag: 'iucnTag', conservation_actions: 'conservationActions', threats: 'threats',
   population_trend: 'populationTrend', population_size: 'populationSize',
   // veterinary
   common_diseases: 'commonDiseases', vaccination_schedule: 'vaccinationSchedule',
@@ -120,6 +120,7 @@ const CATEGORICAL_PATHS = new Set([
   'behavior.movement_type',
   'behavior.sociality',
   'conservation.cites_appendix',
+  'conservation.iucn_tag',
   'data_quality',
   'diet.primary',
   'habitat.habitat_types',

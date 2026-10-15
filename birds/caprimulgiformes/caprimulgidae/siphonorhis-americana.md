@@ -3,7 +3,7 @@ taxon_id: BN13947
 ebird_code: jampau
 gbif_key: 2497000
 avibase_id: 07EC934EA44A7BD0
-iucn_status: CR (PE)
+iucn_status: CR
 taxon_order: 3578.0
 names:
   scientific: Siphonorhis americana
@@ -106,7 +106,8 @@ reproduction:
   nest_placement: Ground
   nest_material: []
 conservation:
-  iucn_status: CR (PE)
+  iucn_status: CR
+  iucn_tag: PE
   cites_appendix: Not listed
   threats: []
   conservation_actions: []
@@ -154,7 +155,7 @@ Siphonorhis americana is a species of bird...
 
 
 ## Conservation
-{'iucn_status': 'CR (PE)', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
+{'iucn_status': 'CR', 'iucn_tag': 'PE', 'iucn_criteria': '', 'cites_appendix': 'Not listed', 'threats': [], 'conservation_actions': []}
 
 ## Veterinary Care
 

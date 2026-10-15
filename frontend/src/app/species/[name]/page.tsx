@@ -146,7 +146,14 @@ export default async function SpeciesPage({ params }: Props) {
 
       <section className="bg-gradient-to-b from-brand-800 to-brand-700 text-white">
         <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-10">
-          <IucnBadge status={status} large />
+          <div className="flex flex-wrap items-center gap-2">
+            <IucnBadge status={status} large />
+            {sp.conservation?.iucn_tag && (
+              <span className="rounded-full bg-white/15 px-3 py-1 text-sm text-white ring-1 ring-inset ring-white/25">
+                {valueLabel(lang, 'conservation.iucn_tag', sp.conservation.iucn_tag)}
+              </span>
+            )}
+          </div>
           <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">{localName}</h1>
           {/* original English and scientific names stay visible in every language */}
           {lang !== 'en' && english && english !== localName && (
