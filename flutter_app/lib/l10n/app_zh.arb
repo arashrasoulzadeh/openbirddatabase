@@ -189,5 +189,7 @@
   "showingCount": "显示 {shown} / {total}",
   "randomBird": "随机鸟类",
   "relatedSpecies": "相关物种",
-  "iucnTag": "IUCN 标注"
+  "iucnTag": "IUCN 标注",
+  "usageStats": "匿名使用统计",
+  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。"
 }

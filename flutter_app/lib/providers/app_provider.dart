@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:openbird/providers/theme_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
+import 'package:openbird/services/analytics_service.dart';
 import 'package:openbird/services/api_service.dart';
 import 'package:openbird/models/species.dart';
 
@@ -28,7 +29,9 @@ class AppProvider extends ChangeNotifier {
     try {
       _error = null;
       notifyListeners();
-      return await _apiService!.searchSpecies(query);
+      final result = await _apiService!.searchSpecies(query);
+      AnalyticsService.instance.track('search', query: query, value: result.total, path: '/');
+      return result;
     } catch (e) {
       _error = e.toString();
       notifyListeners();

@@ -1,4 +1,5 @@
 import 'package:openbird/l10n/app_localizations.dart';
+import 'package:openbird/services/analytics_service.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:package_info_plus/package_info_plus.dart';
@@ -70,6 +71,16 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 subtitle: l10n.clearCacheSubtitle,
                 onTap: _clearCache,
                 iconColor: theme.colorScheme.error,
+              ),
+              SwitchListTile(
+                secondary: Icon(Icons.insights, color: theme.colorScheme.primary),
+                title: Text(l10n.usageStats),
+                subtitle: Text(l10n.usageStatsSubtitle),
+                value: AnalyticsService.instance.enabled,
+                onChanged: (value) async {
+                  await AnalyticsService.instance.setEnabled(value);
+                  if (mounted) setState(() {});
+                },
               ),
               _buildSettingTile(
                 icon: Icons.download,

@@ -189,5 +189,7 @@
   "showingCount": "نمایش {shown} از {total}",
   "randomBird": "پرنده تصادفی",
   "relatedSpecies": "گونه‌های مرتبط",
-  "iucnTag": "برچسب IUCN"
+  "iucnTag": "برچسب IUCN",
+  "usageStats": "آمار استفاده ناشناس",
+  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی."
 }

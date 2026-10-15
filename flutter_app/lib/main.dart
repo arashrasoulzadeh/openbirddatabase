@@ -11,11 +11,14 @@ import 'package:openbird/screens/search_screen.dart';
 import 'package:openbird/screens/settings_screen.dart';
 import 'package:openbird/screens/species_detail_screen.dart';
 import 'package:openbird/screens/taxonomy_screen.dart';
+import 'package:openbird/services/analytics_observer.dart';
+import 'package:openbird/services/analytics_service.dart';
 import 'package:openbird/utils/constants.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await AnalyticsService.instance.init();
   
   runApp(
     MultiProvider(
@@ -27,9 +30,44 @@ void main() async {
           update: (_, theme, language, app) => app!..initialize(theme, language),
         ),
       ],
-      child: const OpenBirdApp(),
+      child: const _LifecycleGate(child: OpenBirdApp()),
     ),
   );
+}
+
+/// Tells analytics when the app goes to the background so the time on the current screen is recorded.
+class _LifecycleGate extends StatefulWidget {
+  const _LifecycleGate({required this.child});
+  final Widget child;
+
+  @override
+  State<_LifecycleGate> createState() => _LifecycleGateState();
+}
+
+class _LifecycleGateState extends State<_LifecycleGate> with WidgetsBindingObserver {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.paused) {
+      AnalyticsService.instance.onBackground();
+    } else if (state == AppLifecycleState.resumed) {
+      AnalyticsService.instance.onForeground();
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) => widget.child;
 }
 
 class OpenBirdApp extends StatelessWidget {
@@ -53,6 +91,7 @@ class OpenBirdApp extends StatelessWidget {
             GlobalWidgetsLocalizations.delegate,
             GlobalCupertinoLocalizations.delegate,
           ],
+          navigatorObservers: [AnalyticsObserver()],
           home: const SplashScreen(),
           routes: {
             '/home': (_) => const HomeScreen(),
@@ -91,6 +130,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   int _currentIndex = 0;
+  static const _tabPaths = ['/', '/taxonomy', '/favorites', '/settings'];
 
   final List<Widget> _screens = const [
     SearchScreen(),
@@ -107,7 +147,11 @@ class _HomeScreenState extends State<HomeScreen> {
       body: _screens[_currentIndex],
       bottomNavigationBar: NavigationBar(
         selectedIndex: _currentIndex,
-        onDestinationSelected: (index) => setState(() => _currentIndex = index),
+        onDestinationSelected: (index) {
+          setState(() => _currentIndex = index);
+          AnalyticsService.instance.tabPath = _tabPaths[index];
+          AnalyticsService.instance.screen(_tabPaths[index]);
+        },
         destinations: [
           NavigationDestination(
             icon: const Icon(Icons.search),

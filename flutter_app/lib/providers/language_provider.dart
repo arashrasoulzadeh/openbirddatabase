@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:openbird/services/analytics_service.dart';
 
 class LanguageProvider extends ChangeNotifier {
   static const _languageKey = 'app_language';
@@ -59,13 +60,18 @@ class LanguageProvider extends ChangeNotifier {
     final prefs = await SharedPreferences.getInstance();
     final languageCode = prefs.getString(_languageKey) ?? 'en';
     _locale = Locale(languageCode);
+    AnalyticsService.instance.language = languageCode;
     notifyListeners();
   }
 
   Future<void> setLanguage(String languageCode) async {
     if (!supportedLocales.any((l) => l.languageCode == languageCode)) return;
     
+    final previous = _locale.languageCode;
     _locale = Locale(languageCode);
+    AnalyticsService.instance
+      ..track('language_change', source: previous, query: languageCode)
+      ..language = languageCode;
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(_languageKey, languageCode);
     notifyListeners();

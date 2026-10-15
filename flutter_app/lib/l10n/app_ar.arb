@@ -189,5 +189,7 @@
   "showingCount": "عرض {shown} من {total}",
   "randomBird": "طائر عشوائي",
   "relatedSpecies": "أنواع ذات صلة",
-  "iucnTag": "وسم IUCN"
+  "iucnTag": "وسم IUCN",
+  "usageStats": "إحصاءات الاستخدام المجهولة",
+  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية."
 }

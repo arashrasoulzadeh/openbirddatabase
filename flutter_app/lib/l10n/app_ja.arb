@@ -189,5 +189,7 @@
   "showingCount": "{total}件中{shown}件を表示",
   "randomBird": "ランダムな鳥",
   "relatedSpecies": "近縁種",
-  "iucnTag": "IUCNタグ"
+  "iucnTag": "IUCNタグ",
+  "usageStats": "匿名の利用統計",
+  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。"
 }

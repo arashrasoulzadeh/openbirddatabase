@@ -189,5 +189,7 @@
   "showingCount": "{shown} van {total} getoond",
   "randomBird": "Willekeurige vogel",
   "relatedSpecies": "Verwante soorten",
-  "iucnTag": "IUCN-label"
+  "iucnTag": "IUCN-label",
+  "usageStats": "Anonieme gebruiksstatistieken",
+  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens."
 }

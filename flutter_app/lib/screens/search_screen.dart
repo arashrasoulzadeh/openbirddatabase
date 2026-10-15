@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:openbird/providers/app_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
 import 'package:openbird/models/species.dart';
+import 'package:openbird/services/analytics_service.dart';
 import 'package:openbird/widgets/species_list_item.dart';
 import 'package:openbird/utils/constants.dart';
 
@@ -229,6 +230,7 @@ class _SearchScreenState extends State<SearchScreen> {
   }
 
   void _navigateToSpecies(Species species) {
+    AnalyticsService.instance.track('bird_click', bird: species.scientificName, source: 'search', query: _query);
     Navigator.of(context).pushNamed(
       '/species',
       arguments: {'scientificName': species.scientificName},

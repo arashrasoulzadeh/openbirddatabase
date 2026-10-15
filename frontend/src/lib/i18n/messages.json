@@ -190,7 +190,9 @@
   "showingCount": "عرض {shown} من {total}",
   "randomBird": "طائر عشوائي",
   "relatedSpecies": "أنواع ذات صلة",
-  "iucnTag": "وسم IUCN"
+  "iucnTag": "وسم IUCN",
+  "usageStats": "إحصاءات الاستخدام المجهولة",
+  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية."
  },
  "de": {
   "appTitle": "OpenBird",
@@ -383,7 +385,9 @@
   "showingCount": "{shown} von {total} angezeigt",
   "randomBird": "Zufälliger Vogel",
   "relatedSpecies": "Verwandte Arten",
-  "iucnTag": "IUCN-Zusatz"
+  "iucnTag": "IUCN-Zusatz",
+  "usageStats": "Anonyme Nutzungsstatistiken",
+  "usageStatsSubtitle": "Teile mit, welche Funktionen genutzt werden, um OpenBird zu verbessern. Keine personenbezogenen Daten."
  },
  "en": {
   "appTitle": "OpenBird",
@@ -576,7 +580,9 @@
   "showingCount": "Showing {shown} of {total}",
   "randomBird": "Random bird",
   "relatedSpecies": "Related species",
-  "iucnTag": "IUCN tag"
+  "iucnTag": "IUCN tag",
+  "usageStats": "Anonymous usage statistics",
+  "usageStatsSubtitle": "Share which features are used to help improve OpenBird. No personal data."
  },
  "es": {
   "appTitle": "OpenBird",
@@ -769,7 +775,9 @@
   "showingCount": "Mostrando {shown} de {total}",
   "randomBird": "Ave al azar",
   "relatedSpecies": "Especies relacionadas",
-  "iucnTag": "Etiqueta UICN"
+  "iucnTag": "Etiqueta UICN",
+  "usageStats": "Estadísticas de uso anónimas",
+  "usageStatsSubtitle": "Comparte qué funciones se usan para mejorar OpenBird. Sin datos personales."
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -962,7 +970,9 @@
   "showingCount": "نمایش {shown} از {total}",
   "randomBird": "پرنده تصادفی",
   "relatedSpecies": "گونه‌های مرتبط",
-  "iucnTag": "برچسب IUCN"
+  "iucnTag": "برچسب IUCN",
+  "usageStats": "آمار استفاده ناشناس",
+  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی."
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1155,7 +1165,9 @@
   "showingCount": "Affichage de {shown} sur {total}",
   "randomBird": "Oiseau au hasard",
   "relatedSpecies": "Espèces apparentées",
-  "iucnTag": "Mention UICN"
+  "iucnTag": "Mention UICN",
+  "usageStats": "Statistiques d'utilisation anonymes",
+  "usageStatsSubtitle": "Partagez les fonctions utilisées pour aider à améliorer OpenBird. Aucune donnée personnelle."
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1348,7 +1360,9 @@
   "showingCount": "{total}件中{shown}件を表示",
   "randomBird": "ランダムな鳥",
   "relatedSpecies": "近縁種",
-  "iucnTag": "IUCNタグ"
+  "iucnTag": "IUCNタグ",
+  "usageStats": "匿名の利用統計",
+  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1541,7 +1555,9 @@
   "showingCount": "{shown} van {total} getoond",
   "randomBird": "Willekeurige vogel",
   "relatedSpecies": "Verwante soorten",
-  "iucnTag": "IUCN-label"
+  "iucnTag": "IUCN-label",
+  "usageStats": "Anonieme gebruiksstatistieken",
+  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens."
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1734,7 +1750,9 @@
   "showingCount": "Pokazano {shown} z {total}",
   "randomBird": "Losowy ptak",
   "relatedSpecies": "Gatunki pokrewne",
-  "iucnTag": "Oznaczenie IUCN"
+  "iucnTag": "Oznaczenie IUCN",
+  "usageStats": "Anonimowe statystyki użycia",
+  "usageStatsSubtitle": "Udostępniaj informacje o używanych funkcjach, aby ulepszać OpenBird. Bez danych osobowych."
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1927,7 +1945,9 @@
   "showingCount": "Mostrando {shown} de {total}",
   "randomBird": "Ave aleatória",
   "relatedSpecies": "Espécies relacionadas",
-  "iucnTag": "Etiqueta IUCN"
+  "iucnTag": "Etiqueta IUCN",
+  "usageStats": "Estatísticas de uso anônimas",
+  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais."
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2120,7 +2140,9 @@
   "showingCount": "Показано {shown} из {total}",
   "randomBird": "Случайная птица",
   "relatedSpecies": "Родственные виды",
-  "iucnTag": "Пометка МСОП"
+  "iucnTag": "Пометка МСОП",
+  "usageStats": "Анонимная статистика использования",
+  "usageStatsSubtitle": "Делитесь сведениями об используемых функциях, чтобы улучшить OpenBird. Без персональных данных."
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2313,7 +2335,9 @@
   "showingCount": "{total} sonuçtan {shown} gösteriliyor",
   "randomBird": "Rastgele kuş",
   "relatedSpecies": "İlgili türler",
-  "iucnTag": "IUCN etiketi"
+  "iucnTag": "IUCN etiketi",
+  "usageStats": "Anonim kullanım istatistikleri",
+  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok."
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2506,6 +2530,8 @@
   "showingCount": "显示 {shown} / {total}",
   "randomBird": "随机鸟类",
   "relatedSpecies": "相关物种",
-  "iucnTag": "IUCN 标注"
+  "iucnTag": "IUCN 标注",
+  "usageStats": "匿名使用统计",
+  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。"
  }
 }

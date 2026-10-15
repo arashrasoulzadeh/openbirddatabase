@@ -156,7 +156,7 @@ translations per language, data completeness by bird, order and section). Times 
 Set `ANALYTICS_ENABLED=false` to stop collecting.
 
 **API:** `POST /analytics/event` (one event or `{"events": [...]}`; types `pageview`, `page_leave`, `bird_click`,
-`search`, `filter`, `language_change`, `tab_view`, `load_more`, `random_bird`; the Flutter app can post the same events),
+`search`, `filter`, `language_change`, `tab_view`, `load_more`, `random_bird`; the Flutter app posts page views, searches, bird clicks and language changes the same way, and users can turn that off in Settings),
 `GET /analytics/dashboard?days=`, `/pages`, `/page?path=`, `/birds/{name}`, `/live`, `/content`.
 
 **Content statistics** come from `_index/content-stats.json`. Regenerate it after the species data changes and rebuild:

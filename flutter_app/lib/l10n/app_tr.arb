@@ -189,5 +189,7 @@
   "showingCount": "{total} sonuçtan {shown} gösteriliyor",
   "randomBird": "Rastgele kuş",
   "relatedSpecies": "İlgili türler",
-  "iucnTag": "IUCN etiketi"
+  "iucnTag": "IUCN etiketi",
+  "usageStats": "Anonim kullanım istatistikleri",
+  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok."
 }

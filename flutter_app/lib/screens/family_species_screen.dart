@@ -1,3 +1,4 @@
+import 'package:openbird/services/analytics_service.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -132,6 +133,7 @@ class _FamilySpeciesScreenState extends State<FamilySpeciesScreen> {
   }
 
   void _navigateToSpecies(Species species) {
+    AnalyticsService.instance.track('bird_click', bird: species.scientificName, source: 'family');
     Navigator.of(context).pushNamed(
       '/species',
       arguments: {'scientificName': species.scientificName},

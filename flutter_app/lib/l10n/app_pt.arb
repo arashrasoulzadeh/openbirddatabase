@@ -189,5 +189,7 @@
   "showingCount": "Mostrando {shown} de {total}",
   "randomBird": "Ave aleatória",
   "relatedSpecies": "Espécies relacionadas",
-  "iucnTag": "Etiqueta IUCN"
+  "iucnTag": "Etiqueta IUCN",
+  "usageStats": "Estatísticas de uso anônimas",
+  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais."
 }

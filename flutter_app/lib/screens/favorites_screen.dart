@@ -1,3 +1,4 @@
+import 'package:openbird/services/analytics_service.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -86,6 +87,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
   }
 
   void _navigateToSpecies(String scientificName) {
+    AnalyticsService.instance.track('bird_click', bird: scientificName, source: 'favorites');
     Navigator.of(context).pushNamed(
       '/species',
       arguments: {'scientificName': scientificName},
