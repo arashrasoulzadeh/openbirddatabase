@@ -5,7 +5,7 @@ Global bird database (~10,000+ species) as Markdown files with:
 - All 78 BIRDBASE traits + 32 AVONICHE foraging niches
 - Multilingual (Persian priority, English keys)
 - Per-species git commits
-- Searchable via future API/server
+- Searchable via the API (MeiliSearch + Redis) and the public website
 
 ---
 
@@ -205,7 +205,10 @@ birds-db/
 │   ├── export_unified.py
 │   ├── download_avoniche.py
 │   ├── watch_avoniche.py
-│   └── populate_meili.py
+│   ├── populate_meili.py           # MeiliSearch index + vector embedder
+│   ├── cache_utils.py              # Redis key/JSON helpers shared by API and warmer
+│   ├── warm_cache.py               # pre-fills the Redis cache
+│   └── test_cache.py
 ├── _index/
 │   ├── species-index.json
 │   ├── taxonomy-tree.json
@@ -230,7 +233,10 @@ birds-db/
 ├── .gitignore
 ├── README.md
 ├── TODO.md
-├── docker-compose.yml              # For MeiliSearch + API
+├── docker-compose.yml              # Caddy + website + API + MeiliSearch + Redis + cache warmer
+├── Caddyfile                       # HTTPS for SITE_DOMAIN / API_DOMAIN
+├── .env.example                    # SITE_DOMAIN, API_DOMAIN, ACME_EMAIL
+├── .github/workflows/              # release-exports.yml, build-debug-app.yml
 ├── Dockerfile
 ├── requirements.txt
 └── requirements-api.txt
@@ -265,14 +271,25 @@ Languages: fa, en, +432 more
 ## Next Actions
 
 1. **Continuous curation** of veterinary/enrichment data (expand to more species)
-2. **Add more languages** (Arabic, Hebrew, Hindi, Indonesian, Korean, Italian, etc.)
-3. **Mobile app enhancements** (offline sync, image gallery, audio playback)
-4. **Web app enhancements** (comparison tools, range maps, checklist export)
+2. **Add more languages** (Hebrew, Hindi, Indonesian, Korean, Italian, etc.). UI strings live in `flutter_app/lib/l10n/*.arb`, data values in `frontend/src/lib/i18n/values.json`
+3. **Species images** (needs a licensed source such as Wikimedia Commons; the species files hold none yet)
+4. **Mobile app enhancements** (offline sync, audio playback)
+5. **Web app enhancements** (dark mode, comparison tool, range maps, stats page, checklist export)
+6. **Release builds**: signed release APK and an iOS build in CI (only unsigned debug APKs are built today)
+7. **Expo app** (`mobile/`): still calls the old `/api/...` endpoints; adapt it to the real API like `flutter_app/lib/services/api_mapper.dart`
+8. **Verify vector search** on the server (`/health` should report `"vector_search": true` after the indexer ran)
 
 ---
 
 ## Completed (Recent)
 
+- [x] **Public website** (`frontend/`): search with filters, load more, shareable URLs, taxonomy browser, species pages with related species, random bird, sitemap + robots, responsive redesign
+- [x] **13-language selector** on the website (UI, field labels, IUCN badges, categorical values, species names; English + scientific names always shown), right-to-left support
+- [x] **Deployment**: `docker-compose.yml` (Caddy, website, API, MeiliSearch, Redis, cache warmer), `.env` with `SITE_DOMAIN` / `API_DOMAIN`, `docs/DEPLOYMENT.md`
+- [x] **API**: env-based config and CORS, exact filters, `/random`, gzip, hybrid keyword + vector search with fallback, Redis cache (+ `warm_cache.py`)
+- [x] **Search indexes** regenerated with names in all languages
+- [x] **Flutter app** adapted to the real API (`api_mapper.dart`), tolerant JSON parsing, real-data regression test, 10 new language files
+- [x] **CI**: `build-debug-app.yml` builds the Android debug APK on every push and attaches it to the commit's `Build` release; API/site addresses come from the `API_DOMAIN` / `SITE_DOMAIN` repository variables
 - [x] GitHub Actions workflow for release exports (.sql, .csv, .xlsx, .yaml) with translations
 - [x] YAML export format added to unified exports
 - [x] SQL dump (.sql) export format added
@@ -287,14 +304,6 @@ Languages: fa, en, +432 more
 
 ---
 
-## Completed (Recent)
-
-- [x] GitHub Actions workflow for release exports (.sql, .csv, .xlsx, .yaml)
-- [x] YAML export format added to unified exports
-- [x] SQL dump (.sql) export format added
-
----
-
 ## Statistics (as of last update)
 
 - **Species generated**: 11,149
@@ -302,10 +311,10 @@ Languages: fa, en, +432 more
 - **Orders covered**: 47
 - **Families covered**: 200+
 - **Data sources integrated**: 4 (BirdNET, BIRDBASE, AVONICHE, BirdFYI)
-- **Languages available**: 434 (via BirdNET) + 13 high-coverage languages (en, fa, ar, es, fr, de, pt, ru, ja, zh, nl, pl, tr)
+- **Languages available**: 434 (via BirdNET) + 13 high-coverage languages (en, fa, ar, es, fr, de, pt, ru, ja, zh, nl, pl, tr); the apps and website are fully translated into the 13
 - **Veterinary curations**: 45 species
 - **Enrichment curations**: 45 species
 - **Schema validation**: 100% pass
-- **Search index**: 11,149 documents indexed in MeiliSearch
-- **Test coverage**: Unit, widget, and integration tests for all apps
+- **Search index**: 11,149 documents (MeiliSearch keyword + vector, JSON fallback), Redis cache in front of the API
+- **Tests**: frontend Jest (26), Flutter unit/widget/real-data tests (run in CI), Python cache and ingestion tests
 - **Mobile apps**: 2 (React Native/Expo + Flutter)

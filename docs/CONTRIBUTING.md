@@ -281,3 +281,13 @@ Before submitting PR:
 By contributing, you agree your contributions are licensed under:
 - **Data**: CC-BY 4.0 (same as sources)
 - **Code**: MIT
+
+## Website and app contributions
+
+- **Translations**: edit `flutter_app/lib/l10n/*.arb` (keep all 13 files on the same keys), then `cd frontend && npm run i18n`
+  and commit `frontend/src/lib/i18n/messages.json`. Data values such as "Forest" live in
+  `frontend/src/lib/i18n/values.json`.
+- **Data changes** (species files): regenerate the indexes with `python _scripts/index.py` and commit `_index/`.
+- **Tests before a PR**: `cd frontend && npm test`, `pytest _scripts/test_cache.py`, and `cd flutter_app && flutter test`
+  (CI runs the Flutter tests on every push).
+- Commit messages use `feat:`, `fix:`, `docs:`, `test:`, `chore:`, `ci:` prefixes.

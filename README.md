@@ -7,9 +7,11 @@ Global bird species database (~11,000 species) as Markdown files with comprehens
 - **11,000+ species** from unified AviList 2025 taxonomy
 - **78 BIRDBASE traits** across 10 categories (morphology, habitat, diet, behavior, reproduction, demography, conservation, etc.)
 - **32 AVONICHE foraging niches** (diet × foraging strategy combinations)
-- **Multilingual**: Persian (primary), English (keys), 430+ other languages via BirdNET
+- **Multilingual**: species names in 13 languages (Persian primary; en, fa, ar, es, fr, de, pt, ru, ja, zh, nl, pl, tr), 430+ more via BirdNET
 - **Per-species git commits** - full change history for every bird
-- **Searchable** - designed for MeiliSearch/Typesense indexing
+- **Public website** (Next.js) with a language selector, search filters, taxonomy browser and per-species pages
+- **REST + GraphQL API** (FastAPI) with MeiliSearch keyword + vector search and a Redis cache
+- **Mobile app** (Flutter) in 13 languages, debug APKs published with every push
 - **Extensible** - JSON Schema validation, Jinja2 templates
 
 ## Data Sources
@@ -33,10 +35,16 @@ birds-db/
 │   └── ar/                   # Future languages
 ├── _schemas/                 # JSON Schemas for validation
 ├── _templates/               # Jinja2 templates for markdown generation
-├── _scripts/                 # Ingestion pipeline
-├── _index/                   # Generated search indexes
+├── _scripts/                 # Ingestion pipeline, API, indexer, cache warmer
+├── _index/                   # Generated search indexes (regenerate with _scripts/index.py)
 ├── _data/                    # Raw downloads (gitignored)
-└── docs/                     # Documentation
+├── frontend/                 # Public website (Next.js)
+├── flutter_app/              # Mobile app (Flutter)
+├── mobile/                   # Older React Native/Expo app (see TODO.md)
+├── docs/                     # Documentation (DEPLOYMENT.md for running the site)
+├── docker-compose.yml        # Caddy + website + API + MeiliSearch + Redis
+├── Caddyfile                 # HTTPS for SITE_DOMAIN and API_DOMAIN
+└── .env.example              # SITE_DOMAIN / API_DOMAIN / ACME_EMAIL
 ```
 
 ## Quick Start
@@ -62,10 +70,41 @@ python _scripts/download.py
 # Run full ingestion (generates all species files)
 python _scripts/ingest.py
 
-# Start search server
-docker-compose up -d
+# Build the search indexes (needed after the species files change)
 python _scripts/index.py
+```
+
+### Run the API and website locally
+
+```bash
+# API (http://localhost:8000, docs at /docs)
+pip install -r requirements-api.txt
 uvicorn _scripts.api:app --reload
+
+# Website (http://localhost:3000)
+cd frontend && npm install && npm run dev
+```
+
+Without MeiliSearch or Redis the API falls back to `_index/species-index.json` and no caching, which is fine for development.
+
+### Publish it on your own domains
+
+Two hostnames, set in `.env` (copy `.env.example`): `SITE_DOMAIN` for the website and `API_DOMAIN` for the API.
+
+```bash
+cp .env.example .env     # then edit the domains
+docker compose up -d --build                         # later updates: ./deploy.sh
+docker compose --profile indexing run --rm indexer   # fills MeiliSearch (keyword + vector search)
+```
+
+Full guide, including running behind an existing nginx: [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
+
+### Tests
+
+```bash
+./run_all_tests.sh            # Python, frontend and Flutter suites
+cd frontend && npm test       # website only
+cd flutter_app && flutter test
 ```
 
 ## Species Markdown Format
@@ -164,12 +203,14 @@ Quality: High
 Languages: fa, en, +432 more
 ```
 
-## Search & API (Planned)
+## Search & API
 
-- MeiliSearch for full-text + faceted search
-- FastAPI REST + GraphQL endpoints
-- i18n merge on-the-fly
-- Filter by: taxonomy, habitat, diet, conservation, range, morphology, etc.
+- **Search**: MeiliSearch hybrid keyword + vector search (multilingual model), with a JSON-index fallback
+- **Endpoints**: `GET/POST /search` (exact filters: IUCN status, order, family, habitat, diet, migration), `GET /species/{name}`,
+  `GET /taxonomy[/{order}[/{family}]]`, `GET /random`, `GET /filters`, `GET /stats`, `/graphql`, `/docs`
+- **Cache**: Redis for species, search, taxonomy, filters and stats; a warm-up job pre-fills it
+- **Website**: language selector with 13 languages (right-to-left for Persian and Arabic), shareable search URLs, sitemap
+- **Apps**: the Flutter app reads the API address at build time (`--dart-define=API_BASE_URL=...`)
 
 ## Contributing
 

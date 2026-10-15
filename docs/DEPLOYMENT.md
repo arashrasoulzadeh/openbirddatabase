@@ -14,6 +14,9 @@ Two public hostnames, both configured in the repo-root `.env`:
 3. `docker compose up -d --build`. Caddy obtains HTTPS certificates automatically.
 4. Optional search index: `docker compose --profile indexing run --rm indexer`. Without MeiliSearch the API falls back to `_index/species-index.json`.
 
+Services started by `docker-compose.yml`: `caddy` (HTTPS), `web` (Next.js), `api` (FastAPI), `meilisearch`, `redis`,
+and the one-shot `cache-warmer`. The `indexer` runs only on request (`--profile indexing`).
+
 The website talks to `https://API_DOMAIN` from the browser and to `http://api:8000` during server-side rendering. The API only allows CORS from `SITE_DOMAIN`.
 
 ## Flutter releases
@@ -80,3 +83,49 @@ and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Con
 - Settings (environment of the `api` service): `CACHE_SEARCH_TTL` (default 600 s), `CACHE_STATIC_TTL` (default 7 days).
   Redis memory is capped by `REDIS_MAXMEMORY` (default 768mb) with least-recently-used eviction.
 - Wipe it any time with `docker compose exec redis redis-cli FLUSHALL`; it refills on demand.
+
+## Faster rebuilds
+
+`docker compose up -d --build` reuses what the previous build downloaded: the website image keeps `node_modules`, npm's
+download cache and the Next.js compile cache, and the API image keeps pip's cache, all as BuildKit cache mounts stored on
+the server (needs Docker with BuildKit, the default in current Docker). The first build is slow; later builds only
+install changed packages. To start from scratch run `docker builder prune`.
+
+**Limiting the build cache (about 1 GB):** `./deploy.sh` runs `git pull`, `docker compose up -d --build` and then trims
+Docker's build cache to `BUILD_CACHE_LIMIT` (default `1GB`; least recently used entries go first). To have Docker enforce
+it automatically on every build instead, add this to `/etc/docker/daemon.json` and restart Docker. Note that it applies
+to all builds on that server, not just this project:
+
+```json
+{ "builder": { "gc": { "enabled": true, "defaultKeepStorage": "1GB" } } }
+```
+
+The Redis cache is separate and capped by `REDIS_MAXMEMORY` (default `768mb`).
+
+## Behind an existing nginx (ports 80/443 already in use)
+
+If another web server already owns ports 80 and 443, Caddy cannot start. Skip it and publish the app on local ports with
+a `docker-compose.override.yml` (server-specific, do not commit it):
+
+```yaml
+services:
+  caddy:
+    profiles: ["disabled"]
+  web:
+    ports: ["127.0.0.1:13000:3000"]
+  api:
+    ports: ["127.0.0.1:18000:8000"]
+```
+
+Then run `docker compose rm -sf caddy && docker compose up -d --build` and add two nginx server blocks that
+`proxy_pass` to `127.0.0.1:13000` (site, with `www`) and `127.0.0.1:18000` (API), each setting
+`proxy_set_header Host $host;` and `X-Forwarded-Proto $scheme;`. Get certificates with
+`certbot --nginx -d SITE_DOMAIN -d www.SITE_DOMAIN -d API_DOMAIN`.
+
+## Updating and troubleshooting
+
+- Update: `./deploy.sh` (or `git pull && docker compose up -d --build`; re-run the indexer after the species data or `_index/` changed).
+- Changing `.env`: rebuild with `--build`; the public URLs are baked into the website build.
+- Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `redis cache-warmer` for the cache.
+- MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
+- Site shows no styles or the language switcher is missing: you are on an old build; rebuild and hard-refresh.

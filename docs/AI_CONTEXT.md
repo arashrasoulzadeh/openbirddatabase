@@ -95,6 +95,29 @@ MeiliSearch-compatible JSON with:
 - Faceted filters: order, family, habitat, diet, conservation, range, etc.
 - Taxonomy tree for navigation
 
+## Apps and Services
+
+| Part | Where | Notes |
+|---|---|---|
+| API | `_scripts/api.py` (FastAPI) | `/search`, `/species/{name}`, `/taxonomy`, `/filters`, `/stats`, `/random`, `/graphql`. Config via env: `MEILI_HOST`, `SITE_DOMAIN`, `CORS_ORIGINS`, `VECTOR_SEARCH`, `SEMANTIC_RATIO`, `REDIS_URL`, `CACHE_SEARCH_TTL`, `CACHE_STATIC_TTL` |
+| Search | MeiliSearch (`_scripts/populate_meili.py`) | hybrid keyword + vector (`intfloat/multilingual-e5-small`); falls back to `_index/species-index.json` |
+| Cache | Redis (`_scripts/cache_utils.py`, `warm_cache.py`) | optional; the API works without it |
+| Website | `frontend/` (Next.js 14) | talks to the API directly; URLs from `NEXT_PUBLIC_API_URL` / `NEXT_PUBLIC_SITE_URL` |
+| Mobile | `flutter_app/` (Flutter) | API address via `--dart-define=API_BASE_URL`; `lib/services/api_mapper.dart` maps API JSON to models |
+| Deployment | `docker-compose.yml`, `Caddyfile`, `.env` | `SITE_DOMAIN` and `API_DOMAIN`; see `docs/DEPLOYMENT.md` |
+| CI | `.github/workflows/` | `release-exports.yml` (data exports), `build-debug-app.yml` (Android debug APK on every push) |
+
+### Things that are easy to get wrong
+- **Indexes are generated**: after species files change run `python _scripts/index.py`, then re-run the MeiliSearch indexer
+  and the cache warmer. `_index/species-index.json` carries names in every language (`common_name_xx`).
+- **Translations have one source**: the Flutter `flutter_app/lib/l10n/*.arb` files. After editing them run
+  `cd frontend && npm run i18n` and commit `frontend/src/lib/i18n/messages.json`. Fixed-vocabulary data values
+  (habitat, diet, ...) are translated in `frontend/src/lib/i18n/values.json`.
+- **YAML numbers are not always ints**: e.g. `taxon_order: 22163.0`. Flutter models parse with tolerant helpers
+  (`_asInt`, `_asDouble`, ...); `test/unit/real_data_test.dart` parses real species files to guard this.
+- **API shapes**: `/search` hits are flat documents; `/species/{name}` returns the nested frontmatter; `/taxonomy`
+  returns `{order: {family: {genus: [species]}}}`.
+
 ## Common Tasks for AI Assistants
 
 ### Adding a New Species
