@@ -12,3 +12,6 @@ Next.js + Tailwind web app for browsing the bird database. Source in `src/`.
 - i18n: UI strings come from the Flutter `.arb` files via `npm run i18n` (regenerates `src/lib/i18n/messages.json`, commit it).
   Categorical data values are translated in `src/lib/i18n/values.json`. The language is stored in the `lang` cookie.
 - The API is the only data source; there are no Next.js API routes.
+- Analytics: `src/lib/analytics.ts` posts events to the API (text/plain, no preflight); `Tracker` records page views and visible time,
+  `TrackedLink` records bird clicks with their source. Add `track(...)` calls for new interactions. Charts live in
+  `src/components/charts/` (plain SVG).

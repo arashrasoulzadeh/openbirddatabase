@@ -3,6 +3,7 @@ import { cookies, headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { getFamily, getSpecies } from '@/lib/api';
 import SiteHeader from '@/components/SiteHeader';
+import TrackedLink from '@/components/TrackedLink';
 import IucnBadge from '@/components/IucnBadge';
 import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
 import { fieldLabel, iucnLabel, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
@@ -203,13 +204,15 @@ export default async function SpeciesPage({ params }: Props) {
             <ul className="grid gap-2 sm:grid-cols-2">
               {related.map((r) => (
                 <li key={r.scientific}>
-                  <Link
+                  <TrackedLink
                     href={`/species/${encodeURIComponent(r.scientific)}`}
+                    bird={r.scientific}
+                    source="related"
                     className="block rounded-lg border border-stone-200 px-3 py-2 transition hover:border-brand-300 hover:bg-brand-50"
                   >
                     <span className="block text-sm font-medium text-stone-900">{nameFromTree(r, lang)}</span>
                     <span className="block text-xs italic text-stone-400" dir="ltr">{r.scientific}</span>
-                  </Link>
+                  </TrackedLink>
                 </li>
               ))}
             </ul>

@@ -11,6 +11,7 @@ Global bird species database (~11,000 species) as Markdown files with comprehens
 - **Per-species git commits** - full change history for every bird
 - **Public website** (Next.js) with a language selector, search filters, taxonomy browser and per-species pages
 - **REST + GraphQL API** (FastAPI) with MeiliSearch keyword + vector search and a Redis cache
+- **Analytics** (first-party, privacy-friendly): page views, bird clicks, searches, languages, time on page, with a dashboard at `/analytics`
 - **Mobile app** (Flutter) in 13 languages, debug APKs published with every push
 - **Extensible** - JSON Schema validation, Jinja2 templates
 
@@ -207,7 +208,7 @@ Languages: fa, en, +432 more
 
 - **Search**: MeiliSearch hybrid keyword + vector search (multilingual model), with a JSON-index fallback
 - **Endpoints**: `GET/POST /search` (exact filters: IUCN status, order, family, habitat, diet, migration), `GET /species/{name}`,
-  `GET /taxonomy[/{order}[/{family}]]`, `GET /random`, `GET /filters`, `GET /stats`, `/graphql`, `/docs`
+  `GET /taxonomy[/{order}[/{family}]]`, `GET /random`, `GET /filters`, `GET /stats`, `/analytics/*`, `/graphql`, `/docs`
 - **Cache**: Redis for species, search, taxonomy, filters and stats; a warm-up job pre-fills it
 - **Website**: language selector with 13 languages (right-to-left for Persian and Arabic), shareable search URLs, sitemap
 - **Apps**: the Flutter app reads the API address at build time (`--dart-define=API_BASE_URL=...`)

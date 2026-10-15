@@ -77,3 +77,6 @@ images/
 # Local deployment config
 .env
 meili_data/
+
+# local analytics data (demo database, SQLite files)
+/data/

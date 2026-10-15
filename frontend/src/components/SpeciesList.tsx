@@ -1,11 +1,11 @@
 'use client';
 
-import Link from 'next/link';
+import TrackedLink from './TrackedLink';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 import { nameFromHit } from '@/lib/i18n/translate';
 import IucnBadge from './IucnBadge';
 
-export default function SpeciesList({ species }: { species: any[] }) {
+export default function SpeciesList({ species, query = '' }: { species: any[]; query?: string }) {
   const { lang } = useI18n();
   if (!species.length) return null;
 
@@ -16,8 +16,11 @@ export default function SpeciesList({ species }: { species: any[] }) {
         const english = sp.common_name_en;
         return (
           <li key={sp.id}>
-            <Link
+            <TrackedLink
               href={`/species/${encodeURIComponent(sp.scientific_name)}`}
+              bird={sp.scientific_name}
+              source="search"
+              query={query}
               className="group block h-full rounded-xl border border-stone-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md focus:outline-none focus:ring-2 focus:ring-brand-500"
             >
               <div className="flex items-start justify-between gap-3">
@@ -35,7 +38,7 @@ export default function SpeciesList({ species }: { species: any[] }) {
                 <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.order}</span>
                 <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.family}</span>
               </div>
-            </Link>
+            </TrackedLink>
           </li>
         );
       })}

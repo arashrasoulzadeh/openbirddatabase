@@ -1,0 +1,407 @@
+{
+ "generated_at": "2026-10-15T09:33:57+00:00",
+ "total_species": 11149,
+ "added": {
+  "by_day": [
+   {
+    "t": "2026-10-02",
+    "added": 1062,
+    "total": 1062
+   },
+   {
+    "t": "2026-10-03",
+    "added": 10087,
+    "total": 11149
+   }
+  ],
+  "by_hour": [
+   {
+    "t": "2026-10-02T14",
+    "added": 1062,
+    "total": 1062
+   },
+   {
+    "t": "2026-10-03T03",
+    "added": 10087,
+    "total": 11149
+   }
+  ],
+  "known": 11149
+ },
+ "languages": {
+  "names": {
+   "en": 11149,
+   "fa": 11149,
+   "ar": 0,
+   "es": 11138,
+   "fr": 11142,
+   "de": 11035,
+   "pt": 11052,
+   "ru": 10763,
+   "ja": 10782,
+   "zh": 6902,
+   "nl": 11143,
+   "pl": 11132,
+   "tr": 11112
+  },
+  "ui": {
+   "en": {
+    "total": 190,
+    "present": 190,
+    "translated": 190
+   },
+   "fa": {
+    "total": 190,
+    "present": 190,
+    "translated": 190
+   },
+   "ar": {
+    "total": 190,
+    "present": 190,
+    "translated": 190
+   },
+   "es": {
+    "total": 190,
+    "present": 190,
+    "translated": 185
+   },
+   "fr": {
+    "total": 190,
+    "present": 190,
+    "translated": 179
+   },
+   "de": {
+    "total": 190,
+    "present": 190,
+    "translated": 184
+   },
+   "pt": {
+    "total": 190,
+    "present": 190,
+    "translated": 185
+   },
+   "ru": {
+    "total": 190,
+    "present": 190,
+    "translated": 188
+   },
+   "ja": {
+    "total": 190,
+    "present": 190,
+    "translated": 186
+   },
+   "zh": {
+    "total": 190,
+    "present": 190,
+    "translated": 187
+   },
+   "nl": {
+    "total": 190,
+    "present": 190,
+    "translated": 183
+   },
+   "pl": {
+    "total": 190,
+    "present": 190,
+    "translated": 188
+   },
+   "tr": {
+    "total": 190,
+    "present": 190,
+    "translated": 187
+   }
+  }
+ },
+ "completeness": {
+  "average": 0.7711,
+  "histogram": [
+   {
+    "bucket": "0-10%",
+    "count": 0
+   },
+   {
+    "bucket": "10-20%",
+    "count": 0
+   },
+   {
+    "bucket": "20-30%",
+    "count": 0
+   },
+   {
+    "bucket": "30-40%",
+    "count": 0
+   },
+   {
+    "bucket": "40-50%",
+    "count": 0
+   },
+   {
+    "bucket": "50-60%",
+    "count": 0
+   },
+   {
+    "bucket": "60-70%",
+    "count": 504
+   },
+   {
+    "bucket": "70-80%",
+    "count": 10600
+   },
+   {
+    "bucket": "80-90%",
+    "count": 45
+   },
+   {
+    "bucket": "90-100%",
+    "count": 0
+   }
+  ],
+  "by_order": [
+   {
+    "order": "Passeriformes",
+    "average": 0.7721,
+    "species": 6712
+   },
+   {
+    "order": "Apodiformes",
+    "average": 0.7745,
+    "species": 476
+   },
+   {
+    "order": "Piciformes",
+    "average": 0.7713,
+    "species": 439
+   },
+   {
+    "order": "Psittaciformes",
+    "average": 0.7642,
+    "species": 407
+   },
+   {
+    "order": "Charadriiformes",
+    "average": 0.7646,
+    "species": 392
+   },
+   {
+    "order": "Columbiformes",
+    "average": 0.7686,
+    "species": 350
+   },
+   {
+    "order": "Galliformes",
+    "average": 0.778,
+    "species": 307
+   },
+   {
+    "order": "Accipitriformes",
+    "average": 0.7575,
+    "species": 252
+   },
+   {
+    "order": "Strigiformes",
+    "average": 0.7642,
+    "species": 245
+   },
+   {
+    "order": "Gruiformes",
+    "average": 0.7522,
+    "species": 190
+   },
+   {
+    "order": "Coraciiformes",
+    "average": 0.7714,
+    "species": 185
+   },
+   {
+    "order": "Anseriformes",
+    "average": 0.7832,
+    "species": 177
+   },
+   {
+    "order": "Cuculiformes",
+    "average": 0.7664,
+    "species": 156
+   },
+   {
+    "order": "Procellariiformes",
+    "average": 0.781,
+    "species": 147
+   },
+   {
+    "order": "Pelecaniformes",
+    "average": 0.769,
+    "species": 120
+   },
+   {
+    "order": "Caprimulgiformes",
+    "average": 0.7696,
+    "species": 98
+   },
+   {
+    "order": "Bucerotiformes",
+    "average": 0.7775,
+    "species": 75
+   },
+   {
+    "order": "Falconiformes",
+    "average": 0.7696,
+    "species": 65
+   },
+   {
+    "order": "Suliformes",
+    "average": 0.7855,
+    "species": 54
+   },
+   {
+    "order": "Trogoniformes",
+    "average": 0.767,
+    "species": 47
+   },
+   {
+    "order": "Tinamiformes",
+    "average": 0.7764,
+    "species": 46
+   },
+   {
+    "order": "Otidiformes",
+    "average": 0.772,
+    "species": 26
+   },
+   {
+    "order": "Musophagiformes",
+    "average": 0.7474,
+    "species": 23
+   },
+   {
+    "order": "Podicipediformes",
+    "average": 0.7815,
+    "species": 22
+   },
+   {
+    "order": "Ciconiiformes",
+    "average": 0.7817,
+    "species": 20
+   },
+   {
+    "order": "Sphenisciformes",
+    "average": 0.7879,
+    "species": 19
+   },
+   {
+    "order": "Podargiformes",
+    "average": 0.7681,
+    "species": 16
+   },
+   {
+    "order": "Pterocliformes",
+    "average": 0.7732,
+    "species": 16
+   },
+   {
+    "order": "Aegotheliformes",
+    "average": 0.7678,
+    "species": 10
+   },
+   {
+    "order": "Cathartiformes",
+    "average": 0.7797,
+    "species": 7
+   },
+   {
+    "order": "Nyctibiiformes",
+    "average": 0.7762,
+    "species": 7
+   },
+   {
+    "order": "Coliiformes",
+    "average": 0.7728,
+    "species": 6
+   },
+   {
+    "order": "Phoenicopteriformes",
+    "average": 0.7828,
+    "species": 6
+   },
+   {
+    "order": "Apterygiformes",
+    "average": 0.7672,
+    "species": 5
+   },
+   {
+    "order": "Gaviiformes",
+    "average": 0.784,
+    "species": 5
+   },
+   {
+    "order": "Casuariiformes",
+    "average": 0.7841,
+    "species": 4
+   },
+   {
+    "order": "Mesitornithiformes",
+    "average": 0.7871,
+    "species": 3
+   },
+   {
+    "order": "Phaethontiformes",
+    "average": 0.7857,
+    "species": 3
+   },
+   {
+    "order": "Cariamiformes",
+    "average": 0.7756,
+    "species": 2
+   },
+   {
+    "order": "Eurypygiformes",
+    "average": 0.7898,
+    "species": 2
+   },
+   {
+    "order": "Rheiformes",
+    "average": 0.7803,
+    "species": 2
+   },
+   {
+    "order": "Struthioniformes",
+    "average": 0.7865,
+    "species": 2
+   },
+   {
+    "order": "Leptosomiformes",
+    "average": 0.7753,
+    "species": 1
+   },
+   {
+    "order": "Opisthocomiformes",
+    "average": 0.7865,
+    "species": 1
+   },
+   {
+    "order": "Steatornithiformes",
+    "average": 0.7865,
+    "species": 1
+   }
+  ],
+  "by_section": {
+   "morphology": 0.8783,
+   "distribution": 1.0,
+   "habitat": 1.0,
+   "diet": 1.0,
+   "behavior": 1.0,
+   "reproduction": 0.8101,
+   "demography": 0.0,
+   "conservation": 1.0,
+   "veterinary": 1.0,
+   "enrichment": 1.0
+  },
+  "data_quality": {
+   "High": 10645,
+   "Low": 504
+  },
+  "expert_verified": {
+   "veterinary": 45,
+   "enrichment": 45
+  }
+ }
+}

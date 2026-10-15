@@ -9,6 +9,7 @@ import FilterBar from '@/components/FilterBar';
 import SiteHeader from '@/components/SiteHeader';
 import { searchSpecies, getTaxonomy, getFilterOptions, getRandomSpecies, Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
+import { track } from '@/lib/analytics';
 
 const PAGE_SIZE = 50;
 const FILTER_KEYS: (keyof Filters)[] = ['iucn_status', 'primary_habitat', 'primary_diet', 'migration_status', 'order'];
@@ -42,7 +43,9 @@ export default function Home() {
       const data = await searchSpecies(q, PAGE_SIZE, 0, f);
       if (id !== requestId.current) return;
       setSpecies(data.hits || []);
-      setTotal(data.total ?? data.estimatedTotalHits ?? 0);
+      const count = data.total ?? data.estimatedTotalHits ?? 0;
+      setTotal(count);
+      if (q.trim()) track('search', { query: q.trim(), value: count, props: { filters: f } });
     } catch (e) {
       if (id !== requestId.current) return;
       console.error('Search error:', e);
@@ -54,6 +57,7 @@ export default function Home() {
 
   const loadMore = async () => {
     setLoadingMore(true);
+    track('load_more', { value: species.length });
     const id = requestId.current;
     try {
       const data = await searchSpecies(query, PAGE_SIZE, species.length, filters);
@@ -69,6 +73,8 @@ export default function Home() {
   const surprise = async () => {
     try {
       const sp = await getRandomSpecies();
+      track('random_bird', { bird: sp.scientific_name });
+      track('bird_click', { bird: sp.scientific_name, source: 'random' });
       router.push(`/species/${encodeURIComponent(sp.scientific_name)}`);
     } catch (e) {
       console.error('Random species error:', e);
@@ -114,7 +120,10 @@ export default function Home() {
 
   const tab = (id: 'list' | 'taxonomy', label: string) => (
     <button
-      onClick={() => setView(id)}
+      onClick={() => {
+        if (id === 'taxonomy' && view !== 'taxonomy') track('tab_view', { source: 'taxonomy' });
+        setView(id);
+      }}
       aria-current={view === id ? 'page' : undefined}
       className={`flex-1 rounded-lg px-4 py-1.5 text-sm font-medium transition-colors sm:flex-none ${
         view === id ? 'bg-brand-700 text-white shadow-sm' : 'text-stone-600 hover:bg-stone-100'
@@ -165,7 +174,16 @@ export default function Home() {
       <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6">
         {view === 'list' ? (
           <div className="flex flex-col gap-5">
-            <FilterBar options={filterOptions} value={filters} onChange={setFilters} />
+            <FilterBar
+              options={filterOptions}
+              value={filters}
+              onChange={(next) => {
+                for (const k of FILTER_KEYS) {
+                  if (next[k] && next[k] !== filters[k]) track('filter', { source: k, query: next[k] });
+                }
+                setFilters(next);
+              }}
+            />
             {!loading && !error && species.length > 0 && (
               <p className="text-sm text-stone-500">
                 {t('speciesCount', { count: total.toLocaleString() })}
@@ -177,7 +195,7 @@ export default function Home() {
             )}
             {loading && species.length === 0 && <div className="py-16 text-center text-stone-400">{t('searching')}</div>}
             <div className={loading && species.length > 0 ? 'opacity-60 transition-opacity' : 'transition-opacity'}>
-              <SpeciesList species={species} />
+              <SpeciesList species={species} query={query} />
             </div>
             {!error && species.length > 0 && species.length < total && (
               <div className="flex flex-col items-center gap-2 pt-2">

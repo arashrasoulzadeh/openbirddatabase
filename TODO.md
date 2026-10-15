@@ -283,6 +283,7 @@ Languages: fa, en, +432 more
 
 ## Completed (Recent)
 
+- [x] **Analytics**: event collection (`POST /analytics/event`, SQLite on a volume), dashboard at `/analytics` (live visitors, KPIs, traffic, bird clicks, searches incl. zero-result, per-page history, languages, devices, referrers, content stats: birds added over time, language coverage, completeness), token protection, demo data generator, tests
 - [x] **Public website** (`frontend/`): search with filters, load more, shareable URLs, taxonomy browser, species pages with related species, random bird, sitemap + robots, responsive redesign
 - [x] **13-language selector** on the website (UI, field labels, IUCN badges, categorical values, species names; English + scientific names always shown), right-to-left support
 - [x] **Deployment**: `docker-compose.yml` (Caddy, website, API, MeiliSearch, Redis, cache warmer), `.env` with `SITE_DOMAIN` / `API_DOMAIN`, `docs/DEPLOYMENT.md`

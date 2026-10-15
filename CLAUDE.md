@@ -19,8 +19,9 @@ Global bird species database (~11,000 species) stored as Markdown files with YAM
 
 - Run all tests: `./run_all_tests.sh` (sets `PYTHONPATH` for Python tests)
 - Python: `pip install -r requirements.txt`; `python _scripts/download.py`, `python _scripts/ingest.py`, `python _scripts/validate.py`
-- Indexes: `python _scripts/index.py` (after species files change), then the MeiliSearch indexer and cache warmer
-- API: `uvicorn _scripts.api:app --reload` (works without MeiliSearch/Redis); tests: `pytest _scripts/test_cache.py`
+- Indexes: `python _scripts/index.py` (after species files change), then the MeiliSearch indexer and cache warmer; also `python _scripts/content_stats.py` for the analytics page
+- Analytics: events in SQLite (`ANALYTICS_DB`), dashboard at `/analytics`; preview with `_scripts/seed_analytics.py` (fake data, never in production)
+- API: `uvicorn _scripts.api:app --reload` (works without MeiliSearch/Redis); tests: `pytest _scripts/test_cache.py _scripts/test_analytics.py`
 - Website: `cd frontend && npm run dev`; tests `npm test`; after editing `.arb` files `npm run i18n` and commit `messages.json`
 - Flutter: `cd flutter_app && flutter test`; build with `--dart-define=API_BASE_URL=https://api.example.org`
 - Deploy: set `SITE_DOMAIN` / `API_DOMAIN` in `.env`, then `docker compose up -d --build`; updates: `./deploy.sh` (also caps the Docker build cache at 1 GB). See `docs/DEPLOYMENT.md`

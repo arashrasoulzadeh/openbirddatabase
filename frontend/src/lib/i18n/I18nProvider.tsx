@@ -4,6 +4,7 @@ import { createContext, useCallback, useContext, useMemo, useState } from 'react
 import { useRouter } from 'next/navigation';
 import { Lang, LANG_COOKIE, dirOf } from './locales';
 import { translate } from './translate';
+import { track } from '../analytics';
 
 interface I18nValue {
   lang: Lang;
@@ -20,13 +21,14 @@ export function I18nProvider({ initialLang, children }: { initialLang: Lang; chi
 
   const setLang = useCallback(
     (next: Lang) => {
+      track('language_change', { source: lang, query: next });
       setLangState(next);
       document.cookie = `${LANG_COOKIE}=${next}; path=/; max-age=31536000; samesite=lax`;
       document.documentElement.lang = next;
       document.documentElement.dir = dirOf(next);
       router.refresh(); // re-render server components (species pages) in the new language
     },
-    [router],
+    [router, lang],
   );
 
   const value = useMemo<I18nValue>(

@@ -105,6 +105,7 @@ MeiliSearch-compatible JSON with:
 | Website | `frontend/` (Next.js 14) | talks to the API directly; URLs from `NEXT_PUBLIC_API_URL` / `NEXT_PUBLIC_SITE_URL` |
 | Mobile | `flutter_app/` (Flutter) | API address via `--dart-define=API_BASE_URL`; `lib/services/api_mapper.dart` maps API JSON to models |
 | Deployment | `docker-compose.yml`, `Caddyfile`, `.env` | `SITE_DOMAIN` and `API_DOMAIN`; see `docs/DEPLOYMENT.md` |
+| Analytics | `_scripts/analytics.py`, `frontend/src/lib/analytics.ts`, `frontend/src/app/analytics/` | first-party events in SQLite; dashboard at `/analytics`; content stats from `_scripts/content_stats.py` |
 | CI | `.github/workflows/` | `release-exports.yml` (data exports), `build-debug-app.yml` (Android debug APK on every push) |
 
 ### Things that are easy to get wrong

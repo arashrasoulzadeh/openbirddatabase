@@ -11,5 +11,9 @@ Ingestion, curation, export, search and API tooling. Run from repo root with `PY
   `CACHE_SEARCH_TTL`, `CACHE_STATIC_TTL`. Redis and MeiliSearch are optional: failures fall back to a slower path.
 - `cache_utils.py` (keys, JSON sanitising) is shared by `api.py` and `warm_cache.py`; keep their keys in sync
   (`CACHE_PREFIX` is versioned: bump it if the cached JSON shape changes)
-- Tests: `test_ingestion.py`, `test_cache.py` (fake Redis, no server needed)
+- `analytics.py` (router mounted at `/analytics`): collects events into SQLite and aggregates them for the dashboard. Env:
+  `ANALYTICS_DB`, `ANALYTICS_TOKEN`, `ANALYTICS_ENABLED`, `ANALYTICS_RETENTION_DAYS`. No IPs/user agents stored; bots and DNT ignored.
+  `content_stats.py` writes `_index/content-stats.json` (birds added from git, language coverage, completeness);
+  `seed_analytics.py` fills a throwaway DB with fake traffic for previews.
+- Tests: `test_ingestion.py`, `test_cache.py` (fake Redis), `test_analytics.py` (temporary SQLite); none need servers
 - Scripts that rewrite `../birds/` touch thousands of files: run on a subset first and check `git diff --stat`.

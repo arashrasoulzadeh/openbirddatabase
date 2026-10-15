@@ -15,6 +15,7 @@ import meilisearch
 import strawberry
 from strawberry.fastapi import GraphQLRouter
 from _scripts.graphql_schema import schema
+from _scripts.analytics import router as analytics_router
 from _scripts.cache_utils import CACHE_PREFIX, search_key, slug_of, species_key, to_json_bytes
 
 # Configuration
@@ -92,6 +93,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Analytics (events in SQLite, dashboard data)
+app.include_router(analytics_router, prefix="/analytics", tags=["analytics"])
 
 # GraphQL router
 graphql_app = GraphQLRouter(schema)

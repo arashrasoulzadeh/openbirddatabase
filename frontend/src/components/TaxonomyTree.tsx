@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import TrackedLink from './TrackedLink';
 import { memo, useMemo, useState } from 'react';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 import { nameFromTree } from '@/lib/i18n/translate';
@@ -50,8 +50,10 @@ const SpeciesRows = memo(function SpeciesRows({ species }: { species: Genus }) {
         const name = nameFromTree(sp, lang);
         return (
           <li key={sp.id || sp.scientific}>
-            <Link
+            <TrackedLink
               href={`/species/${encodeURIComponent(sp.scientific)}`}
+              bird={sp.scientific}
+              source="taxonomy"
               className="flex flex-wrap items-baseline gap-x-2 py-1 px-2 text-sm rounded hover:bg-brand-50"
             >
               <span className="italic text-gray-700" dir="ltr">{sp.scientific}</span>
@@ -60,7 +62,7 @@ const SpeciesRows = memo(function SpeciesRows({ species }: { species: Genus }) {
               {lang !== 'en' && sp.common_en && sp.common_en !== name && (
                 <span className="text-gray-400 text-xs" dir="ltr">({sp.common_en})</span>
               )}
-            </Link>
+            </TrackedLink>
           </li>
         );
       })}

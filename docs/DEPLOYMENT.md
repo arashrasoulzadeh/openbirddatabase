@@ -119,7 +119,8 @@ services:
 
 Then run `docker compose rm -sf caddy && docker compose up -d --build` and add two nginx server blocks that
 `proxy_pass` to `127.0.0.1:13000` (site, with `www`) and `127.0.0.1:18000` (API), each setting
-`proxy_set_header Host $host;` and `X-Forwarded-Proto $scheme;`. Get certificates with
+`proxy_set_header Host $host;`, `proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;` and
+`proxy_set_header X-Forwarded-Proto $scheme;` (the analytics rate limit uses the forwarded address). Get certificates with
 `certbot --nginx -d SITE_DOMAIN -d www.SITE_DOMAIN -d API_DOMAIN`.
 
 ## Updating and troubleshooting
@@ -129,3 +130,41 @@ Then run `docker compose rm -sf caddy && docker compose up -d --build` and add t
 - Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `redis cache-warmer` for the cache.
 - MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
 - Site shows no styles or the language switcher is missing: you are on an old build; rebuild and hard-refresh.
+
+## Analytics
+
+The site records anonymous usage in its own database (no third-party service). Events are posted by the browser to
+`POST /analytics/event` and stored in SQLite on the `analytics_data` Docker volume (`/data/analytics.db`).
+
+**What is recorded:** page views and time spent on each page, bird clicks (and where the click came from: search,
+taxonomy, related species, random), searches (text and number of results, so searches with no result show up as content
+gaps), filter use, language changes, taxonomy tab opens, "load more" and random-bird clicks.
+
+**Privacy:** no IP addresses or user agents are stored. Visitors and sessions are random ids kept in the browser
+(`localStorage` / `sessionStorage`, no cookies). Bots are ignored, visitors sending Do-Not-Track or Global Privacy
+Control are not tracked, and the dashboard itself is never counted. Depending on your jurisdiction you may still want
+to mention analytics in a privacy notice. Raw events are deleted after `ANALYTICS_RETENTION_DAYS` (default 400).
+
+**Dashboard:** `https://SITE_DOMAIN/analytics` shows live visitors, KPIs with change vs the previous period, traffic,
+home/bird/search/click graphs, top birds, top and zero-result searches, per-page history (click a row), languages,
+devices, referrers, busiest hours and weekdays, plus content statistics (birds added over time, species names and UI
+translations per language, data completeness by bird, order and section). Times are UTC.
+
+**Protect it:** set `ANALYTICS_TOKEN` in `.env` (a long random value) and rebuild. The dashboard then asks for the token
+(it is kept in the browser session only); the read endpoints (`GET /analytics/*`) require it as
+`Authorization: Bearer <token>` or `?token=`. Collecting events stays public. Without a token the dashboard is public.
+Set `ANALYTICS_ENABLED=false` to stop collecting.
+
+**API:** `POST /analytics/event` (one event or `{"events": [...]}`; types `pageview`, `page_leave`, `bird_click`,
+`search`, `filter`, `language_change`, `tab_view`, `load_more`, `random_bird`; the Flutter app can post the same events),
+`GET /analytics/dashboard?days=`, `/pages`, `/page?path=`, `/birds/{name}`, `/live`, `/content`.
+
+**Content statistics** come from `_index/content-stats.json`. Regenerate it after the species data changes and rebuild:
+`python _scripts/content_stats.py` (about a minute; "birds added over time" uses the git history, so run it in the
+checkout, not in the container).
+
+**Back up** the events with `docker compose cp api:/data/analytics.db ./analytics-backup.db`.
+
+**Try it with fake data** (never on the production database):
+`ANALYTICS_DB=data/analytics-demo.db python _scripts/seed_analytics.py --days 30`, then start the API with the same
+`ANALYTICS_DB` and open `/analytics`.

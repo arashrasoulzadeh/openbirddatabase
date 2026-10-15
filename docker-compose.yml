@@ -41,12 +41,17 @@ services:
       - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
       - SEMANTIC_RATIO=${SEMANTIC_RATIO:-0.5}
       - REDIS_URL=redis://redis:6379/0
+      # analytics events live in SQLite on a volume; the token protects the dashboard data
+      - ANALYTICS_DB=/data/analytics.db
+      - ANALYTICS_TOKEN=${ANALYTICS_TOKEN:-}
+      - ANALYTICS_ENABLED=${ANALYTICS_ENABLED:-true}
     depends_on:
       - meilisearch
       - redis
     volumes:
       - ./birds:/app/birds
       - ./_index:/app/_index
+      - analytics_data:/data
     restart: unless-stopped
 
   # Response cache for the API (species, search, taxonomy...). Safe to wipe: it refills on demand.
@@ -95,5 +100,6 @@ services:
       - indexing
 
 volumes:
+  analytics_data:
   caddy_data:
   caddy_config:

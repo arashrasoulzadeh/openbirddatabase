@@ -11,6 +11,7 @@ Next.js 14 (App Router, Tailwind) public website for the OpenBird Database. It r
 - **Taxonomy browser**: orders → families → genera → species with counts; children render only when opened
 - **Species pages** (`/species/<scientific name>`): quick facts, every data section, names in all languages, related species
 - **Random bird** button
+- **Analytics** at `/analytics`: tracker (`src/lib/analytics.ts`, `Tracker.tsx`, `TrackedLink.tsx`) and a dashboard with hand-drawn SVG charts (`src/components/charts/`, no chart library). See `../docs/DEPLOYMENT.md`
 - **13 languages** (en, fa, ar, es, fr, de, pt, ru, ja, zh, nl, pl, tr) with right-to-left layout for Persian and Arabic;
   species names are shown in the chosen language with the English and scientific names alongside
 - **SEO**: `/sitemap.xml` (all species), `/robots.txt`, canonical links, Open Graph tags
@@ -49,6 +50,7 @@ frontend/
 │   │   ├── layout.tsx           # <html lang/dir> from the language cookie, i18n provider
 │   │   ├── page.tsx             # search, filters, taxonomy tab, URL state
 │   │   ├── species/[name]/      # species page (server-rendered)
+│   │   ├── analytics/           # dashboard (noindex)
 │   │   ├── sitemap.ts, robots.ts
 │   │   └── globals.css
 │   ├── components/              # SiteHeader, LanguageSwitcher, SearchBar, FilterBar, SpeciesList,
