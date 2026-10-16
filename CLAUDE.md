@@ -21,10 +21,10 @@ Global bird species database (~11,000 species) stored as Markdown files with YAM
 - Python: `pip install -r requirements.txt`; `python _scripts/download.py`, `python _scripts/ingest.py`, `python _scripts/validate.py`
 - Indexes: `python _scripts/index.py` (after species files change), then the MeiliSearch indexer and cache warmer; also `python _scripts/content_stats.py` for the analytics page
 - Analytics: events in SQLite (`ANALYTICS_DB`), dashboard at `/analytics`; preview with `_scripts/seed_analytics.py` (fake data, never in production)
-- API: `uvicorn _scripts.api:app --reload` (works without MeiliSearch/Redis); tests: `pytest _scripts/test_cache.py _scripts/test_analytics.py`
+- API: `uvicorn _scripts.api:app --reload` (works without MeiliSearch/Redis); tests: `pytest _scripts/test_cache.py _scripts/test_analytics.py _scripts/test_backup.py`
 - Website: `cd frontend && npm run dev`; tests `npm test`; after editing `.arb` files `npm run i18n` and commit `messages.json`
 - Flutter: `cd flutter_app && flutter test`; build with `--dart-define=API_BASE_URL=https://api.example.org`
-- Deploy: set `SITE_DOMAIN` / `API_DOMAIN` in `.env`, then `docker compose up -d --build`; updates: `./deploy.sh` (downloads the images CI built; `--build` builds on the server and caps the build cache at 1 GB). See `docs/DEPLOYMENT.md`
+- Deploy: set `SITE_DOMAIN` / `API_DOMAIN` in `.env`, then `docker compose up -d --build`; updates: `./deploy.sh` (downloads the images CI built, health-checks, supports `--if-changed` for cron; `./backup.sh` backs up analytics; `--build` builds on the server and caps the build cache at 1 GB). See `docs/DEPLOYMENT.md`
 - CI: every push to `main` builds the Android debug APK (attached to that commit's `Build ...` release) and publishes the website/API Docker images to ghcr.io
 
 ## Conventions
@@ -34,4 +34,4 @@ Global bird species database (~11,000 species) stored as Markdown files with YAM
 - Commits use conventional prefixes (`feat:`, `fix:`, `docs:`, `test:`, `chore:`). Species changes are git-tracked per species.
 - Data is CC-BY 4.0; keep source attribution in `sources`.
 - Translations: Flutter `.arb` files are the single source for UI strings (website reuses them via `npm run i18n`).
-- Never commit `.env`, `docker-compose.override.yml` or `meili_data/`; they are server-specific.
+- Never commit `.env`, `docker-compose.override.yml`, `meili_data/` or `backups/`; they are server-specific.

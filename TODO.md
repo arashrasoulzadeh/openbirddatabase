@@ -283,6 +283,7 @@ Languages: fa, en, +432 more
 
 ## Completed (Recent)
 
+- [x] **Private-server operations**: `./deploy.sh --if-changed` for cron, post-deploy health check with rollback hint, private-registry login guidance, `./backup.sh` + `backup_analytics.py` (restore documented), images carry their own data (no bind mounts)
 - [x] **Prebuilt Docker images**: `publish-images.yml` builds the website and API images in CI and publishes them to ghcr.io; `./deploy.sh` waits for the images of the pulled commit and restarts without compiling on the server
 - [x] **Analytics**: event collection (`POST /analytics/event`, SQLite on a volume), dashboard at `/analytics` (live visitors, KPIs, traffic, bird clicks, searches incl. zero-result, per-page history, languages, devices, referrers, content stats: birds added over time, language coverage, completeness), token protection, demo data generator, tests; the Flutter app reports the same events (with an opt-out in Settings)
 - [x] **Public website** (`frontend/`): search with filters, load more, shareable URLs, taxonomy browser, species pages with related species, random bird, sitemap + robots, responsive redesign

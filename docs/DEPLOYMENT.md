@@ -63,7 +63,8 @@ query like "small blue forest bird" or the same in Persian finds relevant specie
 - Upgrading from the old MeiliSearch 1.7 image: the compose file enables a dumpless upgrade; if the container still
   refuses to start, remove `meili_data/` and re-run the indexer (the index is rebuildable).
 
-After regenerating `_index/` (`python _scripts/index.py`) re-run the indexer and restart the API.
+The species data and `_index/` are baked into the API image, so code and data always match. After regenerating `_index/`
+(`python _scripts/index.py`) commit and push; CI publishes new images, then `./deploy.sh` and re-run the indexer.
 
 ## SEO
 
@@ -146,7 +147,7 @@ Then run `docker compose rm -sf caddy && docker compose up -d --build` and add t
 
 ## Updating and troubleshooting
 
-- Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server; re-run the indexer after the species data or `_index/` changed).
+- Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server; re-run the indexer after the species data or `_index/` changed). It checks `/health` afterwards and prints a rollback command if the new version does not start.
 - Changing `.env`: rebuild with `--build`; the public URLs are baked into the website build.
 - Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `redis cache-warmer` for the cache.
 - MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
@@ -189,3 +190,51 @@ checkout, not in the container).
 **Try it with fake data** (never on the production database):
 `ANALYTICS_DB=data/analytics-demo.db python _scripts/seed_analytics.py --days 30`, then start the API with the same
 `ANALYTICS_DB` and open `/analytics`.
+
+## Running it on your own (private) server
+
+**Private images.** GitHub creates the container packages as private. That is fine for your own server: log in once with
+a token that has the `read:packages` scope (GitHub -> Settings -> Developer settings -> Personal access tokens), and
+Docker remembers it:
+
+```
+echo <TOKEN> | docker login ghcr.io -u <github-user> --password-stdin
+```
+
+`./deploy.sh` prints this hint when the registry refuses a pull. Making the packages public instead is optional; the
+images contain only open data and code from this repository.
+
+**Automatic updates.** `./deploy.sh --if-changed` does nothing unless a newer commit exists (it compares the commit
+the running website was built from with the latest on GitHub), waits for CI to publish the images, restarts, and checks
+`/health`. Run it from cron every 10 minutes, with a lock so runs never overlap:
+
+```
+*/10 * * * * cd ~/openbirddatabase && ./deploy.sh --if-changed >> deploy.log 2>&1
+```
+
+**Rollback.** Every image is also tagged `sha-<7 characters>`. If a deploy fails its health check, `deploy.sh` prints
+the exact command, for example `IMAGE_TAG=sha-1a2b3c4 docker compose up -d`. Put `IMAGE_TAG=...` in `.env` to stay on
+that version, and remove it to follow `latest` again.
+
+**Backups.** Only the analytics events need backing up (everything else is rebuilt from the repository).
+`./backup.sh` makes a consistent compressed copy with SQLite's online backup, copies it to `./backups` and keeps the newest
+14 (`KEEP=30 ./backup.sh` to change). Daily from cron:
+
+```
+0 3 * * * cd ~/openbirddatabase && ./backup.sh >> backup.log 2>&1
+```
+
+Restore a copy (this replaces the current analytics data):
+
+```
+docker compose stop api
+docker compose run --rm --no-deps -v "$PWD/backups:/restore:ro" api \
+  python _scripts/backup_analytics.py --restore /restore/analytics-YYYYMMDD-HHMMSS.db.gz --db /data/analytics.db
+docker compose start api
+```
+
+Copy `./backups` to another machine regularly; a backup on the same disk does not survive a disk failure.
+
+**Exposure.** Only Caddy (ports 80/443) or your own reverse proxy needs to be reachable. MeiliSearch, Redis and the
+containers' ports are not published (the override file in the nginx section binds to `127.0.0.1` only). Keep
+`ANALYTICS_TOKEN` set, and keep `.env` out of git.

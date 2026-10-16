@@ -52,8 +52,7 @@ services:
       - meilisearch
       - redis
     volumes:
-      - ./birds:/app/birds
-      - ./_index:/app/_index
+      # species data and indexes are inside the image, so code and data always match; only analytics is stored
       - analytics_data:/data
     restart: unless-stopped
 
@@ -73,8 +72,6 @@ services:
     depends_on:
       - redis
       - api
-    volumes:
-      - ./birds:/app/birds
     restart: "no"
 
   meilisearch:
@@ -97,8 +94,6 @@ services:
       - EMBEDDER_MODEL=${EMBEDDER_MODEL:-intfloat/multilingual-e5-small}
     depends_on:
       - meilisearch
-    volumes:
-      - ./_index:/app/_index
     profiles:
       - indexing
 

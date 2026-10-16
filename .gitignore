@@ -80,3 +80,8 @@ meili_data/
 
 # local analytics data (demo database, SQLite files)
 /data/
+
+# server-side files
+/backups/
+.deploy.lock
+*.log
