@@ -2,6 +2,7 @@
 
 import { useI18n } from '@/lib/i18n/I18nProvider';
 import { iucnLabel } from '@/lib/i18n/translate';
+import { helpText } from '@/lib/i18n/help';
 
 const STYLE: Record<string, { chip: string; dot: string }> = {
   LC: { chip: 'bg-emerald-50 text-emerald-800 ring-emerald-200', dot: 'bg-emerald-500' },
@@ -20,6 +21,7 @@ export default function IucnBadge({ status, large = false }: { status?: string |
   const style = STYLE[status] ?? STYLE.DD;
   return (
     <span
+      title={helpText(lang, `iucn.${status}`)}
       className={`inline-flex items-center gap-1.5 rounded-full ring-1 ring-inset font-medium whitespace-nowrap ${style.chip} ${
         large ? 'px-3 py-1 text-sm' : 'px-2 py-0.5 text-xs'
       }`}

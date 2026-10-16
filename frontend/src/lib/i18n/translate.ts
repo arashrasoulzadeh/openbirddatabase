@@ -135,6 +135,9 @@ const CATEGORICAL_PATHS = new Set([
 
 const valueTable = values as Record<string, Record<string, string>>;
 
+/** True for fields whose values come from a small fixed vocabulary (and have plain-language explanations). */
+export const isCategoricalPath = (path: string) => CATEGORICAL_PATHS.has(path);
+
 /** Translate a categorical data value such as "Forest" or "Small groups"; other values are returned unchanged. */
 export function valueLabel(lang: Lang, path: string, value: string): string {
   if (!CATEGORICAL_PATHS.has(path)) return value;

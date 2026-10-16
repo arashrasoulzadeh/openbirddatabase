@@ -5,8 +5,12 @@ import { getFamily, getSpecies } from '@/lib/api';
 import SiteHeader from '@/components/SiteHeader';
 import TrackedLink from '@/components/TrackedLink';
 import IucnBadge from '@/components/IucnBadge';
+import HelpTip from '@/components/HelpTip';
+import RealmChips from '@/components/RealmChips';
+import ScoreBars from '@/components/ScoreBars';
+import { ID_LINKS, fieldHelp, formatMeasurement, helpText, valueHelp, xenoCantoUrl } from '@/lib/i18n/help';
 import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
-import { fieldLabel, iucnLabel, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
+import { fieldLabel, iucnLabel, isCategoricalPath, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
 
 type Props = { params: { name: string } };
 
@@ -23,44 +27,118 @@ const isEmpty = (v: any): boolean =>
   (Array.isArray(v) && v.length === 0) ||
   (typeof v === 'object' && !Array.isArray(v) && Object.values(v).every(isEmpty));
 
+const niceLabel = (key: string) => key.replace(/_/g, ' ').replace(/^\w/, (c) => c.toUpperCase());
+
 function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) {
+  const name = path.split('.').pop() as string;
+  const unit = (k: string) => helpText(lang, `unit.${k}`) ?? k;
+
+  if (path === 'distribution.biogeographic_realms') return <RealmChips values={Array.isArray(value) ? value : [value]} />;
+
   if (Array.isArray(value)) {
     return (
-      <span className="flex flex-wrap gap-1 justify-end">
-        {value.map((v, i) => (
-          <span key={i} className="rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-700">
-            {typeof v === 'object' ? JSON.stringify(v) : valueLabel(lang, path, String(v))}
-          </span>
-        ))}
+      <span className="flex flex-wrap justify-end gap-1">
+        {value.map((v, i) => {
+          if (typeof v === 'object') return <span key={i} className="rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-700">{JSON.stringify(v)}</span>;
+          if (name === 'xeno_canto_ids') {
+            return (
+              <a key={i} href={xenoCantoUrl(String(v))} target="_blank" rel="noopener noreferrer" className="rounded-md bg-brand-50 px-2 py-0.5 text-xs text-brand-800 hover:underline">
+                XC{String(v).replace(/^XC/i, '')} ↗
+              </a>
+            );
+          }
+          const explanation = isCategoricalPath(path) ? valueHelp(lang, String(v)) : undefined;
+          return (
+            <span key={i} title={explanation} className={`rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-700 ${explanation ? 'cursor-help border-b border-dotted border-stone-400' : ''}`}>
+              {valueLabel(lang, path, String(v))}
+            </span>
+          );
+        })}
       </span>
     );
   }
   if (typeof value === 'boolean') return <span>{translate(lang, value ? 'yes' : 'no')}</span>;
-  if (typeof value === 'number') return <span>{Number.isInteger(value) ? value : value.toFixed(2)}</span>;
-  if (path.endsWith('iucn_status')) return <span>{iucnLabel(lang, String(value))}</span>;
-  return <span>{valueLabel(lang, path, String(value))}</span>;
+  if (typeof value === 'number') {
+    const link = ID_LINKS[path];
+    if (link) {
+      return (
+        <a href={link.url(String(value))} target="_blank" rel="noopener noreferrer" className="text-brand-700 hover:underline" title={helpText(lang, 'ui.seeOn')?.replace('{site}', link.site)}>
+          {value} ↗
+        </a>
+      );
+    }
+    return <span>{formatMeasurement(lang, path, value, unit)}</span>;
+  }
+  if (path.endsWith('iucn_status')) {
+    const explanation = helpText(lang, `iucn.${value}`);
+    return (
+      <span className="inline-flex items-center">
+        {iucnLabel(lang, String(value))}
+        {explanation && <HelpTip text={explanation} align="end" />}
+      </span>
+    );
+  }
+  const link = ID_LINKS[path];
+  if (link && value) {
+    return (
+      <a href={link.url(String(value))} target="_blank" rel="noopener noreferrer" className="text-brand-700 hover:underline" title={helpText(lang, 'ui.seeOn')?.replace('{site}', link.site)}>
+        {String(value)} ↗
+      </a>
+    );
+  }
+  const explanation = isCategoricalPath(path) ? valueHelp(lang, String(value)) : undefined;
+  return (
+    <span className="inline-flex items-center">
+      {valueLabel(lang, path, String(value))}
+      {explanation && <HelpTip text={explanation} align="end" />}
+    </span>
+  );
+}
+
+function Label({ lang, path, className = '' }: { lang: Lang; path: string; className?: string }) {
+  const help = fieldHelp(lang, path);
+  return (
+    <span className={className}>
+      {fieldLabel(lang, path)}
+      {help && <HelpTip text={help} />}
+    </span>
+  );
 }
 
 function Fields({ lang, data, path = '' }: { lang: Lang; data: Record<string, any>; path?: string }) {
-  const entries = Object.entries(data).filter(([k, v]) => {
-    // foraging niche scores are mostly 0; only show the ones that apply
-    if (path === 'diet.foraging_niches' && v === 0) return false;
-    return !isEmpty(v);
-  });
+  const entries = Object.entries(data).filter(([, v]) => !isEmpty(v));
   return (
-    <dl className="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-2">
+    <dl className="grid grid-cols-1 gap-x-6 gap-y-2 md:grid-cols-2">
       {entries.map(([k, v]) => {
         const p = path ? `${path}.${k}` : k;
-        return v && typeof v === 'object' && !Array.isArray(v) ? (
-          <div key={k} className="md:col-span-2 mt-2">
-            <dt className="mb-1 text-sm font-semibold text-brand-800">{fieldLabel(lang, p)}</dt>
+        const isObject = v && typeof v === 'object' && !Array.isArray(v);
+
+        // Scores become bars: diet importance (0-10) and foraging style shares (0-1)
+        if (isObject && (p === 'diet.categories' || p === 'diet.foraging_niches')) {
+          const isShare = p === 'diet.foraging_niches';
+          const items = Object.entries(v as Record<string, number>)
+            .filter(([, n]) => typeof n === 'number' && n > 0)
+            .sort(([, x], [, y]) => y - x)
+            .map(([key, n]) => ({ label: isShare ? niceLabel(key) : fieldLabel(lang, `${p}.${key}`), value: n }));
+          if (!items.length) return null;
+          return (
+            <div key={k} className="mt-2 md:col-span-2">
+              <dt className="mb-2 text-sm font-semibold text-brand-800"><Label lang={lang} path={p} /></dt>
+              <dd><ScoreBars items={items} max={isShare ? 1 : 10} format={(n) => (isShare ? `${Math.round(n * 100)}%` : String(n))} /></dd>
+            </div>
+          );
+        }
+
+        return isObject ? (
+          <div key={k} className="mt-2 md:col-span-2">
+            <dt className="mb-1 text-sm font-semibold text-brand-800"><Label lang={lang} path={p} /></dt>
             <dd className="border-s-2 border-brand-100 ps-3">
               <Fields lang={lang} data={v} path={p} />
             </dd>
           </div>
         ) : (
           <div key={k} className="flex justify-between gap-4 border-b border-stone-100 py-1.5 text-sm">
-            <dt className="text-stone-500">{fieldLabel(lang, p)}</dt>
+            <dt className="text-stone-500"><Label lang={lang} path={p} /></dt>
             <dd className="text-end font-medium text-stone-900"><Value lang={lang} path={p} value={v} /></dd>
           </div>
         );
@@ -148,6 +226,7 @@ export default async function SpeciesPage({ params }: Props) {
         <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-10">
           <div className="flex flex-wrap items-center gap-2">
             <IucnBadge status={status} large />
+            {status && helpText(lang, `iucn.${status}`) && <HelpTip text={helpText(lang, `iucn.${status}`) as string} />}
             {sp.conservation?.iucn_tag && (
               <span className="rounded-full bg-white/15 px-3 py-1 text-sm text-white ring-1 ring-inset ring-white/25">
                 {valueLabel(lang, 'conservation.iucn_tag', sp.conservation.iucn_tag)}
