@@ -24,8 +24,8 @@ Global bird species database (~11,000 species) stored as Markdown files with YAM
 - API: `uvicorn _scripts.api:app --reload` (works without MeiliSearch/Redis); tests: `pytest _scripts/test_cache.py _scripts/test_analytics.py`
 - Website: `cd frontend && npm run dev`; tests `npm test`; after editing `.arb` files `npm run i18n` and commit `messages.json`
 - Flutter: `cd flutter_app && flutter test`; build with `--dart-define=API_BASE_URL=https://api.example.org`
-- Deploy: set `SITE_DOMAIN` / `API_DOMAIN` in `.env`, then `docker compose up -d --build`; updates: `./deploy.sh` (also caps the Docker build cache at 1 GB). See `docs/DEPLOYMENT.md`
-- CI: every push to `main` builds the Android debug APK and attaches it to that commit's `Build ...` release
+- Deploy: set `SITE_DOMAIN` / `API_DOMAIN` in `.env`, then `docker compose up -d --build`; updates: `./deploy.sh` (downloads the images CI built; `--build` builds on the server and caps the build cache at 1 GB). See `docs/DEPLOYMENT.md`
+- CI: every push to `main` builds the Android debug APK (attached to that commit's `Build ...` release) and publishes the website/API Docker images to ghcr.io
 
 ## Conventions
 

@@ -94,7 +94,7 @@ Two hostnames, set in `.env` (copy `.env.example`): `SITE_DOMAIN` for the websit
 
 ```bash
 cp .env.example .env     # then edit the domains
-docker compose up -d --build                         # later updates: ./deploy.sh
+docker compose up -d --build                         # first run; later updates: ./deploy.sh (prebuilt images)
 docker compose --profile indexing run --rm indexer   # fills MeiliSearch (keyword + vector search)
 ```
 

@@ -20,6 +20,8 @@ services:
     restart: unless-stopped
 
   web:
+    # Prebuilt by CI (publish-images.yml); `docker compose up -d --build` builds it locally instead
+    image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-web:${IMAGE_TAG:-latest}
     build:
       context: ./frontend
       args:
@@ -33,6 +35,7 @@ services:
     restart: unless-stopped
 
   api:
+    image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-api:${IMAGE_TAG:-latest}
     build: .
     environment:
       - MEILI_HOST=http://meilisearch:7700
@@ -62,7 +65,7 @@ services:
 
   # One-shot: pre-fills Redis with every species and the common API responses on each `docker compose up`
   cache-warmer:
-    build: .
+    image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-api:${IMAGE_TAG:-latest}
     command: python _scripts/warm_cache.py
     environment:
       - REDIS_URL=redis://redis:6379/0
@@ -86,7 +89,7 @@ services:
 
   # Optional: populate MeiliSearch (docker compose --profile indexing run --rm indexer)
   indexer:
-    build: .
+    image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-api:${IMAGE_TAG:-latest}
     command: python _scripts/populate_meili.py
     environment:
       - MEILI_HOST=http://meilisearch:7700

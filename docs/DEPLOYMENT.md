@@ -84,6 +84,27 @@ and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Con
   Redis memory is capped by `REDIS_MAXMEMORY` (default 768mb) with least-recently-used eviction.
 - Wipe it any time with `docker compose exec redis redis-cli FLUSHALL`; it refills on demand.
 
+## Prebuilt images (recommended)
+
+The "Publish Images" workflow (`.github/workflows/publish-images.yml`) builds the website and API images on GitHub on
+every push to `main` and publishes them to GitHub Container Registry as `ghcr.io/<owner>/openbird-web` and
+`openbird-api` (tags `latest` and `sha-<commit>`). The server then only downloads them, with no compiling.
+
+- **Deploy:** `./deploy.sh` runs `git pull`, waits until CI has published the images for that exact commit (up to
+  `WAIT_MINUTES`, default 15), pulls them and restarts. No `npm install`, no Next.js build on the server.
+- **Build locally instead:** `./deploy.sh --build` (or `docker compose up -d --build`), for example while testing changes
+  that are not pushed yet.
+- **The website image has your domains baked in**, taken from the repository variables `API_DOMAIN` and `SITE_DOMAIN`.
+  After changing them run the workflow again (Actions -> Publish Images -> Run workflow) and redeploy.
+- **First time:** push once so the images exist. This repository is public, but GitHub creates the two packages as
+  private. Either make them public (GitHub -> your profile -> Packages -> `openbird-web` / `openbird-api` -> Package
+  settings -> Change visibility -> Public, repeat for both) or log the server in once with a token that has
+  `read:packages`: `echo <TOKEN> | docker login ghcr.io -u <github-user> --password-stdin`.
+- **Architecture:** images are built for `linux/amd64`. For an ARM server set the repository variable `IMAGE_PLATFORMS`
+  to `linux/arm64` (or `linux/amd64,linux/arm64`; slower to build). `uname -m` shows `x86_64` (amd64) or `aarch64` (arm64).
+- **Pin or roll back:** set `IMAGE_TAG=sha-<7 characters>` in `.env` and run `docker compose pull && docker compose up -d`.
+- **Forks:** set `IMAGE_PREFIX=ghcr.io/<your-user>` in `.env`.
+
 ## Faster rebuilds
 
 `docker compose up -d --build` reuses what the previous build downloaded: the website image keeps `node_modules`, npm's
@@ -125,7 +146,7 @@ Then run `docker compose rm -sf caddy && docker compose up -d --build` and add t
 
 ## Updating and troubleshooting
 
-- Update: `./deploy.sh` (or `git pull && docker compose up -d --build`; re-run the indexer after the species data or `_index/` changed).
+- Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server; re-run the indexer after the species data or `_index/` changed).
 - Changing `.env`: rebuild with `--build`; the public URLs are baked into the website build.
 - Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `redis cache-warmer` for the cache.
 - MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
