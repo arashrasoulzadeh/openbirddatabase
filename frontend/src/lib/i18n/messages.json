@@ -192,7 +192,14 @@
   "relatedSpecies": "أنواع ذات صلة",
   "iucnTag": "وسم IUCN",
   "usageStats": "إحصاءات الاستخدام المجهولة",
-  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية."
+  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية.",
+  "dataCompleteness": "اكتمال البيانات",
+  "fieldsFilled": "{filled} من {total} حقلًا فيها بيانات",
+  "missingInformation": "غير متوفر بعد",
+  "missingInformationHint": "لم تُجمع بعد بيانات لهذه الحقول لهذا النوع.",
+  "expertCuratedNote": "تكتب معلومات الرعاية البيطرية والإثراء من قبل خبراء وهي متوفرة لأنواع قليلة فقط.",
+  "eggLength": "طول البيضة",
+  "eggWidth": "عرض البيضة"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -387,7 +394,14 @@
   "relatedSpecies": "Verwandte Arten",
   "iucnTag": "IUCN-Zusatz",
   "usageStats": "Anonyme Nutzungsstatistiken",
-  "usageStatsSubtitle": "Teile mit, welche Funktionen genutzt werden, um OpenBird zu verbessern. Keine personenbezogenen Daten."
+  "usageStatsSubtitle": "Teile mit, welche Funktionen genutzt werden, um OpenBird zu verbessern. Keine personenbezogenen Daten.",
+  "dataCompleteness": "Vollständigkeit der Daten",
+  "fieldsFilled": "{filled} von {total} Feldern enthalten Daten",
+  "missingInformation": "Noch nicht verfügbar",
+  "missingInformationHint": "Für diese Art wurden zu diesen Feldern noch keine Daten erfasst.",
+  "expertCuratedNote": "Informationen zu Tiermedizin und Beschäftigung werden von Fachleuten verfasst und gibt es nur für wenige Arten.",
+  "eggLength": "Eilänge",
+  "eggWidth": "Eibreite"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -582,7 +596,14 @@
   "relatedSpecies": "Related species",
   "iucnTag": "IUCN tag",
   "usageStats": "Anonymous usage statistics",
-  "usageStatsSubtitle": "Share which features are used to help improve OpenBird. No personal data."
+  "usageStatsSubtitle": "Share which features are used to help improve OpenBird. No personal data.",
+  "dataCompleteness": "Data completeness",
+  "fieldsFilled": "{filled} of {total} fields have data",
+  "missingInformation": "Not yet available",
+  "missingInformationHint": "No data has been collected for these fields for this species yet.",
+  "expertCuratedNote": "Veterinary care and enrichment information is written by experts and exists for only a few species.",
+  "eggLength": "Egg Length",
+  "eggWidth": "Egg Width"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -777,7 +798,14 @@
   "relatedSpecies": "Especies relacionadas",
   "iucnTag": "Etiqueta UICN",
   "usageStats": "Estadísticas de uso anónimas",
-  "usageStatsSubtitle": "Comparte qué funciones se usan para mejorar OpenBird. Sin datos personales."
+  "usageStatsSubtitle": "Comparte qué funciones se usan para mejorar OpenBird. Sin datos personales.",
+  "dataCompleteness": "Datos completos",
+  "fieldsFilled": "{filled} de {total} campos tienen datos",
+  "missingInformation": "Aún no disponible",
+  "missingInformationHint": "Todavía no se han reunido datos de estos campos para esta especie.",
+  "expertCuratedNote": "La información veterinaria y de enriquecimiento la redactan expertos y existe solo para unas pocas especies.",
+  "eggLength": "Longitud del huevo",
+  "eggWidth": "Anchura del huevo"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -972,7 +1000,14 @@
   "relatedSpecies": "گونه‌های مرتبط",
   "iucnTag": "برچسب IUCN",
   "usageStats": "آمار استفاده ناشناس",
-  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی."
+  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی.",
+  "dataCompleteness": "کامل بودن داده‌ها",
+  "fieldsFilled": "{filled} از {total} فیلد دارای داده است",
+  "missingInformation": "هنوز در دسترس نیست",
+  "missingInformationHint": "برای این گونه هنوز داده‌ای برای این فیلدها جمع‌آوری نشده است.",
+  "expertCuratedNote": "اطلاعات مراقبت‌های دامپزشکی و غنی‌سازی را متخصصان می‌نویسند و فقط برای چند گونه موجود است.",
+  "eggLength": "طول تخم",
+  "eggWidth": "عرض تخم"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1167,7 +1202,14 @@
   "relatedSpecies": "Espèces apparentées",
   "iucnTag": "Mention UICN",
   "usageStats": "Statistiques d'utilisation anonymes",
-  "usageStatsSubtitle": "Partagez les fonctions utilisées pour aider à améliorer OpenBird. Aucune donnée personnelle."
+  "usageStatsSubtitle": "Partagez les fonctions utilisées pour aider à améliorer OpenBird. Aucune donnée personnelle.",
+  "dataCompleteness": "Complétude des données",
+  "fieldsFilled": "{filled} champs sur {total} contiennent des données",
+  "missingInformation": "Pas encore disponible",
+  "missingInformationHint": "Aucune donnée n'a encore été collectée pour ces champs pour cette espèce.",
+  "expertCuratedNote": "Les informations vétérinaires et d'enrichissement sont rédigées par des experts et n'existent que pour quelques espèces.",
+  "eggLength": "Longueur de l'œuf",
+  "eggWidth": "Largeur de l'œuf"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1362,7 +1404,14 @@
   "relatedSpecies": "近縁種",
   "iucnTag": "IUCNタグ",
   "usageStats": "匿名の利用統計",
-  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。"
+  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。",
+  "dataCompleteness": "データの充実度",
+  "fieldsFilled": "{total}項目中{filled}項目にデータあり",
+  "missingInformation": "未登録の情報",
+  "missingInformationHint": "この種のこれらの項目のデータはまだ集められていません。",
+  "expertCuratedNote": "獣医ケアとエンリッチメントの情報は専門家が執筆しており、ごく一部の種にしかありません。",
+  "eggLength": "卵の長さ",
+  "eggWidth": "卵の幅"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1557,7 +1606,14 @@
   "relatedSpecies": "Verwante soorten",
   "iucnTag": "IUCN-label",
   "usageStats": "Anonieme gebruiksstatistieken",
-  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens."
+  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens.",
+  "dataCompleteness": "Volledigheid van de gegevens",
+  "fieldsFilled": "{filled} van de {total} velden bevatten gegevens",
+  "missingInformation": "Nog niet beschikbaar",
+  "missingInformationHint": "Voor deze soort zijn voor deze velden nog geen gegevens verzameld.",
+  "expertCuratedNote": "Informatie over diergeneeskundige zorg en verrijking wordt door experts geschreven en bestaat maar voor enkele soorten.",
+  "eggLength": "Eilengte",
+  "eggWidth": "Eibreedte"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1752,7 +1808,14 @@
   "relatedSpecies": "Gatunki pokrewne",
   "iucnTag": "Oznaczenie IUCN",
   "usageStats": "Anonimowe statystyki użycia",
-  "usageStatsSubtitle": "Udostępniaj informacje o używanych funkcjach, aby ulepszać OpenBird. Bez danych osobowych."
+  "usageStatsSubtitle": "Udostępniaj informacje o używanych funkcjach, aby ulepszać OpenBird. Bez danych osobowych.",
+  "dataCompleteness": "Kompletność danych",
+  "fieldsFilled": "{filled} z {total} pól zawiera dane",
+  "missingInformation": "Jeszcze niedostępne",
+  "missingInformationHint": "Dla tego gatunku nie zebrano jeszcze danych w tych polach.",
+  "expertCuratedNote": "Informacje weterynaryjne i dotyczące wzbogacania środowiska piszą eksperci i istnieją tylko dla niewielu gatunków.",
+  "eggLength": "Długość jaja",
+  "eggWidth": "Szerokość jaja"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -1947,7 +2010,14 @@
   "relatedSpecies": "Espécies relacionadas",
   "iucnTag": "Etiqueta IUCN",
   "usageStats": "Estatísticas de uso anônimas",
-  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais."
+  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais.",
+  "dataCompleteness": "Completude dos dados",
+  "fieldsFilled": "{filled} de {total} campos têm dados",
+  "missingInformation": "Ainda não disponível",
+  "missingInformationHint": "Ainda não foram coletados dados para estes campos desta espécie.",
+  "expertCuratedNote": "As informações veterinárias e de enriquecimento são escritas por especialistas e existem para poucas espécies.",
+  "eggLength": "Comprimento do ovo",
+  "eggWidth": "Largura do ovo"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2142,7 +2212,14 @@
   "relatedSpecies": "Родственные виды",
   "iucnTag": "Пометка МСОП",
   "usageStats": "Анонимная статистика использования",
-  "usageStatsSubtitle": "Делитесь сведениями об используемых функциях, чтобы улучшить OpenBird. Без персональных данных."
+  "usageStatsSubtitle": "Делитесь сведениями об используемых функциях, чтобы улучшить OpenBird. Без персональных данных.",
+  "dataCompleteness": "Полнота данных",
+  "fieldsFilled": "Данные есть в {filled} из {total} полей",
+  "missingInformation": "Пока недоступно",
+  "missingInformationHint": "Для этого вида данные по этим полям пока не собраны.",
+  "expertCuratedNote": "Сведения о ветеринарном уходе и обогащении среды пишут эксперты; они есть лишь для немногих видов.",
+  "eggLength": "Длина яйца",
+  "eggWidth": "Ширина яйца"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2337,7 +2414,14 @@
   "relatedSpecies": "İlgili türler",
   "iucnTag": "IUCN etiketi",
   "usageStats": "Anonim kullanım istatistikleri",
-  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok."
+  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok.",
+  "dataCompleteness": "Veri tamlığı",
+  "fieldsFilled": "{total} alandan {filled} tanesinde veri var",
+  "missingInformation": "Henüz mevcut değil",
+  "missingInformationHint": "Bu tür için bu alanlarda henüz veri toplanmadı.",
+  "expertCuratedNote": "Veteriner bakımı ve zenginleştirme bilgileri uzmanlarca yazılır ve yalnızca birkaç tür için mevcuttur.",
+  "eggLength": "Yumurta uzunluğu",
+  "eggWidth": "Yumurta genişliği"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2532,6 +2616,13 @@
   "relatedSpecies": "相关物种",
   "iucnTag": "IUCN 标注",
   "usageStats": "匿名使用统计",
-  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。"
+  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。",
+  "dataCompleteness": "数据完整度",
+  "fieldsFilled": "{total} 个字段中有 {filled} 个有数据",
+  "missingInformation": "暂无",
+  "missingInformationHint": "该物种这些字段的数据尚未收集。",
+  "expertCuratedNote": "兽医护理和丰容信息由专家撰写，仅部分物种有此内容。",
+  "eggLength": "卵长",
+  "eggWidth": "卵宽"
  }
 }

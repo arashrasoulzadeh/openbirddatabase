@@ -191,5 +191,12 @@
   "relatedSpecies": "Verwante soorten",
   "iucnTag": "IUCN-label",
   "usageStats": "Anonieme gebruiksstatistieken",
-  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens."
+  "usageStatsSubtitle": "Deel welke functies worden gebruikt om OpenBird te verbeteren. Geen persoonsgegevens.",
+  "dataCompleteness": "Volledigheid van de gegevens",
+  "fieldsFilled": "{filled} van de {total} velden bevatten gegevens",
+  "missingInformation": "Nog niet beschikbaar",
+  "missingInformationHint": "Voor deze soort zijn voor deze velden nog geen gegevens verzameld.",
+  "expertCuratedNote": "Informatie over diergeneeskundige zorg en verrijking wordt door experts geschreven en bestaat maar voor enkele soorten.",
+  "eggLength": "Eilengte",
+  "eggWidth": "Eibreedte"
 }

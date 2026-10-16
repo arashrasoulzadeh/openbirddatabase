@@ -54,6 +54,10 @@ const FIELD_BY_NAME: Record<string, string> = {
   movement_type: 'movementType', sociality: 'sociality', territorial: 'territoriality',
   vocalizations: 'vocalizations', xeno_canto_ids: 'xenoCantoIds',
   // reproduction
+  egg_length_mm: 'eggLength', egg_width_mm: 'eggWidth',
+  generation_length_years: 'generationLength', max_longevity_years: 'maxLongevity',
+  annual_survival_adult: 'adultSurvival', annual_survival_juvenile: 'juvenileSurvival',
+  density_individuals_per_km2: 'density',
   clutch_size_min: 'clutchSizeMin', clutch_size_max: 'clutchSizeMax', clutch_size_mean: 'meanClutchSize',
   incubation_days: 'incubationPeriod', fledging_days: 'fledgingPeriod', broods_per_year: 'broodsPerYear',
   nest_type: 'nestType', nest_placement: 'nestPlacement', nest_material: 'nestMaterial',

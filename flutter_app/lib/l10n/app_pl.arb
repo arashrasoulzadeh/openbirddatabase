@@ -191,5 +191,12 @@
   "relatedSpecies": "Gatunki pokrewne",
   "iucnTag": "Oznaczenie IUCN",
   "usageStats": "Anonimowe statystyki użycia",
-  "usageStatsSubtitle": "Udostępniaj informacje o używanych funkcjach, aby ulepszać OpenBird. Bez danych osobowych."
+  "usageStatsSubtitle": "Udostępniaj informacje o używanych funkcjach, aby ulepszać OpenBird. Bez danych osobowych.",
+  "dataCompleteness": "Kompletność danych",
+  "fieldsFilled": "{filled} z {total} pól zawiera dane",
+  "missingInformation": "Jeszcze niedostępne",
+  "missingInformationHint": "Dla tego gatunku nie zebrano jeszcze danych w tych polach.",
+  "expertCuratedNote": "Informacje weterynaryjne i dotyczące wzbogacania środowiska piszą eksperci i istnieją tylko dla niewielu gatunków.",
+  "eggLength": "Długość jaja",
+  "eggWidth": "Szerokość jaja"
 }

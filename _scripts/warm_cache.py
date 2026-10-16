@@ -24,6 +24,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from _scripts.cache_utils import CACHE_PREFIX, slug_of, species_key, to_json_bytes  # noqa: E402
+from _scripts.completeness import with_completeness  # noqa: E402
 
 BIRDS_DIR = Path(os.environ.get("BIRDS_DIR", "birds"))
 SPECIES_TTL = int(os.environ.get("CACHE_STATIC_TTL", "604800"))
@@ -74,7 +75,7 @@ def load_species(client) -> int:
         if not fm:
             continue
         name = (fm.get("names") or {}).get("scientific") or path.stem
-        pipe.set(CACHE_PREFIX + species_key(slug_of(name)), to_json_bytes(fm), ex=SPECIES_TTL)
+        pipe.set(CACHE_PREFIX + species_key(slug_of(name)), to_json_bytes(with_completeness(fm)), ex=SPECIES_TTL)
         count += 1
         if i % 500 == 0:
             pipe.execute()

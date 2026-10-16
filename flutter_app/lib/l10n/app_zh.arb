@@ -191,5 +191,12 @@
   "relatedSpecies": "相关物种",
   "iucnTag": "IUCN 标注",
   "usageStats": "匿名使用统计",
-  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。"
+  "usageStatsSubtitle": "分享所用功能以帮助改进 OpenBird。不含个人数据。",
+  "dataCompleteness": "数据完整度",
+  "fieldsFilled": "{total} 个字段中有 {filled} 个有数据",
+  "missingInformation": "暂无",
+  "missingInformationHint": "该物种这些字段的数据尚未收集。",
+  "expertCuratedNote": "兽医护理和丰容信息由专家撰写，仅部分物种有此内容。",
+  "eggLength": "卵长",
+  "eggWidth": "卵宽"
 }

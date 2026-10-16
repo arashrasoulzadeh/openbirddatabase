@@ -98,7 +98,7 @@ export default async function SpeciesPage({ params }: Props) {
     notFound();
   }
 
-  const { names = {}, sources, last_updated, ...sections } = sp;
+  const { names = {}, sources, last_updated, completeness, ...sections } = sp;
   const topLevel = Object.fromEntries(
     Object.entries(sections).filter(([, v]) => !v || typeof v !== 'object' || Array.isArray(v)),
   );
@@ -160,6 +160,11 @@ export default async function SpeciesPage({ params }: Props) {
             <p className="mt-1 text-lg text-brand-100" dir="ltr">{t('englishName')}: {english}</p>
           )}
           <p className="mt-1 text-xl italic text-brand-200" dir="ltr">{names.scientific || name}</p>
+          {completeness && (
+            <a href="#completeness" className="mt-2 inline-block text-sm text-brand-100 underline-offset-2 hover:underline">
+              {t('dataCompleteness')}: {Math.round(completeness.core.score * 100)}%
+            </a>
+          )}
           {facts.length > 0 && (
             <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
               {facts.map(([label, value]) => (
@@ -204,6 +209,45 @@ export default async function SpeciesPage({ params }: Props) {
             ))}
           </dl>
         </section>
+
+        {completeness && (
+          <section id="completeness" className={card}>
+            <h2 className={h2}>{t('dataCompleteness')}</h2>
+            <div className="flex items-baseline gap-3">
+              <span className="text-3xl font-semibold tabular-nums text-brand-800">{Math.round(completeness.core.score * 100)}%</span>
+              <span className="text-sm text-stone-500">
+                {translate(lang, 'fieldsFilled', { filled: completeness.core.filled, total: completeness.core.total })}
+              </span>
+            </div>
+            <div className="mt-2 h-2 overflow-hidden rounded-full bg-stone-100" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(completeness.core.score * 100)}>
+              <div className="h-full rounded-full bg-brand-600" style={{ width: `${Math.max(2, completeness.core.score * 100)}%` }} />
+            </div>
+            {Object.keys(completeness.core.missing).length > 0 && (
+              <div className="mt-5">
+                <h3 className="text-sm font-semibold text-stone-900">{t('missingInformation')}</h3>
+                <p className="mb-3 text-xs text-stone-500">{t('missingInformationHint')}</p>
+                <div className="space-y-2">
+                  {Object.entries(completeness.core.missing as Record<string, string[]>).map(([section, fields]) => (
+                    <details key={section} className="rounded-lg border border-stone-200 px-3 py-2">
+                      <summary className="cursor-pointer text-sm font-medium text-stone-700">
+                        {fieldLabel(lang, section)}{' '}
+                        <span className="text-xs font-normal text-stone-400">({fields.length})</span>
+                      </summary>
+                      <ul className="mt-2 flex flex-wrap gap-1.5">
+                        {fields.map((f) => (
+                          <li key={f} className="rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-600">
+                            {fieldLabel(lang, `${section}.${f}`)}
+                          </li>
+                        ))}
+                      </ul>
+                    </details>
+                  ))}
+                </div>
+              </div>
+            )}
+            {!completeness.expert_verified && <p className="mt-4 text-xs text-stone-500">{t('expertCuratedNote')}</p>}
+          </section>
+        )}
 
         {related.length > 0 && (
           <section className={card}>

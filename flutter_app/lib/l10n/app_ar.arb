@@ -191,5 +191,12 @@
   "relatedSpecies": "أنواع ذات صلة",
   "iucnTag": "وسم IUCN",
   "usageStats": "إحصاءات الاستخدام المجهولة",
-  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية."
+  "usageStatsSubtitle": "شارك الميزات المستخدمة للمساعدة في تحسين OpenBird. دون أي بيانات شخصية.",
+  "dataCompleteness": "اكتمال البيانات",
+  "fieldsFilled": "{filled} من {total} حقلًا فيها بيانات",
+  "missingInformation": "غير متوفر بعد",
+  "missingInformationHint": "لم تُجمع بعد بيانات لهذه الحقول لهذا النوع.",
+  "expertCuratedNote": "تكتب معلومات الرعاية البيطرية والإثراء من قبل خبراء وهي متوفرة لأنواع قليلة فقط.",
+  "eggLength": "طول البيضة",
+  "eggWidth": "عرض البيضة"
 }

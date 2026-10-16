@@ -76,6 +76,9 @@ and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Con
 `docker compose up` also starts Redis and a one-shot `cache-warmer`. The API caches species details, search results
 (10 minutes), the taxonomy, filters and stats in Redis; if Redis is missing or down the API still works, just slower.
 
+- **Warming the cache:** `./deploy.sh` does it after every successful deploy (skip with `--no-warm`). By hand:
+  `docker compose run --rm cache-warmer` (about a minute; it clears this app's keys first, `--no-flush` keeps them).
+  Run it after a deploy, after changing species data, or after Redis was restarted or wiped.
 - The warmer loads all species files and the common API responses (home-page search, one page per conservation
   status, taxonomy, filters, stats). Run it again after changing data: `docker compose run --rm cache-warmer`
   (it clears this app's keys first; pass `--no-flush` to keep them).
@@ -238,3 +241,17 @@ Copy `./backups` to another machine regularly; a backup on the same disk does no
 **Exposure.** Only Caddy (ports 80/443) or your own reverse proxy needs to be reachable. MeiliSearch, Redis and the
 containers' ports are not published (the override file in the nginx section binds to `127.0.0.1` only). Keep
 `ANALYTICS_TOKEN` set, and keep `.env` out of git.
+
+## Data completeness
+
+Every species document served by `GET /species/{name}` includes a `completeness` report computed by
+`_scripts/completeness.py`: the share of the schema's core fields (morphology, distribution, habitat, diet, behavior,
+reproduction, demography, conservation; 56 fields) that have real data, which fields are missing, and a separate
+count for the expert-curated veterinary and enrichment sections. The species page shows it ("Data completeness" with the
+missing fields grouped by section) and the analytics dashboard shows the biggest gaps, completeness by section and
+order, and the least complete birds (`python _scripts/content_stats.py` refreshes them).
+
+Today the average is about 40%. The gaps are mostly fields the integrated sources do not provide: body measurements other
+than mass, countries and range text, demography, vocalizations, threats and conservation actions. Closing them needs new
+open datasets (for example AVONET for body measurements, IUCN generation-length data and AnAge for demography, GBIF for
+countries, Xeno-canto for recordings) mapped into the species files by the generator.

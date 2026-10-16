@@ -191,5 +191,12 @@
   "relatedSpecies": "近縁種",
   "iucnTag": "IUCNタグ",
   "usageStats": "匿名の利用統計",
-  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。"
+  "usageStatsSubtitle": "利用している機能を共有してOpenBirdの改善に協力できます。個人データは含まれません。",
+  "dataCompleteness": "データの充実度",
+  "fieldsFilled": "{total}項目中{filled}項目にデータあり",
+  "missingInformation": "未登録の情報",
+  "missingInformationHint": "この種のこれらの項目のデータはまだ集められていません。",
+  "expertCuratedNote": "獣医ケアとエンリッチメントの情報は専門家が執筆しており、ごく一部の種にしかありません。",
+  "eggLength": "卵の長さ",
+  "eggWidth": "卵の幅"
 }

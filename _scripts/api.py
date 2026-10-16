@@ -16,6 +16,7 @@ import strawberry
 from strawberry.fastapi import GraphQLRouter
 from _scripts.graphql_schema import schema
 from _scripts.analytics import router as analytics_router
+from _scripts.completeness import with_completeness
 from _scripts.cache_utils import CACHE_PREFIX, search_key, slug_of, species_key, to_json_bytes
 
 # Configuration
@@ -401,7 +402,7 @@ async def get_species(scientific_name: str, lang: str = Query("fa", description=
         fm = parse_frontmatter(filepath)
         if not fm:
             raise HTTPException(status_code=500, detail="Invalid species file")
-        return merge_translations(fm, lang) if translated else fm
+        return with_completeness(merge_translations(fm, lang) if translated else fm)
 
     # The base document is shared by fa/en; only real translation overrides get their own entry
     key = species_key(slug) + (f":{lang}" if translated else "")

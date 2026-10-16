@@ -191,5 +191,12 @@
   "relatedSpecies": "Espécies relacionadas",
   "iucnTag": "Etiqueta IUCN",
   "usageStats": "Estatísticas de uso anônimas",
-  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais."
+  "usageStatsSubtitle": "Compartilhe quais recursos são usados para melhorar o OpenBird. Sem dados pessoais.",
+  "dataCompleteness": "Completude dos dados",
+  "fieldsFilled": "{filled} de {total} campos têm dados",
+  "missingInformation": "Ainda não disponível",
+  "missingInformationHint": "Ainda não foram coletados dados para estes campos desta espécie.",
+  "expertCuratedNote": "As informações veterinárias e de enriquecimento são escritas por especialistas e existem para poucas espécies.",
+  "eggLength": "Comprimento do ovo",
+  "eggWidth": "Largura do ovo"
 }

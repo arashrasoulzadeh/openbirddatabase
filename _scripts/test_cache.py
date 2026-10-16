@@ -30,6 +30,14 @@ def test_species_is_cached_after_first_request(client):
     assert first.json()["names"]["scientific"] == "Parus major"
 
 
+def test_species_documents_carry_a_completeness_report(client):
+    sp = client.get("/species/Parus%20major?lang=en").json()
+    core = sp["completeness"]["core"]
+    assert 0 < core["score"] < 1 and core["total"] == 56 and core["filled"] == round(core["score"] * 56)
+    assert "demography" in core["missing"] and "habitat" in core["sections"]
+    assert "expert_verified" in sp["completeness"]
+
+
 def test_fa_and_en_share_one_entry(client):
     client.get("/species/Parus%20major?lang=fa")
     assert client.get("/species/Parus%20major?lang=en").headers["x-cache"] == "HIT"
@@ -81,6 +89,7 @@ def test_warmer_writes_the_keys_the_api_reads(tmp_path, monkeypatch):
     stored = json.loads(fake.get(CACHE_PREFIX + species_key("parus-major")))
     assert stored["names"]["en"] == "Great Tit"
     assert stored["score"] is None  # NaN would be invalid JSON
+    assert stored["completeness"]["core"]["total"] == 56  # the warmer stores what the API would serve
     assert warm_cache.flush_app_keys(fake) == 1
     assert fake.keys("*") == []
 

@@ -191,5 +191,12 @@
   "relatedSpecies": "İlgili türler",
   "iucnTag": "IUCN etiketi",
   "usageStats": "Anonim kullanım istatistikleri",
-  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok."
+  "usageStatsSubtitle": "OpenBird'ü geliştirmeye yardımcı olmak için hangi özelliklerin kullanıldığını paylaşın. Kişisel veri yok.",
+  "dataCompleteness": "Veri tamlığı",
+  "fieldsFilled": "{total} alandan {filled} tanesinde veri var",
+  "missingInformation": "Henüz mevcut değil",
+  "missingInformationHint": "Bu tür için bu alanlarda henüz veri toplanmadı.",
+  "expertCuratedNote": "Veteriner bakımı ve zenginleştirme bilgileri uzmanlarca yazılır ve yalnızca birkaç tür için mevcuttur.",
+  "eggLength": "Yumurta uzunluğu",
+  "eggWidth": "Yumurta genişliği"
 }

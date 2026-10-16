@@ -11,6 +11,7 @@ Global bird species database (~11,000 species) as Markdown files with comprehens
 - **Per-species git commits** - full change history for every bird
 - **Public website** (Next.js) with a language selector, search filters, taxonomy browser and per-species pages
 - **REST + GraphQL API** (FastAPI) with MeiliSearch keyword + vector search and a Redis cache
+- **Data completeness** shown on every species page (which fields have data, which are missing)
 - **Analytics** (first-party, privacy-friendly): page views, bird clicks, searches, languages, time on page, with a dashboard at `/analytics`
 - **Mobile app** (Flutter) in 13 languages, debug APKs published with every push
 - **Extensible** - JSON Schema validation, Jinja2 templates

@@ -3,18 +3,22 @@
 
 - birds added over time (first git commit of each species file; skipped when not a git checkout)
 - species-name coverage per language and UI translation coverage (Flutter .arb files)
-- data completeness per species (share of filled fields), by order, by section, data quality
+- data completeness per species (see _scripts/completeness.py), by field, section and order, data quality
 
 Run after the species data changes (it takes about a minute):  python _scripts/content_stats.py
 """
 
 import json
 import subprocess
+import sys
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from _scripts.completeness import CORE_FIELDS, evaluate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BIRDS_DIR = ROOT / "birds"
@@ -22,32 +26,7 @@ ARB_DIR = ROOT / "flutter_app" / "lib" / "l10n"
 OUT = ROOT / "_index" / "content-stats.json"
 
 LANGS = ["en", "fa", "ar", "es", "fr", "de", "pt", "ru", "ja", "zh", "nl", "pl", "tr"]
-SECTIONS = ["morphology", "distribution", "habitat", "diet", "behavior", "reproduction",
-            "demography", "conservation", "veterinary", "enrichment"]
-META_KEYS = {"source", "contributor", "date_added", "verified"}
-EMPTY_STRINGS = {"", "nan", "Unknown", "No Information"}
 Loader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
-
-
-def leaves(node, skip_meta=True):
-    """Yield every leaf value below `node` (dicts are walked, lists count as one leaf)."""
-    if isinstance(node, dict):
-        for key, value in node.items():
-            if skip_meta and key in META_KEYS:
-                continue
-            yield from leaves(value, skip_meta)
-    else:
-        yield node
-
-
-def is_filled(value) -> bool:
-    if value is None:
-        return False
-    if isinstance(value, str):
-        return value.strip() not in EMPTY_STRINGS
-    if isinstance(value, (list, dict)):
-        return len(value) > 0
-    return True  # numbers (including 0) and booleans are real values
 
 
 def parse(path: Path):
@@ -107,9 +86,11 @@ def main():
     completeness_by_order = defaultdict(list)
     histogram = Counter()
     section_filled = Counter()
+    section_total = Counter()
+    field_filled = Counter()
     data_quality = Counter()
     curated = Counter()
-    scores, added_ts = [], []
+    scores, lowest, added_ts = [], [], []
 
     for path in files:
         fm = parse(path)
@@ -120,29 +101,31 @@ def main():
             if names.get(lang):
                 name_counts[lang] += 1
 
-        total = filled = 0
-        for section in SECTIONS:
-            node = fm.get(section)
-            values = list(leaves(node)) if node else []
-            total += len(values)
-            got = sum(1 for v in values if is_filled(v))
-            filled += got
-            if got:
-                section_filled[section] += 1
+        report = evaluate(fm)
+        core = report["core"]
+        scores.append(core["score"])
+        lowest.append((core["score"], names.get("scientific") or path.stem, names.get("en") or ""))
+        histogram[min(int(core["score"] * 10), 9)] += 1
+        completeness_by_order[(fm.get("taxonomy") or {}).get("order", "Unknown")].append(core["score"])
+        data_quality[fm.get("data_quality") or "Unknown"] += 1
+        for section, counts in core["sections"].items():
+            section_filled[section] += counts["filled"]
+            section_total[section] += counts["total"]
+        for section, fields in CORE_FIELDS.items():
+            gaps = set(core["missing"].get(section, []))
+            for field in fields:
+                if field not in gaps:
+                    field_filled[f"{section}.{field}"] += 1
         for section in ("veterinary", "enrichment"):
             if (fm.get(section) or {}).get("verified") is True:
                 curated[section] += 1
-        score = filled / total if total else 0.0
-        scores.append(score)
-        histogram[min(int(score * 10), 9)] += 1
-        completeness_by_order[(fm.get("taxonomy") or {}).get("order", "Unknown")].append(score)
-        data_quality[fm.get("data_quality") or "Unknown"] += 1
 
         rel = path.relative_to(ROOT).as_posix()
         if rel in adds:
             added_ts.append(adds[rel])
 
     n = len(scores)
+    lowest.sort()
     stats = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "total_species": n,
@@ -156,14 +139,25 @@ def main():
             "ui": ui_coverage(),
         },
         "completeness": {
+            # share of the schema's core fields that have data, averaged over all species
             "average": round(sum(scores) / n, 4) if n else 0,
+            "fields_per_species": sum(len(v) for v in CORE_FIELDS.values()),
             "histogram": [{"bucket": f"{i * 10}-{i * 10 + 10}%", "count": histogram.get(i, 0)} for i in range(10)],
             "by_order": sorted(
                 ({"order": o, "average": round(sum(v) / len(v), 4), "species": len(v)}
                  for o, v in completeness_by_order.items()),
                 key=lambda r: -r["species"],
             ),
-            "by_section": {s: round(section_filled.get(s, 0) / n, 4) if n else 0 for s in SECTIONS},
+            # average fill per section, and the fill rate of every single field (the gaps, worst first)
+            "by_section": {s: round(section_filled[s] / section_total[s], 4) if section_total[s] else 0
+                           for s in CORE_FIELDS},
+            "by_field": sorted(
+                ({"field": f"{s}.{f}", "filled": round(field_filled[f"{s}.{f}"] / n, 4) if n else 0}
+                 for s, names_ in CORE_FIELDS.items() for f in names_),
+                key=lambda r: r["filled"],
+            ),
+            "least_complete": [{"scientific": sci, "english": en, "score": round(score, 4)}
+                               for score, sci, en in lowest[:15]],
             "data_quality": dict(data_quality),
             "expert_verified": {s: curated.get(s, 0) for s in ("veterinary", "enrichment")},
         },

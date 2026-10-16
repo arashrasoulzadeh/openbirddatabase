@@ -3,6 +3,7 @@
 #   ./deploy.sh               pull the code, download the images CI built for this commit, restart (no compiling)
 #   ./deploy.sh --if-changed  do nothing unless a newer commit exists (for cron, see docs/DEPLOYMENT.md)
 #   ./deploy.sh --build       build the images on this server instead, then trim Docker's build cache
+#   ./deploy.sh --no-warm     skip refilling the Redis cache after the deploy
 #
 # Environment: WAIT_MINUTES (default 15) how long to wait for CI to publish the images,
 #              BUILD_CACHE_LIMIT (default 1GB) build cache kept after --build
@@ -13,11 +14,13 @@ WAIT_MINUTES="${WAIT_MINUTES:-15}"
 LIMIT="${BUILD_CACHE_LIMIT:-1GB}"
 MODE=prebuilt
 IF_CHANGED=0
+WARM=1
 for arg in "$@"; do
   case "$arg" in
     --build) MODE=build ;;
     --if-changed) IF_CHANGED=1 ;;
-    *) echo "Usage: ./deploy.sh [--if-changed] [--build]" >&2; exit 2 ;;
+    --no-warm) WARM=0 ;;
+    *) echo "Usage: ./deploy.sh [--if-changed] [--build] [--no-warm]" >&2; exit 2 ;;
   esac
 done
 
@@ -70,9 +73,18 @@ verify() {
   exit 1
 }
 
+# Refill the Redis cache (species, taxonomy, filters, common searches) so the first visitors get fast answers
+warm() {
+  if [ "$WARM" -eq 1 ]; then
+    echo "Warming the cache (about a minute)..."
+    docker compose run --rm cache-warmer || echo "Cache warm-up failed; the cache will fill itself as pages are visited." >&2
+  fi
+}
+
 if [ "$MODE" = "build" ]; then
   docker compose up -d --build
   verify
+  warm
   # The build cache holds node_modules, npm's and pip's download caches and Next.js's compile cache.
   # Least recently used entries go first, so the next build is still fast. Docker 27+ renamed the flag.
   docker builder prune -f --reserved-space "$LIMIT" 2>/dev/null \
@@ -112,5 +124,6 @@ fi
 
 docker compose up -d
 verify
+warm
 docker image prune -f >/dev/null
 echo "Deployed ${HEAD_SHA:0:8} from prebuilt images."

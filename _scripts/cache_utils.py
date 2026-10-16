@@ -7,7 +7,7 @@ from datetime import date, datetime
 from typing import Any
 
 # Bump when the cached JSON shape changes: old keys are simply never read again.
-CACHE_PREFIX = "ob:v1:"
+CACHE_PREFIX = "ob:v2:"  # v2: species documents carry a "completeness" report
 
 
 def slug_of(scientific_name: str) -> str:

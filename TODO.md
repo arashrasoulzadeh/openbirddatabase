@@ -274,15 +274,17 @@ Languages: fa, en, +432 more
 2. **Add more languages** (Hebrew, Hindi, Indonesian, Korean, Italian, etc.). UI strings live in `flutter_app/lib/l10n/*.arb`, data values in `frontend/src/lib/i18n/values.json`
 3. **Species images** (needs a licensed source such as Wikimedia Commons; the species files hold none yet)
 4. **Mobile app enhancements** (offline sync, audio playback)
-5. **Web app enhancements** (dark mode, comparison tool, range maps, stats page, checklist export)
-6. **Release builds**: signed release APK and an iOS build in CI (only unsigned debug APKs are built today)
-7. **Expo app** (`mobile/`): still calls the old `/api/...` endpoints; adapt it to the real API like `flutter_app/lib/services/api_mapper.dart`
-8. **Verify vector search** on the server (`/health` should report `"vector_search": true` after the indexer ran)
+5. **Fill the data gaps** (average completeness is about 40%): AVONET (bill/tarsus/wing/tail length, mass), IUCN generation length + AnAge (demography), GBIF (countries), Xeno-canto (recordings), Arabic/Chinese names; each needs a source decision, taxonomy matching and a licence check
+6. **Web app enhancements** (dark mode, comparison tool, range maps, stats page, checklist export)
+7. **Release builds**: signed release APK and an iOS build in CI (only unsigned debug APKs are built today)
+8. **Expo app** (`mobile/`): still calls the old `/api/...` endpoints; adapt it to the real API like `flutter_app/lib/services/api_mapper.dart`
+9. **Verify vector search** on the server (`/health` should report `"vector_search": true` after the indexer ran)
 
 ---
 
 ## Completed (Recent)
 
+- [x] **Data completeness**: measured against the 56 core schema fields (`_scripts/completeness.py`); shown on every species page and on the dashboard (biggest gaps, by section/order, least complete birds); `deploy.sh` warms the cache after deploying
 - [x] **Private-server operations**: `./deploy.sh --if-changed` for cron, post-deploy health check with rollback hint, private-registry login guidance, `./backup.sh` + `backup_analytics.py` (restore documented), images carry their own data (no bind mounts)
 - [x] **Prebuilt Docker images**: `publish-images.yml` builds the website and API images in CI and publishes them to ghcr.io; `./deploy.sh` waits for the images of the pulled commit and restarts without compiling on the server
 - [x] **Analytics**: event collection (`POST /analytics/event`, SQLite on a volume), dashboard at `/analytics` (live visitors, KPIs, traffic, bird clicks, searches incl. zero-result, per-page history, languages, devices, referrers, content stats: birds added over time, language coverage, completeness), token protection, demo data generator, tests; the Flutter app reports the same events (with an opt-out in Settings)

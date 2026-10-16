@@ -116,6 +116,8 @@ MeiliSearch-compatible JSON with:
   (habitat, diet, ...) are translated in `frontend/src/lib/i18n/values.json`.
 - **YAML numbers are not always ints**: e.g. `taxon_order: 22163.0`. Flutter models parse with tolerant helpers
   (`_asInt`, `_asDouble`, ...); `test/unit/real_data_test.dart` parses real species files to guard this.
+- **Completeness**: measured against the schema's core fields (`_scripts/completeness.py`), not against what a file happens to
+  contain. Expect about 40%; gaps need new data sources, not code fixes.
 - **Images carry their data**: the API image contains `birds/` and `_index/` (no bind mounts), so data changes reach the
   server only through a new image (push, CI publishes, `./deploy.sh`).
 - **API shapes**: `/search` hits are flat documents; `/species/{name}` returns the nested frontmatter; `/taxonomy`

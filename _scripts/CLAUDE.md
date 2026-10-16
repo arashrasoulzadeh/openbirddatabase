@@ -15,6 +15,9 @@ Ingestion, curation, export, search and API tooling. Run from repo root with `PY
   `ANALYTICS_DB`, `ANALYTICS_TOKEN`, `ANALYTICS_ENABLED`, `ANALYTICS_RETENTION_DAYS`. No IPs/user agents stored; bots and DNT ignored.
   `content_stats.py` writes `_index/content-stats.json` (birds added from git, language coverage, completeness);
   `seed_analytics.py` fills a throwaway DB with fake traffic for previews.
+- `completeness.py`: the shared definition of "complete" (56 core schema fields + expert sections); the API adds a
+  `completeness` report to every species document, the warmer stores the same, `content_stats.py` aggregates it.
+  Change the field lists there, then re-run `content_stats.py`.
 - `backup_analytics.py`: consistent gzip backup/restore of the analytics SQLite DB (used by `../backup.sh`)
 - Tests: `test_ingestion.py`, `test_cache.py` (fake Redis), `test_analytics.py` and `test_backup.py` (temporary SQLite); none need servers
 - Scripts that rewrite `../birds/` touch thousands of files: run on a subset first and check `git diff --stat`.

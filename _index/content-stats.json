@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T09:33:57+00:00",
+ "generated_at": "2026-10-16T09:33:59+00:00",
  "total_species": 11149,
  "added": {
   "by_day": [
@@ -46,74 +46,75 @@
   },
   "ui": {
    "en": {
-    "total": 190,
-    "present": 190,
-    "translated": 190
+    "total": 193,
+    "present": 193,
+    "translated": 193
    },
    "fa": {
-    "total": 190,
-    "present": 190,
-    "translated": 190
+    "total": 193,
+    "present": 193,
+    "translated": 193
    },
    "ar": {
-    "total": 190,
-    "present": 190,
-    "translated": 190
+    "total": 193,
+    "present": 193,
+    "translated": 193
    },
    "es": {
-    "total": 190,
-    "present": 190,
-    "translated": 185
+    "total": 193,
+    "present": 193,
+    "translated": 188
    },
    "fr": {
-    "total": 190,
-    "present": 190,
-    "translated": 179
+    "total": 193,
+    "present": 193,
+    "translated": 182
    },
    "de": {
-    "total": 190,
-    "present": 190,
-    "translated": 184
+    "total": 193,
+    "present": 193,
+    "translated": 187
    },
    "pt": {
-    "total": 190,
-    "present": 190,
-    "translated": 185
+    "total": 193,
+    "present": 193,
+    "translated": 188
    },
    "ru": {
-    "total": 190,
-    "present": 190,
-    "translated": 188
+    "total": 193,
+    "present": 193,
+    "translated": 191
    },
    "ja": {
-    "total": 190,
-    "present": 190,
-    "translated": 186
+    "total": 193,
+    "present": 193,
+    "translated": 189
    },
    "zh": {
-    "total": 190,
-    "present": 190,
-    "translated": 187
+    "total": 193,
+    "present": 193,
+    "translated": 190
    },
    "nl": {
-    "total": 190,
-    "present": 190,
-    "translated": 183
+    "total": 193,
+    "present": 193,
+    "translated": 186
    },
    "pl": {
-    "total": 190,
-    "present": 190,
-    "translated": 188
+    "total": 193,
+    "present": 193,
+    "translated": 191
    },
    "tr": {
-    "total": 190,
-    "present": 190,
-    "translated": 187
+    "total": 193,
+    "present": 193,
+    "translated": 190
    }
   }
  },
  "completeness": {
-  "average": 0.7711,
+  "average": 0.4044,
+  "fields_per_species": 56,
   "histogram": [
    {
     "bucket": "0-10%",
@@ -121,35 +122,35 @@
    },
    {
     "bucket": "10-20%",
-    "count": 0
-   },
-   {
-    "bucket": "20-30%",
-    "count": 0
-   },
-   {
-    "bucket": "30-40%",
-    "count": 0
-   },
-   {
-    "bucket": "40-50%",
-    "count": 0
-   },
-   {
-    "bucket": "50-60%",
-    "count": 0
-   },
-   {
-    "bucket": "60-70%",
     "count": 504
    },
    {
+    "bucket": "20-30%",
+    "count": 131
+   },
+   {
+    "bucket": "30-40%",
+    "count": 3460
+   },
+   {
+    "bucket": "40-50%",
+    "count": 6996
+   },
+   {
+    "bucket": "50-60%",
+    "count": 58
+   },
+   {
+    "bucket": "60-70%",
+    "count": 0
+   },
+   {
     "bucket": "70-80%",
-    "count": 10600
+    "count": 0
    },
    {
     "bucket": "80-90%",
-    "count": 45
+    "count": 0
    },
    {
     "bucket": "90-100%",
@@ -159,242 +160,543 @@
   "by_order": [
    {
     "order": "Passeriformes",
-    "average": 0.7721,
+    "average": 0.4024,
     "species": 6712
    },
    {
     "order": "Apodiformes",
-    "average": 0.7745,
+    "average": 0.418,
     "species": 476
    },
    {
     "order": "Piciformes",
-    "average": 0.7713,
+    "average": 0.402,
     "species": 439
    },
    {
     "order": "Psittaciformes",
-    "average": 0.7642,
+    "average": 0.3946,
     "species": 407
    },
    {
     "order": "Charadriiformes",
-    "average": 0.7646,
+    "average": 0.4075,
     "species": 392
    },
    {
     "order": "Columbiformes",
-    "average": 0.7686,
+    "average": 0.3956,
     "species": 350
    },
    {
     "order": "Galliformes",
-    "average": 0.778,
+    "average": 0.4254,
     "species": 307
    },
    {
     "order": "Accipitriformes",
-    "average": 0.7575,
+    "average": 0.3819,
     "species": 252
    },
    {
     "order": "Strigiformes",
-    "average": 0.7642,
+    "average": 0.3811,
     "species": 245
    },
    {
     "order": "Gruiformes",
-    "average": 0.7522,
+    "average": 0.3603,
     "species": 190
    },
    {
     "order": "Coraciiformes",
-    "average": 0.7714,
+    "average": 0.409,
     "species": 185
    },
    {
     "order": "Anseriformes",
-    "average": 0.7832,
+    "average": 0.4575,
     "species": 177
    },
    {
     "order": "Cuculiformes",
-    "average": 0.7664,
+    "average": 0.3851,
     "species": 156
    },
    {
     "order": "Procellariiformes",
-    "average": 0.781,
+    "average": 0.4495,
     "species": 147
    },
    {
     "order": "Pelecaniformes",
-    "average": 0.769,
+    "average": 0.4104,
     "species": 120
    },
    {
     "order": "Caprimulgiformes",
-    "average": 0.7696,
+    "average": 0.4111,
     "species": 98
    },
    {
     "order": "Bucerotiformes",
-    "average": 0.7775,
+    "average": 0.4362,
     "species": 75
    },
    {
     "order": "Falconiformes",
-    "average": 0.7696,
+    "average": 0.4157,
     "species": 65
    },
    {
     "order": "Suliformes",
-    "average": 0.7855,
+    "average": 0.4444,
     "species": 54
    },
    {
     "order": "Trogoniformes",
-    "average": 0.767,
+    "average": 0.4046,
     "species": 47
    },
    {
     "order": "Tinamiformes",
-    "average": 0.7764,
+    "average": 0.4158,
     "species": 46
    },
    {
     "order": "Otidiformes",
-    "average": 0.772,
+    "average": 0.421,
     "species": 26
    },
    {
     "order": "Musophagiformes",
-    "average": 0.7474,
+    "average": 0.3672,
     "species": 23
    },
    {
     "order": "Podicipediformes",
-    "average": 0.7815,
+    "average": 0.444,
     "species": 22
    },
    {
     "order": "Ciconiiformes",
-    "average": 0.7817,
+    "average": 0.4473,
     "species": 20
    },
    {
     "order": "Sphenisciformes",
-    "average": 0.7879,
+    "average": 0.4784,
     "species": 19
    },
    {
     "order": "Podargiformes",
-    "average": 0.7681,
+    "average": 0.4085,
     "species": 16
    },
    {
     "order": "Pterocliformes",
-    "average": 0.7732,
+    "average": 0.4386,
     "species": 16
    },
    {
     "order": "Aegotheliformes",
-    "average": 0.7678,
+    "average": 0.3661,
     "species": 10
    },
    {
     "order": "Cathartiformes",
-    "average": 0.7797,
+    "average": 0.4515,
     "species": 7
    },
    {
     "order": "Nyctibiiformes",
-    "average": 0.7762,
+    "average": 0.4362,
     "species": 7
    },
    {
     "order": "Coliiformes",
-    "average": 0.7728,
+    "average": 0.4375,
     "species": 6
    },
    {
     "order": "Phoenicopteriformes",
-    "average": 0.7828,
+    "average": 0.4553,
     "species": 6
    },
    {
     "order": "Apterygiformes",
-    "average": 0.7672,
+    "average": 0.4178,
     "species": 5
    },
    {
     "order": "Gaviiformes",
-    "average": 0.784,
+    "average": 0.4643,
     "species": 5
    },
    {
     "order": "Casuariiformes",
-    "average": 0.7841,
+    "average": 0.4643,
     "species": 4
    },
    {
     "order": "Mesitornithiformes",
-    "average": 0.7871,
+    "average": 0.4643,
     "species": 3
    },
    {
     "order": "Phaethontiformes",
-    "average": 0.7857,
+    "average": 0.4762,
     "species": 3
    },
    {
     "order": "Cariamiformes",
-    "average": 0.7756,
+    "average": 0.4375,
     "species": 2
    },
    {
     "order": "Eurypygiformes",
-    "average": 0.7898,
+    "average": 0.4732,
     "species": 2
    },
    {
     "order": "Rheiformes",
-    "average": 0.7803,
+    "average": 0.4375,
     "species": 2
    },
    {
     "order": "Struthioniformes",
-    "average": 0.7865,
+    "average": 0.4821,
     "species": 2
    },
    {
     "order": "Leptosomiformes",
-    "average": 0.7753,
+    "average": 0.4643,
     "species": 1
    },
    {
     "order": "Opisthocomiformes",
-    "average": 0.7865,
+    "average": 0.4821,
     "species": 1
    },
    {
     "order": "Steatornithiformes",
-    "average": 0.7865,
+    "average": 0.4821,
     "species": 1
    }
   ],
   "by_section": {
-   "morphology": 0.8783,
-   "distribution": 1.0,
-   "habitat": 1.0,
-   "diet": 1.0,
-   "behavior": 1.0,
-   "reproduction": 0.8101,
+   "morphology": 0.1255,
+   "distribution": 0.5164,
+   "habitat": 0.8183,
+   "diet": 0.7265,
+   "behavior": 0.4846,
+   "reproduction": 0.3454,
    "demography": 0.0,
-   "conservation": 1.0,
-   "veterinary": 1.0,
-   "enrichment": 1.0
+   "conservation": 0.5
   },
+  "by_field": [
+   {
+    "field": "morphology.body_length_cm",
+    "filled": 0.0
+   },
+   {
+    "field": "morphology.wingspan_cm",
+    "filled": 0.0
+   },
+   {
+    "field": "morphology.bill_length_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "morphology.tarsus_length_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "morphology.wing_length_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "morphology.tail_length_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "distribution.non_breeding_range",
+    "filled": 0.0
+   },
+   {
+    "field": "distribution.countries",
+    "filled": 0.0
+   },
+   {
+    "field": "habitat.secondary",
+    "filled": 0.0
+   },
+   {
+    "field": "diet.foraging_niches",
+    "filled": 0.0
+   },
+   {
+    "field": "behavior.flock_size_typical",
+    "filled": 0.0
+   },
+   {
+    "field": "behavior.vocalizations.song",
+    "filled": 0.0
+   },
+   {
+    "field": "behavior.vocalizations.calls",
+    "filled": 0.0
+   },
+   {
+    "field": "behavior.xeno_canto_ids",
+    "filled": 0.0
+   },
+   {
+    "field": "reproduction.egg_length_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "reproduction.egg_width_mm",
+    "filled": 0.0
+   },
+   {
+    "field": "reproduction.broods_per_year",
+    "filled": 0.0
+   },
+   {
+    "field": "reproduction.nest_material",
+    "filled": 0.0
+   },
+   {
+    "field": "reproduction.mating_system",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.generation_length_years",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.max_longevity_years",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.annual_survival_adult",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.annual_survival_juvenile",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.population_trend",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.population_size",
+    "filled": 0.0
+   },
+   {
+    "field": "demography.density_individuals_per_km2",
+    "filled": 0.0
+   },
+   {
+    "field": "conservation.threats",
+    "filled": 0.0
+   },
+   {
+    "field": "conservation.conservation_actions",
+    "filled": 0.0
+   },
+   {
+    "field": "distribution.breeding_range",
+    "filled": 0.1436
+   },
+   {
+    "field": "reproduction.fledging_days",
+    "filled": 0.311
+   },
+   {
+    "field": "reproduction.parental_care",
+    "filled": 0.3458
+   },
+   {
+    "field": "reproduction.incubation_days",
+    "filled": 0.3558
+   },
+   {
+    "field": "behavior.sociality",
+    "filled": 0.5624
+   },
+   {
+    "field": "reproduction.nest_type",
+    "filled": 0.6751
+   },
+   {
+    "field": "reproduction.nest_placement",
+    "filled": 0.69
+   },
+   {
+    "field": "reproduction.clutch_size_mean",
+    "filled": 0.6909
+   },
+   {
+    "field": "reproduction.clutch_size_min",
+    "filled": 0.6977
+   },
+   {
+    "field": "reproduction.clutch_size_max",
+    "filled": 0.7241
+   },
+   {
+    "field": "morphology.body_mass_g",
+    "filled": 0.8783
+   },
+   {
+    "field": "behavior.migration_status",
+    "filled": 0.8994
+   },
+   {
+    "field": "behavior.movement_type",
+    "filled": 0.8999
+   },
+   {
+    "field": "diet.categories",
+    "filled": 0.9529
+   },
+   {
+    "field": "diet.primary",
+    "filled": 0.953
+   },
+   {
+    "field": "distribution.biogeographic_realms",
+    "filled": 0.9548
+   },
+   {
+    "field": "habitat.primary",
+    "filled": 0.9548
+   },
+   {
+    "field": "habitat.habitat_types",
+    "filled": 0.9548
+   },
+   {
+    "field": "distribution.endemic",
+    "filled": 1.0
+   },
+   {
+    "field": "distribution.island_endemic",
+    "filled": 1.0
+   },
+   {
+    "field": "habitat.habitat_breadth",
+    "filled": 1.0
+   },
+   {
+    "field": "habitat.elevational_min_m",
+    "filled": 1.0
+   },
+   {
+    "field": "habitat.elevational_max_m",
+    "filled": 1.0
+   },
+   {
+    "field": "diet.diet_breadth",
+    "filled": 1.0
+   },
+   {
+    "field": "behavior.territorial",
+    "filled": 1.0
+   },
+   {
+    "field": "behavior.activity_pattern",
+    "filled": 1.0
+   },
+   {
+    "field": "conservation.iucn_status",
+    "filled": 1.0
+   },
+   {
+    "field": "conservation.cites_appendix",
+    "filled": 1.0
+   }
+  ],
+  "least_complete": [
+   {
+    "scientific": "Acrochordopus burmeisteri",
+    "english": "Rough-legged Tyrannulet",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Acrochordopus zeledoni",
+    "english": "White-fronted Tyrannulet",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura cyanouroptera",
+    "english": "Blue-winged Minla",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura morrisoniana",
+    "english": "Taiwan Barwing",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura nipalensis",
+    "english": "Hoary-throated Barwing",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura souliei",
+    "english": "Streaked Barwing",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura strigula",
+    "english": "Bar-throated Minla",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Actinodura waldeni",
+    "english": "Streak-throated Barwing",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Aegithalos exilis",
+    "english": "Pygmy Bushtit",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Aenigmatolimnas marginalis",
+    "english": "Striped Crake",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Aerospiza castanilius",
+    "english": "Chestnut-flanked Sparrowhawk",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Aerospiza tachiro",
+    "english": "African Goshawk",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Amirafra angolensis",
+    "english": "Angola Lark",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Amirafra collaris",
+    "english": "Collared Lark",
+    "score": 0.1786
+   },
+   {
+    "scientific": "Amirafra rufocinnamomea",
+    "english": "Flappet Lark",
+    "score": 0.1786
+   }
+  ],
   "data_quality": {
    "High": 10645,
    "Low": 504

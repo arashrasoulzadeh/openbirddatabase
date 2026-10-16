@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useCallback, useEffect, useState } from 'react';
 import { API_URL } from '@/lib/config';
 import { nativeName } from '@/lib/i18n/locales';
+import { fieldLabel } from '@/lib/i18n/translate';
 import BarList from '@/components/charts/BarList';
 import { Card, Kpi } from '@/components/charts/Card';
 import Columns from '@/components/charts/Columns';
@@ -322,7 +323,7 @@ export default function AnalyticsPage() {
             </p>
             <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
               <Kpi label="Species" value={fmt(content.total_species)} />
-              <Kpi label="Average data completeness" value={pct(content.completeness.average)} hint="filled fields per species" />
+              <Kpi label="Average data completeness" value={pct(content.completeness.average)} hint={`of ${content.completeness.fields_per_species} schema fields`} />
               <Kpi label="Expert-verified veterinary" value={fmt(content.completeness.expert_verified.veterinary)} hint="species" />
               <Kpi label="Expert-verified enrichment" value={fmt(content.completeness.expert_verified.enrichment)} hint="species" />
             </div>
@@ -372,12 +373,37 @@ export default function AnalyticsPage() {
               <Card title="Data quality">
                 <Donut label="Data quality" items={Object.entries(content.completeness.data_quality as Record<string, number>).map(([label, value]) => ({ label, value }))} />
               </Card>
-              <Card title="Sections filled" subtitle="Share of species with data in each section">
+              <Card title="Completeness by section" subtitle="Average share of each section's fields that have data">
                 <BarList
                   max={1}
                   format={pct}
                   color="#7c3aed"
-                  items={Object.entries(content.completeness.by_section as Record<string, number>).map(([label, value]) => ({ label, value })).sort((a, b) => b.value - a.value)}
+                  items={Object.entries(content.completeness.by_section as Record<string, number>).map(([label, value]) => ({ label: fieldLabel('en', label), value })).sort((a, b) => a.value - b.value)}
+                />
+              </Card>
+              <Card title="Biggest data gaps" subtitle="Share of species that have data in the field (lowest first)" className="lg:col-span-2">
+                <BarList
+                  max={1}
+                  format={pct}
+                  color="#e11d48"
+                  items={content.completeness.by_field.slice(0, 24).map((f: any) => ({
+                    label: fieldLabel('en', f.field),
+                    hint: f.field.split('.')[0],
+                    value: f.filled,
+                  }))}
+                />
+              </Card>
+              <Card title="Least complete birds" subtitle="Lowest share of fields with data">
+                <BarList
+                  max={1}
+                  format={pct}
+                  color="#d97706"
+                  items={content.completeness.least_complete.map((b: any) => ({
+                    label: b.scientific,
+                    hint: b.english,
+                    value: b.score,
+                    href: `/species/${encodeURIComponent(b.scientific)}`,
+                  }))}
                 />
               </Card>
               <Card title="Completeness by order" subtitle="Average share of filled fields, largest orders first">

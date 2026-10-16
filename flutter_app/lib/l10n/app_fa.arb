@@ -191,5 +191,12 @@
   "relatedSpecies": "گونه‌های مرتبط",
   "iucnTag": "برچسب IUCN",
   "usageStats": "آمار استفاده ناشناس",
-  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی."
+  "usageStatsSubtitle": "با اشتراک‌گذاری ویژگی‌های مورد استفاده به بهبود OpenBird کمک کنید. بدون داده شخصی.",
+  "dataCompleteness": "کامل بودن داده‌ها",
+  "fieldsFilled": "{filled} از {total} فیلد دارای داده است",
+  "missingInformation": "هنوز در دسترس نیست",
+  "missingInformationHint": "برای این گونه هنوز داده‌ای برای این فیلدها جمع‌آوری نشده است.",
+  "expertCuratedNote": "اطلاعات مراقبت‌های دامپزشکی و غنی‌سازی را متخصصان می‌نویسند و فقط برای چند گونه موجود است.",
+  "eggLength": "طول تخم",
+  "eggWidth": "عرض تخم"
 }
