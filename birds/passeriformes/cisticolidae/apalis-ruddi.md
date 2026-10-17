@@ -12,7 +12,7 @@ names:
   es: Apalis de Rudd
   fr: Apalis de Rudd
   de: Flechtenfeinsänger
-  pt: rudd's apalis
+  pt: ''
   ru: Пёстрый апалис
   ja: マユイロムシクイ
   nl: Ruddapalis

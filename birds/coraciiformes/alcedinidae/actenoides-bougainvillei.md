@@ -12,7 +12,7 @@ names:
   es: Alción Bigotudo de Bougainville
   fr: Martin-chasseur à moustaches
   de: Bartliest
-  pt: moustached kingfisher
+  pt: ''
   ru: Усатый зимородок
   ja: ブーゲンビルショウビン
   nl: Salomonsbosijsvogel

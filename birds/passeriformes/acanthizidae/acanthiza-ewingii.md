@@ -12,7 +12,7 @@ names:
   es: Acantiza de Tasmania
   fr: Acanthize de Tasmanie
   de: Tasmandornschnabel
-  pt: tasmanian thornbill
+  pt: ''
   ru: Тасманийская шипоклювка
   ja: タスマニアトゲハシムシクイ
   nl: Tasmaanse doornsnavel

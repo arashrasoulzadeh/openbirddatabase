@@ -12,7 +12,7 @@ names:
   es: Abejaruco de Böhm
   fr: Guêpier de Böhm
   de: Böhmspint
-  pt: böhm's bee-eater
+  pt: ''
   ru: Рыжеголовая щурка
   ja: ズアカハチクイ
   nl: Oranjekopbijeneter

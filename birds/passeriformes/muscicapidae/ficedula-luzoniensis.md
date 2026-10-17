@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29589.0
 names:
   scientific: Ficedula luzoniensis
-  fa: nan
+  fa: ''
   en: Bundok Flycatcher
   es: Papamoscas de Luzón
   fr: Gobemouche buissonnier
   de: Dickichtschnäpper
-  pt: bundok flycatcher
+  pt: ''
   ru: Филиппинская мухоловка
   ja: ルソンヤマビタキ
   nl: Bundokvliegenvanger

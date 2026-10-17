@@ -12,7 +12,7 @@ names:
   es: Polluela Estriada
   fr: Râle affin
   de: Streifenralle
-  pt: striped flufftail
+  pt: ''
   ru: Рыжехвостая жемчужная курочка
   ja: クリオシマクイナ
   zh: 栗尾侏秧鸡

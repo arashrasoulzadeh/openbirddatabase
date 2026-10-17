@@ -12,7 +12,7 @@ names:
   es: Picogrueso Azul
   fr: Évêque paré
   de: Lasurkardinal
-  pt: blue bunting
+  pt: ''
   ru: Кобальтовая гуирака
   ja: コクロルリノジコ
   nl: Azuurbisschop

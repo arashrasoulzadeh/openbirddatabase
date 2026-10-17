@@ -12,7 +12,7 @@ names:
   es: Busardo Alirrufo
   fr: Busautour pâle
   de: Malaienbussard
-  pt: rufous-winged buzzard
+  pt: ''
   ru: Краснокрылый сарыч
   ja: チャバネサシバ
   zh: 棕翅鵟鹰

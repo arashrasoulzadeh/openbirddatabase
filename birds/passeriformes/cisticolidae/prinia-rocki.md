@@ -12,7 +12,7 @@ names:
   es: Prinia de Langbian
   fr: Prinia de Rock
   de: Annamprinie
-  pt: annam prinia
+  pt: ''
   ru: Далатская приния
   ja: アンナムハウチワドリ
   zh: 越南山鹪莺

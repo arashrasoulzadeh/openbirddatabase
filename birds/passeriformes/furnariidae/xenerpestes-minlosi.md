@@ -15,7 +15,7 @@ names:
   pt: double-banded graytail
   ru: Двухполосый серохвост
   ja: ウチワカマドドリ
-  zh: Double-banded Greytail
+  zh: ''
   nl: Bandgrijsstaart
   pl: szarogonek dwupręgowy
   tr: Çift Bantlı Grikuyruk

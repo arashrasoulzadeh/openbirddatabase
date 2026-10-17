@@ -12,7 +12,7 @@ names:
   es: Miná Dorado
   fr: Mino d'Anaïs
   de: Orangeatzel
-  pt: golden myna
+  pt: ''
   ru: Златогрудый мино
   ja: キムネムクドリ
   nl: Goudborstmaina

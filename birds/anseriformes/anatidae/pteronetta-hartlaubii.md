@@ -12,7 +12,7 @@ names:
   es: Pato de Hartlaub
   fr: Ptéronette de Hartlaub
   de: Hartlaubente
-  pt: hartlaub's duck
+  pt: ''
   ru: Утка Хартлауба
   ja: シラガガモ
   zh: 藍翅棲鴨

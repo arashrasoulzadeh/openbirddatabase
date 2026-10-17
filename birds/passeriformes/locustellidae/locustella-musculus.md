@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23823.0
 names:
   scientific: Locustella musculus
-  fa: nan
+  fa: ''
   en: Seram Bush Warbler
   es: Zarzalero de Ceram
   fr: Locustelle de Céram
   de: Seramschwirl
-  pt: seram bush warbler
+  pt: ''
   ru: Серамская пестрогрудка
   ja: セラムオウギセッカ
   zh: 斯兰短翅莺

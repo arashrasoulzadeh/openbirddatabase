@@ -12,7 +12,7 @@ names:
   es: Perico Elegante
   fr: Perruche de Pennant
   de: Pennantsittich
-  pt: crimson rosella
+  pt: ''
   ru: Синещёкая розелла
   ja: アカクサインコ
   zh: 紅玫瑰鸚鵡

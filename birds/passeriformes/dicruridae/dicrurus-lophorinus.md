@@ -12,7 +12,7 @@ names:
   es: Drongo Cingalés
   fr: Drongo drongup
   de: Regendrongo
-  pt: sri lanka drongo
+  pt: ''
   ru: Ланкийский дронго
   ja: スリランカオウチュウ
   zh: 錫蘭卷尾

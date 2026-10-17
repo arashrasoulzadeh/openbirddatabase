@@ -12,7 +12,7 @@ names:
   es: Cigüeñuela Negra
   fr: Échasse noire
   de: Rußstelzenläufer
-  pt: black stilt
+  pt: ''
   ru: Новозеландский ходулочник
   ja: クロセイタカシギ
   zh: 黑長腳鷸

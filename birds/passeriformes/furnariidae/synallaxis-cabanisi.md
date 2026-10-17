@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15608.0
 names:
   scientific: Synallaxis cabanisi
-  fa: nan
+  fa: ''
   en: Cabanis's Spinetail
   es: Pijuí de Cabanis
   fr: Synallaxe de Cabanis

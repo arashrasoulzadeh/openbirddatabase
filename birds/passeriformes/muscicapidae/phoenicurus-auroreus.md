@@ -12,7 +12,7 @@ names:
   es: Colirrojo Dáurico
   fr: Rougequeue aurore
   de: Spiegelrotschwanz
-  pt: daurian redstart
+  pt: ''
   ru: Сибирская горихвостка
   ja: ジョウビタキ
   zh: 北红尾鸲

@@ -12,7 +12,7 @@ names:
   es: Eurilaimo de las Bisayas
   fr: Eurylaime de Samar
   de: Samarbreitrachen
-  pt: visayan broadbill
+  pt: ''
   ru: Красноспинный рогоклюв
   ja: サマルモンツキヒロハシ
   zh: 米沙岛阔嘴鸟

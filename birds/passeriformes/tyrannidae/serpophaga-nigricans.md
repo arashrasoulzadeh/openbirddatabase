@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16753.0
 names:
   scientific: Serpophaga nigricans
-  fa: nan
+  fa: ''
   en: Sooty Tyrannulet
   es: Piojito Gris
   fr: Tyranneau noirâtre

@@ -12,7 +12,7 @@ names:
   es: Picocerdas Occidental
   fr: Dasyorne à long bec
   de: Tüpfelborstenvogel
-  pt: western bristlebird
+  pt: ''
   ru: Сероголовая щетинкоклювка
   ja: ハシナガヒゲムシクイ
   zh: 長嘴鬚鶯

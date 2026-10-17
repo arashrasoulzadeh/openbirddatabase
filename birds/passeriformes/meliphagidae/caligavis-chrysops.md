@@ -12,7 +12,7 @@ names:
   es: Mielero Carigualdo
   fr: Méliphage à joues d'or
   de: Dreistreifen-Honigfresser
-  pt: yellow-faced honeyeater
+  pt: ''
   ru: Желтолицый медосос
   ja: キホオコバシミツスイ
   zh: 黃臉吸蜜鳥

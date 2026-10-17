@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14477.0
 names:
   scientific: Formicarius analis
-  fa: nan
+  fa: ''
   en: Black-faced Antthrush
   es: Formicario Enmascarado
   fr: Tétéma coq-de-bois

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10726.0
 names:
   scientific: Psilopogon lagrandieri
-  fa: nan
+  fa: ''
   en: Red-vented Barbet
   es: Barbudo Ventrirrojo
   fr: Barbu à ventre rouge
   de: Rotsteiß-Bartvogel
-  pt: red-vented barbet
+  pt: ''
   ru: Красногузый бородастик
   ja: シリアカオオゴシキドリ
   zh: 红臀拟鴷

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7588.0
 names:
   scientific: Botaurus dubius
-  fa: nan
+  fa: ''
   en: Black-backed Bittern
   es: Avetorillo Australiano
   fr: Blongios d'Australie
   de: Schwarzmanteldommel
-  pt: black-backed bittern
+  pt: ''
   ru: Австралийский волчок
   ja: セグロヨシゴイ
   zh: 黑背葦鳽

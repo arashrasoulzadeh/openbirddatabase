@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21777.0
 names:
   scientific: Kempiella flavovirescens
-  fa: nan
+  fa: ''
   en: Olive Flyrobin
   es: Petroica Olivácea
   fr: Miro olive
   de: Aruschnäpper
-  pt: olive flyrobin
+  pt: ''
   ru: Оливковая дриада
   ja: オリーブヒタキ
   nl: Aroevliegenvanger

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 21900.0
 names:
   scientific: Hyliota usambara
-  fa: nan
+  fa: ''
   en: Usambara Hyliota
   es: Hiliota de Los Usambara
   fr: Hyliote des Usambara
   de: Usambarahyliota
-  pt: usambara hyliota
+  pt: ''
   ru: Узамбарская хилиота
   ja: ウサンバラムシクイヒタキ
   nl: Usambarahyliota

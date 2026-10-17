@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2375.0
 names:
   scientific: Zentrygon frenata
-  fa: nan
+  fa: ''
   en: White-throated Quail-Dove
   es: Paloma Perdiz Gorjiblanca
   fr: Colombe à gorge blanche
   de: Zügeltaube
-  pt: white-throated quail-dove
+  pt: ''
   ru: Белозобая перепелиная горлица
   ja: バラビタイウズラバト
   nl: Teugelkwartelduif

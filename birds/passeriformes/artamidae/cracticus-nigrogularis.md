@@ -12,7 +12,7 @@ names:
   es: Verdugo Gorjinegro
   fr: Cassican à gorge noire
   de: Schwarzkehl-Krähenstar
-  pt: pied butcherbird
+  pt: ''
   ru: Пегая флейтовая птица
   ja: ノドグロモズガラス
   zh: 黑喉鍾雀

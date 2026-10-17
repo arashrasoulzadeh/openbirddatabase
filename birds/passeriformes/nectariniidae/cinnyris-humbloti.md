@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30496.0
 names:
   scientific: Cinnyris humbloti
-  fa: nan
+  fa: ''
   en: Humblot's Sunbird
   es: Suimanga de Humblot
   fr: Souimanga de Humblot
   de: Schlichtmantel-Nektarvogel
-  pt: humblot's sunbird
+  pt: ''
   ru: Коморская нектарница
   ja: コモロタイヨウチョウ
   nl: Grande-Comorehoningzuiger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27724.0
 names:
   scientific: Aplonis striata
-  fa: nan
+  fa: ''
   en: Striated Starling
   es: Estornino de Nueva Caledonia
   fr: Stourne calédonien
   de: Dickschnabelstar
-  pt: striated starling
+  pt: ''
   ru: Новокаледонский скворец
   ja: カレドニアカラスモドキ
   nl: Dikbekpurperspreeuw

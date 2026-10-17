@@ -15,7 +15,7 @@ names:
   pt: indian yellow tit
   ru: Индийская синица
   ja: インドカンムリガラ
-  zh: Indian Black-lored Tit
+  zh: ''
   nl: Indiase kroonmees
   pl: sikora indyjska
   tr: Hint Altın Yüzlü Baştankarası

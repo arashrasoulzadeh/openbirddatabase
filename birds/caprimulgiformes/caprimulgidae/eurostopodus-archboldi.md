@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Archbold
   fr: Engoulevent d'Archbold
   de: Archboldnachtschwalbe
-  pt: archbold's nightjar
+  pt: ''
   ru: Белобровый козодой
   ja: ミヤマヒゲナシヨタカ
   zh: 阿氏毛腿夜鹰

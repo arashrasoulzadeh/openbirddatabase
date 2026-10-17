@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorjinegro
   fr: Tisserin à menton noir
   de: Schwarzkinnweber
-  pt: black-chinned weaver
+  pt: ''
   ru: Черногорлый ткач
   ja: クロアゴハタオリ
   nl: Zwartkinwever

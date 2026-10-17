@@ -12,7 +12,7 @@ names:
   es: Canastero Flamulado
   fr: Synallaxe flammé
   de: Weißstrichelcanastero
-  pt: many-striped canastero
+  pt: ''
   ru: Пёстрый канастеро
   ja: タテジマカマドドリ
   nl: Jardinecanastero

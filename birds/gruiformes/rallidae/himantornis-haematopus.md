@@ -12,7 +12,7 @@ names:
   es: Rascón Nkulengu
   fr: Râle à pieds rouges
   de: Rotfußralle
-  pt: nkulengu rail
+  pt: ''
   ru: Красноногий пастушок
   ja: ウロコクイナ
   zh: 噪秧鸡

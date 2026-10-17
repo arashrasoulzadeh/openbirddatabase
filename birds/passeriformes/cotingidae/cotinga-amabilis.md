@@ -12,7 +12,7 @@ names:
   es: Cotinga Azulejo
   fr: Cotinga céleste
   de: Azurkotinga
-  pt: lovely cotinga
+  pt: ''
   ru: Лазурная котинга
   ja: メキシコルリカザリドリ
   nl: Azuurcotinga

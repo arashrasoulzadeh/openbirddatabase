@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9393.0
 names:
   scientific: Ninox meeki
-  fa: nan
+  fa: ''
   en: Manus Boobook
   es: Nínox de Manus
   fr: Ninoxe de l'Amirauté
   de: Manuskauz
-  pt: manus boobook
+  pt: ''
   ru: Манусская иглоногая сова
   ja: アドミラルチーアオバズク
   nl: Manusvalkuil

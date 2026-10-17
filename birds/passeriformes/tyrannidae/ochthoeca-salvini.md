@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 17188.0
 names:
   scientific: Ochthoeca salvini
-  fa: nan
+  fa: ''
   en: Tumbes Tyrant
   es: Pitajo de Tumbes
   fr: Pitajo de Tumbes
@@ -15,7 +15,7 @@ names:
   pt: tumbes chat-tyrant
   ru: Тумбезия
   ja: ペルータイランチョウ
-  zh: Tumbes Tyrant
+  zh: ''
   nl: Tumbestiran
   pl: tumbezja
   tr: Tumbes Bülbül Tiranı

@@ -12,7 +12,7 @@ names:
   es: Reinita Cabecigualda
   fr: Paruline à tête jaune
   de: Einsiedelwaldsänger
-  pt: hermit warbler
+  pt: ''
   ru: Желтоголовая древесница
   ja: キガシラアメリカムシクイ
   nl: Heremietzanger

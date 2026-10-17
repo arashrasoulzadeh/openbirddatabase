@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 16623.0
 names:
   scientific: Nesotriccus maranonicus
-  fa: nan
+  fa: ''
   en: Maranon Tyrannulet
   es: Piojito del Marañón
   fr: Tyranneau du Maranon
   pt: marañon tyrannulet
-  zh: Maranon Tyrannulet
+  zh: ''
   nl: Marañonvliegenpikker
   pl: mysityranik cynamonowy
   tr: Maranyon Tiranuleti

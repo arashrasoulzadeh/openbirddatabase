@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8820.0
 names:
   scientific: Megascops koepckeae
-  fa: nan
+  fa: ''
   en: Koepcke's Screech Owl
   es: Autillo de Koepcke
   fr: Petit-duc de Koepcke
@@ -15,7 +15,7 @@ names:
   pt: koepcke's screech-owl
   ru: Андская совка
   ja: ペルーオオコノハズク
-  zh: Koepcke's Screech Owl
+  zh: ''
   nl: Peruaanse schreeuwuil
   pl: syczoń andyjski
   tr: Köpcke Puhucuğu

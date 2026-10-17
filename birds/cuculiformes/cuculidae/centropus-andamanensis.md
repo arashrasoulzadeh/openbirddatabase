@@ -12,7 +12,7 @@ names:
   es: Cucal de las Andamán
   fr: Coucal des Andaman
   de: Andamanenkuckuck
-  pt: andaman coucal
+  pt: ''
   ru: Андаманский кукаль
   ja: アンダマンバンケン
   nl: Andamanenspoorkoekoek

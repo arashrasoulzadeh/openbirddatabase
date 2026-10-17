@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10184.0
 names:
   scientific: Todiramphus chloris
-  fa: nan
+  fa: ''
   en: Collared Kingfisher
   es: Alción Acollarado
   fr: Martin-chasseur à collier blanc

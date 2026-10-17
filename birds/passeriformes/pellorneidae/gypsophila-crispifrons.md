@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26349.0
 names:
   scientific: Gypsophila crispifrons
-  fa: nan
+  fa: ''
   en: Variable Limestone Babbler
   es: Ratina Roquera
   fr: Turdinule des rochers
   de: Kalkdrossling
-  pt: variable limestone babbler
+  pt: ''
   ru: Тёмная крапивниковая тимелия
   ja: クロサザイチメドリ
   zh: 杂色灰岩鹪鹛

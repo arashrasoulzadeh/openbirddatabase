@@ -12,7 +12,7 @@ names:
   es: Suimanga Filipino
   fr: Souimanga de Palawan
   de: Goldkehl-Nektarvogel
-  pt: lovely sunbird
+  pt: ''
   ru: Желтогорлая нектарница
   ja: アオヒゲタイヨウチョウ
   nl: Goudkeelhoningzuiger

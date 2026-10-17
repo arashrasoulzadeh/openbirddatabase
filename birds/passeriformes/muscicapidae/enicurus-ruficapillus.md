@@ -12,7 +12,7 @@ names:
   es: Torrentero Capirrufo
   fr: Énicure rousse-cape
   de: Rotkopf-Scherenschwanz
-  pt: chestnut-naped forktail
+  pt: ''
   ru: Красношапочная вилохвостка
   ja: アカエリエンビシキチョウ
   nl: Roodnekvorkstaart

@@ -12,7 +12,7 @@ names:
   es: Eremomela Senegalesa
   fr: Érémomèle à dos vert
   de: Graukappeneremomela
-  pt: senegal eremomela
+  pt: ''
   ru: Сероголовая желтобрюшка
   ja: セミドリヒメムシクイ
   zh: 绿背孤莺

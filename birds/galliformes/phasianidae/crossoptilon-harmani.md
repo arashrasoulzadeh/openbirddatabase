@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1516.0
 names:
   scientific: Crossoptilon harmani
-  fa: nan
+  fa: ''
   en: Tibetan Eared Pheasant
   es: Faisán Orejudo Gris
   fr: Hokki du Tibet

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23957.0
 names:
   scientific: Donacobius atricapilla
-  fa: nan
+  fa: ''
   en: Black-capped Donacobius
   es: Angú
   fr: Donacobe à miroir

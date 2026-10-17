@@ -15,7 +15,7 @@ names:
   pt: iranian ground-jay
   ru: Персидская пустынная сойка
   ja: イランサバクガラス
-  zh: Iranian Ground Jay
+  zh: ''
   nl: Perzische steppegaai
   pl: sójeczka perska
   tr: İbibik Kargası

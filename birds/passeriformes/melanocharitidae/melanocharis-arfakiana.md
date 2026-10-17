@@ -12,7 +12,7 @@ names:
   es: Picabayas Oscuro
   fr: Piquebaie obscur
   de: Arfakbeerenpicker
-  pt: obscure berrypecker
+  pt: ''
   ru: Тёмная ягодница
   ja: チャイロパプアハナドリ
   nl: Arfakbessenpikker

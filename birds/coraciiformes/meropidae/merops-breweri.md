@@ -12,7 +12,7 @@ names:
   es: Abejaruco Cabecinegro
   fr: Guêpier à tête noire
   de: Schwarzkopfspint
-  pt: black-headed bee-eater
+  pt: ''
   ru: Черноголовая щурка
   ja: ズグロハチクイ
   nl: Zwartkopbijeneter

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 26116.0
 names:
   scientific: Stachyris nonggangensis
-  fa: nan
+  fa: ''
   en: Nonggang Babbler
   es: Timalí de Nonggang
   fr: Timalie de Nonggang
   de: Nonggang-Buschtimalie
-  pt: nonggang babbler
+  pt: ''
   ru: Нонггангская тимелия
   ja: ナンガンモリチメドリ
   zh: 弄岗穗鹛

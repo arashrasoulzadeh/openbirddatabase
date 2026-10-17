@@ -12,7 +12,7 @@ names:
   es: Suimanga Sencillo
   fr: Souimanga modeste
   de: Schlichtnektarvogel
-  pt: plain sunbird
+  pt: ''
   ru: Скромная нектарница
   ja: オリーブコバシタイヨウチョウ
   zh: 純色食蜜鳥

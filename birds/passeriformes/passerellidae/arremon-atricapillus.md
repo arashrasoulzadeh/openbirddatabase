@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33036.0
 names:
   scientific: Arremon atricapillus
-  fa: nan
+  fa: ''
   en: Black-headed Brushfinch
   es: Cerquero Cabecinegro
   fr: Tohi à tête noire
   de: Schwarzkopf-Buschammer
-  pt: black-headed brushfinch
+  pt: ''
   ru: Черноголовый тохи
   ja: ズグロヤブシトド
   nl: Zwartkopstruikgors

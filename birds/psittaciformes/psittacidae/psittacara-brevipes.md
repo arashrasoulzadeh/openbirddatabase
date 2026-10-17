@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13183.0
 names:
   scientific: Psittacara brevipes
-  fa: nan
+  fa: ''
   en: Socorro Parakeet
   es: Aratinga de Isla Socorro
   fr: Conure de Socorro
   de: Socorrosittich
-  pt: socorro parakeet
+  pt: ''
   ru: Сокоррская аратинга
   ja: ソコロメキシコインコ
   nl: Socorroaratinga

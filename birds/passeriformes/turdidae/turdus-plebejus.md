@@ -12,7 +12,7 @@ names:
   es: Zorzal Plebeyo
   fr: Merle de montagne
   de: Cabanisdrossel
-  pt: mountain thrush
+  pt: ''
   ru: Скромный дрозд
   ja: ミヤマクロウタドリ
   nl: Cabanislijster

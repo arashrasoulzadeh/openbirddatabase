@@ -15,7 +15,7 @@ names:
   pt: black-breasted kite
   ru: Канюковый коршун
   ja: クロムネトビ
-  zh: Black-breasted Buzzard
+  zh: ''
   nl: Buizerdwouw
   pl: kanialec ogorzały
   tr: Kara Göğüslü Çaylak

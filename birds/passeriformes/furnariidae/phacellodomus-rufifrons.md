@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15347.0
 names:
   scientific: Phacellodomus rufifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Thornbird
   es: Espinero Frentirrufo
   fr: Synallaxe à front roux

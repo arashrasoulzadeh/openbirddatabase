@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9980.0
 names:
   scientific: Ceyx wallacii
-  fa: nan
+  fa: ''
   en: Sula Dwarf Kingfisher
   es: Martín Pigmeo de las Sula
   fr: Martin-pêcheur des Sula
@@ -15,7 +15,7 @@ names:
   pt: sula dwarf-kingfisher
   ru: Уоллесов зимородок
   ja: スラカワセミ
-  zh: Sula Dwarf Kingfisher
+  zh: ''
   nl: Soeladwergijsvogel
   pl: zimorodek sulański
   tr: Sula Küçük Yalıçapkını

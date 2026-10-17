@@ -12,7 +12,7 @@ names:
   es: Martinete Japonés
   fr: Bihoreau goisagi
   de: Rotscheitelreiher
-  pt: japanese night heron
+  pt: ''
   ru: Японская кваква
   ja: ミゾゴイ
   zh: 栗鳽

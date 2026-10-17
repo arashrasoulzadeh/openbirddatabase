@@ -15,7 +15,7 @@ names:
   pt: torda-miúda
   ru: Люрик
   ja: ヒメウミスズメ
-  zh: Little Auk
+  zh: ''
   nl: Kleine alk
   pl: alczyk
   tr: Küçük Alk

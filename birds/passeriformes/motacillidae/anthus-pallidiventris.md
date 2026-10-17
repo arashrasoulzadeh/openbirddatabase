@@ -12,7 +12,7 @@ names:
   es: Bisbita Patilargo
   fr: Pipit à longues pattes
   de: Stelzenpieper
-  pt: long-legged pipit
+  pt: ''
   ru: Бледнобрюхий конёк
   ja: アシナガタヒバリ
   nl: Langpootpieper

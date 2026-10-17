@@ -12,7 +12,7 @@ names:
   es: Alción Sagrado
   fr: Martin-chasseur sacré
   de: Götzenliest
-  pt: sacred kingfisher
+  pt: ''
   ru: Священная альциона
   ja: ヒジリショウビン
   zh: 白眉翡翠

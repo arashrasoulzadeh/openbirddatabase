@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21671.0
 names:
   scientific: Melanocharis crassirostris
-  fa: nan
+  fa: ''
   en: Thick-billed Berrypecker
   es: Picabayas Piquigrueso
   fr: Piquebaie à grand bec
   de: Dickschnabel-Beerenpicker
-  pt: thick-billed berrypecker
+  pt: ''
   ru: Пятнистая ягодница
   nl: Diksnavelbessenpikker
   pl: jagodziak wielkodzioby

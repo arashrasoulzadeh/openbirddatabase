@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18912.0
 names:
   scientific: Edolisoma monacha
-  fa: nan
+  fa: ''
   en: Palau Cicadabird
   es: Oruguero de las Palaos
   fr: Échenilleur des Palau
   de: Palauraupenfänger
-  pt: palau cicadabird
+  pt: ''
   ru: Палауский цикадник
   ja: パラウセミサンショウクイ
   zh: 帛琉蟬鳥

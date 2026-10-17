@@ -15,7 +15,7 @@ names:
   pt: bismarck imperial-pigeon
   ru: Чёрный плодовый голубь
   ja: クロミカドバト
-  zh: Black Imperial Pigeon
+  zh: ''
   nl: Zwarte muskaatduif
   pl: muszkatela czarna
   tr: Kara Has Güvercin

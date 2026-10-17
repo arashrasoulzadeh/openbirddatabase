@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5600.0
 names:
   scientific: Zapornia palmeri
-  fa: nan
+  fa: ''
   en: Laysan Rail
   es: Polluela de Isla Laysan
   fr: Marouette de Laysan
   de: Laysansumpfhuhn
-  pt: laysan rail
+  pt: ''
   ru: Лайсанский погоныш
   ja: レイサンクイナ
   nl: Laysanral

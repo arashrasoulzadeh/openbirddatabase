@@ -15,7 +15,7 @@ names:
   pt: comoro pigeon
   ru: Коморский вяхирь
   ja: コモロオリーブバト
-  zh: Comoro Olive Pigeon
+  zh: ''
   nl: Comorenolijfduif
   pl: gołąb śniady
   tr: Komor Zeytin Güvercini

@@ -15,7 +15,7 @@ names:
   pt: gray-breasted woodpecker
   ru: Серогрудый дятел
   ja: ハイイロシマセゲラ
-  zh: Grey-breasted Woodpecker
+  zh: ''
   nl: Grijskeelspecht
   pl: dzięciur łzawy
   tr: Dumanlı Ağaçkakan

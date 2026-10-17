@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 31067.0
 names:
   scientific: Padda fuscata
-  fa: nan
+  fa: ''
   en: Timor Sparrow
   es: Capuchino Arrocero de Timor
   fr: Padda de Timor

@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Ua Huka
   fr: Monarque iphis
   de: Fleckenmonarch
-  pt: iphis monarch
+  pt: ''
   ru: Пятнистая помарея
   ja: アオマルケサスヒタキ
   nl: Iphismonarch

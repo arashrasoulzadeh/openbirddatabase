@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4856.0
 names:
   scientific: Selasphorus scintilla
-  fa: nan
+  fa: ''
   en: Scintillant Hummingbird
   es: Colibrí Centelleante
   fr: Colibri scintillant
   de: Orangekehlelfe
-  pt: scintillant hummingbird
+  pt: ''
   ru: Искристый колибри
   ja: コスタリカノドジロフトオハチドリ
   zh: 辉煌蜂鸟

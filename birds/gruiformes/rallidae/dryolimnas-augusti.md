@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5321.0
 names:
   scientific: Dryolimnas augusti
-  fa: nan
+  fa: ''
   en: Reunion Rail
   es: Rascón de Reunión
   fr: Râle de La Réunion
   de: Réunionralle
-  pt: reunion rail
+  pt: ''
   ru: Реюньонский пастушок
   ja: レユニオンクイナ
   zh: 留尼汪秧鸡

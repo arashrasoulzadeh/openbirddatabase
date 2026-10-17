@@ -12,7 +12,7 @@ names:
   es: Turpial de Altamira
   fr: Oriole à gros bec
   de: Schwarzkehltrupial
-  pt: altamira oriole
+  pt: ''
   ru: Галстучный трупиал
   ja: オレンジムクドリモドキ
   nl: Altamiratroepiaal

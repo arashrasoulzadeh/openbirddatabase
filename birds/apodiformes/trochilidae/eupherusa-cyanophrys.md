@@ -15,7 +15,7 @@ names:
   pt: blue-capped hummingbird
   ru: Оахакасская эферуса
   ja: クロビタイオジロハチドリ
-  zh: Oaxaca Hummingbird
+  zh: ''
   nl: Oaxacakolibrie
   pl: diamencik niebieskogłowy
   tr: Oaxaca Kolibrisi

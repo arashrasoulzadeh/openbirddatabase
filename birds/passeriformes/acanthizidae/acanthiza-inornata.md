@@ -12,7 +12,7 @@ names:
   es: Acantiza Sencilla
   fr: Acanthize sobre
   de: Walddornschnabel
-  pt: western thornbill
+  pt: ''
   ru: Лесная шипоклювка
   ja: ニシトゲハシムシクイ
   nl: Kaap-Leeuwindoornsnavel

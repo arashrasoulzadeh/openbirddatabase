@@ -12,7 +12,7 @@ names:
   es: Calamón Takahe de Isla Norte
   fr: Talève mohoau
   de: Nordinseltakahe
-  pt: north island takahe
+  pt: ''
   ru: Мохау
   ja: タカヘ
   zh: 短翅水雞

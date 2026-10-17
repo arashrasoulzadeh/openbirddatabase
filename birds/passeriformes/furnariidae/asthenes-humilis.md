@@ -12,7 +12,7 @@ names:
   es: Canastero Gorjiestriado
   fr: Synallaxe terrestre
   de: Streifenkehlcanastero
-  pt: streak-throated canastero
+  pt: ''
   ru: Пестрогорлый канастеро
   ja: ノドジマカマドドリ
   nl: Streepkeelcanastero

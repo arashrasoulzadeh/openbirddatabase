@@ -12,7 +12,7 @@ names:
   es: Subepalo Perlado
   fr: Anabasitte perlée
   de: Tropfenbrust-Stachelschwanz
-  pt: pearled treerunner
+  pt: ''
   ru: Жемчужный щетинкохвост
   ja: シンジュカマドドリ
   nl: Parelboomloper

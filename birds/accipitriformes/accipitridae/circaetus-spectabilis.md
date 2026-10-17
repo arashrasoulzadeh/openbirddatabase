@@ -15,7 +15,7 @@ names:
   pt: congo snake-eagle
   ru: Конголезский змееяд
   ja: ヘビワシ
-  zh: Congo Serpent Eagle
+  zh: ''
   nl: Congolese slangenarend
   pl: wężojad kongijski
   tr: Kongo Yılan Kartalı

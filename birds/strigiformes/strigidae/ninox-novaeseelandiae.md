@@ -12,7 +12,7 @@ names:
   es: Nínox Maorí
   fr: Ninoxe boubouk
   de: Kuckuckskauz
-  pt: morepork
+  pt: ''
   ru: Кукушечья иглоногая сова
   ja: ニュージーランドアオバズク
   nl: Nieuw-Zeelandse boeboek

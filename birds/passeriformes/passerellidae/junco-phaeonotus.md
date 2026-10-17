@@ -12,7 +12,7 @@ names:
   es: Junco Ojilumbre
   fr: Junco aux yeux jaunes
   de: Rotrückenammer
-  pt: yellow-eyed junco
+  pt: ''
   ru: Рыжеспинный юнко
   ja: メキシコユキヒメドリ
   nl: Geeloogjunco

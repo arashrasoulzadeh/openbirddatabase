@@ -12,7 +12,7 @@ names:
   es: Trepador Siberiano
   fr: Sittelle de Sibérie
   de: Sibirienkleiber
-  pt: siberian nuthatch
+  pt: ''
   ru: Якутский поползень
   ja: シベリアゴジュウカラ
   nl: Siberische boomklever

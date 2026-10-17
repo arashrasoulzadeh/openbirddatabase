@@ -15,7 +15,7 @@ names:
   pt: maracanã-de-colar
   ru: Желтошейный ара
   ja: キエリヒメコンゴウインコ
-  zh: Golden-collared Macaw
+  zh: ''
   nl: Geelnekara
   pl: ara żółtoszyja
   tr: Sarı Boyunlu Ara

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22515.0
 names:
   scientific: Amirafra rufocinnamomea
-  fa: nan
+  fa: ''
   en: Flappet Lark
   es: Alondra Aplaudidora Canela
   fr: Alouette bourdonnante
   de: Baumklapperlerche
-  pt: flappet lark
+  pt: ''
   ru: Рыжеватый жаворонок
   ja: ニッケイヤブヒバリ
   nl: Ratelleeuwerik

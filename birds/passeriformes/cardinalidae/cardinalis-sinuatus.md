@@ -12,7 +12,7 @@ names:
   es: Cardenal Pardo
   fr: Cardinal pyrrhuloxia
   de: Schmalschnabelkardinal
-  pt: pyrrhuloxia
+  pt: ''
   ru: Попугаевый кардинал
   ja: ムネアカコウカンチョウ
   zh: 灰額主紅雀

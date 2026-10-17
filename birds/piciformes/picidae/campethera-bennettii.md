@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11728.0
 names:
   scientific: Campethera bennettii
-  fa: nan
+  fa: ''
   en: Bennett's Woodpecker
   es: Pito de Bennett
   fr: Pic de Bennett
   de: Bennettspecht
-  pt: bennett's woodpecker
+  pt: ''
   ru: Замбийский дятел
   ja: ミミジロアフリカアオゲラ
   zh: 中南非啄木

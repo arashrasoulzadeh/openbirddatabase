@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13954.0
 names:
   scientific: Myrmoborus leucophrys
-  fa: nan
+  fa: ''
   en: White-browed Antbird
   es: Hormiguero Cejiblanco
   fr: Alapi à sourcils blancs

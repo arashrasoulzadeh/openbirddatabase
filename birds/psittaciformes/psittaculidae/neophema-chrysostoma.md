@@ -12,7 +12,7 @@ names:
   es: Periquito Crisóstomo
   fr: Perruche à bouche d'or
   de: Feinsittich
-  pt: blue-winged parrot
+  pt: ''
   ru: Синекрылый травяной попугайчик
   ja: ワカバインコ
   zh: 藍翅草鸚鵡

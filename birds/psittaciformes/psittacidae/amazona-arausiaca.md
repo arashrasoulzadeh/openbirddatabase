@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12918.0
 names:
   scientific: Amazona arausiaca
-  fa: nan
+  fa: ''
   en: Red-necked Amazon
   es: Amazona Gorjirroja
   fr: Amazone de Bouquet
   de: Blaukopfamazone
-  pt: red-necked amazon
+  pt: ''
   ru: Красногорлый амазон
   ja: アカノドボウシインコ
   zh: 紅頸亞馬遜鸚鵡

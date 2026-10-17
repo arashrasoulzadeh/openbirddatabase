@@ -12,7 +12,7 @@ names:
   es: Pita Soberbia
   fr: Brève superbe
   de: Manuspitta
-  pt: superb pitta
+  pt: ''
   ru: Великолепная питта
   ja: セグロヤイロチョウ
   zh: 美麗八色鶇

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2734.0
 names:
   scientific: Ptilinopus chalcurus
-  fa: nan
+  fa: ''
   en: Makatea Fruit Dove
   es: Tilopo de Isla Makatea
   fr: Ptilope de Makatéa
@@ -15,7 +15,7 @@ names:
   pt: makatea fruit-dove
   ru: Макатейский фруктовый голубь
   ja: マカテアヒメアオバト
-  zh: Makatea Fruit Dove
+  zh: ''
   nl: Makateajufferduif
   pl: owocożer miedziany
   tr: Makatea Meyve Kumrusu

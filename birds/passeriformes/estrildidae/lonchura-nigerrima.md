@@ -15,7 +15,7 @@ names:
   pt: new hanover munia
   ru: Траурная муния
   ja: ニューハノーバーシマコキン
-  zh: New Hanover Mannikin
+  zh: ''
   nl: Rouwnon
   pl: mniszka czarniawa
   tr: Yeni Hanover Munyası

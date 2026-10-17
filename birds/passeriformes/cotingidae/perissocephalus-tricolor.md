@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15920.0
 names:
   scientific: Perissocephalus tricolor
-  fa: nan
+  fa: ''
   en: Capuchinbird
   es: Pájaro Capuchino
   fr: Coracine chauve

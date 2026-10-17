@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10082.0
 names:
   scientific: Halcyon gularis
-  fa: nan
+  fa: ''
   en: Brown-breasted Kingfisher
   es: Alción Filipino
   fr: Martin-chasseur à poitrine brune
   de: Braunbrustliest
-  pt: brown-breasted kingfisher
+  pt: ''
   ru: Филиппинский красноносый зимородок
   ja: チャムネショウビン
   nl: Bruinborstijsvogel

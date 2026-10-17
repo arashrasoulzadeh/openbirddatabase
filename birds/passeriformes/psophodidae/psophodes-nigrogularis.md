@@ -12,7 +12,7 @@ names:
   es: Zordala Crestada Occidental
   fr: Psophode à menton noir
   de: Schwarzkehlflöter
-  pt: western whipbird
+  pt: ''
   ru: Черногорлая птица-бич
   ja: シラヒゲドリ
   nl: Grijskopzwiepfluiter

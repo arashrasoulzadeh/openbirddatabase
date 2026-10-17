@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18896.0
 names:
   scientific: Edolisoma melas
-  fa: nan
+  fa: ''
   en: Black Cicadabird
   es: Oruguero Negro
   fr: Échenilleur mélanure
   de: Stahlraupenfänger
-  pt: black cicadabird
+  pt: ''
   ru: Чёрный цикадник
   ja: クロオオサンショウクイ
   zh: 新几内亚鹃鵙

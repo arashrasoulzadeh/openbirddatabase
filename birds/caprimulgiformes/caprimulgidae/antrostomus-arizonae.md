@@ -12,7 +12,7 @@ names:
   es: Chotacabras Cuerporruín Mexicano
   fr: Engoulevent d'Arizona
   de: Mexikonachtschwalbe
-  pt: mexican whip-poor-will
+  pt: ''
   ru: Аризонский козодой
   ja: アリゾナヨタカ
   zh: 墨西哥三声夜鹰

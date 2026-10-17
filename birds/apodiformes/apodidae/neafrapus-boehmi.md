@@ -15,7 +15,7 @@ names:
   pt: bat-like spinetail
   ru: Колючехвост-нетопырь
   ja: ダルマハリオアマツバメ
-  zh: Böhm's Spinetail
+  zh: ''
   nl: Böhmgierzwaluw
   pl: kolcosternik kusy
   tr: Böhm İğnekuyruğu

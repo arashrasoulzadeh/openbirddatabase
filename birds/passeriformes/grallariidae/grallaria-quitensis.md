@@ -12,7 +12,7 @@ names:
   es: Tororoí Leonado Occidental
   fr: Grallaire de Quito
   de: Dunkelameisenpitta
-  pt: tawny antpitta
+  pt: ''
   ru: Горная граллярия
   ja: オリーブジアリドリ
   nl: Bergmierpitta

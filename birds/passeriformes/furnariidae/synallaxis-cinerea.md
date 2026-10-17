@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 15600.0
 names:
   scientific: Synallaxis cinerea
-  fa: nan
+  fa: ''
   en: Bahia Spinetail
   es: Pijuí de Bahía
   fr: Synallaxe du Bahia

@@ -12,7 +12,7 @@ names:
   es: Chara Yucateca
   fr: Geai du Yucatan
   de: Yucatánblaurabe
-  pt: yucatan jay
+  pt: ''
   ru: Юкатанская сойка
   ja: ユカタンヌレバカケス
   zh: 尤卡蓝鸦

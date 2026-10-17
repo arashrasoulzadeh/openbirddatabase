@@ -12,7 +12,7 @@ names:
   es: Alcotán Cuellirrojo
   fr: Faucon chicquera
   de: Rotkopffalke
-  pt: red-necked falcon
+  pt: ''
   ru: Турумти
   ja: アカガシラチョウゲンボウ
   zh: 红头隼

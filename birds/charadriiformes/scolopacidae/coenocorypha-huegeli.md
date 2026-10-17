@@ -12,7 +12,7 @@ names:
   es: Chochita de las Snares
   fr: Bécassine des Snares
   de: Snaresschnepfe
-  pt: snares snipe
+  pt: ''
   ru: Снарский хакавай
   ja: スネアーズムジシギ
   nl: Snaressnip

@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce Común
   fr: Colombine lumachelle
   de: Bronzeflügeltaube
-  pt: common bronzewing
+  pt: ''
   ru: Австралийский бронзовокрыл
   ja: ニジハバト
   zh: 铜翅鸠

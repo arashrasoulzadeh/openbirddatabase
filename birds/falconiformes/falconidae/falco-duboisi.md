@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 12017.0
 names:
   scientific: Falco duboisi
-  fa: nan
+  fa: ''
   en: Reunion Kestrel
   es: Cernícalo de Reunión
   fr: Crécerelle de La Réunion
   de: Réunionfalke
-  pt: reunion kestrel
+  pt: ''
   ru: Реюньонская пустельга
   ja: レユニオンチョウゲンボウ
   nl: Réuniontorenvalk

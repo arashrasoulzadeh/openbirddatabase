@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5356.0
 names:
   scientific: Gallirallus wallacii
-  fa: nan
+  fa: ''
   en: Invisible Rail
   es: Rascón de Wallace
   fr: Râle de Wallace
   de: Trommelralle
-  pt: invisible rail
+  pt: ''
   ru: Погоныш-барабанщик
   ja: ハルマヘラクイナ
   zh: 大嘴秧雞

@@ -15,7 +15,7 @@ names:
   pt: petrel-grande-do-norte
   ru: Северный гигантский буревестник
   ja: キタオオフルマカモメ
-  zh: Northern Giant Petrel
+  zh: ''
   nl: Noordelijke reuzenstormvogel
   pl: petrelec wielki
   tr: Kuzey Dev Fırtınakuşu

@@ -12,7 +12,7 @@ names:
   es: Picaflores de Cebú
   fr: Dicée quadricolore
   de: Vierfarben-Mistelfresser
-  pt: cebu flowerpecker
+  pt: ''
   ru: Четырёхцветный цветоед
   ja: ヨイロハナドリ
   zh: 四色啄花鸟

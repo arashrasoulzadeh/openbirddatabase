@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33451.0
 names:
   scientific: Atlapetes personatus
-  fa: nan
+  fa: ''
   en: Tepui Brushfinch
   es: Atlapetes de Tepuí
   fr: Tohi des tépuis

@@ -12,7 +12,7 @@ names:
   es: Canastero del Urubamba
   fr: Synallaxe inca
   de: Dunkelrückencanastero
-  pt: line-fronted canastero
+  pt: ''
   ru: Белобровый канастеро
   ja: ホソオカマドドリ
   nl: Urubambacanastero

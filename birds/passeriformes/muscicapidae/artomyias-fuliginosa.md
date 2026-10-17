@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28841.0
 names:
   scientific: Artomyias fuliginosa
-  fa: nan
+  fa: ''
   en: Sooty Flycatcher
   es: Papamoscas Ahumado
   fr: Gobemouche enfumé
   de: Schieferbrustschnäpper
-  pt: sooty flycatcher
+  pt: ''
   ru: Шиферногрудая мухоловка
   ja: ススチャヒタキ
   nl: Rouwvliegenvanger

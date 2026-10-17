@@ -15,7 +15,7 @@ names:
   pt: tesoura-cinzenta
   ru: Зубчатохвостый мухолов
   ja: ハサミオタイランチョウ
-  zh: Shear-tailed Grey Tyrant
+  zh: ''
   nl: Groefstaarttiran
   pl: mucharek
   tr: Çatal Kuyruklu Gri Tiran

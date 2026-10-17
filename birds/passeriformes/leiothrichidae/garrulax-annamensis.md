@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 26713.0
 names:
   scientific: Garrulax annamensis
-  fa: nan
+  fa: ''
   en: Orange-breasted Laughingthrush
   es: Charlatán Pechinaranja
   fr: Garrulaxe du Langbian
   de: Orangebrusthäherling
-  pt: orange-breasted laughingthrush
+  pt: ''
   ru: Рыжегрудая кустарница
   ja: ベトナムガビチョウ
   zh: 橙胸噪鶥

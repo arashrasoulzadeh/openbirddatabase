@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Yap
   fr: Monarque de Yap
   de: Yapmonarch
-  pt: yap monarch
+  pt: ''
   ru: Сорочий монарх
   ja: カササギビタキ
   nl: Yapmonarch

@@ -12,7 +12,7 @@ names:
   es: Toco Piquirrojo Sureño
   fr: Calao d'Afrique du Sud
   de: Mopanetoko
-  pt: southern red-billed hornbill
+  pt: ''
   ru: Пестрошейный токо
   ja: ミナミアカハシコサイチョウ
   zh: 南红嘴犀鸟

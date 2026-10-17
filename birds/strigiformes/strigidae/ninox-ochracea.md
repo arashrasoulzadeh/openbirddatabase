@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9379.0
 names:
   scientific: Ninox ochracea
-  fa: nan
+  fa: ''
   en: Ochre-bellied Boobook
   es: Nínox Ocráceo
   fr: Ninoxe ocrée
   de: Ockerbauchkauz
-  pt: ochre-bellied boobook
+  pt: ''
   ru: Рыжебрюхая иглоногая сова
   ja: チャバラアオバズク
   nl: Geelbuikvalkuil

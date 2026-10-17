@@ -12,7 +12,7 @@ names:
   es: Milano Silbador
   fr: Milan siffleur
   de: Keilschwanzmilan
-  pt: whistling kite
+  pt: ''
   ru: Коршун-свистун
   ja: フエフキトビ
   zh: 啸栗鸢

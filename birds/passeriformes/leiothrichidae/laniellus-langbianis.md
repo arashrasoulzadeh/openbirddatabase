@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 26433.0
 names:
   scientific: Laniellus langbianis
-  fa: nan
+  fa: ''
   en: Grey-crowned Crocias
   es: Sibia de Langbiang
   fr: Crocias du Langbian
@@ -15,7 +15,7 @@ names:
   pt: gray-crowned crocias
   ru: Сероголовая кроция
   ja: ワキフチメドリ
-  zh: Grey-crowned Crocias
+  zh: ''
   nl: Langbiansibia
   pl: plamiak szarogłowy
   tr: Gri Başlı Kutya

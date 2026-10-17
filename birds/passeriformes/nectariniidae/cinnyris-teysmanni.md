@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 30478.0
 names:
   scientific: Cinnyris teysmanni
-  fa: nan
+  fa: ''
   en: Flores Sea Sunbird
   es: Suimanga de Flores
   fr: Souimanga de Teijsmann
-  pt: flores sea sunbird
+  pt: ''
   nl: Floreszeehoningzuiger
   pl: nektarnik archipelagowy
   tr: Flores Denizi Nektarkuşu

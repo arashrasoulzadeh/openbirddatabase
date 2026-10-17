@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2539.0
 names:
   scientific: Treron pembaensis
-  fa: nan
+  fa: ''
   en: Pemba Green Pigeon
   es: Vinago de Pemba
   fr: Colombar de Pemba
@@ -15,7 +15,7 @@ names:
   pt: pemba green-pigeon
   ru: Пембский зелёный голубь
   ja: ペンバアオバト
-  zh: Pemba Green Pigeon
+  zh: ''
   nl: Pembapapegaaiduif
   pl: treron szarogłowy
   tr: Pemba Yeşil Güvercini

@@ -15,7 +15,7 @@ names:
   pt: philippine dwarf-kingfisher
   ru: Филиппинский зимородок
   ja: アカカワセミ
-  zh: Philippine Dwarf Kingfisher
+  zh: ''
   nl: Filipijnse dwergijsvogel
   pl: zimorodek filipiński
   tr: Luzon Küçük Yalıçapkını

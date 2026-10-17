@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28551.0
 names:
   scientific: Turdus heinrothi
-  fa: nan
+  fa: ''
   en: Bismarck Island Thrush
   es: Mirlo de Las Bismarck
   fr: Merle des Bismarck
   pt: bismarck island-thrush
   ja: ビスマルクハイガシラツグミ
-  zh: Bismarck Island Thrush
+  zh: ''
   nl: Bismarckmerel
   pl: drozd brązowoczarniawy
   tr: Bismarck Ada Ardıcı

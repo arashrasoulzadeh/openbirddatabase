@@ -12,7 +12,7 @@ names:
   es: Vencejo Indio
   fr: Martinet indien
   de: Indiensegler
-  pt: white-rumped spinetail
+  pt: ''
   ru: Индийский колючехвост
   ja: インドハリオアマツバメ
   nl: Hindoegierzwaluw

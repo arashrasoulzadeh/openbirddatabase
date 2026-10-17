@@ -12,7 +12,7 @@ names:
   es: Oruguero de Reunión
   fr: Échenilleur de La Réunion
   de: Newtonraupenfänger
-  pt: reunion cuckooshrike
+  pt: ''
   ru: Реюньонский личинкоед-свистун
   ja: レユニオンオオサンショウクイ
   zh: 留岛鹃鵙

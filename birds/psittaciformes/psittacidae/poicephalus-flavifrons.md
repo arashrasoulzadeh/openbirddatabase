@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12792.0
 names:
   scientific: Poicephalus flavifrons
-  fa: nan
+  fa: ''
   en: Yellow-fronted Parrot
   es: Lorito Carigualdo
   fr: Perroquet à face jaune
   de: Gelbstirnpapagei
-  pt: yellow-fronted parrot
+  pt: ''
   ru: Желтолицый попугай
   ja: キビタイハネナガインコ
   nl: Geelmaskerpapegaai

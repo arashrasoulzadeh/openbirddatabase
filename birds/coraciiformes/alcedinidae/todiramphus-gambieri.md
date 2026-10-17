@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 10136.0
 names:
   scientific: Todiramphus gambieri
-  fa: nan
+  fa: ''
   en: Tuamotu Kingfisher
   es: Alción de Isla Niau
   fr: Martin-chasseur des Gambier
   de: Tuamotuliest
-  pt: tuamotu kingfisher
+  pt: ''
   ru: Туамотская альциона
   ja: ツアモツショウビン
   nl: Tuamotu-ijsvogel

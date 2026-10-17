@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12706.0
 names:
   scientific: Loriculus beryllinus
-  fa: nan
+  fa: ''
   en: Sri Lanka Hanging Parrot
   es: Lorículo de Sri Lanka
   fr: Coryllis de Ceylan
@@ -15,7 +15,7 @@ names:
   pt: sri lanka hanging-parrot
   ru: Цейлонский лорикулюс
   ja: ズアカサトウチョウ
-  zh: Sri Lanka Hanging Parrot
+  zh: ''
   nl: Ceylonese vleermuisparkiet
   pl: zwisogłówka złotawa
   tr: Seylan Cennet Papağanı

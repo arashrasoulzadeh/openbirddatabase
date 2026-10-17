@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29540.0
 names:
   scientific: Ficedula westermanni
-  fa: nan
+  fa: ''
   en: Little Pied Flycatcher
   es: Papamoscas Pío
   fr: Gobemouche pie

@@ -12,7 +12,7 @@ names:
   es: Zanate Cubano
   fr: Quiscale violet
   de: Kubastärling
-  pt: cuban blackbird
+  pt: ''
   ru: Траурный трупиал
   ja: キューバウタムクドリモドキ
   nl: Cubaanse zwarte troepiaal

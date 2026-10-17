@@ -12,7 +12,7 @@ names:
   es: Cuervo de las Marianas
   fr: Corneille de Guam
   de: Guamkrähe
-  pt: mariana crow
+  pt: ''
   ru: Гуамская ворона
   ja: クバリーガラス
   zh: 關島烏鴉

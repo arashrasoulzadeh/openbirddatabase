@@ -12,7 +12,7 @@ names:
   es: Estornino de Fischer
   fr: Spréo de Fischer
   de: Fischerglanzstar
-  pt: fischer's starling
+  pt: ''
   ru: Светлобрюхий спрео
   ja: シロハラハイムクドリ
   nl: Fischerglansspreeuw

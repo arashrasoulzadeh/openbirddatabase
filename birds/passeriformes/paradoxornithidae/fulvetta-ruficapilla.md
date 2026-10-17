@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25402.0
 names:
   scientific: Fulvetta ruficapilla
-  fa: nan
+  fa: ''
   en: Spectacled Fulvetta
   es: Fulveta de Verreaux
   fr: Fulvetta de Verreaux
   de: Rostscheitel-Grasmücke
-  pt: spectacled fulvetta
+  pt: ''
   ru: Очковая фульветта
   ja: チャミミチメドリ
   zh: 棕头雀鹛

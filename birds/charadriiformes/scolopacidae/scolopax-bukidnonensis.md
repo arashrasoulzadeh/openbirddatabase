@@ -12,7 +12,7 @@ names:
   es: Chocha Filipina
   fr: Bécasse du Bukidnon
   de: Bukidnonschnepfe
-  pt: bukidnon woodcock
+  pt: ''
   ru: Филиппинский вальдшнеп
   ja: ブキドノンヤマシギ
   nl: Bukidnonhoutsnip

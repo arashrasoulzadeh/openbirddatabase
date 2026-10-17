@@ -12,7 +12,7 @@ names:
   es: Terrera Orejinegra
   fr: Moinelette à oreillons noirs
   de: Schwarzwangenlerche
-  pt: black-eared sparrow-lark
+  pt: ''
   ru: Черноухий жаворонок
   ja: クロミミスズメヒバリ
   zh: 黑耳雀百靈

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28815.0
 names:
   scientific: Muscicapa epulata
-  fa: nan
+  fa: ''
   en: Little Grey Flycatcher
   es: Papamoscas Saciado
   fr: Gobemouche cendré
@@ -15,7 +15,7 @@ names:
   pt: little flycatcher
   ru: Карликовая мухоловка
   ja: コハイイロヒタキ
-  zh: Little Grey Flycatcher
+  zh: ''
   nl: Fantivliegenvanger
   pl: muchołówka malutka
   tr: Küçük Gri Sinekkapan

@@ -12,7 +12,7 @@ names:
   es: Yerbera Colilarga
   fr: Mégalure de Sharpe
   de: Stachelschwanz-Buschsänger
-  pt: brown emutail
+  pt: ''
   ru: Эмухвостая бурогрудка
   ja: チャイロエミューセッカ
   nl: Madagaskarstruikzanger

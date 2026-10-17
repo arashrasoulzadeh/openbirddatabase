@@ -12,7 +12,7 @@ names:
   es: Petrel de Barau
   fr: Pétrel de Barau
   de: Barausturmvogel
-  pt: barau's petrel
+  pt: ''
   ru: Реюньонский тайфунник
   ja: レユニオンシロハラミズナギドリ
   zh: 留尼汪圆尾鹱

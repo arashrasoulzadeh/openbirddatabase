@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 14632.0
 names:
   scientific: Deconychura typica
-  fa: nan
+  fa: ''
   en: Piping Long-tailed Woodcreeper
   es: Trepatroncos Colilargo Pequeño
   fr: Grimpar de Cherrie
   de: Tüpfelbrust-Baumsteiger
-  pt: piping long-tailed woodcreeper
-  zh: Little Long-tailed Woodcreeper
+  pt: ''
+  zh: ''
   nl: Kleine langstaartmuisspecht
   pl: tęgosterzyk plamisty
   tr: Kuzeyli Uzun Kuyruklu Tırmaşık

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17995.0
 names:
   scientific: Myzomela wahe
-  fa: nan
+  fa: ''
   en: Taliabu Myzomela
   es: Mielero de Taliabu
   fr: Myzomèle de Taliabu
   de: Taliabuhonigfresser
-  pt: taliabu myzomela
+  pt: ''
   ru: Талиабусская медовка
   ja: タリアブミツスイ
   nl: Taliabudwerghoningeter

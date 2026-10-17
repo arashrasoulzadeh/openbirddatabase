@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 23752.0
 names:
   scientific: Acrocephalus rimitarae
-  fa: nan
+  fa: ''
   en: Rimatara Reed Warbler
   es: Carricero de Isla Rimitara
   fr: Rousserolle de Rimatara
   de: Rimatararohrsänger
-  pt: rimatara reed warbler
+  pt: ''
   ru: Рамитарейская камышовка
   ja: ツバイヨシキリ
   zh: 瑞岛苇莺

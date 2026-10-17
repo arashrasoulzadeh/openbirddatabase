@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16268.0
 names:
   scientific: Phylloscartes kronei
-  fa: nan
+  fa: ''
   en: Restinga Tyrannulet
   es: Orejerito de Restinga
   fr: Tyranneau de Krone

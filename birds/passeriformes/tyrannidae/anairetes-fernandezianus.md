@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 16613.0
 names:
   scientific: Anairetes fernandezianus
-  fa: nan
+  fa: ''
   en: Juan Fernandez Tit-Tyrant
   es: Cachudito de las Juan Fernández
   fr: Taurillon de Juan Fernandez
   de: Juan-Fernández-Tachurityrann
-  pt: juan fernandez tit-tyrant
+  pt: ''
   ru: Островной гренадерчик
   ja: フェルナンデスカラタイランチョウ
   nl: Juan-Fernandezmeestiran

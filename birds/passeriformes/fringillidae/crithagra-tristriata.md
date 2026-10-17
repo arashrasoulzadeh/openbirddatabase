@@ -12,7 +12,7 @@ names:
   es: Serín Culipardo
   fr: Serin à trois raies
   de: Rüppellgirlitz
-  pt: brown-rumped seedeater
+  pt: ''
   ru: Белобровый канареечник
   ja: チャイロカナリア
   nl: Rüppellkanarie

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23012.0
 names:
   scientific: Calamonastes fasciolatus
-  fa: nan
+  fa: ''
   en: Barred Wren-Warbler
   es: Camaróptera Barrada
   fr: Camaroptère barrée
   de: Damarabindensänger
-  pt: barred wren-warbler
+  pt: ''
   ru: Пёстрая зебрина
   ja: ヨコジマコムシクイ
   nl: Gebandeerde savannezanger

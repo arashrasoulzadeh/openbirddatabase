@@ -12,7 +12,7 @@ names:
   es: Fulveta Gorjirrufa
   fr: Pseudominla à gorge rousse
   de: Rotband-Zweigdrossling
-  pt: rufous-throated fulvetta
+  pt: ''
   ru: Рыжегорлая альциппа
   ja: クビワチメドリ
   zh: 棕喉雀鹛

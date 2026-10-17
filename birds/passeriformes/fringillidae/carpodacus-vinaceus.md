@@ -12,7 +12,7 @@ names:
   es: Camachuelo Vinoso
   fr: Roselin vineux
   de: Rubingimpel
-  pt: vinaceous rosefinch
+  pt: ''
   ru: Винно-красная чечевица
   ja: タカサゴマシコ
   zh: 酒红朱雀

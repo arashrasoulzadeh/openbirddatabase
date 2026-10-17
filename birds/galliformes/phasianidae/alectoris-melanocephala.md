@@ -12,7 +12,7 @@ names:
   es: Perdiz Árabe
   fr: Perdrix à tête noire
   de: Schwarzkopf-Steinhuhn
-  pt: arabian partridge
+  pt: ''
   ru: Черноголовый кеклик
   ja: アラビアイワシャコ
   zh: 阿拉伯石雞

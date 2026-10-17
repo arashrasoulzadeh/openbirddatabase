@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17908.0
 names:
   scientific: Ashbyia lovensis
-  fa: nan
+  fa: ''
   en: Gibberbird
   es: Eptianuro de Ashby
   fr: Epthianure d'Ashby
   de: Wüstentrugschmätzer
-  pt: gibberbird
+  pt: ''
   ru: Желтобрюхая пустынница
   ja: キイロヒバリヒタキ
   zh: 漠澳鵖

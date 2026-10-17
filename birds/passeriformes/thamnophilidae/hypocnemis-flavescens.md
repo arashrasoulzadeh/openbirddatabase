@@ -15,7 +15,7 @@ names:
   pt: cantador-sulfúreo
   ru: Буробокая муравьянка
   ja: イメリナキアリドリ
-  zh: Imeri Warbling Antbird
+  zh: ''
   nl: Imerimierzanger
   pl: jaguarek żółtawy
   tr: Imeri Karıncakuşu

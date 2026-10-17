@@ -12,7 +12,7 @@ names:
   es: Picaflores de San Cristóbal
   fr: Dicée de San Cristobal
   de: Makiramistelfresser
-  pt: mottled flowerpecker
+  pt: ''
   ru: Санкристобальский цветоед
   ja: サンクリストバルハナドリ
   zh: 杂色啄花鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32167.0
 names:
   scientific: Carpodacus edwardsii
-  fa: nan
+  fa: ''
   en: Dark-rumped Rosefinch
   es: Camachuelo de Edwards
   fr: Roselin d'Edwards
   de: Edwardsgimpel
-  pt: dark-rumped rosefinch
+  pt: ''
   ru: Темноспинная чечевица
   ja: チャゴシマシコ
   zh: 棕朱雀

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 26066.0
 names:
   scientific: Pomatorhinus montanus
-  fa: nan
+  fa: ''
   en: Javan Scimitar Babbler
   es: Cimitarra Dorsicastaña
   fr: Pomatorhin à dos marron
@@ -15,7 +15,7 @@ names:
   pt: javan scimitar-babbler
   ru: Красноспинная кривоклювая тимелия
   ja: セアカマルハシ
-  zh: Javan Scimitar Babbler
+  zh: ''
   nl: Javaanse kruiplijster
   pl: łączniak kasztanowaty
   tr: Cava Kıvrıkgagası

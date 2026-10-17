@@ -12,7 +12,7 @@ names:
   es: Alcaudón de Los Taita
   fr: Pie-grièche du Taita
   de: Taitawürger
-  pt: taita fiscal
+  pt: ''
   ru: Тайтасский фискал
   ja: ズグロオナガモズ
   zh: 肯尼亚伯劳

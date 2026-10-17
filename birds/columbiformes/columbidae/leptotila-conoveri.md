@@ -12,7 +12,7 @@ names:
   es: Paloma Montaraz de Tolima
   fr: Colombe de Conover
   de: Tolimataube
-  pt: tolima dove
+  pt: ''
   ru: Толимская голубка
   ja: コロンビアシャコバト
   nl: Tolimaduif

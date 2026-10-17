@@ -12,7 +12,7 @@ names:
   es: Trogón Elegante
   fr: Trogon élégant
   de: Schmucktrogon
-  pt: elegant trogon
+  pt: ''
   ru: Медный трогон
   ja: ウツクシキヌバネドリ
   nl: Groenstaarttrogon

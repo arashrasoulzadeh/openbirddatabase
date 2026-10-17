@@ -12,7 +12,7 @@ names:
   es: Turdoide Piquigualdo
   fr: Cratérope affin
   de: Gelbschnabel-Drosselhäherling
-  pt: yellow-billed babbler
+  pt: ''
   ru: Желтоклювая дроздовка
   ja: キバシヤブチメドリ
   zh: 印度白頭鶇鶥

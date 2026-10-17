@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19510.0
 names:
   scientific: Pachycephala hypoxantha
-  fa: nan
+  fa: ''
   en: Bornean Whistler
   es: Silbador de Borneo
   fr: Siffleur de Bornéo
   de: Borneodickkopf
-  pt: bornean whistler
+  pt: ''
   ru: Борнейский свистун
   ja: ボルネオモズヒタキ
   zh: 加里啸鹟

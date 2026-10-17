@@ -12,7 +12,7 @@ names:
   es: Aratinga Mitrada
   fr: Conure mitrée
   de: Rotmaskensittich
-  pt: mitred parakeet
+  pt: ''
   ru: Краснолицая аратинга
   ja: ベニガオメキシコインコ
   nl: Roodmaskeraratinga

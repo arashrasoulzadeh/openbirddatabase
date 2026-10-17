@@ -12,7 +12,7 @@ names:
   es: Achichilique de Clark
   fr: Grèbe à face blanche
   de: Clarktaucher
-  pt: clark's grebe
+  pt: ''
   ru: Желтоклювая поганка
   ja: クラークカイツブリ
   nl: Clarkfuut

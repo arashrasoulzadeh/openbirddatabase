@@ -15,7 +15,7 @@ names:
   pt: gray-breasted wood-wren
   ru: Серогрудый крапивник
   ja: ハイムネモリミソサザイ
-  zh: Grey-breasted Wood Wren
+  zh: ''
   nl: Grijze boswinterkoning
   pl: stokowczyk szaropierśny
   tr: Gri Göğüslü Çıtkuşu

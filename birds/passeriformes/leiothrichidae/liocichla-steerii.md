@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26598.0
 names:
   scientific: Liocichla steerii
-  fa: nan
+  fa: ''
   en: Taiwan Liocichla
   es: Charlatán de Steere
   fr: Garrulaxe de Steere
   de: Taiwanbunthäherling
-  pt: taiwan liocichla
+  pt: ''
   ru: Тайваньская лиоцихла
   ja: ヤブドリ
   zh: 黄痣薮鹛

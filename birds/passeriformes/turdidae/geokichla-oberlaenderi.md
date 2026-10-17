@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 28376.0
 names:
   scientific: Geokichla oberlaenderi
-  fa: nan
+  fa: ''
   en: Oberländer's Ground Thrush
   es: Zorzal de Oberlander
   fr: Grive d'Oberländer
@@ -15,7 +15,7 @@ names:
   pt: oberländer's ground-thrush
   ru: Конголезкий дрозд
   ja: コンゴジツグミ
-  zh: Oberländer's Ground Thrush
+  zh: ''
   nl: Ruwenzorilijster
   pl: drozdaczek brązowogrzbiety
   tr: Oberlaender Ardıcı

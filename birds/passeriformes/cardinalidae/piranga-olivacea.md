@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34436.0
 names:
   scientific: Piranga olivacea
-  fa: nan
+  fa: ''
   en: Scarlet Tanager
   es: Piranga Escarlata
   fr: Piranga écarlate

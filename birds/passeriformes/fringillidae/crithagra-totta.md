@@ -12,7 +12,7 @@ names:
   es: Serín de El Cabo
   fr: Serin totta
   de: Kapgirlitz
-  pt: cape siskin
+  pt: ''
   ru: Капский канареечник
   ja: ケープヒワ
   nl: Kaapse kanarie

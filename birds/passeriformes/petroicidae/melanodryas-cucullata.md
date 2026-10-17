@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21834.0
 names:
   scientific: Melanodryas cucullata
-  fa: nan
+  fa: ''
   en: Hooded Robin
   es: Petroica Encapuchada
   fr: Miro à capuchon
   de: Schwarzkopfschnäpper
-  pt: hooded robin
+  pt: ''
   ru: Пегая дриада
   ja: クロズキンヒタキ
   zh: 冠鸲鹟

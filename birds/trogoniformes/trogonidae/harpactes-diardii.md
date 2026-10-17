@@ -12,7 +12,7 @@ names:
   es: Trogón de Diard
   fr: Trogon de Diard
   de: Diardtrogon
-  pt: diard's trogon
+  pt: ''
   ru: Ожерелковый трогон
   ja: バラエリキヌバネドリ
   nl: Diardtrogon

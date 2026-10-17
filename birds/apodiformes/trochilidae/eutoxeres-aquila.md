@@ -12,7 +12,7 @@ names:
   es: Picohoz Coliverde
   fr: Bec-en-faucille aigle
   de: Weißkehl-Sichelschnabel
-  pt: white-tipped sicklebill
+  pt: ''
   ru: Пестрохвостый орлиноклюв
   ja: カマハシハチドリ
   zh: 白尾尖镰嘴蜂鸟

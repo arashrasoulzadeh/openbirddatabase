@@ -12,7 +12,7 @@ names:
   es: Colibrí de Cochabamba
   fr: Colibri adèle
   de: Rotflankenkolibri
-  pt: wedge-tailed hillstar
+  pt: ''
   ru: Рыжебокая ореада
   ja: クサビオヤマハチドリ
   zh: 楔尾山蜂鸟

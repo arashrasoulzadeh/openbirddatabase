@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12253.0
 names:
   scientific: Micropsitta finschii
-  fa: nan
+  fa: ''
   en: Finsch's Pygmy Parrot
   es: Microloro de Finsch
   fr: Micropsitte de Finsch
@@ -15,7 +15,7 @@ names:
   pt: finsch's pygmy-parrot
   ru: Соломонский карликовый попугайчик
   ja: ソロモンケラインコ
-  zh: Finsch's Pygmy Parrot
+  zh: ''
   nl: Finschspechtpapegaai
   pl: karłówka zielona
   tr: Finsch Cüce Papağanı

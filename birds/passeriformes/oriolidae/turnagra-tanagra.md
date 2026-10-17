@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 19715.0
 names:
   scientific: Turnagra tanagra
-  fa: nan
+  fa: ''
   en: North Island Piopio
   es: Turnagra de Isla Norte
   fr: Piopio de Schlegel
   de: Nordinselpirol
-  pt: north island piopio
+  pt: ''
   ru: Северный пиопио
   ja: キタニュージーランドツグミ
   zh: 新西兰北鸫鹟

@@ -12,7 +12,7 @@ names:
   es: Picaflores Golondrina
   fr: Dicée hirondelle
   de: Rotsteiß-Mistelfresser
-  pt: mistletoebird
+  pt: ''
   ru: Ласточковый цветоед
   ja: ヤドリギハナドリ
   zh: 澳洲啄花

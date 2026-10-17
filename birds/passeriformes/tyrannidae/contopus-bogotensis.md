@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16917.0
 names:
   scientific: Contopus bogotensis
-  fa: nan
+  fa: ''
   en: Northern Tropical Pewee
   es: Pibí Tropical Norteño
   fr: Moucherolle de Bonaparte
   de: Waldschnäppertyrann
-  pt: northern tropical pewee
+  pt: ''
   nl: Noordelijke spixpiewie
   pl: piwik popielaty
   tr: Kuzeyli Tropikal Pivi

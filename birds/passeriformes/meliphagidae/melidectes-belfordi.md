@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17842.0
 names:
   scientific: Melidectes belfordi
-  fa: nan
+  fa: ''
   en: Belford's Melidectes
   es: Mielero de Belford
   fr: Méliphage de Belford
   de: Belfordhonigfresser
-  pt: belford's melidectes
+  pt: ''
   ru: Синелицый медосос
   ja: アオガオヤマミツスイ
   zh: 柏福氏大蜜鳥

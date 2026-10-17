@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 16764.0
 names:
   scientific: Phyllomyias urichi
-  fa: nan
+  fa: ''
   en: Urich's Tyrannulet
   es: Mosquerito de Paria
   fr: Tyranneau d'Urich
   de: Urichkleintyrann
-  pt: urich's tyrannulet
+  pt: ''
   ru: Венесуэльский москитеро
   ja: ミヤマコタイランチョウ
   nl: Urichvliegenpikker

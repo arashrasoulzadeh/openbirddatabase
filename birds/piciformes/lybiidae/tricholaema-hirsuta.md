@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10622.0
 names:
   scientific: Tricholaema hirsuta
-  fa: nan
+  fa: ''
   en: Hairy-breasted Barbet
   es: Barbudo Hirsuto
   fr: Barbican hérissé
   de: Fleckenbartvogel
-  pt: hairy-breasted barbet
+  pt: ''
   ru: Пестрогрудая либия
   ja: キボシコゴシキドリ
   nl: Geelparelbaardvogel

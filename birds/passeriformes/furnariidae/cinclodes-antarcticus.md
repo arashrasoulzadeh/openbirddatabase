@@ -12,7 +12,7 @@ names:
   es: Remolinera Negra
   fr: Cinclode fuligineux
   de: Falkland-Uferwipper
-  pt: blackish cinclodes
+  pt: ''
   ru: Тёмная трясохвостка
   ja: クロイソカマドドリ
   zh: 淡黑抖尾地雀

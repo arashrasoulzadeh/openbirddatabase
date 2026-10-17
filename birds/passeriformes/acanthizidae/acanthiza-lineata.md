@@ -12,7 +12,7 @@ names:
   es: Acantiza Estriada
   fr: Acanthize ridé
   de: Stricheldornschnabel
-  pt: striated thornbill
+  pt: ''
   ru: Пёстрая шилоклювка
   ja: ムナフトゲハシムシクイ
   nl: Twijgdoornsnavel

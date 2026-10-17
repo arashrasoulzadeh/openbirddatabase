@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14092.0
 names:
   scientific: Oneillornis lunulatus
-  fa: nan
+  fa: ''
   en: Lunulated Antbird
   es: Hormiguero Lunulado
   fr: Fourmilier lunulé
   de: Schwarzschwanz-Ameisenvogel
-  pt: lunulated antbird
+  pt: ''
   ru: Чернохвостая гологлазка
   ja: オグロメガネアリドリ
   nl: Ucayalimiervogel

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Pechipardo
   fr: Gobemouche à poitrine brune
   de: Weißkehl-Dschungelschnäpper
-  pt: brown-chested jungle flycatcher
+  pt: ''
   ru: Белогорлая джунглевая мухоловка
   ja: ムナオビミツリンヒタキ
   zh: 白喉林鹟

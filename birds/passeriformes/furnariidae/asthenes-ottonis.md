@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15446.0
 names:
   scientific: Asthenes ottonis
-  fa: nan
+  fa: ''
   en: Rusty-fronted Canastero
   es: Piscuiz Frentirrufo
   fr: Synallaxe à front rouille
   de: Rostgesichtcanastero
-  pt: rusty-fronted canastero
+  pt: ''
   ru: Рыжелобый канастеро
   ja: アカビタイカマドドリ
   nl: Garteppcanastero

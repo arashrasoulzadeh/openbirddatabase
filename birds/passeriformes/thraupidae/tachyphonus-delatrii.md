@@ -12,7 +12,7 @@ names:
   es: Tangara de Delattre
   fr: Tangara de Delattre
   de: Schwarzachsel-Haubentangare
-  pt: tawny-crested tanager
+  pt: ''
   ru: Златохохлая танагра
   ja: チャボウシクロフウキンチョウ
   nl: Taankuiftangare

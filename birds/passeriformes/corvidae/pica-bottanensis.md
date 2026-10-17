@@ -12,7 +12,7 @@ names:
   es: Urraca del Himalaya
   fr: Pie de Delessert
   de: Tibetelster
-  pt: black-rumped magpie
+  pt: ''
   ru: Тибетская сорока
   ja: ヒマラヤカササギ
   zh: 青藏喜鹊

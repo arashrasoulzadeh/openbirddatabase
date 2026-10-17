@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 19409.0
 names:
   scientific: Pachycephala vitiensis
-  fa: nan
+  fa: ''
   en: White-throated Fiji Whistler
   es: Silbador de Fiyi Gorjiblanco
   fr: Siffleur des Fidji
-  pt: white-throated fiji whistler
+  pt: ''
   ru: Белозобый свистун
   ja: フィジーモズヒタキ
   nl: Witkeelfijifluiter

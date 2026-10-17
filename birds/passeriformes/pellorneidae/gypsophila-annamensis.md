@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26347.0
 names:
   scientific: Gypsophila annamensis
-  fa: nan
+  fa: ''
   en: Annam Limestone Babbler
   es: Ratina de Annam
   fr: Turdinule d'Annam
   de: Annamdrossling
-  pt: annam limestone babbler
+  pt: ''
   zh: 灰岩鹪鹛
   nl: Grijze mergelsluiptimalia
   pl: kusotymalek szarogłowy

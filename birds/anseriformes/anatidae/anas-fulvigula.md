@@ -12,7 +12,7 @@ names:
   es: Ánade Moteado
   fr: Canard brun
   de: Floridaente
-  pt: mottled duck
+  pt: ''
   ru: Глазчатая кряква
   ja: マダラガモ
   zh: 北美斑鴨

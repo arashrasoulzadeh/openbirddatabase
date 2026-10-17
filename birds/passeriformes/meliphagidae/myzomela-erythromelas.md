@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18040.0
 names:
   scientific: Myzomela erythromelas
-  fa: nan
+  fa: ''
   en: Black-bellied Myzomela
   es: Mielero Ventrinegro
   fr: Myzomèle à ventre noir
   de: Flammenkopf-Honigfresser
-  pt: black-bellied myzomela
+  pt: ''
   ru: Чернобрюхая медовка
   ja: クロハラミツスイ
   nl: Vuurkopdwerghoningeter

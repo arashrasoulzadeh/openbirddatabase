@@ -12,7 +12,7 @@ names:
   es: Cacatúa Oftálmica
   fr: Cacatoès aux yeux bleus
   de: Brillenkakadu
-  pt: blue-eyed cockatoo
+  pt: ''
   ru: Очковый какаду
   ja: ルリメタイハクオウム
   zh: 蓝眼凤头鹦鹉

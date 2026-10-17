@@ -12,7 +12,7 @@ names:
   es: Agachadiza Noble
   fr: Bécassine noble
   de: Nobelbekassine
-  pt: noble snipe
+  pt: ''
   ru: Длинноклювый бекас
   ja: ハシナガシギ
   nl: Paramosnip

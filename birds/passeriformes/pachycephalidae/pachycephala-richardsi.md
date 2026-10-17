@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19427.0
 names:
   scientific: Pachycephala richardsi
-  fa: nan
+  fa: ''
   en: Bougainville Whistler
   es: Silbador de Bougainville
   fr: Siffleur de Bougainville
@@ -15,7 +15,7 @@ names:
   pt: bougainville hooded whistler
   ru: Бугенвильский свистун
   ja: ブーゲンビルモズヒタキ
-  zh: Bougainville Whistler
+  zh: ''
   nl: Bougainvillefluiter
   pl: fletówka kapturowa
   tr: Bogenvil Islıkçısı

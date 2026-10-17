@@ -12,7 +12,7 @@ names:
   es: Picabayas Crestado Oriental
   fr: Paramythie huppée
   de: Schopfbeerenfresser
-  pt: eastern crested berrypecker
+  pt: ''
   ru: Хохлатая парамития
   ja: カンムリハナドリ
   zh: 东冠啄果鸟

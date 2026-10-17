@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 19461.0
 names:
   scientific: Pachycephala teysmanni
-  fa: nan
+  fa: ''
   en: Selayar Whistler
   es: Silbador de Selayar
   fr: Siffleur de Selayar
-  pt: selayar whistler
+  pt: ''
   nl: Saleijerfluiter
   pl: fletówka pastelowa
   tr: Seleyar Islıkçısı

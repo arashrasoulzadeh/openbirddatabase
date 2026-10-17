@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19522.0
 names:
   scientific: Pachycephala phaionota
-  fa: nan
+  fa: ''
   en: Island Whistler
   es: Silbador Moluqueño
   fr: Siffleur des Moluques
   de: Küstendickkopf
-  pt: island whistler
+  pt: ''
   ru: Серамский свистун
   ja: ハマベモズヒタキ
   zh: 岛厚头啸鹟

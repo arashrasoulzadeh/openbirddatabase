@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14448.0
 names:
   scientific: Scytalopus stilesi
-  fa: nan
+  fa: ''
   en: Stiles's Tapaculo
   es: Churrín de Stiles
   fr: Mérulaxe de Stiles
   de: Stilestapaculo
-  pt: stiles's tapaculo
+  pt: ''
   ru: Медельинский тапакуло
   ja: スタイルズオタテドリ
   nl: Stilestapaculo

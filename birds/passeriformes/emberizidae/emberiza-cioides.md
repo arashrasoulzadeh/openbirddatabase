@@ -12,7 +12,7 @@ names:
   es: Escribano de Brandt
   fr: Bruant à longue queue
   de: Wiesenammer
-  pt: meadow bunting
+  pt: ''
   ru: Красноухая овсянка
   ja: ホオジロ
   zh: 三道眉草鹀

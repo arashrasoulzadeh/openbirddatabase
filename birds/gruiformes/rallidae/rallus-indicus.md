@@ -12,7 +12,7 @@ names:
   es: Rascón Asiático
   fr: Râle à joues brunes
   de: Asienwasserralle
-  pt: brown-cheeked rail
+  pt: ''
   ru: Восточный пастушок
   ja: クイナ
   zh: 普通秧鸡

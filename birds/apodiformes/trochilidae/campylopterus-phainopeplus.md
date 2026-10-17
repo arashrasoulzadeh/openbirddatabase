@@ -12,7 +12,7 @@ names:
   es: Colibrí de Santa Marta
   fr: Campyloptère de Santa Marta
   de: Santa-Marta-Degenflügel
-  pt: santa marta sabrewing
+  pt: ''
   ru: Сантамартийский саблекрыл
   ja: アイガシラハチドリ
   zh: 圣马刀翅蜂鸟

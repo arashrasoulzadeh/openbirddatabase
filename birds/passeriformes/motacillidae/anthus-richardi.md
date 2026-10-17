@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31752.0
 names:
   scientific: Anthus richardi
-  fa: nan
+  fa: ''
   en: Richard's Pipit
   es: Bisbita de Richard
   fr: Pipit de Richard

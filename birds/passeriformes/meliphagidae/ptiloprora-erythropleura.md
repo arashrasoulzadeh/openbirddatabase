@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18065.0
 names:
   scientific: Ptiloprora erythropleura
-  fa: nan
+  fa: ''
   en: Rufous-sided Honeyeater
   es: Mielero Flanquirrufo
   fr: Méliphage à flancs roux
   de: Rotflanken-Honigfresser
-  pt: rufous-sided honeyeater
+  pt: ''
   ru: Рыжебокий нектароед
   ja: ワキアカセスジミツスイ
   nl: Roodflankhoningeter

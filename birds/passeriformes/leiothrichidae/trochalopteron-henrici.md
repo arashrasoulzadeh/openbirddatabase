@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26463.0
 names:
   scientific: Trochalopteron henrici
-  fa: nan
+  fa: ''
   en: Brown-cheeked Laughingthrush
   es: Charlatán de Henri
   fr: Garrulaxe d'Henri

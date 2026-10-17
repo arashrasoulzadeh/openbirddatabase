@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25938.0
 names:
   scientific: Macronus striaticeps
-  fa: nan
+  fa: ''
   en: Brown Tit-Babbler
   es: Timalí Pardo
   fr: Timalie brune
   de: Streifenkopf-Meisentimalie
-  pt: brown tit-babbler
+  pt: ''
   ru: Пестроголовая тимелия
   ja: コシミノチメドリ
   zh: 褐纹胸鹛

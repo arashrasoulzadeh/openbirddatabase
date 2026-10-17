@@ -15,7 +15,7 @@ names:
   pt: black-breasted wood-quail
   ru: Белогорлый зубцеклювый перепел
   ja: ノドジロウズラ
-  zh: Black-breasted Wood Quail
+  zh: ''
   nl: Zwartborsttandkwartel
   pl: przepiór białogardły
   tr: Kara Göğüslü Tokro

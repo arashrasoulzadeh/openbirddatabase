@@ -12,7 +12,7 @@ names:
   es: Abanico Ventrirrufo
   fr: Rhipidure à ventre roux
   de: Braunbauch-Fächerschwanz
-  pt: chestnut-bellied fantail
+  pt: ''
   ru: Коричневобрюхая веерохвостка
   ja: チャバラオウギビタキ
   nl: Bruinbuikwaaierstaart

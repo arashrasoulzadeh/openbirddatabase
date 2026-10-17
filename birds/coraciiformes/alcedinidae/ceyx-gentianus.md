@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9996.0
 names:
   scientific: Ceyx gentianus
-  fa: nan
+  fa: ''
   en: Makira Dwarf Kingfisher
   es: Martín Pigmeo de San Cristóbal
   fr: Martin-pêcheur de San Cristobal
@@ -15,7 +15,7 @@ names:
   pt: makira dwarf-kingfisher
   ru: Макирский зимородок
   ja: マキラカワセミ
-  zh: Makira Dwarf Kingfisher
+  zh: ''
   nl: Makiradwergijsvogel
   pl: zimorodek biało-niebieski
   tr: Makira Küçük Yalıçapkını

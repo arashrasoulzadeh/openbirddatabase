@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Rothschild
   fr: Paradisier de Rothschild
   de: Rothschildparadieselster
-  pt: huon astrapia
+  pt: ''
   ru: Хуонская астрапия
   ja: ヒガシオナガフウチョウ
   nl: Huonastrapia

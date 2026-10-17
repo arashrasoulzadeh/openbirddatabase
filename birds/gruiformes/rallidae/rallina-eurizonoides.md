@@ -12,7 +12,7 @@ names:
   es: Polluela de Jungla
   fr: Râle de forêt
   de: Graubeinralle
-  pt: slaty-legged crake
+  pt: ''
   ru: Сероногий пастушок
   ja: オオクイナ
   zh: 白喉斑秧鸡

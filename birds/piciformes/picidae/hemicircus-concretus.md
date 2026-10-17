@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11119.0
 names:
   scientific: Hemicircus concretus
-  fa: nan
+  fa: ''
   en: Grey-and-buff Woodpecker
   es: Pito Colicorto
   fr: Pic trapu
@@ -15,7 +15,7 @@ names:
   pt: gray-and-buff woodpecker
   ru: Короткохвостый дятлик
   ja: カンムリコゲラ
-  zh: Grey-and-buff Woodpecker
+  zh: ''
   nl: Kortstaartspecht
   pl: kusodrwal czerwonoczuby
   tr: Kırmızı Tepeli Gri Ağaçkakan

@@ -12,7 +12,7 @@ names:
   es: Egotelo de Rand
   fr: Égothèle de Tate
   de: Tiefland-Höhlenschwalm
-  pt: starry owlet-nightjar
+  pt: ''
   ru: Украшенный совиный козодой
   ja: ホシズクヨタカ
   nl: Laaglanddwergnachtzwaluw

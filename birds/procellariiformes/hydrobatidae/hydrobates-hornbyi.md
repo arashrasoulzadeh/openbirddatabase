@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 7052.0
 names:
   scientific: Hydrobates hornbyi
-  fa: nan
+  fa: ''
   en: Ringed Storm Petrel
   es: Paíño Acollarado
   fr: Océanite de Hornby
@@ -15,7 +15,7 @@ names:
   pt: ringed storm-petrel
   ru: Ошейниковая качурка
   ja: チリーウミツバメ
-  zh: Ringed Storm Petrel
+  zh: ''
   nl: Gekraagd stormvogeltje
   pl: nawałnik obrożny
   tr: Gri Yakalı Fırtınakırlangıcı

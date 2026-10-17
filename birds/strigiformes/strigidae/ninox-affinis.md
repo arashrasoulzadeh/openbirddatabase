@@ -12,7 +12,7 @@ names:
   es: Nínox de las Andamán
   fr: Ninoxe des Andaman
   de: Andamanenkauz
-  pt: andaman boobook
+  pt: ''
   ru: Андаманская иглоногая сова
   ja: アンダマンアオバズク
   nl: Andamanenboeboek

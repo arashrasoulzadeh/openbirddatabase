@@ -12,7 +12,7 @@ names:
   es: Polluela de Waters
   fr: Râle de Waters
   de: Lemurenralle
-  pt: slender-billed flufftail
+  pt: ''
   ru: Тонкоклювая жемчужная курочка
   ja: マダガスカルムジクイナ
   nl: Bartlettral

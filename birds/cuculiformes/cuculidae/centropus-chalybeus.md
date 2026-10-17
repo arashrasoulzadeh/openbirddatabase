@@ -12,7 +12,7 @@ names:
   es: Cucal de Biak
   fr: Coucal de Biak
   de: Biakkuckuck
-  pt: biak coucal
+  pt: ''
   ru: Атласный кукаль
   ja: ビアクバンケン
   zh: 比阿克鸦鹃

@@ -12,7 +12,7 @@ names:
   es: Cacatúa Moluqueña
   fr: Cacatoès à huppe rouge
   de: Molukkenkakadu
-  pt: salmon-crested cockatoo
+  pt: ''
   ru: Молуккский какаду
   ja: オオバタン
   zh: 鮭冠鳳頭鸚鵡

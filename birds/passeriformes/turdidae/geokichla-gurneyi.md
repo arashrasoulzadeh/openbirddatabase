@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28385.0
 names:
   scientific: Geokichla gurneyi
-  fa: nan
+  fa: ''
   en: Orange Ground Thrush
   es: Zorzal de Gurney
   fr: Grive de Gurney
@@ -15,7 +15,7 @@ names:
   pt: orange ground-thrush
   ru: Оранжевобрюхий дрозд
   ja: アフリカジツグミ
-  zh: Orange Ground Thrush
+  zh: ''
   nl: Gurneylijster
   pl: drozdaczek pomarańczowogardły
   tr: Gurney Ardıcı

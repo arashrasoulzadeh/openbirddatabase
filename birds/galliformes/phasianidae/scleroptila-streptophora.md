@@ -12,7 +12,7 @@ names:
   es: Francolín Acollarado
   fr: Francolin à collier
   de: Kragenfrankolin
-  pt: ring-necked francolin
+  pt: ''
   ru: Воротничковый франколин
   ja: クビワシャコ
   nl: Kraagfrankolijn

@@ -12,7 +12,7 @@ names:
   es: Tejedor de Fox
   fr: Tisserin de Fox
   de: Ugandaweber
-  pt: fox's weaver
+  pt: ''
   ru: Угандийский ткач
   ja: ウガンダウロコハタオリ
   nl: Foxwever

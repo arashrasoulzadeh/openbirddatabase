@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9660.0
 names:
   scientific: Lophoceros semifasciatus
-  fa: nan
+  fa: ''
   en: West African Pied Hornbill
   es: Toco Blanquinegro de Guinea
   fr: Calao brévibande
   de: Guineatoko
-  pt: west african pied hornbill
+  pt: ''
   zh: 西斑尾彎嘴犀鳥
   nl: West-Afrikaanse bonte tok
   pl: toko czarny

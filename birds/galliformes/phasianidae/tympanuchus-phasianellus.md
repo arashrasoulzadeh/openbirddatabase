@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1327.0
 names:
   scientific: Tympanuchus phasianellus
-  fa: nan
+  fa: ''
   en: Sharp-tailed Grouse
   es: Gallo de las Praderas Rabudo
   fr: Tétras à queue fine
   de: Schweifhuhn
-  pt: sharp-tailed grouse
+  pt: ''
   ru: Острохвостый тетерев
   ja: ホソオライチョウ
   zh: 尖尾草原松雞

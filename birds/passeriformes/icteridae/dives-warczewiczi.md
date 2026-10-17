@@ -12,7 +12,7 @@ names:
   es: Zanate Matorralero
   fr: Quiscale buissonnier
   de: Buschstärling
-  pt: scrub blackbird
+  pt: ''
   ru: Кустарниковый трупиал
   ja: ヤブクロムクドリモドキ
   nl: Struiktroepiaal

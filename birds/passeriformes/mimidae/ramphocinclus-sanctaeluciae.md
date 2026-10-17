@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 28002.0
 names:
   scientific: Ramphocinclus sanctaeluciae
-  fa: nan
+  fa: ''
   en: St. Lucia Thrasher
   es: Cuitlacoche de Santa Lucía
   fr: Moqueur de Sainte-Lucie
-  pt: st. lucia thrasher
+  pt: ''
   nl: Sint-Luciaspotlijster
   pl: skrzeczek większy
   tr: Santa Lucia Çöpçüsü

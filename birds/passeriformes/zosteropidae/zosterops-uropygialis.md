@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25854.0
 names:
   scientific: Zosterops uropygialis
-  fa: nan
+  fa: ''
   en: Kai Kecil White-eye
   es: Anteojitos de Pequeña Kai
   fr: Zostérops de Petite Kai
   de: Tualbrillenvogel
-  pt: kai kecil white-eye
+  pt: ''
   ru: Золотистобрюхая белоглазка
   ja: オグロメジロ
   nl: Kai-Ketjilbrilvogel

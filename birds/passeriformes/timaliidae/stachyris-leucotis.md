@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26120.0
 names:
   scientific: Stachyris leucotis
-  fa: nan
+  fa: ''
   en: White-necked Babbler
   es: Timalí Orejudo
   fr: Timalie oreillarde
   de: Perlhals-Buschtimalie
-  pt: white-necked babbler
+  pt: ''
   ru: Белоухая тимелия
   ja: シラボシモリチメドリ
   zh: 白耳穗鹛

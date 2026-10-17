@@ -12,7 +12,7 @@ names:
   es: Colibrí Gorjirrubí
   fr: Colibri à gorge rubis
   de: Rubinkehlkolibri
-  pt: ruby-throated hummingbird
+  pt: ''
   ru: Рубиновогорлый колибри
   ja: ノドアカハチドリ
   zh: 红喉北蜂鸟

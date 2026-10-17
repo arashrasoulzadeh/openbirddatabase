@@ -12,7 +12,7 @@ names:
   es: Papamoscas Sundara
   fr: Gobemouche sundara
   de: Rotbauch-Blauschnäpper
-  pt: rufous-bellied niltava
+  pt: ''
   ru: Рыжебрюхая нильтава
   ja: コチャバラオオルリ
   zh: 棕腹仙鹟

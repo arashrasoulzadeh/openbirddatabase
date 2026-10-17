@@ -12,7 +12,7 @@ names:
   es: Turdoide Picofino
   fr: Cratérope à bec fin
   de: Schlankschnabel-Drosselhäherling
-  pt: slender-billed babbler
+  pt: ''
   ru: Тонкоклювая дроздовка
   ja: ハシボソヤブチメドリ
   zh: 细嘴鸫鹛

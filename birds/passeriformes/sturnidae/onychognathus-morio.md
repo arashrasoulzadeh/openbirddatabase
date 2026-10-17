@@ -12,7 +12,7 @@ names:
   es: Estornino Alirrojo
   fr: Rufipenne morio
   de: Rotschwingenstar
-  pt: red-winged starling
+  pt: ''
   ru: Краснокрылый скворец
   ja: アカバネテリムク
   zh: 紅翅椋鳥

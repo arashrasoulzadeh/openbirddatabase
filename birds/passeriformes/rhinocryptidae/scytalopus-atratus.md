@@ -12,7 +12,7 @@ names:
   es: Churrín Coroniblanco
   fr: Mérulaxe couronné
   de: Weißscheiteltapaculo
-  pt: white-crowned tapaculo
+  pt: ''
   ru: Белошапочный тапакуло
   ja: キタシロボウシオタテドリ
   nl: Witkruintapaculo

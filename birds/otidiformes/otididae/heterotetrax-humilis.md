@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 2949.0
 names:
   scientific: Heterotetrax humilis
-  fa: nan
+  fa: ''
   en: Little Brown Bustard
   es: Sisón Somalí
   fr: Outarde somalienne
   de: Somalitrappe
-  pt: little brown bustard
+  pt: ''
   ru: Бурый корхан
   ja: カッショクショウノガン
   nl: Somalische trap

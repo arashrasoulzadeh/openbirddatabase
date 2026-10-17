@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33458.0
 names:
   scientific: Atlapetes melanocephalus
-  fa: nan
+  fa: ''
   en: Santa Marta Brushfinch
   es: Atlapetes de Santa Marta
   fr: Tohi de Santa Marta
   de: Grauohr-Buschammer
-  pt: santa marta brushfinch
+  pt: ''
   ru: Сероухая атлапета
   ja: サンタマルタヤブシトド
   nl: Santa-Martastruikgors

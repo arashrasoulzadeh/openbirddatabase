@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17606.0
 names:
   scientific: Amytornis rowleyi
-  fa: nan
+  fa: ''
   en: Opalton Grasswren
   es: Maluro Herrumbroso
   fr: Amytis de Rowley
   de: Rostgrasschlüpfer
-  pt: opalton grasswren
+  pt: ''
   ru: Опалтонский амитис
   ja: サビイロセスジムシクイ
   nl: Opaltongrassluiper

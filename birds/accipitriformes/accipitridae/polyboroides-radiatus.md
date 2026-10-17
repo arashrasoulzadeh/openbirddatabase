@@ -12,7 +12,7 @@ names:
   es: Aguilucho Caricalvo Malgache
   fr: Gymnogène de Madagascar
   de: Madagaskarhöhlenweih
-  pt: madagascar harrier-hawk
+  pt: ''
   ru: Мадагаскарский лунёвый ястреб
   ja: マダガスカルチュウヒダカ
   zh: 马岛鬣鹰

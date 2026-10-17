@@ -12,7 +12,7 @@ names:
   es: Cucarachero Colinegro
   fr: Troglodyte de Bewick
   de: Buschzaunkönig
-  pt: bewick's wren
+  pt: ''
   ru: Длиннохвостый крапивник
   ja: シロハラミソサザイ
   zh: 比氏葦鷦鷯

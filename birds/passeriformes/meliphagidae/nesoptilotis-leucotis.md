@@ -12,7 +12,7 @@ names:
   es: Mielero Orejiblanco
   fr: Méliphage leucotique
   de: Schwarzkehl-Honigfresser
-  pt: white-eared honeyeater
+  pt: ''
   ru: Белоухая медвянка
   ja: ミミジロミツスイ
   zh: 白耳岩吸蜜鸟

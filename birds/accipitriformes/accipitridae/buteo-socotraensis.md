@@ -12,7 +12,7 @@ names:
   es: Busardo de Socotra
   fr: Buse de Socotra
   de: Sokotrabussard
-  pt: socotra buzzard
+  pt: ''
   ru: Сокотранский канюк
   ja: ソコトラノスリ
   nl: Socotrabuizerd

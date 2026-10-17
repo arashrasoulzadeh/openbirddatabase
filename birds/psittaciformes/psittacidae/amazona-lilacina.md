@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 12913.0
 names:
   scientific: Amazona lilacina
-  fa: nan
+  fa: ''
   en: Lilacine Amazon
   es: Amazona Lilacina
   fr: Amazone lilacée
   de: Ecuadoramazone
-  pt: lilacine amazon
+  pt: ''
   nl: Roodbrauwamazone
   pl: amazonka żółtolica
   tr: Al Kaşlı Amazon

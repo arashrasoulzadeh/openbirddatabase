@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2613.0
 names:
   scientific: Ramphiculus gularis
-  fa: nan
+  fa: ''
   en: Oberholser's Fruit Dove
   es: Tilopo Barbioscuro
   fr: Ptilope à mentonnière
@@ -15,7 +15,7 @@ names:
   pt: maroon-chinned fruit-dove
   ru: Сулавесский фруктовый голубь
   ja: チャアゴヒメアオバト
-  zh: Oberholser's Fruit Dove
+  zh: ''
   nl: Oberholserjufferduif
   pl: owocożer celebeski
   tr: Kestane Gıdılı Meyve Kumrusu

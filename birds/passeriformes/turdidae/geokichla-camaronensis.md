@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28367.0
 names:
   scientific: Geokichla camaronensis
-  fa: nan
+  fa: ''
   en: Black-eared Ground Thrush
   es: Zorzal Camerunés
   fr: Grive du Cameroun
@@ -15,7 +15,7 @@ names:
   pt: black-eared ground-thrush
   ru: Камерунский дрозд
   ja: ミミグロジツグミ
-  zh: Black-eared Ground Thrush
+  zh: ''
   nl: Zwartoorlijster
   pl: drozdaczek czarnouchy
   tr: Kamerun Ardıcı

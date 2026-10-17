@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32900.0
 names:
   scientific: Chlorospingus inornatus
-  fa: nan
+  fa: ''
   en: Pirre Chlorospingus
   es: Clorospingo del Pirre
   fr: Chlorospin du Pirré
   de: Schwarzwangen-Grünammer
-  pt: pirre chlorospingus
+  pt: ''
   ru: Чернощёкий дромник
   ja: ホシヤブフウキンチョウ
   nl: Pirretangare

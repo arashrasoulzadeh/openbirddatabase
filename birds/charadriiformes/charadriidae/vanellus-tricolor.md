@@ -12,7 +12,7 @@ names:
   es: Avefría Tricolor
   fr: Vanneau tricolore
   de: Schwarzbandkiebitz
-  pt: banded lapwing
+  pt: ''
   ru: Трёхцветный чибис
   ja: ムナオビトサカゲリ
   zh: 三色麦鸡

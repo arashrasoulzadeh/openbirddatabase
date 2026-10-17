@@ -12,7 +12,7 @@ names:
   es: Lori de Flores
   fr: Loriquet de Weber
   de: Weberlori
-  pt: leaf lorikeet
+  pt: ''
   ru: Флоресский лорикет
   ja: フロレスセイガイインコ
   nl: Floreslori

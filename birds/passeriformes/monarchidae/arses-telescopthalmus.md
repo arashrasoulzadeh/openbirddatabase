@@ -12,7 +12,7 @@ names:
   es: Monarca Elegante
   fr: Monarque à collerette
   de: Krausenmonarch
-  pt: frilled monarch
+  pt: ''
   ru: Очковый воротничковый монарх
   ja: エリマキヒタキ
   nl: Witbuikfranjemonarch

@@ -12,7 +12,7 @@ names:
   es: Tirano Cubano
   fr: Tyran géant
   de: Riesenkönigstyrann
-  pt: giant kingbird
+  pt: ''
   ru: Большой тиранн
   ja: キューバタイランチョウ
   nl: Cubaanse koningstiran

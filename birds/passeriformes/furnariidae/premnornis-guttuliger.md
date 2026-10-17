@@ -12,7 +12,7 @@ names:
   es: Subepalo Alirrojizo
   fr: Premnornis à gouttelettes
   de: Rostschwingen-Blattspäher
-  pt: rusty-winged barbtail
+  pt: ''
   ru: Бурокрылый шипохвост
   ja: アカバネヒゲオカマドドリ
   zh: 锈翅斑尾雀

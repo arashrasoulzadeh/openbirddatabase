@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24811.0
 names:
   scientific: Phylloscopus proregulus
-  fa: nan
+  fa: ''
   en: Pallas's Leaf Warbler
   es: Mosquitero de Pallas
   fr: Pouillot de Pallas

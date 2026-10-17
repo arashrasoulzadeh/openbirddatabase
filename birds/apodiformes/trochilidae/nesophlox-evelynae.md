@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4808.0
 names:
   scientific: Nesophlox evelynae
-  fa: nan
+  fa: ''
   en: Bahama Woodstar
   es: Colibrí de las Bahamas
   fr: Colibri des Bahamas
   de: Bahamasternkolibri
-  pt: bahama woodstar
+  pt: ''
   ru: Багамский эльф
   ja: バハマハチドリ
   zh: 巴哈马林星蜂鸟

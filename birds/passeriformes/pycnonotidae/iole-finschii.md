@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24493.0
 names:
   scientific: Iole finschii
-  fa: nan
+  fa: ''
   en: Finsch's Bulbul
   es: Bulbul de Finsch
   fr: Bulbul de Finsch
   de: Finschbülbül
-  pt: finsch's bulbul
+  pt: ''
   ru: Желтогорлый бюльбюль-бородач
   ja: ヒメアゴヒゲヒヨドリ
   nl: Finschbaardbuulbuul

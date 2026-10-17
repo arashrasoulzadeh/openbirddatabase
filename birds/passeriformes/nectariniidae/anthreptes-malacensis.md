@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjipardo
   fr: Souimanga à gorge brune
   de: Braunkehl-Nektarvogel
-  pt: brown-throated sunbird
+  pt: ''
   ru: Коричневогорлая нектарница
   ja: チャノドコバシタイヨウチョウ
   zh: 褐喉食蜜鸟

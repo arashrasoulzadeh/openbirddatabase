@@ -12,7 +12,7 @@ names:
   es: Obispo Acollarado
   fr: Euplecte veuve-noire
   de: Schildweber
-  pt: red-collared widowbird
+  pt: ''
   ru: Краснозобый бархатный ткач
   ja: アカエリホウオウ
   nl: Roodkeelwidavink

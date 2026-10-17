@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16909.0
 names:
   scientific: Contopus cinereus
-  fa: nan
+  fa: ''
   en: Southern Tropical Pewee
   es: Pibí Tropical Sureño
   fr: Moucherolle cendré

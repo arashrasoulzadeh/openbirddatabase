@@ -12,7 +12,7 @@ names:
   es: Obispo Dorado
   fr: Euplecte doré
   de: Goldrückenweber
-  pt: golden-backed bishop
+  pt: ''
   ru: Рыжеспинный ткачик
   ja: ズグロオウゴンチョウ
   nl: Goudrugwever

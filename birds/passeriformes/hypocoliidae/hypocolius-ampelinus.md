@@ -15,7 +15,7 @@ names:
   pt: hipocólio
   ru: Свиристелевый сорокопут
   ja: ミミグロレンジャクモドキ
-  zh: Grey Hypocolius
+  zh: ''
   nl: Zijdestaart
   pl: persówka
   tr: Hurmayiyen

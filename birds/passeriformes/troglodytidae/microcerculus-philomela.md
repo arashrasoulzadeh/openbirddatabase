@@ -15,7 +15,7 @@ names:
   pt: nightingale wren
   ru: Куцехвостый крапивник
   ja: キタナキミソサザイ
-  zh: Northern Nightingale-Wren
+  zh: ''
   nl: Noordelijke nachtegaalwinterkoning
   pl: fletniczek północny
   tr: Bülbül Sesli Çıtkuşu

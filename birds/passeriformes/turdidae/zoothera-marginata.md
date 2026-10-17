@@ -12,7 +12,7 @@ names:
   es: Zorzal Flanquioscuro
   fr: Grive à grand bec
   de: Langschnabel-Erddrossel
-  pt: dark-sided thrush
+  pt: ''
   ru: Длинноклювый дрозд
   ja: コオオハシツグミ
   zh: 长嘴地鸫

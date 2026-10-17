@@ -12,7 +12,7 @@ names:
   es: Paloma Wonga
   fr: Colombine wonga
   de: Wongataube
-  pt: wonga pigeon
+  pt: ''
   ru: Вонга
   ja: ウォンガバト
   zh: 巨地鸠

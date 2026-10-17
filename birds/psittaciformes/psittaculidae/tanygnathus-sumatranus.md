@@ -12,7 +12,7 @@ names:
   es: Loro de Müller
   fr: Perruche de Müller
   de: Azurbürzelpapagei
-  pt: azure-rumped parrot
+  pt: ''
   ru: Мюллеров благородный попугай
   ja: ササハインコ
   zh: 藍背巨喙鸚鵡

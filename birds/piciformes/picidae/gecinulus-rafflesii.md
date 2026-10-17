@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11601.0
 names:
   scientific: Gecinulus rafflesii
-  fa: nan
+  fa: ''
   en: Olive-backed Woodpecker
   es: Pito Dorsioliva
   fr: Pic oriflamme
   de: Olivrückenspecht
-  pt: olive-backed woodpecker
+  pt: ''
   ru: Оливковоспинный дятел-султан
   ja: マレーズアカミユビゲラ
   nl: Olijfbuikspecht

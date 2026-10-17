@@ -12,7 +12,7 @@ names:
   es: Alca Gigante
   fr: Grand Pingouin
   de: Riesenalk
-  pt: great auk
+  pt: ''
   ru: Бескрылая гагарка
   ja: オオウミガラス
   zh: 大海雀

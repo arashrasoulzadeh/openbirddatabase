@@ -12,7 +12,7 @@ names:
   es: Mielero de las Chatham
   fr: Méliphage des Chatham
   de: Chathamhonigfresser
-  pt: chatham islands bellbird
+  pt: ''
   ru: Чатемский медосос-колокольчик
   ja: チャタムミツスイ
   zh: 查塔姆吸蜜鳥

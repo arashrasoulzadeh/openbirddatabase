@@ -12,7 +12,7 @@ names:
   es: Diamante Piquirrosado
   fr: Diamant à bec rose
   de: Schwarzmasken-Papageiamadine
-  pt: pink-billed parrotfinch
+  pt: ''
   ru: Розовоклювая амадина
   ja: キバシセイコウチョウ
   zh: 黑脸鹦雀

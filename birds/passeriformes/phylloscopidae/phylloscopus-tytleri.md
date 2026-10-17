@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24819.0
 names:
   scientific: Phylloscopus tytleri
-  fa: nan
+  fa: ''
   en: Tytler's Leaf Warbler
   es: Mosquitero de Tytler
   fr: Pouillot de Tytler
   de: Dünnschnabel-Laubsänger
-  pt: tytler's leaf warbler
+  pt: ''
   ru: Тонкоклювая пеночка
   ja: カシミールムシクイ
   nl: Dunsnavelfitis

@@ -12,7 +12,7 @@ names:
   es: Petrel de Reunión
   fr: Pétrel de Bourbon
   de: Maskarenensturmvogel
-  pt: mascarene petrel
+  pt: ''
   ru: Маскаренский тайфунник
   ja: マスカリンミズナギドリ
   zh: 黑圆尾鹱

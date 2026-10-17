@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23872.0
 names:
   scientific: Cincloramphus timoriensis
-  fa: nan
+  fa: ''
   en: Tawny Grassbird
   es: Yerbera Leonada
   fr: Mégalure fauve
   de: Rostkopf-Buschsänger
-  pt: tawny grassbird
+  pt: ''
   ru: Тиморская длиннохвостая камышевка
   ja: ズアカオオセッカ
   zh: 棕顶大尾莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3587.0
 names:
   scientific: Nyctiphrynus rosenbergi
-  fa: nan
+  fa: ''
   en: Choco Poorwill
   es: Chotacabras del Chocó
   fr: Engoulevent du Choco
   de: Chocónachtschwalbe
-  pt: choco poorwill
+  pt: ''
   ru: Чокский козодой
   ja: チョコプアーウィルヨタカ
   zh: 查岛耳夜鹰

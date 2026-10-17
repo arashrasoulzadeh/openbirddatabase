@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16664.0
 names:
   scientific: Myiopagis olallai
-  fa: nan
+  fa: ''
   en: Foothill Elaenia
   es: Fiofío Submontano
   fr: Élénie d'avant-monts
   de: Vorgebirgs-Olivtyrann
-  pt: foothill elaenia
+  pt: ''
   ru: Седоголовая эления
   ja: サンロクキクイタダキモドキ
   nl: Heuvellandelenia

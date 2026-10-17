@@ -15,7 +15,7 @@ names:
   pt: diabolical nightjar
   ru: Сатанинский козодой
   ja: セレベスヒゲナシヨタカ
-  zh: Satanic Nightjar
+  zh: ''
   nl: Duivelsnachtzwaluw
   pl: rogatnik diaboliczny
   tr: Şeytani Çobanaldatan

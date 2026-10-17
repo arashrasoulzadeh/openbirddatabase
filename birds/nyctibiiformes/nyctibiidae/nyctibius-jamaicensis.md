@@ -12,7 +12,7 @@ names:
   es: Nictibio Jamaicano
   fr: Ibijau jamaïcain
   de: Mexikotagschläfer
-  pt: northern potoo
+  pt: ''
   ru: Северный уратао
   ja: ジャマイカタチヨタカ
   zh: 北林鸱

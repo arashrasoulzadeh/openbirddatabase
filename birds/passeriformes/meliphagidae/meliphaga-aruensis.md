@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17737.0
 names:
   scientific: Meliphaga aruensis
-  fa: nan
+  fa: ''
   en: Puff-backed Honeyeater
   es: Mielero de las Aru
   fr: Méliphage bouffant
   de: Aruhonigfresser
-  pt: puff-backed honeyeater
+  pt: ''
   ru: Аруанский медосос
   ja: オリーブキミミミツスイ
   nl: Aroehoningeter

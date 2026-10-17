@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Estrellado
   fr: Rougegorge étoilé
   de: Sternrötel
-  pt: white-starred robin
+  pt: ''
   ru: Белозвёздный заряночник
   ja: シラボシヤブコマ
   nl: Sterrenpaapje

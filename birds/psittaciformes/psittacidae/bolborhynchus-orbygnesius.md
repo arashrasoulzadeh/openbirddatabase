@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12815.0
 names:
   scientific: Bolborhynchus orbygnesius
-  fa: nan
+  fa: ''
   en: Andean Parakeet
   es: Catita Andina
   fr: Toui de d'Orbigny
   de: Andensittich
-  pt: andean parakeet
+  pt: ''
   ru: Андский калита
   ja: クネンボインコ
   nl: Andesparkiet

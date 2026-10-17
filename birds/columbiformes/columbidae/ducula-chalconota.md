@@ -15,7 +15,7 @@ names:
   pt: rufescent imperial-pigeon
   ru: Блестящий плодовый голубь
   ja: ムネアカミカドバト
-  zh: Rufescent Imperial Pigeon
+  zh: ''
   nl: Bronsrugmuskaatduif
   pl: muszkatela górska
   tr: Kızılca Has Güvercin

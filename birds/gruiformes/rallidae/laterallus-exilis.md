@@ -15,7 +15,7 @@ names:
   pt: sanã-do-capim
   ru: Серогрудый коростелёк
   ja: ハイムネコビトクイナ
-  zh: Grey-breasted Crake
+  zh: ''
   nl: Amazonedwergral
   pl: derkaczyk amazoński
   tr: Gök Yüzlü Yelve

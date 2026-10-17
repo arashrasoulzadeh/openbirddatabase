@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12728.0
 names:
   scientific: Loriculus tener
-  fa: nan
+  fa: ''
   en: Bismarck Hanging Parrot
   es: Lorículo de las Bismarck
   fr: Coryllis des Bismarck
@@ -15,7 +15,7 @@ names:
   pt: green-fronted hanging-parrot
   ru: Бисмаркский лорикулюс
   ja: ミドリビタイサトウチョウ
-  zh: Bismarck Hanging Parrot
+  zh: ''
   nl: Bismarckvleermuisparkiet
   pl: zwisogłówka żółtorzytna
   tr: Bismark Cennet Papağanı

@@ -12,7 +12,7 @@ names:
   es: Tapaculo Gorjiblanco
   fr: Tourco à gorge blanche
   de: Weißkehltapaculo
-  pt: white-throated tapaculo
+  pt: ''
   ru: Белогорлый тюрко
   ja: アカバネオタテドリ
   nl: Witkeeltapaculo

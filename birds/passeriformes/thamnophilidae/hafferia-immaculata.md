@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14058.0
 names:
   scientific: Hafferia immaculata
-  fa: nan
+  fa: ''
   en: Blue-lored Antbird
   es: Hormiguero Inmaculado
   fr: Alapi immaculé
   de: Schwarzameisenvogel
-  pt: blue-lored antbird
+  pt: ''
   ru: Очковая муравьеловка
   ja: アオメアリドリ
   nl: Blauwmaskermiervogel

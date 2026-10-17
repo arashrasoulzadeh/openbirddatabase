@@ -12,7 +12,7 @@ names:
   es: Mielero Cejinegro
   fr: Méliphage à sourcils noirs
   de: Glockenhonigfresser
-  pt: bell miner
+  pt: ''
   ru: Манорина-колокольчик
   ja: スズミツスイ
   nl: Belhoningeter

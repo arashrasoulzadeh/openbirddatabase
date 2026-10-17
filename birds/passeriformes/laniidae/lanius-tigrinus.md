@@ -12,7 +12,7 @@ names:
   es: Alcaudón Tigre
   fr: Pie-grièche tigrine
   de: Tigerwürger
-  pt: tiger shrike
+  pt: ''
   ru: Тигровый сорокопут
   ja: チゴモズ
   zh: 虎纹伯劳

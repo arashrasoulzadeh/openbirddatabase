@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25843.0
 names:
   scientific: Zosterops novaeguineae
-  fa: nan
+  fa: ''
   en: Papuan White-eye
   es: Anteojitos Papú
   fr: Zostérops de Nouvelle-Guinée
@@ -15,7 +15,7 @@ names:
   pt: new guinea white-eye
   ru: Папуанская белоглазка
   ja: パプアメジロ
-  zh: Papuan White-eye
+  zh: ''
   nl: Papoeabrilvogel
   pl: szlarnik nowogwinejski
   tr: Papua Gözlükçüsü

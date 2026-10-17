@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34783.0
 names:
   scientific: Lanio versicolor
-  fa: nan
+  fa: ''
   en: White-winged Shrike-Tanager
   es: Tangara Aliblanca
   fr: Tangara versicolore

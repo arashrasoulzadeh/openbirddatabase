@@ -15,7 +15,7 @@ names:
   pt: boulton's batis
   ru: Замбийский батис
   ja: メスグロセワタビタキ
-  zh: Margaret's Batis
+  zh: ''
   nl: Boultonvliegenvanger
   pl: krępnik puszysty
   tr: Boulton Batisi

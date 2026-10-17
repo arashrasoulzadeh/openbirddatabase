@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12720.0
 names:
   scientific: Loriculus stigmatus
-  fa: nan
+  fa: ''
   en: Great Hanging Parrot
   es: Lorículo de Célebes
   fr: Coryllis des Célèbes
@@ -15,7 +15,7 @@ names:
   pt: sulawesi hanging-parrot
   ru: Сулавесский лорикулюс
   ja: セレベスサトウチョウ
-  zh: Great Hanging Parrot
+  zh: ''
   nl: Roodkroontje
   pl: zwisogłówka diademowa
   tr: Selebes Cennet Papağanı

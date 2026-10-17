@@ -12,7 +12,7 @@ names:
   es: Chotacabras Fuliginoso
   fr: Engoulevent montagnard
   de: Bergnachtschwalbe
-  pt: dusky nightjar
+  pt: ''
   ru: Горный козодой
   ja: ウスグロヨタカ
   zh: 美洲乌夜鹰

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2769.0
 names:
   scientific: Ducula neglecta
-  fa: nan
+  fa: ''
   en: Seram Imperial Pigeon
   es: Dúcula de Ceram
   fr: Carpophage de Céram
@@ -15,7 +15,7 @@ names:
   pt: seram imperial-pigeon
   ru: Серамский плодовый голубь
   ja: セラムミカドバト
-  zh: Seram Imperial Pigeon
+  zh: ''
   nl: Serammuskaatduif
   pl: muszkatela seramska
   tr: Seram Has Güvercini

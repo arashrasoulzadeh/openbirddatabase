@@ -12,7 +12,7 @@ names:
   es: Zordala Papú
   fr: Androphobe vert
   de: Grünflöter
-  pt: papuan whipbird
+  pt: ''
   ru: Новогвинейская птица-бич
   ja: セミドリチメドリ
   nl: Groenrugzwiepfluiter

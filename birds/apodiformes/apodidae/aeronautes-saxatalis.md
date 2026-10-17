@@ -12,7 +12,7 @@ names:
   es: Vencejo Gorjiblanco
   fr: Martinet à gorge blanche
   de: Weißbrustsegler
-  pt: white-throated swift
+  pt: ''
   ru: Белобокий стриж
   ja: ムナジロアマツバメ
   zh: 白喉雨燕

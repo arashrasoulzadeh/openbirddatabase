@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23699.0
 names:
   scientific: Acrocephalus rufescens
-  fa: nan
+  fa: ''
   en: Greater Swamp Warbler
   es: Carricero Rufo
   fr: Rousserolle des cannes
   de: Papyrusrohrsänger
-  pt: greater swamp warbler
+  pt: ''
   ru: Папирусовая камышовка
   ja: オオアシナガヨシキリ
   zh: 大沼泽苇莺

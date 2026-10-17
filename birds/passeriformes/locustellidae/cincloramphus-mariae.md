@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23896.0
 names:
   scientific: Cincloramphus mariae
-  fa: nan
+  fa: ''
   en: New Caledonian Thicketbird
   es: Yerbera de Nueva Caledonia
   fr: Mégalure calédonienne
   de: Neukaledonien-Buschsänger
-  pt: new caledonian thicketbird
+  pt: ''
   ru: Новокаледонская клинохвостка
   ja: カレドニアオナガセッカ
   nl: Nieuw-Caledonische zanger

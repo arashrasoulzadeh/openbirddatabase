@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30445.0
 names:
   scientific: Cinnyris ursulae
-  fa: nan
+  fa: ''
   en: Ursula's Sunbird
   es: Suimanga de Úrsula
   fr: Souimanga d'Ursula
   de: Graubrust-Nektarvogel
-  pt: ursula's sunbird
+  pt: ''
   ru: Нектарница-монашка
   ja: ニシネズミタイヨウチョウ
   nl: Biokohoningzuiger

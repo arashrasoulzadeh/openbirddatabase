@@ -15,7 +15,7 @@ names:
   pt: gray-necked rockfowl
   ru: Красноголовая лысая сорока
   ja: ズアカハゲチメドリ
-  zh: Grey-necked Rockfowl
+  zh: ''
   nl: Grijsnekkaalkopkraai
   pl: sępowronka kameruńska
   tr: Gri Boyunlu Mağarasaksağanı

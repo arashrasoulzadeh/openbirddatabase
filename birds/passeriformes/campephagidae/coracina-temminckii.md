@@ -12,7 +12,7 @@ names:
   es: Oruguero de Temminck
   fr: Échenilleur de Temminck
   de: Temminckraupenfänger
-  pt: cerulean cuckooshrike
+  pt: ''
   ru: Сулавесский воронец
   ja: セレベスオオサンショウクイ
   zh: 苏拉蓝鹃鵙

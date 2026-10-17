@@ -12,7 +12,7 @@ names:
   es: Polluela de las Andamán
   fr: Râle des Andaman
   de: Andamanenralle
-  pt: andaman crake
+  pt: ''
   ru: Андаманский пастушок
   ja: アンダマンオオクイナ
   nl: Andamanenral

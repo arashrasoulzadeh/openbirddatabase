@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3986.0
 names:
   scientific: Aerodramus infuscatus
-  fa: nan
+  fa: ''
   en: Moluccan Swiftlet
   es: Salangana Moluqueña
   fr: Salangane des Moluques
   de: Molukkensalangane
-  pt: moluccan swiftlet
+  pt: ''
   ru: Молуккская салангана
   ja: モルッカアナツバメ
   zh: 哈岛金丝燕

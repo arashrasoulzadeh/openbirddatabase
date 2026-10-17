@@ -12,7 +12,7 @@ names:
   es: Salangana de las Crestas
   fr: Salangane des crêtes
   de: Luzonsalangane
-  pt: ridgetop swiftlet
+  pt: ''
   ru: Скромная салангана
   ja: ミネアナツバメ
   nl: Hooglanddwergsalangaan

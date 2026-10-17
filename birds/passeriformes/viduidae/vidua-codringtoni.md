@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31471.0
 names:
   scientific: Vidua codringtoni
-  fa: nan
+  fa: ''
   en: Zambezi Indigobird
   es: Viuda Verdosa
   fr: Combassou de Codrington
@@ -15,7 +15,7 @@ names:
   pt: green indigobird
   ru: Замбезийская вдовушка
   ja: ミドリシコンチョウ
-  zh: Zambezi Indigobird
+  zh: ''
   nl: Codringtonstaalvink
   pl: wdówka ciemna
   tr: Zambezi Çivitkuşu

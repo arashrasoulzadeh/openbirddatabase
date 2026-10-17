@@ -12,7 +12,7 @@ names:
   es: Petirrojo Selvático Dorsipardo
   fr: Rougegorge de forêt
   de: Orangebrust-Waldrötel
-  pt: orange-breasted forest robin
+  pt: ''
   ru: Африканская лесная зарянка
   ja: シロボシヒメコマドリ
   nl: Oranjeborstbosakalat

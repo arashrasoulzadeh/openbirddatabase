@@ -15,7 +15,7 @@ names:
   pt: painho-de-barriga-branca
   ru: Белобрюхая океанида
   ja: シロハラウミツバメ
-  zh: White-bellied Storm Petrel
+  zh: ''
   nl: Witbuikstormvogeltje
   pl: oceannik białobrzuchy
   tr: Ak Karınlı Fırtınakırlangıcı

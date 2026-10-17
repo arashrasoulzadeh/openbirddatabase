@@ -12,7 +12,7 @@ names:
   es: Drongo de Raquetas Grande
   fr: Drongo à raquettes
   de: Flaggendrongo
-  pt: greater racket-tailed drongo
+  pt: ''
   ru: Райский дронго
   ja: カザリオウチュウ
   zh: 大盘尾

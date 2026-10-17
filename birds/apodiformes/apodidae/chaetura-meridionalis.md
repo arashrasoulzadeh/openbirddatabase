@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3910.0
 names:
   scientific: Chaetura meridionalis
-  fa: nan
+  fa: ''
   en: Sick's Swift
   es: Vencejo de Tormenta
   fr: Martinet de Sick

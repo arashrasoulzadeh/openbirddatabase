@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25041.0
 names:
   scientific: Phylloscopus maforensis
-  fa: nan
+  fa: ''
   en: Numfor Leaf Warbler
   es: Mosquitero de Numfor
   fr: Pouillot de Numfor
   de: Numforlaubsänger
-  pt: numfor leaf warbler
+  pt: ''
   ru: Нумфорская пеночка
   ja: ヌムフォアムシクイ
   nl: Numforboszanger

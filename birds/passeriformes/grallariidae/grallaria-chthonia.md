@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 14226.0
 names:
   scientific: Grallaria chthonia
-  fa: nan
+  fa: ''
   en: Tachira Antpitta
   es: Tororoí de Táchira
   fr: Grallaire du Tachira
   de: Táchiraameisenpitta
-  pt: tachira antpitta
+  pt: ''
   ru: Тачирская питтовая муравьеловка
   ja: ベネズエラジアリドリ
   zh: 委內瑞拉蟻鶇

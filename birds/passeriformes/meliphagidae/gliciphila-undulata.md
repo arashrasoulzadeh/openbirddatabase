@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18047.0
 names:
   scientific: Gliciphila undulata
-  fa: nan
+  fa: ''
   en: Barred Honeyeater
   es: Mielero Barrado
   fr: Méliphage barré
   de: Sperberhonigfresser
-  pt: barred honeyeater
+  pt: ''
   ru: Ястребиный медовник
   ja: ヨコジマミツスイ
   nl: Gebandeerde honingeter

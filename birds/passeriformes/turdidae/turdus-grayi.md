@@ -12,7 +12,7 @@ names:
   es: Zorzal Pardo
   fr: Merle fauve
   de: Gilbdrossel
-  pt: clay-colored thrush
+  pt: ''
   ru: Рыжеватый дрозд
   ja: バフムジツグミ
   zh: 褐背鶇

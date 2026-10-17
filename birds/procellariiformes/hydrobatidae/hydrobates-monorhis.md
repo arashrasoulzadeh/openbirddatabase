@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 7062.0
 names:
   scientific: Hydrobates monorhis
-  fa: nan
+  fa: ''
   en: Swinhoe's Storm Petrel
   es: Paíño de Swinhoe
   fr: Océanite de Swinhoe

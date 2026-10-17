@@ -12,7 +12,7 @@ names:
   es: Cotinga Níveo
   fr: Cotinga neigeux
   de: Grauscheitelkotinga
-  pt: snowy cotinga
+  pt: ''
   ru: Снежная котинга
   ja: ユキカザリドリ
   nl: Sneeuwcotinga

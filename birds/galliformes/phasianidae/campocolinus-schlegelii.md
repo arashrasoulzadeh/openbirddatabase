@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1671.0
 names:
   scientific: Campocolinus schlegelii
-  fa: nan
+  fa: ''
   en: Schlegel's Francolin
   es: Francolín de Schlegel
   fr: Francolin de Schlegel
   de: Schlegelfrankolin
-  pt: schlegel's francolin
+  pt: ''
   ru: Центральноафриканский франколин
   ja: ボンゴシャコ
   nl: Schlegelfrankolijn

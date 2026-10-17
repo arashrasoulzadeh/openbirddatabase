@@ -15,7 +15,7 @@ names:
   pt: flying steamer-duck
   ru: Патагонская утка-пароход
   ja: トビフナガモ
-  zh: Flying Steamer Duck
+  zh: ''
   nl: Vliegende booteend
   pl: torpedówka lotna
   tr: Forsa Ördeği

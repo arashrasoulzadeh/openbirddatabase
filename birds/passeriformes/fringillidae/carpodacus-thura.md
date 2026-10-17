@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32212.0
 names:
   scientific: Carpodacus thura
-  fa: nan
+  fa: ''
   en: Himalayan White-browed Rosefinch
   es: Camachuelo de Thura
   fr: Roselin de Thura
   de: Thuragimpel
-  pt: himalayan white-browed rosefinch
+  pt: ''
   ru: Белобровая чечевица
   ja: ヒマラヤマミジロマシコ
   zh: 喜山白眉朱雀

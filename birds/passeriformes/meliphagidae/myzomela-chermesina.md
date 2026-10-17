@@ -12,7 +12,7 @@ names:
   es: Mielero de Isla Rotuma
   fr: Myzomèle de Rotuma
   de: Karmesinhonigfresser
-  pt: rotuma myzomela
+  pt: ''
   ru: Ротумская медовка
   ja: ムネアカミツスイ
   nl: Karmozijndwerghoningeter

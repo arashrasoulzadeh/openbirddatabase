@@ -12,7 +12,7 @@ names:
   es: Tejedor de Maxwell
   fr: Tisserin de Maxwell
   de: Rußweber
-  pt: maxwell's black weaver
+  pt: ''
   ru: Траурный ткач
   ja: シロエリクロハタオリ
   nl: Rouwwever

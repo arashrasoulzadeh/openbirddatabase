@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28577.0
 names:
   scientific: Turdus ruficeps
-  fa: nan
+  fa: ''
   en: Fiji Island Thrush
   es: Mirlo de Fiyi
   fr: Merle des Fidji
   pt: fiji island-thrush
   ja: フィジーハイガシラツグミ
-  zh: Fiji Island Thrush
+  zh: ''
   nl: Fijimerel
   pl: drozd fidżyjski
   tr: Fiji Ada Ardıcı

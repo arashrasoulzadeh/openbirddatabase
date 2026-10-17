@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 7599.0
 names:
   scientific: Nyctanassa carcinocatactes
-  fa: nan
+  fa: ''
   en: Bermuda Night Heron
   es: Martinete de las Bermudas
   fr: Bihoreau des Bermudes
   de: Bermuda-Krabbenreiher
-  pt: bermuda night heron
+  pt: ''
   ru: Бермудская кваква
   ja: バミューダゴイサギ
   zh: 百慕大夜鹭

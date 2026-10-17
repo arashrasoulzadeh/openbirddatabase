@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 13031.0
 names:
   scientific: Pyrrhura griseipectus
-  fa: nan
+  fa: ''
   en: Grey-breasted Parakeet
   es: Cotorra Pechigrís
   fr: Conure à poitrine grise
@@ -15,7 +15,7 @@ names:
   pt: cara-suja
   ru: Серогрудая которра
   ja: ハイムネウロコインコ
-  zh: Grey-breasted Parakeet
+  zh: ''
   nl: Grijsborstparkiet
   pl: rudosterka szaropierśna
   tr: Gri Göğüslü Papağan

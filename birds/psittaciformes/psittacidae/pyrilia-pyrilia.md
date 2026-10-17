@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12865.0
 names:
   scientific: Pyrilia pyrilia
-  fa: nan
+  fa: ''
   en: Saffron-headed Parrot
   es: Lorito Cabecigualdo
   fr: Caïque de Bonaparte
   de: Goldkopfpapagei
-  pt: saffron-headed parrot
+  pt: ''
   ru: Желтоголовый лорито
   ja: アカメインコ
   nl: Saffraankoppapegaai

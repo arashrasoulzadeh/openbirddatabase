@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 29029.0
 names:
   scientific: Copsychus nigricauda
-  fa: nan
+  fa: ''
   en: Kangean Shama
   es: Shama de las Kangean
   fr: Shama de Kangean
-  pt: kangean shama
+  pt: ''
   ja: カンゲアンシキチョウ
   nl: Kangeanshama
   pl: sroczek krzykliwy

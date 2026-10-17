@@ -12,7 +12,7 @@ names:
   es: Alondra Melodiosa
   fr: Alouette mélodieuse
   de: Spottlerche
-  pt: melodious lark
+  pt: ''
   ru: Бурощёкий жаворонок
   ja: ナンアヤブヒバリ
   zh: 南非歌百靈

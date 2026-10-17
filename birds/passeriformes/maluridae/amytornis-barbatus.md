@@ -15,7 +15,7 @@ names:
   pt: gray grasswren
   ru: Бородатый амитис
   ja: マミジロセスジムシクイ
-  zh: Grey Grasswren
+  zh: ''
   nl: Harlekijngrassluiper
   pl: zielak maskowy
   tr: Gri Otbülbülü

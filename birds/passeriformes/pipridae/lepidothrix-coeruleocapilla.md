@@ -12,7 +12,7 @@ names:
   es: Saltarín Coroniceleste
   fr: Manakin céruléen
   de: Blaukappenpipra
-  pt: cerulean-capped manakin
+  pt: ''
   ru: Лазурношапочный манакин
   ja: ソライロボウシマイコドリ
   nl: Azuurkruinmanakin

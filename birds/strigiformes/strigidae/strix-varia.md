@@ -12,7 +12,7 @@ names:
   es: Cárabo Norteamericano
   fr: Chouette rayée
   de: Streifenkauz
-  pt: barred owl
+  pt: ''
   ru: Полосатая неясыть
   ja: アメリカフクロウ
   zh: 横斑林鴞

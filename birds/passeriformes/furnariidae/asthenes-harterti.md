@@ -12,7 +12,7 @@ names:
   es: Piscuiz Gorjinegro
   fr: Synallaxe à gorge noire
   de: Schwarzkehlcanastero
-  pt: black-throated thistletail
+  pt: ''
   ru: Чернобородый чертополошник
   ja: ノドグロトゲオカマドドリ
   nl: Zwartkeeldistelstaart

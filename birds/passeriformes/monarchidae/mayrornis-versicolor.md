@@ -12,7 +12,7 @@ names:
   es: Monarca Versicolor
   fr: Monarque versicolore
   de: Rostbrustmonarch
-  pt: ogea monarch
+  pt: ''
   ru: Рыжегрудая майрия
   ja: キバラフィジーヒタキ
   nl: Mayrmonarch

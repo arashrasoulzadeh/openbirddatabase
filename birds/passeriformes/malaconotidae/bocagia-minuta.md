@@ -12,7 +12,7 @@ names:
   es: Chagra Marismeña
   fr: Tchagra des marais
   de: Sumpftschagra
-  pt: marsh tchagra
+  pt: ''
   ru: Болотная чагра
   ja: ズグロヤブモズ
   nl: Moerastsjagra

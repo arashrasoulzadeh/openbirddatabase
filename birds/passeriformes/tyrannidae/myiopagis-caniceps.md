@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16668.0
 names:
   scientific: Myiopagis caniceps
-  fa: nan
+  fa: ''
   en: Grey-headed Elaenia
   es: Fiofío Gris del Atlántico
   fr: Élénie à tête grise
@@ -15,7 +15,7 @@ names:
   pt: guaracava-cinzenta
   ru: Сероголовый гребенчатый тиранчик
   ja: ハイイロキクイタダキモドキ
-  zh: Grey-headed Elaenia
+  zh: ''
   nl: Grijskopelenia
   pl: tyranik popielaty
   tr: Gri Başlı Elenya

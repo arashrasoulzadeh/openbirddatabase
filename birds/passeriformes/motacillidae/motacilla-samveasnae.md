@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 31715.0
 names:
   scientific: Motacilla samveasnae
-  fa: nan
+  fa: ''
   en: Mekong Wagtail
   es: Lavandera del Mekong
   fr: Bergeronnette du Mékong
   de: Mekongstelze
-  pt: mekong wagtail
+  pt: ''
   ru: Меконгская трясогузка
   ja: メコンセキレイ
   nl: Mekongkwikstaart

@@ -12,7 +12,7 @@ names:
   es: Zarzalero de las Chatham
   fr: Mégalure des Chatham
   de: Chathamfarnsänger
-  pt: chatham islands fernbird
+  pt: ''
   ru: Чатемская котата
   ja: チャタムシダセッカ
   zh: 查塔姆蕨鶯

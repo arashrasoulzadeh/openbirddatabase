@@ -12,7 +12,7 @@ names:
   es: Cotara de las Talaud
   fr: Râle des Talaud
   de: Talaudralle
-  pt: talaud rail
+  pt: ''
   ru: Талаудский туа
   ja: タラウドクイナ
   nl: Talaudnaaktoogral

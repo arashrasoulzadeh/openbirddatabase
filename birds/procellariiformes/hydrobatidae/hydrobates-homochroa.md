@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 7063.0
 names:
   scientific: Hydrobates homochroa
-  fa: nan
+  fa: ''
   en: Ashy Storm Petrel
   es: Paíño Ceniciento
   fr: Océanite cendré
@@ -15,7 +15,7 @@ names:
   pt: ashy storm-petrel
   ru: Пепельная качурка
   ja: ススイロウミツバメ
-  zh: Ashy Storm Petrel
+  zh: ''
   nl: Californisch stormvogeltje
   pl: nawałnik bury
   tr: Kaliforniya Küçük Fırtınakırlangıcı

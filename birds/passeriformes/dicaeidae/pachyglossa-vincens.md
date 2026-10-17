@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29978.0
 names:
   scientific: Pachyglossa vincens
-  fa: nan
+  fa: ''
   en: Legge's Flowerpecker
   es: Picaflores Cingalés
   fr: Dicée de Ceylan
@@ -15,7 +15,7 @@ names:
   pt: white-throated flowerpecker
   ru: Белогорлый цветоед
   ja: セイロンハナドリ
-  zh: Legge's Flowerpecker
+  zh: ''
   nl: Ceylonese honingvogel
   pl: kwiatówka białogardła
   tr: Seylan Öksekuşu

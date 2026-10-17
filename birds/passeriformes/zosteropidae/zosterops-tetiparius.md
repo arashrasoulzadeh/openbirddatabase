@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25857.0
 names:
   scientific: Zosterops tetiparius
-  fa: nan
+  fa: ''
   en: Dark-eyed White-eye
   es: Anteojitos de Isla Tetepare
   fr: Zostérops de Tetepare
   de: Teteparebrillenvogel
-  pt: dark-eyed white-eye
+  pt: ''
   ru: Темноглазая белоглазка
   zh: 黑眼繡眼
   nl: Zwartoogbrilvogel

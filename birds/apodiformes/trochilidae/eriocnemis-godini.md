@@ -12,7 +12,7 @@ names:
   es: Calzadito Turquesa
   fr: Érione turquoise
   de: Türkiskehl-Höschenkolibri
-  pt: turquoise-throated puffleg
+  pt: ''
   ru: Бирюзовый эрион
   ja: アオノドワタアシハチドリ
   zh: 綠喉毛腿蜂鳥

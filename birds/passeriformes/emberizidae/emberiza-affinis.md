@@ -12,7 +12,7 @@ names:
   es: Escribano Culipardo
   fr: Bruant à ventre jaune
   de: Braunbürzelammer
-  pt: brown-rumped bunting
+  pt: ''
   ru: Буропоясничная овсянка
   ja: コシアカホオジロ
   nl: Bruinstuitgors

@@ -12,7 +12,7 @@ names:
   es: Torrentero de la Sonda
   fr: Énicure voilé
   de: Zwergscherenschwanz
-  pt: sunda forktail
+  pt: ''
   ru: Карликовая вилохвостка
   ja: ヒメエンビシキチョウ
   nl: Dwergvorkstaart

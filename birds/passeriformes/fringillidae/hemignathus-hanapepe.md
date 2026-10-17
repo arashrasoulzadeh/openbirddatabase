@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32126.0
 names:
   scientific: Hemignathus hanapepe
-  fa: nan
+  fa: ''
   en: Kauai Nukupuu
   es: Nukupuu de Kauai
   fr: Nukupuu de Kauai
   de: Kauai-Sichelkleidervogel
-  pt: kauai nukupuu
+  pt: ''
   ru: Кауайская нукупуу
   ja: カウアイカワリハシハワイミツスイ
   nl: Kauainukupuu

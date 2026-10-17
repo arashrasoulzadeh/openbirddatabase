@@ -15,7 +15,7 @@ names:
   pt: hooded munia
   ru: Великолепная муния
   ja: ニューブリテンシマコキン
-  zh: Hooded Mannikin
+  zh: ''
   nl: Witbuiknon
   pl: mniszka papuaska
   tr: Başlıklı Munya

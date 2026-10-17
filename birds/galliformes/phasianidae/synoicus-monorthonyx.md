@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 1725.0
 names:
   scientific: Synoicus monorthonyx
-  fa: nan
+  fa: ''
   en: Snow Mountain Quail
   es: Codorniz Papú
   fr: Caille de montagne
   de: Schneegebirgswachtel
-  pt: snow mountain quail
+  pt: ''
   ru: Снежный перепел
   ja: ユキヤマウズラ
   nl: Nieuw-Guinese kwartel

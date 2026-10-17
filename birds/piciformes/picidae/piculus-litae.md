@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11838.0
 names:
   scientific: Piculus litae
-  fa: nan
+  fa: ''
   en: Lita Woodpecker
   es: Carpintero de Lita
   fr: Pic de Lita
   de: Litaspecht
-  pt: lita woodpecker
+  pt: ''
   ru: Колумбийский дятел
   ja: リタモリゲラ
   nl: Litaspecht

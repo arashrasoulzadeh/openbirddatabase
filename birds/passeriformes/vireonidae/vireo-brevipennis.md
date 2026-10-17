@@ -12,7 +12,7 @@ names:
   es: Vireo Pizarroso
   fr: Viréo ardoisé
   de: Schiefervireo
-  pt: slaty vireo
+  pt: ''
   ru: Шиферный виреон
   ja: シロアゴモズモドキ
   nl: Leigrijze vireo

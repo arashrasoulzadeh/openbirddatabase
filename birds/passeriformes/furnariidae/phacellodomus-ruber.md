@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15361.0
 names:
   scientific: Phacellodomus ruber
-  fa: nan
+  fa: ''
   en: Greater Thornbird
   es: Espinero Grande
   fr: Synallaxe rouge

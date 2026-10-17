@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12858.0
 names:
   scientific: Hapalopsittaca melanotis
-  fa: nan
+  fa: ''
   en: Black-winged Parrot
   es: Lorito Alinegro
   fr: Caïque à ailes noires
   de: Schwarzflügelpapagei
-  pt: black-winged parrot
+  pt: ''
   ru: Чернокрылый лорито
   ja: クロガタインコ
   nl: Zwartvleugelpapegaai

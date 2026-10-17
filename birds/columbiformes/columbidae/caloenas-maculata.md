@@ -12,7 +12,7 @@ names:
   es: Paloma de Liverpool
   fr: Nicobar ponctué
   de: Liverpooltaube
-  pt: spotted green pigeon
+  pt: ''
   ru: Полинезийский голубь
   ja: マダラミノバト
   zh: 斑點綠鳩

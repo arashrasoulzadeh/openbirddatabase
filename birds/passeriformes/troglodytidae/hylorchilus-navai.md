@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Nava
   fr: Troglodyte de Nava
   de: Navazaunkönig
-  pt: nava's wren
+  pt: ''
   ru: Тёмный крапивник
   ja: チャパスハシナガミソサザイ
   nl: Navawinterkoning

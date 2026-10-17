@@ -12,7 +12,7 @@ names:
   es: Rascón Elegante
   fr: Râle élégant
   de: Königsralle
-  pt: king rail
+  pt: ''
   ru: Королевский пастушок
   ja: オウサマクイナ
   zh: 王秧雞

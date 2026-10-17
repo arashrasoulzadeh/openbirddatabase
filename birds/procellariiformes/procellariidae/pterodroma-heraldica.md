@@ -12,7 +12,7 @@ names:
   es: Petrel del Herald
   fr: Pétrel du Herald
   de: Heraldsturmvogel
-  pt: herald petrel
+  pt: ''
   ru: Тихоокеанский тайфунник
   ja: ヘラルドシロハラミズナギドリ
   zh: 信使圆尾鹱

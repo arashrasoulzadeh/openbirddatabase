@@ -12,7 +12,7 @@ names:
   es: Zafiro Coronado
   fr: Dryade couronnée
   de: Violettkronennymphe
-  pt: crowned woodnymph
+  pt: ''
   ru: Фиолетоволобая талурания
   ja: アオボウシモリハチドリ
   zh: 蓝顶妍蜂鸟

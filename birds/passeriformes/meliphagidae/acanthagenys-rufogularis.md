@@ -12,7 +12,7 @@ names:
   es: Mielero Golicanelo
   fr: Méliphage à bavette
   de: Braunkehl-Honigfresser
-  pt: spiny-cheeked honeyeater
+  pt: ''
   ru: Розовоклювый серёжкоух
   ja: ケミミミツスイ
   zh: 刺颊垂蜜鸟

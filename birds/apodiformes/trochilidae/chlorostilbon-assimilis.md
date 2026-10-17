@@ -12,7 +12,7 @@ names:
   es: Esmeralda Afín
   fr: Émeraude du Panama
   de: Gartensmaragdkolibri
-  pt: garden emerald
+  pt: ''
   ru: Садовый изумруд
   ja: パナマヒメエメラルドハチドリ
   zh: 花园翠蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25903.0
 names:
   scientific: Mixornis kelleyi
-  fa: nan
+  fa: ''
   en: Grey-faced Tit-Babbler
   es: Timalí de Kelley
   fr: Timalie de Kelley
@@ -15,7 +15,7 @@ names:
   pt: gray-faced tit-babbler
   ru: Серолицая тимелия
   ja: アンナンムシクイチメドリ
-  zh: Grey-faced Tit-Babbler
+  zh: ''
   nl: Grijsmaskertimalia
   pl: gromadniczek szarolicy
   tr: Kelley Timalyası

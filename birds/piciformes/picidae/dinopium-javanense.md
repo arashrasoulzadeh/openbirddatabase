@@ -12,7 +12,7 @@ names:
   es: Pito Culirrojo de Java
   fr: Pic à dos rouge
   de: Feuerrückenspecht
-  pt: common flameback
+  pt: ''
   ru: Огненоспинный дятел-султан
   ja: ズアカミユビゲラ
   zh: 金背三趾啄木鸟

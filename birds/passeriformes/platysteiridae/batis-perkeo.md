@@ -12,7 +12,7 @@ names:
   es: Batis Pigmeo
   fr: Pririt pygmée
   de: Däumlingsschnäpper
-  pt: pygmy batis
+  pt: ''
   ru: Карликовый батис
   ja: コビトセワタビタキ
   nl: Kleinste vliegenvanger

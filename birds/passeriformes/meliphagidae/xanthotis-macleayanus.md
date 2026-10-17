@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18177.0
 names:
   scientific: Xanthotis macleayanus
-  fa: nan
+  fa: ''
   en: Macleay's Honeyeater
   es: Mielero de Macleay
   fr: Méliphage de Macleay
   de: Kappenhonigfresser
-  pt: macleay's honeyeater
+  pt: ''
   ru: Пёстрый медосос
   ja: シラフミツスイ
   zh: 馬克利吸蜜鳥（黃紋吸蜜鳥）

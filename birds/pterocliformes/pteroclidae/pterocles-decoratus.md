@@ -12,7 +12,7 @@ names:
   es: Ganga Decorada
   fr: Ganga à face noire
   de: Schmuckflughuhn
-  pt: black-faced sandgrouse
+  pt: ''
   ru: Чернолицый рябок
   ja: クロガオサケイ
   nl: Maskerzandhoen

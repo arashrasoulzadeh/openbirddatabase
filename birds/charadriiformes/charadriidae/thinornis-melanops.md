@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5840.0
 names:
   scientific: Thinornis melanops
-  fa: nan
+  fa: ''
   en: Black-fronted Dotterel
   es: Chorlitejo Frentinegro
   fr: Pluvier à face noire
   de: Schwarzstirn-Regenpfeifer
-  pt: black-fronted dotterel
+  pt: ''
   ru: Чернолобый зуёк
   ja: カタアカチドリ
   nl: Maskerplevier

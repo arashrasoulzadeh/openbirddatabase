@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 17603.0
 names:
   scientific: Amytornis oweni
-  fa: nan
+  fa: ''
   en: Sandhill Grasswren
   es: Maluro Desértico
   fr: Amytis d'Owen
-  pt: sandhill grasswren
+  pt: ''
   nl: Duingrassluiper
   pl: zielak piaszczysty
   tr: Owen Otbülbülü

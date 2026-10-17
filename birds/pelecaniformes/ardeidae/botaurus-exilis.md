@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7565.0
 names:
   scientific: Botaurus exilis
-  fa: nan
+  fa: ''
   en: Least Bittern
   es: Avetorillo Americano
   fr: Petit Blongios

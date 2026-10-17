@@ -12,7 +12,7 @@ names:
   es: Vireo Cabecinegro
   fr: Viréo à tête noire
   de: Schwarzkopfvireo
-  pt: black-capped vireo
+  pt: ''
   ru: Черноголовый виреон
   ja: ズグロモズモドキ
   zh: 黑顶莺雀

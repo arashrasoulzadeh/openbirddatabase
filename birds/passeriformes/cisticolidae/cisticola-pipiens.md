@@ -12,7 +12,7 @@ names:
   es: Cistícola Gorjeador
   fr: Cisticole pépiante
   de: Sumpfzistensänger
-  pt: chirping cisticola
+  pt: ''
   ru: Тростниковая цистикола
   ja: チャボウシセッカ
   nl: Moerasgraszanger

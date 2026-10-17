@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34992.0
 names:
   scientific: Poecilostreptus cabanisi
-  fa: nan
+  fa: ''
   en: Azure-rumped Tanager
   es: Tangara Chiapaneca
   fr: Calliste azuré
   de: Grünmanteltangare
-  pt: azure-rumped tanager
+  pt: ''
   ru: Опаловая танагра
   ja: ミズイロフウキンチョウ
   nl: Azuurstuittangare

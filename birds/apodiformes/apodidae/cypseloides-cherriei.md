@@ -12,7 +12,7 @@ names:
   es: Vencejo Cuatroojos
   fr: Martinet à points blancs
   de: Diademsegler
-  pt: spot-fronted swift
+  pt: ''
   ru: Пятнистолобый стриж
   ja: シロボシムジアマツバメ
   zh: 斑额黑雨燕

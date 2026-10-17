@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 2185.0
 names:
   scientific: Pampusana sanctaecrucis
-  fa: nan
+  fa: ''
   en: Santa Cruz Ground Dove
   es: Paloma Perdiz de las Santa Cruz
   fr: Gallicolombe des Santa Cruz
   de: Santa-Cruz-Taube
-  pt: santa cruz ground dove
+  pt: ''
   ru: Сантокрузский куриный голубь
   ja: サンタクルーズバト
   nl: Santa-Cruzpatrijsduif

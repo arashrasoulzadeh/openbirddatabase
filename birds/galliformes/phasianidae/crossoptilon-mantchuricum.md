@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1524.0
 names:
   scientific: Crossoptilon mantchuricum
-  fa: nan
+  fa: ''
   en: Brown Eared Pheasant
   es: Faisán Orejudo Pardo
   fr: Hokki brun

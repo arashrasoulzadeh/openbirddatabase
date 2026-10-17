@@ -12,7 +12,7 @@ names:
   es: Cuco Chikra
   fr: Coucou shikra
   de: Wechselkuckuck
-  pt: common hawk-cuckoo
+  pt: ''
   ru: Изменчивая кукушка
   ja: ハイタカジュウイチ
   zh: 普通鹰鹃

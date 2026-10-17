@@ -12,7 +12,7 @@ names:
   es: Suimanga Ventrinegro
   fr: Souimanga nectarin
   de: Mennigbrust-Nektarvogel
-  pt: black-bellied sunbird
+  pt: ''
   ru: Чернобрюхая нектарница
   ja: クロハラオナガタイヨウチョウ
   nl: Menieborsthoningzuiger

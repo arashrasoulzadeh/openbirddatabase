@@ -12,7 +12,7 @@ names:
   es: Carricero de las Seychelles
   fr: Rousserolle des Seychelles
   de: Seychellenrohrsänger
-  pt: seychelles warbler
+  pt: ''
   ru: Сейшельская камышовка
   ja: セーシェルヤブセンニュウ
   zh: 塞岛苇莺

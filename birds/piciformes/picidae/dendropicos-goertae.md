@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11305.0
 names:
   scientific: Dendropicos goertae
-  fa: nan
+  fa: ''
   en: African Grey Woodpecker
   es: Pito Gris Occidental
   fr: Pic goertan
@@ -15,7 +15,7 @@ names:
   pt: pica-pau-cinzento
   ru: Серый дятел
   ja: ハイイロゲラ
-  zh: African Grey Woodpecker
+  zh: ''
   nl: Grijsgroene specht
   pl: dzięcioł popielaty
   tr: Afrika Gri Ağaçkakanı

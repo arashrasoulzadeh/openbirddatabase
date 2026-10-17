@@ -15,7 +15,7 @@ names:
   pt: mocho-d'orelhas-do-chipre
   ru: Кипрская сплюшка
   ja: キプロスコノハズク
-  zh: Cyprus Scops Owl
+  zh: ''
   nl: Cypriotische dwergooruil
   pl: syczek cypryjski
   tr: Kıbrıs İshakkuşu

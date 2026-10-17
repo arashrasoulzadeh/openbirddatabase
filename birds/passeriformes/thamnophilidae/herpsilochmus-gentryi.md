@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13800.0
 names:
   scientific: Herpsilochmus gentryi
-  fa: nan
+  fa: ''
   en: Ancient Antwren
   es: Tiluchí Antiguo
   fr: Grisin de Gentry
   de: Gelbbrust-Ameisenfänger
-  pt: ancient antwren
+  pt: ''
   ru: Лоретский эсперито
   ja: コダイマユアリサザイ
   zh: 原蚁鹩

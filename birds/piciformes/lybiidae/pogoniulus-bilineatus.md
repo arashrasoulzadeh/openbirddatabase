@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10600.0
 names:
   scientific: Pogoniulus bilineatus
-  fa: nan
+  fa: ''
   en: Yellow-rumped Tinkerbird
   es: Barbudito Culigualdo
   fr: Barbion à croupion jaune

@@ -12,7 +12,7 @@ names:
   es: Arañero Filipino
   fr: Arachnothère flammé
   de: Gelbsteiß-Spinnenjäger
-  pt: orange-tufted spiderhunter
+  pt: ''
   ru: Оранжевобокая пауколовка
   ja: アキアカクモカリドリ
   nl: Mindanaospinnenjager

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22910.0
 names:
   scientific: Macrosphenus concolor
-  fa: nan
+  fa: ''
   en: Grey Longbill
   es: Picolargo Gris
   fr: Nasique grise
@@ -15,7 +15,7 @@ names:
   pt: gray longbill
   ru: Оливковий долгонос
   ja: ハイイロハシナガムシクイ
-  zh: Grey Longbill
+  zh: ''
   nl: Grijze langsnavelzanger
   pl: krótkosterka oliwkowa
   tr: Gri Uzungaga

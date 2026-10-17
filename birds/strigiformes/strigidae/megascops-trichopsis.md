@@ -15,7 +15,7 @@ names:
   pt: whiskered screech-owl
   ru: Усатая совка
   ja: ヒゲコノハズク
-  zh: Whiskered Screech Owl
+  zh: ''
   nl: Gevlekte schreeuwuil
   pl: syczoń plamisty
   tr: Bıyıklı Puhucuk

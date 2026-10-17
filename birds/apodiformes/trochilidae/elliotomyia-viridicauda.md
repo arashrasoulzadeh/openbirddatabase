@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5187.0
 names:
   scientific: Elliotomyia viridicauda
-  fa: nan
+  fa: ''
   en: Green-and-white Hummingbird
   es: Amazilia Blanquiverde
   fr: Ariane du Pérou
   de: Grünweißamazilie
-  pt: green-and-white hummingbird
+  pt: ''
   ru: Зелёно-белая амазилия
   ja: アオシロエメラルドハチドリ
   nl: Groen-witte amazilia

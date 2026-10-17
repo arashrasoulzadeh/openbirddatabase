@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34503.0
 names:
   scientific: Periporphyrus celaeno
-  fa: nan
+  fa: ''
   en: Crimson-collared Grosbeak
   es: Picogrueso Acollarado
   fr: Cardinal à collier
   de: Halsbandkardinal
-  pt: crimson-collared grosbeak
+  pt: ''
   ru: Красношейный толстонос
   ja: クロアカイカル
   nl: Roodkraagkardinaal

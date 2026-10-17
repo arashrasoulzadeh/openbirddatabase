@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 31032.0
 names:
   scientific: Stizoptera bichenovii
-  fa: nan
+  fa: ''
   en: Double-barred Finch
   es: Diamante de Bicheno
   fr: Diamant de Bicheno
   de: Ringelamadine
-  pt: double-barred finch
+  pt: ''
   ru: Кольчатая амадина
   ja: カノコスズメ
   zh: 双斑草雀

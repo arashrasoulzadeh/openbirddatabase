@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4724.0
 names:
   scientific: Eugenes spectabilis
-  fa: nan
+  fa: ''
   en: Talamanca Hummingbird
   es: Colibrí de Talamanca
   fr: Colibri de la Talamanca
   de: Glitzerbrillantkolibri
-  pt: talamanca hummingbird
+  pt: ''
   ru: Костариканский колибри-герцог
   ja: タラマンカハチドリ
   zh: 高地大蜂鸟

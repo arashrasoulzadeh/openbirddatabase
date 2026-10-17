@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9330.0
 names:
   scientific: Ninox rudolfi
-  fa: nan
+  fa: ''
   en: Great Sumba Boobook
   es: Nínox de Sumba Grande
   fr: Ninoxe de Sumba

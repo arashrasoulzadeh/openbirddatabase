@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21821.0
 names:
   scientific: Plesiodryas albonotata
-  fa: nan
+  fa: ''
   en: Black-throated Robin
   es: Petroica Gorjinegra
   fr: Miro à gorge noire
   de: Schwarzkehlschnäpper
-  pt: black-throated robin
+  pt: ''
   ru: Черногорлая дриада
   ja: パプアノドグロヒタキ
   nl: Zwartborstvliegenvanger

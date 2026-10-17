@@ -12,7 +12,7 @@ names:
   es: Pico Tridáctilo Americano
   fr: Pic à dos rayé
   de: Fichtenspecht
-  pt: american three-toed woodpecker
+  pt: ''
   ru: Американский трёхпалый дятел
   ja: アメリカミユビゲラ
   nl: Amerikaanse drieteenspecht

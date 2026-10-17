@@ -12,7 +12,7 @@ names:
   es: Piranga Estriada
   fr: Piranga à dos rayé
   de: Blutkardinal
-  pt: flame-colored tanager
+  pt: ''
   ru: Огненная пиранга
   ja: ホノオフウキンチョウ
   nl: Bloedtangare

@@ -12,7 +12,7 @@ names:
   es: Cistícola Malgache
   fr: Cisticole malgache
   de: Madagaskarzistensänger
-  pt: madagascar cisticola
+  pt: ''
   ru: Мадагаскарская цистикола
   ja: マダガスカルセッカ
   nl: Madagaskargraszanger

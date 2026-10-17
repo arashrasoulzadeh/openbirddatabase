@@ -12,7 +12,7 @@ names:
   es: Prinia Gorjinegra
   fr: Prinia à gorge noire
   de: Schwarzbrustprinie
-  pt: black-throated prinia
+  pt: ''
   ru: Черногорлая приния
   ja: ノドグロハウチワドリ
   zh: 黑胸山鹪莺

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6343.0
 names:
   scientific: Glareola isabella
-  fa: nan
+  fa: ''
   en: Australian Pratincole
   es: Canastera Patilarga
   fr: Glaréole isabelle

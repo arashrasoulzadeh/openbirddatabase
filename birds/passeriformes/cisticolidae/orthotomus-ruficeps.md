@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Ceniciento
   fr: Couturière à tête rousse
   de: Grauschneidervogel
-  pt: ashy tailorbird
+  pt: ''
   ru: Пепельная портниха
   ja: アカガオサイホウチョウ
   zh: 灰縫葉鶯

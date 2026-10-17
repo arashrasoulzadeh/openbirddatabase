@@ -12,7 +12,7 @@ names:
   es: Cuervo de Bennett
   fr: Corbeau du désert
   de: Bennettkrähe
-  pt: little crow
+  pt: ''
   ru: Австралийская ворона
   ja: ミナミコガラス
   zh: 小嘴鴉

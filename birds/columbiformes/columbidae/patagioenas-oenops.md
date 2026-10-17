@@ -15,7 +15,7 @@ names:
   pt: peruvian pigeon
   ru: Мараньонский голубь
   ja: ペルーバト
-  zh: Maranon Pigeon
+  zh: ''
   nl: Salvinduif
   pl: gołąbczak peruwiański
   tr: Peru Kızılca Güvercini

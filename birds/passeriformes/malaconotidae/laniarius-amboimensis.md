@@ -12,7 +12,7 @@ names:
   es: Bubú Angoleño
   fr: Gonolek d'Angola
   de: Amboimwürger
-  pt: gabela bushshrike
+  pt: ''
   ru: Габельский бубу
   ja: アンゴラヤブモズ
   zh: 加贝拉黑鵙

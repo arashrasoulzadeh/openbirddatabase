@@ -12,7 +12,7 @@ names:
   es: Sinsonte Castaño
   fr: Moqueur à dos brun
   de: Braunrücken-Spottdrossel
-  pt: brown-backed mockingbird
+  pt: ''
   ru: Коричневоспинный пересмешник
   ja: チャイロマネシツグミ
   nl: Bruinrugspotlijster

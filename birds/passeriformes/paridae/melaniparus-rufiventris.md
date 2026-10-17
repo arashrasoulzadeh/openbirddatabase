@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22234.0
 names:
   scientific: Melaniparus rufiventris
-  fa: nan
+  fa: ''
   en: Rufous-bellied Tit
   es: Carbonero Ventrirrufo
   fr: Mésange à ventre cannelle
   de: Rostbauch-Rußmeise
-  pt: rufous-bellied tit
+  pt: ''
   ru: Рыжебрюхая синица
   ja: チャムネガラ
   nl: Roestbuikmees

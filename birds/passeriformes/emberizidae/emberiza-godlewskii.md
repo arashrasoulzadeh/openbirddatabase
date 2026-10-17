@@ -12,7 +12,7 @@ names:
   es: Escribano de Godlewski
   fr: Bruant de Godlewski
   de: Felsenammer
-  pt: godlewski's bunting
+  pt: ''
   ru: Овсянка Годлевского
   ja: ミヤマヒゲホオジロ
   nl: Rotsgors

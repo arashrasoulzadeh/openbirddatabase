@@ -12,7 +12,7 @@ names:
   es: Mérgulo Sombrío
   fr: Starique de Cassin
   de: Aleutenalk
-  pt: cassin's auklet
+  pt: ''
   ru: Алеутская конюга
   ja: アメリカウミスズメ
   zh: 卡辛氏海雀

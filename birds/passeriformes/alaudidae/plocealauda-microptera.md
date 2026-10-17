@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22475.0
 names:
   scientific: Plocealauda microptera
-  fa: nan
+  fa: ''
   en: Burmese Bush Lark
   es: Alondra Birmana
   fr: Alouette de Birmanie
@@ -15,7 +15,7 @@ names:
   pt: burmese bushlark
   ru: Бирманский жаворонок
   ja: コバネヤブヒバリ
-  zh: Burmese Bush Lark
+  zh: ''
   nl: Birmese leeuwerik
   pl: skowroniec birmański
   tr: Burma Toygarı

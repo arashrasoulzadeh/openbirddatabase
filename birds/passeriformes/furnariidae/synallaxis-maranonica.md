@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 15584.0
 names:
   scientific: Synallaxis maranonica
-  fa: nan
+  fa: ''
   en: Maranon Spinetail
   es: Pijuí del Marañón
   fr: Synallaxe du Maranon
@@ -15,7 +15,7 @@ names:
   pt: marañon spinetail
   ru: Мараньонская иглохвостка
   ja: ペルーオナガカマドドリ
-  zh: Maranon Spinetail
+  zh: ''
   nl: Marañonstekelstaart
   pl: ogończyk Taczanowskiego
   tr: Maranyon Dikenkuyruğu

@@ -12,7 +12,7 @@ names:
   es: Atlapetes de Anteojos
   fr: Tohi à face noire
   de: Schwarzbrillen-Buschammer
-  pt: black-spectacled brushfinch
+  pt: ''
   ru: Чернолицая атлапета
   ja: メンガタヤブシトド
   nl: Zwartbrilstruikgors

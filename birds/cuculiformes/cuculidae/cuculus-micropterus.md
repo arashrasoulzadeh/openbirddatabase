@@ -12,7 +12,7 @@ names:
   es: Cuco Alicorto
   fr: Coucou à ailes courtes
   de: Kurzflügelkuckuck
-  pt: indian cuckoo
+  pt: ''
   ru: Индийская кукушка
   ja: セグロカッコウ
   zh: 四声杜鹃

@@ -12,7 +12,7 @@ names:
   es: Petroica Ventrigualda
   fr: Miro à ventre jaune
   de: Gelbbauchschnäpper
-  pt: yellow-bellied flyrobin
+  pt: ''
   ru: Желтобрюхая дриада
   ja: カレドニアキバラヒタキ
   nl: Geelbuikvliegenvanger

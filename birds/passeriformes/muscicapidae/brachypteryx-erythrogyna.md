@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29368.0
 names:
   scientific: Brachypteryx erythrogyna
-  fa: nan
+  fa: ''
   en: Bornean Shortwing
   es: Alicorto de Borneo
   fr: Brachyptère de Bornéo
   de: Borneo-Bergkurzflügel
-  pt: bornean shortwing
+  pt: ''
   ja: ボルネオコバネヒタキ
   nl: Borneose kortvleugel
   pl: kusochwostka rdzawolica

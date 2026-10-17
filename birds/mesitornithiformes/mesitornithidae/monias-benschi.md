@@ -12,7 +12,7 @@ names:
   es: Mesito Monias
   fr: Mésite monias
   de: Halbwüsten-Stelzenralle
-  pt: subdesert mesite
+  pt: ''
   ru: Мония
   ja: メスアカクイナモドキ
   zh: 本氏拟鹑

@@ -12,7 +12,7 @@ names:
   es: Avoceta Australiana
   fr: Avocette d'Australie
   de: Rotkopf-Säbelschnäbler
-  pt: red-necked avocet
+  pt: ''
   ru: Австралийская шилоклювка
   ja: アカガシラソリハシセイタカシギ
   zh: 红颈反嘴鹬

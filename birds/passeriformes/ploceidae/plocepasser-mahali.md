@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorrión Cejiblanco
   fr: Mahali à sourcils blancs
   de: Weißbrauenweber
-  pt: white-browed sparrow-weaver
+  pt: ''
   ru: Белобровый коробиндо
   ja: マミジロスズメハタオリ
   nl: Mahaliwever

@@ -12,7 +12,7 @@ names:
   es: Cernícalo de Mauricio
   fr: Crécerelle de Maurice
   de: Mauritiusfalke
-  pt: mauritius kestrel
+  pt: ''
   ru: Маврикийская пустельга
   ja: モーリシャスチョウゲンボウ
   zh: 毛里裘斯隼

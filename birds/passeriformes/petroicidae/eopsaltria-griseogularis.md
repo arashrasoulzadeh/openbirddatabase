@@ -12,7 +12,7 @@ names:
   es: Petroica Pechigrís
   fr: Miro à poitrine grise
   de: Graumantelschnäpper
-  pt: western yellow robin
+  pt: ''
   ru: Серогрудая дриада
   ja: ニシキバラヒタキ
   zh: 灰胸鸲鹟

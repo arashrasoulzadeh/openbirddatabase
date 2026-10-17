@@ -12,7 +12,7 @@ names:
   es: Reyezuelo Sátrapa
   fr: Roitelet à couronne dorée
   de: Indianergoldhähnchen
-  pt: golden-crowned kinglet
+  pt: ''
   ru: Золотоголовый королёк
   ja: アメリカキクイタダキ
   zh: 金冠戴菊

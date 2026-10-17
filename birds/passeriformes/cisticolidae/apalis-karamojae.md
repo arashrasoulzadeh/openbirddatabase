@@ -12,7 +12,7 @@ names:
   es: Apalis de Karamoja
   fr: Apalis du Karamoja
   de: Karamojafeinsänger
-  pt: karamoja apalis
+  pt: ''
   ru: Карамоджийский апалис
   ja: ウガンダイロムシクイ
   nl: Karamoja-apalis

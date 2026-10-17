@@ -15,7 +15,7 @@ names:
   pt: small ground-finch
   ru: Малый галапагосский вьюрок
   ja: コガラパゴスフィンチ
-  zh: Small Ground Finch
+  zh: ''
   nl: Kleine grondvink
   pl: darwinka mała
   tr: Küçük Yer İspinozu

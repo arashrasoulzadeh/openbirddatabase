@@ -12,7 +12,7 @@ names:
   es: Charlatán de Morrison
   fr: Garrulaxe du Morrison
   de: Weißbarthäherling
-  pt: white-whiskered laughingthrush
+  pt: ''
   ru: Белоусая кустарница
   ja: タイワンキンバネガビチョウ
   zh: 玉山噪鹛

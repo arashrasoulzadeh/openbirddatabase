@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2595.0
 names:
   scientific: Ramphiculus merrilli
-  fa: nan
+  fa: ''
   en: Cream-breasted Fruit Dove
   es: Tilopo de Merrill
   fr: Ptilope de Merrill
@@ -15,7 +15,7 @@ names:
   pt: cream-breasted fruit-dove
   ru: Светлогрудый фруктовый голубь
   ja: キバラヒメアオバト
-  zh: Cream-breasted Fruit Dove
+  zh: ''
   nl: Roombuikjufferduif
   pl: owocożer szarolicy
   tr: Sarı Karınlı Meyve Kumrusu

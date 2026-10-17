@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8741.0
 names:
   scientific: Otus sulaensis
-  fa: nan
+  fa: ''
   en: Sula Scops Owl
   es: Autillo de las Sula
   fr: Petit-duc des Sula
@@ -15,7 +15,7 @@ names:
   pt: sula scops-owl
   ru: Суласская совка
   ja: スラコノハズク
-  zh: Sula Scops Owl
+  zh: ''
   nl: Soeladwergooruil
   pl: syczek sulański
   tr: Sula İshakkuşu

@@ -15,7 +15,7 @@ names:
   pt: monte yellow-finch
   ru: Горный зерноед
   ja: モンテキンオジコ
-  zh: Monte Yellow Finch
+  zh: ''
   nl: Montesaffraangors
   pl: szafranka pustynna
   tr: Mendoza Kanarya İspinozu

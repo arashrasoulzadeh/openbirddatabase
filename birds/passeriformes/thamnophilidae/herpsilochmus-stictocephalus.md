@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13799.0
 names:
   scientific: Herpsilochmus stictocephalus
-  fa: nan
+  fa: ''
   en: Todd's Antwren
   es: Tiluchí de Todd
   fr: Grisin de Todd

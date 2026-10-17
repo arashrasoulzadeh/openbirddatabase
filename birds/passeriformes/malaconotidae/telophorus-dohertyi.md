@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20165.0
 names:
   scientific: Telophorus dohertyi
-  fa: nan
+  fa: ''
   en: Doherty's Bushshrike
   es: Bubú de Doherty
   fr: Gonolek de Doherty
   de: Rotstirnwürger
-  pt: doherty's bushshrike
+  pt: ''
   ru: Краснолобый гладиатор
   ja: アカガオミドリモズ
   nl: Dohertybosklauwier

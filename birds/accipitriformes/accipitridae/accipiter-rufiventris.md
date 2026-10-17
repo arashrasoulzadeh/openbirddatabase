@@ -12,7 +12,7 @@ names:
   es: Gavilán Papirrufo
   fr: Épervier menu
   de: Rotbauchsperber
-  pt: rufous-breasted sparrowhawk
+  pt: ''
   ru: Красногрудый перепелятник
   ja: ムネアカハイタカ
   zh: 棕胸雀鷹

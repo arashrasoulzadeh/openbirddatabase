@@ -12,7 +12,7 @@ names:
   es: Picabayas Abanico
   fr: Piquebaie éventail
   de: Fächerschwanz-Beerenpicker
-  pt: fan-tailed berrypecker
+  pt: ''
   ru: Веерохвостая ягодница
   ja: オウギパプアハナドリ
   nl: Versterbessenpikker

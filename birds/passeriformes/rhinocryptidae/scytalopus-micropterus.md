@@ -12,7 +12,7 @@ names:
   es: Churrín Colilargo
   fr: Mérulaxe microptère
   de: Dunkelrückentapaculo
-  pt: long-tailed tapaculo
+  pt: ''
   ru: Длиннохвостый тапакуло
   ja: セキドウワキアカオタテドリ
   nl: Langstaarttapaculo

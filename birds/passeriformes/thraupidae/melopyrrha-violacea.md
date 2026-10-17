@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35703.0
 names:
   scientific: Melopyrrha violacea
-  fa: nan
+  fa: ''
   en: Greater Antillean Bullfinch
   es: Semillero Prieto
   fr: Pèrenoir petit-coq
   de: Rotbrauen-Gimpeltangare
-  pt: greater antillean bullfinch
+  pt: ''
   ru: Краснобровый семилеро
   ja: クロアカウソ
   nl: Bahamadikbekje

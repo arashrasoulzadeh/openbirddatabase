@@ -12,7 +12,7 @@ names:
   es: Camachuelo Oscuro
   fr: Roselin sombre
   de: Nepalgimpel
-  pt: dark-breasted rosefinch
+  pt: ''
   ru: Чечевицевый вьюрок
   ja: クリムネアカマシコ
   zh: 暗胸朱雀

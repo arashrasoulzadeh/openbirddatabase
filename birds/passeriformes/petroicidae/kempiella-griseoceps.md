@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21780.0
 names:
   scientific: Kempiella griseoceps
-  fa: nan
+  fa: ''
   en: Yellow-legged Flyrobin
   es: Petroica Patigualda
   fr: Miro à pattes jaunes
   de: Gelbfußschnäpper
-  pt: yellow-legged flyrobin
+  pt: ''
   ru: Желтоногая дриада
   ja: キアシオリーブヒタキ
   nl: Gele vliegenvanger

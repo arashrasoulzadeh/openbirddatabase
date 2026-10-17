@@ -12,7 +12,7 @@ names:
   es: Francolín de Yibuti
   fr: Francolin somali
   de: Wacholderfrankolin
-  pt: djibouti spurfowl
+  pt: ''
   ru: Рыжебрюхий франколин
   ja: ソマリアシャコ
   nl: Djiboutifrankolijn

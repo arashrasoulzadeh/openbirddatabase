@@ -12,7 +12,7 @@ names:
   es: Ticotico Listado Occidental
   fr: Anabate de Lawrence
   de: Olivbauch-Baumspäher
-  pt: western woodhaunter
+  pt: ''
   ru: Андская лесовка
   nl: Westelijke bosbladspeurder
   pl: liściak kreskowany

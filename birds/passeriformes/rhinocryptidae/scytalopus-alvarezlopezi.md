@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14449.0
 names:
   scientific: Scytalopus alvarezlopezi
-  fa: nan
+  fa: ''
   en: Tatama Tapaculo
   es: Churrín de Tatamá
   fr: Mérulaxe du Tatama
   de: Tatamátapaculo
-  pt: tatama tapaculo
+  pt: ''
   ru: Татамский тапакуло
   ja: タタマオタテドリ
   nl: Tatamatapaculo

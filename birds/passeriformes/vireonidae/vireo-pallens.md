@@ -12,7 +12,7 @@ names:
   es: Vireo de Manglar
   fr: Viréo des mangroves
   de: Mangrovevireo
-  pt: mangrove vireo
+  pt: ''
   ru: Мангровый виреон
   ja: マングローブモズモドキ
   nl: Mangrovevireo

@@ -12,7 +12,7 @@ names:
   es: Tangara Cejiazul
   fr: Calliste à sourcils bleus
   de: Silberbrauentangare
-  pt: blue-browed tanager
+  pt: ''
   ru: Синебровая танагра
   ja: アオマユフウキンチョウ
   zh: 蓝眉唐加拉雀

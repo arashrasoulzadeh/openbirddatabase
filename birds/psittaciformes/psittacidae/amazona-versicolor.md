@@ -12,7 +12,7 @@ names:
   es: Amazona de Santa Lucía
   fr: Amazone de Sainte-Lucie
   de: Saint-Lucia-Amazone
-  pt: st. lucia amazon
+  pt: ''
   ru: Разноцветный амазон
   ja: イロマジリボウシインコ
   zh: 聖盧西亞亞馬遜鸚鵡

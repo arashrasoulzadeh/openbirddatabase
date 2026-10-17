@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35004.0
 names:
   scientific: Stilpnia peruviana
-  fa: nan
+  fa: ''
   en: Black-backed Tanager
   es: Tangara Dorsinegra
   fr: Calliste à dos noir

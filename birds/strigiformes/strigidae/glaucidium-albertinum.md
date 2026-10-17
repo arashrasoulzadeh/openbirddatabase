@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9087.0
 names:
   scientific: Glaucidium albertinum
-  fa: nan
+  fa: ''
   en: Albertine Owlet
   es: Mochuelo del Alberto
   fr: Chevêchette de Prigogine
   de: Albertzwergkauz
-  pt: albertine owlet
+  pt: ''
   ru: Альбертинский сычик
   ja: ザイールスズメフクロウ
   nl: Prigoginedwerguil

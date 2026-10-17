@@ -12,7 +12,7 @@ names:
   es: Ánade Hawaiano
   fr: Canard des Hawaï
   de: Hawaiiente
-  pt: hawaiian duck
+  pt: ''
   ru: Гавайская кряква
   ja: ハワイマガモ
   zh: 夏威夷鴨

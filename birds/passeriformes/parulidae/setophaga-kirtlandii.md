@@ -12,7 +12,7 @@ names:
   es: Reinita de Kirtland
   fr: Paruline de Kirtland
   de: Michiganwaldsänger
-  pt: kirtland's warbler
+  pt: ''
   ru: Мичиганская древесница
   ja: カートランドアメリカムシクイ
   zh: 黑紋背林鶯

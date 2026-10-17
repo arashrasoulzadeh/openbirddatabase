@@ -12,7 +12,7 @@ names:
   es: Trepador Gigante
   fr: Sittelle géante
   de: Riesenkleiber
-  pt: giant nuthatch
+  pt: ''
   ru: Поползень-великан
   ja: オニゴジュウカラ
   zh: 巨䴓

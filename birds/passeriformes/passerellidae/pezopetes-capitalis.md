@@ -12,7 +12,7 @@ names:
   es: Cerquero Patigrande
   fr: Tohi à grands pieds
   de: Großfuß-Buschammer
-  pt: large-footed finch
+  pt: ''
   ru: Большеногий тохи
   ja: オオアシシトド
   nl: Grootpootstruikgors

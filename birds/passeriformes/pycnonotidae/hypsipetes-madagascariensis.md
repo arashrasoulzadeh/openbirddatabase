@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24585.0
 names:
   scientific: Hypsipetes madagascariensis
-  fa: nan
+  fa: ''
   en: Malagasy Bulbul
   es: Bulbul Malgache
   fr: Bulbul de Madagascar
   de: Madagaskar-Rotschnabelbülbül
-  pt: malagasy bulbul
+  pt: ''
   ru: Мадагаскарский бюльбюль
   ja: クロヒヨドリ
   zh: 黑短脚鹎

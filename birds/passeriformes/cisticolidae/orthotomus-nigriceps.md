@@ -15,7 +15,7 @@ names:
   pt: white-browed tailorbird
   ru: Черноголовая портниха
   ja: カオグロサイホウチョウ
-  zh: Black-headed Tailorbird
+  zh: ''
   nl: Zwartkopsnijdervogel
   pl: krawczyk czarnogłowy
   tr: Kara Başlı Terzikuşu

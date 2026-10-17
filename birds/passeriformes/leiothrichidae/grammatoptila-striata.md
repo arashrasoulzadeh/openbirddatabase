@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26420.0
 names:
   scientific: Grammatoptila striata
-  fa: nan
+  fa: ''
   en: Striated Laughingthrush
   es: Charlatán Estriado
   fr: Grammatoptile strié
   de: Streifenbülbülhäherling
-  pt: striated laughingthrush
+  pt: ''
   ru: Исчерченная кустарница
   ja: シロスジガビチョウ
   zh: 条纹噪鹛

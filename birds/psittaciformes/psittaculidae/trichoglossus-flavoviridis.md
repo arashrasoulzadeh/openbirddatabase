@@ -12,7 +12,7 @@ names:
   es: Lori Verdigualdo
   fr: Loriquet jaune et vert
   de: Sulalori
-  pt: sula lorikeet
+  pt: ''
   ru: Жёлто-зелёный лорикет
   ja: スーラインコ
   nl: Geelgroene lori

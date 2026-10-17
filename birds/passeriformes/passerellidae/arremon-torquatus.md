@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33046.0
 names:
   scientific: Arremon torquatus
-  fa: nan
+  fa: ''
   en: White-browed Brushfinch
   es: Cerquero Cabecilistado
   fr: Tohi à tête rayée
   de: Streifenkopf-Buschammer
-  pt: white-browed brushfinch
+  pt: ''
   ru: Белобровый тохи
   ja: スジボウシヤブシトド
   nl: Streepkopstruikgors

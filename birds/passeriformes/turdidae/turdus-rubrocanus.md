@@ -12,7 +12,7 @@ names:
   es: Zorzal Castaño
   fr: Merle à tête grise
   de: Kastaniendrossel
-  pt: chestnut thrush
+  pt: ''
   ru: Каштановый дрозд
   ja: クリイロツグミ
   zh: 灰头鸫

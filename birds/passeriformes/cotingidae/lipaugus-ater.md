@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15935.0
 names:
   scientific: Lipaugus ater
-  fa: nan
+  fa: ''
   en: Black-and-gold Cotinga
   es: Cotinga Negro
   fr: Piauhau noir

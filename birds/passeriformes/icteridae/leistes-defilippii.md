@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 33599.0
 names:
   scientific: Leistes defilippii
-  fa: nan
+  fa: ''
   en: Pampas Meadowlark
   es: Loica Pampeana
   fr: Sturnelle des pampas

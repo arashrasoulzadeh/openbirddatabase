@@ -12,7 +12,7 @@ names:
   es: Picoplano Gorjiamarillo
   fr: Platyrhynque à gorge jaune
   de: Gelbkehl-Spatelschnabeltyrann
-  pt: yellow-throated spadebill
+  pt: ''
   ru: Желтогорлый плоскоклюв
   ja: キノドヒラハシタイランチョウ
   nl: Geelkeelbreedbektiran

@@ -7,13 +7,13 @@ iucn_status: CR
 taxon_order: 27839.0
 names:
   scientific: Gracupica jalla
-  fa: nan
+  fa: ''
   en: Javan Pied Myna
   es: Estornino Pío de Java
   fr: Étourneau jallak
   de: Javaelsterstar
   pt: javan pied starling
-  zh: Javan Pied Myna
+  zh: ''
   nl: Javaanse eksterspreeuw
   pl: szpak nagolicy
   tr: Java Alaca Sığırcığı

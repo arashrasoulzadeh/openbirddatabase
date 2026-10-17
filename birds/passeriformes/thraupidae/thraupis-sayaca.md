@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34949.0
 names:
   scientific: Thraupis sayaca
-  fa: nan
+  fa: ''
   en: Sayaca Tanager
   es: Tangara Sayaca
   fr: Tangara sayaca

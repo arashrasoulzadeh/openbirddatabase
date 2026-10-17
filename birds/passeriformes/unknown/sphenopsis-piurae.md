@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 0
 names:
   scientific: Sphenopsis piurae
-  fa: nan
+  fa: ''
   en: Piura Hemispingus
   nl: piurasfenops
 taxonomy:

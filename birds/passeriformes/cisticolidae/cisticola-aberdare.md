@@ -12,7 +12,7 @@ names:
   es: Cistícola de Los Aberdare
   fr: Cisticole des Aberdare
   de: Aberdarezistensänger
-  pt: aberdare cisticola
+  pt: ''
   ru: Абердарская цистикола
   ja: ケニアセッカ
   nl: Aberdaregraszanger

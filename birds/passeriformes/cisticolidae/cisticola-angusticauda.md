@@ -15,7 +15,7 @@ names:
   pt: tabora cisticola
   ru: Острохвостая цистикола
   ja: オナガセッカ
-  zh: Long-tailed Cisticola
+  zh: ''
   nl: Taboragraszanger
   pl: chwastówka długosterna
   tr: Tabora Yelpazekuyruğu

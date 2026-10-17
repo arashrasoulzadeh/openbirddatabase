@@ -12,7 +12,7 @@ names:
   es: Amaranta Barrada
   fr: Amarante pointé
   de: Pünktchenamarant
-  pt: bar-breasted firefinch
+  pt: ''
   ru: Крапчатый амарант
   ja: シロシマコウギョクチョウ
   zh: 斑胸火雀

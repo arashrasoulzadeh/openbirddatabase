@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5086.0
 names:
   scientific: Saucerottia cupreicauda
-  fa: nan
+  fa: ''
   en: Copper-tailed Hummingbird
   es: Amazilia Colicobriza
   fr: Ariane à queue cuivrée

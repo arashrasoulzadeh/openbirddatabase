@@ -12,7 +12,7 @@ names:
   es: Oruguero Colilargo
   fr: Échenilleur pie
   de: Graubürzel-Raupenfänger
-  pt: long-tailed triller
+  pt: ''
   ru: Длиннохвостый личинкоед-свистун
   ja: オナガナキサンショウクイ
   zh: 長尾鳴鵑鵙

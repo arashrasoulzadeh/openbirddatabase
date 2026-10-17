@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13807.0
 names:
   scientific: Herpsilochmus axillaris
-  fa: nan
+  fa: ''
   en: Yellow-breasted Antwren
   es: Tiluchí Pechiamarillo
   fr: Grisin à poitrine jaune
   de: Gelbkehl-Ameisenfänger
-  pt: yellow-breasted antwren
+  pt: ''
   ru: Желтобрюхий эсперито
   ja: キムネマユアリサザイ
   zh: 黄胸蚁鹩

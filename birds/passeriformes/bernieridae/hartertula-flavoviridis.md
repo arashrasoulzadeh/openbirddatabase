@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 23968.0
 names:
   scientific: Hartertula flavoviridis
-  fa: nan
+  fa: ''
   en: Wedge-tailed Jery
   es: Jiji Colicuña
   fr: Jery à queue étagée
   de: Keilschwanz-Madagaskarsänger
-  pt: wedge-tailed jery
+  pt: ''
   ru: Клинохвостая тетрака
   ja: ヤハズニセムシクイチメドリ
   nl: Wigstaartjery

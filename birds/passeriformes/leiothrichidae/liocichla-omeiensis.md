@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 26597.0
 names:
   scientific: Liocichla omeiensis
-  fa: nan
+  fa: ''
   en: Emei Shan Liocichla
   es: Charlatán del Omei
   fr: Garrulaxe de l'Omei
   de: Omeibunthäherling
-  pt: emei shan liocichla
+  pt: ''
   ru: Эмэйшаньская лиоцихла
   ja: ハイムネヤブドリ
   zh: 灰胸薮鹛

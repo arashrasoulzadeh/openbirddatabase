@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 3055.0
 names:
   scientific: Carpococcyx viridis
-  fa: nan
+  fa: ''
   en: Sumatran Ground Cuckoo
   es: Cuco Terrestre de Sumatra
   fr: Calobate de Sumatra
@@ -15,7 +15,7 @@ names:
   pt: sumatran ground-cuckoo
   ru: Суматранская воронья кукушка
   ja: スマトラハシリカッコウ
-  zh: Sumatran Ground Cuckoo
+  zh: ''
   nl: Sumatraanse grondkoekoek
   pl: kukielnik zielony
   tr: Sumatra Yer Guguğu

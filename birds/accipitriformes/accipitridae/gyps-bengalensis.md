@@ -12,7 +12,7 @@ names:
   es: Buitre Dorsiblanco Asiático
   fr: Vautour chaugoun
   de: Bengalengeier
-  pt: white-rumped vulture
+  pt: ''
   ru: Бенгальский сип
   ja: ベンガルハゲワシ
   zh: 白背兀鹫

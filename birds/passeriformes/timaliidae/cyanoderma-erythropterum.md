@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25950.0
 names:
   scientific: Cyanoderma erythropterum
-  fa: nan
+  fa: ''
   en: Chestnut-winged Babbler
   es: Timalí Alirrojo
   fr: Timalie à ailes rousses
   de: Rotflügel-Buschtimalie
-  pt: chestnut-winged babbler
+  pt: ''
   ru: Краснокрылый стахирис
   ja: アオメモリチメドリ
   zh: 紅翅穗鶥

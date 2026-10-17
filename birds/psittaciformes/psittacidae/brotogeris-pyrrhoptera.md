@@ -15,7 +15,7 @@ names:
   pt: gray-cheeked parakeet
   ru: Серощёкая катита
   ja: ワタボウシミドリインコ
-  zh: Grey-cheeked Parakeet
+  zh: ''
   nl: Vuurvleugelparkiet
   pl: stadniczka siwolica
   tr: Gri Yanaklı Papağan

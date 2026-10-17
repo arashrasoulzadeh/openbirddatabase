@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16649.0
 names:
   scientific: Pseudocolopteryx flaviventris
-  fa: nan
+  fa: ''
   en: Warbling Doradito
   es: Doradito Común
   fr: Doradite babillarde

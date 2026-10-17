@@ -15,7 +15,7 @@ names:
   pt: uru-de-topete
   ru: Звёздчатый зубцеклювый перепел
   ja: ホシウズラ
-  zh: Starred Wood Quail
+  zh: ''
   nl: Stippelborsttandkwartel
   pl: przepiór rdzawobrzuchy
   tr: Yıldızlı Tokro

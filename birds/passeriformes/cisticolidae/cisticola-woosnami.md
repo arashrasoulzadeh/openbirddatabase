@@ -12,7 +12,7 @@ names:
   es: Cistícola de Woosnam
   fr: Cisticole de Woosnam
   de: Miombozistensänger
-  pt: trilling cisticola
+  pt: ''
   ru: Голосистая цистикола
   ja: ススチャセッカ
   zh: 颤声扇尾莺

@@ -15,7 +15,7 @@ names:
   pt: rola-de-manchas-azuis
   ru: Синекрылая лесная горлица
   ja: アオフバト
-  zh: Blue-spotted Wood Dove
+  zh: ''
   nl: Staalvlekduif
   pl: turkaweczka modroplamkowa
   tr: Mavi Aynalı Kumru

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33495.0
 names:
   scientific: Atlapetes leucopterus
-  fa: nan
+  fa: ''
   en: White-winged Brushfinch
   es: Atlapetes Aliblanco
   fr: Tohi leucoptère
   de: Spiegelbuschammer
-  pt: white-winged brushfinch
+  pt: ''
   ru: Белокрылая атлапета
   ja: ハジロヤブシトド
   nl: Witvleugelstruikgors

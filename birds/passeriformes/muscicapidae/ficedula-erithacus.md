@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29508.0
 names:
   scientific: Ficedula erithacus
-  fa: nan
+  fa: ''
   en: Slaty-backed Flycatcher
   es: Papamoscas Pechirrojo
   fr: Gobemouche de Hodgson
   de: Schiefermantelschnäpper
-  pt: slaty-backed flycatcher
+  pt: ''
   ru: Зарянковая мухоловка
   ja: セアオビタキ
   zh: 锈胸蓝姬鹟

@@ -12,7 +12,7 @@ names:
   es: Carpintero Lindo
   fr: Pic splendide
   de: Schmuckspecht
-  pt: beautiful woodpecker
+  pt: ''
   ru: Красивый дятел
   ja: ウツクシミヤビゲラ
   nl: Prachtspecht

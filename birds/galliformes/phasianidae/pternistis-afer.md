@@ -12,7 +12,7 @@ names:
   es: Francolín Gorjirrojo
   fr: Francolin à gorge rouge
   de: Rotkehlfrankolin
-  pt: red-necked spurfowl
+  pt: ''
   ru: Красногорлый франколин
   ja: アカノドシャコ
   zh: 紅喉彩鷓鴣

@@ -12,7 +12,7 @@ names:
   es: Abejaruco Frentiblanco
   fr: Guêpier à front blanc
   de: Weißstirnspint
-  pt: white-fronted bee-eater
+  pt: ''
   ru: Белолобая щурка
   ja: シロビタイハチクイ
   zh: 白額蜂虎

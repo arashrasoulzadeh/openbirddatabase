@@ -12,7 +12,7 @@ names:
   es: Picaflores Cabecirrojo
   fr: Dicée à tête écarlate
   de: Feuerkopf-Mistelfresser
-  pt: scarlet-headed flowerpecker
+  pt: ''
   ru: Огненноголовый цветоед
   ja: ショウジョウハナドリ
   zh: 紅頭啄花鳥

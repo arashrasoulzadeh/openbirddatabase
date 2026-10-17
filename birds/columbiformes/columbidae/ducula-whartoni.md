@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2805.0
 names:
   scientific: Ducula whartoni
-  fa: nan
+  fa: ''
   en: Christmas Imperial Pigeon
   es: Dúcula de Isla Navidad
   fr: Carpophage de Wharton
@@ -15,7 +15,7 @@ names:
   pt: christmas island imperial-pigeon
   ru: Рождественский плодовый голубь
   ja: クリスマスミカドバト
-  zh: Christmas Imperial Pigeon
+  zh: ''
   nl: Whartonmuskaatduif
   pl: muszkatela ciemna
   tr: Kurşuni Has Güvercin

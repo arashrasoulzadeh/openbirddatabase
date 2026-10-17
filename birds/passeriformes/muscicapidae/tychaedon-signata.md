@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28954.0
 names:
   scientific: Tychaedon signata
-  fa: nan
+  fa: ''
   en: Brown Scrub Robin
   es: Alzacola Pardo
   fr: Agrobate brun
@@ -15,7 +15,7 @@ names:
   pt: brown scrub-robin
   ru: Натальский тугайный соловей
   ja: チャイロヤブコマドリ
-  zh: Brown Scrub Robin
+  zh: ''
   nl: Bruine waaierstaart
   pl: drozdówek brunatny
   tr: Kahverengi Çalı Bülbülü

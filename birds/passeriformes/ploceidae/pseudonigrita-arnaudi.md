@@ -15,7 +15,7 @@ names:
   pt: gray-capped social-weaver
   ru: Сероголовый ткачик-воробей
   ja: ハイガシラシュウダンハタオリ
-  zh: Grey-capped Social Weaver
+  zh: ''
   nl: Marmerwever
   pl: gromadnik siwogłowy
   tr: Gri Başlıklı Dokumacı

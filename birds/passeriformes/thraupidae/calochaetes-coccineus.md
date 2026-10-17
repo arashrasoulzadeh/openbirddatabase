@@ -12,7 +12,7 @@ names:
   es: Tangara Bermellón
   fr: Tangara carmin
   de: Mennigtangare
-  pt: vermilion tanager
+  pt: ''
   ru: Огненная танагра
   ja: シュイロフウキンチョウ
   zh: 朱红唐纳雀

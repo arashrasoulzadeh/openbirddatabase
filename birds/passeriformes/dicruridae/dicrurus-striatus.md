@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20494.0
 names:
   scientific: Dicrurus striatus
-  fa: nan
+  fa: ''
   en: Short-tailed Drongo
   es: Drongo Colicorto
   fr: Drongo de Tweeddale
-  pt: short-tailed drongo
+  pt: ''
   nl: Kortstaartdrongo
   pl: dziwogon krótkosterny
   tr: Filipin Telli Drongosu

@@ -12,7 +12,7 @@ names:
   es: Carbonero Boreal
   fr: Mésange à tête brune
   de: Hudsonmeise
-  pt: boreal chickadee
+  pt: ''
   ru: Гудзонская гаичка
   ja: カナダコガラ
   zh: 北山雀

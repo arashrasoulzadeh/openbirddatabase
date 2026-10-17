@@ -12,7 +12,7 @@ names:
   es: Batis de El Cabo
   fr: Pririt du Cap
   de: Kapschnäpper
-  pt: cape batis
+  pt: ''
   ru: Капский батис
   ja: ムナグロセワタビタキ
   nl: Bruinflankvliegenvanger

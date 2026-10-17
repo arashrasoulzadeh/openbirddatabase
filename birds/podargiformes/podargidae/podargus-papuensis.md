@@ -12,7 +12,7 @@ names:
   es: Podargo Papú
   fr: Podarge papou
   de: Papuaschwalm
-  pt: papuan frogmouth
+  pt: ''
   ru: Папуанский лягушкорот
   ja: パプアガマグチヨタカ
   zh: 巴布亞蟆口鴟

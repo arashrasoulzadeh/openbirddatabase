@@ -12,7 +12,7 @@ names:
   es: Yerbera China
   fr: Graminicole de Chine
   de: Chinagrasdrossling
-  pt: chinese grassbird
+  pt: ''
   ru: Китайская длиннохвостка
   ja: チュウゴクコシアカセッカ
   nl: Chinese grasrietzanger

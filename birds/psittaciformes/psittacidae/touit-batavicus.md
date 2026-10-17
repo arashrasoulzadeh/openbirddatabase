@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12794.0
 names:
   scientific: Touit batavicus
-  fa: nan
+  fa: ''
   en: Lilac-tailed Parrotlet
   es: Cotorrita Sietecolores
   fr: Toui à sept couleurs
   de: Siebenfarbenpapagei
-  pt: lilac-tailed parrotlet
+  pt: ''
   ru: Семицветный туети
   ja: フジイロオインコ
   nl: Zevenkleurenpapegaai

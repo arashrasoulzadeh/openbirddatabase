@@ -12,7 +12,7 @@ names:
   es: Cistícola Pectoral
   fr: Cisticole brune
   de: Blasskopf-Zistensänger
-  pt: pectoral-patch cisticola
+  pt: ''
   ru: Буроголовая цистикола
   ja: チビオセッカ
   nl: Borstvlekgraszanger

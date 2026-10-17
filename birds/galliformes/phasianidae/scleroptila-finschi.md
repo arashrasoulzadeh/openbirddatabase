@@ -12,7 +12,7 @@ names:
   es: Francolín de Finsch
   fr: Francolin de Finsch
   de: Finschfrankolin
-  pt: finsch's francolin
+  pt: ''
   ru: Рыжелицый франколин
   ja: チャバネシャコ
   zh: 芬氏鹧鸪

@@ -12,7 +12,7 @@ names:
   es: Cistícola Silbador
   fr: Cisticole siffleuse
   de: Pfeifzistensänger
-  pt: whistling cisticola
+  pt: ''
   ru: Свистящая цистикола
   ja: ススイロセッカ
   nl: Fluitgraszanger

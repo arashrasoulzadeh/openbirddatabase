@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14037.0
 names:
   scientific: Sciaphylax castanea
-  fa: nan
+  fa: ''
   en: Northern Chestnut-tailed Antbird
   es: Hormiguero Colicastaño Norteño
   fr: Alapi de Zimmer
@@ -15,7 +15,7 @@ names:
   pt: zimmer's antbird
   ru: Каштановохвостая муравьянка
   ja: ジマーアリドリ
-  zh: Northern Chestnut-tailed Antbird
+  zh: ''
   nl: Noordelijke kastanjestaartmiervogel
   pl: rudogonka andyjska
   tr: Güneyli Kestanerengi Karıncakuşu

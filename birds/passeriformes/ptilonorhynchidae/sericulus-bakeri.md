@@ -12,7 +12,7 @@ names:
   es: Pergolero de Los Adelbert
   fr: Jardinier de Baker
   de: Rotscheitel-Laubenvogel
-  pt: fire-maned bowerbird
+  pt: ''
   ru: Красноголовый шалашник
   ja: ショウジョウフウチョウモドキ
   zh: 贝氏辉亭鸟

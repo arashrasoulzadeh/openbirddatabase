@@ -12,7 +12,7 @@ names:
   es: Carpintero Antillano
   fr: Pic à sourcils noirs
   de: Bahamaspecht
-  pt: west indian woodpecker
+  pt: ''
   ru: Багамский дятел
   ja: マユグロシマセゲラ
   zh: 大紅腹啄木鸟

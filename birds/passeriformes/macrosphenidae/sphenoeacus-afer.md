@@ -12,7 +12,7 @@ names:
   es: Yerbera de El Cabo
   fr: Sphénoèque du Cap
   de: Kap-Bülbülgrasmücke
-  pt: cape grassbird
+  pt: ''
   ru: Капская саванница
   ja: クサムシクイ
   nl: Kaapse grasvogel

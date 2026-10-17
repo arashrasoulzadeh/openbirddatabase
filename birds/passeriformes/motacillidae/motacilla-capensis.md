@@ -12,7 +12,7 @@ names:
   es: Lavandera de El Cabo
   fr: Bergeronnette du Cap
   de: Kapstelze
-  pt: cape wagtail
+  pt: ''
   ru: Капская трясогузка
   ja: サメハクセキレイ
   zh: 海角鶺鴒

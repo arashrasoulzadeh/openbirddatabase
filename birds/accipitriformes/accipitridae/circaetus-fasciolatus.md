@@ -15,7 +15,7 @@ names:
   pt: southern banded snake-eagle
   ru: Полосатый змееяд
   ja: ミナミオビチュウヒワシ
-  zh: Southern Banded Snake Eagle
+  zh: ''
   nl: Grijze slangenarend
   pl: gadożer krótkoskrzydły
   tr: Güneyli Çizgili Yılan Kartalı

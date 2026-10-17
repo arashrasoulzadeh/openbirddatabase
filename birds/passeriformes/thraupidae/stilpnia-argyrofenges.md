@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35000.0
 names:
   scientific: Stilpnia argyrofenges
-  fa: nan
+  fa: ''
   en: Straw-backed Tanager
   es: Tangara Dorsipajiza
   fr: Calliste à gorge verte
@@ -15,7 +15,7 @@ names:
   pt: green-throated tanager
   ru: Зеленогорлая танагра
   ja: クロハラフウキンチョウ
-  zh: Straw-backed Tanager
+  zh: ''
   nl: Groenkeeltangare
   pl: tangarka jasnogrzbieta
   tr: Yeşil Boğazlı Tangara

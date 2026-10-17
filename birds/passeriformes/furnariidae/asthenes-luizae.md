@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 15389.0
 names:
   scientific: Asthenes luizae
-  fa: nan
+  fa: ''
   en: Cipo Canastero
   es: Canastero de Cipó
   fr: Synallaxe du Cipo

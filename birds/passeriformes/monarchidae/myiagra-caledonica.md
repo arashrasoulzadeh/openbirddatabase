@@ -12,7 +12,7 @@ names:
   es: Monarca Melanesio
   fr: Monarque mélanésien
   de: Pazifikmonarch
-  pt: melanesian flycatcher
+  pt: ''
   ru: Меланезийская миагра
   ja: カレドニアヒラハシ
   nl: Vanuatumonarch

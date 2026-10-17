@@ -12,7 +12,7 @@ names:
   es: Pico Pechirrojo Occidental
   fr: Pic à plastron rouge
   de: Scharlachbrustspecht
-  pt: crimson-naped woodpecker
+  pt: ''
   ru: Краснобрюхий дятел
   ja: ヒムネアカゲラ
   zh: 红枕啄木鸟

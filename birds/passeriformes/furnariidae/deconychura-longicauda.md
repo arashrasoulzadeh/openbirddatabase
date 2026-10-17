@@ -15,7 +15,7 @@ names:
   pt: arapaçu-rabudo
   ru: Большой длиннохвостый древолаз
   ja: オナガオニキバシリ
-  zh: Northern Long-tailed Woodcreeper
+  zh: ''
   nl: Guyaanse langstaartmuisspecht
   pl: tęgosterzyk większy
   tr: Doğulu Uzun Kuyruklu Tırmaşık

@@ -15,7 +15,7 @@ names:
   pt: red-knobbed imperial-pigeon
   ru: Краснорогий плодовый голубь
   ja: アカコブバト
-  zh: Red-knobbed Imperial Pigeon
+  zh: ''
   nl: Roodknobbelmuskaatduif
   pl: muszkatela krasnonosa
   tr: Kırmızı İbikli Has Güvercin

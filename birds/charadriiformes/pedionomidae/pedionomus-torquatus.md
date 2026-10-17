@@ -12,7 +12,7 @@ names:
   es: Llanero
   fr: Pédionome errant
   de: Steppenläufer
-  pt: plains-wanderer
+  pt: ''
   ru: Австралийский странник
   ja: クビワミフウズラ
   zh: 领鹑

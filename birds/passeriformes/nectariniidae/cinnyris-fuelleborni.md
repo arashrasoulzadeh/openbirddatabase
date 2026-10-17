@@ -12,7 +12,7 @@ names:
   es: Suimanga de Fülleborn
   fr: Souimanga de Fülleborn
   de: Füllebornnektarvogel
-  pt: forest double-collared sunbird
+  pt: ''
   ru: Лимоннобокая нектарница
   ja: モリゴシキタイヨウチョウ
   nl: Füllebornhoningzuiger

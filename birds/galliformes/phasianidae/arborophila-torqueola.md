@@ -12,7 +12,7 @@ names:
   es: Arborófila Común
   fr: Torquéole à collier
   de: Hügelbuschwachtel
-  pt: hill partridge
+  pt: ''
   ru: Воротничковая лесная куропатка
   ja: チャガシラミヤマテッケイ
   zh: 环颈山鹧鸪

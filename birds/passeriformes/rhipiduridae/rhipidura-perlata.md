@@ -12,7 +12,7 @@ names:
   es: Abanico Perlado
   fr: Rhipidure perlé
   de: Perlbrust-Fächerschwanz
-  pt: spotted fantail
+  pt: ''
   ru: Жемчужная веерохвостка
   ja: シロボシオウギビタキ
   nl: Parelwaaierstaart

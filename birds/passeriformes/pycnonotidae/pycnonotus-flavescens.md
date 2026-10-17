@@ -12,7 +12,7 @@ names:
   es: Bulbul Amarillento
   fr: Bulbul flavescent
   de: Grauohrbülbül
-  pt: flavescent bulbul
+  pt: ''
   ru: Светлобровый бюльбюль
   ja: カオジロヒヨドリ
   zh: 黄绿鹎

@@ -15,7 +15,7 @@ names:
   pt: falkland steamer-duck
   ru: Фолклендская утка-пароход
   ja: フナガモ
-  zh: Falkland Steamer Duck
+  zh: ''
   nl: Falklandbooteend
   pl: torpedówka falklandzka
   tr: Falkland Forsa Ördeği

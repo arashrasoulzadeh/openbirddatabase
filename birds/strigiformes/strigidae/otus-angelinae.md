@@ -15,7 +15,7 @@ names:
   pt: javan scops-owl
   ru: Яванская совка
   ja: ジャワコノハズク
-  zh: Javan Scops Owl
+  zh: ''
   nl: Angelinadwergooruil
   pl: syczek jawajski
   tr: Cava İshakkuşu

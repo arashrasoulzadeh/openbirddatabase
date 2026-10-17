@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4861.0
 names:
   scientific: Riccordia ricordii
-  fa: nan
+  fa: ''
   en: Cuban Emerald
   es: Esmeralda Zunzún
   fr: Émeraude de Ricord
   de: Kubasmaragdkolibri
-  pt: cuban emerald
+  pt: ''
   ru: Кубинский изумруд
   ja: キューバヒメエメラルドハチドリ
   nl: Cubaanse smaragdkolibrie

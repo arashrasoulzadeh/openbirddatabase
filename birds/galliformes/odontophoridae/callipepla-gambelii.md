@@ -12,7 +12,7 @@ names:
   es: Colín de Gambel
   fr: Colin de Gambel
   de: Helmwachtel
-  pt: gambel's quail
+  pt: ''
   ru: Шлемоносный перепел
   ja: ズアカカンムリウズラ
   zh: 黑腹翎鹑

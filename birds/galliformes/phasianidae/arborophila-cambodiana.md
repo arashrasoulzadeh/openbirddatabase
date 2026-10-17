@@ -12,7 +12,7 @@ names:
   es: Arborófila de Camboya
   fr: Torquéole du Cambodge
   de: Kambodschabuschwachtel
-  pt: chestnut-headed partridge
+  pt: ''
   ru: Камбоджийская лесная куропатка
   ja: カンボジアミヤマテッケイ
   nl: Cambodjaanse bospatrijs

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16660.0
 names:
   scientific: Myiopagis parambae
-  fa: nan
+  fa: ''
   en: Choco Elaenia
   es: Fiofío Gris del Chocó
   fr: Élénie du Choco
   de: Chocóolivtyrann
-  pt: choco elaenia
+  pt: ''
   nl: Choco-elenia
   pl: tyranik mniejszy
   tr: Çoko Elenyası

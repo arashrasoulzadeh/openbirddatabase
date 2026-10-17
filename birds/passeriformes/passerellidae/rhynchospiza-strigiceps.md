@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32908.0
 names:
   scientific: Rhynchospiza strigiceps
-  fa: nan
+  fa: ''
   en: Chaco Sparrow
   es: Chingolo Coronicastaño
   fr: Bruant à calotte rayée
   de: Streifenscheitelammer
-  pt: chaco sparrow
+  pt: ''
   ru: Пестроголовая овсянка
   ja: チャコスズメモドキ
   nl: Chacogors

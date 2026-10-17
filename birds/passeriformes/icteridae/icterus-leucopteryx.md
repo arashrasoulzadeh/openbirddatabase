@@ -12,7 +12,7 @@ names:
   es: Turpial Jamaicano
   fr: Oriole de Jamaïque
   de: Jamaikatrupial
-  pt: jamaican oriole
+  pt: ''
   ru: Ямайский трупиал
   ja: ジャマイカムクドリモドキ
   zh: 牙買加黃雀

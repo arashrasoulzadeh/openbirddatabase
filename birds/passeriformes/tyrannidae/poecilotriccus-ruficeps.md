@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16384.0
 names:
   scientific: Poecilotriccus ruficeps
-  fa: nan
+  fa: ''
   en: Rufous-crowned Tody-Flycatcher
   es: Titirijí Capirrufo
   fr: Todirostre bariolé
   de: Rostkappen-Todityrann
-  pt: rufous-crowned tody-flycatcher
+  pt: ''
   ru: Рыжешапочный тоди-мухолов
   ja: ズアカハシナガハエトリ
   nl: Roodkruintodietiran

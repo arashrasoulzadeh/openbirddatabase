@@ -12,7 +12,7 @@ names:
   es: Tejedor de Bates
   fr: Tisserin de Bates
   de: Braunwangenweber
-  pt: bates's weaver
+  pt: ''
   ru: Бурощёкий ткач
   ja: クリガシラハタオリ
   nl: Bruinwangwever

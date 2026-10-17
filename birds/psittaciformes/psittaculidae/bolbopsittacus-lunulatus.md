@@ -12,7 +12,7 @@ names:
   es: Lorito Guayabero
   fr: Guaiabero lunulé
   de: Stummelschwanzpapagei
-  pt: guaiabero
+  pt: ''
   ru: Гуайяберо
   ja: バンジロウインコ
   zh: 菲律宾鹦鹉

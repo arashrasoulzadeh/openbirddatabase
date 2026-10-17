@@ -12,7 +12,7 @@ names:
   es: Turaco de Livingstone
   fr: Touraco de Livingstone
   de: Livingstoneturako
-  pt: livingstone's turaco
+  pt: ''
   ru: Длиннохохлый турако
   ja: リビングストンエボシドリ
   nl: Livingstones toerako

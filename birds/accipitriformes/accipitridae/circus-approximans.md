@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero del Pacífico
   fr: Busard de Gould
   de: Sumpfweihe
-  pt: swamp harrier
+  pt: ''
   ru: Тихоокеанский лунь
   ja: ミナミチュウヒ
   zh: 沼澤鷂

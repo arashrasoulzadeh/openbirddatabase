@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32106.0
 names:
   scientific: Paroreomyza flammea
-  fa: nan
+  fa: ''
   en: Kakawahie
   es: Alauahio de Molokai
   fr: Alauahio de Molokai
   de: Kakawahie-Astläufer
-  pt: kakawahie
+  pt: ''
   ru: Огненная какавайе
   ja: モロカイキバシリ
   zh: 莫島管舌雀

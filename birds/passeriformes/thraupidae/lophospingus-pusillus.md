@@ -12,7 +12,7 @@ names:
   es: Soldadito Común
   fr: Lophospingue à huppe noire
   de: Schwarzhauben-Ammertangare
-  pt: black-crested finch
+  pt: ''
   ru: Кардиналовый овсяночник
   ja: クロエボシシトド
   nl: Boliviaanse kuifgors

@@ -12,7 +12,7 @@ names:
   es: Oruguero de Mauricio
   fr: Échenilleur de Maurice
   de: Mauritiusraupenfänger
-  pt: mauritius cuckooshrike
+  pt: ''
   ru: Маврикийский личинкоед-свистун
   ja: モーリシャスオオサンショウクイ
   zh: 毛里求斯鹃鵙

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25555.0
 names:
   scientific: Sterrhoptilus dennistouni
-  fa: nan
+  fa: ''
   en: Golden-crowned Babbler
   es: Timalí Coronidorado
   fr: Zostérops à calotte dorée
   de: Goldkappen-Brillenvogel
-  pt: golden-crowned babbler
+  pt: ''
   ru: Желтошапочная пестроголовка
   ja: キボウシモリチメドリ
   zh: 金冠穗鹛

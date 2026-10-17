@@ -15,7 +15,7 @@ names:
   pt: blue-capped cordonbleu
   ru: Синеголовый астрильд
   ja: ルリガシラセイキチョウ
-  zh: Blue-capped Cordon-bleu
+  zh: ''
   nl: Blauwkopastrild
   pl: motylik błękitnogłowy
   tr: Camgöbeği Mumgaga

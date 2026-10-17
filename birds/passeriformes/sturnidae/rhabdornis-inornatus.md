@@ -12,7 +12,7 @@ names:
   es: Rabdornis Cabecipardo
   fr: Rhabdornis à tête brune
   de: Streifenbrust-Kleiberstar
-  pt: stripe-breasted rhabdornis
+  pt: ''
   ru: Минданайский пищуховый скворец
   ja: ムジキバシリモドキ
   zh: 條紋排扣爬行者

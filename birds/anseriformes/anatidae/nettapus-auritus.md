@@ -15,7 +15,7 @@ names:
   pt: pato-orelhudo
   ru: Африканский блестящий чирок
   ja: アフリカマメガン
-  zh: African Pygmy Goose
+  zh: ''
   nl: Afrikaanse dwergeend
   pl: kaczuszka afrykańska
   tr: Afrika Pamuk Ördeği

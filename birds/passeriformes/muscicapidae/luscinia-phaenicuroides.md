@@ -12,7 +12,7 @@ names:
   es: Colirrojo Ventriblanco
   fr: Bradybate à queue rouge
   de: Weißbauch-Rostschwanz
-  pt: white-bellied redstart
+  pt: ''
   ru: Ходсония
   ja: オリイヒタキ
   zh: 白腹短翅鸲

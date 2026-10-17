@@ -12,7 +12,7 @@ names:
   es: Saltarrocas de El Cabo
   fr: Chétopse bridé
   de: Kapfelsenspringer
-  pt: cape rockjumper
+  pt: ''
   ru: Капский прыгун
   ja: アカイワトビヒタキ
   nl: Kaapse rotsspringer

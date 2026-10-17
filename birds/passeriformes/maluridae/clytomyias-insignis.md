@@ -12,7 +12,7 @@ names:
   es: Maluro Cabecirrojo
   fr: Mérion à tête rousse
   de: Rotkopf-Staffelschwanz
-  pt: orange-crowned fairywren
+  pt: ''
   ru: Рыжий малюр
   ja: ヒロハシムシクイ
   zh: 棕鹩莺

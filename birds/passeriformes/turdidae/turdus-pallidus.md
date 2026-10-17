@@ -12,7 +12,7 @@ names:
   es: Zorzal Pálido
   fr: Merle pâle
   de: Fahldrossel
-  pt: pale thrush
+  pt: ''
   ru: Бледный дрозд
   ja: シロハラ
   zh: 白腹鸫

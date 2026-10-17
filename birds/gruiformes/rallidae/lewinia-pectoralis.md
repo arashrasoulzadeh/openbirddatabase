@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5339.0
 names:
   scientific: Lewinia pectoralis
-  fa: nan
+  fa: ''
   en: Lewin's Rail
   es: Rascón Pectoral
   fr: Râle à poitrine grise
   de: Krickralle
-  pt: lewin's rail
+  pt: ''
   ru: Австралийский пастушок
   ja: オーストラリアクイナ
   zh: 卢氏秧鸡

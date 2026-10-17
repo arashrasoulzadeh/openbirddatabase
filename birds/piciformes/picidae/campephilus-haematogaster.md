@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11550.0
 names:
   scientific: Campephilus haematogaster
-  fa: nan
+  fa: ''
   en: Crimson-bellied Woodpecker
   es: Picamaderos Ventrirrojo
   fr: Pic superbe

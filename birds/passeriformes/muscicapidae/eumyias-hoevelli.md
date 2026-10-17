@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 29075.0
 names:
   scientific: Eumyias hoevelli
-  fa: nan
+  fa: ''
   en: Blue-fronted Blue Flycatcher
   es: Papamoscas Frentiazul
   fr: Gobemouche à front bleu
@@ -14,7 +14,7 @@ names:
   pt: blue-fronted flycatcher
   ru: Синелобая нильтава
   ja: セレベスヒメアオヒタキ
-  zh: Blue-fronted Blue Flycatcher
+  zh: ''
   nl: Blauwkopniltava
   pl: dżunglówka modrobrewa
   tr: Mavi Alınlı Sinekkapan

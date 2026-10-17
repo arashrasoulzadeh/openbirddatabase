@@ -12,7 +12,7 @@ names:
   es: Bulbul Cuellipinto
   fr: Bulbul à cou tacheté
   de: Halsfleckbülbül
-  pt: spot-necked bulbul
+  pt: ''
   ru: Желтоухий бюльбюль
   ja: スマトラヒヨドリ
   nl: Barusanbuulbuul

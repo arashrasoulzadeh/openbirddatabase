@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24500.0
 names:
   scientific: Iole crypta
-  fa: nan
+  fa: ''
   en: Buff-vented Bulbul
   es: Bulbul Oliváceo
   fr: Bulbul d'Oberholser
   de: Braunbauchbülbül
-  pt: buff-vented bulbul
+  pt: ''
   ru: Малаккский бюльбюль
   ja: カンムリオリーブヒヨドリ
   zh: 棕臀短脚鹎

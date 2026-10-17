@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26095.0
 names:
   scientific: Stachyris nigricollis
-  fa: nan
+  fa: ''
   en: Black-throated Babbler
   es: Timalí Gorjinegro
   fr: Timalie à gorge noire
   de: Schwarzkehl-Buschtimalie
-  pt: black-throated babbler
+  pt: ''
   ru: Чернозобая тимелия
   ja: ノドグロモリチメドリ
   zh: 黑喉穗鶥

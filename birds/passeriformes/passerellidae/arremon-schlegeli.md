@@ -12,7 +12,7 @@ names:
   es: Cerquero Alidorado
   fr: Tohi de Schlegel
   de: Goldflügel-Buschammer
-  pt: golden-winged sparrow
+  pt: ''
   ru: Тохи-монах
   ja: キガタシズカシトド
   nl: Goudvleugelgors

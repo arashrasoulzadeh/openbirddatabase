@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 35020.0
 names:
   scientific: Stilpnia vitriolina
-  fa: nan
+  fa: ''
   en: Scrub Tanager
   es: Tangara Matorralera
   fr: Calliste vitriolin
   de: Rotscheiteltangare
-  pt: scrub tanager
+  pt: ''
   ru: Кустарниковая танагра
   ja: ギンミドリフウキンチョウ
   nl: Roodkruintangare

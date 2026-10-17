@@ -12,7 +12,7 @@ names:
   es: Escribano Somalí
   fr: Bruant de Somalie
   de: Somaliammer
-  pt: somali bunting
+  pt: ''
   ru: Сомалийская овсянка
   ja: ソマリーキンムネホオジロ
   nl: Somalische gors

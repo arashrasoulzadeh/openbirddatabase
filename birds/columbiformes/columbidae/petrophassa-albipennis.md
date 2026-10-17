@@ -15,7 +15,7 @@ names:
   pt: white-quilled rock-pigeon
   ru: Белокрылый каменный голубь
   ja: モンツキイワバト
-  zh: White-quilled Rock Pigeon
+  zh: ''
   nl: Witvleugelkwartelduif
   pl: aborygenek białopióry
   tr: Ak Telekli Keklik Kumrusu

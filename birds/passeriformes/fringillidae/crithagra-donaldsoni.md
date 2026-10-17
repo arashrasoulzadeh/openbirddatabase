@@ -12,7 +12,7 @@ names:
   es: Serín Piquigordo Norteño
   fr: Serin à gros bec
   de: Donaldsongirlitz
-  pt: northern grosbeak-canary
+  pt: ''
   ru: Дубоносовый канареечник
   ja: ハシブトカナリア
   nl: Noordelijke dikbekkanarie

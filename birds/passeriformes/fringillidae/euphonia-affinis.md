@@ -12,7 +12,7 @@ names:
   es: Eufonia Matorralera
   fr: Organiste de brousse
   de: Buschorganist
-  pt: scrub euphonia
+  pt: ''
   ru: Кустарниковая эуфония
   ja: ヤブスミレフウキンチョウ
   nl: Struikorganist

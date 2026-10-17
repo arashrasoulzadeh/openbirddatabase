@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12370.0
 names:
   scientific: Psittacula alexandri
-  fa: nan
+  fa: ''
   en: Red-breasted Parakeet
   es: Cotorra Pechirroja
   fr: Perruche à moustaches
   de: Bartsittich
-  pt: red-breasted parakeet
+  pt: ''
   ru: Розовогрудый кольчатый попугай
   ja: ダルマインコ
   zh: 绯胸鹦鹉

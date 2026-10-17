@@ -12,7 +12,7 @@ names:
   es: Mango Puertorriqueño Verde
   fr: Mango vert
   de: Smaragdmangokolibri
-  pt: green mango
+  pt: ''
   ru: Изумрудный манго
   ja: ミドリマンゴーハチドリ
   zh: 绿芒果蜂鸟

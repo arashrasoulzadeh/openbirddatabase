@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 19716.0
 names:
   scientific: Turnagra capensis
-  fa: nan
+  fa: ''
   en: South Island Piopio
   es: Turnagra de Isla Sur
   fr: Piopio de Nouvelle-Zélande
   de: Südinselpirol
-  pt: south island piopio
+  pt: ''
   ru: Южный пиопио
   ja: ミナミニュージーランドツグミ
   zh: 新西蘭鶇鶲

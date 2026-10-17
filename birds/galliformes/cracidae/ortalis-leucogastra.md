@@ -12,7 +12,7 @@ names:
   es: Chachalaca Ventriblanca
   fr: Ortalide à ventre blanc
   de: Weißbauchguan
-  pt: white-bellied chachalaca
+  pt: ''
   ru: Белобрюхая чачалака
   ja: シロハラヒメシャクケイ
   zh: 白腹小冠雉

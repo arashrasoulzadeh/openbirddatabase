@@ -12,7 +12,7 @@ names:
   es: Carpintero de las Bermudas
   fr: Pic des Bermudes
   de: Bermudaspecht
-  pt: bermuda flicker
+  pt: ''
   ja: バミューダハシボソキツツキ
   zh: 百慕大扑翅鴷
   nl: Bermudagrondspecht

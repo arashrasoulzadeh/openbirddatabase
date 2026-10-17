@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Esmeralda Chica
   fr: Paradisier petit-émeraude
   de: Kleinparadiesvogel
-  pt: lesser bird-of-paradise
+  pt: ''
   ru: Малая райская птица
   ja: コフウチョウ
-  zh: Lesser Bird-of-paradise
+  zh: ''
   nl: Kleine paradijsvogel
   pl: cudowronka mniejsza
   tr: Küçük Cennetkuşu

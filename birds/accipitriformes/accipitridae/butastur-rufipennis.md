@@ -12,7 +12,7 @@ names:
   es: Busardo Langostero
   fr: Busautour des sauterelles
   de: Heuschreckenbussard
-  pt: grasshopper buzzard
+  pt: ''
   ru: Саранчовый сарыч
   ja: アフリカサシバ
   nl: Sprinkhaanbuizerd

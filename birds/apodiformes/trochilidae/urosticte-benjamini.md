@@ -12,7 +12,7 @@ names:
   es: Colibrí Puntiblanco Occidental
   fr: Colibri de Benjamin
   de: Purpurbrustkolibri
-  pt: purple-bibbed whitetip
+  pt: ''
   ru: Пурпурногрудый колибри
   ja: シロエンビハチドリ
   zh: 紫胸白梢蜂鸟

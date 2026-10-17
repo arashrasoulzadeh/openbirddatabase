@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34606.0
 names:
   scientific: Passerina amoena
-  fa: nan
+  fa: ''
   en: Lazuli Bunting
   es: Azulillo Lapislázuli
   fr: Passerin azuré
   de: Lazulifink
-  pt: lazuli bunting
+  pt: ''
   ru: Лазурный колорин
   ja: ムネアカルリノジコ
   nl: Lazuligors

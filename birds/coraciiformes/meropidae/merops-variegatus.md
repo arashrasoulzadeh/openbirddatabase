@@ -12,7 +12,7 @@ names:
   es: Abejaruco Variegado
   fr: Guêpier à collier bleu
   de: Blaubrustspint
-  pt: blue-breasted bee-eater
+  pt: ''
   ru: Синегрудая щурка
   ja: ルリムネハチクイ
   zh: 蓝胸蜂虎

@@ -12,7 +12,7 @@ names:
   es: Zampullín Tobiano
   fr: Grèbe mitré
   de: Goldscheiteltaucher
-  pt: hooded grebe
+  pt: ''
   ru: Чубатая поганка
   ja: パタゴニアカイツブリ
   zh: 阿根廷鸊鷉

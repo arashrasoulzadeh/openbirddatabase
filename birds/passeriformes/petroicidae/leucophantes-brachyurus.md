@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21817.0
 names:
   scientific: Leucophantes brachyurus
-  fa: nan
+  fa: ''
   en: Black-chinned Robin
   es: Petroica Barbinegra
   fr: Miro à menton noir
   de: Schwarzkinnschnäpper
-  pt: black-chinned robin
+  pt: ''
   ru: Короткохвостая дриада
   ja: ムナジロマユヒタキ
   nl: Zwartkinvliegenvanger

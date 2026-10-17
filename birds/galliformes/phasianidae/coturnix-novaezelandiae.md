@@ -12,7 +12,7 @@ names:
   es: Codorniz de Nueva Zelanda
   fr: Caille de Nouvelle-Zélande
   de: Neuseelandwachtel
-  pt: new zealand quail
+  pt: ''
   ru: Новозеландский перепел
   ja: ニュージーランドウズラ
   zh: 紐西蘭鵪鶉

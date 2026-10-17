@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13998.0
 names:
   scientific: Myrmelastes schistaceus
-  fa: nan
+  fa: ''
   en: Slate-colored Antbird
   es: Hormiguero Pizarroso
   fr: Alapi ardoisé

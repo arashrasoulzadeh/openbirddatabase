@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8840.0
 names:
   scientific: Megascops centralis
-  fa: nan
+  fa: ''
   en: Choco Screech Owl
   es: Autillo del Chocó
   fr: Petit-duc du Choco
@@ -15,7 +15,7 @@ names:
   pt: choco screech-owl
   ru: Чокская совка
   ja: チョコオオコノハズク
-  zh: Choco Screech Owl
+  zh: ''
   nl: Chocoschreeuwuil
   pl: syczoń białoplamy
   tr: Çoko Puhucuğu

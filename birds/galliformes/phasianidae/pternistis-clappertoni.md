@@ -12,7 +12,7 @@ names:
   es: Francolín de Clapperton
   fr: Francolin de Clapperton
   de: Clappertonfrankolin
-  pt: clapperton's spurfowl
+  pt: ''
   ru: Саванный франколин
   ja: ヒゲシャコ
   nl: Clappertons frankolijn

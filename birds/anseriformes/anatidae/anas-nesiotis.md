@@ -15,7 +15,7 @@ names:
   pt: campbell islands teal
   ru: Кэмпбельский чирок
   ja: キャンベルコガモ
-  zh: Campbell Teal
+  zh: ''
   nl: Campbelltaling
   pl: cyraneczka południowa
   tr: Campbell Patekesi

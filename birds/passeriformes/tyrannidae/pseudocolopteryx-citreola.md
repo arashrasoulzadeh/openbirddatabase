@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16650.0
 names:
   scientific: Pseudocolopteryx citreola
-  fa: nan
+  fa: ''
   en: Ticking Doradito
   es: Doradito Limón
   fr: Doradite de Landbeck
   de: Tickersumpftyrann
-  pt: ticking doradito
+  pt: ''
   ru: Певчий дорадито
   ja: レモンムシクイタイランチョウ
   nl: Tikkerdoradito

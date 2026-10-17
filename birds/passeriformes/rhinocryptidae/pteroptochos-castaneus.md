@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14365.0
 names:
   scientific: Pteroptochos castaneus
-  fa: nan
+  fa: ''
   en: Chestnut-throated Huet-huet
   es: Huet-Huet Gorjicastaño
   fr: Tourco à gorge marron
   de: Braunkehltapaculo
-  pt: chestnut-throated huet-huet
+  pt: ''
   ru: Перепелиный тюрко
   ja: クリノドオタテドリ
   nl: Bruinkeelturco

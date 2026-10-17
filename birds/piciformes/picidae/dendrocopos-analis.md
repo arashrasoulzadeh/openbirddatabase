@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11326.0
 names:
   scientific: Dendrocopos analis
-  fa: nan
+  fa: ''
   en: Freckle-breasted Woodpecker
   es: Pico Pechimoteado
   fr: Pic de Bonaparte
   de: Sprenkelbrustspecht
-  pt: freckle-breasted woodpecker
+  pt: ''
   ru: Крапчатогрудый дятел
   ja: ムナホシアカゲラ
   zh: 斑胸斑啄木

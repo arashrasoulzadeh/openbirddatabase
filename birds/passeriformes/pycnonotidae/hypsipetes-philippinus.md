@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24544.0
 names:
   scientific: Hypsipetes philippinus
-  fa: nan
+  fa: ''
   en: Philippine Bulbul
   es: Bulbul Filipino
   fr: Bulbul des Philippines
   de: Rostbrustbülbül
-  pt: philippine bulbul
+  pt: ''
   ru: Филиппинский бюльбюль
   ja: チャムネヒヨドリ
   nl: Roodborstbuulbuul

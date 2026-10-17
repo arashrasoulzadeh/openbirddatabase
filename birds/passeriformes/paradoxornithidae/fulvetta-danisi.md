@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25405.0
 names:
   scientific: Fulvetta danisi
-  fa: nan
+  fa: ''
   en: Indochinese Fulvetta
   es: Fulveta Indochina
   fr: Fulvetta de Danis
   de: Bambusgrasmücke
-  pt: indochinese fulvetta
+  pt: ''
   ru: Индокитайская фульветта
   ja: ノドジマチメドリ
   nl: Laotiaanse fulvetta

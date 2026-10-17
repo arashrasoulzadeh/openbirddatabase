@@ -12,7 +12,7 @@ names:
   es: Bisbita de Malindi
   fr: Pipit de Malindi
   de: Malindipieper
-  pt: malindi pipit
+  pt: ''
   ru: Восточноафриканский конёк
   ja: シロハラタヒバリ
   nl: Malindipieper

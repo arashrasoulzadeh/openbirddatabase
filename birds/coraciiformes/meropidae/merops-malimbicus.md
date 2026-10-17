@@ -12,7 +12,7 @@ names:
   es: Abejaruco de Malimba
   fr: Guêpier gris-rose
   de: Rosenspint
-  pt: rosy bee-eater
+  pt: ''
   ru: Розовая щурка
   ja: バライロハチクイ
   nl: Roze bijeneter

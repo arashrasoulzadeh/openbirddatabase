@@ -12,7 +12,7 @@ names:
   es: Mosquitero del Pamir
   fr: Pouillot griséole
   de: Pamirlaubsänger
-  pt: sulphur-bellied warbler
+  pt: ''
   ru: Индийская пеночка
   ja: オリーブムシクイ
   zh: 灰柳莺

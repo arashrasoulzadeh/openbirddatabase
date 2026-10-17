@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34871.0
 names:
   scientific: Anisognathus melanogenys
-  fa: nan
+  fa: ''
   en: Santa Marta Mountain Tanager
   es: Tangara de Santa Marta
   fr: Tangara de Santa Marta
@@ -15,7 +15,7 @@ names:
   pt: black-cheeked mountain tanager
   ru: Чернощёкая танагра
   ja: コロンビアヤマフウキンチョウ
-  zh: Santa Marta Mountain Tanager
+  zh: ''
   nl: Zwartwangbergtangare
   pl: andagra czarnolica
   tr: Santa Marta Dağ Tangarası

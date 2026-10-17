@@ -12,7 +12,7 @@ names:
   es: Suimanga Elegante
   fr: Souimanga des Sangihe
   de: Sangihenektarvogel
-  pt: elegant sunbird
+  pt: ''
   ru: Элегантная нектарница
   ja: サンギヘタイヨウチョウ
   nl: Sangirhoningzuiger

@@ -12,7 +12,7 @@ names:
   es: Canastero Rojizo
   fr: Synallaxe de d'Orbigny
   de: Rostbürzelcanastero
-  pt: rusty-vented canastero
+  pt: ''
   ru: Кремовогрудый канастеро
   ja: キムネカマドドリ
   nl: Roodbuikcanastero

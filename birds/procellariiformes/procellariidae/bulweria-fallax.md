@@ -12,7 +12,7 @@ names:
   es: Petrel de Jouanin
   fr: Pétrel de Jouanin
   de: Jouaninsturmvogel
-  pt: jouanin's petrel
+  pt: ''
   ru: Персидский штормовик
   ja: アラビアアナドリ
   nl: Jouanins stormvogel

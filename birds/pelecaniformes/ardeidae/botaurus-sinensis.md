@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7586.0
 names:
   scientific: Botaurus sinensis
-  fa: nan
+  fa: ''
   en: Yellow Bittern
   es: Avetorillo Chino
   fr: Blongios de Chine
   de: Chinadommel
-  pt: yellow bittern
+  pt: ''
   ru: Китайский волчок
   ja: ヨシゴイ
   zh: 黄苇鳽

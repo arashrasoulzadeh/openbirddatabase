@@ -12,7 +12,7 @@ names:
   es: Guacamayo Barbiazul
   fr: Ara canindé
   de: Blaukehlara
-  pt: blue-throated macaw
+  pt: ''
   ru: Синегорлый ара
   ja: アオキコンゴウインコ
   zh: 藍喉金剛鸚鵡

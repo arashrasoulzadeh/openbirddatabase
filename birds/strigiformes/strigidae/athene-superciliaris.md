@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9132.0
 names:
   scientific: Athene superciliaris
-  fa: nan
+  fa: ''
   en: White-browed Owl
   es: Mochuelo Malgache
   fr: Chevêche à sourcils blancs
   de: Madagaskarkauz
-  pt: white-browed owl
+  pt: ''
   ru: Мадагаскарская иглоногая сова
   ja: マダガスカルアオバズク
   nl: Madagaskarsteenuil

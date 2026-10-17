@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32910.0
 names:
   scientific: Peucaea carpalis
-  fa: nan
+  fa: ''
   en: Rufous-winged Sparrow
   es: Chingolo Alirrufo
   fr: Bruant à épaulettes
   de: Rostflügelammer
-  pt: rufous-winged sparrow
+  pt: ''
   ru: Рыжекрылая овсянка
   ja: フタスジスズメモドキ
   nl: Roestvleugelgors

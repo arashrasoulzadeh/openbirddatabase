@@ -12,7 +12,7 @@ names:
   es: Sedosito Occidental
   fr: Séricorne montanelle
   de: Gelbbauchhuscher
-  pt: western fieldwren
+  pt: ''
   ru: Скальный ложнокрапивник
   ja: ニシノハラムシクイ
   nl: Westelijke struiksluiper

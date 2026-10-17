@@ -12,7 +12,7 @@ names:
   es: Paují Culiblanco
   fr: Hocco de Salvin
   de: Salvinhokko
-  pt: salvin's curassow
+  pt: ''
   ru: Сальвинов гокко
   ja: シロハラホウカンチョウ
   zh: 白腹盔嘴雉

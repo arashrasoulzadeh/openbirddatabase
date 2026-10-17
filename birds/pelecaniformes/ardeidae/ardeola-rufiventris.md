@@ -12,7 +12,7 @@ names:
   es: Garcilla Ventrirroja
   fr: Crabier à ventre roux
   de: Rotbauchreiher
-  pt: rufous-bellied heron
+  pt: ''
   ru: Рыжебрюхая цапля
   ja: クロアマサギ
   nl: Roodbuikreiger

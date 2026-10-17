@@ -15,7 +15,7 @@ names:
   pt: arabian grosbeak
   ru: Аравийский вьюрок
   ja: アラビアキンバネマシコ
-  zh: Arabian Golden-winged Grosbeak
+  zh: ''
   nl: Arabische goudvleugelvink
   pl: złotopiórek arabski
   tr: Arabistan Altın Kanatlı Kocabaşı

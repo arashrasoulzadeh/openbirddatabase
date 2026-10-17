@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 32938.0
 names:
   scientific: Peucaea aestivalis
-  fa: nan
+  fa: ''
   en: Bachman's Sparrow
   es: Chingolo de Bachman
   fr: Bruant des pinèdes
   de: Kiefernammer
-  pt: bachman's sparrow
+  pt: ''
   ru: Сосновая овсянка
   ja: ヤブスズメモドキ
   nl: Dennengors

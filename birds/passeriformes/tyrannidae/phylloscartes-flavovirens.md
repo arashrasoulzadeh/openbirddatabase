@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16261.0
 names:
   scientific: Phylloscartes flavovirens
-  fa: nan
+  fa: ''
   en: Panama Tyrannulet
   es: Orejerito Verdiamarillo
   fr: Tyranneau jaune-vert
@@ -15,7 +15,7 @@ names:
   pt: yellow-green tyrannulet
   ru: Панамский каричи
   ja: ミドリコバシハエトリ
-  zh: Panama Tyrannulet
+  zh: ''
   nl: Panamese looftiran
   pl: tyrańczyk panamski
   tr: Yeşil-Sarı Yaprak Tiranı

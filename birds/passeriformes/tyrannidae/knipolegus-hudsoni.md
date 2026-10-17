@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17073.0
 names:
   scientific: Knipolegus hudsoni
-  fa: nan
+  fa: ''
   en: Hudson's Black Tyrant
   es: Viudita Patagona
   fr: Ada de Hudson
@@ -15,7 +15,7 @@ names:
   pt: maria-preta-do-sul
   ru: Пампасная вдовка
   ja: ハドソンクロタイランチョウ
-  zh: Hudson's Black Tyrant
+  zh: ''
   nl: Patagonische moortiran
   pl: wdowik argentyński
   tr: Plata Esmer Tiranı

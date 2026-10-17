@@ -12,7 +12,7 @@ names:
   es: Pitajo Negro
   fr: Pitajo noir
   de: Schwarzbauch-Schmätzertyrann
-  pt: blackish chat-tyrant
+  pt: ''
   ru: Чёрная тираннита
   nl: Zwarte tapuittiran
   pl: kląszczyk czarniawy

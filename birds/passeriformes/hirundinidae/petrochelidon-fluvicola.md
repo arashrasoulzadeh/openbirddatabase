@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24274.0
 names:
   scientific: Petrochelidon fluvicola
-  fa: nan
+  fa: ''
   en: Streak-throated Swallow
   es: Golondrina India
   fr: Hirondelle fluviatile
   de: Braunscheitelschwalbe
-  pt: streak-throated swallow
+  pt: ''
   ru: Пестрогрудая ласточка
   ja: ズアカサンショクツバメ
   zh: 黄额燕

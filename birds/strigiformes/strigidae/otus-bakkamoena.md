@@ -15,7 +15,7 @@ names:
   pt: indian scops-owl
   ru: Индийская совка
   ja: インドオオコノハズク
-  zh: Indian Scops Owl
+  zh: ''
   nl: Indische dwergooruil
   pl: syczek długouchy
   tr: Hint İshakkuşu

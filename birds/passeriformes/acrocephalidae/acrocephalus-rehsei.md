@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 23743.0
 names:
   scientific: Acrocephalus rehsei
-  fa: nan
+  fa: ''
   en: Nauru Reed Warbler
   es: Carricero de Nauru
   fr: Rousserolle de Nauru
   de: Naururohrsänger
-  pt: nauru reed warbler
+  pt: ''
   ru: Наурская камышовка
   ja: ギルバートヨシキリ
   zh: 諾魯葦鶯

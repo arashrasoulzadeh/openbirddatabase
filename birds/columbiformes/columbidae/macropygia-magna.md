@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2086.0
 names:
   scientific: Macropygia magna
-  fa: nan
+  fa: ''
   en: Timor Cuckoo-Dove
   es: Tórtola Cuco Grande
   fr: Phasianelle de Timor
   de: Schweiftaube
-  pt: timor cuckoo-dove
+  pt: ''
   ru: Большая кукушковая горлица
   ja: ティモールオナガバト
   nl: Timorese koekoeksduif

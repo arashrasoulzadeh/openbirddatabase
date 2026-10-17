@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Lorito
   fr: Eurylaime psittacin
   de: Papageibreitrachen
-  pt: long-tailed broadbill
+  pt: ''
   ru: Попугаевый рогоклюв
   ja: オナガヒロハシ
   zh: 长尾阔嘴鸟

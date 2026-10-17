@@ -12,7 +12,7 @@ names:
   es: Zanate Común
   fr: Quiscale bronzé
   de: Purpurgrackel
-  pt: common grackle
+  pt: ''
   ru: Пурпурный гракл
   ja: オオクロムクドリモドキ
   zh: 普通擬八哥

@@ -12,7 +12,7 @@ names:
   es: Carraca India
   fr: Rollier indien
   de: Bengalenracke
-  pt: indian roller
+  pt: ''
   ru: Бенгальская сизоворонка
   ja: インドブッポウソウ
   zh: 印度佛法僧

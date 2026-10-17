@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14049.0
 names:
   scientific: Myrmoderus squamosus
-  fa: nan
+  fa: ''
   en: Squamate Antbird
   es: Hormiguero Escamoso
   fr: Alapi écaillé

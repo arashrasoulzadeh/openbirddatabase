@@ -15,7 +15,7 @@ names:
   pt: buffy-crowned wood-partridge
   ru: Белолобый лесной перепел
   ja: シロマユオナガウズラ
-  zh: Buffy-crowned Wood Partridge
+  zh: ''
   nl: Witkeelbospatrijs
   pl: przepiór białoczelny
   tr: Ak Yüzlü Ağaçbıldırcını

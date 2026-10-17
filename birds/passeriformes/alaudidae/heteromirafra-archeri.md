@@ -15,7 +15,7 @@ names:
   pt: liben lark
   ru: Перепелиный жаворонок
   ja: ソマリアニセヤブヒバリ
-  zh: Archer's Lark
+  zh: ''
   nl: Libenleeuwerik
   pl: pazurczak samotny
   tr: Archer Toygarı

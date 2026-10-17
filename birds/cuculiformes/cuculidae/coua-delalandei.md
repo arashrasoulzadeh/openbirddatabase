@@ -12,7 +12,7 @@ names:
   es: Cúa de Delalande
   fr: Coua de Delalande
   de: Schneckenseidenkuckuck
-  pt: snail-eating coua
+  pt: ''
   ru: Тивука-улиткоед
   ja: マダガスカルジカッコウ
   zh: 德拉氏馬島鵑

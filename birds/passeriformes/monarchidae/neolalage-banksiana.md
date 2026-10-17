@@ -12,7 +12,7 @@ names:
   es: Monarca de las Banks
   fr: Monarque des Banks
   de: Harlekinmonarch
-  pt: buff-bellied monarch
+  pt: ''
   ru: Монарх-арлекин
   ja: ニューヘブリデスヒタキ
   nl: Harlekijnmonarch

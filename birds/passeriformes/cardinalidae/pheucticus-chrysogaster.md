@@ -12,7 +12,7 @@ names:
   es: Picogrueso Ventriamarillo
   fr: Cardinal à tête jaune
   de: Gelbbauch-Kernknacker
-  pt: golden grosbeak
+  pt: ''
   ru: Желтогрудый толстонос
   ja: ヒメオウゴンイカル
   nl: Geelbuikkardinaal

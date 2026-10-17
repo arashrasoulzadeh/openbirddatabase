@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33270.0
 names:
   scientific: Centronyx bairdii
-  fa: nan
+  fa: ''
   en: Baird's Sparrow
   es: Chingolo de Baird
   fr: Bruant de Baird
   de: Bairdammer
-  pt: baird's sparrow
+  pt: ''
   ru: Прерийная овсянка-барсучок
   ja: バードヒメドリ
   nl: Bairdgors

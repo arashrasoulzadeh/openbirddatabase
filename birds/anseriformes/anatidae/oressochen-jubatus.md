@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 399.0
 names:
   scientific: Oressochen jubatus
-  fa: nan
+  fa: ''
   en: Orinoco Goose
   es: Ganso del Orinoco
   fr: Ouette de l'Orénoque

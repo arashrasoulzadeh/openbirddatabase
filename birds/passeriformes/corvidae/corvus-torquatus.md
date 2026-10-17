@@ -12,7 +12,7 @@ names:
   es: Cuervo Acollarado
   fr: Corbeau à collier
   de: Halsbandkrähe
-  pt: collared crow
+  pt: ''
   ru: Ошейниковая ворона
   ja: クビワガラス
   zh: 白颈鸦

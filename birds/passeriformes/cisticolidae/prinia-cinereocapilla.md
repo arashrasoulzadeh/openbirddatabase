@@ -15,7 +15,7 @@ names:
   pt: gray-crowned prinia
   ru: Сероголовая приния
   ja: ハイガシラハウチワドリ
-  zh: Grey-crowned Prinia
+  zh: ''
   nl: Grijskopprinia
   pl: prinia siwogłowa
   tr: Gri Başlıklı Prinya

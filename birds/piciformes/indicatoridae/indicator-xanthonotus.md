@@ -12,7 +12,7 @@ names:
   es: Indicador Indio
   fr: Indicateur à dos jaune
   de: Gelbbürzel-Honiganzeiger
-  pt: yellow-rumped honeyguide
+  pt: ''
   ru: Гималайский медоуказчик
   ja: インドミツオシエ
   zh: 黄腰响蜜䴕

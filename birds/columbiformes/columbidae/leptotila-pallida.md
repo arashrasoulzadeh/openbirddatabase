@@ -12,7 +12,7 @@ names:
   es: Paloma Montaraz Pálida
   fr: Colombe pâle
   de: Fahltaube
-  pt: pallid dove
+  pt: ''
   ru: Бледная голубка
   ja: ウスイロシャコバト
   nl: Vale duif

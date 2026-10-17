@@ -12,7 +12,7 @@ names:
   es: Batis del Ituri
   fr: Pririt de l'Ituri
   de: Iturischnäpper
-  pt: ituri batis
+  pt: ''
   ru: Итурийский батис
   ja: ザイールヒメセワタビタキ
   nl: Iturivliegenvanger

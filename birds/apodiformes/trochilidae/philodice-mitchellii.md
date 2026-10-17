@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4795.0
 names:
   scientific: Philodice mitchellii
-  fa: nan
+  fa: ''
   en: Purple-throated Woodstar
   es: Colibrí de Mitchell
   fr: Colibri de Mitchell
   de: Purpurkehl-Sternkolibri
-  pt: purple-throated woodstar
+  pt: ''
   ru: Пурпурногорлый эльф
   ja: フジノドハチドリ
   nl: Paarskeelboself

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14232.0
 names:
   scientific: Grallaria dignissima
-  fa: nan
+  fa: ''
   en: Ochre-striped Antpitta
   es: Tororoí del Napo
   fr: Grallaire flammée
   de: Rostkehl-Ameisenpitta
-  pt: ochre-striped antpitta
+  pt: ''
   ru: Рыжегорлая питтовая муравьеловка
   ja: ムネアカジアリドリ
   nl: Roestkeelmierpitta

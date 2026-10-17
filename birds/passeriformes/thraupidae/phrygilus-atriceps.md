@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35343.0
 names:
   scientific: Phrygilus atriceps
-  fa: nan
+  fa: ''
   en: Black-hooded Sierra Finch
   es: Yal Cabecinegro
   fr: Phrygile à tête noire
   de: Kapuzenammertangare
-  pt: black-hooded sierra finch
+  pt: ''
   ru: Черноголовый овсяночник
   ja: クロズキンヤマシトド
   zh: 黑头岭雀鹀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24810.0
 names:
   scientific: Phylloscopus yunnanensis
-  fa: nan
+  fa: ''
   en: Chinese Leaf Warbler
   es: Mosquitero Chino
   fr: Pouillot du Sichuan
   de: Yunnanlaubsänger
-  pt: chinese leaf warbler
+  pt: ''
   ru: Китайская зарничка
   ja: ウンナンムシクイ
   zh: 云南柳莺

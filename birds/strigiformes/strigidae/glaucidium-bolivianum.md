@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9023.0
 names:
   scientific: Glaucidium bolivianum
-  fa: nan
+  fa: ''
   en: Yungas Pygmy Owl
   es: Mochuelo Boliviano
   fr: Chevêchette des yungas
@@ -15,7 +15,7 @@ names:
   pt: yungas pygmy-owl
   ru: Боливийский сычик
   ja: ボリビアスズメフクロウ
-  zh: Yungas Pygmy Owl
+  zh: ''
   nl: Boliviaanse dwerguil
   pl: sóweczka szara
   tr: Yungas Serçe Baykuşu

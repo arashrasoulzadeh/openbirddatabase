@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22824.0
 names:
   scientific: Alaudala heinei
-  fa: nan
+  fa: ''
   en: Turkestan Short-toed Lark
   es: Terrera Pálida
   fr: Alouette de Heine

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27952.0
 names:
   scientific: Lamprotornis caudatus
-  fa: nan
+  fa: ''
   en: Long-tailed Glossy Starling
   es: Estornino Colilargo
   fr: Choucador à longue queue
   de: Langschwanz-Glanzstar
-  pt: long-tailed glossy starling
+  pt: ''
   ru: Длиннохвостый спрео
   ja: オナガテリムク
   zh: 長尾輝椋鳥

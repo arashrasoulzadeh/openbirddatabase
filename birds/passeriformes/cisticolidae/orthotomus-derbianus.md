@@ -15,7 +15,7 @@ names:
   pt: gray-backed tailorbird
   ru: Лусонская портниха
   ja: ルソンサイホウチョウ
-  zh: Grey-backed Tailorbird
+  zh: ''
   nl: Luzonsnijdervogel
   pl: krawczyk szarogrzbiety
   tr: Luzon Terzikuşu

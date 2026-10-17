@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Taliabu
   fr: Locustelle de Taliabu
   de: Taliabuschwirl
-  pt: taliabu bush warbler
+  pt: ''
   ru: Талиабусская пестрогудка
   ja: タリアブオウギセッカ
   nl: Taliabustruikzanger

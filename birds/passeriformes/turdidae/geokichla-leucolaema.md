@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28396.0
 names:
   scientific: Geokichla leucolaema
-  fa: nan
+  fa: ''
   en: Enggano Thrush
   es: Zorzal de Enggano
   fr: Grive d'Enggano
   de: Engganodrossel
-  pt: enggano thrush
+  pt: ''
   ru: Полосатокрылый дрозд
   ja: エンガノジツグミ
   nl: Engganolijster

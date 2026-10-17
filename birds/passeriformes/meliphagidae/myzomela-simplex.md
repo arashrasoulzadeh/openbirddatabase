@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17954.0
 names:
   scientific: Myzomela simplex
-  fa: nan
+  fa: ''
   en: Moluccan Myzomela
   es: Mielero Moluqueño
   fr: Myzomèle des Moluques
   de: Halmaherahonigfresser
-  pt: moluccan myzomela
+  pt: ''
   ja: モルッカコゲチャミツスイ
   nl: Vale Molukse dwerghoningeter
   pl: miodówka północna

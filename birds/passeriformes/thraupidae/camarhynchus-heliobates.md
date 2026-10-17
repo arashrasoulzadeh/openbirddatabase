@@ -12,7 +12,7 @@ names:
   es: Pinzón de Darwin Manglero
   fr: Géospize des mangroves
   de: Mangrovedarwinfink
-  pt: mangrove finch
+  pt: ''
   ru: Мангровый дарвинов вьюрок
   ja: マングローブフィンチ
   zh: 红树林树雀

@@ -15,7 +15,7 @@ names:
   pt: yellow penduline-tit
   ru: Сенегальский ремез
   ja: キイロアフリカツリスガラ
-  zh: Yellow Penduline Tit
+  zh: ''
   nl: Gele kapokmees
   pl: remizek żółtawy
   tr: Sarı Çulhakuşu

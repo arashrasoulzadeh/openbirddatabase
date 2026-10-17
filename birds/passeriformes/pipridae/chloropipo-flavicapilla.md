@@ -12,7 +12,7 @@ names:
   es: Saltarín Amarillo
   fr: Manakin à tête jaune
   de: Goldkappenpipra
-  pt: yellow-headed manakin
+  pt: ''
   ru: Желтоголовый манакин
   ja: キガシラミドリマイコドリ
   nl: Geelkopmanakin

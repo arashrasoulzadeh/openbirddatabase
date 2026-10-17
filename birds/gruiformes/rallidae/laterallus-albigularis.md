@@ -12,7 +12,7 @@ names:
   es: Polluela Carrasqueadora
   fr: Râle à menton blanc
   de: Weißkehlralle
-  pt: white-throated crake
+  pt: ''
   ru: Белозобый коростелёк
   ja: キタノドジロコビトクイナ
   zh: 白喉田鸡

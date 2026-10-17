@@ -12,7 +12,7 @@ names:
   es: Akelat de Gabela
   fr: Rougegorge de Gabela
   de: Gabelarötel
-  pt: gabela akalat
+  pt: ''
   ru: Ангольский заряночник
   ja: サメヒメコマドリ
   zh: 加贝阿卡拉鸲

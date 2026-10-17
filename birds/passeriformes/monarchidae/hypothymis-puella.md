@@ -12,7 +12,7 @@ names:
   es: Monarca Azulado
   fr: Tchitrec des Célèbes
   de: Sulawesimonarch
-  pt: pale-blue monarch
+  pt: ''
   ru: Аметистовый монарх
   ja: セレベスフジイロヒタキ
   zh: 灰藍王鶲

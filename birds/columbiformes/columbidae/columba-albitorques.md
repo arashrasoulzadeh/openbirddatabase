@@ -12,7 +12,7 @@ names:
   es: Paloma Etíope
   fr: Pigeon à collier blanc
   de: Weißringtaube
-  pt: white-collared pigeon
+  pt: ''
   ru: Эфиопский вяхирь
   ja: シロエリカワラバト
   zh: 白領鴿

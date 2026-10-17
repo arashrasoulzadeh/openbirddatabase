@@ -12,7 +12,7 @@ names:
   es: Tejedor Palmero
   fr: Tisserin palmiste
   de: Palmenweber
-  pt: golden palm weaver
+  pt: ''
   ru: Пальмовый ткач
   ja: オウゴンヤシハタオリ
   nl: Palmwever

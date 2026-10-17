@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorrión Dorsicastaño
   fr: Mahali à dos roux
   de: Rotrückenweber
-  pt: chestnut-backed sparrow-weaver
+  pt: ''
   ru: Овсянковый коробиндо
   ja: クロヒゲスズメハタオリ
   nl: Roodrugwever

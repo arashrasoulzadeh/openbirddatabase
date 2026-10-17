@@ -12,7 +12,7 @@ names:
   es: Charlatán Orejicastaño
   fr: Garrulaxe du Kon Ka Kinh
   de: Kastanienohrhäherling
-  pt: chestnut-eared laughingthrush
+  pt: ''
   ru: Рыжеухая кустарница
   ja: チャミミガビチョウ
   zh: 棕耳噪鹛

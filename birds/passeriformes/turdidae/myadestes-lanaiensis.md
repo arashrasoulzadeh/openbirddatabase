@@ -12,7 +12,7 @@ names:
   es: Solitario Olomao
   fr: Solitaire de Lanai
   de: Lanaiklarino
-  pt: olomao
+  pt: ''
   ru: Оломао
   ja: ラナイヒトリツグミ
   nl: Lanailijster

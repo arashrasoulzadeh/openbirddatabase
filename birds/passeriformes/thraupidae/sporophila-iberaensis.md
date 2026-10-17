@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 35540.0
 names:
   scientific: Sporophila iberaensis
-  fa: nan
+  fa: ''
   en: Ibera Seedeater
   es: Semillero del Iberá
   fr: Sporophile d'Ibera

@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Frentiblanco
   fr: Pluvier à front blanc
   de: Weißstirn-Regenpfeifer
-  pt: white-fronted plover
+  pt: ''
   ru: Белолобый зуёк
   ja: シロビタイチドリ
   nl: Vale strandplevier

@@ -12,7 +12,7 @@ names:
   es: Maullador Verde
   fr: Jardinier vert
   de: Grünlaubenvogel
-  pt: green catbird
+  pt: ''
   ru: Зелёная птица-кошка
   ja: ネコドリ
   zh: 綠貓鳥

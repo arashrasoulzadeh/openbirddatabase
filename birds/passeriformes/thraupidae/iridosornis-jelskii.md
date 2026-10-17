@@ -12,7 +12,7 @@ names:
   es: Tangara de Jelski
   fr: Tangara à col d'or
   de: Kastanienbauch-Bergtangare
-  pt: golden-collared tanager
+  pt: ''
   ru: Ошейниковая иридосорния
   ja: キエリニジフウキンチョウ
   nl: Goudkraagtangare

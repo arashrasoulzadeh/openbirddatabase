@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 4875.0
 names:
   scientific: Cynanthus lawrencei
-  fa: nan
+  fa: ''
   en: Tres Marias Hummingbird
   es: Colibrí Piquiancho de Tres Marías
   fr: Colibri des Marias
   de: Türkiskehlkolibri
-  pt: tres marias hummingbird
+  pt: ''
   zh: 三圣岛蜂鸟
   nl: Tresmariaskolibrie
   pl: złocik szafirowy

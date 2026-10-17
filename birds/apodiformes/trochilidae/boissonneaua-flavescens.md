@@ -12,7 +12,7 @@ names:
   es: Colibrí Colihabano
   fr: Colibri flavescent
   de: Fahlschwanzkolibri
-  pt: buff-tailed coronet
+  pt: ''
   ru: Бледнохвостый венценосец
   ja: フチオハチドリ
   zh: 黄尾冕蜂鸟

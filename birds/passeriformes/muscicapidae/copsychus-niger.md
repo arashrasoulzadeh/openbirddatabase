@@ -12,7 +12,7 @@ names:
   es: Shama de Palawan
   fr: Shama noir
   de: Rußschama
-  pt: white-vented shama
+  pt: ''
   ru: Белохвостый шама
   ja: クロシキチョウ
   nl: Zwarte dayallijster

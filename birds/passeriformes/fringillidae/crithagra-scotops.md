@@ -12,7 +12,7 @@ names:
   es: Serín Forestal
   fr: Serin forestier
   de: Waldgirlitz
-  pt: forest canary
+  pt: ''
   ru: Лесной канареечник
   ja: モリカナリア
   nl: Boskanarie

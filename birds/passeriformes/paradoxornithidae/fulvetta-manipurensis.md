@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25421.0
 names:
   scientific: Fulvetta manipurensis
-  fa: nan
+  fa: ''
   en: Manipur Fulvetta
   es: Fulveta de Manipur
   fr: Fulvetta du Manipur
   de: Streifenkehl-Grasmücke
-  pt: manipur fulvetta
+  pt: ''
   ru: Манипурская фульветта
   ja: シマノドチメドリ
   zh: 褐头雀鹛

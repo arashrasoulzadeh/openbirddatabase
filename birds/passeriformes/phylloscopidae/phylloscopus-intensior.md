@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24989.0
 names:
   scientific: Phylloscopus intensior
-  fa: nan
+  fa: ''
   en: Davison's Leaf Warbler
   es: Mosquitero de Davison
   fr: Pouillot de Davison
   de: Davisonlaubsänger
-  pt: davison's leaf warbler
+  pt: ''
   ru: Белохвостая пеночка
   ja: オジロムシクイ
   zh: 云南白斑尾柳莺

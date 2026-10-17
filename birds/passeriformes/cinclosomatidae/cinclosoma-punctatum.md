@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18528.0
 names:
   scientific: Cinclosoma punctatum
-  fa: nan
+  fa: ''
   en: Spotted Quail-thrush
   es: Zordala Manchada
   fr: Cinclosome pointillé
   de: Fleckenflöter
-  pt: spotted quail-thrush
+  pt: ''
   ru: Расписной флейтист
   ja: ウズラチメドリ
   nl: Gevlekte kwartellijster

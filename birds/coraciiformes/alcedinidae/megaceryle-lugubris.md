@@ -12,7 +12,7 @@ names:
   es: Martín Gigante Asiático
   fr: Martin-pêcheur tacheté
   de: Haubenfischer
-  pt: crested kingfisher
+  pt: ''
   ru: Большой пегий зимородок
   ja: ヤマセミ
   zh: 冠鱼狗

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19374.0
 names:
   scientific: Pachycephala olivacea
-  fa: nan
+  fa: ''
   en: Olive Whistler
   es: Silbador Oliváceo
   fr: Siffleur olivâtre
   de: Schuppenkehl-Dickkopf
-  pt: olive whistler
+  pt: ''
   ru: Оливковый свистун
   ja: オリーブモズヒタキ
   zh: 绿啸鹟

@@ -12,7 +12,7 @@ names:
   es: Petrel de Cook
   fr: Pétrel de Cook
   de: Cooksturmvogel
-  pt: cook's petrel
+  pt: ''
   ru: Новозеландский тайфунник
   ja: ハジロシロハラミズナギドリ
   nl: Cookstormvogel

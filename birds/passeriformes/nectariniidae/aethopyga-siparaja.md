@@ -12,7 +12,7 @@ names:
   es: Suimanga Siparaja
   fr: Souimanga siparaja
   de: Karmesinnektarvogel
-  pt: crimson sunbird
+  pt: ''
   ru: Рубиновая нектарница
   ja: キゴシタイヨウチョウ
   zh: 黄腰太阳鸟

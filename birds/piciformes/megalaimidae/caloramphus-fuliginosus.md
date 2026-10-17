@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10688.0
 names:
   scientific: Caloramphus fuliginosus
-  fa: nan
+  fa: ''
   en: Brown Barbet
   es: Barbudo Pardo de Borneo
   fr: Barbu fuligineux
   de: Rostbartvogel
-  pt: brown barbet
+  pt: ''
   ru: Бурый бородастик
   ja: チャイロゴシキドリ
   zh: 褐擬啄木

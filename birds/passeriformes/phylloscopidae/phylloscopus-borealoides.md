@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24938.0
 names:
   scientific: Phylloscopus borealoides
-  fa: nan
+  fa: ''
   en: Sakhalin Leaf Warbler
   es: Mosquitero Borealoide
   fr: Pouillot du Japon
   de: Sachalinlaubsänger
-  pt: sakhalin leaf warbler
+  pt: ''
   ru: Сахалинская пеночка
   ja: エゾムシクイ
   zh: 库页岛柳莺

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10810.0
 names:
   scientific: Eubucco richardsoni
-  fa: nan
+  fa: ''
   en: Lemon-throated Barbet
   es: Cabezón Pechiamarillo
   fr: Cabézon à poitrine d'or

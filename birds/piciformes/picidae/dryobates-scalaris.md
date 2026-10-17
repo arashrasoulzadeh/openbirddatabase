@@ -12,7 +12,7 @@ names:
   es: Pico Mexicano
   fr: Pic arlequin
   de: Texasspecht
-  pt: ladder-backed woodpecker
+  pt: ''
   ru: Арлекиновый дятел
   ja: シマアカゲラ
   zh: 紋背啄木鳥

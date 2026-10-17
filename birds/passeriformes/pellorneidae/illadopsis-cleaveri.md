@@ -12,7 +12,7 @@ names:
   es: Tordina Capirotada
   fr: Akalat à tête noire
   de: Augenbrauen-Laubdrossling
-  pt: blackcap illadopsis
+  pt: ''
   ru: Черношапочный дроздовник
   ja: クロズキンムジチメドリ
   zh: 黑冠非洲雅鹛

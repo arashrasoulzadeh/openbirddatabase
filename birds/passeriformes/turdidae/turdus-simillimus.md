@@ -12,7 +12,7 @@ names:
   es: Mirlo Indio
   fr: Merle des Nilgiri
   de: Indienamsel
-  pt: indian blackbird
+  pt: ''
   ru: Индийский чёрный дрозд
   ja: インドクロウタドリ
   nl: Indische merel

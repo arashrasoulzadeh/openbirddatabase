@@ -12,7 +12,7 @@ names:
   es: Mielero Cardenal
   fr: Myzomèle cardinal
   de: Kardinalhonigfresser
-  pt: cardinal myzomela
+  pt: ''
   ru: Кардиналовая медовка
   ja: ミツスイ
   nl: Kardinaaldwerghoningeter

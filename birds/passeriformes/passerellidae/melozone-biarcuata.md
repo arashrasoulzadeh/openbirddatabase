@@ -15,7 +15,7 @@ names:
   pt: white-faced ground-sparrow
   ru: Белощёкий тохи
   ja: カオジロシトド
-  zh: Prevost's Ground Sparrow
+  zh: ''
   nl: Witwanggrondgors
   pl: ziemnołuszcz białolicy
   tr: Akça Yüzlü Yer Serçesi

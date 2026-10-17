@@ -15,7 +15,7 @@ names:
   pt: tico-tico-rei
   ru: Красная арагуира
   ja: ベニイタダキ
-  zh: Red Pileated Finch
+  zh: ''
   nl: Rode kroongors
   pl: lanio ognisty
   tr: Taçlı Kızıl İspinoz

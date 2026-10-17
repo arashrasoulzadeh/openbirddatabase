@@ -15,7 +15,7 @@ names:
   pt: bearded wood-partridge
   ru: Бородатый лесной перепел
   ja: ヒゲウズラ
-  zh: Bearded Wood Partridge
+  zh: ''
   nl: Grijskeelbospatrijs
   pl: przepiór śniadoszyi
   tr: Sakallı Ağaçbıldırcını

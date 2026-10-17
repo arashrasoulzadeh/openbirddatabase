@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23048.0
 names:
   scientific: Spiloptila clamans
-  fa: nan
+  fa: ''
   en: Cricket Warbler
   es: Prinia Charlatana
   fr: Spiloptile à front écailleux
@@ -15,7 +15,7 @@ names:
   pt: fuinha-de-cauda-branca
   ru: Чешуйчатокрылый апалис
   ja: コオロギムシクイ
-  zh: Cricket Warbler
+  zh: ''
   nl: Krekelprinia
   pl: sahelka
   tr: Sahel Prinyası

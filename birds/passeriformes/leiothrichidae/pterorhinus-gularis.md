@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26777.0
 names:
   scientific: Pterorhinus gularis
-  fa: nan
+  fa: ''
   en: Rufous-vented Laughingthrush
   es: Charlatán Culirrufo
   fr: Garrulaxe à queue rousse
   de: Roststeißhäherling
-  pt: rufous-vented laughingthrush
+  pt: ''
   ru: Желтогрудая кустарница
   ja: シリアカガビチョウ
   zh: 棕臀噪鹛

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 15208.0
 names:
   scientific: Clibanornis erythrocephalus
-  fa: nan
+  fa: ''
   en: Henna-hooded Foliage-gleaner
   es: Ticotico Cabecirrufo Occidental
   fr: Anabate à tête orange
   de: Braunschulter-Baumspäher
-  pt: henna-hooded foliage-gleaner
+  pt: ''
   ru: Красноголовый лесовик
   ja: アカズキンカマドドリ
   nl: Roodkopbladspeurder

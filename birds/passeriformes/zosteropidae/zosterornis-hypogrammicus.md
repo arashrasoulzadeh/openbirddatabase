@@ -15,7 +15,7 @@ names:
   pt: palawan striped-babbler
   ru: Палаванская пеструшка
   ja: パラワンモリチメドリ
-  zh: Palawan Striped Babbler
+  zh: ''
   nl: Palawanboomtimalia
   pl: filipinek szarolicy
   tr: Palavan Çizgili Gözlükçü

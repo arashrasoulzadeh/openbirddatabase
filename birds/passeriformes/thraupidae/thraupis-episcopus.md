@@ -15,7 +15,7 @@ names:
   pt: sanhaço-da-amazônia
   ru: Сине-серая танагра
   ja: ソライロフウキンチョウ
-  zh: Blue-grey Tanager
+  zh: ''
   nl: Bisschopstangare
   pl: tangarka niebieska
   tr: Gökçe Tangara

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24567.0
 names:
   scientific: Hypsipetes catarmanensis
-  fa: nan
+  fa: ''
   en: Camiguin Bulbul
   es: Bulbul de Camiguín
   fr: Bulbul du Catarman
   de: Camiguinbülbül
-  pt: camiguin bulbul
+  pt: ''
   nl: Camiguinbuulbuul
   pl: szczeciak archipelagowy
   tr: Kamigin Arapbülbülü

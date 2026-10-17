@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Muttu
   fr: Gobemouche muttui
   de: Bambusschnäpper
-  pt: brown-breasted flycatcher
+  pt: ''
   ru: Бамбуковая мухоловка
   ja: チャムネサメビタキ
   zh: 褐胸鹟

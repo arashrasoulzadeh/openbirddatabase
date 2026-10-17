@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33980.0
 names:
   scientific: Leiothlypis luciae
-  fa: nan
+  fa: ''
   en: Lucy's Warbler
   es: Reinita de Lucy
   fr: Paruline de Lucy
   de: Rotbürzel-Waldsänger
-  pt: lucy's warbler
+  pt: ''
   ru: Краснопоясничная древесница
   ja: ルシーアメリカムシクイ
   nl: Lucyzanger

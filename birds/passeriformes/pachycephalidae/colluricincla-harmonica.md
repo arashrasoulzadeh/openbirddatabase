@@ -15,7 +15,7 @@ names:
   pt: gray shrikethrush
   ru: Серогрудый питуи
   ja: ハイイロモズツグミ
-  zh: Grey Shrikethrush
+  zh: ''
   nl: Grijze lijsterdikkop
   pl: fletnik szary
   tr: Gri Islıkçıardıç

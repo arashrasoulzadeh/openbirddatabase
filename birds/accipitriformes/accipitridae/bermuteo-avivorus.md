@@ -12,7 +12,7 @@ names:
   es: Busardo de las Bermudas
   fr: Buse des Bermudes
   de: Bermudabussard
-  pt: bermuda hawk
+  pt: ''
   ja: バミューダノスリ
   zh: 百慕大鹰
   nl: Bermudabuizerd

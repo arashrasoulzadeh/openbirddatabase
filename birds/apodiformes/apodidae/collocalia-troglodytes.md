@@ -12,7 +12,7 @@ names:
   es: Salangana Chica
   fr: Salangane pygmée
   de: Zwergsalangane
-  pt: pygmy swiftlet
+  pt: ''
   ru: Карликовая салангана
   ja: コビトアナツバメ
   nl: Graydwergsalangaan

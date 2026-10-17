@@ -12,7 +12,7 @@ names:
   es: Carbonerito de Sophie
   fr: Orite de Sophie
   de: Purpurhähnchen
-  pt: white-browed tit-warbler
+  pt: ''
   ru: Расписная синичка
   ja: フジイロムシクイ
   zh: 花彩雀莺

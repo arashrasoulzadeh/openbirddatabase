@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 12527.0
 names:
   scientific: Nannopsittacus nigrifrons
-  fa: nan
+  fa: ''
   en: Black-fronted Fig Parrot
   es: Lorito Frentinegro
   fr: Psittacule à front noir
   de: Schwarzstirn-Zwergpapagei
   pt: black-fronted fig-parrot
-  zh: Black-fronted Fig Parrot
+  zh: ''
   nl: Zwartvoorhoofdvijgpapegaai
   pl: figówka czarnoczelna
   tr: Kara Alınlı İncir Papağanı

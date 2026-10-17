@@ -12,7 +12,7 @@ names:
   es: Sedosito Pardo
   fr: Séricorne brun
   de: Tasmansericornis
-  pt: tasmanian scrubwren
+  pt: ''
   ru: Тасманийская кустовка
   ja: クリイロヤブムシクイ
   nl: Grote Tasmaanse struiksluiper

@@ -12,7 +12,7 @@ names:
   es: Zarzalero Montano
   fr: Mégalure de Neumann
   de: Papyrusbuschsänger
-  pt: highland rush warbler
+  pt: ''
   ru: Рифтовая бурогрудка
   nl: Hooglandstruikzanger
   pl: krótkolotka smugowana

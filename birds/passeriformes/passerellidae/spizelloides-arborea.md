@@ -12,7 +12,7 @@ names:
   es: Chingolo Arbóreo
   fr: Bruant hudsonien
   de: Baumammer
-  pt: american tree sparrow
+  pt: ''
   ru: Воробьиная овсянка
   ja: ムナフヒメドリ
   zh: 美洲樹雀鵐

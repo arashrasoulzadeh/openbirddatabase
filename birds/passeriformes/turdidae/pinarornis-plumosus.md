@@ -12,7 +12,7 @@ names:
   es: Zorzal Roquero
   fr: Rochassier des éboulis
   de: Springschmätzer
-  pt: boulder chat
+  pt: ''
   ru: Скальник
   ja: イワトビヒタキ
   nl: Steenspringer

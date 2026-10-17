@@ -12,7 +12,7 @@ names:
   es: Tinamú Tizón
   fr: Tinamou de Berlepsch
   de: Berlepschtinamu
-  pt: berlepsch's tinamou
+  pt: ''
   ru: Колумбийский скрытохвост
   ja: ススグロシギダチョウ
   zh: 伯氏穴䳍

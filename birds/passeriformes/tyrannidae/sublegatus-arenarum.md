@@ -15,7 +15,7 @@ names:
   pt: northern scrub-flycatcher
   ru: Кустарниковый мухолов
   ja: キタヤブハエトリ
-  zh: Northern Scrub Flycatcher
+  zh: ''
   nl: Salvinvliegenpikker
   pl: szaroliczek północny
   tr: Karayip Çalı Sinekkapanı

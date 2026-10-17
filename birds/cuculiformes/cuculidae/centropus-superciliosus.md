@@ -12,7 +12,7 @@ names:
   es: Cucal Cejiblanco
   fr: Coucal à sourcils blancs
   de: Weißbrauenkuckuck
-  pt: white-browed coucal
+  pt: ''
   ru: Белобровый кукаль
   ja: マミジロバンケン
   zh: 白眉鴉鵑

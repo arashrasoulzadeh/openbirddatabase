@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34627.0
 names:
   scientific: Spiza americana
-  fa: nan
+  fa: ''
   en: Dickcissel
   es: Arrocero
   fr: Dickcissel d'Amérique

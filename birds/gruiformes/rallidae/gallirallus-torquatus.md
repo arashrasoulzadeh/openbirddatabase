@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5401.0
 names:
   scientific: Gallirallus torquatus
-  fa: nan
+  fa: ''
   en: Barred Rail
   es: Rascón Acollarado
   fr: Râle à collier
   de: Zebraralle
-  pt: barred rail
+  pt: ''
   ru: Зебровый трескун
   ja: ムナオビクイナ
   zh: 橫斑秧雞

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28862.0
 names:
   scientific: Agricola pallidus
-  fa: nan
+  fa: ''
   en: Pale Flycatcher
   es: Papamoscas Pálido
   fr: Gobemouche pâle
   de: Fahlschnäpper
-  pt: pale flycatcher
+  pt: ''
   ru: Бледная мухоловка
   ja: ウスチャヒタキ
   nl: Vale vliegenvanger

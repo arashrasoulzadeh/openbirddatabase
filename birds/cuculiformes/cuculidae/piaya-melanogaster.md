@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3235.0
 names:
   scientific: Piaya melanogaster
-  fa: nan
+  fa: ''
   en: Black-bellied Cuckoo
   es: Cuco Ardilla Ventrinegro
   fr: Piaye à ventre noir

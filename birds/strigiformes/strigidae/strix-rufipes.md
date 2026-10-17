@@ -12,7 +12,7 @@ names:
   es: Cárabo Bataraz
   fr: Chouette masquée
   de: Rotfußkauz
-  pt: rufous-legged owl
+  pt: ''
   ru: Патагонская неясыть
   ja: アカアシモリフクロウ
   zh: 棕斑林鴞

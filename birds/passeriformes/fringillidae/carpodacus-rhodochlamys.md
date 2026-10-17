@@ -12,7 +12,7 @@ names:
   es: Camachuelo Dorsirrojo
   fr: Roselin à dos rouge
   de: Rosenmantelgimpel
-  pt: red-mantled rosefinch
+  pt: ''
   ru: Арчовая чечевица
   ja: ヒゴロモマシコ
   zh: 红腰朱雀

@@ -12,7 +12,7 @@ names:
   es: Saltarín Cuellidorado
   fr: Manakin à col d'or
   de: Goldbandpipra
-  pt: golden-collared manakin
+  pt: ''
   ru: Желтобородый манакин
   ja: キノドマイコドリ
   nl: Goudkraagmanakin

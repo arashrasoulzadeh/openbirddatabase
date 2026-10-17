@@ -15,7 +15,7 @@ names:
   pt: amethyst-throated mountain-gem
   ru: Аметистовогорлый солнечник
   ja: ノドムラサキシロメジリハチドリ
-  zh: Amethyst-throated Mountaingem
+  zh: ''
   nl: Groene juweelkolibrie
   pl: malachicik ametystowy
   tr: Ametist Dağmücevheri

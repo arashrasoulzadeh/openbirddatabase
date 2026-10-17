@@ -14,7 +14,7 @@ names:
   pt: streak-headed munia
   ru: Пестроголовая муния
   ja: シロスジキンパラ
-  zh: Streak-headed Mannikin
+  zh: ''
   nl: Streepkopbronzemannetje
   pl: mniszka złotorzytna
   tr: Çizgili Kafalı Munya

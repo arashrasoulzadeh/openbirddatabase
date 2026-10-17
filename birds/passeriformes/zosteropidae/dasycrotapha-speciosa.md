@@ -12,7 +12,7 @@ names:
   es: Timalí Frentigualdo
   fr: Zostérops précieux
   de: Goldstirn-Brillenvogel
-  pt: flame-templed babbler
+  pt: ''
   ru: Огнебровая пестроголовка
   ja: キミミモリチメドリ
   zh: 鬓松穗鹛

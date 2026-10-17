@@ -12,7 +12,7 @@ names:
   es: Abanico Moteado de Vanuatu
   fr: Rhipidure de Vanuatu
   de: Vanuatu-Fleckenfächerschwanz
-  pt: vanuatu streaked fantail
+  pt: ''
   nl: Vanuatuwaaierstaart
   pl: wachlarzówka kraterowa
   tr: Vauatu Çizgili Katmerkuyruğu

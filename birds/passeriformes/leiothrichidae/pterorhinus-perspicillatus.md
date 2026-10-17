@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26805.0
 names:
   scientific: Pterorhinus perspicillatus
-  fa: nan
+  fa: ''
   en: Masked Laughingthrush
   es: Charlatán Enmascarado
   fr: Garrulaxe masqué
   de: Maskenhäherling
-  pt: masked laughingthrush
+  pt: ''
   ru: Белобровая кустарница
   ja: カオグロガビチョウ
   zh: 黑脸噪鹛

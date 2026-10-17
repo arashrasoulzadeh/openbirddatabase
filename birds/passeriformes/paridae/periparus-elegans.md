@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21985.0
 names:
   scientific: Periparus elegans
-  fa: nan
+  fa: ''
   en: Elegant Tit
   es: Carbonero Elegante
   fr: Mésange élégante
   de: Panthermeise
-  pt: elegant tit
+  pt: ''
   ru: Желтощёкая синица
   ja: シラボシガラ
   nl: Ornaatmees

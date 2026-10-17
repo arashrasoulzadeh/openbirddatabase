@@ -12,7 +12,7 @@ names:
   es: Chingolo Serrano
   fr: Bruant des sierras
   de: Sierraammer
-  pt: sierra madre sparrow
+  pt: ''
   ru: Мексиканская овсянка
   ja: ゴマフヒメドリ
   nl: Sierra-Madregors

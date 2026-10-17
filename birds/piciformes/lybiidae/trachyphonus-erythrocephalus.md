@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10538.0
 names:
   scientific: Trachyphonus erythrocephalus
-  fa: nan
+  fa: ''
   en: Red-and-yellow Barbet
   es: Barbudo Cabecirrojo
   fr: Barbican à tête rouge
   de: Flammenkopf-Bartvogel
-  pt: red-and-yellow barbet
+  pt: ''
   ru: Красноголовая чубатка
   ja: ホオアカオナガゴシキドリ
   zh: 红黄拟啄木鸟

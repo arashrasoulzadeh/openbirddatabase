@@ -12,7 +12,7 @@ names:
   es: Miná de Yelmo
   fr: Basilorne huppé
   de: Helmatzel
-  pt: helmeted myna
+  pt: ''
   ru: Шлемоголовый раджа
   ja: オオサマムクドリ
   nl: Grote koningsspreeuw

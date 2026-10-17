@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Cariblanco
   fr: Pluvier de Swinhoe
   de: Weißgesicht-Regenpfeifer
-  pt: white-faced plover
+  pt: ''
   ru: Белолицый зуёк
   ja: カオジロシロチドリ
   zh: 白脸鸻

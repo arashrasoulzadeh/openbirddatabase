@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Crestada
   fr: Cnémophile huppé
   de: Schopfsamtvogel
-  pt: crested satinbird
+  pt: ''
   ru: Огненная лория
   ja: カンムリフウチョウモドキ
   nl: Kuifsatijnvogel

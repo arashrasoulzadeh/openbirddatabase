@@ -12,7 +12,7 @@ names:
   es: Paragüero Cuellicalvo
   fr: Coracine ombrelle
   de: Nacktkehl-Schirmvogel
-  pt: bare-necked umbrellabird
+  pt: ''
   ru: Голошейная зонтичная птица
   ja: アカノドカサドリ
   zh: 裸颈伞鸟

@@ -12,7 +12,7 @@ names:
   es: Indicador Lira
   fr: Indicateur à queue en lyre
   de: Leierschwanz-Honiganzeiger
-  pt: lyre-tailed honeyguide
+  pt: ''
   ru: Лирохвостый медоуказчик
   ja: タテゴトミツオシエ
   nl: Lierstaarthoningspeurder

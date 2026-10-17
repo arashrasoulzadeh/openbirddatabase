@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29571.0
 names:
   scientific: Ficedula dumetoria
-  fa: nan
+  fa: ''
   en: Rufous-chested Flycatcher
   es: Papamoscas Pechirrufo
   fr: Gobemouche à poitrine rousse
   de: Spiegelschnäpper
-  pt: rufous-chested flycatcher
+  pt: ''
   ru: Оранжевогрудая мухоловка
   ja: ハジロビタキ
   zh: 棕胸姬鶲

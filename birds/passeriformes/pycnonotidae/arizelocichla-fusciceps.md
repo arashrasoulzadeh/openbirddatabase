@@ -12,7 +12,7 @@ names:
   es: Bulbul Cabecioscuro
   fr: Bulbul à tête cendrée
   de: Schwarzbrauenbülbül
-  pt: black-browed mountain greenbul
+  pt: ''
   ru: Темнобровый бюльбюль
   ja: キタアオノドヒヨ
   nl: Zwartbrauwbuulbuul

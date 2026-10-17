@@ -12,7 +12,7 @@ names:
   es: Chingolo de la Ciénaga
   fr: Bruant de Zapata
   de: Zapataammer
-  pt: zapata sparrow
+  pt: ''
   ru: Кубинская овсянка
   ja: キューバシトド
   zh: 薩帕塔鵐

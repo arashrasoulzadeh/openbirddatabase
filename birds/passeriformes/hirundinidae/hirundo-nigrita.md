@@ -15,7 +15,7 @@ names:
   pt: white-throated blue swallow
   ru: Синяя ласточка
   ja: オジロクロツバメ
-  zh: White-bibbed Swallow
+  zh: ''
   nl: Zwarte zwaluw
   pl: jaskółka modra
   tr: Ak Kuyruklu Mavi Kırlangıç

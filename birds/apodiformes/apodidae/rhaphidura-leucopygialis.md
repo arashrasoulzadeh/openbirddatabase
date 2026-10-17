@@ -12,7 +12,7 @@ names:
   es: Vencejo Culiplata
   fr: Martinet leucopyge
   de: Silberbürzelsegler
-  pt: silver-rumped spinetail
+  pt: ''
   ru: Белохвостый колючехвост
   ja: チビハリオアマツバメ
   nl: Zilverstuitgierzwaluw

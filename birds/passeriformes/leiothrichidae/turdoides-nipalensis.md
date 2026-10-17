@@ -12,7 +12,7 @@ names:
   es: Turdoide Nepalí
   fr: Cratérope du Népal
   de: Nepaldrosselhäherling
-  pt: spiny babbler
+  pt: ''
   ru: Колючая дроздовка
   ja: タテジマヤブチメドリ
   zh: 刺鶇鶥

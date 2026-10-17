@@ -12,7 +12,7 @@ names:
   es: Fodi de Isla Rodrigues
   fr: Foudi de Rodrigues
   de: Rodriguesweber
-  pt: rodrigues fody
+  pt: ''
   ru: Родригесский фуди
   ja: ロドリゲスベニノジコ
   zh: 罗德里格斯织布鸟

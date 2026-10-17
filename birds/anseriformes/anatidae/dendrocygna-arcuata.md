@@ -15,7 +15,7 @@ names:
   pt: wandering whistling-duck
   ru: Странствующая древесная утка
   ja: オオリュウキュウガモ
-  zh: Wandering Whistling Duck
+  zh: ''
   nl: Zwervende fluiteend
   pl: drzewica wędrowna
   tr: Gezgin Islıkçı Ördek

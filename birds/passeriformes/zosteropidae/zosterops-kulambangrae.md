@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25856.0
 names:
   scientific: Zosterops kulambangrae
-  fa: nan
+  fa: ''
   en: Solomons White-eye
   es: Anteojitos de las Salomón
   fr: Zostérops des Salomon
   de: Salomonenbrillenvogel
-  pt: solomons white-eye
+  pt: ''
   ru: Соломонская белоглазка
   ja: ソロモンメジロ
   nl: Salomonsbrilvogel

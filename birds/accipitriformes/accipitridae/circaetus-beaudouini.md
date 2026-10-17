@@ -15,7 +15,7 @@ names:
   pt: guincho-da-guiné
   ru: Сахельский змееяд
   ja: ボードワンチュウヒワシ
-  zh: Beaudouin's Snake Eagle
+  zh: ''
   nl: Sahelslangenarend
   pl: gadożer prążkowany
   tr: Beaudouin Yılan Kartalı

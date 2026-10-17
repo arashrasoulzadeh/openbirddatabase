@@ -15,7 +15,7 @@ names:
   pt: laura's woodland-warbler
   ru: Золотистогрудая пеночка
   ja: キムネハヤシムシクイ
-  zh: Laura's Woodland Warbler
+  zh: ''
   nl: Boultonboszanger
   pl: świstunka katangijska
   tr: Laura Çıvgını

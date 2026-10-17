@@ -12,7 +12,7 @@ names:
   es: Colibrí Picocuña Oriental
   fr: Colibri de Geoffroy
   de: Ost-Bunthalskolibri
-  pt: geoffroy's daggerbill
+  pt: ''
   ru: Клиноклювый колибри
   ja: キリハシハチドリ
   zh: 楔嘴蜂鸟

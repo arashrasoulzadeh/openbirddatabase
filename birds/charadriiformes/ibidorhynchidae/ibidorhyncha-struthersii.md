@@ -12,7 +12,7 @@ names:
   es: Picoibis
   fr: Bec-d'ibis tibétain
   de: Ibisschnabel
-  pt: ibisbill
+  pt: ''
   ru: Серпоклюв
   ja: トキハシゲリ
   zh: 鹮嘴鹬

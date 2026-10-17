@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24239.0
 names:
   scientific: Cecropis daurica
-  fa: nan
+  fa: ''
   en: Eastern Red-rumped Swallow
   es: Golondrina Dáurica Oriental
   fr: Hirondelle striolée

@@ -12,7 +12,7 @@ names:
   es: Minivet Rosado
   fr: Minivet rose
   de: Rosenmennigvogel
-  pt: rosy minivet
+  pt: ''
   ru: Розовый личинкоед
   ja: モモイロサンショウクイ
   zh: 粉红山椒鸟

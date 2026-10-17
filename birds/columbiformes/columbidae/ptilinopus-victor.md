@@ -12,7 +12,7 @@ names:
   es: Tilopo Naranja
   fr: Ptilope orange
   de: Orangefruchttaube
-  pt: orange dove
+  pt: ''
   ru: Оранжевый фруктовый голубь
   ja: オレンジバト
   nl: Oranje jufferduif

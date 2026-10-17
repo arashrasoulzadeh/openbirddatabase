@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11975.0
 names:
   scientific: Daptrius albogularis
-  fa: nan
+  fa: ''
   en: White-throated Caracara
   es: Caracara Araucano
   fr: Caracara à gorge blanche
   de: Weißkehlkarakara
-  pt: white-throated caracara
+  pt: ''
   ru: Белогорлая каракара
   ja: シロハラカラカラ
   nl: Witkeelcaracara

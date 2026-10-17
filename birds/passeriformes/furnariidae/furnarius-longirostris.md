@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15037.0
 names:
   scientific: Furnarius longirostris
-  fa: nan
+  fa: ''
   en: Caribbean Hornero
   es: Hornero del Caribe
   fr: Fournier du Venezuela
   de: Kolumbientöpfer
-  pt: caribbean hornero
+  pt: ''
   ru: Длинноклювый печник
   nl: Caribische ovenvogel
   pl: garncarz ochrowy

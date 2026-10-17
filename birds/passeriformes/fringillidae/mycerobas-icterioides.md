@@ -12,7 +12,7 @@ names:
   es: Picogordo Negrigualdo
   fr: Gros-bec noir et jaune
   de: Goldkernbeißer
-  pt: black-and-yellow grosbeak
+  pt: ''
   ru: Чёрно-жёлтый дубонос
   ja: キンクロシメ
   nl: Geelnekdikbek

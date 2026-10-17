@@ -12,7 +12,7 @@ names:
   es: Falconete de Borneo
   fr: Fauconnet de Bornéo
   de: Weißscheitelfälkchen
-  pt: white-fronted falconet
+  pt: ''
   ru: Белолобый сокол-крошка
   ja: ボルネオヒメハヤブサ
   zh: 白額隼

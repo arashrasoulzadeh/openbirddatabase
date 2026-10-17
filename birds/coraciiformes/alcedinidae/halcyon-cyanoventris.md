@@ -12,7 +12,7 @@ names:
   es: Alción de Java
   fr: Martin-chasseur de Java
   de: Javaliest
-  pt: javan kingfisher
+  pt: ''
   ru: Яванский зимородок
   ja: ジャワショウビン
   nl: Javaanse ijsvogel

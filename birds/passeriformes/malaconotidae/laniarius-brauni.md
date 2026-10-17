@@ -12,7 +12,7 @@ names:
   es: Bubú de Braun
   fr: Gonolek de Braun
   de: Angolawürger
-  pt: braun's bushshrike
+  pt: ''
   ru: Оранжевогрудый бубу
   ja: ブラウンヤブモズ
   nl: Angolese fiskaal

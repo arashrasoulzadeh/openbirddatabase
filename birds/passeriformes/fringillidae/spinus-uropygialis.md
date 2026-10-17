@@ -12,7 +12,7 @@ names:
   es: Jilguero Cordillerano
   fr: Tarin à croupion jaune
   de: Kordillerenzeisig
-  pt: yellow-rumped siskin
+  pt: ''
   ru: Желтопоясничный чиж
   ja: キゴシクロヒワ
   nl: Geelstuitsijs

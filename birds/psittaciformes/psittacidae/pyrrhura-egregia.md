@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13052.0
 names:
   scientific: Pyrrhura egregia
-  fa: nan
+  fa: ''
   en: Fiery-shouldered Parakeet
   es: Cotorra Egregia
   fr: Conure aile-de-feu

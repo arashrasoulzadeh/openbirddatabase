@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25444.0
 names:
   scientific: Paradoxornis paradoxus
-  fa: nan
+  fa: ''
   en: Three-toed Parrotbill
   es: Picoloro Tridáctilo
   fr: Paradoxornis tridactyle
   de: Dreizehen-Papageimeise
-  pt: three-toed parrotbill
+  pt: ''
   ru: Трёхпалая сутора
   ja: ミユビダルマエナガ
   zh: 三趾鸦雀

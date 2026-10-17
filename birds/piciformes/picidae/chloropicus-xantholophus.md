@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11274.0
 names:
   scientific: Chloropicus xantholophus
-  fa: nan
+  fa: ''
   en: Yellow-crested Woodpecker
   es: Pito Coronado
   fr: Pic à couronne d'or
@@ -15,7 +15,7 @@ names:
   pt: golden-crowned woodpecker
   ru: Желтошапочный дятел
   ja: キガシラゲラ
-  zh: Yellow-crested Woodpecker
+  zh: ''
   nl: Geelkruinspecht
   pl: dzięcioł złotociemieniowy
   tr: Altın Taçlı Ağaçkakan

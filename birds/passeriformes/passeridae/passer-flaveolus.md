@@ -12,7 +12,7 @@ names:
   es: Gorrión Liso
   fr: Moineau flavéole
   de: Gelbbauchsperling
-  pt: plain-backed sparrow
+  pt: ''
   ru: Желтобрюхий воробей
   ja: セアカスズメ
   zh: 黄腹麻雀

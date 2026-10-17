@@ -12,7 +12,7 @@ names:
   es: Ticotico Picolezna Boliviano
   fr: Anabate de Bolivie
   de: Ockerstrichel-Blattspäher
-  pt: bolivian recurvebill
+  pt: ''
   ru: Боливийский стрелоклюв
   ja: ボリビアマユカマドドリ
   nl: La-Pazkrombekbladspeurder

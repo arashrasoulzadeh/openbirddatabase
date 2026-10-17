@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 23791.0
 names:
   scientific: Helopsaltes pleskei
-  fa: nan
+  fa: ''
   en: Styan's Grasshopper Warbler
   es: Buscarla de Pleske
   fr: Locustelle de Pleske

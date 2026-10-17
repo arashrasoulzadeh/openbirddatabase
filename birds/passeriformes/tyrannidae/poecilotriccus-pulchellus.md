@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16417.0
 names:
   scientific: Poecilotriccus pulchellus
-  fa: nan
+  fa: ''
   en: Black-backed Tody-Flycatcher
   es: Titirijí Dorsinegro
   fr: Todirostre à dos noir
   de: Weißzügel-Todityrann
-  pt: black-backed tody-flycatcher
+  pt: ''
   ru: Желтокрылый тоди-мухолов
   ja: セグロハシナガタイランチョウ
   nl: Zwartrugschoffelsnavel

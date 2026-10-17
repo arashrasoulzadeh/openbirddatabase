@@ -15,7 +15,7 @@ names:
   pt: elegant imperial-pigeon
   ru: Изящный плодовый голубь
   ja: キンメミカドバト
-  zh: Elegant Imperial Pigeon
+  zh: ''
   nl: Grijze muskaatduif
   pl: muszkatela złotooka
   tr: Mavi Kuyruklu Has Güvercin

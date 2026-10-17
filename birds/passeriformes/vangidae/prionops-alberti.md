@@ -12,7 +12,7 @@ names:
   es: Prionopo Crestigualdo
   fr: Bagadais d'Albert
   de: Gelbschopf-Brillenvanga
-  pt: yellow-crested helmetshrike
+  pt: ''
   ru: Желтохохлый шлемоголов
   ja: キンカンメガネモズ
   nl: Geelkuifklauwier

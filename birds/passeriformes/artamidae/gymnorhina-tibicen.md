@@ -12,7 +12,7 @@ names:
   es: Verdugo Flautista
   fr: Cassican flûteur
   de: Flötenkrähenstar
-  pt: australian magpie
+  pt: ''
   ru: Буругонг, ворона-свистун
   ja: カササギフエガラス
   zh: 黑背鍾鵲

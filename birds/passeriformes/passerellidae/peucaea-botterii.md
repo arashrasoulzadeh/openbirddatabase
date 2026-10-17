@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32924.0
 names:
   scientific: Peucaea botterii
-  fa: nan
+  fa: ''
   en: Botteri's Sparrow
   es: Chingolo de Botteri
   fr: Bruant de Botteri
   de: Streifenrückenammer
-  pt: botteri's sparrow
+  pt: ''
   ru: Пустынная овсянка
   ja: チャバネスズメモドキ
   nl: Botterigors

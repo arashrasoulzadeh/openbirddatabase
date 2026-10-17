@@ -12,7 +12,7 @@ names:
   es: Mirlo Guatemalteco
   fr: Merle enfumé
   de: Guatemaladrossel
-  pt: black thrush
+  pt: ''
   ru: Гватемальский дрозд
   ja: メキシコクロウタドリ
   nl: Guatemalteekse lijster

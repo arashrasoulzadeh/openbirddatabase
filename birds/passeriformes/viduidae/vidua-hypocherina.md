@@ -12,7 +12,7 @@ names:
   es: Viuda Metálica
   fr: Veuve métallique
   de: Glanzwitwe
-  pt: steel-blue whydah
+  pt: ''
   ru: Блестящая вдовушка
   ja: ルリホウオウ
   zh: 鋼藍維達鳥

@@ -12,10 +12,10 @@ names:
   es: Maullador Orejudo
   fr: Jardinier oreillard
   de: Schwarzohr-Laubenvogel
-  pt: black-eared catbird
+  pt: ''
   ru: Черноухая птица-кошка
   ja: ミミグロネコドリ
-  zh: black-eared catbird sp.
+  zh: ''
   nl: Zwartoorkatvogel
   pl: miauczek czarnouchy
   tr: Kara Kulaklı Kedikuşu

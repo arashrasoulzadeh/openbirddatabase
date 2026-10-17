@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12869.0
 names:
   scientific: Pyrilia caica
-  fa: nan
+  fa: ''
   en: Caica Parrot
   es: Lorito Caica
   fr: Caïque à tête noire

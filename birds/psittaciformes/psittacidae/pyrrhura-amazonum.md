@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 13040.0
 names:
   scientific: Pyrrhura amazonum
-  fa: nan
+  fa: ''
   en: Santarem Parakeet
   es: Cotorra de Santarém
   fr: Conure de Hellmayr

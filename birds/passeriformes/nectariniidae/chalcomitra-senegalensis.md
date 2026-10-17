@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechiescarlata
   fr: Souimanga à poitrine rouge
   de: Rotbrust-Glanzköpfchen
-  pt: scarlet-chested sunbird
+  pt: ''
   ru: Рубиновогрудая нектарница
   ja: ヒムネタイヨウチョウ
   nl: Roodborsthoningzuiger

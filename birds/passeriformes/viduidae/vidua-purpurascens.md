@@ -12,7 +12,7 @@ names:
   es: Viuda Purpúrea
   fr: Combassou violacé
   de: Purpurwitwe
-  pt: purple indigobird
+  pt: ''
   ru: Фиолетовая вдовушка
   ja: スミレシコンチョウ
   zh: 暗色维达雀

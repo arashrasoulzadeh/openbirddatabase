@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24605.0
 names:
   scientific: Hypsipetes ganeesa
-  fa: nan
+  fa: ''
   en: Square-tailed Bulbul
   es: Bulbul de Los Ghats
   fr: Bulbul des Ghats
   de: Indien-Rotschnabelbülbül
-  pt: square-tailed bulbul
+  pt: ''
   ru: Чёрный бюльбюль
   ja: インドクロヒヨドリ
   zh: 方尾黑鵯

@@ -12,7 +12,7 @@ names:
   es: Iora Grande
   fr: Iora de Lafresnaye
   de: Großiora
-  pt: great iora
+  pt: ''
   ru: Большая йора
   ja: オオヒメコノハドリ
   zh: 大绿雀鹎

@@ -12,7 +12,7 @@ names:
   es: Malimbo de Gola
   fr: Malimbe de Ballmann
   de: Ballmannweber
-  pt: gola malimbe
+  pt: ''
   ru: Чёрно-жёлтый малимб
   ja: バルマンモリハタオリ
   nl: Woltersprachtwever

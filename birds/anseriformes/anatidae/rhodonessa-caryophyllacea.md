@@ -12,7 +12,7 @@ names:
   es: Pato Cabecirrosado
   fr: Nette à cou rose
   de: Rosenkopfente
-  pt: pink-headed duck
+  pt: ''
   ru: Розовоголовая утка
   ja: バライロガモ
   zh: 粉頭鴨

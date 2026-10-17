@@ -12,7 +12,7 @@ names:
   es: Cormorán Carunculado
   fr: Cormoran caronculé
   de: Warzenscharbe
-  pt: new zealand king shag
+  pt: ''
   ru: Королевский баклан
   ja: ノドジロムナオビウ
   nl: Wrattenaalscholver

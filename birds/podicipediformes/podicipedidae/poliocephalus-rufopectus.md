@@ -12,7 +12,7 @@ names:
   es: Zampullín Maorí
   fr: Grèbe de Nouvelle-Zélande
   de: Maoritaucher
-  pt: new zealand grebe
+  pt: ''
   ru: Новозеландская поганка
   ja: ニュージーランドカイツブリ
   nl: Nieuw-Zeelandse fuut

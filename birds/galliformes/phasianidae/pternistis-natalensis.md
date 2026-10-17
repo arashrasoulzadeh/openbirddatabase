@@ -12,7 +12,7 @@ names:
   es: Francolín de Natal
   fr: Francolin du Natal
   de: Natalfrankolin
-  pt: natal spurfowl
+  pt: ''
   ru: Натальский франколин
   ja: ナタールキジシャコ
   zh: 纳塔尔鹧鸪

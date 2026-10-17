@@ -12,7 +12,7 @@ names:
   es: Tirano Guatíbere
   fr: Tyran tête-police
   de: Antillenkönigstyrann
-  pt: loggerhead kingbird
+  pt: ''
   ru: Антильский тиранн
   ja: オジロハイイロタイランチョウ
   nl: Bahamakoningstiran

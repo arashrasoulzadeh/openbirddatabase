@@ -15,7 +15,7 @@ names:
   pt: gray-headed cicadabird
   ru: Сероголовый цикадник
   ja: ホオグロオオサンショウクイ
-  zh: Grey-headed Cuckooshrike
+  zh: ''
   nl: Grayrupsvogel
   pl: gąsienicojad szarogłowy
   tr: Gri Başlı Tırtılyiyen

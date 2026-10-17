@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12645.0
 names:
   scientific: Trichoglossus concinnus
-  fa: nan
+  fa: ''
   en: Musk Lorikeet
   es: Lori Almizclero
   fr: Loriquet à bandeau rouge
   de: Moschuslori
-  pt: musk lorikeet
+  pt: ''
   ru: Мускусный лорикет
   ja: ジャコウインコ
   zh: 麝香吸蜜鸚鵡

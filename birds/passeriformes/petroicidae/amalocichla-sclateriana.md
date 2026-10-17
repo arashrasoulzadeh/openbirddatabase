@@ -15,7 +15,7 @@ names:
   pt: greater ground-robin
   ru: Большая дриада
   ja: パプアヤマツグミ
-  zh: Greater Ground Robin
+  zh: ''
   nl: Zijdestaartlijstervliegenvanger
   pl: piechotek duży
   tr: Büyük Yer Bülbülü

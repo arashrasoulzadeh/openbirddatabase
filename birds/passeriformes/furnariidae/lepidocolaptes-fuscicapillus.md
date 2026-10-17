@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14964.0
 names:
   scientific: Lepidocolaptes fuscicapillus
-  fa: nan
+  fa: ''
   en: Dusky-capped Woodcreeper
   es: Trepatroncos Cabecipardo
   fr: Grimpar à calotte sombre

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10058.0
 names:
   scientific: Pelargopsis melanorhyncha
-  fa: nan
+  fa: ''
   en: Great-billed Kingfisher
   es: Alción Piquinegro
   fr: Martin-chasseur à bec noir
   de: Schwarzschnabelliest
-  pt: great-billed kingfisher
+  pt: ''
   ru: Черноклювый гуриал
   ja: セレベスコウハシショウビン
   nl: Grootsnavelijsvogel

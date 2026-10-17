@@ -15,7 +15,7 @@ names:
   pt: tauató-pintado
   ru: Серобрюхий ястреб
   ja: セグロオオタカ
-  zh: Grey-bellied Hawk
+  zh: ''
   nl: Zuid-Amerikaanse havik
   pl: krogulec siwobrzuchy
   tr: Gri Karınlı Atmaca

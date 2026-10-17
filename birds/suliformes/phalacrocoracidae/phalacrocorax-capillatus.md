@@ -12,7 +12,7 @@ names:
   es: Cormorán Japonés
   fr: Cormoran de Temminck
   de: Japankormoran
-  pt: japanese cormorant
+  pt: ''
   ru: Японский баклан
   ja: ウミウ
   zh: 暗绿背鸬鹚

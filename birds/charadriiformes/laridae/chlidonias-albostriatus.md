@@ -12,7 +12,7 @@ names:
   es: Fumarel Maorí
   fr: Guifette des galets
   de: Graubauch-Seeschwalbe
-  pt: black-fronted tern
+  pt: ''
   ru: Чернолобая крачка
   ja: クロビタイアジサシ
   nl: Nieuw-Zeelandse stern

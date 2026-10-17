@@ -15,7 +15,7 @@ names:
   pt: sassi's greenbul
   ru: Вирунгский бюльбюль
   ja: クロテンミドリヒヨドリ
-  zh: Sassi's Olive Greenbul
+  zh: ''
   nl: Sassiloofbuulbuul
   pl: jasnobrzuch pstrogłowy
   tr: Lorenz Yaprakbülbülü

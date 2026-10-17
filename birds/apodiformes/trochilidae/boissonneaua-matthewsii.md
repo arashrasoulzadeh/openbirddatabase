@@ -12,7 +12,7 @@ names:
   es: Colibrí Pechirrojo
   fr: Colibri de Matthews
   de: Rotbauchkolibri
-  pt: chestnut-breasted coronet
+  pt: ''
   ru: Каштановогрудый венценосец
   ja: チャムネフチオハチドリ
   zh: 栗胸冕蜂鳥

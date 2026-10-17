@@ -12,7 +12,7 @@ names:
   es: Codorniz Arlequín
   fr: Caille arlequin
   de: Harlekinwachtel
-  pt: harlequin quail
+  pt: ''
   ru: Перепел-арлекин
   ja: ヤクシャウズラ
   nl: Harlekijnkwartel

@@ -15,7 +15,7 @@ names:
   pt: painted bush-quail
   ru: Красноклювый перепел
   ja: サイシキヤブウズラ
-  zh: Painted Bush Quail
+  zh: ''
   nl: Bonte dwergpatrijs
   pl: przepióreczka czerwonodzioba
   tr: Kızıl Cüce Bıldırcın

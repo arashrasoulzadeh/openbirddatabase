@@ -12,7 +12,7 @@ names:
   es: Anteojitos Flanquirrufo
   fr: Zostérops à flancs marron
   de: Rostflanken-Brillenvogel
-  pt: chestnut-flanked white-eye
+  pt: ''
   ru: Буробокая белоглазка
   ja: チョウセンメジロ
   zh: 红胁绣眼鸟

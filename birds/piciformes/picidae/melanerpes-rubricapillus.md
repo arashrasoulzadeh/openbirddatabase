@@ -12,7 +12,7 @@ names:
   es: Carpintero Coronirrojo
   fr: Pic à couronne rouge
   de: Rotkappenspecht
-  pt: red-crowned woodpecker
+  pt: ''
   ru: Красношапочный дятел
   ja: シロビタイシマセゲラ
   nl: Roodkruinspecht

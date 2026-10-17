@@ -15,7 +15,7 @@ names:
   pt: piping cisticola
   ru: Пискливая цистикола
   ja: フエセッカ
-  zh: Neddicky
+  zh: ''
   nl: Bruinkopgraszanger
   pl: chwastówka piskliwa
   tr: Kızıl-Sarı Yelpazekuyruk

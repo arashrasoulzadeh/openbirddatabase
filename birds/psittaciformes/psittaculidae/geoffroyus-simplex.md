@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12332.0
 names:
   scientific: Geoffroyus simplex
-  fa: nan
+  fa: ''
   en: Blue-collared Parrot
   es: Lorito Acollarado
   fr: Perruche à col bleu
   de: Blauhalspapagei
-  pt: blue-collared parrot
+  pt: ''
   ru: Синегорлый жоффруа
   ja: ミドリガシラインコ
   nl: Blauwhalspapegaai

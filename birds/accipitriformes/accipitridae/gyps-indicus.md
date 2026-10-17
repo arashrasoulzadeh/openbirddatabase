@@ -12,7 +12,7 @@ names:
   es: Buitre Indio
   fr: Vautour indien
   de: Indiengeier
-  pt: indian vulture
+  pt: ''
   ru: Индийский сип
   ja: インドハゲワシ
   zh: 印度兀鹫

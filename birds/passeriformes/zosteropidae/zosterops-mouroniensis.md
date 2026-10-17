@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 25660.0
 names:
   scientific: Zosterops mouroniensis
-  fa: nan
+  fa: ''
   en: Karthala White-eye
   es: Anteojitos de Gran Comora
   fr: Zostérops du Karthala
@@ -15,7 +15,7 @@ names:
   pt: comoro white-eye
   ru: Карталайская белоглазка
   ja: コモロメジロ
-  zh: Karthala White-eye
+  zh: ''
   nl: Karthalabrilvogel
   pl: szlarnik kraterowy
   tr: Komoro Gözlükçüsü

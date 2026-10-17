@@ -15,7 +15,7 @@ names:
   pt: togo paradise-whydah
   ru: Тоголезская райская вдовушка
   ja: トーゴホウオウジャク
-  zh: Togo Paradise Whydah
+  zh: ''
   nl: Togoparadijswida
   pl: wdówka rdzawoszyja
   tr: Togo Vidyası

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7906.0
 names:
   scientific: Pernis ptilorhynchus
-  fa: nan
+  fa: ''
   en: Crested Honey Buzzard
   es: Abejero Oriental
   fr: Bondrée orientale

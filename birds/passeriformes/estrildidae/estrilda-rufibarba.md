@@ -12,7 +12,7 @@ names:
   es: Estrilda Árabe
   fr: Astrild barbe-rousse
   de: Jemenastrild
-  pt: arabian waxbill
+  pt: ''
   ru: Аравийский астрильд
   ja: アラビアカエデチョウ
   zh: 阿拉伯梅花雀

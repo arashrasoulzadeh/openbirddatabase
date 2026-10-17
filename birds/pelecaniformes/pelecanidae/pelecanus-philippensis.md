@@ -12,7 +12,7 @@ names:
   es: Pelícano Oriental
   fr: Pélican à bec tacheté
   de: Graupelikan
-  pt: spot-billed pelican
+  pt: ''
   ru: Пестроклювый пеликан
   ja: ホシバシペリカン
   zh: 斑嘴鹈鹕

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10753.0
 names:
   scientific: Psilopogon viridis
-  fa: nan
+  fa: ''
   en: White-cheeked Barbet
   es: Barbudo Cariblanco
   fr: Barbu vert
   de: Grünbartvogel
-  pt: white-cheeked barbet
+  pt: ''
   ru: Белоухий бородастик
   ja: チャガシラゴシキドリ
   nl: Groene baardvogel

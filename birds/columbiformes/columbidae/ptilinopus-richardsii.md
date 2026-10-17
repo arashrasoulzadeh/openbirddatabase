@@ -15,7 +15,7 @@ names:
   pt: silver-capped fruit-dove
   ru: Серебристошапочный фруктовый голубь
   ja: ギンボウシヒメアオバト
-  zh: Silver-capped Fruit Dove
+  zh: ''
   nl: Richardsjufferduif
   pl: owocożer srebrnogłowy
   tr: Gümüş Başlı Meyve Kumrusu

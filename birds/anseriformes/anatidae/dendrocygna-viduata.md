@@ -15,7 +15,7 @@ names:
   pt: irerê
   ru: Белолицая древесная утка
   ja: シロガオリュウキュウガモ
-  zh: White-faced Whistling Duck
+  zh: ''
   nl: Witwangfluiteend
   pl: drzewica białolica
   tr: Ak Yüzlü Islıkçı Ördek

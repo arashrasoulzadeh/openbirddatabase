@@ -12,7 +12,7 @@ names:
   es: Pardalote Estriado
   fr: Pardalote à point jaune
   de: Streifenpanthervogel
-  pt: striated pardalote
+  pt: ''
   ru: Желтогрудый радужник
   ja: キボシホウセキドリ
   zh: 纹翅食蜜鸟

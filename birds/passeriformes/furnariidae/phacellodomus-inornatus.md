@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15344.0
 names:
   scientific: Phacellodomus inornatus
-  fa: nan
+  fa: ''
   en: Plain Thornbird
   es: Espinero Liso
   fr: Synallaxe blafard
   de: Blasskehl-Bündelnister
-  pt: plain thornbird
+  pt: ''
   ru: Одноцветный эспинеро
   nl: Noordelijke stekelkruin
   pl: cierniak wenezuelski

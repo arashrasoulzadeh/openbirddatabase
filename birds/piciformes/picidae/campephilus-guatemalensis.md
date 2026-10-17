@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11562.0
 names:
   scientific: Campephilus guatemalensis
-  fa: nan
+  fa: ''
   en: Pale-billed Woodpecker
   es: Picamaderos Piquiclaro
   fr: Pic à bec clair
   de: Königspecht
-  pt: pale-billed woodpecker
+  pt: ''
   ru: Королевский дятел
   ja: ズアカエボシゲラ
   zh: 淡嘴啄木鳥

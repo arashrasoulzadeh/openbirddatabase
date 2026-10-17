@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32132.0
 names:
   scientific: Akialoa stejnegeri
-  fa: nan
+  fa: ''
   en: Kauai Akialoa
   es: Akialoa de Kauai
   fr: Akialoa de Kauai
   de: Kauai-Akialoakleidervogel
-  pt: kauai akialoa
+  pt: ''
   ru: Кауайская акиалоа
   ja: カウアイユミハシハワイミツスイ
   nl: Kauai-akialoa

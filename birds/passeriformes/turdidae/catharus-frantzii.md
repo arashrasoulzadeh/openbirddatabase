@@ -12,7 +12,7 @@ names:
   es: Zorzalito de Frantzius
   fr: Grive à calotte rousse
   de: Bergmusendrossel
-  pt: ruddy-capped nightingale-thrush
+  pt: ''
   ru: Рыжеголовый соловьиный дрозд
   ja: チャボウシツグミ
   nl: Bergdwerglijster

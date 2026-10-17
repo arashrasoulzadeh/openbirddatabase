@@ -15,7 +15,7 @@ names:
   pt: greater sage-grouse
   ru: Полынный тетерев
   ja: キジオライチョウ
-  zh: Sage Grouse
+  zh: ''
   nl: Waaierhoen
   pl: preriokur ostrosterny
   tr: Çalı Tavuğu

@@ -12,7 +12,7 @@ names:
   es: Saltarín Lomiazul
   fr: Manakin à dos bleu
   de: Blaubürzelpipra
-  pt: blue-rumped manakin
+  pt: ''
   ru: Синепоясничный манакин
   ja: コシアオマイコドリ
   nl: Blauwstuitmanakin

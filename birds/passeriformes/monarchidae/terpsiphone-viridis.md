@@ -15,7 +15,7 @@ names:
   pt: viúva-verde
   ru: Африканская райская мухоловка
   ja: アフリカサンコウチョウ
-  zh: African Paradise Flycatcher
+  zh: ''
   nl: Afrikaanse paradijsmonarch
   pl: muchodławka wspaniała
   tr: Afrika Monarkı

@@ -12,7 +12,7 @@ names:
   es: Paloma Nuquibronceada
   fr: Pigeon à nuque bronzée
   de: Glanzkopftaube
-  pt: western bronze-naped pigeon
+  pt: ''
   ru: Радужный голубь
   ja: ニジェリバト
   nl: Westelijke bronsnekduif

@@ -15,7 +15,7 @@ names:
   pt: short-billed crombec
   ru: Белогорлый кромбек
   ja: コバシチビオムシクイ
-  zh: Philippa's Crombec
+  zh: ''
   nl: Somalische krombek
   pl: sawanka białogardła
   tr: Kısa Gagalı Krombek

@@ -12,7 +12,7 @@ names:
   es: Chotacabras del Natal
   fr: Engoulevent du Natal
   de: Natalnachtschwalbe
-  pt: swamp nightjar
+  pt: ''
   ru: Натальский козодой
   ja: ナタールヨタカ
   zh: 纳塔尔夜鹰

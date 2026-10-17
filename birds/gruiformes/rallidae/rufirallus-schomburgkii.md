@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5613.0
 names:
   scientific: Rufirallus schomburgkii
-  fa: nan
+  fa: ''
   en: Ocellated Crake
   es: Polluela Ocelada
   fr: Râle ocellé

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16646.0
 names:
   scientific: Pseudocolopteryx sclateri
-  fa: nan
+  fa: ''
   en: Crested Doradito
   es: Doradito Copetón
   fr: Doradite de Sclater

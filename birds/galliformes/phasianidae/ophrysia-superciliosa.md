@@ -12,7 +12,7 @@ names:
   es: Perdicilla Himalaya
   fr: Ophrysie de l'Himalaya
   de: Himalajawachtel
-  pt: himalayan quail
+  pt: ''
   ru: Гималайский перепел
   ja: ケバネウズラ
   zh: 喜馬拉亞鶉

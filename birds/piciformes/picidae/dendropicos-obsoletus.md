@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11300.0
 names:
   scientific: Dendropicos obsoletus
-  fa: nan
+  fa: ''
   en: Brown-backed Woodpecker
   es: Pico Dorsipardo
   fr: Pic à dos brun

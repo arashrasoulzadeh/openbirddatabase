@@ -15,7 +15,7 @@ names:
   pt: carola's parotia
   ru: Белопёрая паротия
   ja: ワキジロカンザシフウチョウ
-  zh: Queen Carola's Parotia
+  zh: ''
   nl: Carolaparotia
   pl: sześciopiór białopióry
   tr: Beyaz Etekli Parotya

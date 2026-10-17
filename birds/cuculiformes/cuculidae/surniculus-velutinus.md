@@ -12,7 +12,7 @@ names:
   es: Cuclillo Drongo Filipino
   fr: Coucou velouté
   de: Philippinendrongokuckuck
-  pt: philippine drongo-cuckoo
+  pt: ''
   ru: Филиппинская дронговая кукушка
   ja: フィリピンオウチュウカッコウ
   nl: Filipijnse drongokoekoek

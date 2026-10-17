@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 27928.0
 names:
   scientific: Saroglossa spilopterus
-  fa: nan
+  fa: ''
   en: Spot-winged Starling
   es: Estornino Alipinto
   fr: Choucador à ailes tachetées
   de: Marmorstar
-  pt: spot-winged starling
+  pt: ''
   ru: Пятнистокрылый скворец
   ja: ハマダラムクドリ
   zh: 斑翅椋鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17262.0
 names:
   scientific: Sirystes albogriseus
-  fa: nan
+  fa: ''
   en: Choco Sirystes
   es: Mosquero del Chocó
   fr: Tyran du Choco
   de: Grauschulter-Kappentyrann
-  pt: choco sirystes
+  pt: ''
   ru: Белокрылая сириста
   ja: チョコフエフキタイランチョウ
   nl: Chocofluittiran

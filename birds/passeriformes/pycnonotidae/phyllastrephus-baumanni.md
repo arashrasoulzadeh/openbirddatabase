@@ -15,7 +15,7 @@ names:
   pt: baumann's greenbul
   ru: Оливковый бюльбюль
   ja: アカオオリーブヒヨドリ
-  zh: Baumann's Olive Greenbul
+  zh: ''
   nl: Baumannloofbuulbuul
   pl: jasnobrzuch oliwkowy
   tr: Baumann Yaprakbülbülü

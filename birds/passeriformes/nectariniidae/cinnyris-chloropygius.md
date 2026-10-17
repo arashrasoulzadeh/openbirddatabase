@@ -12,7 +12,7 @@ names:
   es: Suimanga Ventrioliva
   fr: Souimanga à ventre olive
   de: Olivbauch-Nektarvogel
-  pt: olive-bellied sunbird
+  pt: ''
   ru: Изумрудная нектарница
   ja: オリーブゴシキタイヨウチョウ
   zh: 綠腹花蜜鳥

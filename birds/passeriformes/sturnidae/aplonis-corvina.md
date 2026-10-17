@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 27772.0
 names:
   scientific: Aplonis corvina
-  fa: nan
+  fa: ''
   en: Kosrae Starling
   es: Estornino de Isla Kosrae
   fr: Stourne de Kusaie
   de: Rabenstar
-  pt: kosrae starling
+  pt: ''
   ru: Вороний скворец
   ja: テリカラスモドキ
   zh: 庫賽埃島輝椋鳥

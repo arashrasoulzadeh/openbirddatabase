@@ -12,7 +12,7 @@ names:
   es: Pita Aliazul
   fr: Brève à ailes bleues
   de: Blauflügelpitta
-  pt: blue-winged pitta
+  pt: ''
   ru: Синекрылая питта
   ja: ミナミヤイロチョウ
   zh: 蓝翅八色鸫

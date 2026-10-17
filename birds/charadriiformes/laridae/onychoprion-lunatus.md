@@ -15,7 +15,7 @@ names:
   pt: gray-backed tern
   ru: Очковая крачка
   ja: ナンヨウマミジロアジサシ
-  zh: Spectacled Tern
+  zh: ''
   nl: Fijistern
   pl: rybitwa pacyficzna
   tr: Gözlüklü Sumru

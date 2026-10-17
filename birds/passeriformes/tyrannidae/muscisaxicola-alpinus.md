@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17103.0
 names:
   scientific: Muscisaxicola alpinus
-  fa: nan
+  fa: ''
   en: Paramo Ground Tyrant
   es: Dormilona Gris
   fr: Dormilon à grands sourcils
@@ -15,7 +15,7 @@ names:
   pt: plain-capped ground-tyrant
   ru: Андская дормилона
   ja: チャボウシイワタイランチョウ
-  zh: Paramo Ground Tyrant
+  zh: ''
   nl: Rotsgrondtiran
   pl: skałotyran ubogi
   tr: Paramo Yer Tiranı

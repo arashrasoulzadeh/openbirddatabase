@@ -12,7 +12,7 @@ names:
   es: Chotacabras de las Salomón
   fr: Engoulevent des Salomon
   de: Salomonennachtschwalbe
-  pt: solomons nightjar
+  pt: ''
   ru: Соломонский козодой
   ja: ソロモンヨタカ
   nl: Salomonsnachtzwaluw

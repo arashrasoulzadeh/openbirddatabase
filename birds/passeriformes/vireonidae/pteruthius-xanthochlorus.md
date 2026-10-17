@@ -12,7 +12,7 @@ names:
   es: Vireo Alcaudón Verde
   fr: Allotrie verte
   de: Grünwürgervireo
-  pt: green shrike-babbler
+  pt: ''
   ru: Зелёная птерутия
   ja: ミドリモズチメドリ
   zh: 淡绿鵙鹛

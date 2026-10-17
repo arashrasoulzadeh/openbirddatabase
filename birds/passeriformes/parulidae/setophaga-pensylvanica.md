@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34133.0
 names:
   scientific: Setophaga pensylvanica
-  fa: nan
+  fa: ''
   en: Chestnut-sided Warbler
   es: Reinita de Pensilvania
   fr: Paruline à flancs marron

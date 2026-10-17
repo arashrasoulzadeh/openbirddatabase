@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14885.0
 names:
   scientific: Dendroplex kienerii
-  fa: nan
+  fa: ''
   en: Zimmer's Woodcreeper
   es: Trepatroncos de Zimmer
   fr: Grimpar de Zimmer

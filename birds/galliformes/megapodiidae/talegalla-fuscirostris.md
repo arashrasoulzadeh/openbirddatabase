@@ -15,7 +15,7 @@ names:
   pt: yellow-legged brushturkey
   ru: Черноклювий курохвост
   ja: ハシグロツカツクリ
-  zh: Black-billed Brushturkey
+  zh: ''
   nl: Zwartsnavelboskalkoen
   pl: nogal czarnodzioby
   tr: Kara Gagalı Talegalo

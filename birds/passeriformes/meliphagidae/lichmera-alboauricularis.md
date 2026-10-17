@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18092.0
 names:
   scientific: Lichmera alboauricularis
-  fa: nan
+  fa: ''
   en: Silver-eared Honeyeater
   es: Mielero Pechipinto
   fr: Méliphage grivelé
   de: Ohrflecken-Honigfresser
-  pt: silver-eared honeyeater
+  pt: ''
   ru: Белоухий медолюб
   ja: ミミジロオリーブミツスイ
   zh: 白耳岩吸蜜鳥

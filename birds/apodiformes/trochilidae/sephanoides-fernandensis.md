@@ -12,7 +12,7 @@ names:
   es: Colibrí de las Juan Fernández
   fr: Colibri robinson
   de: Juan-Fernández-Kolibri
-  pt: juan fernandez firecrown
+  pt: ''
   ru: Рыжая диадема
   ja: フェルナンデスベニイタダキハチドリ
   zh: 火冠蜂鸟

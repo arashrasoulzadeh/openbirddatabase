@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10614.0
 names:
   scientific: Pogoniulus chrysoconus
-  fa: nan
+  fa: ''
   en: Yellow-fronted Tinkerbird
   es: Barbudito Frentigualdo
   fr: Barbion à front jaune

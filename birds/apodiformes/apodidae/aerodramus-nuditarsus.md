@@ -12,7 +12,7 @@ names:
   es: Salangana Tarsidesnuda
   fr: Salangane de Salomonsen
   de: Nacktfußsalangane
-  pt: bare-legged swiftlet
+  pt: ''
   ru: Голоногая салангана
   ja: パプアヤマアナツバメ
   zh: 裸腿金丝燕

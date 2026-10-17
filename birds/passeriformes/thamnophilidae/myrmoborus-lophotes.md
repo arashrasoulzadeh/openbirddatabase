@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13973.0
 names:
   scientific: Myrmoborus lophotes
-  fa: nan
+  fa: ''
   en: White-lined Antbird
   es: Hormiguero Crestado
   fr: Alapi huppé

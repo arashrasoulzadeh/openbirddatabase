@@ -12,7 +12,7 @@ names:
   es: Alcaudón Birmano
   fr: Pie-grièche à dos marron
   de: Burmawürger
-  pt: burmese shrike
+  pt: ''
   ru: Бирманский жулан
   ja: ハイガシラモズ
   zh: 栗背伯劳

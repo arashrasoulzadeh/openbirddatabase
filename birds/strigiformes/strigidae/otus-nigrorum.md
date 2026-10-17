@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 8713.0
 names:
   scientific: Otus nigrorum
-  fa: nan
+  fa: ''
   en: Negros Scops Owl
   es: Autillo Orejudo de Negros
   fr: Petit-duc de Negros
@@ -15,7 +15,7 @@ names:
   pt: negros scops-owl
   ru: Негросская совка
   ja: ネグロスコノハズク
-  zh: Negros Scops Owl
+  zh: ''
   nl: Negrosdwergooruil
   pl: syczek rdzawogłowy
   tr: Negros İshakkuşu

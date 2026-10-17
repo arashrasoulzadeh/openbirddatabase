@@ -12,7 +12,7 @@ names:
   es: Cucarachero Barrado
   fr: Troglodyte zoné
   de: Tigerzaunkönig
-  pt: band-backed wren
+  pt: ''
   ru: Тигровый крапивник
   ja: キバラサボテンミソサザイ
   zh: 斑背曲嘴鹪鹩

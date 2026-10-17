@@ -12,7 +12,7 @@ names:
   es: Hihi
   fr: Hihi de Nouvelle-Zélande
   de: Stichvogel
-  pt: stitchbird
+  pt: ''
   ru: Хихи
   ja: シロツノミツスイ
   zh: 缝合吸蜜鸟

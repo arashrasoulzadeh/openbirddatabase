@@ -12,7 +12,7 @@ names:
   es: Pita Carinegra
   fr: Brève masquée
   de: Maskenpitta
-  pt: black-faced pitta
+  pt: ''
   ru: Чернолицая питта
   ja: カオグロヤイロチョウ
   zh: 黑脸八色鸫

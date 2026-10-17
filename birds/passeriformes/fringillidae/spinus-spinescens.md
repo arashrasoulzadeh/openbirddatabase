@@ -12,7 +12,7 @@ names:
   es: Jilguero Andino
   fr: Tarin des Andes
   de: Andenzeisig
-  pt: andean siskin
+  pt: ''
   ru: Андский чиж
   ja: アンデスヒワ
   nl: Andessijs

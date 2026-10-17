@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29359.0
 names:
   scientific: Brachypteryx goodfellowi
-  fa: nan
+  fa: ''
   en: Taiwan Shortwing
   es: Alicorto de Formosa
   fr: Brachyptère de Taïwan
   de: Taiwan-Bergkurzflügel
-  pt: taiwan shortwing
+  pt: ''
   ru: Тайваньский короткокрыл
   ja: タイワンコバネヒタキ
   zh: 台湾短翅鸫

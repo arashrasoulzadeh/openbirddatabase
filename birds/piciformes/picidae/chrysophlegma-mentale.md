@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11699.0
 names:
   scientific: Chrysophlegma mentale
-  fa: nan
+  fa: ''
   en: Checker-throated Woodpecker
   es: Pito Gargantilla
   fr: Pic gorgeret
   de: Tropfenkehlspecht
-  pt: checker-throated woodpecker
+  pt: ''
   ru: Цветной желтохохлый дятел
   ja: チャバネアオゲラ
   nl: Vlekkeelspecht

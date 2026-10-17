@@ -15,7 +15,7 @@ names:
   pt: little paradise-kingfisher
   ru: Аруанский райский зимородок
   ja: アルーラケットカワセミ
-  zh: Little Paradise Kingfisher
+  zh: ''
   nl: Aroevlagstaartijsvogel
   pl: sterowik białobrzuchy
   tr: Aru Cennet Yalıçapkını

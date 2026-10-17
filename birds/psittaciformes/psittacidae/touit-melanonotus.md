@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 12801.0
 names:
   scientific: Touit melanonotus
-  fa: nan
+  fa: ''
   en: Brown-backed Parrotlet
   es: Cotorrita Dorsinegra
   fr: Toui à dos noir

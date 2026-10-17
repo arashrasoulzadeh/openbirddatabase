@@ -12,7 +12,7 @@ names:
   es: Malimbo de Rachel
   fr: Malimbe de Rachel
   de: Rachelweber
-  pt: rachel's malimbe
+  pt: ''
   ru: Желтогрудый малимб
   ja: キムネモリハタオリ
   nl: Rachelprachtwever

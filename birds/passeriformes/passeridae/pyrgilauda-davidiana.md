@@ -12,7 +12,7 @@ names:
   es: Gorrión de David
   fr: Niverolle de David
   de: Daviderdsperling
-  pt: pere david's snowfinch
+  pt: ''
   ru: Монгольский земляной воробей
   ja: モウコユキスズメ
   zh: 黑喉雪雀

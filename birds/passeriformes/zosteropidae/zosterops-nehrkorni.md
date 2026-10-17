@@ -12,7 +12,7 @@ names:
   es: Anteojitos de Gran Sangir
   fr: Zostérops des Sangihe
   de: Sangihe-Brillenvogel
-  pt: sangihe white-eye
+  pt: ''
   ru: Сангийская белоглазка
   ja: サンギヘメジロ
   nl: Sangirbrilvogel

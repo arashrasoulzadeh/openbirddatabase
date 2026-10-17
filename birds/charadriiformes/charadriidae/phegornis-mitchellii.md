@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Cordillerano
   fr: Pluvier des Andes
   de: Diademregenpfeifer
-  pt: diademed sandpiper-plover
+  pt: ''
   ru: Бекасовидный хрустан
   ja: ハシナガチドリ
   zh: 黑顶鸻属

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15280.0
 names:
   scientific: Automolus paraensis
-  fa: nan
+  fa: ''
   en: Para Foliage-gleaner
   es: Ticotico de Pará
   fr: Anabate du Para

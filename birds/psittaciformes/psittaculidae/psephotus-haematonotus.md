@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12514.0
 names:
   scientific: Psephotus haematonotus
-  fa: nan
+  fa: ''
   en: Red-rumped Parrot
   es: Perico Dorsirrojo
   fr: Perruche à croupion rouge
   de: Singsittich
-  pt: red-rumped parrot
+  pt: ''
   ru: Певчий попугайчик
   ja: ビセイインコ
   zh: 紅臀面罩鸚鵡

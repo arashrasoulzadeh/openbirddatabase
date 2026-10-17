@@ -12,7 +12,7 @@ names:
   es: Cuervo de Célebes
   fr: Corneille des Célèbes
   de: Celebeskrähe
-  pt: piping crow
+  pt: ''
   ru: Сулавесская ворона
   ja: セレベスガラス
   zh: 蘇拉烏鴉

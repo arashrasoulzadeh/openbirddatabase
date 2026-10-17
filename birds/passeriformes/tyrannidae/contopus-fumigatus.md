@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16896.0
 names:
   scientific: Contopus fumigatus
-  fa: nan
+  fa: ''
   en: Smoke-colored Pewee
   es: Pibí Ahumado
   fr: Moucherolle bistré

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16837.0
 names:
   scientific: Inezia inornata
-  fa: nan
+  fa: ''
   en: Plain Inezia
   es: Piojito Picudo
   fr: Tyranneau terne
@@ -15,7 +15,7 @@ names:
   pt: alegrinho-do-chaco
   ru: Сероголовая инезия
   ja: マメタイランチョウ
-  zh: Plain Inezia
+  zh: ''
   nl: Grijskopinezia
   pl: pręgówek ubogi
   tr: Süssüz İnezya

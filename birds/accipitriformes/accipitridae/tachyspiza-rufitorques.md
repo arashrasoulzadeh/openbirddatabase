@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8221.0
 names:
   scientific: Tachyspiza rufitorques
-  fa: nan
+  fa: ''
   en: Fiji Goshawk
   es: Gavilán de las Fiyi
   fr: Autour des Fidji
   de: Fidschihabicht
-  pt: fiji goshawk
+  pt: ''
   ru: Фиджийский ястреб
   ja: フィジーオオタカ
   zh: 棕頸鷹

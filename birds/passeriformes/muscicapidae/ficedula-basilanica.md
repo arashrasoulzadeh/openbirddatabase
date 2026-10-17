@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 29585.0
 names:
   scientific: Ficedula basilanica
-  fa: nan
+  fa: ''
   en: Little Slaty Flycatcher
   es: Papamoscas de Basilán
   fr: Gobemouche de Basilan
   de: Schieferschnäpper
-  pt: little slaty flycatcher
+  pt: ''
   ru: Шиферная мухоловка
   ja: ネズミヒタキ
   nl: Basilanvliegenvanger

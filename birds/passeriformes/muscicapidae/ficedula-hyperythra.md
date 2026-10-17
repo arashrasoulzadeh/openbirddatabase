@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29515.0
 names:
   scientific: Ficedula hyperythra
-  fa: nan
+  fa: ''
   en: Snowy-browed Flycatcher
   es: Papamoscas Cejiníveo
   fr: Gobemouche givré

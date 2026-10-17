@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24529.0
 names:
   scientific: Ixos leucogrammicus
-  fa: nan
+  fa: ''
   en: Cream-striped Bulbul
   es: Bulbul Rayado
   fr: Bulbul rayé
   de: Strichelbülbül
-  pt: cream-striped bulbul
+  pt: ''
   ru: Пестрогрудый бюльбюль
   ja: タテジマヒヨドリ
   nl: Kleine Sumatraanse buulbuul

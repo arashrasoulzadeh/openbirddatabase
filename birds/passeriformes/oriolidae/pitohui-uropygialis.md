@@ -12,7 +12,7 @@ names:
   es: Pitohuí Variable Sureño
   fr: Pitohui de Gray
   de: Maronenpirol
-  pt: southern variable pitohui
+  pt: ''
   ru: Южный питоху
   nl: Zuidelijke bonte pitohui
   pl: fletowiec kasztanowaty

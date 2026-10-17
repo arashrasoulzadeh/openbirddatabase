@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14177.0
 names:
   scientific: Conopophaga roberti
-  fa: nan
+  fa: ''
   en: Hooded Gnateater
   es: Jejenero Encapuchado
   fr: Conopophage capucin

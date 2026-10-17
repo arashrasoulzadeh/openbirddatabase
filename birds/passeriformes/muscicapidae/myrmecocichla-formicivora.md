@@ -15,7 +15,7 @@ names:
   pt: southern anteater-chat
   ru: Южная термитница
   ja: ハジロアリヒタキ
-  zh: Ant-eating Chat
+  zh: ''
   nl: Kaapse miertapuit
   pl: smolarek łuskowany
   tr: Güneyli Termit Bülbülü

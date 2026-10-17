@@ -12,7 +12,7 @@ names:
   es: Anteojitos Dorsigrís
   fr: Zostérops à dos gris
   de: Graumantel-Brillenvogel
-  pt: silvereye
+  pt: ''
   ru: Серебряная белоглазка
   ja: ハイムネメジロ
   zh: 灰胸繡眼

@@ -12,7 +12,7 @@ names:
   es: Oropéndola Gorjinegra
   fr: Loriot à gorge noire
   de: Gelbmantelpirol
-  pt: dark-throated oriole
+  pt: ''
   ru: Пестробрюхая иволга
   ja: ズグロコウライウグイス
   zh: 黑喉黃鸝

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26117.0
 names:
   scientific: Stachyris herberti
-  fa: nan
+  fa: ''
   en: Sooty Babbler
   es: Timalí de Herbert
   fr: Timalie de Herbert
   de: Laosbuschtimalie
-  pt: sooty babbler
+  pt: ''
   ru: Лаосская тимелия
   ja: ラオスモリチメドリ
   zh: 烏穗鶥

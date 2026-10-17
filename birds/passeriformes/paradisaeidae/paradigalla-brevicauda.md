@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Colicorta
   fr: Paradisier à queue courte
   de: Kurzschwanz-Paradieselster
-  pt: short-tailed paradigalla
+  pt: ''
   ru: Короткохвостый шлемоклюв
   ja: タンビキヅノフウチョウ
   nl: Kortstaartparadigalla

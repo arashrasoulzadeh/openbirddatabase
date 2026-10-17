@@ -12,7 +12,7 @@ names:
   es: Jilguero Menor
   fr: Chardonneret mineur
   de: Mexikozeisig
-  pt: lesser goldfinch
+  pt: ''
   ru: Мексиканский чиж
   ja: ヒメキンヒワ
   zh: 暗背金翅雀

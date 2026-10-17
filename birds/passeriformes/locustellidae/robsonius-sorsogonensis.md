@@ -15,7 +15,7 @@ names:
   pt: bicol ground-warbler
   ru: Серогрудый жемчужнокрыл
   ja: ビコルサザイチメドリ
-  zh: Bicol Ground Warbler
+  zh: ''
   nl: Sorsogonsluipzanger
   pl: perłopiórek szarouchy
   tr: Bikol Yer Ötleğeni

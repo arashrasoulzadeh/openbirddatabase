@@ -12,7 +12,7 @@ names:
   es: Chara Gorjiplateada
   fr: Geai à gorge argentée
   de: Silberkehlhäher
-  pt: silvery-throated jay
+  pt: ''
   ru: Серебристогорлая сойка
   ja: ギンノドアオカケス
   zh: 银喉蓝头鹊

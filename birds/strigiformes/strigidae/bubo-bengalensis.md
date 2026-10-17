@@ -15,7 +15,7 @@ names:
   pt: rock eagle-owl
   ru: Бенгальский филин
   ja: ミナミワシミミズク
-  zh: Indian Eagle-Owl
+  zh: ''
   nl: Bengaalse oehoe
   pl: puchacz indyjski
   tr: Hint Puhusu

@@ -12,7 +12,7 @@ names:
   es: Mosquerito Piquicurvo Sureño
   fr: Bec-en-arc de Lawrence
   de: Gelbkehl-Krummschnabeltyrann
-  pt: southern bentbill
+  pt: ''
   ru: Оливковый крючкоклюв
   ja: ミナミカマハシタイランチョウ
   nl: Colombiaanse krombektiran

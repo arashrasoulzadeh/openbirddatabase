@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17900.0
 names:
   scientific: Stresemannia bougainvillei
-  fa: nan
+  fa: ''
   en: Bougainville Honeyeater
   es: Mielero de Bougainville
   fr: Méliphage de Bougainville
   de: Bougainvillehonigfresser
-  pt: bougainville honeyeater
+  pt: ''
   ru: Бугенвильский нектаролюб
   ja: ブーゲンビルミツスイ
   nl: Bougainvillehoningeter

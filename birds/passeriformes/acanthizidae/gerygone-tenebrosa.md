@@ -12,7 +12,7 @@ names:
   es: Gerigón Sombrío
   fr: Gérygone blafarde
   de: Braunrückengerygone
-  pt: dusky gerygone
+  pt: ''
   ru: Тусклая геригона
   ja: メジロセンニョムシクイ
   nl: Witoogmangrovezanger

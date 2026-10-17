@@ -12,7 +12,7 @@ names:
   es: Vanga Colirrojo
   fr: Calicalic malgache
   de: Rotschwanzvanga
-  pt: red-tailed vanga
+  pt: ''
   ru: Краснохвостая ванга
   ja: アカオオオハシモズ
   zh: 马达加斯加红尾钩嘴鵙

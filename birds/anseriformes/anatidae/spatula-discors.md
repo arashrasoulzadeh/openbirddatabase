@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 485.0
 names:
   scientific: Spatula discors
-  fa: nan
+  fa: ''
   en: Blue-winged Teal
   es: Cerceta Aliazul
   fr: Sarcelle à ailes bleues

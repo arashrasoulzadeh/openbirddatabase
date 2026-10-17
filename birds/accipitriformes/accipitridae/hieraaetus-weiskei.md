@@ -12,7 +12,7 @@ names:
   es: Águila Papú
   fr: Aigle de Weiske
   de: Papuazwergadler
-  pt: pygmy eagle
+  pt: ''
   ru: Новогвинейский орёл-карлик
   ja: コビトクマタカ
   nl: Papoeadwergarend

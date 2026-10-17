@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15235.0
 names:
   scientific: Thripadectes scrutator
-  fa: nan
+  fa: ''
   en: Peruvian Treehunter
   es: Trepamusgos Peruano
   fr: Anabate inca
@@ -15,7 +15,7 @@ names:
   pt: rufous-backed treehunter
   ru: Чешуегорлый лесовик
   ja: オオムシクイカマドドリ
-  zh: Peruvian Treehunter
+  zh: ''
   nl: Schubkeelboomjager
   pl: rudzielec peruwiański
   tr: Peru Dalavcısı

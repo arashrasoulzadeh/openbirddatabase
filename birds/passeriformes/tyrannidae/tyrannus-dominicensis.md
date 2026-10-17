@@ -15,7 +15,7 @@ names:
   pt: suiriri-cinza
   ru: Серый тиранн
   ja: ハイイロタイランチョウ
-  zh: Grey Kingbird
+  zh: ''
   nl: Grijze koningstiran
   pl: tyran szary
   tr: Karayip Tiranı

@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 13933.0
 names:
   scientific: Cercomacra brasiliana
-  fa: nan
+  fa: ''
   en: Rio de Janeiro Antbird
   es: Hormiguero Brasileño
   fr: Grisin du Brésil

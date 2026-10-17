@@ -12,7 +12,7 @@ names:
   es: Abubilla Gigante
   fr: Huppe de Sainte-Hélène
   de: Helenawiedehopf
-  pt: st. helena hoopoe
+  pt: ''
   ru: Гигантский удод
   ja: セントヘレナヤツガシラ
   zh: 聖赫勒拿島戴勝

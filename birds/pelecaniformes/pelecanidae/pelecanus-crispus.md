@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 7804.0
 names:
   scientific: Pelecanus crispus
-  fa: nan
+  fa: ''
   en: Dalmatian Pelican
   es: Pelícano Ceñudo
   fr: Pélican frisé

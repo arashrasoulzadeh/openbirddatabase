@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3317.0
 names:
   scientific: Chalcites ruficollis
-  fa: nan
+  fa: ''
   en: Rufous-throated Bronze Cuckoo
   es: Cuclillo Gorjirrojo
   fr: Coucou à gorge rousse
@@ -15,7 +15,7 @@ names:
   pt: rufous-throated bronze-cuckoo
   ru: Красношейная кукушка
   ja: ノドアカテリカッコウ
-  zh: Rufous-throated Bronze Cuckoo
+  zh: ''
   nl: Roodkeelbronskoekoek
   pl: kukułeczka rdzawogardła
   tr: Kırmızı Gerdanlı Guguk

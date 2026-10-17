@@ -12,7 +12,7 @@ names:
   es: Pavón Norteño
   fr: Grand Hocco
   de: Kronenhokko
-  pt: great curassow
+  pt: ''
   ru: Большой кракс
   ja: オオホウカンチョウ
   zh: 大鳳冠雉

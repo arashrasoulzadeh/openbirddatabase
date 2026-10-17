@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9912.0
 names:
   scientific: Alcedo atthis
-  fa: nan
+  fa: ''
   en: Common Kingfisher
   es: Martín Pescador Común
   fr: Martin-pêcheur d'Europe

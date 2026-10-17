@@ -12,7 +12,7 @@ names:
   es: Kiwi Moteado Menor
   fr: Kiwi d'Owen
   de: Zwergkiwi
-  pt: little spotted kiwi
+  pt: ''
   ru: Малый киви
   ja: コマダラキーウィ
   zh: 小斑點奇異鳥

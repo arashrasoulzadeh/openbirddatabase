@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9604.0
 names:
   scientific: Upupa epops
-  fa: nan
+  fa: ''
   en: Common Hoopoe
   es: Abubilla Común
   fr: Huppe fasciée

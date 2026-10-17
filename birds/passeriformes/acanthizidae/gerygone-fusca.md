@@ -12,7 +12,7 @@ names:
   es: Gerigón Coliblanco
   fr: Gérygone à queue blanche
   de: Weißschwanzgerygone
-  pt: western gerygone
+  pt: ''
   ru: Белохвостая геригона
   ja: オジロセンニョムシクイ
   zh: 西噪刺莺

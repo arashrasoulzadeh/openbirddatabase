@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4052.0
 names:
   scientific: Aerodramus ocistus
-  fa: nan
+  fa: ''
   en: Marquesan Swiftlet
   es: Salangana de las Marquesas
   fr: Salangane des Marquises
   de: Marquesassalangane
-  pt: marquesan swiftlet
+  pt: ''
   ru: Маркизская салангана
   ja: マルケサスアナツバメ
   zh: 马克萨金丝燕

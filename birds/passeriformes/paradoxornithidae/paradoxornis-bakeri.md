@@ -12,7 +12,7 @@ names:
   es: Picoloro Cabecirrufo Oriental
   fr: Paradoxornis de Baker
   de: Rotkopf-Papageimeise
-  pt: rufous-headed parrotbill
+  pt: ''
   ru: Рыжеголовая сутора
   ja: オオズアカダルマエナガ
   zh: 红头鸦雀

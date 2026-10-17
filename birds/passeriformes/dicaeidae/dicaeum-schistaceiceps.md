@@ -12,7 +12,7 @@ names:
   es: Picaflores de Halmahera
   fr: Dicée d'Halmahera
   de: Halmaheramistelfresser
-  pt: halmahera flowerpecker
+  pt: ''
   ru: Молуккский цветоед
   ja: ハルマヘラハナドリ
   nl: Halmaherahoningvogel

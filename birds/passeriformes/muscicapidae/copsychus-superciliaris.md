@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29038.0
 names:
   scientific: Copsychus superciliaris
-  fa: nan
+  fa: ''
   en: Visayan Shama
   es: Shama de las Bisayas
   fr: Shama des Visayas
   de: Visayasschama
-  pt: visayan shama
+  pt: ''
   ja: ビサヤシキチョウ
   nl: Visayashama
   pl: sroczek nieoznaczony

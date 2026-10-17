@@ -12,7 +12,7 @@ names:
   es: Cacatúa Galerita
   fr: Cacatoès à huppe jaune
   de: Gelbhaubenkakadu
-  pt: sulphur-crested cockatoo
+  pt: ''
   ru: Большой желтохохлый какаду
   ja: キバタン
   zh: 葵花凤头鹦鹉

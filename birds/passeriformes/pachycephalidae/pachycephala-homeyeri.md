@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19518.0
 names:
   scientific: Pachycephala homeyeri
-  fa: nan
+  fa: ''
   en: White-vented Whistler
   es: Silbador Culiblanco
   fr: Siffleur de Blasius
   de: Braunbrust-Dickkopf
-  pt: white-vented whistler
+  pt: ''
   ru: Темноспинный свистун
   ja: シロシリモズヒタキ
   zh: 白臀啸鹟

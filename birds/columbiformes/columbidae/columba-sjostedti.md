@@ -15,7 +15,7 @@ names:
   pt: cameroon pigeon
   ru: Камерунский вяхирь
   ja: カメルーンオリーブバト
-  zh: Cameroon Olive Pigeon
+  zh: ''
   nl: Kameroense olijfduif
   pl: gołąb kameruński
   tr: Kamerun Zeytin Güvercini

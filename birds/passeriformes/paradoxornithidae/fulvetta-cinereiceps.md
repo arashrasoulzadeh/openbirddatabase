@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25424.0
 names:
   scientific: Fulvetta cinereiceps
-  fa: nan
+  fa: ''
   en: Grey-hooded Fulvetta
   es: Fulveta Encapuchada
   fr: Fulvetta à gorge rayée

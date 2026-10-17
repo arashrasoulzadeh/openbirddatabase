@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5029.0
 names:
   scientific: Thaumasius baeri
-  fa: nan
+  fa: ''
   en: Tumbes Hummingbird
   es: Colibrí de Tumbes
   fr: Colibri de Tumbes
   de: Baerkolibri
-  pt: tumbes hummingbird
+  pt: ''
   ru: Бэров левкипп
   ja: ハイバラミズベハチドリ
   nl: Tumbeskolibrie

@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 32142.0
 names:
   scientific: Loxops caeruleirostris
-  fa: nan
+  fa: ''
   en: Akekee
   es: Akepa de Kauai
   fr: Loxopse de Kauai
   de: Kauai-Akepakleidervogel
-  pt: akekee
+  pt: ''
   ru: Акекиё
   ja: アケキ
   nl: Akekee

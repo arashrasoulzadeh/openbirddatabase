@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14270.0
 names:
   scientific: Grallaria ayacuchensis
-  fa: nan
+  fa: ''
   en: Ayacucho Antpitta
   es: Tororoí de Ayacucho
   fr: Grallaire d'Ayacucho
   de: Ayacucho-Ameisenpitta
-  pt: ayacucho antpitta
+  pt: ''
   ja: アヤクチョジアリドリ
   nl: Ayacuchomierpitta
   pl: kusaczka czekoladowa

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25833.0
 names:
   scientific: Zosterops rendovae
-  fa: nan
+  fa: ''
   en: Makira White-eye
   es: Anteojitos de San Cristóbal
   fr: Zostérops à gorge grise
   de: Graukehl-Brillenvogel
-  pt: makira white-eye
+  pt: ''
   ru: Серогорлая белоглазка
   ja: ハイノドメジロ
   nl: Makirabrilvogel

@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28545.0
 names:
   scientific: Turdus papuensis
-  fa: nan
+  fa: ''
   en: Papuan Island Thrush
   es: Mirlo de Papúa
   fr: Merle de Papouasie
   pt: papuan island-thrush
   ja: パプアハイガシラツグミ
-  zh: Papuan Island Thrush
+  zh: ''
   nl: Papoeamerel
   pl: drozd papuaski
   tr: Papua Ada Ardıcı

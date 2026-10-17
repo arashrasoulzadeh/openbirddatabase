@@ -12,7 +12,7 @@ names:
   es: Amazona Tucumana
   fr: Amazone de Tucuman
   de: Tucumanamazone
-  pt: tucuman amazon
+  pt: ''
   ru: Тукуманский амазон
   ja: カラカネボウシインコ
   zh: 榿木亞馬遜鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Carpintero de Los Yungas
   fr: Pic étoilé
   de: Perlstirnspecht
-  pt: dot-fronted woodpecker
+  pt: ''
   ru: Жемчужнолобый дятел
   ja: モンキハゲラ
   nl: Yungasspecht

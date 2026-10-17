@@ -15,7 +15,7 @@ names:
   pt: coastal boubou
   ru: Сомалийский бубу
   ja: ソマリーヤブモズ
-  zh: Black Boubou
+  zh: ''
   nl: Erlangerfiskaal
   pl: dzierzyk somalijski
   tr: Reichenow Bubusu

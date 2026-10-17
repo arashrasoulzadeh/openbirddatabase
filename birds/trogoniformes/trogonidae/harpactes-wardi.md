@@ -12,7 +12,7 @@ names:
   es: Trogón de Ward
   fr: Trogon de Ward
   de: Rosenschwanztrogon
-  pt: ward's trogon
+  pt: ''
   ru: Розовохвостый трогон
   ja: ビルマキヌバネドリ
   zh: 红腹咬鹃

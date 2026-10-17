@@ -12,7 +12,7 @@ names:
   es: Ratina Golirrufa
   fr: Timalie à gorge rousse
   de: Rotkehl-Zaunkönigtimalie
-  pt: rufous-throated wren-babbler
+  pt: ''
   ru: Рыжегорлый тинглин
   ja: ムネアカサザイチメドリ
   zh: 短尾鹩鹛

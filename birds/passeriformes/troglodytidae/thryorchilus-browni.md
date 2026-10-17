@@ -12,7 +12,7 @@ names:
   es: Cucarachero del Bambú
   fr: Troglodyte des volcans
   de: Bergzaunkönig
-  pt: timberline wren
+  pt: ''
   ru: Горный крапивник
   ja: ヤブミソサザイ
   zh: 峰鷦鷯

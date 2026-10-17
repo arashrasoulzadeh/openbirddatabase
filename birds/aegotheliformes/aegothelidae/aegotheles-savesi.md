@@ -12,7 +12,7 @@ names:
   es: Egotelo de Nueva Caledonia
   fr: Égothèle calédonien
   de: Schwarzrücken-Höhlenschwalm
-  pt: new caledonian owlet-nightjar
+  pt: ''
   ru: Новокаледонский совиный козодой
   ja: ニューカレドニアズクヨタカ
   zh: 新喀里裸鼻鴟

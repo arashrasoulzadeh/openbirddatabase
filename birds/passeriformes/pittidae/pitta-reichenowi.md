@@ -12,7 +12,7 @@ names:
   es: Pita Pechiverde
   fr: Brève à poitrine verte
   de: Grünbrustpitta
-  pt: green-breasted pitta
+  pt: ''
   ru: Зеленогрудая питта
   ja: アオムネヤイロチョウ
   zh: 非洲綠胸八色鶇

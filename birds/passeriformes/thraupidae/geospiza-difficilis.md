@@ -15,7 +15,7 @@ names:
   pt: sharp-beaked ground-finch
   ru: Остроклювый галапагосский вьюрок
   ja: ハシボソガラパゴスフィンチ
-  zh: Sharp-beaked Ground Finch
+  zh: ''
   nl: Spitssnavelgrondvink
   pl: darwinka ostrodzioba
   tr: Keskin Gagalı Yer İspinozu

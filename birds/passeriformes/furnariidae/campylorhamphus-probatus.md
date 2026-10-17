@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14908.0
 names:
   scientific: Campylorhamphus probatus
-  fa: nan
+  fa: ''
   en: Tapajos Scythebill
   es: Picoguadaña del Tapajós
   fr: Grimpar de Cardoso

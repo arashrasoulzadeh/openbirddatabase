@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25839.0
 names:
   scientific: Zosterops metcalfii
-  fa: nan
+  fa: ''
   en: Yellow-throated White-eye
   es: Anteojitos Goliamarillo
   fr: Zostérops à gorge jaune
   de: Goldkehl-Brillenvogel
-  pt: yellow-throated white-eye
+  pt: ''
   ru: Желтогорлая белоглазка
   ja: キノドメジロ
   nl: Geelkeelbrilvogel

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 7408.0
 names:
   scientific: Phalacrocorax nigrogularis
-  fa: nan
+  fa: ''
   en: Socotra Cormorant
   es: Cormorán de Socotra
   fr: Cormoran de Socotra
   de: Sokotrascharbe
-  pt: socotra cormorant
+  pt: ''
   ru: Персидский баклан
   ja: ペルシャウ
   zh: 索科特拉鸬鹚

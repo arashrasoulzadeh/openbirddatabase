@@ -15,7 +15,7 @@ names:
   pt: rameron pigeon
   ru: Оливковый вяхирь
   ja: オリーブバト
-  zh: African Olive Pigeon
+  zh: ''
   nl: Olijfduif
   pl: gołąb żółtooki
   tr: Zeytin Renkli Güvercin

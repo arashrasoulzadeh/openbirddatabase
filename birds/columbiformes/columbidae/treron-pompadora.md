@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2495.0
 names:
   scientific: Treron pompadora
-  fa: nan
+  fa: ''
   en: Sri Lanka Green Pigeon
   es: Vinago de Sri Lanka
   fr: Colombar pompadour
@@ -15,7 +15,7 @@ names:
   pt: sri lanka green-pigeon
   ru: Цейлонский зелёный голубь
   ja: スリランカアオバト
-  zh: Sri Lanka Green Pigeon
+  zh: ''
   nl: Ceylonese papegaaiduif
   pl: treron żółtolicy
   tr: Seylan Yeşil Güvercini

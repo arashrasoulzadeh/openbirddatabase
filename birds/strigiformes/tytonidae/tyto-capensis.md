@@ -15,7 +15,7 @@ names:
   pt: african grass-owl
   ru: Луговая сипуха
   ja: ミナミメンフクロウ
-  zh: African Grass Owl
+  zh: ''
   nl: Afrikaanse grasuil
   pl: płomykówka ziemna
   tr: Afrika Çayır Baykuşu

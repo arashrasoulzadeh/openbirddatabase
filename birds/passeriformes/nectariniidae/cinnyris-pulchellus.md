@@ -12,7 +12,7 @@ names:
   es: Suimanga Colilargo Sudanés
   fr: Souimanga à longue queue
   de: Elfennektarvogel
-  pt: beautiful sunbird
+  pt: ''
   ru: Красивая нектарница
   ja: ウツクシオナガタイヨウチョウ
   zh: 麗色花蜜鳥

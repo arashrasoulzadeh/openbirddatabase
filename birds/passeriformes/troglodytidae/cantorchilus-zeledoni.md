@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Zeledón
   fr: Troglodyte de Zeledon
   de: Zeledonzaunkönig
-  pt: canebrake wren
+  pt: ''
   ru: Костариканский крапивник
   ja: ゼレドンミソサザイ
   nl: Zeledonwinterkoning

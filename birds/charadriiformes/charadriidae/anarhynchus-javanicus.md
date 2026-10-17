@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Javanés
   fr: Pluvier de Java
   de: Javaregenpfeifer
-  pt: javan plover
+  pt: ''
   ru: Яванский зуёк
   ja: ジャワクロエリシロチドリ
   nl: Javaanse strandplevier

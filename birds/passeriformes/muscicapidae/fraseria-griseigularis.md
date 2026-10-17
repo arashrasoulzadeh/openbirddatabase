@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28893.0
 names:
   scientific: Fraseria griseigularis
-  fa: nan
+  fa: ''
   en: Grey-throated Tit-Flycatcher
   es: Papamoscas Gorjigrís
   fr: Gobemouche à gorge grise
@@ -15,7 +15,7 @@ names:
   pt: gray-throated tit-flycatcher
   ru: Серогорлая мухоловка
   ja: オグロハイイロヒタキ
-  zh: Grey-throated Tit-Flycatcher
+  zh: ''
   nl: Grijskeelvliegenvanger
   pl: muchołówka szarogardła
   tr: Gri Gerdanlı Sinekkapan

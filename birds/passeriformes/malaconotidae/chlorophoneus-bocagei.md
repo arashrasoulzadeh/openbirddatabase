@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 20166.0
 names:
   scientific: Chlorophoneus bocagei
-  fa: nan
+  fa: ''
   en: Bocage's Bushshrike
   es: Bubú de Bocage
   fr: Gonolek à front blanc
@@ -15,7 +15,7 @@ names:
   pt: gray-green bushshrike
   ru: Белобровый гладиатор
   ja: マユジロシロハラモズ
-  zh: Bocage's Bushshrike
+  zh: ''
   nl: Grijze bosklauwier
   pl: dzierzbik białobrewy
   tr: Bocage Çalıkasabı

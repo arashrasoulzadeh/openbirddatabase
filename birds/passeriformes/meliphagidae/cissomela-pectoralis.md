@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18076.0
 names:
   scientific: Cissomela pectoralis
-  fa: nan
+  fa: ''
   en: Banded Honeyeater
   es: Mielero Bandeado
   fr: Méliphage à collier
   de: Brustband-Honigfresser
-  pt: banded honeyeater
+  pt: ''
   ru: Ошейниковый медолюб
   ja: クロオビミツスイ
   zh: 带胸黑吸蜜鸟

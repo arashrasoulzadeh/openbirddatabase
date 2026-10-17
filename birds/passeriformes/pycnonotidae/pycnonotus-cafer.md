@@ -12,7 +12,7 @@ names:
   es: Bulbul Cafre
   fr: Bulbul à ventre rouge
   de: Rotsteißbülbül
-  pt: red-vented bulbul
+  pt: ''
   ru: Красногузый бюльбюль
   ja: シリアカヒヨドリ
   zh: 黑喉红臀鹎

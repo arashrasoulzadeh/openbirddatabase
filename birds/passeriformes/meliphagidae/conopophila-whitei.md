@@ -15,7 +15,7 @@ names:
   pt: gray honeyeater
   ru: Серый нектаролюб
   ja: ハイイロムジミツスイ
-  zh: Grey Honeyeater
+  zh: ''
   nl: Blauwgrijze honingeter
   pl: pyłkojad szary
   tr: Boz Balkuşu

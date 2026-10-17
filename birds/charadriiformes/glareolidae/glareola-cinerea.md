@@ -15,7 +15,7 @@ names:
   pt: gray pratincole
   ru: Серая тиркушка
   ja: ハイイロツバメチドリ
-  zh: Grey Pratincole
+  zh: ''
   nl: Grijze vorkstaartplevier
   pl: żwirowiec popielaty
   tr: Akça Bataklıkkırlangıcı

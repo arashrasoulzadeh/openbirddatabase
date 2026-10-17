@@ -12,7 +12,7 @@ names:
   es: Chotacabras Guatemalteco
   fr: Engoulevent maya
   de: Belizenachtschwalbe
-  pt: yucatan nightjar
+  pt: ''
   ru: Гватемальский козодой
   ja: ユカタンウィルヨタカ
   zh: 尤卡褐领夜鹰

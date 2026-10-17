@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9130.0
 names:
   scientific: Athene malaitae
-  fa: nan
+  fa: ''
   en: Malaita Owl
   es: Nínox de Malaita
   fr: Chevêche de Malaita
   de: Malaitakauz
-  pt: malaita owl
+  pt: ''
   nl: Malaita-uil
   pl: pójdźka brunatna
   tr: Malaita Bubuğu

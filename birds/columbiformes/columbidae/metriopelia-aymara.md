@@ -12,7 +12,7 @@ names:
   es: Palomita Aimará
   fr: Colombe aymara
   de: Aymaratäubchen
-  pt: golden-spotted ground dove
+  pt: ''
   ru: Аймарская земляная горлица
   ja: キンボシハシリバト
   nl: Bronsvleugelpunaduif

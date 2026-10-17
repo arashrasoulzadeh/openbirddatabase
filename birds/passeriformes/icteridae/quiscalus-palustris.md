@@ -12,7 +12,7 @@ names:
   es: Zanate Picofino
   fr: Quiscale de Mexico
   de: Schlankschnabelgrackel
-  pt: slender-billed grackle
+  pt: ''
   ru: Болотный гракл
   ja: ハシボソクロムクドリモドキ
   zh: 墨西哥擬八哥

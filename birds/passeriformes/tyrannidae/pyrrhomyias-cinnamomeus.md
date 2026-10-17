@@ -12,7 +12,7 @@ names:
   es: Birro Chico
   fr: Moucherolle cannelle
   de: Zimttyrann
-  pt: cinnamon flycatcher
+  pt: ''
   ru: Коричневый мухолов
   ja: ニッケイハエトリ
   zh: 桂紅霸鶲

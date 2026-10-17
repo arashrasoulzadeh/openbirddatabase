@@ -12,7 +12,7 @@ names:
   es: Tororoí de Anteojos
   fr: Grallaire à lunettes
   de: Orangewangen-Ameisenpitta
-  pt: streak-chested antpitta
+  pt: ''
   ru: Очковый торорой
   ja: シマムネモリジアリドリ
   nl: Brilmierpitta

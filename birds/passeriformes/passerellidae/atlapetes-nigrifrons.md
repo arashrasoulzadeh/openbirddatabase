@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33484.0
 names:
   scientific: Atlapetes nigrifrons
-  fa: nan
+  fa: ''
   en: Black-fronted Brushfinch
   es: Atlapetes del Perijá
   fr: Tohi à front noir
   de: Schwarzstirn-Buschammer
-  pt: black-fronted brushfinch
+  pt: ''
   ru: Чернолобая атлапета
   nl: Zwartvoorhoofdstruikgors
   pl: zaroślak czarnoczelny

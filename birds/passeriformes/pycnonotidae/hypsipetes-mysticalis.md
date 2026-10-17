@@ -15,7 +15,7 @@ names:
   pt: buru golden-bulbul
   ru: Буруанский бюльбюль
   ja: ブルキンイロヒヨドリ
-  zh: Buru Golden Bulbul
+  zh: ''
   nl: Burubuulbuul
   pl: szczeciak żółtolicy
   tr: Buru Altınbülbülü

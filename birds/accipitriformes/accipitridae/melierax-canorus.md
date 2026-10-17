@@ -15,7 +15,7 @@ names:
   pt: pale chanting-goshawk
   ru: Светлый певчий ястреб
   ja: コシジロウタオオタカ
-  zh: Pale Chanting Goshawk
+  zh: ''
   nl: Kaapse zanghavik
   pl: jastrzębiak jasny
   tr: Soluk Ötücü Çakır

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11835.0
 names:
   scientific: Piculus simplex
-  fa: nan
+  fa: ''
   en: Rufous-winged Woodpecker
   es: Carpintero Alirrufo
   fr: Pic à ailes rousses
   de: Zimtflügelspecht
-  pt: rufous-winged woodpecker
+  pt: ''
   ru: Рыжекрылый дятел
   ja: パナマノドジロモリゲラ
   nl: Roestvleugelspecht

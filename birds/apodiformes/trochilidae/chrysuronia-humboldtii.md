@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5158.0
 names:
   scientific: Chrysuronia humboldtii
-  fa: nan
+  fa: ''
   en: Humboldt's Sapphire
   es: Amazilia de Humboldt
   fr: Ariane de Humboldt
   de: Humboldtsaphirkolibri
-  pt: humboldt's sapphire
+  pt: ''
   ru: Гумбольдтов сапфир
   ja: フンボルトサファイアハチドリ
   nl: Humboldtsaffierkolibrie

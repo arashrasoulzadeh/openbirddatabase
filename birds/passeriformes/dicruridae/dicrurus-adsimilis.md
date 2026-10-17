@@ -12,7 +12,7 @@ names:
   es: Drongo Ahorquillado
   fr: Drongo brillant
   de: Trauerdrongo
-  pt: fork-tailed drongo
+  pt: ''
   ru: Траурный дронго
   ja: クロオウチュウ
   zh: 叉尾卷尾

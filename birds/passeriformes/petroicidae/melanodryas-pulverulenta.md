@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21842.0
 names:
   scientific: Melanodryas pulverulenta
-  fa: nan
+  fa: ''
   en: Mangrove Robin
   es: Petroica de Manglar
   fr: Miro des mangroves
   de: Mangroveschnäpper
-  pt: mangrove robin
+  pt: ''
   ru: Мангровая дриада
   ja: マングローブヒタキ
   nl: Tapuitvliegenvanger

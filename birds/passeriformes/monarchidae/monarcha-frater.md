@@ -12,7 +12,7 @@ names:
   es: Monarca Alinegro
   fr: Monarque à ailes noires
   de: Schwarzflügelmonarch
-  pt: black-winged monarch
+  pt: ''
   ru: Чернокрылый монарх
   ja: ハグロカササギビタキ
   nl: Zwartvleugelmonarch

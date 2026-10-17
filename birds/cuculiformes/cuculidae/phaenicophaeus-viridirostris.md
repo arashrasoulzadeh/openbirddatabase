@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3182.0
 names:
   scientific: Phaenicophaeus viridirostris
-  fa: nan
+  fa: ''
   en: Blue-faced Malkoha
   es: Malcoha Cariazul
   fr: Malcoha à bec vert
   de: Blauringkuckuck
-  pt: blue-faced malkoha
+  pt: ''
   ru: Синеглазая малкоа
   ja: アオメクロバンケンモドキ
   zh: 小綠嘴地鵑

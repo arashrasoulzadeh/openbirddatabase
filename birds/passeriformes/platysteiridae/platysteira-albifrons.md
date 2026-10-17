@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 19841.0
 names:
   scientific: Platysteira albifrons
-  fa: nan
+  fa: ''
   en: White-fronted Wattle-eye
   es: Batis Carunculado Frentiblanco
   fr: Pririt à front blanc
   de: Weißstirn-Lappenschnäpper
-  pt: white-fronted wattle-eye
+  pt: ''
   ru: Белолобая серёжкоглазка
   ja: クロオビメガネヒタキ
   nl: Angolese lelvliegenvanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18037.0
 names:
   scientific: Myzomela melanocephala
-  fa: nan
+  fa: ''
   en: Black-headed Myzomela
   es: Mielero Cabecinegro
   fr: Myzomèle à tête noire
   de: Savohonigfresser
-  pt: black-headed myzomela
+  pt: ''
   ru: Черноголовая медовка
   ja: クロガシラミツスイ
   nl: Savodwerghoningeter

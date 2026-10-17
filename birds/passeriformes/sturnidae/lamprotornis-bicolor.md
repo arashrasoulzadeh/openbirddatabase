@@ -15,7 +15,7 @@ names:
   pt: african pied starling
   ru: Белогузый спрео
   ja: シロハラチャムクドリ
-  zh: Pied Starling
+  zh: ''
   nl: Tweekleurige glansspreeuw
   pl: błyszczak brunatny
   tr: Afrika Alaca Sığırcığı

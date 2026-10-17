@@ -12,7 +12,7 @@ names:
   es: Azor Rojo
   fr: Autour rouge
   de: Fuchshabicht
-  pt: red goshawk
+  pt: ''
   ru: Каштановый ястреб
   ja: アカオオタカ
   zh: 褐肩鹰

@@ -15,7 +15,7 @@ names:
   pt: palrador
   ru: Пальмовый бюльбюль
   ja: ヌマヒヨドリ
-  zh: Swamp Palm Bulbul
+  zh: ''
   nl: Moerasbuulbuul
   pl: bilbilowiec
   tr: Palmiye Yaprakbülbülü

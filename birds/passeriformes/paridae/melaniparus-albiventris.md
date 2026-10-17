@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22239.0
 names:
   scientific: Melaniparus albiventris
-  fa: nan
+  fa: ''
   en: White-bellied Tit
   es: Carbonero Ventriblanco
   fr: Mésange à ventre blanc
   de: Weißbauch-Rußmeise
-  pt: white-bellied tit
+  pt: ''
   ru: Белобрюхая синица
   ja: シロハラクロガラ
   nl: Witbuikmees

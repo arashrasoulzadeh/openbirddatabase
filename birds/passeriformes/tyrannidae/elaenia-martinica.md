@@ -12,7 +12,7 @@ names:
   es: Fiofío Caribeño
   fr: Élénie siffleuse
   de: Weißkinn-Olivtyrann
-  pt: caribbean elaenia
+  pt: ''
   ru: Карибская эления
   ja: カリブシラギクタイランチョウ
   zh: 加勒比拟霸鹟

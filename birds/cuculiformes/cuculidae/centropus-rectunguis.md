@@ -12,7 +12,7 @@ names:
   es: Cucal de Strickland
   fr: Coucal de Strickland
   de: Kurzspornkuckuck
-  pt: short-toed coucal
+  pt: ''
   ru: Короткопалый кукаль
   ja: コユビバンケン
   zh: 短趾鴉鵑

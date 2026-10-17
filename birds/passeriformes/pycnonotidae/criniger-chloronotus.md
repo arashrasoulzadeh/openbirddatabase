@@ -15,7 +15,7 @@ names:
   pt: eastern bearded-greenbul
   ru: Зеленоспинный бюльбюль
   ja: セミドリアゴヒゲヒヨドリ
-  zh: Eastern Bearded Greenbul
+  zh: ''
   nl: Cassinbaardbuulbuul
   pl: szczeciobrodacz zielony
   tr: Ak Sakallı Yaprakbülbülü

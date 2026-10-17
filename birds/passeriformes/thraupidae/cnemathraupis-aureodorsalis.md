@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 34870.0
 names:
   scientific: Cnemathraupis aureodorsalis
-  fa: nan
+  fa: ''
   en: Golden-backed Mountain Tanager
   es: Tangara Dorsidorada
   fr: Tangara à dos d'or
   de: Goldrücken-Bergtangare
-  pt: golden-backed mountain tanager
+  pt: ''
   ru: Короткоклювая танагра
   ja: ペルーキバラフウキンチョウ
   nl: Goudrugbergtangare

@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2606.0
 names:
   scientific: Ramphiculus jambu
-  fa: nan
+  fa: ''
   en: Jambu Fruit Dove
   es: Tilopo Jambú
   fr: Ptilope jambou
@@ -15,7 +15,7 @@ names:
   pt: jambu fruit-dove
   ru: Краснолицый фруктовый голубь
   ja: ボタンバト
-  zh: Jambu Fruit Dove
+  zh: ''
   nl: Jambujufferduif
   pl: owocożer czerwonolicy
   tr: Al Yüzlü Meyve Kumrusu

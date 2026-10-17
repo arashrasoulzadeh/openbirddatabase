@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28795.0
 names:
   scientific: Muscicapa randi
-  fa: nan
+  fa: ''
   en: Ashy-breasted Flycatcher
   es: Papamoscas de Rand
   fr: Gobemouche à poitrine grise
   de: Aschbrustschnäpper
-  pt: ashy-breasted flycatcher
+  pt: ''
   ru: Пепельногрудая мухоловка
   ja: フィリピンコサメビタキ
   nl: Asborstvliegenvanger

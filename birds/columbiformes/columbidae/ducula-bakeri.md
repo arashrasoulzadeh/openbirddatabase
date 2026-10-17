@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2813.0
 names:
   scientific: Ducula bakeri
-  fa: nan
+  fa: ''
   en: Vanuatu Imperial Pigeon
   es: Dúcula de Vanuatu
   fr: Carpophage de Baker
@@ -15,7 +15,7 @@ names:
   pt: baker's imperial-pigeon
   ru: Вануатский плодовый голубь
   ja: ニューヘブリデスミカドバト
-  zh: Vanuatu Imperial Pigeon
+  zh: ''
   nl: Bakermuskaatduif
   pl: muszkatela ciemnobrzucha
   tr: Baker Has Güvercini

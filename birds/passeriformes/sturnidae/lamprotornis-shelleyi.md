@@ -12,7 +12,7 @@ names:
   es: Estornino de Shelley
   fr: Choucador de Shelley
   de: Shelleyglanzstar
-  pt: shelley's starling
+  pt: ''
   ru: Эфиопский спрео
   ja: ムラサキチャバラテリムク
   nl: Shelleyglansspreeuw

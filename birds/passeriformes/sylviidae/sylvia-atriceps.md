@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25286.0
 names:
   scientific: Sylvia atriceps
-  fa: nan
+  fa: ''
   en: Rwenzori Hill Babbler
   es: Curruca del Ruwenzori
   fr: Fauvette du Rwenzori
   de: Schwarzkopf-Grasmücke
-  pt: rwenzori hill babbler
+  pt: ''
   ru: Рувензорская славка-монашка
   ja: ルウェンゾリムジチメドリ
   zh: 黑头非洲雅鹛

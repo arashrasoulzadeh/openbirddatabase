@@ -12,7 +12,7 @@ names:
   es: Zarapito Fino
   fr: Courlis à bec grêle
   de: Dünnschnabel-Brachvogel
-  pt: slender-billed curlew
+  pt: ''
   ru: Тонкоклювый кроншнеп
   ja: シロハラチュウシャクシギ
   zh: 細嘴杓鷸

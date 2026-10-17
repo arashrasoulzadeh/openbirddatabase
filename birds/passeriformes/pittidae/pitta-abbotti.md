@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 13385.0
 names:
   scientific: Pitta abbotti
-  fa: nan
+  fa: ''
   en: Nicobar Hooded Pitta
   es: Pita de las Nicobar
   fr: Brève des Nicobar
-  pt: nicobar hooded pitta
+  pt: ''
   ja: ニコバルズグロヤイロチョウ
   nl: Nicobarenpitta
   pl: kurtaczek rdzawołbisty

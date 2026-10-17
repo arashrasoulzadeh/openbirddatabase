@@ -12,7 +12,7 @@ names:
   es: Colibrí Colicorto
   fr: Colibri à queue courte
   de: Kurzschwanzelfe
-  pt: short-tailed woodstar
+  pt: ''
   ru: Короткохвостый эльф
   ja: チビオハチドリ
   zh: 短尾蜂鸟

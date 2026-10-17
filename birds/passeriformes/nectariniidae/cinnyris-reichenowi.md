@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30373.0
 names:
   scientific: Cinnyris reichenowi
-  fa: nan
+  fa: ''
   en: Northern Double-collared Sunbird
   es: Suimanga de Preuss
   fr: Souimanga de Preuss
   de: Nandinektarvogel
-  pt: northern double-collared sunbird
+  pt: ''
   ru: Желтоплечая нектраница
   ja: キタゴシキタイヨウチョウ
   nl: Preusshoningzuiger

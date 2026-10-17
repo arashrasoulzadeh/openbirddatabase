@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27099.0
 names:
   scientific: Polioptila paraensis
-  fa: nan
+  fa: ''
   en: Para Gnatcatcher
   es: Perlita de Pará
   fr: Gobemoucheron du Para
@@ -15,7 +15,7 @@ names:
   pt: balança-rabo-paraense
   ru: Беленская комароловка
   ja: パラブユムシクイ
-  zh: Para Gnatcatcher
+  zh: ''
   nl: Paramuggenvanger
   pl: siwuszka brazylijska
   tr: Para Bitkuşu

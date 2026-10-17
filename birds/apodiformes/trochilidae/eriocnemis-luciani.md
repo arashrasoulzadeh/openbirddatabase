@@ -12,7 +12,7 @@ names:
   es: Calzadito Colilargo
   fr: Érione catherine
   de: Langschwanz-Höschenkolibri
-  pt: sapphire-vented puffleg
+  pt: ''
   ru: Длиннохвостый эрион
   ja: アオハラワタアシハチドリ
   zh: 蓝臀毛腿蜂鸟

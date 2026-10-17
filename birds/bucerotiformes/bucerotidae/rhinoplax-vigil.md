@@ -12,7 +12,7 @@ names:
   es: Cálao de Yelmo
   fr: Calao à casque rond
   de: Schildhornvogel
-  pt: helmeted hornbill
+  pt: ''
   ru: Шлемоносный гомрай
   ja: オナガサイチョウ
   zh: 钢盔犀鸟

@@ -15,7 +15,7 @@ names:
   pt: ashy antwren
   ru: Пепельный муравьелов
   ja: ズグロヒメアリサザイ
-  zh: Yungas Antwren
+  zh: ''
   nl: Yungasmiersluiper
   pl: mrówiaczek boliwijski
   tr: Yungas Karıncaçıvgını

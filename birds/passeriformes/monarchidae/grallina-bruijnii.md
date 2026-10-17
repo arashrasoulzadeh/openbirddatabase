@@ -12,7 +12,7 @@ names:
   es: Grallina Papú
   fr: Gralline papoue
   de: Bachmonarch
-  pt: torrent-lark
+  pt: ''
   ru: Ручьевая граллина
   ja: ヤマツチスドリ
   nl: Nieuw-Guinese slijkekster

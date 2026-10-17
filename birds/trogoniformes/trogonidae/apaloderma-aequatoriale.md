@@ -12,7 +12,7 @@ names:
   es: Trogón Carigualdo
   fr: Trogon à joues jaunes
   de: Gelbwangentrogon
-  pt: bare-cheeked trogon
+  pt: ''
   ru: Желтощёкий трогон
   ja: ニシアフリカキヌバネドリ
   nl: Geelwangtrogon

@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Hércules
   fr: Martin-pêcheur de Blyth
   de: Herkuleseisvogel
-  pt: blyth's kingfisher
+  pt: ''
   ru: Зимородок-геркулес
   ja: オオカワセミ
   zh: 斑头大翠鸟

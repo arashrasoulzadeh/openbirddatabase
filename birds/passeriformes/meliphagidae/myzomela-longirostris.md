@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18045.0
 names:
   scientific: Myzomela longirostris
-  fa: nan
+  fa: ''
   en: Long-billed Myzomela
   es: Mielero de Goodenough
   fr: Myzomèle à long bec
   de: Nidulahonigfresser
-  pt: long-billed myzomela
+  pt: ''
   nl: Goodenoughdwerghoningeter
   pl: miodówka długodzioba
   tr: Uzun Gagalı Mizomela

@@ -12,7 +12,7 @@ names:
   es: Nínox Australiano
   fr: Ninoxe d'Australie
   de: Boobookkauz
-  pt: australian boobook
+  pt: ''
   ru: Австралийская иглоногая сова
   ja: ミナミアオハズク
   zh: 澳洲布布克鷹鴞

@@ -15,7 +15,7 @@ names:
   pt: hermit wood-wren
   ru: Крапивник-отшельник
   ja: サンタマルタモリミソサザイ
-  zh: Hermit Wood Wren
+  zh: ''
   nl: Santa-Martaboswinterkoning
   pl: stokowczyk samotny
   tr: Zirve Çıtkuşu

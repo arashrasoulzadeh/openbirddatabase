@@ -15,7 +15,7 @@ names:
   pt: cuco-bronzeado-grande
   ru: Пегая кукушка
   ja: ブロンズミドリカッコウ
-  zh: Diederik Cuckoo
+  zh: ''
   nl: Diederikkoekoek
   pl: kukułeczka pstra
   tr: Sürmeli Zümrüt Guguğu

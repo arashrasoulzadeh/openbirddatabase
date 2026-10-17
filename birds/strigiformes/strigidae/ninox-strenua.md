@@ -12,7 +12,7 @@ names:
   es: Nínox Robusto
   fr: Ninoxe puissante
   de: Riesenkauz
-  pt: powerful owl
+  pt: ''
   ru: Гигантская иглоногая сова
   ja: オニアオバズク
   nl: Grote valkuil

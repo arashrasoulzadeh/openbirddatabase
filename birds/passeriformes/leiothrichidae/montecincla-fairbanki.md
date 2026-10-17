@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26498.0
 names:
   scientific: Montecincla fairbanki
-  fa: nan
+  fa: ''
   en: Palani Laughingthrush
   es: Charlatán de Palani
   fr: Garrulaxe de Fairbank
   de: Flötenhäherling
-  pt: palani laughingthrush
+  pt: ''
   ru: Керальская кустарница
   ja: パラニガビチョウ
   zh: 帕拉尼灰胸噪鹛

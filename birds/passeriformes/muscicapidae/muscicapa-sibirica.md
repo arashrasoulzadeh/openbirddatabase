@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28782.0
 names:
   scientific: Muscicapa sibirica
-  fa: nan
+  fa: ''
   en: Dark-sided Flycatcher
   es: Papamoscas Siberiano
   fr: Gobemouche de Sibérie
   de: Rußschnäpper
-  pt: dark-sided flycatcher
+  pt: ''
   ru: Сибирская мухоловка
   ja: サメビタキ
   zh: 乌鹟

@@ -12,7 +12,7 @@ names:
   es: Alondra Coliblanca
   fr: Alouette à queue blanche
   de: Weißschwanzlerche
-  pt: white-tailed lark
+  pt: ''
   ru: Белохвостый жаворонок
   ja: オジロヤブヒバリ
   zh: 白尾歌百靈

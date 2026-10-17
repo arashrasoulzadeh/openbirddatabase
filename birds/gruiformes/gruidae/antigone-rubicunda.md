@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5706.0
 names:
   scientific: Antigone rubicunda
-  fa: nan
+  fa: ''
   en: Brolga
   es: Grulla Brolga
   fr: Grue brolga
   de: Brolgakranich
-  pt: brolga
+  pt: ''
   ru: Австралийский журавль
   ja: オーストラリアヅル
   zh: 澳洲鶴

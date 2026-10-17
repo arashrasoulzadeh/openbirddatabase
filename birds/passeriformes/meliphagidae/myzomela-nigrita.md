@@ -12,7 +12,7 @@ names:
   es: Mielero Negro
   fr: Myzomèle noir
   de: Schwarzrücken-Honigfresser
-  pt: papuan black myzomela
+  pt: ''
   ru: Чёрная медовка
   ja: クロミツスイ
   nl: Zwarte dwerghoningeter

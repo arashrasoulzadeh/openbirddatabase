@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14263.0
 names:
   scientific: Grallaria capitalis
-  fa: nan
+  fa: ''
   en: Bay Antpitta
   es: Tororoí Bayo
   fr: Grallaire châtaine
   de: Rostameisenpitta
-  pt: bay antpitta
+  pt: ''
   ru: Перуанская питтовая муравьеловка
   ja: チャイロクリセジアリドリ
   nl: Huanucomierpitta

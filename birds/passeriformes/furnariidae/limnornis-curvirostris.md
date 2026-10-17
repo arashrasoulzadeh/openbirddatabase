@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15067.0
 names:
   scientific: Limnornis curvirostris
-  fa: nan
+  fa: ''
   en: Curve-billed Reedhaunter
   es: Pajonalera Piquicurva
   fr: Limnornis à bec courbe

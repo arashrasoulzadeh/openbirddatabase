@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2566.0
 names:
   scientific: Treron oxyurus
-  fa: nan
+  fa: ''
   en: Sumatran Green Pigeon
   es: Vinago de Sumatra
   fr: Colombar à queue pointue
@@ -15,7 +15,7 @@ names:
   pt: sumatran green-pigeon
   ru: Суматранский зелёный голубь
   ja: キバラハリオアオバト
-  zh: Sumatran Green Pigeon
+  zh: ''
   nl: Sumatraanse papegaaiduif
   pl: treron sumatrzański
   tr: Sumatra Yeşil Güvercini

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28837.0
 names:
   scientific: Muscicapa cassini
-  fa: nan
+  fa: ''
   en: Cassin's Flycatcher
   es: Papamoscas de Cassin
   fr: Gobemouche de Cassin
   de: Cassinschnäpper
-  pt: cassin's flycatcher
+  pt: ''
   ru: Водяная мухоловка
   ja: シロハラサメビタキ
   nl: Cassinvliegenvanger

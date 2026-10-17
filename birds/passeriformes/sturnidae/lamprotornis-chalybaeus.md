@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27978.0
 names:
   scientific: Lamprotornis chalybaeus
-  fa: nan
+  fa: ''
   en: Greater Blue-eared Starling
   es: Estornino Orejiazul
   fr: Choucador à oreillons bleus

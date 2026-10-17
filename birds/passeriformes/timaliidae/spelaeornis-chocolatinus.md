@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 25995.0
 names:
   scientific: Spelaeornis chocolatinus
-  fa: nan
+  fa: ''
   en: Naga Wren-Babbler
   es: Ratina Chocolate
   fr: Timalie chocolat
   de: Naga-Zaunkönigtimalie
-  pt: naga wren-babbler
+  pt: ''
   ru: Шоколадный тинглин
   ja: ウロコオナガサザイチメドリ
   zh: 那伽鹩鹛

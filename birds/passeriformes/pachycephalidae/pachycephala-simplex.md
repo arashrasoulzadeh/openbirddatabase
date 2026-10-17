@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19529.0
 names:
   scientific: Pachycephala simplex
-  fa: nan
+  fa: ''
   en: Grey Whistler
   es: Silbador Simple
   fr: Siffleur sobre
@@ -15,7 +15,7 @@ names:
   pt: gray whistler
   ru: Серый свистун
   ja: チャイロモズヒタキ
-  zh: Grey Whistler
+  zh: ''
   nl: Grauwe fluiter
   pl: fletówka szara
   tr: Gri Islıkçı

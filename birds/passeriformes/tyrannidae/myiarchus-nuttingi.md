@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17326.0
 names:
   scientific: Myiarchus nuttingi
-  fa: nan
+  fa: ''
   en: Nutting's Flycatcher
   es: Papamoscas Huí
   fr: Tyran de Nutting

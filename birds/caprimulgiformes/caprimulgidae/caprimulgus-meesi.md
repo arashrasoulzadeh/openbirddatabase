@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Mees
   fr: Engoulevent de Mees
   de: Floresnachtschwalbe
-  pt: mees's nightjar
+  pt: ''
   ru: Флоресский козодой
   ja: スンバヨタカ
   nl: Floresnachtzwaluw

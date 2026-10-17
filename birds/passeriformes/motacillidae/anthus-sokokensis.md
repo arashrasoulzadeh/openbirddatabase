@@ -12,7 +12,7 @@ names:
   es: Bisbita del Sokoke
   fr: Pipit de Sokoke
   de: Sokokepieper
-  pt: sokoke pipit
+  pt: ''
   ru: Сококский конёк
   ja: ウロコタヒバリ
   nl: Sokokepieper

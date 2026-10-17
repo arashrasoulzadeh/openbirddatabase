@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14055.0
 names:
   scientific: Hafferia zeledoni
-  fa: nan
+  fa: ''
   en: Zeledon's Antbird
   es: Hormiguero de Zeledón
   fr: Alapi de Zeledon
   de: Panamáameisenvogel
-  pt: zeledon's antbird
+  pt: ''
   ru: Панамская муравьеловка
   ja: ゼレドナリドリ
   nl: Zeledonmiervogel

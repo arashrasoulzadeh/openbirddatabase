@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5611.0
 names:
   scientific: Zapornia monasa
-  fa: nan
+  fa: ''
   en: Kosrae Crake
   es: Polluela de Isla Kosrae
   fr: Marouette de Kusaie
   de: Kosraesumpfhuhn
-  pt: kosrae crake
+  pt: ''
   ru: Кусайский погоныш
   ja: ナンヨウコクイナ
   nl: Kusaieral

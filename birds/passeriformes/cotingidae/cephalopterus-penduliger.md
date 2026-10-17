@@ -12,7 +12,7 @@ names:
   es: Paragüero Corbatudo
   fr: Coracine casquée
   de: Langlappen-Schirmvogel
-  pt: long-wattled umbrellabird
+  pt: ''
   ru: Эквадорская зонтичная птица
   ja: ナガエカサドリ
   zh: 長耳垂傘鳥

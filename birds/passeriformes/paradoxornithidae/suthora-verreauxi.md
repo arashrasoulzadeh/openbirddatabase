@@ -12,7 +12,7 @@ names:
   es: Picoloro Dorado
   fr: Paradoxornis de Verreaux
   de: Goldstirn-Papageimeise
-  pt: golden parrotbill
+  pt: ''
   ru: Золотистая сутора
   ja: キンイロダルマエナガ
   zh: 金色鸦雀

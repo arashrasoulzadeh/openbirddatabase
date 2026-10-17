@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 1605.0
 names:
   scientific: Polyplectron germaini
-  fa: nan
+  fa: ''
   en: Germain's Peacock-Pheasant
   es: Espolonero de Germain
   fr: Éperonnier de Germain
   de: Annampfaufasan
-  pt: germain's peacock-pheasant
+  pt: ''
   ru: Бурый павлиний фазан
   ja: カッショクコクジャク
   zh: 眼斑孔雀雉

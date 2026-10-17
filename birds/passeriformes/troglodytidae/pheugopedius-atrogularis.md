@@ -12,7 +12,7 @@ names:
   es: Cucarachero Gorjinegro
   fr: Troglodyte à gorge noire
   de: Schwarzkehl-Zaunkönig
-  pt: black-throated wren
+  pt: ''
   ru: Чернозобый крапивник
   ja: ノドグロマユミソサザイ
   nl: Zwartkeelwinterkoning

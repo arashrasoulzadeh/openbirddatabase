@@ -12,7 +12,7 @@ names:
   es: Escribano de Cabanis
   fr: Bruant de Cabanis
   de: Cabanisammer
-  pt: cabanis's bunting
+  pt: ''
   ru: Африканская овсянка
   ja: キンムネホオグロ
   zh: 白眉黃腹鵐

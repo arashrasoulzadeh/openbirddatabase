@@ -12,7 +12,7 @@ names:
   es: Colibrí Cobrizo
   fr: Colibri étincelant
   de: Rostkolibri
-  pt: shining sunbeam
+  pt: ''
   ru: Медная ирида
   ja: ニジハチドリ
   zh: 闪羽蜂鸟

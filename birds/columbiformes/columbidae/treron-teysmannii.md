@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2522.0
 names:
   scientific: Treron teysmannii
-  fa: nan
+  fa: ''
   en: Sumba Green Pigeon
   es: Vinago de Sumba
   fr: Colombar de Sumba
@@ -15,7 +15,7 @@ names:
   pt: sumba green-pigeon
   ru: Сумбанский зелёный голубь
   ja: スンバアオバト
-  zh: Sumba Green Pigeon
+  zh: ''
   nl: Soembapapegaaiduif
   pl: treron zielonosiwy
   tr: Sumba Yeşil Güvercini

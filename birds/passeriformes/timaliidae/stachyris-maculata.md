@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26097.0
 names:
   scientific: Stachyris maculata
-  fa: nan
+  fa: ''
   en: Chestnut-rumped Babbler
   es: Timalí Maculado
   fr: Timalie maculée
   de: Rostbürzel-Buschtimalie
-  pt: chestnut-rumped babbler
+  pt: ''
   ru: Пятнистогрудая тимелия
   ja: コシアカモリチメドリ
   zh: 红腰穗鹛

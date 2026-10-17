@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18042.0
 names:
   scientific: Myzomela rosenbergii
-  fa: nan
+  fa: ''
   en: Red-collared Myzomela
   es: Mielero de Rosenberg
   fr: Myzomèle de Rosenberg
   de: Rotbrust-Honigfresser
-  pt: red-collared myzomela
+  pt: ''
   ru: Чёрно-красная мизомела
   ja: クロアカミツスイ
   nl: Zwartkopdwerghoningeter

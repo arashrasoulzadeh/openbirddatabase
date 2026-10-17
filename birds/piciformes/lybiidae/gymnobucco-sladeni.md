@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10560.0
 names:
   scientific: Gymnobucco sladeni
-  fa: nan
+  fa: ''
   en: Sladen's Barbet
   es: Barbudo de Sladen
   fr: Barbican de Sladen
   de: Rußbartvogel
-  pt: sladen's barbet
+  pt: ''
   ru: Рыжебородая либия
   ja: コンゴハナヒゲゴシキドリ
   nl: Sladenborstelneus

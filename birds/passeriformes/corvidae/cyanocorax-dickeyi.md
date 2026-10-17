@@ -12,7 +12,7 @@ names:
   es: Chara Pinta
   fr: Geai panaché
   de: Schopfblaurabe
-  pt: tufted jay
+  pt: ''
   ru: Пегая сойка
   ja: フサエボシルリサンジャク
   zh: 簇蓝鸦

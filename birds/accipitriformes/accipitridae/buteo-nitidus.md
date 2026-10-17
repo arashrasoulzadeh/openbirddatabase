@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8474.0
 names:
   scientific: Buteo nitidus
-  fa: nan
+  fa: ''
   en: Grey-lined Hawk
   es: Busardo Gris Meridional
   fr: Buse cendrée
@@ -15,7 +15,7 @@ names:
   pt: gavião-pedrês
   ru: Полосатый канюк
   ja: ハイイロノスリ
-  zh: Grey-lined Hawk
+  zh: ''
   nl: Grijsgestreepte buizerd
   pl: myszołowik prążkowany
   tr: Gri Çizgili Şahin

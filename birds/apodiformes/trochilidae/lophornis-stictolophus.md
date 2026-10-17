@@ -12,7 +12,7 @@ names:
   es: Coqueta Coronada
   fr: Coquette pailletée
   de: Glanzelfe
-  pt: spangled coquette
+  pt: ''
   ru: Пестрохохлая кокетка
   ja: アカカンムリハチドリ
   zh: 斑冠蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16744.0
 names:
   scientific: Elaenia cherriei
-  fa: nan
+  fa: ''
   en: Hispaniolan Elaenia
   es: Fiofío de la Española
   fr: Élénie d'Hispaniola

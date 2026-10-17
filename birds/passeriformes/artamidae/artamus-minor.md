@@ -12,7 +12,7 @@ names:
   es: Artamo Chico
   fr: Petit Langrayen
   de: Zwergschwalbenstar
-  pt: little woodswallow
+  pt: ''
   ru: Малый артам
   ja: ヒメモリツバメ
   zh: 棕燕鵙

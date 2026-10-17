@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23941.0
 names:
   scientific: Bradypterus baboecala
-  fa: nan
+  fa: ''
   en: Little Rush Warbler
   es: Zarzalero Charlatán
   fr: Mégalure caqueteuse
   de: Sumpfbuschsänger
-  pt: little rush warbler
+  pt: ''
   ru: Болотная бурогрудка
   ja: アフリカオウギセッカ
   zh: 蒲草短翅莺

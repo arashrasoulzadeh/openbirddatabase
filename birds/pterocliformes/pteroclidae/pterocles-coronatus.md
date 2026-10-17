@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2883.0
 names:
   scientific: Pterocles coronatus
-  fa: nan
+  fa: ''
   en: Crowned Sandgrouse
   es: Ganga Coronada
   fr: Ganga couronné

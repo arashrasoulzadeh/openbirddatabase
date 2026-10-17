@@ -12,7 +12,7 @@ names:
   es: Colasuave Dorsirrufo
   fr: Synallaxe mantelé
   de: Graustirncanastero
-  pt: russet-mantled softtail
+  pt: ''
   ru: Рыжеспинная мягкохвостка
   ja: セアカアレチカマドドリ
   nl: Berlepschstekelkruin

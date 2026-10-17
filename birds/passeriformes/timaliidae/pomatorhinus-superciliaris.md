@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26020.0
 names:
   scientific: Pomatorhinus superciliaris
-  fa: nan
+  fa: ''
   en: Slender-billed Scimitar Babbler
   es: Cimitarra Picofina
   fr: Pomatorhin à bec fin

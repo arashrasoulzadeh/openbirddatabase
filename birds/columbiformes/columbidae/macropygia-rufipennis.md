@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco de las Andamán
   fr: Phasianelle des Nicobar
   de: Rotsteißtaube
-  pt: andaman cuckoo-dove
+  pt: ''
   ru: Андаманская кукушковая горлица
   ja: アンダマンオナガバト
   nl: Andamanenkoekoeksduif

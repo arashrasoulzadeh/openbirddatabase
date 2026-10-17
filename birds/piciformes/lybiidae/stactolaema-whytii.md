@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10572.0
 names:
   scientific: Stactolaema whytii
-  fa: nan
+  fa: ''
   en: Whyte's Barbet
   es: Barbudo Especulado
   fr: Barbican de Whyte
   de: Spiegelbartvogel
-  pt: whyte's barbet
+  pt: ''
   ru: Белокрылая либия
   ja: アゴジロゴシキドリ
   nl: Whytebaardvogel

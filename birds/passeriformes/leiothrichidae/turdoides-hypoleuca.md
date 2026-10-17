@@ -15,7 +15,7 @@ names:
   pt: northern pied-babbler
   ru: Бронзовая дроздовка
   ja: シロハラヤブチメドリ
-  zh: Northern Pied Babbler
+  zh: ''
   nl: Bonte babbelaar
   pl: tymal srokaty
   tr: Kuzeyli Alaca Yedikardeş

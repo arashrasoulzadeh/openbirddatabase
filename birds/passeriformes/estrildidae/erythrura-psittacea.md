@@ -12,7 +12,7 @@ names:
   es: Diamante Lorito
   fr: Diamant psittaculaire
   de: Rotkopf-Papageiamadine
-  pt: red-throated parrotfinch
+  pt: ''
   ru: Краснозобая амадина
   ja: ヒノマルチョウ
   zh: 红喉鹦雀

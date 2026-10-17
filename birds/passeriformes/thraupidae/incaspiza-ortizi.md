@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35411.0
 names:
   scientific: Incaspiza ortizi
-  fa: nan
+  fa: ''
   en: Grey-winged Inca Finch
   es: Incaspiza Aligrís
   fr: Incaspize d'Ortiz
@@ -15,7 +15,7 @@ names:
   pt: gray-winged inca-finch
   ru: Серокрылая пизарита-инка
   ja: ハイバネインカシトド
-  zh: Grey-winged Inca Finch
+  zh: ''
   nl: Grijsvleugelincagors
   pl: ineczka szaroskrzydła
   tr: Gri Kanatlı İnka İspinozu

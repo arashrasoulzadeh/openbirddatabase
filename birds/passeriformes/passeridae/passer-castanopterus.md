@@ -12,7 +12,7 @@ names:
   es: Gorrión Somalí
   fr: Moineau de Somalie
   de: Somalisperling
-  pt: somali sparrow
+  pt: ''
   ru: Сомалийский воробей
   ja: クリバネスズメ
   zh: 索馬里麻雀

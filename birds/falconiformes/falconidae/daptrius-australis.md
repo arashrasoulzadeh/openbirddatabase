@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11977.0
 names:
   scientific: Daptrius australis
-  fa: nan
+  fa: ''
   en: Striated Caracara
   es: Caracara Austral
   fr: Caracara austral
   de: Falklandkarakara
-  pt: striated caracara
+  pt: ''
   ru: Южная каракара
   ja: ホークランドカラカラ
   nl: Falklandcaracara

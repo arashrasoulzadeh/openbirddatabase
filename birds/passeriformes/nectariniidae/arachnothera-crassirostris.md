@@ -12,7 +12,7 @@ names:
   es: Arañero Picogordo
   fr: Arachnothère à bec épais
   de: Dickschnabel-Spinnenjäger
-  pt: thick-billed spiderhunter
+  pt: ''
   ru: Толстоклювая пауколовка
   ja: ハシブトクモカリドリ
   zh: 厚嘴捕蛛鳥

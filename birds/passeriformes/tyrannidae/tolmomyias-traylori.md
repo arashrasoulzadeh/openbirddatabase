@@ -12,7 +12,7 @@ names:
   es: Picoplano Ojinaranja
   fr: Tyranneau de Traylor
   de: Orangeaugen-Breitschnabeltyrann
-  pt: orange-eyed flatbill
+  pt: ''
   ru: Перуанский мухоед
   ja: アカメヒラハシハエトリ
   nl: Oranjeoogbreedbektiran

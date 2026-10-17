@@ -12,7 +12,7 @@ names:
   es: Monal Coliverde
   fr: Lophophore de Lhuys
   de: Grünschwanz-Glanzfasan
-  pt: chinese monal
+  pt: ''
   ru: Китайский монал
   ja: カラニジキジ
   zh: 绿尾虹雉

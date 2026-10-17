@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12974.0
 names:
   scientific: Amazona mercenarius
-  fa: nan
+  fa: ''
   en: Scaly-naped Amazon
   es: Amazona Mercenaria
   fr: Amazone mercenaire
   de: Soldatenamazone
-  pt: scaly-naped amazon
+  pt: ''
   ru: Солдатский амазон
   ja: ネズミエリボウシインコ
   zh: 鱗頸亞馬遜鸚鵡

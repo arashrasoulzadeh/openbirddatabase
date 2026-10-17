@@ -12,7 +12,7 @@ names:
   es: Papamoscas de las Sula
   fr: Gobemouche à queue henné
   de: Suladschungelschnäpper
-  pt: sula jungle flycatcher
+  pt: ''
   ru: Целебесская джунглевая мухоловка
   ja: スラミツリンヒタキ
   nl: Soelajunglevliegenvanger

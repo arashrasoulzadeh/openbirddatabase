@@ -15,7 +15,7 @@ names:
   pt: spotted morning-thrush
   ru: Дроздовая пальмара
   ja: クロボシアサナキヒタキ
-  zh: Spotted Palm Thrush
+  zh: ''
   nl: Gevlekte palmlijster
   pl: palmodrozd plamisty
   tr: Benekli Palmiye Ardıcı

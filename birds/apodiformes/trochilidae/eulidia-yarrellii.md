@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 4779.0
 names:
   scientific: Eulidia yarrellii
-  fa: nan
+  fa: ''
   en: Chilean Woodstar
   es: Colibrí de Arica
   fr: Colibri d'Arica
   de: Aricaelfe
-  pt: chilean woodstar
+  pt: ''
   ru: Чилийский эльф
   ja: カワリオハチドリ
   zh: 智利蜂鸟

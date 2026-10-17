@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 22911.0
 names:
   scientific: Macrosphenus pulitzeri
-  fa: nan
+  fa: ''
   en: Pulitzer's Longbill
   es: Picolargo de Pulitzer
   fr: Nasique de Pulitzer
   de: Angola-Bülbülgrasmücke
-  pt: pulitzer's longbill
+  pt: ''
   ru: Ангольский долгонос
   ja: アンゴラハシナガムシクイ
   nl: Angolese langsnavelzanger

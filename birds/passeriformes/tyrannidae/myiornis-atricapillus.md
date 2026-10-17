@@ -15,7 +15,7 @@ names:
   pt: black-capped pygmy-tyrant
   ru: Черношапочная аруна
   ja: コビトタイランチョウ
-  zh: Black-capped Pygmy Tyrant
+  zh: ''
   nl: Zwartkruindwergtiran
   pl: tyraneczek czarnołbisty
   tr: Kara Tepeli Küçük Tiran

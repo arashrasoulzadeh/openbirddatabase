@@ -12,7 +12,7 @@ names:
   es: Cucarachero del Istmo
   fr: Troglodyte du Panama
   de: Panamazaunkönig
-  pt: isthmian wren
+  pt: ''
   ru: Тусклый крапивник
   ja: パナマミソサザイ
   nl: Panamese winterkoning

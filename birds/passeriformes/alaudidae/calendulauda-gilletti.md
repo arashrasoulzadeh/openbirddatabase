@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22446.0
 names:
   scientific: Calendulauda gilletti
-  fa: nan
+  fa: ''
   en: Gillett's Lark
   es: Alondra de Gillett
   fr: Alouette de Gillett
   de: Gillettlerche
-  pt: gillett's lark
+  pt: ''
   ru: Саванный жаворонок
   ja: ミズベヤブヒバリ
   nl: Gillettleeuwerik

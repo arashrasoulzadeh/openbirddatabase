@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24584.0
 names:
   scientific: Hypsipetes borbonicus
-  fa: nan
+  fa: ''
   en: Reunion Bulbul
   es: Bulbul de Reunión
   fr: Bulbul de Bourbon
   de: Réunion-Rotschnabelbülbül
-  pt: reunion bulbul
+  pt: ''
   ru: Маскаренский бюльбюль
   ja: レユニオンヒヨドリ
   zh: 绿短脚鹎

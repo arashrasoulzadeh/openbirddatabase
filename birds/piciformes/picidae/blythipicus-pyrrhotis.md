@@ -12,7 +12,7 @@ names:
   es: Pito Orejirrojo
   fr: Pic à oreillons rouges
   de: Rotohrspecht
-  pt: bay woodpecker
+  pt: ''
   ru: Красноухий дятел
   ja: ヤブゲラ
   zh: 黄嘴栗啄木鸟

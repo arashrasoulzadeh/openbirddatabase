@@ -12,7 +12,7 @@ names:
   es: Cistícola Zorruno
   fr: Cisticole russule
   de: Fuchszistensänger
-  pt: foxy cisticola
+  pt: ''
   ru: Крапивниковая цистикола
   ja: キツネセッカ
   zh: 狐色扇尾莺

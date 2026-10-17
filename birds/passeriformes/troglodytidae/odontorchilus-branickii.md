@@ -15,7 +15,7 @@ names:
   pt: gray-mantled wren
   ru: Шиферный крапивник
   ja: シロハラオナガミソサザイ
-  zh: Grey-mantled Wren
+  zh: ''
   nl: Grijsrugwinterkoning
   pl: popielak andyjski
   tr: Gri Sırtlı Çıtkuşu

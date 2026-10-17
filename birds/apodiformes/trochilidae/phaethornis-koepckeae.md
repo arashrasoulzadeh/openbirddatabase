@@ -12,7 +12,7 @@ names:
   es: Ermitaño de Koepcke
   fr: Ermite de Koepcke
   de: Koepckeschattenkolibri
-  pt: koepcke's hermit
+  pt: ''
   ru: Рыжеватый колибри-отшельник
   ja: ペルーユミハチドリ
   zh: 凯氏隐蜂鸟

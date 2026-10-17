@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34804.0
 names:
   scientific: Ramphocelus bresilius
-  fa: nan
+  fa: ''
   en: Brazilian Tanager
   es: Tangara Brasileña
   fr: Tangara du Brésil

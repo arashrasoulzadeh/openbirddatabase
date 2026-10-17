@@ -12,7 +12,7 @@ names:
   es: Francolín Piquirrojo
   fr: Francolin à bec rouge
   de: Rotschnabelfrankolin
-  pt: red-billed spurfowl
+  pt: ''
   ru: Красноклювый франколин
   ja: サザナミシャコ
   nl: Roodsnavelfrankolijn

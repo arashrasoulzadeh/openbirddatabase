@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19517.0
 names:
   scientific: Pachycephala albiventris
-  fa: nan
+  fa: ''
   en: Green-backed Whistler
   es: Silbador Dorsiverde
   fr: Siffleur à dos vert
   de: Olivrücken-Dickkopf
-  pt: green-backed whistler
+  pt: ''
   ru: Светлобрюхий свистун
   ja: セミドリモズヒタキ
   zh: 绿背啸鹟

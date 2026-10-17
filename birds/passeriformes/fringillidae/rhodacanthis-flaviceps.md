@@ -15,7 +15,7 @@ names:
   pt: lesser koa-finch
   ru: Желтоголовая коа
   ja: ヒメコアハワイマシコ
-  zh: Lesser Koa Finch
+  zh: ''
   nl: Kleine koavink
   pl: hawajka żółtawa
   tr: Küçük Kona İspinozu

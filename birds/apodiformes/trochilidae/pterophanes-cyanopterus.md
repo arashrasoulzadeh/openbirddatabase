@@ -12,7 +12,7 @@ names:
   es: Colibrí Aliazul
   fr: Colibri à ailes saphir
   de: Blauflügelkolibri
-  pt: great sapphirewing
+  pt: ''
   ru: Сапфирокрыл
   ja: ルリバネハチドリ
   zh: 大藍翅蜂鳥

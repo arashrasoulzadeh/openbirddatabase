@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18204.0
 names:
   scientific: Philemon cockerelli
-  fa: nan
+  fa: ''
   en: New Britain Friarbird
   es: Filemón de Nueva Bretaña
   fr: Polochion de Nouvelle-Bretagne
   de: Melanesien-Lederkopf
-  pt: new britain friarbird
+  pt: ''
   ru: Новобританский кожеголов
   ja: クビワハゲミツスイ
   nl: Bismarcklederkop

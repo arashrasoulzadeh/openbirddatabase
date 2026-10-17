@@ -15,7 +15,7 @@ names:
   pt: mountain grackle
   ru: Колумбийский гракл
   ja: フサムクドリモドキ
-  zh: Colombian Mountain Grackle
+  zh: ''
   nl: Bergtroepiaal
   pl: epoletowiec kasztanowaty
   tr: Kolombiya Kiskalı

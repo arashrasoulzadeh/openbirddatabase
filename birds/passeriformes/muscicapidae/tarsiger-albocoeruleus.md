@@ -10,7 +10,7 @@ names:
   en: Qilian Bluetail
   es: Ruiseñor de las Qilian
   fr: Robin des Qilian
-  pt: qilian bluetail
+  pt: ''
   ja: キレンルリビタキ
   zh: 祁连山蓝尾鸲
   nl: Qilianblauwstaart

@@ -12,7 +12,7 @@ names:
   es: Torillo Tanki
   fr: Turnix indien
   de: Rotnacken-Laufhühnchen
-  pt: yellow-legged buttonquail
+  pt: ''
   ru: Пятнистая трёхперстка
   ja: チョウセンミフウズラ
   zh: 黄脚三趾鹑

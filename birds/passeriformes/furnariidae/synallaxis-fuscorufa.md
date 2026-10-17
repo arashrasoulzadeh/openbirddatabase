@@ -12,7 +12,7 @@ names:
   es: Pijuí de Santa Marta
   fr: Synallaxe de Santa Marta
   de: Rotkopf-Dickichtschlüpfer
-  pt: rusty-headed spinetail
+  pt: ''
   ru: Буро-рыжая иглохвостка
   ja: サビイロオナガカマドドリ
   nl: Santa-Martastekelstaart

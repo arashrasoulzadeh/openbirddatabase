@@ -15,7 +15,7 @@ names:
   pt: crimson-crowned fruit-dove
   ru: Пурпурношапочный фруктовый голубь
   ja: ヒメアオバト
-  zh: Crimson-crowned Fruit Dove
+  zh: ''
   nl: Purperkruinjufferduif
   pl: owocożer krasnogłowy
   tr: Kızıl Tepeli Meyve Kumrusu

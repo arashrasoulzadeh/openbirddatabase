@@ -12,7 +12,7 @@ names:
   es: Calamón Takahe de Isla Sur
   fr: Talève takahé
   de: Takahe
-  pt: south island takahe
+  pt: ''
   ru: Такахе
   ja: ナントウタカヘ
   zh: 南秧雞

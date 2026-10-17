@@ -12,7 +12,7 @@ names:
   es: Ostrero de Isla Sur
   fr: Huîtrier de Finsch
   de: Südinsel-Austernfischer
-  pt: south island oystercatcher
+  pt: ''
   ru: Новозеландский кулик-сорока
   ja: ミナミミヤコドリ
   nl: Nieuw-Zeelandse bonte scholekster

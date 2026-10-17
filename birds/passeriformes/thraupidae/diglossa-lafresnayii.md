@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Satinado
   fr: Percefleur de Lafresnaye
   de: Stahlhakenschnabel
-  pt: glossy flowerpiercer
+  pt: ''
   ru: Блестящий цветокол
   ja: アオカタハナサシミツドリ
   zh: 辉黑刺花鸟

@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Fosse
   fr: Engoulevent du Mozambique
   de: Gartennachtschwalbe
-  pt: square-tailed nightjar
+  pt: ''
   ru: Габонский козодой
   ja: ガボンヨタカ
   zh: 方尾夜鹰

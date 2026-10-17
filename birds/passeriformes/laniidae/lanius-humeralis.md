@@ -12,7 +12,7 @@ names:
   es: Alcaudón Fiscal Norteño
   fr: Pie-grièche à dos noir
   de: Stanleywürger
-  pt: northern fiscal
+  pt: ''
   ru: Саванный фискал
   ja: キタカタジロオナガモズ
   nl: Noordelijke gekraagde klauwier

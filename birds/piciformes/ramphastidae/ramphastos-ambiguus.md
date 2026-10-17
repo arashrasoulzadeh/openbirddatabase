@@ -12,7 +12,7 @@ names:
   es: Tucán Pechigualdo
   fr: Toucan tocard
   de: Goldkehltukan
-  pt: yellow-throated toucan
+  pt: ''
   ru: Желтогорлый тукан
   ja: ニショクキムネオオハシ
   zh: 黃喉鵎鵼

@@ -12,7 +12,7 @@ names:
   es: Maluro de Wallace
   fr: Mérion de Wallace
   de: Rostnacken-Staffelschwanz
-  pt: wallace's fairywren
+  pt: ''
   ru: Длинноклювый малюр
   ja: セアカパプアムシクイ
   nl: Wallace-elfje

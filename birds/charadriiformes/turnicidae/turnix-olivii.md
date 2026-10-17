@@ -12,7 +12,7 @@ names:
   es: Torillo de Robinson
   fr: Turnix de Robinson
   de: Ockerbrust-Laufhühnchen
-  pt: buff-breasted buttonquail
+  pt: ''
   ru: Светлогрудая трёхперстка
   ja: ハイムネミフウズラ
   zh: 黄胸三趾鹑

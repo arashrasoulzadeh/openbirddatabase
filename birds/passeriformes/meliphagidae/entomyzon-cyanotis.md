@@ -12,7 +12,7 @@ names:
   es: Mielero Cariazul
   fr: Méliphage à oreillons bleus
   de: Blauohr-Honigfresser
-  pt: blue-faced honeyeater
+  pt: ''
   ru: Синелицая медвянка
   ja: アオツラミツスイ
   zh: 蓝脸吸蜜鸟

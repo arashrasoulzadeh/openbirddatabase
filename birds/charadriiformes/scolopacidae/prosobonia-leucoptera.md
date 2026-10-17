@@ -15,7 +15,7 @@ names:
   pt: white-winged sandpiper
   ru: Таитянский атолльник
   ja: タヒチシギ
-  zh: Tahiti Sandpiper
+  zh: ''
   nl: Tahitistrandloper
   pl: brodźczyk białoskrzydły
   tr: Tahiti Kumkuşu

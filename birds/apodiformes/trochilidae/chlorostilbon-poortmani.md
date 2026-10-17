@@ -12,7 +12,7 @@ names:
   es: Esmeralda Colicorta
   fr: Émeraude à queue courte
   de: Grünschwanz-Smaragdkolibri
-  pt: short-tailed emerald
+  pt: ''
   ru: Короткохвостый изумруд
   ja: タンビヒメエメラルドハチドリ
   zh: 短尾翠蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Cigua de la Española
   fr: Zéna d'Hispaniola
   de: Hispaniola-Streifenkopftangare
-  pt: hispaniolan spindalis
+  pt: ''
   ru: Каитянская зена
   ja: ヒスパニオラシトドフウキンチョウ
   nl: Hispaniolaspindalis

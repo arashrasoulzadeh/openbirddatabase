@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 18647.0
 names:
   scientific: Ceblepyris cucullatus
-  fa: nan
+  fa: ''
   en: Comoro Cuckooshrike
   es: Oruguero de las Comoras
   fr: Échenilleur des Comores
   de: Komorenraupenfänger
-  pt: comoro cuckooshrike
+  pt: ''
   ru: Коморский воронец
   ja: コモロオオサンショウクイ
   nl: Comorenrupsvogel

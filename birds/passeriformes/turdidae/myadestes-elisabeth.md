@@ -12,7 +12,7 @@ names:
   es: Solitario Cubano
   fr: Solitaire de Cuba
   de: Kubaklarino
-  pt: cuban solitaire
+  pt: ''
   ru: Кубинский кларино
   ja: キューバヒトリツグミ
   nl: Cubaanse solitaire

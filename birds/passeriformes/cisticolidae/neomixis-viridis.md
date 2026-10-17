@@ -12,7 +12,7 @@ names:
   es: Jiji Verde
   fr: Éroesse verte
   de: Grünsänger
-  pt: green jery
+  pt: ''
   ru: Зелёная эресса
   ja: ミドリニセムシクイチメドリ
   nl: Groene jery

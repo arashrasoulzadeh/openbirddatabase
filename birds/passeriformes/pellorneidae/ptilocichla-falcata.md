@@ -12,7 +12,7 @@ names:
   es: Ratina de Palawan
   fr: Turdinule de Palawan
   de: Palawanwolldrossling
-  pt: falcated wren-babbler
+  pt: ''
   ru: Палаванский питтодрозд
   ja: パラワンミノチメドリ
   zh: 菲律賓地鶥

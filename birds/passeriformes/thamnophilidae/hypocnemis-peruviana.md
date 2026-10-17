@@ -15,7 +15,7 @@ names:
   pt: cantador-sinaleiro
   ru: Перуанская муравьянка
   ja: ペルーナキアリドリ
-  zh: Peruvian Warbling Antbird
+  zh: ''
   nl: Peruaanse mierzanger
   pl: jaguarek plamisty
   tr: Peru Ötücü Karıncakuşu

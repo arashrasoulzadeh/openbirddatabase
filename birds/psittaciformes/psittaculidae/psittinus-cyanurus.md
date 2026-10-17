@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12338.0
 names:
   scientific: Psittinus cyanurus
-  fa: nan
+  fa: ''
   en: Blue-rumped Parrot
   es: Lorito Dorsiazul
   fr: Perruche à croupion bleu
   de: Blaubürzelpapagei
-  pt: blue-rumped parrot
+  pt: ''
   ru: Красноплечий попугай
   ja: ルリゴシインコ
   zh: 蓝腰鹦鹉

@@ -12,7 +12,7 @@ names:
   es: Agachona Patagona
   fr: Attagis de Magellan
   de: Weißbauch-Höhenläufer
-  pt: white-bellied seedsnipe
+  pt: ''
   ru: Магелланов зобатый бегунок
   ja: シロハラオオヒバリチドリ
   nl: Witbuikkwartelsnip

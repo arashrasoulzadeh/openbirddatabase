@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13425.0
 names:
   scientific: Pitta megarhyncha
-  fa: nan
+  fa: ''
   en: Mangrove Pitta
   es: Pita de Manglar
   fr: Brève des palétuviers
   de: Mangrovepitta
-  pt: mangrove pitta
+  pt: ''
   ru: Мангровая питта
   ja: マングローブヤイロチョウ
   zh: 紅樹八色鶇

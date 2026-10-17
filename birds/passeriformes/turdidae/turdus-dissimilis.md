@@ -12,7 +12,7 @@ names:
   es: Zorzal Pechinegro
   fr: Merle à poitrine noire
   de: Schwarzbrustdrossel
-  pt: black-breasted thrush
+  pt: ''
   ru: Черногрудый дрозд
   ja: ムナグロアカハラ
   zh: 黑胸鸫

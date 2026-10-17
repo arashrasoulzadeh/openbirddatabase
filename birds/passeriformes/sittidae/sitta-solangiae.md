@@ -12,7 +12,7 @@ names:
   es: Trepador Piquigualdo
   fr: Sittelle à bec jaune
   de: Gelbschnabelkleiber
-  pt: yellow-billed nuthatch
+  pt: ''
   ru: Желтоклювый поползень
   ja: キバシゴジュウカラ
   zh: 淡紫䴓

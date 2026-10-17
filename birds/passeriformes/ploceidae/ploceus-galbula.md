@@ -12,7 +12,7 @@ names:
   es: Tejedor de Rüppell
   fr: Tisserin de Rüppell
   de: Gilbweber
-  pt: rüppell's weaver
+  pt: ''
   ru: Иволговый ткач
   ja: キイロハタオリ
   nl: Rüppells wever

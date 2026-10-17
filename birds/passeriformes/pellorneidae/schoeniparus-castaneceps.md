@@ -12,7 +12,7 @@ names:
   es: Fulveta Alirrufa
   fr: Pseudominla à tête marron
   de: Kastanienzweigdrossling
-  pt: rufous-winged fulvetta
+  pt: ''
   ru: Краснокрылая альциппа
   ja: クリボウシチメドリ
   zh: 栗头雀鹛

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11722.0
 names:
   scientific: Campethera nubica
-  fa: nan
+  fa: ''
   en: Nubian Woodpecker
   es: Pito de Nubia
   fr: Pic de Nubie
   de: Nubierspecht
-  pt: nubian woodpecker
+  pt: ''
   ru: Нубийский дятел
   ja: アフリカアオゲラ
   zh: 東非啄木

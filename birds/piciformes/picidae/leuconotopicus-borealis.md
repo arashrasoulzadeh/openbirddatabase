@@ -12,7 +12,7 @@ names:
   es: Pico de Florida
   fr: Pic à face blanche
   de: Kokardenspecht
-  pt: red-cockaded woodpecker
+  pt: ''
   ru: Кокардовый дятел
   ja: ホオジロシマアカゲラ
   zh: 红顶啄木鸟

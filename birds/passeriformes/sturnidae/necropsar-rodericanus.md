@@ -12,7 +12,7 @@ names:
   es: Estornino de Isla Rodrigues
   fr: Étourneau de Rodrigues
   de: Rodriguesstar
-  pt: rodrigues starling
+  pt: ''
   ru: Родригесский скворец
   ja: ロドリゲスムクドリ
   zh: 羅迪椋鳥

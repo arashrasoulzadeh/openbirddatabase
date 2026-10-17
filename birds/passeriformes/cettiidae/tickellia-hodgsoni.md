@@ -12,7 +12,7 @@ names:
   es: Mosquitero Picoancho
   fr: Bouscarle de Hodgson
   de: Breitschnabel-Dickichtsänger
-  pt: broad-billed warbler
+  pt: ''
   ru: Ширококлювая комарница
   ja: ズアカムシクイ
   zh: 宽嘴鹟莺

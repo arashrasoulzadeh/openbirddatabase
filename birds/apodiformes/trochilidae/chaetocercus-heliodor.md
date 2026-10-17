@@ -12,7 +12,7 @@ names:
   es: Colibrí de Heliodoro
   fr: Colibri d'Héliodore
   de: Prachtkehlelfe
-  pt: gorgeted woodstar
+  pt: ''
   ru: Гелиодоровый эльф
   ja: エリマキチビハチドリ
   zh: 粉髯林蜂鸟

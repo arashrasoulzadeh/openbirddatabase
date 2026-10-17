@@ -12,7 +12,7 @@ names:
   es: Lori Adornado
   fr: Loriquet orné
   de: Schmucklori
-  pt: ornate lorikeet
+  pt: ''
   ru: Украшенный лорикет
   ja: ズグロゴシキインコ
   nl: Ornaatlori

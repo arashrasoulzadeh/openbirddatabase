@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29360.0
 names:
   scientific: Brachypteryx poliogyna
-  fa: nan
+  fa: ''
   en: Philippine Shortwing
   es: Alicorto Filipino
   fr: Brachyptère des Philippines
   de: Philippinen-Bergkurzflügel
-  pt: philippine shortwing
+  pt: ''
   ja: フィリピンコバネヒタキ
   nl: Filipijnse kortvleugel
   pl: kusochwostka filipińska

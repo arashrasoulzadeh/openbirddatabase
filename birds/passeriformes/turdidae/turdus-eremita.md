@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28697.0
 names:
   scientific: Turdus eremita
-  fa: nan
+  fa: ''
   en: Tristan Thrush
   es: Zorzal de Tristán de Acuña
   fr: Grive de Tristan da Cunha
   de: Tristandrossel
-  pt: tristan thrush
+  pt: ''
   ru: Тристанский дрозд
   ja: トリスタンシマツグミ
   zh: 特里斯坦鸫

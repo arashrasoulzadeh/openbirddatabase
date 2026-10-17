@@ -12,7 +12,7 @@ names:
   es: Lori Montano Grande
   fr: Lori de Musschenbroek
   de: Gelbschnabel-Berglori
-  pt: yellow-billed lorikeet
+  pt: ''
   ru: Желтоклювый лорикет
   ja: タカネインコ
   nl: Musschenbroeklori

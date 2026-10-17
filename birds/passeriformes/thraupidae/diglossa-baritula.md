@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Ventricanelo
   fr: Percefleur cannelle
   de: Zimtbauch-Hakenschnabel
-  pt: cinnamon-bellied flowerpiercer
+  pt: ''
   ru: Рыжебрюхий цветокол
   ja: ハナサシミツドリ
   nl: Mexicaanse berghoningkruiper

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23825.0
 names:
   scientific: Locustella disturbans
-  fa: nan
+  fa: ''
   en: Buru Bush Warbler
   es: Zarzalero de Buru
   fr: Locustelle de Buru
   de: Buruschwirl
-  pt: buru bush warbler
+  pt: ''
   ru: Сулавесская пестрогрудка
   ja: ブルオウギセッカ
   zh: 布鲁短翅莺

@@ -12,7 +12,7 @@ names:
   es: Cauquén Caranca
   fr: Ouette marine
   de: Kelpgans
-  pt: kelp goose
+  pt: ''
   ru: Водорослевый гусь
   ja: シロコバシガン
   zh: 白草雁

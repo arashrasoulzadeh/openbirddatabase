@@ -12,7 +12,7 @@ names:
   es: Actinodura de Egerton
   fr: Actinodure d'Egerton
   de: Roststirn-Meisenhäherling
-  pt: rusty-fronted barwing
+  pt: ''
   ru: Рыжелобый пестрокрыл
   ja: クリビタイシマドリ
   zh: 锈额斑翅鹛

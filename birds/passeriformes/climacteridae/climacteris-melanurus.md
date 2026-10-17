@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17591.0
 names:
   scientific: Climacteris melanurus
-  fa: nan
+  fa: ''
   en: Black-tailed Treecreeper
   es: Corretroncos Colinegro
   fr: Échelet à queue noire
   de: Schwarzschwanz-Baumrutscher
-  pt: black-tailed treecreeper
+  pt: ''
   ru: Чернохвостая ложнопищуха
   ja: オグロキノボリ
   zh: 黑尾短嘴旋木雀

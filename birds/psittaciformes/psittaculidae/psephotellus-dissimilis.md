@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12518.0
 names:
   scientific: Psephotellus dissimilis
-  fa: nan
+  fa: ''
   en: Hooded Parrot
   es: Perico Capirotado
   fr: Perruche à capuchon noir
   de: Schwarzgesichtsittich
-  pt: hooded parrot
+  pt: ''
   ru: Капюшонный попугайчик
   ja: ヒスイインコ
   zh: 黑冠鸚鵡

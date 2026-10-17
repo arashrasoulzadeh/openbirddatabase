@@ -12,7 +12,7 @@ names:
   es: Subepalo Bonito
   fr: Anabasitte superbe
   de: Fleckenbrust-Stachelschwanz
-  pt: beautiful treerunner
+  pt: ''
   ru: Украшенный щетинкохвост
   ja: ノドジロヒゲオカマドドリ
   nl: Schone boomloper

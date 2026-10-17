@@ -12,7 +12,7 @@ names:
   es: Pergolero Moteado Occidental
   fr: Jardinier tacheté
   de: Tropfenlaubenvogel
-  pt: western bowerbird
+  pt: ''
   ru: Пустынный беседочник
   ja: ニシマダラニワシドリ
   zh: 西大亭鸟

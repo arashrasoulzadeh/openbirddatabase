@@ -12,7 +12,7 @@ names:
   es: Abanico de Bougainville
   fr: Rhipidure de Bougainville
   de: Bougainville-Fächerschwanz
-  pt: bougainville fantail
+  pt: ''
   ru: Горная веерохвостка
   ja: ガタルカナルオウギビタキ
   nl: Bougainvillewaaierstaart

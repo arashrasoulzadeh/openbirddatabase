@@ -12,7 +12,7 @@ names:
   es: Sastrecillo de Java
   fr: Couturière à dos vert
   de: Rostwangen-Schneidervogel
-  pt: olive-backed tailorbird
+  pt: ''
   ru: Яванская портниха
   ja: インドネシアサイホウチョウ
   nl: Roodwangsnijdervogel

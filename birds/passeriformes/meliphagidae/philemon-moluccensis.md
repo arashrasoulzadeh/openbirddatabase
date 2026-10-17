@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18190.0
 names:
   scientific: Philemon moluccensis
-  fa: nan
+  fa: ''
   en: Buru Friarbird
   es: Filemón Moluqueño
   fr: Polochion des Moluques
   de: Burulederkopf
-  pt: buru friarbird
+  pt: ''
   ru: Молуккский кожеголов
   ja: ブルハゲミツスイ
   nl: Burulederkop

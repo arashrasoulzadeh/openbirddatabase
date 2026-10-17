@@ -14,7 +14,7 @@ names:
   de: Togiangoldbülbül
   pt: togian golden-bulbul
   ja: トギアンキン'イロヒヨドリ
-  zh: Togian Golden Bulbul
+  zh: ''
   nl: Togianbuulbuul
   pl: szczeciak złoty
   tr: Togian Altınbülbülü

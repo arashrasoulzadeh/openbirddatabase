@@ -12,7 +12,7 @@ names:
   es: Colibrí Morado
   fr: Campyloptère violet
   de: Violettdegenflügel
-  pt: violet sabrewing
+  pt: ''
   ru: Фиолетовый саблекрыл
   ja: ムラサキケンバネハチドリ
   zh: 紫刀翅蜂鸟

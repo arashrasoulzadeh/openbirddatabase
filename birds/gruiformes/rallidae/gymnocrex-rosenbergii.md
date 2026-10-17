@@ -12,7 +12,7 @@ names:
   es: Cotara Cariazul
   fr: Râle de Rosenberg
   de: Blaumaskenralle
-  pt: blue-faced rail
+  pt: ''
   ru: Синелицый туа
   ja: アオメクイナ
   nl: Sulawesinaaktoogral

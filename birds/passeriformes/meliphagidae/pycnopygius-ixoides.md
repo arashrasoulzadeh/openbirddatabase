@@ -12,7 +12,7 @@ names:
   es: Mielero Bulbul
   fr: Méliphage ocré
   de: Bülbülhonigfresser
-  pt: plain honeyeater
+  pt: ''
   ru: Бюльбюлевая саговница
   ja: チャイロミツスイ
   nl: Rosse honingeter

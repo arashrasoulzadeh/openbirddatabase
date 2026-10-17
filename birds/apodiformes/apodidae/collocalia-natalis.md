@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3933.0
 names:
   scientific: Collocalia natalis
-  fa: nan
+  fa: ''
   en: Christmas Swiftlet
   es: Salangana de Isla Navidad
   fr: Salangane de Christmas
@@ -15,7 +15,7 @@ names:
   pt: christmas island swiftlet
   ru: Рождественская салангана
   ja: クリスマスアナツバメ
-  zh: Christmas Swiftlet
+  zh: ''
   nl: Christmasdwergsalangaan
   pl: salangana wyspowa
   tr: Kristmas Adası Yelyutanı

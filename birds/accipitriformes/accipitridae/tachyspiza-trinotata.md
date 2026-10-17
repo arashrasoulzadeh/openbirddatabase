@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8184.0
 names:
   scientific: Tachyspiza trinotata
-  fa: nan
+  fa: ''
   en: Spot-tailed Sparrowhawk
   es: Gavilán Colipinto
   fr: Épervier à queue tachetée
@@ -15,7 +15,7 @@ names:
   pt: spot-tailed goshawk
   ru: Пятнистохвостый перепелятник
   ja: シラボシオオタカ
-  zh: Spot-tailed Sparrowhawk
+  zh: ''
   nl: Vlekstaartsperwer
   pl: krogulec plamosterny
   tr: Benek Kuyruklu Atmaca

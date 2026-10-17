@@ -15,7 +15,7 @@ names:
   pt: new zealand storm-petrel
   ru: Новозеландская океанида
   ja: ニュージーランドウミツバメ
-  zh: New Zealand Storm Petrel
+  zh: ''
   nl: Nieuw-Zeelands stormvogeltje
   pl: oceannik maoryski
   tr: Maori Fırtınakırlangıcı

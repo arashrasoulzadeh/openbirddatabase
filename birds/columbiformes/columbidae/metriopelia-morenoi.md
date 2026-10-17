@@ -15,7 +15,7 @@ names:
   pt: bare-eyed ground dove
   ru: Аргентинская земляная горлица
   ja: キガオハシリバト
-  zh: Moreno's Ground Dove
+  zh: ''
   nl: Morenopunaduif
   pl: żółtook szarogłowy
   tr: Moreno Yer Kumrusu

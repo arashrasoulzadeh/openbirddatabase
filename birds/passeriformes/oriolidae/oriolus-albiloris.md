@@ -12,7 +12,7 @@ names:
   es: Oropéndola de Luzón
   fr: Loriot à face blanche
   de: Weißzügelpirol
-  pt: white-lored oriole
+  pt: ''
   ru: Белолицая иволга
   ja: ハナジロコウライウグイス
   nl: Witteugelwielewaal

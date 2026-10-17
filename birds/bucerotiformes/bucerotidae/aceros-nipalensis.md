@@ -12,7 +12,7 @@ names:
   es: Cálao del Nepal
   fr: Calao à cou roux
   de: Nepalhornvogel
-  pt: rufous-necked hornbill
+  pt: ''
   ru: Непальский калао
   ja: ナナミゾサイチョウ
   zh: 棕颈犀鸟

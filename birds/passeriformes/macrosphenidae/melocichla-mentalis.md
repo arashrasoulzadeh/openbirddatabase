@@ -15,7 +15,7 @@ names:
   pt: boita-de-bigodes
   ru: Усатая саванница
   ja: ヒゲクサムシクイ
-  zh: Moustached Grass Warbler
+  zh: ''
   nl: Baardgrasvogel
   pl: młacznik
   tr: Bıyıklı Otlak Ötleğeni

@@ -12,7 +12,7 @@ names:
   es: Mielero Cantarín
   fr: Méliphage chanteur
   de: Pfeifhonigfresser
-  pt: singing honeyeater
+  pt: ''
   ru: Певчий медосос
   ja: ウタイミツスイ
   zh: 歌吸蜜鸟

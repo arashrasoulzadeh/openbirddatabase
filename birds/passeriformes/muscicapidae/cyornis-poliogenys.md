@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Brooks
   fr: Gobemouche de Brooks
   de: Graublauschnäpper
-  pt: pale-chinned flycatcher
+  pt: ''
   ru: Серощёкая нильтава
   ja: メスガタヒメアオヒタキ
   zh: 灰颊仙鹟

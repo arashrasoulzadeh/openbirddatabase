@@ -12,7 +12,7 @@ names:
   es: Avión del Congo
   fr: Hirondelle du Congo
   de: Kongouferschwalbe
-  pt: congo martin
+  pt: ''
   ru: Песчаная береговушка
   ja: コンゴショウドウツバメ
   nl: Congo-oeverzwaluw

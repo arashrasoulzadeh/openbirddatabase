@@ -7,15 +7,15 @@ iucn_status: LC
 taxon_order: 21930.0
 names:
   scientific: Culicicapa helianthea
-  fa: nan
+  fa: ''
   en: Citrine Canary-flycatcher
   es: Papamoscas Citrino
   fr: Gobemoustique canari
   de: Grünkopfschnäpper
-  pt: citrine canary-flycatcher
+  pt: ''
   ru: Зеленоголовый комаролов
   ja: カナリアヒタキ
-  zh: Citrine Canary-flycatcher
+  zh: ''
   nl: Kanarievliegenvanger
   pl: komarówka żółtawa
   tr: Limoni Kanarya Sinekkapanı

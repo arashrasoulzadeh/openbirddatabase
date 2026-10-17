@@ -12,7 +12,7 @@ names:
   es: Capuchino Sombrío
   fr: Capucin sombre
   de: Borneobronzemännchen
-  pt: dusky munia
+  pt: ''
   ru: Коричневая муния
   ja: コゲチャキンパラ
   zh: 暗栗文鳥

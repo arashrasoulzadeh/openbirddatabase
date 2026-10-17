@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3318.0
 names:
   scientific: Chalcites lucidus
-  fa: nan
+  fa: ''
   en: Shining Bronze Cuckoo
   es: Cuclillo Broncíneo
   fr: Coucou éclatant
@@ -15,7 +15,7 @@ names:
   pt: cuco-brilhante
   ru: Бронзовая кукушка
   ja: ヨコジマテリカッコウ
-  zh: Shining Bronze Cuckoo
+  zh: ''
   nl: Gouden bronskoekoek
   pl: kukułeczka jarzębata
   tr: Parlak Zümrüt Guguğu

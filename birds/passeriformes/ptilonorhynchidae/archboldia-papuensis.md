@@ -12,7 +12,7 @@ names:
   es: Pergolero de Archbold
   fr: Jardinier d'Archbold
   de: Archboldlaubenvogel
-  pt: archbold's bowerbird
+  pt: ''
   ru: Папуанский садовник
   ja: パプアニワシドリ
   zh: 雪山园丁鸟

@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 8178.0
 names:
   scientific: Tachyspiza imitator
-  fa: nan
+  fa: ''
   en: Imitator Goshawk
   es: Gavilán Imitador
   fr: Autour imitateur
@@ -14,7 +14,7 @@ names:
   pt: imitator sparrowhawk
   ru: Ястреб-имитатор
   ja: シロクロオオタカ
-  zh: Imitator Goshawk
+  zh: ''
   nl: Bonte sperwer
   pl: krogulec żałobny
   tr: Taklitçi Çakır

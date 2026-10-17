@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29955.0
 names:
   scientific: Pachyglossa agilis
-  fa: nan
+  fa: ''
   en: Thick-billed Flowerpecker
   es: Picaflores Picogrueso
   fr: Dicée à bec épais

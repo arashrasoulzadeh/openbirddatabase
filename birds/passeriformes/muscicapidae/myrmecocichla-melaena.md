@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29778.0
 names:
   scientific: Myrmecocichla melaena
-  fa: nan
+  fa: ''
   en: Rüppell's Black Chat
   es: Zorzal Hormiguero de Rüppell
   fr: Traquet de Rüppell
@@ -15,7 +15,7 @@ names:
   pt: rüppell's chat
   ru: Эфиопская термитница
   ja: シロモンアリヒタキ
-  zh: Rüppell's Black Chat
+  zh: ''
   nl: Rüppellmiertapuit
   pl: smolarek czarny
   tr: Rüppell Esmer Bülbülü

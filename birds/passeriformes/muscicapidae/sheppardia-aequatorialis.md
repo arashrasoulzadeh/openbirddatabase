@@ -12,7 +12,7 @@ names:
   es: Akelat Ecuatorial
   fr: Rougegorge équatorial
   de: Ugandarötel
-  pt: equatorial akalat
+  pt: ''
   ru: Экваториальный заряночник
   ja: コシアカヒメコマドリ
   zh: 杰氏阿卡拉鸲

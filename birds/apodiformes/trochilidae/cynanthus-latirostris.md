@@ -12,7 +12,7 @@ names:
   es: Colibrí Piquiancho Común
   fr: Colibri circé
   de: Breitschnabelkolibri
-  pt: broad-billed hummingbird
+  pt: ''
   ru: Ширококлювый колибри
   ja: アカハシハチドリ
   zh: 闊嘴蜂鳥

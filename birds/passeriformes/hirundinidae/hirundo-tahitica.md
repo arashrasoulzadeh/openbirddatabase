@@ -12,7 +12,7 @@ names:
   es: Golondrina de Tahití
   fr: Hirondelle de Tahiti
   de: Tahitischwalbe
-  pt: tahiti swallow
+  pt: ''
   ru: Домовая ласточка
   ja: タヒチツバメ
   zh: 洋燕

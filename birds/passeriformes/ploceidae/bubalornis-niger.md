@@ -15,7 +15,7 @@ names:
   pt: red-billed buffalo-weaver
   ru: Красноклювый буйволов ткач
   ja: アカハシウシハタオリ
-  zh: Red-billed Buffalo Weaver
+  zh: ''
   nl: Roodsnavelbuffelwever
   pl: bawolik czerwonodzioby
   tr: Kırmızı Gagalı Dokumacı

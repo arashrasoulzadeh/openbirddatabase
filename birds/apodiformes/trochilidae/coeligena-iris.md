@@ -12,7 +12,7 @@ names:
   es: Inca Arcoiris
   fr: Inca iris
   de: Regenbogenkolibri
-  pt: rainbow starfrontlet
+  pt: ''
   ru: Радужный инка
   ja: ニジインカハチドリ
   zh: 彩虹星额蜂鸟

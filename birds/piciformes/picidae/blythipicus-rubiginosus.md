@@ -12,7 +12,7 @@ names:
   es: Pito Herrumbroso
   fr: Pic porphyroïde
   de: Maronenspecht
-  pt: maroon woodpecker
+  pt: ''
   ru: Бордовый дятел
   ja: エビチャゲラ
   zh: 小噪啄木

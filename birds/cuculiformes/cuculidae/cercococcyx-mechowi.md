@@ -12,7 +12,7 @@ names:
   es: Cuco Colilargo Oscuro
   fr: Coucou de Mechow
   de: Schweifkuckuck
-  pt: dusky long-tailed cuckoo
+  pt: ''
   ru: Длиннохвостая кукушка
   ja: オナガカッコウ
   nl: Grijze langstaartkoekoek

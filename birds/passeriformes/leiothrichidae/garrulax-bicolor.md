@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 26742.0
 names:
   scientific: Garrulax bicolor
-  fa: nan
+  fa: ''
   en: Sumatran Laughingthrush
   es: Charlatán de Sumatra
   fr: Garrulaxe bicolore
   de: Schwarzweißhäherling
-  pt: sumatran laughingthrush
+  pt: ''
   ru: Суматранская кустарница
   ja: スマトラガビチョウ
   zh: 黑白噪鶥

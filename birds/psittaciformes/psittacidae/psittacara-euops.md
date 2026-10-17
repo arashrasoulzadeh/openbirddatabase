@@ -12,7 +12,7 @@ names:
   es: Aratinga Cubana
   fr: Conure de Cuba
   de: Kubasittich
-  pt: cuban parakeet
+  pt: ''
   ru: Кубинская аратинга
   ja: ホシメキシコインコ
   nl: Cubaanse aratinga

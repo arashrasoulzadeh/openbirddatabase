@@ -12,7 +12,7 @@ names:
   es: Azulillo Morado
   fr: Passerin varié
   de: Vielfarbenfink
-  pt: varied bunting
+  pt: ''
   ru: Разноцветный колорин
   ja: ムラサキノジコ
   nl: Veelkleurengors

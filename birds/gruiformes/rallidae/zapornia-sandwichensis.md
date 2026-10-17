@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5603.0
 names:
   scientific: Zapornia sandwichensis
-  fa: nan
+  fa: ''
   en: Hawaiian Rail
   es: Polluela Hawaiana
   fr: Marouette des Hawaï
   de: Hawaiisumpfhuhn
-  pt: hawaiian rail
+  pt: ''
   ru: Гавайский погоныш
   ja: ハワイクイナ
   zh: 夏威夷秧鸡

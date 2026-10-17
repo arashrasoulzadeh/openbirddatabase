@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Victoria
   fr: Paradisier de Victoria
   de: Victoriaparadiesvogel
-  pt: victoria's riflebird
+  pt: ''
   ru: Кэрнский веерокрыл
   ja: コウロコフウチョウ
   zh: 小掩鼻风鸟

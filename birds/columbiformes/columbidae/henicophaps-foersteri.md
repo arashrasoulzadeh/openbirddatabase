@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce de Nueva Bretaña
   fr: Colombine de Nouvelle-Bretagne
   de: Rotscheiteltaube
-  pt: new britain bronzewing
+  pt: ''
   ru: Новобританский бронзовокрыл
   ja: ニューブリテンハシナガバト
   nl: Nieuw-Brittanniëbronsvleugelduif

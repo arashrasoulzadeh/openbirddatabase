@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8597.0
 names:
   scientific: Tyto nigrobrunnea
-  fa: nan
+  fa: ''
   en: Taliabu Masked Owl
   es: Lechuza de Taliabu
   fr: Effraie de Taliabu
@@ -15,7 +15,7 @@ names:
   pt: taliabu masked-owl
   ru: Талиабская сипуха
   ja: スラメンフクロウ
-  zh: Taliabu Masked Owl
+  zh: ''
   nl: Neumannkerkuil
   pl: płomykówka brunatna
   tr: Taliabu Peçeli Baykuşu

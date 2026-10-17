@@ -12,7 +12,7 @@ names:
   es: Vencejo de Los Khasi
   fr: Martinet d'Assam
   de: Glanzrückensegler
-  pt: dark-rumped swift
+  pt: ''
   ru: Блестящий стриж
   ja: セグロアマツバメ
   zh: 暗背雨燕

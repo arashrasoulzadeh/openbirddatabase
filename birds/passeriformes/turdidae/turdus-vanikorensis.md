@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28559.0
 names:
   scientific: Turdus vanikorensis
-  fa: nan
+  fa: ''
   en: Vanuatu Island Thrush
   es: Mirlo de las Santa Cruz
   fr: Merle de Vanikoro
   pt: vanikoro island-thrush
   ja: サンタクルーズハイガシラツグミ
-  zh: Vanikoro Island Thrush
+  zh: ''
   nl: Vanuatumerel
   pl: drozd melanezyjski
   tr: Vanikoro Ada Ardıcı

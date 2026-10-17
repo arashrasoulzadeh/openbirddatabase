@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14308.0
 names:
   scientific: Hylopezus ochroleucus
-  fa: nan
+  fa: ''
   en: White-browed Antpitta
   es: Tororoí Teguá
   fr: Grallaire teguy

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16272.0
 names:
   scientific: Phylloscartes superciliaris
-  fa: nan
+  fa: ''
   en: Rufous-browed Tyrannulet
   es: Orejerito Cejirrufo
   fr: Tyranneau à sourcils roux
   de: Weißwangen-Laubtyrann
-  pt: rufous-browed tyrannulet
+  pt: ''
   ru: Краснобровый каричи
   ja: アカマユコバシハエトリ
   nl: Roodbrauwlooftiran

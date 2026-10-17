@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 3181.0
 names:
   scientific: Phaenicophaeus pyrrhocephalus
-  fa: nan
+  fa: ''
   en: Red-faced Malkoha
   es: Malcoha Carirrojo
   fr: Malcoha à face rouge
   de: Nacktstirnkuckuck
-  pt: red-faced malkoha
+  pt: ''
   ru: Краснолицая малкоа
   ja: アカガオバンケンモドキ
   zh: 紅臉地鵑

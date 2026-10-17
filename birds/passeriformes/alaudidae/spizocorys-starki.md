@@ -12,7 +12,7 @@ names:
   es: Alondra de Stark
   fr: Alouette de Stark
   de: Falblerche
-  pt: stark's lark
+  pt: ''
   ru: Дамарский жаворонок
   ja: コユビシトドコヒバリ
   zh: 斯氏沙百灵

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24610.0
 names:
   scientific: Hypsipetes crassirostris
-  fa: nan
+  fa: ''
   en: Seychelles Bulbul
   es: Bulbul Picogordo
   fr: Bulbul merle
   de: Seychellen-Rotschnabelbülbül
-  pt: seychelles bulbul
+  pt: ''
   ru: Сейшельский бюльбюль
   ja: セーシェルヒヨドリ
   nl: Diksnavelbuulbuul

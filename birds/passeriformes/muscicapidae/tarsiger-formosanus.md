@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 29491.0
 names:
   scientific: Tarsiger formosanus
-  fa: nan
+  fa: ''
   en: Taiwan Bush Robin
   es: Ruiseñor de Formosa Apagado
   fr: Robin de Taïwan

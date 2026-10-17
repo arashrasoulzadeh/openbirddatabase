@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15314.0
 names:
   scientific: Sylviorthorhynchus desmursii
-  fa: nan
+  fa: ''
   en: Des Murs's Wiretail
   es: Tijeral Colilargo
   fr: Synallaxe de Des Murs
   de: Fadenschwanzschlüpfer
-  pt: des murs's wiretail
+  pt: ''
   ru: Нитехвостка
   ja: フタオカマドドリ
   nl: Nandoesluiper

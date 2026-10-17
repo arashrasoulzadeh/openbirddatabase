@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 29423.0
 names:
   scientific: Myophonus robinsoni
-  fa: nan
+  fa: ''
   en: Malayan Whistling Thrush
   es: Arrenga Malayo
   fr: Arrenga de Robinson
@@ -15,7 +15,7 @@ names:
   pt: malayan whistling-thrush
   ru: Малайская синяя птица
   ja: マラヤルリチョウ
-  zh: Malayan Whistling Thrush
+  zh: ''
   nl: Maleise fluitlijster
   pl: gwizdokos malajski
   tr: Malay Islıkçı Bülbülü

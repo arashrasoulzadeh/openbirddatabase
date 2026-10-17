@@ -12,7 +12,7 @@ names:
   es: Rascón de Guam
   fr: Râle de Guam
   de: Guamralle
-  pt: guam rail
+  pt: ''
   ru: Гуамский трескун
   ja: グアムクイナ
   zh: 關島秧雞

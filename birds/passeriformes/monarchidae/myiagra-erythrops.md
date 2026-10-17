@@ -12,7 +12,7 @@ names:
   es: Monarca de las Palaos
   fr: Monarque des Palau
   de: Palaumonarch
-  pt: palau flycatcher
+  pt: ''
   ru: Мангровая миагра
   ja: ヒメヒラハシ
   zh: 帛琉闊嘴鳥

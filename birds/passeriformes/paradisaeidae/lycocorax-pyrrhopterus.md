@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Corvina de Halmahera
   fr: Paradisier corvin
   de: Molukkenparadieskrähe
-  pt: halmahera paradise-crow
+  pt: ''
   ru: Райская ворона
   ja: カラスフウチョウ
   nl: Halmaheraparadijskraai

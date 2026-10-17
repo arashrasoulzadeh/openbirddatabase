@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32173.0
 names:
   scientific: Carpodacus verreauxii
-  fa: nan
+  fa: ''
   en: Sharpe's Rosefinch
   es: Camachuelo de Sharpe
   fr: Roselin de Verreaux
   de: Lavendelgimpel
-  pt: sharpe's rosefinch
+  pt: ''
   ru: Сычуаньская чечевица
   ja: シャープマシコ
   zh: 点翅朱雀

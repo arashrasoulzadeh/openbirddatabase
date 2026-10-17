@@ -12,7 +12,7 @@ names:
   es: Chorlitejo de las Chatham
   fr: Pluvier de Nouvelle-Zélande
   de: Chathamregenpfeifer
-  pt: shore plover
+  pt: ''
   ru: Чатемский зуёк
   ja: ノドグロチドリ
   zh: 新西兰岸鸻

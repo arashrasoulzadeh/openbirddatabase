@@ -12,7 +12,7 @@ names:
   es: Salangana Calzada
   fr: Salangane de Beavan
   de: Flaumfußsalangane
-  pt: plume-toed swiftlet
+  pt: ''
   ru: Светлобрюхая салангана
   ja: ハネアシユビアナツバメ
   zh: 毛趾雨燕

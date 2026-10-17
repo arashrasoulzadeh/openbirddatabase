@@ -15,7 +15,7 @@ names:
   pt: socó-boi
   ru: Мраморная тигровая выпь
   ja: トラフサギ
-  zh: Rufescent Tiger Heron
+  zh: ''
   nl: Rosse tijgerroerdomp
   pl: tygryska rdzawoszyja
   tr: Kızıl Kaplan Balıkçılı

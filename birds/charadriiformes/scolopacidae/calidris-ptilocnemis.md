@@ -12,7 +12,7 @@ names:
   es: Correlimos Roquero
   fr: Bécasseau des Aléoutiennes
   de: Beringstrandläufer
-  pt: rock sandpiper
+  pt: ''
   ru: Берингийский песочник
   ja: チシマシギ
   zh: 岩滨鹬

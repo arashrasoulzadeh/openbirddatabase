@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18108.0
 names:
   scientific: Phylidonyris niger
-  fa: nan
+  fa: ''
   en: White-cheeked Honeyeater
   es: Mielero Cariblanco
   fr: Méliphage fardé
   de: Weißwangen-Honigfresser
-  pt: white-cheeked honeyeater
+  pt: ''
   ru: Белощёкий медолюб
   ja: ホオジロキバネミツスイ
   nl: Withalshoningeter

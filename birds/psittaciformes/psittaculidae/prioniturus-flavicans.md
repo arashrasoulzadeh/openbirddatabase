@@ -15,7 +15,7 @@ names:
   pt: yellow-breasted racquet-tail
   ru: Желтогрудый ракетохвост
   ja: ズアカウチワインコ
-  zh: Yellow-breasted Racket-tail
+  zh: ''
   nl: Cassinvlagstaartpapegaai
   pl: listkogonka duża
   tr: Altın Göğüslü Raket Kuyruklu Papağan

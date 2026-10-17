@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3576.0
 names:
   scientific: Hydropsalis forcipata
-  fa: nan
+  fa: ''
   en: Long-trained Nightjar
   es: Chotacabras Coludo
   fr: Engoulevent à traîne

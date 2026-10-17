@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17791.0
 names:
   scientific: Caligavis subfrenata
-  fa: nan
+  fa: ''
   en: Black-throated Honeyeater
   es: Mielero Gorjinegro
   fr: Méliphage à gorge noire
   de: Goldstreif-Honigfresser
-  pt: black-throated honeyeater
+  pt: ''
   ru: Черногорлый медосос
   ja: ノドグロミツスイ
   nl: Zwartkeelhoningeter

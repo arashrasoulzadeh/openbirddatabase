@@ -12,7 +12,7 @@ names:
   es: Francolín del Orange
   fr: Francolin d'Archer
   de: Rebhuhnfrankolin
-  pt: orange river francolin
+  pt: ''
   ru: Акациевый франколин
   ja: ニセアカハネシャコ
   nl: Archerfrankolijn

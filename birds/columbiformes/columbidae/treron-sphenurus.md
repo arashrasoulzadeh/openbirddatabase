@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2567.0
 names:
   scientific: Treron sphenurus
-  fa: nan
+  fa: ''
   en: Wedge-tailed Green Pigeon
   es: Vinago Rabocuña
   fr: Colombar chanteur

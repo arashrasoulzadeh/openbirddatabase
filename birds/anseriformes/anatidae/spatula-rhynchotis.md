@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 498.0
 names:
   scientific: Spatula rhynchotis
-  fa: nan
+  fa: ''
   en: Australasian Shoveler
   es: Cuchara Australiano
   fr: Canard bridé
   de: Halbmond-Löffelente
-  pt: australasian shoveler
+  pt: ''
   ru: Австралийская широконоска
   ja: ミカヅキハシビロガモ
   zh: 黑顶琵嘴鸭

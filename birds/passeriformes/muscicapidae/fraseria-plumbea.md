@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28896.0
 names:
   scientific: Fraseria plumbea
-  fa: nan
+  fa: ''
   en: Grey Tit-Flycatcher
   es: Papamoscas Carbonero
   fr: Gobemouche mésange
@@ -15,7 +15,7 @@ names:
   pt: gray tit-flycatcher
   ru: Свинцовая мухоловка
   ja: オジロハイイロヒタキ
-  zh: Grey Tit-Flycatcher
+  zh: ''
   nl: Meesvliegenvanger
   pl: muchołówka sina
   tr: Kül Rengi Sinekkapan

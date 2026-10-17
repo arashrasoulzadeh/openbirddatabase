@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18360.0
 names:
   scientific: Aethomyias rufescens
-  fa: nan
+  fa: ''
   en: Vogelkop Scrubwren
   es: Sedosito de Vogelkop
   fr: Séricorne chamois
   de: Braunohrsericornis
-  pt: vogelkop scrubwren
+  pt: ''
   ru: Буроватая кустовка
   ja: アルファクヤブムシクイ
   nl: Vogelkopstruiksluiper

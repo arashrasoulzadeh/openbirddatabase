@@ -12,7 +12,7 @@ names:
   es: Suimanga Brillante
   fr: Souimanga brillant
   de: Glanznektarvogel
-  pt: abyssinian sunbird
+  pt: ''
   ru: Блестящая нектарница
   ja: テリタイヨウチョウ
   nl: Abessijnse honingzuiger

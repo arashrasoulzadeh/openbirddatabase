@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33447.0
 names:
   scientific: Atlapetes luteoviridis
-  fa: nan
+  fa: ''
   en: Yellow-green Brushfinch
   es: Cerquero Verdiamarillo
   fr: Tohi jaune-vert
   de: Anthrazitbuschammer
-  pt: yellow-green brushfinch
+  pt: ''
   ru: Лохматая атлапета
   ja: キモモシトド
   nl: Geelgroene struikgors

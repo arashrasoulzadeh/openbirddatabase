@@ -15,7 +15,7 @@ names:
   pt: red sea swallow
   ru: Красноморская ласточка
   ja: コウカイサンショクツバメ
-  zh: Red Sea Cliff Swallow
+  zh: ''
   nl: Rodezeeklifzwaluw
   pl: jaskółka czerwonomorska
   tr: Kayıp Kırlangıç

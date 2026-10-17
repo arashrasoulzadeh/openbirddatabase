@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 34087.0
 names:
   scientific: Setophaga aestiva
-  fa: nan
+  fa: ''
   en: American Yellow Warbler
   es: Reinita Amarilla
   fr: Paruline jaune
   de: Goldwaldsänger
   pt: mariquita-amarela-do-norte
   ru: Жёлтая древесница
-  zh: American Yellow Warbler
+  zh: ''
   nl: Gele zanger
   pl: lasówka zbroczona
   tr: Sarı Ötleğen

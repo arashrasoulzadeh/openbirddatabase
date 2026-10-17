@@ -12,7 +12,7 @@ names:
   es: Pito Escamoso
   fr: Pic écaillé
   de: Schuppengrünspecht
-  pt: scaly-bellied woodpecker
+  pt: ''
   ru: Чешуйчатый дятел
   ja: ヒマラヤアオゲラ
   zh: 鳞腹绿啄木鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10042.0
 names:
   scientific: Cittura cyanotis
-  fa: nan
+  fa: ''
   en: Sulawesi Lilac Kingfisher
   es: Martín Cazador de Célebes
   fr: Martin-chasseur oreillard
   de: Blauohrliest
-  pt: sulawesi lilac kingfisher
+  pt: ''
   ru: Синеухий зимородок
   ja: アオミミショウビン
   nl: Blauwoorijsvogel

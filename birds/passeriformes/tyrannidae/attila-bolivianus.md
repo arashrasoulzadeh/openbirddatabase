@@ -15,7 +15,7 @@ names:
   pt: bate-para
   ru: Белоглазый аттила
   ja: チャガシラカギハシタイランチョウ
-  zh: White-eyed Attila
+  zh: ''
   nl: Roestattila
   pl: rudotyran białooki
   tr: Bolivya Attilası

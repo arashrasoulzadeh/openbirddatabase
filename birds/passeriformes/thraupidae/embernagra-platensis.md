@@ -15,7 +15,7 @@ names:
   pt: sabiá-do-banhado
   ru: Оливковый пампасник
   ja: ソウゲンノジコ
-  zh: Pampa Finch
+  zh: ''
   nl: Pampagors
   pl: pampasówka szarolica
   tr: Pampa İspinozu

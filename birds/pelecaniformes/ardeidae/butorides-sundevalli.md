@@ -12,7 +12,7 @@ names:
   es: Garcilla de Galápagos
   fr: Héron des Galapagos
   de: Lavareiher
-  pt: lava heron
+  pt: ''
   ru: Галапагосская цапля
   ja: ガラパゴスササゴイ
   zh: 加岛绿鹭

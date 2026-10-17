@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4690.0
 names:
   scientific: Urochroa leucura
-  fa: nan
+  fa: ''
   en: Green-backed Hillstar
   es: Colibrí de Bouguer Oriental
   fr: Colibri à queue blanche
   de: Bronzebürzelkolibri
-  pt: green-backed hillstar
+  pt: ''
   ru: Безусый диамант
   ja: オジロルリムネハチドリ
   zh: 铜腰白尾蜂鸟

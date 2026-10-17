@@ -12,7 +12,7 @@ names:
   es: Pitohuí Herrumbroso
   fr: Siffleur ferrugineux
   de: Weißaugen-Dickkopf
-  pt: rusty pitohui
+  pt: ''
   ru: Рыжий питуи
   ja: サビイロモリモズ
   nl: Roestpitohui

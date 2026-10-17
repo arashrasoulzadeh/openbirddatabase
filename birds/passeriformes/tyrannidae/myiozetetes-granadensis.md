@@ -15,7 +15,7 @@ names:
   pt: bem-te-vi-de-cabeça-cinza
   ru: Сероголовый бентеви
   ja: ハイボウシヒタキモドキ
-  zh: Grey-capped Flycatcher
+  zh: ''
   nl: Grijskruintiran
   pl: bentewi szarogłowy
   tr: Boz Başlı Tiran

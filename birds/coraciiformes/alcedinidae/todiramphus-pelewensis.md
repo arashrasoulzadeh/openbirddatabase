@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10170.0
 names:
   scientific: Todiramphus pelewensis
-  fa: nan
+  fa: ''
   en: Rusty-capped Kingfisher
   es: Alción de las Palaos
   fr: Martin-chasseur des Palau
@@ -15,7 +15,7 @@ names:
   pt: palau kingfisher
   ru: Палауская альциона
   ja: パラオショウビン
-  zh: Rusty-capped Kingfisher
+  zh: ''
   nl: Palau-ijsvogel
   pl: łowczyk rdzawogłowy
   tr: Palau Yalıçapkını

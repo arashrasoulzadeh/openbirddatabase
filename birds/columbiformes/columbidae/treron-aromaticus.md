@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2506.0
 names:
   scientific: Treron aromaticus
-  fa: nan
+  fa: ''
   en: Buru Green Pigeon
   es: Vinago de Buru
   fr: Colombar de Buru
@@ -15,7 +15,7 @@ names:
   pt: buru green-pigeon
   ru: Буруанский зеленый голубь
   ja: ブルアオバト
-  zh: Buru Green Pigeon
+  zh: ''
   nl: Burupapegaaiduif
   pl: treron żółtoszyi
   tr: Maluku Yeşil Güvercini

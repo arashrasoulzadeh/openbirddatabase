@@ -15,7 +15,7 @@ names:
   pt: narceja-de-bico-torto
   ru: Малый цветной бекас
   ja: ナンベイタマシギ
-  zh: South American Painted-snipe
+  zh: ''
   nl: Pampasnip
   pl: złotosłonka amerykańska
   tr: Güney Amerika Boyalıçulluğu

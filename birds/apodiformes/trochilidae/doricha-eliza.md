@@ -12,7 +12,7 @@ names:
   es: Colibrí de Elisa
   fr: Colibri d'Eliza
   de: Rosenkehl-Sternkolibri
-  pt: mexican sheartail
+  pt: ''
   ru: Мексиканский искрохвост
   ja: オビロエンビハチドリ
   zh: 墨西哥剪尾蜂鸟

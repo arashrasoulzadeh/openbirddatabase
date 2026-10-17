@@ -12,7 +12,7 @@ names:
   es: Abanico de Isla Rennell
   fr: Rhipidure de Rennell
   de: Rennellfächerschwanz
-  pt: rennell fantail
+  pt: ''
   ru: Ренельская веерохвостка
   ja: レンネルオウギビタキ
   nl: Rennellwaaierstaart

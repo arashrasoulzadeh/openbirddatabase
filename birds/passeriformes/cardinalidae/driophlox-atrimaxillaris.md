@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34490.0
 names:
   scientific: Driophlox atrimaxillaris
-  fa: nan
+  fa: ''
   en: Black-cheeked Ant Tanager
   es: Habia Carinegra
   fr: Habia à joues noires
@@ -15,7 +15,7 @@ names:
   pt: black-cheeked ant-tanager
   ru: Чернощёкая хабия
   ja: ホオグロエンジフウキンチョウ
-  zh: Black-cheeked Ant Tanager
+  zh: ''
   nl: Zwartwangmiertangare
   pl: habia czarnolica
   tr: Kara Yanaklı Karınca Kardinali

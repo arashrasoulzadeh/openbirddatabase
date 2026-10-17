@@ -12,7 +12,7 @@ names:
   es: Cuervo Etíope
   fr: Corbeau d'Edith
   de: Somalirabe
-  pt: somali crow
+  pt: ''
   ru: Сомалийский ворон
   ja: ソマリガラス
   nl: Ethiopische raaf

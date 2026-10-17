@@ -12,7 +12,7 @@ names:
   es: Tangara Goliamarilla
   fr: Tangara à bavette jaune
   de: Gelbkehl-Bergtangare
-  pt: yellow-throated tanager
+  pt: ''
   ru: Желтогорлая иридосорния
   ja: キノドニジフウキンチョウ
   nl: Geelkeeltangare

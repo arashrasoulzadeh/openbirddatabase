@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 33479.0
 names:
   scientific: Atlapetes taczanowskii
-  fa: nan
+  fa: ''
   en: Taczanowski's Brushfinch
   es: Atlapetes de Taczanowskii
   fr: Tohi de Taczanowski
   de: Taczanowskibuschammer
   pt: peruvian slaty brushfinch
-  zh: Taczanowski's Brushfinch
+  zh: ''
   nl: Leigrijze struikgors
   pl: zaroślak Taczanowskiego
   tr: Peru Arduvaz çalı Serçesi

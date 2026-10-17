@@ -12,7 +12,7 @@ names:
   es: Eufonia de Trinidad
   fr: Organiste de Trinidad
   de: Trinidadorganist
-  pt: trinidad euphonia
+  pt: ''
   ru: Тринидадская эуфония
   ja: トリニダドスミレフウキンチョウ
   nl: Trinidadorganist

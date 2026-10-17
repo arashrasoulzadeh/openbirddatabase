@@ -12,7 +12,7 @@ names:
   es: Mosquero del Balsas
   fr: Moucherolle aztèque
   de: Schopfschnäppertyrann
-  pt: pileated flycatcher
+  pt: ''
   ru: Мексиканский мухолов
   ja: エボシタイランチョウ
   nl: Mexicaanse kuiftiran

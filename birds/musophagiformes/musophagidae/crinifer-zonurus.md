@@ -12,7 +12,7 @@ names:
   es: Turaco Gris Oriental
   fr: Touraco à queue barrée
   de: Bindenlärmvogel
-  pt: eastern plantain-eater
+  pt: ''
   ru: Полосатый бананоед
   ja: ヒガシハイイロエボシドリ
   nl: Bandstaartbananeneter

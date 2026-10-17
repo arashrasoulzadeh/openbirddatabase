@@ -12,7 +12,7 @@ names:
   es: Akepa de Maui
   fr: Loxopse de Maui
   de: Maui-Akepakleidervogel
-  pt: maui akepa
+  pt: ''
   ru: Оохристая акепа
   ja: マウイコバシハワイミツスイ
   zh: 毛岛红雀

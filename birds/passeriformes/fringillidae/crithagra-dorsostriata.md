@@ -12,7 +12,7 @@ names:
   es: Serín Dorsiestriado
   fr: Serin à ventre blanc
   de: Weißbauchgirlitz
-  pt: white-bellied canary
+  pt: ''
   ru: Пестробокий канареечник
   ja: シロハラキイロカナリア
   nl: Witbuikkanarie

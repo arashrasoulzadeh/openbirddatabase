@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10691.0
 names:
   scientific: Psilopogon malabaricus
-  fa: nan
+  fa: ''
   en: Malabar Barbet
   es: Barbudo Malabar
   fr: Barbu de Malabar
   de: Malabarbartvogel
-  pt: malabar barbet
+  pt: ''
   ru: Малабарский бородастик
   ja: マラバルゴシキドリ
   nl: Karmijnkeelbaardvogel

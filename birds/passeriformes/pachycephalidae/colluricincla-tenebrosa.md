@@ -12,7 +12,7 @@ names:
   es: Picanzo Sombrío
   fr: Siffleur ombré
   de: Rußdickkopf
-  pt: sooty shrikethrush
+  pt: ''
   ru: Черноватый питуи
   ja: ススイロモズツグミ
   zh: 晨鵙鶇

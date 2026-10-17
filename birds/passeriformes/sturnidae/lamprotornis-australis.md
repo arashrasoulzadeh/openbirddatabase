@@ -12,7 +12,7 @@ names:
   es: Estornino de Burchell
   fr: Choucador de Burchell
   de: Riesenglanzstar
-  pt: burchell's starling
+  pt: ''
   ru: Большой спрео
   ja: コシアカテリムク
   zh: 澳洲丽椋鸟

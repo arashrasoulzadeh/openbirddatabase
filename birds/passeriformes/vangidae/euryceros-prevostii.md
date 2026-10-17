@@ -12,7 +12,7 @@ names:
   es: Vanga de Casco
   fr: Eurycère de Prévost
   de: Helmvanga
-  pt: helmet vanga
+  pt: ''
   ru: Шлемоклювая ванга
   ja: ヘルメットモズ
   zh: 盔鵙

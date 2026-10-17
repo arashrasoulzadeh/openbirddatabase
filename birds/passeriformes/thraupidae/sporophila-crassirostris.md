@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35554.0
 names:
   scientific: Sporophila crassirostris
-  fa: nan
+  fa: ''
   en: Large-billed Seed Finch
   es: Semillero Piquigrande
   fr: Sporophile crassirostre
@@ -15,7 +15,7 @@ names:
   pt: bicudinho
   ru: Большеклювый просяночник
   ja: オオコメワリ
-  zh: Large-billed Seed Finch
+  zh: ''
   nl: Dikbekzaadkraker
   pl: ryżołusk grubodzioby
   tr: Uzun Gagalı Koca Tohumcul

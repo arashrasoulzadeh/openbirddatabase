@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25460.0
 names:
   scientific: Suthora davidiana
-  fa: nan
+  fa: ''
   en: Short-tailed Parrotbill
   es: Picoloro de David
   fr: Paradoxornis de David
   de: Kurzschwanz-Papageimeise
-  pt: short-tailed parrotbill
+  pt: ''
   ru: Короткохвостая сутора
   ja: ノドグロダルマエナガ
   zh: 短尾鸦雀

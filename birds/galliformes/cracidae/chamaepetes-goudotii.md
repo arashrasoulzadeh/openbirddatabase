@@ -12,7 +12,7 @@ names:
   es: Pava Falcialar
   fr: Pénélope de Goudot
   de: Sichelguan
-  pt: sickle-winged guan
+  pt: ''
   ru: Серпокрылый гуан
   ja: カマバネシャクケイ
   zh: 鐮刀翼鳥

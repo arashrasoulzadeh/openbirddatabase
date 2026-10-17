@@ -12,7 +12,7 @@ names:
   es: Cucarachero Cabecinegro
   fr: Troglodyte à calotte noire
   de: Kastanienzaunkönig
-  pt: bay wren
+  pt: ''
   ru: Черноголовый крапивник
   ja: シマバラマユミソサザイ
   zh: 栗葦鷦鷯

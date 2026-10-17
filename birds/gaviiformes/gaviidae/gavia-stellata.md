@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6927.0
 names:
   scientific: Gavia stellata
-  fa: nan
+  fa: ''
   en: Red-throated Loon
   es: Colimbo Chico
   fr: Plongeon catmarin

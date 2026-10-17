@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17909.0
 names:
   scientific: Epthianura crocea
-  fa: nan
+  fa: ''
   en: Yellow Chat
   es: Eptianuro Amarillo
   fr: Epthianure à collier
   de: Safrantrugschmätzer
-  pt: yellow chat
+  pt: ''
   ru: Жёлтая пустынница
   ja: キイロオーストラリアヒタキ
   zh: 黄澳䳭

@@ -12,7 +12,7 @@ names:
   es: Filemón Goligualdo
   fr: Polochion à menton jaune
   de: Glattstirn-Lederkopf
-  pt: little friarbird
+  pt: ''
   ru: Желтогорлый кожеголов
   ja: ヒメハゲミツスイ
   zh: 小吮蜜鳥

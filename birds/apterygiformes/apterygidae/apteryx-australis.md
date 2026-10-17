@@ -12,7 +12,7 @@ names:
   es: Kiwi Sureño
   fr: Kiwi austral
   de: Südstreifenkiwi
-  pt: southern brown kiwi
+  pt: ''
   ru: Бурый киви
   ja: キーウィ
   zh: 褐几维

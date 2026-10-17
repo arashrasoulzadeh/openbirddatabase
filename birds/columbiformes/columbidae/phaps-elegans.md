@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce Elegante
   fr: Colombine élégante
   de: Buschtaube
-  pt: brush bronzewing
+  pt: ''
   ru: Элегантный бронзовокрыл
   ja: チャノドニジハバト
   nl: Struikbronsvleugelduif

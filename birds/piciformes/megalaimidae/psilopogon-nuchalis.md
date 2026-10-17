@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10772.0
 names:
   scientific: Psilopogon nuchalis
-  fa: nan
+  fa: ''
   en: Taiwan Barbet
   es: Barbudo de Formosa
   fr: Barbu de Formose
   de: Taiwanbartvogel
-  pt: taiwan barbet
+  pt: ''
   ru: Тайваньский бородастик
   ja: タイワンゴシキドリ
   zh: 台湾拟啄木鸟

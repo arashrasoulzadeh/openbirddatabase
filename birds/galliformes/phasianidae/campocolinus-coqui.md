@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1660.0
 names:
   scientific: Campocolinus coqui
-  fa: nan
+  fa: ''
   en: Coqui Francolin
   es: Francolín Coqui
   fr: Francolin coqui
   de: Coquifrankolin
-  pt: coqui francolin
+  pt: ''
   ru: Рыжеголовый франколин
   ja: コクイシャコ
   nl: Coquifrankolijn

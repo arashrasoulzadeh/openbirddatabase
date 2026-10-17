@@ -15,7 +15,7 @@ names:
   pt: gray vireo
   ru: Серый виреон
   ja: ハイイロモズモドキ
-  zh: Grey Vireo
+  zh: ''
   nl: Grijze vireo
   pl: wireonek popielaty
   tr: Gri Vireo

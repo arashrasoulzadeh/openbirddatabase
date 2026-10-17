@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13990.0
 names:
   scientific: Percnostola rufifrons
-  fa: nan
+  fa: ''
   en: Black-headed Antbird
   es: Hormiguero Cabecinegro
   fr: Alapi à tête noire

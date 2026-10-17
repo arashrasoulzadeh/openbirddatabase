@@ -12,7 +12,7 @@ names:
   es: Obispo Diademado
   fr: Euplecte à diadème
   de: Diademweber
-  pt: fire-fronted bishop
+  pt: ''
   ru: Диадемовый ткачик
   ja: ベニヒタイオウゴンチョウ
   nl: Diadeemwever

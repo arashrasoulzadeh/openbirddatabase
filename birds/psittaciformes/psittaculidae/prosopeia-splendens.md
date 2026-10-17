@@ -15,7 +15,7 @@ names:
   pt: crimson shining-parrot
   ru: Блестящий попугай-арлекин
   ja: アカメンカブリインコ
-  zh: Crimson Shining Parrot
+  zh: ''
   nl: Kadavuparkiet
   pl: fidżyjka czerwona
   tr: Yakut Papağanı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12356.0
 names:
   scientific: Psittacula eques
-  fa: nan
+  fa: ''
   en: Echo Parakeet
   es: Cotorra de Mauricio
   fr: Perruche de Maurice
   de: Mauritiussittich
-  pt: echo parakeet
+  pt: ''
   ru: Маврикийский попугай
   ja: モーリシャスホンセイインコ
   zh: 迴聲鸚鵡

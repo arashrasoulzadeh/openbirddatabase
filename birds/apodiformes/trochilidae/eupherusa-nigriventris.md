@@ -12,7 +12,7 @@ names:
   es: Colibrí Ventrinegro
   fr: Colibri à ventre noir
   de: Schwarzbauchkolibri
-  pt: black-bellied hummingbird
+  pt: ''
   ru: Чернобрюхая эферуса
   ja: クロハラオジロハチドリ
   zh: 黑腹蜂鸟

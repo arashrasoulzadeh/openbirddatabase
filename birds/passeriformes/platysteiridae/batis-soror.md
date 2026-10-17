@@ -12,7 +12,7 @@ names:
   es: Batis Pálido
   fr: Pririt pâle
   de: Kinnfleckschnäpper
-  pt: pale batis
+  pt: ''
   ru: Мозамбикский батис
   ja: シラフセワタビタキ
   nl: Acaciavliegenvanger

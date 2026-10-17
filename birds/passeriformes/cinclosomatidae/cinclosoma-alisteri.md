@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18540.0
 names:
   scientific: Cinclosoma alisteri
-  fa: nan
+  fa: ''
   en: Nullarbor Quail-thrush
   es: Zordala de Nullarbor
   fr: Cinclosome de Nullarbor
   de: Nullarborflöter
-  pt: nullarbor quail-thrush
+  pt: ''
   ru: Усатый флейтист
   ja: セアカウズラチメドリ
   nl: Nullarborkwartellijster

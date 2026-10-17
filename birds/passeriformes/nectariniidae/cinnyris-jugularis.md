@@ -12,7 +12,7 @@ names:
   es: Suimanga Dorsioliva
   fr: Souimanga à dos vert
   de: Grünrückennektarvogel
-  pt: garden sunbird
+  pt: ''
   ru: Желтогорлая нектарница
   ja: キバラタイヨウチョウ
   zh: 黄腹花蜜鸟

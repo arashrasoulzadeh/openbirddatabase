@@ -12,7 +12,7 @@ names:
   es: Corretroncos Cejiblanco
   fr: Échelet à sourcils blancs
   de: Weißbrauen-Baumrutscher
-  pt: white-browed treecreeper
+  pt: ''
   ru: Белобровая ложнопищуха
   ja: マミジロキノボリ
   zh: 白眉短嘴旋木雀

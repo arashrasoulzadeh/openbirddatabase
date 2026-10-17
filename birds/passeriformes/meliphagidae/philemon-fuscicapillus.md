@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18189.0
 names:
   scientific: Philemon fuscicapillus
-  fa: nan
+  fa: ''
   en: Morotai Friarbird
   es: Filemón Sombrío
   fr: Polochion sombre
   de: Molukkenlederkopf
-  pt: morotai friarbird
+  pt: ''
   ru: Тёмный кожеголов
   ja: モロタイハゲミツスイ
   nl: Morotailederkop

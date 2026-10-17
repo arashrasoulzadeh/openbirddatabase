@@ -12,7 +12,7 @@ names:
   es: Acantiza Culirroja
   fr: Acanthize à croupion roux
   de: Braunbürzel-Dornschnabel
-  pt: chestnut-rumped thornbill
+  pt: ''
   ru: Рыжепоясничная шипоклювка
   ja: コシアカトゲハシムシクイ
   zh: 栗尾刺嘴莺

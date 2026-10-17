@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 16033.0
 names:
   scientific: Pachyramphus spodiurus
-  fa: nan
+  fa: ''
   en: Slaty Becard
   es: Anambé Pizarra
   fr: Bécarde ardoisée
   de: Schieferbekarde
-  pt: slaty becard
+  pt: ''
   ru: Аспидный бекард
   ja: ネズミカザリドリモドキ
   nl: Leikleurige bekarde

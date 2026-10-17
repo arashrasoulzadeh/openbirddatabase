@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3793.0
 names:
   scientific: Batrachostomus mixtus
-  fa: nan
+  fa: ''
   en: Bornean Frogmouth
   es: Podargo de Borneo
   fr: Podarge de Bornéo
   de: Borneoschwalm
-  pt: bornean frogmouth
+  pt: ''
   ru: Борнейский лягушкорот
   ja: ボルネオガマグチヨタカ
   nl: Borneose kikkerbek

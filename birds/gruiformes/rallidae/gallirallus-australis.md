@@ -12,7 +12,7 @@ names:
   es: Rascón Weka
   fr: Râle wéka
   de: Wekaralle
-  pt: weka
+  pt: ''
   ru: Уэка
   ja: ニュージーランドクイナ
   zh: 紐西蘭秧雞

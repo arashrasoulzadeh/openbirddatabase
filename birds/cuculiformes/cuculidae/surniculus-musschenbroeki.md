@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3414.0
 names:
   scientific: Surniculus musschenbroeki
-  fa: nan
+  fa: ''
   en: Moluccan Drongo-Cuckoo
   es: Cuclillo Drongo Moluqueño
   fr: Coucou des Moluques
   de: Molukkendrongokuckuck
-  pt: moluccan drongo-cuckoo
+  pt: ''
   ru: Молуккская дронговая кукушка
   ja: モルッカオウチュウカッコウ
   nl: Molukse drongokoekoek

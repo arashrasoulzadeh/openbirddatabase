@@ -12,7 +12,7 @@ names:
   es: Mosquitero Dorsiclaro
   fr: Pouillot à dos clair
   de: Gelbbürzel-Laubsänger
-  pt: lemon-rumped warbler
+  pt: ''
   ru: Гималайская зарничка
   ja: ウスゴシムシクイ
   zh: 淡黄腰柳莺

@@ -15,7 +15,7 @@ names:
   pt: collared imperial-pigeon
   ru: Ошейниковый плодовый голубь
   ja: クロエリミカドバト
-  zh: Collared Imperial Pigeon
+  zh: ''
   nl: Zwartkraagmuskaatduif
   pl: muszkatela obrożna
   tr: Halkalı Has Güvercin

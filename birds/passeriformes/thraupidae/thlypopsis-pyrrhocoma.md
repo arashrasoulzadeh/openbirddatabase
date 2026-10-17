@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34706.0
 names:
   scientific: Thlypopsis pyrrhocoma
-  fa: nan
+  fa: ''
   en: Chestnut-headed Tanager
   es: Tangara Pioró
   fr: Tangara à tête marron

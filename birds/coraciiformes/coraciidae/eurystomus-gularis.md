@@ -12,7 +12,7 @@ names:
   es: Carraca Gorjiazul
   fr: Rolle à gorge bleue
   de: Blaukehlracke
-  pt: blue-throated roller
+  pt: ''
   ru: Синегорлый широкорот
   ja: アオノドアフリカブッポウソウ
   nl: Blauwkeelscharrelaar

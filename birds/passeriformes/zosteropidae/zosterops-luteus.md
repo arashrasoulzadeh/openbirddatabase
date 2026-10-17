@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25766.0
 names:
   scientific: Zosterops luteus
-  fa: nan
+  fa: ''
   en: Canary White-eye
   es: Anteojitos Australiano
   fr: Zostérops à ventre jaune
@@ -15,7 +15,7 @@ names:
   pt: australian yellow white-eye
   ru: Мангровая белоглазка
   ja: キバラメジロ
-  zh: Canary White-eye
+  zh: ''
   nl: Mangrovebrilvogel
   pl: szlarnik australijski
   tr: Avustralya Sarı Gözlükçüsü

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23732.0
 names:
   scientific: Acrocephalus syrinx
-  fa: nan
+  fa: ''
   en: Caroline Reed Warbler
   es: Carricero de las Carolinas
   fr: Rousserolle des Carolines
   de: Carolinenrohrsänger
-  pt: caroline reed warbler
+  pt: ''
   ru: Каролинская камышовка
   ja: カロリンヨシキリ
   zh: 卡罗琳苇莺

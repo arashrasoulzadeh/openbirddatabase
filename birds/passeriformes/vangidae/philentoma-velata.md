@@ -12,7 +12,7 @@ names:
   es: Filentoma Pechipardo
   fr: Philentome à poitrine marron
   de: Braunbrustvanga
-  pt: maroon-breasted philentoma
+  pt: ''
   ru: Каштановогрудый личинколов
   ja: クリムネアカメヒタキ
   nl: Roodborstphilentoma

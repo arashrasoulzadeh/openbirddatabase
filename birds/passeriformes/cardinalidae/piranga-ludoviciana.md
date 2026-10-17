@@ -12,7 +12,7 @@ names:
   es: Piranga Carirroja
   fr: Piranga à tête rouge
   de: Kiefernkardinal
-  pt: western tanager
+  pt: ''
   ru: Желтоплечая пиранга
   ja: ニシフウキンチョウ
   zh: 黃腹麗唐納雀

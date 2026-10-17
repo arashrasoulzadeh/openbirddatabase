@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29977.0
 names:
   scientific: Pachyglossa melanozantha
-  fa: nan
+  fa: ''
   en: Yellow-bellied Flowerpecker
   es: Picaflores Ventrigualdo
   fr: Dicée à ventre jaune
   de: Gelbbauch-Mistelfresser
-  pt: yellow-bellied flowerpecker
+  pt: ''
   ru: Желтобрюхий цветоед
   ja: キバラハナドリ
   zh: 黄腹啄花鸟

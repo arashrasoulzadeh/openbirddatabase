@@ -12,7 +12,7 @@ names:
   es: Pájaro Ratón Carirrojo
   fr: Coliou quiriva
   de: Rotzügel-Mausvogel
-  pt: red-faced mousebird
+  pt: ''
   ru: Краснолицая птица-мышь
   ja: アカガオネズミドリ
   zh: 红脸鼠鸟

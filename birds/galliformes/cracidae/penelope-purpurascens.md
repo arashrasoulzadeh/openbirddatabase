@@ -12,7 +12,7 @@ names:
   es: Pava Cojolita
   fr: Pénélope panachée
   de: Haubenguan
-  pt: crested guan
+  pt: ''
   ru: Хохлатая пенелопа
   ja: カンムリシャクケイ
   zh: 紫冠雉

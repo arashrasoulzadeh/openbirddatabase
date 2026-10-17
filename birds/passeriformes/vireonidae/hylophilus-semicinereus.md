@@ -15,7 +15,7 @@ names:
   pt: verdinho-da-várzea
   ru: Серогрудый виреончик
   ja: ハイムネヒメモズモドキ
-  zh: Grey-chested Greenlet
+  zh: ''
   nl: Grijsnekvireo
   pl: leśniak szaroszyi
   tr: Gri Gerdanlı Yaprak Vireosu

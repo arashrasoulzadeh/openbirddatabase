@@ -15,7 +15,7 @@ names:
   pt: reunion white-eye
   ru: Реюньонская белоглазка
   ja: レユニオンメジロ
-  zh: Reunion Olive White-eye
+  zh: ''
   nl: Olijfgroene réunionbrilvogel
   pl: szlarnik krzywodzioby
   tr: Reünyon Gözlükçüsü

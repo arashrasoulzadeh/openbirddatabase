@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23401.0
 names:
   scientific: Cisticola bailunduensis
-  fa: nan
+  fa: ''
   en: Huambo Cisticola
   es: Cistícola de Huambo
   fr: Cisticole des Bailundos
   de: Huambozistensänger
-  pt: huambo cisticola
+  pt: ''
   nl: Huambograszanger
   pl: chwastówka brązowa
   tr: Angola Kaya Yelpazekuyruğu

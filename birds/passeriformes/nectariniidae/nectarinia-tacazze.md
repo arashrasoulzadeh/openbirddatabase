@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30327.0
 names:
   scientific: Nectarinia tacazze
-  fa: nan
+  fa: ''
   en: Tacazze Sunbird
   es: Suimanga del Tacazzé
   fr: Souimanga tacazze
   de: Tacazzenektarvogel
-  pt: tacazze sunbird
+  pt: ''
   ru: Эфиопская нектарница
   ja: ルビーオナガタイヨウチョウ
   nl: Tacazzehoningzuiger

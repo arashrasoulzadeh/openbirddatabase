@@ -15,7 +15,7 @@ names:
   pt: scaly weaver
   ru: Усатый воробьиный ткачик
   ja: キクスズメ
-  zh: Scaly-feathered Weaver
+  zh: ''
   nl: Baardmanwever
   pl: łuskogłowik czarnobrody
   tr: Pul Alınlı Dokumacı

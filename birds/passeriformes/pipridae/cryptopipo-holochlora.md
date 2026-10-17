@@ -12,7 +12,7 @@ names:
   es: Saltarín Verde
   fr: Manakin vert
   de: Grünpipra
-  pt: green manakin
+  pt: ''
   ru: Зелёный манакин
   ja: ミドリマイコドリ
   nl: Groene manakin

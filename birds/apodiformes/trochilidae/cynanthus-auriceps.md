@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4881.0
 names:
   scientific: Cynanthus auriceps
-  fa: nan
+  fa: ''
   en: Golden-crowned Emerald
   es: Esmeralda Mexicana
   fr: Émeraude couronnée
   de: Goldscheitel-Smaragdkolibri
-  pt: golden-crowned emerald
+  pt: ''
   ru: Златолобый изумруд
   ja: キボウシヒメエメラルドハチドリ
   zh: 金腹翠蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25077.0
 names:
   scientific: Hemitesia pallidipes
-  fa: nan
+  fa: ''
   en: Pale-footed Bush Warbler
   es: Tesia Paticlara
   fr: Bouscarle à pattes claires
   de: Weißbauch-Stutzschwanz
-  pt: pale-footed bush warbler
+  pt: ''
   ru: Бледноногая короткохвостка
   ja: キアシヤブサメ
   zh: 淡脚树莺

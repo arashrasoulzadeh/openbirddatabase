@@ -12,7 +12,7 @@ names:
   es: Cotorrita Mexicana
   fr: Toui du Mexique
   de: Blaubürzel-Sperlingspapagei
-  pt: mexican parrotlet
+  pt: ''
   ru: Мексиканский воробьиный попугайчик
   ja: メキシコルリハシインコ
   nl: Mexicaanse muspapegaai

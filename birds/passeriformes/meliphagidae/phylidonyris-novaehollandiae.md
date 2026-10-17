@@ -12,7 +12,7 @@ names:
   es: Mielero de Nueva Holanda
   fr: Méliphage de Nouvelle-Hollande
   de: Weißaugen-Honigfresser
-  pt: new holland honeyeater
+  pt: ''
   ru: Белоглазый медолюб
   ja: メジロキバネミツスイ
   zh: 黃翅澳吸蜜鳥

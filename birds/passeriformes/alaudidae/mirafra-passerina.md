@@ -12,7 +12,7 @@ names:
   es: Alondra Monótona
   fr: Alouette monotone
   de: Sperlingslerche
-  pt: monotonous lark
+  pt: ''
   ru: Воробьиный жаворонок
   ja: ヒトコエヤブヒバリ
   zh: 雀歌百靈

@@ -12,7 +12,7 @@ names:
   es: Cálao Cariplateado
   fr: Calao à joues argent
   de: Silberwangen-Hornvogel
-  pt: silvery-cheeked hornbill
+  pt: ''
   ru: Серебристощёкий шлеморог
   ja: ギンガオサイチョウ
   nl: Zilveroorneushoornvogel

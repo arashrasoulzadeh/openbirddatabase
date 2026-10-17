@@ -15,7 +15,7 @@ names:
   pt: cameroon speirops
   ru: Черноголовая белоглазка
   ja: メジロモドキ
-  zh: Mount Cameroon Speirops
+  zh: ''
   nl: Kameroense brilvogel
   pl: szlarnik czarnołbisty
   tr: Kamerun Gözlükçüsü

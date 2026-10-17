@@ -12,7 +12,7 @@ names:
   es: Colinegro Sombrío
   fr: Traquet sombre
   de: Dunkelsteinschmätzer
-  pt: sombre rock chat
+  pt: ''
   ru: Тёмная чернохвостка
   ja: スナイロイワビタキ
   nl: Roetspekvreter

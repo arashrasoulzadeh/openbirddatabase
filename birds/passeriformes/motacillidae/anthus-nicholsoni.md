@@ -12,7 +12,7 @@ names:
   es: Bisbita Sudafricano
   fr: Pipit de Nicholson
   de: Nicholsonpieper
-  pt: nicholson's pipit
+  pt: ''
   ru: Южноафриканский конёк
   nl: Nicholsonpieper
   pl: świergotek płowopióry

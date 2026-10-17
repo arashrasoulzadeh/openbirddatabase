@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23839.0
 names:
   scientific: Locustella idonea
-  fa: nan
+  fa: ''
   en: Dalat Bush Warbler
   es: Zarzalero de Da Lat
   fr: Locustelle du Langbian
   de: Vietnamschwirl
-  pt: dalat bush warbler
+  pt: ''
   ru: Далатская пестрогрудка
   ja: ダラットオオセッカ
   nl: Dalatstruikzanger

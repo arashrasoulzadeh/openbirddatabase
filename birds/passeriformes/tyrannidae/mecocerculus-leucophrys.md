@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16582.0
 names:
   scientific: Mecocerculus leucophrys
-  fa: nan
+  fa: ''
   en: White-throated Tyrannulet
   es: Piojito Gargantilla
   fr: Tyranneau à gorge blanche

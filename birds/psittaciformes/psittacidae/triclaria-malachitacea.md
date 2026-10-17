@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12851.0
 names:
   scientific: Triclaria malachitacea
-  fa: nan
+  fa: ''
   en: Blue-bellied Parrot
   es: Loro Ventriazul
   fr: Crick à ventre bleu

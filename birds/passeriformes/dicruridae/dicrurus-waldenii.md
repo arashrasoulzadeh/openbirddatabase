@@ -12,7 +12,7 @@ names:
   es: Drongo de Mayotte
   fr: Drongo de Mayotte
   de: Mayottedrongo
-  pt: mayotte drongo
+  pt: ''
   ru: Майоттский дронго
   ja: マヨットオウチュウ
   zh: 馬約特島卷尾

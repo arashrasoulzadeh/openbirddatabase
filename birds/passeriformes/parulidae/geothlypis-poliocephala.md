@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33992.0
 names:
   scientific: Geothlypis poliocephala
-  fa: nan
+  fa: ''
   en: Grey-crowned Yellowthroat
   es: Mascarita Coronigrís
   fr: Paruline à calotte grise
@@ -15,7 +15,7 @@ names:
   pt: gray-crowned yellowthroat
   ru: Луговая желтогрудка
   ja: ハシブトアメリカムシクイ
-  zh: Grey-crowned Yellowthroat
+  zh: ''
   nl: Weidemaskerzanger
   pl: cytrynka siwogłowa
   tr: Gri Alınlı Sarıgerdan

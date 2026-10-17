@@ -12,7 +12,7 @@ names:
   es: Cuco Grande
   fr: Coucou épervier
   de: Sperberkuckuck
-  pt: large hawk-cuckoo
+  pt: ''
   ru: Ястребиная кукушка
   ja: オオジュウイチ
   zh: 大鹰鹃

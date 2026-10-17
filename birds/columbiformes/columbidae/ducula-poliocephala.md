@@ -15,7 +15,7 @@ names:
   pt: pink-bellied imperial-pigeon
   ru: Филиппинский плодовый голубь
   ja: アカハラオビオバト
-  zh: Pink-bellied Imperial Pigeon
+  zh: ''
   nl: Filipijnse muskaatduif
   pl: muszkatela różowobrzucha
   tr: Pembe Karınlı Has Güvercin

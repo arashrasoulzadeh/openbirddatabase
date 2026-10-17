@@ -15,7 +15,7 @@ names:
   pt: spiny-faced antshrike
   ru: Чешуйчатый колючник
   ja: ハイガオアリモズ
-  zh: Speckled Antshrike
+  zh: ''
   nl: Vlekborstmierklauwier
   pl: brązowiaczek
   tr: Benekli Karıncaavcısı

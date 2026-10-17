@@ -15,7 +15,7 @@ names:
   pt: taveta golden-weaver
   ru: Рыжелицый ткач
   ja: チャエリハタオリ
-  zh: Taveta Weaver
+  zh: ''
   nl: Tavetawever
   pl: wikłacz rdzawogłowy
   tr: Taveta Altın Dokumacısı

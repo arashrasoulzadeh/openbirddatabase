@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14212.0
 names:
   scientific: Grallaria guatimalensis
-  fa: nan
+  fa: ''
   en: Scaled Antpitta
   es: Tororoí Cholino
   fr: Grallaire écaillée

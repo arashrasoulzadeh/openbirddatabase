@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35431.0
 names:
   scientific: Pseudospingus xanthophthalmus
-  fa: nan
+  fa: ''
   en: Drab Hemispingus
   es: Hemispingo Modesto
   fr: Tangara aux yeux jaunes
   de: Schlichtfinkentangare
-  pt: drab hemispingus
+  pt: ''
   ru: Желтоглазая пипира
   ja: ハイイロモリフウキンチョウ
   nl: Geeloogtangare

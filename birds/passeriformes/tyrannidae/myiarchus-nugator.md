@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17346.0
 names:
   scientific: Myiarchus nugator
-  fa: nan
+  fa: ''
   en: Grenada Flycatcher
   es: Copetón de Granada
   fr: Tyran bavard
   de: Grenadaschopftyrann
-  pt: grenada flycatcher
+  pt: ''
   ru: Гренадский миарх
   ja: グレナダヒタキモドキ
   nl: Grenadatiran

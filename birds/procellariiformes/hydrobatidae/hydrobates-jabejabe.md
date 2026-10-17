@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7069.0
 names:
   scientific: Hydrobates jabejabe
-  fa: nan
+  fa: ''
   en: Cape Verde Storm Petrel
   es: Paíño de Cabo Verde
   fr: Océanite du Cap-Vert
@@ -15,7 +15,7 @@ names:
   pt: jaba-jaba
   ru: Кабовердская качурка
   ja: カボベルデウミツバメ
-  zh: Cape Verde Storm Petrel
+  zh: ''
   nl: Kaapverdisch stormvogeltje
   pl: nawałnik zielonoprzylądkowy
   tr: Kap Verde Fırtınakırlangıcı

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15476.0
 names:
   scientific: Thripophaga fusciceps
-  fa: nan
+  fa: ''
   en: Plain Softtail
   es: Colasuave Sencillo
   fr: Synallaxe terne

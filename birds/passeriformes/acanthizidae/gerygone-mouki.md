@@ -12,7 +12,7 @@ names:
   es: Gerigón Pardo
   fr: Gérygone brune
   de: Grauwangengerygone
-  pt: brown gerygone
+  pt: ''
   ru: Серощёкая геригона
   ja: チャイロセンニョムシクイ
   nl: Bruine mangrovezanger

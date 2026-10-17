@@ -12,7 +12,7 @@ names:
   es: Mango de Veragua
   fr: Mango de Veraguas
   de: Veragua-Mangokolibri
-  pt: veraguan mango
+  pt: ''
   ru: Верагуанский манго
   ja: パナママンゴーハチドリ
   zh: 巴拿马芒果蜂鸟

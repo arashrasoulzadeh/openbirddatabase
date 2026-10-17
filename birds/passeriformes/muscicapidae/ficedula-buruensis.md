@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29578.0
 names:
   scientific: Ficedula buruensis
-  fa: nan
+  fa: ''
   en: Cinnamon-chested Flycatcher
   es: Papamoscas de Buru
   fr: Gobemouche de Buru
   de: Molukkenschnäpper
-  pt: cinnamon-chested flycatcher
+  pt: ''
   ru: Молуккская мухоловка
   ja: モルッカヒタキ
   nl: Molukse vliegenvanger

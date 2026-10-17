@@ -15,7 +15,7 @@ names:
   pt: white-bellied mountain-gem
   ru: Белобрюхий солнечник
   ja: シロハラシロメジリハチドリ
-  zh: White-bellied Mountaingem
+  zh: ''
   nl: Witbuikjuweelkolibrie
   pl: malachicik białobrzuchy
   tr: Ak Karınlı Dağmücevheri

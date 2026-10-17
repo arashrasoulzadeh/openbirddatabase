@@ -12,7 +12,7 @@ names:
   es: Atlapetes de Seebohm
   fr: Tohi de Seebohm
   de: Rotscheitel-Buschammer
-  pt: bay-crowned brushfinch
+  pt: ''
   ru: Усатая атлапета
   ja: チャガシラヤブシトド
   nl: Roodkruinstruikgors

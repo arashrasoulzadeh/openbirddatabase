@@ -12,7 +12,7 @@ names:
   es: Jacamará Dorsioscuro
   fr: Jacamar sombre
   de: Salmonglanzvogel
-  pt: dusky-backed jacamar
+  pt: ''
   ru: Тёмноспинная якамара
   ja: ウスグロキリハシ
   nl: Zwartrugglansvogel

@@ -12,7 +12,7 @@ names:
   es: Oruguero Hombroamarillo
   fr: Échenilleur à épaulettes jaunes
   de: Kapraupenfänger
-  pt: black cuckooshrike
+  pt: ''
   ru: Желтоплечий личинколюб
   ja: アフリカクロサンショウクイ
   zh: 黑鵑鵙

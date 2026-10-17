@@ -12,7 +12,7 @@ names:
   es: Mielero Abejaruco de El Cabo
   fr: Promérops du Cap
   de: Kaphonigvogel
-  pt: cape sugarbird
+  pt: ''
   ru: Капская сахарная птица
   ja: オナガミツスイ
   zh: 開普頓雁

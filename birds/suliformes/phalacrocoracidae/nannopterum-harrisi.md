@@ -12,7 +12,7 @@ names:
   es: Cormorán Mancón
   fr: Cormoran aptère
   de: Galápagosscharbe
-  pt: flightless cormorant
+  pt: ''
   ru: Галапагосский баклан
   ja: ガラパゴスバネウ
   zh: 弱翅鸬鹚

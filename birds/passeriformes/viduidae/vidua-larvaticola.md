@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31465.0
 names:
   scientific: Vidua larvaticola
-  fa: nan
+  fa: ''
   en: Barka Indigobird
   es: Viuda Baka
   fr: Combassou barka
   de: Barkawitwe
-  pt: barka indigobird
+  pt: ''
   ru: Чернолицая вдовушка
   ja: バカシコンチョウ
   zh: 巴喀维达雀

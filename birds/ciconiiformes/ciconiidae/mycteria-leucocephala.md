@@ -12,7 +12,7 @@ names:
   es: Tántalo Indio
   fr: Tantale indien
   de: Buntstorch
-  pt: painted stork
+  pt: ''
   ru: Расписной клювач
   ja: インドトキコウ
   zh: 彩鹳

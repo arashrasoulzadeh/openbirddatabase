@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13565.0
 names:
   scientific: Thamnophilus stictocephalus
-  fa: nan
+  fa: ''
   en: Natterer's Slaty Antshrike
   es: Batará Pizarroso de Natterer
   fr: Batara de Natterer
@@ -15,7 +15,7 @@ names:
   pt: choca-de-natterer
   ru: Шиферный колючник
   ja: ナッテラーハイイロアリモズ
-  zh: Natterer's Slaty Antshrike
+  zh: ''
   nl: Natterermierklauwier
   pl: chronka plamkoskrzydła
   tr: Natterer Gri Karıncaavcısı

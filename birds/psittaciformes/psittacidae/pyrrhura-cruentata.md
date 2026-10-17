@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13013.0
 names:
   scientific: Pyrrhura cruentata
-  fa: nan
+  fa: ''
   en: Ochre-marked Parakeet
   es: Cotorra Tiriba
   fr: Conure tiriba

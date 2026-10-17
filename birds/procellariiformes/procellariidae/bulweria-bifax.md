@@ -14,7 +14,7 @@ names:
   de: Helenasturmvogel
   pt: small st. helena petrel
   ru: Святоеленский штормовик
-  zh: Olson's Petrel
+  zh: ''
   nl: Olsonstormvogel
   pl: tajfunnik mały
   tr: Olson Yelkovanı

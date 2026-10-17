@@ -12,7 +12,7 @@ names:
   es: Apalis Gorjinegro
   fr: Apalis à gorge noire
   de: Schwarzkehl-Feinsänger
-  pt: black-throated apalis
+  pt: ''
   ru: Черногорлый апалис
   ja: ノドグロイロムシクイ
   nl: Zwartkeelapalis

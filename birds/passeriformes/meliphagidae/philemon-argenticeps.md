@@ -12,7 +12,7 @@ names:
   es: Filemón Coronado
   fr: Polochion couronné
   de: Weißscheitel-Lederkopf
-  pt: silver-crowned friarbird
+  pt: ''
   ru: Седой кожеголов
   ja: コブハゲミツスイ
   zh: 银冠吮蜜鸟

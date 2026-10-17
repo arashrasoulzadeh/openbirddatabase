@@ -15,7 +15,7 @@ names:
   pt: sao tome paradise-flycatcher
   ru: Сантомейская райская мухоловка
   ja: サントメサンコウチョウ
-  zh: Sao Tome Paradise Flycatcher
+  zh: ''
   nl: Sao-Toméparadijsmonarch
   pl: muchodławka czarna
   tr: Sao Tome Monarkı

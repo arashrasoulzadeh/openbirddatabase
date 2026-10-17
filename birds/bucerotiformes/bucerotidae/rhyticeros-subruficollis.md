@@ -12,7 +12,7 @@ names:
   es: Cálao Gorjiclaro
   fr: Calao à gorge claire
   de: Tenasserimhornvogel
-  pt: plain-pouched hornbill
+  pt: ''
   ru: Светлошейный калао
   ja: ムジシワコブサイチョウ
   zh: 囊袋皺盔犀鳥

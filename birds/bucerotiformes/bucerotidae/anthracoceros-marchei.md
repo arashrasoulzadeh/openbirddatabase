@@ -12,7 +12,7 @@ names:
   es: Cálao de Palawan
   fr: Calao de Palawan
   de: Palawanhornvogel
-  pt: palawan hornbill
+  pt: ''
   ru: Палаванская птица-носорог
   ja: パラワンサイチョウ
   nl: Palawanneushoornvogel

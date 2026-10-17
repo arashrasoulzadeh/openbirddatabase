@@ -12,7 +12,7 @@ names:
   es: Falconete Acollarado
   fr: Fauconnet à collier
   de: Rotkehlfälkchen
-  pt: collared falconet
+  pt: ''
   ru: Красноногий сокол-крошка
   ja: モモアカヒメハヤブサ
   zh: 红腿小隼

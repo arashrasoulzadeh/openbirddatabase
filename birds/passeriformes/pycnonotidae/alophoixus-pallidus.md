@@ -12,7 +12,7 @@ names:
   es: Bulbul Pálido
   fr: Bulbul pâle
   de: Braunhaubenbülbül
-  pt: puff-throated bulbul
+  pt: ''
   ru: Пышногорлый бюльбюль-бородач
   ja: ノドジロカンムリヒヨドリ
   zh: 白喉冠鹎

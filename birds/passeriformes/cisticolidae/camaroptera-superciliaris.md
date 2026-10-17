@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23038.0
 names:
   scientific: Camaroptera superciliaris
-  fa: nan
+  fa: ''
   en: Yellow-browed Camaroptera
   es: Camaróptera Cejigualda
   fr: Camaroptère à sourcils jaunes
   de: Gelbbrauen-Bogenflügel
-  pt: yellow-browed camaroptera
+  pt: ''
   ru: Желтобровая терновница
   ja: キマユコムシクイ
   nl: Geelbrauwcamaroptera

@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Lawes
   fr: Paradisier de Lawes
   de: Blaunacken-Paradiesvogel
-  pt: lawes's parotia
+  pt: ''
   ru: Синезатылочная паротия
   ja: タンビカンザシフウチョウ
   zh: 勞氏六線天堂鳥

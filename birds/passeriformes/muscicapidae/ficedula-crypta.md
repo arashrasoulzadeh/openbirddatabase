@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29588.0
 names:
   scientific: Ficedula crypta
-  fa: nan
+  fa: ''
   en: Cryptic Flycatcher
   es: Papamoscas Críptico
   fr: Gobemouche de Vaurie
   de: Philippinenschnäpper
-  pt: cryptic flycatcher
+  pt: ''
   ru: Минданаосская мухоловка
   ja: チャイロヒタキ
   nl: Vaurievliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Jilguero Piquigrueso
   fr: Tarin à bec épais
   de: Dickschnabelzeisig
-  pt: thick-billed siskin
+  pt: ''
   ru: Толстоклювый чиж
   ja: ハシブトヒワ
   nl: Dikbeksijs

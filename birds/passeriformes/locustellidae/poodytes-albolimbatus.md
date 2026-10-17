@@ -12,7 +12,7 @@ names:
   es: Yerbera del Fly
   fr: Mégalure à ventre blanc
   de: Weißrand-Schilfsänger
-  pt: fly river grassbird
+  pt: ''
   ru: Болотная котата
   zh: 弗莱大尾莺
   nl: Witvleugelgrasvogel

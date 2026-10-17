@@ -12,7 +12,7 @@ names:
   es: Tejedor de Anteojos
   fr: Tisserin à lunettes
   de: Brillenweber
-  pt: spectacled weaver
+  pt: ''
   ru: Очковый ткач
   ja: メグロハタオリ
   nl: Brilwever

@@ -15,7 +15,7 @@ names:
   pt: samoan moorhen
   ru: Самоанская камышница
   ja: サモアオグロバン
-  zh: Samoan Woodhen
+  zh: ''
   nl: Samoawaterhoen
   pl: kokoszka żółtodzioba
   tr: Samoa Sutavuğu

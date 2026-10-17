@@ -12,7 +12,7 @@ names:
   es: Malimbo Cabecirrojo
   fr: Malimbe à tête rouge
   de: Kletterweber
-  pt: red-headed malimbe
+  pt: ''
   ru: Красношейный малимб
   ja: アカエリモリハタオリ
   nl: Roodkopprachtwever

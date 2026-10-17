@@ -12,7 +12,7 @@ names:
   es: Picabayas Estriado
   fr: Piquebaie strié
   de: Streifenbeerenpicker
-  pt: streaked berrypecker
+  pt: ''
   ru: Пестробрюхая ягодница
   ja: ムナフパプアハナドリ
   nl: Gestreepte bessenpikker

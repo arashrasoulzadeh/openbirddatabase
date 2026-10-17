@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4823.0
 names:
   scientific: Selasphorus calliope
-  fa: nan
+  fa: ''
   en: Calliope Hummingbird
   es: Colibrí Calíope
   fr: Colibri calliope
   de: Sternelfe
-  pt: calliope hummingbird
+  pt: ''
   ru: Каллиопа-звёздочка
   ja: ヒメハチドリ
   zh: 星蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Cachudito Piquinegro
   fr: Taurillon mésange
   de: Meisentachurityrann
-  pt: tufted tit-tyrant
+  pt: ''
   ru: Синицевый гренадерчик
   ja: エボシカラタイランチョウ
   nl: Pluimmeestiran

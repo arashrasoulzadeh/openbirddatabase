@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Bonaparte
   fr: Engoulevent de Bonaparte
   de: Sundanachtschwalbe
-  pt: bonaparte's nightjar
+  pt: ''
   ru: Бонапартов козодой
   ja: ノドジロヨタカ
   zh: 白喉夜鹰

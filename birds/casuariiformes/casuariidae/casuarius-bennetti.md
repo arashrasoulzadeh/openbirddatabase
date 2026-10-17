@@ -12,7 +12,7 @@ names:
   es: Casuario Menor
   fr: Casoar de Bennett
   de: Bennettkasuar
-  pt: dwarf cassowary
+  pt: ''
   ru: Казуар-мурук
   ja: コヒクイドリ
   zh: 侏鶴鴕

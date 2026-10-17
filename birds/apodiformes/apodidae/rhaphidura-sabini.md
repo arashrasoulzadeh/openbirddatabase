@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3874.0
 names:
   scientific: Rhaphidura sabini
-  fa: nan
+  fa: ''
   en: Sabine's Spinetail
   es: Vencejo de Sabine
   fr: Martinet de Sabine
   de: Sumpfsegler
-  pt: sabine's spinetail
+  pt: ''
   ru: Болотный колючехвост
   ja: コビトハリオアマツバメ
   nl: Moerasgierzwaluw

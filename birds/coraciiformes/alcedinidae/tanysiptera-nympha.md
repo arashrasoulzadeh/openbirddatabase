@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10285.0
 names:
   scientific: Tanysiptera nympha
-  fa: nan
+  fa: ''
   en: Red-breasted Paradise Kingfisher
   es: Alción Colilargo Ninfa
   fr: Martin-chasseur nymphe
@@ -15,7 +15,7 @@ names:
   pt: red-breasted paradise-kingfisher
   ru: Розовогрудый райский зимородок
   ja: アカハララケットカワセミ
-  zh: Red-breasted Paradise Kingfisher
+  zh: ''
   nl: Roze vlagstaartijsvogel
   pl: sterowik czerwonobrzuchy
   tr: Kırmızı Göğüslü Cennet Yalıçapkını

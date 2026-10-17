@@ -12,7 +12,7 @@ names:
   es: Jacana Malgache
   fr: Jacana malgache
   de: Madagaskarblatthühnchen
-  pt: madagascar jacana
+  pt: ''
   ru: Мадагаскарская якана
   ja: マダガスカルレンカク
   zh: 马岛雉鸻

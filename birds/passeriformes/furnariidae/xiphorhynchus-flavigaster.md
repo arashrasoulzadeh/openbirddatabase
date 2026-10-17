@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Picomarfil
   fr: Grimpar à bec ivoire
   de: Strichelbaumsteiger
-  pt: ivory-billed woodcreeper
+  pt: ''
   ru: Светлоклювый древолаз
   ja: シロハシオニキバシリ
   nl: Ivoorsnavelmuisspecht

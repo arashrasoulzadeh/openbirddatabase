@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31977.0
 names:
   scientific: Chlorophonia elegantissima
-  fa: nan
+  fa: ''
   en: Elegant Euphonia
   es: Eufonia Elegante
   fr: Organiste à capuchon
   de: Blaukappenorganist
-  pt: elegant euphonia
+  pt: ''
   ru: Элегантная эуфония
   ja: ルリゴシサンショクフウキンチョウ
   nl: Blauwkaporganist

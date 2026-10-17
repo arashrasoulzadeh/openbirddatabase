@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12814.0
 names:
   scientific: Bolborhynchus ferrugineifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Parakeet
   es: Catita Frentirrufa
   fr: Toui à front roux
   de: Rotstirnsittich
-  pt: rufous-fronted parakeet
+  pt: ''
   ru: Краснолобый калита
   ja: チャビタイインコ
   nl: Tolimaparkiet

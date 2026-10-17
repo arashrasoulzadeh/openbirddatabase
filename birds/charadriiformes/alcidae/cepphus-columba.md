@@ -12,7 +12,7 @@ names:
   es: Arao Colombino
   fr: Guillemot colombin
   de: Taubenteiste
-  pt: pigeon guillemot
+  pt: ''
   ru: Тихоокеанский чистик
   ja: ウミバト
   zh: 海鸽

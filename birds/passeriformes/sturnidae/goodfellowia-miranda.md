@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27783.0
 names:
   scientific: Goodfellowia miranda
-  fa: nan
+  fa: ''
   en: Apo Myna
   es: Miná de Mindanao
   fr: Basilorne de Mindanao
   de: Prachtatzel
-  pt: apo myna
+  pt: ''
   ru: Очковый раджа
   ja: アポオオサマムクドリ
   nl: Mindanaokoningsspreeuw

@@ -12,7 +12,7 @@ names:
   es: Fulveta de Gould
   fr: Pseudominla de Gould
   de: Dunkelzweigdrossling
-  pt: dusky fulvetta
+  pt: ''
   ru: Тусклая альциппа
   ja: チメドリ
   zh: 褐顶雀鹛

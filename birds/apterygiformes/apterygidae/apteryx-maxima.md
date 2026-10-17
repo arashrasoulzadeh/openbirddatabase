@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29.0
 names:
   scientific: Apteryx maxima
-  fa: nan
+  fa: ''
   en: Great Spotted Kiwi
   es: Kiwi Moteado Mayor
   fr: Kiwi roa
   de: Haastkiwi
-  pt: great spotted kiwi
+  pt: ''
   ru: Пятнистый киви
   ja: オオマダラキーウィ
   nl: Grote grijze kiwi

@@ -12,7 +12,7 @@ names:
   es: Sisón Bengalí
   fr: Outarde du Bengale
   de: Barttrappe
-  pt: bengal florican
+  pt: ''
   ru: Бенгальский флорикан
   ja: ベンガルショウノガン
   zh: 南亚鸨

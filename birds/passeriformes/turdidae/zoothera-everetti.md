@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28211.0
 names:
   scientific: Zoothera everetti
-  fa: nan
+  fa: ''
   en: Everett's Thrush
   es: Zorzal de Everett
   fr: Grive d'Everett
   de: Borneoerddrossel
-  pt: everett's thrush
+  pt: ''
   ru: Саравакский дрозд
   ja: ムネアカジツグミ
   zh: 埃氏地鸫

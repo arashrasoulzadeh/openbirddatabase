@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 22019.0
 names:
   scientific: Sittiparus semilarvatus
-  fa: nan
+  fa: ''
   en: White-fronted Tit
   es: Carbonero Frentiblanco
   fr: Mésange à front blanc
   de: Weißstirnmeise
-  pt: white-fronted tit
+  pt: ''
   ru: Белолобая синица
   ja: シロビタイガラ
   zh: 白額山雀

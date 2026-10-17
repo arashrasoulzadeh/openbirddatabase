@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 8602.0
 names:
   scientific: Tyto prigoginei
-  fa: nan
+  fa: ''
   en: Itombwe Owl
   es: Lechuza del Congo
   fr: Effraie de Prigogine
   de: Kongomaskeneule
-  pt: itombwe owl
+  pt: ''
   ru: Конголезская масковая сипуха
   ja: コンゴニセメンフクロウ
   nl: Itombwe-uil

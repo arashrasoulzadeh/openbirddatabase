@@ -12,7 +12,7 @@ names:
   es: Serín de Burton
   fr: Serin de Burton
   de: Dickschnabelgirlitz
-  pt: thick-billed seedeater
+  pt: ''
   ru: Толстоклювый канареечник
   ja: ハシブトクロカナリア
   nl: Bergkanarie

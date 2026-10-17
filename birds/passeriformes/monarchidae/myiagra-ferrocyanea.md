@@ -12,7 +12,7 @@ names:
   es: Monarca Acerado
   fr: Monarque acier
   de: Erzmonarch
-  pt: steel-blue flycatcher
+  pt: ''
   ru: Серо-синяя миагра
   ja: アオヒラハシ
   nl: Staalmonarch

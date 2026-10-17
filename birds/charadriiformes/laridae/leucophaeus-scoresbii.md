@@ -12,7 +12,7 @@ names:
   es: Gaviota Patagona
   fr: Goéland de Scoresby
   de: Blutschnabelmöwe
-  pt: dolphin gull
+  pt: ''
   ru: Магелланова чайка
   ja: マゼランカモメ
   zh: 海豚鷗

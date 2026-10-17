@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechinaranja
   fr: Souimanga orangé
   de: Goldbrust-Nektarvogel
-  pt: orange-breasted sunbird
+  pt: ''
   ru: Оранжевобрюхая нектарница
   ja: オナガゴシキタイヨウチョウ
   zh: 橘胸太阳鸟

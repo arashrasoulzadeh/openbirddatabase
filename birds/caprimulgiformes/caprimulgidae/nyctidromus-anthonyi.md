@@ -15,7 +15,7 @@ names:
   pt: scrub nightjar
   ru: Кустарниковый пораке
   ja: ヤブヨタカ
-  zh: Anthony's Nightjar
+  zh: ''
   nl: Ecuadoraanse nachtzwaluw
   pl: lelkowiec ekwadorski
   tr: Anthony Porağı

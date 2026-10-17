@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12591.0
 names:
   scientific: Vini rubrigularis
-  fa: nan
+  fa: ''
   en: Red-chinned Lorikeet
   es: Lori Barbirrojo
   fr: Lori à menton rouge
   de: Rotkinnlori
-  pt: red-chinned lorikeet
+  pt: ''
   ru: Краснобородый лорикет
   ja: アカノドインコ
   nl: Roodkinlori

@@ -15,7 +15,7 @@ names:
   pt: ochre-headed flycatcher
   ru: Макирская миагра
   ja: キガシラヒラハシ
-  zh: Makira Flycatcher
+  zh: ''
   nl: San-Cristobalmonarch
   pl: muszarka ochrowogłowa
   tr: Makira Monarkı

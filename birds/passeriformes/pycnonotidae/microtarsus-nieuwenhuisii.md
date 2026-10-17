@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 24626.0
 names:
   scientific: Microtarsus nieuwenhuisii
-  fa: nan
+  fa: ''
   en: Blue-wattled Bulbul
   es: Bulbul Ojiazul
   fr: Bulbul à lunettes bleues
   de: Blaubrillenbülbül
-  pt: blue-wattled bulbul
+  pt: ''
   ru: Очковый бюльбюль
   ja: アオメヒヨドリ
   nl: Blauwlelbuulbuul

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18538.0
 names:
   scientific: Cinclosoma marginatum
-  fa: nan
+  fa: ''
   en: Western Quail-thrush
   es: Zordala Occidental
   fr: Cinclosome à dos fauve
   de: Rötelflankenflöter
-  pt: western quail-thrush
+  pt: ''
   ru: Жемчужный флейтист
   ja: ニシウズラチメドリ
   zh: 西鹑鸫

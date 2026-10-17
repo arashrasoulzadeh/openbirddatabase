@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 3056.0
 names:
   scientific: Carpococcyx radiceus
-  fa: nan
+  fa: ''
   en: Bornean Ground Cuckoo
   es: Cuco Terrestre de Borneo
   fr: Calobate radieux
@@ -15,7 +15,7 @@ names:
   pt: bornean ground-cuckoo
   ru: Борнейская воронья кукушка
   ja: ハシリカッコウ
-  zh: Bornean Ground Cuckoo
+  zh: ''
   nl: Maleise grondkoekoek
   pl: kukielnik jarzębaty
   tr: Borneo Yer Guguğu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30376.0
 names:
   scientific: Cinnyris afer
-  fa: nan
+  fa: ''
   en: Greater Double-collared Sunbird
   es: Suimanga Bicollar
   fr: Souimanga à plastron rouge
   de: Doppelband-Nektarvogel
-  pt: greater double-collared sunbird
+  pt: ''
   ru: Серобрюхая нектраница
   ja: オオゴシキタイヨウチョウ
   nl: Grote kraaghoningzuiger

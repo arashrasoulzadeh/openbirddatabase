@@ -12,7 +12,7 @@ names:
   es: Picoloro Cejinegro
   fr: Paradoxornis à sourcils noirs
   de: Schwarzbrauen-Papageimeise
-  pt: pale-billed parrotbill
+  pt: ''
   ru: Чернобровая сутора
   ja: ズアカダルマエナガ
   zh: 黑眉鸦雀

@@ -12,7 +12,7 @@ names:
   es: Pava Negra
   fr: Pénélope unicolore
   de: Schwarzguan
-  pt: black guan
+  pt: ''
   ru: Чёрный гуан
   ja: クロシャクケイ
   zh: 黑镰翅冠雉

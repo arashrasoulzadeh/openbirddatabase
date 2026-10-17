@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16351.0
 names:
   scientific: Hemitriccus iohannis
-  fa: nan
+  fa: ''
   en: Johannes's Tody-Tyrant
   es: Titirijí de Joao
   fr: Todirostre de Joao

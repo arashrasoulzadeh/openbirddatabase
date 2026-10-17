@@ -12,7 +12,7 @@ names:
   es: Golondrina Abisinia
   fr: Hirondelle striée
   de: Zwergrötelschwalbe
-  pt: lesser striped swallow
+  pt: ''
   ru: Рыжеголовая ласточка
   ja: コズアカコシアカツバメ
   nl: Savannezwaluw

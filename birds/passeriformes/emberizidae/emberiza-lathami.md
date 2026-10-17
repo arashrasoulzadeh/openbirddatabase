@@ -12,7 +12,7 @@ names:
   es: Escribano Crestado
   fr: Bruant huppé
   de: Haubenammer
-  pt: crested bunting
+  pt: ''
   ru: Хохлатая овсянка
   ja: レンジャクノジコ
   zh: 凤头鹀

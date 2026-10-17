@@ -12,7 +12,7 @@ names:
   es: Amazona Frentialba
   fr: Amazone à front blanc
   de: Weißstirnamazone
-  pt: white-fronted amazon
+  pt: ''
   ru: Белолобый амазон
   ja: コボウシインコ
   zh: 白額綠鸚哥

@@ -15,7 +15,7 @@ names:
   pt: corujinha-de-roraima
   ru: Рораймская совка
   ja: ゼンザンオオコノハズク
-  zh: Foothill Screech Owl
+  zh: ''
   nl: Heuvelschreeuwuil
   pl: syczoń wyżynny
   tr: Yazılı Puhucuk

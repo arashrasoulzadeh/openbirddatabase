@@ -12,7 +12,7 @@ names:
   es: Cárabo Californiano
   fr: Chouette tachetée
   de: Fleckenkauz
-  pt: spotted owl
+  pt: ''
   ru: Пятнистая неясыть
   ja: ニシアメリカフクロウ
   zh: 西點林鴞

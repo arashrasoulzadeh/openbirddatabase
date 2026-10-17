@@ -12,7 +12,7 @@ names:
   es: Pico Ártico
   fr: Pic à dos noir
   de: Schwarzrückenspecht
-  pt: black-backed woodpecker
+  pt: ''
   ru: Черноспинный трёхпалый дятел
   ja: セグロミユビゲラ
   zh: 黑背啄木鸟

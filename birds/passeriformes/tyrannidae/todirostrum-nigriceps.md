@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16440.0
 names:
   scientific: Todirostrum nigriceps
-  fa: nan
+  fa: ''
   en: Black-headed Tody-Flycatcher
   es: Titirijí Cabecinegro
   fr: Todirostre à tête noire
   de: Schwarzkopf-Todityrann
-  pt: black-headed tody-flycatcher
+  pt: ''
   ru: Черноголовый тоди-мухолов
   ja: ズグロハシナガタイランチョウ
   nl: Zwartkopschoffelsnavel

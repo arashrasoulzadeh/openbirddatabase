@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29634.0
 names:
   scientific: Monticola rufocinereus
-  fa: nan
+  fa: ''
   en: Little Rock Thrush
   es: Roquero Chico
   fr: Monticole rougequeue
@@ -15,7 +15,7 @@ names:
   pt: little rock-thrush
   ru: Малый каменный дрозд
   ja: コイソヒヨ
-  zh: Little Rock Thrush
+  zh: ''
   nl: Kleine rotslijster
   pl: nagórnik mały
   tr: Küçük Taşkızılı

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25246.0
 names:
   scientific: Aegithalos iouschistos
-  fa: nan
+  fa: ''
   en: Black-browed Bushtit
   es: Mito Cejinegro
   fr: Orite de Blyth

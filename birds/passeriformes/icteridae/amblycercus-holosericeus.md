@@ -12,7 +12,7 @@ names:
   es: Cacique Piquiclaro
   fr: Cassique à bec jaune
   de: Gelbschnabelkassike
-  pt: yellow-billed cacique
+  pt: ''
   ru: Желтоклювый кассик
   ja: クロツリスドリ
   zh: 黄嘴酋长鹂属

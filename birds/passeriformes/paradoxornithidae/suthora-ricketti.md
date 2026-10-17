@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25499.0
 names:
   scientific: Suthora ricketti
-  fa: nan
+  fa: ''
   en: Eye-ringed Parrotbill
   es: Picoloro de Yunnán
   fr: Paradoxornis de Rickett
   de: Yunnanpapageimeise
-  pt: eye-ringed parrotbill
+  pt: ''
   ru: Китайская сутора
   zh: 云南鸦雀
   nl: Yunnandiksnavelmees

@@ -12,7 +12,7 @@ names:
   es: Abanico de Ponapé
   fr: Rhipidure de Ponapé
   de: Pohnpeifächerschwanz
-  pt: pohnpei fantail
+  pt: ''
   ru: Понпейская веерохвостка
   ja: ポナペオウギビタキ
   nl: Ponapéwaaierstaart

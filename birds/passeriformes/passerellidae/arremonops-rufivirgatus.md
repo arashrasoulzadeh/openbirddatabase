@@ -12,7 +12,7 @@ names:
   es: Cerquero Oliváceo
   fr: Tohi olive
   de: Olivrückenammer
-  pt: olive sparrow
+  pt: ''
   ru: Зеленоватый тохи
   ja: オリーブシトド
   nl: Olijfgors

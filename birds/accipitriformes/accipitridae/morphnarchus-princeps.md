@@ -12,7 +12,7 @@ names:
   es: Busardo Azoreño
   fr: Buse barrée
   de: Prinzenbussard
-  pt: barred hawk
+  pt: ''
   ru: Полосатая агуйла
   ja: ヨコジマノスリ
   nl: Sclaterbuizerd

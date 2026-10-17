@@ -12,7 +12,7 @@ names:
   es: Miná Alinegro
   fr: Martin à ailes noires
   de: Schwarzflügelmaina
-  pt: black-winged myna
+  pt: ''
   ru: Чернокрылая майна
   ja: ソデグロムクドリ
   zh: 黑翅椋鳥

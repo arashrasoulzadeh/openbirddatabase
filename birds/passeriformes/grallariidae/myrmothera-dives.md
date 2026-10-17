@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14315.0
 names:
   scientific: Myrmothera dives
-  fa: nan
+  fa: ''
   en: Thicket Antpitta
   es: Tororoí Ventricanela Colombiano
   fr: Grallaire buissonnière
   de: Orangeflanken-Ameisenpitta
-  pt: thicket antpitta
+  pt: ''
   ru: Рыжебокий торорой
   ja: キバラモリジアリドリ
   nl: Oranjeflankmierpitta

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29974.0
 names:
   scientific: Pachyglossa chrysorrhea
-  fa: nan
+  fa: ''
   en: Yellow-vented Flowerpecker
   es: Picaflores Pechiestriado
   fr: Dicée cul-d'or
   de: Gelbsteiß-Mistelfresser
-  pt: yellow-vented flowerpecker
+  pt: ''
   ru: Желтогузый цветоед
   ja: ムナフハナドリ
   zh: 黄臀啄花鸟

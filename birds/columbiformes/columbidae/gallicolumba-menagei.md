@@ -12,7 +12,7 @@ names:
   es: Paloma Apuñalada de Tawi-Tawi
   fr: Gallicolombe de Tawi-Tawi
   de: Tawitawitaube
-  pt: sulu bleeding-heart
+  pt: ''
   ru: Сулуанский кровавогрудый голубь
   ja: タウィタウィヒムネバト
   zh: 塔維雞鳩

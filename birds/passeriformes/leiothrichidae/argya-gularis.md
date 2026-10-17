@@ -12,7 +12,7 @@ names:
   es: Turdoide Gorjiblanco
   fr: Cratérope à gorge blanche
   de: Burmadrosselhäherling
-  pt: white-throated babbler
+  pt: ''
   ru: Белогорлая дроздовая тимелия
   ja: ビルマヤブチメドリ
   zh: 白喉鶇鶥

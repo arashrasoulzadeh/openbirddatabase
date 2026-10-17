@@ -12,7 +12,7 @@ names:
   es: Akelat de Los Usambara
   fr: Rougegorge des Usambara
   de: Usambararötel
-  pt: usambara akalat
+  pt: ''
   ru: Узамбарский заряночник
   ja: ヤマムジヒタキ
   nl: Usambarajanfrederik

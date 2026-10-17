@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14326.0
 names:
   scientific: Myrmothera simplex
-  fa: nan
+  fa: ''
   en: Tepui Antpitta
   es: Tororoí Flautista
   fr: Grallaire sobre

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25672.0
 names:
   scientific: Zosterops stuhlmanni
-  fa: nan
+  fa: ''
   en: Green White-eye
   es: Anteojitos Verde
   fr: Zostérops de Stuhlmann
   de: Grünbrillenvogel
-  pt: green white-eye
+  pt: ''
   ru: Центральноафриканская белоглазка
   zh: 綠黃繡眼
   nl: Groene brilvogel

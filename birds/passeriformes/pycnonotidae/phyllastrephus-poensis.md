@@ -15,7 +15,7 @@ names:
   pt: cameroon olive-greenbul
   ru: Горный бюльбюль
   ja: カルメーンオリーブヒヨドリ
-  zh: Cameroon Olive Greenbul
+  zh: ''
   nl: Kameroense loofbuulbuul
   pl: jasnobrzuch górski
   tr: Fernando Poo Yaprakbülbülü

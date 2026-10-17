@@ -12,7 +12,7 @@ names:
   es: Tinamú del Casiquiare
   fr: Tinamou barré
   de: Bindentinamu
-  pt: barred tinamou
+  pt: ''
   ru: Полосатый скрытохвост
   ja: トラフシギダチョウ
   zh: 斑穴䳍

@@ -15,7 +15,7 @@ names:
   pt: corujinha-do-mato
   ru: Южноамериканская совка
   ja: スピックスコノハズク
-  zh: Tropical Screech Owl
+  zh: ''
   nl: Cholibaschreeuwuil
   pl: syczoń tropikalny
   tr: Çoliba Puhucuğu

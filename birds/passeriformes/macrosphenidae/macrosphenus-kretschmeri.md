@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22912.0
 names:
   scientific: Macrosphenus kretschmeri
-  fa: nan
+  fa: ''
   en: Kretschmer's Longbill
   es: Picolargo de Kretschmer
   fr: Nasique de Kretschmer
   de: Suaheli-Bülbülgrasmücke
-  pt: kretschmer's longbill
+  pt: ''
   ru: Суахильский долгонос
   ja: オリーブハシナガムシクイ
   nl: Grote langsnavelzanger

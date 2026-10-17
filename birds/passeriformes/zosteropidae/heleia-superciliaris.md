@@ -12,10 +12,10 @@ names:
   es: Anteojitos Cejiamarillo
   fr: Zostérops à sourcils
   de: Gelbbrauen-Brillenvogel
-  pt: eyebrowed heleia
+  pt: ''
   ru: Желтобровая элейя
   ja: マユメジロ
-  zh: Cream-browed White-eye
+  zh: ''
   nl: Floresbergbrilvogel
   pl: okularowiec żółtobrewy
   tr: İnce Kaşlı Gözlükçü

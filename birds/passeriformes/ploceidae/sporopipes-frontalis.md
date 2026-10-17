@@ -12,7 +12,7 @@ names:
   es: Tejedorcito Frontal
   fr: Sporopipe quadrillé
   de: Fleckstirnweber
-  pt: speckle-fronted weaver
+  pt: ''
   ru: Пестролобый воробьиный ткачик
   ja: チャエリキクスズメ
   nl: Schubkopwever

@@ -12,7 +12,7 @@ names:
   es: Lori Lindo
   fr: Lori féérique
   de: Goldstrichellori
-  pt: fairy lorikeet
+  pt: ''
   ru: Жёлтохвостый лорикет
   ja: アカオキスジインコ
   nl: Feelori

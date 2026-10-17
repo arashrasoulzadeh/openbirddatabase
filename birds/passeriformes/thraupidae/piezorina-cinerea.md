@@ -12,7 +12,7 @@ names:
   es: Yal Cinéreo
   fr: Piézorhin cendré
   de: Dickschnabel-Grautangare
-  pt: cinereous finch
+  pt: ''
   ru: Серая пизарита
   ja: マシコシトド
   zh: 灰雀鹀

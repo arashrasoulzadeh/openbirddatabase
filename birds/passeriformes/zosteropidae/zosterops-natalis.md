@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25860.0
 names:
   scientific: Zosterops natalis
-  fa: nan
+  fa: ''
   en: Christmas White-eye
   es: Anteojitos de Isla Navidad
   fr: Zostérops de Christmas
@@ -15,7 +15,7 @@ names:
   pt: christmas island white-eye
   ru: Серощёкая белоглазка
   ja: クリスマスメジロ
-  zh: Christmas White-eye
+  zh: ''
   nl: Christmasbrilvogel
   pl: szlarnik szarouchy
   tr: Kristmas Adası Gözlükçüsü

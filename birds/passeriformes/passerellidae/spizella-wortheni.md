@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 33013.0
 names:
   scientific: Spizella wortheni
-  fa: nan
+  fa: ''
   en: Worthen's Sparrow
   es: Chingolo de Worthen
   fr: Bruant de Worthen
   de: Mexikoammer
-  pt: worthen's sparrow
+  pt: ''
   ru: Мексиканская малая овсянка
   ja: メキシコヒメドリ
   nl: Mexicaanse veldgors

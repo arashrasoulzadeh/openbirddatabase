@@ -12,7 +12,7 @@ names:
   es: Tangara Pectoral
   fr: Tangara à flancs bruns
   de: Braunflankentangare
-  pt: brown-flanked tanager
+  pt: ''
   ru: Буробокая пипира
   ja: ワキチャフウキンチョウ
   nl: Bruinflanktangare

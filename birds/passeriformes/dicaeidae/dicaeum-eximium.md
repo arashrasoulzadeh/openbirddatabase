@@ -12,7 +12,7 @@ names:
   es: Picaflores de las Bismarck
   fr: Dicée des Bismarck
   de: Bismarckmistelfresser
-  pt: red-banded flowerpecker
+  pt: ''
   ru: Красивый цветоед
   ja: ビスマークハナドリ
   zh: 紅斑啄花

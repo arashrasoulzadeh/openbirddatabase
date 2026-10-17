@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 13935.0
 names:
   scientific: Cercomacra ferdinandi
-  fa: nan
+  fa: ''
   en: Bananal Antbird
   es: Hormiguero de Bananal
   fr: Grisin de Bananal

@@ -15,7 +15,7 @@ names:
   pt: bismarck munia
   ru: Толстоклювая муния
   ja: ニューブリテンキンパラ
-  zh: Buff-bellied Mannikin
+  zh: ''
   nl: Bismarckrietvink
   pl: mniszka grubodzioba
   tr: Bismark Munyası

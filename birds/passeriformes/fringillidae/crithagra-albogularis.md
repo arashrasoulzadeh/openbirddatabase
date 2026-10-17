@@ -12,7 +12,7 @@ names:
   es: Serín Gorjiblanco
   fr: Serin à gorge blanche
   de: Weißkehlgirlitz
-  pt: white-throated canary
+  pt: ''
   ru: Белогорлый канареечник
   ja: ノドジロカナリア
   nl: Witkeelkanarie

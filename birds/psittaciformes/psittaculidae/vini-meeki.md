@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12589.0
 names:
   scientific: Vini meeki
-  fa: nan
+  fa: ''
   en: Meek's Lorikeet
   es: Lori de Meek
   fr: Lori de Meek
   de: Salomonenlori
-  pt: meek's lorikeet
+  pt: ''
   ru: Соломонский лорикет
   ja: ヒトツボシインコ
   nl: Meeklori

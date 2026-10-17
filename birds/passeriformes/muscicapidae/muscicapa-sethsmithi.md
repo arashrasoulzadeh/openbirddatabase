@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28816.0
 names:
   scientific: Muscicapa sethsmithi
-  fa: nan
+  fa: ''
   en: Yellow-footed Flycatcher
   es: Papamoscas Patigualdo
   fr: Gobemouche à pattes jaunes
   de: Gelblaufschnäpper
-  pt: yellow-footed flycatcher
+  pt: ''
   ru: Желтоногая мухоловка
   ja: キアシビタキ
   nl: Geelpootvliegenvanger

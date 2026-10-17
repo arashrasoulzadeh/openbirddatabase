@@ -15,7 +15,7 @@ names:
   pt: gray hawk
   ru: Серый канюк
   ja: ミナミハイイロノスリ
-  zh: Grey Hawk
+  zh: ''
   nl: Grijze buizerd
   pl: myszołowik popielaty
   tr: Gri Şahin

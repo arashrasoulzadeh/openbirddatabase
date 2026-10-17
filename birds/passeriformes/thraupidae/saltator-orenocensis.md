@@ -15,7 +15,7 @@ names:
   pt: orinocan saltator
   ru: Оринокский сальтатор
   ja: ホオグロイカル
-  zh: Orinoco Saltator
+  zh: ''
   nl: Orinocosaltator
   pl: ziarnołusk rdzawoboczny
   tr: Orinoko Saltatoru

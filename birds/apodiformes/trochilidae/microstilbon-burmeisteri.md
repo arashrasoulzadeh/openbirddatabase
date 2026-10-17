@@ -12,7 +12,7 @@ names:
   es: Colibrí de Burmeister
   fr: Colibri de Burmeister
   de: Rotbart-Sternkolibri
-  pt: slender-tailed woodstar
+  pt: ''
   ru: Длиннохвостый эльф
   ja: ホソオハチドリ
   zh: 细尾林星蜂鸟

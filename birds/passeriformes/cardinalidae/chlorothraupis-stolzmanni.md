@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34499.0
 names:
   scientific: Chlorothraupis stolzmanni
-  fa: nan
+  fa: ''
   en: Ochre-breasted Tanager
   es: Tangara Pechiocre
   fr: Habia de Stolzmann
   de: Ockerbrustkardinal
-  pt: ochre-breasted tanager
+  pt: ''
   ru: Охристогрудая хабия
   ja: キムネオリーブフウキンチョウ
   nl: Okerborsttangare

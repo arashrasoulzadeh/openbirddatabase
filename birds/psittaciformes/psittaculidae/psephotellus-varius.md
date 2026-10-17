@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12517.0
 names:
   scientific: Psephotellus varius
-  fa: nan
+  fa: ''
   en: Mulga Parrot
   es: Perico Variado
   fr: Perruche multicolore
   de: Vielfarbensittich
-  pt: mulga parrot
+  pt: ''
   ru: Разноцветный попугайчик
   ja: セイキインコ
   zh: 穆加鹦鹉

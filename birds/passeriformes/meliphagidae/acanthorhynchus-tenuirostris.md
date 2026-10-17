@@ -12,7 +12,7 @@ names:
   es: Picoespina Oriental
   fr: Méliphage à bec grêle
   de: Rotnacken-Honigfresser
-  pt: eastern spinebill
+  pt: ''
   ru: Восточная титиара
   ja: キリハシミツスイ
   zh: 東尖嘴吸蜜鳥

@@ -12,7 +12,7 @@ names:
   es: Colibrí Cometa
   fr: Colibri sapho
   de: Goldschwanzsylphe
-  pt: red-tailed comet
+  pt: ''
   ru: Златохвостая комета
   ja: アカフタオハチドリ
   zh: 红尾慧星蜂鸟

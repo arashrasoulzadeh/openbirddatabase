@@ -12,7 +12,7 @@ names:
   es: Águila Congoleña
   fr: Aigle de Cassin
   de: Schwarzachseladler
-  pt: cassin's hawk-eagle
+  pt: ''
   ru: Длиннохвостый орёл
   ja: アフリカクマタカ
   zh: 叫鷹鵰

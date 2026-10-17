@@ -12,7 +12,7 @@ names:
   es: Filepita Aterciopelada
   fr: Philépitte veloutée
   de: Seidenjala
-  pt: velvet asity
+  pt: ''
   ru: Бархатная филепитта
   ja: ビロードマミヤイロチョウ
   zh: 紫黑裸眉鸫

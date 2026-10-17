@@ -12,7 +12,7 @@ names:
   es: Fiofío Montano
   fr: Élénie montagnarde
   de: Nordanden-Olivtyrann
-  pt: mountain elaenia
+  pt: ''
   ru: Горная эления
   ja: ミヤマキクタイランチョウ
   nl: Bergelenia

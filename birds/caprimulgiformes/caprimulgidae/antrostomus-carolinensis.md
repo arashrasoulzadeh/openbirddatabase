@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Carolina
   fr: Engoulevent de Caroline
   de: Carolinanachtschwalbe
-  pt: chuck-will's-widow
+  pt: ''
   ru: Каролинский козодой
   ja: チャックウィルヨタカ
   zh: 卡氏夜鹰

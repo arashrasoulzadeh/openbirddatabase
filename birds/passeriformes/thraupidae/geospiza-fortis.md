@@ -15,7 +15,7 @@ names:
   pt: medium ground-finch
   ru: Средний галапагосский вьюрок
   ja: ガラパゴスフィンチ
-  zh: Medium Ground Finch
+  zh: ''
   nl: Middelste grondvink
   pl: darwinka czarna
   tr: Ortanca Yer İspinozu

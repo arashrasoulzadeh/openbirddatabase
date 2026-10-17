@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19423.0
 names:
   scientific: Pachycephala flavifrons
-  fa: nan
+  fa: ''
   en: Samoan Whistler
   es: Silbador de Samoa
   fr: Siffleur des Samoa
   de: Diademdickkopf
-  pt: samoan whistler
+  pt: ''
   ru: Самоанский свистун
   ja: キビタイモズヒタキ
   zh: 黄额啸鹟

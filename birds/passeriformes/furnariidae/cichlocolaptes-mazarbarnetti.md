@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 15128.0
 names:
   scientific: Cichlocolaptes mazarbarnetti
-  fa: nan
+  fa: ''
   en: Cryptic Treehunter
   es: Ticotico Críptico
   fr: Anabate de Mazar Barnett

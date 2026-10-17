@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28555.0
 names:
   scientific: Turdus bougainvillei
-  fa: nan
+  fa: ''
   en: Bougainville Island Thrush
   es: Mirlo de Bougainville
   fr: Merle de Bougainville
   pt: bougainville island-thrush
   ja: ブーゲンビルハイガシラツグミ
-  zh: Bougainville Island Thrush
+  zh: ''
   nl: Bougainvillemerel
   pl: drozd brązowy
   tr: Bugenvil Ada Ardıcı

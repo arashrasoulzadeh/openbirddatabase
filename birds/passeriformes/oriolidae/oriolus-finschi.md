@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19598.0
 names:
   scientific: Oriolus finschi
-  fa: nan
+  fa: ''
   en: Wetar Oriole
   es: Oropéndola de Wetar
   fr: Loriot de Wetar
   de: Braunkehlpirol
-  pt: wetar oriole
+  pt: ''
   nl: Wetarwielewaal
   pl: wilga szarobrzucha
   tr: Wetar Sarıasması

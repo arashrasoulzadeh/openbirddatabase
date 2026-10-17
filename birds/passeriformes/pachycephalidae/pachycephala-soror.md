@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19401.0
 names:
   scientific: Pachycephala soror
-  fa: nan
+  fa: ''
   en: Sclater's Whistler
   es: Silbador de Sclater
   fr: Siffleur de Sclater
   de: Hügeldickkopf
-  pt: sclater's whistler
+  pt: ''
   ru: Папуанский свистун
   ja: ズグロモズヒタキ
   zh: 黑领啸鹟

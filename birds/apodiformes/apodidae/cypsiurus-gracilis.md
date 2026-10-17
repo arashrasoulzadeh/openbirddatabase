@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4185.0
 names:
   scientific: Cypsiurus gracilis
-  fa: nan
+  fa: ''
   en: Malagasy Palm Swift
   es: Vencejo Palmero Malgache
   fr: Martinet de Madagascar
   de: Madagaskarpalmsegler
-  pt: malagasy palm swift
+  pt: ''
   ja: マダガスカルスアマツバメ
   nl: Madagaskarpalmgierzwaluw
   pl: jerzyk skromny

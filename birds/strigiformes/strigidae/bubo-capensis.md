@@ -12,7 +12,7 @@ names:
   es: Búho de El Cabo
   fr: Grand-duc du Cap
   de: Kapuhu
-  pt: cape eagle-owl
+  pt: ''
   ru: Капский филин
   ja: イワワシミミズク
   nl: Kaapse oehoe

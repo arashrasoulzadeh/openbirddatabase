@@ -12,7 +12,7 @@ names:
   es: Estrilda Etíope
   fr: Beaumarquet à bec rouge
   de: Streifenastrild
-  pt: red-billed pytilia
+  pt: ''
   ru: Полосатый астрильд
   ja: エチオピアビナンスズメ
   zh: 红嘴斑腹雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34148.0
 names:
   scientific: Setophaga palmarum
-  fa: nan
+  fa: ''
   en: Palm Warbler
   es: Reinita Palmera
   fr: Paruline à couronne rousse

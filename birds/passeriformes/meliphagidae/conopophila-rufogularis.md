@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17906.0
 names:
   scientific: Conopophila rufogularis
-  fa: nan
+  fa: ''
   en: Rufous-throated Honeyeater
   es: Mielero Golirrufo
   fr: Méliphage à gorge rousse
   de: Rostkehl-Honigfresser
-  pt: rufous-throated honeyeater
+  pt: ''
   ru: Рыжезобый нектаролюб
   ja: ノドアカムジミツスイ
   zh: 红喉蚊蜜鸟

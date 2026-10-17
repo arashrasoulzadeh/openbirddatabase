@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19514.0
 names:
   scientific: Pachycephala cinerea
-  fa: nan
+  fa: ''
   en: Mangrove Whistler
   es: Silbador de Manglar
   fr: Siffleur cendré
   de: Schnäpperdickkopf
-  pt: mangrove whistler
+  pt: ''
   ru: Пепельный свистун
   ja: マングローブモズヒタキ
   zh: 紅樹嘯鶲

@@ -12,7 +12,7 @@ names:
   es: Lori Gárrulo
   fr: Lori noira
   de: Prachtlori
-  pt: chattering lory
+  pt: ''
   ru: Желтоспинный лори
   ja: ショウジョウインコ
   zh: 喋喋吸蜜鸚鵡

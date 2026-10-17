@@ -12,7 +12,7 @@ names:
   es: Silbador Cenizo
   fr: Siffleur terne
   de: Molukkendickkopf
-  pt: drab whistler
+  pt: ''
   ru: Молуккский свистун
   ja: スナイロモズヒタキ
   nl: Molukse fluiter

@@ -15,7 +15,7 @@ names:
   pt: calcamar
   ru: Белолицая океанида
   ja: カオジロウミツバメ
-  zh: White-faced Storm Petrel
+  zh: ''
   nl: Bont stormvogeltje
   pl: oceannik białobrewy
   tr: Ak Yüzlü Fırtınakırlangıcı

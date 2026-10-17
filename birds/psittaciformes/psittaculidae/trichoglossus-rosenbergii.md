@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12679.0
 names:
   scientific: Trichoglossus rosenbergii
-  fa: nan
+  fa: ''
   en: Biak Lorikeet
   es: Lori de Biak
   fr: Loriquet de Biak
   de: Gelbnackenlori
-  pt: biak lorikeet
+  pt: ''
   ru: Лорикет Розенберга
   ja: ビアクセイガイインコ
   nl: Biakregenbooglori

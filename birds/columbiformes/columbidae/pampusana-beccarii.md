@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2188.0
 names:
   scientific: Pampusana beccarii
-  fa: nan
+  fa: ''
   en: Bronze Ground Dove
   es: Paloma Perdiz Pechigrís
   fr: Gallicolombe de Beccari
   de: Graubrusttaube
-  pt: bronze ground dove
+  pt: ''
   ru: Серогрудый куриный голубь
   ja: ハイムネバト
   nl: Grijsborstpatrijsduif

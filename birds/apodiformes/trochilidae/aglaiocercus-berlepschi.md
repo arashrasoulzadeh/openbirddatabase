@@ -12,7 +12,7 @@ names:
   es: Silfo de Berlepsch
   fr: Sylphe du Venezuela
   de: Berlepschsylphe
-  pt: venezuelan sylph
+  pt: ''
   ru: Венесуэльский сильф
   ja: ベネズエラフタオハチドリ
   zh: 南美长尾蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Faisán Chir
   fr: Faisan de Wallich
   de: Schopffasan
-  pt: cheer pheasant
+  pt: ''
   ru: Хохлатый фазан
   ja: カンムリキジ
   zh: 彩雉

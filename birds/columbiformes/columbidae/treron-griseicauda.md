@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2517.0
 names:
   scientific: Treron griseicauda
-  fa: nan
+  fa: ''
   en: Grey-cheeked Green Pigeon
   es: Vinago Carigrís
   fr: Colombar à face grise
@@ -15,7 +15,7 @@ names:
   pt: gray-cheeked green-pigeon
   ru: Серощёкий зелёный голубь
   ja: ハイガオハシブトアオバト
-  zh: Grey-cheeked Green Pigeon
+  zh: ''
   nl: Bonapartepapegaaiduif
   pl: treron szarolicy
   tr: Gri Yanaklı Yeşil Güvercin

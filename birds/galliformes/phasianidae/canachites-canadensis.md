@@ -12,7 +12,7 @@ names:
   es: Gallo Canadiense
   fr: Tétras du Canada
   de: Tannenhuhn
-  pt: spruce grouse
+  pt: ''
   ru: Канадская дикуша
   ja: ハリモミライチョウ
   zh: 枞树镰翅鸡

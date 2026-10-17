@@ -15,7 +15,7 @@ names:
   pt: casaca-de-couro-da-lama
   ru: Рыжешапочный печник
   ja: オビバネカマドドリ
-  zh: Band-tailed Hornero
+  zh: ''
   nl: Witbandovenvogel
   pl: garncarz brazylijski
   tr: Bant Kuyruklu Çömlekçikuşu

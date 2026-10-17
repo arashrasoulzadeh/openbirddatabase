@@ -12,7 +12,7 @@ names:
   es: Melampita Grande
   fr: Grande Mélampitte
   de: Rußflöter
-  pt: greater melampitta
+  pt: ''
   ru: Большая мелампитта
   ja: オオクロチメドリ
   nl: Grote paradijspitta

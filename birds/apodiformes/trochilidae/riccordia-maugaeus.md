@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 4865.0
 names:
   scientific: Riccordia maugaeus
-  fa: nan
+  fa: ''
   en: Puerto Rican Emerald
   es: Esmeralda Puertorriqueña
   fr: Émeraude de Porto Rico
   de: Puerto-Rico-Smaragdkolibri
-  pt: puerto rican emerald
+  pt: ''
   ru: Пуэрториканский изумруд
   ja: プエルトリコヒメエメラルドハチドリ
   zh: 波多翠蜂鸟

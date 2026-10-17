@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22244.0
 names:
   scientific: Melaniparus carpi
-  fa: nan
+  fa: ''
   en: Carp's Tit
   es: Carbonero de Carp
   fr: Mésange de Carp
   de: Carprußmeise
-  pt: carp's tit
+  pt: ''
   ru: Траурная синица
   ja: ナミビアクロガラ
   nl: Carpmees

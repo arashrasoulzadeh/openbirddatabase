@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Pechoplata
   fr: Eurylaime de Gould
   de: Schwarzbrauen-Breitrachen
-  pt: silver-breasted broadbill
+  pt: ''
   ru: Серогрудый рогоклюв
   ja: ギンムネヒロハシ
   zh: 银胸丝冠鸟

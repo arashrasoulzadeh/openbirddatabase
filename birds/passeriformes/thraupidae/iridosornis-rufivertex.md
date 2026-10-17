@@ -12,7 +12,7 @@ names:
   es: Tangara Coronidorada
   fr: Tangara auréolé
   de: Goldscheitel-Bergtangare
-  pt: golden-crowned tanager
+  pt: ''
   ru: Корольковая танагра
   ja: キボウシニジフウキンチョウ
   nl: Goudkruintangare

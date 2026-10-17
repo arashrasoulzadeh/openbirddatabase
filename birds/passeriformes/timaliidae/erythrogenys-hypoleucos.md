@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26070.0
 names:
   scientific: Erythrogenys hypoleucos
-  fa: nan
+  fa: ''
   en: Large Scimitar Babbler
   es: Cimitarra Grande
   fr: Pomatorhin à long bec

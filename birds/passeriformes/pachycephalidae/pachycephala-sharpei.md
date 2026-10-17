@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 19469.0
 names:
   scientific: Pachycephala sharpei
-  fa: nan
+  fa: ''
   en: Babar Whistler
   es: Silbador de las Babar
   fr: Siffleur de Sharpe
-  pt: babar whistler
+  pt: ''
   nl: Babarfluiter
   pl: fletówka babarska
   tr: Babar Islıkçısı

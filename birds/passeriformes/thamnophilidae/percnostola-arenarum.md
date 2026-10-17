@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 13997.0
 names:
   scientific: Percnostola arenarum
-  fa: nan
+  fa: ''
   en: Allpahuayo Antbird
   es: Hormiguero del Allpahuayo
   fr: Alapi du varillal
   de: Einfarb-Ameisenvogel
-  pt: allpahuayo antbird
+  pt: ''
   ru: Мараньонская муравьеловка
   ja: アリパワヨアリドリ
   nl: Allpahuayomiervogel

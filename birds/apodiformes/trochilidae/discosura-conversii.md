@@ -12,7 +12,7 @@ names:
   es: Rabudito Verde
   fr: Coquette à queue fine
   de: Grünfadenelfe
-  pt: green thorntail
+  pt: ''
   ru: Зелёная шипохвостка
   ja: ミドリトゲオハチドリ
   zh: 绿刺尾蜂鸟

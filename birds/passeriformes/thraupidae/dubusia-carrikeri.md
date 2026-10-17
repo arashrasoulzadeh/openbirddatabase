@@ -11,7 +11,7 @@ names:
   en: Carriker's Mountain Tanager
   es: Tangara de Carriker
   fr: Tangara de Carriker
-  pt: carriker's mountain tanager
+  pt: ''
   nl: Zilverbrauwbergtangare
   pl: andomodraszek żółtobrzuchy
   tr: Carriker Dağ Tangarası

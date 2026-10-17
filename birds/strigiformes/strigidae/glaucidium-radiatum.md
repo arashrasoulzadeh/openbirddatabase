@@ -12,7 +12,7 @@ names:
   es: Mochuelo de Jungla
   fr: Chevêchette de jungle
   de: Dschungelzwergkauz
-  pt: jungle owlet
+  pt: ''
   ru: Джунглевый сычик
   ja: モリスズメフクロウ
   zh: 林鵂鶹

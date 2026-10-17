@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11712.0
 names:
   scientific: Campethera taeniolaema
-  fa: nan
+  fa: ''
   en: Fine-banded Woodpecker
   es: Pito Rayado
   fr: Pic à raies fines
   de: Kehlbindenspecht
-  pt: fine-banded woodpecker
+  pt: ''
   zh: 綠背斑啄木
   nl: Fijnstreepspecht
   pl: dzięciolik zebrowany

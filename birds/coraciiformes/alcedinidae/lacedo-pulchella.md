@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10022.0
 names:
   scientific: Lacedo pulchella
-  fa: nan
+  fa: ''
   en: Banded Kingfisher
   es: Martín Cazador Bonito
   fr: Martin-chasseur mignon
   de: Wellenliest
-  pt: banded kingfisher
+  pt: ''
   ru: Полосатый зимородок
   ja: カザリショウビン
   zh: 橫斑翠鳥

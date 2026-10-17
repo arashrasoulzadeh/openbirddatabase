@@ -12,7 +12,7 @@ names:
   es: Sisón de Penacho
   fr: Outarde passarage
   de: Flaggentrappe
-  pt: lesser florican
+  pt: ''
   ru: Малый флорикан
   ja: インドショウノガン
   zh: 姬鴇

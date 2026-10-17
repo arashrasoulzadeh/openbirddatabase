@@ -12,7 +12,7 @@ names:
   es: Clorospingo Oscuro
   fr: Chlorospin ombré
   de: Graubrust-Grünammer
-  pt: dusky chlorospingus
+  pt: ''
   ru: Серогрудый дромник
   ja: チャバラヤブフウキンチョウ
   nl: Grijsborsttangare

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20044.0
 names:
   scientific: Dryoscopus gambensis
-  fa: nan
+  fa: ''
   en: Northern Puffback
   es: Cubla del Gambia
   fr: Cubla de Gambie
   de: Gambia-Schneeballwürger
-  pt: northern puffback
+  pt: ''
   ru: Гамбийская пухоспинка
   ja: フクレヤブモズ
   nl: Savannepoederdonsklauwier

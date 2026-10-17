@@ -12,7 +12,7 @@ names:
   es: Tordina de Anteojos
   fr: Modulatrice à lunettes
   de: Fleckenkehlsopranist
-  pt: spot-throat
+  pt: ''
   ru: Тимелиевый пестрозоб
   ja: ノドボシツグミヒタキ
   nl: Vlekkeellijster

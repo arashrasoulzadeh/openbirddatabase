@@ -12,7 +12,7 @@ names:
   es: Carpintero Andino
   fr: Pic des rochers
   de: Südandenspecht
-  pt: andean flicker
+  pt: ''
   ru: Андский дятел
   ja: アンデスアレチゲラ
   nl: Andesgrondspecht

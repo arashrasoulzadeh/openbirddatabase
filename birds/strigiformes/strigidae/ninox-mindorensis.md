@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9372.0
 names:
   scientific: Ninox mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Boobook
   es: Nínox de Mindoro
   fr: Ninoxe de Mindoro
   de: Mindorokauz
-  pt: mindoro boobook
+  pt: ''
   ru: Миндорская иглоногая сова
   ja: ミンドアオバズク
   nl: Mindorovalkuil

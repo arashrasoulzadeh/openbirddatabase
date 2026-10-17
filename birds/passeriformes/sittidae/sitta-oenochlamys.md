@@ -12,7 +12,7 @@ names:
   es: Trepador Filipino
   fr: Sittelle des Philippines
   de: Philippinenkleiber
-  pt: sulphur-billed nuthatch
+  pt: ''
   ru: Филиппинский поползень
   ja: アカハシゴジュウカラ
   nl: Filipijnse boomklever

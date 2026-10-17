@@ -12,7 +12,7 @@ names:
   es: Cuco de la Sonda
   fr: Coucou de la Sonde
   de: Sundakuckuck
-  pt: sunda cuckoo
+  pt: ''
   ru: Зондская кукушка
   ja: スンダツツドリ
   zh: 巽他中杜鵑

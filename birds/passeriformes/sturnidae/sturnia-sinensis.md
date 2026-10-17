@@ -12,7 +12,7 @@ names:
   es: Estornino Chino
   fr: Étourneau mandarin
   de: Mandarinstar
-  pt: white-shouldered starling
+  pt: ''
   ru: Китайский скворец
   ja: カラムクドリ
   zh: 灰背椋鸟

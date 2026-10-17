@@ -12,7 +12,7 @@ names:
   es: Mirlo Acuático Pardo
   fr: Cincle de Pallas
   de: Pallaswasseramsel
-  pt: brown dipper
+  pt: ''
   ru: Бурая оляпка
   ja: カワガラス
   zh: 褐河乌

@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 8740.0
 names:
   scientific: Otus siaoensis
-  fa: nan
+  fa: ''
   en: Siau Scops Owl
   es: Autillo de Isla Siau
   fr: Petit-duc de Siau
@@ -15,7 +15,7 @@ names:
   pt: siau scops-owl
   ru: Сиаусская сплюшка
   ja: シアウコノハズク
-  zh: Siau Scops Owl
+  zh: ''
   nl: Siaudwergooruil
   pl: syczek brązowy
   tr: Siau İshakkuşu

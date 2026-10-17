@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11966.0
 names:
   scientific: Daptrius chimachima
-  fa: nan
+  fa: ''
   en: Yellow-headed Caracara
   es: Caracara Chimachima
   fr: Caracara à tête jaune

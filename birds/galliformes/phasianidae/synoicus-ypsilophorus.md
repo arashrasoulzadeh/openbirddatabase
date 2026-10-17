@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1714.0
 names:
   scientific: Synoicus ypsilophorus
-  fa: nan
+  fa: ''
   en: Brown Quail
   es: Codorniz de Tasmania
   fr: Caille tasmane

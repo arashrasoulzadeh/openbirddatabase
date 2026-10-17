@@ -12,7 +12,7 @@ names:
   es: Oropéndola Negra
   fr: Loriot noir
   de: Braunsteißpirol
-  pt: black oriole
+  pt: ''
   ru: Чёрная иволга
   ja: スミゴロモ
   zh: 黑黃鸝

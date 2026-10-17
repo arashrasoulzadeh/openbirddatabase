@@ -12,7 +12,7 @@ names:
   es: Mirlo Negruzco
   fr: Merle fuligineux
   de: Rußdrossel
-  pt: sooty thrush
+  pt: ''
   ru: Костариканский дрозд
   ja: メガネクロウタドリ
   zh: 烏鴝鶇

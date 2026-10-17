@@ -12,7 +12,7 @@ names:
   es: Picaflores Culigualdo
   fr: Dicée à croupion jaune
   de: Gelbbürzel-Mistelfresser
-  pt: yellow-rumped flowerpecker
+  pt: ''
   ru: Желтопоясничный цветоед
   ja: キゴシハナドリモドキ
   zh: 加里曼丹啄花

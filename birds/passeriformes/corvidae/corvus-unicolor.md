@@ -12,7 +12,7 @@ names:
   es: Cuervo de las Banggai
   fr: Corneille des Banggai
   de: Banggaikrähe
-  pt: banggai crow
+  pt: ''
   ru: Одноцветная ворона
   ja: バンガイガラス
   zh: 邦蓋烏鴉

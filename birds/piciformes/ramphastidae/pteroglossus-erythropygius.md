@@ -12,7 +12,7 @@ names:
   es: Arasarí Culirrojo
   fr: Araçari à bec clair
   de: Hellschnabelarassari
-  pt: pale-mandibled aracari
+  pt: ''
   ru: Светлоклювый арасари
   ja: ハイハシムナフチュウハシ
   nl: Bleeksnavelarassari

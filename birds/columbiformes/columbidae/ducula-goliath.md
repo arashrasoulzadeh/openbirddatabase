@@ -15,7 +15,7 @@ names:
   pt: new caledonian imperial-pigeon
   ru: Новокаледонский плодовый голубь
   ja: オオミカドバト
-  zh: Goliath Imperial Pigeon
+  zh: ''
   nl: Reuzenmuskaatduif
   pl: muszkatela nowokaledońska
   tr: Büyük Has Güvercin

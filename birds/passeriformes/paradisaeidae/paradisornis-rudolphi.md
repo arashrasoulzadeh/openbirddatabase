@@ -7,15 +7,15 @@ iucn_status: NT
 taxon_order: 20644.0
 names:
   scientific: Paradisornis rudolphi
-  fa: nan
+  fa: ''
   en: Blue Bird-of-paradise
   es: Ave del Paraíso Azul
   fr: Paradisier bleu
   de: Blauparadiesvogel
-  pt: blue bird-of-paradise
+  pt: ''
   ru: Синяя райская птица
   ja: アオフウチョウ
-  zh: Blue Bird-of-paradise
+  zh: ''
   nl: Blauwe paradijsvogel
   pl: cudowronka błękitna
   tr: Mavi Cennetkuşu

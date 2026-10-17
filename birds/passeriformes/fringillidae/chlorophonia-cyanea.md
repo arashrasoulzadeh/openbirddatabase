@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31988.0
 names:
   scientific: Chlorophonia cyanea
-  fa: nan
+  fa: ''
   en: Blue-naped Chlorophonia
   es: Clorofonia Nuquiazul
   fr: Organiste à nuque bleue

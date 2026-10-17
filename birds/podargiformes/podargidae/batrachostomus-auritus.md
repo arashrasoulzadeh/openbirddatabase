@@ -12,7 +12,7 @@ names:
   es: Podargo Orejudo
   fr: Podarge oreillard
   de: Riesenschwalm
-  pt: large frogmouth
+  pt: ''
   ru: Ушастый лягушкорот
   ja: オオガマグチヨタカ
   zh: 大蟆口鴟

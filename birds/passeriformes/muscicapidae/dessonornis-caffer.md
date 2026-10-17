@@ -12,7 +12,7 @@ names:
   es: Cosifa Cafre
   fr: Cossyphe du Cap
   de: Kaprötel
-  pt: cape robin-chat
+  pt: ''
   ru: Капский рыжехвост
   ja: ツグミヒタキ
   nl: Kaapse lawaaimaker

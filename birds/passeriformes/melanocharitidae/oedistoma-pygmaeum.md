@@ -12,7 +12,7 @@ names:
   es: Picudo Pigmeo
   fr: Toxoramphe pygmée
   de: Zwergpfriemschnabel
-  pt: pygmy longbill
+  pt: ''
   ru: Крошечный иглоклюв
   ja: コビトミツスイ
   nl: Gele dwerghoningjager

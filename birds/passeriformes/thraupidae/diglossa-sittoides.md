@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Ferrugíneo
   fr: Percefleur rouilleux
   de: Rostbauch-Hakenschnabel
-  pt: rusty flowerpiercer
+  pt: ''
   ru: Поползневый цветокол
   ja: ムネアカハナサシミツドリ
   zh: 锈色刺花鸟

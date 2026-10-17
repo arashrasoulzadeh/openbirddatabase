@@ -12,7 +12,7 @@ names:
   es: Paloma Cariblanca
   fr: Phasianelle de Manado
   de: Manadotaube
-  pt: white-faced cuckoo-dove
+  pt: ''
   ru: Белолицая длиннохвостая горлица
   ja: カオジロクロバト
   nl: Witmaskerduif

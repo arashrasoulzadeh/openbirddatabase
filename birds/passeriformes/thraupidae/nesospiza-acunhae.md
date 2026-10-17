@@ -12,7 +12,7 @@ names:
   es: Yal de Isla Inaccesible
   fr: Nésospize de Tristan da Cunha
   de: Tristanammertangare
-  pt: inaccessible island finch
+  pt: ''
   ru: Тристанский овсяночник
   ja: トリスタンフィンチ
   zh: 伊纳克塞瑟布尔岛雀

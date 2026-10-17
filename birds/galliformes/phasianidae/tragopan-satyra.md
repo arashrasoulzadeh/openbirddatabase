@@ -12,7 +12,7 @@ names:
   es: Tragopán Sátiro
   fr: Tragopan satyre
   de: Satyrtragopan
-  pt: satyr tragopan
+  pt: ''
   ru: Трагопан-сатир
   ja: ヒオドシジュケイ
   zh: 红胸角雉

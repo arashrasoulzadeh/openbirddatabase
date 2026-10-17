@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14062.0
 names:
   scientific: Myrmophylax atrothorax
-  fa: nan
+  fa: ''
   en: Black-throated Antbird
   es: Hormiguero Gorjinegro
   fr: Alapi de Buffon

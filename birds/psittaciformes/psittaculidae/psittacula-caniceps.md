@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12379.0
 names:
   scientific: Psittacula caniceps
-  fa: nan
+  fa: ''
   en: Nicobar Parakeet
   es: Cotorra de las Nicobar
   fr: Perruche des Nicobar
   de: Graukopfsittich
-  pt: nicobar parakeet
+  pt: ''
   ru: Седоголвый кольчатый попугай
   ja: アオムネオオダルマインコ
   zh: 尼可巴達摩鸚鵡

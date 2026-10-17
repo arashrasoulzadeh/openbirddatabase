@@ -12,7 +12,7 @@ names:
   es: Esmeralda Occidental
   fr: Émeraude à bec noir
   de: Hochland-Smaragdkolibri
-  pt: western emerald
+  pt: ''
   ru: Черноклювый изумруд
   ja: ニシアンデスエメラルドハチドリ
   zh: 西方翠蜂鸟

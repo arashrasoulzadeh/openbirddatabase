@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14941.0
 names:
   scientific: Lepidocolaptes affinis
-  fa: nan
+  fa: ''
   en: Spot-crowned Woodcreeper
   es: Trepatroncos Coronipunteado
   fr: Grimpar moucheté
   de: Perlkappen-Baumsteiger
-  pt: spot-crowned woodcreeper
+  pt: ''
   ru: Жемчужноголовый древолаз
   ja: ホシガシラオニキバシリ
   nl: Vlekkruinmuisspecht

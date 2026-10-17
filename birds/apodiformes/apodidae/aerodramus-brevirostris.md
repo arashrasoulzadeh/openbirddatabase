@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4010.0
 names:
   scientific: Aerodramus brevirostris
-  fa: nan
+  fa: ''
   en: Himalayan Swiftlet
   es: Salangana del Himalaya
   fr: Salangane de l'Himalaya
   de: Himalajasalangane
-  pt: himalayan swiftlet
+  pt: ''
   ru: Гималайская салангана
   ja: ヒマラヤアナツバメ
   zh: 短嘴金丝燕

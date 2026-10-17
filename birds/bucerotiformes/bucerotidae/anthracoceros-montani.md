@@ -12,7 +12,7 @@ names:
   es: Cálao de las Joló
   fr: Calao des Sulu
   de: Suluhornvogel
-  pt: sulu hornbill
+  pt: ''
   ru: Белохвостая птица-носорог
   ja: ハシグロサイチョウ
   nl: Suluneushoornvogel

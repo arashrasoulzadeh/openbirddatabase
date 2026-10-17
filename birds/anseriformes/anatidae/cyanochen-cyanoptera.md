@@ -12,7 +12,7 @@ names:
   es: Ganso Aliazul
   fr: Cyanoie à ailes bleues
   de: Blauflügelgans
-  pt: blue-winged goose
+  pt: ''
   ru: Голубокрылый гусь
   ja: アオバコバシガン
   zh: 藍翅雁

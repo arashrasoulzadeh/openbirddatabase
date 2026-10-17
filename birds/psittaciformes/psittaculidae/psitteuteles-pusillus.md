@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12629.0
 names:
   scientific: Psitteuteles pusillus
-  fa: nan
+  fa: ''
   en: Little Lorikeet
   es: Lori Carirrojo
   fr: Lori à masque rouge
   de: Rotmaskenlori
-  pt: little lorikeet
+  pt: ''
   ru: Крошечный мускусный лорикет
   ja: ヒメジャコウインコ
   zh: 姬鸚鵡

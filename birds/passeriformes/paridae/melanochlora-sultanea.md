@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21944.0
 names:
   scientific: Melanochlora sultanea
-  fa: nan
+  fa: ''
   en: Sultan Tit
   es: Carbonero Sultán
   fr: Mésange sultane
   de: Sultansmeise
-  pt: sultan tit
+  pt: ''
   ru: Султановая синица
   ja: サルタンガラ
   zh: 冕雀

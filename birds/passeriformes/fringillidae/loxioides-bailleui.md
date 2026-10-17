@@ -12,7 +12,7 @@ names:
   es: Palila de Hawái
   fr: Psittirostre palila
   de: Schwarzmasken-Kleidervogel
-  pt: palila
+  pt: ''
   ru: Шафрановая палила
   ja: キムネハワイマシコ
   zh: 黃胸擬管舌鳥

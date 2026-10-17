@@ -12,7 +12,7 @@ names:
   es: Espolonero Malayo
   fr: Éperonnier malais
   de: Malaienpfaufasan
-  pt: malayan peacock-pheasant
+  pt: ''
   ru: Малайский павлиний фазан
   ja: マレーエボシコクジャク
   zh: 凤冠孔雀雉

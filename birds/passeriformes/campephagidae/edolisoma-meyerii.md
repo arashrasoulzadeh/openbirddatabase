@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18923.0
 names:
   scientific: Edolisoma meyerii
-  fa: nan
+  fa: ''
   en: Geelvink Cicadabird
   es: Oruguero de Geelvink
   fr: Échenilleur de Geelvink
   de: Geelvink-Raupenfänger
-  pt: geelvink cicadabird
+  pt: ''
   ja: チェンデラワシセミサンショウクイ
   nl: Geelvinkrupsvogel
   pl: gąsienicojad śniady

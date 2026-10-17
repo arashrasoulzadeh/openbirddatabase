@@ -12,7 +12,7 @@ names:
   es: Cabezón Versicolor
   fr: Cabézon élégant
   de: Buntbartvogel
-  pt: versicolored barbet
+  pt: ''
   ru: Многоцветная бородатка
   ja: イロマジリゴシキドリ
   nl: Bonte baardvogel

@@ -12,7 +12,7 @@ names:
   es: Tesia Pizarrosa
   fr: Tésie à ventre ardoise
   de: Goldscheitel-Stutzschwanz
-  pt: slaty-bellied tesia
+  pt: ''
   ru: Оливковая короткохвостка
   ja: クロハラコビトサザイ
   zh: 金冠地莺

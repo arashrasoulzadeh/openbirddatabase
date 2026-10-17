@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 7345.0
 names:
   scientific: Sula brewsteri
-  fa: nan
+  fa: ''
   en: Cocos Booby
   es: Piquero de Brewster
   fr: Fou des Cocos
-  pt: cocos booby
+  pt: ''
   ja: シロガシラカツオドリ
   nl: Cocosgent
   pl: głuptak siwogłowy

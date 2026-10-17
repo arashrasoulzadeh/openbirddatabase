@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9055.0
 names:
   scientific: Glaucidium peruanum
-  fa: nan
+  fa: ''
   en: Pacific Pygmy Owl
   es: Mochuelo Peruano
   fr: Chevêchette du Pérou
@@ -15,7 +15,7 @@ names:
   pt: peruvian pygmy-owl
   ru: Перуанский сычик
   ja: ペルースズメフクロウ
-  zh: Pacific Pygmy Owl
+  zh: ''
   nl: Peruaanse dwerguil
   pl: sóweczka peruwiańska
   tr: Peru Serçe Baykuşu

@@ -12,7 +12,7 @@ names:
   es: Barbudito Escolopáceo
   fr: Barbion grivelé
   de: Schuppenbartvogel
-  pt: speckled tinkerbird
+  pt: ''
   ru: Чешуйчатый медник
   ja: マダラヒメゴシキドリ
   nl: Gespikkelde ketellapper

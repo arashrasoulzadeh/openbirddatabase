@@ -12,7 +12,7 @@ names:
   es: Jacana Centroamericana
   fr: Jacana du Mexique
   de: Gelbstirn-Blatthühnchen
-  pt: northern jacana
+  pt: ''
   ru: Желтолобая якана
   ja: アメリカレンカク
   zh: 美洲水雉

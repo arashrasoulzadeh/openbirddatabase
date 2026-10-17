@@ -12,7 +12,7 @@ names:
   es: Rasconcillo de Isla Santa Elena
   fr: Râle de Sainte-Hélène
   de: Helenaralle
-  pt: st. helena rail
+  pt: ''
   ru: Святоеленский пастушок
   ja: セントヘレナクイナ
   nl: Sint-Helenaral

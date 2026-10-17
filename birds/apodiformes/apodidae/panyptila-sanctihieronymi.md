@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4172.0
 names:
   scientific: Panyptila sanctihieronymi
-  fa: nan
+  fa: ''
   en: Great Swallow-tailed Swift
   es: Vencejo Tijereta Grande
   fr: Martinet de San Geronimo
   de: Großschwalbensegler
-  pt: great swallow-tailed swift
+  pt: ''
   ru: Ласточкохвостый стриж
   ja: オオツリスアマツバメ
   zh: 大燕尾雨燕

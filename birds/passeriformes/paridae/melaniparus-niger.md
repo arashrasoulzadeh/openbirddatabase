@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22240.0
 names:
   scientific: Melaniparus niger
-  fa: nan
+  fa: ''
   en: Southern Black Tit
   es: Carbonero Negro
   fr: Mésange demi-deuil
@@ -15,7 +15,7 @@ names:
   pt: southern black-tit
   ru: Чёрная синица
   ja: ミナミクロガラ
-  zh: Southern Black Tit
+  zh: ''
   nl: Roetmees
   pl: sikora czarna
   tr: Güneyli Kömürcü Baştankara

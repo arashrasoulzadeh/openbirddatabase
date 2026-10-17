@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9940.0
 names:
   scientific: Ceyx azureus
-  fa: nan
+  fa: ''
   en: Azure Kingfisher
   es: Martín Pescador Azur
   fr: Martin-pêcheur à dos bleu
   de: Azurzwergfischer
-  pt: azure kingfisher
+  pt: ''
   ru: Лазурный зимородок
   ja: ルリミツユビカワセミ
   zh: 藍三趾翠鳥

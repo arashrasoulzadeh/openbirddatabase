@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 15474.0
 names:
   scientific: Thripophaga cherriei
-  fa: nan
+  fa: ''
   en: Orinoco Softtail
   es: Colasuave del Orinoco
   fr: Synallaxe de l'Orénoque
   de: Strichelkehlcanastero
-  pt: orinoco softtail
+  pt: ''
   ru: Оринокская мягкохвостка
   ja: ノドアカマルオカマドドリ
   nl: Orinococanastero

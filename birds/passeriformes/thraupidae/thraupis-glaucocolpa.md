@@ -12,7 +12,7 @@ names:
   es: Tangara Glauca
   fr: Tangara glauque
   de: Blauflecktangare
-  pt: glaucous tanager
+  pt: ''
   ru: Серо-голубая танагра
   ja: アオハラソライロフウキンチョウ
   zh: 绿灰裸鼻雀

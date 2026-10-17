@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4046.0
 names:
   scientific: Aerodramus inquietus
-  fa: nan
+  fa: ''
   en: Caroline Swiftlet
   es: Salangana de las Carolinas
   fr: Salangane des Carolines
@@ -15,7 +15,7 @@ names:
   pt: caroline islands swiftlet
   ru: Каролинская салангана
   ja: カロリンアナツバメ
-  zh: Caroline Swiftlet
+  zh: ''
   nl: Carolinensalangaan
   pl: salangana mikronezyjska
   tr: Caroline Adası Yelyutanı

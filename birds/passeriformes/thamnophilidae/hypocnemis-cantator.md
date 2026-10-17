@@ -15,7 +15,7 @@ names:
   pt: cantador-da-guiana
   ru: Певчая муравьянка
   ja: ナキアリドリ
-  zh: Guianan Warbling Antbird
+  zh: ''
   nl: Guyanamierzanger
   pl: jaguarek szczebiotliwy
   tr: Guyana Karıncakuşu

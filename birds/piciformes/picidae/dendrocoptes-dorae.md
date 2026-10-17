@@ -12,7 +12,7 @@ names:
   es: Pico Árabe
   fr: Pic d'Arabie
   de: Arabienspecht
-  pt: arabian woodpecker
+  pt: ''
   ru: Аравийский дятел
   ja: アラビアアカゲラ
   nl: Arabische specht

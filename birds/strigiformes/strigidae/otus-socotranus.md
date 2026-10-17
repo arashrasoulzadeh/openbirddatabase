@@ -15,7 +15,7 @@ names:
   pt: socotra scops-owl
   ru: Сокотранская сплюшка
   ja: ソコトラコノハズク
-  zh: Socotra Scops Owl
+  zh: ''
   nl: Socotradwergooruil
   pl: syczek sokotrzański
   tr: Sukutra İshakkuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31999.0
 names:
   scientific: Chlorophonia callophrys
-  fa: nan
+  fa: ''
   en: Golden-browed Chlorophonia
   es: Clorofonia Cejidorada
   fr: Organiste à sourcils jaunes
   de: Goldbrauenorganist
-  pt: golden-browed chlorophonia
+  pt: ''
   ru: Желтобровый органист
   ja: アオボウシミドリフウキンチョウ
   zh: 金眉綠雀

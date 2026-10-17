@@ -12,7 +12,7 @@ names:
   es: Picaflores Coronigualdo
   fr: Dicée couronné
   de: Goldkronen-Mistelfresser
-  pt: yellow-crowned flowerpecker
+  pt: ''
   ru: Золотошапочный цветоед
   ja: キボウシハナドリ
   zh: 黃冠啄花

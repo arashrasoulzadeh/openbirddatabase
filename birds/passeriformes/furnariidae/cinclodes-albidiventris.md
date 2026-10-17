@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15092.0
 names:
   scientific: Cinclodes albidiventris
-  fa: nan
+  fa: ''
   en: Chestnut-winged Cinclodes
   es: Remolinera Común Septentrional
   fr: Cinclode à miroir marron
   de: Zimtflügel-Uferwipper
-  pt: chestnut-winged cinclodes
+  pt: ''
   ru: Каштановокрылая трясохвостка
   ja: クリバネカワカマドドリ
   nl: Kastanjevleugelwipstaart

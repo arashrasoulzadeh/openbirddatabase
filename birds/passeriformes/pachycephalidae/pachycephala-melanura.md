@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19486.0
 names:
   scientific: Pachycephala melanura
-  fa: nan
+  fa: ''
   en: Mangrove Golden Whistler
   es: Silbador Colinegro
   fr: Siffleur à queue noire
@@ -15,7 +15,7 @@ names:
   pt: black-tailed whistler
   ru: Чернохвостый свистун
   ja: キンイロモズヒタキ
-  zh: Mangrove Golden Whistler
+  zh: ''
   nl: Zwartstaartfluiter
   pl: fletówka obrożna
   tr: Mangrov Altuni Islıkçısı

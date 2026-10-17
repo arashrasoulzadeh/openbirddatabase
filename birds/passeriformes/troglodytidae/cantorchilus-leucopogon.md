@@ -12,7 +12,7 @@ names:
   es: Cucarachero Gorjirrayado
   fr: Troglodyte balafré
   de: Streifenkehl-Zaunkönig
-  pt: stripe-throated wren
+  pt: ''
   ru: Пестрощёкий крапивник
   ja: シマノドマユミソサザイ
   zh: 紋喉葦鷦鷯

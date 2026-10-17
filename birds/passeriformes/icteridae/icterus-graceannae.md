@@ -12,7 +12,7 @@ names:
   es: Turpial Aliblanco
   fr: Oriole leucoptère
   de: Weißschwingentrupial
-  pt: white-edged oriole
+  pt: ''
   ru: Тумбесский трупиал
   ja: サバクムクドリモドキ
   zh: 白邊擬黃鸝

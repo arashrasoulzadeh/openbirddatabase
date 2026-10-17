@@ -12,10 +12,10 @@ names:
   es: Aguatero Australiano
   fr: Rhynchée d'Australie
   de: Schmuckschnepfe
-  pt: australian painted-snipe
+  pt: ''
   ru: Австралийский цветной бекас
   ja: オーストラリアタマシギ
-  zh: Australian Painted-snipe
+  zh: ''
   nl: Australische goudsnip
   pl: złotosłonka australijska
   tr: Avustralya Boyalıçulluğu

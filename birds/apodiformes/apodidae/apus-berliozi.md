@@ -12,7 +12,7 @@ names:
   es: Vencejo de Socotra
   fr: Martinet de Berlioz
   de: Sokotrasegler
-  pt: forbes-watson's swift
+  pt: ''
   ru: Сокотранский стриж
   ja: ソコトラアマツバメ
   nl: Socotragierzwaluw

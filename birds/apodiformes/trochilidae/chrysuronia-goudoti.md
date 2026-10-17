@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5142.0
 names:
   scientific: Chrysuronia goudoti
-  fa: nan
+  fa: ''
   en: Shining-green Hummingbird
   es: Colibrí de Goudot
   fr: Colibri de Goudot
   de: Grünkolibri
-  pt: shining-green hummingbird
+  pt: ''
   ru: Зелёный колибри
   ja: ミドリルリノドハチドリ
   nl: Goudotkolibrie

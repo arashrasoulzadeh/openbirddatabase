@@ -7,7 +7,7 @@ iucn_status: DD
 taxon_order: 15968.0
 names:
   scientific: Tityra leucura
-  fa: nan
+  fa: ''
   en: White-tailed Tityra
   es: Titira Coliblanco
   fr: Tityre à queue blanche

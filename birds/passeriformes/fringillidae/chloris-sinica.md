@@ -12,7 +12,7 @@ names:
   es: Verderón Chino
   fr: Verdier de Chine
   de: Chinagrünfink
-  pt: oriental greenfinch
+  pt: ''
   ru: Китайская зеленушка
   ja: カワラヒワ
   zh: 金翅雀

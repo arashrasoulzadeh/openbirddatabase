@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34999.0
 names:
   scientific: Stilpnia heinei
-  fa: nan
+  fa: ''
   en: Black-capped Tanager
   es: Tangara Coroninegra
   fr: Calliste à calotte noire
   de: Schwarzscheiteltangare
-  pt: black-capped tanager
+  pt: ''
   ru: Сиреневоспинная танагра
   ja: ズグロアオフウキンチョウ
   nl: Heinetangare

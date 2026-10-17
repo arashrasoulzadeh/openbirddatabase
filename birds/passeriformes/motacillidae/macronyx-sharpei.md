@@ -12,7 +12,7 @@ names:
   es: Bisbita de Sharpe
   fr: Sentinelle de Sharpe
   de: Zitronenpieper
-  pt: sharpe's longclaw
+  pt: ''
   ru: Кенийский шпорник
   ja: ヒバリツメナガタヒバリ
   nl: Citroenpieper

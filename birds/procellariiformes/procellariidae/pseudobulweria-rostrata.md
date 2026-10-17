@@ -12,7 +12,7 @@ names:
   es: Petrel de Tahití
   fr: Pétrel de Tahiti
   de: Tahitisturmvogel
-  pt: tahiti petrel
+  pt: ''
   ru: Таитянский тайфунник
   ja: セグロシロハラミズナギドリ
   zh: 钩嘴圆尾鹱

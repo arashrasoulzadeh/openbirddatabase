@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2544.0
 names:
   scientific: Treron apicauda
-  fa: nan
+  fa: ''
   en: Pin-tailed Green Pigeon
   es: Vinago Rabudo
   fr: Colombar à longue queue

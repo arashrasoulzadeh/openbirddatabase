@@ -12,7 +12,7 @@ names:
   es: Monarca de Brehm
   fr: Monarque de Brehm
   de: Biakmonarch
-  pt: biak monarch
+  pt: ''
   ru: Биакский монарх
   ja: ビアクカササギビタキ
   zh: 比亞克王鶲

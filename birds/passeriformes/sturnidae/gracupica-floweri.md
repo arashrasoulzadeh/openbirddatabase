@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27838.0
 names:
   scientific: Gracupica floweri
-  fa: nan
+  fa: ''
   en: Siamese Pied Myna
   es: Estornino Pío Siamés
   fr: Étourneau siamois

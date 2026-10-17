@@ -15,7 +15,7 @@ names:
   pt: jacky-winter
   ru: Белохвостая дриада
   ja: オジロオリーブヒタキ
-  zh: Jacky Winter
+  zh: ''
   nl: Witstaartvliegenvanger
   pl: muchóweczka bura
   tr: Avustalya Şakıcı Sinekkapanı

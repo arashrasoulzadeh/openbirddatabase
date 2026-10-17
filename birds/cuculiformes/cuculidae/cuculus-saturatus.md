@@ -12,7 +12,7 @@ names:
   es: Cuco del Himalaya
   fr: Coucou de l'Himalaya
   de: Himalajakuckuck
-  pt: himalayan cuckoo
+  pt: ''
   ru: Гималайская кукушка
   ja: ヒマラヤツツドリ
   zh: 中杜鹃

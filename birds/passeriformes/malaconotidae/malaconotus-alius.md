@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 20203.0
 names:
   scientific: Malaconotus alius
-  fa: nan
+  fa: ''
   en: Uluguru Bushshrike
   es: Gladiador de Los Uluguru
   fr: Gladiateur des Uluguru
   de: Schwarzkappenwürger
-  pt: uluguru bushshrike
+  pt: ''
   ru: Черношапочный гладиатор
   ja: セグロオオヤブモズ
   nl: Uluguruklauwier

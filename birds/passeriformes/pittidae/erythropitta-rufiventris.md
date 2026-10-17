@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13318.0
 names:
   scientific: Erythropitta rufiventris
-  fa: nan
+  fa: ''
   en: North Moluccan Pitta
   es: Pita Moluqueña Septentrional
   fr: Brève des Moluques
   de: Nordmolukken-Blaubrustpitta
-  pt: north moluccan pitta
+  pt: ''
   ru: Хальмахерская питта
   ja: モルッカヤイロチョウ
   nl: Noord-Molukse pitta

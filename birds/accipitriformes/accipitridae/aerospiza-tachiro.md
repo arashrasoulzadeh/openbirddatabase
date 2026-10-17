@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8118.0
 names:
   scientific: Aerospiza tachiro
-  fa: nan
+  fa: ''
   en: African Goshawk
   es: Azor Tachiro
   fr: Autour tachiro
   de: Afrikahabicht
-  pt: african goshawk
+  pt: ''
   ru: Африканский ястреб
   ja: アフリカオオタカ
   zh: 非洲鷹

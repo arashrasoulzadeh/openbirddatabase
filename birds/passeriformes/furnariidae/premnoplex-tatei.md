@@ -12,7 +12,7 @@ names:
   es: Subepalo Gorjiblanco
   fr: Anabasitte à gorge blanche
   de: Weißkehl-Stachelschwanz
-  pt: white-throated barbtail
+  pt: ''
   ru: Белогорлый зубцехвост
   ja: ムナジロヒゲオカマドドリ
   zh: 白喉斑尾雀

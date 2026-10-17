@@ -15,7 +15,7 @@ names:
   pt: purple-throated mountain-gem
   ru: Пурпурногорлый солнечник
   ja: フジノドシロメジリハチドリ
-  zh: Purple-throated Mountaingem
+  zh: ''
   nl: Purperkeeljuweelkolibrie
   pl: malachicik purpurowogardły
   tr: Mor Gerdanlı Dağmücevheri

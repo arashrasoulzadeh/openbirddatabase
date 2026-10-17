@@ -12,7 +12,7 @@ names:
   es: Cigüeña Oriental
   fr: Cigogne orientale
   de: Schwarzschnabelstorch
-  pt: oriental stork
+  pt: ''
   ru: Дальневосточный аист
   ja: コウノトリ
   zh: 东方白鹳

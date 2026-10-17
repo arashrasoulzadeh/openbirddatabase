@@ -12,7 +12,7 @@ names:
   es: Urraca Ventriblanca
   fr: Témia à ventre blanc
   de: Weißbauch-Baumelster
-  pt: white-bellied treepie
+  pt: ''
   ru: Белобрюхая китта
   ja: シロハラオナガ
   zh: 白腹樹鵲

@@ -15,7 +15,7 @@ names:
   pt: rufous fishing-owl
   ru: Рыжая рыбная сова
   ja: アカウオクイフクロウ
-  zh: Rufous Fishing Owl
+  zh: ''
   nl: Rosse visuil
   pl: rybiarka kreskowana
   tr: Kızıl Balık Baykuşu

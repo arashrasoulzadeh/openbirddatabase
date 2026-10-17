@@ -15,7 +15,7 @@ names:
   pt: chirito
   ru: Длинноклювая комароловка
   ja: ハシナガブユムシクイ
-  zh: Trilling Gnatwren
+  zh: ''
   nl: Zwartstaartmuggensluiper
   pl: gnomik długodzioby
   tr: Uzun Gagalı Bitkuşu

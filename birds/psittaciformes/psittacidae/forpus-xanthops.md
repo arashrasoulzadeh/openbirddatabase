@@ -12,7 +12,7 @@ names:
   es: Cotorrita Carigualda
   fr: Toui à tête jaune
   de: Gelbmasken-Sperlingspapagei
-  pt: yellow-faced parrotlet
+  pt: ''
   ru: Желтолицый воробьиный попугайчик
   ja: キガシラマメルリハシインコ
   nl: Geelwangmuspapegaai

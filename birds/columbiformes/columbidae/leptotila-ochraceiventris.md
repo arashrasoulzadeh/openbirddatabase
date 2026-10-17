@@ -12,7 +12,7 @@ names:
   es: Paloma Montaraz Ventriocre
   fr: Colombe de Chapman
   de: Ockerbauchtaube
-  pt: ochre-bellied dove
+  pt: ''
   ru: Охристобрюхая голубка
   ja: キバラシャコバト
   nl: Geelbuikduif

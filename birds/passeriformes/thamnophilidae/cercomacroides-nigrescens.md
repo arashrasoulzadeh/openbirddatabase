@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13914.0
 names:
   scientific: Cercomacroides nigrescens
-  fa: nan
+  fa: ''
   en: Blackish Antbird
   es: Hormiguero Negruzco
   fr: Grisin noirâtre

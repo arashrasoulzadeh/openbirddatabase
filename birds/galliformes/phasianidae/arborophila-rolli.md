@@ -12,7 +12,7 @@ names:
   es: Arborófila Batak
   fr: Torquéole de Roll
   de: Orangebrust-Buschwachtel
-  pt: roll's partridge
+  pt: ''
   ru: Батакская лесная куропатка
   ja: キタスマトラヤマテッケイ
   zh: 勞氏山鷓鴣

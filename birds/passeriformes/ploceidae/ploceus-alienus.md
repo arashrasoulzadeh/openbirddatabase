@@ -12,7 +12,7 @@ names:
   es: Tejedor Extraño
   fr: Tisserin de montagne
   de: Meisenweber
-  pt: strange weaver
+  pt: ''
   ru: Синицевый ткач
   ja: カワリハタオリ
   nl: Meeswever

@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Colirrufo
   fr: Couturière à queue rousse
   de: Rotschwanz-Schneidervogel
-  pt: rufous-tailed tailorbird
+  pt: ''
   ru: Краснохвостая портниха
   ja: ズアカサイホウチョウ
   zh: 紅尾縫葉鶯

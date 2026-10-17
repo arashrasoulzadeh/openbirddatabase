@@ -12,7 +12,7 @@ names:
   es: Abanico Colicanela
   fr: Rhipidure brun-roux
   de: Zimtbauch-Fächerschwanz
-  pt: cinnamon-tailed fantail
+  pt: ''
   ru: Рыжеватая веерохвостка
   ja: シナモンオウギビタキ
   nl: Kaneelwaaierstaart

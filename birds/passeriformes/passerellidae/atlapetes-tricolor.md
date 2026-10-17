@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33473.0
 names:
   scientific: Atlapetes tricolor
-  fa: nan
+  fa: ''
   en: Tricolored Brushfinch
   es: Atlapetes Tricolor
   fr: Tohi tricolore
@@ -15,7 +15,7 @@ names:
   pt: golden-crowned brushfinch
   ru: Трёхцветная атлапета
   ja: サンショクヤブシトド
-  zh: Tricolored Brushfinch
+  zh: ''
   nl: Driekleurenstruikgors
   pl: zaroślak czarnolicy
   tr: Üç Renkli Çalı serçesi

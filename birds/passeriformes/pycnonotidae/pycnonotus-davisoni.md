@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24690.0
 names:
   scientific: Pycnonotus davisoni
-  fa: nan
+  fa: ''
   en: Pale-eyed Bulbul
   es: Bulbul de Davison
   fr: Bulbul de Davison
   de: Blassaugenbülbül
-  pt: pale-eyed bulbul
+  pt: ''
   nl: Bleekoogbuulbuul
   pl: bilbil birmański
   tr: Açık Gözlü Arapbülbülü

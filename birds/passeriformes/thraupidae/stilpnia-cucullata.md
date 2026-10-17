@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35017.0
 names:
   scientific: Stilpnia cucullata
-  fa: nan
+  fa: ''
   en: Lesser Antillean Tanager
   es: Tangara Antillana
   fr: Calliste dos-bleu
   de: Buntkappentangare
-  pt: lesser antillean tanager
+  pt: ''
   ru: Коричневоголовая танагра
   ja: グレナダフウキンチョウ
   nl: Kleine-Antillentangare

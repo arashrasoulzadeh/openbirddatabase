@@ -12,7 +12,7 @@ names:
   es: Polluela Cabecirroja
   fr: Râle à tête rousse
   de: Ugallaralle
-  pt: chestnut-headed flufftail
+  pt: ''
   ru: Каштановоголовая жемчужная курочка
   ja: クリガシラシマクイナ
   nl: Ugallaral

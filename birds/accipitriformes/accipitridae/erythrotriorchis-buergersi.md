@@ -12,7 +12,7 @@ names:
   es: Azor de Bürgers
   fr: Autour de Bürgers
   de: Prachthabicht
-  pt: chestnut-shouldered goshawk
+  pt: ''
   ru: Роскошный ястреб
   ja: カタアカオオタカ
   nl: Bürgerhavik

@@ -15,7 +15,7 @@ names:
   pt: risadinha
   ru: Южноамериканский москитолов
   ja: キバラメグロハエトリ
-  zh: Southern Beardless Tyrannulet
+  zh: ''
   nl: Geelkeelvliegenpikker
   pl: koszykotyranik czubaty
   tr: Güneyli Bıyıksız Tiranulet

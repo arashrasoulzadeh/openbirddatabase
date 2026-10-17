@@ -12,7 +12,7 @@ names:
   es: Avefría Malabar
   fr: Vanneau de Malabar
   de: Gelblappenkiebitz
-  pt: yellow-wattled lapwing
+  pt: ''
   ru: Малабарский чибис
   ja: キトサカゲリ
   zh: 黃垂麥雞

@@ -12,7 +12,7 @@ names:
   es: Pita Ninfa
   fr: Brève migratrice
   de: Nymphenpitta
-  pt: fairy pitta
+  pt: ''
   ru: Питта-нимфа
   ja: ヤイロチョウ
   zh: 仙八色鸫

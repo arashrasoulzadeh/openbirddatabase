@@ -7,13 +7,13 @@ iucn_status: NT
 taxon_order: 866.0
 names:
   scientific: Pipile grayi
-  fa: nan
+  fa: ''
   en: White-throated Piping Guan
   es: Pava Goliblanca
   fr: Pénélope de Gray
   de: Blasskehlguan
   pt: jacutinga-de-garganta-branca
-  zh: White-throated Piping Guan
+  zh: ''
   nl: Witkeelgoean
   pl: grdacz białogłowy
   tr: Ak Gerdanlı Islıkçı Guan

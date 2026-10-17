@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14473.0
 names:
   scientific: Formicarius moniliger
-  fa: nan
+  fa: ''
   en: Mayan Antthrush
   es: Formicario Mexicano
   fr: Tétéma du Mexique
   de: Mexikoameisendrossel
-  pt: mayan antthrush
+  pt: ''
   ru: Мексиканская муравейница
   ja: マヤアリツグミ
   nl: Mexicaanse mierlijster

@@ -12,7 +12,7 @@ names:
   es: Cuervo Llanero
   fr: Corbeau à cou blanc
   de: Mexikorabe
-  pt: chihuahuan raven
+  pt: ''
   ru: Чихуахунский ворон
   ja: シロエリガラス
   zh: 白頸渡鴉

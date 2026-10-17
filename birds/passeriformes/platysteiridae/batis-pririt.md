@@ -12,7 +12,7 @@ names:
   es: Batis Pririt
   fr: Pririt de Vieillot
   de: Priritschnäpper
-  pt: pririt batis
+  pt: ''
   ru: Вельдский батис
   ja: ワキジマセワタビタキ
   nl: Priritvliegenvanger

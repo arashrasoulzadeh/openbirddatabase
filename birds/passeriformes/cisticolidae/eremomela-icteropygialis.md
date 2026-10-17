@@ -12,7 +12,7 @@ names:
   es: Eremomela Ventrigualda
   fr: Érémomèle à croupion jaune
   de: Gelbbaucheremomela
-  pt: yellow-bellied eremomela
+  pt: ''
   ru: Африканская желтобрюшка
   ja: キバラヒメムシクイ
   nl: Geelbuikeremomela

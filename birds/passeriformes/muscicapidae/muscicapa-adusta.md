@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28804.0
 names:
   scientific: Muscicapa adusta
-  fa: nan
+  fa: ''
   en: African Dusky Flycatcher
   es: Papamoscas Sombrío
   fr: Gobemouche sombre
   de: Dunkelschnäpper
-  pt: african dusky flycatcher
+  pt: ''
   ru: Бурая мухоловка
   ja: アフリカコサメビタキ
   nl: Donkere vliegenvanger

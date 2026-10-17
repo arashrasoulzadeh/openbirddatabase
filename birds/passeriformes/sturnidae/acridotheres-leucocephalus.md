@@ -12,7 +12,7 @@ names:
   es: Miná Vinoso
   fr: Martin à tête blanche
   de: Fahlbürzelmaina
-  pt: vinous-breasted myna
+  pt: ''
   zh: 红胸椋鸟
   nl: Wijnborstmaina
   pl: majna białogłowa

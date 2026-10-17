@@ -12,7 +12,7 @@ names:
   es: Cúa de Verreaux
   fr: Coua de Verreaux
   de: Breitschopf-Seidenkuckuck
-  pt: verreaux's coua
+  pt: ''
   ru: Чубатая тивука
   ja: ミナミジカッコウ
   nl: Grijze coua

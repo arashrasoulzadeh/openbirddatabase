@@ -12,7 +12,7 @@ names:
   es: Anteojitos Lúgubre
   fr: Zostérops de Sao Tomé
   de: Schwarzscheitel-Brillenvogel
-  pt: black-capped speirops
+  pt: ''
   ru: Тёмная белоглазка
   ja: ズグロメジロモドキ
   zh: 黑頂繡眼

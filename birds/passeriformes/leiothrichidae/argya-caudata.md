@@ -12,7 +12,7 @@ names:
   es: Turdoide Indio
   fr: Cratérope indien
   de: Langschwanz-Drosselhäherling
-  pt: common babbler
+  pt: ''
   ru: Длиннохвостая дроздовка
   ja: スジカブリヤブチメドリ
   zh: 普通鶇鶥

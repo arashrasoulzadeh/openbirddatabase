@@ -15,7 +15,7 @@ names:
   pt: papuan king-parrot
   ru: Желтоплечий попугай
   ja: キガタキンショウジョウインコ
-  zh: Papuan King Parrot
+  zh: ''
   nl: Groenvleugelkoningsparkiet
   pl: szkarłatka żółtoskrzydła
   tr: Papua Kral Papağanı

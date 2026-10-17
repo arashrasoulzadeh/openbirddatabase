@@ -12,7 +12,7 @@ names:
   es: Chochín Montañés
   fr: Troglodyte montagnard
   de: Andenzaunkönig
-  pt: mountain wren
+  pt: ''
   ru: Андский крапивник
   ja: ヤマミソサザイ
   zh: 山鷦鷯

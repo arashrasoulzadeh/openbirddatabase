@@ -12,7 +12,7 @@ names:
   es: Mielero Pechibarrado
   fr: Méliphage fascié
   de: Wellenbrust-Honigfresser
-  pt: bar-breasted honeyeater
+  pt: ''
   ru: Пестрогрудый нектаролюб
   ja: ヨコジマウロコミツスイ
   zh: 斑胸胶蜜鸟

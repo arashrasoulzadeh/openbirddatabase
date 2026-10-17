@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Verde
   fr: Eurylaime vert
   de: Smaragdbreitrachen
-  pt: green broadbill
+  pt: ''
   ru: Зелёный скрытоклюв
   ja: ミドリヒロハシ
   zh: 綠闊嘴鳥

@@ -12,7 +12,7 @@ names:
   es: Francolín de Camerún
   fr: Francolin du Cameroun
   de: Kamerunfrankolin
-  pt: mount cameroon spurfowl
+  pt: ''
   ru: Камерунский франколин
   ja: カメルーンヤマシャコ
   nl: Kameroense frankolijn

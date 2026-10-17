@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34976.0
 names:
   scientific: Ixothraupis punctata
-  fa: nan
+  fa: ''
   en: Spotted Tanager
   es: Tangara Puntosa
   fr: Calliste syacou

@@ -12,7 +12,7 @@ names:
   es: Colibrí Pectoral
   fr: Héliange à queue bleue
   de: Weißband-Sonnennymphe
-  pt: gorgeted sunangel
+  pt: ''
   ru: Ошейниковый феб
   ja: ビロードテンシハチドリ
   zh: 领蜂鸟

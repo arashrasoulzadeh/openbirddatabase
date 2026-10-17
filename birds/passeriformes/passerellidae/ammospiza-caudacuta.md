@@ -12,7 +12,7 @@ names:
   es: Chingolo Colifino
   fr: Bruant à queue aiguë
   de: Spitzschwanzammer
-  pt: saltmarsh sparrow
+  pt: ''
   ru: Острохвостая овсянка-барсучок
   ja: トゲオヒメドリ
   zh: 尖尾沙鹀

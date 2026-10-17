@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4194.0
 names:
   scientific: Tachornis squamata
-  fa: nan
+  fa: ''
   en: Fork-tailed Palm Swift
   es: Vencejillo Tijereta
   fr: Martinet claudia

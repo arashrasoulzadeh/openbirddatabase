@@ -12,7 +12,7 @@ names:
   es: Abanico de Arafura
   fr: Rhipidure dryade
   de: Arafurafächerschwanz
-  pt: arafura fantail
+  pt: ''
   ru: Лесная веерохвостка
   ja: アラフラオウギビタキ
   nl: Arafurawaaierstaart

@@ -12,7 +12,7 @@ names:
   es: Cormorán Indio
   fr: Cormoran à cou brun
   de: Braunwangenscharbe
-  pt: indian cormorant
+  pt: ''
   ru: Индийский баклан
   ja: インドヒメウ
   zh: 印度鸬鹚

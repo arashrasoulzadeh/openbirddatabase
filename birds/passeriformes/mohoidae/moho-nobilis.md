@@ -12,7 +12,7 @@ names:
   es: Oo de Hawai
   fr: Moho d'Hawaï
   de: Prachtmoho
-  pt: hawaii oo
+  pt: ''
   ru: Благородный мохо
   ja: ムネフサミツスイ
   zh: 夏威夷吸蜜鳥

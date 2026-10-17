@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19552.0
 names:
   scientific: Pachycephala leucogastra
-  fa: nan
+  fa: ''
   en: White-bellied Whistler
   es: Silbador Ventriblanco
   fr: Siffleur à ventre blanc
   de: Weißbauch-Dickkopf
-  pt: white-bellied whistler
+  pt: ''
   ru: Белобрюхий свистун
   ja: ニューギニアシロハラモズヒタキ
   zh: 白腹啸鹟

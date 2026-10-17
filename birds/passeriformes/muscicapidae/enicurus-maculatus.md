@@ -12,7 +12,7 @@ names:
   es: Torrentero Moteado
   fr: Énicure tacheté
   de: Fleckenscherenschwanz
-  pt: spotted forktail
+  pt: ''
   ru: Пятнистая вилохвостка
   ja: セボシエンビシキチョウ
   zh: 斑背燕尾

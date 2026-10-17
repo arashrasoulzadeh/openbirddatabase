@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24836.0
 names:
   scientific: Phylloscopus fuligiventer
-  fa: nan
+  fa: ''
   en: Smoky Warbler
   es: Mosquitero Ahumado
   fr: Pouillot enfumé
   de: Rußlaubsänger
-  pt: smoky warbler
+  pt: ''
   ru: Дымчатая пеночка
   ja: マユナガムシクイ
   zh: 烟柳莺

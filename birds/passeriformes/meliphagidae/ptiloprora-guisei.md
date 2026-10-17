@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18071.0
 names:
   scientific: Ptiloprora guisei
-  fa: nan
+  fa: ''
   en: Rufous-backed Honeyeater
   es: Mielero Dorsirrufo
   fr: Méliphage à dos roux
   de: Rotrücken-Honigfresser
-  pt: rufous-backed honeyeater
+  pt: ''
   ru: Рыжеватый нектароед
   ja: セスジミツスイ
   nl: Roodrughoningeter

@@ -12,7 +12,7 @@ names:
   es: Abanico Moteado de Fiyi
   fr: Rhipidure des Fidji
   de: Fidschi-Fleckenfächerschwanz
-  pt: fiji streaked fantail
+  pt: ''
   nl: Fijiwaaierstaart
   pl: wachlarzówka wulkaniczna
   tr: Fiji Çizgili Katmerkuyruğu

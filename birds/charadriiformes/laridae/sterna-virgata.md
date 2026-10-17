@@ -12,7 +12,7 @@ names:
   es: Charrán de las Kerguelen
   fr: Sterne des Kerguelen
   de: Kerguelenseeschwalbe
-  pt: kerguelen tern
+  pt: ''
   ru: Кергеленская крачка
   ja: ケルゲレンアジサシ
   nl: Kerguelenstern

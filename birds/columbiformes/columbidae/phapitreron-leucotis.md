@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2468.0
 names:
   scientific: Phapitreron leucotis
-  fa: nan
+  fa: ''
   en: White-eared Brown Dove
   es: Vinago Pardo de Luzón
   fr: Phapitréron à oreillons blancs
@@ -15,7 +15,7 @@ names:
   pt: white-eared brown-dove
   ru: Белоухая горлица
   ja: テリアオバト
-  zh: White-eared Brown Dove
+  zh: ''
   nl: Kleine bruine vruchtduif
   pl: brązaczek białouchy
   tr: Luzon Esmer Kumrusu

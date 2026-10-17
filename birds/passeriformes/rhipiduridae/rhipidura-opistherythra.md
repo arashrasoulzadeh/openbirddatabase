@@ -12,7 +12,7 @@ names:
   es: Abanico de las Tanimbar
   fr: Rhipidure des Tanimbar
   de: Tanimbarfächerschwanz
-  pt: long-tailed fantail
+  pt: ''
   ru: Танимбарская веерохвостка
   ja: タニンバルオウギビタキ
   nl: Sclaterwaaierstaart

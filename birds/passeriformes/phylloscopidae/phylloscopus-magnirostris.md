@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24935.0
 names:
   scientific: Phylloscopus magnirostris
-  fa: nan
+  fa: ''
   en: Large-billed Leaf Warbler
   es: Mosquitero Picudo
   fr: Pouillot à gros bec
   de: Schluchtenlaubsänger
-  pt: large-billed leaf warbler
+  pt: ''
   ru: Большеклювая пеночка
   ja: ハシブトムシクイ
   zh: 乌嘴柳莺

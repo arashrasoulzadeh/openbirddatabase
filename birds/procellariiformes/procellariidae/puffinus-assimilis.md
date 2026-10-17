@@ -12,7 +12,7 @@ names:
   es: Pardela Maorí
   fr: Petit Puffin
   de: Zwergsturmtaucher
-  pt: little shearwater
+  pt: ''
   ru: Тусклый буревестник
   ja: ヒメミズナギドリ
   nl: Pacifische kleine pijlstormvogel

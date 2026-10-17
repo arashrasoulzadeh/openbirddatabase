@@ -12,7 +12,7 @@ names:
   es: Turdoide Sombrío
   fr: Cratérope ombré
   de: Uferdrosselhäherling
-  pt: dusky babbler
+  pt: ''
   ru: Тёмная дроздовка
   ja: ウロコムネヤブチメドリ
   zh: 暗色鶇鶥

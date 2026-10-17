@@ -12,7 +12,7 @@ names:
   es: Golondrina Peruana
   fr: Hirondelle de Murphy
   de: Peruschwalbe
-  pt: peruvian martin
+  pt: ''
   ru: Перуанская ласточка
   ja: ペルームラサキツバメ
   zh: 秘魯崖燕

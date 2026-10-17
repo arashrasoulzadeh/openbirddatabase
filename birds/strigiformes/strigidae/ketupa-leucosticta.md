@@ -12,7 +12,7 @@ names:
   es: Búho de Akún
   fr: Grand-duc tacheté
   de: Schwachschnabeluhu
-  pt: akun eagle-owl
+  pt: ''
   ru: Пепельный филин
   ja: アクンワシミミズク
   nl: Akoenoehoe

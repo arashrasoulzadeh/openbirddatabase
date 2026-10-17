@@ -12,7 +12,7 @@ names:
   es: Cucarachero Rufiblanco
   fr: Troglodyte rufalbin
   de: Rotrückenzaunkönig
-  pt: rufous-and-white wren
+  pt: ''
   ru: Рыже-белый крапивник
   ja: セアカマユミソサザイ
   nl: Rood-witte winterkoning

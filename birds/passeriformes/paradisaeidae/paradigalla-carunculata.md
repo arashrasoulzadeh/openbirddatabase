@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Carunculada
   fr: Paradisier caronculé
   de: Spitzschwanz-Paradieselster
-  pt: long-tailed paradigalla
+  pt: ''
   ru: Длиннохвостый шлемоклюв
   ja: キヅノフウチョウ
   nl: Langstaartparadigalla

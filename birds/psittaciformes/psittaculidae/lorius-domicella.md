@@ -12,7 +12,7 @@ names:
   es: Lori Damisela
   fr: Lori des dames
   de: Erzlori
-  pt: purple-naped lory
+  pt: ''
   ru: Пурпурный лори
   ja: ズグロインコ
   nl: Vrouwenlori

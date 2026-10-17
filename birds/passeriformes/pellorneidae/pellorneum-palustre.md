@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 26236.0
 names:
   scientific: Pellorneum palustre
-  fa: nan
+  fa: ''
   en: Marsh Babbler
   es: Tordina Palustre
   fr: Akalat des marais
   de: Sumpf-Erddrossling
-  pt: marsh babbler
+  pt: ''
   ru: Ассамская тимелия-говорушка
   ja: ヌマジチメドリ
   zh: 沼澤幽鶥

@@ -12,7 +12,7 @@ names:
   es: Carpintero Tajá
   fr: Pic poignardé
   de: Blutfleckspecht
-  pt: cuban green woodpecker
+  pt: ''
   ru: Кубинский дятел
   ja: キューバアオゲラ
   nl: Cubaanse groene specht

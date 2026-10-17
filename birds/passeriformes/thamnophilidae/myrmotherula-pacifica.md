@@ -12,7 +12,7 @@ names:
   es: Hormiguerito del Pacífico
   fr: Myrmidon du Pacifique
   de: Chocó-Strichelameisenschlüpfer
-  pt: pacific antwren
+  pt: ''
   ru: Тихоокенаский муравьелов
   ja: タイヘイヒメアリサザイ
   zh: 太平洋纵纹蚁鹩

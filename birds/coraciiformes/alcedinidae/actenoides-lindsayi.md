@@ -15,7 +15,7 @@ names:
   pt: spotted kingfisher
   ru: Пестрогрудый зимородок
   ja: シロボシショウビン
-  zh: Spotted Wood Kingfisher
+  zh: ''
   nl: Luzonbosijsvogel
   pl: krasnogłów plamisty
   tr: Benekli Yalıçapkını

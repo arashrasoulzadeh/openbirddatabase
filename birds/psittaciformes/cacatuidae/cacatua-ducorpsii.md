@@ -12,7 +12,7 @@ names:
   es: Cacatúa de las Salomón
   fr: Cacatoès des Salomon
   de: Salomonenkakadu
-  pt: solomons corella
+  pt: ''
   ru: Соломонский какаду
   ja: ソロモンオウム
   zh: 杜氏凤头鹦鹉

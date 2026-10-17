@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25758.0
 names:
   scientific: Zosterops stalkeri
-  fa: nan
+  fa: ''
   en: Seram White-eye
   es: Anteojitos de Ceram
   fr: Zostérops de Céram
   de: Serambrillenvogel
-  pt: seram white-eye
+  pt: ''
   ru: Серамская белоглазка
   ja: セラムクロビタイメジロ
   nl: Serambrilvogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11594.0
 names:
   scientific: Meiglyptes jugularis
-  fa: nan
+  fa: ''
   en: Black-and-buff Woodpecker
   es: Pito Blanquinegro
   fr: Pic à jugulaire
   de: Dominospecht
-  pt: black-and-buff woodpecker
+  pt: ''
   ru: Пегий дятел
   ja: クロカレハゲラ
   zh: 黑棕斑啄木鳥

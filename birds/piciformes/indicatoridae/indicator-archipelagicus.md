@@ -12,7 +12,7 @@ names:
   es: Indicador Malayo
   fr: Indicateur archipélagique
   de: Malaienhoniganzeiger
-  pt: malaysian honeyguide
+  pt: ''
   ru: Зондский медоуказчик
   ja: マレーミツオシエ
   nl: Maleise honingspeurder

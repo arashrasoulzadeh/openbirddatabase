@@ -12,7 +12,7 @@ names:
   es: Yuhina de Formosa
   fr: Yuhina de Taïwan
   de: Braunscheitelyuhina
-  pt: taiwan yuhina
+  pt: ''
   ru: Тайваньская юхина
   ja: カンムリチメドリ
   zh: 褐头凤鹛

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33594.0
 names:
   scientific: Leistes militaris
-  fa: nan
+  fa: ''
   en: Red-breasted Meadowlark
   es: Loica Pechirroja
   fr: Sturnelle militaire

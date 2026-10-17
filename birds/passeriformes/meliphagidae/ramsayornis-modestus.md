@@ -12,7 +12,7 @@ names:
   es: Mielero Modesto
   fr: Méliphage modeste
   de: Sumpfhonigfresser
-  pt: brown-backed honeyeater
+  pt: ''
   ru: Болотный нектаролюб
   ja: ウロコミツスイ
   nl: Bruin-witte honingeter

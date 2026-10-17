@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 15142.0
 names:
   scientific: Philydor novaesi
-  fa: nan
+  fa: ''
   en: Alagoas Foliage-gleaner
   es: Ticotico de Alagoas
   fr: Anabate d'Alagoas

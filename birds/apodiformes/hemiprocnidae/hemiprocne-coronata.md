@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4201.0
 names:
   scientific: Hemiprocne coronata
-  fa: nan
+  fa: ''
   en: Crested Treeswift
   es: Vencejo Arborícola Coronado
   fr: Hémiprocné couronné
   de: Kronenbaumsegler
-  pt: crested treeswift
+  pt: ''
   ru: Хохлатый клехо
   ja: インドカンムリアマツバメ
   nl: Gekroonde boomgierzwaluw

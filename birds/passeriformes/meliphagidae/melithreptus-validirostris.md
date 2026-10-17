@@ -12,7 +12,7 @@ names:
   es: Mielero Picudo
   fr: Méliphage à bec fort
   de: Starkschnabel-Honigfresser
-  pt: strong-billed honeyeater
+  pt: ''
   ru: Толстоклювая медвянка
   ja: オリーブハチマキミツスイ
   nl: Tasmaanse honingeter

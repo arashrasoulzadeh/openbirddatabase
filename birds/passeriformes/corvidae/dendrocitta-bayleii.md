@@ -12,7 +12,7 @@ names:
   es: Urraca de las Andamán
   fr: Témia des Andaman
   de: Andamanenbaumelster
-  pt: andaman treepie
+  pt: ''
   ru: Андаманская китта
   ja: アンダマンオナガ
   zh: 安達曼樹鵲

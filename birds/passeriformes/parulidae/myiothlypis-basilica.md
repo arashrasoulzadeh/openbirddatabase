@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34290.0
 names:
   scientific: Myiothlypis basilica
-  fa: nan
+  fa: ''
   en: Santa Marta Warbler
   es: Reinita de Santa Marta
   fr: Paruline de Santa Marta
   de: Santa-Marta-Waldsänger
-  pt: santa marta warbler
+  pt: ''
   ru: Сантамартийский певун
   ja: サンタマルタアメリカムシクイ
   nl: Santa-Martazanger

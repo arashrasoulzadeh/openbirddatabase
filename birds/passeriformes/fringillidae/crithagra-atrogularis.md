@@ -12,7 +12,7 @@ names:
   es: Serín Gorjinegro
   fr: Serin à gorge noire
   de: Angolagirlitz
-  pt: black-throated canary
+  pt: ''
   ru: Черногорлый канареечник
   ja: ミナミキゴシカナリア
   nl: Zwartkeelkanarie

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 29026.0
 names:
   scientific: Copsychus leggei
-  fa: nan
+  fa: ''
   en: Sri Lanka Shama
   es: Shama de Sri Lanka
   fr: Shama de Ceylan
   de: Ceylonschama
-  pt: sri lanka shama
+  pt: ''
   ja: スリランカアカハラシキチョウ
   nl: Ceylonese shama
   pl: sroczek cejloński

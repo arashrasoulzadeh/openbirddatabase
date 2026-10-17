@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5934.0
 names:
   scientific: Anarhynchus montanus
-  fa: nan
+  fa: ''
   en: Mountain Plover
   es: Chorlito Llanero
   fr: Pluvier montagnard
   de: Bergregenpfeifer
-  pt: mountain plover
+  pt: ''
   ru: Горный зуёк
   ja: ミヤマチドリ
   nl: Prairieplevier

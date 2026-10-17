@@ -15,7 +15,7 @@ names:
   pt: venezuelan wood-quail
   ru: Венесуэльский зубцеклювый перепел
   ja: ベネゼエラウズラ
-  zh: Venezuelan Wood Quail
+  zh: ''
   nl: Venezolaanse tandkwartel
   pl: przepiór wenezuelski
   tr: Benekli Tokro

@@ -12,7 +12,7 @@ names:
   es: Loro de Isla Rodrigues
   fr: Perruche de Rodrigues
   de: Rodriguespapagei
-  pt: rodrigues parrot
+  pt: ''
   ru: Родригесов попугай
   ja: ロドリゲスインコ
   zh: 腐屍鸚鵡

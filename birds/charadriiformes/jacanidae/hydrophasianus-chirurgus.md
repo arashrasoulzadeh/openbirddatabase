@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5987.0
 names:
   scientific: Hydrophasianus chirurgus
-  fa: nan
+  fa: ''
   en: Pheasant-tailed Jacana
   es: Jacana Colilarga
   fr: Jacana à longue queue
   de: Fasanenblatthühnchen
-  pt: pheasant-tailed jacana
+  pt: ''
   ru: Фазанохвостая якана
   ja: レンカク
   zh: 水雉

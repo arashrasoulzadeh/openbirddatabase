@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16891.0
 names:
   scientific: Contopus ochraceus
-  fa: nan
+  fa: ''
   en: Ochraceous Pewee
   es: Pibí Ocráceo
   fr: Moucherolle ocré
   de: Ockergelb-Schnäppertyrann
-  pt: ochraceous pewee
+  pt: ''
   ru: Охристый пиви
   ja: ミヤマモリタイランチョウ
   nl: Okerkleurige piewie

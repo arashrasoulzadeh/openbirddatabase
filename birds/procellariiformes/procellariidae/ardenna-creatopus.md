@@ -12,7 +12,7 @@ names:
   es: Pardela Patirrosa
   fr: Puffin à pieds roses
   de: Rosafuß-Sturmtaucher
-  pt: pink-footed shearwater
+  pt: ''
   ru: Розовоногий буревестник
   ja: シロハラアカアシミズナギドリ
   nl: Chileense grote pijlstormvogel

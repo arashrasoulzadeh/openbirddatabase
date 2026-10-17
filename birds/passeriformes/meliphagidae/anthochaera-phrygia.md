@@ -12,7 +12,7 @@ names:
   es: Mielero Regente
   fr: Méliphage régent
   de: Warzenhonigfresser
-  pt: regent honeyeater
+  pt: ''
   ru: Желтокрылый серёжкоух
   ja: キガオミツスイ
   zh: 王吸蜜鳥

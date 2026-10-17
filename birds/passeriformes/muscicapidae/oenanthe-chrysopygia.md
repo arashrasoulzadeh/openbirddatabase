@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29880.0
 names:
   scientific: Oenanthe chrysopygia
-  fa: nan
+  fa: ''
   en: Red-tailed Wheatear
   es: Collalba Afgana
   fr: Traquet à queue rousse

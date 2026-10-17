@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29501.0
 names:
   scientific: Ficedula owstoni
-  fa: nan
+  fa: ''
   en: Ryukyu Flycatcher
   es: Papamoscas de las Ryukyu
   fr: Gobemouche des Ryu Kyu
   de: Ryūkyūschnäpper
-  pt: ryukyu flycatcher
+  pt: ''
   ja: リュウキュウキビタキ
   zh: 琉球姬鹟
   nl: Ryukyuvliegenvanger

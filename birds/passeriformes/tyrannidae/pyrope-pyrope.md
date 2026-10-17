@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17116.0
 names:
   scientific: Pyrope pyrope
-  fa: nan
+  fa: ''
   en: Fire-eyed Diucon
   es: Diucón
   fr: Pépoaza oeil-de-feu
   de: Feueraugen-Scheckentyrann
-  pt: fire-eyed diucon
+  pt: ''
   ru: Красноглазая монашка
   ja: アカメタイランチョウ
   nl: Vuuroogmonjita

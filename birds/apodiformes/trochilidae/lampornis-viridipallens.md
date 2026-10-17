@@ -15,7 +15,7 @@ names:
   pt: green-throated mountain-gem
   ru: Зеленогорлый солнечник
   ja: アオノドシロメジリハチドリ
-  zh: Green-throated Mountaingem
+  zh: ''
   nl: Groenkeeljuweelkolibrie
   pl: malachicik zielonogardły
   tr: Yeşil Gerdanlı Dağmücevheri

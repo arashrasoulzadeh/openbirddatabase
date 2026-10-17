@@ -12,7 +12,7 @@ names:
   es: Trogón Kasumba
   fr: Trogon à nuque rouge
   de: Rotnackentrogon
-  pt: red-naped trogon
+  pt: ''
   ru: Красношейный трогон
   ja: アカエリキヌバネドリ
   nl: Roodnektrogon

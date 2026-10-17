@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 2201.0
 names:
   scientific: Pampusana rubescens
-  fa: nan
+  fa: ''
   en: Marquesan Ground Dove
   es: Paloma Perdiz de las Marquesas
   fr: Gallicolombe des Marquises
   de: Marquesastaube
-  pt: marquesan ground dove
+  pt: ''
   ru: Маркизский куриный голубь
   ja: マルケサスバト
   nl: Markiezenpatrijsduif

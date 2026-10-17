@@ -12,7 +12,7 @@ names:
   es: Agachadiza del Himalaya
   fr: Bécassine des bois
   de: Nepalbekassine
-  pt: wood snipe
+  pt: ''
   ru: Гималайский дупель
   ja: モリジシギ
   zh: 林沙锥

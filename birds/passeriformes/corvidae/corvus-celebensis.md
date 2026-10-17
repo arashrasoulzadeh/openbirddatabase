@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 21534.0
 names:
   scientific: Corvus celebensis
-  fa: nan
+  fa: ''
   en: Sulawesi Crow
   es: Cuervo Tornasolado
   fr: Corneille de Rurukan
-  pt: sulawesi crow
+  pt: ''
   ja: スラウェシガラス
   nl: Zwarte Sulawesikraai
   pl: wrona fioletowawa

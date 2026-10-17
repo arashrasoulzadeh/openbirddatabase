@@ -15,7 +15,7 @@ names:
   pt: maria-preta-do-igapó
   ru: Чёрная вдовка
   ja: アマゾンクロタイランチョウ
-  zh: Amazonian Black Tyrant
+  zh: ''
   nl: Amazonemoortiran
   pl: wdowik amazoński
   tr: Amazon Esmer Tiranı

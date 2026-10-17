@@ -12,7 +12,7 @@ names:
   es: Chotacabras Carirrojo
   fr: Engoulevent à joues rousses
   de: Rostwangen-Nachtschwalbe
-  pt: rufous-cheeked nightjar
+  pt: ''
   ru: Рыжещёкий козодой
   ja: ホオアカヨタカ
   zh: 棕颊夜鹰

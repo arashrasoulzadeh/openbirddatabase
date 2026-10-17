@@ -12,7 +12,7 @@ names:
   es: Carpintero Peruano
   fr: Pic à cou noir
   de: Graustirnspecht
-  pt: black-necked woodpecker
+  pt: ''
   ru: Чернобородый дятел
   ja: ノドグロシマオゲラ
   nl: Zwartnekgrondspecht

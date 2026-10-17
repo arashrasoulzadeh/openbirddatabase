@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11289.0
 names:
   scientific: Dendropicos fuscescens
-  fa: nan
+  fa: ''
   en: Cardinal Woodpecker
   es: Pito Cardenal
   fr: Pic cardinal

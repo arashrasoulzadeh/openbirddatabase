@@ -15,7 +15,7 @@ names:
   pt: white-quilled bustard
   ru: Белокрылый корхан
   ja: ハジロクロエリショウノガン
-  zh: Northern Black Korhaan
+  zh: ''
   nl: Botswanatrap
   pl: dropik jasnoskrzydły
   tr: Namib Kara Toyu

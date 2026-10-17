@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 8724.0
 names:
   scientific: Otus tempestatis
-  fa: nan
+  fa: ''
   en: Wetar Scops Owl
   es: Autillo de Wetar
   fr: Petit-duc de Wetar
   de: Wetar-Zwergohreule
   pt: wetar scops-owl
-  zh: Wetar Scops Owl
+  zh: ''
   nl: Wetardwergooruil
   pl: syczek leśny
   tr: Vetar İshakkuşu

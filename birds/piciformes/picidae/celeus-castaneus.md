@@ -12,7 +12,7 @@ names:
   es: Carpintero Castaño
   fr: Pic roux
   de: Kastanienspecht
-  pt: chestnut-colored woodpecker
+  pt: ''
   ru: Каштановый дятел-гренадер
   ja: チャバネテンニョゲラ
   nl: Kastanjespecht

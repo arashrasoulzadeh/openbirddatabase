@@ -12,7 +12,7 @@ names:
   es: Silbador de Baliem
   fr: Siffleur de Balim
   de: Baliemdickkopf
-  pt: baliem whistler
+  pt: ''
   ru: Балимский свистун
   ja: バリエムモズヒタキ
   nl: Baliemfluiter

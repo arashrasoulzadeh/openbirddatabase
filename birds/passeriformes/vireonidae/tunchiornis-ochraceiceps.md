@@ -12,7 +12,7 @@ names:
   es: Verdillo Coronipardo
   fr: Viréon à calotte rousse
   de: Fuchsscheitelvireo
-  pt: ochre-crowned greenlet
+  pt: ''
   ru: Оранжеволобый южноамериканский виреон
   ja: キガシラヒメモズモドキ
   nl: Okerkruinvireo

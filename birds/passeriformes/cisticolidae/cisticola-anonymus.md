@@ -12,7 +12,7 @@ names:
   es: Cistícola Charlatán
   fr: Cisticole babillarde
   de: Waldzistensänger
-  pt: chattering cisticola
+  pt: ''
   ru: Лесная цистикола
   ja: サエズリセッカ
   nl: Bosgraszanger

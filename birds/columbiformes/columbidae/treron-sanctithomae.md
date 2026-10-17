@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2540.0
 names:
   scientific: Treron sanctithomae
-  fa: nan
+  fa: ''
   en: Sao Tome Green Pigeon
   es: Vinago de Santo Tomé
   fr: Colombar de Sao Tomé
@@ -15,7 +15,7 @@ names:
   pt: sao tome green-pigeon
   ru: Сантомейский зелёный голубь
   ja: サントメアオバト
-  zh: Sao Tome Green Pigeon
+  zh: ''
   nl: Sao-Tomépapegaaiduif
   pl: treron papugodzioby
   tr: Sao Tome Yeşil Güvercini

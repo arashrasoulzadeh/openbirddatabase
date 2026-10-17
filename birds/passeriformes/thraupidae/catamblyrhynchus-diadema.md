@@ -12,7 +12,7 @@ names:
   es: Tangara Peluda
   fr: Tête-de-peluche couronné
   de: Plüschkopftangare
-  pt: plushcap
+  pt: ''
   ru: Плюшевоголов
   ja: ズキンコウカンチョウ
   zh: 绒顶唐纳雀

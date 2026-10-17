@@ -12,7 +12,7 @@ names:
   es: Oropéndola de Isabela
   fr: Loriot d'Isabela
   de: Isabellpirol
-  pt: isabela oriole
+  pt: ''
   ru: Лусонская иволга
   ja: ヒメコウライウグイス
   zh: 伊莎贝拉黄鹂

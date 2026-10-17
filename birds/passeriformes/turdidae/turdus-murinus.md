@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28717.0
 names:
   scientific: Turdus murinus
-  fa: nan
+  fa: ''
   en: Pantepui Thrush
   es: Zorzal de Pantepui
   fr: Merle des tépuis

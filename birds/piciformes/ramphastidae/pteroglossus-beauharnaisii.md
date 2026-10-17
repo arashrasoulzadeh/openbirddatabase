@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10907.0
 names:
   scientific: Pteroglossus beauharnaisii
-  fa: nan
+  fa: ''
   en: Curl-crested Aracari
   es: Arasarí Crespo
   fr: Araçari de Beauharnais

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 15475.0
 names:
   scientific: Thripophaga amacurensis
-  fa: nan
+  fa: ''
   en: Delta Amacuro Softtail
   es: Colasuave del Amacuro
   fr: Synallaxe du Delta Amacuro
   de: Orinokocanastero
-  pt: delta amacuro softtail
+  pt: ''
   ru: Амакурская мягкохвостка
   ja: デルタアマクロマルオカマドドリ
   nl: Amacurocanastero

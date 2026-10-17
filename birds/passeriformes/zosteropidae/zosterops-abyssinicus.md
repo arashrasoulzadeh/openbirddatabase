@@ -12,7 +12,7 @@ names:
   es: Anteojitos Abisinio
   fr: Zostérops d'Abyssinie
   de: Somalibrillenvogel
-  pt: abyssinian white-eye
+  pt: ''
   ru: Эфиопская белоглазка
   ja: シロハラメジロ
   zh: 白胸繡眼

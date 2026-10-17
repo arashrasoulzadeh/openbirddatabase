@@ -15,7 +15,7 @@ names:
   pt: gray-breasted spurfowl
   ru: Серобрюхий франколин
   ja: タンザニアアカノドシャコ
-  zh: Grey-breasted Spurfowl
+  zh: ''
   nl: Grijshalsfrankolijn
   pl: szponiastonóg smugowany
   tr: Al Çizgili Turaç

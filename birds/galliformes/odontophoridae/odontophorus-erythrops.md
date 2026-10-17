@@ -15,7 +15,7 @@ names:
   pt: rufous-fronted wood-quail
   ru: Краснолобый зубцеклювый перепел
   ja: チャミミウズラ
-  zh: Rufous-fronted Wood Quail
+  zh: ''
   nl: Bruinmaskertandkwartel
   pl: przepiór obrożny
   tr: Ak Yakalı Tokro

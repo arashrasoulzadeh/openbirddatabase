@@ -12,7 +12,7 @@ names:
   es: Tejedor Alibarrado
   fr: Tisserin malimbe
   de: Miomboweber
-  pt: bar-winged weaver
+  pt: ''
   ru: Чернокрылый ткач
   ja: オビバネハタオリ
   nl: Miombowever

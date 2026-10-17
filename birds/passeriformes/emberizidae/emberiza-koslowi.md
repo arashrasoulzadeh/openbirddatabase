@@ -12,7 +12,7 @@ names:
   es: Escribano Tibetano
   fr: Bruant de Koslov
   de: Tibetammer
-  pt: tibetan bunting
+  pt: ''
   ru: Тибетская овсянка
   ja: クビワホオジロ
   zh: 藏鹀

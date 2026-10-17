@@ -12,7 +12,7 @@ names:
   es: Prionopo Frentirrufo
   fr: Bagadais à front roux
   de: Braunstirn-Brillenvanga
-  pt: chestnut-fronted helmetshrike
+  pt: ''
   ru: Краснолобый шлемоголов
   ja: クリビタイメガネモズ
   nl: Stekelkopklauwier

@@ -15,7 +15,7 @@ names:
   pt: deep-blue flowerpiercer
   ru: Синий цветокол
   ja: ムラサキハナサシミツドリ
-  zh: Golden-eyed Flowerpiercer
+  zh: ''
   nl: Goudoogberghoningkruiper
   pl: haczykodziobek jednobarwny
   tr: Koyu Mavi Çiçekdelen

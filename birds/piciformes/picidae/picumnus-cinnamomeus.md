@@ -12,7 +12,7 @@ names:
   es: Carpinterito Castaño
   fr: Picumne cannelle
   de: Zimtzwergspecht
-  pt: chestnut piculet
+  pt: ''
   ru: Каштановый дятелок
   ja: クリイロヒメキツツキ
   nl: Rosse dwergspecht

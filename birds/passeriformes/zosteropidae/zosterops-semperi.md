@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25864.0
 names:
   scientific: Zosterops semperi
-  fa: nan
+  fa: ''
   en: Citrine White-eye
   es: Anteojitos de las Carolinas
   fr: Zostérops de Semper
@@ -15,7 +15,7 @@ names:
   pt: caroline islands white-eye
   ru: Лимонная белоглазка
   ja: カロリンメジロ
-  zh: Citrine White-eye
+  zh: ''
   nl: Semperbrilvogel
   pl: szlarnik oliwkowy
   tr: Caroline Adası Gözlükçüsü

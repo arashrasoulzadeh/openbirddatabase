@@ -15,7 +15,7 @@ names:
   pt: alma-de-mestre-europeu
   ru: Прямохвостая качурка
   ja: ヒメウミツバメ
-  zh: European Storm Petrel
+  zh: ''
   nl: Stormvogeltje
   pl: nawałnik burzowy
   tr: Fırtınakırlangıcı

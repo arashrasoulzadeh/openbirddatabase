@@ -12,7 +12,7 @@ names:
   es: Cachudito Crestiblanco
   fr: Taurillon roitelet
   de: Streifenbauch-Tachurityrann
-  pt: pied-crested tit-tyrant
+  pt: ''
   ru: Рогатый гренадерчик
   ja: カンムリカラタイランチョウ
   nl: Gestreepte meestiran

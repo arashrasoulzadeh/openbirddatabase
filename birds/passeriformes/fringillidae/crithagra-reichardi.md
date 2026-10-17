@@ -12,7 +12,7 @@ names:
   es: Serín de Reichard
   fr: Serin de Reichard
   de: Miombogirlitz
-  pt: reichard's seedeater
+  pt: ''
   ru: Пестрогрудый канареечный вьюрок
   ja: ムナフホオグロカナリア
   nl: Miombokanarie

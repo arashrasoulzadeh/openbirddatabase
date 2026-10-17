@@ -15,7 +15,7 @@ names:
   pt: buru racquet-tail
   ru: Буруйский ракетохвост
   ja: スミレガシラウチワインコ
-  zh: Buru Racket-tail
+  zh: ''
   nl: Buruvlagstaartpapegaai
   pl: listkogonka fioletowa
   tr: Buru Raket Kuyruklu Papağanı

@@ -12,7 +12,7 @@ names:
   es: Chingolo Campestre
   fr: Bruant des champs
   de: Klapperammer
-  pt: field sparrow
+  pt: ''
   ru: Полевая малая овсянка
   ja: ヒメドリ
   zh: 原野雀鵐

@@ -12,7 +12,7 @@ names:
   es: Colibrí Gorjinegro
   fr: Colibri à gorge noire
   de: Schwarzkinnkolibri
-  pt: black-chinned hummingbird
+  pt: ''
   ru: Александров колибри
   ja: ノドグロハチドリ
   zh: 黑颏北蜂鸟

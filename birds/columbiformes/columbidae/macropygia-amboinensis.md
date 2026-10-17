@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco Pechirrosa
   fr: Phasianelle d'Ambon
   de: Kuckuckstaube
-  pt: amboyna cuckoo-dove
+  pt: ''
   ru: Амбонская кукушковая горлица
   ja: バラムネオナガバト
   nl: Tortelkoekoeksduif

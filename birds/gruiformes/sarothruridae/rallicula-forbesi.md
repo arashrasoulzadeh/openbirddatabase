@@ -12,7 +12,7 @@ names:
   es: Polluela de Forbes
   fr: Râle de Forbes
   de: Nymphenralle
-  pt: forbes's forest rail
+  pt: ''
   ru: Горный пастушок
   ja: セグロパプアクイナ
   nl: Forbeskaneelral

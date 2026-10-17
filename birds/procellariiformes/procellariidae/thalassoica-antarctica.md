@@ -12,7 +12,7 @@ names:
   es: Petrel Antártico
   fr: Pétrel antarctique
   de: Antarktissturmvogel
-  pt: antarctic petrel
+  pt: ''
   ru: Антарктический буревестник
   ja: ナンキョクフルマカモメ
   zh: 南极鹱

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31065.0
 names:
   scientific: Euodice malabarica
-  fa: nan
+  fa: ''
   en: Indian Silverbill
   es: Capuchino Picoplata Indio
   fr: Capucin bec-de-plomb

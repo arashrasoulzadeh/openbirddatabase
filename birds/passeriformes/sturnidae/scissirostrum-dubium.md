@@ -15,7 +15,7 @@ names:
   pt: finch-billed myna
   ru: Дубоносовый скворец
   ja: シュウダンムクドリ
-  zh: Grosbeak Starling
+  zh: ''
   nl: Roodstuitspreeuw
   pl: szpakownik
   tr: Kocabaş Çiğdecisi

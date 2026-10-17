@@ -12,7 +12,7 @@ names:
   es: Ibis Malgache
   fr: Ibis malgache
   de: Hellaugenibis
-  pt: malagasy sacred ibis
+  pt: ''
   ru: Мадагаскарский ибис
   ja: マダガスカルクロトキ
   zh: 马岛圣鹮

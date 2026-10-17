@@ -15,7 +15,7 @@ names:
   pt: rapa fruit-dove
   ru: Рапский фруктовый голубь
   ja: ラパヒメアオバト
-  zh: Rapa Fruit Dove
+  zh: ''
   nl: Rapajufferduif
   pl: owocożer różowobrzuchy
   tr: Rapa Meyve Kumrusu

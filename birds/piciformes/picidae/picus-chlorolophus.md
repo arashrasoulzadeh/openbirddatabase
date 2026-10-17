@@ -12,7 +12,7 @@ names:
   es: Pito Crestigualdo
   fr: Pic à huppe jaune
   de: Gelbhaubenspecht
-  pt: lesser yellownape
+  pt: ''
   ru: Малый желтохохлый дятел
   ja: ヒメアオゲラ
   zh: 黄冠啄木鸟

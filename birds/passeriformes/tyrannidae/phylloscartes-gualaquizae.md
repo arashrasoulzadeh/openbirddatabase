@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16278.0
 names:
   scientific: Phylloscartes gualaquizae
-  fa: nan
+  fa: ''
   en: Ecuadorian Tyrannulet
   es: Orejerito Ecuatoriano
   fr: Tyranneau d'Équateur
   de: Graukronen-Laubtyrann
-  pt: ecuadorian tyrannulet
+  pt: ''
   ru: Эквадорский каричи
   ja: エクアドルヒゲハエトリ
   nl: Ecuadoraanse looftiran

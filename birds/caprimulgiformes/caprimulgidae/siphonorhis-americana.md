@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 3578.0
 names:
   scientific: Siphonorhis americana
-  fa: nan
+  fa: ''
   en: Jamaican Poorwill
   es: Chotacabras Jamaicano
   fr: Engoulevent de Jamaïque
@@ -15,7 +15,7 @@ names:
   pt: jamaican pauraque
   ru: Ямайский козодой
   ja: ジャマイカコヨタカ
-  zh: Jamaican Poorwill
+  zh: ''
   nl: Jamaicaanse nachtzwaluw
   pl: lelkowiec jamajski
   tr: Jamaika Porağı

@@ -15,7 +15,7 @@ names:
   pt: sandy scops-owl
   ru: Желтоклювая сплюшка
   ja: アカヒメコノハズク
-  zh: Sandy Scops Owl
+  zh: ''
   nl: Zandbruine dwergooruil
   pl: syczek cynamonowy
   tr: Sarı Gagalı İshakkuşu

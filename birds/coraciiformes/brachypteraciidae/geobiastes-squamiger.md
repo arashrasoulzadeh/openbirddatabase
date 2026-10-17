@@ -15,7 +15,7 @@ names:
   pt: scaly ground-roller
   ru: Чешуйчатая земляная ракша
   ja: ウロコジブッポウソウ
-  zh: Scaly Ground Roller
+  zh: ''
   nl: Geschubde grondscharrelaar
   pl: ziemnokraska łuskowana
   tr: Pullu Yerkuzgunu

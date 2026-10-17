@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7581.0
 names:
   scientific: Botaurus sturmii
-  fa: nan
+  fa: ''
   en: Dwarf Bittern
   es: Avetorillo Plomizo
   fr: Blongios de Sturm

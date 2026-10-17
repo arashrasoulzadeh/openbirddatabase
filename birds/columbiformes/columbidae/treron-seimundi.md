@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2541.0
 names:
   scientific: Treron seimundi
-  fa: nan
+  fa: ''
   en: Yellow-vented Green Pigeon
   es: Vinago Culigualdo
   fr: Colombar de Seimund

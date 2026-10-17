@@ -12,7 +12,7 @@ names:
   es: Inca de Bogotá
   fr: Inca de Bonaparte
   de: Goldbauchkolibri
-  pt: golden-bellied starfrontlet
+  pt: ''
   ru: Золотобрюхий инка
   ja: キンバラインカハチドリ
   zh: 金腹星额蜂鸟

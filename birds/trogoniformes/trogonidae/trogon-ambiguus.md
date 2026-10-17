@@ -12,7 +12,7 @@ names:
   es: Trogón Ambiguo
   fr: Trogon à queue cuivrée
   de: Kupfertrogon
-  pt: coppery-tailed trogon
+  pt: ''
   nl: Koperstaarttrogon
   pl: trogon miedzianosterny
   tr: Kuzeyli Zarif Trogon

@@ -15,7 +15,7 @@ names:
   pt: gray apalis
   ru: Двухцветный апалис
   ja: ハイガシライロムシクイ
-  zh: Grey Apalis
+  zh: ''
   nl: Grijze apalis
   pl: nikornik szary
   tr: Gri Apalis

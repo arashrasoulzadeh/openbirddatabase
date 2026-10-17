@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14492.0
 names:
   scientific: Formicarius nigricapillus
-  fa: nan
+  fa: ''
   en: Black-headed Antthrush
   es: Formicario Cabecinegro
   fr: Tétéma à tête noire

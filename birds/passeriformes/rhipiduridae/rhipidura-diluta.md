@@ -12,7 +12,7 @@ names:
   es: Abanico Cabecipardo
   fr: Rhipidure à calotte brune
   de: Sundafächerschwanz
-  pt: brown-capped fantail
+  pt: ''
   ru: Буроватая веерохвостка
   ja: チャボウシオウギビタキ
   nl: Floreswaaierstaart

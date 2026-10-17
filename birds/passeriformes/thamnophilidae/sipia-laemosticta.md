@@ -12,7 +12,7 @@ names:
   es: Hormiguero Guardarribera Occidental
   fr: Alapi tabac
   de: Grauscheitel-Ameisenvogel
-  pt: dull-mantled antbird
+  pt: ''
   ru: Темноспинная муравьеловка
   ja: メスボシアリドリ
   nl: Grijskruinmiervogel

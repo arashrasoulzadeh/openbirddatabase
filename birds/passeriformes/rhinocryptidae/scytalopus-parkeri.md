@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14462.0
 names:
   scientific: Scytalopus parkeri
-  fa: nan
+  fa: ''
   en: Chusquea Tapaculo
   es: Churrín del Bambú
   fr: Mérulaxe de Parker
   de: Bambustapaculo
-  pt: chusquea tapaculo
+  pt: ''
   ru: Бамбуковый тапакуло
   ja: エクアドルミヤマオタテドリ
   nl: Parkertapaculo

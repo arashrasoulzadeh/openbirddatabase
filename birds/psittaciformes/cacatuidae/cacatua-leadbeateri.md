@@ -12,7 +12,7 @@ names:
   es: Cacatú Abanderada
   fr: Cacatoès de Leadbeater
   de: Inkakakadu
-  pt: pink cockatoo
+  pt: ''
   ru: Какаду инка
   ja: クルマサカオウム
   zh: 米切氏凤头鹦鹉

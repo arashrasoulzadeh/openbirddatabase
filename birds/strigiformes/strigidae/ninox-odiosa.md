@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9398.0
 names:
   scientific: Ninox odiosa
-  fa: nan
+  fa: ''
   en: New Britain Boobook
   es: Nínox de Nueva Bretaña
   fr: Ninoxe odieuse
   de: Neubritannienkauz
-  pt: new britain boobook
+  pt: ''
   ru: Новобританская иглоногая сова
   ja: ニューブリテンアオバズク
   nl: Nieuw-Brittanniëvalkuil

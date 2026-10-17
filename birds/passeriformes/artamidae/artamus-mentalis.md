@@ -12,7 +12,7 @@ names:
   es: Artamo de las Fiyi
   fr: Langrayen des Fidji
   de: Fidschischwalbenstar
-  pt: fiji woodswallow
+  pt: ''
   ru: Фиджийский артам
   ja: フィジーモリツバメ
   zh: 斐濟燕鵙

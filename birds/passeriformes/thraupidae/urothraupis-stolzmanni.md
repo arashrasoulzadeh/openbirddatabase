@@ -12,7 +12,7 @@ names:
   es: Tangara de Stolzmann
   fr: Urotangara de Stolzmann
   de: Weißkehltangare
-  pt: black-backed bush tanager
+  pt: ''
   ru: Черноспинный монтеро
   ja: セグロシトド
   zh: 黑背丛雀

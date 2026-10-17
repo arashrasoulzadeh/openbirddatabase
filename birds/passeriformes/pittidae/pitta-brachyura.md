@@ -12,7 +12,7 @@ names:
   es: Pita India
   fr: Brève du Bengale
   de: Bengalenpitta
-  pt: indian pitta
+  pt: ''
   ru: Индийская питта
   ja: インドヤイロチョウ
   zh: 印度八色鸫

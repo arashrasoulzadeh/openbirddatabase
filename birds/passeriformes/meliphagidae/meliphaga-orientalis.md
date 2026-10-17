@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17765.0
 names:
   scientific: Meliphaga orientalis
-  fa: nan
+  fa: ''
   en: Mountain Honeyeater
   es: Mielero Montesino
   fr: Méliphage montagnard
   de: Schlankschnabel-Honigfresser
-  pt: mountain honeyeater
+  pt: ''
   ru: Тонкоклювый медосос
   ja: コムナボシキミミミツスイ
   nl: Kleine berghoningeter

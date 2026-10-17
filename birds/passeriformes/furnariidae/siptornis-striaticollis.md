@@ -12,7 +12,7 @@ names:
   es: Curutié Frontino
   fr: Pseudosittine à collier
   de: Brillenschlüpfer
-  pt: spectacled prickletail
+  pt: ''
   ru: Курутье
   ja: シズカカマドドリ
   nl: Brilstekelstaart

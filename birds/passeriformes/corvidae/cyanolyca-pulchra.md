@@ -12,7 +12,7 @@ names:
   es: Chara Hermosa
   fr: Geai superbe
   de: Schmuckhäher
-  pt: beautiful jay
+  pt: ''
   ru: Красивая сойка
   ja: シロガシラアオカケス
   zh: 丽蓝头鹊

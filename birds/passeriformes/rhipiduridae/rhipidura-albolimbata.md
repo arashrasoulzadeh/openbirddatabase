@@ -12,7 +12,7 @@ names:
   es: Abanico Amistoso
   fr: Rhipidure familier
   de: Hochland-Fächerschwanz
-  pt: friendly fantail
+  pt: ''
   ru: Серобрюхая веерохвостка
   ja: ミヤマオウギビタキ
   nl: Grijsbuikwaaierstaart

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10103.0
 names:
   scientific: Halcyon albiventris
-  fa: nan
+  fa: ''
   en: Brown-hooded Kingfisher
   es: Alción Cabecipardo
   fr: Martin-chasseur à tête brune
   de: Braunkopfliest
-  pt: brown-hooded kingfisher
+  pt: ''
   ru: Светлобрюхий зимородок
   ja: チャガシラショウビン
   nl: Bruinkapijsvogel

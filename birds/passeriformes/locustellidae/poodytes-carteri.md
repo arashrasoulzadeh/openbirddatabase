@@ -12,7 +12,7 @@ names:
   es: Yerbera del Spinifex
   fr: Mégalure du spinifex
   de: Spinifex-Schilfsänger
-  pt: spinifexbird
+  pt: ''
   ru: Пустынная котата
   ja: マルオセッカ
   zh: 刺莺

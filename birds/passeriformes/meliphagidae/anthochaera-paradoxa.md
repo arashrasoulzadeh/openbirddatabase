@@ -12,7 +12,7 @@ names:
   es: Mielero Ventriamarillo
   fr: Méliphage à pendeloques
   de: Gelblappen-Honigfresser
-  pt: yellow wattlebird
+  pt: ''
   ru: Желтолопастный серёжкоух
   ja: キミミダレミツスイ
   nl: Geellelhoningeter

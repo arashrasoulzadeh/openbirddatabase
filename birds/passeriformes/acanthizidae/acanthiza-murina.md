@@ -15,7 +15,7 @@ names:
   pt: papuan thornbill
   ru: Новогвинейская шипоклювка
   ja: パプアトゲハシムシクイ
-  zh: New Guinea Thornbill
+  zh: ''
   nl: Papoeadoornsnavel
   pl: buszówka mysia
   tr: Papua Dikengagası

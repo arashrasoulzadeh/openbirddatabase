@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 20200.0
 names:
   scientific: Malaconotus monteiri
-  fa: nan
+  fa: ''
   en: Monteiro's Bushshrike
   es: Gladiador de Monteiro
   fr: Gladiateur de Monteiro
   de: Monteirowürger
-  pt: monteiro's bushshrike
+  pt: ''
   ru: Белолицый гладиатор
   ja: アンゴラクロオビヤブモズ
   nl: Brilklauwier

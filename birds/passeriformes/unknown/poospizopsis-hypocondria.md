@@ -12,7 +12,7 @@ names:
   es: Monterita Pechigrís
   fr: Tangara à gilet
   de: Rotflanken-Finkentangare
-  pt: rufous-sided warbling finch
+  pt: ''
   ru: Рыжебокая монтерита
   ja: ワキアカマユシトド
   nl: Roodflankboomgors

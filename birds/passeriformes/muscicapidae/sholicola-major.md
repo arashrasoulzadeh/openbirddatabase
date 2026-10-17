@@ -15,7 +15,7 @@ names:
   pt: nilgiri sholakili
   ru: Рыжебрюхий шолакили
   ja: ハイイロコバネヒタキ
-  zh: Nilgiri Blue Robin
+  zh: ''
   nl: Nilgirikortvleugel
   pl: runniczek rdzawoboczny
   tr: Nilgiri Çivit Bülbülü

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2198.0
 names:
   scientific: Pampusana jobiensis
-  fa: nan
+  fa: ''
   en: White-breasted Ground Dove
   es: Paloma Perdiz Pechiblanca
   fr: Gallicolombe de Jobi
@@ -15,7 +15,7 @@ names:
   pt: white-bibbed ground dove
   ru: Белогрудый куриный голубь
   ja: パプアマミムナジロバト
-  zh: White-breasted Ground Dove
+  zh: ''
   nl: Witborstpatrijsduif
   pl: wyspiarek białobrewy
   tr: Jobi Yer Kumrusu

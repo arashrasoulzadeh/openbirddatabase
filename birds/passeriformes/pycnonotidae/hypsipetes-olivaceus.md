@@ -12,7 +12,7 @@ names:
   es: Bulbul de Mauricio
   fr: Bulbul de Maurice
   de: Mauritius-Rotschnabelbülbül
-  pt: mauritius bulbul
+  pt: ''
   ru: Маврикийский бюльбюль
   ja: モーリシャスクロヒヨドリ
   zh: 毛里求斯短脚鹎

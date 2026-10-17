@@ -15,7 +15,7 @@ names:
   pt: square-tailed sawwing
   ru: Блестящая ласточка
   ja: カクビクロツバメ
-  zh: Square-tailed Saw-wing
+  zh: ''
   nl: Junglekamzwaluw
   pl: żałobniczka równosterna
   tr: Küt Kuyruklu Kırlangıç

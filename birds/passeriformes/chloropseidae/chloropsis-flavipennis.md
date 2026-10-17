@@ -12,7 +12,7 @@ names:
   es: Verdín Filipino
   fr: Verdin à ailes jaunes
   de: Philippinenblattvogel
-  pt: philippine leafbird
+  pt: ''
   ru: Филиппинская листовка
   ja: ミンダナオコノハドリ
   nl: Geelvleugelbladvogel

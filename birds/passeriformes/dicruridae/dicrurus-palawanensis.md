@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20497.0
 names:
   scientific: Dicrurus palawanensis
-  fa: nan
+  fa: ''
   en: Palawan Drongo
   es: Drongo de Palawan
   fr: Drongo de Palawan
   de: Palawandrongo
-  pt: palawan drongo
+  pt: ''
   ru: Палаванский дронго
   zh: 巴拉望卷尾
   nl: Palawandrongo

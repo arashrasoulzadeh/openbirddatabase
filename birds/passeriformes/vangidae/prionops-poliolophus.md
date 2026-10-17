@@ -15,7 +15,7 @@ names:
   pt: gray-crested helmetshrike
   ru: Серохохлый шлемоголов
   ja: ハイガシラメガネモズ
-  zh: Grey-crested Helmetshrike
+  zh: ''
   nl: Grijskuifklauwier
   pl: czołoczub duży
   tr: Gri Sorguçlu Vanga

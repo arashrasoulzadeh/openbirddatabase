@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16410.0
 names:
   scientific: Poecilotriccus sylvia
-  fa: nan
+  fa: ''
   en: Slaty-headed Tody-Flycatcher
   es: Titirijí Gris
   fr: Todirostre de Desmarest
@@ -15,7 +15,7 @@ names:
   pt: ferreirinho-da-capoeira
   ru: Серогорлый тоди-мухолов
   ja: ハイイロハシナガタイランチョウ
-  zh: Slaty-headed Tody-Flycatcher
+  zh: ''
   nl: Grijskeelschoffelsnavel
   pl: barwniczek siwogłowy
   tr: Gri Başlı Todi Sinekkapanı

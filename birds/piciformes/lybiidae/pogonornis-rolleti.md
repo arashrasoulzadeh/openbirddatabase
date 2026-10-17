@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10682.0
 names:
   scientific: Pogonornis rolleti
-  fa: nan
+  fa: ''
   en: Black-breasted Barbet
   es: Barbudo Pechinegro
   fr: Barbican à poitrine noire
   de: Schwarzbrust-Bartvogel
-  pt: black-breasted barbet
+  pt: ''
   ru: Черногрудый зубцеклюв
   ja: オオハバシゴシキドリ
   nl: Zwartborstbaardvogel

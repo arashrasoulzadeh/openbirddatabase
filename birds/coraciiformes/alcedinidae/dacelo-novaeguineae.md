@@ -12,7 +12,7 @@ names:
   es: Cucaburra Común
   fr: Martin-chasseur géant
   de: Jägerliest
-  pt: laughing kookaburra
+  pt: ''
   ru: Смеющаяся кукабара
   ja: ワライカワセミ
   zh: 笑翠鳥

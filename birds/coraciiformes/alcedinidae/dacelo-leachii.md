@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10031.0
 names:
   scientific: Dacelo leachii
-  fa: nan
+  fa: ''
   en: Blue-winged Kookaburra
   es: Cucaburra Aliazul
   fr: Martin-chasseur à ailes bleues
   de: Blauflügelliest
-  pt: blue-winged kookaburra
+  pt: ''
   ru: Синекрылая кукабара
   ja: アオバネワライカワセミ
   zh: 藍翅笑翠鳥

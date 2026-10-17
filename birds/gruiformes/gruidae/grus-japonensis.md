@@ -12,7 +12,7 @@ names:
   es: Grulla Manchú
   fr: Grue du Japon
   de: Mandschurenkranich
-  pt: red-crowned crane
+  pt: ''
   ru: Японский журавль
   ja: タンチョウ
   zh: 丹顶鹤

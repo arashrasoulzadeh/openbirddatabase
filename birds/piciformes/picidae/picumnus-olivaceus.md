@@ -12,7 +12,7 @@ names:
   es: Carpinterito Oliváceo
   fr: Picumne olivâtre
   de: Olivrücken-Zwergspecht
-  pt: olivaceous piculet
+  pt: ''
   ru: Оливковый дятелок
   ja: オリーブヒメキツツキ
   nl: Groenrugdwergspecht

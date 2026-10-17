@@ -12,7 +12,7 @@ names:
   es: Bubú Oliváceo
   fr: Gonolek olive
   de: Olivwürger
-  pt: olive bushshrike
+  pt: ''
   ru: Оливковый гладиатор
   ja: オリーブミドリヤブモズ
   nl: Olijfgroene bosklauwier

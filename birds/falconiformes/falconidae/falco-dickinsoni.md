@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12050.0
 names:
   scientific: Falco dickinsoni
-  fa: nan
+  fa: ''
   en: Dickinson's Kestrel
   es: Cernícalo Dorsinegro
   fr: Faucon de Dickinson
   de: Schwarzrückenfalke
-  pt: dickinson's kestrel
+  pt: ''
   ru: Темноспинная пустельга
   ja: ハイガシラチョウゲンボウ
   nl: Dickinsontorenvalk

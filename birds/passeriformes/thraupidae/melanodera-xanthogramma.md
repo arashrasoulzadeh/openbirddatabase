@@ -12,7 +12,7 @@ names:
   es: Yal Cejiamarillo
   fr: Mélanodère à sourcils jaunes
   de: Gelbbart-Ammertangare
-  pt: yellow-bridled finch
+  pt: ''
   ru: Уздечковый овсяночник
   ja: ミドリノドグロシトド
   zh: 黄纹雀鹀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10588.0
 names:
   scientific: Pogoniulus leucomystax
-  fa: nan
+  fa: ''
   en: Moustached Tinkerbird
   es: Barbudito Bigotudo
   fr: Barbion à moustaches
   de: Bergbartvogel
-  pt: moustached tinkerbird
+  pt: ''
   ru: Белоусый медник
   ja: シロヒゲヒメゴシキドリ
   nl: Witsnorketellapper

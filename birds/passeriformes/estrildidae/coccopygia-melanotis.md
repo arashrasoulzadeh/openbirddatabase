@@ -12,7 +12,7 @@ names:
   es: Estrilda Ventrigualda Meridional
   fr: Astrild à joues noires
   de: Kapgrünastrild
-  pt: swee waxbill
+  pt: ''
   ru: Черногорлый астрильд
   ja: キバラカエデチョウ
   zh: 黑颊黄腹梅花雀

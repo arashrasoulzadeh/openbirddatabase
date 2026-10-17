@@ -12,7 +12,7 @@ names:
   es: Alción Montano
   fr: Martin-chasseur montagnard
   de: Bergliest
-  pt: mountain kingfisher
+  pt: ''
   ru: Горная альциона
   ja: ヤマキバシショウビン
   nl: Berggeelsnavelijsvogel

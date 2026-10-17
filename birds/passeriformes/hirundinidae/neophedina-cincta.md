@@ -12,7 +12,7 @@ names:
   es: Avión Cinchado
   fr: Hirondelle à collier
   de: Weißbrauen-Uferschwalbe
-  pt: banded martin
+  pt: ''
   ru: Белобровая береговушка
   ja: マユジロショウドウツバメ
   nl: Witbrauwzwaluw

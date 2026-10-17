@@ -12,7 +12,7 @@ names:
   es: Ibis Crestado
   fr: Ibis huppé
   de: Schopfibis
-  pt: madagascar ibis
+  pt: ''
   ru: Хохлатый ибис
   ja: マダガスカルトキ
   zh: 鳳頭林䴉

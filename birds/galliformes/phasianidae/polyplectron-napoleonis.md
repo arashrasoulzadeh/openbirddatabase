@@ -12,7 +12,7 @@ names:
   es: Espolonero de Palawan
   fr: Éperonnier napoléon
   de: Palawanpfaufasan
-  pt: palawan peacock-pheasant
+  pt: ''
   ru: Палаванский павлиний фазан
   ja: パラワンコクジャク
   zh: 巴拉旺孔雀

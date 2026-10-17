@@ -12,7 +12,7 @@ names:
   es: Coqueta Adorable
   fr: Coquette adorable
   de: Weißschopfelfe
-  pt: white-crested coquette
+  pt: ''
   ru: Белохохлая кокетка
   ja: シロツノユウジョハチドリ
   zh: 白冠蜂鸟

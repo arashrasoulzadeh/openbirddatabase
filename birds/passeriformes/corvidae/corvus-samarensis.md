@@ -12,7 +12,7 @@ names:
   es: Cuervo de Sámar
   fr: Corneille de Samar
   de: Samarkrähe
-  pt: samar crow
+  pt: ''
   ja: サマールガラス
   nl: Zuid-Filipijnse kraai
   pl: wrona samarska

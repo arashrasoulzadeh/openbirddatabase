@@ -12,7 +12,7 @@ names:
   es: Drepanis de Munro
   fr: Psittirostre de Munro
   de: Lanaikleidervogel
-  pt: lanai hookbill
+  pt: ''
   ru: Ланайская крючкоклювка
   ja: ラナイマシコ
   nl: Kruisbekvink

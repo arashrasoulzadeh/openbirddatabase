@@ -12,7 +12,7 @@ names:
   es: Vireón Esmeralda
   fr: Smaragdan émeraude
   de: Smaragdvireo
-  pt: green shrike-vireo
+  pt: ''
   ru: Зелёный сорокопутовый виреон
   ja: ミドリモズ
   nl: Groene klauwiervireo

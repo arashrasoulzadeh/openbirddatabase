@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3161.0
 names:
   scientific: Rhinortha chlorophaea
-  fa: nan
+  fa: ''
   en: Raffles's Malkoha
   es: Malcoha de Raffles
   fr: Malcoha de Raffles
   de: Raffleskuckuck
-  pt: raffles's malkoha
+  pt: ''
   ru: Рыжая малкоа
   ja: クリイロバンケンモドキ
   zh: 棕胸地鵑

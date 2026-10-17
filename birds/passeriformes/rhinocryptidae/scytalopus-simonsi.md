@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14413.0
 names:
   scientific: Scytalopus simonsi
-  fa: nan
+  fa: ''
   en: Puna Tapaculo
   es: Churrín de la Puna
   fr: Mérulaxe de Simons
   de: Punatapaculo
-  pt: puna tapaculo
+  pt: ''
   ru: Полилеписный тапакуло
   ja: アンデスオタテドリ
   nl: Punatapaculo

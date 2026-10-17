@@ -12,7 +12,7 @@ names:
   es: Gaviota de Saunders
   fr: Mouette de Saunders
   de: Saundersmöwe
-  pt: saunders's gull
+  pt: ''
   ru: Китайская чайка
   ja: ズグロカモメ
   zh: 黑嘴鸥

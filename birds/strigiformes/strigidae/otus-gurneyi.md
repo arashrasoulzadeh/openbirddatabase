@@ -15,7 +15,7 @@ names:
   pt: giant scops-owl
   ru: Гигантская совка
   ja: オニコノハズク
-  zh: Giant Scops Owl
+  zh: ''
   nl: Grote dwergooruil
   pl: syczek wielki
   tr: Gurney İshakkuşu

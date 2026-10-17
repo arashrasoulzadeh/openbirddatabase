@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 3930.0
 names:
   scientific: Hydrochous gigas
-  fa: nan
+  fa: ''
   en: Giant Swiftlet
   es: Salangana Gigante
   fr: Salangane géante
@@ -15,7 +15,7 @@ names:
   pt: waterfall swift
   ru: Гигантская салангана
   ja: オニアナツバメ
-  zh: Giant Swiftlet
+  zh: ''
   nl: Reuzensalangaan
   pl: salangana wielka
   tr: Büyük Yelyutan

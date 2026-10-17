@@ -12,7 +12,7 @@ names:
   es: Mirlo del Himalaya
   fr: Merle de l'Himalaya
   de: Tibetamsel
-  pt: tibetan blackbird
+  pt: ''
   ru: Тибетский чёрный дрозд
   ja: チベットクロウタドリ
   zh: 藏乌鸫

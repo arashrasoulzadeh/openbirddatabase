@@ -15,7 +15,7 @@ names:
   pt: marble-faced bristle-tyrant
   ru: Черноухий тираннчик
   ja: ミミグロヒゲハエトリ
-  zh: Marble-faced Bristle Tyrant
+  zh: ''
   nl: Zwartoorlooftiran
   pl: tyranczyk łuskolicy
   tr: Mermer Desenli Yaprak Tiranı

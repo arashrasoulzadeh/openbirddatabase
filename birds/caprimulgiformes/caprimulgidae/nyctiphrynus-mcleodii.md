@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3580.0
 names:
   scientific: Nyctiphrynus mcleodii
-  fa: nan
+  fa: ''
   en: Eared Poorwill
   es: Chotacabras Prío
   fr: Engoulevent aztèque
   de: Ohrennachtschwalbe
-  pt: eared poorwill
+  pt: ''
   ru: Ушастый козодой
   ja: メキシコミミヨタカ
   zh: 耳夜鹰

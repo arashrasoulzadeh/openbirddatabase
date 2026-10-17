@@ -12,7 +12,7 @@ names:
   es: Herrerillo Bicolor
   fr: Mésange bicolore
   de: Grauhäubchenmeise
-  pt: tufted titmouse
+  pt: ''
   ru: Американская гренадерка
   ja: エボシガラ
   zh: 簇山雀

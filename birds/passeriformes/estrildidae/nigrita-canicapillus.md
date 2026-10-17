@@ -15,7 +15,7 @@ names:
   pt: gray-headed nigrita
   ru: Сероспинная нигрита
   ja: シロボウシクロキンパラ
-  zh: Grey-headed Nigrita
+  zh: ''
   nl: Grijskopnigrita
   pl: nigrita czarnoczelna
   tr: Kara Alınlı Nigrita

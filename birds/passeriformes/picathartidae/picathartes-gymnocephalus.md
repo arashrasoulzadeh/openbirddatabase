@@ -12,7 +12,7 @@ names:
   es: Picatartes Cuelliblanco
   fr: Picatharte de Guinée
   de: Gelbkopf-Felsenhüpfer
-  pt: white-necked rockfowl
+  pt: ''
   ru: Желтолицая лысая сорока
   ja: ハゲチメドリ
   zh: 白頸岩鶥

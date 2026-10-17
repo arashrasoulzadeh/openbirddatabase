@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35465.0
 names:
   scientific: Sicalis luteocephala
-  fa: nan
+  fa: ''
   en: Citron-headed Yellow Finch
   es: Chirigüe Cabecigualdo
   fr: Sicale à tête jaune
@@ -15,7 +15,7 @@ names:
   pt: citron-headed yellow-finch
   ru: Желтоголовый зерноед
   ja: キガオキンノジコ
-  zh: Citron-headed Yellow Finch
+  zh: ''
   nl: Grijsneksaffraangors
   pl: szafranka żółtogłowa
   tr: Limoni Başlı Kanarya İspinozu

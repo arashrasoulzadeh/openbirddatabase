@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 31958.0
 names:
   scientific: Fringilla moreletti
-  fa: nan
+  fa: ''
   en: Azores Chaffinch
   es: Pinzón de Azores
   fr: Pinson des Açores

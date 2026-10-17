@@ -12,7 +12,7 @@ names:
   es: Ganga Tibetana
   fr: Syrrhapte du Tibet
   de: Tibetflughuhn
-  pt: tibetan sandgrouse
+  pt: ''
   ru: Тибетская саджа
   ja: チベットサケイ
   zh: 西藏毛腿沙鸡

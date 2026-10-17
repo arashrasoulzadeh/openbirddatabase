@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22193.0
 names:
   scientific: Parus cinereus
-  fa: nan
+  fa: ''
   en: Cinereous Tit
   es: Carbonero Oriental
   fr: Mésange d'Asie

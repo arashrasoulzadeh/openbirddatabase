@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5160.0
 names:
   scientific: Chrysuronia brevirostris
-  fa: nan
+  fa: ''
   en: White-chested Emerald
   es: Amazilia Pechiblanca
   fr: Ariane à poitrine blanche

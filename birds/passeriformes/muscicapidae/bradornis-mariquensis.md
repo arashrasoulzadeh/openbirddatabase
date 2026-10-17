@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28848.0
 names:
   scientific: Bradornis mariquensis
-  fa: nan
+  fa: ''
   en: Marico Flycatcher
   es: Papamoscas del Marico
   fr: Gobemouche du Marico
   de: Maricoschnäpper
-  pt: marico flycatcher
+  pt: ''
   ru: Калахарская мухоловка
   ja: シロハラチャビタキ
   nl: Maricovliegenvanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19850.0
 names:
   scientific: Platysteira concreta
-  fa: nan
+  fa: ''
   en: Yellow-bellied Wattle-eye
   es: Batis Carunculado Ventrigualdo
   fr: Pririt à ventre doré
   de: Orangebauch-Lappenschnäpper
-  pt: yellow-bellied wattle-eye
+  pt: ''
   ru: Желтобрюхая серёжкоглазка
   ja: キバラメガネヒタキ
   nl: Geelbuiklelvliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Martín Pigmeo Malgache
   fr: Martin-pêcheur malgache
   de: Madagaskarzwergfischer
-  pt: madagascar pygmy kingfisher
+  pt: ''
   ru: Мадагаскарский зимородок
   ja: マダガスカルヒメショウビン
   zh: 马达加斯加科里翠鸟

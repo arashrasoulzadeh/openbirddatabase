@@ -12,7 +12,7 @@ names:
   es: Albatros de Buller
   fr: Albatros de Buller
   de: Bulleralbatros
-  pt: buller's albatross
+  pt: ''
   ru: Буллеров альбатрос
   ja: ニュージーランドアホウドリ
   zh: 布勒信天翁

@@ -12,7 +12,7 @@ names:
   es: Tangara Lomiazufrada
   fr: Tangara à croupion jaune
   de: Schwefelbürzeltangare
-  pt: sulphur-rumped tanager
+  pt: ''
   ru: Желтопоясничная танагра
   ja: キゴシベニマユフウキンチョウ
   zh: 黄腰红眉唐纳雀

@@ -15,7 +15,7 @@ names:
   pt: rola-cuco-ardósia
   ru: Желтоглазая длиннохвостая горлица
   ja: チモールクロバト
-  zh: Black Cuckoo-Dove
+  zh: ''
   nl: Timorese zwarte duif
   pl: ogonówka czarna
   tr: Kurşuni Guguk Kumrusu

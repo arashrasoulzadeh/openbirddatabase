@@ -12,7 +12,7 @@ names:
   es: Orejero Inca
   fr: Pipromorphe inca
   de: Graugesicht-Laubtyrann
-  pt: inca flycatcher
+  pt: ''
   ru: Ореджеро-инка
   ja: インカハエトリ
   nl: Incaoortiran

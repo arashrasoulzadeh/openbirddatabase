@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22789.0
 names:
   scientific: Calandrella dukhunensis
-  fa: nan
+  fa: ''
   en: Mongolian Short-toed Lark
   es: Terrera Oriental
   fr: Alouette de Sykes
   de: Chinalerche
-  pt: mongolian short-toed lark
+  pt: ''
   ru: Восточный жаворонок
   ja: ヒメコウテンシ
   zh: 蒙古短趾百灵

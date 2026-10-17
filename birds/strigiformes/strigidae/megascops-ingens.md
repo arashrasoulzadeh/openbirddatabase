@@ -15,7 +15,7 @@ names:
   pt: rufescent screech-owl
   ru: Бурая совка
   ja: アンデスオオコノハズク
-  zh: Rufescent Screech Owl
+  zh: ''
   nl: Andesschreeuwuil
   pl: syczoń włochaty
   tr: Kara Gözlü Puhucuk

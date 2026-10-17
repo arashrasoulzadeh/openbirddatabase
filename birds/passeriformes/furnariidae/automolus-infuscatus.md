@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15273.0
 names:
   scientific: Automolus infuscatus
-  fa: nan
+  fa: ''
   en: Olive-backed Foliage-gleaner
   es: Ticotico Oliváceo
   fr: Anabate olivâtre

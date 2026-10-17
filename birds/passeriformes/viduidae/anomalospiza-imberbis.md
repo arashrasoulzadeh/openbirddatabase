@@ -15,7 +15,7 @@ names:
   pt: parasitic weaver
   ru: Кукушковый ложноткач
   ja: カッコウハタオリ
-  zh: Cuckoo-finch
+  zh: ''
   nl: Koekoekswever
   pl: kukulnik
   tr: Guguk Dokumacısı

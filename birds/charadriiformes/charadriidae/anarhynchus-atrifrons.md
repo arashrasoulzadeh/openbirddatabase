@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 5911.0
 names:
   scientific: Anarhynchus atrifrons
-  fa: nan
+  fa: ''
   en: Tibetan Sand Plover
   es: Chorlitejo Tibetano
   fr: Pluvier du Tibet

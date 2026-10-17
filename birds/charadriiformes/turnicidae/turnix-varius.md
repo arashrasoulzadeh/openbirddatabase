@@ -12,7 +12,7 @@ names:
   es: Torillo Pintojo
   fr: Turnix bariolé
   de: Buntlaufhühnchen
-  pt: painted buttonquail
+  pt: ''
   ru: Расписная трёхперстка
   ja: ササフミフウズラ
   zh: 彩三趾鹑

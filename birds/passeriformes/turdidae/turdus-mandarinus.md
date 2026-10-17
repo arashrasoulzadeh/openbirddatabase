@@ -12,7 +12,7 @@ names:
   es: Mirlo Mandarín
   fr: Merle de Chine
   de: Mandarinamsel
-  pt: chinese blackbird
+  pt: ''
   ru: Китайский черный дрозд
   ja: クロウタドリ
   zh: 乌鸫

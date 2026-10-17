@@ -15,7 +15,7 @@ names:
   pt: henderson island crake
   ru: Туамотский погоныш
   ja: ヘンダーソンクイナ
-  zh: Henderson Crake
+  zh: ''
   nl: Hendersonporseleinhoen
   pl: kureczka smolista
   tr: Henderson Adası Yelvesi

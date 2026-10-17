@@ -12,7 +12,7 @@ names:
   es: Batará Piquicurvo
   fr: Batara à bec retroussé
   de: Bootschnabel-Ameisenwürger
-  pt: recurve-billed bushbird
+  pt: ''
   ru: Колумбийский копьеклюв
   ja: ソリハシヤブアリドリ
   zh: 朗多尼亚丛蚁鵙

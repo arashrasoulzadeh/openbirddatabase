@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3165.0
 names:
   scientific: Ceuthmochares australis
-  fa: nan
+  fa: ''
   en: Green Malkoha
   es: Malcoha Africano Oriental
   fr: Malcoha austral
   de: Grünerzkuckuck
-  pt: green malkoha
+  pt: ''
   ru: Зелёная малкоа
   ja: ミナミバンケンモドキ
   nl: Groene malkoha

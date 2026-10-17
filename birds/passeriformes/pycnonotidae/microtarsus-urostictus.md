@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24613.0
 names:
   scientific: Microtarsus urostictus
-  fa: nan
+  fa: ''
   en: Yellow-wattled Bulbul
   es: Bulbul Ojiamarillo
   fr: Bulbul à lunettes jaunes
   de: Gelbbrillenbülbül
-  pt: yellow-wattled bulbul
+  pt: ''
   ru: Серёжкоглазый бюльбюль
   ja: メガネヒヨドリ
   nl: Geellelbuulbuul

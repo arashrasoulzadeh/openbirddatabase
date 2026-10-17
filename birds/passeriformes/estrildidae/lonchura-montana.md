@@ -15,7 +15,7 @@ names:
   pt: snow mountain munia
   ru: Горная муния
   ja: オグロタカネキンパラ
-  zh: Western Alpine Mannikin
+  zh: ''
   nl: Jungerietvink
   pl: mniszka górska
   tr: Karlı Dağlar Munyası

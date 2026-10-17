@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquigorda Ventrinegra
   fr: Pyréneste ponceau
   de: Purpurastrild
-  pt: black-bellied seedcracker
+  pt: ''
   ru: Чернобрюхий толстоклюв
   ja: アカクロタネワリキンパラ
   zh: 黑腹裂籽雀

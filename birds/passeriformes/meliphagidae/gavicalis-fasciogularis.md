@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17876.0
 names:
   scientific: Gavicalis fasciogularis
-  fa: nan
+  fa: ''
   en: Mangrove Honeyeater
   es: Mielero de Manglar
   fr: Méliphage des mangroves
   de: Mangrovehonigfresser
-  pt: mangrove honeyeater
+  pt: ''
   ru: Желтогорлый медосос
   ja: サザナミミツスイ
   nl: Mangrovehoningeter

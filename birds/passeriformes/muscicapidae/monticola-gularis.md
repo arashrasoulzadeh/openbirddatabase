@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29638.0
 names:
   scientific: Monticola gularis
-  fa: nan
+  fa: ''
   en: White-throated Rock Thrush
   es: Roquero Gorjiblanco
   fr: Monticole à gorge blanche

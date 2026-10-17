@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13130.0
 names:
   scientific: Aratinga maculata
-  fa: nan
+  fa: ''
   en: Sulphur-breasted Parakeet
   es: Aratinga Pechisulfúrea
   fr: Conure de Pinto

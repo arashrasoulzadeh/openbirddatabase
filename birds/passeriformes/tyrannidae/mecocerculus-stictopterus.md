@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16578.0
 names:
   scientific: Mecocerculus stictopterus
-  fa: nan
+  fa: ''
   en: White-banded Tyrannulet
   es: Piojito Alifranjeado
   fr: Tyranneau à sourcils blancs
   de: Weißbinden-Tachurityrann
-  pt: white-banded tyrannulet
+  pt: ''
   ru: Полосатокрылый москитолов
   ja: マミジロフタスジタイランチョウ
   nl: Witbandtachuri

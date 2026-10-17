@@ -12,7 +12,7 @@ names:
   es: Cucal Colicobrizo
   fr: Coucal des papyrus
   de: Kupferschwanzkuckuck
-  pt: coppery-tailed coucal
+  pt: ''
   ru: Меднохвостый кукаль
   ja: ドウイロオナガバンケン
   nl: Koperstaartspoorkoekoek

@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 21159.0
 names:
   scientific: Lanius newtoni
-  fa: nan
+  fa: ''
   en: Sao Tome Fiscal
   es: Alcaudón de Santo Tomé
   fr: Pie-grièche de Sao Tomé
@@ -15,7 +15,7 @@ names:
   pt: newton's fiscal
   ru: Сантомейский фискал
   ja: サントメオナガモズ
-  zh: Sao Tome Fiscal
+  zh: ''
   nl: Newtonklauwier
   pl: dzierzba zatokowa
   tr: Sao Tome Fiskalı

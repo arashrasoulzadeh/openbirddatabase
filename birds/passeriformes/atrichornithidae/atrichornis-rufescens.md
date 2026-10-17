@@ -15,7 +15,7 @@ names:
   pt: rufous scrub-bird
   ru: Рыжая атрихия
   ja: ワキグロクサムラドリ
-  zh: Rufous Scrubbird
+  zh: ''
   nl: Rosse doornkruiper
   pl: gąszczak rdzawy
   tr: Kızıl Çalıkuşu

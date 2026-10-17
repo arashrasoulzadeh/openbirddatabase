@@ -12,7 +12,7 @@ names:
   es: Monarca Crestiazul
   fr: Monarque à crête bleue
   de: Azurscheitelmonarch
-  pt: azure-crested flycatcher
+  pt: ''
   ru: Синешапочная миагра
   ja: フィジーヒラハシ
   nl: Blauwkruinmonarch

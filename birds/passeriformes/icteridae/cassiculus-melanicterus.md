@@ -15,7 +15,7 @@ names:
   pt: yellow-winged cacique
   ru: Мексиканский кассик
   ja: キバネツリスドリ
-  zh: Mexican Cacique
+  zh: ''
   nl: Geelvleugelbuidelspreeuw
   pl: kacykowiec meksykański
   tr: Meksika Kasiği

@@ -12,7 +12,7 @@ names:
   es: Colibrí Sietecolores
   fr: Colibri de Jardine
   de: Hyazinthkolibri
-  pt: velvet-purple coronet
+  pt: ''
   ru: Гиацинтовый венценосец
   ja: フジイロハチドリ
   zh: 紫冕蜂鸟

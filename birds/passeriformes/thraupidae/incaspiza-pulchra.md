@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35409.0
 names:
   scientific: Incaspiza pulchra
-  fa: nan
+  fa: ''
   en: Great Inca Finch
   es: Incaspiza Alirrufo
   fr: Incaspize remarquable
@@ -15,7 +15,7 @@ names:
   pt: great inca-finch
   ru: Большая пизарита-инка
   ja: インカシトド
-  zh: Great Inca Finch
+  zh: ''
   nl: Grote incagors
   pl: ineczka wspaniała
   tr: Kızıl Kanatlı İnka İspinozu

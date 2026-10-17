@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25682.0
 names:
   scientific: Zosterops kikuyuensis
-  fa: nan
+  fa: ''
   en: Kikuyu White-eye
   es: Anteojitos Serrano Kikuyu
   fr: Zostérops du Kikuyu
   de: Kikuyubrillenvogel
-  pt: kikuyu white-eye
+  pt: ''
   ru: Кикуйская белоглазка
   ja: キクユメジロ
   zh: 基庫尤繡眼

@@ -12,7 +12,7 @@ names:
   es: Clorospingo Gorjiamarillo
   fr: Chlorospin à gorge jaune
   de: Gelbkehl-Grünammer
-  pt: yellow-throated chlorospingus
+  pt: ''
   ru: Желтогорлый дромник
   ja: キノドヤブフウキンチョウ
   nl: Geelborsttangare

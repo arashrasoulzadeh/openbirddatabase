@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21924.0
 names:
   scientific: Culicicapa ceylonensis
-  fa: nan
+  fa: ''
   en: Grey-headed Canary-flycatcher
   es: Papamoscas Cabecigrís
   fr: Gobemoustique à tête grise

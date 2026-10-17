@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34497.0
 names:
   scientific: Chlorothraupis frenata
-  fa: nan
+  fa: ''
   en: Yellow-lored Tanager
   es: Tangara Embridada
   fr: Habia bridé
   de: Streifenkehlkardinal
-  pt: yellow-lored tanager
+  pt: ''
   ru: Оливковая хабия
   ja: キビタイオリーブフウキンチョウ
   nl: Groene tangare

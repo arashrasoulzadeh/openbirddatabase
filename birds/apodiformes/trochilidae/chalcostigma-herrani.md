@@ -12,7 +12,7 @@ names:
   es: Colibrí de Herrán
   fr: Métallure arc-en-ciel
   de: Weißspitzen-Glanzschwänzchen
-  pt: rainbow-bearded thornbill
+  pt: ''
   ru: Бородатый радужник
   ja: ニジイロコバシハチドリ
   zh: 彩须尖嘴蜂鸟

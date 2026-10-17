@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16854.0
 names:
   scientific: Myiophobus roraimae
-  fa: nan
+  fa: ''
   en: Roraiman Flycatcher
   es: Mosquero del Roraima
   fr: Moucherolle du Roraima

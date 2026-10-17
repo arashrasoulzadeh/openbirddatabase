@@ -12,7 +12,7 @@ names:
   es: Prinia Parda
   fr: Prinia des montagnes
   de: Malaienprinie
-  pt: brown prinia
+  pt: ''
   ru: Бурая приния
   ja: ヤマハウチワドリ
   zh: 褐山鹪莺

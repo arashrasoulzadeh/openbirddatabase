@@ -15,7 +15,7 @@ names:
   pt: claret-breasted fruit-dove
   ru: Красногрудый фруктовый голубь
   ja: ムネアカヒメアオバト
-  zh: Claret-breasted Fruit Dove
+  zh: ''
   nl: Roodbefjufferduif
   pl: owocożer czerwonopierśny
   tr: Bordo Göğüslü Meyve Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Pintada Moñuda Oriental
   fr: Pintade de Pucheran
   de: Kenia-Haubenperlhuhn
-  pt: eastern crested guineafowl
+  pt: ''
   ru: Чубатая цесарка
   ja: カンムリホロホロチョウ
   nl: Roodkopkroonparelhoen

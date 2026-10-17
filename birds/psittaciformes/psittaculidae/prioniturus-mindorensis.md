@@ -15,7 +15,7 @@ names:
   pt: mindoro racquet-tail
   ru: Миндорский ракетохвост
   ja: ミンドロウチワインコ
-  zh: Mindoro Racket-tail
+  zh: ''
   nl: Mindorovlagstaartpapegaai
   pl: listkogonka mindorska
   tr: Mindoro Raket Kuyruklu Papağanı

@@ -12,7 +12,7 @@ names:
   es: Vireo Solitario
   fr: Viréo à tête bleue
   de: Graukopfvireo
-  pt: blue-headed vireo
+  pt: ''
   ru: Сероголовый виреон
   ja: フタスジモズモドキ
   zh: 藍頭綠鵙

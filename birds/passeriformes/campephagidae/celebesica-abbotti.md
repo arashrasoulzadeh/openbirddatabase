@@ -12,7 +12,7 @@ names:
   es: Oruguero de Abbott
   fr: Échenilleur d'Abbott
   de: Abbottraupenfänger
-  pt: pygmy cuckooshrike
+  pt: ''
   ru: Сулавесский цикадник
   ja: ミヤマオオサンショウクイ
   zh: 姬鹃鵙

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34576.0
 names:
   scientific: Amaurospiza aequatorialis
-  fa: nan
+  fa: ''
   en: Ecuadorian Seedeater
   es: Semillero Ecuatoriano
   fr: Évêque équatorial
   de: Andenkardinal
-  pt: ecuadorian seedeater
+  pt: ''
   ru: Эквадорский кардинальчик
   nl: Ecuadoraans dikbekje
   pl: indygówka ekwadorska

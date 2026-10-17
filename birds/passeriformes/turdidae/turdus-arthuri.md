@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28707.0
 names:
   scientific: Turdus arthuri
-  fa: nan
+  fa: ''
   en: Campina Thrush
   es: Zorzal Guayanés
   fr: Merle d'Arthur

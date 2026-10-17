@@ -12,7 +12,7 @@ names:
   es: Talégalo de las Tanimbar
   fr: Mégapode des Tanimbar
   de: Tanimbar-Großfußhuhn
-  pt: tanimbar megapode
+  pt: ''
   ru: Танимбарский большеног
   ja: タニンバルツカツクリ
   zh: 塔岛冢雉

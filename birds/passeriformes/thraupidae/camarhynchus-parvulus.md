@@ -15,7 +15,7 @@ names:
   pt: small tree-finch
   ru: Малый дарвинов вьюрок
   ja: コダーウィンフィンチ
-  zh: Small Tree Finch
+  zh: ''
   nl: Kleine boomvink
   pl: kłowacz mały
   tr: Küçük Ağaç İspinozu

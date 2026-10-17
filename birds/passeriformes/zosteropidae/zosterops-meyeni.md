@@ -12,7 +12,7 @@ names:
   es: Anteojitos Filipino
   fr: Zostérops des Philippines
   de: Luzonbrillenvogel
-  pt: lowland white-eye
+  pt: ''
   ru: Лусонская белоглазка
   ja: フィリピンメジロ
   zh: 低地绣眼鸟

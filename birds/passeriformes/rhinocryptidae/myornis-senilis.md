@@ -12,7 +12,7 @@ names:
   es: Tapaculo Cenizo
   fr: Mérulaxe cendré
   de: Aschgrautapaculo
-  pt: ash-colored tapaculo
+  pt: ''
   ru: Пепельный тапакуло
   ja: ハイイロオタテドリ
   zh: 灰窜鸟

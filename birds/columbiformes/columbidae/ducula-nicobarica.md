@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2767.0
 names:
   scientific: Ducula nicobarica
-  fa: nan
+  fa: ''
   en: Nicobar Imperial Pigeon
   es: Dúcula de las Nicobar
   fr: Carpophage des Nicobar
@@ -15,7 +15,7 @@ names:
   pt: nicobar imperial-pigeon
   ru: Никобарский плодовый голубь
   ja: ニコバルミカドバト
-  zh: Nicobar Imperial Pigeon
+  zh: ''
   nl: Nicobarenmuskaatduif
   pl: muszkatela nikobarska
   tr: Nikobar Has Güvercini

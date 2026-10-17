@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4787.0
 names:
   scientific: Chaetocercus astreans
-  fa: nan
+  fa: ''
   en: Santa Marta Woodstar
   es: Colibrí Astral
   fr: Colibri de Santa Marta
   de: Santa-Marta-Elfe
-  pt: santa marta woodstar
+  pt: ''
   ru: Сантамартийский эльф
   ja: サンタマルタエリマキチビハチドリ
   zh: 圣马爾塔林蜂鸟

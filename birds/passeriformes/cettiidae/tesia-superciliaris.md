@@ -12,7 +12,7 @@ names:
   es: Tesia de Java
   fr: Tésie de Java
   de: Brauenstutzschwanz
-  pt: javan tesia
+  pt: ''
   ru: Яванская короткохвостка
   ja: ズグロコビトサザイ
   zh: 眉纹地莺

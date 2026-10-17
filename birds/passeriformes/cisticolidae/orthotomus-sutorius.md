@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Común
   fr: Couturière à longue queue
   de: Rotstirn-Schneidervogel
-  pt: common tailorbird
+  pt: ''
   ru: Красношапочная портниха
   ja: オナガサイホウチョウ
   zh: 长尾缝叶莺

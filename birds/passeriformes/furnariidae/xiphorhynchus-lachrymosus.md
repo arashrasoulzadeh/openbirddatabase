@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Pinto
   fr: Grimpar maillé
   de: Schwarzrücken-Baumsteiger
-  pt: black-striped woodcreeper
+  pt: ''
   ru: Жемчужноспинный древолаз
   ja: クロスジオニキバシリ
   nl: Zwartgestreepte muisspecht

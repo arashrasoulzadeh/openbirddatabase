@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10098.0
 names:
   scientific: Halcyon malimbica
-  fa: nan
+  fa: ''
   en: Blue-breasted Kingfisher
   es: Alción Pechiazul
   fr: Martin-chasseur à poitrine bleue

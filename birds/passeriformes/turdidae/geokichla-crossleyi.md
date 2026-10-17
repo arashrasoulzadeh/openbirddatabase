@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28373.0
 names:
   scientific: Geokichla crossleyi
-  fa: nan
+  fa: ''
   en: Crossley's Ground Thrush
   es: Zorzal de Crossley
   fr: Grive de Crossley
@@ -15,7 +15,7 @@ names:
   pt: crossley's ground-thrush
   ru: Чернолицый дрозд
   ja: アカフタオビツグミ
-  zh: Crossley's Ground Thrush
+  zh: ''
   nl: Crossleylijster
   pl: drozdaczek ciemnolicy
   tr: Crossley Ardıcı

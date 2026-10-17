@@ -12,7 +12,7 @@ names:
   es: Francolín de El Cabo
   fr: Francolin criard
   de: Kapfrankolin
-  pt: cape spurfowl
+  pt: ''
   ru: Капский франколин
   ja: ケープキジシャコ
   nl: Kaapse frankolijn

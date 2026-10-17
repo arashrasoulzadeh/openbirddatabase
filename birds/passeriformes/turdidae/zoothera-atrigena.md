@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28233.0
 names:
   scientific: Zoothera atrigena
-  fa: nan
+  fa: ''
   en: Bougainville Thrush
   es: Zorzal de Bougainville
   fr: Grive de Bougainville
   de: Bougainville-Erddrossel
-  pt: bougainville thrush
+  pt: ''
   ja: ブーゲンビルツグミ
   nl: Bougainvillegoudlijster
   pl: drozdoń czarniawy

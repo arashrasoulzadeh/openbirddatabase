@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 34379.0
 names:
   scientific: Myioborus pariae
-  fa: nan
+  fa: ''
   en: Paria Whitestart
   es: Candelita de Paria
   fr: Paruline de Paria
@@ -15,7 +15,7 @@ names:
   pt: paria redstart
   ru: Златоглазая канделита
   ja: キガオアメリカムシクイ
-  zh: Paria Whitestart
+  zh: ''
   nl: Geeloogzanger
   pl: pleszówka żółtolica
   tr: Paria Ötleğeni

@@ -15,7 +15,7 @@ names:
   pt: luzon rail
   ru: Лузонский пастушок
   ja: ルソンクイナ
-  zh: Brown-banded Rail
+  zh: ''
   nl: Luzonral
   pl: wodnik luzoński
   tr: Luzon Sukılavuzu

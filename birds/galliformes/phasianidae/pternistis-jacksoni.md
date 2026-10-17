@@ -12,7 +12,7 @@ names:
   es: Francolín de Jackson
   fr: Francolin de Jackson
   de: Jacksonfrankolin
-  pt: jackson's spurfowl
+  pt: ''
   ru: Кенийский франколин
   ja: シロスジシャコ
   zh: 肯尼亚鹧鸪

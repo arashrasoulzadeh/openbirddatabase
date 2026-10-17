@@ -12,7 +12,7 @@ names:
   es: Petroica de Isla Norte
   fr: Miro de Garnot
   de: Nordinselschnäpper
-  pt: north island robin
+  pt: ''
   ru: Северная петроика
   ja: キタニュージーラドコマヒタキ
   zh: 新西兰鸲鹟

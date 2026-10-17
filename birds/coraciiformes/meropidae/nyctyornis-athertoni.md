@@ -12,7 +12,7 @@ names:
   es: Abejaruco Barbiazul
   fr: Guêpier à barbe bleue
   de: Blaubartspint
-  pt: blue-bearded bee-eater
+  pt: ''
   ru: Синебородая щурка
   ja: アオムネハチクイ
   zh: 蓝须夜蜂虎

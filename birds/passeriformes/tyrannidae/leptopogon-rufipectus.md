@@ -12,7 +12,7 @@ names:
   es: Orejero Pechirrufo
   fr: Pipromorphe à poitrine rousse
   de: Rostbrust-Laubtyrann
-  pt: rufous-breasted flycatcher
+  pt: ''
   ru: Ржавогрудый ореджеро
   ja: チャムネハエトリ
   nl: Roodborstoortiran

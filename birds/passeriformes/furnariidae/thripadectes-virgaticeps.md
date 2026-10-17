@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15240.0
 names:
   scientific: Thripadectes virgaticeps
-  fa: nan
+  fa: ''
   en: Streak-capped Treehunter
   es: Trepamusgos Cabecirrayado
   fr: Anabate à tête striée
   de: Ockerkinn-Baumspäher
-  pt: streak-capped treehunter
+  pt: ''
   ru: Пестроголовый лесовик
   ja: シマガシラムシクイカマドドリ
   nl: Streepkopboomjager

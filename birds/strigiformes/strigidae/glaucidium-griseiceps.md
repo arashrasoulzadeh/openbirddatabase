@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9025.0
 names:
   scientific: Glaucidium griseiceps
-  fa: nan
+  fa: ''
   en: Central American Pygmy Owl
   es: Mochuelo Centroamericano
   fr: Chevêchette à tête grise
@@ -15,7 +15,7 @@ names:
   pt: central american pygmy-owl
   ru: Центральноамериканский сычик
   ja: コスズメフクロウ
-  zh: Central American Pygmy Owl
+  zh: ''
   nl: Grijskopdwerguil
   pl: sóweczka lilipucia
   tr: Orta Amerika Serçe Baykuşu

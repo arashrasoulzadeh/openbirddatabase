@@ -12,7 +12,7 @@ names:
   es: Gaucho Serrano
   fr: Gaucho à bec noir
   de: Schwarzschnabel-Hakentyrann
-  pt: black-billed shrike-tyrant
+  pt: ''
   ru: Горный гаучо
   ja: ミヤマモズタイランチョウ
   nl: Zwartbekklauwiertiran

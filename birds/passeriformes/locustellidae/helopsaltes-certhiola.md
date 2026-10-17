@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23783.0
 names:
   scientific: Helopsaltes certhiola
-  fa: nan
+  fa: ''
   en: Pallas's Grasshopper Warbler
   es: Buscarla de Pallas
   fr: Locustelle de Pallas

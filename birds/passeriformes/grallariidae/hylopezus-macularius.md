@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14302.0
 names:
   scientific: Hylopezus macularius
-  fa: nan
+  fa: ''
   en: Spotted Antpitta
   es: Tororoí Moteado
   fr: Grallaire tachetée

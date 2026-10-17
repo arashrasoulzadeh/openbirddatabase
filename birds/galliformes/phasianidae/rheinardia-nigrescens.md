@@ -12,7 +12,7 @@ names:
   es: Argos Malayo
   fr: Argus à crête
   de: Malaienfasan
-  pt: malayan crested argus
+  pt: ''
   ja: マラヤカンムリセイラン
   zh: 马来冠眼斑雉
   nl: Maleise gekuifde argusfazant

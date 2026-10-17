@@ -15,7 +15,7 @@ names:
   pt: flores minivet
   ru: Малый личинкоед
   ja: フロレスサンショウクイ
-  zh: Little Minivet
+  zh: ''
   nl: Floresmenievogel
   pl: purpurek białobrzuchy
   tr: Flores Miniveti

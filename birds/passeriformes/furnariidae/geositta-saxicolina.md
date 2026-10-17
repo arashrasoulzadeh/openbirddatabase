@@ -12,7 +12,7 @@ names:
   es: Minero Alioscuro
   fr: Géositte à ailes sombres
   de: Zimthals-Erdhacker
-  pt: dark-winged miner
+  pt: ''
   ru: Чернокрылый землекоп
   ja: チャバネジカマドドリ
   nl: Donkervleugelholengraver

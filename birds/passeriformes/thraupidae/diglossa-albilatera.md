@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Flanquiblanco
   fr: Percefleur à flancs blancs
   de: Schieferhakenschnabel
-  pt: white-sided flowerpiercer
+  pt: ''
   ru: Белобокий цветокол
   ja: ワキジロハナサシミツドリ
   zh: 白胁刺花鸟

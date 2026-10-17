@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15541.0
 names:
   scientific: Pseudasthenes steinbachi
-  fa: nan
+  fa: ''
   en: Steinbach's Canastero
   es: Canastero Castaño
   fr: Synallaxe marron
   de: Weißkinncanastero
-  pt: steinbach's canastero
+  pt: ''
   ru: Рыжекрылая болария
   ja: クリイロカマドドリ
   nl: Steinbachcanastero

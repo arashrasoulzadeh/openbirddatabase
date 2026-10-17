@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14172.0
 names:
   scientific: Conopophaga snethlageae
-  fa: nan
+  fa: ''
   en: Black-breasted Gnateater
   es: Jejenero de Snethlage
   fr: Conopophage de Snethlage

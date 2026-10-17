@@ -12,7 +12,7 @@ names:
   es: Herrerillo Crestinegro
   fr: Mésange à plumet noir
   de: Schwarzhäubchenmeise
-  pt: black-crested titmouse
+  pt: ''
   ru: Чернохохлая гренадерка
   ja: クロエボシガラ
   nl: Zwartkruinmees

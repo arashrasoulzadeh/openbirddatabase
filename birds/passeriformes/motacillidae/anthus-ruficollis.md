@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 31848.0
 names:
   scientific: Anthus ruficollis
-  fa: nan
+  fa: ''
   en: Madanga
   fr: Madanga à gorge rousse
   de: Burupieper
-  pt: madanga
+  pt: ''
   ru: Маданга
   ja: マダンガメジロ
   nl: Burupieper

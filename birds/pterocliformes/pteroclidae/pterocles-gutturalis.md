@@ -12,7 +12,7 @@ names:
   es: Ganga Gorjigualda
   fr: Ganga à gorge jaune
   de: Gelbkehl-Flughuhn
-  pt: yellow-throated sandgrouse
+  pt: ''
   ru: Желтогорлый рябок
   ja: キノドサケイ
   nl: Geelkeelzandhoen

@@ -12,7 +12,7 @@ names:
   es: Apalis Capirotado
   fr: Apalis à calotte noire
   de: Kappenfeinsänger
-  pt: black-capped apalis
+  pt: ''
   ru: Черношапочный апалис
   ja: クロガシライロムシクイ
   nl: Zwartkruinapalis

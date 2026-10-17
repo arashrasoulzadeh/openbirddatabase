@@ -12,7 +12,7 @@ names:
   es: Chocha de Amami
   fr: Bécasse d'Amami
   de: Amamischnepfe
-  pt: amami woodcock
+  pt: ''
   ru: Рюкюйский вальдшнеп
   ja: アマミヤマシギ
   zh: 奄美山鷸

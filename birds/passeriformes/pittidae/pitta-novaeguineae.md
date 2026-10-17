@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13397.0
 names:
   scientific: Pitta novaeguineae
-  fa: nan
+  fa: ''
   en: Eastern Hooded Pitta
   es: Pita Encapuchada Oriental
   fr: Brève de Nouvelle-Guinée
   de: Neuguinea-Kappenpitta
-  pt: eastern hooded pitta
+  pt: ''
   ja: パプアズグロヤイロチョウ
   nl: Nieuw-Guinese pitta
   pl: kurtaczek papuaski

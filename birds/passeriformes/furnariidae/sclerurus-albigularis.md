@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14560.0
 names:
   scientific: Sclerurus albigularis
-  fa: nan
+  fa: ''
   en: Grey-throated Leaftosser
   es: Tirahojas Gorjigrís
   fr: Sclérure à gorge grise
@@ -15,7 +15,7 @@ names:
   pt: vira-folha-de-garganta-cinza
   ru: Серогрудый тенелюб
   ja: ノドジロヤブクグリ
-  zh: Grey-throated Leaftosser
+  zh: ''
   nl: Grijskeelbladkrabber
   pl: liściarek siwawy
   tr: Gri Gerdanlı Yaprakçeviren

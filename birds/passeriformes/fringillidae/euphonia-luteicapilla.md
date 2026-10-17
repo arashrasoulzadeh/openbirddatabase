@@ -12,7 +12,7 @@ names:
   es: Eufonia Coronigualda
   fr: Organiste à calotte jaune
   de: Gelbscheitelorganist
-  pt: yellow-crowned euphonia
+  pt: ''
   ru: Желтошапочная эуфония
   ja: キボウシスミレフウキンチョウ
   nl: Geelkruinorganist

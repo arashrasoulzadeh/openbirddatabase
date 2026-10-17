@@ -15,7 +15,7 @@ names:
   pt: mottled wood-owl
   ru: Манговая неясыть
   ja: インドモリフクロウ
-  zh: Mottled Wood Owl
+  zh: ''
   nl: Indische bosuil
   pl: puszczyk falisty
   tr: Yazılı Gri Baykuş

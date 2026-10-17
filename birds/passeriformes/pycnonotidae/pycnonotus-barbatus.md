@@ -15,7 +15,7 @@ names:
   pt: engole-malagueta
   ru: Темнолицый бюльбюль
   ja: アフリカヒヨドリ
-  zh: common bulbul sp.
+  zh: ''
   nl: Grauwe buulbuul
   pl: bilbil ogrodowy
   tr: Esmer Arapbülbülü

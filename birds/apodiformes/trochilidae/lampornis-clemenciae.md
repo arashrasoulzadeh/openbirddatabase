@@ -15,7 +15,7 @@ names:
   pt: blue-throated mountain-gem
   ru: Синегорлый солнечник
   ja: ルリノドシロメジリハチドリ
-  zh: Blue-throated Mountaingem
+  zh: ''
   nl: Blauwkeeljuweelkolibrie
   pl: malachicik ciemny
   tr: Mavi Gerdanlı Dağmücevheri

@@ -12,7 +12,7 @@ names:
   es: Colibrí Pochotero
   fr: Colibri de Constant
   de: Funkenkehlkolibri
-  pt: plain-capped starthroat
+  pt: ''
   ru: Искрогорлый ангел
   ja: ムジボウシノドフサハチドリ
   zh: 纯顶星喉蜂鸟

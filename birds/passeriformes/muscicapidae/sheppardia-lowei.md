@@ -12,7 +12,7 @@ names:
   es: Akelat de Iringa
   fr: Rougegorge de l'Iringa
   de: Njomberötel
-  pt: iringa akalat
+  pt: ''
   ru: Уджунгванский заряночник
   ja: シロボシムジヒタキ
   nl: Iringajanfrederik

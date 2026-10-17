@@ -12,7 +12,7 @@ names:
   es: Picovaina de las Kerguelen
   fr: Petit Chionis
   de: Schwarzgesicht-Scheidenschnabel
-  pt: black-faced sheathbill
+  pt: ''
   ru: Чернолицая белая ржанка
   ja: カオグロサヤハシチドリ
   zh: 黑脸鞘嘴鸥

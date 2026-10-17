@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8712.0
 names:
   scientific: Otus everetti
-  fa: nan
+  fa: ''
   en: Everett's Scops Owl
   es: Autillo Orejudo de Mindanao
   fr: Petit-duc d'Everett
@@ -15,7 +15,7 @@ names:
   pt: everett's scops-owl
   ru: Минданаоская совка
   ja: エベレットコノハズク
-  zh: Everett's Scops Owl
+  zh: ''
   nl: Everettdwergooruil
   pl: syczek wyspowy
   tr: Everett İshakkuşu

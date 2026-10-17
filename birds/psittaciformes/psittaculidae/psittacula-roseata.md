@@ -12,7 +12,7 @@ names:
   es: Cotorra Carirrosa
   fr: Perruche à tête rose
   de: Rosenkopfsittich
-  pt: blossom-headed parakeet
+  pt: ''
   ru: Розовоголовый кольчатый попугай
   ja: バライロコセイインコ
   zh: 花头鹦鹉

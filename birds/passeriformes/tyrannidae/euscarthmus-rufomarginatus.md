@@ -15,7 +15,7 @@ names:
   pt: maria-corruíra
   ru: Рыжебокий трескунчик
   ja: ワキアカコビトハエトリ
-  zh: Rufous-sided Scrub Tyrant
+  zh: ''
   nl: Geelbuikdwergtiran
   pl: rdzawik białogardły
   tr: Kızıl Karınlı Tiranület

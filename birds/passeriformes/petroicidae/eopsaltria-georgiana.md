@@ -12,7 +12,7 @@ names:
   es: Petroica Pechiblanca
   fr: Miro à poitrine blanche
   de: Weißbrustschnäpper
-  pt: white-breasted robin
+  pt: ''
   ru: Белогрудая дриада
   ja: シロハラヒタキ
   zh: 白胸鸲鹟

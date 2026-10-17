@@ -12,7 +12,7 @@ names:
   es: Suimanga Asiático
   fr: Souimanga asiatique
   de: Purpurnektarvogel
-  pt: purple sunbird
+  pt: ''
   ru: Атласная нектарница
   ja: ムラサキタイヨウチョウ
   zh: 紫色花蜜鸟

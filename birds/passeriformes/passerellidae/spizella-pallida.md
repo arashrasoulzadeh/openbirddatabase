@@ -12,7 +12,7 @@ names:
   es: Chingolo Pálido
   fr: Bruant des plaines
   de: Fahlammer
-  pt: clay-colored sparrow
+  pt: ''
   ru: Бледная малая овсянка
   ja: ウスヒメドリ
   zh: 泥色雀鵐

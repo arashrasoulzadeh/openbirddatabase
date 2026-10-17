@@ -15,7 +15,7 @@ names:
   pt: andorinha-de-dorso-acanelado
   ru: Белолобая ласточка
   ja: サンショクツバメ
-  zh: American Cliff Swallow
+  zh: ''
   nl: Amerikaanse klifzwaluw
   pl: jaskółka rdzawoszyja
   tr: Amerika Kırlangıcı

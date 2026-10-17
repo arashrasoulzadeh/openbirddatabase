@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 27208.0
 names:
   scientific: Troglodytes grenadensis
-  fa: nan
+  fa: ''
   en: Grenada Wren
   es: Chochín Criollo de las Granadinas
   fr: Troglodyte de Grenade
-  pt: grenada wren
+  pt: ''
   nl: Grenadawinterkoning
   pl: strzyżyk grenadyjski
   tr: Grenada Çıtkuşu

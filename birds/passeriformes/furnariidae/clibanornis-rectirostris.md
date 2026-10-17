@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15206.0
 names:
   scientific: Clibanornis rectirostris
-  fa: nan
+  fa: ''
   en: Henna-capped Foliage-gleaner
   es: Ticotico Cabecirrufo Oriental
   fr: Anabate à bec droit
@@ -15,7 +15,7 @@ names:
   pt: cisqueiro-do-rio
   ru: Рыжий лесовик
   ja: チャボウシカマドドリ
-  zh: Henna-capped Foliage-gleaner
+  zh: ''
   nl: Dunbekbladspeurder
   pl: kokotnik
   tr: Kızıl Tepeli Yaprakkarıştıran

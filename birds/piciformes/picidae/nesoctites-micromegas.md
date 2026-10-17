@@ -12,7 +12,7 @@ names:
   es: Carpinterito Antillano
   fr: Piculet des Antilles
   de: Hüpfspecht
-  pt: antillean piculet
+  pt: ''
   ru: Антильский дятелок
   ja: ヒスパニオラヒメキツツキ
   nl: Hispanioladwergspecht

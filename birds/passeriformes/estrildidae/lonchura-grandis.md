@@ -15,7 +15,7 @@ names:
   pt: grand munia
   ru: Большая муния
   ja: キゴシキンパラ
-  zh: Great-billed Mannikin
+  zh: ''
   nl: Dikbeknon
   pl: mniszka wielkodzioba
   tr: Büyük Munya

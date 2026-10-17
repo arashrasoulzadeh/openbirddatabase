@@ -12,7 +12,7 @@ names:
   es: Cuervo de Torres
   fr: Corbeau de Torres
   de: Torreskrähe
-  pt: torresian crow
+  pt: ''
   ru: Сахульская ворона
   ja: ミナミガラス
   zh: 澳洲鴉

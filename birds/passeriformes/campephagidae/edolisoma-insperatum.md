@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 18883.0
 names:
   scientific: Edolisoma insperatum
-  fa: nan
+  fa: ''
   en: Pohnpei Cicadabird
   es: Oruguero de Ponapé
   fr: Échenilleur de Ponapé
   de: Pohnpeiraupenfänger
-  pt: pohnpei cicadabird
+  pt: ''
   ru: Понпейский цикадник
   ja: ポンペイセミサンショウクイ
   nl: Ponapérupsvogel

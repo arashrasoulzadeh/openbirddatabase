@@ -12,7 +12,7 @@ names:
   es: Bulbul Gorjinaranja
   fr: Bulbul à gorge rubis
   de: Orangekehlbülbül
-  pt: flame-throated bulbul
+  pt: ''
   ru: Рыжегорлый бюльбюль
   ja: ヒノドヒヨドリ
   zh: 火喉鹎

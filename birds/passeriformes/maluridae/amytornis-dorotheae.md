@@ -12,7 +12,7 @@ names:
   es: Maluro de Carpentaria
   fr: Amytis de Dorothy
   de: Carpentariagrasschlüpfer
-  pt: carpentarian grasswren
+  pt: ''
   ru: Пёстрый амитис
   ja: ムナジロセスジムシクイ
   zh: 多氏草鹩莺

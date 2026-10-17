@@ -12,7 +12,7 @@ names:
   es: Morito de la Puna
   fr: Ibis de Ridgway
   de: Punasichler
-  pt: puna ibis
+  pt: ''
   ru: Тонкоклювая каравайка
   ja: アンデスブロンズトキ
   zh: 鬃冠鴞䴉

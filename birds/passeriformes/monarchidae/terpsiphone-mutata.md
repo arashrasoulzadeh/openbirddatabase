@@ -15,7 +15,7 @@ names:
   pt: malagasy paradise-flycatcher
   ru: Мадагаскарская райская мухоловка
   ja: マダガスカルサンコウチョウ
-  zh: Malagasy Paradise Flycatcher
+  zh: ''
   nl: Madagaskarparadijsmonarch
   pl: muchodławka białoskrzydła
   tr: Madagaskar Monarkı

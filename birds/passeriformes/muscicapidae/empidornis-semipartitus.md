@@ -12,7 +12,7 @@ names:
   es: Papamoscas Plateado
   fr: Gobemouche argenté
   de: Silberschnäpper
-  pt: silverbird
+  pt: ''
   ru: Серебристая мухоловка
   ja: ギンビタキ
   nl: Zilvervliegenvanger

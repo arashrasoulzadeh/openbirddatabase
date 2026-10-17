@@ -12,7 +12,7 @@ names:
   es: Gárrulo Papú
   fr: Pomatostome d'Isidore
   de: Beutelsäbler
-  pt: papuan babbler
+  pt: ''
   ru: Новогвинейская яху
   ja: パプアマルハシ
   zh: 新几内亚弯嘴鹛

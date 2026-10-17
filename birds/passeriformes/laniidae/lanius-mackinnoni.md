@@ -12,7 +12,7 @@ names:
   es: Alcaudón de Mackinnon
   fr: Pie-grièche de Mackinnon
   de: Mackinnonwürger
-  pt: mackinnon's shrike
+  pt: ''
   ru: Белобровый сорокопут
   ja: ハグロカタシロモズ
   zh: 麦氏伯劳

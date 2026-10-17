@@ -12,7 +12,7 @@ names:
   es: Lori de Cocotero
   fr: Loriquet à tête bleue
   de: Allfarblori
-  pt: coconut lorikeet
+  pt: ''
   ru: Многоцветный лорикет
   ja: ニューギニアゴシキセイガイインコ
   zh: 椰果彩虹鸚鵡

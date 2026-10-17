@@ -12,7 +12,7 @@ names:
   es: Jilguero Golinegro
   fr: Tarin à menton noir
   de: Bartzeisig
-  pt: black-chinned siskin
+  pt: ''
   ru: Бородатый чиж
   ja: ヤッコヒワ
   nl: Zwartkinsijs

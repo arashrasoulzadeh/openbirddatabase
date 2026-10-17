@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12551.0
 names:
   scientific: Cyclopsitta salvadorii
-  fa: nan
+  fa: ''
   en: Salvadori's Fig Parrot
   es: Lorito de Salvadori
   fr: Psittacule de Salvadori
@@ -15,7 +15,7 @@ names:
   pt: salvadori's fig-parrot
   ru: Бородатый фиговый попугайчик
   ja: ミミカザリインコ
-  zh: Salvadori's Fig Parrot
+  zh: ''
   nl: Salvadorivijgpapegaai
   pl: figówka żółtobroda
   tr: Salvadori İncir Papağanı

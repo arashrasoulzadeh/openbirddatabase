@@ -12,7 +12,7 @@ names:
   es: Petrel de Murphy
   fr: Pétrel de Murphy
   de: Murphysturmvogel
-  pt: murphy's petrel
+  pt: ''
   ru: Тёмный тайфунник
   ja: ウスハジロミズナギドリ
   zh: 墨氏圆尾鹱

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4860.0
 names:
   scientific: Phaeoptila sordida
-  fa: nan
+  fa: ''
   en: Dusky Hummingbird
   es: Colibrí Prieto
   fr: Colibri sombre
   de: Graukolibri
-  pt: dusky hummingbird
+  pt: ''
   ru: Тусклый колибри
   ja: ブロンズアカハシハチドリ
   nl: Bruinkopkolibrie

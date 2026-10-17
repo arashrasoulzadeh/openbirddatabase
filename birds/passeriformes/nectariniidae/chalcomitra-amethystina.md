@@ -12,7 +12,7 @@ names:
   es: Suimanga Amatista
   fr: Souimanga améthyste
   de: Amethystglanzköpfchen
-  pt: amethyst sunbird
+  pt: ''
   ru: Аметистовая нектарница
   ja: アメシストタイヨウチョウ
   nl: Amethisthoningzuiger

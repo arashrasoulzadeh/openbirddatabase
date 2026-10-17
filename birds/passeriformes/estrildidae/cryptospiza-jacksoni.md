@@ -12,7 +12,7 @@ names:
   es: Estrilda de Jackson
   fr: Astrild de Jackson
   de: Jacksonastrild
-  pt: dusky crimsonwing
+  pt: ''
   ru: Тёмный астрильд
   ja: ウスグロハゴロモキンパラ
   zh: 暗腹朱翅雀

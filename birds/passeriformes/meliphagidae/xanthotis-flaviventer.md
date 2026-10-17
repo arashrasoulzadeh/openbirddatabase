@@ -12,7 +12,7 @@ names:
   es: Mielero Ventrihabano
   fr: Méliphage à ventre fauve
   de: Ockerbrust-Honigfresser
-  pt: tawny-breasted honeyeater
+  pt: ''
   ru: Охристый медосос
   ja: チャムネミツスイ
   nl: Taanborsthoningeter

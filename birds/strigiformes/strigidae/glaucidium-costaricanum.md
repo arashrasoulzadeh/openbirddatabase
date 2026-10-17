@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9020.0
 names:
   scientific: Glaucidium costaricanum
-  fa: nan
+  fa: ''
   en: Costa Rican Pygmy Owl
   es: Mochuelo Costarricense
   fr: Chevêchette du Costa Rica
@@ -15,7 +15,7 @@ names:
   pt: costa rican pygmy-owl
   ru: Костариканский сычик
   ja: コスタリカスズメフクロウ
-  zh: Costa Rican Pygmy Owl
+  zh: ''
   nl: Costaricaanse dwerguil
   pl: sóweczka kostarykańska
   tr: Kosta Rika Serçe Baykuşu

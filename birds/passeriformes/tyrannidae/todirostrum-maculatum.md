@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16422.0
 names:
   scientific: Todirostrum maculatum
-  fa: nan
+  fa: ''
   en: Spotted Tody-Flycatcher
   es: Titirijí Moteado
   fr: Todirostre tacheté

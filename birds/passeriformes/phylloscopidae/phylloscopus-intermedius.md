@@ -12,7 +12,7 @@ names:
   es: Mosquitero de Anteojos
   fr: Pouillot affin
   de: Silberbrillen-Laubsänger
-  pt: white-spectacled warbler
+  pt: ''
   ru: Белоглазая очковая пеночка
   ja: メジロモリムシクイ
   zh: 白眶鹟莺

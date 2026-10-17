@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10628.0
 names:
   scientific: Tricholaema diademata
-  fa: nan
+  fa: ''
   en: Red-fronted Barbet
   es: Barbudo Diademado
   fr: Barbican à diadème
   de: Diadembartvogel
-  pt: red-fronted barbet
+  pt: ''
   ru: Краснолобая либия
   ja: キマユコゴシキドリ
   nl: Diadeembaardvogel

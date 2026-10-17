@@ -15,7 +15,7 @@ names:
   pt: buffy fish-owl
   ru: Малайский рыбный филин
   ja: マレーウオミミズク
-  zh: Buffy Fish Owl
+  zh: ''
   nl: Maleise visuil
   pl: ketupa płowa
   tr: Sunda Balık Baykuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12659.0
 names:
   scientific: Trichoglossus histrio
-  fa: nan
+  fa: ''
   en: Red-and-blue Lory
   es: Lori de las Sangihe
   fr: Loriquet arlequin
   de: Harlekinlori
-  pt: red-and-blue lory
+  pt: ''
   ru: Сине-красный лори
   ja: ヤクシャインコ
   nl: Diadeemlori

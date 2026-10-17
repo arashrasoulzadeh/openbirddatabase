@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8376.0
 names:
   scientific: Icthyophaga leucogaster
-  fa: nan
+  fa: ''
   en: White-bellied Sea Eagle
   es: Pigargo Oriental
   fr: Pygargue blagre

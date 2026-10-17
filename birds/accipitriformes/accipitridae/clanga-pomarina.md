@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8039.0
 names:
   scientific: Clanga pomarina
-  fa: nan
+  fa: ''
   en: Lesser Spotted Eagle
   es: Águila Pomerana
   fr: Aigle pomarin

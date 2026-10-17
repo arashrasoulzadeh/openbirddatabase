@@ -12,7 +12,7 @@ names:
   es: Pico de Célebes
   fr: Pic de Temminck
   de: Temminckspecht
-  pt: sulawesi pygmy woodpecker
+  pt: ''
   ru: Сулавесский острокрылый дятел
   ja: セレベスコゲラ
   zh: 坦氏啄木鸟

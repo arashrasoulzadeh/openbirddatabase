@@ -12,7 +12,7 @@ names:
   es: Colín de Moctezuma
   fr: Colin arlequin
   de: Montezumawachtel
-  pt: montezuma quail
+  pt: ''
   ru: Плачущий перепел
   ja: シロマダラウズラ
   zh: 彩鹑

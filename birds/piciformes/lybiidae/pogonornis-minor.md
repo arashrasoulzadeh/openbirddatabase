@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10675.0
 names:
   scientific: Pogonornis minor
-  fa: nan
+  fa: ''
   en: Black-backed Barbet
   es: Barbudo Frentirrojo
   fr: Barbican de Levaillant
   de: Rosenbauch-Bartvogel
-  pt: black-backed barbet
+  pt: ''
   ru: Буролицый зубцеклюв
   ja: タスキゴシキドリ
   nl: Roodbuikbaardvogel

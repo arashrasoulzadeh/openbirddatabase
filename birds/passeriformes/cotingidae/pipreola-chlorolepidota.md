@@ -12,7 +12,7 @@ names:
   es: Frutero Gorjirrojo
   fr: Cotinga à gorge rouge
   de: Orangekehlkotinga
-  pt: fiery-throated fruiteater
+  pt: ''
   ru: Огненогрудый ягодоед
   ja: ノドアカミドリカザリドリ
   nl: Vuurkeelcotinga

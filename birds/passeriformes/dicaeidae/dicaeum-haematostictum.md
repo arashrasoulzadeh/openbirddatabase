@@ -12,7 +12,7 @@ names:
   es: Picaflores Pechinegro
   fr: Dicée à poitrine noire
   de: Schwarzgürtel-Mistelfresser
-  pt: black-belted flowerpecker
+  pt: ''
   ru: Висаянский цветоед
   ja: ネグロスハナドリ
   zh: 紅縱紋啄花

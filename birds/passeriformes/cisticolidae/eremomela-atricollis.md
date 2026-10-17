@@ -12,7 +12,7 @@ names:
   es: Eremomela Cuellinegra
   fr: Érémomèle à cou noir
   de: Schwarzhalseremomela
-  pt: black-necked eremomela
+  pt: ''
   ru: Ошейниковая желтобрюшка
   ja: クビワヒメムシクイ
   nl: Zwarthalseremomela

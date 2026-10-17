@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12584.0
 names:
   scientific: Charmosyna stellae
-  fa: nan
+  fa: ''
   en: Stella's Lorikeet
   es: Lori de Stella
   fr: Lori de Stella
   de: Stellalori
-  pt: stella's lorikeet
+  pt: ''
   nl: Papoealori
   pl: lorika złotosterna
   tr: Papua Loriketi

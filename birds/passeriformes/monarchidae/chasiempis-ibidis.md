@@ -12,7 +12,7 @@ names:
   es: Elepaio de Oahu
   fr: Monarque d'Oahu
   de: Oahumonarch
-  pt: oahu elepaio
+  pt: ''
   ru: Оахский элепайо
   ja: オアフヒタキ
   nl: Oahu-elepaio

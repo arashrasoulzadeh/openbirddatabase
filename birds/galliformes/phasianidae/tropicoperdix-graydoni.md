@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 1592.0
 names:
   scientific: Tropicoperdix graydoni
-  fa: nan
+  fa: ''
   en: Sabah Partridge
   es: Arborófila de Sabah
   fr: Torquéole de Graydon
   de: Sabahbuschwachtel
-  pt: sabah partridge
+  pt: ''
   zh: 沙巴树鹧鸪
   nl: Sabahbospatrijs
   pl: kuropatwokur borneański

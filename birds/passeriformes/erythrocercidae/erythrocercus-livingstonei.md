@@ -12,7 +12,7 @@ names:
   es: Monarca de Livingston
   fr: Érythrocerque de Livingstone
   de: Gelbbauch-Spreizschwanz
-  pt: livingstone's flycatcher
+  pt: ''
   ru: Оливковая рыжехвостка
   ja: アカオヒメヒタキ
   nl: Grijskopelfmonarch

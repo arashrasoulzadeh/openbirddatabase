@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28572.0
 names:
   scientific: Turdus xanthopus
-  fa: nan
+  fa: ''
   en: New Caledonian Island Thrush
   es: Mirlo de Nueva Caledonia
   fr: Merle calédonien
   pt: new caledonian island-thrush
   ja: ニューカレドニアハイガシラツグミ
-  zh: New Caledonian Island Thrush
+  zh: ''
   nl: Nieuw-Caledonische merel
   pl: drozd żółtostopy
   tr: Yeni Kaledonya Ada Ardıcı

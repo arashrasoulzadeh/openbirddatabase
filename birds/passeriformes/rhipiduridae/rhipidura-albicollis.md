@@ -12,7 +12,7 @@ names:
   es: Abanico Gorjiblanco
   fr: Rhipidure à gorge blanche
   de: Weißkehl-Fächerschwanz
-  pt: white-throated fantail
+  pt: ''
   ru: Белошейная веерохвостка
   ja: ノドジロオウギビタキ
   zh: 白喉扇尾鹟

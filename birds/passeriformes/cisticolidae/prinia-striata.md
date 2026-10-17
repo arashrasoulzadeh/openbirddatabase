@@ -12,7 +12,7 @@ names:
   es: Prinia Estriada
   fr: Prinia de Swinhoe
   de: Chinaprinie
-  pt: striped prinia
+  pt: ''
   ru: Тайваньская приния
   zh: 山鹪莺
   nl: Chinese prinia

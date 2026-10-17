@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 3119.0
 names:
   scientific: Centropus nigrorufus
-  fa: nan
+  fa: ''
   en: Sunda Coucal
   es: Cucal de la Sonda
   fr: Coucal noirou
   de: Javakuckuck
-  pt: sunda coucal
+  pt: ''
   ru: Яванский кукаль
   ja: ジャワバンケン
   nl: Javaanse spoorkoekoek

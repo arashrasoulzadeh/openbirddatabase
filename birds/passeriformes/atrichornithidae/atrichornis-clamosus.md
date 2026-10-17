@@ -15,7 +15,7 @@ names:
   pt: noisy scrub-bird
   ru: Крикливая атрихия
   ja: ノドジロクサムラドリ
-  zh: Noisy Scrubbird
+  zh: ''
   nl: Grote doornkruiper
   pl: gąszczak krzykliwy
   tr: Gürültücü Çalıkuşu

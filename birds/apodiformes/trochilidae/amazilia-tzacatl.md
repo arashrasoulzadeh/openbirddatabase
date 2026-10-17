@@ -12,7 +12,7 @@ names:
   es: Amazilia Tzacatl
   fr: Ariane à ventre gris
   de: Braunschwanzamazilie
-  pt: rufous-tailed hummingbird
+  pt: ''
   ru: Рыжехвостая амазилия
   ja: ハイバラエメラルドハチドリ
   zh: 棕尾蜂鸟

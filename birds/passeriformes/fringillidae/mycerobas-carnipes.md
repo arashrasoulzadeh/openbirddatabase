@@ -12,7 +12,7 @@ names:
   es: Picogordo Aliblanco
   fr: Gros-bec à ailes blanches
   de: Wacholderkernbeißer
-  pt: white-winged grosbeak
+  pt: ''
   ru: Арчевый горный дубонос
   ja: ハジロクロシメ
   zh: 白斑翅拟蜡嘴雀

@@ -12,7 +12,7 @@ names:
   es: Cogujada Malabar
   fr: Cochevis de Malabar
   de: Malabarlerche
-  pt: malabar lark
+  pt: ''
   ru: Малабарский жаворонок
   ja: マラバルカンムリヒバリ
   zh: 馬拉巴鳳頭百靈

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30112.0
 names:
   scientific: Dicaeum wilhelminae
-  fa: nan
+  fa: ''
   en: Sumba Flowerpecker
   es: Picaflores de Sumba
   fr: Dicée de Sumba
   de: Sumba-Purpurmistelfresser
-  pt: sumba flowerpecker
+  pt: ''
   nl: Soembahoningvogel
   pl: kwiatówka sumbajska
   tr: Sumba Öksekuşu

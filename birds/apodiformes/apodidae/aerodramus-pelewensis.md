@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4044.0
 names:
   scientific: Aerodramus pelewensis
-  fa: nan
+  fa: ''
   en: Palau Swiftlet
   es: Salangana de las Palaos
   fr: Salangane des Palau
   de: Palausalangane
-  pt: palau swiftlet
+  pt: ''
   ru: Палауская салангана
   ja: ミクロネシアムジアナツバメ
   zh: 帕劳金丝燕

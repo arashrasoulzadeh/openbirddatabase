@@ -12,7 +12,7 @@ names:
   es: Gaviota Fuliginosa
   fr: Mouette obscure
   de: Lavamöwe
-  pt: lava gull
+  pt: ''
   ru: Тёмная чайка
   ja: イワカモメ
   zh: 岩鷗

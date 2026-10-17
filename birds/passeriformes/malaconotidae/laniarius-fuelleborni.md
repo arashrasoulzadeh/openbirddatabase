@@ -12,7 +12,7 @@ names:
   es: Bubú de Fülleborn
   fr: Gonolek de Fülleborn
   de: Füllebornwürger
-  pt: fülleborn's boubou
+  pt: ''
   ru: Чёрный бубу
   ja: クロナキヤブモズ
   nl: Füllebornfiskaal

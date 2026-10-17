@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 4857.0
 names:
   scientific: Selasphorus ardens
-  fa: nan
+  fa: ''
   en: Glow-throated Hummingbird
   es: Colibrí Ardiente
   fr: Colibri ardent
   de: Feuerkehlelfe
-  pt: glow-throated hummingbird
+  pt: ''
   ru: Пламенный колибри
   ja: パナマノドジロフトオハチドリ
   zh: 辉喉煌蜂鸟

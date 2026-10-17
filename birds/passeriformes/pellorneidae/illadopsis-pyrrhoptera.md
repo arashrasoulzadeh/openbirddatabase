@@ -12,7 +12,7 @@ names:
   es: Tordina Montañesa
   fr: Akalat montagnard
   de: Berglaubdrossling
-  pt: mountain illadopsis
+  pt: ''
   ru: Горный дроздовник
   ja: ミヤマムジチメドリ
   zh: 山非洲雅鹛

@@ -12,7 +12,7 @@ names:
   es: Alción Moluqueño
   fr: Martin-chasseur des Moluques
   de: Lasurliest
-  pt: blue-and-white kingfisher
+  pt: ''
   ru: Трёхцветная альциона
   ja: モルッカショウビン
   zh: 摩鹿加翡翠

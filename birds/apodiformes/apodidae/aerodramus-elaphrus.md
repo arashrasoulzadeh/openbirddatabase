@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 3981.0
 names:
   scientific: Aerodramus elaphrus
-  fa: nan
+  fa: ''
   en: Seychelles Swiftlet
   es: Salangana de las Seychelles
   fr: Salangane des Seychelles
   de: Seychellensalangane
-  pt: seychelles swiftlet
+  pt: ''
   ru: Сейшельская салангана
   ja: セーシェルアナツバメ
   nl: Seychellensalangaan

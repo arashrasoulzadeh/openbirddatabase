@@ -12,7 +12,7 @@ names:
   es: Soterillo Caricastaño
   fr: Microbate cendré
   de: Graubauch-Degenschnäbler
-  pt: tawny-faced gnatwren
+  pt: ''
   ru: Крапивниковая комароловка
   ja: ハイバラブユムシクイ
   nl: Grijsbuikmuggensluiper

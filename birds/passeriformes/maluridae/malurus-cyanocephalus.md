@@ -12,7 +12,7 @@ names:
   es: Maluro Emperador
   fr: Mérion empereur
   de: Kaiserstaffelschwanz
-  pt: emperor fairywren
+  pt: ''
   ru: Королевский малюр
   ja: アオパプアムシクイ
   nl: Keizerelfje

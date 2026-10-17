@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Gorjinegro
   fr: Rossignol à gorge noire
   de: Schwarzkehlnachtigall
-  pt: blackthroat
+  pt: ''
   ru: Чернозобый соловей
   ja: ノドグロコマドリ
   zh: 黑喉歌鸲

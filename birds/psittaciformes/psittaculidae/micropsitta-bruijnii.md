@@ -15,7 +15,7 @@ names:
   pt: red-breasted pygmy-parrot
   ru: Красногрудый карликовый попугайчик
   ja: アカガシラケラインコ
-  zh: Red-breasted Pygmy Parrot
+  zh: ''
   nl: Roodborstspechtpapegaai
   pl: karłówka górska
   tr: Boyalı Cüce Papağan

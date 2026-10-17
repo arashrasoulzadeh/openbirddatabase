@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12049.0
 names:
   scientific: Falco ardosiaceus
-  fa: nan
+  fa: ''
   en: Grey Kestrel
   es: Cernícalo Pizarroso
   fr: Faucon ardoisé
@@ -15,7 +15,7 @@ names:
   pt: francelho-cinzento
   ru: Серая пустельга
   ja: ハイイロチョウゲンボウ
-  zh: Grey Kestrel
+  zh: ''
   nl: Grijze torenvalk
   pl: sokół ciemny
   tr: Gri Kerkenez

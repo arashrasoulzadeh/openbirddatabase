@@ -12,7 +12,7 @@ names:
   es: Drongo Bronceado
   fr: Drongo bronzé
   de: Bronzedrongo
-  pt: bronzed drongo
+  pt: ''
   ru: Бронзовый дронго
   ja: ヒメオウチュウ
   zh: 古铜色卷尾

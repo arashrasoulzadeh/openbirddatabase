@@ -12,7 +12,7 @@ names:
   es: Tangara Haitiana
   fr: Konichon d'Haïti
   de: Haitischmätzertangare
-  pt: western chat-tanager
+  pt: ''
   ru: Западный корнихон
   ja: ニシジフウキンチョウ
   nl: Westelijke tapuittangare

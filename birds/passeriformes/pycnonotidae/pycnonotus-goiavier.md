@@ -12,7 +12,7 @@ names:
   es: Bulbul Culiamarillo
   fr: Bulbul goiavier
   de: Schwarzzügelbülbül
-  pt: yellow-vented bulbul
+  pt: ''
   ru: Белобровый бюльбюль
   ja: メグロヒヨドリ
   zh: 白眉黄臀鹎

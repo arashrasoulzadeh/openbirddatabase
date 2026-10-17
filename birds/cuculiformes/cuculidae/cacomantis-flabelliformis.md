@@ -12,7 +12,7 @@ names:
   es: Cuco Flabeliforme
   fr: Coucou à éventail
   de: Fächerschwanzkuckuck
-  pt: fan-tailed cuckoo
+  pt: ''
   ru: Веерохвостая кукушка
   ja: ウチワヒメカッコウ
   zh: 扇尾杜鹃

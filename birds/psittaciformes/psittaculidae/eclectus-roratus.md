@@ -12,7 +12,7 @@ names:
   es: Loro Ecléctico de las Molucas
   fr: Éclectus des Moluques
   de: Edelpapagei
-  pt: moluccan eclectus
+  pt: ''
   ru: Благородный зелёно-красный попугай
   ja: オオハナインコ
   zh: 折衷鹦鹉

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14352.0
 names:
   scientific: Grallaricula nana
-  fa: nan
+  fa: ''
   en: Slaty-crowned Antpitta
   es: Ponchito Enano
   fr: Grallaire naine
@@ -15,7 +15,7 @@ names:
   pt: tovaquinha-de-coroa-cinza
   ru: Серошапочная питтуля
   ja: ハイボウシヒメジアリドリ
-  zh: Slaty-crowned Antpitta
+  zh: ''
   nl: Leikruindwergmierpitta
   pl: drobik szarogłowy
   tr: Gri Tepeli Yerçavuşu

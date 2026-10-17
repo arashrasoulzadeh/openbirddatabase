@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16083.0
 names:
   scientific: Pachyramphus homochrous
-  fa: nan
+  fa: ''
   en: One-colored Becard
   es: Anambé Unicolor
   fr: Bécarde unicolore
   de: Einfarbbekarde
-  pt: one-colored becard
+  pt: ''
   ru: Угольный бекард
   ja: ムジカザリドリモドキ
   nl: Vale bekarde

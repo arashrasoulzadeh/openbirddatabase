@@ -12,7 +12,7 @@ names:
   es: Serín Amarillo
   fr: Serin de Sainte-Hélène
   de: Gelbbauchgirlitz
-  pt: yellow canary
+  pt: ''
   ru: Жёлтый канареечник
   ja: キイロカナリア
   zh: 金黃絲雀

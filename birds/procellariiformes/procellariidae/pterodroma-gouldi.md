@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7106.0
 names:
   scientific: Pterodroma gouldi
-  fa: nan
+  fa: ''
   en: Grey-faced Petrel
   es: Petrel Carigrís
   fr: Pétrel à face grise
@@ -15,7 +15,7 @@ names:
   pt: gray-faced petrel
   ru: Гульдов тайфунник
   ja: ハイガシラミズナギドリ
-  zh: Grey-faced Petrel
+  zh: ''
   nl: Grijsmaskerstormvogel
   pl: petrel wielkoskrzydły
   tr: Kara Fırtınakuşu

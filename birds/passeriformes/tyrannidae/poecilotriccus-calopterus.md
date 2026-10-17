@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16416.0
 names:
   scientific: Poecilotriccus calopterus
-  fa: nan
+  fa: ''
   en: Golden-winged Tody-Flycatcher
   es: Titirijí Alidorado
   fr: Todirostre à ailes d'or
   de: Goldflügel-Todityrann
-  pt: golden-winged tody-flycatcher
+  pt: ''
   ru: Желтоплечий тоди-мухолов
   ja: キンバネハシナガタイランチョウ
   nl: Goudvleugelschoffelsnavel

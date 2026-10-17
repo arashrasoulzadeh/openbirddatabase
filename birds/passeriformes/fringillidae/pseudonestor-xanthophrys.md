@@ -12,7 +12,7 @@ names:
   es: Pseudonestor
   fr: Pseudonestor de Maui
   de: Papageischnabel-Kleidervogel
-  pt: maui parrotbill
+  pt: ''
   ru: Цветочница-попугаеклюв
   ja: オウムハシハワイマシコ
   nl: Mauipapegaaiensnavel

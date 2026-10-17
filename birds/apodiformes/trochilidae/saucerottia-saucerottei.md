@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5076.0
 names:
   scientific: Saucerottia saucerottei
-  fa: nan
+  fa: ''
   en: Steely-vented Hummingbird
   es: Amazilia Verdiazul
   fr: Ariane de Sophie
   de: Grünamazilie
-  pt: steely-vented hummingbird
+  pt: ''
   ru: Стальная амазилия
   nl: Blauwbuikamazilia
   pl: szmaragdzik plantacjowy

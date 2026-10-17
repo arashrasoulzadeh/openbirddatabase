@@ -12,7 +12,7 @@ names:
   es: Cuervo Picogordo
   fr: Corbeau corbivau
   de: Erzrabe
-  pt: thick-billed raven
+  pt: ''
   ru: Толстоклювый ворон
   ja: オオハシガラス
   zh: 厚嘴渡鴉

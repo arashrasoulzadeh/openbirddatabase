@@ -12,7 +12,7 @@ names:
   es: Trepamusgos Barbablanca Panameño
   fr: Pseudocolapte chamois
   de: Fahlwangen-Astspäher
-  pt: buffy tuftedcheek
+  pt: ''
   ru: Панамский гусар
   ja: キホオカマドドリ
   nl: Panamese pluimoor

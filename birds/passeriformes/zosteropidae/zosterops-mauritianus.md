@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25664.0
 names:
   scientific: Zosterops mauritianus
-  fa: nan
+  fa: ''
   en: Mauritius Grey White-eye
   es: Anteojitos Gris de Mauricio
   fr: Zostérops gris
@@ -15,7 +15,7 @@ names:
   pt: mauritius gray white-eye
   ru: Белопоясная белоглазка
   ja: モーリシャスハイイロメジロ
-  zh: Mauritius Grey White-eye
+  zh: ''
   nl: Grijze mauritiusbrilvogel
   pl: szlarnik popielaty
   tr: Morityus Gri Gözlükçüsü

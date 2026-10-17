@@ -12,7 +12,7 @@ names:
   es: Vireón Cejiamarillo
   fr: Smaragdan à sourcils jaunes
   de: Gelbbrauenvireo
-  pt: yellow-browed shrike-vireo
+  pt: ''
   ru: Желтобровый сорокопутовый виреон
   ja: ミナミミドリモズ
   nl: Geelbrauwklauwiervireo

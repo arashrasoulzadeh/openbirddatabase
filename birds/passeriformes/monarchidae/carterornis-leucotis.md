@@ -12,7 +12,7 @@ names:
   es: Monarca Orejudo
   fr: Monarque oreillard
   de: Weißohrmonarch
-  pt: white-eared monarch
+  pt: ''
   ru: Белоухий монарх
   ja: ミミジロカササギビタキ
   nl: Witoormonarch

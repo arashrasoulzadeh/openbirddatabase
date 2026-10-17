@@ -12,7 +12,7 @@ names:
   es: Suimanga Alirrojo
   fr: Souimanga à ailes rousses
   de: Rotflügel-Nektarvogel
-  pt: rufous-winged sunbird
+  pt: ''
   ru: Краснокрылая нектарница
   ja: ベニバネタイヨウチョウ
   nl: Roodvleugelhoningzuiger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24797.0
 names:
   scientific: Phylloscopus maculipennis
-  fa: nan
+  fa: ''
   en: Ashy-throated Warbler
   es: Mosquitero Gorjigrís
   fr: Pouillot à face grise
   de: Graukehl-Laubsänger
-  pt: ashy-throated warbler
+  pt: ''
   ru: Серогорлая зарничка
   ja: キゴシムシクイ
   zh: 灰喉柳莺

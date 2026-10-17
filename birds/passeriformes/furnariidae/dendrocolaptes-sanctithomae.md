@@ -15,7 +15,7 @@ names:
   pt: northern barred-woodcreeper
   ru: Полосатый древолаз
   ja: キタヨコジマオニキバシリ
-  zh: Northern Barred Woodcreeper
+  zh: ''
   nl: Gegolfde muisspecht
   pl: tęgoster północny
   tr: Kuzeyli Yazılı Tırmaşık

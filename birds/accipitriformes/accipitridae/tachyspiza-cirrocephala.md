@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8151.0
 names:
   scientific: Tachyspiza cirrocephala
-  fa: nan
+  fa: ''
   en: Collared Sparrowhawk
   es: Gavilán Acollarado
   fr: Épervier à collier roux
   de: Halsringsperber
-  pt: collared sparrowhawk
+  pt: ''
   ru: Ошейниковый перепелятник
   ja: アカエリツミ
   zh: 領雀鷹

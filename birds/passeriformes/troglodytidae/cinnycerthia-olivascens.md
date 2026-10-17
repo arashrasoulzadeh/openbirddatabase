@@ -15,7 +15,7 @@ names:
   pt: sharpe's wren
   ru: Оливковый крапивник
   ja: オリーブイロミソサザイ
-  zh: Sepia-brown Wren
+  zh: ''
   nl: Sharpewinterkoning
   pl: rudzielczyk zmiennogłowy
   tr: Sharpe Çıtkuşu

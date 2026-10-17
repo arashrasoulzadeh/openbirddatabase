@@ -12,7 +12,7 @@ names:
   es: Trogón Cabecinegro
   fr: Trogon à tête noire
   de: Schwarzkopftrogon
-  pt: black-headed trogon
+  pt: ''
   ru: Черноголовый трогон
   ja: ズグロハグロキヌバネドリ
   nl: Zwartkoptrogon

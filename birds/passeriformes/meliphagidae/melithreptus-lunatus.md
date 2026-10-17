@@ -12,7 +12,7 @@ names:
   es: Mielero Nuquiblanco Oriental
   fr: Méliphage à lunule
   de: Mondstreif-Honigfresser
-  pt: white-naped honeyeater
+  pt: ''
   ru: Краснобровая медвянка
   ja: ハチマキミツスイ
   nl: Diadeemhoningeter

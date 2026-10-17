@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23337.0
 names:
   scientific: Euryptila subcinnamomea
-  fa: nan
+  fa: ''
   en: Cinnamon-breasted Warbler
   es: Camaróptera Canela
   fr: Cisticole cannelle
   de: Zimtbrustsänger
-  pt: cinnamon-breasted warbler
+  pt: ''
   ru: Саванная рыжегрудка
   ja: ニッケイムシクイ
   nl: Kopjeszanger

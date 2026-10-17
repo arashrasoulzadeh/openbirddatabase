@@ -12,7 +12,7 @@ names:
   es: Guacamayo Ambiguo
   fr: Ara de Buffon
   de: Bechsteinara
-  pt: great green macaw
+  pt: ''
   ru: Зелёный ара
   ja: ヒワコンゴウインコ
   zh: 大绿金刚鹦鹉

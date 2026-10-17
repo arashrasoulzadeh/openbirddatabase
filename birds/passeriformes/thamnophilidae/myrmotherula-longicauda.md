@@ -12,7 +12,7 @@ names:
   es: Hormiguerito Pechilistado
   fr: Myrmidon à ventre blanc
   de: Weißbauch-Ameisenschlüpfer
-  pt: stripe-chested antwren
+  pt: ''
   ru: Длиннохвостый муравьелов
   ja: シマヒメアリサザイ
   zh: 纹胸蚁鹩

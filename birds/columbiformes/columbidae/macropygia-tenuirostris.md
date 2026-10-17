@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco Filipina
   fr: Phasianelle des Philippines
   de: Philippinentaube
-  pt: philippine cuckoo-dove
+  pt: ''
   ru: Филиппинская кукушковая горлица
   ja: フィリピンオナガバト
   zh: 菲律宾鹃鸠

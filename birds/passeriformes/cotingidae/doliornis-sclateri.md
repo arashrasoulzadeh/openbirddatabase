@@ -12,7 +12,7 @@ names:
   es: Cotinga de Sclater
   fr: Cotinga de Sclater
   de: Braunbauchkotinga
-  pt: bay-vented cotinga
+  pt: ''
   ru: Коричневобрюхая котинга
   ja: チャバラカザリドリ
   nl: Sclatercotinga

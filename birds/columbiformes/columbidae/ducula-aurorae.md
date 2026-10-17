@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2783.0
 names:
   scientific: Ducula aurorae
-  fa: nan
+  fa: ''
   en: Polynesian Imperial Pigeon
   es: Dúcula de Isla Makatea
   fr: Carpophage de la Société
@@ -15,7 +15,7 @@ names:
   pt: polynesian imperial-pigeon
   ru: Таитянский плодовый голубь
   ja: タヒチコブバト
-  zh: Polynesian Imperial Pigeon
+  zh: ''
   nl: Tahitiaanse muskaatduif
   pl: muszkatela niebieskawa
   tr: Polinezya Has Güvercini

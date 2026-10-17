@@ -12,7 +12,7 @@ names:
   es: Herrerillo Modesto
   fr: Mésange modeste
   de: Laubmeise
-  pt: yellow-browed tit
+  pt: ''
   ru: Пеночковая синица
   ja: キマユガラ
   zh: 黄眉林雀

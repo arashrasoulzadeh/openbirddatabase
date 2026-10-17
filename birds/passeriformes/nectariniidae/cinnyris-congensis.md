@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30400.0
 names:
   scientific: Cinnyris congensis
-  fa: nan
+  fa: ''
   en: Congo Sunbird
   es: Suimanga Congoleño
   fr: Souimanga du Congo
   de: Kongonektarvogel
-  pt: congo sunbird
+  pt: ''
   ru: Конголезская нектарница
   ja: オオムネアカオナガタイヨウチョウ
   nl: Congolese honingzuiger

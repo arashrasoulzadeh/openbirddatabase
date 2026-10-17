@@ -12,7 +12,7 @@ names:
   es: Lori Chispeado
   fr: Lori flamméché
   de: Schimmerlori
-  pt: yellow-streaked lory
+  pt: ''
   ru: Краснолобый лори
   ja: キスジインコ
   nl: Strepenlori

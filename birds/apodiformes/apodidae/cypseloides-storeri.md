@@ -12,7 +12,7 @@ names:
   es: Vencejo Frentiblanco
   fr: Martinet de Storer
   de: Weißstirnsegler
-  pt: white-fronted swift
+  pt: ''
   ru: Белолобый стриж
   ja: シロビタイアマツバメ
   zh: 白额黑雨燕

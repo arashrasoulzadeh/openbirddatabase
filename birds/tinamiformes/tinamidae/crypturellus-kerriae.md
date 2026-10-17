@@ -12,7 +12,7 @@ names:
   es: Tinamú del Chocó
   fr: Tinamou de Kerr
   de: Kerrtinamu
-  pt: choco tinamou
+  pt: ''
   ru: Чокский скрытохвост
   ja: コシジマシギダチョウ
   zh: 乔科穴䳍

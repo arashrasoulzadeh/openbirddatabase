@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 32139.0
 names:
   scientific: Chlorodrepanis stejnegeri
-  fa: nan
+  fa: ''
   en: Kauai Amakihi
   es: Amakihi de Kauai
   fr: Amakihi de Stejneger
   de: Kauai-Amakihikleidervogel
-  pt: kauai amakihi
+  pt: ''
   ru: Кауайская амакихи
   ja: カウアイミツスイ
   nl: Kauai-amakihi

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1666.0
 names:
   scientific: Campocolinus albogularis
-  fa: nan
+  fa: ''
   en: White-throated Francolin
   es: Francolín Gorjiblanco
   fr: Francolin à gorge blanche
   de: Weißkehlfrankolin
-  pt: white-throated francolin
+  pt: ''
   ru: Белогорлый франколин
   ja: ノドジロシャコ
   nl: Witkeelfrankolijn

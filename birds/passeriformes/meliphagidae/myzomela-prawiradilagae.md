@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 17980.0
 names:
   scientific: Myzomela prawiradilagae
-  fa: nan
+  fa: ''
   en: Alor Myzomela
   es: Mielero de Alor
   fr: Myzomèle d'Alor
   de: Alorhonigfresser
-  pt: alor myzomela
+  pt: ''
   ru: Алорская медовка
   ja: アロールミツスイ
   nl: Alordwerghoningeter

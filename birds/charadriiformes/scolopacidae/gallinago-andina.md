@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6110.0
 names:
   scientific: Gallinago andina
-  fa: nan
+  fa: ''
   en: Puna Snipe
   es: Agachadiza de la Puna
   fr: Bécassine de la puna
   de: Punabekassine
-  pt: puna snipe
+  pt: ''
   ru: Бекас пуны
   ja: プナタシギ
   nl: Bergwatersnip

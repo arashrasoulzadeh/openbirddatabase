@@ -12,7 +12,7 @@ names:
   es: Chingolo Cejiblanco
   fr: Bruant familier
   de: Schwirrammer
-  pt: chipping sparrow
+  pt: ''
   ru: Малая воробьиная овсянка
   ja: チャガシラヒメドリ
   zh: 褐斑翅雀鵐

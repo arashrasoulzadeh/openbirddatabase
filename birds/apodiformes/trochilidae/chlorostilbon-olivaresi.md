@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4895.0
 names:
   scientific: Chlorostilbon olivaresi
-  fa: nan
+  fa: ''
   en: Chiribiquete Emerald
   es: Esmeralda del Chiribiquete
   fr: Émeraude d'Olivares
   de: Chiribiquete-Smaragdkolibri
-  pt: chiribiquete emerald
+  pt: ''
   ru: Чирибикетесский изумруд
   ja: コロンビアヒメエメラルドハチドリ
   zh: 奇里翠蜂鸟

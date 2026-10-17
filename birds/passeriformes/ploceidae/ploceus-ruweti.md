@@ -15,7 +15,7 @@ names:
   pt: lake lufira masked-weaver
   ru: Луфирский ткач
   ja: ザイールメンガタハタオリ
-  zh: Lufira Masked Weaver
+  zh: ''
   nl: Lufirawever
   pl: wikłacz bagienny
   tr: Ruwet Dokumacısı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33448.0
 names:
   scientific: Atlapetes albofrenatus
-  fa: nan
+  fa: ''
   en: Moustached Brushfinch
   es: Atlapetes Bigotudo
   fr: Tohi moustachu
   de: Weißbart-Buschammer
-  pt: moustached brushfinch
+  pt: ''
   ru: Белоусая атлапета
   ja: シラヒゲヤブシトド
   nl: Witbaardstruikgors

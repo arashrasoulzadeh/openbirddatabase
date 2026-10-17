@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8852.0
 names:
   scientific: Megascops cooperi
-  fa: nan
+  fa: ''
   en: Pacific Screech Owl
   es: Autillo de Manglar
   fr: Petit-duc de Cooper
@@ -15,7 +15,7 @@ names:
   pt: pacific screech-owl
   ru: Центральноамериканская совка
   ja: クーパーコノハズク
-  zh: Pacific Screech Owl
+  zh: ''
   nl: Mangroveschreeuwuil
   pl: syczoń namorzynowy
   tr: Cooper Puhucuğu

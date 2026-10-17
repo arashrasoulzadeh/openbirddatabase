@@ -12,7 +12,7 @@ names:
   es: Tirano Occidental
   fr: Tyran de l'Ouest
   de: Schmalschnabel-Königstyrann
-  pt: western kingbird
+  pt: ''
   ru: Западный тиранн
   ja: ニシタイランチョウ
   zh: 西方美洲王霸鶲

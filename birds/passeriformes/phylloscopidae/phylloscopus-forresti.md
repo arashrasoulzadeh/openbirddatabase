@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24816.0
 names:
   scientific: Phylloscopus forresti
-  fa: nan
+  fa: ''
   en: Sichuan Leaf Warbler
   es: Mosquitero de Sichuán
   fr: Pouillot du Lijiang
   de: Sichuanlaubsänger
-  pt: sichuan leaf warbler
+  pt: ''
   ru: Сычуаньская зарничка
   ja: シセンムシクイ
   zh: 四川柳莺

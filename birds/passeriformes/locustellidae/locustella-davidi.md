@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23826.0
 names:
   scientific: Locustella davidi
-  fa: nan
+  fa: ''
   en: Baikal Bush Warbler
   es: Zarzalero de David
   fr: Locustelle de David
   de: Davidschwirl
-  pt: baikal bush warbler
+  pt: ''
   ru: Малая пестрогрудка
   ja: シベリアムナフオウギセッカ
   zh: 北短翅蝗莺

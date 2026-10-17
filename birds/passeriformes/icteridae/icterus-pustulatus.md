@@ -12,7 +12,7 @@ names:
   es: Turpial Dorsilistado
   fr: Oriole à dos rayé
   de: Piroltrupial
-  pt: streak-backed oriole
+  pt: ''
   ru: Пестрокрылый трупиал
   ja: ズアカムクドリモドキ
   zh: 红头拟鹂

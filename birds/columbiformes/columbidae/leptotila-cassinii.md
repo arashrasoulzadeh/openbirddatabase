@@ -15,7 +15,7 @@ names:
   pt: gray-chested dove
   ru: Серогрудая голубка
   ja: ハイイロシャコバト
-  zh: Grey-chested Dove
+  zh: ''
   nl: Cassinduif
   pl: gołębik szaropierśny
   tr: Cassin Kumrusu

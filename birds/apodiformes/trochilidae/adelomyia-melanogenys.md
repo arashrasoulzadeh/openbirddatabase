@@ -12,7 +12,7 @@ names:
   es: Colibrí Jaspeado
   fr: Colibri moucheté
   de: Schwarzohrkolibri
-  pt: speckled hummingbird
+  pt: ''
   ru: Черноухий колибри
   ja: ミミグロハチドリ
   zh: 點斑蜂鳥

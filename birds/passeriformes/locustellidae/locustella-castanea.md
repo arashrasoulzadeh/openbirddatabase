@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23822.0
 names:
   scientific: Locustella castanea
-  fa: nan
+  fa: ''
   en: Sulawesi Bush Warbler
   es: Zarzalero Castaño
   fr: Locustelle marron
   de: Sulawesischwirl
-  pt: sulawesi bush warbler
+  pt: ''
   ru: Сулавесская пестрогрудка
   ja: スラウェシオウギセッカ
   zh: 栗背短翅蝗莺

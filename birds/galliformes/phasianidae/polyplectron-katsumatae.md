@@ -12,7 +12,7 @@ names:
   es: Espolonero de Hainán
   fr: Éperonnier de Hainan
   de: Hainanpfaufasan
-  pt: hainan peacock-pheasant
+  pt: ''
   ru: Хайнаньский павлиний фазан
   ja: ハイナンコクジャク
   zh: 海南孔雀雉

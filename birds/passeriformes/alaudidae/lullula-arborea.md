@@ -15,7 +15,7 @@ names:
   pt: cotovia-das-árvores
   ru: Лесной жаворонок
   ja: モリヒバリ
-  zh: Woodlark
+  zh: ''
   nl: Boomleeuwerik
   pl: lerka
   tr: Orman Toygarı

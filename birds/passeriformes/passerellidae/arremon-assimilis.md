@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33041.0
 names:
   scientific: Arremon assimilis
-  fa: nan
+  fa: ''
   en: Grey-browed Brushfinch
   es: Cerquero Picofino
   fr: Tohi à raies grises
@@ -15,7 +15,7 @@ names:
   pt: gray-browed brushfinch
   ru: Серобровый тохи
   ja: ハイマユヤブシトド
-  zh: Grey-browed Brushfinch
+  zh: ''
   nl: Grijsbrauwstruikgors
   pl: strojnogłowik szaropręgi
   tr: Gri Kaşlı Çalı Serçesi

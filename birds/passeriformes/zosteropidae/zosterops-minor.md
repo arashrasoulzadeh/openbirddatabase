@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25742.0
 names:
   scientific: Zosterops minor
-  fa: nan
+  fa: ''
   en: Black-fronted White-eye
   es: Anteojitos Menor
   fr: Zostérops mineur
   de: Grünstirn-Brillenvogel
-  pt: black-fronted white-eye
+  pt: ''
   ru: Малая белоглазка
   ja: ニューギニアメジロ
   nl: Zwartmaskerbrilvogel

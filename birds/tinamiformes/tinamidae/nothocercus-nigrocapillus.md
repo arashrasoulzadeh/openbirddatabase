@@ -12,7 +12,7 @@ names:
   es: Tinamú Cabecinegro
   fr: Tinamou à capuchon
   de: Kapuzentinamu
-  pt: hooded tinamou
+  pt: ''
   ru: Капюшоновый трёхпалый тинаму
   ja: コモンシギダチョウ
   zh: 灰头白喉林䳍

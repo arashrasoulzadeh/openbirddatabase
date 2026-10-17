@@ -12,7 +12,7 @@ names:
   es: Silbador de Gran Sangir
   fr: Siffleur des Sangihe
   de: Sangihedickkopf
-  pt: sangihe whistler
+  pt: ''
   ru: Сангирский свистун
   ja: サンギヘモズヒタキ
   nl: Sangirfluiter

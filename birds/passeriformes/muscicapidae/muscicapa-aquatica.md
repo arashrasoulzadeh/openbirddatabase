@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28832.0
 names:
   scientific: Muscicapa aquatica
-  fa: nan
+  fa: ''
   en: Swamp Flycatcher
   es: Papamoscas Palustre
   fr: Gobemouche des marais
   de: Sumpfschnäpper
-  pt: swamp flycatcher
+  pt: ''
   ru: Болотная мухоловка
   ja: ヌマヒタキ
   nl: Moerasvliegenvanger

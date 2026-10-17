@@ -15,7 +15,7 @@ names:
   pt: pássaro-da-erva-de-timor
   ru: Тимория
   ja: チモールムシクイ
-  zh: Buff-banded Thicketbird
+  zh: ''
   nl: Büttikoferzanger
   pl: krzakowik płowy
   tr: Çift Şeritli Çalı Ötleğeni

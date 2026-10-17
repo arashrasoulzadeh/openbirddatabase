@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29420.0
 names:
   scientific: Myophonus glaucinus
-  fa: nan
+  fa: ''
   en: Javan Whistling Thrush
   es: Arrenga de Java
   fr: Arrenga bleuet
@@ -15,7 +15,7 @@ names:
   pt: javan whistling-thrush
   ru: Яванская синяя птица
   ja: スンダルリチョウ
-  zh: Javan Whistling Thrush
+  zh: ''
   nl: Javaanse fluitlijster
   pl: gwizdokos błękitny
   tr: Cava Islıkçı Bülbülü

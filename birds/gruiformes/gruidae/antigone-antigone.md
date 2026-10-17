@@ -12,7 +12,7 @@ names:
   es: Grulla Sarus
   fr: Grue antigone
   de: Saruskranich
-  pt: sarus crane
+  pt: ''
   ru: Индийский журавль
   ja: オオヅル
   zh: 赤颈鹤

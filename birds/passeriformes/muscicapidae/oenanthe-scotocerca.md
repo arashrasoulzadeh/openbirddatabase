@@ -15,7 +15,7 @@ names:
   pt: brown-tailed chat
   ru: Буланая чернохвостка
   ja: ヒメイワビタキ
-  zh: Brown-tailed Rock Chat
+  zh: ''
   nl: Bruinstaart
   pl: białorzytka jednobarwna
   tr: Solgun Kuyrukkakan

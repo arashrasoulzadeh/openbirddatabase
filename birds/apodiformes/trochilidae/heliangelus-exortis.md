@@ -12,7 +12,7 @@ names:
   es: Colibrí Turmalina
   fr: Héliange tourmaline
   de: Grünband-Sonnennymphe
-  pt: tourmaline sunangel
+  pt: ''
   ru: Турмалиновый феб
   ja: トルマリンテンシハチドリ
   zh: 暗绿领蜂鸟

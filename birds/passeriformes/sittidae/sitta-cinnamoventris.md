@@ -12,7 +12,7 @@ names:
   es: Trepador Ventricastaño
   fr: Sittelle de Blyth
   de: Zimtbauchkleiber
-  pt: chestnut-bellied nuthatch
+  pt: ''
   ru: Каштановобрюхий поползень
   ja: クリハラゴジュウカラ
   zh: 栗腹䴓

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5040.0
 names:
   scientific: Trochilus polytmus
-  fa: nan
+  fa: ''
   en: Red-billed Streamertail
   es: Colibrí Portacintas Piquirrojo
   fr: Colibri à tête noire
   de: Rotschnabel-Jamaikasylphe
-  pt: red-billed streamertail
+  pt: ''
   ru: Вымпелохвостый колибри
   ja: フキナガシハチドリ
   zh: 紅嘴長尾蜂鳥

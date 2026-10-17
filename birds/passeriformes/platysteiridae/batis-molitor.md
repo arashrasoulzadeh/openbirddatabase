@@ -12,7 +12,7 @@ names:
   es: Batis Molitor
   fr: Pririt molitor
   de: Weißflankenschnäpper
-  pt: chinspot batis
+  pt: ''
   ru: Акациевый батис
   ja: アゴフセワタビタキ
   nl: Witflankvliegenvanger

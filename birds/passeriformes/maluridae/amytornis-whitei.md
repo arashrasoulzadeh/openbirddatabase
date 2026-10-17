@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 17600.0
 names:
   scientific: Amytornis whitei
-  fa: nan
+  fa: ''
   en: Pilbara Grasswren
   es: Maluro de Pilbara
   fr: Amytis de White
-  pt: pilbara grasswren
+  pt: ''
   ru: Пилбарский травяной малюр
   zh: 棕草鹩莺
   nl: Rosse grassluiper

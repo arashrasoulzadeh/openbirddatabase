@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 23706.0
 names:
   scientific: Acrocephalus rodericanus
-  fa: nan
+  fa: ''
   en: Rodrigues Warbler
   es: Carricero de Isla Rodrigues
   fr: Rousserolle de Rodrigues
   de: Rodriguesrohrsänger
-  pt: rodrigues warbler
+  pt: ''
   ru: Родригесская камышовка
   ja: ロドリゲスヤブセンニュウ
   zh: 羅迪藪鶯

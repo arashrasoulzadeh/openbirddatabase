@@ -12,7 +12,7 @@ names:
   es: Baza Negro
   fr: Baza huppard
   de: Dreifarbweih
-  pt: black baza
+  pt: ''
   ru: Чёрная база
   ja: クロカッコウハヤブサ
   zh: 黑冠鹃隼

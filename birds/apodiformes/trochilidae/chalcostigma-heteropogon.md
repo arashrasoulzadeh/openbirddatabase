@@ -12,7 +12,7 @@ names:
   es: Colibrí Picoespina
   fr: Métallure à queue bronzée
   de: Bronzeglanzschwänzchen
-  pt: bronze-tailed thornbill
+  pt: ''
   ru: Бронзовохвостый радужник
   ja: アゴヒゲコバシハチドリ
   zh: 铜尾尖嘴蜂鸟

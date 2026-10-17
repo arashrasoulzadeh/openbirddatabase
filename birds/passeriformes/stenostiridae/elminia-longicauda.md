@@ -12,7 +12,7 @@ names:
   es: Elminia Azul
   fr: Elminie bleue
   de: Blauhaubenschnäpper
-  pt: african blue flycatcher
+  pt: ''
   ru: Бирюзовая эльминия
   ja: ソライロヒタキ
   nl: Turkooiskuifvliegenvanger

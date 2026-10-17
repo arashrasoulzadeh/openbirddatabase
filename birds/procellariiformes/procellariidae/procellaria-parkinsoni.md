@@ -15,7 +15,7 @@ names:
   pt: parkinson's petrel
   ru: Чёрный буревестник
   ja: クロミズナギドリ
-  zh: Black Petrel
+  zh: ''
   nl: Zwarte stormvogel
   pl: burzyk czarny
   tr: Kara Yelkovan

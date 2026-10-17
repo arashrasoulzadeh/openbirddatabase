@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29080.0
 names:
   scientific: Eumyias stresemanni
-  fa: nan
+  fa: ''
   en: Sumba Jungle Flycatcher
   es: Papamoscas de Sumba Oscuro
   fr: Gobemouche de Stresemann
   de: Sumbadschungelschnäpper
-  pt: sumba jungle flycatcher
+  pt: ''
   ru: Флоресская джунглевая мухоловка
   ja: フロレスミツリンヒタキ
   nl: Soembajunglevliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Cucal Milo
   fr: Coucal à tête fauve
   de: Blasskopfkuckuck
-  pt: buff-headed coucal
+  pt: ''
   ru: Бледноголовый кукаль
   ja: キガシラバンケン
   nl: Salomonsspoorkoekoek

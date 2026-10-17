@@ -12,7 +12,7 @@ names:
   es: Chotacabras Cuerporruín Norteño
   fr: Engoulevent bois-pourri
   de: Schwarzkehl-Nachtschwalbe
-  pt: eastern whip-poor-will
+  pt: ''
   ru: Жалобный козодой
   ja: ホイップアーウィルヨタカ
   zh: 三聲夜鷹

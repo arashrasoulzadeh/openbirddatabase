@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30282.0
 names:
   scientific: Leptocoma brasiliana
-  fa: nan
+  fa: ''
   en: Van Hasselt's Sunbird
   es: Suimanga Ventrigranate
   fr: Souimanga de Hasselt
   de: Blauglanz-Nektarvogel
-  pt: van hasselt's sunbird
+  pt: ''
   ru: Чернощёкая нектарница
   ja: アンハッセルトタイヨウチョウ
   zh: 蓝肩花蜜鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11595.0
 names:
   scientific: Gecinulus grantia
-  fa: nan
+  fa: ''
   en: Pale-headed Woodpecker
   es: Pito del Bambú Norteño
   fr: Pic grantia
   de: Fahlstirnspecht
-  pt: pale-headed woodpecker
+  pt: ''
   ru: Светлоголовый дятел
   ja: タケゲラ
   zh: 竹啄木鸟

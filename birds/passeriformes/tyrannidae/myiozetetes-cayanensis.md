@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17387.0
 names:
   scientific: Myiozetetes cayanensis
-  fa: nan
+  fa: ''
   en: Rusty-margined Flycatcher
   es: Bienteveo Alicastaño
   fr: Tyran de Cayenne

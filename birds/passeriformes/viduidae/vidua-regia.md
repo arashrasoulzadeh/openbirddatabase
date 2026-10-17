@@ -12,7 +12,7 @@ names:
   es: Viuda Real
   fr: Veuve royale
   de: Königswitwe
-  pt: shaft-tailed whydah
+  pt: ''
   ru: Королевская вдовушка
   ja: ミカドスズメ
   zh: 箭尾维达雀

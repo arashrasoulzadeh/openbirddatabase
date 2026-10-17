@@ -12,7 +12,7 @@ names:
   es: Arborófila de Hainán
   fr: Torquéole de Hainan
   de: Hainanbuschwachtel
-  pt: hainan partridge
+  pt: ''
   ru: Хайнаньская лесная куропатка
   ja: ハイナンミヤマテッケイ
   zh: 海南山鹧鸪

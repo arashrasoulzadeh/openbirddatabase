@@ -12,7 +12,7 @@ names:
   es: Pito Culigualdo
   fr: Pic striolé
   de: Indiengrünspecht
-  pt: streak-throated woodpecker
+  pt: ''
   ru: Индийский дятел
   ja: ムナフタケアオゲラ
   zh: 鳞喉绿啄木鸟

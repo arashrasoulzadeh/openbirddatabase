@@ -12,7 +12,7 @@ names:
   es: Amazona Tamaulipeca
   fr: Amazone à joues vertes
   de: Grünwangenamazone
-  pt: red-crowned amazon
+  pt: ''
   ru: Зеленощёкий амазон
   ja: メキシコアカボウシインコ
   zh: 紅冠亞馬遜鸚鵡

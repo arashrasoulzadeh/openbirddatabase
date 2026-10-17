@@ -12,7 +12,7 @@ names:
   es: Monarca Cuellirrufo
   fr: Monarque à froc roux
   de: Rothalsmonarch
-  pt: ochre-collared monarch
+  pt: ''
   ru: Охристый воротничковый монарх
   ja: アカエリマキヒタキ
   nl: Roodhalsfranjemonarch

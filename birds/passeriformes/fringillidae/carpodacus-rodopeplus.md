@@ -12,7 +12,7 @@ names:
   es: Camachuelo Alimoteado
   fr: Roselin à ailes tachetées
   de: Fleckengimpel
-  pt: spot-winged rosefinch
+  pt: ''
   ru: Пятнистокрылая чечевица
   ja: フタスジマシコ
   zh: 喜山点翅朱雀

@@ -12,7 +12,7 @@ names:
   es: Perico Pálido
   fr: Perruche à tête pâle
   de: Blasskopfsittich
-  pt: pale-headed rosella
+  pt: ''
   ru: Бледноголовая розелла
   ja: ホオアオサメクサインコ
   zh: 淡頭玫瑰鸚鵡

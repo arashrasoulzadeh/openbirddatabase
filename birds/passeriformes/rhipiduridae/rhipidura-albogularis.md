@@ -15,7 +15,7 @@ names:
   pt: spot-breasted fantail
   ru: Белогорлая веерохвостка
   ja: ムナボシオウギビタキ
-  zh: White-spotted Fantail
+  zh: ''
   nl: Witvlekwaaierstaart
   pl: wachlarzówka hinduska
   tr: Kömürcü Katmerkuyruk

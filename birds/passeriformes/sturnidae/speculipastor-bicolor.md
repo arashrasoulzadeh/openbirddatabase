@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27933.0
 names:
   scientific: Speculipastor bicolor
-  fa: nan
+  fa: ''
   en: Magpie Starling
   es: Estornino Urraca
   fr: Choucador pie
   de: Spiegelstar
-  pt: magpie starling
+  pt: ''
   ru: Сорочий скворец
   ja: ニショクムクドリ
   nl: Spiegelspreeuw

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29218.0
 names:
   scientific: Cossypha cyanocampter
-  fa: nan
+  fa: ''
   en: Blue-shouldered Robin-Chat
   es: Cosifa Aliazul
   fr: Cossyphe à ailes bleues
   de: Blauschulterrötel
-  pt: blue-shouldered robin-chat
+  pt: ''
   ru: Синеплечий рыжехвост
   ja: ルリカタツグミヒタキ
   nl: Blauwschouderlawaaimaker

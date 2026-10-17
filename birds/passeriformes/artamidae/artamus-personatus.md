@@ -12,7 +12,7 @@ names:
   es: Artamo Enmascarado
   fr: Langrayen masqué
   de: Maskenschwalbenstar
-  pt: masked woodswallow
+  pt: ''
   ru: Чернолицый артам
   ja: ホオグロモリツバメ
   zh: 黑面燕鵙

@@ -12,7 +12,7 @@ names:
   es: Pijuí de Ancash
   fr: Synallaxe de Zimmer
   de: Rostbauch-Dickichtschlüpfer
-  pt: russet-bellied spinetail
+  pt: ''
   ru: Рыжебрюхая иглохвостка
   ja: アカハラカマドドリ
   zh: 草黃腹針尾雀

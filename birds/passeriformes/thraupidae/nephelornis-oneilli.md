@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34736.0
 names:
   scientific: Nephelornis oneilli
-  fa: nan
+  fa: ''
   en: Pardusco
   es: Tangara Pardusca
   fr: Pardusco d'O'Neill
   de: Brauntangare
-  pt: pardusco
+  pt: ''
   ru: Пардуско
   ja: パルドスコ
   zh: 秘鲁森雀

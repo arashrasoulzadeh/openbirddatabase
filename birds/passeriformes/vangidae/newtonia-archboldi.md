@@ -12,7 +12,7 @@ names:
   es: Newtonia de Archbold
   fr: Newtonie d'Archbold
   de: Braunstirnvanga
-  pt: archbold's newtonia
+  pt: ''
   ru: Южная ньютония
   ja: キバラニュートンヒタキ
   nl: Archboldnewtonia

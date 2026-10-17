@@ -12,7 +12,7 @@ names:
   es: Bulbul Peludo
   fr: Bulbul chevelu
   de: Borstenmantelbülbül
-  pt: hairy-backed bulbul
+  pt: ''
   ru: Желтолицый бюльбюль
   ja: エリゲヒヨドリ
   zh: 絨背短腳鵯

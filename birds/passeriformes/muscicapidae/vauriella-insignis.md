@@ -15,7 +15,7 @@ names:
   pt: rusty-flanked jungle flycatcher
   ru: Белобровая гилейница
   ja: マミジロミツリンヒタキ
-  zh: White-browed Jungle Flycatcher
+  zh: ''
   nl: Luzonjunglevliegenvanger
   pl: dżunglareczka białobrewa
   tr: Kızıl Orman Sinekkapanı

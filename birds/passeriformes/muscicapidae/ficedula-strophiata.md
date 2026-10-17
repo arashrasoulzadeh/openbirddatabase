@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29533.0
 names:
   scientific: Ficedula strophiata
-  fa: nan
+  fa: ''
   en: Rufous-gorgeted Flycatcher
   es: Papamoscas Gorjirrojo
   fr: Gobemouche à bavette orange
   de: Zimtkehlschnäpper
-  pt: rufous-gorgeted flycatcher
+  pt: ''
   ru: Рыжезвёздная мухоловка
   ja: ノドグロヒタキ
   zh: 橙胸姬鹟

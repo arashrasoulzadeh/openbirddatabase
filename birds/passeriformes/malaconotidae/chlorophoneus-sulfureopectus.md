@@ -15,7 +15,7 @@ names:
   pt: picanço-de-peito-laranja
   ru: Желтобрюхий гладиатор
   ja: ミドリヤブモズ
-  zh: Orange-breasted Bushshrike
+  zh: ''
   nl: Oranje bosklauwier
   pl: dzierzbik złoty
   tr: Safran Göğüslü Çalıkasabı

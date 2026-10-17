@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10204.0
 names:
   scientific: Todiramphus albicilla
-  fa: nan
+  fa: ''
   en: Mariana Kingfisher
   es: Alción de las Marianas
   fr: Martin-chasseur des Mariannes
   de: Marianenliest
-  pt: mariana kingfisher
+  pt: ''
   ru: Марианская альциона
   ja: マリアナショウビン
   zh: 馬里亞納翡翠

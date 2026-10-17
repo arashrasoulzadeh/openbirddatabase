@@ -12,7 +12,7 @@ names:
   es: Piojito de Los Pinos
   fr: Tyranneau de Hellmayr
   de: Fahlbinden-Tachurityrann
-  pt: buff-banded tyrannulet
+  pt: ''
   ru: Желтопоясный длиннохвостый тиранчик
   ja: キイロフタスジタイランチョウ
   nl: Bruinstaarttachuri

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17884.0
 names:
   scientific: Ptilotula penicillata
-  fa: nan
+  fa: ''
   en: White-plumed Honeyeater
   es: Mielero Empenachado
   fr: Méliphage serti
   de: Weißbürzel-Honigfresser
-  pt: white-plumed honeyeater
+  pt: ''
   ru: Серо-жёлтый медосос
   ja: ミミジロコバシミツスイ
   zh: 白痣吸蜜鸟

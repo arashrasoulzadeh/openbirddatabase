@@ -12,7 +12,7 @@ names:
   es: Bulbul de El Cabo
   fr: Bulbul du Cap
   de: Kapbülbül
-  pt: cape bulbul
+  pt: ''
   ru: Капский бюльбюль
   ja: メジロアフリカヒヨドリ
   zh: 南非鵯

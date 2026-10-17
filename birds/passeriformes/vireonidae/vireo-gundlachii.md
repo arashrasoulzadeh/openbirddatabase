@@ -12,7 +12,7 @@ names:
   es: Vireo Cubano
   fr: Viréo de Cuba
   de: Kubavireo
-  pt: cuban vireo
+  pt: ''
   ru: Кубинский виреон
   ja: キューバモズモドキ
   nl: Cubaanse vireo

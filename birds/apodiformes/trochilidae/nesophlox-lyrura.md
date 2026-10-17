@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4809.0
 names:
   scientific: Nesophlox lyrura
-  fa: nan
+  fa: ''
   en: Inagua Woodstar
   es: Colibrí de Inagua
   fr: Colibri d'Inagua
   de: Inaguasternkolibri
-  pt: inagua woodstar
+  pt: ''
   ru: Инагуанский эльф
   ja: イナグアハチドリ
   zh: 易那圭林星蜂鸟

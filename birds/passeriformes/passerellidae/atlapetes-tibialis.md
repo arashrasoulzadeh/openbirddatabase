@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 33446.0
 names:
   scientific: Atlapetes tibialis
-  fa: nan
+  fa: ''
   en: Yellow-thighed Brushfinch
   es: Cerquero Musliamarillo
   fr: Tohi à cuisses jaunes
   de: Gelbschenkel-Buschammer
-  pt: yellow-thighed brushfinch
+  pt: ''
   ru: Желтобёдрая атлапета
   ja: クロキモモシトド
   nl: Geeldijstruikgors

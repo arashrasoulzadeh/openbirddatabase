@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25730.0
 names:
   scientific: Zosterops flavissimus
-  fa: nan
+  fa: ''
   en: Wakatobi White-eye
   es: Anteojitos de Wakatobi
   fr: Zostérops des Wakatobi
   de: Tukang-Besi-Brillenvogel
-  pt: wakatobi white-eye
+  pt: ''
   ru: Белоглазка вакатоби
   ja: ワカトビメジロ
   zh: 瓦卡托比繡眼

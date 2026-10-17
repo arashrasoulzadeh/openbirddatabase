@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18078.0
 names:
   scientific: Lichmera argentauris
-  fa: nan
+  fa: ''
   en: Olive Honeyeater
   es: Mielero Cariplateado
   fr: Méliphage à joues argent
   de: Silberohr-Honigfresser
-  pt: olive honeyeater
+  pt: ''
   ru: Серебряноухий медолюб
   ja: オリーブミツスイ
   zh: 綠岩吸蜜鳥

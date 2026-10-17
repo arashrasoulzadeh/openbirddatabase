@@ -12,7 +12,7 @@ names:
   es: Rascón Malgache
   fr: Râle de Madagascar
   de: Madagaskarralle
-  pt: madagascar rail
+  pt: ''
   ru: Мадагаскарский пастушок
   ja: チャムネクイナ
   zh: 馬島秧雞

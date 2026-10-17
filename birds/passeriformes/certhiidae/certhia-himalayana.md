@@ -12,7 +12,7 @@ names:
   es: Agateador del Himalaya
   fr: Grimpereau de l'Himalaya
   de: Bänderschwanz-Baumläufer
-  pt: bar-tailed treecreeper
+  pt: ''
   ru: Гималайская пищуха
   ja: ヒマラヤキバシリ
   zh: 高山旋木雀

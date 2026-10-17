@@ -12,7 +12,7 @@ names:
   es: Pita Lomiazul
   fr: Brève à dos bleu
   de: Blaubürzelpitta
-  pt: blue-rumped pitta
+  pt: ''
   ru: Синешейная питта
   ja: コシアオヤイロチョウ
   zh: 蓝背八色鸫

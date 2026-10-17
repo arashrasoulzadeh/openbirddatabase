@@ -12,7 +12,7 @@ names:
   es: Monarca Rufo
   fr: Monarque roux
   de: Fuchsmonarch
-  pt: rufous monarch
+  pt: ''
   ru: Лисий монарх
   ja: チャイロカササギビタキ
   nl: Rosse monarch

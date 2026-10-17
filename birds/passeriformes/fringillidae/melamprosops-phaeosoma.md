@@ -12,7 +12,7 @@ names:
   es: Poo-Uli
   fr: Po-o-uli masqué
   de: Weißwangen-Kleidervogel
-  pt: poo-uli
+  pt: ''
   ru: Чернолицая пооули
   ja: カオグロハワイミツスイ
   zh: 毛島蜜雀

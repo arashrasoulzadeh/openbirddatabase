@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33093.0
 names:
   scientific: Arremon crassirostris
-  fa: nan
+  fa: ''
   en: Sooty-faced Finch
   es: Cerquero Carisucio
   fr: Tohi masqué
   de: Dickschnabel-Buschammer
-  pt: sooty-faced finch
+  pt: ''
   ru: Темнолиций тохи
   ja: ウスズミハシブトシトド
   nl: Dikbekstruikgors

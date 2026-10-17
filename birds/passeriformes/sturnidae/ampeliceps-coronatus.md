@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27798.0
 names:
   scientific: Ampeliceps coronatus
-  fa: nan
+  fa: ''
   en: Golden-crested Myna
   es: Miná Coronado
   fr: Mainate couronné
   de: Kronenatzel
-  pt: golden-crested myna
+  pt: ''
   ru: Златохохлая майна
   ja: キガシラムクドリ
   zh: 金冠树八哥

@@ -12,7 +12,7 @@ names:
   es: Cálao de Sumba
   fr: Calao de Sumba
   de: Sumbahornvogel
-  pt: sumba hornbill
+  pt: ''
   ru: Сумбанский калао
   ja: スンバシワコブサイチョウ
   zh: 巽他皺盔犀鳥

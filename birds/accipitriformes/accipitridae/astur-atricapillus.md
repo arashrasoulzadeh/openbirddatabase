@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8292.0
 names:
   scientific: Astur atricapillus
-  fa: nan
+  fa: ''
   en: American Goshawk
   es: Azor Norteamericano
   fr: Autour d'Amérique
   de: Amerikanischer Habicht
-  pt: american goshawk
+  pt: ''
   ru: Американский тетеревятник
   ja: アメリカオオタカ
   nl: Amerikaanse havik

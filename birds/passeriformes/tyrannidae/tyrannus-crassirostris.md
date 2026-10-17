@@ -12,7 +12,7 @@ names:
   es: Tirano Piquigrueso
   fr: Tyran à bec épais
   de: Dickschnabel-Königstyrann
-  pt: thick-billed kingbird
+  pt: ''
   ru: Толстоклювый тиранн
   ja: ハシブトタイランチョウ
   nl: Diksnavelkoningstiran

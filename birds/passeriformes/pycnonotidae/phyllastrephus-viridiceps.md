@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24407.0
 names:
   scientific: Phyllastrephus viridiceps
-  fa: nan
+  fa: ''
   en: Angola Greenbul
   es: Bulbul Angoleño
   fr: Bulbul du Kwanza
   de: Ockerkehlbülbül
-  pt: angola greenbul
+  pt: ''
   nl: Groenkruinloofbuulbuul
   pl: jasnobrzuch zielonawy
   tr: Angola Yaprakbülbülü

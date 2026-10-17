@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15053.0
 names:
   scientific: Furnarius cristatus
-  fa: nan
+  fa: ''
   en: Crested Hornero
   es: Hornero Copetón
   fr: Fournier huppé
   de: Haubentöpfer
-  pt: crested hornero
+  pt: ''
   ru: Хохлатый печник
   ja: カンムリカマドドリ
   nl: Kuifovenvogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10818.0
 names:
   scientific: Eubucco bourcierii
-  fa: nan
+  fa: ''
   en: Red-headed Barbet
   es: Cabezón Cabecirrojo
   fr: Cabézon à tête rouge
   de: Andenbartvogel
-  pt: red-headed barbet
+  pt: ''
   ru: Андская бородатка
   ja: ズアカゴシキドリ
   nl: Roodkopbaardvogel

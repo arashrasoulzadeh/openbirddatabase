@@ -12,7 +12,7 @@ names:
   es: Mielero Escarlata
   fr: Myzomèle écarlate
   de: Scharlachhonigfresser
-  pt: scarlet myzomela
+  pt: ''
   ru: Алая медовка
   ja: クレナイミツスイ
   nl: Scharlaken dwerghoningeter

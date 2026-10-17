@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14068.0
 names:
   scientific: Ammonastes pelzelni
-  fa: nan
+  fa: ''
   en: Grey-bellied Antbird
   es: Hormiguero Ventrigrís
   fr: Alapi à ventre gris
@@ -15,7 +15,7 @@ names:
   pt: formigueiro-de-barriga-cinza
   ru: Пестрощёкий алапи
   ja: ハイバラアリドリ
-  zh: Grey-bellied Antbird
+  zh: ''
   nl: Grijsbuikmiervogel
   pl: ściółkowczyk szarobrzuchy
   tr: Gri Karınlı Karıncakuşu

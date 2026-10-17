@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30295.0
 names:
   scientific: Leptocoma aspasia
-  fa: nan
+  fa: ''
   en: Black Sunbird
   es: Suimanga Negro
   fr: Souimanga satiné
   de: Seidennektarvogel
-  pt: black sunbird
+  pt: ''
   ru: Чёрная нектарница
   ja: クロタイヨウチョウ
   nl: Fluweelhoningzuiger

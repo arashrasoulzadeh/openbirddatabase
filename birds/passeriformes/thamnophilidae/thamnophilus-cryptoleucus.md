@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13551.0
 names:
   scientific: Thamnophilus cryptoleucus
-  fa: nan
+  fa: ''
   en: Castelnau's Antshrike
   es: Batará de Castelnau
   fr: Batara de Castelnau

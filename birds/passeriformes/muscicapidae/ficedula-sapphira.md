@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29536.0
 names:
   scientific: Ficedula sapphira
-  fa: nan
+  fa: ''
   en: Sapphire Flycatcher
   es: Papamoscas Zafiro
   fr: Gobemouche saphir
   de: Saphirschnäpper
-  pt: sapphire flycatcher
+  pt: ''
   ru: Сапфировая мухоловка
   ja: サファイヤヒタキ
   zh: 玉头姬鹟

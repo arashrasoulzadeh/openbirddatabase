@@ -12,7 +12,7 @@ names:
   es: Zorzal Piquilargo
   fr: Grive montagnarde
   de: Bergerddrossel
-  pt: long-billed thrush
+  pt: ''
   ru: Горный дрозд
   ja: オオハシツグミ
   zh: 大长嘴地鸫

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 961.0
 names:
   scientific: Ortalis columbiana
-  fa: nan
+  fa: ''
   en: Colombian Chachalaca
   es: Chachalaca Colombiana
   fr: Ortalide de Colombie
   de: Kolumbienguan
-  pt: colombian chachalaca
+  pt: ''
   ru: Колумбийская чачалака
   ja: コロンビアヒメシャクケイ
   zh: 哥伦比亚小冠雉

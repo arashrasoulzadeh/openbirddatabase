@@ -12,7 +12,7 @@ names:
   es: Collalba de Hume
   fr: Traquet de Hume
   de: Schwarzkopf-Steinschmätzer
-  pt: hume's wheatear
+  pt: ''
   ru: Черноголовая каменка
   ja: ズグロサバクヒタキ
   nl: Humes tapuit

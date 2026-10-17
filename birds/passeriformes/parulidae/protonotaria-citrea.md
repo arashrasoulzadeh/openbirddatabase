@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33963.0
 names:
   scientific: Protonotaria citrea
-  fa: nan
+  fa: ''
   en: Prothonotary Warbler
   es: Reinita Protonotaria
   fr: Paruline orangée

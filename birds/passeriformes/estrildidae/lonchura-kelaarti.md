@@ -12,7 +12,7 @@ names:
   es: Capuchino Golinegro
   fr: Capucin à ventre roux
   de: Bergbronzemännchen
-  pt: black-throated munia
+  pt: ''
   ru: Чернозобая муния
   ja: チャイロキンパラ
   zh: 紅胸文鳥

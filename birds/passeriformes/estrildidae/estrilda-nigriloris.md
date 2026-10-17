@@ -12,7 +12,7 @@ names:
   es: Estrilda Ojinegra
   fr: Astrild à masque noir
   de: Schwarzzügelastrild
-  pt: black-lored waxbill
+  pt: ''
   ru: Черноглазый астрильд
   ja: クロスジカエデチョウ
   zh: 黑臉梅花雀

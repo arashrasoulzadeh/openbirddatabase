@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8564.0
 names:
   scientific: Buteo refectus
-  fa: nan
+  fa: ''
   en: Himalayan Buzzard
   es: Busardo del Himalaya
   fr: Buse de l'Himalaya
   de: Tibetbussard
-  pt: himalayan buzzard
+  pt: ''
   ru: Гималайский канюк
   ja: ヒマラヤノスリ
   zh: 喜山鵟

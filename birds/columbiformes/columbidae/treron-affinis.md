@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2496.0
 names:
   scientific: Treron affinis
-  fa: nan
+  fa: ''
   en: Grey-fronted Green Pigeon
   es: Vinago de Los Ghats
   fr: Colombar des Ghats
@@ -15,7 +15,7 @@ names:
   pt: gray-fronted green-pigeon
   ru: Серолобый зелёный голубь
   ja: ハイビタイアオバト
-  zh: Grey-fronted Green Pigeon
+  zh: ''
   nl: Indiase papegaaiduif
   pl: treron żółtorzytny
   tr: Hint Yeşil Güvercini

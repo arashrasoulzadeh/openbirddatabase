@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2975.0
 names:
   scientific: Crinifer personatus
-  fa: nan
+  fa: ''
   en: Bare-faced Go-away-bird
   es: Turaco Enmascarado
   fr: Touraco masqué
   de: Nacktgesicht-Lärmvogel
-  pt: bare-faced go-away-bird
+  pt: ''
   ru: Масковый бананоед
   ja: クロガオハイイロエボシドリ
   nl: Maskertoerako

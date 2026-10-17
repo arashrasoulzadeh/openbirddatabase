@@ -12,7 +12,7 @@ names:
   es: Sedosito de Beccari
   fr: Séricorne de Beccari
   de: Beccarisericornis
-  pt: tropical scrubwren
+  pt: ''
   ru: Малая кустовка
   ja: ヒメヤブムシクイ
   nl: Beccaristruiksluiper

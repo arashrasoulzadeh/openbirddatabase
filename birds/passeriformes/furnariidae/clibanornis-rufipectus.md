@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 15230.0
 names:
   scientific: Clibanornis rufipectus
-  fa: nan
+  fa: ''
   en: Santa Marta Foliage-gleaner
   es: Ticotico de Santa Marta
   fr: Anabate de Santa Marta
   de: Rostbrust-Baumspäher
-  pt: santa marta foliage-gleaner
+  pt: ''
   ru: Сантамартийскый лесовик
   ja: サンタマルタカマドドリ
   nl: Santa-Martabladspeurder

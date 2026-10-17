@@ -12,7 +12,7 @@ names:
   es: Malimbo Crestado
   fr: Malimbe huppé
   de: Haubenweber
-  pt: crested malimbe
+  pt: ''
   ru: Краснохохлый малимб
   ja: カンムリモリハタオリ
   nl: Kuifprachtwever

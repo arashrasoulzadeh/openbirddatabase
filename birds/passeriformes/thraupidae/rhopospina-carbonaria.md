@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35428.0
 names:
   scientific: Rhopospina carbonaria
-  fa: nan
+  fa: ''
   en: Carbonated Sierra Finch
   es: Yal Carbonero
   fr: Incaspize charbonnier
   de: Karbonammertangare
-  pt: carbonated sierra finch
+  pt: ''
   ru: Черногрудая пизарита
   ja: クロハラヤマシトド
   nl: Zwarte sierragors

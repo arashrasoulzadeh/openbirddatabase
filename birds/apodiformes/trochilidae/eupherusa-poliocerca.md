@@ -12,7 +12,7 @@ names:
   es: Colibrí de Guerrero
   fr: Colibri du Guerrero
   de: Weißschwanzkolibri
-  pt: white-tailed hummingbird
+  pt: ''
   ru: Белохвостая эферуса
   ja: オジロハチドリ
   zh: 白尾蜂鸟

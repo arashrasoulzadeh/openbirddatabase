@@ -12,7 +12,7 @@ names:
   es: Tangara Cejirroja
   fr: Tangara à sourcils roux
   de: Rotbrauentangare
-  pt: scarlet-browed tanager
+  pt: ''
   ru: Танагра-инка
   ja: ベニマユフウキンチョウ
   zh: 红眉唐纳雀

@@ -12,7 +12,7 @@ names:
   es: Mosquitero Cantor
   fr: Pouillot chanteur
   de: Gelbbrust-Laubsänger
-  pt: yellow-vented warbler
+  pt: ''
   ru: Чернобровая пеночка
   ja: キムネムシクイ
   zh: 黄胸柳莺

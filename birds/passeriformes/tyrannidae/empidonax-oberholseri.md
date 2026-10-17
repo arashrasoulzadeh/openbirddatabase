@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16966.0
 names:
   scientific: Empidonax oberholseri
-  fa: nan
+  fa: ''
   en: American Dusky Flycatcher
   es: Mosquero Oscuro
   fr: Moucherolle sombre
@@ -15,7 +15,7 @@ names:
   pt: dusky flycatcher
   ru: Тёмный мухолов
   ja: ネズミメジロハエトリ
-  zh: American Dusky Flycatcher
+  zh: ''
   nl: Struikfeetiran
   pl: empidonka ciemna
   tr: Oberholser Sinekkapanı

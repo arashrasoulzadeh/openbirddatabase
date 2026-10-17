@@ -12,7 +12,7 @@ names:
   es: Mielero Pechinaranja
   fr: Myzomèle des Fidji
   de: Orangebrust-Honigfresser
-  pt: sulphur-breasted myzomela
+  pt: ''
   ru: Оранжевогрудая медовка
   ja: フィジーミツスイ
   nl: Vuurborstdwerghoningeter

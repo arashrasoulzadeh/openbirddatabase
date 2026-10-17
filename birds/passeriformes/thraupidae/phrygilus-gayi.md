@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35347.0
 names:
   scientific: Phrygilus gayi
-  fa: nan
+  fa: ''
   en: Grey-hooded Sierra Finch
   es: Yal Cabecigrís
   fr: Phrygile à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-hooded sierra finch
   ru: Кордильерский овсяночник
   ja: ハイズキンヤマシトド
-  zh: Grey-hooded Sierra Finch
+  zh: ''
   nl: Grijskapsierragors
   pl: chruściak szarogłowy
   tr: Gri Başlı And İspinozu

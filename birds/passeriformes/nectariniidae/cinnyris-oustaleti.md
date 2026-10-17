@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30431.0
 names:
   scientific: Cinnyris oustaleti
-  fa: nan
+  fa: ''
   en: Oustalet's Sunbird
   es: Suimanga de Oustalet
   fr: Souimanga d'Oustalet
   de: Angolanektarvogel
-  pt: oustalet's sunbird
+  pt: ''
   ru: Ангольская нектарница
   ja: アンゴラシロハラタイヨウチョウ
   nl: Angolese honingzuiger

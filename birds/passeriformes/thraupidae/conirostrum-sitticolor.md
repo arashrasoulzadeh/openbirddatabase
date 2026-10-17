@@ -12,7 +12,7 @@ names:
   es: Conirrostro Dorsiazul
   fr: Conirostre à cape bleue
   de: Blaurücken-Spitzschnabel
-  pt: blue-backed conebill
+  pt: ''
   ru: Синеспинный конусоклюв
   ja: アカハラマルハシミツドリ
   zh: 蓝背锥嘴雀

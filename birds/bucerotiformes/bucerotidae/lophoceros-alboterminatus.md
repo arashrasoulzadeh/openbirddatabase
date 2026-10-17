@@ -12,7 +12,7 @@ names:
   es: Toco Coronado
   fr: Calao couronné
   de: Kronentoko
-  pt: crowned hornbill
+  pt: ''
   ru: Коронованый токо
   ja: カンムリコサイチョウ
   zh: 冕彎嘴犀鳥

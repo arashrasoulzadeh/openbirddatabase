@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1736.0
 names:
   scientific: Synoicus adansonii
-  fa: nan
+  fa: ''
   en: Blue Quail
   es: Codorniz Africana
   fr: Caille bleue
   de: Adansonwachtel
-  pt: blue quail
+  pt: ''
   ru: Голубой перепел
   ja: アオヒメウズラ
   nl: Blauwe kwartel

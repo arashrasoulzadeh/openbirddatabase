@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16996.0
 names:
   scientific: Empidonax atriceps
-  fa: nan
+  fa: ''
   en: Black-capped Flycatcher
   es: Mosquero Cabecinegro
   fr: Moucherolle à tête noire
   de: Schwarzkappen-Schnäppertyrann
-  pt: black-capped flycatcher
+  pt: ''
   ru: Черноголовый мухолов
   ja: ズグロメジロハエトリ
   nl: Zwartkopfeetiran

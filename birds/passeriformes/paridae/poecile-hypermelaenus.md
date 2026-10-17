@@ -12,7 +12,7 @@ names:
   es: Carbonero Barbinegro
   fr: Mésange à bavette
   de: Kragenmeise
-  pt: black-bibbed tit
+  pt: ''
   ru: Черногорлая гаичка
   ja: ミナミハシブトガラ
   zh: 黑喉山雀

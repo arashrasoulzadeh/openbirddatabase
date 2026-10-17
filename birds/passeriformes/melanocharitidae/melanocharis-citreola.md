@@ -12,7 +12,7 @@ names:
   es: Picabayas Satinado
   fr: Piquebaie satiné
   de: Kumawabeerenpicker
-  pt: satin berrypecker
+  pt: ''
   ja: ビロードハナドリ
   nl: Satijnbessenpikker
   pl: jagodziak szafirowy

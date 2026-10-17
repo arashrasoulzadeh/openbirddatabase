@@ -12,7 +12,7 @@ names:
   es: Suimanga Soberbio
   fr: Souimanga superbe
   de: Prachtnektarvogel
-  pt: superb sunbird
+  pt: ''
   ru: Великолепная нектарница
   ja: ワキアカタイヨウチョウ
   nl: Prachthoningzuiger

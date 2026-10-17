@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8768.0
 names:
   scientific: Otus mirus
-  fa: nan
+  fa: ''
   en: Mindanao Scops Owl
   es: Autillo de Mindanao
   fr: Petit-duc de Mindanao
@@ -15,7 +15,7 @@ names:
   pt: mindanao scops-owl
   ru: Минданаоская сплюшка
   ja: ミンダナオコノハズク
-  zh: Mindanao Scops Owl
+  zh: ''
   nl: Mindanaodwergooruil
   pl: syczek osobliwy
   tr: Mindanao İshakkuşu

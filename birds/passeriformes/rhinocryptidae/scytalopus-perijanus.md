@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14458.0
 names:
   scientific: Scytalopus perijanus
-  fa: nan
+  fa: ''
   en: Perija Tapaculo
   es: Churrín del Perijá
   fr: Mérulaxe de la Perija
   de: Perijátapaculo
-  pt: perija tapaculo
+  pt: ''
   ru: Перихский тапакуло
   ja: ペリハオタテドリ
   nl: Perijatapaculo

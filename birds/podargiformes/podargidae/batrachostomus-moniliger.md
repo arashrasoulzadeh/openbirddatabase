@@ -12,7 +12,7 @@ names:
   es: Podargo de Sri Lanka
   fr: Podarge de Ceylan
   de: Ceylonschwalm
-  pt: sri lanka frogmouth
+  pt: ''
   ru: Цейлонский лягушкорот
   ja: セイロンガマグチヨタカ
   zh: 斯里蘭卡蟆口鴟

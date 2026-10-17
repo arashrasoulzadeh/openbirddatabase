@@ -12,7 +12,7 @@ names:
   es: Colaespina Papú
   fr: Orthonyx de Nouvelle-Guinée
   de: Papuaflöter
-  pt: papuan logrunner
+  pt: ''
   ru: Новогвинейский острохвост
   ja: パプアハシリチメドリ
   zh: 新几内亚刺尾鸫

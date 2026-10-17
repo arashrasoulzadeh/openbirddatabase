@@ -15,7 +15,7 @@ names:
   pt: ghana cuckooshrike
   ru: Западный серёжчатый личинколюб
   ja: ホオダレサンショウクイ
-  zh: Western Wattled Cuckooshrike
+  zh: ''
   nl: Lelrupsvogel
   pl: liszkojad złotobrzuchy
   tr: Turuncu-Yeşil Tırtılyiyeni

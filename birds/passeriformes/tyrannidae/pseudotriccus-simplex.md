@@ -15,7 +15,7 @@ names:
   pt: hazel-fronted pygmy-tyrant
   ru: Коричневолобый каполего
   ja: チャビタイハエトリモドキ
-  zh: Hazel-fronted Pygmy Tyrant
+  zh: ''
   nl: Bruinvoorhoofddwergtiran
   pl: tyranulek rdzawolicy
   tr: Kestane Alınlı Küçük Tiran

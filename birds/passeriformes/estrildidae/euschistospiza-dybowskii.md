@@ -12,7 +12,7 @@ names:
   es: Estrilda de Dybowski
   fr: Sénégali à ventre noir
   de: Dybowskiastrild
-  pt: dybowski's twinspot
+  pt: ''
   ru: Красноспинный жемчужник
   ja: ハイイロアラレチョウ
   zh: 朱背双斑雀

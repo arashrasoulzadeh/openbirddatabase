@@ -15,7 +15,7 @@ names:
   pt: fan-tailed monarch
   ru: Чёрный монарх
   ja: ワキジロカササギビタキ
-  zh: Black Monarch
+  zh: ''
   nl: Wigstaartmonarch
   pl: monareczka czarna
   tr: Kara Monark

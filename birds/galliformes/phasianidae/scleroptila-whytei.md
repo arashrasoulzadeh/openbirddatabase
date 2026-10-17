@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1689.0
 names:
   scientific: Scleroptila whytei
-  fa: nan
+  fa: ''
   en: Whyte's Francolin
   es: Francolín de Whyte
   fr: Francolin de Whyte
   de: Whytefrankolin
-  pt: whyte's francolin
+  pt: ''
   nl: Whytefrankolijn
   pl: frankolin płowy
   tr: Whyte Turacı

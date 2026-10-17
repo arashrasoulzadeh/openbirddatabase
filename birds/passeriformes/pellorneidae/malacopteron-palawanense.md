@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 26169.0
 names:
   scientific: Malacopteron palawanense
-  fa: nan
+  fa: ''
   en: Melodious Babbler
   es: Tordina de Palawan
   fr: Akalat de Palawan
@@ -15,7 +15,7 @@ names:
   pt: palawan babbler
   ru: Палаванский шелкопёр
   ja: パラワンチャイロチメドリ
-  zh: Melodious Babbler
+  zh: ''
   nl: Palawantwijgtimalia
   pl: sundajek rdzawołbisty
   tr: Palavan Kasapardıcı

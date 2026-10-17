@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 31882.0
 names:
   scientific: Anthus japonicus
-  fa: nan
+  fa: ''
   en: Siberian Pipit
   es: Bisbita Siberiano
   fr: Pipit de Sibérie
   de: Sibirienpieper
-  pt: siberian pipit
+  pt: ''
   ru: Гольцовый конёк
   ja: タヒバリ
   zh: 黄腹鹨

@@ -12,7 +12,7 @@ names:
   es: Actinodura de Anteojos
   fr: Actinodure de Ramsay
   de: Brillenmeisenhäherling
-  pt: spectacled barwing
+  pt: ''
   ru: Очковый пестрокрыл
   ja: メジロシマドリ
   zh: 白眶斑翅鹛

@@ -12,7 +12,7 @@ names:
   es: Charlatán Rojizo de Formosa
   fr: Garrulaxe à tête rayée
   de: Rosthäherling
-  pt: rusty laughingthrush
+  pt: ''
   ru: Рыжеватая кустарница
   ja: タイワンタケドリ
   zh: 台湾棕噪鹛

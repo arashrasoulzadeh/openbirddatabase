@@ -15,7 +15,7 @@ names:
   pt: ethiopian black-headed oriole
   ru: Эфиопская иволга
   ja: アビシニアコウライウグイス
-  zh: Ethiopian Oriole
+  zh: ''
   nl: Monnikswielewaal
   pl: wilga abisyńska
   tr: Habeş Sarıasması

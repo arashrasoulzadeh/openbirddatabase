@@ -12,7 +12,7 @@ names:
   es: Cerquero de El Tocuyo
   fr: Tohi de Tocuyo
   de: Tocuyoammer
-  pt: tocuyo sparrow
+  pt: ''
   ru: Токуйский тохи
   ja: ヒメオリーブシトド
   nl: Tocuyogors

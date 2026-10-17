@@ -12,7 +12,7 @@ names:
   es: Kiula Andina
   fr: Tinamou quioula
   de: Punatinamu
-  pt: puna tinamou
+  pt: ''
   ru: Тинаму пуны
   ja: ミツユビシギダチョウ
   zh: 北山䳍

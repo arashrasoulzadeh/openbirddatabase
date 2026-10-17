@@ -12,7 +12,7 @@ names:
   es: Sargento Alirrojo
   fr: Carouge à épaulettes
   de: Rotflügelstärling
-  pt: red-winged blackbird
+  pt: ''
   ru: Красноплечий трупиал
   ja: ハゴロモガラス
   zh: 紅翅黑鸝

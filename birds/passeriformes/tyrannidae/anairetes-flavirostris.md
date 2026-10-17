@@ -12,7 +12,7 @@ names:
   es: Cachudito Piquiamarillo
   fr: Taurillon à bec jaune
   de: Gelbschnabel-Tachurityrann
-  pt: yellow-billed tit-tyrant
+  pt: ''
   ru: Желтоклювый гренадерчик
   ja: キバシカラタイランチョウ
   nl: Geelsnavelmeestiran

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12452.0
 names:
   scientific: Eunymphicus uvaeensis
-  fa: nan
+  fa: ''
   en: Ouvea Parakeet
   es: Perico de Uvea
   fr: Perruche d'Ouvéa
   de: Ouvéasittich
-  pt: ouvea parakeet
+  pt: ''
   ru: Хохлатый попугай
   ja: ウベアインコ
   zh: 乌韦阿鹦鹉

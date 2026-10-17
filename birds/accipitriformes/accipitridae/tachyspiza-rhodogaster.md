@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8155.0
 names:
   scientific: Tachyspiza rhodogaster
-  fa: nan
+  fa: ''
   en: Vinous-breasted Sparrowhawk
   es: Gavilán Pechirrojo
   fr: Épervier à poitrine rousse
   de: Rosenbrustsperber
-  pt: vinous-breasted sparrowhawk
+  pt: ''
   ru: Рыжегрудый перепелятник
   ja: ムネアカツミ
   zh: 葡萄胸雀鷹

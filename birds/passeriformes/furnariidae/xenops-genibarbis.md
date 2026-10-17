@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14979.0
 names:
   scientific: Xenops genibarbis
-  fa: nan
+  fa: ''
   en: Amazonian Plain Xenops
   es: Picolezna Liso Brasileño
   fr: Sittine d'Illiger
   de: Weißkinn-Baumspäher
-  zh: Amazonian Plain Xenops
+  zh: ''
   nl: Effen xenops
   pl: pełzacznik amazoński
   tr: Amazon Düz Zenopsu

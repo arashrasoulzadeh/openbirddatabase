@@ -12,7 +12,7 @@ names:
   es: Dacnis Muslirrojo
   fr: Dacnis à cuisses rouges
   de: Rotschenkelpitpit
-  pt: scarlet-thighed dacnis
+  pt: ''
   ru: Краснобёдрый дакнис
   ja: モモアカヒワミツドリ
   nl: Rooddijpitpit

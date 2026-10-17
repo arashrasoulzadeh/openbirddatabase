@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10561.0
 names:
   scientific: Gymnobucco peli
-  fa: nan
+  fa: ''
   en: Bristle-nosed Barbet
   es: Barbudo de Pinceles
   fr: Barbican à narines emplumées
   de: Borstenbartvogel
-  pt: bristle-nosed barbet
+  pt: ''
   ru: Щетинистая либия
   ja: ハナヒゲゴシキドリ
   nl: Pelborstelneus

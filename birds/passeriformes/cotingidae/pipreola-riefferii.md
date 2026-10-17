@@ -12,7 +12,7 @@ names:
   es: Frutero Verdinegro
   fr: Cotinga vert et noir
   de: Goldbandkotinga
-  pt: green-and-black fruiteater
+  pt: ''
   ru: Ожереловый ягодоед
   ja: ズグロミドリカザリドリ
   nl: Groen-zwarte cotinga

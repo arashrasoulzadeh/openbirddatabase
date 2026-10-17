@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10613.0
 names:
   scientific: Pogoniulus pusillus
-  fa: nan
+  fa: ''
   en: Southern Red-fronted Tinkerbird
   es: Barbudito Frentirrojo Sureño
   fr: Barbion du Cap
   de: Feuerstirnbartvogel
-  pt: southern red-fronted tinkerbird
+  pt: ''
   ru: Краснолобый медник
   ja: ミナミアカビタイヒメゴシキドリ
   nl: Roodblesketellapper

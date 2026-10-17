@@ -12,7 +12,7 @@ names:
   es: Prinia de Birmania
   fr: Prinia de Cook
   de: Burmaprinie
-  pt: burmese prinia
+  pt: ''
   ru: Бирманская приния
   ja: ビルマハウチワドリ
   zh: 缅甸山鹪莺

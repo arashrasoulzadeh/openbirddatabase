@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35054.0
 names:
   scientific: Tangara inornata
-  fa: nan
+  fa: ''
   en: Plain-colored Tanager
   es: Tangara Cenicienta
   fr: Calliste gris
   de: Schlichttangare
-  pt: plain-colored tanager
+  pt: ''
   ru: Серая танагра
   ja: ルリカタフウキンチョウ
   zh: 纯色唐加拉雀

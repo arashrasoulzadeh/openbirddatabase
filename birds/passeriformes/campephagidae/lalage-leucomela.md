@@ -12,7 +12,7 @@ names:
   es: Oruguero Variable
   fr: Échenilleur varié
   de: Weißbrauen-Raupenfänger
-  pt: varied triller
+  pt: ''
   ru: Белобровый личинкоед-свистун
   ja: マミジロナキサンショウクイ
   zh: 雜色鳴鵑鵙

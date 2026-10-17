@@ -12,7 +12,7 @@ names:
   es: Verdín de Sonnerat
   fr: Verdin de Sonnerat
   de: Dickschnabel-Blattvogel
-  pt: greater green leafbird
+  pt: ''
   ru: Большая листовка
   ja: オオコノハドリ
   zh: 大綠葉鵯

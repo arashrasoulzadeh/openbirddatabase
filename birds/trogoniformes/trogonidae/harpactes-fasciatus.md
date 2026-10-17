@@ -12,7 +12,7 @@ names:
   es: Trogón Malabar
   fr: Trogon de Malabar
   de: Malabartrogon
-  pt: malabar trogon
+  pt: ''
   ru: Малабарский трогон
   ja: インドキヌバネドリ
   nl: Malabartrogon

@@ -12,7 +12,7 @@ names:
   es: Estrilda Alirroja
   fr: Beaumarquet aurore
   de: Auroraastrild
-  pt: red-winged pytilia
+  pt: ''
   ru: Краснокрылый астрильд
   ja: アカバネビナンスズメ
   zh: 红翅斑腹雀

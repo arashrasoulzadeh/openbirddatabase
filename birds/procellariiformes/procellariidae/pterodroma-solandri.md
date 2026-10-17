@@ -12,7 +12,7 @@ names:
   es: Petrel de Solander
   fr: Pétrel de Solander
   de: Solandersturmvogel
-  pt: providence petrel
+  pt: ''
   ru: Соландров тайфунник
   ja: ハジロミズナギドリ
   zh: 棕头圆尾鹱

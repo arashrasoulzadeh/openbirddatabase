@@ -12,7 +12,7 @@ names:
   es: Mosquitero Carinegro
   fr: Bouscarle à face noire
   de: Schieferkopf-Dickichtsänger
-  pt: black-faced warbler
+  pt: ''
   ru: Чернолицая комарница
   ja: カオグロムシクイ
   zh: 黑脸鹟莺

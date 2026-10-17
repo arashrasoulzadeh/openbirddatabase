@@ -12,7 +12,7 @@ names:
   es: Chingolo de Brewer
   fr: Bruant de Brewer
   de: Blassammer
-  pt: brewer's sparrow
+  pt: ''
   ru: Пустынная малая овсянка
   ja: ブリューワーヒメドリ
   zh: 布氏雀鹀

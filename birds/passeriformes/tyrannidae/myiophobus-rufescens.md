@@ -12,7 +12,7 @@ names:
   es: Mosquero Rojizo
   fr: Moucherolle rufescent
   de: Orangebauch-Schnäppertyrann
-  pt: rufescent flycatcher
+  pt: ''
   nl: Rossige roesttiran
   pl: tyranka rdzawa
   tr: Kızıl Sinek Tiranı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33471.0
 names:
   scientific: Atlapetes rufigenis
-  fa: nan
+  fa: ''
   en: Rufous-eared Brushfinch
   es: Atlapetes Orejirrufo
   fr: Tohi rougeaud
   de: Rotohr-Buschammer
-  pt: rufous-eared brushfinch
+  pt: ''
   ru: Рыжеухая атлапета
   ja: ペルーヤブシトド
   nl: Roodoorstruikgors

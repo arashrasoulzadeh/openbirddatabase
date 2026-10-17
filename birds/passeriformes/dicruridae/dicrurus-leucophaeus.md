@@ -12,7 +12,7 @@ names:
   es: Drongo Cenizo
   fr: Drongo cendré
   de: Graudrongo
-  pt: ashy drongo
+  pt: ''
   ru: Пепельный дронго
   ja: ハイイロオウチュウ
   zh: 灰卷尾

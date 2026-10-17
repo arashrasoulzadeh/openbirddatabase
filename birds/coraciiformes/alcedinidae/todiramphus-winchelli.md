@@ -12,7 +12,7 @@ names:
   es: Alción Cuellirrojo
   fr: Martin-chasseur de Winchell
   de: Rotnackenliest
-  pt: rufous-lored kingfisher
+  pt: ''
   ru: Красношейная альциона
   ja: チャエリショウビン
   zh: 菲律賓翡翠

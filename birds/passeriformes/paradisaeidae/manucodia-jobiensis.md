@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Jobi
   fr: Paradisier de Jobi
   de: Jobiparadieskrähe
-  pt: jobi manucode
+  pt: ''
   ru: Гривистая манукодия
   ja: コテリカラスフウチョウ
   nl: Jobiparadijskraai

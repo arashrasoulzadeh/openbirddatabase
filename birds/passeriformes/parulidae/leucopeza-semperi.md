@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 33990.0
 names:
   scientific: Leucopeza semperi
-  fa: nan
+  fa: ''
   en: Semper's Warbler
   es: Reinita de Semper
   fr: Paruline pied-blanc
   de: Blassfuß-Waldsänger
-  pt: semper's warbler
+  pt: ''
   ru: Сентлюсийская древесница
   ja: セントルシアアメリカムシクイ
   zh: 淡腳森鶯

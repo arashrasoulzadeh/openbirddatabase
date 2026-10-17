@@ -12,7 +12,7 @@ names:
   es: Avefría Coronada
   fr: Vanneau couronné
   de: Kronenkiebitz
-  pt: crowned lapwing
+  pt: ''
   ru: Венценосный чибис
   ja: オウカンゲリ
   zh: 冕麥雞

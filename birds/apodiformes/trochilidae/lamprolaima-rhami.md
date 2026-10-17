@@ -12,7 +12,7 @@ names:
   es: Colibrí Alicastaño
   fr: Colibri à gorge grenat
   de: Granatkehlkolibri
-  pt: garnet-throated hummingbird
+  pt: ''
   ru: Гранатовогорлый колибри
   ja: ガーネットハチドリ
   zh: 红宝石喉蜂鸟

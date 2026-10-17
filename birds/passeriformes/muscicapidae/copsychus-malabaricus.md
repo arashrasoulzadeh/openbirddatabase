@@ -12,7 +12,7 @@ names:
   es: Shama Malabar
   fr: Shama à croupion blanc
   de: Weißbürzelschama
-  pt: white-rumped shama
+  pt: ''
   ru: Белопоясничный шама
   ja: アカハラシキチョウ
   zh: 白腰鹊鸲

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 997.0
 names:
   scientific: Guttera verreauxi
-  fa: nan
+  fa: ''
   en: Western Crested Guineafowl
   es: Pintada Moñuda Occidental
   fr: Pintade de Verreaux
   de: Kongo-Haubenperlhuhn
-  pt: western crested guineafowl
+  pt: ''
   nl: Blauwkopkroonparelhoen
   pl: perlica modrolica
   tr: Batılı Kıvırcık Beçtavuğu

@@ -12,7 +12,7 @@ names:
   es: Bulbul Gorjiamarillo
   fr: Bulbul à gorge claire
   de: Gelbkehlbülbül
-  pt: yellow-gorgeted greenbul
+  pt: ''
   ru: Желтогорлый лесной бюльбюль
   ja: キノドコノハヒヨドリ
   nl: Geelkraagbuulbuul

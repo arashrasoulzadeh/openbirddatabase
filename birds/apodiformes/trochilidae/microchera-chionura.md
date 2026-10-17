@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5009.0
 names:
   scientific: Microchera chionura
-  fa: nan
+  fa: ''
   en: White-tailed Emerald
   es: Esmeralda de Elvira
   fr: Colibri elvire
   de: Elvirakolibri
-  pt: white-tailed emerald
+  pt: ''
   ru: Белохвостая эльвира
   ja: オジロエメラルドハチドリ
   zh: 白尾丽蜂鸟

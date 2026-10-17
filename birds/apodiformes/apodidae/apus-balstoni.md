@@ -15,7 +15,7 @@ names:
   pt: malagasy swift
   ru: Мадагаскарский стриж
   ja: マダガスカルアマツバメ
-  zh: Malagasy Black Swift
+  zh: ''
   nl: Madagaskargierzwaluw
   pl: jerzyk madagaskarski
   tr: Madagaskar Ebabili

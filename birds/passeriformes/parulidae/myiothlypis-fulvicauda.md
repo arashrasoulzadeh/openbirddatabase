@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34308.0
 names:
   scientific: Myiothlypis fulvicauda
-  fa: nan
+  fa: ''
   en: Buff-rumped Warbler
   es: Reinita Culiparda
   fr: Paruline à croupion fauve

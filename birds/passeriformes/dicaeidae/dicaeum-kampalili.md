@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29990.0
 names:
   scientific: Dicaeum kampalili
-  fa: nan
+  fa: ''
   en: Flame-crowned Flowerpecker
   es: Picaflores Coronirrufo
   fr: Dicée du Kampalili
   de: Feuerkronen-Mistelfresser
-  pt: flame-crowned flowerpecker
+  pt: ''
   nl: Vuurkruinhoningvogel
   pl: kwiatówka płomiennołbista
   tr: Alev Taçlı Öksekuşu

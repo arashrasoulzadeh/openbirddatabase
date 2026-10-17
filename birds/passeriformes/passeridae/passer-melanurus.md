@@ -12,7 +12,7 @@ names:
   es: Gorrión de El Cabo
   fr: Moineau mélanure
   de: Kapsperling
-  pt: cape sparrow
+  pt: ''
   ru: Капский воробей
   ja: ホオグロスズメ
   zh: 南非麻雀

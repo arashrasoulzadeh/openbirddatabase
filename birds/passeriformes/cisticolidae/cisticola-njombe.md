@@ -12,7 +12,7 @@ names:
   es: Cistícola de Njombé
   fr: Cisticole njombé
   de: Njombezistensänger
-  pt: churring cisticola
+  pt: ''
   ru: Крикливая цистикола
   ja: ノドジロセッカ
   nl: Snorgraszanger

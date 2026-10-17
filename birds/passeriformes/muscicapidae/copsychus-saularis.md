@@ -12,7 +12,7 @@ names:
   es: Shama Oriental
   fr: Shama dayal
   de: Dajalschama
-  pt: oriental magpie-robin
+  pt: ''
   ru: Сорочий шама
   ja: シキチョウ
   zh: 鹊鸲

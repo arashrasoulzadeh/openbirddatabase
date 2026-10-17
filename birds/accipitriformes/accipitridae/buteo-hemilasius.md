@@ -12,7 +12,7 @@ names:
   es: Busardo Mongol
   fr: Buse de Chine
   de: Mongolenbussard
-  pt: upland buzzard
+  pt: ''
   ru: Мохноногий курганник
   ja: オオノスリ
   zh: 大鵟

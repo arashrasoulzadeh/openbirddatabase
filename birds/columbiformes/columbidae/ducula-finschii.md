@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2795.0
 names:
   scientific: Ducula finschii
-  fa: nan
+  fa: ''
   en: Finsch's Imperial Pigeon
   es: Dúcula de Finsch
   fr: Carpophage de Finsch
@@ -15,7 +15,7 @@ names:
   pt: finsch's imperial-pigeon
   ru: Бисмаркский плодовый голубь
   ja: アカハラミカドバト
-  zh: Finsch's Imperial Pigeon
+  zh: ''
   nl: Finschmuskaatduif
   pl: muszkatela pręgosterna
   tr: Finsch Has Güvercini

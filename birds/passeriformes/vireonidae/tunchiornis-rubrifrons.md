@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 19132.0
 names:
   scientific: Tunchiornis rubrifrons
-  fa: nan
+  fa: ''
   en: Para Greenlet
   es: Verdillo Frentirrufo
   fr: Viréon à front rouge

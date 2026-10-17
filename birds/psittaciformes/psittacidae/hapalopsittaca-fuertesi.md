@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 12856.0
 names:
   scientific: Hapalopsittaca fuertesi
-  fa: nan
+  fa: ''
   en: Fuertes's Parrot
   es: Lorito de Fuertes
   fr: Caïque de Fuertes
@@ -15,7 +15,7 @@ names:
   pt: indigo-winged parrot
   ru: Желтолицый лорито
   ja: アイバネインコ
-  zh: Fuertes's Parrot
+  zh: ''
   nl: Blauwvleugelpapegaai
   pl: amazoneczka żółtolica
   tr: Fuerte Papağanı

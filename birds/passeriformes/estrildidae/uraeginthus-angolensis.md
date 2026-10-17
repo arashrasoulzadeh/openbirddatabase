@@ -15,7 +15,7 @@ names:
   pt: southern cordonbleu
   ru: Голубой астрильд
   ja: フナシセイキチョウ
-  zh: Blue Waxbill
+  zh: ''
   nl: Angolees blauwfazantje
   pl: motylik sawannowy
   tr: Mavi Mumgaga

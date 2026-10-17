@@ -12,7 +12,7 @@ names:
   es: Semillero Negrito
   fr: Pèrenoir négrito
   de: Schwarzgimpeltangare
-  pt: cuban bullfinch
+  pt: ''
   ru: Снегирёвый семилеро
   ja: キューバクロウソ
   nl: Cubaans dikbekje

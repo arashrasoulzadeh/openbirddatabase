@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26294.0
 names:
   scientific: Illadopsis distans
-  fa: nan
+  fa: ''
   en: Tanzanian Illadopsis
   es: Tordina Distante
   fr: Akalat de Friedmann
   de: Graubrust-Laubdrossling
-  pt: tanzanian illadopsis
+  pt: ''
   nl: Tanzaniaanse lijstertimalia
   pl: wyżynniak szarobrzuchy
   tr: Tanzanya İlladopsisi

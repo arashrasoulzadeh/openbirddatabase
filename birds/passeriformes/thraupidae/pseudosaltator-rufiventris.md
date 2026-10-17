@@ -12,7 +12,7 @@ names:
   es: Pepitero Colorado
   fr: Tangara saltator
   de: Weißbrauen-Bergtangare
-  pt: rufous-bellied mountain tanager
+  pt: ''
   ru: Рыжебрюхая танагра
   ja: アカハライカル
   zh: 棕腹舞雀

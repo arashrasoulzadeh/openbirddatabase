@@ -12,7 +12,7 @@ names:
   es: Mielero Cabecirrojo
   fr: Myzomèle à tête rouge
   de: Rotkopf-Honigfresser
-  pt: red-headed myzomela
+  pt: ''
   ru: Красноголовая медовка
   ja: ズアカミツスイ
   zh: 红头摄蜜鸟

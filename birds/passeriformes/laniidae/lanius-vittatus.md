@@ -12,7 +12,7 @@ names:
   es: Alcaudón Dorsicastaño
   fr: Pie-grièche à bandeau
   de: Rotschulterwürger
-  pt: bay-backed shrike
+  pt: ''
   ru: Индийский жулан
   ja: クロビタイセアカモズ
   zh: 褐背伯劳

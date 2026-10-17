@@ -15,7 +15,7 @@ names:
   pt: miudinho
   ru: Ушастая аруна
   ja: ミミグロコビトタイランチョウ
-  zh: Eared Pygmy Tyrant
+  zh: ''
   nl: Oorvlekdwergtiran
   pl: tyraneczek uszaty
   tr: Kulaklı Küçük Tiran

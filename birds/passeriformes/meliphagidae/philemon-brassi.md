@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18188.0
 names:
   scientific: Philemon brassi
-  fa: nan
+  fa: ''
   en: Brass's Friarbird
   es: Filemón de Brass
   fr: Polochion de Brass
   de: Mamberamolederkopf
-  pt: brass's friarbird
+  pt: ''
   ru: Невзрачный кожеголов
   ja: オリーブハゲミツスイ
   nl: Mamberamolederkop

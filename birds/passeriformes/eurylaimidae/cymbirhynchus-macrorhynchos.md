@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Rojinegro
   fr: Eurylaime rouge et noir
   de: Karminbreitrachen
-  pt: black-and-red broadbill
+  pt: ''
   ru: Краснобрюхий рогоклюв
   ja: クロアカヒロハシ
   zh: 紅黑闊嘴鳥

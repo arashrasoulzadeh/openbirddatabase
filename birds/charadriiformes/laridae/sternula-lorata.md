@@ -12,7 +12,7 @@ names:
   es: Charrancito Peruano
   fr: Sterne du Pérou
   de: Peruseeschwalbe
-  pt: peruvian tern
+  pt: ''
   ru: Чилийская крачка
   ja: ペルーアジサシ
   nl: Humboldtstern

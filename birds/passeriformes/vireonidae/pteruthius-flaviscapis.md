@@ -12,10 +12,10 @@ names:
   es: Vireo Alcaudón Pío
   fr: Allotrie de Java
   de: Weißbrauen-Würgervireo
-  pt: pied shrike-babbler
+  pt: ''
   ru: Яванская птерутия
   ja: アカバネモズチメドリ
-  zh: Pied Shrike-babbler
+  zh: ''
   nl: Javaanse klauwiertimalia
   pl: dzierzbogłów białobrewy
   tr: Cava Kasapkuşu

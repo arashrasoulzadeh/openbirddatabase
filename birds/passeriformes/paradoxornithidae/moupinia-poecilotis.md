@@ -12,7 +12,7 @@ names:
   es: Timalí Colirrufo
   fr: Moupinie à couronne rousse
   de: Rostschwanz-Grasmücke
-  pt: rufous-tailed babbler
+  pt: ''
   ru: Рыжехвостая мупиния
   ja: センニュウチメドリ
   zh: 宝兴鹛雀

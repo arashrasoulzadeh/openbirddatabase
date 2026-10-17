@@ -12,7 +12,7 @@ names:
   es: Monarca de Flores
   fr: Monarque de Florès
   de: Floresmonarch
-  pt: flores monarch
+  pt: ''
   ru: Флоресский монарх
   ja: フロレスカササギビタキ
   nl: Floresmonarch

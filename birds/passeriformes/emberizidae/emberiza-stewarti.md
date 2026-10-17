@@ -12,7 +12,7 @@ names:
   es: Escribano de Stewart
   fr: Bruant de Stewart
   de: Silberkopfammer
-  pt: white-capped bunting
+  pt: ''
   ru: Овсянка Стюарта
   ja: ハイガシラホオジロ
   zh: 白顶鹀

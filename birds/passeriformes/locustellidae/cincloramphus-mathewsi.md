@@ -12,7 +12,7 @@ names:
   es: Yerbera de Mathews
   fr: Mégalure de Mathews
   de: Rostbürzel-Buschsänger
-  pt: rufous songlark
+  pt: ''
   ru: Рыжая клинохвостка
   ja: コシアカヒバリモドキ
   zh: 棕鹨莺

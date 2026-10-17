@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25042.0
 names:
   scientific: Phylloscopus misoriensis
-  fa: nan
+  fa: ''
   en: Biak Leaf Warbler
   es: Mosquitero de Biak
   fr: Pouillot de Biak
   de: Biaklaubsänger
-  pt: biak leaf warbler
+  pt: ''
   ru: Биакская пеночка
   ja: ビアクムシクイ
   nl: Biakboszanger

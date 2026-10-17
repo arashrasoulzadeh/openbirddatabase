@@ -15,7 +15,7 @@ names:
   pt: kenya rufous sparrow
   ru: Кенийский воробей
   ja: ケニアアカスズメ
-  zh: Kenya Sparrow
+  zh: ''
   nl: Keniaanse mus
   pl: wróbel rdzawobrewy
   tr: Kenya Serçesi

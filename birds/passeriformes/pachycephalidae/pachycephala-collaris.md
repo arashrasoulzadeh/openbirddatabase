@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19435.0
 names:
   scientific: Pachycephala collaris
-  fa: nan
+  fa: ''
   en: Louisiade Whistler
   es: Silbador de las Luisiadas
   fr: Siffleur de Louisiade
   de: Louisiadedickkopf
-  pt: louisiade whistler
+  pt: ''
   ru: Луизиадский свистун
   ja: ルイシアードモズヒタキ
   nl: Louisiadenfluiter

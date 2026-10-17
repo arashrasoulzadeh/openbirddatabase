@@ -12,7 +12,7 @@ names:
   es: Colibrí de Costa
   fr: Colibri de Costa
   de: Veilchenkopfelfe
-  pt: costa's hummingbird
+  pt: ''
   ru: Фиалковый калипсо
   ja: コスタハチドリ
   zh: 科氏蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Halcón Yággar
   fr: Faucon laggar
   de: Laggarfalke
-  pt: laggar falcon
+  pt: ''
   ru: Лаггар
   ja: ラガーハヤブサ
   zh: 印度獵隼

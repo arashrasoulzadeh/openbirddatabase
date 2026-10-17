@@ -12,7 +12,7 @@ names:
   es: Rascón Pidén
   fr: Râle austral
   de: Magellanralle
-  pt: austral rail
+  pt: ''
   ru: Магелланов пастушок
   ja: ミナミクイナ
   zh: 火地島秧雞

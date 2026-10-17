@@ -12,7 +12,7 @@ names:
   es: Oruguero de Walden
   fr: Échenilleur de Walden
   de: Sulawesiraupenfänger
-  pt: white-rumped triller
+  pt: ''
   ru: Белопоясничный личинкоед-свистун
   ja: コシジロナキサンショウクイ
   zh: 白腰鳴鵑鵙

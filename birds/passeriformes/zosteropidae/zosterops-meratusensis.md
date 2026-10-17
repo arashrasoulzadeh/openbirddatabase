@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25729.0
 names:
   scientific: Zosterops meratusensis
-  fa: nan
+  fa: ''
   en: Meratus White-eye
   es: Anteojitos de Los Meratus
   fr: Zostérops des Meratus
   de: Meratusbrillenvogel
-  pt: meratus white-eye
+  pt: ''
   nl: Meratusbrilvogel
   pl: szlarnik borneański
   tr: Meratus Gözlükçüsü

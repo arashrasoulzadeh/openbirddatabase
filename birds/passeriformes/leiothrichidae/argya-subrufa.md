@@ -12,7 +12,7 @@ names:
   es: Turdoide Rufo
   fr: Cratérope roussâtre
   de: Orangebauch-Drosselhäherling
-  pt: rufous babbler
+  pt: ''
   ru: Малабарская дроздовка
   ja: サビイロヤブチメドリ
   zh: 棕鶇鶥

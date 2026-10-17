@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29092.0
 names:
   scientific: Eumyias additus
-  fa: nan
+  fa: ''
   en: Buru Jungle Flycatcher
   es: Papamoscas Gorjiestriado
   fr: Gobemouche à gorge rayée
   de: Buruschnäpper
-  pt: buru jungle flycatcher
+  pt: ''
   ru: Буруанская мухоловка
   ja: ブルミツリンヒタキ
   nl: Burujunglevliegenvanger

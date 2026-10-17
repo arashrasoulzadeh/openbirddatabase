@@ -12,7 +12,7 @@ names:
   es: Monarca Pardo
   fr: Monarque brun
   de: Südseemonarch
-  pt: southern shrikebill
+  pt: ''
   ru: Вануатский олевао
   ja: カレドニアオオハシヒタキ
   nl: Vanuatuklauwiermonarch

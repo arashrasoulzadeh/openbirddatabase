@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20057.0
 names:
   scientific: Dryoscopus senegalensis
-  fa: nan
+  fa: ''
   en: Red-eyed Puffback
   es: Cubla Senegalesa
   fr: Cubla aux yeux rouges
   de: Schwarzschulter-Schneeballwürger
-  pt: red-eyed puffback
+  pt: ''
   ru: Красноглазая пухоспинка
   ja: アカメフクレヤブモズ
   nl: Bospoederdonsklauwier

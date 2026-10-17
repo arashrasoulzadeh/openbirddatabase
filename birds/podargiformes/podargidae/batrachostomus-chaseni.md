@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3798.0
 names:
   scientific: Batrachostomus chaseni
-  fa: nan
+  fa: ''
   en: Palawan Frogmouth
   es: Podargo de Palawan
   fr: Podarge de Palawan
   de: Palawanschwalm
-  pt: palawan frogmouth
+  pt: ''
   ru: Палаванский лягушкорот
   ja: パラワンマグチヨタカ
   nl: Palawankikkerbek

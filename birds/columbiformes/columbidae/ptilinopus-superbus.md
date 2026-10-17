@@ -15,7 +15,7 @@ names:
   pt: superb fruit-dove
   ru: Великолепный фруктовый голубь
   ja: クロオビヒメアオバト
-  zh: Superb Fruit Dove
+  zh: ''
   nl: Kleine prachtjufferduif
   pl: owocożer wspaniały
   tr: Muhteşem Meyve Kumrusu

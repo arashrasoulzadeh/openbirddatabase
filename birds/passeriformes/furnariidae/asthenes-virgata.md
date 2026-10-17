@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15401.0
 names:
   scientific: Asthenes virgata
-  fa: nan
+  fa: ''
   en: Junin Canastero
   es: Canastero de Junín
   fr: Synallaxe de Junin
   de: Braunschwanzcanastero
-  pt: junin canastero
+  pt: ''
   ru: Хунинский канастеро
   ja: キノドカマドドリ
   nl: Junincanastero

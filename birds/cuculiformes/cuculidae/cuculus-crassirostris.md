@@ -12,7 +12,7 @@ names:
   es: Cuco de Célebes
   fr: Coucou des Célèbes
   de: Sulawesikuckuck
-  pt: sulawesi cuckoo
+  pt: ''
   ru: Сулавесская кукушка
   ja: セレベスジュウイチ
   nl: Sulawesikoekoek

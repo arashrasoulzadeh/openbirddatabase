@@ -12,7 +12,7 @@ names:
   es: Capuchino Bronceado
   fr: Capucin nonnette
   de: Kleinelsterchen
-  pt: bronze mannikin
+  pt: ''
   ru: Бронзовая муния
   ja: ハゴロモシチホウ
   zh: 古銅色文鳥

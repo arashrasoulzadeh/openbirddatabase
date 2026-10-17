@@ -15,7 +15,7 @@ names:
   pt: coroneted fruit-dove
   ru: Венценосный фруктовый голубь
   ja: フジボウシヒメアオバト
-  zh: Coroneted Fruit Dove
+  zh: ''
   nl: Lilakruinjufferduif
   pl: owocożer koroniasty
   tr: Taçlı Meyve Kumrusu

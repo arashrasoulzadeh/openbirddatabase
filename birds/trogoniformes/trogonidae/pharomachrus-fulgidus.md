@@ -12,7 +12,7 @@ names:
   es: Quetzal Fúlgido
   fr: Quetzal brillant
   de: Glanztrogon
-  pt: white-tipped quetzal
+  pt: ''
   ru: Алмазный кетцаль
   ja: オジロカザリキヌバネドリ
   nl: Santa-Martaquetzal

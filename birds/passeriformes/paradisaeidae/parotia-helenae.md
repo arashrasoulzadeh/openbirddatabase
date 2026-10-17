@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Helena
   fr: Paradisier d'Helena
   de: Helenaparadiesvogel
-  pt: eastern parotia
+  pt: ''
   ru: Восточная паротия
   ja: ヒガシタンビカンザシフウチョウ
   nl: Helenaparotia

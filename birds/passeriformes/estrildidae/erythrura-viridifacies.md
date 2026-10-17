@@ -12,7 +12,7 @@ names:
   es: Diamante de Luzón
   fr: Diamant de Luçon
   de: Manilapapageiamadine
-  pt: green-faced parrotfinch
+  pt: ''
   ru: Зеленолицая амадина
   ja: ルソンセイコウチョウ
   zh: 绿脸鹦雀

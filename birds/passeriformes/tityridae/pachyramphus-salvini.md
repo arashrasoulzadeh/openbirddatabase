@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 16060.0
 names:
   scientific: Pachyramphus salvini
-  fa: nan
+  fa: ''
   en: Cryptic Becard
   es: Anambé Picofino
   fr: Bécarde de Salvin
-  pt: cryptic becard
+  pt: ''
   nl: Dunsnavelbekarde
   pl: bekardzik czapeczkowy
   tr: Salvin Bekardı

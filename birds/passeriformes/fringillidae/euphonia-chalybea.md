@@ -15,7 +15,7 @@ names:
   pt: cais-cais
   ru: Зеленогорлая эуфония
   ja: ミドリスミレフウキンチョウ
-  zh: Green-chinned Euphonia
+  zh: ''
   nl: Groenkeelorganist
   pl: organka stalowa
   tr: Mavi-Yeşil Öfonya

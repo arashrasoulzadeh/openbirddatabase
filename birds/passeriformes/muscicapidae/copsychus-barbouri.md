@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 29028.0
 names:
   scientific: Copsychus barbouri
-  fa: nan
+  fa: ''
   en: Maratua Shama
   es: Shama de Isla Maratua
   fr: Shama de Maratua
-  pt: maratua shama
+  pt: ''
   ja: マラトゥアシキチョウ
   nl: Maratuashama
   pl: sroczek atolowy

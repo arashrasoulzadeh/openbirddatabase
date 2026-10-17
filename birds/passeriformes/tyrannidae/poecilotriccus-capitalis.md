@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16391.0
 names:
   scientific: Poecilotriccus capitalis
-  fa: nan
+  fa: ''
   en: Black-and-white Tody-Flycatcher
   es: Titirijí Pío
   fr: Todirostre noir et blanc

@@ -12,7 +12,7 @@ names:
   es: Silbador Enano
   fr: Pachycare nain
   de: Goldstirnhuscher
-  pt: goldenface
+  pt: ''
   ru: Желтушка
   ja: キンガオモズガラ
   zh: 金脸啸鹟

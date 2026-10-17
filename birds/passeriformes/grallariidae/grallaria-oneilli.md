@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14282.0
 names:
   scientific: Grallaria oneilli
-  fa: nan
+  fa: ''
   en: Panao Antpitta
   es: Tororoí de O´Neill
   fr: Grallaire d'O'Neill
   de: Panaoameisenpitta
-  pt: panao antpitta
+  pt: ''
   ja: パナオジアリドリ
   nl: Panaomierpitta
   pl: kusaczka skromna

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22531.0
 names:
   scientific: Amirafra angolensis
-  fa: nan
+  fa: ''
   en: Angola Lark
   es: Alondra Angoleña
   fr: Alouette d'Angola
   de: Angolalerche
-  pt: angola lark
+  pt: ''
   ru: Ангольский жаворонок
   ja: ウロコヤブヒバリ
   nl: Angolese leeuwerik

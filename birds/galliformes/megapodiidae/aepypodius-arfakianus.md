@@ -12,7 +12,7 @@ names:
   es: Talégalo Carunculado
   fr: Talégalle des Arfak
   de: Kammbuschhuhn
-  pt: wattled brushturkey
+  pt: ''
   ru: Серёжчатий курохвост
   ja: エボシツカツクリ
   zh: 肉垂塚雉

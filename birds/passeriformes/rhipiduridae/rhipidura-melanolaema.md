@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20343.0
 names:
   scientific: Rhipidura melanolaema
-  fa: nan
+  fa: ''
   en: Santa Cruz Fantail
   es: Abanico Frentiblanco
   fr: Rhipidure des Santa Cruz
   de: Vanikorofächerschwanz
-  pt: santa cruz fantail
+  pt: ''
   nl: Temotuwaaierstaart
   pl: wachlarzówka białoczelna
   tr: Santa Kruz Katmerkuyruğu

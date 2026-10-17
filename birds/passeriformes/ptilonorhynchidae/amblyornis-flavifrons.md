@@ -12,7 +12,7 @@ names:
   es: Pergolero Frentigualdo
   fr: Jardinier à front d'or
   de: Gelbscheitel-Laubenvogel
-  pt: golden-fronted bowerbird
+  pt: ''
   ru: Желтолобый садовник
   ja: キエボシニワシドリ
   zh: 黄额园丁鸟

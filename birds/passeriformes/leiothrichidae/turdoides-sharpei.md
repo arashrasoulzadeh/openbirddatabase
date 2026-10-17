@@ -12,7 +12,7 @@ names:
   es: Turdoide de Sharpe
   fr: Cratérope de Sharpe
   de: Schwarzzügel-Drosselhäherling
-  pt: black-lored babbler
+  pt: ''
   ru: Уздечковая дроздовка
   ja: シャープヤブチメドリ
   zh: 黑眼先鶇鶥

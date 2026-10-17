@@ -12,7 +12,7 @@ names:
   es: Koel Occidental
   fr: Coucou koël
   de: Asienkoel
-  pt: asian koel
+  pt: ''
   ru: Коэль
   ja: オニカッコウ
   zh: 噪鹃

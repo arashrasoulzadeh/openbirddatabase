@@ -12,7 +12,7 @@ names:
   es: Batarito Albilistado
   fr: Batara à points blancs
   de: Schwarzbrust-Ameisenvogel
-  pt: white-streaked antvireo
+  pt: ''
   ru: Чёрный батарито
   ja: シロスジアリモズモドキ
   zh: 白纹蚁鵙

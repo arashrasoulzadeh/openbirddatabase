@@ -15,7 +15,7 @@ names:
   pt: peto-real
   ru: Зелёный дятел
   ja: ヨーロッパアオゲラ
-  zh: European Green Woodpecker
+  zh: ''
   nl: Groene specht
   pl: dzięcioł zielony
   tr: Yeşil Ağaçkakan

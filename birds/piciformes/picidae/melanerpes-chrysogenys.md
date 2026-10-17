@@ -12,7 +12,7 @@ names:
   es: Carpintero Cariamarillo
   fr: Pic élégant
   de: Goldwangenspecht
-  pt: golden-cheeked woodpecker
+  pt: ''
   ru: Златощёкий дятел
   ja: メガネシマセゲラ
   nl: Goudwangspecht

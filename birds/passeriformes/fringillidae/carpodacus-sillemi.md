@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 32182.0
 names:
   scientific: Carpodacus sillemi
-  fa: nan
+  fa: ''
   en: Sillem's Rosefinch
   es: Pinzón Montano de Sillem
   fr: Roselin de Sillem
   de: Sillemgimpel
-  pt: sillem's rosefinch
+  pt: ''
   ru: Куньлуньская чечевица
   ja: チベットマシコ
   nl: Sillemroodmus

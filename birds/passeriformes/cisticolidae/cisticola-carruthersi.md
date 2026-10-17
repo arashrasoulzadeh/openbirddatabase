@@ -12,7 +12,7 @@ names:
   es: Cistícola de Carruthers
   fr: Cisticole de Carruthers
   de: Papyruszistensänger
-  pt: carruthers's cisticola
+  pt: ''
   ru: Папирусовая цистикола
   ja: クロボウシセッカ
   nl: Papyrusgraszanger

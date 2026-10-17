@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Cuelgacintas
   fr: Paradisier à rubans
   de: Schmalschwanz-Paradieselster
-  pt: ribbon-tailed astrapia
+  pt: ''
   ru: Белохвостая астрапия
   ja: オジロオナガフウチョウ
   zh: 綬帶長尾天堂鳥

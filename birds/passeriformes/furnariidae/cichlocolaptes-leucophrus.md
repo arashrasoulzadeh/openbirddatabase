@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15125.0
 names:
   scientific: Cichlocolaptes leucophrus
-  fa: nan
+  fa: ''
   en: Pale-browed Treehunter
   es: Ticotico Cejipálido
   fr: Anabate à sourcils blancs

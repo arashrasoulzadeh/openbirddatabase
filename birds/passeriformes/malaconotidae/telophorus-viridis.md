@@ -15,7 +15,7 @@ names:
   pt: four-colored bushshrike
   ru: Красногрудый гладиатор
   ja: ゴシキミドリヤブモズ
-  zh: Gorgeous Bushshrike
+  zh: ''
   nl: Bonte bosklauwier
   pl: dzierzbik zielony
   tr: Dört Renkli Çalıkasabı

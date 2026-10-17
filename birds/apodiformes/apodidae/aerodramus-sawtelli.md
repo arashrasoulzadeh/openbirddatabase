@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4050.0
 names:
   scientific: Aerodramus sawtelli
-  fa: nan
+  fa: ''
   en: Atiu Swiftlet
   es: Salangana de las Cook
   fr: Salangane de Cook
   de: Atiusalangane
-  pt: atiu swiftlet
+  pt: ''
   ru: Атиуанская салангана
   ja: クックアナツバメ
   zh: 库岛金丝燕

@@ -15,7 +15,7 @@ names:
   pt: painho-de-barriga-preta
   ru: Чернобрюхая океанида
   ja: クロハラウミツバメ
-  zh: Black-bellied Storm Petrel
+  zh: ''
   nl: Zwartbuikstormvogeltje
   pl: oceannik czarnobrzuchy
   tr: Alaca Karınlı Fırtınakırlangıcı

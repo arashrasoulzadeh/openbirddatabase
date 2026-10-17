@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34751.0
 names:
   scientific: Loriotus cristatus
-  fa: nan
+  fa: ''
   en: Flame-crested Tanager
   es: Tangara Crestifuego
   fr: Tangara à huppe ignée

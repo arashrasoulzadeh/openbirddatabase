@@ -12,7 +12,7 @@ names:
   es: Buco Pechinegro
   fr: Tamatia à plastron
   de: Gürtelfaulvogel
-  pt: black-breasted puffbird
+  pt: ''
   ru: Черногрудая пуховка
   ja: ムナグロオオガシラ
   nl: Zwartborstbaardkoekoek

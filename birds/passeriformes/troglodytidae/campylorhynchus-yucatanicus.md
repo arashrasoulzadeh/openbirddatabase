@@ -12,7 +12,7 @@ names:
   es: Cucarachero Yucateco
   fr: Troglodyte du Yucatan
   de: Yucatánzaunkönig
-  pt: yucatan wren
+  pt: ''
   ru: Юкатанский крапивник
   ja: ユカタンサボテンミソサザイ
   zh: 尤卡曲嘴鹪鹩

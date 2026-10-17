@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16260.0
 names:
   scientific: Phylloscartes oustaleti
-  fa: nan
+  fa: ''
   en: Oustalet's Tyrannulet
   es: Orejerito de Oustalet
   fr: Tyranneau d'Oustalet

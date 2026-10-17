@@ -12,7 +12,7 @@ names:
   es: Churrín Grande
   fr: Mérulaxe à flancs ocre
   de: Rostflankentapaculo
-  pt: ochre-flanked tapaculo
+  pt: ''
   ru: Краснобокий тапакуло
   ja: ワキアカオタテドリ
   nl: Okerflanktapaculo

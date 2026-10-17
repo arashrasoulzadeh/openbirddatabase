@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18152.0
 names:
   scientific: Foulehaio taviunensis
-  fa: nan
+  fa: ''
   en: Fiji Wattled Honeyeater
   es: Mielero Carunculado de Taveuni
   fr: Méliphage de Taveuni
@@ -15,7 +15,7 @@ names:
   pt: northern wattled-honeyeater
   ru: Фиджийский фулехайо
   ja: キタニクダレミツスイ
-  zh: Fiji Wattled Honeyeater
+  zh: ''
   nl: Kleine fijihoningeter
   pl: atolowiec kraterowy
   tr: Sarı Bezeli Gri Balkuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6290.0
 names:
   scientific: Turnix pyrrhothorax
-  fa: nan
+  fa: ''
   en: Red-chested Buttonquail
   es: Torillo Pechirrufo
   fr: Turnix à poitrine rousse
   de: Rotbrust-Laufhühnchen
-  pt: red-chested buttonquail
+  pt: ''
   ru: Красногрудая трёхперстка
   ja: ムネアカミフウズラ
   zh: 红胸三趾鹑

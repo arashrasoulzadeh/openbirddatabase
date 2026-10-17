@@ -12,7 +12,7 @@ names:
   es: Pita Bulliciosa
   fr: Brève versicolore
   de: Lärmpitta
-  pt: noisy pitta
+  pt: ''
   ru: Крикливая питта
   ja: ノドグロヤイロチョウ
   zh: 噪八色鳥

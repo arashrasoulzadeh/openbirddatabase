@@ -12,7 +12,7 @@ names:
   es: Metalura de Azuay
   fr: Métallure de Baron
   de: Violettkehl-Glanzschwänzchen
-  pt: violet-throated metaltail
+  pt: ''
   ru: Фиолетовогорлый металлохвост
   ja: フジノドテリオハチドリ
   zh: 紫喉辉尾蜂鸟

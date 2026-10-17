@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8732.0
 names:
   scientific: Otus elegans
-  fa: nan
+  fa: ''
   en: Ryukyu Scops Owl
   es: Autillo Elegante
   fr: Petit-duc élégant

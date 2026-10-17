@@ -15,7 +15,7 @@ names:
   pt: saurá-de-pescoço-preto
   ru: Черношейная котинга
   ja: アカクロカザリドリ
-  zh: Black-necked Red Cotinga
+  zh: ''
   nl: Fluweelcotinga
   pl: karmazynowiec zachodni
   tr: Kara Boyunlu Kırmızı Kotinga

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13568.0
 names:
   scientific: Thamnophilus sticturus
-  fa: nan
+  fa: ''
   en: Bolivian Slaty Antshrike
   es: Batará Pizarroso Boliviano
   fr: Batara à queue tachetée
@@ -15,7 +15,7 @@ names:
   pt: choca-da-bolívia
   ru: Боливийский колючник
   ja: ボリビアハイイロモズ
-  zh: Bolivian Slaty Antshrike
+  zh: ''
   nl: Boliviaanse mierklauwier
   pl: chronka boliwijska
   tr: Bolivya Gri Karıncaavcısı

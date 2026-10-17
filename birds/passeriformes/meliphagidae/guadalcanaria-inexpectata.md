@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18144.0
 names:
   scientific: Guadalcanaria inexpectata
-  fa: nan
+  fa: ''
   en: Guadalcanal Honeyeater
   es: Mielero de Guadalcanal
   fr: Méliphage de Guadalcanal
   de: Guadalcanalhonigfresser
-  pt: guadalcanal honeyeater
+  pt: ''
   ru: Гуадалканальский медолюб
   ja: ガタルカナルミツスイ
   nl: Guadalcanalhoningeter

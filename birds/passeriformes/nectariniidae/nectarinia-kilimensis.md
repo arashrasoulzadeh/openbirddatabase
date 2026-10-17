@@ -12,7 +12,7 @@ names:
   es: Suimanga Bronceado
   fr: Souimanga bronzé
   de: Bronzenektarvogel
-  pt: bronze sunbird
+  pt: ''
   ru: Бронзовая нектарница
   ja: ブロンズオナガタイヨウチョウ
   nl: Bronshoningzuiger

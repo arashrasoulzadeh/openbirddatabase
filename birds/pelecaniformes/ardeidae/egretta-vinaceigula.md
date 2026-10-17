@@ -12,7 +12,7 @@ names:
   es: Garceta Gorjirroja
   fr: Aigrette vineuse
   de: Braunkehlreiher
-  pt: slaty egret
+  pt: ''
   ru: Красногорлая цапля
   ja: ノドアカクロサギ
   zh: 蓝灰鹭

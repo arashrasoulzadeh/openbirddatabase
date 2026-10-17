@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9124.0
 names:
   scientific: Athene jacquinoti
-  fa: nan
+  fa: ''
   en: West Solomons Owl
   es: Nínox de las Salomón Occidentales
   fr: Chevêche de Jacquinot
   de: Salomonenkauz
-  pt: west solomons owl
+  pt: ''
   ru: Соломонская иглоногая сова
   nl: West-Salomonsuil
   pl: pójdźka melanezyjska

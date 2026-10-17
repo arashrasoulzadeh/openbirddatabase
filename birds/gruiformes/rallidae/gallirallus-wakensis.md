@@ -12,7 +12,7 @@ names:
   es: Rascón de Isla Wake
   fr: Râle de Wake
   de: Wakeralle
-  pt: wake island rail
+  pt: ''
   ru: Уэйкский трескун
   ja: ウェーククイナ
   zh: 威克島秧雞

@@ -12,7 +12,7 @@ names:
   es: Cistícola Plañidero
   fr: Cisticole plaintive
   de: Trauerzistensänger
-  pt: wailing cisticola
+  pt: ''
   ru: Траурная цистикола
   ja: シロハラセッカ
   nl: Jammergraszanger

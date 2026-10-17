@@ -12,7 +12,7 @@ names:
   es: Carpintero Guatemalteco
   fr: Pic du Guatemala
   de: Guatemalagoldspecht
-  pt: guatemalan flicker
+  pt: ''
   ru: Гватемальский дятел
   ja: グアテマラハシボソキツツキ
   nl: Gualtemalteekse grondspecht

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 3040.0
 names:
   scientific: Neomorphus geoffroyi
-  fa: nan
+  fa: ''
   en: Rufous-vented Ground Cuckoo
   es: Cuco Hormiguero Ventrirrufo
   fr: Géocoucou de Geoffroy
@@ -15,7 +15,7 @@ names:
   pt: jacu-estalo
   ru: Медная земляная кукушка
   ja: チャバラアメリカジカッコウ
-  zh: Rufous-vented Ground Cuckoo
+  zh: ''
   nl: Roodbuikgrondkoekoek
   pl: kukawka obrożna
   tr: Kızılca Karınlı Yer Guguğu

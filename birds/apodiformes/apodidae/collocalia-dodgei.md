@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3932.0
 names:
   scientific: Collocalia dodgei
-  fa: nan
+  fa: ''
   en: Bornean Swiftlet
   es: Salangana de Borneo
   fr: Salangane du Kinabalu
   de: Borneosalangane
-  pt: bornean swiftlet
+  pt: ''
   ru: Борнейская салангана
   ja: ボルネオアナツバメ
   zh: 婆罗洲金丝燕

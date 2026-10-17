@@ -15,7 +15,7 @@ names:
   pt: eastern screech-owl
   ru: Восточноамериканская совка
   ja: ヒガシアメリカオオコノハズク
-  zh: Eastern Screech Owl
+  zh: ''
   nl: Oostelijke schreeuwuil
   pl: syczoń krzykliwy
   tr: Doğulu Puhucuk

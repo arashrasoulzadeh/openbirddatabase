@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17265.0
 names:
   scientific: Sirystes sibilator
-  fa: nan
+  fa: ''
   en: Sibilant Sirystes
   es: Mosquero Silbador
   fr: Tyran siffleur

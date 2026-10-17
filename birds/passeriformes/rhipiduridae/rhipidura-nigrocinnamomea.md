@@ -12,7 +12,7 @@ names:
   es: Abanico Rojinegro
   fr: Rhipidure noir et roux
   de: Mindanaofächerschwanz
-  pt: black-and-cinnamon fantail
+  pt: ''
   ru: Чёрно-рыжая веерохвостка
   ja: ムナグロオウギビタキ
   nl: Zwartkopwaaierstaart

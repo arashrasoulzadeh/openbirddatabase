@@ -12,7 +12,7 @@ names:
   es: Alcotán Filipino
   fr: Faucon aldrovandin
   de: Malaienbaumfalke
-  pt: oriental hobby
+  pt: ''
   ru: Восточный чеглок
   ja: ミナミチゴハヤブサ
   zh: 猛隼

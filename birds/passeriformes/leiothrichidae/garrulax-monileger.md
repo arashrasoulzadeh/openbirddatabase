@@ -12,7 +12,7 @@ names:
   es: Charlatán Acollarado Chico
   fr: Garrulaxe à collier
   de: Lätzchenhäherling
-  pt: lesser necklaced laughingthrush
+  pt: ''
   ru: Галстучная кустарница
   ja: ヒメクビワガビチョウ
   zh: 小黑领噪鹛

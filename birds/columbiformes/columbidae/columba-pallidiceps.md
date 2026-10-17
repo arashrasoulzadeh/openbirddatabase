@@ -12,7 +12,7 @@ names:
   es: Paloma Cabeciclara
   fr: Pigeon à tête pâle
   de: Gelbfußtaube
-  pt: yellow-legged pigeon
+  pt: ''
   ru: Желтоногий вяхирь
   ja: キアシカラスバト
   nl: Geelpootduif

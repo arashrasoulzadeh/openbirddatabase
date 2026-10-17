@@ -15,7 +15,7 @@ names:
   pt: flores green-pigeon
   ru: Флоресский зелёный голубь
   ja: フロレスアオバト
-  zh: Flores Green Pigeon
+  zh: ''
   nl: Florespapegaaiduif
   pl: treron zielony
   tr: Flores Yeşil Güvercini

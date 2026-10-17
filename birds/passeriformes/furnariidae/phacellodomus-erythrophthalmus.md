@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15362.0
 names:
   scientific: Phacellodomus erythrophthalmus
-  fa: nan
+  fa: ''
   en: Orange-eyed Thornbird
   es: Espinero Ojirrubio
   fr: Synallaxe aux yeux orangés

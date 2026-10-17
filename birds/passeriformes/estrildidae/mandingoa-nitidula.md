@@ -15,7 +15,7 @@ names:
   pt: green-backed twinspot
   ru: Зелёный астрильд
   ja: オトヒメチョウ
-  zh: Green Twinspot
+  zh: ''
   nl: Groene druppelastrild
   pl: perlik
   tr: Yeşil Çiftbenek

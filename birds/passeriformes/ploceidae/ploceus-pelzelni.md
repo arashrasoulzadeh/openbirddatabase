@@ -12,7 +12,7 @@ names:
   es: Tejedor de Pelzeln
   fr: Tisserin de Pelzeln
   de: Mönchsweber
-  pt: slender-billed weaver
+  pt: ''
   ru: Тонкоклювый ткач
   ja: ハシボソハタオリ
   nl: Dunbekwever

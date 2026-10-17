@@ -12,7 +12,7 @@ names:
   es: Ticotico de Anteojos
   fr: Anabate à lunettes
   de: Ockerbrillen-Blattspäher
-  pt: scaly-throated foliage-gleaner
+  pt: ''
   ru: Чешуегорлая казарита
   ja: ウロコノドカマドドリ
   nl: Schubkeelbladspeurder

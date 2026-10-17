@@ -15,7 +15,7 @@ names:
   pt: beautiful hummingbird
   ru: Украшенный люцифер
   ja: シロハラアカヒゲハチドリ
-  zh: Beautiful Sheartail
+  zh: ''
   nl: Prachtkolibrie
   pl: koliberek wspaniały
   tr: Mücevher Kolibrisi

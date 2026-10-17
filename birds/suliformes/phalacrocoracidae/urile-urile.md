@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7390.0
 names:
   scientific: Urile urile
-  fa: nan
+  fa: ''
   en: Red-faced Cormorant
   es: Cormorán Carirrojo
   fr: Cormoran à face rouge
   de: Rotgesichtscharbe
-  pt: red-faced cormorant
+  pt: ''
   ru: Краснолицый баклан
   ja: チシマウガラス
   zh: 红脸鸬鹚

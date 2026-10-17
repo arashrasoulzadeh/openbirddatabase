@@ -12,7 +12,7 @@ names:
   es: Busardo Cubano
   fr: Buse de Gundlach
   de: Kubabussard
-  pt: cuban black hawk
+  pt: ''
   ru: Кубинский крабоед
   ja: キューバノスリ
   nl: Cubaanse zwarte buizerd

@@ -12,7 +12,7 @@ names:
   es: Picabayas de Los Arfak
   fr: Oréochare des Arfak
   de: Gelbbauch-Beerenfresser
-  pt: tit berrypecker
+  pt: ''
   ru: Синицевая фруктоед
   ja: パプアカラハナドリ
   zh: 拟雀啄果鸟

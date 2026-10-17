@@ -12,7 +12,7 @@ names:
   es: Bulbul Cabeciamarillo
   fr: Bulbul à tête jaune
   de: Gelbscheitelbülbül
-  pt: straw-headed bulbul
+  pt: ''
   ru: Рыжеголовый бюльбюль
   ja: キガシラヒヨドリ
   zh: 黃冠鵯

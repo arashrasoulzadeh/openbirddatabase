@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9953.0
 names:
   scientific: Ceyx argentatus
-  fa: nan
+  fa: ''
   en: Southern Silvery Kingfisher
   es: Martín Pigmeo Plateado del Sur
   fr: Martin-pêcheur argenté
@@ -15,7 +15,7 @@ names:
   pt: southern silvery-kingfisher
   ru: Серебристый зимородок
   ja: セジロカワセミ
-  zh: Southern Silvery Kingfisher
+  zh: ''
   nl: Zuidelijke zilverdwergijsvogel
   pl: zimorodek srebrzysty
   tr: Güneyli Gümüş Sırtlı Yalıçapkını

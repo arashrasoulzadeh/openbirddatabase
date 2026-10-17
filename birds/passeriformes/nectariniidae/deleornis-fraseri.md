@@ -12,7 +12,7 @@ names:
   es: Suimanga de Fraser
   fr: Souimanga de Fraser
   de: Laubnektarvogel
-  pt: fraser's sunbird
+  pt: ''
   ru: Огненобокая нектарница
   ja: アカフサコバシタイヨウチョウ
   nl: Roodpluimhoningzuiger

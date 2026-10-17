@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13798.0
 names:
   scientific: Herpsilochmus dugandi
-  fa: nan
+  fa: ''
   en: Dugand's Antwren
   es: Tiluchí de Dugand
   fr: Grisin de Dugand
   de: Marañónameisenfänger
-  pt: dugand's antwren
+  pt: ''
   ru: Амазонский эсперито
   ja: ニシオジロマユアリサザイ
   zh: 杜氏蚁鹩

@@ -12,7 +12,7 @@ names:
   es: Kokako de Isla Sur
   fr: Glaucope cendré
   de: Orangelappenvogel
-  pt: south island kokako
+  pt: ''
   ru: Южный кокако
   ja: ハシブトホオダレムクドリ
   zh: 垂耳鸦属

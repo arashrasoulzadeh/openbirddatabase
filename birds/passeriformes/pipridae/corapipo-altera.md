@@ -12,7 +12,7 @@ names:
   es: Saltarín Gorjiblanco Centroamericano
   fr: Manakin à fraise
   de: Weißkragenpipra
-  pt: white-ruffed manakin
+  pt: ''
   ru: Белогорлый манакин
   ja: シロエリマイコドリ
   nl: Westelijke witbefmanakin

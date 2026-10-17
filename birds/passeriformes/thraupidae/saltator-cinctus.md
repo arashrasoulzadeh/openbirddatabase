@@ -12,7 +12,7 @@ names:
   es: Pepitero Enmascarado
   fr: Saltator masqué
   de: Maskensaltator
-  pt: masked saltator
+  pt: ''
   ru: Масковый сальтатор
   ja: カオグロイカル
   nl: Maskersaltator

@@ -12,7 +12,7 @@ names:
   es: Pava Carirroja
   fr: Pénélope de Dabbene
   de: Rotgesichtguan
-  pt: red-faced guan
+  pt: ''
   ru: Краснолицая пенелопа
   ja: アカガオシャクケイ
   zh: 红脸冠雉

@@ -12,7 +12,7 @@ names:
   es: Fulveta de Yunnán
   fr: Alcippe de Rippon
   de: Yunnan-Zweigdrossling
-  pt: yunnan fulvetta
+  pt: ''
   ru: Юннаньская альциппа
   ja: ウンナンチメドリ
   zh: 云南雀鹛

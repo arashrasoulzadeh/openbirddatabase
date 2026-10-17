@@ -15,7 +15,7 @@ names:
   pt: gray crow
   ru: Новогвинейская ворона
   ja: ハゲガオガラス
-  zh: Grey Crow
+  zh: ''
   nl: Maskerkraai
   pl: wrona szara
   tr: Gri Karga

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10964.0
 names:
   scientific: Melignomon zenkeri
-  fa: nan
+  fa: ''
   en: Zenker's Honeyguide
   es: Indicador de Zenker
   fr: Indicateur de Zenker
   de: Gelbbauch-Honiganzeiger
-  pt: zenker's honeyguide
+  pt: ''
   ru: Белохвостый медоуказчик
   ja: コバシミツオシエ
   nl: Zenkerhoningspeurder

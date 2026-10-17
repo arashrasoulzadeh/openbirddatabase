@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11369.0
 names:
   scientific: Dendrocopos himalayensis
-  fa: nan
+  fa: ''
   en: Himalayan Woodpecker
   es: Pico del Himalaya
   fr: Pic de l'Himalaya
   de: Himalajaspecht
-  pt: himalayan woodpecker
+  pt: ''
   ru: Гималайский дятел
   ja: ヒマラヤアカゲラ
   zh: 喜马拉雅斑啄木鸟

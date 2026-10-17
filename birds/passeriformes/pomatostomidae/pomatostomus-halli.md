@@ -12,7 +12,7 @@ names:
   es: Gárrulo de Hall
   fr: Pomatostome de Hall
   de: Rußbauchsäbler
-  pt: hall's babbler
+  pt: ''
   ru: Белогорлая яху
   ja: ノドジロオーストラリアマルハシ
   zh: 白喉弯嘴鹛

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13006.0
 names:
   scientific: Pionites leucogaster
-  fa: nan
+  fa: ''
   en: White-bellied Parrot
   es: Lorito Rubio
   fr: Maïpouri à ventre blanc

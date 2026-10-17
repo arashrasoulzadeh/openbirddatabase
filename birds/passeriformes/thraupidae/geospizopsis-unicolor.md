@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35376.0
 names:
   scientific: Geospizopsis unicolor
-  fa: nan
+  fa: ''
   en: Plumbeous Sierra Finch
   es: Yal Plomizo
   fr: Haplospize gris-de-plomb
   de: Bleiammertangare
-  pt: plumbeous sierra finch
+  pt: ''
   ru: Свинцово-серый овсяночник
   ja: ネズミヤマシトド
   nl: Loodkleurige sierragors

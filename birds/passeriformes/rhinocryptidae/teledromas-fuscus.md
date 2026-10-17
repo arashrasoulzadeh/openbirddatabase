@@ -12,7 +12,7 @@ names:
   es: Gallito Arena
   fr: Tourco sable
   de: Fahltapaculo
-  pt: sandy gallito
+  pt: ''
   ru: Буланый галлито
   ja: スナイロオタテドリ
   nl: Bruine gallito

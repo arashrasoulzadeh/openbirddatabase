@@ -15,7 +15,7 @@ names:
   pt: red-throated swallow
   ru: Краногорлая ласточка
   ja: ノドアカサンショクツバメ
-  zh: Red-throated Cliff Swallow
+  zh: ''
   nl: Roodkeelklifzwaluw
   pl: jaskółka rdzaworzytna
   tr: Kırmızı Gerdanlı Kırlangıç

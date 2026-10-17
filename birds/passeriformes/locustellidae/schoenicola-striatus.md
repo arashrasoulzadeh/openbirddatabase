@@ -12,7 +12,7 @@ names:
   es: Yerbera Estriada
   fr: Mégalure rayée
   de: Borstenbuschsänger
-  pt: bristled grassbird
+  pt: ''
   ru: Щетинистая долгохвостка
   ja: ヒゲセッカ
   zh: 须草莺

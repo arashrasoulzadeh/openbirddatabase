@@ -12,7 +12,7 @@ names:
   es: Perdicilla Herrumbrosa
   fr: Rouloul ocellé
   de: Augenwachtel
-  pt: ferruginous partridge
+  pt: ''
   ru: Ржавчатая куропатка
   ja: アカチャシャコ
   zh: 銹紅林鷓鴣

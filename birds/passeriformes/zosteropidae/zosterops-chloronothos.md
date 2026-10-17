@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 25662.0
 names:
   scientific: Zosterops chloronothos
-  fa: nan
+  fa: ''
   en: Mauritius Olive White-eye
   es: Anteojitos Oliváceo de Mauricio
   fr: Zostérops de Maurice
@@ -15,7 +15,7 @@ names:
   pt: mauritius white-eye
   ru: Маврикийская белоглазка
   ja: モーリシャスメジロ
-  zh: Mauritius Olive White-eye
+  zh: ''
   nl: Olijfgroene mauritiusbrilvogel
   pl: szlarnik maurytyjski
   tr: Morityus Gözlükçüsü

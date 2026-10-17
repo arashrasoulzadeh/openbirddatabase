@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25043.0
 names:
   scientific: Phylloscopus amoenus
-  fa: nan
+  fa: ''
   en: Kolombangara Leaf Warbler
   es: Mosquitero de Kulambangra
   fr: Pouillot de Kulambangra
   de: Kulambangra-Laubsänger
-  pt: kolombangara leaf warbler
+  pt: ''
   ru: Коломбангарская пеночка
   ja: クランバングラムシクイ
   nl: Kolombangaraboszanger

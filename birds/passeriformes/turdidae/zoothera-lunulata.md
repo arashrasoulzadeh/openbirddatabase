@@ -12,7 +12,7 @@ names:
   es: Zorzal Lunado
   fr: Grive à lunules
   de: Tasmanerddrossel
-  pt: bassian thrush
+  pt: ''
   ru: Австралийский дрозд
   ja: オーストラリアトラツグミ
   nl: Australische goudlijster

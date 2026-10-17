@@ -15,7 +15,7 @@ names:
   pt: marreca-cabocla
   ru: Красноклювая древесная утка
   ja: アカハシリュウキュウガモ
-  zh: Black-bellied Whistling Duck
+  zh: ''
   nl: Zwartbuikfluiteend
   pl: drzewica czarnobrzucha
   tr: Kara Karınlı Islıkçı Ördek

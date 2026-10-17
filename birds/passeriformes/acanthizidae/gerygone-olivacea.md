@@ -12,7 +12,7 @@ names:
   es: Gerigón Gorjiblanco
   fr: Gérygone à gorge blanche
   de: Weißkehlgerygone
-  pt: white-throated gerygone
+  pt: ''
   ru: Белогорлая геригона
   ja: ノドジロセンニョムシクイ
   zh: 白喉噪刺莺

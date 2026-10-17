@@ -15,7 +15,7 @@ names:
   pt: brown woodland-warbler
   ru: Коричневатая пеночка
   ja: チャイロハヤシムシクイ
-  zh: Brown Woodland Warbler
+  zh: ''
   nl: Grauwe boszanger
   pl: świstunka ciemna
   tr: Gölge Seven Çıvgın

@@ -12,7 +12,7 @@ names:
   es: Argos Real
   fr: Argus géant
   de: Argusfasan
-  pt: great argus
+  pt: ''
   ru: Аргус
   ja: セイラン
   zh: 青鸞

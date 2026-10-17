@@ -15,7 +15,7 @@ names:
   pt: long-tailed wood-partridge
   ru: Длиннохвостый лесной перепел
   ja: オナガウズラ
-  zh: Long-tailed Wood Partridge
+  zh: ''
   nl: Mexicaanse bospatrijs
   pl: przepiór czarnogardły
   tr: Kara Yüzlü Ağaçbıldırcını

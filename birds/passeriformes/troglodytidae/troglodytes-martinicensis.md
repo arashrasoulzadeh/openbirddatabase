@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27202.0
 names:
   scientific: Troglodytes martinicensis
-  fa: nan
+  fa: ''
   en: Kalinago Wren
   es: Chochín Antillano
   fr: Troglodyte de Martinique
   de: Martiniquezaunkönig
-  pt: kalinago wren
+  pt: ''
   nl: Kalinagowinterkoning
   pl: strzyżyk antylski
   tr: Kalinago Çıtkuşu

@@ -12,7 +12,7 @@ names:
   es: Toquí Coliverde
   fr: Tohi à queue verte
   de: Grünschwanz-Grundammer
-  pt: green-tailed towhee
+  pt: ''
   ru: Зелёнохвостый тохи
   ja: ミドリトウヒチョウ
   nl: Groenstaarttowie

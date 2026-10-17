@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21009.0
 names:
   scientific: Myiagra eichhorni
-  fa: nan
+  fa: ''
   en: Velvet Flycatcher
   es: Monarca Terciopelo
   fr: Monarque d'Eichhorn
   de: Samtmonarch
-  pt: velvet flycatcher
+  pt: ''
   ja: ススイロヒラハシ
   nl: Fluweelmonarch
   pl: muszarka aksamitna

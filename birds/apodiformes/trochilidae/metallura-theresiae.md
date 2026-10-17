@@ -12,7 +12,7 @@ names:
   es: Metalura de Teresa
   fr: Métallure de Thérèse
   de: Kupferglanzschwänzchen
-  pt: coppery metaltail
+  pt: ''
   ru: Медный металлохвост
   ja: ドウイロテリオハチドリ
   zh: 铜辉尾蜂鸟

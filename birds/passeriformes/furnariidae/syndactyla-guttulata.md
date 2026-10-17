@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15163.0
 names:
   scientific: Syndactyla guttulata
-  fa: nan
+  fa: ''
   en: Guttulate Foliage-gleaner
   es: Ticotico Goteado
   fr: Anabate à gouttelettes
   de: Zimtbrauen-Blattspäher
-  pt: guttulate foliage-gleaner
+  pt: ''
   ru: Пёстрый сростнопал
   ja: キノドマユカマドドリ
   nl: Gevlekte bladspeurder

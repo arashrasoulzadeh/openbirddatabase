@@ -12,7 +12,7 @@ names:
   es: Colirrojo Capiazul
   fr: Rougequeue à tête bleue
   de: Blaukopf-Rotschwanz
-  pt: blue-capped redstart
+  pt: ''
   ru: Седоголовая горихвостка
   ja: ズアオジョウビタキ
   zh: 蓝头红尾鸲

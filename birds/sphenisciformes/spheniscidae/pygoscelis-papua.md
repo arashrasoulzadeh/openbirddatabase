@@ -12,7 +12,7 @@ names:
   es: Pingüino Juanito
   fr: Manchot papou
   de: Eselspinguin
-  pt: gentoo penguin
+  pt: ''
   ru: Ослиный пингвин
   ja: ジェンツーペンギン
   zh: 巴布亞企鵝

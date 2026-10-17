@@ -15,7 +15,7 @@ names:
   pt: papa-moscas-estrela
   ru: Вилохвостый тоди-тиранн
   ja: エンビコビトドリモドキ
-  zh: Fork-tailed Tody-Tyrant
+  zh: ''
   nl: Vorkstaarttodietiran
   pl: smukłodziobek widłosterny
   tr: Çatal Kuyruklu Todi Tiranı

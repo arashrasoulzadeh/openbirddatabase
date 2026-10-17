@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 27207.0
 names:
   scientific: Troglodytes musicus
-  fa: nan
+  fa: ''
   en: St. Vincent Wren
   es: Chochín Criollo de San Vicente
   fr: Troglodyte de Saint-Vincent
-  pt: st. vincent wren
+  pt: ''
   nl: Sint-Vincentwinterkoning
   pl: strzyżyk białogardły
   tr: Sen Vincent Çıtkuşu

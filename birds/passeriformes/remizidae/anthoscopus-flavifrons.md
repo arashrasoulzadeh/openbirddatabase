@@ -15,7 +15,7 @@ names:
   pt: forest penduline-tit
   ru: Желтолобый ремез
   ja: キンビタイアフリカツリスガラ
-  zh: Forest Penduline Tit
+  zh: ''
   nl: Boskapokmees
   pl: remizek złotoczelny
   tr: Orman Çulhakuşu

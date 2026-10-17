@@ -12,7 +12,7 @@ names:
   es: Gerigón Flanquirrufo
   fr: Gérygone à flancs roux
   de: Rostflankengerygone
-  pt: rufous-sided gerygone
+  pt: ''
   ru: Рыжебокая геригона
   ja: ワキアカセンニョムシクイ
   nl: Roodflankmangrovezanger

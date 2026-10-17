@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29221.0
 names:
   scientific: Cossypha semirufa
-  fa: nan
+  fa: ''
   en: Rüppell's Robin-Chat
   es: Cosifa de Rüppell
   fr: Cossyphe de Rüppell
   de: Braunrückenrötel
-  pt: rüppell's robin-chat
+  pt: ''
   ru: Эфиопский рыжехвост
   ja: オグロツグミヒタキ
   nl: Rüppell-lawaaimaker

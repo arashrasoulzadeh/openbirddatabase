@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12237.0
 names:
   scientific: Micropsitta geelvinkiana
-  fa: nan
+  fa: ''
   en: Geelvink Pygmy Parrot
   es: Microloro de Geelvink
   fr: Micropsitte de Geelvink
@@ -15,7 +15,7 @@ names:
   pt: geelvink pygmy-parrot
   ru: Синеголовый карликовый попугайчик
   ja: キバラケラインコ
-  zh: Geelvink Pygmy Parrot
+  zh: ''
   nl: Biakspechtpapegaai
   pl: karłówka brązowolica
   tr: Geelvink Cüce Papağanı

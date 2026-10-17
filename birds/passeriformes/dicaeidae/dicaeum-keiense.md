@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30114.0
 names:
   scientific: Dicaeum keiense
-  fa: nan
+  fa: ''
   en: Pink-breasted Flowerpecker
   es: Picaflores de las Kai
   fr: Dicée à poitrine rose
   de: Rosenbauch-Mistelfresser
-  pt: pink-breasted flowerpecker
+  pt: ''
   nl: Rozeborsthoningvogel
   pl: kwiatówka archipelagowa
   tr: Pembe Göğüslü Öksekuşu

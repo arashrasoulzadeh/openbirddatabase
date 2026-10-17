@@ -10,7 +10,7 @@ names:
   en: Plateau Lark
   es: Alondra de Meseta
   fr: Alouette noirâtre
-  pt: plateau lark
+  pt: ''
   nl: Hoogvlakteleeuwerik
   pl: skowroniec ciemnoplamy
   tr: Büyük Kızıl Enseli Toygar

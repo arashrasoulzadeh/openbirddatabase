@@ -12,7 +12,7 @@ names:
   es: Tortolita Mexicana
   fr: Colombe inca
   de: Inkatäubchen
-  pt: inca dove
+  pt: ''
   ru: Инкская земляная горлица
   ja: インカバト
   zh: 印加地鳩

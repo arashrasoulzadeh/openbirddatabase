@@ -12,7 +12,7 @@ names:
   es: Sastrecillo de Camboya
   fr: Couturière du Cambodge
   de: Kambodschaschneidervogel
-  pt: cambodian tailorbird
+  pt: ''
   ru: Камбоджийская портниха
   ja: カンボジアサイホウチョウ
   zh: 柬埔寨缝叶莺

@@ -15,7 +15,7 @@ names:
   pt: gray-crowned babbler
   ru: Сероголовая яху
   ja: オーストラリアマルハシ
-  zh: Grey-crowned Babbler
+  zh: ''
   nl: Grijskruinbabbelaar
   pl: stadniak siwogłowy
   tr: Gri Alınlı Gevezeardıç

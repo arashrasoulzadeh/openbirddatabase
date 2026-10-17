@@ -12,7 +12,7 @@ names:
   es: Fiofío Plomizo
   fr: Élénie bruyante
   de: Schieferolivtyrann
-  pt: slaty elaenia
+  pt: ''
   ru: Дымчатая эления
   ja: ネズミシラギクタイランチョウ
   nl: Leigrijze elenia

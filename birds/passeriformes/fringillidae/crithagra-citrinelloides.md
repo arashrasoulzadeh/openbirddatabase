@@ -12,7 +12,7 @@ names:
   es: Serín Etíope
   fr: Serin d'Abyssinie
   de: Dünnschnabelgirlitz
-  pt: african citril
+  pt: ''
   ru: Эфиопский канареечник
   ja: ムナフヒワ
   nl: Dunbekkanarie

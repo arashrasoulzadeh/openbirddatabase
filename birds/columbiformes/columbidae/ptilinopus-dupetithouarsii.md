@@ -15,7 +15,7 @@ names:
   pt: white-capped fruit-dove
   ru: Белошапочный фруктовый голубь
   ja: シロボウシヒメアオバト
-  zh: White-capped Fruit Dove
+  zh: ''
   nl: Witkruinjufferduif
   pl: owocożer białoczelny
   tr: Beyaz Tepeli Meyve Kumrusu

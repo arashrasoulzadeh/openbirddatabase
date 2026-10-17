@@ -12,7 +12,7 @@ names:
   es: Baza Malgache
   fr: Baza malgache
   de: Lemurenweih
-  pt: madagascar cuckoo-hawk
+  pt: ''
   ru: Мадагаскарская база
   ja: マダガスカルカッコウハヤブサ
   zh: 马达加斯加鹃隼

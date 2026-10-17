@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20348.0
 names:
   scientific: Rhipidura versicolor
-  fa: nan
+  fa: ''
   en: Micronesian Rufous Fantail
   es: Abanico de Isla Yap
   fr: Rhipidure de Micronésie
-  pt: micronesian rufous fantail
+  pt: ''
   nl: Micronesische waaierstaart
   pl: wachlarzówka bogata
   tr: Mikronezya Kızıl Katmerkuyruğu

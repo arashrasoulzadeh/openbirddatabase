@@ -15,7 +15,7 @@ names:
   pt: seram oriole
   ru: Серамская иволгп
   ja: セラムコウライウグイス
-  zh: Grey-collared Oriole
+  zh: ''
   nl: Grijskraagwielewaal
   pl: wilga szaroszyja
   tr: Seram Sarıasması

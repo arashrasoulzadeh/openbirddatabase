@@ -15,7 +15,7 @@ names:
   pt: gray currawong
   ru: Изменчивый куравонг
   ja: ハイイロフエガラス
-  zh: Grey Currawong
+  zh: ''
   nl: Grijze klauwierkraai
   pl: kurawonga zmienna
   tr: Dumanlı Kurravong

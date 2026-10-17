@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16037.0
 names:
   scientific: Pachyramphus cinnamomeus
-  fa: nan
+  fa: ''
   en: Cinnamon Becard
   es: Anambé Canelo
   fr: Bécarde cannelle
   de: Zimtbekarde
-  pt: cinnamon becard
+  pt: ''
   ru: Коричневый бекард
   ja: ニッケイカザリドリモドキ
   nl: Kaneelbekarde

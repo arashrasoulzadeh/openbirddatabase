@@ -12,7 +12,7 @@ names:
   es: Saltarrocas del Drakensberg
   fr: Chétopse doré
   de: Orangebrust-Felsenspringer
-  pt: drakensberg rockjumper
+  pt: ''
   ru: Рыжебрюхий прыгун
   ja: オレンジイワトビヒタキ
   nl: Roodborstrotsspringer

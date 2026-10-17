@@ -12,7 +12,7 @@ names:
   es: Alción Torotoro
   fr: Martin-chasseur torotoro
   de: Gelbschnabelliest
-  pt: yellow-billed kingfisher
+  pt: ''
   ru: Желтоклювая альциона
   ja: キバシショウビン
   nl: Kleine geelsnavelijsvogel

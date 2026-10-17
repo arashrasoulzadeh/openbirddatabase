@@ -12,7 +12,7 @@ names:
   es: Petroica Flamígera
   fr: Miro embrasé
   de: Flammenbrustschnäpper
-  pt: flame robin
+  pt: ''
   ru: Огненногрудая петроика
   ja: ノドアカサンショクヒタキ
   zh: 火红鸲鹟

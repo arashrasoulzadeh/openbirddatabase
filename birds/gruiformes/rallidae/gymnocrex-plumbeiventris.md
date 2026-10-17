@@ -12,7 +12,7 @@ names:
   es: Cotara Moluqueña
   fr: Râle à ventre gris
   de: Rostschwingenralle
-  pt: bare-eyed rail
+  pt: ''
   ru: Гологлазый туа
   ja: アカメクイナ
   zh: 裸眼秧鸡

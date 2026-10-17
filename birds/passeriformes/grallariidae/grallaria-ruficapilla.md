@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14234.0
 names:
   scientific: Grallaria ruficapilla
-  fa: nan
+  fa: ''
   en: Chestnut-crowned Antpitta
   es: Tororoí Compadre
   fr: Grallaire à tête rousse
   de: Rostkappen-Ameisenpitta
-  pt: chestnut-crowned antpitta
+  pt: ''
   ru: Рыжешапочная питтовая муравьеловка
   ja: クリガシラジアリドリ
   nl: Roestkopmierpitta

@@ -12,7 +12,7 @@ names:
   es: Acentor Pardo
   fr: Accenteur brun
   de: Fahlbraunelle
-  pt: brown accentor
+  pt: ''
   ru: Бледная завирушка
   ja: ウスヤマヒバリ
   zh: 褐岩鹨

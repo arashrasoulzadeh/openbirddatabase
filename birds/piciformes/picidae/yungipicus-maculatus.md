@@ -12,7 +12,7 @@ names:
   es: Pico Filipino
   fr: Pic des Philippines
   de: Scopolispecht
-  pt: philippine pygmy woodpecker
+  pt: ''
   ru: Филиппинский острокрылый дятел
   ja: フィリピンコゲラ
   zh: 菲律宾啄木鸟

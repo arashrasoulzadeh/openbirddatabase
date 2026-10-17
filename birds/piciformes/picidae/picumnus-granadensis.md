@@ -15,7 +15,7 @@ names:
   pt: grayish piculet
   ru: Буроспинный дятелок
   ja: ハイイロヒメキツツキ
-  zh: Greyish Piculet
+  zh: ''
   nl: Grijze dwergspecht
   pl: dzięciolnik szary
   tr: Gri Göğüslü Kakancık

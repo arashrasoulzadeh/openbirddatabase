@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16549.0
 names:
   scientific: Ornithion brunneicapillus
-  fa: nan
+  fa: ''
   en: Brown-capped Tyrannulet
   es: Mosquerito Coronipardo
   fr: Tyranneau à tête brune
   de: Braunkappen-Kleintyrann
-  pt: brown-capped tyrannulet
+  pt: ''
   ru: Бурошапочный москитолов
   ja: チャズキンコタイランチョウ
   nl: Bruinkruinvliegenpikker

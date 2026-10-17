@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8830.0
 names:
   scientific: Megascops hoyi
-  fa: nan
+  fa: ''
   en: Yungas Screech Owl
   es: Autillo Fresco
   fr: Petit-duc de Hoy
@@ -15,7 +15,7 @@ names:
   pt: montane forest screech-owl
   ru: Боливийская совка
   ja: ホイオオコノハズク
-  zh: Yungas Screech Owl
+  zh: ''
   nl: Hoyschreeuwuil
   pl: syczoń argentyński
   tr: Yungas Puhucuğu

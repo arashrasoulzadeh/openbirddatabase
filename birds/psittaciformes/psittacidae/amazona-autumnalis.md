@@ -12,7 +12,7 @@ names:
   es: Amazona Frentirroja
   fr: Amazone à lores rouges
   de: Rotstirnamazone
-  pt: red-lored amazon
+  pt: ''
   ru: Краснолобый амазон
   ja: キホオボウシインコ
   nl: Geelwangamazone

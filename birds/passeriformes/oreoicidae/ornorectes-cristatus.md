@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18997.0
 names:
   scientific: Ornorectes cristatus
-  fa: nan
+  fa: ''
   en: Piping Bellbird
   es: Pitohuí Crestado
   fr: Carillonneur brun
   de: Braun-Haubendickkopf
-  pt: piping bellbird
+  pt: ''
   ru: Рыжая птица-колокольчик
   ja: カンムリモリモズ
   nl: Bruinkuiffluiter

@@ -12,7 +12,7 @@ names:
   es: Buitre Cabecirrojo
   fr: Vautour royal
   de: Kahlkopfgeier
-  pt: red-headed vulture
+  pt: ''
   ru: Красноголовый гриф
   ja: ミミハゲワシ
   zh: 黑兀鹫

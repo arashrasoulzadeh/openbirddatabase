@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 13396.0
 names:
   scientific: Pitta forsteni
-  fa: nan
+  fa: ''
   en: Minahasa Hooded Pitta
   es: Pita de Minahassa
   fr: Brève de Minahassa
-  pt: minahasa hooded pitta
+  pt: ''
   ja: ミナハサズグロヤイロチョウ
   nl: Minahassapitta
   pl: kurtaczek zielonosterny

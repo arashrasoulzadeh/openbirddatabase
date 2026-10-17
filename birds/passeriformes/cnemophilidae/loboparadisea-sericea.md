@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Sedosa
   fr: Cnémophile soyeux
   de: Gelbbrust-Samtvogel
-  pt: yellow-breasted satinbird
+  pt: ''
   ru: Желтобрюхая лория
   ja: ツノハシフウチョウモドキ
   zh: 黄胸短嘴极乐鸟

@@ -12,7 +12,7 @@ names:
   es: Perdiz Rulrul
   fr: Rouloul couronné
   de: Straußwachtel
-  pt: crested partridge
+  pt: ''
   ru: Венценосная куропатка
   ja: カンムリシャコ
   zh: 冠鷓鴣

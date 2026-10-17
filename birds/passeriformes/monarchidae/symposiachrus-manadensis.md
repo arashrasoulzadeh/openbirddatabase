@@ -12,7 +12,7 @@ names:
   es: Monarca Encapuchado
   fr: Monarque à capuchon
   de: Zweifarbenmonarch
-  pt: hooded monarch
+  pt: ''
   ru: Двухцветный монарх
   ja: パプアカササギビタキ
   nl: Zwart-witte monarch

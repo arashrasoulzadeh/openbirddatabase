@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29203.0
 names:
   scientific: Dessonornis archeri
-  fa: nan
+  fa: ''
   en: Archer's Ground Robin
   es: Cosifa de Archer
   fr: Cossyphe d'Archer
@@ -15,7 +15,7 @@ names:
   pt: archer's robin-chat
   ru: Рувензорский рыжехвост
   ja: アカチャツグミヒタキ
-  zh: Archer's Ground Robin
+  zh: ''
   nl: Archerjanfrederik
   pl: złotokosik górski
   tr: Archer Kızılca Bülbülü

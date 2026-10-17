@@ -12,7 +12,7 @@ names:
   es: Francolín de Harwood
   fr: Francolin de Harwood
   de: Harwoodfrankolin
-  pt: harwood's spurfowl
+  pt: ''
   ru: Эфиопский франколин
   ja: エチオピアシャコ
   nl: Harwoodfrankolijn

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26040.0
 names:
   scientific: Pomatorhinus schisticeps
-  fa: nan
+  fa: ''
   en: White-browed Scimitar Babbler
   es: Cimitarra Cejiblanca
   fr: Pomatorhin à tête ardoise

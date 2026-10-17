@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 20188.0
 names:
   scientific: Malaconotus lagdeni
-  fa: nan
+  fa: ''
   en: Lagden's Bushshrike
   es: Gladiador de Lagden
   fr: Gladiateur de Lagden
   de: Lagdenwürger
-  pt: lagden's bushshrike
+  pt: ''
   ru: Пестрокрылый гладиатор
   ja: シロスジオオヤブモズ
   nl: Asjantiklauwier

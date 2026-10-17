@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 32914.0
 names:
   scientific: Peucaea sumichrasti
-  fa: nan
+  fa: ''
   en: Cinnamon-tailed Sparrow
   es: Chingolo Colicanela
   fr: Bruant à queue rousse
   de: Zimtschwanzammer
-  pt: cinnamon-tailed sparrow
+  pt: ''
   ru: Рыжехвостая овсянка
   ja: アカオスズメモドキ
   nl: Kaneelstaartgors

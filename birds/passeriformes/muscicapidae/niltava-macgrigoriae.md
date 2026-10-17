@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Mcgrigor
   fr: Gobemouche de McGrigor
   de: Feenblauschnäpper
-  pt: small niltava
+  pt: ''
   ru: Малая нильтава
   ja: チビアオヒタキ
   zh: 小仙鹟

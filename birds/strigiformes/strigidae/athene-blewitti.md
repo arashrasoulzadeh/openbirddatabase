@@ -12,7 +12,7 @@ names:
   es: Mochuelo de Blewitt
   fr: Chevêche forestière
   de: Blewittkauz
-  pt: forest owlet
+  pt: ''
   ru: Лесной сыч
   ja: モリコキンメフクロウ
   zh: 林斑小鸮

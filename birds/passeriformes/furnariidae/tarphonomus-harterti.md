@@ -12,7 +12,7 @@ names:
   es: Bandurrita Boliviana
   fr: Fournier de Bolivie
   de: Blassbauch-Erdhacker
-  pt: bolivian earthcreeper
+  pt: ''
   ru: Светлобрюхая бандурита
   ja: ボリビアイワカマドドリ
   nl: Boliviaanse aardkruiper

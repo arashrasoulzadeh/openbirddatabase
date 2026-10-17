@@ -12,7 +12,7 @@ names:
   es: Estornino Soberbio
   fr: Choucador superbe
   de: Dreifarben-Glanzstar
-  pt: superb starling
+  pt: ''
   ru: Трёхцветный спрео
   ja: ツキノワテリムク
   zh: 栗頭麗椋鳥

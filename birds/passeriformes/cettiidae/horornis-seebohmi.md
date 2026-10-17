@@ -12,7 +12,7 @@ names:
   es: Cetia Filipina
   fr: Bouscarle de Luçon
   de: Luzonseidensänger
-  pt: philippine bush warbler
+  pt: ''
   ru: Лусонская широкохвостка
   ja: フィリピンウグイス
   nl: Luzonstruikzanger

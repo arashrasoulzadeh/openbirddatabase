@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10730.0
 names:
   scientific: Psilopogon mystacophanos
-  fa: nan
+  fa: ''
   en: Red-throated Barbet
   es: Barbudo Arlequín
   fr: Barbu arlequin
   de: Harlekinbartvogel
-  pt: red-throated barbet
+  pt: ''
   ru: Красногорлый бородастик
   ja: ノドアカゴシキドリ
   nl: Harlekijnbaardvogel

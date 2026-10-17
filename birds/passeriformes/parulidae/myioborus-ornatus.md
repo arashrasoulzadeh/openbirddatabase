@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34384.0
 names:
   scientific: Myioborus ornatus
-  fa: nan
+  fa: ''
   en: Golden-fronted Whitestart
   es: Candelita Adornada
   fr: Paruline dorée
@@ -15,7 +15,7 @@ names:
   pt: golden-fronted redstart
   ru: Белолицая канделита
   ja: キンガシラアメリカムシクイ
-  zh: Golden-fronted Whitestart
+  zh: ''
   nl: Zwartoorzanger
   pl: pleszówka ozdobna
   tr: Süslü Ötleğen

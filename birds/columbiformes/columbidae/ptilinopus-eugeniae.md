@@ -15,7 +15,7 @@ names:
   pt: white-headed fruit-dove
   ru: Белоголовый фруктовый голубь
   ja: シロガシラヒメアオバト
-  zh: White-headed Fruit Dove
+  zh: ''
   nl: Witkopjufferduif
   pl: owocożer białogłowy
   tr: Ak Başlı Meyve Kumrusu

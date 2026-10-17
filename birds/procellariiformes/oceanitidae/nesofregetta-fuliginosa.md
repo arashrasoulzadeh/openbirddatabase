@@ -15,7 +15,7 @@ names:
   pt: polynesian storm-petrel
   ru: Белогорлая океанида
   ja: ノドジロウミツバメ
-  zh: Polynesian Storm Petrel
+  zh: ''
   nl: Witkeelstormvogeltje
   pl: oceannik białogardły
   tr: Polinezya Fırtınakırlangıcı

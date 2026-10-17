@@ -12,7 +12,7 @@ names:
   es: Pájaro Ratón Común
   fr: Coliou rayé
   de: Braunflügel-Mausvogel
-  pt: speckled mousebird
+  pt: ''
   ru: Бурокрылая птица-мышь
   ja: チャイロネズミドリ
   nl: Bruine muisvogel

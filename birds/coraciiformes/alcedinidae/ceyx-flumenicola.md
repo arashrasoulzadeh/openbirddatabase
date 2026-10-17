@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9952.0
 names:
   scientific: Ceyx flumenicola
-  fa: nan
+  fa: ''
   en: Northern Silvery Kingfisher
   es: Martín Pigmeo Plateado del Norte
   fr: Martin-pêcheur de Steere
@@ -15,7 +15,7 @@ names:
   pt: northern silvery-kingfisher
   ru: Ручьевой зимородок
   ja: キタセジロカワセミ
-  zh: Northern Silvery Kingfisher
+  zh: ''
   nl: Noordelijke zilverdwergijsvogel
   pl: zimorodek potokowy
   tr: Kuzeyli Gümüş Sırtlı Yalıçapkını

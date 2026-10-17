@@ -12,7 +12,7 @@ names:
   es: Ratina de Formosa
   fr: Microure de Taïwan
   de: Taiwanzwergpfeifer
-  pt: taiwan cupwing
+  pt: ''
   ru: Тайваньская бесхвостка
   ja: タイワンサザイチメドリ
   zh: 台湾鹪鹛

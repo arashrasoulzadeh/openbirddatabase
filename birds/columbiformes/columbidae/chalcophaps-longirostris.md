@@ -12,7 +12,7 @@ names:
   es: Palomita Esmeralda Cabeciparda
   fr: Colombine du Pacifique
   de: Grünflügeltaube
-  pt: pacific emerald dove
+  pt: ''
   ru: Австралийская изумрудная горлица
   ja: タイヘイヨウキンバト
   zh: 長嘴金鳩

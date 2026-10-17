@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3071.0
 names:
   scientific: Coua cursor
-  fa: nan
+  fa: ''
   en: Running Coua
   es: Cúa Corredor
   fr: Coua coureur
   de: Gelbkehl-Seidenkuckuck
-  pt: running coua
+  pt: ''
   ru: Желтогорлая тивука
   ja: ハシリジカッコウ
   nl: Rencoua

@@ -12,7 +12,7 @@ names:
   es: Mielero Tui
   fr: Méliphage tui
   de: Tuihonigfresser
-  pt: tui
+  pt: ''
   ru: Новозеландский туи
   ja: エリマキミツスイ
   zh: 图伊鸟

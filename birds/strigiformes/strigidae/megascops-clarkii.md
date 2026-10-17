@@ -15,7 +15,7 @@ names:
   pt: bare-shanked screech-owl
   ru: Голоногая совка
   ja: パナマオオコノハズク
-  zh: Bare-shanked Screech Owl
+  zh: ''
   nl: Kaalpootschreeuwuil
   pl: syczoń panamski
   tr: Clark Puhucuğu

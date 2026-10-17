@@ -12,7 +12,7 @@ names:
   es: Yal Colicorto
   fr: Idiopsar à queue courte
   de: Kurzschwanz-Ammertangare
-  pt: boulder finch
+  pt: ''
   ru: Короткохвостая диука
   ja: タンビシトド
   zh: 短尾雀鹀

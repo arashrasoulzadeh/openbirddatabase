@@ -15,7 +15,7 @@ names:
   pt: spotted wood-owl
   ru: Пагодная неясыть
   ja: マレーモリフクロウ
-  zh: Spotted Wood Owl
+  zh: ''
   nl: Maleise bosuil
   pl: puszczyk płowolicy
   tr: Pagodas Baykuşu

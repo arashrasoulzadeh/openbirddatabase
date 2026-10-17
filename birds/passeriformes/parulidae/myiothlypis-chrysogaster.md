@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34325.0
 names:
   scientific: Myiothlypis chrysogaster
-  fa: nan
+  fa: ''
   en: Cuzco Warbler
   es: Reinita Ventridorada
   fr: Paruline à ventre doré
   de: Goldbauch-Waldsänger
-  pt: cuzco warbler
+  pt: ''
   ru: Золотобрюхий корольковый певун
   ja: キンパラアメリカムシクイ
   nl: Cuzcozanger

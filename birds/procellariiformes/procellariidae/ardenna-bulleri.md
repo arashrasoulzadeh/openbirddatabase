@@ -12,7 +12,7 @@ names:
   es: Pardela Dorsigrís
   fr: Puffin de Buller
   de: Graumantel-Sturmtaucher
-  pt: buller's shearwater
+  pt: ''
   ru: Буллеров буревестник
   ja: ミナミオナガミズナギドリ
   nl: Bullerpijlstormvogel

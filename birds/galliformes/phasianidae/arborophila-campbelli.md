@@ -12,7 +12,7 @@ names:
   es: Arborófila de Malasia
   fr: Torquéole de Campbell
   de: Malaienbuschwachtel
-  pt: malayan partridge
+  pt: ''
   ru: Малайская лесная куропатка
   ja: マレーシアミヤマテッケイ
   zh: 馬來山鷓鴣

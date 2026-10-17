@@ -12,7 +12,7 @@ names:
   es: Guardabosques Antioqueño
   fr: Piauhau de Weber
   de: Braunkappenkotinga
-  pt: chestnut-capped piha
+  pt: ''
   ru: Рыжешапочная пиха
   ja: ズアカカザリドリ
   nl: Kastanjekruinpiha

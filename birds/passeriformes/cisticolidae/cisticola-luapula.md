@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23458.0
 names:
   scientific: Cisticola luapula
-  fa: nan
+  fa: ''
   en: Luapula Cisticola
   es: Cistícola del Luapula
   fr: Cisticole du Luapula
   de: Luapulazistensänger
-  pt: luapula cisticola
+  pt: ''
   ru: Замбезийская цистикола
   nl: Luapulagraszanger
   pl: chwastówka kasztanowoskrzydła

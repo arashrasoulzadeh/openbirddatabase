@@ -12,7 +12,7 @@ names:
   es: Pinzón Montano de Hodgson
   fr: Roselin de Hodgson
   de: Waldschneegimpel
-  pt: plain mountain finch
+  pt: ''
   ru: Гималайский вьюрок
   ja: ハイイロマシコ
   zh: 林岭雀

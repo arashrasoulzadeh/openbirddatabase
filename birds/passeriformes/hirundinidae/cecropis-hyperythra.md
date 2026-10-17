@@ -12,7 +12,7 @@ names:
   es: Golondrina de Sri Lanka
   fr: Hirondelle de Ceylan
   de: Rostbauch-Rötelschwalbe
-  pt: sri lanka swallow
+  pt: ''
   ru: Ланкийская ласточка
   ja: スリランカコシアカツバメ
   nl: Ceylonese zwaluw

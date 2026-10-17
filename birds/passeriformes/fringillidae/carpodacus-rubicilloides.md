@@ -12,7 +12,7 @@ names:
   es: Camachuelo Estriado
   fr: Roselin strié
   de: Gebirgsgimpel
-  pt: streaked rosefinch
+  pt: ''
   ru: Высокогорная чечевица
   ja: セスジシロボシマシコ
   zh: 拟大朱雀

@@ -12,7 +12,7 @@ names:
   es: Cacique de Cassin
   fr: Cassique de Cassin
   de: Braunmantel-Stirnvogel
-  pt: baudo oropendola
+  pt: ''
   ru: Каштановая оропендола
   ja: モモグロオオツリスドリ
   nl: Bruinrugoropendola

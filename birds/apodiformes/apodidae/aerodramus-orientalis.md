@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 4020.0
 names:
   scientific: Aerodramus orientalis
-  fa: nan
+  fa: ''
   en: Mayr's Swiftlet
   es: Salangana de Guadalcanal
   fr: Salangane de Mayr
   de: Salomonensalangane
-  pt: mayr's swiftlet
+  pt: ''
   ru: Соломонская салангана
   ja: ガタルカナルアナツバメ
   zh: 麦氏金丝燕

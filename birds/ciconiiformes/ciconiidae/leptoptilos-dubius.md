@@ -12,7 +12,7 @@ names:
   es: Marabú Argala
   fr: Marabout argala
   de: Argalamarabu
-  pt: greater adjutant
+  pt: ''
   ru: Индийский марабу
   ja: オオハゲコウ
   zh: 大禿鸛

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29470.0
 names:
   scientific: Myiomela leucura
-  fa: nan
+  fa: ''
   en: White-tailed Robin
   es: Ruiseñor Coliblanco
   fr: Myiomèle à queue blanche
   de: Schattenschmätzer
-  pt: white-tailed robin
+  pt: ''
   ru: Белохвостая индига
   ja: コンヒタキ
   zh: 白尾蓝地鸲

@@ -12,7 +12,7 @@ names:
   es: Lori Mostaza
   fr: Loriquet de Meyer
   de: Sulawesilori
-  pt: yellow-cheeked lorikeet
+  pt: ''
   nl: Geelwanglori
   pl: lorysa uboga
   tr: Selebes Yeşil-Sarı Loriketi

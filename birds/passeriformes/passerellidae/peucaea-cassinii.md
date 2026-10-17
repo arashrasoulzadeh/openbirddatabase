@@ -12,7 +12,7 @@ names:
   es: Chingolo de Cassin
   fr: Bruant de Cassin
   de: Cassinammer
-  pt: cassin's sparrow
+  pt: ''
   ru: Колорадская овсянка
   ja: サメスズメモドキ
   nl: Cassingors

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16754.0
 names:
   scientific: Serpophaga subcristata
-  fa: nan
+  fa: ''
   en: White-crested Tyrannulet
   es: Piojito Tiquitiqui
   fr: Tyranneau à toupet

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31515.0
 names:
   scientific: Prunella modularis
-  fa: nan
+  fa: ''
   en: Dunnock
   es: Acentor Común
   fr: Accenteur mouchet

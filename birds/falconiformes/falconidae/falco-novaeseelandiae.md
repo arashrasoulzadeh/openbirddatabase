@@ -12,7 +12,7 @@ names:
   es: Halcón Maorí
   fr: Faucon de Nouvelle-Zélande
   de: Maorifalke
-  pt: new zealand falcon
+  pt: ''
   ru: Новозеландский чеглок
   ja: ニュージーランドハヤブサ
   zh: 紐西蘭獵鷹

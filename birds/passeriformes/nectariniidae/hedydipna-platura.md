@@ -12,7 +12,7 @@ names:
   es: Suimanga Pigmeo
   fr: Souimanga pygmée
   de: Grünkehl-Nektarvogel
-  pt: pygmy sunbird
+  pt: ''
   ru: Длиннохвостая нектарница
   ja: ナイルタイヨウチョウ
   nl: Kleine honingzuiger

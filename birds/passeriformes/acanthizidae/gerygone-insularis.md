@@ -12,7 +12,7 @@ names:
   es: Gerigón de Isla Lord Howe
   fr: Gérygone de Lord Howe
   de: Lord-Howe-Gerygone
-  pt: lord howe gerygone
+  pt: ''
   ru: Островная геригона
   ja: ロードハウセンニョムシクイ
   nl: Lord-Howemangrovezanger

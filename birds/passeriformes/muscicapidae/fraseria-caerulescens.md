@@ -12,7 +12,7 @@ names:
   es: Papamoscas Cenizo
   fr: Gobemouche à lunettes
   de: Hartlaubschnäpper
-  pt: ashy flycatcher
+  pt: ''
   ru: Пепельная мухоловка
   ja: ウスハイイロヒタキ
   zh: 灰鶲

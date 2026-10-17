@@ -12,7 +12,7 @@ names:
   es: Bulbul de Xavier
   fr: Bulbul de Xavier
   de: Xavierbülbül
-  pt: xavier's greenbul
+  pt: ''
   ru: Джунглевый бюльбюль
   ja: キバラオリーブヒヨドリ
   nl: Xavierloofbuulbuul

@@ -12,7 +12,7 @@ names:
   es: Rascón Ecuatoriano
   fr: Râle d'Équateur
   de: Ecuadorralle
-  pt: ecuadorian rail
+  pt: ''
   ru: Эквадорский пастушок
   zh: 厄瓜多秧雞
   nl: Ecuadoraanse ral

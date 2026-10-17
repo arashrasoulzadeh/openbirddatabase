@@ -12,7 +12,7 @@ names:
   es: Barrancolí Cubano
   fr: Todier de Cuba
   de: Vielfarbentodi
-  pt: cuban tody
+  pt: ''
   ru: Кубинский тоди
   ja: キューバコビトドリ
   nl: Cubaanse todie

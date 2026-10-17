@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18812.0
 names:
   scientific: Lalage leucoptera
-  fa: nan
+  fa: ''
   en: Biak Triller
   es: Oruguero de Biak
   fr: Échenilleur de Biak
   de: Biakraupenfänger
-  pt: biak triller
+  pt: ''
   ja: ビアクマユグロナキサンショウクイ
   nl: Biaktriller
   pl: gąsienicojad żałobny

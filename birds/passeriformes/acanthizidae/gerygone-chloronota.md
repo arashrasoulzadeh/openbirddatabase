@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18432.0
 names:
   scientific: Gerygone chloronota
-  fa: nan
+  fa: ''
   en: Green-backed Gerygone
   es: Gerigón Dorsiverde
   fr: Gérygone à dos vert
   de: Grünrückengerygone
-  pt: green-backed gerygone
+  pt: ''
   ru: Оливковая геригона
   ja: ミドリセンニョムシクイ
   zh: 灰头噪刺莺

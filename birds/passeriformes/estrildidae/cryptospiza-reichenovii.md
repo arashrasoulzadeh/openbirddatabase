@@ -12,7 +12,7 @@ names:
   es: Estrilda de Reichenow
   fr: Astrild de Reichenow
   de: Reichenowastrild
-  pt: red-faced crimsonwing
+  pt: ''
   ru: Краснолицый астрильд
   ja: アカガオハゴロモキンパラ
   zh: 红脸朱翅雀

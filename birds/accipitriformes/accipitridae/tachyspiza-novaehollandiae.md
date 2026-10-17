@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8187.0
 names:
   scientific: Tachyspiza novaehollandiae
-  fa: nan
+  fa: ''
   en: Grey Goshawk
   es: Azor Gris
   fr: Autour blanc
@@ -15,7 +15,7 @@ names:
   pt: gray goshawk
   ru: Светлый ястреб
   ja: ハイイロオオタカ
-  zh: Grey Goshawk
+  zh: ''
   nl: Grijze havik
   pl: krogulec australijski
   tr: Gri Çakır

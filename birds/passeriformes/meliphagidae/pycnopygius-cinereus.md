@@ -12,7 +12,7 @@ names:
   es: Mielero Jaspeado
   fr: Méliphage marbré
   de: Marmorhonigfresser
-  pt: marbled honeyeater
+  pt: ''
   ru: Мраморная саговница
   ja: ハイイロミツスイ
   nl: Marmerhoningeter

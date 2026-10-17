@@ -12,7 +12,7 @@ names:
   es: Curutié Cejigrís
   fr: Synallaxe à sourcils gris
   de: Graubrauen-Baumschlüpfer
-  pt: ash-browed spinetail
+  pt: ''
   ru: Серобровая курутия
   ja: ハイマユカマドドリ
   nl: Grijsbrauwstekelstaart

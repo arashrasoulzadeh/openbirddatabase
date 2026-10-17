@@ -12,7 +12,7 @@ names:
   es: Terrera Capirotada
   fr: Alouette cendrille
   de: Rotkappenlerche
-  pt: red-capped lark
+  pt: ''
   ru: Африканский малый жаворонок
   ja: アフリカヒメコウテンシ
   zh: 红顶短趾百灵

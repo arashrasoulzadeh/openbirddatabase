@@ -12,7 +12,7 @@ names:
   es: Torrentero Coroniblanco
   fr: Énicure de Leschenault
   de: Weißscheitel-Scherenschwanz
-  pt: white-crowned forktail
+  pt: ''
   ru: Белошапочная вилохвостка
   ja: エンビシキチョウ
   zh: 白冠燕尾

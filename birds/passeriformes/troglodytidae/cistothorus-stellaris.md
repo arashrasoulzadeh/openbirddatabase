@@ -12,7 +12,7 @@ names:
   es: Cucarachero Culibarrado
   fr: Troglodyte à bec court
   de: Seggenzaunkönig
-  pt: sedge wren
+  pt: ''
   ru: Тростниковый крапивник
   ja: コバシヌマミソサザイ
   zh: 北美沼澤鷦鷯

@@ -12,7 +12,7 @@ names:
   es: Petroica de Isla Norfolk
   fr: Miro de Norfolk
   de: Norfolk-Scharlachschnäpper
-  pt: norfolk robin
+  pt: ''
   ru: Белолобая петроика
   ja: ノーフォークヒタキ
   zh: 诺岛鸲鹟

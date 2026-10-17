@@ -12,7 +12,7 @@ names:
   es: Gorrión Cejudo
   fr: Moineau bridé
   de: Kapsteinsperling
-  pt: yellow-throated bush sparrow
+  pt: ''
   ru: Желтогорлый воробей
   ja: マミジロイワスズメ
   nl: Kaapse rotsmus

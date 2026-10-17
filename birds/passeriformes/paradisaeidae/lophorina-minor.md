@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Soberbia Menor
   fr: Paradisier de Ramsay
   de: Ramsay-Kragenparadiesvogel
-  pt: lesser lophorina
+  pt: ''
   ru: Малая лофорина
   ja: ヒメカタカケフウチョウ
   zh: 小华美极乐鸟

@@ -12,7 +12,7 @@ names:
   es: Pitohuí de Waigeo
   fr: Pitohui de Waigeo
   de: Graukopfpirol
-  pt: raja ampat pitohui
+  pt: ''
   ru: Рыжебрюхий питоху
   nl: Raja-Ampatpitohui
   pl: fletowiec płowy

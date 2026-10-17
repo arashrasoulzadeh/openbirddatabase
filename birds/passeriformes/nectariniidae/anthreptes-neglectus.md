@@ -12,7 +12,7 @@ names:
   es: Suimanga de Los Uluguru
   fr: Souimanga des Uluguru
   de: Ulugurunektarvogel
-  pt: uluguru violet-backed sunbird
+  pt: ''
   ru: Фиолетоволобая нектарница
   ja: ムラサキコバシタイヨウチョウ
   zh: 紫背食蜜鳥

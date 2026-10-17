@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25739.0
 names:
   scientific: Zosterops somadikartai
-  fa: nan
+  fa: ''
   en: Togian White-eye
   es: Anteojitos de las Togian
   fr: Zostérops des Togian
   de: Togianbrillenvogel
-  pt: togian white-eye
+  pt: ''
   ru: Очковая белоглазка
   ja: トギアンメジロ
   nl: Togianbrilvogel

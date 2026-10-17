@@ -12,7 +12,7 @@ names:
   es: Iora Verde
   fr: Iora émeraude
   de: Smaragdiora
-  pt: green iora
+  pt: ''
   ru: Зелёная йора
   ja: ミドリヒメコノハドリ
   zh: 綠雀鵯

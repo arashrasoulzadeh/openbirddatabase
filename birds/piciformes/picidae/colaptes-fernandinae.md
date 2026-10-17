@@ -12,7 +12,7 @@ names:
   es: Carpintero Churroso
   fr: Pic de Fernandina
   de: Kubaspecht
-  pt: fernandina's flicker
+  pt: ''
   ru: Сапатский дятел
   ja: キューバハシボソキツツキ
   nl: Cubaanse grondspecht

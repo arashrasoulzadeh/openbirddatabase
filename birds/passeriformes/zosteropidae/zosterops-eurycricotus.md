@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25676.0
 names:
   scientific: Zosterops eurycricotus
-  fa: nan
+  fa: ''
   en: Broad-ringed White-eye
   es: Anteojitos Serrano del Kilimanjaro
   fr: Zostérops du Kilimandjaro
@@ -15,7 +15,7 @@ names:
   pt: kilimanjaro white-eye
   ru: Килиманджарская белоглазка
   ja: キリマンジャロメジロ
-  zh: Broad-ringed White-eye
+  zh: ''
   nl: Kilimanjarobrilvogel
   pl: szlarnik tanzański
   tr: Kilimanjaro Gözlükçüsü

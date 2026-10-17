@@ -12,7 +12,7 @@ names:
   es: Quetzal Crestado
   fr: Quetzal antisien
   de: Kammtrogon
-  pt: crested quetzal
+  pt: ''
   ru: Хохлатый кетцаль
   ja: カンムリカザリキヌバネドリ
   nl: Kuifquetzal

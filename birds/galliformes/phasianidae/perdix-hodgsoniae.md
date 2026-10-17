@@ -12,7 +12,7 @@ names:
   es: Perdiz Tibetana
   fr: Perdrix de Hodgson
   de: Tibetrebhuhn
-  pt: tibetan partridge
+  pt: ''
   ru: Тибетская куропатка
   ja: チベットヤマウズラ
   zh: 高原山鹑

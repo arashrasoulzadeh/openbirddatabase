@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Sumatra
   fr: Gobemouche de Sumatra
   de: Sumatrablauschnäpper
-  pt: rufous-vented niltava
+  pt: ''
   ru: Суматранская нильтава
   ja: スマトラアオヒタキ
   zh: 苏门答腊仙鹟

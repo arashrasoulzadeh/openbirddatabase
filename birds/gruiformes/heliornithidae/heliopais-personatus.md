@@ -12,7 +12,7 @@ names:
   es: Avesol Asiático
   fr: Grébifoulque d'Asie
   de: Maskenbinsenralle
-  pt: masked finfoot
+  pt: ''
   ru: Азиатский лапчатоног
   ja: アジアヒレアシ
   zh: 亚洲鳍趾䴘

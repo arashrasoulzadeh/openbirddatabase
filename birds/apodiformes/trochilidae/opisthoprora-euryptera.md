@@ -12,7 +12,7 @@ names:
   es: Colibrí Picolezna
   fr: Colibri avocettin
   de: Fleckenbauchkolibri
-  pt: mountain avocetbill
+  pt: ''
   ru: Колибри-шилонос
   ja: ソリハシハチドリ
   zh: 反嘴蜂鸟

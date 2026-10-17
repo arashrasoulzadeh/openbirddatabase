@@ -12,7 +12,7 @@ names:
   es: Carpinterito Ecuatoriano
   fr: Picumne de Sclater
   de: Braunohr-Zwergspecht
-  pt: ecuadorian piculet
+  pt: ''
   ru: Эквадорский дятелок
   ja: エクアドルヒメキツツキ
   nl: Ecuadoraanse dwergspecht

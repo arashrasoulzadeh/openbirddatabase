@@ -12,7 +12,7 @@ names:
   es: Estornino de Socotra
   fr: Rufipenne de Socotra
   de: Sokotrastar
-  pt: socotra starling
+  pt: ''
   ru: Сокотранский скворец
   ja: ソコトラテリムク
   nl: Socotraspreeuw

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26102.0
 names:
   scientific: Stachyris nigriceps
-  fa: nan
+  fa: ''
   en: Grey-throated Babbler
   es: Timalí Gorjigrís
   fr: Timalie à tête rayée

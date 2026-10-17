@@ -12,7 +12,7 @@ names:
   es: Trepador de Cachemira
   fr: Sittelle du Cachemire
   de: Kaschmirkleiber
-  pt: kashmir nuthatch
+  pt: ''
   ru: Кашмирский поплзень
   ja: カシミールゴジュウカラ
   nl: Kasjmirboomklever

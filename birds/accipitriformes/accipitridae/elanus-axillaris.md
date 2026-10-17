@@ -12,7 +12,7 @@ names:
   es: Elanio Australiano
   fr: Élanion d'Australie
   de: Australienaar
-  pt: black-shouldered kite
+  pt: ''
   ru: Черноплечий коршун
   ja: オーストラリアカタグロトビ
   zh: 黑肩鸢

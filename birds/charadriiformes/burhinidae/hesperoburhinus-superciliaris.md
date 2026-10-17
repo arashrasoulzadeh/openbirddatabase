@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5739.0
 names:
   scientific: Hesperoburhinus superciliaris
-  fa: nan
+  fa: ''
   en: Peruvian Thick-knee
   es: Alcaraván Peruano
   fr: Oedicnème du Pérou
   de: Inkatriel
-  pt: peruvian thick-knee
+  pt: ''
   ru: Перуанская авдотка
   ja: ペルーイシチドリ
   nl: Peruaanse griel

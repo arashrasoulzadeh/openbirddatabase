@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15447.0
 names:
   scientific: Asthenes heterura
-  fa: nan
+  fa: ''
   en: Maquis Canastero
   es: Piscuiz de Iquico
   fr: Synallaxe d'Iquico
   de: Dornbuschcanastero
-  pt: maquis canastero
+  pt: ''
   ru: Боливийский канастеро
   ja: ボリビアカマドドリ
   nl: Iquicocanastero

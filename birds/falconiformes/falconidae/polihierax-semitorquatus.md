@@ -12,7 +12,7 @@ names:
   es: Halconcito Africano
   fr: Fauconnet d'Afrique
   de: Halsband-Zwergfalke
-  pt: pygmy falcon
+  pt: ''
   ru: Африканский соколок
   ja: コビトハヤブサ
   zh: 非洲侏隼

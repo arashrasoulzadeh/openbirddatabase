@@ -15,7 +15,7 @@ names:
   pt: puerto rican lizard-cuckoo
   ru: Пуэрториканская пиайя
   ja: プエルトリコトゲカッコウ
-  zh: Puerto Rican Lizard Cuckoo
+  zh: ''
   nl: Puertoricaanse hagediskoekoek
   pl: jaszczurkojad brązowy
   tr: Portoriko Kertenkele Guguğu

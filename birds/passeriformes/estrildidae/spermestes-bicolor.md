@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31054.0
 names:
   scientific: Spermestes bicolor
-  fa: nan
+  fa: ''
   en: Black-and-white Mannikin
   es: Capuchino Bicolor
   fr: Capucin bicolore
   de: Glanzelsterchen
-  pt: black-and-white mannikin
+  pt: ''
   ru: Чёрно-белая муния
   ja: クロシチホウ
   zh: 黑白文鳥

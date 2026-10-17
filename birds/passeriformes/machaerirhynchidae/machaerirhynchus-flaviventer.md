@@ -12,7 +12,7 @@ names:
   es: Monarca Piquiplano Pechiamarillo
   fr: Largebec à poitrine jaune
   de: Gelbbauch-Flachschnabel
-  pt: yellow-breasted boatbill
+  pt: ''
   ru: Желтогрудый лодкоклюв
   ja: キムネハシビロヒタキ
   nl: Geelborstbootsnavel

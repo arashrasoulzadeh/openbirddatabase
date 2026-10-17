@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6128.0
 names:
   scientific: Tringa ochropus
-  fa: nan
+  fa: ''
   en: Green Sandpiper
   es: Andarríos Grande
   fr: Chevalier cul-blanc

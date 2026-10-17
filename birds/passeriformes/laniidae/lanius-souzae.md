@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21155.0
 names:
   scientific: Lanius souzae
-  fa: nan
+  fa: ''
   en: Souza's Shrike
   es: Alcaudón de Souza
   fr: Pie-grièche de Sousa
   de: Miombowürger
-  pt: souza's shrike
+  pt: ''
   ru: Африканский жулан
   ja: カタジロチゴモズ
   zh: 南非伯劳

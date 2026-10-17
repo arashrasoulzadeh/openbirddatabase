@@ -12,7 +12,7 @@ names:
   es: Cucal Filipino
   fr: Coucal vert
   de: Grünkuckuck
-  pt: philippine coucal
+  pt: ''
   ru: Филиппинский кукаль
   ja: ミドリバンケン
   nl: Filipijnse spoorkoekoek

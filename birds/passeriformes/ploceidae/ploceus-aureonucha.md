@@ -12,7 +12,7 @@ names:
   es: Tejedor Nuquigualdo
   fr: Tisserin à nuque d'or
   de: Goldnackenweber
-  pt: golden-naped weaver
+  pt: ''
   ru: Итурийский ткач
   ja: キンエリハタオリ
   nl: Goudnekwever

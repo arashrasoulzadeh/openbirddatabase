@@ -12,7 +12,7 @@ names:
   es: Martín Cazador Picopala
   fr: Martin-chasseur bec-en-cuillère
   de: Froschschnabelliest
-  pt: shovel-billed kookaburra
+  pt: ''
   ru: Лягушкоротая кукабара
   ja: ハシブトカワセミ
   nl: Kikkerbekijsvogel

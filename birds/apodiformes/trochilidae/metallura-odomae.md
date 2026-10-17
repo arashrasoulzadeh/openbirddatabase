@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4558.0
 names:
   scientific: Metallura odomae
-  fa: nan
+  fa: ''
   en: Neblina Metaltail
   es: Metalura del Chinguela
   fr: Métallure du Chinguela
   de: Purpurkehl-Glanzschwänzchen
-  pt: neblina metaltail
+  pt: ''
   ru: Рыжегорлый металлохвост
   ja: ネブリナテリオハチドリ
   zh: 涅比辉尾蜂鸟

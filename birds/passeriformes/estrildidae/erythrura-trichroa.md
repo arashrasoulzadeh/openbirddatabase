@@ -12,7 +12,7 @@ names:
   es: Diamante Cariazul
   fr: Diamant de Kittlitz
   de: Dreifarben-Papageiamadine
-  pt: blue-faced parrotfinch
+  pt: ''
   ru: Синелицая амадина
   ja: ナンヨウセイコウチョウ
   zh: 蓝脸鹦雀

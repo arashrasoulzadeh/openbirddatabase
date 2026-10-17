@@ -12,7 +12,7 @@ names:
   es: Pico Ventrirrufo
   fr: Pic à ventre fauve
   de: Rostbauchspecht
-  pt: rufous-bellied woodpecker
+  pt: ''
   ru: Рыжебрюхий дятел
   ja: チャバラアカゲラ
   zh: 棕腹啄木鸟

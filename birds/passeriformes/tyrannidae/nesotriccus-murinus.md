@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16626.0
 names:
   scientific: Nesotriccus murinus
-  fa: nan
+  fa: ''
   en: Mouse-colored Tyrannulet
   es: Piojito Pardo
   fr: Tyranneau souris

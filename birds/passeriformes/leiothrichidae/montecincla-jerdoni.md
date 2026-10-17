@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 26496.0
 names:
   scientific: Montecincla jerdoni
-  fa: nan
+  fa: ''
   en: Banasura Laughingthrush
   es: Charlatán del Banasura
   fr: Garrulaxe de Jerdon
   de: Jerdonhäherling
-  pt: banasura laughingthrush
+  pt: ''
   ru: Серогрудая кустарница
   ja: バナスラガビチョウ
   zh: 白胸噪鹛

@@ -12,7 +12,7 @@ names:
   es: Torrentero de Borneo
   fr: Énicure de Bornéo
   de: Borneoscherenschwanz
-  pt: bornean forktail
+  pt: ''
   ru: Борнейская вилохвостка
   ja: ボルネオエンビシキチョウ
   nl: Borneose vorkstaart

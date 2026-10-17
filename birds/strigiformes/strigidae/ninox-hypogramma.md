@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9383.0
 names:
   scientific: Ninox hypogramma
-  fa: nan
+  fa: ''
   en: Halmahera Boobook
   es: Nínox de Halmahera
   fr: Ninoxe d'Halmahera
   de: Halmaherakauz
-  pt: halmahera boobook
+  pt: ''
   ru: Хальмахерская иглоногая сова
   ja: ハルマヘラアオバズク
   nl: Halmaheravalkuil

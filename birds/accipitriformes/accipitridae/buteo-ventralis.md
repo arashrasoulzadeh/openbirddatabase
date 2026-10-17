@@ -12,7 +12,7 @@ names:
   es: Busardo Patagón
   fr: Buse de Patagonie
   de: Magellanbussard
-  pt: rufous-tailed hawk
+  pt: ''
   ru: Магелланов канюк
   ja: ナンベイアカオノスリ
   nl: Patagonische buizerd

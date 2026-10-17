@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18714.0
 names:
   scientific: Coracina caledonica
-  fa: nan
+  fa: ''
   en: South Melanesian Cuckooshrike
   es: Oruguero de Melanesia
   fr: Échenilleur calédonien
   de: Melanesienraupenfänger
-  pt: south melanesian cuckooshrike
+  pt: ''
   ru: Меланезийский воронец
   ja: メラネシアオニサンショウクイ
   zh: 美岛鹃鵙

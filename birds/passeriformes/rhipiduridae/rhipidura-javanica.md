@@ -15,7 +15,7 @@ names:
   pt: malaysian pied-fantail
   ru: Ошейниковая веерохвостка
   ja: ムナオビオウギビタキ
-  zh: Malaysian Pied Fantail
+  zh: ''
   nl: Maleise bonte waaierstaart
   pl: wachlarzówka srokata
   tr: Büyük Boz Katmerkuyruk

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10632.0
 names:
   scientific: Tricholaema leucomelas
-  fa: nan
+  fa: ''
   en: Acacia Pied Barbet
   es: Barbudo Pío
   fr: Barbican pie
@@ -15,7 +15,7 @@ names:
   pt: pied barbet
   ru: Акациевая либия
   ja: シロマユコゴシキドリ
-  zh: Acacia Pied Barbet
+  zh: ''
   nl: Kaapse baardvogel
   pl: głowaczek białolicy
   tr: Serçe Barbeti

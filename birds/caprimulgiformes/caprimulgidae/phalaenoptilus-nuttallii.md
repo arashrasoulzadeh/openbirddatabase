@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3588.0
 names:
   scientific: Phalaenoptilus nuttallii
-  fa: nan
+  fa: ''
   en: Common Poorwill
   es: Chotacabras Pachacua
   fr: Engoulevent de Nuttall
   de: Winternachtschwalbe
-  pt: common poorwill
+  pt: ''
   ru: Спящий козодой
   ja: プアーウィルヨタカ
   zh: 北美小夜鹰

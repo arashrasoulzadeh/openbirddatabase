@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8584.0
 names:
   scientific: Tyto novaehollandiae
-  fa: nan
+  fa: ''
   en: Australasian Masked Owl
   es: Lechuza Australiana
   fr: Effraie masquée
@@ -15,7 +15,7 @@ names:
   pt: australian masked-owl
   ru: Австралийская сипуха
   ja: オオメンフクロウ
-  zh: Australian Masked Owl
+  zh: ''
   nl: Australische kerkuil
   pl: płomykówka duża
   tr: Avustralya Peçeli Baykuşu

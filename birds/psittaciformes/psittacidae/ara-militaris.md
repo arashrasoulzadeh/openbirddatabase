@@ -12,7 +12,7 @@ names:
   es: Guacamayo Militar
   fr: Ara militaire
   de: Soldatenara
-  pt: military macaw
+  pt: ''
   ru: Солдатский ара
   ja: ミドリコンゴウインコ
   zh: 軍艦金剛鸚鵡

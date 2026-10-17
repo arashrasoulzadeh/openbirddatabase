@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4631.0
 names:
   scientific: Coeligena inca
-  fa: nan
+  fa: ''
   en: Gould's Inca
   es: Inca de Gould
   fr: Inca de Gould
   de: Inkamusketier
-  pt: gould's inca
+  pt: ''
   zh: 锈胸星额蜂鸟
   nl: Oranjekraagincakolibrie
   pl: elfik inkaski

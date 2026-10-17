@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14155.0
 names:
   scientific: Pittasoma michleri
-  fa: nan
+  fa: ''
   en: Black-crowned Antpitta
   es: Tororoí Capinegro
   fr: Pittasome à tête noire
   de: Schwarzscheitel-Mückenfresser
-  pt: black-crowned antpitta
+  pt: ''
   ru: Чешуйчатая питтасома
   ja: アリヤイロチョウ
   nl: Zwartkruinmierpitta

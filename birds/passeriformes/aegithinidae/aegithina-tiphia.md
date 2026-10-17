@@ -12,7 +12,7 @@ names:
   es: Iora Común
   fr: Petit Iora
   de: Garteniora
-  pt: common iora
+  pt: ''
   ru: Пестрокрылая йора
   ja: ヒメコノハドリ
   zh: 黑翅雀鹎

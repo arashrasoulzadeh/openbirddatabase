@@ -12,7 +12,7 @@ names:
   es: Colín Serrano
   fr: Colin des montagnes
   de: Bergwachtel
-  pt: mountain quail
+  pt: ''
   ru: Горный перепел
   ja: ツノウズラ
   zh: 山翎鹑

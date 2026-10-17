@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13926.0
 names:
   scientific: Cercomacra cinerascens
-  fa: nan
+  fa: ''
   en: Grey Antbird
   es: Hormiguero Gris
   fr: Grisin ardoisé
@@ -15,7 +15,7 @@ names:
   pt: chororó-pocuá
   ru: Серая муравьянка
   ja: ハイイロアリドリ
-  zh: Grey Antbird
+  zh: ''
   nl: Grijze miervogel
   pl: mrówkowodzik szary
   tr: Gri Karıncakuşu

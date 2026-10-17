@@ -12,7 +12,7 @@ names:
   es: Suimanga de Socotra
   fr: Souimanga de Socotra
   de: Sokotraglanzköpfchen
-  pt: socotra sunbird
+  pt: ''
   ru: Сокотранская нектарница
   ja: ソコトラタイヨウチョウ
   nl: Socotrahoningzuiger

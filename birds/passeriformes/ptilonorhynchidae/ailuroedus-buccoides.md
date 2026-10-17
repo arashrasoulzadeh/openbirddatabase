@@ -12,7 +12,7 @@ names:
   es: Maullador Cariblanco
   fr: Jardinier à joues blanches
   de: Weißohr-Laubenvogel
-  pt: white-eared catbird
+  pt: ''
   ru: Белощёкая птица-кошка
   ja: ミミジロネコドリ
   zh: 白耳猫鸟

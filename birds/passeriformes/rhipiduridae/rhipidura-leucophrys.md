@@ -15,7 +15,7 @@ names:
   pt: willie-wagtail
   ru: Чёрно-белая веерохвостка
   ja: ヨコフリオウギビタキ
-  zh: Willie Wagtail
+  zh: ''
   nl: Tuinwaaierstaart
   pl: wachlarzówka smolista
   tr: Bahçe Katmerkuyruğu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12719.0
 names:
   scientific: Loriculus galgulus
-  fa: nan
+  fa: ''
   en: Blue-crowned Hanging Parrot
   es: Lorículo Coroniazul
   fr: Coryllis à tête bleue
@@ -15,7 +15,7 @@ names:
   pt: blue-crowned hanging-parrot
   ru: Малайский лорикулюс
   ja: サトウチョウ
-  zh: Blue-crowned Hanging Parrot
+  zh: ''
   nl: Blauwkroontje
   pl: zwisogłówka koroniasta
   tr: Mavi Başlıklı Cennet Papağanı

@@ -12,7 +12,7 @@ names:
   es: Periquito Roquero
   fr: Perruche des rochers
   de: Klippensittich
-  pt: rock parrot
+  pt: ''
   ru: Скальный травяной попугайчик
   ja: イワクサインコ
   zh: 岩草鸚鵡

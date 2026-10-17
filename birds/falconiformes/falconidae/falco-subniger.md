@@ -12,7 +12,7 @@ names:
   es: Halcón Negro
   fr: Faucon noir
   de: Rußfalke
-  pt: black falcon
+  pt: ''
   ru: Чёрный сокол
   ja: クロハヤブサ
   zh: 黑隼

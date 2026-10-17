@@ -12,7 +12,7 @@ names:
   es: Verdugo Plateado
   fr: Cassican à dos argent
   de: Silberrücken-Krähenstar
-  pt: silver-backed butcherbird
+  pt: ''
   ru: Сереброспинная флейтовая птица
   ja: ギンイロモズガラス
   zh: 灰背鍾雀

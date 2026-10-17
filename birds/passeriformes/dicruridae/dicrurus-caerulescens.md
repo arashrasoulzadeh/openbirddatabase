@@ -12,7 +12,7 @@ names:
   es: Drongo Ventriblanco
   fr: Drongo à ventre blanc
   de: Graubrustdrongo
-  pt: white-bellied drongo
+  pt: ''
   ru: Белобрюхий дронго
   ja: シロハラオウチュウ
   zh: 白腹卷尾

@@ -12,7 +12,7 @@ names:
   es: Tangara Multicolor
   fr: Tangara multicolore
   de: Schwarzohr-Bunttangare
-  pt: multicolored tanager
+  pt: ''
   ru: Многоцветная танагра
   ja: ゴシキエメラルドフウキンチョウ
   nl: Veelkleurige tangare

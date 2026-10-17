@@ -12,7 +12,7 @@ names:
   es: Cucaburra Escamosa
   fr: Martin-chasseur pailleté
   de: Aruliest
-  pt: spangled kookaburra
+  pt: ''
   ru: Аруанская кукабара
   ja: アルーワライカワセミ
   nl: Aroekookaburra

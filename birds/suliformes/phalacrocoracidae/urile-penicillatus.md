@@ -12,7 +12,7 @@ names:
   es: Cormorán Sargento
   fr: Cormoran de Brandt
   de: Pinselscharbe
-  pt: brandt's cormorant
+  pt: ''
   ru: Синегорлый баклан
   ja: アオノドヒメウ
   nl: Brandtaalscholver

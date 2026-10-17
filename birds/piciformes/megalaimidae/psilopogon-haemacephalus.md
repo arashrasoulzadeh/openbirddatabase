@@ -12,7 +12,7 @@ names:
   es: Barbudo Calderero
   fr: Barbu à plastron rouge
   de: Kupferschmied-Bartvogel
-  pt: coppersmith barbet
+  pt: ''
   ru: Краснолобый бородастик
   ja: ムネアカゴシキドリ
   zh: 赤胸拟啄木鸟

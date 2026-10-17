@@ -12,7 +12,7 @@ names:
   es: Estrilda de Shelley
   fr: Astrild de Shelley
   de: Rotmantelastrild
-  pt: shelley's crimsonwing
+  pt: ''
   ru: Рувензорский астрильд
   ja: ズアカハゴロモキンパラ
   zh: 谢氏朱翅雀

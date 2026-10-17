@@ -12,7 +12,7 @@ names:
   es: Picaflores Moteado
   fr: Dicée tacheté
   de: Goldbrust-Mistelfresser
-  pt: yellow-breasted flowerpecker
+  pt: ''
   ru: Желтогрудый цветоед
   ja: キムネハナドリモドキ
   zh: 黃喉鋸齒啄花鳥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35806.0
 names:
   scientific: Saltator grandis
-  fa: nan
+  fa: ''
   en: Cinnamon-bellied Saltator
   es: Pepitero Grisáceo Norteño
   fr: Saltator du Mexique
   de: Zimtbauchsaltator
-  pt: cinnamon-bellied saltator
+  pt: ''
   ru: Серый сальтатор
   nl: Bruin-grijze saltator
   pl: ziarnołusk śniady

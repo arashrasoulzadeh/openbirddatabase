@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31936.0
 names:
   scientific: Macronyx fuelleborni
-  fa: nan
+  fa: ''
   en: Fülleborn's Longclaw
   es: Bisbita de Fülleborn
   fr: Sentinelle de Fülleborn
   de: Füllebornpieper
-  pt: fülleborn's longclaw
+  pt: ''
   ru: Галстучный шпорник
   ja: キノドツメナガタヒバリ
   nl: Füllebornlangklauw

@@ -12,7 +12,7 @@ names:
   es: Minero Austral
   fr: Géositte à bec court
   de: Feuerland-Erdhacker
-  pt: short-billed miner
+  pt: ''
   ru: Короткоклювый землекоп
   ja: コバシジカマドドリ
   nl: Patagonische holengraver

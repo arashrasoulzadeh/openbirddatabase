@@ -12,7 +12,7 @@ names:
   es: Mielero de Obi
   fr: Myzomèle d'Obi
   de: Obihonigfresser
-  pt: red-tinged myzomela
+  pt: ''
   ja: オビコゲチャミツスイ
   nl: Obidwerghoningeter
   pl: miodówka zbroczona

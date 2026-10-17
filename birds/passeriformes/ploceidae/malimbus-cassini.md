@@ -15,7 +15,7 @@ names:
   pt: black-throated malimbe
   ru: Красногрудый малимб
   ja: ノドグロモリハタオリ
-  zh: Cassin's Malimbe
+  zh: ''
   nl: Zwartkeelprachtwever
   pl: wikłacz czarnorzytny
   tr: Cassin Malimbesi

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11107.0
 names:
   scientific: Verreauxia africana
-  fa: nan
+  fa: ''
   en: African Piculet
   es: Carpinterito Africano
   fr: Picumne de Verreaux
   de: Graubauch-Mausspecht
-  pt: african piculet
+  pt: ''
   ru: Африканский дятелок
   ja: アフリカミツユビコゲラ
   nl: Afrikaanse dwergspecht

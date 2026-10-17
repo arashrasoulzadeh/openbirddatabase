@@ -15,7 +15,7 @@ names:
   pt: rufous-backed dwarf-kingfisher
   ru: Малайский лесной зимородок.
   ja: セアカミツユビカワセミ
-  zh: Rufous-backed Dwarf Kingfisher
+  zh: ''
   nl: Roodrugdwergijsvogel
   pl: zimorodek rdzawogrzbiety
   tr: Kızılca Küçük Yalıçapkını

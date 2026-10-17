@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12392.0
 names:
   scientific: Psittacella picta
-  fa: nan
+  fa: ''
   en: Painted Tiger Parrot
   es: Lorito Tigre Pintado
   fr: Perruche peinte
@@ -15,7 +15,7 @@ names:
   pt: painted tiger-parrot
   ru: Расписной попугай
   ja: サイシキインコ
-  zh: Painted Tiger Parrot
+  zh: ''
   nl: Veelkleurentijgerparkiet
   pl: brązogłówka obrożna
   tr: Kaplan Papağanı

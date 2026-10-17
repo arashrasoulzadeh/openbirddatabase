@@ -15,7 +15,7 @@ names:
   pt: banded ground-cuckoo
   ru: Полосатая земляная кукушка
   ja: シマアメリカジカッコウ
-  zh: Banded Ground Cuckoo
+  zh: ''
   nl: Gebandeerde grondkoekoek
   pl: kukawka prążkowana
   tr: Yazılı Yer Guguğu

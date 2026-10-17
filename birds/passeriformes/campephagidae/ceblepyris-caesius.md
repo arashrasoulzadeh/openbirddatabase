@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18654.0
 names:
   scientific: Ceblepyris caesius
-  fa: nan
+  fa: ''
   en: Grey Cuckooshrike
   es: Oruguero Gris
   fr: Échenilleur gris
@@ -15,7 +15,7 @@ names:
   pt: gray cuckooshrike
   ru: Лесной воронец
   ja: ハイイロオオサンショウクイ
-  zh: Grey Cuckooshrike
+  zh: ''
   nl: Bosrupsvogel
   pl: kruczyna szara
   tr: Gri Tırtılyiyen

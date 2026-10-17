@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3546.0
 names:
   scientific: Setopagis parvula
-  fa: nan
+  fa: ''
   en: Little Nightjar
   es: Chotacabras Chico
   fr: Engoulevent des bois

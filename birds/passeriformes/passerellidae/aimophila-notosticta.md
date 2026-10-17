@@ -12,7 +12,7 @@ names:
   es: Chingolo Oaxaqueño
   fr: Tohi d'Oaxaca
   de: Oaxacaammer
-  pt: oaxaca sparrow
+  pt: ''
   ru: Оахакская овсянка
   ja: オアハカスズメモドキ
   nl: Oaxacagors

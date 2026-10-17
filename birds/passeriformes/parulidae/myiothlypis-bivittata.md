@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34319.0
 names:
   scientific: Myiothlypis bivittata
-  fa: nan
+  fa: ''
   en: Two-banded Warbler
   es: Reinita Bandeada
   fr: Paruline rubanée

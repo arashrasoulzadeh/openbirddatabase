@@ -12,7 +12,7 @@ names:
   es: Bulbul Orejipardo
   fr: Bulbul à oreillons bruns
   de: Orpheusbülbül
-  pt: brown-eared bulbul
+  pt: ''
   ru: Короткопалый бюль-бюль
   ja: ヒヨドリ
   zh: 栗耳短脚鹎

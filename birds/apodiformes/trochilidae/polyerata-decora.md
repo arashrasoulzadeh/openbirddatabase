@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5191.0
 names:
   scientific: Polyerata decora
-  fa: nan
+  fa: ''
   en: Charming Hummingbird
   es: Amazilia Encantadora
   fr: Ariane charmante
   de: Schmuckamazilie
-  pt: charming hummingbird
+  pt: ''
   ru: Разноцветная амазилия
   ja: エメラルドカンムリハチドリ
   zh: 娇蜂鸟

@@ -15,7 +15,7 @@ names:
   pt: bico-de-serra-cinzento
   ru: Серый токо
   ja: ハイイロコサイチョウ
-  zh: African Grey Hornbill
+  zh: ''
   nl: Grijze tok
   pl: toko nosaty
   tr: Afrika Gri Boynuzgagası

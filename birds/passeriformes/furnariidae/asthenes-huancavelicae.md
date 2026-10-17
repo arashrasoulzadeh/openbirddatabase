@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15375.0
 names:
   scientific: Asthenes huancavelicae
-  fa: nan
+  fa: ''
   en: Pale-tailed Canastero
   es: Canastero de Huancavelica
   fr: Synallaxe à queue pâle
   de: Grauwangencanastero
-  pt: pale-tailed canastero
+  pt: ''
   ru: Бледнохвостый канастеро
   ja: アオオカマドドリ
   nl: Bleekstaartcanastero

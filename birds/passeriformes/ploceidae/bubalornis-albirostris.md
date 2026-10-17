@@ -15,7 +15,7 @@ names:
   pt: white-billed buffalo-weaver
   ru: Белоклювый буйволов ткач
   ja: ウシハタオリ
-  zh: White-billed Buffalo Weaver
+  zh: ''
   nl: Witsnavelbuffelwever
   pl: bawolik białodzioby
   tr: Ak Gagalı Dokumacı

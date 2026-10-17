@@ -12,7 +12,7 @@ names:
   es: Abanico de las Bismarck
   fr: Rhipidure des Bismarck
   de: Graukehl-Fächerschwanz
-  pt: bismarck fantail
+  pt: ''
   ru: Бисмаркская веерохвостка
   ja: ビスマークオウギビタキ
   nl: Grijskeelwaaierstaart

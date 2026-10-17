@@ -12,7 +12,7 @@ names:
   es: Ganga Goteada
   fr: Ganga de Burchell
   de: Fleckenflughuhn
-  pt: burchell's sandgrouse
+  pt: ''
   ru: Пятнистый рябок
   ja: シロボシサケイ
   nl: Bont zandhoen

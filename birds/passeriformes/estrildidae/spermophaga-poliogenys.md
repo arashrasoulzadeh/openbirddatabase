@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquigorda de Grant
   fr: Becbleu de Grant
   de: Grantsamenknacker
-  pt: grant's bluebill
+  pt: ''
   ru: Алогрудый синеклюв
   ja: クリエリアオハシキンパラ
   zh: 灰颊蓝嘴雀

@@ -12,7 +12,7 @@ names:
   es: Alción Oscuro
   fr: Martin-chasseur bleu-noir
   de: Dunkelliest
-  pt: blue-black kingfisher
+  pt: ''
   ru: Чёрно-синяя альциона
   ja: アオグロショウビン
   zh: 藍黑翡翠

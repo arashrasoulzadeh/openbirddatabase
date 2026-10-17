@@ -12,7 +12,7 @@ names:
   es: Pinzón de Darwin de Cocos
   fr: Spizin de Cocos
   de: Kokosinsel-Darwinfink
-  pt: cocos finch
+  pt: ''
   ru: Кокосский вьюрок
   ja: ココスフィンチ
   zh: 科科斯岛雀属

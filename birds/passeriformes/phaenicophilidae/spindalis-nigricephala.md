@@ -12,7 +12,7 @@ names:
   es: Cigua Jamaicana
   fr: Zéna de Jamaïque
   de: Jamaika-Streifenkopftangare
-  pt: jamaican spindalis
+  pt: ''
   ru: Ямайская зена
   ja: ジャマイカシトドフウキンチョウ
   nl: Jamaicaanse spindalis

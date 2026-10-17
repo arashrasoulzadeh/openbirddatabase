@@ -12,7 +12,7 @@ names:
   es: Lori de Samoa
   fr: Lori fringillaire
   de: Blaukappenlori
-  pt: blue-crowned lorikeet
+  pt: ''
   ru: Синешапочный лори-отшельник
   ja: ズアオムスメインコ
   nl: Blauwkruinlori

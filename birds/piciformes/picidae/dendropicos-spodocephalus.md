@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11311.0
 names:
   scientific: Dendropicos spodocephalus
-  fa: nan
+  fa: ''
   en: Eastern Grey Woodpecker
   es: Pito Gris Oriental
   fr: Pic spodocéphale
@@ -15,7 +15,7 @@ names:
   pt: mountain gray woodpecker
   ru: Пепельноголовый дятел
   ja: リキュウガシラゲラ
-  zh: Eastern Grey Woodpecker
+  zh: ''
   nl: Ethiopische specht
   pl: dzięcioł szarogłowy
   tr: Doğulu Gri Ağaçkakan

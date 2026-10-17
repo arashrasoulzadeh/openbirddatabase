@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16253.0
 names:
   scientific: Pogonotriccus paulista
-  fa: nan
+  fa: ''
   en: Sao Paulo Bristle Tyrant
   es: Orejerito de Sao Paulo
   fr: Tyranneau de Sao Paulo
@@ -15,7 +15,7 @@ names:
   pt: não-pode-parar
   ru: Желтолобый каричи
   ja: キマユコバシハエトリ
-  zh: Sao Paulo Bristle Tyrant
+  zh: ''
   nl: Sao-Paulolooftiran
   pl: tyrańczyk mały
   tr: Sao Paulo Yaprak Tiranı

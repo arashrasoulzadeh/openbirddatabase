@@ -12,7 +12,7 @@ names:
   es: Pita Ventrirroja
   fr: Brève à ventre rouge
   de: Philippinen-Blaubrustpitta
-  pt: philippine pitta
+  pt: ''
   ru: Краснобрюхая питта
   ja: アカハラヤイロチョウ
   zh: 紅胸八色鶇

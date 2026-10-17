@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3527.0
 names:
   scientific: Nyctidromus albicollis
-  fa: nan
+  fa: ''
   en: Pauraque
   es: Chotacabras Pauraque
   fr: Engoulevent pauraqué
@@ -15,7 +15,7 @@ names:
   pt: bacurau
   ru: Пораке
   ja: オオヨタカ
-  zh: Pauraque
+  zh: ''
   nl: Pauraque
   pl: lelkowiec białoszyi
   tr: Porak

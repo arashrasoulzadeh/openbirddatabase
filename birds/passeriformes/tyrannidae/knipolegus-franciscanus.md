@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17060.0
 names:
   scientific: Knipolegus franciscanus
-  fa: nan
+  fa: ''
   en: Sao Francisco Black Tyrant
   es: Viudita de Caatinga
   fr: Ada du Sao Francisco
@@ -15,7 +15,7 @@ names:
   pt: maria-preta-do-nordeste
   ru: Францисканская вдовка
   ja: カーティンガクロタイランチョウ
-  zh: Sao Francisco Black Tyrant
+  zh: ''
   nl: Sao-Franciscomoortiran
   pl: wdowik brazyliski
   tr: Kaatinga Esmer Tiranı

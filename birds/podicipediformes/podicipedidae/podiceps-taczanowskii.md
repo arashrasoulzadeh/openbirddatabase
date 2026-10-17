@@ -12,7 +12,7 @@ names:
   es: Zampullín del Junín
   fr: Grèbe de Taczanowski
   de: Punataucher
-  pt: junin grebe
+  pt: ''
   ru: Хунинская поганка
   ja: ペルーカイツブリ
   zh: 秘魯鸊鷉

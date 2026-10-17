@@ -15,7 +15,7 @@ names:
   pt: caldeireta
   ru: Канарский чекан
   ja: カナリーノビタキ
-  zh: Canary Islands Stonechat
+  zh: ''
   nl: Canarische roodborsttapuit
   pl: kląskawka kanaryjska
   tr: Kanarya Adası Taşkuşu

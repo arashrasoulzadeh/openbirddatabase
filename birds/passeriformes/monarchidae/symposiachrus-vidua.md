@@ -12,7 +12,7 @@ names:
   es: Monarca Acollarado
   fr: Monarque à col blanc
   de: Schuppenmonarch
-  pt: white-collared monarch
+  pt: ''
   ru: Чешуйчатый монарх
   ja: シロエリカササギビタキ
   nl: Geschubde monarch

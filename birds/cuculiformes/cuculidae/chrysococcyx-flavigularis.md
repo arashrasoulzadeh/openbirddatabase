@@ -12,7 +12,7 @@ names:
   es: Cuclillo Gorjigualdo
   fr: Coucou à gorge jaune
   de: Gelbkehlkuckuck
-  pt: yellow-throated cuckoo
+  pt: ''
   ru: Желтогорлая кукушка
   ja: キノドミドリカッコウ
   nl: Geelkeelkoekoek

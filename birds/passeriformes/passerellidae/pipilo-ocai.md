@@ -12,7 +12,7 @@ names:
   es: Toquí Acollarado
   fr: Tohi à collier
   de: Halsband-Grundammer
-  pt: collared towhee
+  pt: ''
   ru: Воротничковый тохи
   ja: クロオビトウヒチョウ
   nl: Kraagtowie

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25717.0
 names:
   scientific: Zosterops maderaspatanus
-  fa: nan
+  fa: ''
   en: Malagasy White-eye
   es: Anteojitos Malgache
   fr: Zostérops malgache
   de: Madagaskarbrillenvogel
-  pt: malagasy white-eye
+  pt: ''
   ru: Мадагаскарская белоглазка
   ja: マダガスカルメジロ
   zh: 馬島繡眼

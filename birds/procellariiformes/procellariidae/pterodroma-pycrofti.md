@@ -12,7 +12,7 @@ names:
   es: Petrel de Pycroft
   fr: Pétrel de Pycroft
   de: Pycroftsturmvogel
-  pt: pycroft's petrel
+  pt: ''
   ru: Оклендский тайфунник
   ja: ウスヒメシロハラミズナギドリ
   nl: Pycroftstormvogel

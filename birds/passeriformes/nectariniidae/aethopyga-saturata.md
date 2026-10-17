@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjinegro
   fr: Souimanga sombre
   de: Schwarzkehl-Nektarvogel
-  pt: black-throated sunbird
+  pt: ''
   ru: Траурная нектарница
   ja: ムナグロタイヨウチョウ
   zh: 黑胸太阳鸟

@@ -12,7 +12,7 @@ names:
   es: Prinia Modesta
   fr: Prinia modeste
   de: Rahmbrustprinie
-  pt: tawny-flanked prinia
+  pt: ''
   ru: Охристобокая приния
   ja: マミハウチワドリ
   zh: 褐脇鷦鶯

@@ -12,7 +12,7 @@ names:
   es: Prinia Ventriamarilla
   fr: Prinia à ventre jaune
   de: Gelbbauchprinie
-  pt: yellow-bellied prinia
+  pt: ''
   ru: Желтобрюхая приния
   ja: アオハウチワドリ
   zh: 黄腹山鹪莺

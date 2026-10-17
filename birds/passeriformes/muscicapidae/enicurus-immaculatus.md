@@ -12,7 +12,7 @@ names:
   es: Torrentero Dorsinegro
   fr: Énicure à dos noir
   de: Schwarzrücken-Scherenschwanz
-  pt: black-backed forktail
+  pt: ''
   ru: Черноспинная вилохвостка
   ja: セグロエンビシキチョウ
   zh: 黑背燕尾

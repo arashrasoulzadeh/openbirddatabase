@@ -12,7 +12,7 @@ names:
   es: Picoloro de Webb
   fr: Paradoxornis de Webb
   de: Braunkopf-Papageimeise
-  pt: vinous-throated parrotbill
+  pt: ''
   ru: Бурая сутора
   ja: ダルマエナガ
   zh: 棕头鸦雀

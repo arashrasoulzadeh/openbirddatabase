@@ -15,7 +15,7 @@ names:
   pt: mindanao jungle flycatcher
   ru: Очковая гилейница
   ja: ハイイロミツリンヒタキ
-  zh: Slaty-backed Jungle Flycatcher
+  zh: ''
   nl: Mindanaojunglevliegenvanger
   pl: dżunglareczka okularowa
   tr: Mindanao Orman Sinekkapanı

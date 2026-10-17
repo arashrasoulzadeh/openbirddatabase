@@ -12,7 +12,7 @@ names:
   es: Rascón Etíope
   fr: Râle de Rouget
   de: Äthiopienralle
-  pt: rouget's rail
+  pt: ''
   ru: Эфиопский пастушок
   ja: アビシニアクイナ
   zh: 鲁氏秧鸡属

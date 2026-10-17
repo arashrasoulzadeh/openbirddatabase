@@ -12,7 +12,7 @@ names:
   es: Cachudito Liso
   fr: Taurillon uni
   de: Weißbauch-Tachurityrann
-  pt: unstreaked tit-tyrant
+  pt: ''
   ru: Черношапочный качудито
   ja: ムジカラタイランチョウ
   zh: 無紋雀霸鶲

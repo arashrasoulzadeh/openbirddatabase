@@ -12,7 +12,7 @@ names:
   es: Monarca Nuquinegro
   fr: Tchitrec azuré
   de: Schwarznackenmonarch
-  pt: black-naped monarch
+  pt: ''
   ru: Синий монарх
   ja: クロエリヒタキ
   zh: 黑枕王鹟

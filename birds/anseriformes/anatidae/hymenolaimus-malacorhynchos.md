@@ -12,7 +12,7 @@ names:
   es: Pato Azul
   fr: Canard bleu
   de: Saumschnabelente
-  pt: blue duck
+  pt: ''
   ru: Синяя утка
   ja: アオヤマガモ
   zh: 山藍鴨

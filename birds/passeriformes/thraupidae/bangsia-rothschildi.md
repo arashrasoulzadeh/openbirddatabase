@@ -12,7 +12,7 @@ names:
   es: Tangara de Rothschild
   fr: Tangara de Rothschild
   de: Gelbbrust-Bergtangare
-  pt: golden-chested tanager
+  pt: ''
   ru: Манишковая танагра
   ja: キンムネフウキンチョウ
   nl: Goudborsttangare

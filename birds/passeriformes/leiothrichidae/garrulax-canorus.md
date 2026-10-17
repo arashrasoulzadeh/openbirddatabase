@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26714.0
 names:
   scientific: Garrulax canorus
-  fa: nan
+  fa: ''
   en: Chinese Hwamei
   es: Charlatán Canoro
   fr: Garrulaxe hoamy
   de: Augenbrauenhäherling
-  pt: chinese hwamei
+  pt: ''
   ru: Очковая кустарница
   ja: ガビチョウ
   zh: 画眉

@@ -12,7 +12,7 @@ names:
   es: Faisán Verde
   fr: Faisan versicolore
   de: Buntfasan
-  pt: green pheasant
+  pt: ''
   ru: Зелёный фазан
   ja: キジ
   zh: 绿雉

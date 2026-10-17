@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15009.0
 names:
   scientific: Ochetorhynchus melanurus
-  fa: nan
+  fa: ''
   en: Crag Chilia
   es: Chiricoca
   fr: Chilia des rochers
   de: Rotbürzel-Erdhacker
-  pt: crag chilia
+  pt: ''
   ru: Чернохвостая чилия
   ja: チリーカマドドリ
   zh: 崖爬地雀

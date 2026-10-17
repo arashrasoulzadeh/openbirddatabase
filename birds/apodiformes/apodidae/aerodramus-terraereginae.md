@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4007.0
 names:
   scientific: Aerodramus terraereginae
-  fa: nan
+  fa: ''
   en: Australian Swiftlet
   es: Salangana Australiana
   fr: Salangane d'Australie
   de: Queenslandsalangane
-  pt: australian swiftlet
+  pt: ''
   ru: Австралийская салангана
   ja: オーストラリアアナツバメ
   zh: 澳大利亞金絲燕

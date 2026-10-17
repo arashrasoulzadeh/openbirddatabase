@@ -12,7 +12,7 @@ names:
   es: Colinegro del Karoo
   fr: Traquet du Karoo
   de: Bleichschmätzer
-  pt: karoo chat
+  pt: ''
   ru: Пепельная трактрака
   ja: オグロイワビタキ
   nl: Karoospekvreter

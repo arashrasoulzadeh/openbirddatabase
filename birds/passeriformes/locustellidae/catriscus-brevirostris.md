@@ -12,7 +12,7 @@ names:
   es: Yerbera de Abanico
   fr: Mégalure à bec court
   de: Fächerschwanzsänger
-  pt: fan-tailed grassbird
+  pt: ''
   ru: Африканская долгохвостка
   ja: ウチワセッカ
   nl: Waaierstaartzanger

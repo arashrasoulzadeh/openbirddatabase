@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 10172.0
 names:
   scientific: Todiramphus reichenbachii
-  fa: nan
+  fa: ''
   en: Pohnpei Kingfisher
   es: Alción de Ponapé
   fr: Martin-chasseur de Ponapé
   de: Pohnpeiliest
-  pt: pohnpei kingfisher
+  pt: ''
   ru: Сенявинская альциона
   ja: ポンペイショウビン
   zh: 波島翡翠

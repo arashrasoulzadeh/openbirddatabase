@@ -15,7 +15,7 @@ names:
   pt: gray-headed fruit-dove
   ru: Сероголовый фруктовый голубь
   ja: ハイガシラヒメアオバト
-  zh: Grey-headed Fruit Dove
+  zh: ''
   nl: Grijskopjufferduif
   pl: owocożer siwogłowy
   tr: Gri Başlı Meyve Kumrusu

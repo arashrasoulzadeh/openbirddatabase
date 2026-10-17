@@ -12,7 +12,7 @@ names:
   es: Newtonia Colirroja
   fr: Newtonie de Fanovana
   de: Rostschwanzvanga
-  pt: red-tailed newtonia
+  pt: ''
   ru: Рыжехвостая ньютония
   ja: ノドジロニュートンヒタキ
   nl: Fanovananewtonia

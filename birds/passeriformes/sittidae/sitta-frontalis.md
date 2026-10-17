@@ -12,7 +12,7 @@ names:
   es: Trepador Piquirrojo
   fr: Sittelle veloutée
   de: Samtstirnkleiber
-  pt: velvet-fronted nuthatch
+  pt: ''
   ru: Чернолобый поползень
   ja: ビロウドゴジュウカラ
   zh: 绒额䴓

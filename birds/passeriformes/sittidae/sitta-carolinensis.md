@@ -12,7 +12,7 @@ names:
   es: Trepador Pechiblanco
   fr: Sittelle à poitrine blanche
   de: Weißbrustkleiber
-  pt: white-breasted nuthatch
+  pt: ''
   ru: Каролинский поползень
   ja: ムナジロゴジュウカラ
   zh: 白胸鳾

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15583.0
 names:
   scientific: Synallaxis simoni
-  fa: nan
+  fa: ''
   en: Araguaia Spinetail
   es: Pijuí del Araguaia
   fr: Synallaxe de Simon

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33596.0
 names:
   scientific: Leistes bellicosus
-  fa: nan
+  fa: ''
   en: Peruvian Meadowlark
   es: Loica Peruana
   fr: Sturnelle du Pérou
   de: Weißschenkelstärling
-  pt: peruvian meadowlark
+  pt: ''
   ru: Перуанская лойка
   ja: ペルームネアカマキバドリ
   nl: Peruaanse weidespreeuw

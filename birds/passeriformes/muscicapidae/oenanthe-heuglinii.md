@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 29797.0
 names:
   scientific: Oenanthe heuglinii
-  fa: nan
+  fa: ''
   en: Heuglin's Wheatear
   es: Collalba de Heuglin
   fr: Traquet de Heuglin
   de: Heuglinsteinschmätzer
-  pt: heuglin's wheatear
+  pt: ''
   ru: Рыжебрюхая каменка
   ja: サハライナバヒタキ
   zh: 休氏鵖

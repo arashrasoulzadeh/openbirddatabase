@@ -12,7 +12,7 @@ names:
   es: Papamoscas Pardo de Malasia
   fr: Gobemouche de Williamson
   de: Williamsonschnäpper
-  pt: brown-streaked flycatcher
+  pt: ''
   ru: Малайская мухоловка
   ja: ミナミコサメビタキ
   zh: 褐纹鹟

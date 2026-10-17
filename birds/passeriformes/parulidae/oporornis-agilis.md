@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33991.0
 names:
   scientific: Oporornis agilis
-  fa: nan
+  fa: ''
   en: Connecticut Warbler
   es: Reinita de Connecticut
   fr: Paruline à gorge grise

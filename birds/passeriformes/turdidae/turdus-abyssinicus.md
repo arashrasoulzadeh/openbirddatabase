@@ -12,7 +12,7 @@ names:
   es: Zorzal Abisinio
   fr: Merle abyssinien
   de: Abessiniendrossel
-  pt: abyssinian thrush
+  pt: ''
   ru: Эфиопский дрозд
   ja: ワキアカオリーブツグミ
   zh: 東非鶇

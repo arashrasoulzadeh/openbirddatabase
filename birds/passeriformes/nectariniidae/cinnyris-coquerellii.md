@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30500.0
 names:
   scientific: Cinnyris coquerellii
-  fa: nan
+  fa: ''
   en: Mayotte Sunbird
   es: Suimanga de Mayotte
   fr: Souimanga de Mayotte
   de: Mayottenektarvogel
-  pt: mayotte sunbird
+  pt: ''
   ru: Майоттская нектарница
   ja: マヨットタイヨウチョウ
   nl: Mayottehoningzuiger

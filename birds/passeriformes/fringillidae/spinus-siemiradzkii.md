@@ -12,7 +12,7 @@ names:
   es: Jilguero Azafranado
   fr: Tarin safran
   de: Safranzeisig
-  pt: saffron siskin
+  pt: ''
   ru: Шафрановый чиж
   ja: サフランヒワ
   nl: Saffraansijs

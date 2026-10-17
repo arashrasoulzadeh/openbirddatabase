@@ -12,7 +12,7 @@ names:
   es: Picolezna Comesebo
   fr: Picotelle à gorge blanche
   de: Kleiberbaumspäher
-  pt: white-throated treerunner
+  pt: ''
   ru: Курносый амурадо
   ja: キノボリカマドドリ
   zh: 白喉爬树雀

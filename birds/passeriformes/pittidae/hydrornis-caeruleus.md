@@ -12,7 +12,7 @@ names:
   es: Pita Gigante
   fr: Brève géante
   de: Riesenpitta
-  pt: giant pitta
+  pt: ''
   ru: Большая питта
   ja: オニヤイロチョウ
   zh: 大藍八色鶇

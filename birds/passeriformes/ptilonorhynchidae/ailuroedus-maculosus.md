@@ -12,7 +12,7 @@ names:
   es: Maullador Moteado
   fr: Jardinier de Ramsay
   de: Tüpfellaubenvogel
-  pt: spotted catbird
+  pt: ''
   ru: Крапчатая птица-кошка
   ja: マダラネコドリ
   zh: 点斑猫鸟

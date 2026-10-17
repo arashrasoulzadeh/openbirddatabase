@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5091.0
 names:
   scientific: Saucerottia tobaci
-  fa: nan
+  fa: ''
   en: Copper-rumped Hummingbird
   es: Amazilia de Tobago
   fr: Ariane de Félicie
   de: Kupferbürzelamazilie
-  pt: copper-rumped hummingbird
+  pt: ''
   ru: Медноспинная амазилия
   ja: チャゴシエメラルドハチドリ
   nl: Koperrugamazilia

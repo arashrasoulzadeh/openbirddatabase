@@ -12,7 +12,7 @@ names:
   es: Chocha Moluqueña
   fr: Bécasse des Moluques
   de: Obischnepfe
-  pt: moluccan woodcock
+  pt: ''
   ru: Молуккский вальдшнеп
   ja: オビヤマシギ
   nl: Obihoutsnip

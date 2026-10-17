@@ -12,7 +12,7 @@ names:
   es: Pardalote Tasmano
   fr: Pardalote de Tasmanie
   de: Tasmanpanthervogel
-  pt: forty-spotted pardalote
+  pt: ''
   ru: Тасманийскый радужник
   ja: ミドリホウセキドリ
   zh: 多斑食蜜鸟

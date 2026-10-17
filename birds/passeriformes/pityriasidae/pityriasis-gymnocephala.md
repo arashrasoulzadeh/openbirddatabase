@@ -12,7 +12,7 @@ names:
   es: Gimnocéfalo
   fr: Barite chauve
   de: Warzenkopf
-  pt: bornean bristlehead
+  pt: ''
   ru: Щетинкоголов
   ja: ブタゲモズ
   zh: 棘头𱉐

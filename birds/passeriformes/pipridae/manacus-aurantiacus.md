@@ -12,7 +12,7 @@ names:
   es: Saltarín Cuellinaranja
   fr: Manakin à col orange
   de: Orangebandpipra
-  pt: orange-collared manakin
+  pt: ''
   ru: Рыжебородый манакин
   ja: オレンジマイコドリ
   nl: Oranjekraagmanakin

@@ -12,7 +12,7 @@ names:
   es: Zenaida Caribeña
   fr: Tourterelle à queue carrée
   de: Liebestaube
-  pt: zenaida dove
+  pt: ''
   ru: Антильская горлица
   ja: シマハジロバト
   zh: 鳴哀鴿

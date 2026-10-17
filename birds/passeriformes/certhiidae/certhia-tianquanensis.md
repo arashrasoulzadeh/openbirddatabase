@@ -12,7 +12,7 @@ names:
   es: Agateador de Sichuán
   fr: Grimpereau du Sichuan
   de: Sichuanbaumläufer
-  pt: sichuan treecreeper
+  pt: ''
   ru: Сычуаньская пищуха
   ja: シセンキバシリ
   zh: 四川旋木雀

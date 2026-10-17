@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3865.0
 names:
   scientific: Zoonavena thomensis
-  fa: nan
+  fa: ''
   en: Sao Tome Spinetail
   es: Vencejo de Santo Tomé
   fr: Martinet de Sao Tomé
   de: Sao-Tomé-Segler
-  pt: sao tome spinetail
+  pt: ''
   ru: Сантомейский колючехвост
   ja: サントメハリオアマツバメ
   nl: Sao-Tomégierzwaluw

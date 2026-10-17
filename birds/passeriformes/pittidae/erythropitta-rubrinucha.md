@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13323.0
 names:
   scientific: Erythropitta rubrinucha
-  fa: nan
+  fa: ''
   en: South Moluccan Pitta
   es: Pita Moluqueña Meridional
   fr: Brève de Buru
   de: Südmolukken-Blaubrustpitta
-  pt: south moluccan pitta
+  pt: ''
   ru: Серамская питта
   ja: ブルヤイロチョウ
   nl: Zuid-Molukse pitta

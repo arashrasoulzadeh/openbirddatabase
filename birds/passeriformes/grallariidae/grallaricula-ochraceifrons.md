@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14347.0
 names:
   scientific: Grallaricula ochraceifrons
-  fa: nan
+  fa: ''
   en: Ochre-fronted Antpitta
   es: Ponchito Frentiocre
   fr: Grallaire à front ocre
   de: Ockerstirn-Ameisenpitta
-  pt: ochre-fronted antpitta
+  pt: ''
   ru: Рыжелобая питтуля
   ja: キイロヒメジアリドリ
   nl: Okervoorhoofdwergmierpitta

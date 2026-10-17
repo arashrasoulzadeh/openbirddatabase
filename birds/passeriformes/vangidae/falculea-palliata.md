@@ -12,7 +12,7 @@ names:
   es: Vanga Piquicurvo
   fr: Falculie mantelée
   de: Sichelschnabelvanga
-  pt: sickle-billed vanga
+  pt: ''
   ru: Серпоклювая ванга
   ja: ハシナガオオハシモズ
   nl: Sikkelvanga

@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Japonés
   fr: Rossignol akahigé
   de: Rostkehlnachtigall
-  pt: japanese robin
+  pt: ''
   ru: Японская зарянка
   ja: コマドリ
   zh: 日本歌鸲

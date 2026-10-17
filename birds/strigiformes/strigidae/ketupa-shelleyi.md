@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8967.0
 names:
   scientific: Ketupa shelleyi
-  fa: nan
+  fa: ''
   en: Shelley's Eagle-Owl
   es: Búho Barrado
   fr: Grand-duc de Shelley
   de: Bindenuhu
-  pt: shelley's eagle-owl
+  pt: ''
   ru: Полосатый филин
   ja: ヨコジマワシミミズク
   nl: Shelleyoehoe

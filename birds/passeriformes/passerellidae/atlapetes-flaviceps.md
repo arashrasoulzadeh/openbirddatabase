@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33466.0
 names:
   scientific: Atlapetes flaviceps
-  fa: nan
+  fa: ''
   en: Yellow-headed Brushfinch
   es: Atlapetes Cabecigualdo
   fr: Tohi à tête olive
   de: Goldkopf-Buschammer
-  pt: yellow-headed brushfinch
+  pt: ''
   ru: Желтоголовая атлапета
   ja: オリーブヤブシトド
   nl: Goudkopstruikgors

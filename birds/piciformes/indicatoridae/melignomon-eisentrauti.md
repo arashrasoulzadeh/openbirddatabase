@@ -12,7 +12,7 @@ names:
   es: Indicador Patiamarillo
   fr: Indicateur d'Eisentraut
   de: Gelbfuß-Honiganzeiger
-  pt: yellow-footed honeyguide
+  pt: ''
   ru: Желтоногий медоуказчик
   ja: キアシミツオシエ
   nl: Geelpoothoningspeurder

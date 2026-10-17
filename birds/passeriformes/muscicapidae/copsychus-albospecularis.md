@@ -12,7 +12,7 @@ names:
   es: Shama Malgache
   fr: Shama de Madagascar
   de: Madagaskarschama
-  pt: madagascar magpie-robin
+  pt: ''
   ru: Мадагаскарский шама
   ja: マダガスカルシキチョウ
   nl: Madagaskardayallijster

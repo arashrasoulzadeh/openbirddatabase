@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 9308.0
 names:
   scientific: Aegolius gradyi
-  fa: nan
+  fa: ''
   en: Bermuda Saw-whet Owl
   es: Mochuelo de las Bermudas
   fr: Nyctale des Bermudes
   de: Bermudakauz
-  pt: bermuda saw-whet owl
+  pt: ''
   ja: バミューダキンメフクロウ
   nl: Bermudazaaguil
   pl: włochatka bermudzka

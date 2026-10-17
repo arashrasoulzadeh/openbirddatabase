@@ -12,7 +12,7 @@ names:
   es: Timalí Pekinés
   fr: Rhopophile de Pékin
   de: Pekinggrasmücke
-  pt: beijing babbler
+  pt: ''
   ru: Пекинский камышовник
   ja: カラチメドリ
   zh: 山鹛

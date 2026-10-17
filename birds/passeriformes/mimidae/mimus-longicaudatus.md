@@ -12,7 +12,7 @@ names:
   es: Sinsonte Colilargo
   fr: Moqueur à longue queue
   de: Langschwanz-Spottdrossel
-  pt: long-tailed mockingbird
+  pt: ''
   ru: Длиннохвостый пересмешник
   ja: クロヒゲマネシツグミ
   nl: Langstaartspotlijster

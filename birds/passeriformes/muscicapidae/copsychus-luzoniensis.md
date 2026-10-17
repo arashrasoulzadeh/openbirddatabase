@@ -12,7 +12,7 @@ names:
   es: Shama de Luzón
   fr: Shama bridé
   de: Brauenschama
-  pt: white-browed shama
+  pt: ''
   ru: Белобровый шама
   ja: マミジロシキチョウ
   nl: Witbrauwshama

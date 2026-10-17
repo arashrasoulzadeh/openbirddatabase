@@ -12,7 +12,7 @@ names:
   es: Suimanga Piquirrecto
   fr: Souimanga à bec droit
   de: Gelbkehl-Nektarvogel
-  pt: yellow-chinned sunbird
+  pt: ''
   ru: Зелёная короткохвостая нектарница
   ja: キノドコバシタイヨウチョウ
   zh: 綠食蜜鳥

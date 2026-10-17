@@ -12,7 +12,7 @@ names:
   es: Estornino de Polinesia
   fr: Stourne de Polynésie
   de: Südseestar
-  pt: polynesian starling
+  pt: ''
   ru: Полинезийский скворец
   ja: タテジマカラスモドキ
   nl: Polynesische purperspreeuw

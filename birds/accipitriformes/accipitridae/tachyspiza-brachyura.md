@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 8154.0
 names:
   scientific: Tachyspiza brachyura
-  fa: nan
+  fa: ''
   en: New Britain Sparrowhawk
   es: Gavilancito de Nueva Bretaña
   fr: Épervier de Nouvelle-Bretagne
   de: Dreifarbensperber
-  pt: new britain sparrowhawk
+  pt: ''
   ru: Новобританский перепелятник
   ja: シロハラツミ
   zh: 短尾雀鷹

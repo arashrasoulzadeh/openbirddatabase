@@ -12,7 +12,7 @@ names:
   es: Alondra de las Dunas
   fr: Alouette à dos roux
   de: Rotdünenlerche
-  pt: dune lark
+  pt: ''
   ru: Пестрогрудый жаворонок
   ja: サバクハシボソヒバリ
   zh: 沙丘歌百灵

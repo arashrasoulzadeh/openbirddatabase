@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14258.0
 names:
   scientific: Grallaria flavotincta
-  fa: nan
+  fa: ''
   en: Yellow-breasted Antpitta
   es: Tororoí Pechiamarillo
   fr: Grallaire à poitrine jaune
   de: Gelbbrust-Ameisenpitta
-  pt: yellow-breasted antpitta
+  pt: ''
   ru: Желтогрудая питтовая муравьеловка
   ja: キムネクリセジアリドリ
   nl: Geelborstmierpitta

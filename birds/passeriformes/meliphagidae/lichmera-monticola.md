@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18096.0
 names:
   scientific: Lichmera monticola
-  fa: nan
+  fa: ''
   en: Seram Honeyeater
   es: Mielero de Ceram
   fr: Méliphage de Céram
   de: Seramhonigfresser
-  pt: seram honeyeater
+  pt: ''
   ru: Серамский медолюб
   ja: セラムオリーブミツスイ
   zh: 塞兰岩吸蜜鸟

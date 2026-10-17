@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33512.0
 names:
   scientific: Atlapetes melanolaemus
-  fa: nan
+  fa: ''
   en: Grey-eared Brushfinch
   es: Atlapetes Carinegro
   fr: Tohi mélanien
@@ -15,7 +15,7 @@ names:
   pt: black-faced brushfinch
   ru: Черноухая атлапета
   ja: アオグロヤブシトド
-  zh: Grey-eared Brushfinch
+  zh: ''
   nl: Zwartkeelstruikgors
   pl: zaroślak czarnobrody
   tr: Kara Suratlı Çalı Serçesi

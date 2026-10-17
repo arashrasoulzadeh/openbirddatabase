@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5460.0
 names:
   scientific: Gallinula nesiotis
-  fa: nan
+  fa: ''
   en: Tristan Moorhen
   es: Gallineta de Tristán de Acuña
   fr: Gallinule de Tristan da Cunha
   de: Tristanteichhuhn
-  pt: tristan moorhen
+  pt: ''
   ru: Тристанская камышница
   ja: トリスタンバン
   zh: 特瑞斯坦水雞

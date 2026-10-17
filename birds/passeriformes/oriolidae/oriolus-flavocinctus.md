@@ -12,7 +12,7 @@ names:
   es: Oropéndola Verdosa
   fr: Loriot verdâtre
   de: Mangrovepirol
-  pt: green oriole
+  pt: ''
   ru: Оливковая иволга
   ja: キミドリコウライウグイス
   zh: 綠鸝

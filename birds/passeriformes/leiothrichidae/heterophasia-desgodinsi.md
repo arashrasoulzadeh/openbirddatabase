@@ -12,7 +12,7 @@ names:
   es: Sibia Cabecinegra
   fr: Garrulaxe de Desgodins
   de: Schwarzkopfsibia
-  pt: black-headed sibia
+  pt: ''
   ru: Черноголовая сибия
   ja: クロガシラウタイチメドリ
   zh: 黑头奇鹛

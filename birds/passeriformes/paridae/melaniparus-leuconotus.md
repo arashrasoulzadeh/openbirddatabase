@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22258.0
 names:
   scientific: Melaniparus leuconotus
-  fa: nan
+  fa: ''
   en: White-backed Black Tit
   es: Carbonero Dorsiblanco
   fr: Mésange à dos blanc
@@ -15,7 +15,7 @@ names:
   pt: white-backed black-tit
   ru: Белоспинная синица
   ja: セジロクロガラ
-  zh: White-backed Black Tit
+  zh: ''
   nl: Witrugmees
   pl: sikora jasnogrzbieta
   tr: Ak Sırtlı Baştankara

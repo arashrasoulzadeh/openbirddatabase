@@ -12,7 +12,7 @@ names:
   es: Prinia Palustre
   fr: Laticille des marais
   de: Sumpfpriniendrossling
-  pt: swamp grass babbler
+  pt: ''
   ru: Болотная травянка
   ja: ヌマハウチワドリ
   zh: 沼泽山鹪莺

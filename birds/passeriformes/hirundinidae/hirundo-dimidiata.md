@@ -12,7 +12,7 @@ names:
   es: Golondrina Perlada
   fr: Hirondelle à gorge perlée
   de: Perlbrustschwalbe
-  pt: pearl-breasted swallow
+  pt: ''
   ru: Жемчужногорлая ласточка
   ja: オグロツバメ
   nl: Parelborstzwaluw

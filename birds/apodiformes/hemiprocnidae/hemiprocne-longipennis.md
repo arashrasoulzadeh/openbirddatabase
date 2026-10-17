@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4202.0
 names:
   scientific: Hemiprocne longipennis
-  fa: nan
+  fa: ''
   en: Grey-rumped Treeswift
   es: Vencejo Arborícola Culigrís
   fr: Hémiprocné longipenne
@@ -15,7 +15,7 @@ names:
   pt: gray-rumped treeswift
   ru: Блестящий клехо
   ja: カンムリアマツバメ
-  zh: Grey-rumped Treeswift
+  zh: ''
   nl: Gekuifde boomgierzwaluw
   pl: czubik rudolicy
   tr: Gri Sırtlı Ağaç Ebabili

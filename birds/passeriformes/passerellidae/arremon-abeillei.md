@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33061.0
 names:
   scientific: Arremon abeillei
-  fa: nan
+  fa: ''
   en: Black-capped Sparrow
   es: Cerquero Coroninegro
   fr: Tohi d'Abeillé
   de: Kapuzenbuschammer
-  pt: black-capped sparrow
+  pt: ''
   ru: Черноголовый аремон
   ja: ズグロシズカシトド
   nl: Kapucijnergors

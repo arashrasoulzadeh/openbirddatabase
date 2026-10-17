@@ -12,7 +12,7 @@ names:
   es: Lechuza de la Española
   fr: Effraie d'Hispaniola
   de: Hispaniolaschleiereule
-  pt: ashy-faced owl
+  pt: ''
   ru: Пепельнолицая сипуха
   ja: ヒスパニオラメンフクロウ
   zh: 灰面草鴞

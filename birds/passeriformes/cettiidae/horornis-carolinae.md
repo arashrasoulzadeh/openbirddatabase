@@ -12,7 +12,7 @@ names:
   es: Cetia de las Tanimbar
   fr: Bouscarle des Tanimbar
   de: Tanimbarseidensänger
-  pt: tanimbar bush warbler
+  pt: ''
   ru: Танимбарская широкохвостка
   ja: タニンバルウグイス
   nl: Yamdenastruikzanger

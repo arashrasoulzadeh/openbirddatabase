@@ -12,7 +12,7 @@ names:
   es: Bubú Ferrugíneo
   fr: Gonolek boubou
   de: Flötenwürger
-  pt: southern boubou
+  pt: ''
   ru: Бубу-флейтист
   ja: セグロヤブモズ
   nl: Waterfiskaal

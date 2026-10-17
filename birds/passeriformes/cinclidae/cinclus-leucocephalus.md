@@ -12,7 +12,7 @@ names:
   es: Mirlo Acuático Coroniblanco
   fr: Cincle à tête blanche
   de: Weißkopf-Wasseramsel
-  pt: white-capped dipper
+  pt: ''
   ru: Белоголовая оляпка
   ja: シロガシラカワガラス
   zh: 白顶河乌

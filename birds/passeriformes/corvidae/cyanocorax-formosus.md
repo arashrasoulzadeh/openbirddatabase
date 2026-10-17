@@ -12,7 +12,7 @@ names:
   es: Urraca Hermosa Cariblanca
   fr: Geai à face blanche
   de: Weißkehl-Elsternhäher
-  pt: white-throated magpie-jay
+  pt: ''
   ru: Белогорлая сорочья сойка
   ja: カンムリサンジャク
   zh: 白喉鵲鴉

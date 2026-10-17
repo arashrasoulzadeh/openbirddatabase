@@ -12,7 +12,7 @@ names:
   es: Vanga de Lafresnaye
   fr: Vanga de Lafresnaye
   de: Schmalschnabelvanga
-  pt: lafresnaye's vanga
+  pt: ''
   ru: Масковая ванга
   ja: クロアゴハシボソオオハシモズ
   nl: Lafresnayevanga

@@ -15,7 +15,7 @@ names:
   pt: brown-breasted parakeet
   ru: Коричневогруая которра
   ja: キンソデウロコインコ
-  zh: Flame-winged Parakeet
+  zh: ''
   nl: Bruinborstparkiet
   pl: rudosterka brązowogardła
   tr: Alev Kanatlı Papağan

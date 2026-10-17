@@ -12,7 +12,7 @@ names:
   es: Cistícola Pinc-Pinc
   fr: Cisticole pinc-pinc
   de: Pinkpink-Zistensänger
-  pt: cloud cisticola
+  pt: ''
   ru: Короткохвостая цистикола
   ja: ムナフセッカ
   nl: Tinktinkgraszanger

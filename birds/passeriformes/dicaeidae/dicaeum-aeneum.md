@@ -12,7 +12,7 @@ names:
   es: Picaflores de las Salomón
   fr: Dicée des Salomon
   de: Salomonenmistelfresser
-  pt: midget flowerpecker
+  pt: ''
   ru: Бронзовый цветоед
   ja: ソロモンハナドリ
   zh: 所羅門啄花

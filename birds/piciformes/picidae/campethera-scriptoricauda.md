@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11731.0
 names:
   scientific: Campethera scriptoricauda
-  fa: nan
+  fa: ''
   en: Speckle-throated Woodpecker
   es: Pito de Tanzania
   fr: Pic de Reichenow
   de: Reichenowspecht
-  pt: speckle-throated woodpecker
+  pt: ''
   ru: Танзанийский дятел
   ja: ライヘノーアフリカコゲラ
   zh: 瑞契氏啄木

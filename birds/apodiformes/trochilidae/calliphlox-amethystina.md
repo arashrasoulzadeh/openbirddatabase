@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4769.0
 names:
   scientific: Calliphlox amethystina
-  fa: nan
+  fa: ''
   en: Amethyst Woodstar
   es: Colibrí Amatista
   fr: Colibri améthyste

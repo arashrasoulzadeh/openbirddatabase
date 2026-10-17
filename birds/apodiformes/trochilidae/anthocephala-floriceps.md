@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4945.0
 names:
   scientific: Anthocephala floriceps
-  fa: nan
+  fa: ''
   en: Santa Marta Blossomcrown
   es: Colibrí Florido de Santa Marta
   fr: Colibri à tête rose
   de: Blassstirnkolibri
-  pt: santa marta blossomcrown
+  pt: ''
   ru: Сантамартийский цветноголов
   ja: チャガシラハチドリ
   zh: 花顶蜂鸟

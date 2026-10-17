@@ -12,7 +12,7 @@ names:
   es: Prinia Rojiza
   fr: Prinia roussâtre
   de: Rostprinie
-  pt: rufescent prinia
+  pt: ''
   ru: Рыжеватая приния
   ja: チャイロハウチワドリ
   zh: 暗冕山鹪莺

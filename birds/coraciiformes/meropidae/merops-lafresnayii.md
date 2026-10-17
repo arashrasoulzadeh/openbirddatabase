@@ -12,7 +12,7 @@ names:
   es: Abejaruco Etíope
   fr: Guêpier de Lafresnaye
   de: Hochlandspint
-  pt: ethiopian bee-eater
+  pt: ''
   nl: Ethiopische bijeneter
   pl: żołna niebieskoczelna
   tr: Etiyopya Arıkuşu

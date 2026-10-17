@@ -12,7 +12,7 @@ names:
   es: Akelat de Bocage
   fr: Rougegorge de Bocage
   de: Bocagerötel
-  pt: bocage's akalat
+  pt: ''
   ru: Рыжещёкий заряночник
   ja: ホオアカツグミヒタキ
   nl: Grijskruinjanfrederik

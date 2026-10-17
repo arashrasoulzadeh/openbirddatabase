@@ -15,7 +15,7 @@ names:
   pt: tanatau
   ru: Дымчатый лесной сокол
   ja: アオモリハヤブサ
-  zh: Slaty-backed Forest Falcon
+  zh: ''
   nl: Mirandollebosvalk
   pl: trębacz białobrzuchy
   tr: Kül Rengi Orman Doğanı

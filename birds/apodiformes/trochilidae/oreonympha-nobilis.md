@@ -12,7 +12,7 @@ names:
   es: Colibrí Noble
   fr: Colibri noble
   de: Weißhalssylphe
-  pt: bearded mountaineer
+  pt: ''
   ru: Горная нимфа
   ja: テンニョハチドリ
   zh: 须蜂鸟

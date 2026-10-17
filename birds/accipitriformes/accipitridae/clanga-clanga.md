@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 8040.0
 names:
   scientific: Clanga clanga
-  fa: nan
+  fa: ''
   en: Greater Spotted Eagle
   es: Águila Moteada
   fr: Aigle criard

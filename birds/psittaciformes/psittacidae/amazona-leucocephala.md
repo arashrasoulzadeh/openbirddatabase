@@ -12,7 +12,7 @@ names:
   es: Amazona Cubana
   fr: Amazone de Cuba
   de: Kubaamazone
-  pt: cuban amazon
+  pt: ''
   ru: Кубинский амазон
   ja: サクラボウシインコ
   zh: 古巴亞馬遜鸚鵡

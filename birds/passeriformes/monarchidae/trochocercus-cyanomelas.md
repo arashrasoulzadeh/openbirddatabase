@@ -15,7 +15,7 @@ names:
   pt: african crested flycatcher
   ru: Хохлатый монарх
   ja: カンムリヒタキ
-  zh: Blue-mantled Crested Flycatcher
+  zh: ''
   nl: Kaapse kuifmonarch
   pl: muchodławka czubata
   tr: Kap Monarkı

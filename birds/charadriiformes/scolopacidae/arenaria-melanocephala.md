@@ -12,7 +12,7 @@ names:
   es: Vuelvepiedras Oscuro
   fr: Tournepierre noir
   de: Schwarzkopf-Steinwälzer
-  pt: black turnstone
+  pt: ''
   ru: Чёрная камнешарка
   ja: クロキョウジョシギ
   zh: 黑翻石鷸

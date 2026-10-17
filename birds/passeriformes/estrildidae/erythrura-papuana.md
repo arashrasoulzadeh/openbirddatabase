@@ -12,7 +12,7 @@ names:
   es: Diamante Papú
   fr: Diamant de Nouvelle-Guinée
   de: Papuapapageiamadine
-  pt: papuan parrotfinch
+  pt: ''
   ru: Папуасская амадина
   ja: パプアセイコウチョウ
   zh: 大蓝脸鹦雀

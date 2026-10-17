@@ -12,7 +12,7 @@ names:
   es: Trogón Pechinaranja
   fr: Trogon à poitrine jaune
   de: Orangebauchtrogon
-  pt: orange-breasted trogon
+  pt: ''
   ru: Оранжевобрюхий трогон
   ja: ヤマキヌバネドリ
   zh: 橙胸咬鹃

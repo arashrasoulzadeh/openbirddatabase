@@ -12,7 +12,7 @@ names:
   es: Copetón Apical
   fr: Tyran à queue givrée
   de: Kolumbienschopftyrann
-  pt: apical flycatcher
+  pt: ''
   ru: Колумбийский миарх
   ja: シロオビオオヒタキモドキ
   zh: 尖顶蝇霸鹟

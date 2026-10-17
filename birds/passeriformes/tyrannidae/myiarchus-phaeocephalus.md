@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17317.0
 names:
   scientific: Myiarchus phaeocephalus
-  fa: nan
+  fa: ''
   en: Sooty-crowned Flycatcher
   es: Copetón Tiznado
   fr: Tyran à front gris
   de: Rußkappen-Schopftyrann
-  pt: sooty-crowned flycatcher
+  pt: ''
   ru: Серохохлый миарх
   ja: ズグロオオヒタキモドキ
   nl: Roetkruintiran

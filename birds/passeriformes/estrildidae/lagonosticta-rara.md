@@ -12,7 +12,7 @@ names:
   es: Amaranta Ventrinegra
   fr: Amarante à ventre noir
   de: Schwarzbauchamarant
-  pt: black-bellied firefinch
+  pt: ''
   ru: Чернобрюхий амарант
   ja: クロハラコウギョクチョウ
   zh: 黑腹火雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4178.0
 names:
   scientific: Cypsiurus parvus
-  fa: nan
+  fa: ''
   en: African Palm Swift
   es: Vencejo Palmero Africano
   fr: Martinet des palmes

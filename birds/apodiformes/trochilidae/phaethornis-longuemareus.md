@@ -12,7 +12,7 @@ names:
   es: Ermitaño Chico
   fr: Ermite nain
   de: Braunkehl-Schattenkolibri
-  pt: little hermit
+  pt: ''
   ru: Малый колибри-отшельник
   ja: コビトユミハチドリ
   zh: 小隐蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28310.0
 names:
   scientific: Catharus maculatus
-  fa: nan
+  fa: ''
   en: Speckled Nightingale-Thrush
   es: Zorzalito Pinto
   fr: Grive de Sclater
   de: Sclatermusendrossel
-  pt: speckled nightingale-thrush
+  pt: ''
   ru: Андский соловьиный дрозд
   nl: Gespikkelde dwerglijster
   pl: drozdek andyjski

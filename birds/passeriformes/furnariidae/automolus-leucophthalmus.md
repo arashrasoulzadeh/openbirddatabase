@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15282.0
 names:
   scientific: Automolus leucophthalmus
-  fa: nan
+  fa: ''
   en: White-eyed Foliage-gleaner
   es: Ticotico Ojiblanco
   fr: Anabate aux yeux blancs

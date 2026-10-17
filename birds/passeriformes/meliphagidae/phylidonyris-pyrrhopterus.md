@@ -12,7 +12,7 @@ names:
   es: Mielero Alafuego
   fr: Méliphage à croissants
   de: Goldflügel-Honigfresser
-  pt: crescent honeyeater
+  pt: ''
   ru: Златокрылый медолюб
   ja: ミカヅキキバネミツスイ
   zh: 冠澳吸蜜鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23777.0
 names:
   scientific: Helopsaltes fasciolatus
-  fa: nan
+  fa: ''
   en: Gray's Grasshopper Warbler
   es: Buscarla de Gray
   fr: Locustelle fasciée

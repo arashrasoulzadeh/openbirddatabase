@@ -12,7 +12,7 @@ names:
   es: Salangana de Vanikoro
   fr: Salangane de Vanikoro
   de: Einfarbsalangane
-  pt: uniform swiftlet
+  pt: ''
   ru: Серая салангана
   ja: ムジアナツバメ
   zh: 纯色金丝燕

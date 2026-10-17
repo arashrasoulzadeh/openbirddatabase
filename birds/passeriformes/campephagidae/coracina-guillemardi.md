@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18750.0
 names:
   scientific: Coracina guillemardi
-  fa: nan
+  fa: ''
   en: Sulu Cuckooshrike
   es: Oruguero de las Joló
   fr: Échenilleur des Sulu
-  pt: sulu cuckooshrike
+  pt: ''
   ja: スールーカッコウサンショウクイ
   nl: Sulurupsvogel
   pl: kruczyna suluska

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19501.0
 names:
   scientific: Pachycephala philippinensis
-  fa: nan
+  fa: ''
   en: Yellow-bellied Whistler
   es: Silbador Filipino
   fr: Siffleur des Philippines
   de: Philippinendickkopf
-  pt: yellow-bellied whistler
+  pt: ''
   ru: Филиппинский свистун
   ja: フィリピンモズヒタキ
   zh: 黄腹啸鹟

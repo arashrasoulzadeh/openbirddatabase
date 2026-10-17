@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 15281.0
 names:
   scientific: Automolus lammi
-  fa: nan
+  fa: ''
   en: Pernambuco Foliage-gleaner
   es: Ticotico de Pernambuco
   fr: Anabate du Pernambuco

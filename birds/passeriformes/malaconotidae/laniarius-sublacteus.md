@@ -15,7 +15,7 @@ names:
   pt: zanzibar boubou
   ru: Занзибарский бубу
   ja: ザンジバルヤブモズ
-  zh: East Coast Boubou
+  zh: ''
   nl: Cassinfiskaal
   pl: dzierzyk aksamitny
   tr: Cassin Bubusu

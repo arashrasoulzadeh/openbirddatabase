@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17570.0
 names:
   scientific: Cormobates placens
-  fa: nan
+  fa: ''
   en: Papuan Treecreeper
   es: Corretroncos Papú
   fr: Échelet papou
   de: Papuabaumrutscher
-  pt: papuan treecreeper
+  pt: ''
   ru: Папуанская ложнопищуха
   ja: パプアキノボリ
   nl: Papoeakruiper

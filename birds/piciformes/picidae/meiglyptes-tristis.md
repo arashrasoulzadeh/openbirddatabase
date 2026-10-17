@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 11593.0
 names:
   scientific: Meiglyptes tristis
-  fa: nan
+  fa: ''
   en: Zebra Woodpecker
   es: Pito Triste
   fr: Pic strihup
   de: Javawellenspecht
-  pt: zebra woodpecker
+  pt: ''
   ru: Желтопоясничный волнистый дятел
   ja: ヒメカレハゲラ
   zh: 黃腰斑啄木鳥

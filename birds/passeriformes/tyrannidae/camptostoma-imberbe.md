@@ -15,7 +15,7 @@ names:
   pt: northern beardless-tyrannulet
   ru: Центральноамериканский москитолов
   ja: メグロハエトリ
-  zh: Northern Beardless Tyrannulet
+  zh: ''
   nl: Chaparralvliegenpikker
   pl: koszykotyranik północny
   tr: Kuzeyli Bıyıksız Tiranulet

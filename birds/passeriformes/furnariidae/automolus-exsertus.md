@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15258.0
 names:
   scientific: Automolus exsertus
-  fa: nan
+  fa: ''
   en: Chiriqui Foliage-gleaner
   es: Ticotico de Chiriquí
   fr: Anabate du Chiriqui
   de: Chiriquíbaumspäher
-  pt: chiriqui foliage-gleaner
+  pt: ''
   ru: Желтогорлая лесовка
   ja: チリキカマドドリ
   nl: Chiriquibladspeurder

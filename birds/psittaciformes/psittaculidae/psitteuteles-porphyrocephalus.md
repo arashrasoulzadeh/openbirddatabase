@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12630.0
 names:
   scientific: Psitteuteles porphyrocephalus
-  fa: nan
+  fa: ''
   en: Purple-crowned Lorikeet
   es: Lori Coronipúrpura
   fr: Lori à couronne pourpre
   de: Purpurkronlori
-  pt: purple-crowned lorikeet
+  pt: ''
   ru: Венценосный лорикет
   ja: ムラサキガシラジャコウインコ
   zh: 紫冠嬌鸚鵡

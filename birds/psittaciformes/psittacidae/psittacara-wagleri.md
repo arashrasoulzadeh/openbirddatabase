@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13189.0
 names:
   scientific: Psittacara wagleri
-  fa: nan
+  fa: ''
   en: Scarlet-fronted Parakeet
   es: Aratinga de Wagler
   fr: Conure de Wagler
   de: Kolumbiensittich
-  pt: scarlet-fronted parakeet
+  pt: ''
   ru: Колумбийская аратинга
   ja: ミドリズアカインコ
   nl: Waglers aratinga

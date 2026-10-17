@@ -12,7 +12,7 @@ names:
   es: Yerbera de Bougainville
   fr: Mégalure de Bougainville
   de: Bougainville-Buschsänger
-  pt: bougainville thicketbird
+  pt: ''
   ru: Бугенвильская клинохвостка
   ja: ブーゲンビルツグミモドキ
   nl: Bougainvillezanger

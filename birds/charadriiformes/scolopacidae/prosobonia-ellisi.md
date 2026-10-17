@@ -12,7 +12,7 @@ names:
   es: Andarríos de Isla Moorea
   fr: Bécasseau d'Ellis
   de: Moorea-Südseeläufer
-  pt: moorea sandpiper
+  pt: ''
   ru: Муреанский атолльник
   ja: モーレアシギ
   zh: 莫岛矶鹬

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2205.0
 names:
   scientific: Pampusana norfolkensis
-  fa: nan
+  fa: ''
   en: Norfolk Ground Dove
   es: Paloma Perdiz de Isla Norfolk
   fr: Gallicolombe de Norfolk
   de: Norfolktaube
-  pt: norfolk ground dove
+  pt: ''
   ru: Норфолкский куриный голубь
   ja: ノーフォークムナジロバト
   nl: Norfolkpatrijsduif

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12644.0
 names:
   scientific: Glossoptilus goldiei
-  fa: nan
+  fa: ''
   en: Goldie's Lorikeet
   es: Lori de Goldie
   fr: Loriquet de Goldie
   de: Veilchenlori
-  pt: goldie's lorikeet
+  pt: ''
   ru: Фиалковый лорикет
   ja: スジハラスミレインコ
   nl: Viooltjeslori

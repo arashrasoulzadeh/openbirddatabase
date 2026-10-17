@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17903.0
 names:
   scientific: Conopophila albogularis
-  fa: nan
+  fa: ''
   en: Rufous-banded Honeyeater
   es: Mielero Pechirrufo
   fr: Méliphage à gorge blanche
   de: Rostband-Honigfresser
-  pt: rufous-banded honeyeater
+  pt: ''
   ru: Белозобый нектаролюб
   ja: ノドジロムジミツスイ
   zh: 棕斑蚊蜜鸟

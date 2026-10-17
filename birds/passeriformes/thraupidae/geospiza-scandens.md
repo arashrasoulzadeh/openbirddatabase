@@ -15,7 +15,7 @@ names:
   pt: common cactus-finch
   ru: Кактусовый земляной вьюрок
   ja: サボテンフィンチ
-  zh: Common Cactus Finch
+  zh: ''
   nl: Cactusgrondvink
   pl: darwinka kaktusowa
   tr: Kaktüs İspinozu

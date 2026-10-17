@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Rück
   fr: Gobemouche de Rück
   de: Oustaletblauschnäpper
-  pt: rück's blue flycatcher
+  pt: ''
   ru: Синегрудая нильтава
   ja: ミミグロヒメアオヒタキ
   zh: 魯克氏仙鶲

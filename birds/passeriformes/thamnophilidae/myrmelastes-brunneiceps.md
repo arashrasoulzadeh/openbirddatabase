@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14009.0
 names:
   scientific: Myrmelastes brunneiceps
-  fa: nan
+  fa: ''
   en: Brownish-headed Antbird
   es: Hormiguero de Carabaya
   fr: Alapi à tête brune
   de: Grauameisenvogel
-  pt: brownish-headed antbird
+  pt: ''
   ru: Буроголовая муравьеловка
   ja: チャガシラアリドリ
   nl: Bruinkopmiervogel

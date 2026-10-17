@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32216.0
 names:
   scientific: Carpodacus dubius
-  fa: nan
+  fa: ''
   en: Chinese White-browed Rosefinch
   es: Camachuelo Chino
   fr: Roselin à sourcils blancs
   de: Weißbrauengimpel
-  pt: chinese white-browed rosefinch
+  pt: ''
   ru: Гималайская чечевица
   ja: チュウゴクマミジロマシコ
   zh: 白眉朱雀

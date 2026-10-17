@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25801.0
 names:
   scientific: Zosterops everetti
-  fa: nan
+  fa: ''
   en: Everett's White-eye
   es: Anteojitos de Everett
   fr: Zostérops d'Everett
   de: Everettbrillenvogel
-  pt: everett's white-eye
+  pt: ''
   ru: Серогрудая белоглазка
   ja: キムネメジロ
   zh: 埃氏繡眼

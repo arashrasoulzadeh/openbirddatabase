@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3854.0
 names:
   scientific: Streptoprocne biscutata
-  fa: nan
+  fa: ''
   en: Biscutate Swift
   es: Vencejo Nuquiblanco Brasileño
   fr: Martinet à collier interrompu

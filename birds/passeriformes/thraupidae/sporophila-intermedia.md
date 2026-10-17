@@ -15,7 +15,7 @@ names:
   pt: papa-capim-cinza
   ru: Серый просяночник
   ja: アシグロヒメウソ
-  zh: Grey Seedeater
+  zh: ''
   nl: Blauwgrijs dikbekje
   pl: ziarnojadek ciemnonogi
   tr: Ortanca Tohumcul

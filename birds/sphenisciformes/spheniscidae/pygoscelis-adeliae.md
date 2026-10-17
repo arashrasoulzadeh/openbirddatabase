@@ -12,7 +12,7 @@ names:
   es: Pingüino de Adelia
   fr: Manchot d'Adélie
   de: Adeliepinguin
-  pt: adelie penguin
+  pt: ''
   ru: Пингвин Адели
   ja: アデリーペンギン
   zh: 阿德利企鵝

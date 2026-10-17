@@ -12,7 +12,7 @@ names:
   es: Cuco Plañidero
   fr: Coucou plaintif
   de: Klagekuckuck
-  pt: plaintive cuckoo
+  pt: ''
   ru: Плачущая кукушка
   ja: ヒメカッコウ
   zh: 八声杜鹃

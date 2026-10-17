@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15590.0
 names:
   scientific: Synallaxis chinchipensis
-  fa: nan
+  fa: ''
   en: Chinchipe Spinetail
   es: Pijuí del Chinchipe
   fr: Synallaxe du Chinchipe
   de: Chinchipedickichtschlüpfer
-  pt: chinchipe spinetail
+  pt: ''
   nl: Chinchipestekelstaart
   pl: ogończyk peruwiański
   tr: Peru Kolyeli Dikenkuyruğu

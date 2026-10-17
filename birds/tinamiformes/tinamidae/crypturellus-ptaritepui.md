@@ -12,7 +12,7 @@ names:
   es: Tinamú de Tepuí
   fr: Tinamou des tépuis
   de: Tepuitinamu
-  pt: tepui tinamou
+  pt: ''
   ru: Венесуэльский скрытохвост
   ja: メジロシギダチョウ
   zh: 灰喉穴䳍

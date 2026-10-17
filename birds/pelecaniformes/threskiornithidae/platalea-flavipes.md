@@ -12,7 +12,7 @@ names:
   es: Espátula Piquigualda
   fr: Spatule à bec jaune
   de: Gelbschnabellöffler
-  pt: yellow-billed spoonbill
+  pt: ''
   ru: Желтоклювая колпица
   ja: キバシヘラサギ
   zh: 黃嘴琵鷺

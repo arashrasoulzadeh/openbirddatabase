@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Tickell
   fr: Gobemouche de Tickell
   de: Tickellblauschnäpper
-  pt: tickell's blue flycatcher
+  pt: ''
   ru: Индийская нильтава
   ja: ノドアカヒメアオヒタキ
   nl: Indiase niltava

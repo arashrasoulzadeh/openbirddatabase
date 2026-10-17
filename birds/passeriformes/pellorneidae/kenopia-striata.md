@@ -12,7 +12,7 @@ names:
   es: Ratina Estriada
   fr: Akalat strié
   de: Strichelgrunddrossling
-  pt: striped wren-babbler
+  pt: ''
   ru: Кенопа
   ja: シラフサザイチメドリ
   zh: 纹鹪鹛

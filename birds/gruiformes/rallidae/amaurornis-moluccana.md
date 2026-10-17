@@ -12,7 +12,7 @@ names:
   es: Gallineta Moluqueña
   fr: Râle des Moluques
   de: Roststeiß-Kielralle
-  pt: pale-vented bush-hen
+  pt: ''
   ru: Красногузый карео
   ja: アカオクイナ
   zh: 棕尾苦恶鸟

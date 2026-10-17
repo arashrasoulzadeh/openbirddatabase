@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28289.0
 names:
   scientific: Catharus occidentalis
-  fa: nan
+  fa: ''
   en: Russet Nightingale-Thrush
   es: Zorzalito Piquipardo
   fr: Grive roussâtre
   de: Braunkopf-Musendrossel
-  pt: russet nightingale-thrush
+  pt: ''
   ru: Ржавчатый соловьиный дрозд
   ja: メキシコチャツグミ
   nl: Bruinkopdwerglijster

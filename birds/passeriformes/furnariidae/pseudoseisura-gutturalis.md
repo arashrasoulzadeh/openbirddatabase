@@ -12,7 +12,7 @@ names:
   es: Cacholote Pardo
   fr: Cacholote à gorge blanche
   de: Weißkehl-Haubenläufer
-  pt: white-throated cacholote
+  pt: ''
   ru: Белогорлая качолота
   ja: ノドジロエボシカマドドリ
   nl: Witkeelcachalote

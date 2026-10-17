@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22978.0
 names:
   scientific: Oreophilais robertsi
-  fa: nan
+  fa: ''
   en: Roberts's Warbler
   es: Prinia de Roberts
   fr: Apalis de Roberts
   de: Zügelfeinsänger
-  pt: roberts's warbler
+  pt: ''
   ru: Серая приния
   ja: キンメハウチワドリ
   zh: 罗氏山鹪莺属

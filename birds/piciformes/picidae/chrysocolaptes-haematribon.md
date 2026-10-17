@@ -12,7 +12,7 @@ names:
   es: Pito Sultán de Luzón
   fr: Pic de Luçon
   de: Luzonsultanspecht
-  pt: luzon flameback
+  pt: ''
   ru: Лузонский дятел-султан
   ja: ルソンコガネゲラ
   nl: Luzongoudrugspecht

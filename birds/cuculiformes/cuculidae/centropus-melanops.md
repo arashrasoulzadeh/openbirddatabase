@@ -12,7 +12,7 @@ names:
   es: Cucal Carinegro
   fr: Coucal à face noire
   de: Maskenkuckuck
-  pt: black-faced coucal
+  pt: ''
   ru: Чернолицый кукаль
   ja: カオグロバンケン
   nl: Zwartwangspoorkoekoek

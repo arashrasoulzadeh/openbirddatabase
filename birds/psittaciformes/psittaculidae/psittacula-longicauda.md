@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12381.0
 names:
   scientific: Psittacula longicauda
-  fa: nan
+  fa: ''
   en: Long-tailed Parakeet
   es: Cotorra Colilarga
   fr: Perruche à longs brins
   de: Langschwanzsittich
-  pt: long-tailed parakeet
+  pt: ''
   ru: Нитехвостый кольчатый попугай
   ja: オナガダルマインコ
   zh: 长尾鹦鹉

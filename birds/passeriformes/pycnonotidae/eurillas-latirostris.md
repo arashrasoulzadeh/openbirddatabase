@@ -12,7 +12,7 @@ names:
   es: Bulbul Sibá
   fr: Bulbul à moustaches jaunes
   de: Gelbbartbülbül
-  pt: yellow-whiskered greenbul
+  pt: ''
   ru: Желтоусый бюльбюль
   ja: キスジアオヒヨ
   nl: Geelbaardbuulbuul

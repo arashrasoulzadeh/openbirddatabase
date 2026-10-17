@@ -15,7 +15,7 @@ names:
   pt: hawaiian goose
   ru: Гавайская казарка
   ja: ハワイガン
-  zh: Nene
+  zh: ''
   nl: Hawaïgans
   pl: bernikla hawajska
   tr: Nene

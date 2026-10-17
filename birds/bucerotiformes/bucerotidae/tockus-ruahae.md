@@ -12,7 +12,7 @@ names:
   es: Toco de Ruaha
   fr: Calao du Ruaha
   de: Tansaniatoko
-  pt: tanzanian red-billed hornbill
+  pt: ''
   ru: Танзанийский токо
   ja: タンザニアアカハシコサイチョウ
   nl: Tanzaniaanse roodsnaveltok

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3193.0
 names:
   scientific: Rhamphococcyx calyorhynchus
-  fa: nan
+  fa: ''
   en: Yellow-billed Malkoha
   es: Malcoha de Célebes
   fr: Malcoha à bec peint
   de: Buntschnabelkuckuck
-  pt: yellow-billed malkoha
+  pt: ''
   ru: Пестроклювая малкоа
   ja: セレベスバンケンモドキ
   nl: Sulawesimalkoha

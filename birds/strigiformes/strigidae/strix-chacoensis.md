@@ -12,7 +12,7 @@ names:
   es: Cárabo Chaqueño
   fr: Chouette du Chaco
   de: Chacokauz
-  pt: chaco owl
+  pt: ''
   ru: Чакская неясыть
   ja: チャコフクロウ
   zh: 查科林鴞

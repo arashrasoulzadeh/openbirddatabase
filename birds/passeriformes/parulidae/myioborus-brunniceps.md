@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34374.0
 names:
   scientific: Myioborus brunniceps
-  fa: nan
+  fa: ''
   en: Brown-capped Whitestart
   es: Candelita Coronicastaña
   fr: Paruline basanée
@@ -15,7 +15,7 @@ names:
   pt: brown-capped redstart
   ru: Коричневоголовая канделита
   ja: チャボウシアメリカムシクイ
-  zh: Brown-capped Whitestart
+  zh: ''
   nl: Bruinkruinzanger
   pl: pleszówka brązowołbista
   tr: Boz Alınlı Ötleğen

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2525.0
 names:
   scientific: Treron capellei
-  fa: nan
+  fa: ''
   en: Large Green Pigeon
   es: Vinago Grande
   fr: Colombar de Capelle
@@ -15,7 +15,7 @@ names:
   pt: large green-pigeon
   ru: Большой зелёный голубь
   ja: オオアオバト
-  zh: Large Green Pigeon
+  zh: ''
   nl: Grote papegaaiduif
   pl: treron wielki
   tr: Büyük Yeşil Güvercin

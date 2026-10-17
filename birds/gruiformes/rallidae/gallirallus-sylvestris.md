@@ -15,7 +15,7 @@ names:
   pt: lord howe rail
   ru: Лесной трескун
   ja: ロードハウクイナ
-  zh: Lord Howe Woodhen
+  zh: ''
   nl: Lord-Howeral
   pl: wodnik brunatny
   tr: Lord Howe Adası Yelvesi

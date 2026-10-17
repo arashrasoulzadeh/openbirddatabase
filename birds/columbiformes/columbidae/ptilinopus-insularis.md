@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2732.0
 names:
   scientific: Ptilinopus insularis
-  fa: nan
+  fa: ''
   en: Henderson Fruit Dove
   es: Tilopo de Isla Henderson
   fr: Ptilope de Henderson
@@ -15,7 +15,7 @@ names:
   pt: henderson island fruit-dove
   ru: Питкэрнский фруктовый голубь
   ja: ヘンダーソンヒメアオバト
-  zh: Henderson Fruit Dove
+  zh: ''
   nl: Hendersonjufferduif
   pl: owocożer szarogłowy
   tr: Henderson Adası Meyve Kumrusu

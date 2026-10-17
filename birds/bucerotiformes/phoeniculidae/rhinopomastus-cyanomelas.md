@@ -12,7 +12,7 @@ names:
   es: Abubilla Arbórea Cimitarra
   fr: Irrisor namaquois
   de: Glanzsichelhopf
-  pt: common scimitarbill
+  pt: ''
   ru: Саблеклювый древесный удод
   ja: ミナミカマハシ
   nl: Zuid-Afrikaanse boomhop

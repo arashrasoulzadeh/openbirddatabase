@@ -12,7 +12,7 @@ names:
   es: Tangara Sencilla
   fr: Tangara à ventre roux
   de: Braunbauchtangare
-  pt: buff-bellied tanager
+  pt: ''
   ru: Буробрюхая пипира
   ja: キバラフウキンチョウ
   nl: Taanbuiktangare

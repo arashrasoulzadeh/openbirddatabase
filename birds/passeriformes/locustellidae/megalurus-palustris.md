@@ -12,7 +12,7 @@ names:
   es: Yerbera Palustre
   fr: Mégalure des marais
   de: Streifenbuschsänger
-  pt: striated grassbird
+  pt: ''
   ru: Болотная долгохвостка
   ja: オニセッカ
   zh: 沼泽大尾莺

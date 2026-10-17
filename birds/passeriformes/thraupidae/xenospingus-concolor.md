@@ -12,7 +12,7 @@ names:
   es: Yal Picofino
   fr: Xénospingue uniforme
   de: Feinschnabel-Grautangare
-  pt: slender-billed finch
+  pt: ''
   ru: Тонкоклювая пизарита
   ja: ハシボソシトド
   zh: 细嘴雀鹀

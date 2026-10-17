@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6174.0
 names:
   scientific: Calidris virgata
-  fa: nan
+  fa: ''
   en: Surfbird
   es: Correlimos de Rompientes
   fr: Bécasseau du ressac
   de: Gischtläufer
-  pt: surfbird
+  pt: ''
   ru: Бурунный песочник
   ja: アライソシギ
   zh: 短嘴鹬

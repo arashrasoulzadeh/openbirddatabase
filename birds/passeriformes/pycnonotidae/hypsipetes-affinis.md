@@ -15,7 +15,7 @@ names:
   pt: seram golden-bulbul
   ru: Золотистохвостый бюльбюль
   ja: キンイロヒヨドリ
-  zh: Seram Golden Bulbul
+  zh: ''
   nl: Molukse buulbuul
   pl: szczeciak złotawy
   tr: Seram Altınbülbülü

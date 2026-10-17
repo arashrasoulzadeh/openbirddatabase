@@ -12,7 +12,7 @@ names:
   es: Pardillo Yemení
   fr: Linotte du Yémen
   de: Jemenhänfling
-  pt: yemen linnet
+  pt: ''
   ru: Йеменская коноплянка
   ja: イエメンヒワ
   nl: Jemenitische kneu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9639.0
 names:
   scientific: Rhinopomastus castaneiceps
-  fa: nan
+  fa: ''
   en: Forest Wood Hoopoe
   es: Abubilla Arbórea Cabeciparda
   fr: Irrisor à tête brune
@@ -15,7 +15,7 @@ names:
   pt: forest scimitarbill
   ru: Каштановоголовый древесный удод
   ja: オナガクロモリヤツガシラ
-  zh: Forest Wood Hoopoe
+  zh: ''
   nl: Bruinkopboomhop
   pl: sierpodudek leśny
   tr: Boz Başlı Ağaç İbibiği

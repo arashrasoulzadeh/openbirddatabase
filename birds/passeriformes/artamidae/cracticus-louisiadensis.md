@@ -12,7 +12,7 @@ names:
   es: Verdugo de Tagula
   fr: Cassican de Tagula
   de: Louisiadenkrähenstar
-  pt: tagula butcherbird
+  pt: ''
   ru: Белогузая флейтовая птица
   ja: コシジロモズガラス
   zh: 白腰鍾雀

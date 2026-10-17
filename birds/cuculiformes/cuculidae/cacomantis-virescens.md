@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 3375.0
 names:
   scientific: Cacomantis virescens
-  fa: nan
+  fa: ''
   en: Sulawesi Brush Cuckoo
   es: Cuco Verduzco
   fr: Coucou de Brüggeman
-  pt: sulawesi brush cuckoo
+  pt: ''
   ja: スラウェシハイガシラヒメカッコウ
   nl: Sulawesistruikkoekoek
   pl: kukułka szaropierśna

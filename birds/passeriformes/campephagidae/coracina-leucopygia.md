@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18765.0
 names:
   scientific: Coracina leucopygia
-  fa: nan
+  fa: ''
   en: White-rumped Cuckooshrike
   es: Oruguero Culiblanco
   fr: Échenilleur à croupion blanc
   de: Weißbürzel-Raupenfänger
-  pt: white-rumped cuckooshrike
+  pt: ''
   ru: Белопоясничный воронец
   ja: コシジロオオサンショウクイ
   zh: 白腰鹃鵙

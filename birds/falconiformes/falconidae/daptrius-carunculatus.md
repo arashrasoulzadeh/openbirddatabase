@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11973.0
 names:
   scientific: Daptrius carunculatus
-  fa: nan
+  fa: ''
   en: Carunculated Caracara
   es: Caracara Carunculado
   fr: Caracara caronculé
   de: Streifenkarakara
-  pt: carunculated caracara
+  pt: ''
   ru: Пёстрая каракара
   ja: マダラコシジロカラカラ
   nl: Lelcaracara

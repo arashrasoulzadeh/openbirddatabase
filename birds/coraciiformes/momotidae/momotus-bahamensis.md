@@ -12,7 +12,7 @@ names:
   es: Momoto de Trinidad
   fr: Motmot de Trinidad
   de: Trinidadmotmot
-  pt: trinidad motmot
+  pt: ''
   ru: Тринидадский момот
   ja: トリニダードハチクイモドキ
   nl: Trinidadmotmot

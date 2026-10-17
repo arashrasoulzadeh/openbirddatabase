@@ -12,7 +12,7 @@ names:
   es: Papamoscas Indochino
   fr: Gobemouche d'Indochine
   de: Indochina-Blauschnäpper
-  pt: indochinese blue flycatcher
+  pt: ''
   ru: Индокитайская нильтава
   ja: インドシナヒメアオヒタキ
   zh: 印支藍仙鶲

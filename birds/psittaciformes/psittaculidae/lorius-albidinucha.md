@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12608.0
 names:
   scientific: Lorius albidinucha
-  fa: nan
+  fa: ''
   en: White-naped Lory
   es: Lori Nuquiblanco
   fr: Lori à nuque blanche
   de: Weißnackenlori
-  pt: white-naped lory
+  pt: ''
   ru: Белошейный лори
   ja: シロエリズグロインコ
   nl: Witneklori

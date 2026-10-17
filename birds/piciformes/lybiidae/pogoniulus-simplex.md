@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10587.0
 names:
   scientific: Pogoniulus simplex
-  fa: nan
+  fa: ''
   en: Green Tinkerbird
   es: Barbudito Sencillo
   fr: Barbion vert
   de: Schlichtbartvogel
-  pt: green tinkerbird
+  pt: ''
   ru: Зелёный медник
   ja: ミドリヒメゴシキドリ
   nl: Groene ketellapper

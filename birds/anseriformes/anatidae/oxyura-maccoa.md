@@ -12,7 +12,7 @@ names:
   es: Malvasía Maccoa
   fr: Érismature maccoa
   de: Afrikaruderente
-  pt: maccoa duck
+  pt: ''
   ru: Африканская савка
   ja: アフリカオタテガモ
   zh: 非洲硬尾鸭

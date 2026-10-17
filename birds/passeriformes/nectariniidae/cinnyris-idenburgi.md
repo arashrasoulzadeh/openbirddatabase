@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30479.0
 names:
   scientific: Cinnyris idenburgi
-  fa: nan
+  fa: ''
   en: Mamberamo Sunbird
   es: Suimanga de Rand
   fr: Souimanga de Rand
   de: Dunkelnektarvogel
-  pt: mamberamo sunbird
+  pt: ''
   nl: Mamberamohoningzuiger
   pl: nektarnik ciemnobrzuchy
   tr: Mamberamo Nektarkuşu

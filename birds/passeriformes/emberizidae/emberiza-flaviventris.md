@@ -12,7 +12,7 @@ names:
   es: Escribano Pechidorado
   fr: Bruant à poitrine dorée
   de: Gelbbauchammer
-  pt: golden-breasted bunting
+  pt: ''
   ru: Желтобрюхая овсянка
   ja: キンムネホオジロ
   nl: Acaciagors

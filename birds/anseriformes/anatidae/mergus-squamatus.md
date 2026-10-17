@@ -12,7 +12,7 @@ names:
   es: Serreta China
   fr: Harle de Chine
   de: Schuppensäger
-  pt: scaly-sided merganser
+  pt: ''
   ru: Чешуйчатый крохаль
   ja: コウライアイサ
   zh: 中华秋沙鸭

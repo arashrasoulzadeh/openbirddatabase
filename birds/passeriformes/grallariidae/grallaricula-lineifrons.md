@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14363.0
 names:
   scientific: Grallaricula lineifrons
-  fa: nan
+  fa: ''
   en: Crescent-faced Antpitta
   es: Ponchito Medialuna
   fr: Grallaire demi-lune
   de: Halbmond-Ameisenpitta
-  pt: crescent-faced antpitta
+  pt: ''
   ru: Полулунная питтуля
   ja: ミカヅキヒメジアリドリ
   nl: Chapmandwergmierpitta

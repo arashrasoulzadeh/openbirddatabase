@@ -12,7 +12,7 @@ names:
   es: Sibia Bonita
   fr: Garrulaxe superbe
   de: Prachtsibia
-  pt: beautiful sibia
+  pt: ''
   ru: Сизая сибия
   ja: ミミグロチメドリ
   zh: 丽色奇鹛

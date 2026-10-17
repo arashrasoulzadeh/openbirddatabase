@@ -12,7 +12,7 @@ names:
   es: Loro Oceánico
   fr: Éclectus océanique
   de: Polynesien-Edelpapagei
-  pt: oceanic eclectus
+  pt: ''
   nl: Tonga-edelpapegaai
   pl: barwnica pacyficzna
   tr: Okyanus Eklektus Papağanı

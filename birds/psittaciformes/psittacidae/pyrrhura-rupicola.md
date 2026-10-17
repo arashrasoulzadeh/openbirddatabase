@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13063.0
 names:
   scientific: Pyrrhura rupicola
-  fa: nan
+  fa: ''
   en: Black-capped Parakeet
   es: Cotorra Capirotada
   fr: Conure à cape noire

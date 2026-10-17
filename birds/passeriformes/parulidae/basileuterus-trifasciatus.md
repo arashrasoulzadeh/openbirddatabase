@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34285.0
 names:
   scientific: Basileuterus trifasciatus
-  fa: nan
+  fa: ''
   en: Three-banded Warbler
   es: Reinita de Cajamarca
   fr: Paruline trifasciée
   de: Cayamarcawaldsänger
-  pt: three-banded warbler
+  pt: ''
   ru: Трёхпоясный корольковый певун
   ja: ミツオビアメリカムシクイ
   nl: Driebandzanger

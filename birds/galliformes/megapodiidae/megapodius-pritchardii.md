@@ -12,7 +12,7 @@ names:
   es: Talégalo de Tonga
   fr: Mégapode de Pritchard
   de: Tonga-Großfußhuhn
-  pt: tongan megapode
+  pt: ''
   ru: Полинезийский большеног
   ja: トンガツカツクリ
   zh: 汤加冢雉

@@ -15,7 +15,7 @@ names:
   pt: madagascar serpent-eagle
   ru: Папанго
   ja: マダガスカルヘビワシ
-  zh: Madagascar Serpent Eagle
+  zh: ''
   nl: Madagaskarslangenarend
   pl: pręgoczub
   tr: Madagaskar Yılan Kartalı

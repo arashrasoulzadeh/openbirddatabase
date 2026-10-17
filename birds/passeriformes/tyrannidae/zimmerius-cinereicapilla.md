@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16795.0
 names:
   scientific: Zimmerius cinereicapilla
-  fa: nan
+  fa: ''
   en: Red-billed Tyrannulet
   es: Mosquerito Piquirrojo
   fr: Tyranneau à bec rouge
   de: Purpurschnabel-Kleintyrann
-  pt: red-billed tyrannulet
+  pt: ''
   ru: Красноклювый москитолов
   ja: アカハシコタイランチョウ
   nl: Roodsnavelvliegenpikker

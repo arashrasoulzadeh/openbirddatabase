@@ -12,7 +12,7 @@ names:
   es: Verdín de Borneo
   fr: Verdin de Bornéo
   de: Borneoblattvogel
-  pt: bornean leafbird
+  pt: ''
   ru: Борнейская листовка
   ja: ボルネオコノハドリ
   nl: Borneose bladvogel

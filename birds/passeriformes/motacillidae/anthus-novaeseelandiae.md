@@ -12,7 +12,7 @@ names:
   es: Bisbita Neozelandés
   fr: Pipit de Nouvelle-Zélande
   de: Neuseeland-Spornpieper
-  pt: new zealand pipit
+  pt: ''
   ru: Новозеландский степной конёк
   ja: マミジロタヒバリ
   zh: 田鷚

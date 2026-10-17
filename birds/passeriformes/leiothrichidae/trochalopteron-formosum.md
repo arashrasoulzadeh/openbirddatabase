@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26484.0
 names:
   scientific: Trochalopteron formosum
-  fa: nan
+  fa: ''
   en: Red-winged Laughingthrush
   es: Charlatán Alirrojo
   fr: Garrulaxe élégant
   de: Prachthäherling
-  pt: red-winged laughingthrush
+  pt: ''
   ru: Краснокрылая кустарница
   ja: アカバネガビチョウ
   zh: 丽色噪鹛

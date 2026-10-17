@@ -12,7 +12,7 @@ names:
   es: Pelícano Norteamericano
   fr: Pélican d'Amérique
   de: Nashornpelikan
-  pt: american white pelican
+  pt: ''
   ru: Пеликан-носорог
   ja: アメリカシロペリカン
   zh: 美洲鹈鹕

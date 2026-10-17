@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4023.0
 names:
   scientific: Aerodramus amelis
-  fa: nan
+  fa: ''
   en: Ameline Swiftlet
   es: Salangana Gris
   fr: Salangane grise
   de: Grausalangane
-  pt: ameline swiftlet
+  pt: ''
   ru: Шиферная салангана
   ja: ハイイロアナツバメ
   nl: Filipijnse salangaan

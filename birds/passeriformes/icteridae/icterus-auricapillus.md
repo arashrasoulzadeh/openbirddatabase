@@ -12,7 +12,7 @@ names:
   es: Turpial Coroninaranja
   fr: Oriole à tête d'or
   de: Orangekopftrupial
-  pt: orange-crowned oriole
+  pt: ''
   ru: Оранжевоголовый трупиал
   ja: アカボウシムクドリモドキ
   nl: Oranjekaptroepiaal

@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechirrojo
   fr: Souimanga à ceinture rouge
   de: Schmucknektarvogel
-  pt: red-chested sunbird
+  pt: ''
   ru: Красногрудая нектарница
   ja: ムネアカオナガタイヨウチョウ
   nl: Sierhoningzuiger

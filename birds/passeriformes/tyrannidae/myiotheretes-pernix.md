@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 17151.0
 names:
   scientific: Myiotheretes pernix
-  fa: nan
+  fa: ''
   en: Santa Marta Bush Tyrant
   es: Birro de Santa Marta
   fr: Moucherolle de Santa Marta
@@ -15,7 +15,7 @@ names:
   pt: santa marta bush-tyrant
   ru: Сантамартийская гевара
   ja: サンタマルタヤブタイランチョウ
-  zh: Santa Marta Bush Tyrant
+  zh: ''
   nl: Santa-Martastruiktiran
   pl: kopciuch kolumbijski
   tr: Santa Marta Çalı Tiranı

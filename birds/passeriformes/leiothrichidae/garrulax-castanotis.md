@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26749.0
 names:
   scientific: Garrulax castanotis
-  fa: nan
+  fa: ''
   en: Rufous-cheeked Laughingthrush
   es: Charlatán Carirrufo
   fr: Garrulaxe de Hainan
   de: Rotwangenhäherling
-  pt: rufous-cheeked laughingthrush
+  pt: ''
   ru: Каштановошёкая кустарница
   ja: ホオアカガビチョウ
   zh: 栗颊噪鹛

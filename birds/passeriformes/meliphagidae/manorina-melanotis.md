@@ -12,7 +12,7 @@ names:
   es: Mielero Orejinegro
   fr: Méliphage à oreillons noirs
   de: Malleeschwatzvogel
-  pt: black-eared miner
+  pt: ''
   ru: Черноухая манорина
   ja: ミミグロミツスイ
   nl: Zwartoorhoningeter

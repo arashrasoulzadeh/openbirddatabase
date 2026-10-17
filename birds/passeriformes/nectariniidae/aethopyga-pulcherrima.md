@@ -12,7 +12,7 @@ names:
   es: Suimanga Submontano
   fr: Souimanga montagnard
   de: Glanzflügel-Nektarvogel
-  pt: metallic-winged sunbird
+  pt: ''
   ru: Блестящая острохвостая нектарница
   ja: キムネタイヨウチョウ
   nl: Glansvleugelhoningzuiger

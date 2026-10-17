@@ -15,7 +15,7 @@ names:
   pt: grosbeak weaver
   ru: Белолобый ткач
   ja: ハシブトハタオリ
-  zh: Thick-billed Weaver
+  zh: ''
   nl: Dikbekwever
   pl: brunatniczka
   tr: Kocabaş Dokumacı

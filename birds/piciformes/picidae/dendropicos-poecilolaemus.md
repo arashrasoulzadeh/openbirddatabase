@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11288.0
 names:
   scientific: Dendropicos poecilolaemus
-  fa: nan
+  fa: ''
   en: Speckle-breasted Woodpecker
   es: Pito Cuellipinto
   fr: Pic à poitrine tachetée
   de: Tropfenspecht
-  pt: speckle-breasted woodpecker
+  pt: ''
   ru: Саванный дятел
   ja: ウガンダアフリカコゲラ
   zh: 斑胸啄木鳥

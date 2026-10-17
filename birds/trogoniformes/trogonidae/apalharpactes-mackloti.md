@@ -12,7 +12,7 @@ names:
   es: Trogón de Sumatra
   fr: Trogon de Sumatra
   de: Sumatratrogon
-  pt: sumatran trogon
+  pt: ''
   ru: Суматранский трогон
   ja: スマトラキヌバネドリ
   nl: Macklottrogon

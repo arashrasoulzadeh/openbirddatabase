@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24438.0
 names:
   scientific: Phyllastrephus scandens
-  fa: nan
+  fa: ''
   en: Leaf-love
   es: Bulbul Colirrojizo
   fr: Bulbul à queue rousse

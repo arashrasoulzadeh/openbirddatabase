@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30484.0
 names:
   scientific: Cinnyris sovimanga
-  fa: nan
+  fa: ''
   en: Souimanga Sunbird
   es: Suimanga Malgache
   fr: Souimanga malgache
   de: Malegassennektarvogel
-  pt: souimanga sunbird
+  pt: ''
   ru: Мадагаскарская нектарница
   ja: アルダブラタイヨウチョウ
   zh: 斯韋花蜜鳥

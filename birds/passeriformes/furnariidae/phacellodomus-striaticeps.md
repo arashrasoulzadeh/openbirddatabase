@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15354.0
 names:
   scientific: Phacellodomus striaticeps
-  fa: nan
+  fa: ''
   en: Streak-fronted Thornbird
   es: Espinero Andino
   fr: Synallaxe à front rayé
   de: Strichelstirn-Bündelnister
-  pt: streak-fronted thornbird
+  pt: ''
   ru: Пестроголовый эспинеро
   ja: シロハラアレチカマドドリ
   nl: Schubkopstekelkruin

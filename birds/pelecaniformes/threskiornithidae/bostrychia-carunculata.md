@@ -12,7 +12,7 @@ names:
   es: Ibis Carunculado
   fr: Ibis caronculé
   de: Klunkeribis
-  pt: wattled ibis
+  pt: ''
   ru: Серёжчатый ибис
   ja: イボトキ
   zh: 肉垂䴉

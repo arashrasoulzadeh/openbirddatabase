@@ -12,7 +12,7 @@ names:
   es: Zorzal de Kessler
   fr: Merle de Kessler
   de: Rhododendrondrossel
-  pt: white-backed thrush
+  pt: ''
   ru: Рододендровый дрозд
   ja: チャイロツグミ
   zh: 棕背黑头鸫

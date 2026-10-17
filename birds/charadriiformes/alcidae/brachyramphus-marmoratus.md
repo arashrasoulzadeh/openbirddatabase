@@ -12,7 +12,7 @@ names:
   es: Mérgulo Jaspeado Americano
   fr: Guillemot marbré
   de: Marmelalk
-  pt: marbled murrelet
+  pt: ''
   ru: Пёстрый пыжик
   ja: アメリカマダラウミスズメ
   zh: 斑海雀

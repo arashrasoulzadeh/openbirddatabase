@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10692.0
 names:
   scientific: Psilopogon rubricapillus
-  fa: nan
+  fa: ''
   en: Crimson-fronted Barbet
   es: Barbudo de Sri Lanka
   fr: Barbu à couronne rouge
   de: Ceylonbartvogel
-  pt: crimson-fronted barbet
+  pt: ''
   ru: Цейлонский бородастик
   ja: ヒノドゴシキドリ
   nl: Roodkeelbaardvogel

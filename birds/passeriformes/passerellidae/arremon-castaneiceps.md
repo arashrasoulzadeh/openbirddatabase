@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33094.0
 names:
   scientific: Arremon castaneiceps
-  fa: nan
+  fa: ''
   en: Olive Finch
   es: Cerquero Capirrufo
   fr: Tohi lysure
   de: Olivbuschammer
-  pt: olive finch
+  pt: ''
   ru: Оливковый тохи
   ja: ハシブトシトド
   nl: Olijfgroene struikgors

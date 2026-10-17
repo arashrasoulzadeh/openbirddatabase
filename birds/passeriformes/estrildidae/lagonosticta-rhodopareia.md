@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31422.0
 names:
   scientific: Lagonosticta rhodopareia
-  fa: nan
+  fa: ''
   en: Jameson's Firefinch
   es: Amaranta de Jameson
   fr: Amarante de Jameson
   de: Rosenamarant
-  pt: jameson's firefinch
+  pt: ''
   ru: Розовый амарант
   ja: ハシジロコウギョクチョウ
   zh: 红腹火雀

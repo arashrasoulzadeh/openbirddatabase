@@ -14,7 +14,7 @@ names:
   de: Sangihegoldbülbül
   pt: sangihe golden-bulbul
   ja: サンギヘキンイロヒヨドリ
-  zh: Sangihe Golden Bulbul
+  zh: ''
   nl: Sangirbuulbuul
   pl: szczeciak żółtokantarowy
   tr: Sanhige Altınbülbülü

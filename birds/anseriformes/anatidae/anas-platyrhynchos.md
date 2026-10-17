@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 545.0
 names:
   scientific: Anas platyrhynchos
-  fa: nan
+  fa: ''
   en: Mallard
   es: Ánade Azulón
   fr: Canard colvert

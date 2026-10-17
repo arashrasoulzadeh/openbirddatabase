@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15259.0
 names:
   scientific: Automolus ochrolaemus
-  fa: nan
+  fa: ''
   en: Ochre-throated Foliage-gleaner
   es: Ticotico Gorjiclaro Oriental
   fr: Anabate à gorge fauve

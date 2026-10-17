@@ -12,7 +12,7 @@ names:
   es: Estornino de Waller
   fr: Rufipenne de Waller
   de: Wallerstar
-  pt: waller's starling
+  pt: ''
   ru: Рифтовый скворец
   ja: コンゴテリムク
   nl: Wallerspreeuw

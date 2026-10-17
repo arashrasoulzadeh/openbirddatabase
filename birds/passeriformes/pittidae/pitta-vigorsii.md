@@ -12,7 +12,7 @@ names:
   es: Pita Gorjiblanca
   fr: Brève de Vigors
   de: Weißkehl-Schmuckpitta
-  pt: banda sea pitta
+  pt: ''
   ja: バンダカイノドグロヤイロチョウ
   nl: Bandapitta
   pl: kurtaczek dwupręgi

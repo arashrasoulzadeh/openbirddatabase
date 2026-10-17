@@ -12,7 +12,7 @@ names:
   es: Sigua Palmera
   fr: Esclave palmiste
   de: Palmenschwätzer
-  pt: palmchat
+  pt: ''
   ru: Дулюс
   ja: ヤシドリ
   zh: 棕櫚䳭

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Coliblanco
   fr: Gobemouche à queue blanche
   de: Weißschwanz-Blauschnäpper
-  pt: white-tailed flycatcher
+  pt: ''
   ru: Белохвостая нильтава
   ja: オジロアオヒタキ
   zh: 白尾蓝仙鹟

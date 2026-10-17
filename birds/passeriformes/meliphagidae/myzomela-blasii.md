@@ -15,7 +15,7 @@ names:
   pt: seram myzomela
   ru: Скромная медовка
   ja: アンボンミツスイ
-  zh: Drab Myzomela
+  zh: ''
   nl: Ambonese dwerghoningeter
   pl: miodówka bura
   tr: Seram Mizomelası

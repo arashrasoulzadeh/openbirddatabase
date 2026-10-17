@@ -12,7 +12,7 @@ names:
   es: Mohoua Pipipí
   fr: Mohoua pipipi
   de: Braunköpfchen
-  pt: pipipi
+  pt: ''
   ru: Буроголовая мохуа
   ja: ニュージーランドムシクイ
   zh: 棕爬行者

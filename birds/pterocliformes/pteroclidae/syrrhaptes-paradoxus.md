@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2863.0
 names:
   scientific: Syrrhaptes paradoxus
-  fa: nan
+  fa: ''
   en: Pallas's Sandgrouse
   es: Ganga de Pallas
   fr: Syrrhapte paradoxal

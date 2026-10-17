@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30423.0
 names:
   scientific: Cinnyris johannae
-  fa: nan
+  fa: ''
   en: Johanna's Sunbird
   es: Suimanga de Johanna
   fr: Souimanga de Johanna
   de: Grünscheitel-Nektarvogel
-  pt: johanna's sunbird
+  pt: ''
   ru: Зелёношапочная нектарница
   ja: アカハラタイヨウチョウ
   nl: Groenkruinhoningzuiger

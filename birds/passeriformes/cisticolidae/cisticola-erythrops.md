@@ -12,7 +12,7 @@ names:
   es: Cistícola Carirrojo
   fr: Cisticole à face rousse
   de: Rotgesicht-Zistensänger
-  pt: red-faced cisticola
+  pt: ''
   ru: Краснолицая цистикола
   ja: アカガオセッカ
   zh: 紅臉扇尾鶯

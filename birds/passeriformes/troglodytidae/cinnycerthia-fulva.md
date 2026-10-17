@@ -12,7 +12,7 @@ names:
   es: Cucarachero Fulvo
   fr: Troglodyte fauve
   de: Sepiazaunkönig
-  pt: fulvous wren
+  pt: ''
   ru: Бурый крапивник
   ja: キイロミソサザイ
   zh: 茶色鹪鹩

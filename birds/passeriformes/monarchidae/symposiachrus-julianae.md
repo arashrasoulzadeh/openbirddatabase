@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Kofiau
   fr: Monarque de Kofiau
   de: Julianamonarch
-  pt: kofiau monarch
+  pt: ''
   ru: Кофиауский монарх
   ja: コフィアウカササギビタキ
   nl: Koningin-Julianamonarch

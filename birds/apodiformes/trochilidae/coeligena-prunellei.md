@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4622.0
 names:
   scientific: Coeligena prunellei
-  fa: nan
+  fa: ''
   en: Black Inca
   es: Inca Negro
   fr: Inca noir
   de: Blauschulterkolibri
-  pt: black inca
+  pt: ''
   ru: Чёрный инка
   ja: クロインカハチドリ
   zh: 黑星额蜂鸟

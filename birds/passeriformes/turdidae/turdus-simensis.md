@@ -11,7 +11,7 @@ names:
   en: Ethiopian Thrush
   es: Zorzal del Simen
   fr: Grive d'Éthiopie
-  pt: ethiopian thrush
+  pt: ''
   nl: Hooglandlijster
   pl: drozd etiopski
   tr: Etiyopya Ardıcı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27201.0
 names:
   scientific: Troglodytes beani
-  fa: nan
+  fa: ''
   en: Cozumel Wren
   es: Chochín de Cozumel
   fr: Troglodyte de Cozumel
   de: Cozumelzaunkönig
-  pt: cozumel wren
+  pt: ''
   nl: Cozumelwinterkoning
   pl: strzyżyk rdzaworzytny
   tr: Kozumel Çıtkuşu

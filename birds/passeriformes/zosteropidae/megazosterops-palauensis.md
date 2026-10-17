@@ -12,7 +12,7 @@ names:
   es: Anteojitos de las Palaos
   fr: Zostérops des Palau
   de: Bronzebrillenvogel
-  pt: giant white-eye
+  pt: ''
   ru: Гигантская тахоу
   ja: オニメジロ
   zh: 帛琉繡眼

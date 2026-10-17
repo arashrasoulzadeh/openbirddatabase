@@ -12,7 +12,7 @@ names:
   es: Charlatán de Sukatschev
   fr: Garrulaxe de Sukatschev
   de: Kansuhäherling
-  pt: snowy-cheeked laughingthrush
+  pt: ''
   ru: Белоухая кустарница
   ja: カンスーガビチョウ
   zh: 黑额山噪鹛

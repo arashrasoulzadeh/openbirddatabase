@@ -12,7 +12,7 @@ names:
   es: Cuchara de El Cabo
   fr: Canard de Smith
   de: Kaplöffelente
-  pt: cape shoveler
+  pt: ''
   ru: Капская широконоска
   ja: ケープハシビロガモ
   zh: 褐顶琵嘴鸭

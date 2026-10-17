@@ -12,7 +12,7 @@ names:
   es: Cacique Montano
   fr: Cassique montagnard
   de: Bergkassike
-  pt: mountain cacique
+  pt: ''
   ru: Жёлтоспинный кассик
   ja: ミヤマツリスドリ
   nl: Bergbuidelspreeuw

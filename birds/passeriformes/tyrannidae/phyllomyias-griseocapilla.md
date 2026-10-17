@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 16779.0
 names:
   scientific: Phyllomyias griseocapilla
-  fa: nan
+  fa: ''
   en: Grey-capped Tyrannulet
   es: Mosquerito Coronigrís
   fr: Tyranneau à tête grise
@@ -15,7 +15,7 @@ names:
   pt: piolhinho-serrano
   ru: Сероголовый москитеро
   ja: ハイズキンコタイランチョウ
-  zh: Grey-capped Tyrannulet
+  zh: ''
   nl: Grijskruinvliegenpikker
   pl: oliwiarek szarogłowy
   tr: Gri Takkeli Tiranület

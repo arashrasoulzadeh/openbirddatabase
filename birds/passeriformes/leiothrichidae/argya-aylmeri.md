@@ -12,7 +12,7 @@ names:
   es: Turdoide de Aylmer
   fr: Cratérope d'Aylmer
   de: Schuppenbrust-Drosselhäherling
-  pt: scaly chatterer
+  pt: ''
   ru: Чешуегрудая дроздовка
   ja: シロスジヤブチメドリ
   zh: 鱗斑鶇鶥

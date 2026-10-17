@@ -12,7 +12,7 @@ names:
   es: Monterita Collareja
   fr: Chipiu à col noir
   de: Schwarzbrust-Finkentangare
-  pt: collared warbling finch
+  pt: ''
   ru: Черногрудая монтерита
   ja: ムナグロマユシトド
   nl: Gekraagde boomgors

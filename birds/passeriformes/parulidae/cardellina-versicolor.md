@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34356.0
 names:
   scientific: Cardellina versicolor
-  fa: nan
+  fa: ''
   en: Pink-headed Warbler
   es: Reinita Rosada
   fr: Paruline à tête rose
   de: Rosenwaldsänger
-  pt: pink-headed warbler
+  pt: ''
   ru: Розовая вильсония
   ja: ズキンベニアメリカムシクイ
   nl: Rozekopzanger

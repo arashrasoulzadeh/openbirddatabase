@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31267.0
 names:
   scientific: Delacourella capistrata
-  fa: nan
+  fa: ''
   en: Grey-headed Oliveback
   es: Olivino Carigrís
   fr: Astrild à joues blanches
@@ -15,7 +15,7 @@ names:
   pt: gray-headed oliveback
   ru: Сероголовый астрильд
   ja: ホオジロオリーブキンパラ
-  zh: Grey-headed Oliveback
+  zh: ''
   nl: Witwangastrild
   pl: obrożniczka białolica
   tr: Gri Başlı Yeşilsırt

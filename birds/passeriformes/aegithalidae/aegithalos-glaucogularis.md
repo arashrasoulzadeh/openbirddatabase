@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25229.0
 names:
   scientific: Aegithalos glaucogularis
-  fa: nan
+  fa: ''
   en: Silver-throated Bushtit
   es: Mito Gorjigrís
   fr: Orite à gorge argent

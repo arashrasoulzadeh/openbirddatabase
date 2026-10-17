@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34904.0
 names:
   scientific: Dubusia castaneoventris
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Mountain Tanager
   es: Tangara Ventricastaña
   fr: Tangara à ventre marron
   de: Orangebauch-Bergtangare
-  pt: chestnut-bellied mountain tanager
+  pt: ''
   ru: Каштановобрюхая танагра
   ja: クリハラフウキンチョウ
   nl: Bruinbuikbergtangare

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 21173.0
 names:
   scientific: Platysmurus aterrimus
-  fa: nan
+  fa: ''
   en: Bornean Black Magpie
   es: Urraca Negra de Borneo
   fr: Platysmure de Bornéo
   de: Borneorabenhäher
-  pt: bornean black magpie
+  pt: ''
   ru: Траурная сорока
   ja: ボルネオクロカケス
   nl: Borneose zwarte gaai

@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Meninting
   fr: Martin-pêcheur méninting
   de: Menintingeisvogel
-  pt: blue-eared kingfisher
+  pt: ''
   ru: Синеухий зимородок
   ja: ルリカワセミ
   zh: 蓝耳翠鸟

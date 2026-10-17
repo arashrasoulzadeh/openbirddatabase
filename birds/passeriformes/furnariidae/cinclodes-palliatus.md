@@ -12,7 +12,7 @@ names:
   es: Remolinera Ventriblanca
   fr: Cinclode à ventre blanc
   de: Weißbauch-Uferwipper
-  pt: white-bellied cinclodes
+  pt: ''
   ru: Белобрюхая трясохвостка
   ja: シロハラカワカマドドリ
   zh: 白腹抖尾地雀

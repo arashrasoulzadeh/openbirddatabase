@@ -12,7 +12,7 @@ names:
   es: Rascón Cafre
   fr: Râle bleuâtre
   de: Kapralle
-  pt: african rail
+  pt: ''
   ru: Капский пастушок
   ja: アカハシクイナ
   zh: 暗藍秧雞

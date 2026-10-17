@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14637.0
 names:
   scientific: Deconychura pallida
-  fa: nan
+  fa: ''
   en: Mournful Long-tailed Woodcreeper
   es: Trepatroncos Colilargo Sureño
   fr: Grimpar pâlot
   de: Gelbkehl-Baumsteiger
-  zh: Southern Long-tailed Woodcreeper
+  zh: ''
   nl: Zuidelijke langstaartmuisspecht
   pl: tęgosterzyk amazoński
   tr: Batılı Uzun Kuyruklu Tırmaşık

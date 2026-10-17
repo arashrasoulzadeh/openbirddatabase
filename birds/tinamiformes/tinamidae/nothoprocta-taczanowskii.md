@@ -12,7 +12,7 @@ names:
   es: Tinamú de Taczanowski
   fr: Tinamou de Taczanowski
   de: Taczanowskitinamu
-  pt: taczanowski's tinamou
+  pt: ''
   ru: Хунинский тинаму
   ja: ハシナガシギダチョウ
   zh: 高山斑䳍

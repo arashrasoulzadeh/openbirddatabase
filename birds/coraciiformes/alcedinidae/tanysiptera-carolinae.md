@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10284.0
 names:
   scientific: Tanysiptera carolinae
-  fa: nan
+  fa: ''
   en: Numfor Paradise Kingfisher
   es: Alción Colilargo de Numfor
   fr: Martin-chasseur de Caroline
@@ -15,7 +15,7 @@ names:
   pt: numfor paradise-kingfisher
   ru: Нумфорский райский зимородок
   ja: アオムネラケットカワセミ
-  zh: Numfor Paradise Kingfisher
+  zh: ''
   nl: Numforvlagstaartijsvogel
   pl: sterowik niebieskobrzuchy
   tr: Numfor Cennet Yalıçapkını

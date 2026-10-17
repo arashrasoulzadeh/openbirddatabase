@@ -12,7 +12,7 @@ names:
   es: Vencejo de Namibia
   fr: Martinet de Bradfield
   de: Damarasegler
-  pt: bradfield's swift
+  pt: ''
   ru: Дамарский стриж
   ja: ナムビアアマツバメ
   nl: Damaragierzwaluw

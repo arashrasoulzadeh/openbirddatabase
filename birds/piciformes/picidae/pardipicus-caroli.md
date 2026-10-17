@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11703.0
 names:
   scientific: Pardipicus caroli
-  fa: nan
+  fa: ''
   en: Brown-eared Woodpecker
   es: Pito Orejipardo
   fr: Pic à oreillons bruns
   de: Braunohrspecht
-  pt: brown-eared woodpecker
+  pt: ''
   ru: Буроухий дятел
   ja: チャミミアオゲラ
   nl: Bruinoorspecht

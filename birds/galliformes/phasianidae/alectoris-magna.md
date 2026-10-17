@@ -12,7 +12,7 @@ names:
   es: Perdiz Magna
   fr: Perdrix de Przewalski
   de: Przewalskisteinhuhn
-  pt: przevalski's partridge
+  pt: ''
   ru: Кеклик Пржевальского
   ja: オオイワシャコ
   zh: 大石鸡

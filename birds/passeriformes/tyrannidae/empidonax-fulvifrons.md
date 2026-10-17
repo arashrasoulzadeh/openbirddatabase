@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16989.0
 names:
   scientific: Empidonax fulvifrons
-  fa: nan
+  fa: ''
   en: Buff-breasted Flycatcher
   es: Mosquero Pechicanelo
   fr: Moucherolle beige
   de: Orangebrust-Schnäppertyrann
-  pt: buff-breasted flycatcher
+  pt: ''
   ru: Буланый мухолов
   ja: ウスチャメジロハエトリ
   nl: Blonde feetiran

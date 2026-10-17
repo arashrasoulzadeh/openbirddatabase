@@ -12,7 +12,7 @@ names:
   es: Pico del Sind
   fr: Pic du Sind
   de: Tamariskenspecht
-  pt: sind woodpecker
+  pt: ''
   ru: Тамарисковый дятел
   ja: カタジロアカゲラ
   zh: 信德啄木鸟

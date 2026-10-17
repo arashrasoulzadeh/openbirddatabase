@@ -15,7 +15,7 @@ names:
   pt: yellow-rumped serin
   ru: Желтопоясничный канареечник
   ja: アビシニアキゴシカナリア
-  zh: Yellow-rumped Seedeater
+  zh: ''
   nl: Geelstuitkanarie
   pl: afrokulczyk blady
   tr: Sarı Belli Boz İskete

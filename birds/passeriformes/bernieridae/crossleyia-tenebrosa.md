@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 23971.0
 names:
   scientific: Crossleyia tenebrosa
-  fa: nan
+  fa: ''
   en: Dusky Tetraka
   es: Tetraka Oscuro
   fr: Fouditany obscur
   de: Sianakamadagaskarsänger
-  pt: dusky tetraka
+  pt: ''
   ru: Тёмная тетрака
   ja: ススケマダガスカルヒヨドリ
   nl: Sianakatetraka

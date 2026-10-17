@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18711.0
 names:
   scientific: Coracina atriceps
-  fa: nan
+  fa: ''
   en: Moluccan Cuckooshrike
   es: Oruguero Moluqueño
   fr: Échenilleur des Moluques
   de: Molukkenraupenfänger
-  pt: moluccan cuckooshrike
+  pt: ''
   ru: Черноголовый воронец
   ja: モルッカオニサンショウクイ
   zh: 摩鹿加鹃鵙

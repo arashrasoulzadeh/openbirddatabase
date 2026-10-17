@@ -12,7 +12,7 @@ names:
   es: Alondra de Hamerton
   fr: Sirli de Witherby
   de: Somaliläuferlerche
-  pt: lesser hoopoe-lark
+  pt: ''
   ru: Малый удодовый жаворонок
   ja: ヒメハシナガヒバリ
   zh: 小擬戴勝百靈

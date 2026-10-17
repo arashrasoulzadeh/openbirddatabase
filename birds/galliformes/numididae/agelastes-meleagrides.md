@@ -12,7 +12,7 @@ names:
   es: Pintada Pechiblanca
   fr: Pintade à poitrine blanche
   de: Weißbrust-Perlhuhn
-  pt: white-breasted guineafowl
+  pt: ''
   ru: Белогрудая цесарка
   ja: ムナジロホロホロチョウ
   zh: 白腹珍珠雞

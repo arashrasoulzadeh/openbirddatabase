@@ -13,7 +13,7 @@ names:
   fr: Falconelle à ventre blanc
   de: Weißbauch-Meisendickkopf
   pt: western shrike-tit
-  zh: Western Shriketit
+  zh: ''
   nl: Westelijke harlekijndikkop
   pl: czubiec białobrzuchy
   tr: Batılı Kerpetenkuşu

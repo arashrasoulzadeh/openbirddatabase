@@ -12,7 +12,7 @@ names:
   es: Dacnis Verdoso
   fr: Dacnis vert
   de: Grünflügelpitpit
-  pt: viridian dacnis
+  pt: ''
   ru: Панамский дакнис
   ja: セグロヒワミツドリ
   zh: 翠绿锥嘴雀

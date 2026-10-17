@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23349.0
 names:
   scientific: Bathmocercus rufus
-  fa: nan
+  fa: ''
   en: Black-faced Rufous Warbler
   es: Prinia Carinegra
   fr: Bathmocerque à face noire
@@ -15,7 +15,7 @@ names:
   pt: black-faced rufous-warbler
   ru: Серобрюхая черногрудка
   ja: ズアカアカムシクイ
-  zh: Black-faced Rufous Warbler
+  zh: ''
   nl: Grijsbuikvoszanger
   pl: strumieńczyk czarnolicy
   tr: Gri Karınlı Kızıl Ötleğen

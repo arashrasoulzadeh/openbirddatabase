@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Sri Lanka
   fr: Mégalure de Ceylan
   de: Ceylonbuschsänger
-  pt: sri lanka bush warbler
+  pt: ''
   ru: Ланкийская долгохвостка
   ja: セイロンオウギセッカ
   nl: Ceylonese struikzanger

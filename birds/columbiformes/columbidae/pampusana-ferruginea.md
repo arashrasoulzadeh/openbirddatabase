@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 2187.0
 names:
   scientific: Pampusana ferruginea
-  fa: nan
+  fa: ''
   en: Tanna Ground Dove
   es: Paloma Perdiz de Tanna
   fr: Gallicolombe de Tanna
   de: Tannataube
-  pt: tanna ground dove
+  pt: ''
   ru: Таннайский куриный голубь
   ja: タンナバト
   nl: Tannapatrijsduif

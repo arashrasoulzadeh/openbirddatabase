@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3179.0
 names:
   scientific: Phaenicophaeus oeneicaudus
-  fa: nan
+  fa: ''
   en: Mentawai Malkoha
   es: Malcoha de Mentawai
   fr: Malcoha des Mentawai
   de: Mentawai-Schimmerkuckuck
-  pt: mentawai malkoha
+  pt: ''
   nl: Mentawaimalkoha
   pl: kukuła zielonobrzucha
   tr: Kestane Göğüslü Malkoha

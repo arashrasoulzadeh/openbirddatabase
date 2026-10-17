@@ -12,7 +12,7 @@ names:
   es: Apalis de Moreau
   fr: Apalis de Moreau
   de: Kungwefeinsänger
-  pt: kungwe apalis
+  pt: ''
   ru: Серебристый апалис
   ja: タンザニアイロムシクイ
   nl: Zilverapalis

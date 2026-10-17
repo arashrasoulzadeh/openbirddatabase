@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18874.0
 names:
   scientific: Edolisoma dispar
-  fa: nan
+  fa: ''
   en: Kai Cicadabird
   es: Oruguero de las Kai
   fr: Échenilleur des Kai
   de: Keiraupenfänger
-  pt: kai cicadabird
+  pt: ''
   ru: Бандасский цикадник
   ja: カイサンショウクイ
   zh: 凯岛鹃鵙

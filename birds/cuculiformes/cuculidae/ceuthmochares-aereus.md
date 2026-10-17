@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3162.0
 names:
   scientific: Ceuthmochares aereus
-  fa: nan
+  fa: ''
   en: Blue Malkoha
   es: Malcoha Africano Occidental
   fr: Malcoha à bec jaune

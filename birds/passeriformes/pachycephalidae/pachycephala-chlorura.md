@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19394.0
 names:
   scientific: Pachycephala chlorura
-  fa: nan
+  fa: ''
   en: Melanesian Whistler
   es: Silbador de Vanuatu
   fr: Siffleur mélanésien
@@ -15,7 +15,7 @@ names:
   pt: vanuatu whistler
   ru: Меланезийский свистун
   ja: バヌアツモズヒタキ
-  zh: Melanesian Whistler
+  zh: ''
   nl: Melanesische fluiter
   pl: fletówka melanezyjska
   tr: Vanuatu Islıkçısı

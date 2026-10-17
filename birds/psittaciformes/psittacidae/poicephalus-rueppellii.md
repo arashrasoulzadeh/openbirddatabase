@@ -12,7 +12,7 @@ names:
   es: Lorito de Rüppell
   fr: Perroquet de Rüppell
   de: Rüppellpapagei
-  pt: rüppell's parrot
+  pt: ''
   ru: Желтоногий попугай
   ja: クロクモインコ
   nl: Rüppellpapegaai

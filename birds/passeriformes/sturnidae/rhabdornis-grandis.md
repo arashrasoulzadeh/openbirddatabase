@@ -15,7 +15,7 @@ names:
   pt: long-billed rhabdornis
   ru: Лусонский пищуховый скворец
   ja: ハシナガキバシリモドキ
-  zh: Grand Rhabdornis
+  zh: ''
   nl: Grote kruiper
   pl: filipińczyk duży
   tr: Uzun Gagalı Çizgili Sığırcık

@@ -12,7 +12,7 @@ names:
   es: Tangara Lorito
   fr: Tangara de Rieffer
   de: Papageitangare
-  pt: grass-green tanager
+  pt: ''
   ru: Попугаевая танагра
   ja: ワカクサフウキンチョウ
   zh: 草绿唐纳雀

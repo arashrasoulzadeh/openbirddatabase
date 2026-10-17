@@ -12,7 +12,7 @@ names:
   es: Pergolero Flamígero
   fr: Jardinier ardent
   de: Flammenlaubenvogel
-  pt: flame bowerbird
+  pt: ''
   ru: Огненный шалашник
   ja: オウゴンフウチョウモドキ
   zh: 火红辉亭鸟

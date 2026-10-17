@@ -12,7 +12,7 @@ names:
   es: Tejedor de Weyns
   fr: Tisserin de Weyns
   de: Weynsweber
-  pt: weyns's weaver
+  pt: ''
   ru: Черногрудый ткач
   ja: ワキアカクロハタオリ
   nl: Weynswever

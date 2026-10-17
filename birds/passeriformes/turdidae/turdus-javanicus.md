@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28531.0
 names:
   scientific: Turdus javanicus
-  fa: nan
+  fa: ''
   en: Sunda Island Thrush
   es: Mirlo de Java
   fr: Merle de Java
   pt: sundaic island-thrush
   ja: スンダランドハイガシラツグミ
-  zh: Sundaic Island Thrush
+  zh: ''
   nl: Soendamerel
   pl: drozd sundajski
   tr: Sunda Ada Ardıcı

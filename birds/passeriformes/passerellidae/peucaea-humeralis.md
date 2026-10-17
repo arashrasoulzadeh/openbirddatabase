@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32922.0
 names:
   scientific: Peucaea humeralis
-  fa: nan
+  fa: ''
   en: Black-chested Sparrow
   es: Chingolo Pechinegro
   fr: Bruant à plastron
   de: Schwarzbrustammer
-  pt: black-chested sparrow
+  pt: ''
   ru: Черногрудая овсянка
   ja: ムナグロスズメモドキ
   nl: Zwartborstgors

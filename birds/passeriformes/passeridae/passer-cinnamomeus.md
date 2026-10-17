@@ -11,7 +11,7 @@ names:
   es: Gorrión Rutilante
   fr: Moineau rutilant
   de: Rötelsperling
-  pt: russet sparrow
+  pt: ''
   ru: Рыжий воробей
   ja: ニュウナイスズメ
   zh: 山麻雀

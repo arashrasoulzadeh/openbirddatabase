@@ -12,7 +12,7 @@ names:
   es: Miná Ribereño
   fr: Martin des berges
   de: Ufermaina
-  pt: bank myna
+  pt: ''
   ru: Береговая майна
   ja: ハイイロハッカ
   zh: 灰背岸八哥

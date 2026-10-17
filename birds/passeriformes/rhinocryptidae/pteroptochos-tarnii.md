@@ -12,7 +12,7 @@ names:
   es: Huet-Huet Gorjinegro
   fr: Tourco huet-huet
   de: Schwarzkehltapaculo
-  pt: black-throated huet-huet
+  pt: ''
   ru: Дроздовый тюрко
   ja: クロアカオタテドリ
   nl: Zwartkeelturco

@@ -15,7 +15,7 @@ names:
   pt: gray silky-flycatcher
   ru: Серый шелкохвост
   ja: ハイイロレンジャクモドキ
-  zh: Grey Silky-flycatcher
+  zh: ''
   nl: Grijze zijdevliegenvanger
   pl: jedwabniczka szara
   tr: Gri İpeklisinekkapan

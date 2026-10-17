@@ -12,7 +12,7 @@ names:
   es: Escribano Piquigrueso
   fr: Plectrophane à ventre gris
   de: Weißkehl-Spornammer
-  pt: thick-billed longspur
+  pt: ''
   ru: Бурогрудый подорожник
   ja: シロハラツメナガホオジロ
   zh: 麦氏铁爪鹀

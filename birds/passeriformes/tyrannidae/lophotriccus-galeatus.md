@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16317.0
 names:
   scientific: Lophotriccus galeatus
-  fa: nan
+  fa: ''
   en: Helmeted Pygmy Tyrant
   es: Cimerillo de Casquete
   fr: Microtyran casqué
@@ -15,7 +15,7 @@ names:
   pt: sebinho-de-penacho
   ru: Шлемоносная чубатка
   ja: ヘルメットハエトリ
-  zh: Helmeted Pygmy Tyrant
+  zh: ''
   nl: Helmdwergtiran
   pl: łuskoczubek hełmiasty
   tr: Savaşçı Taçlı Tiran

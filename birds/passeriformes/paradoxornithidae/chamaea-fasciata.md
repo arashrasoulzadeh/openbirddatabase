@@ -12,7 +12,7 @@ names:
   es: Camea
   fr: Cama brune
   de: Chaparralgrasmücke
-  pt: wrentit
+  pt: ''
   ru: Чапаральница
   ja: ミソサザイモドキ
   zh: 鷦雀

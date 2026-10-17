@@ -15,7 +15,7 @@ names:
   pt: cordillera ground-warbler
   ru: Краснолицый жемчужнокрыл
   ja: シラボシサザイチメドリ
-  zh: Cordillera Ground Warbler
+  zh: ''
   nl: Randsluipzanger
   pl: perłopiórek rdzawouchy
   tr: Kordiyera Yer Ötleğeni

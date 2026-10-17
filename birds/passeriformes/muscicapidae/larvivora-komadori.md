@@ -12,7 +12,7 @@ names:
   es: Ruiseñor de las Ryukyu
   fr: Rossignol komadori
   de: Samtkehlnachtigall
-  pt: ryukyu robin
+  pt: ''
   ru: Рюкюйский соловей
   ja: アカヒゲ
   zh: 琉球歌鸲

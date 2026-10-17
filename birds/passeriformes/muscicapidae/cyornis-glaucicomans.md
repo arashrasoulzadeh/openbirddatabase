@@ -12,7 +12,7 @@ names:
   es: Papamoscas Chino
   fr: Gobemouche du Yunnan
   de: Chinablauschnäpper
-  pt: chinese blue flycatcher
+  pt: ''
   ru: Китайская нильтава
   ja: チュウゴクヒメアオヒタキ
   zh: 中华仙鹟

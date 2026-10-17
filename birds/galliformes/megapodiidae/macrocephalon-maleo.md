@@ -12,7 +12,7 @@ names:
   es: Talégalo Maleo
   fr: Mégapode maléo
   de: Hammerhuhn
-  pt: maleo
+  pt: ''
   ru: Малео
   ja: セレベスツカツクリ
   zh: 蘇拉威西塚雉

@@ -12,7 +12,7 @@ names:
   es: Ratina Jaspeada
   fr: Turdinule marbrée
   de: Marmordrossling
-  pt: marbled wren-babbler
+  pt: ''
   ru: Мраморная подкоренница
   ja: ウロコサザイチメドリ
   zh: 石纹鹪鹛

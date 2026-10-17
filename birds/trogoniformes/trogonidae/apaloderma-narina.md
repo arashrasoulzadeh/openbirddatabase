@@ -12,7 +12,7 @@ names:
   es: Trogón Narina
   fr: Trogon narina
   de: Narinatrogon
-  pt: narina trogon
+  pt: ''
   ru: Изумрудный трогон
   ja: アフリカキヌバネドリ
   nl: Narinatrogon

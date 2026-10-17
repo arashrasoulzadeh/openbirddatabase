@@ -12,7 +12,7 @@ names:
   es: Bulbul Gorjirrojo
   fr: Bulbul de la Sonde
   de: Rubinkehlbülbül
-  pt: ruby-throated bulbul
+  pt: ''
   ru: Краснобородый бюльбюль
   ja: ノドアカヒヨドリ
   zh: 红宝石喉鹎

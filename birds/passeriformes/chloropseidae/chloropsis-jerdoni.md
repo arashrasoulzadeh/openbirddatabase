@@ -12,7 +12,7 @@ names:
   es: Verdín de Jerdon
   fr: Verdin de Jerdon
   de: Jerdonblattvogel
-  pt: jerdon's leafbird
+  pt: ''
   ru: Индийская листовка
   ja: ジャードンコノハドリ
   zh: 南亞葉鵯

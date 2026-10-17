@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14518.0
 names:
   scientific: Chamaeza nobilis
-  fa: nan
+  fa: ''
   en: Striated Antthrush
   es: Tovacá Noble
   fr: Tétéma strié

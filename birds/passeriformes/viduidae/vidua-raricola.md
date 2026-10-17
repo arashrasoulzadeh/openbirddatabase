@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31464.0
 names:
   scientific: Vidua raricola
-  fa: nan
+  fa: ''
   en: Jambandu Indigobird
   es: Viuda Jambandu
   fr: Combassou jambandou
   de: Jambanduwitwe
-  pt: jambandu indigobird
+  pt: ''
   ru: Астрильдовая вдовушка
   ja: サバンナシコンチョウ
   zh: 詹巴杜维达雀

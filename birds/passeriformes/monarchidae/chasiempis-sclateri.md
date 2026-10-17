@@ -12,7 +12,7 @@ names:
   es: Elepaio de Kauai
   fr: Monarque de Kauai
   de: Kauaimonarch
-  pt: kauai elepaio
+  pt: ''
   ru: Кауайский элепайо
   ja: カウアイヒタキ
   nl: Kauai-elepaio

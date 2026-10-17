@@ -15,7 +15,7 @@ names:
   pt: kalahari scrub-robin
   ru: Калахарский тугайный соловей
   ja: アカオヤブコマドリ
-  zh: Kalahari Scrub Robin
+  zh: ''
   nl: Kalahariwaaierstaart
   pl: drozdówka pustynna
   tr: Kalahari Çalı Bülbülü

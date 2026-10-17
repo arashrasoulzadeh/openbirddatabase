@@ -15,7 +15,7 @@ names:
   pt: saracura-de-asa-vermelha
   ru: Краснокрылый саракура
   ja: アカバネモリクイナ
-  zh: Red-winged Wood Rail
+  zh: ''
   nl: Roodvleugelbosral
   pl: chruścielak rdzawoskrzydły
   tr: Kızıl Kanatlı Orman Kılavuzu

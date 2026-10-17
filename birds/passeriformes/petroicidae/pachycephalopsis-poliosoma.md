@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21713.0
 names:
   scientific: Pachycephalopsis poliosoma
-  fa: nan
+  fa: ''
   en: White-eyed Robin
   es: Petroica Ojiblanca
   fr: Miro aux yeux blancs
   de: Weißaugen-Dickichtschnäpper
-  pt: white-eyed robin
+  pt: ''
   ru: Белоглазая дриада
   ja: ノドジロパプアヤブヒタキ
   nl: Witoogstruikvliegenvanger

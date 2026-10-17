@@ -12,7 +12,7 @@ names:
   es: Vanga Picudo
   fr: Vanga écorcheur
   de: Hakenschnabelvanga
-  pt: hook-billed vanga
+  pt: ''
   ru: Крючкоклювая ванга
   ja: カギハシオオハシモズ
   nl: Haaksnavelvanga

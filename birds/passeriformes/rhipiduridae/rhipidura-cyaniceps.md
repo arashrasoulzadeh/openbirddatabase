@@ -12,7 +12,7 @@ names:
   es: Abanico Cabeciazul de Luzón
   fr: Rhipidure à tête bleue
   de: Graukopf-Fächerschwanz
-  pt: blue-headed fantail
+  pt: ''
   ru: Синеголовая веерохвостка
   ja: ズアオオウギビタキ
   nl: Blauwkopwaaierstaart

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27117.0
 names:
   scientific: Polioptila bilineata
-  fa: nan
+  fa: ''
   en: White-browed Gnatcatcher
   es: Perlita Cejiancha
   fr: Gobemoucheron à sourcils blancs
   de: Weißbrauen-Mückenfänger
-  pt: white-browed gnatcatcher
+  pt: ''
   nl: Witbrauwmuggenvanger
   pl: siwuszka białobrewa
   tr: Ak Kaşlı Tropikal Bitkuşu

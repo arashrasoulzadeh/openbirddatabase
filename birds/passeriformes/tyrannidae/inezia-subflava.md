@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16838.0
 names:
   scientific: Inezia subflava
-  fa: nan
+  fa: ''
   en: Amazonian Inezia
   es: Piojito Pantanero
   fr: Tyranneau givré
@@ -15,7 +15,7 @@ names:
   pt: amarelinho
   ru: Буроголовая инезия
   ja: キバラマメタイランチョウ
-  zh: Amazonian Inezia
+  zh: ''
   nl: Bruinkopinezia
   pl: pręgówek płowy
   tr: Amazon İnezyası

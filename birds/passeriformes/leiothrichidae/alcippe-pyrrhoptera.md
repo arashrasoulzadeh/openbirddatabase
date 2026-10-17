@@ -12,7 +12,7 @@ names:
   es: Fulveta de Java
   fr: Alcippe de Java
   de: Rotrücken-Zweigdrossling
-  pt: javan fulvetta
+  pt: ''
   ru: Яванская альциппа
   ja: ジャワチメドリ
   zh: 爪哇雀鹛

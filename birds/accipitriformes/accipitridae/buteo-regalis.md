@@ -12,7 +12,7 @@ names:
   es: Busardo Herrumbroso
   fr: Buse rouilleuse
   de: Königsbussard
-  pt: ferruginous hawk
+  pt: ''
   ru: Королевский канюк
   ja: アカケアシノスリ
   zh: 王鵟

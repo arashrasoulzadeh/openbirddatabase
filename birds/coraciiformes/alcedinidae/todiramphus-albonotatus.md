@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10128.0
 names:
   scientific: Todiramphus albonotatus
-  fa: nan
+  fa: ''
   en: White-mantled Kingfisher
   es: Alción Dorsiblanco
   fr: Martin-chasseur à dos blanc
@@ -15,7 +15,7 @@ names:
   pt: new britain kingfisher
   ru: Белоспинная альциона
   ja: セジロショウビン
-  zh: White-mantled Kingfisher
+  zh: ''
   nl: Witrugijsvogel
   pl: łowczyk białogrzbiety
   tr: New Britain Yalıçapkını

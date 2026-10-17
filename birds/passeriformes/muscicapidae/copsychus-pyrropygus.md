@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29007.0
 names:
   scientific: Copsychus pyrropygus
-  fa: nan
+  fa: ''
   en: Rufous-tailed Shama
   es: Shama Colirrufo
   fr: Shama à queue rousse
   de: Feuerschwanzschama
-  pt: rufous-tailed shama
+  pt: ''
   ru: Краснохвостый шама
   ja: コシアカシキチョウ
   nl: Vuurstaartshama

@@ -12,7 +12,7 @@ names:
   es: Pito Terrestre
   fr: Pic laboureur
   de: Erdspecht
-  pt: ground woodpecker
+  pt: ''
   ru: Земляной дятел
   ja: イワキツツキ
   nl: Kaapse grondspecht

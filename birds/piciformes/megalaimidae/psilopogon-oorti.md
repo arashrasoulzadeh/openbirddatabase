@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10780.0
 names:
   scientific: Psilopogon oorti
-  fa: nan
+  fa: ''
   en: Black-browed Barbet
   es: Barbudo Cejinegro
   fr: Barbu malais
   de: Schwarzbrauen-Bartvogel
-  pt: black-browed barbet
+  pt: ''
   ru: Чернобровый бородастик
   ja: ゴシキドリ
   nl: Zwartbrauwbaardvogel

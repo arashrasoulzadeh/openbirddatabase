@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27707.0
 names:
   scientific: Aplonis feadensis
-  fa: nan
+  fa: ''
   en: Atoll Starling
   es: Estornino de Los Atolones
   fr: Stourne des Fead
   de: Atollstar
-  pt: atoll starling
+  pt: ''
   ru: Атолловый скворец
   ja: ソロモンカラスモドキ
   nl: Atolpurperspreeuw

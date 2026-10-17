@@ -12,7 +12,7 @@ names:
   es: Cormorán de Isla Stewart
   fr: Cormoran bronzé
   de: Stewartscharbe
-  pt: stewart island shag
+  pt: ''
   ru: Стюартский баклан
   ja: スチュワートウ
   nl: Stewartaalscholver

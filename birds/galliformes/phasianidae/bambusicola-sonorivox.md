@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1617.0
 names:
   scientific: Bambusicola sonorivox
-  fa: nan
+  fa: ''
   en: Taiwan Bamboo Partridge
   es: Bambusícola de Formosa
   fr: Bambusicole de Taïwan

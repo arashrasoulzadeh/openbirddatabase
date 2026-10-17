@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25617.0
 names:
   scientific: Zosterops mbuluensis
-  fa: nan
+  fa: ''
   en: Mbulu White-eye
   es: Anteojitos Serrano de Mbulu
   fr: Zostérops du Mbulu
   de: Mbulubrillenvogel
-  pt: mbulu white-eye
+  pt: ''
   ru: Нгоронгорская белоглазка
   ja: ムブルメジロ
   zh: 坦尚尼亞繡眼

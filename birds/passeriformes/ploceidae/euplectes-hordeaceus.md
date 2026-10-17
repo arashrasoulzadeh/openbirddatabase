@@ -15,7 +15,7 @@ names:
   pt: bispo-vermelho-d'asa-negra
   ru: Чернокрылый ткачик
   ja: ベニビタイキンランチョウ
-  zh: Black-winged Red Bishop
+  zh: ''
   nl: Roodvoorhoofdwever
   pl: wikłacz czarnoskrzydły
   tr: Kara Kanatlı Piskopos

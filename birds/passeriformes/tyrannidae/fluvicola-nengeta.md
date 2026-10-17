@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17162.0
 names:
   scientific: Fluvicola nengeta
-  fa: nan
+  fa: ''
   en: Masked Water Tyrant
   es: Viudita Enmascarada
   fr: Moucherolle aquatique
@@ -15,7 +15,7 @@ names:
   pt: lavadeira-mascarada
   ru: Масковый мухолов
   ja: マダラタイランチョウ
-  zh: Masked Water Tyrant
+  zh: ''
   nl: Maskerwatertiran
   pl: wodopławik białorzytkowy
   tr: Maskeli Irmak Tiranı

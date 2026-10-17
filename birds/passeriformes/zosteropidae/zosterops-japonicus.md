@@ -12,7 +12,7 @@ names:
   es: Anteojitos Japonés
   fr: Zostérops du Japon
   de: Japanbrillenvogel
-  pt: warbling white-eye
+  pt: ''
   ru: Японская белоглазка
   ja: メジロ
   zh: 日本绣眼鸟

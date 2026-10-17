@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32133.0
 names:
   scientific: Akialoa lanaiensis
-  fa: nan
+  fa: ''
   en: Maui-nui Akialoa
   es: Akialoa de Lanai
   fr: Akialoa de Lanai
   de: Lanai-Akialoakleidervogel
-  pt: maui-nui akialoa
+  pt: ''
   ru: Ланайская акиалоа
   ja: マウイヌイユミハシハワイミツスイ
   nl: Lanai-akialoa

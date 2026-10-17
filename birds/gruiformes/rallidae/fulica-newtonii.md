@@ -12,7 +12,7 @@ names:
   es: Focha Mascareña
   fr: Foulque des Mascareignes
   de: Mauritiusblässhuhn
-  pt: mascarene coot
+  pt: ''
   ru: Маврикийская лысуха
   ja: マスカリンオオバン
   zh: 馬斯卡林瓣蹼鷸

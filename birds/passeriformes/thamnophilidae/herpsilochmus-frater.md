@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13812.0
 names:
   scientific: Herpsilochmus frater
-  fa: nan
+  fa: ''
   en: Rusty-winged Antwren
   es: Tiluchí Alirrufo Norteño
   fr: Grisin de Sclater

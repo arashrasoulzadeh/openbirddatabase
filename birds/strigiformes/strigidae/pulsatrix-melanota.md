@@ -12,7 +12,7 @@ names:
   es: Lechuzón Acollarado Grande
   fr: Chouette à collier
   de: Bindenkauz
-  pt: band-bellied owl
+  pt: ''
   ru: Перуанская неясыть
   ja: アカオビメガネフクロウ
   nl: Gestreepte maskeruil

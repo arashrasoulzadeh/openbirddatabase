@@ -12,7 +12,7 @@ names:
   es: Carbonero Dorsicastaño
   fr: Mésange à dos marron
   de: Rotrückenmeise
-  pt: chestnut-backed chickadee
+  pt: ''
   ru: Каштановоспинная гаичка
   ja: クロイロコガラ
   nl: Kastanjerugmees

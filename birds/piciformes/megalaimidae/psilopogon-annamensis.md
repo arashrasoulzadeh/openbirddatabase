@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10779.0
 names:
   scientific: Psilopogon annamensis
-  fa: nan
+  fa: ''
   en: Indochinese Barbet
   es: Barbudo de Annam
   fr: Barbu d'Annam
   de: Annambartvogel
-  pt: indochinese barbet
+  pt: ''
   ru: Вьетнамский бородастик
   ja: インドシナゴシキドリ
   zh: 中南拟啄木鸟

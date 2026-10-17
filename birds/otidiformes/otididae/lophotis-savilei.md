@@ -12,7 +12,7 @@ names:
   es: Sisón Moñudo del Sahel
   fr: Outarde de Savile
   de: Saheltrappe
-  pt: savile's bustard
+  pt: ''
   ru: Малый корхан
   ja: ニシカンムリショウノガン
   zh: 薩氏冠鴇

@@ -12,7 +12,7 @@ names:
   es: Vencejo Parduzco
   fr: Martinet de Rothschild
   de: Rothschildsegler
-  pt: rothschild's swift
+  pt: ''
   ru: Ротшильдов стриж
   ja: オオアマツバメ
   nl: Bruine gierzwaluw

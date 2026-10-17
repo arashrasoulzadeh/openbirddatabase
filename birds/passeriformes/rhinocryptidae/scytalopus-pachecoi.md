@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14398.0
 names:
   scientific: Scytalopus pachecoi
-  fa: nan
+  fa: ''
   en: Planalto Tapaculo
   es: Churrín de Pacheco
   fr: Mérulaxe de Pacheco

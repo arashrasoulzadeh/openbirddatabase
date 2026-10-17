@@ -15,7 +15,7 @@ names:
   pt: greater black coucal
   ru: Светлоклювый кукаль
   ja: パプアバンケン
-  zh: Ivory-billed Coucal
+  zh: ''
   nl: Groene spoorkoekoek
   pl: kukal wielki
   tr: Büyük Kara Kukal

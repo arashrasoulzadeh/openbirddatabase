@@ -12,7 +12,7 @@ names:
   es: Trogón Grande
   fr: Trogon de Masséna
   de: Schieferschwanztrogon
-  pt: slaty-tailed trogon
+  pt: ''
   ru: Аспиднохвостый трогон
   ja: オグロキヌバネドリ
   zh: 灰尾美洲咬鹃

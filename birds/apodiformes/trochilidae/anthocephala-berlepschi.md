@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4946.0
 names:
   scientific: Anthocephala berlepschi
-  fa: nan
+  fa: ''
   en: Tolima Blossomcrown
   es: Colibrí Florido de Tolima
   fr: Colibri du Tolima
   de: Weißfleckenkolibri
-  pt: tolima blossomcrown
+  pt: ''
   ru: Андский цветноголов
   ja: トリマハチドリ
   zh: 托利马花顶蜂鸟

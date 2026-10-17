@@ -12,7 +12,7 @@ names:
   es: Estrilda de Bocage
   fr: Astrild de Bocage
   de: Angolagrünastrild
-  pt: angola waxbill
+  pt: ''
   ru: Ангольский астрильд
   ja: アンゴラカエデチョウ
   nl: Angolese astrild

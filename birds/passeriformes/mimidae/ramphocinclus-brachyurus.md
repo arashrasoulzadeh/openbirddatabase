@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Pechiblanco
   fr: Moqueur gorge-blanche
   de: Weißbrustspottdrossel
-  pt: martinique thrasher
+  pt: ''
   ru: Белогрудый пищуховый пересмешник
   ja: ムナジロツグミモドキ
   zh: 白胸旋木鶇

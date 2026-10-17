@@ -12,7 +12,7 @@ names:
   es: Semillero Azulillo
   fr: Pique-orange de Jamaïque
   de: Braunlatz-Gimpeltangare
-  pt: orangequit
+  pt: ''
   ru: Сахарный семилеро
   ja: ノドアカミツドリ
   nl: Jamaicaanse suikervogel

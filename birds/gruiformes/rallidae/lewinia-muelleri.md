@@ -15,7 +15,7 @@ names:
   pt: auckland islands rail
   ru: Оклендский пастушок
   ja: オークランドクイナ
-  zh: Auckland Rail
+  zh: ''
   nl: Müllerral
   pl: wodnik maoryski
   tr: Aukland Sukılavuzu

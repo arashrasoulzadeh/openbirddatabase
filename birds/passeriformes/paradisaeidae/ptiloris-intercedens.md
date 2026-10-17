@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Gruñidora
   fr: Paradisier grondeur
   de: Adelbertparadiesvogel
-  pt: growling riflebird
+  pt: ''
   ru: Папуанский веерокрыл
   ja: ウナリウロコフウチョウ
   nl: Oostelijke geweervogel

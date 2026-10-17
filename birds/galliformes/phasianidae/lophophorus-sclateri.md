@@ -12,7 +12,7 @@ names:
   es: Monal Coliblanco
   fr: Lophophore de Sclater
   de: Weißschwanz-Glanzfasan
-  pt: sclater's monal
+  pt: ''
   ru: Белохвостый монал
   ja: オジロニジキジ
   zh: 白尾梢虹雉

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14243.0
 names:
   scientific: Grallaria bangsi
-  fa: nan
+  fa: ''
   en: Santa Marta Antpitta
   es: Tororoí de Santa Marta
   fr: Grallaire de Santa Marta
   de: Ockerkehl-Ameisenpitta
-  pt: santa marta antpitta
+  pt: ''
   ru: Сантамартийская питтовая муравьеловка
   ja: サンタマルタジアリドリ
   nl: Santa-Martamierpitta

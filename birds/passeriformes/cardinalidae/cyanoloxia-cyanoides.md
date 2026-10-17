@@ -12,7 +12,7 @@ names:
   es: Picogrueso Negriazul
   fr: Évêque bleu-noir
   de: Stahlkardinal
-  pt: blue-black grosbeak
+  pt: ''
   ru: Синяя гуирака
   ja: クロルリノジコ
   nl: Blauwrugbisschop

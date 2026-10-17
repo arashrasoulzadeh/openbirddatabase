@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34225.0
 names:
   scientific: Basileuterus rufifrons
-  fa: nan
+  fa: ''
   en: Rufous-capped Warbler
   es: Reinita Coronirrufa
   fr: Paruline à calotte rousse
   de: Rotkappen-Waldsänger
-  pt: rufous-capped warbler
+  pt: ''
   ru: Рыжеголовая корольковка
   ja: アカボウシアメリカムシクイ
   nl: Roodkruinzanger

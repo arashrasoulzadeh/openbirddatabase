@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11287.0
 names:
   scientific: Dendropicos elachus
-  fa: nan
+  fa: ''
   en: Little Grey Woodpecker
   es: Pito Saheliano
   fr: Pic gris
@@ -15,7 +15,7 @@ names:
   pt: little gray woodpecker
   ru: Серощёкий дятел
   ja: ニシアフリカコゲラ
-  zh: Little Grey Woodpecker
+  zh: ''
   nl: Kleine grijze specht
   pl: dzięcioł szary
   tr: Sahel Ağaçkakanı

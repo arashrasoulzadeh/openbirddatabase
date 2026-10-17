@@ -12,7 +12,7 @@ names:
   es: Alondra de Beesley
   fr: Alouette de Beesley
   de: Beesleylerche
-  pt: beesley's lark
+  pt: ''
   ru: Танзанийский жаворонок
   nl: Beesleyleeuwerik
   pl: skowron mały

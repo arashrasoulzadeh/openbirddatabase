@@ -12,7 +12,7 @@ names:
   es: Trogón Filipino
   fr: Trogon des Philippines
   de: Philippinentrogon
-  pt: philippine trogon
+  pt: ''
   ru: Филиппинский трогон
   ja: バラムネキヌバネドリ
   zh: 菲律宾咬鵑科

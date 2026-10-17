@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5081.0
 names:
   scientific: Saucerottia cyanifrons
-  fa: nan
+  fa: ''
   en: Indigo-capped Hummingbird
   es: Amazilia Capiazul
   fr: Ariane à front bleu
   de: Blaukappenamazilie
-  pt: indigo-capped hummingbird
+  pt: ''
   ru: Синешапочная амазилия
   ja: ルリボウシエメラルドハチドリ
   nl: Blauwkopamazilia

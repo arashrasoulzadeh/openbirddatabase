@@ -12,7 +12,7 @@ names:
   es: Monarca Coliblanco
   fr: Monarque des Kai
   de: Weißschwanzmonarch
-  pt: kai monarch
+  pt: ''
   ru: Кайский монарх
   ja: ケイカササギビタキ
   nl: Kaimonarch

@@ -12,7 +12,7 @@ names:
   es: saltarín piquigrueso
   fr: Sapayoa à bec large
   de: Tyrannenbreitrachen
-  pt: sapayoa
+  pt: ''
   ru: Сапайя
   ja: ヒロハシマイコドリ
   zh: 阔嘴霸鹟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30667.0
 names:
   scientific: Chloropsis moluccensis
-  fa: nan
+  fa: ''
   en: Blue-winged Leafbird
   es: Verdín Aliazul
   fr: Verdin à ailes bleues
   de: Blauflügel-Blattvogel
-  pt: blue-winged leafbird
+  pt: ''
   ru: Голубокрылая листовка
   ja: アオバネコノハドリ
   zh: 蓝翅叶鹎

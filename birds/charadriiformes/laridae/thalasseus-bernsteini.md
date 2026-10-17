@@ -12,7 +12,7 @@ names:
   es: Charrán Chino
   fr: Sterne d'Orient
   de: Bernsteinseeschwalbe
-  pt: chinese crested tern
+  pt: ''
   ru: Китайская крачка
   ja: ヒガシシナアジサシ
   nl: Chinese kuifstern

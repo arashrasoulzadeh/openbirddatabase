@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10551.0
 names:
   scientific: Cryptolybia olivacea
-  fa: nan
+  fa: ''
   en: Green Barbet
   es: Barbudo Oliváceo
   fr: Barbican olivâtre
   de: Olivbartvogel
-  pt: green barbet
+  pt: ''
   ru: Оливковая либия
   ja: ミドリゴシキドリ
   nl: Olijfkleurige ketellapper

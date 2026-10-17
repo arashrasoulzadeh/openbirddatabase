@@ -12,7 +12,7 @@ names:
   es: Alcaudón Somalí
   fr: Pie-grièche de Somalie
   de: Somaliwürger
-  pt: somali fiscal
+  pt: ''
   ru: Сомалийский фискал
   ja: オジロオナガモズ
   zh: 索马里伯劳

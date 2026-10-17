@@ -15,7 +15,7 @@ names:
   pt: grifo-pedrês
   ru: Пёстрый сип
   ja: マダラハゲワシ
-  zh: Rüppell's Vulture
+  zh: ''
   nl: Rüppells gier
   pl: sęp plamisty
   tr: Benekli Akbaba

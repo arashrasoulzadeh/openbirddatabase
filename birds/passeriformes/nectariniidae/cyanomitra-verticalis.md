@@ -12,7 +12,7 @@ names:
   es: Suimanga Cabeciverde
   fr: Souimanga à tête verte
   de: Grünkopf-Nektarvogel
-  pt: green-headed sunbird
+  pt: ''
   ru: Зелоноголовая нектарница
   ja: アオガシラタイヨウチョウ
   nl: Groenkophoningzuiger

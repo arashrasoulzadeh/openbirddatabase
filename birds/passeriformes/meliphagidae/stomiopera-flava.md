@@ -12,7 +12,7 @@ names:
   es: Mielero Amarillo
   fr: Méliphage jaune
   de: Zitronenhonigfresser
-  pt: yellow honeyeater
+  pt: ''
   ru: Жёлтый медосос
   ja: キイロミツスイ
   nl: Citroenhoningeter

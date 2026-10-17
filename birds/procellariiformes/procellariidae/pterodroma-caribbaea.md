@@ -12,7 +12,7 @@ names:
   es: Petrel Jamaicano
   fr: Pétrel de Jamaïque
   de: Jamaikasturmvogel
-  pt: jamaican petrel
+  pt: ''
   ru: Ямайский тайфунник
   ja: ジャマイカミズナギドリ
   zh: 牙買加圓尾鸌

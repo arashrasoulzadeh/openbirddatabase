@@ -12,7 +12,7 @@ names:
   es: Tangara Dominicana
   fr: Konichon dominicain
   de: Dominikanerschmätzertangare
-  pt: eastern chat-tanager
+  pt: ''
   ru: Восточный корнихон
   ja: ジフウキンチョウ
   nl: Oostelijke tapuittangare

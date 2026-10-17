@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33222.0
 names:
   scientific: Ammospiza maritima
-  fa: nan
+  fa: ''
   en: Seaside Sparrow
   es: Chingolo Costero
   fr: Bruant maritime
   de: Strandammer
-  pt: seaside sparrow
+  pt: ''
   ru: Приморская овсянка-барсучок
   ja: ハマヒメドリ
   nl: Kweldergors

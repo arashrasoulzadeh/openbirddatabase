@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15536.0
 names:
   scientific: Pseudasthenes humicola
-  fa: nan
+  fa: ''
   en: Dusky-tailed Canastero
   es: Canastero Colinegro
   fr: Synallaxe à queue noire
   de: Rostschultercanastero
-  pt: dusky-tailed canastero
+  pt: ''
   ru: Темнохвостая болария
   ja: オグロカマドドリ
   nl: Donkerstaartcanastero

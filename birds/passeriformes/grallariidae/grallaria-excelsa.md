@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14198.0
 names:
   scientific: Grallaria excelsa
-  fa: nan
+  fa: ''
   en: Great Antpitta
   es: Tororoí Excelso
   fr: Grande Grallaire
   de: Fahlbauch-Ameisenpitta
-  pt: great antpitta
+  pt: ''
   ru: Большая питтовая муравьеловка
   ja: オオジアリドリ
   nl: Grote mierpitta

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25669.0
 names:
   scientific: Zosterops socotranus
-  fa: nan
+  fa: ''
   en: Socotra White-eye
   es: Anteojitos de Socotra
   fr: Zostérops de Socotra
   de: Sokotrabrillenvogel
-  pt: socotra white-eye
+  pt: ''
   ru: Сокотранская белоглазка
   ja: ソコトラメジロ
   zh: 索島繡眼

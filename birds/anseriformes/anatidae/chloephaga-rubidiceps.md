@@ -12,7 +12,7 @@ names:
   es: Cauquén Colorado
   fr: Ouette à tête rousse
   de: Rotkopfgans
-  pt: ruddy-headed goose
+  pt: ''
   ru: Рыжеголовый гусь
   ja: チャガシラコバシガン
   zh: 棕头草雁

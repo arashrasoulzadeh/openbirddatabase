@@ -12,7 +12,7 @@ names:
   es: Avefría Lugubroide
   fr: Vanneau à ailes noires
   de: Schwarzflügelkiebitz
-  pt: black-winged lapwing
+  pt: ''
   ru: Чернокрылый чибис
   ja: ハグロゲリ
   zh: 黑翅麦鸡

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14262.0
 names:
   scientific: Grallaria przewalskii
-  fa: nan
+  fa: ''
   en: Rusty-tinged Antpitta
   es: Tororoí Rojizo
   fr: Grallaire de Przewalski
   de: Taczanowskiameisenpitta
-  pt: rusty-tinged antpitta
+  pt: ''
   ru: Питтовая муравьеловка Пржевальского
   ja: サビイロクリセジアリドリ
   nl: Przewalskimierpitta

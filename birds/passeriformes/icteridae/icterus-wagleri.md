@@ -12,7 +12,7 @@ names:
   es: Turpial Culinegro
   fr: Oriole cul-noir
   de: Berglandtrupial
-  pt: black-vented oriole
+  pt: ''
   ru: Черноспинный трупиал
   ja: クロハラムクドリモドキ
   nl: Waglertroepiaal

@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 7609.0
 names:
   scientific: Nycticorax megacephalus
-  fa: nan
+  fa: ''
   en: Rodrigues Night Heron
   es: Martinete de Isla Rodrigues
   fr: Bihoreau de Rodrigues
   de: Rodrigues-Nachtreiher
-  pt: rodrigues night heron
+  pt: ''
   ru: Родригесская кваква
   ja: ロドリゲスゴイサギ
   zh: 羅德里格斯夜鷺

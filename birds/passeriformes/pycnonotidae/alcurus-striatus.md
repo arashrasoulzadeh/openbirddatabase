@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24489.0
 names:
   scientific: Alcurus striatus
-  fa: nan
+  fa: ''
   en: Striated Bulbul
   es: Bulbul Estriado
   fr: Bulbul strié
   de: Streifenbülbül
-  pt: striated bulbul
+  pt: ''
   ru: Пёстрый бюльбюль
   ja: タテフヒヨドリ
   zh: 纵纹绿鹎

@@ -12,7 +12,7 @@ names:
   es: Mielero Cabecirrayado
   fr: Méliphage à tête rayée
   de: Strichelkopf-Honigfresser
-  pt: streak-headed honeyeater
+  pt: ''
   ru: Пестроголовая саговница
   ja: スジボウシミツスイ
   nl: Streepkophoningeter

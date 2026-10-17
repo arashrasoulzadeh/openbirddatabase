@@ -12,7 +12,7 @@ names:
   es: Torillo Batallador
   fr: Turnix combattant
   de: Bindenlaufhühnchen
-  pt: barred buttonquail
+  pt: ''
   ru: Полосатая трёхперстка
   ja: ミフウズラ
   zh: 棕三趾鹑

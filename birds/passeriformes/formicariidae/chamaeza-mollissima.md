@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14528.0
 names:
   scientific: Chamaeza mollissima
-  fa: nan
+  fa: ''
   en: Barred Antthrush
   es: Tovacá Barrado
   fr: Tétéma barré
   de: Bindenbrust-Ameisendrossel
-  pt: barred antthrush
+  pt: ''
   ru: Полосатая муравейница
   ja: アンデスアリツグミ
   nl: Gebandeerde mierlijster

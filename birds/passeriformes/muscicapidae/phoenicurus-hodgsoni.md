@@ -12,7 +12,7 @@ names:
   es: Colirrojo de Hodgson
   fr: Rougequeue de Hodgson
   de: Tibetrotschwanz
-  pt: hodgson's redstart
+  pt: ''
   ru: Полевая горихвостка
   ja: ハイバネジョウビタキ
   zh: 黑喉红尾鸲

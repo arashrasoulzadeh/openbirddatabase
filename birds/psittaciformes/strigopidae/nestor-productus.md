@@ -15,7 +15,7 @@ names:
   pt: norfolk island kaka
   ru: Тонкоклювый нестор
   ja: キムネカカ
-  zh: Norfolk Kaka
+  zh: ''
   nl: Norfolkkaka
   pl: nestor skalny
   tr: Norfolk Adası Keası

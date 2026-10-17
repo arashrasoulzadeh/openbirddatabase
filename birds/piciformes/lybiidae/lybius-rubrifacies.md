@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10664.0
 names:
   scientific: Lybius rubrifacies
-  fa: nan
+  fa: ''
   en: Red-faced Barbet
   es: Barbudo Carirrojo
   fr: Barbican à face rouge
   de: Rotgesicht-Bartvogel
-  pt: red-faced barbet
+  pt: ''
   ru: Краснолицая либия
   ja: アカガオゴシキドリ
   nl: Roodwangbaardvogel

@@ -12,7 +12,7 @@ names:
   es: Pava Aliblanca
   fr: Pénélope à ailes blanches
   de: Weißschwingenguan
-  pt: white-winged guan
+  pt: ''
   ru: Белокрылая пенелопа
   ja: ハジロシャクケイ
   zh: 白翅冠雉

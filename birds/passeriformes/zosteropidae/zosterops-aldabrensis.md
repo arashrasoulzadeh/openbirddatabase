@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25723.0
 names:
   scientific: Zosterops aldabrensis
-  fa: nan
+  fa: ''
   en: Aldabra White-eye
   es: Anteojitos de Isla Aldabra
   fr: Zostérops d'Aldabra
   de: Aldabrabrillenvogel
-  pt: aldabra white-eye
+  pt: ''
   ru: Альдабранская белоглазка
   ja: アルダブラメジロ
   nl: Aldabrabrilvogel

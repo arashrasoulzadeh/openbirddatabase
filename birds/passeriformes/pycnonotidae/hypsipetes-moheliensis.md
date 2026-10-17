@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 24609.0
 names:
   scientific: Hypsipetes moheliensis
-  fa: nan
+  fa: ''
   en: Moheli Bulbul
   es: Bulbul de Moheli
   fr: Bulbul de Mohéli
   de: Mohéli-Rotschnabelbülbül
-  pt: moheli bulbul
+  pt: ''
   ru: Мохельский бюльбюль
   ja: モヘリヒヨドリ
   nl: Mohélibuulbuul

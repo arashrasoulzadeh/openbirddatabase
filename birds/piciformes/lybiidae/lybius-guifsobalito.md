@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10665.0
 names:
   scientific: Lybius guifsobalito
-  fa: nan
+  fa: ''
   en: Black-billed Barbet
   es: Barbudo Piquinegro
   fr: Barbican guifsobalito
   de: Purpurmasken-Bartvogel
-  pt: black-billed barbet
+  pt: ''
   ru: Черноклювая либия
   ja: ハシグロゴシキドリ
   nl: Rood-zwarte baardvogel

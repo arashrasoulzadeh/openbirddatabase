@@ -12,7 +12,7 @@ names:
   es: Bulbul Carinegro
   fr: Bulbul à tête noire
   de: Kappenbülbül
-  pt: black-capped bulbul
+  pt: ''
   ru: Ланкийский бюльбюль
   ja: エボシヒヨドリ
   zh: 黑冠黃鵯

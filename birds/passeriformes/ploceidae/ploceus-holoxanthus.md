@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 30814.0
 names:
   scientific: Ploceus holoxanthus
-  fa: nan
+  fa: ''
   en: Ruvu Weaver
   es: Tejedor del Ruvu
   fr: Tisserin du Ruvu
   de: Ruvuweber
-  pt: ruvu weaver
+  pt: ''
   nl: Ruvuwever
   pl: wikłacz żółtawy
   tr: Ruvu Dokumacısı

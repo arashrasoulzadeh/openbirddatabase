@@ -12,7 +12,7 @@ names:
   es: Picoplano Pechirrufo
   fr: Tyranneau à poitrine fauve
   de: Ockerbrust-Breitschnabeltyrann
-  pt: fulvous-breasted flatbill
+  pt: ''
   ru: Рыжекрылый мухоед
   ja: キバラマルハシタイランチョウ
   nl: Bruine breedbektiran

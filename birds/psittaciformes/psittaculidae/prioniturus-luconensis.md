@@ -15,7 +15,7 @@ names:
   pt: green racquet-tail
   ru: Лузонский ракетохвост
   ja: ミドリウチワインコ
-  zh: Green Racket-tail
+  zh: ''
   nl: Groene vlagstaartpapegaai
   pl: listkogonka zielona
   tr: Luzon Raket Kuyruklu Papağanı

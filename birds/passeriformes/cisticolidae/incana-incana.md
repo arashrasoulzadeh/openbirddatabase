@@ -12,7 +12,7 @@ names:
   es: Prinia de Socotra
   fr: Cisticole pâle
   de: Hartlaubzistensänger
-  pt: socotra warbler
+  pt: ''
   ru: Сокотранская приния
   ja: ソコトラムシクイ
   nl: Socotrazanger

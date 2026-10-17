@@ -15,7 +15,7 @@ names:
   pt: dohrn's thrush-babbler
   ru: Принсипская славка-монашка
   ja: ヒタキチメドリ
-  zh: Dohrn's Warbler
+  zh: ''
   nl: Principezanger
   pl: żabotnik
   tr: Prinsipe Ötleğeni

@@ -12,7 +12,7 @@ names:
   es: Picaflores Encendido
   fr: Dicée porte-flamme
   de: Rotkehl-Mistelfresser
-  pt: black-fronted flowerpecker
+  pt: ''
   ru: Флоресский цветоед
   ja: スジグロハナドリ
   zh: 黑額啄花

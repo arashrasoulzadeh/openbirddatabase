@@ -12,7 +12,7 @@ names:
   es: Rascón de Wetmore
   fr: Râle de Wetmore
   de: Wetmoreralle
-  pt: plain-flanked rail
+  pt: ''
   ru: Венесуэльский пастушок
   ja: ムジオニクイナ
   zh: 淡脅秧雞

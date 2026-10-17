@@ -12,7 +12,7 @@ names:
   es: Viuda de Wilson
   fr: Combassou de Wilson
   de: Wilsonwitwe
-  pt: wilson's indigobird
+  pt: ''
   ru: Вильсонова вдовушка
   ja: ニシクロシコンチョウ
   zh: 淡翅维达雀

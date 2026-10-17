@@ -12,7 +12,7 @@ names:
   es: Focha Hawaiana
   fr: Foulque des Hawaï
   de: Hawaiiblässhuhn
-  pt: hawaiian coot
+  pt: ''
   ru: Гавайская лысуха
   ja: ハワイオオバン
   zh: 夏威夷骨顶

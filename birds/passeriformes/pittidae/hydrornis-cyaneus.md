@@ -12,7 +12,7 @@ names:
   es: Pita Azul
   fr: Brève bleue
   de: Blaupitta
-  pt: blue pitta
+  pt: ''
   ru: Голубая питта
   ja: ルリヤイロチョウ
   zh: 蓝八色鸫

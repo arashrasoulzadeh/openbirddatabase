@@ -12,7 +12,7 @@ names:
   es: Batarito Estriado
   fr: Batara strié
   de: Streifenkopf-Ameisenvogel
-  pt: streak-crowned antvireo
+  pt: ''
   ru: Пестроголовый батарито
   ja: シマアリモズモドキ
   zh: 纹冠蚁鵙

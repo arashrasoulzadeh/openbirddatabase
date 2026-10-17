@@ -12,7 +12,7 @@ names:
   es: Jacamará Acollarado
   fr: Jacamar à tête pâle
   de: Fahlnacken-Glanzvogel
-  pt: pale-headed jacamar
+  pt: ''
   ru: Светлоголовая якамара
   ja: シロガシラキリハシ
   nl: Grijskopglansvogel

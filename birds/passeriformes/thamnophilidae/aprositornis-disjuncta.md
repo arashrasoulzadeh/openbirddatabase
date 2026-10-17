@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14061.0
 names:
   scientific: Aprositornis disjuncta
-  fa: nan
+  fa: ''
   en: Yapacana Antbird
   es: Hormiguero del Yapacana
   fr: Alapi du Yapacana

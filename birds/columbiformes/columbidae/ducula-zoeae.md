@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2824.0
 names:
   scientific: Ducula zoeae
-  fa: nan
+  fa: ''
   en: Zoe's Imperial Pigeon
   es: Dúcula de Zoé
   fr: Carpophage de Zoé
@@ -15,7 +15,7 @@ names:
   pt: zoe's imperial-pigeon
   ru: Ожереловый плодовый голубь
   ja: バラムネミカドバト
-  zh: Zoe's Imperial Pigeon
+  zh: ''
   nl: Halsbandmuskaatduif
   pl: muszkatela różowoszyja
   tr: Zoe Has Güvercini

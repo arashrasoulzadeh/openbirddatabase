@@ -15,7 +15,7 @@ names:
   pt: emerald-spotted wood-dove
   ru: Зеленокрылая лесная горлица
   ja: ミドリマダラバト
-  zh: Emerald-spotted Wood Dove
+  zh: ''
   nl: Smaragdvlekduif
   pl: turkaweczka zielonoplamkowa
   tr: Yeşil Aynalı Kumru

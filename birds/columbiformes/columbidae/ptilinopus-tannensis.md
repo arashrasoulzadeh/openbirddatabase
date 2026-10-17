@@ -15,7 +15,7 @@ names:
   pt: tanna fruit-dove
   ru: Вануатский фруктовый голубь
   ja: ギンカタヒメアオバト
-  zh: Tanna Fruit Dove
+  zh: ''
   nl: Vanuatujufferduif
   pl: owocożer plamoskrzydły
   tr: Tanna Meyve Kumrusu

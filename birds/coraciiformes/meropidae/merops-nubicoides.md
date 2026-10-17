@@ -12,7 +12,7 @@ names:
   es: Abejaruco Carmesí Sureño
   fr: Guêpier carmin
   de: Karminspint
-  pt: southern carmine bee-eater
+  pt: ''
   ru: Карминная щурка
   ja: ミナミベニハチクイ
   nl: Zuidelijke karmijnrode bijeneter

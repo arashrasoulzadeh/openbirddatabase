@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24036.0
 names:
   scientific: Phedinopsis brazzae
-  fa: nan
+  fa: ''
   en: Brazza's Martin
   es: Golondrina del Congo
   fr: Hirondelle de Brazza
   de: Brazzaschwalbe
-  pt: brazza's martin
+  pt: ''
   ru: Конголезкая ласточка
   ja: ササフショウドウツバメ
   nl: Brazzazwaluw

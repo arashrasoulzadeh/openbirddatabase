@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17345.0
 names:
   scientific: Myiarchus magnirostris
-  fa: nan
+  fa: ''
   en: Galapagos Flycatcher
   es: Copetón de Galápagos
   fr: Tyran des Galapagos
   de: Galápagosschopftyrann
-  pt: galapagos flycatcher
+  pt: ''
   ru: Галапагосский миарх
   ja: ガラパゴスヒタキモドキ
   zh: 大嘴蝇霸鹟

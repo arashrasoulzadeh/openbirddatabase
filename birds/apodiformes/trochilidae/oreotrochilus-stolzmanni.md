@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4491.0
 names:
   scientific: Oreotrochilus stolzmanni
-  fa: nan
+  fa: ''
   en: Green-headed Hillstar
   es: Colibrí de Stolzmann
   fr: Colibri de Stolzmann
   de: Grünkopfkolibri
-  pt: green-headed hillstar
+  pt: ''
   ru: Зелоногорлая ореада
   zh: 绿头山蜂鸟
   nl: Peruaanse bergnimf

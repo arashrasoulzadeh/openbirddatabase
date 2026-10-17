@@ -12,7 +12,7 @@ names:
   es: Lori Ventrivinoso
   fr: Lori à ventre violet
   de: Schwarzsteißlori
-  pt: purple-bellied lory
+  pt: ''
   ru: Пурпурнобрюхий лори
   ja: ズグロオビロインコ
   zh: 紫腹吸蜜鹦鹉

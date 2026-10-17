@@ -12,7 +12,7 @@ names:
   es: Canastero de Wyatt
   fr: Synallaxe de Wyatt
   de: Strichelrückencanastero
-  pt: streak-backed canastero
+  pt: ''
   ru: Пестроспинный канастеро
   ja: セジマカマドドリ
   nl: Streeprugcanastero

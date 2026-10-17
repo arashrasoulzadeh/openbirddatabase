@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15632.0
 names:
   scientific: Synallaxis frontalis
-  fa: nan
+  fa: ''
   en: Sooty-fronted Spinetail
   es: Pijuí Frentigrís
   fr: Synallaxe à front sombre

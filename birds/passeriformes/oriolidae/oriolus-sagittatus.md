@@ -12,7 +12,7 @@ names:
   es: Oropéndola Estriada
   fr: Loriot sagittal
   de: Streifenpirol
-  pt: olive-backed oriole
+  pt: ''
   ru: Пёстрая иволга
   ja: シロハラコウライウグイス
   zh: 綠背黃鸝

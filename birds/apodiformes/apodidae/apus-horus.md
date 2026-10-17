@@ -12,7 +12,7 @@ names:
   es: Vencejo Horus
   fr: Martinet horus
   de: Horussegler
-  pt: horus swift
+  pt: ''
   ru: Эфиопский стриж
   ja: ホーラスアマツバメ
   nl: Horusgierzwaluw

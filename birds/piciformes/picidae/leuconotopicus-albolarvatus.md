@@ -12,7 +12,7 @@ names:
   es: Pico Cabeciblanco
   fr: Pic à tête blanche
   de: Weißkopfspecht
-  pt: white-headed woodpecker
+  pt: ''
   ru: Белоголовый дятел
   ja: シロガシラキツツキ
   zh: 白头啄木鸟

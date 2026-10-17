@@ -12,7 +12,7 @@ names:
   es: Cistícola de Hunter
   fr: Cisticole de Hunter
   de: Gebirgszistensänger
-  pt: hunter's cisticola
+  pt: ''
   ru: Кенийская цистикола
   ja: タカネセッカ
   nl: Huntergraszanger

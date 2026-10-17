@@ -12,7 +12,7 @@ names:
   es: Oropéndola Alinegra
   fr: Loriot à ailes noires
   de: Schwarzschwingenpirol
-  pt: black-winged oriole
+  pt: ''
   ru: Чернокрылая иволга
   ja: ハグロコウライウグイス
   nl: Zwartvleugelwielewaal

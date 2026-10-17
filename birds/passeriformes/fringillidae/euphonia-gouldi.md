@@ -12,7 +12,7 @@ names:
   es: Eufonia Olivácea
   fr: Organiste olive
   de: Olivrückenorganist
-  pt: olive-backed euphonia
+  pt: ''
   ru: Оливковоспинная эуфония
   ja: キビタイフウキンチョウ
   nl: Olijfrugorganist

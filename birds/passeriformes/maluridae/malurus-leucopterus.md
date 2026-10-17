@@ -12,7 +12,7 @@ names:
   es: Maluro Aliblanco
   fr: Mérion leucoptère
   de: Weißflügel-Staffelschwanz
-  pt: white-winged fairywren
+  pt: ''
   ru: Белокрылый малюр
   ja: ハジロオーストラリアムシクイ
   zh: 蓝白细尾鹩莺

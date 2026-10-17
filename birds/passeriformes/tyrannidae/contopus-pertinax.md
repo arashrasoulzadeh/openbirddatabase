@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16892.0
 names:
   scientific: Contopus pertinax
-  fa: nan
+  fa: ''
   en: Greater Pewee
   es: Pibí Tengofrío
   fr: Moucherolle de Coues
   de: Mexikoschnäppertyrann
-  pt: greater pewee
+  pt: ''
   ru: Большой пиви
   ja: メキシコヒタキモドキ
   zh: 大綠霸鶲

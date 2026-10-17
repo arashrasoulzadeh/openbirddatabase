@@ -12,7 +12,7 @@ names:
   es: Tangara Montana
   fr: Tangara montagnard
   de: Blaurücken-Bergtangare
-  pt: hooded mountain tanager
+  pt: ''
   ru: Горная танагра
   ja: ズキンキバラフウキンチョウ
   nl: Blauwrugbergtangare

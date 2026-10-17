@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10768.0
 names:
   scientific: Psilopogon incognitus
-  fa: nan
+  fa: ''
   en: Moustached Barbet
   es: Barbudo Bigotudo
   fr: Barbu de Hume
   de: Grünscheitel-Bartvogel
-  pt: moustached barbet
+  pt: ''
   ru: Усатый бородастик
   ja: クロヒゲゴシキドリ
   zh: 休氏拟啄木鸟

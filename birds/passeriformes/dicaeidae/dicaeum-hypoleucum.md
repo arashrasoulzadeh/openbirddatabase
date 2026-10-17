@@ -12,7 +12,7 @@ names:
   es: Picaflores Zumbador
   fr: Dicée à ventre blanc
   de: Weißbauch-Mistelfresser
-  pt: buzzing flowerpecker
+  pt: ''
   ru: Белобрюхий цветоед
   ja: シロハラハナドリ
   zh: 白腹啄花

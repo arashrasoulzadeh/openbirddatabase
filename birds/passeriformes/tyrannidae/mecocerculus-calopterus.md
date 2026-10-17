@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16594.0
 names:
   scientific: Mecocerculus calopterus
-  fa: nan
+  fa: ''
   en: Rufous-winged Tyrannulet
   es: Piojito Alirrufo
   fr: Tyranneau à ailes rousses
   de: Rotschwingen-Tachurityrann
-  pt: rufous-winged tyrannulet
+  pt: ''
   ru: Рыжекрылый москитолов
   ja: アカバネフタスジタイランチョウ
   nl: Roodvleugeltachuri

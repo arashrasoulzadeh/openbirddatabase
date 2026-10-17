@@ -15,7 +15,7 @@ names:
   pt: cloud-forest pygmy-owl
   ru: Горный сычик
   ja: ウンムリンスズメフクロウ
-  zh: Cloud-forest Pygmy Owl
+  zh: ''
   nl: Nevelwouddwerguil
   pl: sóweczka ekwadorska
   tr: Ekvador Serçe Baykuşu

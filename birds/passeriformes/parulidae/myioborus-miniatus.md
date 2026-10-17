@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34360.0
 names:
   scientific: Myioborus miniatus
-  fa: nan
+  fa: ''
   en: Slate-throated Whitestart
   es: Candelita Plomiza
   fr: Paruline ardoisée
@@ -15,7 +15,7 @@ names:
   pt: mariquita-cinza
   ru: Черногорлая канделита
   ja: ベニイタダキアメリカムシクイ
-  zh: Slate-throated Whitestart
+  zh: ''
   nl: Meniezanger
   pl: pleszówka ciemnogłowa
   tr: Kül Rengi Ötleğen

@@ -12,7 +12,7 @@ names:
   es: Alción del Macleay
   fr: Martin-chasseur forestier
   de: Spiegelliest
-  pt: forest kingfisher
+  pt: ''
   ru: Лесная альциона
   ja: モリショウビン
   zh: 林翡翠

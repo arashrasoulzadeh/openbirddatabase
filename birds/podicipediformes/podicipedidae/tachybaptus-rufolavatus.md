@@ -12,7 +12,7 @@ names:
   es: Zampullín del Aloatra
   fr: Grèbe roussâtre
   de: Alaotrazwergtaucher
-  pt: alaotra grebe
+  pt: ''
   ru: Карликовая поганка
   ja: ワキアカカイツブリ
   zh: 德氏小鸊鷉

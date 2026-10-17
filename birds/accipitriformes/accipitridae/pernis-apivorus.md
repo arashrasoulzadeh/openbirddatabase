@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7905.0
 names:
   scientific: Pernis apivorus
-  fa: nan
+  fa: ''
   en: European Honey Buzzard
   es: Abejero Europeo
   fr: Bondrée apivore

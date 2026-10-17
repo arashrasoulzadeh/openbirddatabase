@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5067.0
 names:
   scientific: Saucerottia cyanura
-  fa: nan
+  fa: ''
   en: Blue-tailed Hummingbird
   es: Amazilia Coliazul
   fr: Ariane à queue bleue
   de: Blauschwanzamazilie
-  pt: blue-tailed hummingbird
+  pt: ''
   ru: Синехвостая амазилия
   ja: ルリオエメラルドハチドリ
   nl: Blauwstaartamazilia

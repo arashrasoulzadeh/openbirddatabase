@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2461.0
 names:
   scientific: Goura sclaterii
-  fa: nan
+  fa: ''
   en: Sclater's Crowned Pigeon
   es: Gura de Sclater
   fr: Goura de Sclater
@@ -15,7 +15,7 @@ names:
   pt: sclater's crowned-pigeon
   ru: Каштановокрылый венценосный голубь
   ja: ムネアカカンムリバト
-  zh: Sclater's Crowned Pigeon
+  zh: ''
   nl: Wijnborstkroonduif
   pl: koroniec rdzawoskrzydły
   tr: Sclater Taçlı Güvercini

@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Torácico
   fr: Pluvier à bandeau noir
   de: Madagaskarregenpfeifer
-  pt: madagascar plover
+  pt: ''
   ru: Мадагаскарский зуёк
   ja: マダガスカルチドリ
   nl: Madagaskarplevier

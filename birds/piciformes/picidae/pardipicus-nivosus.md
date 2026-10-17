@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11706.0
 names:
   scientific: Pardipicus nivosus
-  fa: nan
+  fa: ''
   en: Buff-spotted Woodpecker
   es: Pito Nevado
   fr: Pic tacheté
   de: Termitenspecht
-  pt: buff-spotted woodpecker
+  pt: ''
   ru: Термитниковый дятел
   ja: ゴマダラアオゲラ
   nl: Termietenspecht

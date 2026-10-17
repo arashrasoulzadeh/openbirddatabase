@@ -12,7 +12,7 @@ names:
   es: Críalo Oriental
   fr: Coucou à collier
   de: Koromandelkuckuck
-  pt: chestnut-winged cuckoo
+  pt: ''
   ru: Каштановокрылая кукушка
   ja: カンムリカッコウ
   zh: 红翅凤头鹃

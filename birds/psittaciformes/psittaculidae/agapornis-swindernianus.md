@@ -12,7 +12,7 @@ names:
   es: Inseparable Acollarado
   fr: Inséparable à collier noir
   de: Grünköpfchen
-  pt: black-collared lovebird
+  pt: ''
   ru: Ошейниковый неразлучник
   ja: ワカクサインコ
   zh: 黑領情侶鸚鵡

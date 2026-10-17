@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11280.0
 names:
   scientific: Dendropicos lugubris
-  fa: nan
+  fa: ''
   en: Melancholy Woodpecker
   es: Pito Lúgubre
   fr: Pic à raies noires
   de: Düsterspecht
-  pt: melancholy woodpecker
+  pt: ''
   ru: Черноухий дятел
   ja: ユウウツコゲラ
   zh: 哀啄木鳥

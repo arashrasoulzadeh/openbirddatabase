@@ -12,7 +12,7 @@ names:
   es: Zarzalero Moteado
   fr: Locustelle de Blyth
   de: Fleckenschwirl
-  pt: spotted bush warbler
+  pt: ''
   ru: Пятнистая пестрогрудка
   ja: ノドフオウギセッカ
   zh: 斑胸短翅蝗莺

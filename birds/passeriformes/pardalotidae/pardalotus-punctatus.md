@@ -12,7 +12,7 @@ names:
   es: Pardalote Moteado
   fr: Pardalote pointillé
   de: Fleckenpanthervogel
-  pt: spotted pardalote
+  pt: ''
   ru: Леопардовый радужник
   ja: ホウセキドリ
   zh: 斑翅食蜜鸟

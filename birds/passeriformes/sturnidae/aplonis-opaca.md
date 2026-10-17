@@ -12,7 +12,7 @@ names:
   es: Estornino de Micronesia
   fr: Stourne de Micronésie
   de: Karolinenstar
-  pt: micronesian starling
+  pt: ''
   ru: Микронезийский скворец
   ja: カラスモドキ
   zh: 密克羅尼西亞椋鳥

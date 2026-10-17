@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 12574.0
 names:
   scientific: Charmosynopsis toxopei
-  fa: nan
+  fa: ''
   en: Blue-fronted Lorikeet
   es: Lori de Buru
   fr: Lori de Buru
   de: Burulori
-  pt: blue-fronted lorikeet
+  pt: ''
   ru: Синелобый лорикет
   ja: ブルインコ
   nl: Burulori

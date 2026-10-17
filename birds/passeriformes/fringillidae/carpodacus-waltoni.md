@@ -12,7 +12,7 @@ names:
   es: Camachuelo Culirrosado
   fr: Roselin de Walton
   de: Auroragimpel
-  pt: pink-rumped rosefinch
+  pt: ''
   ru: Краснопоясничная чечевица
   ja: バラゴシマシコ
   zh: 曙红朱雀

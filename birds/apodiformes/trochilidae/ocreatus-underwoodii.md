@@ -12,7 +12,7 @@ names:
   es: Colibrí de Raquetas Faldiblanco
   fr: Haut-de-chausses à palettes
   de: Grünscheitel-Flaggensylphe
-  pt: white-booted racket-tail
+  pt: ''
   ru: Знаменщик Ундервуда
   ja: ラケットハチドリ
   zh: 盘尾蜂鸟

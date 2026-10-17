@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3246.0
 names:
   scientific: Coccyzus pluvialis
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Cuckoo
   es: Cuco Picogordo de Jamaica
   fr: Tacco de pluie
   de: Regenkuckuck
-  pt: chestnut-bellied cuckoo
+  pt: ''
   ru: Дождевая пиайя
   ja: ハイムネリスカッコウ
   zh: 栗腹鹃

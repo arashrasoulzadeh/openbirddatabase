@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31426.0
 names:
   scientific: Lagonosticta virata
-  fa: nan
+  fa: ''
   en: Mali Firefinch
   es: Amaranta de Malí
   fr: Amarante de Kulikoro
   de: Maliamarant
-  pt: mali firefinch
+  pt: ''
   ru: Малийский амарант
   ja: マリコウギョクチョウ
   zh: 马里火雀

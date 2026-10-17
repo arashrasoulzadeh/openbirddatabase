@@ -12,7 +12,7 @@ names:
   es: Bandurrita Común
   fr: Upucerthie des buissons
   de: Schuppenkehl-Erdhacker
-  pt: scale-throated earthcreeper
+  pt: ''
   ru: Пестрогрудый норник
   ja: ウロコカマハシカマドドリ
   zh: 鳞喉爬地雀

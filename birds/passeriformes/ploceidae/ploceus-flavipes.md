@@ -12,7 +12,7 @@ names:
   es: Tejedor Patigualdo
   fr: Tisserin à pieds jaunes
   de: Gelbfußweber
-  pt: yellow-legged weaver
+  pt: ''
   ru: Желтоногий ткач
   ja: キアシクロハタオリ
   nl: Geelpootwever

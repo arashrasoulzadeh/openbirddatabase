@@ -15,7 +15,7 @@ names:
   pt: stripe-faced wood-quail
   ru: Пестролицый зубцеклювый перепел
   ja: シロボシウズラ
-  zh: Stripe-faced Wood Quail
+  zh: ''
   nl: Vlekbuiktandkwartel
   pl: przepiór andyjski
   tr: Bıyıklı Tokro

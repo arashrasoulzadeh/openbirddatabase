@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Pechinegro del Himalaya
   fr: Rossignol à gorge rubis
   de: Bergrubinkehlchen
-  pt: himalayan rubythroat
+  pt: ''
   ru: Черногрудая красношейка
   ja: ムナグロノゴマ
   zh: 黑胸歌鸲

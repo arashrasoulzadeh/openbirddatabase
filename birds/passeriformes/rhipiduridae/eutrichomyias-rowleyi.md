@@ -12,7 +12,7 @@ names:
   es: Monarca de Rowley
   fr: Eutrichome de Rowley
   de: Blaumonarch
-  pt: cerulean flycatcher
+  pt: ''
   ru: Дронговый веерохвост
   ja: バンガイヒタキ
   nl: Rowleymonarch

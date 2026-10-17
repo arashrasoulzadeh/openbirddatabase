@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26151.0
 names:
   scientific: Malacopteron affine
-  fa: nan
+  fa: ''
   en: Sooty-capped Babbler
   es: Tordina Coronioscura
   fr: Akalat affin
   de: Schwarzscheitel-Zweigdrossling
-  pt: sooty-capped babbler
+  pt: ''
   ru: Черношапочный шелкопёр
   ja: ズグロチャイロチメドリ
   zh: 純色樹鶥

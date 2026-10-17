@@ -15,7 +15,7 @@ names:
   pt: assanhadinho
   ru: Желтобрюхий широкохвост
   ja: ヒゲキゴシハエトリ
-  zh: Whiskered Myiobius
+  zh: ''
   nl: Geelstuittiran
   pl: szczecinówka żółtorzytna
   tr: Bıyıklı Yalancıtiran

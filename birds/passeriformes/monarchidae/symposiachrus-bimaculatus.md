@@ -15,7 +15,7 @@ names:
   pt: monarca-de-lunetas-das-molucas
   ru: Молуккский монарх
   ja: メンガタカササギビタキ
-  zh: Moluccan Monarch
+  zh: ''
   nl: Molukse Monarch
   pl: monareczka diademowa
   tr: Maskeli Monark

@@ -12,7 +12,7 @@ names:
   es: Pita Elegante
   fr: Brève élégante
   de: Schmuckpitta
-  pt: elegant pitta
+  pt: ''
   ru: Стройная питта
   ja: ティモールノドグロヤイロチョウ
   zh: 華麗八色鳥

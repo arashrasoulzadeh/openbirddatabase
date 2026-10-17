@@ -12,7 +12,7 @@ names:
   es: Carricero Picudo
   fr: Rousserolle à grand bec
   de: Großschnabel-Rohrsänger
-  pt: large-billed reed warbler
+  pt: ''
   ru: Большеклювая камышевка
   ja: オオハシヨシキリ
   zh: 大嘴苇莺

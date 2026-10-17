@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 14176.0
 names:
   scientific: Conopophaga cearae
-  fa: nan
+  fa: ''
   en: Ceara Gnateater
   es: Jejenero de Ceará
   fr: Conopophage du Ceara

@@ -12,7 +12,7 @@ names:
   es: Apalis de Los Taita
   fr: Apalis des Taita
   de: Taitafeinsänger
-  pt: taita apalis
+  pt: ''
   ru: Тайтасский апалис
   ja: タイタイロムシクイ
   nl: Taita-apalis

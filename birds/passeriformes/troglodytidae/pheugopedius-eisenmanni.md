@@ -12,7 +12,7 @@ names:
   es: Cucarachero Inca
   fr: Troglodyte inca
   de: Inkazaunkönig
-  pt: inca wren
+  pt: ''
   ru: Инкский крапивник
   ja: インカマユミソサザイ
   nl: Incawinterkoning

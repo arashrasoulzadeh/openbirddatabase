@@ -12,7 +12,7 @@ names:
   es: Cuclillo Drongo Colitruncado
   fr: Coucou surnicou
   de: Geradschwanz-Drongokuckuck
-  pt: square-tailed drongo-cuckoo
+  pt: ''
   ru: Дронговая кукушка
   ja: オウチュウカッコウ
   zh: 乌鹃

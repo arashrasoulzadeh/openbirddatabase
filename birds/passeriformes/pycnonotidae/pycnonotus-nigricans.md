@@ -15,7 +15,7 @@ names:
   pt: black-fronted bulbul
   ru: Чернолицый бюльбюль
   ja: アカメアフリカヒヨドリ
-  zh: African Red-eyed Bulbul
+  zh: ''
   nl: Maskerbuulbuul
   pl: bilbil czerwonooki
   tr: Afrika Arapbülbülü

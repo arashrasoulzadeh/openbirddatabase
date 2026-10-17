@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28303.0
 names:
   scientific: Catharus mexicanus
-  fa: nan
+  fa: ''
   en: Black-headed Nightingale-Thrush
   es: Zorzalito Cabecinegro
   fr: Grive à tête noire
   de: Schwarzkopf-Musendrossel
-  pt: black-headed nightingale-thrush
+  pt: ''
   ru: Черноголовый соловьиный дрозд
   ja: ズグロチャツグミ
   zh: 墨西哥夜鸫

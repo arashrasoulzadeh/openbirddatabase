@@ -15,7 +15,7 @@ names:
   pt: barulhento
   ru: Серогрудый трескунчик
   ja: チャボウシコビトハエトリ
-  zh: Fulvous-crowned Scrub Tyrant
+  zh: ''
   nl: Okerkruindwergtiran
   pl: rdzawik jasnobrzuch
   tr: Ekru Tepeli Tiranület

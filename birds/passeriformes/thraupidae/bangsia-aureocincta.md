@@ -12,7 +12,7 @@ names:
   es: Tangara del Tatamá
   fr: Tangara à boucles d'or
   de: Goldring-Bergtangare
-  pt: gold-ringed tanager
+  pt: ''
   ru: Арлекиновая танагра
   ja: キオビフウキンチョウ
   nl: Goudringtangare

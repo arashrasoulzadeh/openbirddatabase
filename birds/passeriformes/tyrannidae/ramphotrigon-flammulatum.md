@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17233.0
 names:
   scientific: Ramphotrigon flammulatum
-  fa: nan
+  fa: ''
   en: Flammulated Flycatcher
   es: Copetón Abejerillo
   fr: Tyran flammé
   de: Breitschnabel-Schopftyrann
-  pt: flammulated flycatcher
+  pt: ''
   ru: Ширококлювый миарх
   ja: コバシヒタキモドキ
   nl: Deltasnaveltiran

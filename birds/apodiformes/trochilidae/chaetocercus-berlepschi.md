@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4788.0
 names:
   scientific: Chaetocercus berlepschi
-  fa: nan
+  fa: ''
   en: Esmeraldas Woodstar
   es: Colibrí de Esmeraldas
   fr: Colibri de Berlepsch
   de: Esmeraldaselfe
-  pt: esmeraldas woodstar
+  pt: ''
   ru: Эквадорский эльф
   ja: ムナジロチビハチドリ
   zh: 埃斯林蜂鸟

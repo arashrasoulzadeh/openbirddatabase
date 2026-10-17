@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26497.0
 names:
   scientific: Montecincla cachinnans
-  fa: nan
+  fa: ''
   en: Nilgiri Laughingthrush
   es: Charlatán de Los Nilgiri
   fr: Garrulaxe des Nilgiri
   de: Zimtbrusthäherling
-  pt: nilgiri laughingthrush
+  pt: ''
   ru: Чернобородая кустарница
   ja: ニルギリガビチョウ
   zh: 灰頸噪鶥

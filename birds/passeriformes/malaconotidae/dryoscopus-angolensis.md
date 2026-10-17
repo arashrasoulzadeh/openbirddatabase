@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20058.0
 names:
   scientific: Dryoscopus angolensis
-  fa: nan
+  fa: ''
   en: Pink-footed Puffback
   es: Cubla Patirrosada
   fr: Cubla à pieds roses
   de: Blassfuß-Schneeballwürger
-  pt: pink-footed puffback
+  pt: ''
   ru: Розовоногая пухоспинка
   ja: アカアシフクレヤブモズ
   zh: 红腿蓬背鵙

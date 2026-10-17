@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26163.0
 names:
   scientific: Malacopteron magnum
-  fa: nan
+  fa: ''
   en: Rufous-crowned Babbler
   es: Tordina Magna
   fr: Akalat géant
   de: Rotscheitel-Zweigdrossling
-  pt: rufous-crowned babbler
+  pt: ''
   ru: Рыжеголовый шелкопёр
   ja: ズアカチャイロチメドリ
   zh: 大紅頭樹鶥

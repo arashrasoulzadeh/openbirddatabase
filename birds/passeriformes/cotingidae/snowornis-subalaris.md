@@ -15,7 +15,7 @@ names:
   pt: gray-tailed piha
   ru: Серохвостая пиха
   ja: ハイオムジカザリドリ
-  zh: Grey-tailed Piha
+  zh: ''
   nl: Grijsstaartpiha
   pl: andobławatnik szarosterny
   tr: Gri Kuyruklu Kotinga

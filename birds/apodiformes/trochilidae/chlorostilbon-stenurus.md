@@ -12,7 +12,7 @@ names:
   es: Esmeralda Colifina
   fr: Émeraude à queue étroite
   de: Schmalschwanz-Smaragdkolibri
-  pt: narrow-tailed emerald
+  pt: ''
   ru: Острохвостый изумруд
   ja: ホソオヒメエメラルドハチドリ
   zh: 狭尾翠蜂鸟

@@ -12,10 +12,10 @@ names:
   es: Picanzo Chico
   fr: Siffleur châtain
   de: Walddickkopf
-  pt: little shrikethrush
+  pt: ''
   ru: Лесная сорокопутовая мухоловка
   ja: チャイロモズツグミ
-  zh: little shrikethrush sp.
+  zh: ''
   nl: Kleine lijsterdikkop
   pl: fletnik zmienny
   tr: Küçük Islıkçıardıç

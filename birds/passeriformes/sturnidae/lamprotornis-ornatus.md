@@ -12,7 +12,7 @@ names:
   es: Estornino de Príncipe
   fr: Choucador de Principé
   de: Prinzenglanzstar
-  pt: principe starling
+  pt: ''
   ru: Украшенный спрео
   ja: プリンシペテリムク
   nl: Principeglansspreeuw

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21984.0
 names:
   scientific: Periparus venustulus
-  fa: nan
+  fa: ''
   en: Yellow-bellied Tit
   es: Carbonero Ventrigualdo
   fr: Mésange gracieuse
   de: Schmuckmeise
-  pt: yellow-bellied tit
+  pt: ''
   ru: Желтобрюхая синица
   ja: キバラガラ
   zh: 黄腹山雀

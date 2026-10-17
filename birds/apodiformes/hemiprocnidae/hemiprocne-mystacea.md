@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4210.0
 names:
   scientific: Hemiprocne mystacea
-  fa: nan
+  fa: ''
   en: Moustached Treeswift
   es: Vencejo Arborícola Bigotudo
   fr: Hémiprocné à moustaches
   de: Bartbaumsegler
-  pt: moustached treeswift
+  pt: ''
   ru: Усатый клехо
   ja: シラヒゲカンムリアマツバメ
   nl: Witsnorboomgierzwaluw

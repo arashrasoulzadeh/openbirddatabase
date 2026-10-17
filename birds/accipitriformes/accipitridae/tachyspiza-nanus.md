@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8147.0
 names:
   scientific: Tachyspiza nanus
-  fa: nan
+  fa: ''
   en: Dwarf Sparrowhawk
   es: Gavilancito de Célebes
   fr: Épervier des Célèbes
@@ -15,7 +15,7 @@ names:
   pt: small sparrowhawk
   ru: Сулавесский перепелятник
   ja: セレベスツミ
-  zh: Dwarf Sparrowhawk
+  zh: ''
   nl: Celebesdwergsperwer
   pl: krogulec rdzawopierśny
   tr: Selebes Atmacası

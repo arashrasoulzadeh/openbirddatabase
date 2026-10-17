@@ -12,7 +12,7 @@ names:
   es: Acantiza de Iredale
   fr: Acanthize d'Iredale
   de: Grunddornschnabel
-  pt: slender-billed thornbill
+  pt: ''
   ru: Тонкоклювая шипоклювка
   ja: キゴシトゲハシムシクイ
   zh: 细嘴刺嘴莺

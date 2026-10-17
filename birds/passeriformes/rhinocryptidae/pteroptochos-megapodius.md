@@ -12,7 +12,7 @@ names:
   es: Huet-Huet Turca
   fr: Tourco à moustaches
   de: Weißbarttapaculo
-  pt: moustached turca
+  pt: ''
   ru: Пастушковый тюрко
   ja: シラヒゲオタテドリ
   nl: Snorturco

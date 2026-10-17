@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17934.0
 names:
   scientific: Timeliopsis fulvigula
-  fa: nan
+  fa: ''
   en: Olive Straightbill
   es: Mielero Oliváceo
   fr: Méliphage olivâtre
   de: Buschhonigfresser
-  pt: olive straightbill
+  pt: ''
   ru: Оливковый нектаролюб
   ja: ヒメヤブミツスイ
   nl: Groene timaliahoningeter

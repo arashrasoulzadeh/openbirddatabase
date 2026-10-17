@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5184.0
 names:
   scientific: Elliotomyia chionogaster
-  fa: nan
+  fa: ''
   en: White-bellied Hummingbird
   es: Amazilia Ventrinívea
   fr: Ariane à ventre blanc

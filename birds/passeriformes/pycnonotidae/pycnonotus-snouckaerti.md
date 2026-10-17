@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 24700.0
 names:
   scientific: Pycnonotus snouckaerti
-  fa: nan
+  fa: ''
   en: Aceh Bulbul
   es: Bulbul de Snouckaert
   fr: Bulbul d'Aceh
   de: Goldzügelbülbül
-  pt: aceh bulbul
+  pt: ''
   ru: Оранжевобровый бюльбюль
   nl: Atjehbuulbuul
   pl: bilbil krótkodzioby

@@ -12,7 +12,7 @@ names:
   es: Arañero de Palawan
   fr: Arachnothère pâle
   de: Palawanspinnenjäger
-  pt: pale spiderhunter
+  pt: ''
   ru: Оливковая пауколовка
   ja: タンショククモアリドリ
   nl: Palawanspinnenjager

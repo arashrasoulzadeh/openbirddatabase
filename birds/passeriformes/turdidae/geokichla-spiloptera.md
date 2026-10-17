@@ -12,7 +12,7 @@ names:
   es: Zorzal Alimoteado
   fr: Grive à ailes tachetées
   de: Fleckflügeldrossel
-  pt: spot-winged thrush
+  pt: ''
   ru: Ланкийский дрозд
   ja: セイロンジツグミ
   zh: 點翅地鶇

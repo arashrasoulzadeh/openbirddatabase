@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24978.0
 names:
   scientific: Phylloscopus claudiae
-  fa: nan
+  fa: ''
   en: Claudia's Leaf Warbler
   es: Mosquitero de Claudia
   fr: Pouillot de Claudia
   de: Claudialaubsänger
-  pt: claudia's leaf warbler
+  pt: ''
   ru: Зеленоватая пеночка
   ja: クラウディアムシクイ
   zh: 冠纹柳莺

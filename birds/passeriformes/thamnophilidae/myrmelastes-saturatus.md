@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13999.0
 names:
   scientific: Myrmelastes saturatus
-  fa: nan
+  fa: ''
   en: Roraiman Antbird
   es: Hormiguero del Roraima
   fr: Alapi des tépuis

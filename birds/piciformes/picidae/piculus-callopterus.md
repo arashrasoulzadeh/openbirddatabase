@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11836.0
 names:
   scientific: Piculus callopterus
-  fa: nan
+  fa: ''
   en: Stripe-cheeked Woodpecker
   es: Carpintero Panameño
   fr: Pic bridé
   de: Panamaspecht
-  pt: stripe-cheeked woodpecker
+  pt: ''
   ru: Панамский дятел
   ja: ホオシマモリゲラ
   nl: Panamese specht

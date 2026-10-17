@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24940.0
 names:
   scientific: Phylloscopus xanthodryas
-  fa: nan
+  fa: ''
   en: Japanese Leaf Warbler
   es: Mosquitero Japonés
   fr: Pouillot de Swinhoe

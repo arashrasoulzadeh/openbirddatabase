@@ -12,7 +12,7 @@ names:
   es: Petroica Torrentera
   fr: Miro des torrents
   de: Uferschnäpper
-  pt: torrent flyrobin
+  pt: ''
   ru: Ручьевая дриада
   ja: ハグロシロヒタキ
   nl: Bergbeekvliegenvanger

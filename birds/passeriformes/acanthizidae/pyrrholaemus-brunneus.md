@@ -12,7 +12,7 @@ names:
   es: Sedosito Gorjirrojo
   fr: Séricorne rougegorge
   de: Dornhuscher
-  pt: redthroat
+  pt: ''
   ru: Рыжегорлый шипоклюв
   ja: ノドアカアレチムシクイ
   zh: 红喉刺莺

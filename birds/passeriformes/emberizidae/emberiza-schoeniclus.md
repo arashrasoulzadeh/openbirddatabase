@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 32806.0
 names:
   scientific: Emberiza schoeniclus
-  fa: nan
+  fa: ''
   en: Common Reed Bunting
   es: Escribano Palustre
   fr: Bruant des roseaux

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12768.0
 names:
   scientific: Poicephalus gulielmi
-  fa: nan
+  fa: ''
   en: Red-fronted Parrot
   es: Lorito Frentirrojo
   fr: Perroquet à calotte rouge
   de: Kongopapagei
-  pt: red-fronted parrot
+  pt: ''
   ru: Краснолобый попугай
   ja: ズアカハネナガインコ
   nl: Congopapegaai

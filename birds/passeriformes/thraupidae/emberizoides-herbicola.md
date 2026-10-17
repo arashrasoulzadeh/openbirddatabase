@@ -15,7 +15,7 @@ names:
   pt: canário-do-campo
   ru: Клинохвостая колудито
   ja: クサビオノジコ
-  zh: Wedge-tailed Grass Finch
+  zh: ''
   nl: Wigstaartgrasgors
   pl: trznadlówka ostrosterna
   tr: Kama Kuyruklu Otlak İspinozu

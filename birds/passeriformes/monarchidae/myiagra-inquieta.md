@@ -12,7 +12,7 @@ names:
   es: Monarca Inquieto
   fr: Monarque infatigable
   de: Weißkehlmonarch
-  pt: restless flycatcher
+  pt: ''
   ru: Белогрудая миагра
   ja: フタイロヒタキ
   zh: 躍闊嘴鶲

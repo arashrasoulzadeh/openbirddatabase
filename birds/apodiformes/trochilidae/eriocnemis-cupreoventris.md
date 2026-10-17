@@ -12,7 +12,7 @@ names:
   es: Calzadito Cobrizo
   fr: Érione à ventre cuivré
   de: Kupferbauch-Höschenkolibri
-  pt: coppery-bellied puffleg
+  pt: ''
   ru: Меднобрюхий эрион
   ja: ドウバラワタアシハチドリ
   zh: 铜腹毛腿蜂鸟

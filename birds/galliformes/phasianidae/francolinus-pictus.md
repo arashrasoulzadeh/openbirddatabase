@@ -12,7 +12,7 @@ names:
   es: Francolín Pintojo
   fr: Francolin peint
   de: Tropfenfrankolin
-  pt: painted francolin
+  pt: ''
   ru: Расписной турач
   ja: シロタマシャコ
   zh: 花彩鷓鴣

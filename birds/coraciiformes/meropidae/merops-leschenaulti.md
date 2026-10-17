@@ -12,7 +12,7 @@ names:
   es: Abejaruco Cabecirrufo
   fr: Guêpier de Leschenault
   de: Braunkopfspint
-  pt: chestnut-headed bee-eater
+  pt: ''
   ru: Буроголовая щурка
   ja: チャガシラハチクイ
   zh: 栗头蜂虎

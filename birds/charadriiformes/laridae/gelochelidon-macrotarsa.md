@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6716.0
 names:
   scientific: Gelochelidon macrotarsa
-  fa: nan
+  fa: ''
   en: Australian Tern
   es: Pagaza Australiana
   fr: Sterne à longues pattes
   de: Australien-Lachseeschwalbe
-  pt: australian tern
+  pt: ''
   ru: Австралийская чайконосая крачка
   ja: オーストラリアハシブトアジサシ
   zh: 澳洲鸥嘴噪鸥

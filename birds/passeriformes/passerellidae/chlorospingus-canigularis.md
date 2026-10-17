@@ -12,7 +12,7 @@ names:
   es: Clorospingo Gorjigrís
   fr: Chlorospin à gorge grise
   de: Graukehl-Grünammer
-  pt: ashy-throated chlorospingus
+  pt: ''
   ru: Серогорлый дромник
   ja: ハイノドヤブフウキンチョウ
   nl: Grijskeeltangare

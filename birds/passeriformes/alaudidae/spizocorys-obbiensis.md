@@ -12,7 +12,7 @@ names:
   es: Alondra de Obbia
   fr: Alouette d'Obbia
   de: Obbialerche
-  pt: obbia lark
+  pt: ''
   ru: Оббианский жаворонок
   ja: ソマリーシトドコヒバリ
   zh: 奥氏沙百灵

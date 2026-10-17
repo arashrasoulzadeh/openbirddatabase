@@ -15,7 +15,7 @@ names:
   pt: white-naped friarbird
   ru: Ошейниковый кожеголов
   ja: シロエリハゲミツスイ
-  zh: Manus Friarbird
+  zh: ''
   nl: Manuslederkop
   pl: filemon białokarkowy
   tr: Akça Keşişkuşu

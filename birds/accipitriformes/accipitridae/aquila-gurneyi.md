@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 8060.0
 names:
   scientific: Aquila gurneyi
-  fa: nan
+  fa: ''
   en: Gurney's Eagle
   es: Águila Moluqueña
   fr: Aigle de Gurney
   de: Molukkenadler
-  pt: gurney's eagle
+  pt: ''
   ru: Молуккский орёл
   ja: モルッカイヌワシ
   nl: Molukse arend

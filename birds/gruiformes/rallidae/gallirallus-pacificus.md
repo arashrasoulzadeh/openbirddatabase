@@ -12,7 +12,7 @@ names:
   es: Rascón de Tahití
   fr: Râle tévéa
   de: Tahitiralle
-  pt: tahiti rail
+  pt: ''
   ru: Таитянский трескун
   ja: タヒチクイナ
   zh: 塔希提岛红嘴秧鸡

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35036.0
 names:
   scientific: Tangara vassorii
-  fa: nan
+  fa: ''
   en: Blue-and-black Tanager
   es: Tangara Azulinegra
   fr: Calliste bleu et noir
   de: Schwarzblautangare
-  pt: blue-and-black tanager
+  pt: ''
   ru: Сине-чёрная танагра
   ja: アオフウキンチョウ
   zh: 蓝黑唐加拉雀

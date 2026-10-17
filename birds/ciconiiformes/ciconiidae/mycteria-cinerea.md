@@ -12,7 +12,7 @@ names:
   es: Tántalo Malayo
   fr: Tantale blanc
   de: Milchstorch
-  pt: milky stork
+  pt: ''
   ru: Серый клювач
   ja: シロトキコウ
   zh: 南美鸛

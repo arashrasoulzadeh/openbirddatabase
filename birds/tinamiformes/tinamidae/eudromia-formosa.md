@@ -15,7 +15,7 @@ names:
   pt: quebracho crested-tinamou
   ru: Великолепный тинаму
   ja: ミコシギダチョウ
-  zh: Quebracho Crested Tinamou
+  zh: ''
   nl: Quebrachotinamoe
   pl: kusacz leśny
   tr: Tepeli Kızıl Tinamu

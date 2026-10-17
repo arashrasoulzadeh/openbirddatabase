@@ -12,7 +12,7 @@ names:
   es: Bulbul Collarejo
   fr: Bulbul à semi-collier
   de: Halsbandbülbül
-  pt: collared finchbill
+  pt: ''
   ru: Ошейниковый бюльбюль
   ja: カヤノボリ
   zh: 领雀嘴鹎

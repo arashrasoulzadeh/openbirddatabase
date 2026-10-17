@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 19453.0
 names:
   scientific: Pachycephala feminina
-  fa: nan
+  fa: ''
   en: Rennell Whistler
   es: Silbador de Isla Rennell
   fr: Siffleur de Rennell
   de: Rennelldickkopf
-  pt: rennell whistler
+  pt: ''
   ru: Реннелльский свистун
   ja: レンネルモズヒタキ
   nl: Rennellfluiter

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33433.0
 names:
   scientific: Atlapetes pileatus
-  fa: nan
+  fa: ''
   en: Rufous-capped Brushfinch
   es: Atlapetes Coronirrufo
   fr: Tohi à calotte rousse
   de: Rotkappen-Buschammer
-  pt: rufous-capped brushfinch
+  pt: ''
   ru: Красношапочная атлапета
   ja: アカボウシヤブシトド
   nl: Roestkruinstruikgors

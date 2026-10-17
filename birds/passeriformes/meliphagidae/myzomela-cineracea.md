@@ -12,7 +12,7 @@ names:
   es: Mielero Cenizo
   fr: Myzomèle cendré
   de: Schlichthonigfresser
-  pt: ashy myzomela
+  pt: ''
   ru: Серая медовка
   ja: ビスマルクミツスイ
   nl: Vale dwerghoningeter

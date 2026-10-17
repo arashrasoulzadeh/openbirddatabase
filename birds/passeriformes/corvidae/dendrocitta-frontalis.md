@@ -12,7 +12,7 @@ names:
   es: Urraca Acollarada
   fr: Témia masquée
   de: Maskenbaumelster
-  pt: collared treepie
+  pt: ''
   ru: Масковая китта
   ja: カオグロオナガ
   zh: 黑额树鹊

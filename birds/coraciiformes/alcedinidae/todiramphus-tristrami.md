@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10208.0
 names:
   scientific: Todiramphus tristrami
-  fa: nan
+  fa: ''
   en: Melanesian Kingfisher
   es: Alción de Melanesia
   fr: Martin-chasseur de Tristram
   de: Melanesienliest
-  pt: melanesian kingfisher
+  pt: ''
   ru: Меланизийская альциона
   ja: メラネシアショウビン
   zh: 美島翡翠

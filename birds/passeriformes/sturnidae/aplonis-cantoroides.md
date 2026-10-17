@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27728.0
 names:
   scientific: Aplonis cantoroides
-  fa: nan
+  fa: ''
   en: Singing Starling
   es: Estornino Cantor
   fr: Stourne chanteur
   de: Singstar
-  pt: singing starling
+  pt: ''
   ru: Певчий скворец
   ja: ナキカラスモドキ
   nl: Orpheuspurperspreeuw

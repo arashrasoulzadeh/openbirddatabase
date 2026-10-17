@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34326.0
 names:
   scientific: Myiothlypis cinereicollis
-  fa: nan
+  fa: ''
   en: Grey-throated Warbler
   es: Reinita Gorjigrís
   fr: Paruline à cou gris
@@ -15,7 +15,7 @@ names:
   pt: gray-throated warbler
   ru: Серогрудый певун
   ja: ハイノドアメリカムシクイ
-  zh: Grey-throated Warbler
+  zh: ''
   nl: Grijskeelzanger
   pl: koronówka szarogardła
   tr: Gri Gerdanlı Ötleğen

@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Flores
   fr: Gobemouche de Florès
   de: Floresdschungelschnäpper
-  pt: flores jungle flycatcher
+  pt: ''
   ru: Флоресская джунглевая мухоловка
   ja: フローレスヒメヒタキ
   nl: Floresjunglevliegenvanger

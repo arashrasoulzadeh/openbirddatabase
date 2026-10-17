@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18364.0
 names:
   scientific: Aethomyias papuensis
-  fa: nan
+  fa: ''
   en: Papuan Scrubwren
   es: Sedosito Papú
   fr: Séricorne papou
   de: Papuasericornis
-  pt: papuan scrubwren
+  pt: ''
   ru: Папуанская кустовка
   ja: パプアヤブムシクイ
   nl: Papoeastruiksluiper

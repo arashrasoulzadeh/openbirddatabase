@@ -12,7 +12,7 @@ names:
   es: Pato Crestudo Afroasiático
   fr: Canard à bosse
   de: Glanzente
-  pt: knob-billed duck
+  pt: ''
   ru: Гребенчатая утка
   ja: コブガモ
   zh: 瘤鸭

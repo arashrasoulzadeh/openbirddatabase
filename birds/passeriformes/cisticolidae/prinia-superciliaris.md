@@ -12,7 +12,7 @@ names:
   es: Prinia Montana
   fr: Prinia à sourcils
   de: Grauwangenprinie
-  pt: hill prinia
+  pt: ''
   ru: Светлобровая приния
   ja: マユハウチワドリ
   zh: 黑喉山鹪莺

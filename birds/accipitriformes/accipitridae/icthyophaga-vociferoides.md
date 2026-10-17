@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8375.0
 names:
   scientific: Icthyophaga vociferoides
-  fa: nan
+  fa: ''
   en: Madagascar Fish Eagle
   es: Pigargo Malgache
   fr: Pygargue de Madagascar
@@ -15,7 +15,7 @@ names:
   pt: madagascar fish-eagle
   ru: Мадагаскарский орлан
   ja: マダガスカルウミワシ
-  zh: Madagascar Fish Eagle
+  zh: ''
   nl: Madagaskarzeearend
   pl: bielik madagaskarski
   tr: Madagaskar Ötücü Kartalı

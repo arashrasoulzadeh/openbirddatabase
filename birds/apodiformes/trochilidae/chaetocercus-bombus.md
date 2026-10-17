@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 4783.0
 names:
   scientific: Chaetocercus bombus
-  fa: nan
+  fa: ''
   en: Little Woodstar
   es: Colibrí Abejorro
   fr: Colibri bourdon
   de: Hummelelfe
-  pt: little woodstar
+  pt: ''
   ru: Шмелевидный эльф
   ja: バラノドチビハチドリ
   zh: 小林蜂鸟

@@ -15,7 +15,7 @@ names:
   pt: saracura-três-potes
   ru: Серошейный саракура
   ja: コンゴウモリクイナ
-  zh: Grey-cowled Wood Rail
+  zh: ''
   nl: Cayennebosral
   pl: chruścielak szaroszyi
   tr: Gri Boyunlu Orman Kılavuzu

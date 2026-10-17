@@ -12,7 +12,7 @@ names:
   es: Monarca Dorado
   fr: Monarque doré
   de: Goldmonarch
-  pt: golden monarch
+  pt: ''
   ru: Золотой монарх
   ja: キイロカササギビタキ
   zh: 金王鹟

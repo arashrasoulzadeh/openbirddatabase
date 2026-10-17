@@ -15,7 +15,7 @@ names:
   pt: gray thornbill
   ru: Белопоясничная геригона
   ja: ハイイロセンニョムシクイ
-  zh: Grey Thornbill
+  zh: ''
   nl: Grijze doornsnavel
   pl: buszówka szara
   tr: Gri Dikengaga

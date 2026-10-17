@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9986.0
 names:
   scientific: Ceyx dispar
-  fa: nan
+  fa: ''
   en: Manus Dwarf Kingfisher
   es: Martín Pigmeo de Manus
   fr: Martin-pêcheur de Manus
@@ -15,7 +15,7 @@ names:
   pt: manus dwarf-kingfisher
   ru: Манусский зимородок
   ja: マヌスカワセミ
-  zh: Manus Dwarf Kingfisher
+  zh: ''
   nl: Manusdwergijsvogel
   pl: zimorodek koralowy
   tr: Manus Küçük Yalıçapkını

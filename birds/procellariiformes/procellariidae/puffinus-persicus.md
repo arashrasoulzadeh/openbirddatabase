@@ -12,7 +12,7 @@ names:
   es: Pardela Persa
   fr: Puffin persique
   de: Arabiensturmtaucher
-  pt: persian shearwater
+  pt: ''
   ru: Персидский буревестник
   ja: ペルシアミズナギドリ
   nl: Perzische kleine pijlstormvogel

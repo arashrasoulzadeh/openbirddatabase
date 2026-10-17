@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4404.0
 names:
   scientific: Heliangelus clarisse
-  fa: nan
+  fa: ''
   en: Longuemare's Sunangel
   es: Colibrí de Clarissa
   fr: Héliange de Clarisse
   de: Longuemare-Sonnennymphe
-  pt: longuemare's sunangel
+  pt: ''
   ru: Блестящий феб
   zh: 隆氏领蜂鸟
   nl: Longuemarezonnekolibrie

@@ -12,7 +12,7 @@ names:
   es: Garza Ventriblanca
   fr: Héron impérial
   de: Weißbauchreiher
-  pt: white-bellied heron
+  pt: ''
   ru: Белобрюхая цапля
   ja: シロハラサギ
   zh: 白腹鹭

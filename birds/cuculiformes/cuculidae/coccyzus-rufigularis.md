@@ -12,7 +12,7 @@ names:
   es: Cuco Picogordo de la Española
   fr: Tacco cabrite
   de: Dominikanerkuckuck
-  pt: bay-breasted cuckoo
+  pt: ''
   ru: Доминиканская пиайя
   ja: クリムネリスカッコウ
   zh: 栗胸鹃

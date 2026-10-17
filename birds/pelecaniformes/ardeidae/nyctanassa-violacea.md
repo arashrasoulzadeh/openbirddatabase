@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7591.0
 names:
   scientific: Nyctanassa violacea
-  fa: nan
+  fa: ''
   en: Yellow-crowned Night Heron
   es: Martinete Coronado
   fr: Bihoreau violacé

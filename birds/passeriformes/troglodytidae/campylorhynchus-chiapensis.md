@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Chiapas
   fr: Troglodyte géant
   de: Riesenzaunkönig
-  pt: giant wren
+  pt: ''
   ru: Гигантский крапивник
   ja: キタオオサボテンミソサザイ
   zh: 大曲嘴鹪鹩

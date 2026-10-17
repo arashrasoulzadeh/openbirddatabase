@@ -12,7 +12,7 @@ names:
   es: Zorzal de San Cristóbal
   fr: Grive des Salomon
   de: Makiraerddrossel
-  pt: makira thrush
+  pt: ''
   ru: Макирский дрозд
   ja: サンクリストバルジツグミ
   nl: Makiragoudlijster

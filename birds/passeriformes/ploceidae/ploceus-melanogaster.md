@@ -12,7 +12,7 @@ names:
   es: Tejedor Piquinegro
   fr: Tisserin à tête jaune
   de: Schwarzbauchweber
-  pt: black-billed weaver
+  pt: ''
   ru: Чернобрюхий ткач
   ja: クロハラハタオリ
   nl: Hooglandwever

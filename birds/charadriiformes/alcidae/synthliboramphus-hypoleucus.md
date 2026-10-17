@@ -12,7 +12,7 @@ names:
   es: Mérgulo de Isla Guadalupe
   fr: Guillemot de Xantus
   de: Guadalupealk
-  pt: guadalupe murrelet
+  pt: ''
   ru: Гуадалупский старик
   ja: セグロウミスズメ
   zh: 白腹海雀

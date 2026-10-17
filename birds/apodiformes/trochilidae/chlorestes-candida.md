@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 5192.0
 names:
   scientific: Chlorestes candida
-  fa: nan
+  fa: ''
   en: White-bellied Emerald
   es: Amazilia Cándida
   fr: Ariane candide
   de: Bronzekopfamazilie
-  pt: white-bellied emerald
+  pt: ''
   ru: Бронзовая амазилия
   ja: シロハラエメラルドハチドリ
   zh: 白腹绿蜂鸟

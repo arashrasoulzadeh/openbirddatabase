@@ -12,7 +12,7 @@ names:
   es: Silvícola Sirontsirona
   fr: Oxylabe à gorge blanche
   de: Weißkehl-Madagaskarsänger
-  pt: white-throated oxylabes
+  pt: ''
   ru: Фарифитра
   ja: マダガスカルチメドリ
   zh: 白喉尖鹛

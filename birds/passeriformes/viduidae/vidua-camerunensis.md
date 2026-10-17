@@ -12,7 +12,7 @@ names:
   es: Viuda Camerunesa
   fr: Combassou du Cameroun
   de: Kamerunwitwe
-  pt: cameroon indigobird
+  pt: ''
   ru: Камерунская вдовушка
   ja: カメルーンシコンチョウ
   zh: 喀麦隆维达雀

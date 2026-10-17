@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16963.0
 names:
   scientific: Empidonax minimus
-  fa: nan
+  fa: ''
   en: Least Flycatcher
   es: Mosquero Mínimo
   fr: Moucherolle tchébec

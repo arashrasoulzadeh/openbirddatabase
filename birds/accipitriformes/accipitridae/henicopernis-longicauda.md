@@ -15,7 +15,7 @@ names:
   pt: long-tailed honey-buzzard
   ru: Длиннохвостый осоед
   ja: オナガハチクマ
-  zh: Long-tailed Honey Buzzard
+  zh: ''
   nl: Nieuw-Guinese wespendief
   pl: pszczołojad długosterny
   tr: Uzun Kuyruklu Şahin

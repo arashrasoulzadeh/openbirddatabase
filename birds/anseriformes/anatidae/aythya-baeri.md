@@ -12,7 +12,7 @@ names:
   es: Porrón de Baer
   fr: Fuligule de Baer
   de: Baermoorente
-  pt: baer's pochard
+  pt: ''
   ru: Бэров нырок
   ja: アカハジロ
   zh: 青头潜鸭

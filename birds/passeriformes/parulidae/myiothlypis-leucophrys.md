@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34298.0
 names:
   scientific: Myiothlypis leucophrys
-  fa: nan
+  fa: ''
   en: White-striped Warbler
   es: Reinita Cejiblanca
   fr: Paruline bridée

@@ -15,7 +15,7 @@ names:
   pt: galinha-do-mato-de-reinwardt
   ru: Оранжевоногий большеног
   ja: オーストラリアツカツクリ
-  zh: Orange-footed Scrubfowl
+  zh: ''
   nl: Rood boshoen
   pl: nogal zmienny
   tr: Reinwardt Megapodu

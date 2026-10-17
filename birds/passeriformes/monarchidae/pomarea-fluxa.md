@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 20805.0
 names:
   scientific: Pomarea fluxa
-  fa: nan
+  fa: ''
   en: Eiao Monarch
   es: Monarca de Isla Eiao
   fr: Monarque d'Eiao
   de: Eiao-Monarch
-  pt: eiao monarch
+  pt: ''
   ru: Атолловая помарея
   ja: エイアオヒタキ
   nl: Eiaomonarch

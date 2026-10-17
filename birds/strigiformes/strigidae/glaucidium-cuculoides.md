@@ -12,7 +12,7 @@ names:
   es: Mochuelo Cuco
   fr: Chevêchette cuculoïde
   de: Kuckuckszwergkauz
-  pt: asian barred owlet
+  pt: ''
   ru: Кукушковый сычик
   ja: オオスズメフクロウ
   zh: 斑头鸺鹠

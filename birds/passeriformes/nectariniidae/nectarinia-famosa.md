@@ -12,7 +12,7 @@ names:
   es: Suimanga Malaquita
   fr: Souimanga malachite
   de: Malachitnektarvogel
-  pt: malachite sunbird
+  pt: ''
   ru: Малахитовая нектарница
   ja: ミドリオナガタイヨウチョウ
   zh: 孔雀石色花蜜鳥

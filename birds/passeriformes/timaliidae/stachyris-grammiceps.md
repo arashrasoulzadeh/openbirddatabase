@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26096.0
 names:
   scientific: Stachyris grammiceps
-  fa: nan
+  fa: ''
   en: White-breasted Babbler
   es: Timalí Pechiblanco
   fr: Timalie à poitrine blanche
   de: Grauwangen-Buschtimalie
-  pt: white-breasted babbler
+  pt: ''
   ru: Трёхцветная тимелия
   ja: シロハラモリチメドリ
   zh: 白胸穗鶥

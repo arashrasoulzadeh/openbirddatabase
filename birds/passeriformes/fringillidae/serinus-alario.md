@@ -12,7 +12,7 @@ names:
   es: Serín Alario
   fr: Serin alario
   de: Alariogirlitz
-  pt: black-headed canary
+  pt: ''
   ru: Трёхцветный вьюрок
   ja: クリチャヒワ
   nl: Alariokanarie

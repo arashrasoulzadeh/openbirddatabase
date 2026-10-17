@@ -12,7 +12,7 @@ names:
   es: Miná Indio
   fr: Mainate indien
   de: Indienbeo
-  pt: southern hill myna
+  pt: ''
   ru: Индийская майна
   ja: ミナミキュウカンチョウ
   zh: 九官鳥

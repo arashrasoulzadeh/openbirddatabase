@@ -12,7 +12,7 @@ names:
   es: Brillante Pechigamuza
   fr: Brillant rubinoïde
   de: Braunbauch-Brillantkolibri
-  pt: fawn-breasted brilliant
+  pt: ''
   ru: Буробрюхий бриллиант
   ja: チャムネテリハチドリ
   zh: 棕胸辉蜂鸟

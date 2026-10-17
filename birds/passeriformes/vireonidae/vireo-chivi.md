@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19273.0
 names:
   scientific: Vireo chivi
-  fa: nan
+  fa: ''
   en: Chivi Vireo
   es: Vireo Chiví
   fr: Viréo chivi

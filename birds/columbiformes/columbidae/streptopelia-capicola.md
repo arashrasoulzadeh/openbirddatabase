@@ -12,7 +12,7 @@ names:
   es: Tórtola de El Cabo
   fr: Tourterelle du Cap
   de: Gurrtaube
-  pt: ring-necked dove
+  pt: ''
   ru: Южноафриканская горлица
   ja: アフリカジュズカケバト
   zh: 環頸斑鳩

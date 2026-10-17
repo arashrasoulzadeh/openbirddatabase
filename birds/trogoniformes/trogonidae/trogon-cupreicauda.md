@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 9561.0
 names:
   scientific: Trogon cupreicauda
-  fa: nan
+  fa: ''
   en: Choco Black-throated Trogon
   es: Trogón Amarillo Pacífico
   fr: Trogon de Kerr
   de: Choco-Schwarzkehltrogon
-  pt: choco black-throated trogon
+  pt: ''
   nl: Chocozwartkeeltrogon
   pl: trogon stokowy
   tr: Çoko Kara Gerdanlı Trogonu

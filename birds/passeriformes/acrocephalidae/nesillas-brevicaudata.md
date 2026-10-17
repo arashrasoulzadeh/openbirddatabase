@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23623.0
 names:
   scientific: Nesillas brevicaudata
-  fa: nan
+  fa: ''
   en: Grande Comore Brush Warbler
   es: Zarzalero de Gran Comora
   fr: Nésille de Grande Comore
@@ -15,7 +15,7 @@ names:
   pt: grande comore brush-warbler
   ru: Коморский рогозник
   ja: オオコモロシマヨシキリ
-  zh: Grande Comore Brush Warbler
+  zh: ''
   nl: Grande-Comorezanger
   pl: chaszczak brązowy
   tr: Komor Çalı Ötleğeni

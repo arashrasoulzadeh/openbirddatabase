@@ -12,7 +12,7 @@ names:
   es: Búho Abisinio
   fr: Hibou d'Abyssinie
   de: Afrika-Waldohreule
-  pt: abyssinian owl
+  pt: ''
   ru: Абиссинская сова
   ja: アビシニアトラフズク
   zh: 埃塞长耳鸮

@@ -15,7 +15,7 @@ names:
   pt: seychelles paradise-flycatcher
   ru: Сейшельская райская мухоловка
   ja: セーシェルサンコウチョウ
-  zh: Seychelles Paradise Flycatcher
+  zh: ''
   nl: Seychellenparadijsmonarch
   pl: muchodławka lśniąca
   tr: Seyşeller Monarkı

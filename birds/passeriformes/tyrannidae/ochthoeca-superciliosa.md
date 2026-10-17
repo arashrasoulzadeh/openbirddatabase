@@ -12,7 +12,7 @@ names:
   es: Pitajo Cejirrojo
   fr: Pitajo à sourcils roux
   de: Rötelbrauen-Schmätzertyrann
-  pt: rufous-browed chat-tyrant
+  pt: ''
   nl: Roestbrauwtapuittiran
   pl: kląszczyk rdzawobrewy
   tr: Kızıl Kaşlı Bülbül Tiranı

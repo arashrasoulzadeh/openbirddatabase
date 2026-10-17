@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14420.0
 names:
   scientific: Scytalopus altirostris
-  fa: nan
+  fa: ''
   en: Neblina Tapaculo
   es: Churrín de Neblina
   fr: Mérulaxe à bec épais
   de: Neblinatapaculo
-  pt: neblina tapaculo
+  pt: ''
   ru: Эльфийский тапакуло
   ja: ハシタカオタテドリ
   nl: Elfenwoudtapaculo

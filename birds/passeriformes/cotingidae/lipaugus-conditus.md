@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 15936.0
 names:
   scientific: Lipaugus conditus
-  fa: nan
+  fa: ''
   en: Grey-winged Cotinga
   es: Cotinga Aligrís
   fr: Piauhau à ailes grises
@@ -15,7 +15,7 @@ names:
   pt: saudade-de-asa-cinza
   ru: Серокрылая котинга
   ja: ハイバネカザリドリ
-  zh: Grey-winged Cotinga
+  zh: ''
   nl: Grijsvleugelcotinga
   pl: kosowiec mniejszy
   tr: Gri Kanatlı Kotinga

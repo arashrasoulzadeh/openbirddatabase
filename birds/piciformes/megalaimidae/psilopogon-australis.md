@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10716.0
 names:
   scientific: Psilopogon australis
-  fa: nan
+  fa: ''
   en: Yellow-eared Barbet
   es: Barbudo Orejigualdo
   fr: Barbu à calotte bleue
   de: Gelbohr-Bartvogel
-  pt: yellow-eared barbet
+  pt: ''
   ru: Желтоухий бородастик
   ja: コアオミミゴシキドリ
   zh: 黄耳拟啄木鸟

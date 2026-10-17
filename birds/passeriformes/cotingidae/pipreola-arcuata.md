@@ -12,7 +12,7 @@ names:
   es: Frutero Barrado
   fr: Cotinga barré
   de: Bindenkotinga
-  pt: barred fruiteater
+  pt: ''
   ru: Полосатый ягодоед
   ja: シマミドリカザリドリ
   nl: Gebandeerde cotinga

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12897.0
 names:
   scientific: Graydidascalus brachyurus
-  fa: nan
+  fa: ''
   en: Short-tailed Parrot
   es: Lorito Colicorto
   fr: Caïque à queue courte

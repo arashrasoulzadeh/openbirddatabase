@@ -15,7 +15,7 @@ names:
   pt: tacarcuna wood-quail
   ru: Черношапочный зубцеклювый перепел
   ja: パナマクビワウズラ
-  zh: Tacarcuna Wood Quail
+  zh: ''
   nl: Zwartkeeltandkwartel
   pl: przepiór panamski
   tr: Yazılı Tokro

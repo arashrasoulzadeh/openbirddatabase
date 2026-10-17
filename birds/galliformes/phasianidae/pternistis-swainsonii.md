@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1836.0
 names:
   scientific: Pternistis swainsonii
-  fa: nan
+  fa: ''
   en: Swainson's Spurfowl
   es: Francolín de Swainson
   fr: Francolin de Swainson
   de: Swainsonfrankolin
-  pt: swainson's spurfowl
+  pt: ''
   ru: Свенсонов франколин
   ja: クロアシアカノドシャコ
   nl: Swainsonfrankolijn

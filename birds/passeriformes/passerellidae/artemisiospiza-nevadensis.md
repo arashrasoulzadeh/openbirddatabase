@@ -12,7 +12,7 @@ names:
   es: Chingolo de Nevada
   fr: Bruant des armoises
   de: Beifußammer
-  pt: sagebrush sparrow
+  pt: ''
   ru: Полынная овсянка
   ja: ヨモギヒメドリ
   zh: 艾草漠鹀

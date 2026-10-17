@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34489.0
 names:
   scientific: Driophlox gutturalis
-  fa: nan
+  fa: ''
   en: Sooty Ant Tanager
   es: Habia Sombría
   fr: Habia fuligineux
@@ -15,7 +15,7 @@ names:
   pt: sooty ant-tanager
   ru: Тёмная хабия
   ja: ヒボウシアリフウキンチョウ
-  zh: Sooty Ant Tanager
+  zh: ''
   nl: Grijsrugmiertangare
   pl: habia szara
   tr: Esmer Yüzlü Karınca Kardinali

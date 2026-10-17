@@ -12,7 +12,7 @@ names:
   es: Monterita de Cajamarca
   fr: Tangara alticole
   de: Schwarzscheitel-Finkentangare
-  pt: plain-tailed warbling finch
+  pt: ''
   ru: Серохвостая монтерита
   ja: ミヤママユシトド
   nl: Grijsstaartboomgors

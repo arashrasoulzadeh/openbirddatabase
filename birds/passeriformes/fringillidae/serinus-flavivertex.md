@@ -12,7 +12,7 @@ names:
   es: Serín Coronigualdo
   fr: Serin à calotte jaune
   de: Gelbstirngirlitz
-  pt: yellow-crowned canary
+  pt: ''
   ru: Желтошапочный вьюрок
   ja: キクイタダキカナリア
   nl: Geelkruinkanarie

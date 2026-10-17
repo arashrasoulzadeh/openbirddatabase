@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 8771.0
 names:
   scientific: Otus pauliani
-  fa: nan
+  fa: ''
   en: Karthala Scops Owl
   es: Autillo de las Comoras
   fr: Petit-duc du Karthala
@@ -15,7 +15,7 @@ names:
   pt: comoro scops-owl
   ru: Коморская сплюшка
   ja: コモロコノハズク
-  zh: Karthala Scops Owl
+  zh: ''
   nl: Grande-Comoredwergooruil
   pl: syczek stokowy
   tr: Komor İshakkuşu

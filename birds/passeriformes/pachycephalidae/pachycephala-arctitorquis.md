@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19540.0
 names:
   scientific: Pachycephala arctitorquis
-  fa: nan
+  fa: ''
   en: Wallacean Whistler
   es: Silbador de Wallacea
   fr: Siffleur de Wallace
   de: Weißhals-Dickkopf
-  pt: wallacean whistler
+  pt: ''
   ru: Танимбарский свистун
   ja: ウォーレシアモズヒタキ
   zh: 印尼啸鹟

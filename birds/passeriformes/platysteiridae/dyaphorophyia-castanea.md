@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19834.0
 names:
   scientific: Dyaphorophyia castanea
-  fa: nan
+  fa: ''
   en: Chestnut Wattle-eye
   es: Batis Carunculado Castaño
   fr: Pririt châtain
   de: Weißbürzel-Lappenschnäpper
-  pt: chestnut wattle-eye
+  pt: ''
   ru: Пегая серёжкоглазка
   ja: メスアカメガネヒタキ
   nl: Witstuitlelvliegenvanger

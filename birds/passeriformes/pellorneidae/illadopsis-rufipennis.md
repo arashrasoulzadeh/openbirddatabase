@@ -12,7 +12,7 @@ names:
   es: Tordina Pechipálida
   fr: Akalat à poitrine blanche
   de: Grauwangen-Laubdrossling
-  pt: pale-breasted illadopsis
+  pt: ''
   ru: Серощёкий дроздовник
   ja: ウスチャムジチメドリ
   zh: 苍胸非洲雅鹛

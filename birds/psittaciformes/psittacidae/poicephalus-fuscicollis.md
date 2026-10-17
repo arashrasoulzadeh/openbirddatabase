@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12764.0
 names:
   scientific: Poicephalus fuscicollis
-  fa: nan
+  fa: ''
   en: Brown-necked Parrot
   es: Lorito Cuellipardo
   fr: Perroquet à cou brun
   de: Graukopfpapagei
-  pt: brown-necked parrot
+  pt: ''
   ru: Сероголовый попугай
   ja: ハネナガインコ
   nl: Grijskoppapegaai

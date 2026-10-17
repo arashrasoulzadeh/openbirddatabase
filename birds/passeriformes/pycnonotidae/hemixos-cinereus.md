@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24519.0
 names:
   scientific: Hemixos cinereus
-  fa: nan
+  fa: ''
   en: Cinereous Bulbul
   es: Bulbul Cinéreo
   fr: Bulbul terreux
   de: Malaienbülbül
-  pt: cinereous bulbul
+  pt: ''
   ru: Пепельный бюльбюль
   zh: 灰黑短腳鵯
   nl: Grijze buulbuul

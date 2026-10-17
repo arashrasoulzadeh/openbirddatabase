@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3237.0
 names:
   scientific: Coccyzus melacoryphus
-  fa: nan
+  fa: ''
   en: Dark-billed Cuckoo
   es: Cuclillo Canela
   fr: Coulicou de Vieillot

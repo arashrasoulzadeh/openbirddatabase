@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2634.0
 names:
   scientific: Ptilinopus holosericea
-  fa: nan
+  fa: ''
   en: Cloven-feathered Dove
   es: Tilopo de Nueva Caledonia
   fr: Ptilope vlouvlou
   de: Spaltschwingen-Fruchttaube
-  pt: cloven-feathered dove
+  pt: ''
   ru: Мохноногий голубь
   ja: カマバネキヌバト
   nl: Zijden jufferduif

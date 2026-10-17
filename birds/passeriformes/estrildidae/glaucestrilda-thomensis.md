@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 31278.0
 names:
   scientific: Glaucestrilda thomensis
-  fa: nan
+  fa: ''
   en: Cinderella Waxbill
   es: Estrilda Cenicienta
   fr: Astrild de Sao Tomé
   de: Cinderellaastrild
-  pt: cinderella waxbill
+  pt: ''
   ru: Краснобокий астрильд
   ja: サントメアサギリチョウ
   nl: Cinderella-astrild

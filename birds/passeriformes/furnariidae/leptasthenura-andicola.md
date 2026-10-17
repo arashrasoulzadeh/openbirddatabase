@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15336.0
 names:
   scientific: Leptasthenura andicola
-  fa: nan
+  fa: ''
   en: Andean Tit-Spinetail
   es: Tijeral Andino
   fr: Synallaxe des Andes
   de: Andenmeisenschlüpfer
-  pt: andean tit-spinetail
+  pt: ''
   ru: Андская колючехвостка
   ja: アンデスエナガカマドドリ
   nl: Andesmeesstekelstaart

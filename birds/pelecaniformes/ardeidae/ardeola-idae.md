@@ -15,7 +15,7 @@ names:
   pt: malagasy pond-heron
   ru: Мадагаскарская прудовая цапля
   ja: マダガスカルカンムリサギ
-  zh: Malagasy Pond Heron
+  zh: ''
   nl: Madagaskarralreiger
   pl: czapla malgaska
   tr: Madagaskar Alaca Balıkçılı

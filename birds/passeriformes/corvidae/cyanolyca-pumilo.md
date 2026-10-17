@@ -12,7 +12,7 @@ names:
   es: Chara Gorjinegra
   fr: Geai à gorge noire
   de: Schwarzkehlhäher
-  pt: black-throated jay
+  pt: ''
   ru: Черногорлая сойка
   ja: ノドグロアオカケス
   zh: 黑喉蓝头鹊

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15566.0
 names:
   scientific: Mazaria propinqua
-  fa: nan
+  fa: ''
   en: White-bellied Spinetail
   es: Pijuí Ventriblanco
   fr: Synallaxe à ventre blanc

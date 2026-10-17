@@ -12,7 +12,7 @@ names:
   es: Estornino de Neumann
   fr: Rufipenne de Neumann
   de: Neumannstar
-  pt: neumann's starling
+  pt: ''
   ru: Скальный скворец
   ja: ニシアカバネテリムク
   nl: Neumannspreeuw

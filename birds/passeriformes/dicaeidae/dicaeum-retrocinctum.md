@@ -12,7 +12,7 @@ names:
   es: Picaflores de Mindoro
   fr: Dicée de Mindoro
   de: Mindoromistelfresser
-  pt: scarlet-collared flowerpecker
+  pt: ''
   ru: Миндорский цветоед
   ja: ミンドロハナドリ
   zh: 红领啄花鸟

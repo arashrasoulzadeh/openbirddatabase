@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2585.0
 names:
   scientific: Megaloprepia formosa
-  fa: nan
+  fa: ''
   en: Scarlet-breasted Fruit Dove
   es: Tilopo de Bernstein
   fr: Ptilope à poitrine écarlate
@@ -15,7 +15,7 @@ names:
   pt: scarlet-breasted fruit-dove
   ru: Алогрудый фруктовый голубь
   ja: モルッカヒメアオバト
-  zh: Scarlet-breasted Fruit Dove
+  zh: ''
   nl: Prachtjufferduif
   pl: owocożer żółtobrzuchy
   tr: Al Göğüslü Meyve Kumrusu

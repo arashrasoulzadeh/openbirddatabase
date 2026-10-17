@@ -12,7 +12,7 @@ names:
   es: Brillante Coroniverde
   fr: Brillant fer-de-lance
   de: Grünstirn-Brillantkolibri
-  pt: green-crowned brilliant
+  pt: ''
   ru: Синегрудый бриллиант
   ja: ミドリボウシテリハチドリ
   zh: 绿顶辉蜂鸟

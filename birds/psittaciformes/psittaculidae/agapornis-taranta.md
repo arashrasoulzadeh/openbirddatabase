@@ -12,7 +12,7 @@ names:
   es: Inseparable Abisinio
   fr: Inséparable d'Abyssinie
   de: Tarantapapagei
-  pt: black-winged lovebird
+  pt: ''
   ru: Чернокрылый неразлучник
   ja: ハツハナインコ
   zh: 黑翅情侶鸚鵡

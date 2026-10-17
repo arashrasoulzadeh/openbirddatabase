@@ -15,7 +15,7 @@ names:
   pt: white-bellied imperial-pigeon
   ru: Сулавесский плодовый голубь
   ja: シロハラオビオバト
-  zh: White-bellied Imperial Pigeon
+  zh: ''
   nl: Celebesmuskaatduif
   pl: muszkatela białobrzucha
   tr: Ak Karınlı Has Güvercin

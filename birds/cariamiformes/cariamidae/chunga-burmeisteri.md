@@ -12,7 +12,7 @@ names:
   es: Chuña Patinegra
   fr: Cariama de Burmeister
   de: Schwarzfußseriema
-  pt: black-legged seriema
+  pt: ''
   ru: Черноногая кариама
   ja: ハイイロノガンモドキ
   zh: 黑腿叫鶴

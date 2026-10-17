@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34491.0
 names:
   scientific: Driophlox cristata
-  fa: nan
+  fa: ''
   en: Crested Ant Tanager
   es: Habia Copetona
   fr: Habia à crête rouge
@@ -15,7 +15,7 @@ names:
   pt: crested ant-tanager
   ru: Хохлатая хабия
   ja: カンムリアリフウキンチョウ
-  zh: Crested Ant Tanager
+  zh: ''
   nl: Roodkuifmiertangare
   pl: habia czubata
   tr: Tepeli Karınca Kardinali

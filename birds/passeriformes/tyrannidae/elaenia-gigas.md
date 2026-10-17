@@ -12,7 +12,7 @@ names:
   es: Fiofío Gigante
   fr: Élénie écaillée
   de: Schuppenolivtyrann
-  pt: mottle-backed elaenia
+  pt: ''
   ru: Чубатая эления
   ja: マダラシラギクタイランチョウ
   nl: Geschubde elenia

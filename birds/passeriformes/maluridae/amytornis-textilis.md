@@ -12,7 +12,7 @@ names:
   es: Maluro Occidental
   fr: Amytis natté
   de: Strichelgrasschlüpfer
-  pt: western grasswren
+  pt: ''
   ru: Толстоклювый амитис
   ja: ニシセスジムシクイ
   nl: Westelijke grassluiper

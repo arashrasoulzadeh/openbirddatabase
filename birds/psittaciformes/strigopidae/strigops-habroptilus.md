@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 12149.0
 names:
   scientific: Strigops habroptilus
-  fa: nan
+  fa: ''
   en: Kakapo
   es: Loro Gigante
   fr: Strigops kakapo
   de: Kakapo
-  pt: kakapo
+  pt: ''
   ru: Какапо
   ja: フクロウオウム
   nl: Kakapo

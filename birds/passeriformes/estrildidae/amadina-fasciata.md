@@ -15,7 +15,7 @@ names:
   pt: degolado
   ru: Красногорлый астрильд
   ja: イッコウチョウ
-  zh: Cut-throat Finch
+  zh: ''
   nl: Bandvink
   pl: amadyna obrożna
   tr: Kesikboyun Mumgagası

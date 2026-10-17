@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21339.0
 names:
   scientific: Garrulus glandarius
-  fa: nan
+  fa: ''
   en: Eurasian Jay
   es: Arrendajo Euroasiático
   fr: Geai des chênes

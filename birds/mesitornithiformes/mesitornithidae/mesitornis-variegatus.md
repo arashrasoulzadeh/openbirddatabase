@@ -12,7 +12,7 @@ names:
   es: Mesito Pechiblanco
   fr: Mésite variée
   de: Weißbrust-Stelzenralle
-  pt: white-breasted mesite
+  pt: ''
   ru: Белогрудый месит
   ja: ムナジロクイナモドキ
   nl: Witborststeltral

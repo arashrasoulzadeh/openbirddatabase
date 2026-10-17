@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32177.0
 names:
   scientific: Carpodacus stoliczkae
-  fa: nan
+  fa: ''
   en: Pale Rosefinch
   es: Camachuelo Pálido
   fr: Roselin pâle
   de: Fahlgimpel
-  pt: pale rosefinch
+  pt: ''
   ru: Уйгурская чечевица
   ja: ウスマシコ
   zh: 沙色朱雀

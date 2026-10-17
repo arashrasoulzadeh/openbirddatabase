@@ -12,7 +12,7 @@ names:
   es: Monarca Brillante
   fr: Tchitrec noir
   de: Schwarzkopfmonarch
-  pt: blue-headed crested flycatcher
+  pt: ''
   ru: Чубатый монарх
   ja: アオカンムリヒタキ
   nl: Blauwkopkuifmonarch

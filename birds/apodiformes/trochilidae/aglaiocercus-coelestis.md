@@ -12,7 +12,7 @@ names:
   es: Silfo Celeste
   fr: Sylphe à queue violette
   de: Langschwanzsylphe
-  pt: violet-tailed sylph
+  pt: ''
   ru: Фиолетовохвостый сильф
   ja: ムラサキフタオハチドリ
   zh: 紫长尾蜂鸟

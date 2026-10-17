@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 2313.0
 names:
   scientific: Geotrygon versicolor
-  fa: nan
+  fa: ''
   en: Crested Quail-Dove
   es: Paloma Perdiz Jamaicana
   fr: Colombe versicolore
   de: Kurzschopftaube
-  pt: crested quail-dove
+  pt: ''
   ru: Хохлатая перепелиная горлица
   ja: カンムリウズラバト
   zh: 凤头鹑鸠

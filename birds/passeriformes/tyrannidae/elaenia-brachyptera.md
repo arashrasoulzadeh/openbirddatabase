@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16711.0
 names:
   scientific: Elaenia brachyptera
-  fa: nan
+  fa: ''
   en: Coopmans's Elaenia
   es: Fiofío Alicorto
   fr: Élénie de Berlepsch
   de: Braunrücken-Olivtyrann
-  pt: coopmans's elaenia
+  pt: ''
   ru: Короткокрылая эления
   ja: ナリーニョギクタイランチョウ
   nl: Coopmanselenia

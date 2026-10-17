@@ -12,7 +12,7 @@ names:
   es: Carbonero Cejiblanco
   fr: Mésange à sourcils blancs
   de: Weißbrauenmeise
-  pt: white-browed tit
+  pt: ''
   ru: Белобровая гаичка
   ja: マユガラ
   zh: 白眉山雀

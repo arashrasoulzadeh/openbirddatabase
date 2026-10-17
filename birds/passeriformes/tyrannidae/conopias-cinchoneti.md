@@ -12,7 +12,7 @@ names:
   es: Bienteveo Cejiamarillo
   fr: Tyran à sourcils jaunes
   de: Gelbbrauen-Maskentyrann
-  pt: lemon-browed flycatcher
+  pt: ''
   ru: Желтобровый бентеви
   ja: キハチマキヒタキモドキ
   nl: Geelringtiran

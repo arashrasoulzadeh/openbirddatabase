@@ -12,7 +12,7 @@ names:
   es: Cigüeña Lanuda Asiática
   fr: Cigogne épiscopale
   de: Asien-Wollhalsstorch
-  pt: asian woolly-necked stork
+  pt: ''
   ru: Белошейный аист
   ja: エンビコウ
   zh: 白颈鹳

@@ -12,7 +12,7 @@ names:
   es: Suimanga Acollarado
   fr: Souimanga à collier
   de: Halsband-Nektarvogel
-  pt: collared sunbird
+  pt: ''
   ru: Ошейниковая нектарница
   ja: キバラコバシタイヨウチョウ
   nl: Halsbandhoningzuiger

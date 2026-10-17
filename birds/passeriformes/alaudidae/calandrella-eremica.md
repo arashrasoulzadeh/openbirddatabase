@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22761.0
 names:
   scientific: Calandrella eremica
-  fa: nan
+  fa: ''
   en: Rufous-capped Lark
   es: Terrera Capirrufa
   fr: Alouette de Peters
   de: Jemenlerche
-  pt: rufous-capped lark
+  pt: ''
   ru: Йеменский жаворонок
   nl: Roestkruinleeuwerik
   pl: skowrończyk pustynny

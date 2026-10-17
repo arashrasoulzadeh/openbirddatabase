@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5425.0
 names:
   scientific: Mustelirallus cerverai
-  fa: nan
+  fa: ''
   en: Zapata Rail
   es: Polluela de Zapata
   fr: Râle de Zapata
   de: Kubasumpfhuhn
-  pt: zapata rail
+  pt: ''
   ru: Кубинский погоныш
   ja: キューバクイナ
   nl: Zapataral

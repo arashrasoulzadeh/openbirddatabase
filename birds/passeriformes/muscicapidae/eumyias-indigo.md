@@ -12,7 +12,7 @@ names:
   es: Papamoscas Índigo
   fr: Gobemouche indigo
   de: Javaschnäpper
-  pt: indigo flycatcher
+  pt: ''
   ru: Индиговая мухоловка
   ja: アイイロヒタキ
   nl: Indigovliegenvanger

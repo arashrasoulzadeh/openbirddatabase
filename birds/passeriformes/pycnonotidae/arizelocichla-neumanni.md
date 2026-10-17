@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24363.0
 names:
   scientific: Arizelocichla neumanni
-  fa: nan
+  fa: ''
   en: Uluguru Mountain Greenbul
   es: Bulbul de Los Uluguru
   fr: Bulbul des Uluguru
   de: Ulugurubülbül
-  pt: uluguru mountain greenbul
+  pt: ''
   ru: Улугурский бюльбюль
   ja: ウルグルアオノドヒヨ
   nl: Ulugurubuulbuul

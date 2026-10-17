@@ -12,7 +12,7 @@ names:
   es: Artamo Grande
   fr: Grand Langrayen
   de: Riesenschwalbenstar
-  pt: great woodswallow
+  pt: ''
   ru: Большой артам
   ja: パプアモリツバメ
   zh: 大燕鵙

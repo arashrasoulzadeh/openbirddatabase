@@ -12,7 +12,7 @@ names:
   es: Vanga Azul de las Comoras
   fr: Artamie des Comores
   de: Komorenvanga
-  pt: comoro blue vanga
+  pt: ''
   nl: Comorenvanga
   pl: wanga komorska
   tr: Komoros Mavi Vangası

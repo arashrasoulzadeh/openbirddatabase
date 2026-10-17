@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4930.0
 names:
   scientific: Pampa rufa
-  fa: nan
+  fa: ''
   en: Rufous Sabrewing
   es: Colibrí Rojizo Mexicano
   fr: Campyloptère roux
   de: Buntschwanz-Degenflügel
-  pt: rufous sabrewing
+  pt: ''
   ru: Рыжий саблекрыл
   ja: チャバラケンバネハチドリ
   nl: Rode sabelvleugel

@@ -12,7 +12,7 @@ names:
   es: Marabú Menor
   fr: Marabout chevelu
   de: Sundamarabu
-  pt: lesser adjutant
+  pt: ''
   ru: Зондский марабу
   ja: コハゲコウ
   zh: 秃鹳

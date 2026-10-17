@@ -12,7 +12,7 @@ names:
   es: Petroica Rosada
   fr: Miro rosé
   de: Rosenschnäpper
-  pt: rose robin
+  pt: ''
   ru: Розовая петроика
   ja: ハイイロサンショクヒタキ
   zh: 瑰色鸲鹟

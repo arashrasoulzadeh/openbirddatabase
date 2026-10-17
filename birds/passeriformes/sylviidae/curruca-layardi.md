@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25290.0
 names:
   scientific: Curruca layardi
-  fa: nan
+  fa: ''
   en: Layard's Warbler
   es: Curruca de Layard
   fr: Fauvette de Layard
   de: Layardgrasmücke
-  pt: layard's warbler
+  pt: ''
   ru: Намибийская синицевая славка
   ja: ムナフカラムシクイ
   zh: 莱氏林莺

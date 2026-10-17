@@ -12,7 +12,7 @@ names:
   es: Martín Pigmeo Pechiazul
   fr: Martin-pêcheur à poitrine bleue
   de: Blaubrust-Zwergfischer
-  pt: indigo-banded kingfisher
+  pt: ''
   ru: Индиговый зимородок
   ja: アオオビカワセミ
   zh: 藍胸三趾翠鳥

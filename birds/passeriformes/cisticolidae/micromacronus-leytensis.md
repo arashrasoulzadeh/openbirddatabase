@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 22931.0
 names:
   scientific: Micromacronus leytensis
-  fa: nan
+  fa: ''
   en: Visayan Miniature Babbler
   es: Timalí Enano de las Bisayas
   fr: Camaroptère de Leyte
@@ -15,7 +15,7 @@ names:
   pt: leyte plumed-warbler
   ru: Висаянский плащепёр
   ja: ヒメコシミノチメドリ
-  zh: Visayan Miniature Babbler
+  zh: ''
   nl: Leyteboszangertimalia
   pl: tymaleczka miniaturowa
   tr: Leyte Telliötleğeni

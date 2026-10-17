@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8787.0
 names:
   scientific: Otus mayottensis
-  fa: nan
+  fa: ''
   en: Mayotte Scops Owl
   es: Autillo de Mayotte
   fr: Petit-duc de Mayotte
@@ -15,7 +15,7 @@ names:
   pt: mayotte scops-owl
   ru: Майоттская совка
   ja: マヨットコノハズク
-  zh: Mayotte Scops Owl
+  zh: ''
   nl: Mayottedwergooruil
   pl: syczek komorski
   tr: Mayot İshakkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26659.0
 names:
   scientific: Turdoides gilberti
-  fa: nan
+  fa: ''
   en: White-throated Mountain Babbler
   es: Charlatán Goliblanco
   fr: Phyllanthe à gorge blanche
@@ -15,7 +15,7 @@ names:
   pt: white-throated mountain-babbler
   ru: Белогорлый скворцовый бабблер
   ja: ノドジロハシジロチメドリ
-  zh: White-throated Mountain Babbler
+  zh: ''
   nl: Serlebergtimalia
   pl: stoczyk białogardły
   tr: Ak Boğazlı Yedikardeş

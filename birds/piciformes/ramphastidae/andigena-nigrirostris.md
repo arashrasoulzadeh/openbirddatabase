@@ -15,7 +15,7 @@ names:
   pt: black-billed mountain-toucan
   ru: Черноклювый перцеяд
   ja: ハシグロヤマオオハシ
-  zh: Black-billed Mountain Toucan
+  zh: ''
   nl: Witwangbergtoekan
   pl: andotukan czarnodzioby
   tr: Kara Gagalı Dağ Tukaneti

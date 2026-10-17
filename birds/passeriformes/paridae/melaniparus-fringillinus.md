@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22257.0
 names:
   scientific: Melaniparus fringillinus
-  fa: nan
+  fa: ''
   en: Red-throated Tit
   es: Carbonero Gorjirrufo
   fr: Mésange à gorge rousse
   de: Rostkehl-Rußmeise
-  pt: red-throated tit
+  pt: ''
   ru: Рыжегорлая синица
   ja: カオアカガラ
   nl: Roodkeelmees

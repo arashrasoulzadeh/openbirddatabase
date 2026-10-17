@@ -12,7 +12,7 @@ names:
   es: Tangara Coroniblanca
   fr: Tangara à coiffe blanche
   de: Weißkappentangare
-  pt: white-capped tanager
+  pt: ''
   ru: Белошапочная танагра
   ja: シラガフウキンチョウ
   zh: 白顶唐纳雀

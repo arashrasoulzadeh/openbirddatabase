@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Pechinegro Chino
   fr: Rossignol de Przewalski
   de: Tibetrubinkehlchen
-  pt: chinese rubythroat
+  pt: ''
   ru: Тибетская красношейка
   ja: オジロノゴマ
   zh: 白须黑胸歌鸲

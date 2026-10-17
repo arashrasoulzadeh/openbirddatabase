@@ -12,7 +12,7 @@ names:
   es: Colibrí Condecorado
   fr: Colibri de Castelnau
   de: Tropfenbrustkolibri
-  pt: white-tufted sunbeam
+  pt: ''
   ru: Красногорлая ирида
   ja: シロフサニジハチドリ
   zh: 辉胸闪羽蜂鸟

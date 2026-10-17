@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12462.0
 names:
   scientific: Cyanoramphus saisseti
-  fa: nan
+  fa: ''
   en: New Caledonian Parakeet
   es: Perico de Nueva Caledonia
   fr: Perruche de Nouvelle-Calédonie
   de: Neukaledoniensittich
-  pt: new caledonian parakeet
+  pt: ''
   ru: Новокаледонский какарики
   ja: ニューカレドニアハシインコ
   zh: 新加里東紅額鸚鵡

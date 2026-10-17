@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29570.0
 names:
   scientific: Ficedula riedeli
-  fa: nan
+  fa: ''
   en: Tanimbar Flycatcher
   es: Papamoscas de las Tanimbar
   fr: Gobemouche des Tanimbar
   de: Yamdenaschnäpper
-  pt: tanimbar flycatcher
+  pt: ''
   ru: Танимбарская мухоловка
   ja: タニバルヒタキ
   nl: Yamdenavliegenvanger

@@ -15,7 +15,7 @@ names:
   pt: jacutinga-de-garganta-azul
   ru: Синегорлый гуан
   ja: アオノドナキシャクケイ
-  zh: Blue-throated Piping Guan
+  zh: ''
   nl: Blauwkeelgoean
   pl: grdacz modrogardły
   tr: Mavi Gerdanlı Islıkçı Guan

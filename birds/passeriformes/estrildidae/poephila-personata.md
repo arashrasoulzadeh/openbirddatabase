@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31040.0
 names:
   scientific: Poephila personata
-  fa: nan
+  fa: ''
   en: Masked Finch
   es: Diamante Enmascarado
   fr: Diamant masqué
   de: Maskenamadine
-  pt: masked finch
+  pt: ''
   ru: Масковая амадина
   ja: キバシキンセイチョウ
   zh: 白耳草雀

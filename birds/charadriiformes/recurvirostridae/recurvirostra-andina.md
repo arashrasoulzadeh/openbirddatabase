@@ -12,7 +12,7 @@ names:
   es: Avoceta Andina
   fr: Avocette des Andes
   de: Andensäbelschnäbler
-  pt: andean avocet
+  pt: ''
   ru: Андская шилоклювка
   ja: アンデスソリハシセイタカシギ
   nl: Andeskluut

@@ -12,7 +12,7 @@ names:
   es: Mielero Barbiblanco
   fr: Myzomèle à menton blanc
   de: Weißkinn-Honigfresser
-  pt: white-chinned myzomela
+  pt: ''
   ru: Белогорлая медовка
   ja: ノドジロミツスイ
   nl: Witkindwerghoningeter

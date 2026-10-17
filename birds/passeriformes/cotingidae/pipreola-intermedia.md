@@ -12,7 +12,7 @@ names:
   es: Frutero Colifajado
   fr: Cotinga à queue rayée
   de: Schmuckbauchkotinga
-  pt: band-tailed fruiteater
+  pt: ''
   ru: Пестрогрудый ягодоед
   ja: オビオミドリカザリドリ
   nl: Zwartkopcotinga

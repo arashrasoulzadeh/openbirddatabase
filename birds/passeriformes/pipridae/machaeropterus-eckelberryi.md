@@ -12,7 +12,7 @@ names:
   es: Saltarín Pintado
   fr: Manakin d'Eckelberry
   de: Gelbbrustpipra
-  pt: painted manakin
+  pt: ''
   ru: Расписная пипра
   ja: サイシキマイコドリ
   nl: Veelkleurenmanakin

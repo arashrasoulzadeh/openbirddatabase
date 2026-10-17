@@ -12,7 +12,7 @@ names:
   es: Zanate Mexicano
   fr: Quiscale à longue queue
   de: Großschwanzgrackel
-  pt: great-tailed grackle
+  pt: ''
   ru: Большехвостый гракл
   ja: オナガクロムクドリモドキ
   zh: 大尾鷯哥

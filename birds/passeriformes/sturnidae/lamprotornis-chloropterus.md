@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27972.0
 names:
   scientific: Lamprotornis chloropterus
-  fa: nan
+  fa: ''
   en: Lesser Blue-eared Starling
   es: Estornino de Swainson
   fr: Choucador de Swainson
   de: Messingglanzstar
-  pt: lesser blue-eared starling
+  pt: ''
   ru: Блестящий спрео
   ja: コセイキムクドリ
   nl: Blauwoorglansspreeuw

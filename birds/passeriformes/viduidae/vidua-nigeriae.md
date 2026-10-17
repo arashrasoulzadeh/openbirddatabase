@@ -12,7 +12,7 @@ names:
   es: Viuda Nigeriana
   fr: Combassou du Nigéria
   de: Grünschwanzwitwe
-  pt: quailfinch indigobird
+  pt: ''
   ru: Нигерийская вдовушка
   ja: シャコスズメシコンチョウ
   zh: 鹑雀维达雀

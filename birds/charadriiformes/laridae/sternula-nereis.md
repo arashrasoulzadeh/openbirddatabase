@@ -15,7 +15,7 @@ names:
   pt: australian fairy tern
   ru: Австралийская крачка
   ja: ヒメアジサシ
-  zh: Fairy Tern
+  zh: ''
   nl: Elfenstern
   pl: rybitwa nadobna
   tr: Avustralya Sumrusu

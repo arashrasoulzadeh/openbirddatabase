@@ -12,7 +12,7 @@ names:
   es: Piscuiz del Perijá
   fr: Synallaxe de la Perija
   de: Perijacanastero
-  pt: perija thistletail
+  pt: ''
   ru: Перихский чертополошник
   ja: ペリジャトゲオカマドドリ
   nl: Perijadistelstaart

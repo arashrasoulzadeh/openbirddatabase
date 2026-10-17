@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18356.0
 names:
   scientific: Aethomyias nigrorufus
-  fa: nan
+  fa: ''
   en: Bicolored Scrubwren
   es: Acantiza Bicolor
   fr: Séricorne noir et roux
@@ -15,7 +15,7 @@ names:
   pt: bicolored mouse-warbler
   ru: Чёрно-рыжая мышевидка
   ja: ミヤマネズミムシクイ
-  zh: Bicolored Scrubwren
+  zh: ''
   nl: Zwart-rosse struiksluiper
   pl: paprotek rdzawy
   tr: Çift Renkli Farebülbülü

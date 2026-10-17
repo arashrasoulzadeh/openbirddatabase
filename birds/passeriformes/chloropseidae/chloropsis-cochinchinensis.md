@@ -12,7 +12,7 @@ names:
   es: Verdín de Java
   fr: Verdin de Java
   de: Javablattvogel
-  pt: javan leafbird
+  pt: ''
   ru: Синекрылая листовка
   ja: アオバネコノハドリ
   zh: 蓝翅叶鹎

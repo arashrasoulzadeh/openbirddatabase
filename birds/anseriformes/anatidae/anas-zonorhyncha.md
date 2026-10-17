@@ -12,7 +12,7 @@ names:
   es: Ánade Picopinto Chino
   fr: Canard de Chine
   de: China-Fleckschnabelente
-  pt: eastern spot-billed duck
+  pt: ''
   ru: Чёрная кряква
   ja: カルガモ
   zh: 斑嘴鸭

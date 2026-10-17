@@ -15,7 +15,7 @@ names:
   pt: sula hanging-parrot
   ru: Суласский лорикулюс
   ja: スラサトウチョウ
-  zh: Sula Hanging Parrot
+  zh: ''
   nl: Soelavleermuisparkiet
   pl: zwisogłówka złotogrzbieta
   tr: Sula Cennet Papağanı

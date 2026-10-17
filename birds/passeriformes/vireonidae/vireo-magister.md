@@ -12,7 +12,7 @@ names:
   es: Vireo Yucateco
   fr: Viréo du Yucatan
   de: Yucatánvireo
-  pt: yucatan vireo
+  pt: ''
   ru: Юкатанский виреон
   ja: ユカタンモズモドキ
   nl: Yucatanvireo

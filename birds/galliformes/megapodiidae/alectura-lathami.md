@@ -12,7 +12,7 @@ names:
   es: Talégalo Cabecirrojo
   fr: Talégalle de Latham
   de: Australbuschhuhn
-  pt: australian brushturkey
+  pt: ''
   ru: Австралийский курохвост
   ja: ヤブツカツクリ
   zh: 叢塚雉

@@ -12,7 +12,7 @@ names:
   es: Inseparable Cachetón
   fr: Inséparable à joues noires
   de: Rußköpfchen
-  pt: black-cheeked lovebird
+  pt: ''
   ru: Чернощёкий неразлучник
   ja: クロボタンインコ
   zh: 黑頰情侶鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Colaespina de Temminck
   fr: Orthonyx de Temminck
   de: Dschungelflöter
-  pt: australian logrunner
+  pt: ''
   ru: Австалийский острохвост
   ja: ハシリチメドリ
   zh: 刺尾鸫

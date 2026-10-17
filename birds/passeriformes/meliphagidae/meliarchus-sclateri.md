@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18143.0
 names:
   scientific: Meliarchus sclateri
-  fa: nan
+  fa: ''
   en: Makira Honeyeater
   es: Mielero de San Cristóbal
   fr: Méliphage de San Cristobal
   de: Rostschwanz-Honigfresser
-  pt: makira honeyeater
+  pt: ''
   ru: Светлоклювый медолюб
   ja: サンクリストバルミツスイ
   nl: San-Cristobalhoningeter

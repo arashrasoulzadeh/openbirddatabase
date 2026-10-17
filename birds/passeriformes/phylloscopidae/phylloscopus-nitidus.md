@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24924.0
 names:
   scientific: Phylloscopus nitidus
-  fa: nan
+  fa: ''
   en: Green Warbler
   es: Mosquitero del Cáucaso
   fr: Pouillot du Caucase

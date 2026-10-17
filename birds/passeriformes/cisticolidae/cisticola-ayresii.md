@@ -12,7 +12,7 @@ names:
   es: Cistícola de Ayres
   fr: Cisticole gratte-nuage
   de: Zwergzistensänger
-  pt: wing-snapping cisticola
+  pt: ''
   ru: Карликовая цистикола
   ja: タンビセッカ
   nl: Dwerggraszanger

@@ -15,7 +15,7 @@ names:
   pt: cloud-forest screech-owl
   ru: Туманная совка
   ja: ウンムリンオオコノハズク
-  zh: Cloud-forest Screech Owl
+  zh: ''
   nl: Bosschreeuwuil
   pl: syczoń prążkowany
   tr: Marshall Puhucuğu

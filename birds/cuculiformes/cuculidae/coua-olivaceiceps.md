@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3068.0
 names:
   scientific: Coua olivaceiceps
-  fa: nan
+  fa: ''
   en: Olive-capped Coua
   es: Cúa Capioliva
   fr: Coua à tête olive
   de: Weißkehl-Seidenkuckuck
-  pt: olive-capped coua
+  pt: ''
   nl: Olijfkopcoua
   pl: kuja oliwkowa
   tr: Zeytuni Başlıklı Kua

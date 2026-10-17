@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 20192.0
 names:
   scientific: Malaconotus blanchoti
-  fa: nan
+  fa: ''
   en: Grey-headed Bushshrike
   es: Gladiador Cabecigrís
   fr: Gladiateur de Blanchot
@@ -15,7 +15,7 @@ names:
   pt: picanço-oliváceo
   ru: Сероголовый гладиатор
   ja: オオヤブモズ
-  zh: Grey-headed Bushshrike
+  zh: ''
   nl: Spookklauwier
   pl: dzierzbik szarogłowy
   tr: Blanchot Çalıkasabı

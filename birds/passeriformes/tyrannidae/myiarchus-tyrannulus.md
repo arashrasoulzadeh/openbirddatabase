@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17335.0
 names:
   scientific: Myiarchus tyrannulus
-  fa: nan
+  fa: ''
   en: Brown-crested Flycatcher
   es: Copetón Tiranillo
   fr: Tyran de Wied

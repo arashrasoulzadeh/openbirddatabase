@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30522.0
 names:
   scientific: Aethopyga gouldiae
-  fa: nan
+  fa: ''
   en: Mrs. Gould's Sunbird
   es: Suimanga de Gould
   fr: Souimanga de Gould
   de: Gouldnektarvogel
-  pt: mrs. gould's sunbird
+  pt: ''
   ru: Гульдова нектарница
   ja: ルリオタイヨウチョウ
   zh: 蓝喉太阳鸟

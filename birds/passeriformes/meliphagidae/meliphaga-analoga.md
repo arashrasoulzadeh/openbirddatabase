@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17770.0
 names:
   scientific: Meliphaga analoga
-  fa: nan
+  fa: ''
   en: Mimic Honeyeater
   es: Mielero Imitador
   fr: Méliphage sosie
   de: Papuahonigfresser
-  pt: mimic honeyeater
+  pt: ''
   ru: Медосос-пересмешник
   ja: ミドリキミミミツスイ
   nl: Reichenbachhoningeter

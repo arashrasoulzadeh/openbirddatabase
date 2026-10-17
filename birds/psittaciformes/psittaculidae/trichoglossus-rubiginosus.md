@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12667.0
 names:
   scientific: Trichoglossus rubiginosus
-  fa: nan
+  fa: ''
   en: Pohnpei Lorikeet
   es: Lori de Ponapé
   fr: Loriquet de Ponapé
   de: Kirschlori
-  pt: pohnpei lorikeet
+  pt: ''
   ru: Вишнёвый лорикет
   ja: エビチャインコ
   nl: Ponapélori

@@ -15,7 +15,7 @@ names:
   pt: gray-crested finch
   ru: Серохохлый овсяночник
   ja: ハイエボシシトド
-  zh: Grey-crested Finch
+  zh: ''
   nl: Grijze kuifgors
   pl: szarzynek jednobarwny
   tr: Tepeli Gri İspinoz

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19920.0
 names:
   scientific: Prionops retzii
-  fa: nan
+  fa: ''
   en: Retz's Helmetshrike
   es: Prionopo de Retz
   fr: Bagadais de Retz
   de: Dreifarben-Brillenvanga
-  pt: retz's helmetshrike
+  pt: ''
   ru: Трёхцветный шлемоголов
   ja: アカメメガネモズ
   nl: Retzklauwier

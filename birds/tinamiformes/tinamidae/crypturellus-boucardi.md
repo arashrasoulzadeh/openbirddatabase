@@ -12,7 +12,7 @@ names:
   es: Tinamú Pizarroso
   fr: Tinamou de Boucard
   de: Graukehltinamu
-  pt: slaty-breasted tinamou
+  pt: ''
   ru: Аспидногрудый скрытохвост
   ja: モリシギダチョウ
   zh: 灰胸穴䳍

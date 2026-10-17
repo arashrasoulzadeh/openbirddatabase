@@ -12,7 +12,7 @@ names:
   es: Semillero Puertorriqueño
   fr: Pèrenoir de Porto Rico
   de: Rotkopf-Gimpeltangare
-  pt: puerto rican bullfinch
+  pt: ''
   ru: Пуэрториканский семилеро
   ja: オオクロアカウソ
   nl: Roodkruindikbekje

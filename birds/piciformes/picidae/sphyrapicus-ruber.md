@@ -12,7 +12,7 @@ names:
   es: Chupasavia Pechirrojo
   fr: Pic à poitrine rouge
   de: Feuerkopf-Saftlecker
-  pt: red-breasted sapsucker
+  pt: ''
   ru: Красногрудый дятел-сокоед
   ja: ムネアカシルスイキツツキ
   zh: 紅胸吸汁啄木鳥

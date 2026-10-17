@@ -12,7 +12,7 @@ names:
   es: Monarca de Taveuni
   fr: Lamprolie queue-de-soie
   de: Seidenfächerschwanz
-  pt: taveuni silktail
+  pt: ''
   ru: Шелкохвостка
   ja: ビロードムシクイ
   zh: 塔韋烏尼絲尾鶲

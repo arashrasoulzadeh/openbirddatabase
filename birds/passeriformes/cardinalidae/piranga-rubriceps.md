@@ -12,7 +12,7 @@ names:
   es: Piranga Capuchirroja
   fr: Piranga à capuchon
   de: Scharlachkopfkardinal
-  pt: red-hooded tanager
+  pt: ''
   ru: Красногрудая пиранга
   ja: アカズキンフウキンチョウ
   nl: Karmozijnkoptangare

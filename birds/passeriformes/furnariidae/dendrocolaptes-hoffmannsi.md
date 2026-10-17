@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14736.0
 names:
   scientific: Dendrocolaptes hoffmannsi
-  fa: nan
+  fa: ''
   en: Hoffmanns's Woodcreeper
   es: Trepatroncos de Hoffmanns
   fr: Grimpar de Hoffmanns

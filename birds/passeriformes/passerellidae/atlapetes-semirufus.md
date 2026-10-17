@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33459.0
 names:
   scientific: Atlapetes semirufus
-  fa: nan
+  fa: ''
   en: Ochre-breasted Brushfinch
   es: Atlapetes Semirrufo
   fr: Tohi demi-roux
   de: Ockerbrust-Buschammer
-  pt: ochre-breasted brushfinch
+  pt: ''
   ru: Рыжеголовая атлапета
   ja: ムネアカヤブシトド
   nl: Okerborststruikgors

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14785.0
 names:
   scientific: Xiphocolaptes major
-  fa: nan
+  fa: ''
   en: Great Rufous Woodcreeper
   es: Trepatroncos Colorado
   fr: Grand Grimpar

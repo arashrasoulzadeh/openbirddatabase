@@ -12,7 +12,7 @@ names:
   es: Suimanga Variable
   fr: Souimanga à ventre jaune
   de: Ziernektarvogel
-  pt: variable sunbird
+  pt: ''
   ru: Разноцветная нектарница
   ja: カワリタイヨウチョウ
   nl: Ornaathoningzuiger

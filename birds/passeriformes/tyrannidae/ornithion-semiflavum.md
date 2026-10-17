@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16548.0
 names:
   scientific: Ornithion semiflavum
-  fa: nan
+  fa: ''
   en: Yellow-bellied Tyrannulet
   es: Mosquerito Ventriamarillo
   fr: Tyranneau à ventre jaune
   de: Gelbbauch-Kleintyrann
-  pt: yellow-bellied tyrannulet
+  pt: ''
   ru: Златобрюхий москитолов
   ja: キバラコタイランチョウ
   nl: Geelbuikvliegenpikker

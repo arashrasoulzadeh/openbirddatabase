@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4535.0
 names:
   scientific: Oxypogon lindenii
-  fa: nan
+  fa: ''
   en: White-bearded Helmetcrest
   es: Colibrí Chivito de Mérida
   fr: Colibri de Linden
   de: Weißbart-Helmkolibri
-  pt: white-bearded helmetcrest
+  pt: ''
   ru: Белобородая горная нимфа
   ja: シロヒゲルメットハチドリ
   zh: 白髯蜂鸟

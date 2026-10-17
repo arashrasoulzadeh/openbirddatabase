@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25601.0
 names:
   scientific: Zosterops ceylonensis
-  fa: nan
+  fa: ''
   en: Sri Lanka White-eye
   es: Anteojitos Cingalés
   fr: Zostérops de Ceylan
   de: Ceylonbrillenvogel
-  pt: sri lanka white-eye
+  pt: ''
   ru: Ланкийская белоглазка
   ja: セイロンメジロ
   zh: 斯里蘭卡綠繡眼

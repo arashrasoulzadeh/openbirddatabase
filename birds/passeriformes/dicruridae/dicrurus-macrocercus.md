@@ -12,7 +12,7 @@ names:
   es: Drongo Real
   fr: Drongo royal
   de: Königsdrongo
-  pt: black drongo
+  pt: ''
   ru: Черный дронго
   ja: オウチュウ
   zh: 黑卷尾

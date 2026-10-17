@@ -12,7 +12,7 @@ names:
   es: Ganga Bicinta
   fr: Ganga bibande
   de: Nachtflughuhn
-  pt: double-banded sandgrouse
+  pt: ''
   ru: Двуполосый рябок
   ja: フタオビサケイ
   nl: Dubbelbandzandhoen

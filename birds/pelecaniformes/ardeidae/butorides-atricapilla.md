@@ -10,7 +10,7 @@ names:
   en: Little Heron
   es: Garcilla Menor
   fr: Héron des mangroves
-  pt: little heron
+  pt: ''
   ja: ササゴイ
   zh: 绿鹭
   nl: Mangrovereiger

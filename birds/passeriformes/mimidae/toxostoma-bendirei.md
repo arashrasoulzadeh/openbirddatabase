@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28046.0
 names:
   scientific: Toxostoma bendirei
-  fa: nan
+  fa: ''
   en: Bendire's Thrasher
   es: Cuitlacoche Piquicorto
   fr: Moqueur de Bendire
   de: Kaktusspottdrossel
-  pt: bendire's thrasher
+  pt: ''
   ru: Кактусовый пересмешник
   ja: スナイロツグミモドキ
   nl: Cactusspotlijster

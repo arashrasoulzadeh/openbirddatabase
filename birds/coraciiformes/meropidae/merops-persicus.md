@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9820.0
 names:
   scientific: Merops persicus
-  fa: nan
+  fa: ''
   en: Blue-cheeked Bee-eater
   es: Abejaruco Persa
   fr: Guêpier de Perse

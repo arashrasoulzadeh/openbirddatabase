@@ -15,7 +15,7 @@ names:
   pt: white ibis
   ru: Белый ибис
   ja: シロトキ
-  zh: American White Ibis
+  zh: ''
   nl: Witte ibis
   pl: ibis biały
   tr: Ak Aynak

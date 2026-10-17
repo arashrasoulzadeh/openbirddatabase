@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16082.0
 names:
   scientific: Pachyramphus niger
-  fa: nan
+  fa: ''
   en: Jamaican Becard
   es: Anambé Jamaicano
   fr: Bécarde de Jamaïque
   de: Jamaikabekarde
-  pt: jamaican becard
+  pt: ''
   ru: Ямайский бекард
   ja: クロカザリドリモドキ
   nl: Jamaicaanse bekarde

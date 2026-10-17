@@ -12,7 +12,7 @@ names:
   es: Polluela Malgache
   fr: Râle insulaire
   de: Merinaralle
-  pt: madagascar flufftail
+  pt: ''
   ru: Мадагаскарская жемчужная курочка
   ja: マダガスカルシマクイナ
   zh: 馬島侏秧雞

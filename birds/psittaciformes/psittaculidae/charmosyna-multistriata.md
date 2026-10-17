@@ -12,7 +12,7 @@ names:
   es: Lori Estriado
   fr: Lori strié
   de: Vielstrichellori
-  pt: striated lorikeet
+  pt: ''
   ru: Полосатый лорикет
   ja: タスジインコ
   nl: Honinglori

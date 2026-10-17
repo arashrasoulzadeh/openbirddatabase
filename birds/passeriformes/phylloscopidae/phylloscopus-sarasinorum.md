@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25017.0
 names:
   scientific: Phylloscopus sarasinorum
-  fa: nan
+  fa: ''
   en: Lompobattang Leaf Warbler
   es: Mosquitero de Lompobattang
   fr: Pouillot du Lompobattang
   de: Lompobatang-Laubsänger
-  pt: lompobattang leaf warbler
+  pt: ''
   ru: Сулавесская пеночка
   ja: スラウェシムシクイ
   nl: Lompobattangboszanger

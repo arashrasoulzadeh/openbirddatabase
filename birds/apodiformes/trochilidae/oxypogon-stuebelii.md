@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4533.0
 names:
   scientific: Oxypogon stuebelii
-  fa: nan
+  fa: ''
   en: Buffy Helmetcrest
   es: Colibrí Chivito del Nevado del Ruiz
   fr: Colibri de Stübel
   de: Violettbart-Helmkolibri
-  pt: buffy helmetcrest
+  pt: ''
   ru: Фиолетовобородая горная нимфа
   ja: キイロヘルメットハチドリ
   zh: 黄髯蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25874.0
 names:
   scientific: Zosterops murphyi
-  fa: nan
+  fa: ''
   en: Kolombangara White-eye
   es: Anteojitos de Murphy
   fr: Zostérops de Murphy
   de: Kolombangara-Brillenvogel
-  pt: kolombangara white-eye
+  pt: ''
   ru: Белоглазка-отшельница
   ja: クランバングラメジロ
   nl: Murphybrilvogel

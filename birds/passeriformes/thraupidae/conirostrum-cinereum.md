@@ -12,7 +12,7 @@ names:
   es: Conirrostro Cinéreo
   fr: Conirostre cendré
   de: Weißstirn-Spitzschnabel
-  pt: cinereous conebill
+  pt: ''
   ru: Серый конусоклюв
   ja: マルハシミツドリ
   zh: 朱红锥嘴雀

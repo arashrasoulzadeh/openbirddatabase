@@ -12,7 +12,7 @@ names:
   es: Brillante Frentivioleta
   fr: Brillant à front violet
   de: Violettstirn-Brillantkolibri
-  pt: violet-fronted brilliant
+  pt: ''
   ru: Фиолетоволобый бриллиант
   ja: スミレビタイテリハチドリ
   zh: 紫额辉蜂鸟

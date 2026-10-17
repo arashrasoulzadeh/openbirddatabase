@@ -12,7 +12,7 @@ names:
   es: Atlapetes Cabecirrufo
   fr: Tohi à tête rousse
   de: Braunbart-Buschammer
-  pt: fulvous-headed brushfinch
+  pt: ''
   ru: Буроголовая атлапета
   ja: ズアカヤブシトド
   nl: Bruinbaardstruikgors

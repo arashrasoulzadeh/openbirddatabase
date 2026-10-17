@@ -12,7 +12,7 @@ names:
   es: Alondra de Sclater
   fr: Alouette de Sclater
   de: Ammernlerche
-  pt: sclater's lark
+  pt: ''
   ru: Овсянковый жаворонок
   ja: オグロシトドコヒバリ
   zh: 斯克氏沙百灵

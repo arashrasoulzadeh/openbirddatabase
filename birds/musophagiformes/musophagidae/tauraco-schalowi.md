@@ -12,7 +12,7 @@ names:
   es: Turaco de Schalow
   fr: Touraco de Schalow
   de: Schalowturako
-  pt: schalow's turaco
+  pt: ''
   ru: Ангольский турако
   ja: シャローエボシドリ
   nl: Schalowtoerako

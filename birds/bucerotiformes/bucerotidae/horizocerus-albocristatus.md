@@ -12,7 +12,7 @@ names:
   es: Cálao Crestiblanco Occidental
   fr: Calao à huppe blanche
   de: Weißschopf-Hornvogel
-  pt: western long-tailed hornbill
+  pt: ''
   ru: Африканский белохохлый калао
   ja: シラガサイチョウ
   nl: Westelijke langstaarttok

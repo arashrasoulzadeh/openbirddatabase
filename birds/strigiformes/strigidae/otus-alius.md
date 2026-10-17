@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8745.0
 names:
   scientific: Otus alius
-  fa: nan
+  fa: ''
   en: Nicobar Scops Owl
   es: Autillo de las Nicobar
   fr: Petit-duc des Nicobar
@@ -15,7 +15,7 @@ names:
   pt: nicobar scops-owl
   ru: Никобарская сплюшка
   ja: ニコバルコノハズク
-  zh: Nicobar Scops Owl
+  zh: ''
   nl: Nicobarendwergooruil
   pl: syczek nikobarski
   tr: Nikobar İshakkuşu

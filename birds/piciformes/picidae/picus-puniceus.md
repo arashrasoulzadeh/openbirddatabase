@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11642.0
 names:
   scientific: Picus puniceus
-  fa: nan
+  fa: ''
   en: Crimson-winged Woodpecker
   es: Pito Alirrojo
   fr: Pic grenadin
   de: Rotflügelspecht
-  pt: crimson-winged woodpecker
+  pt: ''
   ru: Краснокрылый желтохохлый дятел
   ja: モリアオゲラ
   zh: 緋紅翅綠啄木

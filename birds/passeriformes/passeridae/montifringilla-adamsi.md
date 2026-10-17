@@ -12,7 +12,7 @@ names:
   es: Gorrión de Adams
   fr: Niverolle du Tibet
   de: Adamsschneesperling
-  pt: black-winged snowfinch
+  pt: ''
   ru: Чернокрылый снежный воробей
   ja: ハジロユキスズメ
   zh: 褐翅雪雀

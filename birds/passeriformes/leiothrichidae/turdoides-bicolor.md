@@ -15,7 +15,7 @@ names:
   pt: southern pied-babbler
   ru: Пегая дроздовка
   ja: シロクロヤブチメドリ
-  zh: Southern Pied Babbler
+  zh: ''
   nl: Eksterbabbelaar
   pl: tymal dwubarwny
   tr: Güneyli Alaca Yedikardeş

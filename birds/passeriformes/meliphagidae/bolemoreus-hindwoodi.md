@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 17857.0
 names:
   scientific: Bolemoreus hindwoodi
-  fa: nan
+  fa: ''
   en: Eungella Honeyeater
   es: Mielero de Hindwood
   fr: Méliphage de Hindwood
   de: Eungellahonigfresser
-  pt: eungella honeyeater
+  pt: ''
   ru: Короткоклювый медосос
   ja: ヒメキスジミツスイ
   nl: Eungellahoningeter

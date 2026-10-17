@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9246.0
 names:
   scientific: Strix woodfordii
-  fa: nan
+  fa: ''
   en: African Wood Owl
   es: Cárabo Africano
   fr: Chouette africaine
@@ -15,7 +15,7 @@ names:
   pt: mocho-da-floresta
   ru: Африканская неясыть
   ja: アフリカヒナフクロウ
-  zh: African Wood Owl
+  zh: ''
   nl: Afrikaanse bosuil
   pl: puszczyk pręgowany
   tr: Afrika Alaca Baykuşu

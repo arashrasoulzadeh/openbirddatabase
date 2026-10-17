@@ -12,7 +12,7 @@ names:
   es: Pijuí Rufo
   fr: Synallaxe roux
   de: Rostdickichtschlüpfer
-  pt: rufous spinetail
+  pt: ''
   ru: Рыжая иглохвостка
   ja: アカオナガカマドドリ
   nl: Roeststekelstaart

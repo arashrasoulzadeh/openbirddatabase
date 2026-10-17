@@ -15,7 +15,7 @@ names:
   pt: dark-backed wood-quail
   ru: Темноспинный зубцеклювый перепел
   ja: セグロウズラ
-  zh: Dark-backed Wood Quail
+  zh: ''
   nl: Zwartrugtandkwartel
   pl: przepiór ciemnogrzbiety
   tr: Kara Sırtlı Tokro

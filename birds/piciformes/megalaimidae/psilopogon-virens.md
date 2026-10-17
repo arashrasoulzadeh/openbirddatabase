@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10721.0
 names:
   scientific: Psilopogon virens
-  fa: nan
+  fa: ''
   en: Great Barbet
   es: Barbudo Grande
   fr: Barbu géant
   de: Heulbartvogel
-  pt: great barbet
+  pt: ''
   ru: Большой бородастик
   ja: オオゴシキドリ
   zh: 大拟啄木鸟

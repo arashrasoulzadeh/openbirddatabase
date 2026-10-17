@@ -12,7 +12,7 @@ names:
   es: Tieke de Isla Norte
   fr: Créadion de Lesson
   de: Nordinsel-Sattelvogel
-  pt: north island saddleback
+  pt: ''
   ru: Северный седлоспин
   ja: ホクトウセアカホオダレムクドリ
   zh: 北岛鞍背鸦

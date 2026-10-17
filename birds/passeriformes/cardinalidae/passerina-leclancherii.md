@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34612.0
 names:
   scientific: Passerina leclancherii
-  fa: nan
+  fa: ''
   en: Orange-breasted Bunting
   es: Azulillo Pechinaranja
   fr: Passerin arc-en-ciel
   de: Orangeblaufink
-  pt: orange-breasted bunting
+  pt: ''
   ru: Жёлто-синий колорин
   ja: キバラルリノジコ
   nl: Regenbooggors

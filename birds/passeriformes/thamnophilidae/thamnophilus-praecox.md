@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13550.0
 names:
   scientific: Thamnophilus praecox
-  fa: nan
+  fa: ''
   en: Cocha Antshrike
   es: Batará de Cocha
   fr: Batara des cochas
   de: Napoameisenwürger
-  pt: cocha antshrike
+  pt: ''
   ru: Рыже-чёрный колючник
   ja: コーチャアリモズ
   zh: 厄瓜多尔蚁鵙

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Pechicanela
   fr: Gobemouche des Caramines
   de: Zimtbrust-Blauschnäpper
-  pt: rufous-breasted blue flycatcher
+  pt: ''
   ja: カタンドゥアネスヒメアオヒタキ
   nl: Zuid-Luzonniltava
   pl: dżunglówka rudzikowa

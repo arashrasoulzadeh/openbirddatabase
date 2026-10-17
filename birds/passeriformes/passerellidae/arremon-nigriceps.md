@@ -7,13 +7,13 @@ iucn_status: NT
 taxon_order: 33062.0
 names:
   scientific: Arremon nigriceps
-  fa: nan
+  fa: ''
   en: Maranon Sparrow
   es: Cerquero del Marañón
   fr: Tohi du Maranon
   de: Marañón-Buschammer
   pt: marañon sparrow
-  zh: Maranon Sparrow
+  zh: ''
   nl: Marañongors
   pl: strojnogłowik Taczanowskiego
   tr: Maranyon Çalı Serçesi

@@ -12,7 +12,7 @@ names:
   es: Francolín Alirrojo
   fr: Francolin de Levaillant
   de: Rotflügelfrankolin
-  pt: red-winged francolin
+  pt: ''
   ru: Краснокрылый франколин
   ja: アカハネシャコ
   zh: 红翅鹧鸪

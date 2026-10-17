@@ -12,7 +12,7 @@ names:
   es: Hormiguerito Leonado
   fr: Myrmidon fauve
   de: Tropfenkehl-Ameisenschlüpfer
-  pt: checker-throated stipplethroat
+  pt: ''
   ru: Крапчатогорлый алапи
   ja: ホシノドヒメアリサザイ
   zh: 格喉蚁鹩

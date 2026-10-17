@@ -12,7 +12,7 @@ names:
   es: Oropéndola Filipina
   fr: Loriot des Philippines
   de: Philippinenpirol
-  pt: philippine oriole
+  pt: ''
   ru: Серогрудая иволга
   ja: フィリピンコウライウグイス
   nl: Filipijnse wielewaal

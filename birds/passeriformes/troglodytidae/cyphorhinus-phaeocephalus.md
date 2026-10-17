@@ -12,7 +12,7 @@ names:
   es: Cucarachero Canoro
   fr: Troglodyte chanteur
   de: Brillenzaunkönig
-  pt: song wren
+  pt: ''
   ru: Певчий крапивник
   ja: キタウタミソサザイ
   zh: 鸣鹪鹩

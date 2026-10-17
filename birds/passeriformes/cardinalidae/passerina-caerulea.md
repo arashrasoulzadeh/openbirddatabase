@@ -12,7 +12,7 @@ names:
   es: Azulillo Grande
   fr: Guiraca bleu
   de: Azurfink
-  pt: blue grosbeak
+  pt: ''
   ru: Толстоклювый колорин
   ja: ルリイカル
   nl: Blauwe bisschop

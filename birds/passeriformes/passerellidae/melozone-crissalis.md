@@ -12,7 +12,7 @@ names:
   es: Toquí Californiano
   fr: Tohi de Californie
   de: Kaliforniengrundammer
-  pt: california towhee
+  pt: ''
   ru: Калифорнийский тохи
   ja: カリフォルニアムジトウヒチョウ
   zh: 加州地雀鵐

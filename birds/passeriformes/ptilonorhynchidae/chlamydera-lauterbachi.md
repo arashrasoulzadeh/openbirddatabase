@@ -12,7 +12,7 @@ names:
   es: Pergolero de Lauterbach
   fr: Jardinier de Lauterbach
   de: Dreigang-Laubenvogel
-  pt: yellow-breasted bowerbird
+  pt: ''
   ru: Желтогрудый беседочник
   ja: キバラニワシドリ
   zh: 黄胸大亭鸟

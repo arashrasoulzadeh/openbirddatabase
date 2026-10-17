@@ -12,7 +12,7 @@ names:
   es: Colibrí Patirrojo
   fr: Colibri à queue bronzée
   de: Bronzeschwanz-Buffonkolibri
-  pt: bronze-tailed plumeleteer
+  pt: ''
   ru: Бронзовохвостый колибри
   ja: ドウイロハチドリ
   zh: 斑胸棕尾蜂鸟

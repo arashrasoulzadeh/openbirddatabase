@@ -12,7 +12,7 @@ names:
   es: Salangana Culiblanca
   fr: Salangane à croupion blanc
   de: Weißbürzelsalangane
-  pt: white-rumped swiftlet
+  pt: ''
   ru: Белогузая салангана
   ja: コシジロアナツバメ
   zh: 白腰金丝燕

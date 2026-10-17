@@ -15,7 +15,7 @@ names:
   pt: pombo-imperial-de-cabeça-rosada
   ru: Зондский плодовый голубь
   ja: ズアカミカドバト
-  zh: Pink-headed Imperial Pigeon
+  zh: ''
   nl: Roze muskaatduif
   pl: muszkatela różowawa
   tr: Pembe Başlı Has Güvercin

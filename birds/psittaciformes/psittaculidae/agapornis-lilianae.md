@@ -12,7 +12,7 @@ names:
   es: Inseparable del Nyasa
   fr: Inséparable de Lilian
   de: Erdbeerköpfchen
-  pt: lilian's lovebird
+  pt: ''
   ru: Замбезийский неразлучник
   ja: ボタンインコ
   zh: 尼亞薩情侶鸚鵡

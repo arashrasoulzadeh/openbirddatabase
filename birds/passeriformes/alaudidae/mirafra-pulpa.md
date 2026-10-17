@@ -12,7 +12,7 @@ names:
   es: Alondra de Friedmann
   fr: Alouette de Friedmann
   de: Friedmannlerche
-  pt: friedmann's lark
+  pt: ''
   ru: Пёстрый жаворонок
   ja: エチオピアヤブヒバリ
   zh: 暗色歌百灵

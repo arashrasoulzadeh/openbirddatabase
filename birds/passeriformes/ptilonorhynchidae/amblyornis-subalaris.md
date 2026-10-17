@@ -12,7 +12,7 @@ names:
   es: Pergolero Estriado
   fr: Jardinier à huppe orange
   de: Rothauben-Laubenvogel
-  pt: streaked bowerbird
+  pt: ''
   ru: Рыжехохлый садовник
   ja: アカエボシニワシドリ
   zh: 纹园丁鸟

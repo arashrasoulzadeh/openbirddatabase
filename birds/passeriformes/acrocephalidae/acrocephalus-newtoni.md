@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23705.0
 names:
   scientific: Acrocephalus newtoni
-  fa: nan
+  fa: ''
   en: Madagascar Swamp Warbler
   es: Carricero Malgache
   fr: Rousserolle de Newton
   de: Madagaskarrohrsänger
-  pt: madagascar swamp warbler
+  pt: ''
   ru: Мадагаскарская камышовка
   ja: マダガスカルアシナガヨシキリ
   zh: 马岛沼泽苇莺

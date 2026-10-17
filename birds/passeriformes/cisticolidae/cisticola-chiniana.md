@@ -12,7 +12,7 @@ names:
   es: Cistícola Cascabel
   fr: Cisticole grinçante
   de: Rotscheitel-Zistensänger
-  pt: rattling cisticola
+  pt: ''
   ru: Рыжеплечая цистикола
   ja: アフリカセッカ
   zh: 巧扇尾鶯

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10798.0
 names:
   scientific: Capito brunneipectus
-  fa: nan
+  fa: ''
   en: Brown-chested Barbet
   es: Cabezón Pechipardo
   fr: Cabézon à poitrine brune

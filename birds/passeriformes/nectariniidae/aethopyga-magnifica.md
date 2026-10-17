@@ -12,7 +12,7 @@ names:
   es: Suimanga Magnífico
   fr: Souimanga magnifique
   de: Prunknektarvogel
-  pt: magnificent sunbird
+  pt: ''
   ru: Алая нектарница
   ja: フィリピンキゴシタイヨウチョウ
   nl: Grote geelrughoningzuiger

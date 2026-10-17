@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquifina Frentirroja
   fr: Parmoptile à front rouge
   de: Rotstirn-Ameisenpicker
-  pt: red-fronted antpecker
+  pt: ''
   ru: Краснолобый астрильд
   ja: アカビタイムシクイキンパラ
   zh: 红额啄花雀

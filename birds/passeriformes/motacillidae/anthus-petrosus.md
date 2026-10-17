@@ -15,7 +15,7 @@ names:
   pt: petinha-marítima
   ru: Скальный конёк
   ja: ニシヨーロッパタヒバリ
-  zh: European Rock Pipit
+  zh: ''
   nl: Oeverpieper
   pl: świergotek nadmorski
   tr: Kaya İncirkuşu

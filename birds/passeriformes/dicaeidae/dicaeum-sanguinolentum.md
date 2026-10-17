@@ -12,7 +12,7 @@ names:
   es: Picaflores Sangrante
   fr: Dicée sanglant
   de: Java-Purpurmistelfresser
-  pt: javan flowerpecker
+  pt: ''
   ru: Пурпурный цветоед
   ja: キノドヤドリギハナドリ
   zh: 爪哇啄花

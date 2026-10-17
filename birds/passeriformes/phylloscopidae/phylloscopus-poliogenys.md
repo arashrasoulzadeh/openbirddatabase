@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24908.0
 names:
   scientific: Phylloscopus poliogenys
-  fa: nan
+  fa: ''
   en: Grey-cheeked Warbler
   es: Mosquitero Carigrís
   fr: Pouillot à joues grises

@@ -15,7 +15,7 @@ names:
   pt: guaracava-modesta
   ru: Скромный мухолов
   ja: ミナミヤブハエトリ
-  zh: Southern Scrub Flycatcher
+  zh: ''
   nl: Struikvliegenpikker
   pl: szaroliczek zaroślowy
   tr: Pantanal Çalı Sinekkapanı

@@ -12,7 +12,7 @@ names:
   es: Argos Vietnamita
   fr: Argus ocellé
   de: Perlenfasan
-  pt: vietnamese crested argus
+  pt: ''
   ru: Хохлатый аргус
   ja: ベトナムカンムリセイラン
   zh: 冠眼斑雉

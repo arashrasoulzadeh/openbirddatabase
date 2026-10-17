@@ -12,7 +12,7 @@ names:
   es: Drongo de Sumatra
   fr: Drongo de Sumatra
   de: Sumatradrongo
-  pt: sumatran drongo
+  pt: ''
   ru: Суматранский дронго
   ja: スマトラオウチュウ
   zh: 蘇門答臘卷尾

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4173.0
 names:
   scientific: Cypsiurus balasiensis
-  fa: nan
+  fa: ''
   en: Asian Palm Swift
   es: Vencejo Palmero Asiático
   fr: Martinet batassia
   de: Bengalensegler
-  pt: asian palm swift
+  pt: ''
   ru: Азиатский пальмовый стриж
   ja: アジアヤシアマツバメ
   zh: 棕雨燕

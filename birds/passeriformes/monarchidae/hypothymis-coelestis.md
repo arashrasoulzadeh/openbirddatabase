@@ -12,7 +12,7 @@ names:
   es: Monarca Celeste
   fr: Tchitrec céleste
   de: Himmelsmonarch
-  pt: celestial monarch
+  pt: ''
   ru: Небесный монарх
   ja: エボシフジイロヒタキ
   zh: 仙王鶲

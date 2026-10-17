@@ -12,7 +12,7 @@ names:
   es: Copetón Jamaicano
   fr: Tyran triste
   de: Jamaikaschopftyrann
-  pt: sad flycatcher
+  pt: ''
   ru: Ямайский миарх
   ja: ジャマイカヒタキモドキ
   nl: Jamaicaanse tiran

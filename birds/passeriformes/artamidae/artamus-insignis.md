@@ -15,7 +15,7 @@ names:
   pt: bismarck woodswallow
   ru: Белоспинный артам
   ja: ビスマークモリツバメ
-  zh: White-backed Woodswallow
+  zh: ''
   nl: Bismarckspitsvogel
   pl: ostrolot melanezyjski
   tr: Bismark Ormankırlangıcı

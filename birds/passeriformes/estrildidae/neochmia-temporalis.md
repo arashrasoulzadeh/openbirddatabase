@@ -15,7 +15,7 @@ names:
   pt: red-browed firetail
   ru: Краснобровая амадина
   ja: フヨウチョウ
-  zh: Red-browed Finch
+  zh: ''
   nl: Doornastrild
   pl: kraśniczek czerwonobrewy
   tr: Al Kaşlı Belikınalı

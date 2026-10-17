@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 15485.0
 names:
   scientific: Cranioleuca weskei
-  fa: nan
+  fa: ''
   en: Vilcabamba Spinetail
   es: Curutié de Vilcabamba
   fr: Synallaxe de Weske
-  pt: vilcabamba spinetail
+  pt: ''
   nl: Vilcabambastekelstaart
   pl: moczarnik białogłowy
   tr: Kızıl Tepeli Dikenkuyruk

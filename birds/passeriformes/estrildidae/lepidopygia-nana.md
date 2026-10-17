@@ -15,7 +15,7 @@ names:
   pt: madagascar munia
   ru: Мадагаскарская амадина
   ja: ヒメシチホウ
-  zh: Madagascar Mannikin
+  zh: ''
   nl: Dwergekstertje
   pl: mniszeczka
   tr: Küçük Munya

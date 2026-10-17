@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4448.0
 names:
   scientific: Lophornis verreauxii
-  fa: nan
+  fa: ''
   en: Butterfly Coquette
   es: Coqueta Verde Norteña
   fr: Coquette de Verreaux

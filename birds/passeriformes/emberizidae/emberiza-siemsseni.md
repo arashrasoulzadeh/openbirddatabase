@@ -12,7 +12,7 @@ names:
   es: Escribano Azul
   fr: Bruant bleu
   de: Blauammer
-  pt: slaty bunting
+  pt: ''
   ru: Голубая овсянка
   ja: ウスグロホオジロ
   zh: 蓝鹀

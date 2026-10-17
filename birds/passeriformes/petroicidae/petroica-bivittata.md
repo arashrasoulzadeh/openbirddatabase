@@ -15,7 +15,7 @@ names:
   pt: subalpine robin
   ru: Альпийская петроика
   ja: モリシロハラクロヒタキ
-  zh: Mountain Robin
+  zh: ''
   nl: Woudvliegenvanger
   pl: skalinek żałobny
   tr: Papua Dağ Bülbülü

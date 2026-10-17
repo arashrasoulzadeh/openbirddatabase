@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34000.0
 names:
   scientific: Geothlypis auricularis
-  fa: nan
+  fa: ''
   en: Black-lored Yellowthroat
   es: Mascarita Embridada
   fr: Paruline à lores noirs
   de: Schwarzaugen-Gelbkehlchen
-  pt: black-lored yellowthroat
+  pt: ''
   ru: Полумасковая желтогрудка
   ja: クロビタイアメリカムシクイ
   nl: Zwartteugelzanger

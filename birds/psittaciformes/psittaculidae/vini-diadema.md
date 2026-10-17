@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12590.0
 names:
   scientific: Vini diadema
-  fa: nan
+  fa: ''
   en: New Caledonian Lorikeet
   es: Lori Diadema
   fr: Lori à diadème
   de: Diademlori
-  pt: new caledonian lorikeet
+  pt: ''
   ru: Диадемовый лорикет
   ja: アカジリムジインコ
   nl: Nieuw-Caledonische lori

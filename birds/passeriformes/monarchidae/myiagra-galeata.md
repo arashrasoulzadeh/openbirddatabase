@@ -12,7 +12,7 @@ names:
   es: Monarca Moluqueño
   fr: Monarque des Moluques
   de: Molukkenmonarch
-  pt: moluccan flycatcher
+  pt: ''
   ru: Молуккская миагра
   ja: カンムリヒラハシ
   nl: Helmmonarch

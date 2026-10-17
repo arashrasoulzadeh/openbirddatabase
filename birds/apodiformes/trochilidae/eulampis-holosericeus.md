@@ -12,7 +12,7 @@ names:
   es: Colibrí Caribeño Gorjiverde
   fr: Colibri falle-vert
   de: Blaustern-Antillenkolibri
-  pt: green-throated carib
+  pt: ''
   ru: Зеленогрудый колибри
   ja: ウチワハチドリ
   zh: 綠喉加利蜂鳥

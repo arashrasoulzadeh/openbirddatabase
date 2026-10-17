@@ -15,7 +15,7 @@ names:
   pt: burnt-neck eremomela
   ru: Рыжегрудая желтобрюшка
   ja: アカオビヒメムシクイ
-  zh: Burnt-necked Eremomela
+  zh: ''
   nl: Roesthalseremomela
   pl: popielatka akacjowa
   tr: Yanık Gerdanlı Eremomela

@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 19439.0
 names:
   scientific: Pachycephala ornata
-  fa: nan
+  fa: ''
   en: Nendo Whistler
   es: Silbador de las Santa Cruz
   fr: Siffleur de Nendo
-  pt: nendo whistler
+  pt: ''
   nl: Nendofluiter
   pl: fletówka ozdobna
   tr: Nendö Islıkçısı

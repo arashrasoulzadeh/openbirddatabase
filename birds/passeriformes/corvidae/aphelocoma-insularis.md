@@ -15,7 +15,7 @@ names:
   pt: island scrub-jay
   ru: Сантакрузская сойка
   ja: サンタクルスカケス
-  zh: Island Scrub Jay
+  zh: ''
   nl: Eilandstruikgaai
   pl: modrowronka wyspowa
   tr: Adalı Çalı Kargası

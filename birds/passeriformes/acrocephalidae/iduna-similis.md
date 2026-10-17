@@ -15,7 +15,7 @@ names:
   pt: mountain yellow-warbler
   ru: Бамбуковая бормотушка
   ja: ヤマキイロムシクイ
-  zh: Mountain Yellow Warbler
+  zh: ''
   nl: Bamboerietzanger
   pl: zaganiacz górski
   tr: Sarı Dağ Mukalliti

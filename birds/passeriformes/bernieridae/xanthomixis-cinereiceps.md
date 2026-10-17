@@ -15,7 +15,7 @@ names:
   pt: gray-crowned tetraka
   ru: Сероголовая тетрака
   ja: ハイガシラマダガスカルヒヨドリ
-  zh: Grey-crowned Tetraka
+  zh: ''
   nl: Grijskruintetraka
   pl: madagaskarniczek szarołbisty
   tr: Gri Başlı Tetraka

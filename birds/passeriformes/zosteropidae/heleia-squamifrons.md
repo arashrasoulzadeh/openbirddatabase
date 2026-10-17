@@ -12,10 +12,10 @@ names:
   es: Anteojitos Pigmeo
   fr: Zostérops pygmée
   de: Zwergbrillenvogel
-  pt: pygmy heleia
+  pt: ''
   ru: Чешуйчатая элейя
   ja: コビトメジロ
-  zh: Pygmy White-eye
+  zh: ''
   nl: Dwergbergbrilvogel
   pl: okularowiec malutki
   tr: Küçük Gözlükçü

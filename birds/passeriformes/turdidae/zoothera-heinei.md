@@ -12,7 +12,7 @@ names:
   es: Zorzal de Heine
   fr: Grive de Heine
   de: Heineerddrossel
-  pt: russet-tailed thrush
+  pt: ''
   ru: Рыжехвостый дрозд
   ja: アカオトラツグミ
   nl: Papoeagoudlijster

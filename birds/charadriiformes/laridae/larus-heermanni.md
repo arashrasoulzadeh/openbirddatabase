@@ -12,7 +12,7 @@ names:
   es: Gaviota Mexicana
   fr: Goéland de Heermann
   de: Heermannmöwe
-  pt: heermann's gull
+  pt: ''
   ru: Серобрюхая чайка
   ja: オグロカモメ
   nl: Heermannmeeuw

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14956.0
 names:
   scientific: Lepidocolaptes squamatus
-  fa: nan
+  fa: ''
   en: Scaled Woodcreeper
   es: Trepatroncos Escamado
   fr: Grimpar écaillé

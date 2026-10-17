@@ -15,7 +15,7 @@ names:
   pt: coral-billed ground-cuckoo
   ru: Кораловоклювая воронья кукушка
   ja: アカハシハシリカッコウ
-  zh: Coral-billed Ground Cuckoo
+  zh: ''
   nl: Indochinese grondkoekoek
   pl: kukielnik wielki
   tr: Ranauld Yer Guguğu

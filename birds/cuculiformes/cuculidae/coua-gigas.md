@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3072.0
 names:
   scientific: Coua gigas
-  fa: nan
+  fa: ''
   en: Giant Coua
   es: Cúa Gigante
   fr: Coua géant
   de: Riesenseidenkuckuck
-  pt: giant coua
+  pt: ''
   ru: Гигантская тивука
   ja: オニジカッコウ
   nl: Grote coua

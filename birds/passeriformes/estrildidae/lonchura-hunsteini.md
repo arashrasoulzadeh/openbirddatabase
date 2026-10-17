@@ -15,7 +15,7 @@ names:
   pt: mottled munia
   ru: Серошейная муния
   ja: クロシマコキン
-  zh: Mottled Mannikin
+  zh: ''
   nl: Hunsteinnon
   pl: mniszka sędziwa
   tr: Hunstein Munyası

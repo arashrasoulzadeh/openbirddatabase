@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1000.0
 names:
   scientific: Guttera edouardi
-  fa: nan
+  fa: ''
   en: Southern Crested Guineafowl
   es: Pintada Moñuda Meridional
   fr: Pintade d'Édouard
   de: Sambesi-Haubenperlhuhn
-  pt: southern crested guineafowl
+  pt: ''
   nl: Geelnekkroonparelhoen
   pl: perlica czarnolica
   tr: Güneyli Kıvırcık Beçtavuğu

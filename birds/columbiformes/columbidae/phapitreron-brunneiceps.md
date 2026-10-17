@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2480.0
 names:
   scientific: Phapitreron brunneiceps
-  fa: nan
+  fa: ''
   en: Mindanao Brown Dove
   es: Vinago Pardo de Mindanao
   fr: Phapitréron à oreillons bruns
@@ -15,7 +15,7 @@ names:
   pt: mindanao brown-dove
   ru: Буроголовая горлица
   ja: ミンダナオテリアオバト
-  zh: Mindanao Brown Dove
+  zh: ''
   nl: Mindanaovruchtduif
   pl: brązaczek szarobrzuchy
   tr: Mindanao Esmer Kumrusu

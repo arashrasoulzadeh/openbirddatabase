@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15144.0
 names:
   scientific: Philydor atricapillus
-  fa: nan
+  fa: ''
   en: Black-capped Foliage-gleaner
   es: Ticotico Cabecinegro
   fr: Anabate à tête noire

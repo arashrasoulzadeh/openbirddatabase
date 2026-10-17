@@ -12,7 +12,7 @@ names:
   es: Pito Bengalí
   fr: Pic du Bengale
   de: Bengalenspecht
-  pt: black-rumped flameback
+  pt: ''
   ru: Бенгальский дятел-султан
   ja: ヒメコガネゲラ
   zh: 小金背啄木鸟

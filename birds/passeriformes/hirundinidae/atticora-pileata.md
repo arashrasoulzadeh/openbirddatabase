@@ -12,7 +12,7 @@ names:
   es: Golondrina Cabecinegra
   fr: Hirondelle à tête noire
   de: Kappenschwalbe
-  pt: black-capped swallow
+  pt: ''
   ru: Черноголовая ласточка
   ja: ズグロツバメ
   nl: Zwartkapzwaluw

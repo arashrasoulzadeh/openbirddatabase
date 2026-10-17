@@ -12,7 +12,7 @@ names:
   es: Cormorán Carinegro
   fr: Cormoran de Tasmanie
   de: Schwarzgesichtscharbe
-  pt: black-faced cormorant
+  pt: ''
   ru: Чернолицый баклан
   ja: ムナジロウ
   zh: 黑面鸬鹚

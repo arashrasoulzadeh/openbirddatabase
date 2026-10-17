@@ -12,7 +12,7 @@ names:
   es: Tangara Goliplateada
   fr: Calliste safran
   de: Silberkehltangare
-  pt: silver-throated tanager
+  pt: ''
   ru: Серебристогорлая танагра
   ja: ギンノドフウキンチョウ
   zh: 银喉唐加拉雀

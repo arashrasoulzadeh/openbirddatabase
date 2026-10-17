@@ -12,7 +12,7 @@ names:
   es: Avutarda India
   fr: Outarde à tête noire
   de: Kappentrappe
-  pt: great indian bustard
+  pt: ''
   ru: Индийская дрофа
   ja: インドオオノガン
   zh: 黑冠鷺鴇

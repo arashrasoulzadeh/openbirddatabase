@@ -12,7 +12,7 @@ names:
   es: Alcaraván de El Cabo
   fr: Oedicnème tachard
   de: Kaptriel
-  pt: spotted thick-knee
+  pt: ''
   ru: Капская авдотка
   ja: ケープイシチドリ
   zh: 斑石鸻

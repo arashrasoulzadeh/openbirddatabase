@@ -12,7 +12,7 @@ names:
   es: Lechuza Común Oriental
   fr: Effraie orientale
   de: Australschleiereule
-  pt: eastern barn owl
+  pt: ''
   ru: Восточная сипуха
   ja: メンフクロウ
   zh: 仓鸮

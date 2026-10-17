@@ -12,7 +12,7 @@ names:
   es: Prinia de Burnes
   fr: Laticille de Burnes
   de: Schweifpriniendrossling
-  pt: rufous-vented grass babbler
+  pt: ''
   ru: Длиннохвостая травянка
   ja: オナガハウチワドリ
   zh: 长尾山鹪莺

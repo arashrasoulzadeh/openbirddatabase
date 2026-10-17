@@ -12,7 +12,7 @@ names:
   es: Drongo Modesto
   fr: Drongo modeste
   de: Samtdrongo
-  pt: velvet-mantled drongo
+  pt: ''
   ru: Лесной дронго
   ja: ビロウドオウチュウ
   zh: 絨篷卷尾

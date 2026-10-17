@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Culirrojo
   fr: Moqueur cul-roux
   de: Rotsteiß-Spottdrossel
-  pt: crissal thrasher
+  pt: ''
   ru: Красногузый пересмешник
   ja: アカハラツグミモドキ
   nl: Roodbuikspotlijster

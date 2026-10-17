@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12466.0
 names:
   scientific: Cyanoramphus auriceps
-  fa: nan
+  fa: ''
   en: Yellow-crowned Parakeet
   es: Perico Maorí Cabecigualdo
   fr: Perruche à tête d'or
   de: Springsittich
-  pt: yellow-crowned parakeet
+  pt: ''
   ru: Желтолобый какарики
   ja: キガシラアオハシインコ
   nl: Geelvoorhoofdkakariki

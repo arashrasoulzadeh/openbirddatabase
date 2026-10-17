@@ -12,7 +12,7 @@ names:
   es: Mielero de Sumba
   fr: Myzomèle de Sumba
   de: Sumbahonigfresser
-  pt: sumba myzomela
+  pt: ''
   ru: Зондская медовска
   ja: スンバミツスイ
   nl: Soembadwerghoningeter

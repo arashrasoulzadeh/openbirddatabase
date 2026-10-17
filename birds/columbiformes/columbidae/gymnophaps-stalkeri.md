@@ -15,7 +15,7 @@ names:
   pt: seram mountain-pigeon
   ru: Серамский голубь
   ja: セラムミヤマバト
-  zh: Seram Mountain Pigeon
+  zh: ''
   nl: Serambergduif
   pl: krasnook rdzawopierśny
   tr: Seram Adası Dağ Güvercini

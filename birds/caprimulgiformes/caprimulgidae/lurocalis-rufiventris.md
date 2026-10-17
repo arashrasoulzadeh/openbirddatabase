@@ -12,7 +12,7 @@ names:
   es: Añapero Ventrirrufo
   fr: Engoulevent à ventre roux
   de: Andennachtschwalbe
-  pt: rufous-bellied nighthawk
+  pt: ''
   ru: Рыжебрюхий козодой
   ja: チャバラヨタカ
   zh: 棕腹夜鹰

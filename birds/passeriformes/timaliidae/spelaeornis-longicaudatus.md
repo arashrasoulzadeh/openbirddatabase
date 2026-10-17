@@ -12,7 +12,7 @@ names:
   es: Ratina Colilarga
   fr: Timalie à longue queue
   de: Khasi-Zaunkönigtimalie
-  pt: tawny-breasted wren-babbler
+  pt: ''
   ru: Длиннохвостый тинглин
   ja: オナガサザイチメドリ
   zh: 茶胸鹩鹛

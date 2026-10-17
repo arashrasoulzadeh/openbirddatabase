@@ -12,7 +12,7 @@ names:
   es: Estornino Alirrufo
   fr: Rufipenne de forêt
   de: Kastanienflügelstar
-  pt: chestnut-winged starling
+  pt: ''
   ru: Каштановокрылый скворец
   ja: チャバネテリムク
   nl: Kastanjevleugelspreeuw

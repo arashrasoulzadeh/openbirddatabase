@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24462.0
 names:
   scientific: Alophoixus ruficrissus
-  fa: nan
+  fa: ''
   en: Penan Bulbul
   es: Bulbul Ventricastaño
   fr: Bulbul à ventre marron
   de: Rostbauchbülbül
-  pt: penan bulbul
+  pt: ''
   ru: Борнейский бюльбюль-бородач
   nl: Penanbaardbuulbuul
   pl: szczeciak rdzaworzytny

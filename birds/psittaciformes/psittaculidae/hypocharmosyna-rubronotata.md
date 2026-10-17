@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 12565.0
 names:
   scientific: Hypocharmosyna rubronotata
-  fa: nan
+  fa: ''
   en: Red-fronted Lorikeet
   es: Lori Frentirrojo
   fr: Lori à front rouge
   de: Rotstirnlori
-  pt: red-fronted lorikeet
+  pt: ''
   ru: Краснолобый лорикет
   ja: ミツアカインコ
   nl: Roodvleklori

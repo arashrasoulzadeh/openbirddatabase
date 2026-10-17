@@ -15,7 +15,7 @@ names:
   pt: great rufous sparrow
   ru: Большой воробей
   ja: オオスズメ
-  zh: Great Sparrow
+  zh: ''
   nl: Roestmus
   pl: wróbel rdzawy
   tr: Büyük Serçe

@@ -15,7 +15,7 @@ names:
   pt: red-tailed black-cockatoo
   ru: Краснохвостый траурный какаду
   ja: アカオクロオウム
-  zh: Red-tailed Black Cockatoo
+  zh: ''
   nl: Roodstaartraafkaketoe
   pl: żałobnica rudosterna
   tr: Kızıl Kuyruklu Kakadu

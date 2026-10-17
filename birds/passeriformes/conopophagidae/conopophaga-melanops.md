@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14163.0
 names:
   scientific: Conopophaga melanops
-  fa: nan
+  fa: ''
   en: Black-cheeked Gnateater
   es: Jejenero Carinegro
   fr: Conopophage à joues noires

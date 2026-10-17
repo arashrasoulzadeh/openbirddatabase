@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 14244.0
 names:
   scientific: Grallaria kaestneri
-  fa: nan
+  fa: ''
   en: Cundinamarca Antpitta
   es: Tororoí de Cundinamarca
   fr: Grallaire de Kaestner
   de: Cundinamarca-Ameisenpitta
-  pt: cundinamarca antpitta
+  pt: ''
   ru: Колумбийская питтовая муравьеловка
   ja: クンディナマルカジアリドリ
   nl: Cundinamarcamierpitta

@@ -12,7 +12,7 @@ names:
   es: Tordo Patagón
   fr: Carouge austral
   de: Strichelkopfstärling
-  pt: austral blackbird
+  pt: ''
   ru: Патагонский курен
   ja: ミナミムクドリモドキ
   zh: 南美黑鹂属

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5071.0
 names:
   scientific: Saucerottia edward
-  fa: nan
+  fa: ''
   en: Snowy-bellied Hummingbird
   es: Amazilia de Edward
   fr: Ariane d'Edward
   de: Edwardamazilie
-  pt: snowy-bellied hummingbird
+  pt: ''
   ru: Бронзовоплечая амазилия
   ja: シロムネエメラルドハチドリ
   nl: Edwardamazilia

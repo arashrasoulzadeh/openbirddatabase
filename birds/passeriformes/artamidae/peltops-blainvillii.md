@@ -12,7 +12,7 @@ names:
   es: Peltopo Llanero
   fr: Peltopse des plaines
   de: Waldwürgerstar
-  pt: lowland peltops
+  pt: ''
   ru: Лесная белоушка
   ja: セジロヒタキ
   zh: 白頰鍾雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18091.0
 names:
   scientific: Lichmera squamata
-  fa: nan
+  fa: ''
   en: Scaly-breasted Honeyeater
   es: Mielero Escamoso
   fr: Méliphage à plumet blanc
@@ -15,7 +15,7 @@ names:
   pt: white-tufted honeyeater
   ru: Чешуйчатый медолюб
   ja: ウロコオリーブミツスイ
-  zh: Scaly-breasted Honeyeater
+  zh: ''
   nl: Babarhoningeter
   pl: miodojadek łuskowany
   tr: Pul Göğüslü Balkuşu

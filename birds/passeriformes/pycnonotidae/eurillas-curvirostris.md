@@ -12,7 +12,7 @@ names:
   es: Bulbul Piquicurvo
   fr: Bulbul curvirostre
   de: Alexanderbülbül
-  pt: plain greenbul
+  pt: ''
   ru: Кривоклювый бюльбюль
   ja: ウスグロヒヨ
   nl: Alexanderbuulbuul

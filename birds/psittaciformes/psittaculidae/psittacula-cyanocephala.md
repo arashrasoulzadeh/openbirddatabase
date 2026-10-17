@@ -12,7 +12,7 @@ names:
   es: Cotorra Cabeciazul
   fr: Perruche à tête prune
   de: Pflaumenkopfsittich
-  pt: plum-headed parakeet
+  pt: ''
   ru: Сливоголовый кольчатый попугай
   ja: コセイインコ
   zh: 梅頭鸚鵡

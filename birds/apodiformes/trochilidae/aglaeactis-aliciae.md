@@ -12,7 +12,7 @@ names:
   es: Colibrí de Alicia
   fr: Colibri d'Alice
   de: Maronenkolibri
-  pt: purple-backed sunbeam
+  pt: ''
   ru: Белогорлая ирида
   ja: アメシストニジハチドリ
   zh: 紫背闪羽蜂鸟

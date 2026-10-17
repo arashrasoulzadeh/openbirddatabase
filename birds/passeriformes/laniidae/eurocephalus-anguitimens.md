@@ -15,7 +15,7 @@ names:
   pt: white-crowned shrike
   ru: Белошапочный сорокопут
   ja: シロズキンヤブモズ
-  zh: Southern White-crowned Shrike
+  zh: ''
   nl: Zuidelijke witkruinklauwier
   pl: białoczub maskowy
   tr: Ak Taçlı Örümcekkuşu

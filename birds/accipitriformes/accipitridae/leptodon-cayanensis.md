@@ -15,7 +15,7 @@ names:
   pt: gavião-gato
   ru: Кайеннский коршун
   ja: ハイガシラトビ
-  zh: Grey-headed Kite
+  zh: ''
   nl: Grijskopwouw
   pl: leptodon szarogłowy
   tr: Gri Başlı Çaylak

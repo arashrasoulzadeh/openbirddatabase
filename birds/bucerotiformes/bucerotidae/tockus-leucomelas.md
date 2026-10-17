@@ -12,7 +12,7 @@ names:
   es: Toco Piquigualdo Sureño
   fr: Calao leucomèle
   de: Rotringtoko
-  pt: southern yellow-billed hornbill
+  pt: ''
   ru: Южный токо
   ja: ミナミキバシコサイチョウ
   zh: 黄嘴犀鸟

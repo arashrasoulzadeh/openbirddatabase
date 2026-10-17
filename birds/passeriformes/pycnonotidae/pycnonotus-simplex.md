@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24662.0
 names:
   scientific: Pycnonotus simplex
-  fa: nan
+  fa: ''
   en: Cream-vented Bulbul
   es: Bulbul Ojiblanco
   fr: Bulbul aux yeux blancs
   de: Weißaugenbülbül
-  pt: cream-vented bulbul
+  pt: ''
   ru: Белоглазый бюльбюль
   ja: メジロチャイロヒヨ
   zh: 白眼褐鵯

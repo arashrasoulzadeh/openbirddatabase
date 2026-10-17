@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19494.0
 names:
   scientific: Pachycephala tenebrosa
-  fa: nan
+  fa: ''
   en: Morningbird
   es: Picanzo de las Palaos
   fr: Siffleur des Palau
   de: Singdickkopf
-  pt: morningbird
+  pt: ''
   ru: Певчий свистун
   ja: モリモズ
   nl: Palaupitohui

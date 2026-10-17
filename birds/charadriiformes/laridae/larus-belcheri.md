@@ -12,7 +12,7 @@ names:
   es: Gaviota Simeón
   fr: Goéland siméon
   de: Schwanzbandmöwe
-  pt: belcher's gull
+  pt: ''
   ru: Бельчерова чайка
   ja: ペルーカモメ
   nl: Simeonmeeuw

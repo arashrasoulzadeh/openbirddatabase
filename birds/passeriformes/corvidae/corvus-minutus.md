@@ -14,7 +14,7 @@ names:
   de: Kuba-Palmenkrähe
   pt: cuban palm-crow
   ru: Малая ворона
-  zh: Cuban Palm Crow
+  zh: ''
   nl: Cubaanse palmkraai
   pl: wrona palmowa
   tr: Küba Palmiye Kargası

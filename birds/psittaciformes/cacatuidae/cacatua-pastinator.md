@@ -12,7 +12,7 @@ names:
   es: Cacatúa Cavadora
   fr: Cacatoès laboureur
   de: Wühlerkakadu
-  pt: western corella
+  pt: ''
   ru: Западный какаду
   ja: ヒメテンジクバタン
   zh: 西长喙凤头鹦鹉

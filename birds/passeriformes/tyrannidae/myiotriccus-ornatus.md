@@ -12,7 +12,7 @@ names:
   es: Mosquerito Adornado
   fr: Moucherolle orné
   de: Schmucktyrann
-  pt: ornate flycatcher
+  pt: ''
   ru: Уккрашенная курэта
   ja: キゴシタイランチョウ
   zh: 华丽霸鹟

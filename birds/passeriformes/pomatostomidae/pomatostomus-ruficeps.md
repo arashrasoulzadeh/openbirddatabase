@@ -12,7 +12,7 @@ names:
   es: Gárrulo Coronirrufo
   fr: Pomatostome à calotte marron
   de: Rotscheitelsäbler
-  pt: chestnut-crowned babbler
+  pt: ''
   ru: Красноголовая яху
   ja: クリボウシオーストラリアマルハシ
   zh: 栗冠弯嘴鹛

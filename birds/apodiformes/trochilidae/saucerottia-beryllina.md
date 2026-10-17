@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5057.0
 names:
   scientific: Saucerottia beryllina
-  fa: nan
+  fa: ''
   en: Berylline Hummingbird
   es: Amazilia Berilina
   fr: Ariane béryl
   de: Beryllamazilie
-  pt: berylline hummingbird
+  pt: ''
   ru: Берилловая амазилия
   ja: コウゲンエメラルドハチドリ
   nl: Berylamazilia

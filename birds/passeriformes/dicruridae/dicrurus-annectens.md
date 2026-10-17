@@ -12,7 +12,7 @@ names:
   es: Drongo Picogordo
   fr: Drongo à gros bec
   de: Krähendrongo
-  pt: crow-billed drongo
+  pt: ''
   ru: Большеклювый дронго
   ja: ハシブトオウチュウ
   zh: 鸦嘴卷尾

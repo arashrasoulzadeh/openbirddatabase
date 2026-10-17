@@ -12,7 +12,7 @@ names:
   es: Guardabosques Oliváceo
   fr: Cotinga olivâtre
   de: Schwarzscheitelkotinga
-  pt: olivaceous piha
+  pt: ''
   ru: Оливковая пиха
   ja: オリーブカザリドリ
   nl: Geelbuikpiha

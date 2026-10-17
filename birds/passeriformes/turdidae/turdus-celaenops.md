@@ -12,7 +12,7 @@ names:
   es: Zorzal de las Izu
   fr: Merle des Izu
   de: Izudrossel
-  pt: izu thrush
+  pt: ''
   ru: Рюкюйский дрозд
   ja: アカコッコ
   zh: 伊豆鶇

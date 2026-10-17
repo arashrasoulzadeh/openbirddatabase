@@ -12,7 +12,7 @@ names:
   es: Cucarachero Manchado
   fr: Troglodyte tacheté
   de: Bartzaunkönig
-  pt: spotted wren
+  pt: ''
   ru: Мексиканский кактусовый крапивник
   ja: メキシコサボテンミソサザイ
   zh: 斑曲嘴鹪鹩

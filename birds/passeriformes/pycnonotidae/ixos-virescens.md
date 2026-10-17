@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24531.0
 names:
   scientific: Ixos virescens
-  fa: nan
+  fa: ''
   en: Javan Bulbul
   es: Bulbul de Java
   fr: Bulbul verdin
   de: Javabülbül
-  pt: javan bulbul
+  pt: ''
   ru: Зеленокрылый восточный бюльбюль
   ja: ムナフヒヨドリ
   nl: Javaanse buulbuul

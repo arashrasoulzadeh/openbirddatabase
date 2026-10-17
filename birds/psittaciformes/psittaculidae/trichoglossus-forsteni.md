@@ -12,7 +12,7 @@ names:
   es: Lori Pechiescarlata
   fr: Loriquet de Forsten
   de: Forstenlori
-  pt: sunset lorikeet
+  pt: ''
   ru: Желтошейный лорикет
   ja: スンバセイガイインコ
   nl: Roodborstlori

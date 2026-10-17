@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12797.0
 names:
   scientific: Touit dilectissimus
-  fa: nan
+  fa: ''
   en: Blue-fronted Parrotlet
   es: Cotorrita Cariazul
   fr: Toui à front bleu
   de: Kronenpapagei
-  pt: blue-fronted parrotlet
+  pt: ''
   ru: Синелобый туети
   ja: アオビタイイロオインコ
   nl: Roodvleugelpapegaai

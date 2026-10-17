@@ -15,7 +15,7 @@ names:
   pt: manipur bush-quail
   ru: Манипурский перепел
   ja: チャノドヤブウズラ
-  zh: Manipur Bush Quail
+  zh: ''
   nl: Manipurdwergpatrijs
   pl: przepióreczka ciemna
   tr: Kurşuni Cüce Bıldırcın

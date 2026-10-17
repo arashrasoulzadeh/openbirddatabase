@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25831.0
 names:
   scientific: Zosterops hamlini
-  fa: nan
+  fa: ''
   en: Bougainville White-eye
   es: Anteojitos de Bougainville
   fr: Zostérops de Hamlin
   de: Bougainville-Brillenvogel
-  pt: bougainville white-eye
+  pt: ''
   nl: Bougainvillebrilvogel
   pl: szlarnik zielonogardły
   tr: Bugenvil Adası Gözlükçüsü

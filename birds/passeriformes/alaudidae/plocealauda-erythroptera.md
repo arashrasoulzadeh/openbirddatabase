@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22478.0
 names:
   scientific: Plocealauda erythroptera
-  fa: nan
+  fa: ''
   en: Indian Bush Lark
   es: Alondra India
   fr: Alouette à ailes rousses
@@ -15,7 +15,7 @@ names:
   pt: indian bushlark
   ru: Рыжекрылый жаворонок
   ja: コチャバネヤブヒバリ
-  zh: Indian Bush Lark
+  zh: ''
   nl: Roodvleugelleeuwerik
   pl: skowroniec rdzawoskrzydły
   tr: Hint Çalı Toygarı

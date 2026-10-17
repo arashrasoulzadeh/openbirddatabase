@@ -15,7 +15,7 @@ names:
   pt: western bearded-greenbul
   ru: Бородатый бюльбюль
   ja: アゴヒゲヒヨドリ
-  zh: Western Bearded Greenbul
+  zh: ''
   nl: Temminckbaardbuulbuul
   pl: szczeciobrodacz płowy
   tr: Sarı Sakallı Yaprakbülbülü

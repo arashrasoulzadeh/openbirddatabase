@@ -15,7 +15,7 @@ names:
   pt: stephan's dove
   ru: Белолобая изумрудная горлица
   ja: チャイロキンバト
-  zh: Stephan's Emerald Dove
+  zh: ''
   nl: Stephansmaragdduif
   pl: miedzianka białoczelna
   tr: Ak Alınlı Zümrüt Kumrusu

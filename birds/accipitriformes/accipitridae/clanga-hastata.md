@@ -12,7 +12,7 @@ names:
   es: Águila India
   fr: Aigle lancéolé
   de: Gangesadler
-  pt: indian spotted eagle
+  pt: ''
   ru: Индийский подорлик
   ja: インドワシ
   nl: Indische schreeuwarend

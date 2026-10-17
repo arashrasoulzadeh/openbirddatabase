@@ -12,7 +12,7 @@ names:
   es: Serín Montano
   fr: Serin malais
   de: Malaiengirlitz
-  pt: indonesian serin
+  pt: ''
   ru: Малайский вьюрок
   ja: インドネシアハグロヒワ
   nl: Indonesische kanarie

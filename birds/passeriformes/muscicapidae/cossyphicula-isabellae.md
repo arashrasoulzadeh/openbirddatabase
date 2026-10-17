@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29200.0
 names:
   scientific: Cossyphicula isabellae
-  fa: nan
+  fa: ''
   en: Mountain Robin-Chat
   es: Cosifa de Isabel
   fr: Cossyphe d'Isabel
   de: Kamerunrötel
-  pt: mountain robin-chat
+  pt: ''
   ru: Горный рыжехвост
   ja: ミヤマツグミヒタキ
   nl: Kameroense janfrederik

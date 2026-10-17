@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18939.0
 names:
   scientific: Edolisoma amboinense
-  fa: nan
+  fa: ''
   en: South Moluccan Cicadabird
   es: Oruguero de Ambon
   fr: Échenilleur d'Ambon
-  pt: south moluccan cicadabird
+  pt: ''
   ja: ミナミモルッカセミサンショウクイ
   nl: Zuid-Molukse rupsvogel
   pl: gąsienicojad archipelagowy

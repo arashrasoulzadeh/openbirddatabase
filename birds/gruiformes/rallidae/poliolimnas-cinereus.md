@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5545.0
 names:
   scientific: Poliolimnas cinereus
-  fa: nan
+  fa: ''
   en: White-browed Crake
   es: Polluela Cejiblanca
   fr: Râle cendré

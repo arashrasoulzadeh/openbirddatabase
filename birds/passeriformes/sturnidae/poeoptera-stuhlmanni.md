@@ -12,7 +12,7 @@ names:
   es: Estornino de Stuhlmann
   fr: Choucador de Stuhlmann
   de: Stuhlmannstar
-  pt: stuhlmann's starling
+  pt: ''
   ru: Острохвостый скворец
   ja: アオテリムク
   nl: Stuhlmannspreeuw

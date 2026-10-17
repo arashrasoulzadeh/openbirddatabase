@@ -12,7 +12,7 @@ names:
   es: Diamante Colilargo
   fr: Diamant à longue queue
   de: Spitzschwanzamadine
-  pt: long-tailed finch
+  pt: ''
   ru: Острохвостая амадина
   ja: オナガキンセイチョウ
   zh: 长尾草雀

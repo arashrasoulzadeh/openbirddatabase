@@ -12,7 +12,7 @@ names:
   es: Bienteveo Ventridorado
   fr: Tyran à ventre d'or
   de: Braunbart-Maskentyrann
-  pt: golden-bellied flycatcher
+  pt: ''
   ru: Златобрюхий бентеви
   ja: ウスブチタイランチョウ
   nl: Goudbuiktiran

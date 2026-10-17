@@ -15,7 +15,7 @@ names:
   pt: mountain serpent-eagle
   ru: Борнейский змееяд
   ja: キナバルカンムリワシ
-  zh: Mountain Serpent Eagle
+  zh: ''
   nl: Kinabaluslangenarend
   pl: wężojad górski
   tr: Dağ Yılan Kartalı

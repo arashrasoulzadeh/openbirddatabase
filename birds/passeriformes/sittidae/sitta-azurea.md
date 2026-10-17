@@ -12,7 +12,7 @@ names:
   es: Trepador Azur
   fr: Sittelle bleue
   de: Schwarzbauchkleiber
-  pt: blue nuthatch
+  pt: ''
   ru: Лазурный поползень
   ja: ズグロゴジュウカラ
   zh: 天藍鳾

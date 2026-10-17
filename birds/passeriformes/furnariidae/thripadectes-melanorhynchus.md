@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15248.0
 names:
   scientific: Thripadectes melanorhynchus
-  fa: nan
+  fa: ''
   en: Black-billed Treehunter
   es: Trepamusgos Piquinegro
   fr: Anabate à bec noir
   de: Schuppenkehl-Baumspäher
-  pt: black-billed treehunter
+  pt: ''
   ru: Черноклювый лесовик
   ja: ハシグロムシクイカマドドリ
   nl: Zwartsnavelboomjager

@@ -12,7 +12,7 @@ names:
   es: Semillero Peruano
   fr: Sporophile perroquet
   de: Papageischnabelspelzer
-  pt: parrot-billed seedeater
+  pt: ''
   ru: Попугаевый просяночник
   ja: インコヒメウソ
   nl: Papegaaidikbekje

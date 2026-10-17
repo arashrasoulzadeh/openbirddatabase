@@ -15,7 +15,7 @@ names:
   pt: rose-headed parakeet
   ru: Красноголовая которра
   ja: ズアカウロコインコ
-  zh: Rose-crowned Parakeet
+  zh: ''
   nl: Roodkopparkiet
   pl: rudosterka czerwonogłowa
   tr: Pembe Tepeli Papağan

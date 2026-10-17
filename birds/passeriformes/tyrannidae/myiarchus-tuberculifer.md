@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17284.0
 names:
   scientific: Myiarchus tuberculifer
-  fa: nan
+  fa: ''
   en: Dusky-capped Flycatcher
   es: Copetón Capirotado
   fr: Tyran olivâtre

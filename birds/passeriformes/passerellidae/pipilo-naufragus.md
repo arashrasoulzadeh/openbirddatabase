@@ -12,7 +12,7 @@ names:
   es: Toquí de las Bermudas
   fr: Tohi des Bermudes
   de: Bermudagrundammer
-  pt: bermuda towhee
+  pt: ''
   ja: バミューダトウヒチョウ
   zh: 百慕大唧鹀
   nl: Bermudatowie

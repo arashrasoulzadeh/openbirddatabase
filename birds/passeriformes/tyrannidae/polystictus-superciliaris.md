@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16644.0
 names:
   scientific: Polystictus superciliaris
-  fa: nan
+  fa: ''
   en: Grey-backed Tachuri
   es: Tachurí Gris
   fr: Tyranneau bridé
@@ -15,7 +15,7 @@ names:
   pt: papa-moscas-de-costas-cinzentas
   ru: Сероголовый тачури
   ja: ハイイロカンムリタイランチョウ
-  zh: Grey-backed Tachuri
+  zh: ''
   nl: Zilverbrauwtiran
   pl: murawnik białobrody
   tr: Gri Sırtlı Taçuri

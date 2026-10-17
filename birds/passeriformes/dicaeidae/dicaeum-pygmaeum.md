@@ -12,7 +12,7 @@ names:
   es: Picaflores Pigmeo
   fr: Dicée pygmée
   de: Zwergmistelfresser
-  pt: pygmy flowerpecker
+  pt: ''
   ru: Крошечный цветоед
   ja: パラワンハナドリ
   zh: 小啄花

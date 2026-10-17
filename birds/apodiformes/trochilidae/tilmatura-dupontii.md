@@ -15,7 +15,7 @@ names:
   pt: sparkling-tailed hummingbird
   ru: Сверкающий искрохвост
   ja: ムナジロエンビハチドリ
-  zh: Sparkling-tailed Woodstar
+  zh: ''
   nl: Dupontkolibrie
   pl: ametystowczyk jaskółczy
   tr: Işık Kuyruklu Ormanyıldızı

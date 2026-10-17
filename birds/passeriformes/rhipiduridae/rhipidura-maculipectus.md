@@ -15,7 +15,7 @@ names:
   pt: black thicket-fantail
   ru: Пятнистая веерохвостка
   ja: クロヤブオウギビタキ
-  zh: Black Thicket Fantail
+  zh: ''
   nl: Moeraswaaierstaart
   pl: wachlarzówka białowąsa
   tr: Karyağdılı Katmerkuyruk

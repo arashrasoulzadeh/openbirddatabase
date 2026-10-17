@@ -12,7 +12,7 @@ names:
   es: Vireo de Cozumel
   fr: Viréo de Cozumel
   de: Bairdvireo
-  pt: cozumel vireo
+  pt: ''
   ru: Косумельский виреон
   ja: コスメルモズモドキ
   nl: Cozumelvireo

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34730.0
 names:
   scientific: Microspingus torquatus
-  fa: nan
+  fa: ''
   en: Ringed Warbling Finch
   es: Monterita Acollarada
   fr: Tangara sanglé
   de: Bandfinkentangare
-  pt: ringed warbling finch
+  pt: ''
   ru: Ошейниковая монтерита
   ja: コバシマユシトド
   nl: Zwartbandboomgors

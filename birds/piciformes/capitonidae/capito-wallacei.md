@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 10795.0
 names:
   scientific: Capito wallacei
-  fa: nan
+  fa: ''
   en: Scarlet-banded Barbet
   es: Cabezón de Loreto
   fr: Cabézon du Loreto
   de: Loretobartvogel
-  pt: scarlet-banded barbet
+  pt: ''
   ru: Лоретская бородатка
   ja: アカオビゴシキドリ
   zh: 红带拟啄木鸟

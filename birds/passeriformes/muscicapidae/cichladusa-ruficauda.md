@@ -15,7 +15,7 @@ names:
   pt: rufous-tailed palm-thrush
   ru: Рыжехвостая пальмара
   ja: アカオアサナキヒタキ
-  zh: Rufous-tailed Palm Thrush
+  zh: ''
   nl: Gabonese palmlijster
   pl: palmodrozd żółtogardły
   tr: Kızıl Kuyruklu Palmiye Ardıcı

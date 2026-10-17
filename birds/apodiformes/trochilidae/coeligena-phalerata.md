@@ -12,7 +12,7 @@ names:
   es: Inca Coliblanco
   fr: Inca à queue blanche
   de: Türkiskronkolibri
-  pt: white-tailed starfrontlet
+  pt: ''
   ru: Белохвостый инка
   ja: オジロインカハチドリ
   zh: 白尾星额蜂鸟

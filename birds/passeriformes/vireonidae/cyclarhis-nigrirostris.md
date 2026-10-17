@@ -12,7 +12,7 @@ names:
   es: Vireón Piquinegro
   fr: Sourciroux à bec noir
   de: Schwarzschnabelvireo
-  pt: black-billed peppershrike
+  pt: ''
   ru: Черноклювый попугаевый виреон
   ja: ハシグロカラシモズ
   nl: Zwartsnavelpeperklauwier

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18098.0
 names:
   scientific: Lichmera notabilis
-  fa: nan
+  fa: ''
   en: Black-necklaced Honeyeater
   es: Mielero Acollarado
   fr: Méliphage de Wetar
@@ -15,7 +15,7 @@ names:
   pt: black-chested honeyeater
   ru: Черногрудый медолюб
   ja: ウェタルオリーブミツスイ
-  zh: Black-necklaced Honeyeater
+  zh: ''
   nl: Wetarhoningeter
   pl: miodojadek białogardły
   tr: Kara Gerdanlı Balkuşu

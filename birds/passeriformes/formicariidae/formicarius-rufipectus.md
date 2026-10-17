@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14494.0
 names:
   scientific: Formicarius rufipectus
-  fa: nan
+  fa: ''
   en: Rufous-breasted Antthrush
   es: Formicario Pechirrufo
   fr: Tétéma à poitrine rousse
   de: Rostbrust-Ameisendrossel
-  pt: rufous-breasted antthrush
+  pt: ''
   ru: Рыжегрудая муравейница
   ja: ムネアカアリツグミ
   nl: Roodborstmierlijster

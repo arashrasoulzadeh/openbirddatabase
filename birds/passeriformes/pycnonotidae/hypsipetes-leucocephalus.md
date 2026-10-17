@@ -12,7 +12,7 @@ names:
   es: Bulbul Negro
   fr: Bulbul noir
   de: China-Rotschnabelbülbül
-  pt: black bulbul
+  pt: ''
   ru: Черный бюль-бюль
   ja: シロガシラクロヒヨドリ
   zh: 黑短脚鹎

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4094.0
 names:
   scientific: Apus apus
-  fa: nan
+  fa: ''
   en: Common Swift
   es: Vencejo Común
   fr: Martinet noir

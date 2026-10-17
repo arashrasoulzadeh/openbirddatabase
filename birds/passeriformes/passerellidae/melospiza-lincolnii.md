@@ -12,7 +12,7 @@ names:
   es: Chingolo de Lincoln
   fr: Bruant de Lincoln
   de: Lincolnammer
-  pt: lincoln's sparrow
+  pt: ''
   ru: Еловая овсянка
   ja: ヒメウタスズメ
   zh: 林肯帶鵐

@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 14399.0
 names:
   scientific: Scytalopus gonzagai
-  fa: nan
+  fa: ''
   en: Boa Nova Tapaculo
   es: Churrín de Boa Nova
   fr: Mérulaxe de Gonzaga

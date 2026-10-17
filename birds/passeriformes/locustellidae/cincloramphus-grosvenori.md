@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 23868.0
 names:
   scientific: Cincloramphus grosvenori
-  fa: nan
+  fa: ''
   en: New Britain Thicketbird
   es: Yerbera de Nueva Bretaña
   fr: Mégalure de Gilliard
@@ -15,7 +15,7 @@ names:
   pt: bismarck thicketbird
   ru: Новобританская клинохвостка
   ja: ニューブリテンツグミモドキ
-  zh: New Britain Thicketbird
+  zh: ''
   nl: Gilliardzanger
   pl: krzakowik maskowy
   tr: Bismark Çalı Ötleğeni

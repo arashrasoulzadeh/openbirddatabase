@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34375.0
 names:
   scientific: Myioborus castaneocapilla
-  fa: nan
+  fa: ''
   en: Tepui Whitestart
   es: Candelita de Tepuí
   fr: Paruline des tépuis
@@ -15,7 +15,7 @@ names:
   pt: mariquita-de-cabeça-parda
   ru: Тепуйская канделита
   ja: アメリカムシクイ
-  zh: Tepui Whitestart
+  zh: ''
   nl: Tepuizanger
   pl: pleszówka kasztanołbista
   tr: Tepui Ötleğen

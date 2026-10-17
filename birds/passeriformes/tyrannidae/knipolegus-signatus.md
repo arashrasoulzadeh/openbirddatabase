@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17063.0
 names:
   scientific: Knipolegus signatus
-  fa: nan
+  fa: ''
   en: Jelski's Black Tyrant
   es: Viudita Andina Septentrional
   fr: Ada de Jelski
@@ -15,7 +15,7 @@ names:
   pt: jelski's black-tyrant
   ru: Андская вдовка
   ja: ネズミタイランチョウ
-  zh: Jelski's Black Tyrant
+  zh: ''
   nl: Junínmoortiran
   pl: wdowik andyjski
   tr: Peru Esmer Tiranı

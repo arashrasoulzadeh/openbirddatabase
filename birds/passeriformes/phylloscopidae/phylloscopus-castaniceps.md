@@ -12,7 +12,7 @@ names:
   es: Mosquitero Coronicastaño
   fr: Pouillot à couronne marron
   de: Rotkopf-Laubsänger
-  pt: chestnut-crowned warbler
+  pt: ''
   ru: Рыжеголовая расписная пеночка
   ja: クリガシラモリムシクイ
   zh: 栗头鹟莺

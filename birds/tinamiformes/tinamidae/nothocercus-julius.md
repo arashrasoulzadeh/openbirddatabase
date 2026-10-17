@@ -12,7 +12,7 @@ names:
   es: Tinamú Cabecirrojo
   fr: Tinamou à tête rousse
   de: Gelbbrusttinamu
-  pt: tawny-breasted tinamou
+  pt: ''
   ru: Желтогрудый трёхпалый тинаму
   ja: チャバラシギダチョウ
   zh: 红头林䳍

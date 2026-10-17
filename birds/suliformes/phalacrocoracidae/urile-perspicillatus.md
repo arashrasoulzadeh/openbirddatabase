@@ -15,7 +15,7 @@ names:
   pt: pallas's cormorant
   ru: Стеллеров баклан
   ja: ベーリングシマウ
-  zh: Spectacled Cormorant
+  zh: ''
   nl: Beringaalscholver
   pl: kormoran okularowy
   tr: Bering Adası Karabatağı

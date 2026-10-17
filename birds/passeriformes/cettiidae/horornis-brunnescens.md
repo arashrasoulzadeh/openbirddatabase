@@ -12,7 +12,7 @@ names:
   es: Cetia del Himalaya
   fr: Bouscarle de Hume
   de: Blassbauch-Seidensänger
-  pt: hume's bush warbler
+  pt: ''
   ru: Гималайская широкохвостка
   ja: インドウグイス
   nl: Humestruikzanger

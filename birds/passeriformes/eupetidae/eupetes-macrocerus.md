@@ -15,7 +15,7 @@ names:
   pt: malaysian rail-babbler
   ru: Пастушковый бегун
   ja: クイナチメドリ
-  zh: Rail-babbler
+  zh: ''
   nl: Ralbabbelaar
   pl: długobieg
   tr: Yelveardıcı

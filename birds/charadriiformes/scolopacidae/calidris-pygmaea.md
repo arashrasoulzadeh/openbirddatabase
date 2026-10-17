@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 6187.0
 names:
   scientific: Calidris pygmaea
-  fa: nan
+  fa: ''
   en: Spoon-billed Sandpiper
   es: Correlimos Cuchareta
   fr: Bécasseau spatule
   de: Löffelstrandläufer
-  pt: spoon-billed sandpiper
+  pt: ''
   ru: Лопатень
   ja: ヘラシギ
   zh: 勺嘴鹬

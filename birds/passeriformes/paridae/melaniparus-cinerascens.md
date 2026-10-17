@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22259.0
 names:
   scientific: Melaniparus cinerascens
-  fa: nan
+  fa: ''
   en: Ashy Tit
   es: Carbonero Cinéreo
   fr: Mésange cendrée
   de: Akazienrußmeise
-  pt: ashy tit
+  pt: ''
   ru: Пепельная синица
   ja: ススイロガラ
   nl: Acaciamees

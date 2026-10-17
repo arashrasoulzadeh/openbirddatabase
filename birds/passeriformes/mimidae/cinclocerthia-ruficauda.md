@@ -12,7 +12,7 @@ names:
   es: Cocobino Pardo
   fr: Trembleur brun
   de: Braunzitterdrossel
-  pt: brown trembler
+  pt: ''
   ru: Рыжехвостый пересмешник
   ja: フルエドリ
   nl: Bruine sidderspotlijster

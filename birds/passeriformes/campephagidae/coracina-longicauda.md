@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18663.0
 names:
   scientific: Coracina longicauda
-  fa: nan
+  fa: ''
   en: Hooded Cuckooshrike
   es: Oruguero Encapuchado
   fr: Échenilleur à longue queue
   de: Langschwanz-Raupenfänger
-  pt: hooded cuckooshrike
+  pt: ''
   ru: Длиннохвостый воронец
   ja: ズキンオニサンショウクイ
   zh: 黑冠鹃鵙

@@ -12,7 +12,7 @@ names:
   es: Colinegro Sudafricano
   fr: Traquet aile-en-faux
   de: Sichelschwingenschmätzer
-  pt: sickle-winged chat
+  pt: ''
   ru: Серпокрылая трактрака
   ja: イワビタキ
   nl: Vlaktespekvreter

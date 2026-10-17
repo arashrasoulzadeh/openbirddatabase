@@ -12,7 +12,7 @@ names:
   es: Colibrí Verdemar Mexicano
   fr: Colibri thalassin
   de: Mexiko-Veilchenohrkolibri
-  pt: mexican violetear
+  pt: ''
   ru: Синегрудый фиалкоух
   ja: ミドリハチドリ
   zh: 綠紫耳蜂鳥

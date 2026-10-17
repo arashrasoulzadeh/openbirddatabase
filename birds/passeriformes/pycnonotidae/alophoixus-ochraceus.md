@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24473.0
 names:
   scientific: Alophoixus ochraceus
-  fa: nan
+  fa: ''
   en: Ochraceous Bulbul
   es: Bulbul Ocráceo
   fr: Bulbul ocré
   de: Ockerbauchbülbül
-  pt: ochraceous bulbul
+  pt: ''
   ru: Бурый бюльбюль-бородач
   ja: シロハラカンムリヒヨドリ
   zh: 白喉褐冠鵯

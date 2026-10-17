@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14268.0
 names:
   scientific: Grallaria rufula
-  fa: nan
+  fa: ''
   en: Muisca Antpitta
   es: Tororoí Rufo
   fr: Grallaire rousse
   de: Einfarb-Ameisenpitta
-  pt: muisca antpitta
+  pt: ''
   ru: Рыжая питтовая муравьеловка
   ja: ムイスカジアリドリ
   nl: Muiscamierpitta

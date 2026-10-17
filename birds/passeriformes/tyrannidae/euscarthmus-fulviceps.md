@@ -13,7 +13,7 @@ names:
   fr: Tyranneau à front fauve
   de: Ockerstirn-Zwergtyrann
   pt: fulvous-faced scrub-tyrant
-  zh: Fulvous-faced Scrub Tyrant
+  zh: ''
   nl: Okerkopdwergtiran
   pl: rdzawik pacyficzny
   tr: Ekru Yüzlü Tiranület

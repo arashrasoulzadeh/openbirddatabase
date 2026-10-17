@@ -12,7 +12,7 @@ names:
   es: Carpintero de Hoffmann
   fr: Pic de Hoffmann
   de: Hoffmannspecht
-  pt: hoffmann's woodpecker
+  pt: ''
   ru: Никарагуанский дятел
   ja: コスタリカキビタイシマセゲラ
   nl: Hoffmannspecht

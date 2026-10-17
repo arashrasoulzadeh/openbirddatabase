@@ -12,7 +12,7 @@ names:
   es: Zordala Picocuña Occidental
   fr: Psophode carillonneur
   de: Glockenflöter
-  pt: chiming wedgebill
+  pt: ''
   ru: Звонкая птица-бич
   ja: ニシカンムリハシリチメドリ
   zh: 西啸冠鸫

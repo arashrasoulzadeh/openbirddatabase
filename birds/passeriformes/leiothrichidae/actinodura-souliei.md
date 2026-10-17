@@ -12,7 +12,7 @@ names:
   es: Actinodura de Tonkín
   fr: Actinodure de Soulié
   de: Tonkinmeisenhäherling
-  pt: streaked barwing
+  pt: ''
   ru: Тонкинский пестрокрыл
   ja: タテジマシマチドリ
   zh: 灰头斑翅鹛

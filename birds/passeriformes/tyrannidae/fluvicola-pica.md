@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17160.0
 names:
   scientific: Fluvicola pica
-  fa: nan
+  fa: ''
   en: Pied Water Tyrant
   es: Viudita Pía
   fr: Moucherolle pie
@@ -15,7 +15,7 @@ names:
   pt: lavadeira-do-norte
   ru: Пегий мухолов
   ja: ゴマダラタイランチョウ
-  zh: Pied Water Tyrant
+  zh: ''
   nl: Bonte watertiran
   pl: wodopławik srokaty
   tr: Alaca Irmak Tiranı

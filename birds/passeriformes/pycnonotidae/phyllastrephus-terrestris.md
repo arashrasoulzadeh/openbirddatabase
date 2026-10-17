@@ -12,7 +12,7 @@ names:
   es: Bulbul Terrestre
   fr: Bulbul jaboteur
   de: Laubbülbül
-  pt: terrestrial brownbul
+  pt: ''
   ru: Земляной бюльбюль
   ja: シロハラチャイロヒヨドリ
   nl: Kaapse loofbuulbuul

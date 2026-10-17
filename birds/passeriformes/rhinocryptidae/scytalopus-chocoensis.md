@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14444.0
 names:
   scientific: Scytalopus chocoensis
-  fa: nan
+  fa: ''
   en: Choco Tapaculo
   es: Churrín del Chocó
   fr: Mérulaxe du Choco
   de: Chocótapaculo
-  pt: choco tapaculo
+  pt: ''
   ru: Чокский тапакуло
   ja: チョコオタテドリ
   nl: Chocotapaculo

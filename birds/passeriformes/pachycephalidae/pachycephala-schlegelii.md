@@ -12,7 +12,7 @@ names:
   es: Silbador de Schlegel
   fr: Siffleur de Schlegel
   de: Bergdickkopf
-  pt: regent whistler
+  pt: ''
   ru: Горный свистун
   ja: キエリモズヒタキ
   zh: 斯氏啸鹟

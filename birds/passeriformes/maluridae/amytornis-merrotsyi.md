@@ -12,7 +12,7 @@ names:
   es: Maluro Colicorto
   fr: Amytis de Merrotsy
   de: Kurzschwanz-Grasschlüpfer
-  pt: short-tailed grasswren
+  pt: ''
   ru: Короткохвостый амитис
   ja: ヒメノドジロセスジムシクイ
   zh: 短尾草鹩莺

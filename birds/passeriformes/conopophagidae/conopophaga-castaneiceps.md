@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14181.0
 names:
   scientific: Conopophaga castaneiceps
-  fa: nan
+  fa: ''
   en: Chestnut-crowned Gnateater
   es: Jejenero Coronicastaño
   fr: Conopophage à couronne rousse
   de: Roststirn-Mückenfresser
-  pt: chestnut-crowned gnateater
+  pt: ''
   ru: Красношапочный гусеницеед
   ja: クリボウシアリサザイ
   nl: Roodkruinmuggeneter

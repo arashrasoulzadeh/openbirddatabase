@@ -15,7 +15,7 @@ names:
   pt: cantador-de-rondon
   ru: Арипуанская муравьянка
   ja: マニコレナキアリドリ
-  zh: Manicore Warbling Antbird
+  zh: ''
   nl: Manicorémierzanger
   pl: jaguarek oliwkowy
   tr: Manicore Karıncakuşu

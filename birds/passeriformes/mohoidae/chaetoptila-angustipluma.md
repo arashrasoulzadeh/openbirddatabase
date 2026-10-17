@@ -11,7 +11,7 @@ names:
   en: Kioea
   fr: Kioéa d'Hawaï
   de: Schmalfedermoho
-  pt: kioea
+  pt: ''
   ru: Киоэа
   ja: ハワイカオグロミツスイ
   zh: 鬢吸蜜鳥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5712.0
 names:
   scientific: Grus carunculatus
-  fa: nan
+  fa: ''
   en: Wattled Crane
   es: Grulla Carunculada
   fr: Grue caronculée
   de: Klunkerkranich
-  pt: wattled crane
+  pt: ''
   ru: Серёжчатый журавль
   ja: ホオカザリヅル
   zh: 肉垂鶴

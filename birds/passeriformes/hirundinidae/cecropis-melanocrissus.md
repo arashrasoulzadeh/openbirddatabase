@@ -11,7 +11,7 @@ names:
   es: Golondrina Dáurica Africana
   fr: Hirondelle de Rüppell
   de: Savannenrötelschwalbe
-  pt: african red-rumped swallow
+  pt: ''
   ru: Африканская рыжепоясничная ласточка
   ja: アフリカコシアカツバメ
   zh: 非洲金腰燕

@@ -12,7 +12,7 @@ names:
   es: Silfo de King
   fr: Sylphe à queue d'azur
   de: Himmelssylphe
-  pt: long-tailed sylph
+  pt: ''
   ru: Небесный сильф
   ja: アオフタオハチドリ
   zh: 日光长尾蜂鸟

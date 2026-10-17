@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28945.0
 names:
   scientific: Tychaedon coryphoeus
-  fa: nan
+  fa: ''
   en: Karoo Scrub Robin
   es: Alzacola del Karoo
   fr: Agrobate coryphée
@@ -15,7 +15,7 @@ names:
   pt: karoo scrub-robin
   ru: Голосистый тугайный соловей
   ja: ヤブコマドリ
-  zh: Karoo Scrub Robin
+  zh: ''
   nl: Karoowaaierstaart
   pl: drozdówek śniady
   tr: Karu Çalı Bülbülü

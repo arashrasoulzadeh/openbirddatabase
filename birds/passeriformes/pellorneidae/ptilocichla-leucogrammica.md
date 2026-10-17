@@ -12,7 +12,7 @@ names:
   es: Ratina de Borneo
   fr: Turdinule de Bornéo
   de: Borneowolldrossling
-  pt: bornean wren-babbler
+  pt: ''
   ru: Борнейский питтодрозд
   ja: ボルネオミノチメドリ
   zh: 加里曼丹地鶥

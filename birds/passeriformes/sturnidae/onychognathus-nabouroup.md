@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27907.0
 names:
   scientific: Onychognathus nabouroup
-  fa: nan
+  fa: ''
   en: Pale-winged Starling
   es: Estornino Naburup
   fr: Rufipenne nabouroup
   de: Fahlflügelstar
-  pt: pale-winged starling
+  pt: ''
   ru: Бледнокрылый скворец
   ja: ハジロテリムク
   nl: Vaalvleugelspreeuw

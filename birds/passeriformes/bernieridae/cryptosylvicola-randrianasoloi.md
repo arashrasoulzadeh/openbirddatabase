@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23967.0
 names:
   scientific: Cryptosylvicola randrianasoloi
-  fa: nan
+  fa: ''
   en: Cryptic Warbler
   es: Silvícola Críptico
   fr: Sylvicole cryptique
   de: Steineiben-Madagaskarsänger
-  pt: cryptic warbler
+  pt: ''
   ru: Симитси
   ja: マダガスカルミヤマムシクイ
   nl: Cryptische zanger

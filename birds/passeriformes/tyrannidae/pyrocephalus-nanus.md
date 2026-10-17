@@ -12,7 +12,7 @@ names:
   es: Mosquero de Galápagos
   fr: Moucherolle des Galapagos
   de: Galápagostyrann
-  pt: brujo flycatcher
+  pt: ''
   ru: Галапагосский мухолов
   ja: ガラパゴスタイランチョウ
   nl: Darwintiran

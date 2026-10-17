@@ -12,7 +12,7 @@ names:
   es: Cuco Chico
   fr: Petit Coucou
   de: Gackelkuckuck
-  pt: lesser cuckoo
+  pt: ''
   ru: Малая кукушка
   ja: ホトトギス
   zh: 小杜鹃

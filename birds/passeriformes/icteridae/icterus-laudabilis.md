@@ -12,7 +12,7 @@ names:
   es: Turpial de Santa Lucía
   fr: Oriole de Sainte-Lucie
   de: Saint-Lucia-Trupial
-  pt: st. lucia oriole
+  pt: ''
   ru: Санталюсийский трупиал
   ja: セントルシアムクドリモドキ
   nl: Sint-Luciatroepiaal

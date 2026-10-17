@@ -15,7 +15,7 @@ names:
   pt: little sunangel
   ru: Огненогорлый феб
   ja: ヒノドテンシハチドリ
-  zh: Flame-throated Sunangel
+  zh: ''
   nl: Vuurkeelzonnekolibrie
   pl: lordzik mały
   tr: Altın Gerdanlı Günmeleği

@@ -12,7 +12,7 @@ names:
   es: Drongo de Isla Aldabra
   fr: Drongo d'Aldabra
   de: Aldabradrongo
-  pt: aldabra drongo
+  pt: ''
   ru: Альдабранский дронго
   ja: アルダブラオウチュウ
   zh: 亞達勃拉卷尾

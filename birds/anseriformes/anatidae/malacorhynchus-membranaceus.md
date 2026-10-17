@@ -12,7 +12,7 @@ names:
   es: Pato Pachón
   fr: Malacorhynque à oreilles roses
   de: Rosenohrente
-  pt: pink-eared duck
+  pt: ''
   ru: Розовоухая утка
   ja: サザナミオオハシガモ
   zh: 紅耳鴨

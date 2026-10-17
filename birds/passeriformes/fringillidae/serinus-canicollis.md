@@ -12,7 +12,7 @@ names:
   es: Serín Dorsigrís
   fr: Serin du Cap
   de: Gelbscheitelgirlitz
-  pt: cape canary
+  pt: ''
   ru: Капский вьюрок
   ja: キガシラカナリア
   nl: Grijsnekkanarie

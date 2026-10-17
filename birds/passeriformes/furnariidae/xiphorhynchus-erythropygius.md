@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Manchado
   fr: Grimpar tacheté
   de: Tropfenbaumsteiger
-  pt: spotted woodcreeper
+  pt: ''
   ru: Ржавчатый древолаз
   ja: シロボシオニキバシリ
   nl: Gevlekte muisspecht

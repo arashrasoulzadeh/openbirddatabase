@@ -12,7 +12,7 @@ names:
   es: Suimanga de Anchieta
   fr: Souimanga d'Anchieta
   de: Buntbauch-Nektarvogel
-  pt: anchieta's sunbird
+  pt: ''
   ru: Краснобрюхая нектарница
   ja: アカハラコバシタイヨウチョウ
   zh: 安氏食蜜鳥

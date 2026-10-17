@@ -12,7 +12,7 @@ names:
   es: Ostrero Variable
   fr: Huîtrier variable
   de: Neuseeland-Austernfischer
-  pt: variable oystercatcher
+  pt: ''
   ru: Изменчивый кулик-сорока
   ja: ニュージーランドミヤコドリ
   zh: 新西蘭蠣鷸

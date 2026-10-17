@@ -12,7 +12,7 @@ names:
   es: Silbador Dorsicastaño
   fr: Siffleur à dos marron
   de: Rotrücken-Dickkopf
-  pt: maroon-backed whistler
+  pt: ''
   ru: Каштановоспинный свистун
   ja: セレベスモズヒタキ
   zh: 栗背啸鹟

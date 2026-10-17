@@ -12,7 +12,7 @@ names:
   es: Oruguero Alibarrado
   fr: Hémipe gobemouche
   de: Elsterschnäppervanga
-  pt: bar-winged flycatcher-shrike
+  pt: ''
   ru: Пёстрый личинколов
   ja: ヒタキサンショウクイ
   zh: 褐背鹟鵙

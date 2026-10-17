@@ -15,7 +15,7 @@ names:
   pt: medium tree-finch
   ru: Большой дарвинов вьюрок
   ja: ダーウィンフィンチ
-  zh: Medium Tree Finch
+  zh: ''
   nl: Middelste boomvink
   pl: kłowacz ciemnogłowy
   tr: Ortanca Ağaç İspinozu

@@ -12,7 +12,7 @@ names:
   es: Cotinga Piquiamarillo
   fr: Cotinga à bec jaune
   de: Gelbschnabelkotinga
-  pt: yellow-billed cotinga
+  pt: ''
   ru: Желтоклювая котинга
   ja: キバシユキカザリドリ
   nl: Geelsnavelcotinga

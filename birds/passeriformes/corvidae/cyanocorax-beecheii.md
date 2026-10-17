@@ -12,7 +12,7 @@ names:
   es: Chara de Beechey
   fr: Geai à dos violet
   de: Indigoblaurabe
-  pt: purplish-backed jay
+  pt: ''
   ru: Траурная сойка
   ja: スミレヌレバカケス
   zh: 紫背冠鸦

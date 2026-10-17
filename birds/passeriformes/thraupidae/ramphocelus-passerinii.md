@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34800.0
 names:
   scientific: Ramphocelus passerinii
-  fa: nan
+  fa: ''
   en: Scarlet-rumped Tanager
   es: Tangara Terciopelo
   fr: Tangara à croupion rouge
   de: Passerinitangare
-  pt: scarlet-rumped tanager
+  pt: ''
   ru: Гватемальский сереброклюв
   ja: コシアカフウキンチョウ
   nl: Roodrugtangare

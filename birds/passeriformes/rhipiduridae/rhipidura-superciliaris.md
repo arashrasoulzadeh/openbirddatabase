@@ -15,7 +15,7 @@ names:
   pt: mindanao blue-fantail
   ru: Минданаосская синяя веерохвостка
   ja: アオオウギビタキ
-  zh: Mindanao Blue Fantail
+  zh: ''
   nl: Blauwe waaierstaart
   pl: wachlarzówka modra
   tr: Mindanao Mavi Katmerkuyruğu

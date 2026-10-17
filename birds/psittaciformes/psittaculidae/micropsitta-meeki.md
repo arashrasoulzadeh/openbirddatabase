@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12250.0
 names:
   scientific: Micropsitta meeki
-  fa: nan
+  fa: ''
   en: Meek's Pygmy Parrot
   es: Microloro de Meek
   fr: Micropsitte de Meek
@@ -15,7 +15,7 @@ names:
   pt: meek's pygmy-parrot
   ru: Бурощёкий карликовый попугайчик
   ja: シマバラケラインコ
-  zh: Meek's Pygmy Parrot
+  zh: ''
   nl: Meekspechtpapegaai
   pl: karłówka żółtobrzucha
   tr: Meek Cüce Papağanı

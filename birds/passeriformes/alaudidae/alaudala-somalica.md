@@ -12,7 +12,7 @@ names:
   es: Terrera Somalí
   fr: Alouette roussâtre
   de: Halsfleckenlerche
-  pt: somali short-toed lark
+  pt: ''
   ru: Сомалийский жаворонок
   ja: ソマリアコヒバリ
   nl: Somalische kortteenleeuwerik

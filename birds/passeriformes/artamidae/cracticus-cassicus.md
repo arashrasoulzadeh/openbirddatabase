@@ -12,7 +12,7 @@ names:
   es: Verdugo Cabecinegro
   fr: Cassican à tête noire
   de: Papuakrähenstar
-  pt: hooded butcherbird
+  pt: ''
   ru: Папуанская флейтовая птица
   ja: ズグロモズガラス
   zh: 鍾雀

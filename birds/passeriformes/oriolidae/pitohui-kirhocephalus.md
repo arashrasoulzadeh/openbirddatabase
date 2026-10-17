@@ -12,7 +12,7 @@ names:
   es: Pitohuí Variable Norteño
   fr: Pitohui variable
   de: Ockerpirol
-  pt: northern variable pitohui
+  pt: ''
   ru: Охристый питоху
   ja: カワリモリモズ
   nl: Noordelijke bonte pitohui

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Cejirrufo
   fr: Gobemouche à face rousse
   de: Roststirnschnäpper
-  pt: rufous-browed flycatcher
+  pt: ''
   ru: Рыжебровая мухоловка
   ja: アカメヒタキ
   zh: 棕眉姬鶲

@@ -12,7 +12,7 @@ names:
   es: Quetzal Cabecidorado
   fr: Quetzal doré
   de: Goldkopftrogon
-  pt: golden-headed quetzal
+  pt: ''
   ru: Златоголовый кетцаль
   ja: キンガシラカザリキヌバネドリ
   nl: Goudkopquetzal

@@ -12,7 +12,7 @@ names:
   es: Mosquero Negro
   fr: Moucherolle noir
   de: Schwarzkopf-Phoebetyrann
-  pt: black phoebe
+  pt: ''
   ru: Чёрный фиби
   ja: クロツキヒメハエトリ
   zh: 黑菲比霸鶲

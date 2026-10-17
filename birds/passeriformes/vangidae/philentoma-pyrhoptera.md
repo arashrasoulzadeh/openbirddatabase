@@ -12,7 +12,7 @@ names:
   es: Filentoma Alicastaño
   fr: Philentome à ailes rousses
   de: Rostflügelvanga
-  pt: rufous-winged philentoma
+  pt: ''
   ru: Рыжекрылый личинколов
   ja: チャバネアカメヒタキ
   nl: Vuurvleugelphilentoma

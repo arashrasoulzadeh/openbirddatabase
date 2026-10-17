@@ -12,7 +12,7 @@ names:
   es: Talégalo Leipoa
   fr: Léipoa ocellé
   de: Thermometerhuhn
-  pt: malleefowl
+  pt: ''
   ru: Глазчатая сорная курица
   ja: クサムラツカツクリ
   zh: 眼斑塚雉

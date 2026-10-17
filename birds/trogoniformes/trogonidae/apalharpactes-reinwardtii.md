@@ -12,7 +12,7 @@ names:
   es: Trogón de Java
   fr: Trogon de Reinwardt
   de: Javatrogon
-  pt: javan trogon
+  pt: ''
   ru: Яванский трогон
   ja: キノドキヌバネドリ
   zh: 蓝尾咬鹃

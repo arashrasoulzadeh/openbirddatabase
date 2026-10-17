@@ -12,7 +12,7 @@ names:
   es: Pico Bataraz Grande
   fr: Pic bûcheron
   de: Strichelkopfspecht
-  pt: striped woodpecker
+  pt: ''
   ru: Пестроголовый дятел
   ja: スジコゲラ
   nl: Streepkopspecht

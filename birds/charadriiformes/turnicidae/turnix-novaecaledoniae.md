@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 6300.0
 names:
   scientific: Turnix novaecaledoniae
-  fa: nan
+  fa: ''
   en: New Caledonian Buttonquail
   es: Torillo de Nueva Caledonia
   fr: Turnix calédonien
   de: Neukaledonien-Laufhühnchen
-  pt: new caledonian buttonquail
+  pt: ''
   zh: 新喀里多尼亚三趾鹑
   nl: Nieuw-Caledonische vechtkwartel
   pl: przepiórnik nowokaledoński

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11410.0
 names:
   scientific: Dryobates nuttallii
-  fa: nan
+  fa: ''
   en: Nuttall's Woodpecker
   es: Pico de Nuttall
   fr: Pic de Nuttall
   de: Nuttallspecht
-  pt: nuttall's woodpecker
+  pt: ''
   ru: Калифорнийский дятел
   ja: シロハラシマアカゲラ
   zh: 加利福尼亞啄木

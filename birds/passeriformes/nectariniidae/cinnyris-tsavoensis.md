@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30408.0
 names:
   scientific: Cinnyris tsavoensis
-  fa: nan
+  fa: ''
   en: Tsavo Sunbird
   es: Suimanga de Tsavo
   fr: Souimanga du Tsavo
   de: Tsavonektarvogel
-  pt: tsavo sunbird
+  pt: ''
   ru: Момбасская нектарница
   ja: ツァボタイヨウチョウ
   nl: Tsavohoningzuiger

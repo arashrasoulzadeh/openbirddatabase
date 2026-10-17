@@ -12,7 +12,7 @@ names:
   es: Reinita de Zeledón
   fr: Zélédonie couronnée
   de: Zaunkönigsänger
-  pt: wrenthrush
+  pt: ''
   ru: Зеледония
   ja: ズアカサザイ
   zh: 冠鷯鶇

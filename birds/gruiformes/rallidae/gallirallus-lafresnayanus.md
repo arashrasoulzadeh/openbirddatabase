@@ -12,7 +12,7 @@ names:
   es: Rascón de Nueva Caledonia
   fr: Râle de Lafresnaye
   de: Pelzralle
-  pt: new caledonian rail
+  pt: ''
   ru: Новокаледонский трескун
   ja: ニューカレドニアクイナ
   zh: 新喀里多尼亞秧雞

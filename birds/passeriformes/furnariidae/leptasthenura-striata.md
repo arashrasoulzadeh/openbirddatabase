@@ -15,7 +15,7 @@ names:
   pt: streaked tit-spinetail
   ru: Пестроспинная колючехвостка
   ja: シロハラエナガカマドドリ
-  zh: Streak-backed Tit-Spinetail
+  zh: ''
   nl: Gestreepte meesstekelstaart
   pl: cierniogonek kreskowany
   tr: Çizgili Makaskuyruk

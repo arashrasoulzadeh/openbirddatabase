@@ -12,7 +12,7 @@ names:
   es: Ponchito Lorigado
   fr: Grallaire maillée
   de: Schuppenameisenpitta
-  pt: scallop-breasted antpitta
+  pt: ''
   ru: Чешуйчатогрудая питтуля
   ja: ウロコヒメジアリドリ
   nl: Schubborstdwergmierpitta

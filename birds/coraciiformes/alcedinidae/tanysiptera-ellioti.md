@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10282.0
 names:
   scientific: Tanysiptera ellioti
-  fa: nan
+  fa: ''
   en: Kofiau Paradise Kingfisher
   es: Alción Colilargo de Isla Kofiau
   fr: Martin-chasseur de Kofiau
@@ -15,7 +15,7 @@ names:
   pt: kofiau paradise-kingfisher
   ru: Эллиотов райский зимородок
   ja: シロハララケットカワセミ
-  zh: Kofiau Paradise Kingfisher
+  zh: ''
   nl: Kofiauvlagstaartijsvogel
   pl: sterowik wstęgosterny
   tr: Kofiau Cennet Yalıçapkını

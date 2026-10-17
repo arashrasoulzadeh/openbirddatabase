@@ -12,7 +12,7 @@ names:
   es: Petrel Cahow
   fr: Pétrel des Bermudes
   de: Bermudasturmvogel
-  pt: bermuda petrel
+  pt: ''
   ru: Бермудский тайфунник
   ja: バミューダミズナギドリ
   zh: 百慕大海燕

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27995.0
 names:
   scientific: Melanotis caerulescens
-  fa: nan
+  fa: ''
   en: Blue Mockingbird
   es: Mulato Azul
   fr: Moqueur bleu
   de: Blauspottdrossel
-  pt: blue mockingbird
+  pt: ''
   ru: Синий пересмешник
   ja: アオマネシツグミ
   nl: Blauwe spotlijster

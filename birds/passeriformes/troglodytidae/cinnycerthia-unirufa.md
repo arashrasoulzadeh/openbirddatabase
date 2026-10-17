@@ -12,7 +12,7 @@ names:
   es: Cucarachero Rufo
   fr: Troglodyte roux
   de: Einfarb-Zaunkönig
-  pt: rufous wren
+  pt: ''
   ru: Рыжий крапивник
   ja: アカミソサザイ
   zh: 棕鹪鹩

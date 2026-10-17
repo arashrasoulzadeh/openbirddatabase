@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16290.0
 names:
   scientific: Corythopis torquatus
-  fa: nan
+  fa: ''
   en: Ringed Antpipit
   es: Mosquero Terrestre Norteño
   fr: Corythopis à collier

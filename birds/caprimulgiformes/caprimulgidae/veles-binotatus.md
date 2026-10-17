@@ -12,7 +12,7 @@ names:
   es: Chotacabras Bimaculado
   fr: Engoulevent à deux taches
   de: Braunnachtschwalbe
-  pt: brown nightjar
+  pt: ''
   ru: Бурый козодой
   ja: チャイロヨタカ
   nl: Bootstaartnachtzwaluw

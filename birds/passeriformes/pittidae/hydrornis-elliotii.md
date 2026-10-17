@@ -12,7 +12,7 @@ names:
   es: Pita de Elliot
   fr: Brève d'Elliot
   de: Streifenbauchpitta
-  pt: bar-bellied pitta
+  pt: ''
   ru: Полосатая питта
   ja: ミドリシマヤイロチョウ
   zh: 斑腹八色鶇

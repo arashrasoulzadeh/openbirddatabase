@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26001.0
 names:
   scientific: Melanocichla lugubris
-  fa: nan
+  fa: ''
   en: Black Laughingthrush
   es: Charlatán Negro
   fr: Timalie noire
   de: Trauerhäherling
-  pt: black laughingthrush
+  pt: ''
   ru: Траурная кустарница
   ja: クロガビチョウ
   zh: 黑噪鶥

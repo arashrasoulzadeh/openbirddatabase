@@ -12,7 +12,7 @@ names:
   es: Alete Gorjirrojo
   fr: Cossyphe à gorge rousse
   de: Rotkehl-Braunschwanz
-  pt: red-throated alethe
+  pt: ''
   ru: Красногрудый алет
   ja: ノドアカムジヒタキ
   nl: Roodkeelalethe

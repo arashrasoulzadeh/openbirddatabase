@@ -12,7 +12,7 @@ names:
   es: Tilopo Dorado
   fr: Ptilope jaune
   de: Goldfruchttaube
-  pt: golden dove
+  pt: ''
   ru: Золотой фруктовый голубь
   ja: キンミノヒメアオバト
   nl: Gele jufferduif

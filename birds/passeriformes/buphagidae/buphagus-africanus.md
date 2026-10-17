@@ -12,7 +12,7 @@ names:
   es: Picabueyes Piquigualdo
   fr: Piqueboeuf à bec jaune
   de: Gelbschnabel-Madenhacker
-  pt: yellow-billed oxpecker
+  pt: ''
   ru: Желтоклювый волоклюй
   ja: キバシウシツツキ
   zh: 黃嘴牛椋鳥

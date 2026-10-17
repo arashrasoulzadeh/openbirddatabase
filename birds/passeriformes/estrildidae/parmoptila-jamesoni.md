@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquifina de Jameson
   fr: Parmoptile de Jameson
   de: Kongoameisenpicker
-  pt: jameson's antpecker
+  pt: ''
   ru: Конголезский астрильд
   ja: ヒガシアカビタイムシクイキンパラ
   nl: Congolese mierenpikker

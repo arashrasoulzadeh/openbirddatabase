@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12051.0
 names:
   scientific: Falco zoniventris
-  fa: nan
+  fa: ''
   en: Banded Kestrel
   es: Cernícalo Malgache
   fr: Faucon à ventre rayé
   de: Bindenfalke
-  pt: banded kestrel
+  pt: ''
   ru: Полосатая пустельга
   ja: ヨコジマチョウゲンボウ
   nl: Gebandeerde torenvalk

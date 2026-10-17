@@ -12,7 +12,7 @@ names:
   es: Papamoscas Colirrufo
   fr: Gobemouche à queue marron
   de: Rotschwanz-Dschungelschnäpper
-  pt: philippine jungle flycatcher
+  pt: ''
   ru: Краснохвостая джунглевая мухоловка
   ja: アカオミツリンヒタキ
   zh: 棕尾林鹟

@@ -12,7 +12,7 @@ names:
   es: Mosquero Pechileonado
   fr: Moucherolle à poitrine fauve
   de: Ockerbrust-Schnäppertyrann
-  pt: tawny-chested flycatcher
+  pt: ''
   ru: Охристогрудый мухолов
   ja: ムネアカハシグロハエトリ
   nl: Salvintiran

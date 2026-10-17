@@ -12,7 +12,7 @@ names:
   es: Mielero Sombrío
   fr: Myzomèle ombré
   de: Queensland-Honigfresser
-  pt: dusky myzomela
+  pt: ''
   ru: Тёмная мизомела
   ja: コゲチャミツスイ
   zh: 暗摄蜜鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14416.0
 names:
   scientific: Scytalopus whitneyi
-  fa: nan
+  fa: ''
   en: Ampay Tapaculo
   es: Churrín de Ampay
   fr: Mérulaxe de Whitney
   de: Ampaytapaculo
-  pt: ampay tapaculo
+  pt: ''
   ru: Ампайский тапакуло
   ja: アンペイオタテドリ
   nl: Ampaytapaculo

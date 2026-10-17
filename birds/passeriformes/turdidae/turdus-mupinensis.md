@@ -12,7 +12,7 @@ names:
   es: Zorzal Chino
   fr: Grive de Verreaux
   de: Chinasingdrossel
-  pt: chinese thrush
+  pt: ''
   ru: Китайский дрозд
   ja: チベットウタツグミ
   zh: 宝兴歌鸫

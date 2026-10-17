@@ -12,7 +12,7 @@ names:
   es: Camachuelo Purpúreo
   fr: Roselin pourpré
   de: Purpurgimpel
-  pt: purple finch
+  pt: ''
   ru: Пурпурная чечевица
   ja: ムラサキマシコ
   zh: 紫朱雀

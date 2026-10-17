@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 612.0
 names:
   scientific: Anas crecca
-  fa: nan
+  fa: ''
   en: Green-winged Teal
   es: Cerceta Común
   fr: Sarcelle d'hiver

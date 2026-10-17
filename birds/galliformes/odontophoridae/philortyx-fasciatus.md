@@ -12,7 +12,7 @@ names:
   es: Colín Bandeado
   fr: Colin barré
   de: Bindenwachtel
-  pt: banded quail
+  pt: ''
   ru: Полосатый перепел
   ja: ヨコフウズラ
   zh: 斑鹑

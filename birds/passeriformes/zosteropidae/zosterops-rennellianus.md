@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25882.0
 names:
   scientific: Zosterops rennellianus
-  fa: nan
+  fa: ''
   en: Rennell White-eye
   es: Anteojitos de Isla Rennell
   fr: Zostérops de Rennell
   de: Rennellbrillenvogel
-  pt: rennell white-eye
+  pt: ''
   ru: Реннелльская белоглазка
   ja: レンネルメジロ
   nl: Rennellbrilvogel

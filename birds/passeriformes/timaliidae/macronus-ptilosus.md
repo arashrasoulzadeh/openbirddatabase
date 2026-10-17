@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25933.0
 names:
   scientific: Macronus ptilosus
-  fa: nan
+  fa: ''
   en: Fluffy-backed Tit-Babbler
   es: Timalí Piloso
   fr: Timalie chamasa
   de: Stachelrücken-Meisentimalie
-  pt: fluffy-backed tit-babbler
+  pt: ''
   ru: Косматая тимелия
   ja: ミノゲチメドリ
   zh: 绒背纹胸鹛

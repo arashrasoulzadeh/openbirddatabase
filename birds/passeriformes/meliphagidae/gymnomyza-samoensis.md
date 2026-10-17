@@ -12,7 +12,7 @@ names:
   es: Mielero Mao
   fr: Méliphage mao
   de: Maohonigfresser
-  pt: mao
+  pt: ''
   ru: Самоанский мао
   ja: ハシグロオオミツスイ
   nl: Samoahoningeter

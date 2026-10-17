@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5939.0
 names:
   scientific: Anarhynchus sanctaehelenae
-  fa: nan
+  fa: ''
   en: St. Helena Plover
   es: Chorlitejo de Isla Santa Elena
   fr: Pluvier de Sainte-Hélène
   de: Helenaregenpfeifer
-  pt: st. helena plover
+  pt: ''
   ru: Святоеленский зуёк
   ja: セントヘレナチドリ
   nl: Sint-Helenaplevier

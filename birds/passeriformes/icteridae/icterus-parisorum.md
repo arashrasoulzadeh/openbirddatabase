@@ -12,7 +12,7 @@ names:
   es: Turpial de Scott
   fr: Oriole jaune-verdâtre
   de: Kalifornientrupial
-  pt: scott's oriole
+  pt: ''
   ru: Пальмовый трупиал
   ja: セグロムクドリモドキ
   zh: 史考特氏擬黃鸝

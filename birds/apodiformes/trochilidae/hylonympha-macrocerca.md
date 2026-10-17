@@ -12,7 +12,7 @@ names:
   es: Colibrí Tijereta
   fr: Colibri à queue en ciseaux
   de: Scherenschwanznymphe
-  pt: scissor-tailed hummingbird
+  pt: ''
   ru: Лесная нимфа
   ja: ハサミオハチドリ
   zh: 剪尾蜂鸟

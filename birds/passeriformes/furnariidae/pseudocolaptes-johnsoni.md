@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15013.0
 names:
   scientific: Pseudocolaptes johnsoni
-  fa: nan
+  fa: ''
   en: Pacific Tuftedcheek
   es: Trepamusgos Barbablanca del Pacífico
   fr: Pseudocolapte de Johnson
   de: Tropfenbrust-Astspäher
-  pt: pacific tuftedcheek
+  pt: ''
   ru: Тихоокеанский гусар
   ja: ミナミキホオカマドドリ
   nl: Chocopluimoor

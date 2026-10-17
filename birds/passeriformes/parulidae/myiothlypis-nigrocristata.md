@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34307.0
 names:
   scientific: Myiothlypis nigrocristata
-  fa: nan
+  fa: ''
   en: Black-crested Warbler
   es: Reinita Crestinegra
   fr: Paruline à cimier noir
   de: Schwarzscheitel-Waldsänger
-  pt: black-crested warbler
+  pt: ''
   ru: Черношапочный певун
   ja: クロイタダキアメリカムシクイ
   nl: Zwartkuifzanger

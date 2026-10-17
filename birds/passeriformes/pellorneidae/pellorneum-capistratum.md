@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26243.0
 names:
   scientific: Pellorneum capistratum
-  fa: nan
+  fa: ''
   en: Javan Black-capped Babbler
   es: Tordina Coronirrufa
   fr: Akalat de Java
   de: Javaerddrossling
-  pt: javan black-capped babbler
+  pt: ''
   ru: Черношапочная земляная тимелия
   ja: ズグロジチメドリ
   zh: 黑冠幽鶥

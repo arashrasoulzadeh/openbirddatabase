@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18287.0
 names:
   scientific: Neosericornis citreogularis
-  fa: nan
+  fa: ''
   en: Yellow-throated Scrubwren
   es: Sedosito Gorjigualdo
   fr: Séricorne à gorge jaune
   de: Gelbkehlsericornis
-  pt: yellow-throated scrubwren
+  pt: ''
   ru: Желтогорлая кустовка
   ja: キノドヤブムシクイ
   nl: Geelkeelstruiksluiper

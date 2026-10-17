@@ -12,7 +12,7 @@ names:
   es: Egotelo Australiano
   fr: Égothèle d'Australie
   de: Baumhöhlenschwalm
-  pt: australian owlet-nightjar
+  pt: ''
   ru: Австралийский совиный козодой
   ja: オーストラリアズクヨタカ
   zh: 澳洲裸鼻鴟

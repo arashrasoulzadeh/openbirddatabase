@@ -12,7 +12,7 @@ names:
   es: Perico Aligualdo
   fr: Perruche à ailes d'or
   de: Goldschultersittich
-  pt: golden-shouldered parrot
+  pt: ''
   ru: Золотоплечий попугайчик
   ja: キビタイヒスイインコ
   zh: 金肩鸚鵡

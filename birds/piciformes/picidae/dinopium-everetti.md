@@ -12,7 +12,7 @@ names:
   es: Pito Culirrojo de Filipinas
   fr: Pic d'Everett
   de: Palawanspecht
-  pt: spot-throated flameback
+  pt: ''
   ru: Палаванский дятел-султан
   ja: ノドホシミユビゲラ
   nl: Vlekkeelgoudrugspecht

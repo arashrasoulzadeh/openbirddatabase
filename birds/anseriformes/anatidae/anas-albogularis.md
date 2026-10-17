@@ -12,7 +12,7 @@ names:
   es: Cerceta de las Andamán
   fr: Sarcelle des Andaman
   de: Weißkehlente
-  pt: andaman teal
+  pt: ''
   ru: Адаманский чирок
   ja: アンダマンシコガモ
   zh: 安島灰鴨

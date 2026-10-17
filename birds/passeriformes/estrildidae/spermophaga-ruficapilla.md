@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquigorda Cabecirroja
   fr: Becbleu à tête rouge
   de: Rotkopf-Samenknacker
-  pt: red-headed bluebill
+  pt: ''
   ru: Рубиновый синеклюв
   ja: ズアカアオハシキンパラ
   zh: 红头蓝嘴雀

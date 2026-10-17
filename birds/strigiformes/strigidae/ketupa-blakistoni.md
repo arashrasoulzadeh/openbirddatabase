@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8968.0
 names:
   scientific: Ketupa blakistoni
-  fa: nan
+  fa: ''
   en: Blakiston's Fish Owl
   es: Búho Manchú
   fr: Grand-duc de Blakiston

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19835.0
 names:
   scientific: Dyaphorophyia hormophora
-  fa: nan
+  fa: ''
   en: West African Wattle-eye
   es: Batis Carunculado Acollarado
   fr: Pririt du Togo
   de: Halsband-Lappenschnäpper
-  pt: west african wattle-eye
+  pt: ''
   ru: Ошейниковая серёжкоглазка
   ja: ニシアフリカメガネヒタキ
   nl: Witneklelvliegenvanger

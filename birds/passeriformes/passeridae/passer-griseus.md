@@ -15,7 +15,7 @@ names:
   pt: northern gray-headed sparrow
   ru: Сероголовый воробей
   ja: ハイガシラスズメ
-  zh: Northern Grey-headed Sparrow
+  zh: ''
   nl: Grijskopmus
   pl: wróbel siwogłowy
   tr: Kuzeyli Bozbaş Serçe

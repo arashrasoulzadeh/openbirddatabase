@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33480.0
 names:
   scientific: Atlapetes pallidinucha
-  fa: nan
+  fa: ''
   en: Pale-naped Brushfinch
   es: Atlapetes Nuquipálido
   fr: Tohi à nuque claire
   de: Zimtstirn-Buschammer
-  pt: pale-naped brushfinch
+  pt: ''
   ru: Рыжелобая атлапета
   ja: キエリヤブシトド
   nl: Bleeknekstruikgors

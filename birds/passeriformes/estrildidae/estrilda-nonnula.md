@@ -12,7 +12,7 @@ names:
   es: Estrilda Monjita
   fr: Astrild nonnette
   de: Schwarzscheitelastrild
-  pt: black-crowned waxbill
+  pt: ''
   ru: Белощёкий астрильд
   ja: クロガミカエデチョウ
   zh: 黑顶梅花雀

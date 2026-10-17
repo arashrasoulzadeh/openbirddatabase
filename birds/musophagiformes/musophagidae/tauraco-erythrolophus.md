@@ -12,7 +12,7 @@ names:
   es: Turaco Crestirrojo
   fr: Touraco de Pauline
   de: Rotschopfturako
-  pt: red-crested turaco
+  pt: ''
   ru: Краснохохлый турако
   ja: アカガシラエボシドリ
   zh: 红冠蕉鹃

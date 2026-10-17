@@ -12,7 +12,7 @@ names:
   es: Pico Mahratta
   fr: Pic mahratte
   de: Gelbscheitelspecht
-  pt: yellow-crowned woodpecker
+  pt: ''
   ru: Желтолобый дятел
   ja: ベンガルアカゲラ
   nl: Indische bonte specht

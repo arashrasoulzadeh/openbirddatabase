@@ -12,7 +12,7 @@ names:
   es: Estrilda Cabecirroja
   fr: Amadine à tête rouge
   de: Rotkopfastrild
-  pt: red-headed finch
+  pt: ''
   ru: Красноголовый астрильд
   ja: オオイッコウチョウ
   zh: 紅頭環喉雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9988.0
 names:
   scientific: Ceyx sacerdotis
-  fa: nan
+  fa: ''
   en: New Britain Dwarf Kingfisher
   es: Martín Pigmeo de Nueva Bretaña
   fr: Martin-pêcheur de Nouvelle-Bretagne
@@ -15,7 +15,7 @@ names:
   pt: new britain dwarf-kingfisher
   ru: Новобританский зимородок
   ja: ニューブリテンカワセミ
-  zh: New Britain Dwarf Kingfisher
+  zh: ''
   nl: Nieuw-Brittanniëdwergijsvogel
   pl: zimorodek płowobrzuchy
   tr: Yeni Britanya Küçük Yalıçapkını

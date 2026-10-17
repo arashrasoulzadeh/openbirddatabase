@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15270.0
 names:
   scientific: Automolus subulatus
-  fa: nan
+  fa: ''
   en: Eastern Woodhaunter
   es: Ticotico Listado Amazónico
   fr: Anabate forestier

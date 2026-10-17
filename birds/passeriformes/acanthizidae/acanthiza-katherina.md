@@ -12,7 +12,7 @@ names:
   es: Acantiza Montana
   fr: Acanthize des montagnes
   de: Bergdornschnabel
-  pt: mountain thornbill
+  pt: ''
   ru: Горная шипоклювка
   ja: ヤマトゲハシムシクイ
   nl: Athertondoornsnavel

@@ -12,7 +12,7 @@ names:
   es: Estornino de Hildebrant
   fr: Choucador de Hildebrandt
   de: Hildebrandtglanzstar
-  pt: hildebrandt's starling
+  pt: ''
   ru: Рыжебрюхий спрео
   ja: チャバラテリムク
   zh: 希氏丽椋鸟

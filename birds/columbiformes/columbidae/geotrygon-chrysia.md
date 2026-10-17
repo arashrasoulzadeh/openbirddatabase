@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz Barbiqueja
   fr: Colombe à joues blanches
   de: Bahamataube
-  pt: key west quail-dove
+  pt: ''
   ru: Блестящая перепелиная горлица
   ja: テリハウズラバト
   zh: 绿顶鹑鸠

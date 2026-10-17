@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11284.0
 names:
   scientific: Dendropicos elliotii
-  fa: nan
+  fa: ''
   en: Elliot's Woodpecker
   es: Pito de Elliot
   fr: Pic d'Elliot
   de: Elliotspecht
-  pt: elliot's woodpecker
+  pt: ''
   ru: Эллиотов дятел
   ja: ズグロゲラ
   zh: 埃氏啄木鳥

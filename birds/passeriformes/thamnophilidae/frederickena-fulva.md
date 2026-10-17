@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13462.0
 names:
   scientific: Frederickena fulva
-  fa: nan
+  fa: ''
   en: Fulvous Antshrike
   es: Batará Leonado
   fr: Batara roux
   de: Wellenameisenwürger
-  pt: fulvous antshrike
+  pt: ''
   ru: Бурая тараба
   ja: キイロカンムリアリモズ
   nl: Rosse marmermierklauwier

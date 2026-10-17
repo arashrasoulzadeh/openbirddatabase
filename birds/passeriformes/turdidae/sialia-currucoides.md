@@ -12,7 +12,7 @@ names:
   es: Azulejo Claro
   fr: Merlebleu azuré
   de: Berghüttensänger
-  pt: mountain bluebird
+  pt: ''
   ru: Голубая сиалия
   ja: ムジルリツグミ
   zh: 山藍鴝

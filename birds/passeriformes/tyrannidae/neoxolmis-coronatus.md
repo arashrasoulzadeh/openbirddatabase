@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 17126.0
 names:
   scientific: Neoxolmis coronatus
-  fa: nan
+  fa: ''
   en: Black-crowned Monjita
   es: Monjita Coronada
   fr: Pépoaza couronné

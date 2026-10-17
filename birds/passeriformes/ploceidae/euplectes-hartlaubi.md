@@ -12,7 +12,7 @@ names:
   es: Obispo Marismeño
   fr: Euplecte des marais
   de: Hartlaubweber
-  pt: marsh widowbird
+  pt: ''
   ru: Папирусовый ткачик
   ja: オナガキガタホウオウ
   nl: Hartlaubwidavink

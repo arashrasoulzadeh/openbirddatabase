@@ -12,7 +12,7 @@ names:
   es: Polluela Castaña
   fr: Râle marron
   de: Kastanienralle
-  pt: chestnut forest rail
+  pt: ''
   ru: Кашатановый пастушок
   ja: アカパプアクイナ
   nl: Kleine kaneelral

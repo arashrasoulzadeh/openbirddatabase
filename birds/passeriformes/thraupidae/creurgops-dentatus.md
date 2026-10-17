@@ -12,7 +12,7 @@ names:
   es: Tangara Pizarrosa
   fr: Tangara ardoisé
   de: Schiefertangare
-  pt: slaty tanager
+  pt: ''
   ru: Сизая танагра
   ja: ネズミフウキンチョウ
   nl: Leigrijze tangare

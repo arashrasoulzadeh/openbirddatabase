@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14266.0
 names:
   scientific: Grallaria saltuensis
-  fa: nan
+  fa: ''
   en: Perija Antpitta
   es: Tororoí del Perijá
   fr: Grallaire de la Perija
   de: Perijáameisenpitta
-  pt: perija antpitta
+  pt: ''
   ja: ペリヤジアリドリ
   nl: Perijamierpitta
   pl: kusaczka bambusowa

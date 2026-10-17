@@ -15,7 +15,7 @@ names:
   pt: foja honeyeater
   ru: Карольский нектаролюб
   ja: フォジャミツスイ
-  zh: Wattled Smoky Honeyeater
+  zh: ''
   nl: Fojahoningeter
   pl: dziwoliczek okazały
   tr: Foya Balkuşu

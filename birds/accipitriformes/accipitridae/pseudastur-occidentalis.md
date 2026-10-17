@@ -15,7 +15,7 @@ names:
   pt: gray-backed hawk
   ru: Сероспинная агуйла
   ja: ハイセノスリ
-  zh: Grey-backed Hawk
+  zh: ''
   nl: Grijsrugbuizerd
   pl: białostrząb szarogłowy
   tr: Gri Sırtlı Şahin

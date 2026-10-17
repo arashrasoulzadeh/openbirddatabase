@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29069.0
 names:
   scientific: Cyanoptila cyanomelana
-  fa: nan
+  fa: ''
   en: Blue-and-white Flycatcher
   es: Papamoscas Azul
   fr: Gobemouche bleu
   de: Taigablauschnäpper
-  pt: blue-and-white flycatcher
+  pt: ''
   ru: Синяя мухоловка
   ja: オオルリ
   zh: 白腹蓝鹟

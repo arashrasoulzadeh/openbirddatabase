@@ -12,7 +12,7 @@ names:
   es: Pito de Guinea
   fr: Pic barré
   de: Goldmantelspecht
-  pt: green-backed woodpecker
+  pt: ''
   ru: Зеленоспинный дятел
   ja: ヒメアフリカアオゲラ
   nl: Groenrugspecht

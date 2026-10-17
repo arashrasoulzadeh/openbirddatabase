@@ -12,7 +12,7 @@ names:
   es: Gavilán Malgache
   fr: Épervier de Madagascar
   de: Madagaskarsperber
-  pt: madagascar sparrowhawk
+  pt: ''
   ru: Мадагаскарский перепелятник
   ja: マダガスカルハイタカ
   zh: 馬達加斯加雀鷹

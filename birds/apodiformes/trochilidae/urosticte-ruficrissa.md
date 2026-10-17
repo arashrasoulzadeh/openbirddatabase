@@ -12,7 +12,7 @@ names:
   es: Colibrí Puntiblanco Oriental
   fr: Colibri à sous-caudales rousses
   de: Rotsteißkolibri
-  pt: rufous-vented whitetip
+  pt: ''
   ru: Красногузый колибри
   ja: シリアカエンビハチドリ
   zh: 棕臀白尾梢蜂鸟

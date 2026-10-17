@@ -12,7 +12,7 @@ names:
   es: Shama Coronado
   fr: Shama de Strickland
   de: Borneoschama
-  pt: white-crowned shama
+  pt: ''
   ru: Белошапочный шама-дрозд
   ja: ハッカンシキチョウ
   zh: 白頂鵲鴝

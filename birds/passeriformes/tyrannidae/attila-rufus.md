@@ -15,7 +15,7 @@ names:
   pt: capitão-de-saíra
   ru: Сероголовый аттила
   ja: オオカギハシタイランチョウ
-  zh: Grey-hooded Attila
+  zh: ''
   nl: Grijskopattila
   pl: rudotyran siwogłowy
   tr: Gri Başlı Attila

@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 5894.0
 names:
   scientific: Vanellus gregarius
-  fa: nan
+  fa: ''
   en: Sociable Lapwing
   es: Avefría Sociable
   fr: Vanneau sociable

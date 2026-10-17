@@ -15,7 +15,7 @@ names:
   pt: slaty-chinned longbill
   ru: Сероголовый иглоклюв
   ja: ズグロハシナガミツスイ
-  zh: Slaty-headed Longbill
+  zh: ''
   nl: Grijskinhoningjager
   pl: nektarojad duży
   tr: Gri Başlı Uzungaga

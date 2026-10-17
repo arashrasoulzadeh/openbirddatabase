@@ -12,7 +12,7 @@ names:
   es: Cistícola del Kalahari
   fr: Cisticole du désert
   de: Kalaharizistensänger
-  pt: desert cisticola
+  pt: ''
   ru: Пустынная цистикола
   ja: サバクセッカ
   nl: Kalaharigraszanger

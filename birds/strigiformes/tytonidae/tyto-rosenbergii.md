@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8599.0
 names:
   scientific: Tyto rosenbergii
-  fa: nan
+  fa: ''
   en: Sulawesi Masked Owl
   es: Lechuza de Célebes
   fr: Effraie des Célèbes
@@ -15,7 +15,7 @@ names:
   pt: sulawesi masked-owl
   ru: Сулавесская сипуха
   ja: セレベスメンフクロウ
-  zh: Sulawesi Masked Owl
+  zh: ''
   nl: Sulawesikerkuil
   pl: płomykówka szarogłowa
   tr: Selebes Peçeli Baykuşu

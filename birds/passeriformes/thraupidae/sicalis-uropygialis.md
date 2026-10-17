@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35461.0
 names:
   scientific: Sicalis uropygialis
-  fa: nan
+  fa: ''
   en: Bright-rumped Yellow Finch
   es: Chirigüe Culigualdo
   fr: Sicale à croupion jaune
@@ -15,7 +15,7 @@ names:
   pt: bright-rumped yellow-finch
   ru: Золотопоясничный зерноед
   ja: キゴシキンノジコ
-  zh: Bright-rumped Yellow Finch
+  zh: ''
   nl: Grijsrugsaffraangors
   pl: szafranka szaroucha
   tr: Sarı Sokumlu Kanarya İspinozu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14264.0
 names:
   scientific: Grallaria erythroleuca
-  fa: nan
+  fa: ''
   en: Red-and-white Antpitta
   es: Tororoí de Cuzco
   fr: Grallaire de Cuzco
   de: Weißflecken-Ameisenpitta
-  pt: red-and-white antpitta
+  pt: ''
   ru: Рыже-белая питтовая муравьеловка
   ja: アカシロジアリドリ
   nl: Rood-witte mierpitta

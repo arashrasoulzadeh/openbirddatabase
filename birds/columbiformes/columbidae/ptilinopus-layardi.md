@@ -12,7 +12,7 @@ names:
   es: Tilopo de Kadavu
   fr: Ptilope de Layard
   de: Smaragdfruchttaube
-  pt: whistling dove
+  pt: ''
   ru: Желтоголовый фруктовый голубь
   ja: キガシラヒメアオバト
   zh: 黃頭果鳩

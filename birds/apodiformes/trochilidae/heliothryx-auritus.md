@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4369.0
 names:
   scientific: Heliothryx auritus
-  fa: nan
+  fa: ''
   en: Black-eared Fairy
   es: Colibrí Hada Oriental
   fr: Colibri oreillard

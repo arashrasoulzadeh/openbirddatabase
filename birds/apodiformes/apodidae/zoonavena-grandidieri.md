@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3862.0
 names:
   scientific: Zoonavena grandidieri
-  fa: nan
+  fa: ''
   en: Madagascar Spinetail
   es: Vencejo Malgache
   fr: Martinet de Grandidier
   de: Malegassensegler
-  pt: madagascar spinetail
+  pt: ''
   ru: Мадагаскарский колючехвост
   ja: マダガスカルハリオアマツバメ
   nl: Grandidiergierzwaluw

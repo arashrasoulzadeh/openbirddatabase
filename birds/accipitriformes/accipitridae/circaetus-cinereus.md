@@ -15,7 +15,7 @@ names:
   pt: guincho-castanho
   ru: Бурый змееяд
   ja: チャイロチュウヒワシ
-  zh: Brown Snake Eagle
+  zh: ''
   nl: Bruine slangenarend
   pl: gadożer brunatny
   tr: Kahverengi Yılan Kartalı

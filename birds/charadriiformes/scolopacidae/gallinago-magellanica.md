@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6116.0
 names:
   scientific: Gallinago magellanica
-  fa: nan
+  fa: ''
   en: Magellanic Snipe
   es: Agachadiza Magallánica
   fr: Bécassine de Magellan
   de: Magellanbekassine
-  pt: magellanic snipe
+  pt: ''
   ja: マゼランタシギ
   nl: Magelhaensnip
   pl: bekas magellański

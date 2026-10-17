@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 13794.0
 names:
   scientific: Herpsilochmus parkeri
-  fa: nan
+  fa: ''
   en: Ash-throated Antwren
   es: Tiluchí de Parker
   fr: Grisin de Parker
   de: Graukehl-Ameisenfänger
-  pt: ash-throated antwren
+  pt: ''
   ru: Серогорлый эсперито
   ja: ノドアカマユアリサザイ
   zh: 灰喉蚁鹩

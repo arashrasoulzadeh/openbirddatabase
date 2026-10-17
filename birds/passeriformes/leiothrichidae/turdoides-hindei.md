@@ -15,7 +15,7 @@ names:
   pt: hinde's pied-babbler
   ru: Сорочья дроздовка
   ja: ナミガタヤブチメドリ
-  zh: Hinde's Babbler
+  zh: ''
   nl: Hindebabbelaar
   pl: tymal plamisty
   tr: Hinde Yedikardeşi

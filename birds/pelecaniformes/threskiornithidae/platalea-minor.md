@@ -12,7 +12,7 @@ names:
   es: Espátula Menor
   fr: Petite Spatule
   de: Schwarzgesichtlöffler
-  pt: black-faced spoonbill
+  pt: ''
   ru: Малая колпица
   ja: クロツラヘラサギ
   zh: 黑脸琵鹭

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 6160.0
 names:
   scientific: Prosobonia parvirostris
-  fa: nan
+  fa: ''
   en: Tuamotu Sandpiper
   es: Andarríos de las Tuamotu
   fr: Bécasseau des Tuamotu
   de: Tuamotu-Südseeläufer
-  pt: tuamotu sandpiper
+  pt: ''
   ru: Туамотский атолльник
   ja: ツアモツシギ
   zh: 土岛矶鹬

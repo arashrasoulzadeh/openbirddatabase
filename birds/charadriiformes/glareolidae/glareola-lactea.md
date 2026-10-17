@@ -12,7 +12,7 @@ names:
   es: Canastera Chica
   fr: Glaréole lactée
   de: Sandbrachschwalbe
-  pt: small pratincole
+  pt: ''
   ru: Малая тиркушка
   ja: ヒメツバメチドリ
   zh: 灰燕鸻

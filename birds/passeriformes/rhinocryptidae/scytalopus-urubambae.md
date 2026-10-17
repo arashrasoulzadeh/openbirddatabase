@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14415.0
 names:
   scientific: Scytalopus urubambae
-  fa: nan
+  fa: ''
   en: Vilcabamba Tapaculo
   es: Churrín de Vilcabamba
   fr: Mérulaxe de Vilcabamba
   de: Vilcabambatapaculo
-  pt: vilcabamba tapaculo
+  pt: ''
   ru: Урубамбский тапакуло
   ja: クスコオタテドリ
   nl: Cuzcotapaculo

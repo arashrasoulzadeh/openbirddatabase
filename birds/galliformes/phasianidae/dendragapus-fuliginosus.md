@@ -12,7 +12,7 @@ names:
   es: Gallo Fuliginoso
   fr: Tétras fuligineux
   de: Küstengebirgshuhn
-  pt: sooty grouse
+  pt: ''
   ru: Дымчатый тетерев
   ja: ススイロライチョウ
   zh: 烏藍松雞

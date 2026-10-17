@@ -12,7 +12,7 @@ names:
   es: Bias Llameante
   fr: Bias écorcheur
   de: Schnäppervanga
-  pt: african shrike-flycatcher
+  pt: ''
   ru: Огнеглазая сорокопутница
   ja: タンビヒタキ
   nl: Witstuitklauwier

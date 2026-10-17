@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17167.0
 names:
   scientific: Heteroxolmis dominicana
-  fa: nan
+  fa: ''
   en: Black-and-white Monjita
   es: Monjita Dominicana
   fr: Moucherolle dominicain

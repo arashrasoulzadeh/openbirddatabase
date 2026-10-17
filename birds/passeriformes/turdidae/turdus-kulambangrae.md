@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28556.0
 names:
   scientific: Turdus kulambangrae
-  fa: nan
+  fa: ''
   en: Guadalcanal Island Thrush
   es: Mirlo de las Salomón
   fr: Merle des Salomon
   pt: solomons island-thrush
   ja: ソロモンハイガシラツグミ
-  zh: Solomons Island Thrush
+  zh: ''
   nl: Salomonsmerel
   pl: drozd salomoński
   tr: Solomon Ada Ardıcı

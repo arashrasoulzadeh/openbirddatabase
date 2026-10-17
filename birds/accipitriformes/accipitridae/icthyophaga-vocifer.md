@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8374.0
 names:
   scientific: Icthyophaga vocifer
-  fa: nan
+  fa: ''
   en: African Fish Eagle
   es: Pigargo Vocinglero
   fr: Pygargue vocifer
@@ -15,7 +15,7 @@ names:
   pt: pigargo-africano
   ru: Орлан-крикун
   ja: サンショクウミワシ
-  zh: African Fish Eagle
+  zh: ''
   nl: Afrikaanse zeearend
   pl: bielik afrykański
   tr: Afrika Balık Kartalı

@@ -12,7 +12,7 @@ names:
   es: Carpinterito Moteado
   fr: Picumne tacheté
   de: Tüpfelzwergspecht
-  pt: speckled piculet
+  pt: ''
   ru: Крапчатый дятелок
   ja: アジアヒメキツツキ
   zh: 斑姬啄木鸟

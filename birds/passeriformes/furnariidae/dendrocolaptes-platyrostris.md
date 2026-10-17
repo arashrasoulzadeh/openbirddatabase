@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14737.0
 names:
   scientific: Dendrocolaptes platyrostris
-  fa: nan
+  fa: ''
   en: Planalto Woodcreeper
   es: Trepatroncos Oscuro
   fr: Grimpar des plateaux

@@ -12,7 +12,7 @@ names:
   es: Drongo de Célebes
   fr: Drongo des Célèbes
   de: Bergdrongo
-  pt: sulawesi drongo
+  pt: ''
   ru: Сулавесский дронго
   ja: セレベスオウチュウ
   zh: 蘇拉威西卷尾

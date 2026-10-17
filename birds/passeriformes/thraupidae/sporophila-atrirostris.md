@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35557.0
 names:
   scientific: Sporophila atrirostris
-  fa: nan
+  fa: ''
   en: Black-billed Seed Finch
   es: Semillero Piquinegro
   fr: Sporophile à bec noir
@@ -15,7 +15,7 @@ names:
   pt: black-billed seed-finch
   ru: Черноклювый просяночник
   ja: クロハシコメワリ
-  zh: Black-billed Seed Finch
+  zh: ''
   nl: Zwartsnavelzaadkraker
   pl: ryżołusk czarnodzioby
   tr: Kara Gagalı Koca Tohumcul

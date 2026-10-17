@@ -12,7 +12,7 @@ names:
   es: Cuervo Cabecipardo
   fr: Corneille à tête brune
   de: Braunkopfkrähe
-  pt: brown-headed crow
+  pt: ''
   ru: Буроголовая ворона
   ja: チャガシラガラス
   zh: 棕頭烏鴉

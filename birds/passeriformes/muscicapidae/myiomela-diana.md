@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29476.0
 names:
   scientific: Myiomela diana
-  fa: nan
+  fa: ''
   en: Javan Blue Robin
   es: Ruiseñor de Java
   fr: Myiomèle de Java
@@ -15,7 +15,7 @@ names:
   pt: javan robin
   ru: Яванская горная зарянка
   ja: ジャワシロビタイコンヒタキ
-  zh: Javan Blue Robin
+  zh: ''
   nl: Javaanse callene
   pl: pluszanka sundajska
   tr: Cava Bülbülü

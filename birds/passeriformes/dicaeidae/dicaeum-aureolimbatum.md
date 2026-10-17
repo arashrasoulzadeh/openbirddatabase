@@ -12,7 +12,7 @@ names:
   es: Picaflores Flanquigualdo
   fr: Dicée à flancs jaunes
   de: Gelbflanken-Mistelfresser
-  pt: yellow-sided flowerpecker
+  pt: ''
   ru: Желтобокий цветоед
   ja: セレベスハナドリ
   zh: 黃脅啄花

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 34243.0
 names:
   scientific: Basileuterus ignotus
-  fa: nan
+  fa: ''
   en: Pirre Warbler
   es: Reinita del Pirre
   fr: Paruline du Pirré
   de: Pirrewaldsänger
-  pt: pirre warbler
+  pt: ''
   ru: Охристобровая корольковка
   ja: ピレアメリカムシクイ
   nl: Pirrezanger

@@ -12,7 +12,7 @@ names:
   es: Perlita Pizarrosa
   fr: Gobemoucheron ardoisé
   de: Graukehl-Mückenfänger
-  pt: slate-throated gnatcatcher
+  pt: ''
   ru: Серогорлая комароловка
   ja: シロハラアオブユムシクイ
   nl: Grijskeelmuggenvanger

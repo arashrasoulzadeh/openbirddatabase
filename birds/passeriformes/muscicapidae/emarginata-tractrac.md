@@ -12,7 +12,7 @@ names:
   es: Colinegro Tractrac
   fr: Traquet tractrac
   de: Oranjeschmätzer
-  pt: tractrac chat
+  pt: ''
   ru: Намибская трактрака
   ja: ダマリイワビタキ
   nl: Woestijnspekvreter

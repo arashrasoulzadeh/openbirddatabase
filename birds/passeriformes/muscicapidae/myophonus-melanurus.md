@@ -15,7 +15,7 @@ names:
   pt: shiny whistling-thrush
   ru: Блестящая синяя птица
   ja: スマトラルリチョウ
-  zh: Shiny Whistling Thrush
+  zh: ''
   nl: Glanzende fluitlijster
   pl: gwizdokos lśniący
   tr: Sumatra Islıkçı Bülbülü

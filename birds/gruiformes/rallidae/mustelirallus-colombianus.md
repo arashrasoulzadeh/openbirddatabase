@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5426.0
 names:
   scientific: Mustelirallus colombianus
-  fa: nan
+  fa: ''
   en: Colombian Crake
   es: Polluela Colombiana
   fr: Râle de Colombie
   de: Kolumbiensumpfhuhn
-  pt: colombian crake
+  pt: ''
   ru: Колумбийский туру
   ja: コロンビアヒメクイナ
   nl: Colombiaans roodsnavelhoen

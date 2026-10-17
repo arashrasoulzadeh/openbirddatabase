@@ -15,7 +15,7 @@ names:
   pt: long-tailed ground-roller
   ru: Длиннохвостая земляная ракша
   ja: オナガジブッポウソウ
-  zh: Long-tailed Ground Roller
+  zh: ''
   nl: Langstaartgrondscharrelaar
   pl: dziwokraska
   tr: Uzun Kuyruklu Yerkuzgunu

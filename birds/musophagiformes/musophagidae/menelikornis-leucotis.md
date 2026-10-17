@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2988.0
 names:
   scientific: Menelikornis leucotis
-  fa: nan
+  fa: ''
   en: White-cheeked Turaco
   es: Turaco Cariblanco
   fr: Touraco à joues blanches
   de: Weißohrturako
-  pt: white-cheeked turaco
+  pt: ''
   ru: Белоухий турако
   ja: ホオジロエボシドリ
   nl: Witwangtoerako

@@ -6,12 +6,12 @@ iucn_status: EN
 taxon_order: 25791.0
 names:
   scientific: Zosterops paruhbesar
-  fa: nan
+  fa: ''
   en: Wangi-wangi White-eye
   es: Anteojitos de Wangi-Wangi
   fr: Zostérops de Wangi-wangi
   de: Wangi-wangi-Brillenvogel
-  pt: wangi-wangi white-eye
+  pt: ''
   ja: ワンギワンギメジロ
   nl: Wangi-Wangibrilvogel
   pl: szlarnik żółtokantarowy

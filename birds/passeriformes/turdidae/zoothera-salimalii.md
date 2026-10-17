@@ -12,7 +12,7 @@ names:
   es: Zorzal de Salim Ali
   fr: Grive de Salim Ali
   de: Walderddrossel
-  pt: himalayan thrush
+  pt: ''
   ru: Мегалайский дрозд
   ja: ヒマラヤトラツグミ
   nl: Himalayaboslijster

@@ -12,7 +12,7 @@ names:
   es: Trogón Cabecirrojo
   fr: Trogon à tête rouge
   de: Rotkopftrogon
-  pt: red-headed trogon
+  pt: ''
   ru: Красноголовый трогон
   ja: ズアカキヌバネドリ
   zh: 红头咬鹃

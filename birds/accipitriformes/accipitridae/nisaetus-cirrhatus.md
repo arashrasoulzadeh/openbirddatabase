@@ -12,7 +12,7 @@ names:
   es: Águila Variable
   fr: Aigle huppé
   de: Indienhaubenadler
-  pt: changeable hawk-eagle
+  pt: ''
   ru: Изменчивый хохлатый орёл
   ja: インドクマタカ
   zh: 凤头鹰雕

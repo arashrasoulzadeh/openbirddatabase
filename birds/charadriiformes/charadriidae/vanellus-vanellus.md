@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 5856.0
 names:
   scientific: Vanellus vanellus
-  fa: nan
+  fa: ''
   en: Northern Lapwing
   es: Avefría Europea
   fr: Vanneau huppé

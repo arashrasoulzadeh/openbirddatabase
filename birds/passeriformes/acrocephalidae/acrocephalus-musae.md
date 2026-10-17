@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 23753.0
 names:
   scientific: Acrocephalus musae
-  fa: nan
+  fa: ''
   en: Garrett's Reed Warbler
   es: Carricero de Forster
   fr: Rousserolle de Raiatea
@@ -15,7 +15,7 @@ names:
   pt: society islands reed warbler
   ru: Хуахинская камышовка
   ja: ソシエテヨシキリ
-  zh: Garrett's Reed Warbler
+  zh: ''
   nl: West-Genootschapskarekiet
   pl: trzciniak kremowy
   tr: Forster Kamışçını

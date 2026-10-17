@@ -12,7 +12,7 @@ names:
   es: Herrerillo Embridado
   fr: Mésange arlequin
   de: Brillenmeise
-  pt: bridled titmouse
+  pt: ''
   ru: Мексиканская гренадерка
   ja: シロガオエボシガラ
   nl: Harlekijnmees

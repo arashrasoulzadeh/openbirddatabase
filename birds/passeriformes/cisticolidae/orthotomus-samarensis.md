@@ -12,7 +12,7 @@ names:
   es: Sastrecillo de Samar
   fr: Couturière de Samar
   de: Samarschneidervogel
-  pt: yellow-breasted tailorbird
+  pt: ''
   ru: Желтогрудая портниха
   ja: サマルサイホウチョウ
   nl: Samarsnijdervogel

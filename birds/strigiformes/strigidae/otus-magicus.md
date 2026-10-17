@@ -15,7 +15,7 @@ names:
   pt: moluccan scops-owl
   ru: Молуккская совка
   ja: モルッカコノハズク
-  zh: Moluccan Scops Owl
+  zh: ''
   nl: Molukse dwergooruil
   pl: syczek molucki
   tr: Maluku İshakkuşu

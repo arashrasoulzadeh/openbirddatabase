@@ -12,7 +12,7 @@ names:
   es: Albatros Picofino Pacífico
   fr: Albatros de Carter
   de: Kerguelenalbatros
-  pt: indian yellow-nosed albatross
+  pt: ''
   ru: Индоокеанский альбатрос
   ja: ヒガシキバナアホウドリ
   zh: 印度洋黄鼻信天翁

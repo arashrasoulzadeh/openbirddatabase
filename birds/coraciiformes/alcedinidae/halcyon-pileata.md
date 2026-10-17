@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 10089.0
 names:
   scientific: Halcyon pileata
-  fa: nan
+  fa: ''
   en: Black-capped Kingfisher
   es: Alción Capirotado
   fr: Martin-chasseur à coiffe noire
   de: Kappenliest
-  pt: black-capped kingfisher
+  pt: ''
   ru: Ошейниковый зимородок
   ja: ヤマショウビン
   zh: 蓝翡翠

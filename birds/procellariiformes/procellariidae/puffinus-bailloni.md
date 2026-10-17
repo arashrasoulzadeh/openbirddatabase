@@ -12,7 +12,7 @@ names:
   es: Pardela Tropical
   fr: Puffin de Baillon
   de: Tropensturmtaucher
-  pt: tropical shearwater
+  pt: ''
   ru: Белобрюхий буревестник
   ja: トロピカルミズナギドリ
   zh: 热带鹱

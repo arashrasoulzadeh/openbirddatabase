@@ -12,7 +12,7 @@ names:
   es: Zorzal Yemení
   fr: Merle du Yémen
   de: Jemendrossel
-  pt: yemen thrush
+  pt: ''
   ru: Йеменский дрозд
   ja: アラビアオリーブツグミ
   zh: 葉門鶇

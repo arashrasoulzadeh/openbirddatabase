@@ -12,7 +12,7 @@ names:
   es: Bisbita de Pangani
   fr: Sentinelle dorée
   de: Panganipieper
-  pt: pangani longclaw
+  pt: ''
   ru: Золотогорлый шпорник
   ja: ササフツメナガタヒバリ
   nl: Panganilangklauw

@@ -15,7 +15,7 @@ names:
   pt: dja river swamp warbler
   ru: Большая бурогрудка
   ja: オニオウギセッカ
-  zh: Dja River Scrub Warbler
+  zh: ''
   nl: Gabonese struikzanger
   pl: krótkolotka ostrosterna
   tr: Dja Nehri Bataklık Ötleğeni

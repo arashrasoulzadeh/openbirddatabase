@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 2384.0
 names:
   scientific: Zentrygon goldmani
-  fa: nan
+  fa: ''
   en: Russet-crowned Quail-Dove
   es: Paloma Perdiz de Goldman
   fr: Colombe de Goldman
   de: Goldmantaube
-  pt: russet-crowned quail-dove
+  pt: ''
   ru: Панамская перепелиная горлица
   ja: アカガシラウズラバト
   zh: 黄顶鹑鸠

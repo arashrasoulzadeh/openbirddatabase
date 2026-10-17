@@ -12,7 +12,7 @@ names:
   es: Archibebe Moteado
   fr: Chevalier tacheté
   de: Tüpfelgrünschenkel
-  pt: nordmann's greenshank
+  pt: ''
   ru: Охотский улит
   ja: カラフトアオアシシギ
   zh: 小青脚鹬

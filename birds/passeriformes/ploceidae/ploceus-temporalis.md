@@ -12,7 +12,7 @@ names:
   es: Tejedor de Bocage
   fr: Tisserin de Bocage
   de: Bocageweber
-  pt: bocage's weaver
+  pt: ''
   ru: Ангольский ткач
   ja: アンゴラハタオリ
   nl: Bocagewever

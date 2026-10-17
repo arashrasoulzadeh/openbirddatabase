@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11266.0
 names:
   scientific: Dendrocoptes medius
-  fa: nan
+  fa: ''
   en: Middle Spotted Woodpecker
   es: Pico Mediano
   fr: Pic mar

@@ -15,7 +15,7 @@ names:
   pt: african black-headed oriole
   ru: Масковая иволга
   ja: アフリカズキンコウライウグイス
-  zh: Black-headed Oriole
+  zh: ''
   nl: Maskerwielewaal
   pl: wilga czarnogłowa
   tr: Afrika Kara Başlı Sarıasması

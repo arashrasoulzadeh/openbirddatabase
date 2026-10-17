@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29577.0
 names:
   scientific: Ficedula henrici
-  fa: nan
+  fa: ''
   en: Damar Flycatcher
   es: Papamoscas de Isla Damar
   fr: Gobemouche de Damar
   de: Fleckenschnäpper
-  pt: damar flycatcher
+  pt: ''
   ru: Дамарская мухоловка
   ja: ダマールヒタキ
   nl: Damarvliegenvanger

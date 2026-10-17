@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10729.0
 names:
   scientific: Psilopogon rafflesii
-  fa: nan
+  fa: ''
   en: Red-crowned Barbet
   es: Barbudo Multicolor
   fr: Barbu bigarré
   de: Vielfarben-Bartvogel
-  pt: red-crowned barbet
+  pt: ''
   ru: Многоцветный бородастик
   ja: ニシキゴシキドリ
   nl: Regenboogbaardvogel

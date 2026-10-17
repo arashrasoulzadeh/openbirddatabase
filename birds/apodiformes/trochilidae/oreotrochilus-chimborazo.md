@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4487.0
 names:
   scientific: Oreotrochilus chimborazo
-  fa: nan
+  fa: ''
   en: Ecuadorian Hillstar
   es: Colibrí del Chimborazo
   fr: Colibri du Chimborazo
   de: Purpurkopfkolibri
-  pt: ecuadorian hillstar
+  pt: ''
   ru: Эквадорская ореада
   ja: エクアドルヤマハチドリ
   zh: 厄瓜多山蜂鳥

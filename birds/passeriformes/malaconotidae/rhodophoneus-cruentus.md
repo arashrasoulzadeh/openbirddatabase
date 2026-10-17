@@ -12,7 +12,7 @@ names:
   es: Bubú Pechirrosado
   fr: Gonolek à croupion rose
   de: Rosenwürger
-  pt: rosy-patched bushshrike
+  pt: ''
   ru: Розовогрудый гладиатор
   ja: バラフヤブモズ
   nl: Roodbuikklauwier

@@ -12,7 +12,7 @@ names:
   es: Amaranta Ocre
   fr: Amarante foncé
   de: Dunkelamarant
-  pt: african firefinch
+  pt: ''
   ru: Африканский амарант
   ja: カゲロウチョウ
   zh: 灰頂火雀

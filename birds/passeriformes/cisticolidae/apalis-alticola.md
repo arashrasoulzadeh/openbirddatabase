@@ -12,7 +12,7 @@ names:
   es: Apalis Cabecipardo
   fr: Apalis à tête brune
   de: Braunkopf-Feinsänger
-  pt: brown-headed apalis
+  pt: ''
   ru: Буроголовый апалис
   ja: チャガシライロムシクイ
   nl: Bruinkopapalis

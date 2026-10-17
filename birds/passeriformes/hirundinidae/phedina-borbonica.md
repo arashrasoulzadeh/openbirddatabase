@@ -12,7 +12,7 @@ names:
   es: Golondrina de las Mascareñas
   fr: Hirondelle des Mascareignes
   de: Maskarenenschwalbe
-  pt: mascarene martin
+  pt: ''
   ru: Маскаренская ласточка
   ja: ムナフショウドウツバメ
   zh: 马岛原燕

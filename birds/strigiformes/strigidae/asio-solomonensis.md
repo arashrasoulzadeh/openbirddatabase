@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9294.0
 names:
   scientific: Asio solomonensis
-  fa: nan
+  fa: ''
   en: Fearful Owl
   es: Búho de las Salomón
   fr: Hibou redoutable
   de: Salomoneneule
-  pt: fearful owl
+  pt: ''
   ru: Пугающая сова
   ja: オニコミミズク
   nl: Salomonsoehoe

@@ -12,7 +12,7 @@ names:
   es: Apalis de Bamenda
   fr: Apalis de Bamenda
   de: Bamendafeinsänger
-  pt: bamenda apalis
+  pt: ''
   ru: Зарянковый апалис
   ja: ミヤマカメルーンイロムシクイ
   nl: Bamenda-apalis

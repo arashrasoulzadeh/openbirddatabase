@@ -12,7 +12,7 @@ names:
   es: Bulbul Cejiamarillo
   fr: Bulbul à sourcils d'or
   de: Goldbrauenbülbül
-  pt: yellow-browed bulbul
+  pt: ''
   ru: Оливково-жёлтый бюльбюль
   ja: キマユヒヨドリ
   zh: 黃眉鵯

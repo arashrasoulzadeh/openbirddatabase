@@ -12,7 +12,7 @@ names:
   es: Loro de Buru
   fr: Perruche de Buru
   de: Burupapagei
-  pt: black-lored parrot
+  pt: ''
   ru: Синещёкий попугай
   ja: クロビタイオオハナインコモドキ
   nl: Zwartteugelpapegaai

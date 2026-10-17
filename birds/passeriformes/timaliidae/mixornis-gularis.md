@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25906.0
 names:
   scientific: Mixornis gularis
-  fa: nan
+  fa: ''
   en: Pin-striped Tit-Babbler
   es: Timalí Goliestriado
   fr: Timalie à gorge striée
   de: Strichelmeisentimalie
-  pt: pin-striped tit-babbler
+  pt: ''
   ru: Желтогрудая тимелия
   ja: ムナフムシクイチメドリ
   nl: Geelborsttimalia

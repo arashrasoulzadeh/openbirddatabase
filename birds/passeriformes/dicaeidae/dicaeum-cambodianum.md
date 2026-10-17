@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30095.0
 names:
   scientific: Dicaeum cambodianum
-  fa: nan
+  fa: ''
   en: Cambodian Flowerpecker
   es: Picaflores de Camboya
   fr: Dicée du Cambodge
   de: Kambodschamistelfresser
-  pt: cambodian flowerpecker
+  pt: ''
   zh: 柬埔寨啄花
   nl: Cambodjaanse honingvogel
   pl: kwiatówka czarnowstęga

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18185.0
 names:
   scientific: Philemon meyeri
-  fa: nan
+  fa: ''
   en: Meyer's Friarbird
   es: Filemón de Meyer
   fr: Polochion de Meyer
   de: Zwerglederkopf
-  pt: meyer's friarbird
+  pt: ''
   ru: Карликовый кожеголов
   ja: チャイロハゲミツスイ
   nl: Dwerglederkop

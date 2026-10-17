@@ -12,7 +12,7 @@ names:
   es: Abejaruco Gorjiazul
   fr: Guêpier à gorge bleue
   de: Malaienspint
-  pt: blue-throated bee-eater
+  pt: ''
   ru: Малайская щурка
   ja: ルリノドハチクイ
   zh: 蓝喉蜂虎

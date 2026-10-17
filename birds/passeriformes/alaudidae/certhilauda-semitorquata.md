@@ -12,7 +12,7 @@ names:
   es: Alondra de Transvaal
   fr: Alouette du Transvaal
   de: Transkei-Langschnabellerche
-  pt: eastern long-billed lark
+  pt: ''
   ru: Зулусский жаворонок
   ja: ヒガシハシナガヒバリ
   zh: 半頸環歌百靈

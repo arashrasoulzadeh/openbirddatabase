@@ -12,7 +12,7 @@ names:
   es: Ampelis Japonés
   fr: Jaseur du Japon
   de: Blutseidenschwanz
-  pt: japanese waxwing
+  pt: ''
   ru: Японский свиристель
   ja: ヒレンジャク
   zh: 小太平鸟

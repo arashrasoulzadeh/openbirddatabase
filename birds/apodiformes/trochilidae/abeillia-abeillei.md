@@ -12,7 +12,7 @@ names:
   es: Colibrí de Abeillé
   fr: Colibri d'Abeillé
   de: Smaragdkehlkolibri
-  pt: emerald-chinned hummingbird
+  pt: ''
   ru: Изумрудогорлый колибри
   ja: コバシハチドリ
   zh: 翠颏蜂鸟

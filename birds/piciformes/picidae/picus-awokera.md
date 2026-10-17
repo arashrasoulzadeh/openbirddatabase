@@ -15,7 +15,7 @@ names:
   pt: japanese woodpecker
   ru: Японский дятел
   ja: アオゲラ
-  zh: Japanese Green Woodpecker
+  zh: ''
   nl: Japanse groene specht
   pl: dzięcioł japoński
   tr: Japon Ağaçkakanı

@@ -15,7 +15,7 @@ names:
   pt: palawan scops-owl
   ru: Палаванская совка
   ja: パラワンオオコノハズク
-  zh: Palawan Scops Owl
+  zh: ''
   nl: Palawandwergooruil
   pl: syczek palawański
   tr: Palavan İshakkuşu

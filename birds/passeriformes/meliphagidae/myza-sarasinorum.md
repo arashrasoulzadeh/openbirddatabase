@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17701.0
 names:
   scientific: Myza sarasinorum
-  fa: nan
+  fa: ''
   en: White-eared Myza
   es: Mielero Grande de Célebes
   fr: Méliphage à points
   de: Strichelbauch-Honigfresser
-  pt: white-eared myza
+  pt: ''
   ru: Белоухая миза
   ja: セレベスミツスイ
   zh: 白耳汲蜜鸟

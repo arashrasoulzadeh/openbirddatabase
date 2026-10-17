@@ -12,7 +12,7 @@ names:
   es: Pita de las Sula
   fr: Brève des Sula
   de: Sula-Blaubrustpitta
-  pt: sula pitta
+  pt: ''
   ru: Суланская питта
   ja: スラヤイロチョウ
   zh: 苏拉八色鸫

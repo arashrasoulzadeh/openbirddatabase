@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11974.0
 names:
   scientific: Daptrius megalopterus
-  fa: nan
+  fa: ''
   en: Mountain Caracara
   es: Caracara Andino
   fr: Caracara montagnard
   de: Bergkarakara
-  pt: mountain caracara
+  pt: ''
   ru: Горная каракара
   ja: アンデスカラカラ
   nl: Andescaracara

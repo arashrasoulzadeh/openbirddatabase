@@ -12,7 +12,7 @@ names:
   es: Monarca de Lesson
   fr: Monarque de Lesson
   de: Schwarzschwanzmonarch
-  pt: slaty monarch
+  pt: ''
   ru: Чернохвостая майрия
   ja: フィジーヒタキ
   nl: Zwartstaartmonarch

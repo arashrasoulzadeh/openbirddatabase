@@ -12,7 +12,7 @@ names:
   es: Carpintero Jamaicano
   fr: Pic de Jamaïque
   de: Jamaikaspecht
-  pt: jamaican woodpecker
+  pt: ''
   ru: Ямайский дятел
   ja: ジャマイカシマセゲラ
   nl: Jamaicaanse specht

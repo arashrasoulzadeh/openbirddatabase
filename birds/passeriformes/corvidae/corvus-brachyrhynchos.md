@@ -12,7 +12,7 @@ names:
   es: Cuervo Americano
   fr: Corneille d'Amérique
   de: Amerikakrähe
-  pt: american crow
+  pt: ''
   ru: Американская ворона
   ja: アメリカガラス
   zh: 短嘴鸦

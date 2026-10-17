@@ -12,7 +12,7 @@ names:
   es: Mosquitero Tribandeado
   fr: Pouillot à triple bandeau
   de: Südsee-Laubsänger
-  pt: mountain leaf warbler
+  pt: ''
   ru: Горная пеночка
   ja: ミナミムシクイ
   zh: 山柳鶯

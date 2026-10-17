@@ -15,7 +15,7 @@ names:
   pt: ryukyu pigeon
   ru: Рюкюйский вяхирь
   ja: リュウキュウカラスバト
-  zh: Ryukyu Wood Pigeon
+  zh: ''
   nl: Ryukyuduif
   pl: gołąb srebrnokryzy
   tr: Ryukyu Güvercini

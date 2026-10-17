@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15486.0
 names:
   scientific: Cranioleuca marcapatae
-  fa: nan
+  fa: ''
   en: Marcapata Spinetail
   es: Curutié de Marcapata
   fr: Synallaxe de Marcapata
   de: Marcapata-Baumschlüpfer
-  pt: marcapata spinetail
+  pt: ''
   ru: Перуанская пищуховая иглохвостка
   ja: タカネカマドドリ
   nl: Marcapatastekelstaart

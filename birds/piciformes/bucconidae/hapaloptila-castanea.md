@@ -12,7 +12,7 @@ names:
   es: Buco Cariblanco
   fr: Barbacou à face blanche
   de: Diademfaulvogel
-  pt: white-faced nunbird
+  pt: ''
   ru: Белолицая ленивка
   ja: シロガオアマドリ
   nl: Diadeembaardkoekoek

@@ -12,7 +12,7 @@ names:
   es: Actinodura de Yunnán
   fr: Actinodure de Walden
   de: Waldenmeisenhäherling
-  pt: streak-throated barwing
+  pt: ''
   ru: Юньнаньский пестрокрыл
   ja: クリイロシマドリ
   zh: 纹胸斑翅鹛

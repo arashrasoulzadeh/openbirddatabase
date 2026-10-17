@@ -12,7 +12,7 @@ names:
   es: Gorrión Árabe
   fr: Moineau d'Arabie
   de: Jemengoldsperling
-  pt: arabian golden sparrow
+  pt: ''
   ru: Золотистый воробей
   ja: アラビアコガネスズメ
   zh: 阿拉伯金麻雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7080.0
 names:
   scientific: Hydrobates tristrami
-  fa: nan
+  fa: ''
   en: Tristram's Storm Petrel
   es: Paíño de Tristram
   fr: Océanite de Tristram

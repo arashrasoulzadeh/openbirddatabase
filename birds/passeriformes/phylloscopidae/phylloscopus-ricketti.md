@@ -12,7 +12,7 @@ names:
   es: Mosquitero de Rickett
   fr: Pouillot de Rickett
   de: Goldscheitel-Laubsänger
-  pt: sulphur-breasted warbler
+  pt: ''
   ru: Желтогрудая пеночка
   ja: マユグロムシクイ
   zh: 黑眉柳莺

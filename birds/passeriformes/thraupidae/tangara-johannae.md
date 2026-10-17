@@ -12,7 +12,7 @@ names:
   es: Tangara Bigotuda
   fr: Calliste moustachu
   de: Blaubarttangare
-  pt: blue-whiskered tanager
+  pt: ''
   ru: Синеусая танагра
   ja: アオヒゲフウキンチョウ
   zh: 蓝髭唐加拉雀

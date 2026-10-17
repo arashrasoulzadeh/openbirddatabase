@@ -12,7 +12,7 @@ names:
   es: Achichilique Común
   fr: Grèbe élégant
   de: Renntaucher
-  pt: western grebe
+  pt: ''
   ru: Западная поганка
   ja: クビナガカイツブリ
   zh: 西鸊鷈

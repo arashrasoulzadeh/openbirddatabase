@@ -15,7 +15,7 @@ names:
   pt: sennar penduline-tit
   ru: Суданский ремез
   ja: コモンアフリカツリスガラ
-  zh: Sennar Penduline Tit
+  zh: ''
   nl: Sahelkapokmees
   pl: remizek sudański
   tr: Sudan Çulhakuşu

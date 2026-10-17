@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11979.0
 names:
   scientific: Microhierax erythrogenys
-  fa: nan
+  fa: ''
   en: Philippine Falconet
   es: Falconete Filipino
   fr: Fauconnet des Philippines
   de: Zweifarbenfälkchen
-  pt: philippine falconet
+  pt: ''
   ru: Филиппинский сокол-крошка
   ja: フィリピンヒメハヤブサ
   zh: 菲律賓小隼

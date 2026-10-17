@@ -12,7 +12,7 @@ names:
   es: Serín Azufrado
   fr: Serin soufré
   de: Schwefelgirlitz
-  pt: brimstone canary
+  pt: ''
   ru: Серно-жёлтый канареечник
   ja: オオカナリア
   nl: Zwavelkanarie

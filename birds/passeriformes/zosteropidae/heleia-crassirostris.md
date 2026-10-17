@@ -15,7 +15,7 @@ names:
   pt: flores heleia
   ru: Толстоклювая элейя
   ja: ハシブトメジロ
-  zh: Thick-billed Heleia
+  zh: ''
   nl: Floresbrilvogel
   pl: okularowiec grubodzioby
   tr: Kalın Gagalı Heley Gözlükçü

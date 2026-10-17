@@ -12,7 +12,7 @@ names:
   es: Pita de Ussher
   fr: Brève d'Ussher
   de: Schwarzscheitelpitta
-  pt: black-crowned pitta
+  pt: ''
   ru: Черношапочная питта
   ja: クロアカヤイロチョウ
   zh: 黑头八色鸫

@@ -12,7 +12,7 @@ names:
   es: Calzadito Canoso
   fr: Érione givrée
   de: Schuppenbauch-Höschenkolibri
-  pt: hoary puffleg
+  pt: ''
   ru: Седой эрион
   ja: ハイイロアシゲハチドリ
   zh: 苍蓬腿蜂鸟

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 21831.0
 names:
   scientific: Melanodryas vittata
-  fa: nan
+  fa: ''
   en: Dusky Robin
   es: Petroica de Tasmania
   fr: Miro de Tasmanie
   de: Tasmanschnäpper
-  pt: dusky robin
+  pt: ''
   ru: Тасманийская дриада
   ja: タスマニアヒタキ
   nl: Tasmaanse vliegenvanger

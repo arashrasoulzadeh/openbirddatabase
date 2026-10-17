@@ -12,7 +12,7 @@ names:
   es: Sedosito Maculado
   fr: Séricorne maculé
   de: Fleckensericornis
-  pt: spotted scrubwren
+  pt: ''
   ru: Пятнистая кустовка
   nl: Gespikkelde struiksluiper
   pl: solnik plamisty

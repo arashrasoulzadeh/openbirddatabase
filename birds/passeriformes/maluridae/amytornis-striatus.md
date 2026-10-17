@@ -12,7 +12,7 @@ names:
   es: Maluro Estriado
   fr: Amytis strié
   de: Streifengrasschlüpfer
-  pt: striated grasswren
+  pt: ''
   ru: Травяной амитис
   ja: ノドジロセスジムシクイ
   zh: 纹草鹩莺

@@ -12,7 +12,7 @@ names:
   es: Zenaida de Isla Socorro
   fr: Tourterelle de Socorro
   de: Socorrotaube
-  pt: socorro dove
+  pt: ''
   ru: Сокоррская горлица
   ja: ソコロナゲキバト
   zh: 索岛哀鸽

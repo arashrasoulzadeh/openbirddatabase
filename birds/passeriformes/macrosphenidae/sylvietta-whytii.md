@@ -12,7 +12,7 @@ names:
   es: Crombec Carirrojo
   fr: Crombec à face rousse
   de: Rotzügelsylvietta
-  pt: red-faced crombec
+  pt: ''
   ru: Краснолицый кромбек
   ja: アカガオチビオムシクイ
   zh: 红脸森莺

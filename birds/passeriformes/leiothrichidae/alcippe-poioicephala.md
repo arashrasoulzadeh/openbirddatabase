@@ -12,7 +12,7 @@ names:
   es: Fulveta Cariparda
   fr: Alcippe à joues brunes
   de: Graukopf-Zweigdrossling
-  pt: brown-cheeked fulvetta
+  pt: ''
   ru: Серошапочная альциппа
   ja: ハイガシラチメドリ
   zh: 褐脸雀鹛

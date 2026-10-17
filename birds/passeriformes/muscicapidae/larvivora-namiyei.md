@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29383.0
 names:
   scientific: Larvivora namiyei
-  fa: nan
+  fa: ''
   en: Okinawa Robin
   es: Ruiseñor de Okinawa
   fr: Rossignol d'Okinawa
   de: Okinawanachtigall
-  pt: okinawa robin
+  pt: ''
   ja: ホントウアカヒゲ
   zh: 沖繩歌鴝
   nl: Okinawaroodborst

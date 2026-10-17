@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13934.0
 names:
   scientific: Cercomacra melanaria
-  fa: nan
+  fa: ''
   en: Mato Grosso Antbird
   es: Hormiguero de Mato Grosso
   fr: Grisin du Mato Grosso

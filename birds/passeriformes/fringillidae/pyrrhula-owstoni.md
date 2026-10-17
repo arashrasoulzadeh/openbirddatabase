@@ -12,7 +12,7 @@ names:
   es: Camachuelo de Taiwán
   fr: Bouvreuil de Taïwan
   de: Taiwangimpel
-  pt: taiwan bullfinch
+  pt: ''
   ja: タイワンウソ
   zh: 台湾灰头灰雀
   nl: Taiwanese goudvink

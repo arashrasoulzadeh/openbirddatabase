@@ -12,7 +12,7 @@ names:
   es: Fodi Forestal
   fr: Foudi de forêt
   de: Rothschildweber
-  pt: forest fody
+  pt: ''
   ru: Лесной фуди
   ja: マダガスカルベニノジコ
   zh: 森林艷織雀

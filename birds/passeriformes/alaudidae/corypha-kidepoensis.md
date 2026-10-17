@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 22586.0
 names:
   scientific: Corypha kidepoensis
-  fa: nan
+  fa: ''
   en: Kidepo Lark
   es: Alondra de Kidepo
   fr: Alouette du Kidepo
-  pt: kidepo lark
+  pt: ''
   nl: Kidepoleeuwerik
   pl: skowroniec rdzawopióry
   tr: Kipedo Toygarı

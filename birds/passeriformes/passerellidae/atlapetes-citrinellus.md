@@ -12,7 +12,7 @@ names:
   es: Atlapetes Amarillo
   fr: Tohi citrin
   de: Schwarzbart-Buschammer
-  pt: yellow-striped brushfinch
+  pt: ''
   ru: Желтобровая атлапета
   ja: キマユヤブシトド
   nl: Zwartbaardstruikgors

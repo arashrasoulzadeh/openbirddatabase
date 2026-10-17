@@ -12,7 +12,7 @@ names:
   es: Mango Dominicano
   fr: Mango doré
   de: Dominikanermangokolibri
-  pt: hispaniolan mango
+  pt: ''
   ru: Доминиканский манго
   ja: ウスミドリマンゴーハチドリ
   zh: 黑胸芒果蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8789.0
 names:
   scientific: Otus murivorus
-  fa: nan
+  fa: ''
   en: Rodrigues Scops Owl
   es: Autillo de Isla Rodrigues
   fr: Petit-duc de Rodrigues
@@ -15,7 +15,7 @@ names:
   pt: rodrigues scops-owl
   ru: Родригесская совка
   ja: ロドリゲスコノハズク
-  zh: Rodrigues Scops Owl
+  zh: ''
   nl: Rodriguesdwergooruil
   pl: uszatnik średni
   tr: Rodrigez İshakkuşu

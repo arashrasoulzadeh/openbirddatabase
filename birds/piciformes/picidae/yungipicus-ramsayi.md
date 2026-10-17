@@ -12,7 +12,7 @@ names:
   es: Pico de las Joló
   fr: Pic de Ramsay
   de: Suluspecht
-  pt: sulu pygmy woodpecker
+  pt: ''
   ru: Сулуанский острокрылый дятел
   ja: スールーコゲラ
   nl: Suluspecht

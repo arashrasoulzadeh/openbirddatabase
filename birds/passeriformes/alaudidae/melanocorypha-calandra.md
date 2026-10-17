@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22796.0
 names:
   scientific: Melanocorypha calandra
-  fa: nan
+  fa: ''
   en: Calandra Lark
   es: Calandria Común
   fr: Alouette calandre

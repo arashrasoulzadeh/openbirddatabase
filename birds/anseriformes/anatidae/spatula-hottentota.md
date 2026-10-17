@@ -12,7 +12,7 @@ names:
   es: Cerceta Hotentote
   fr: Sarcelle à bec bleu
   de: Pünktchenente
-  pt: blue-billed teal
+  pt: ''
   ru: Пятнистый чирок
   ja: アフリカコガモ
   zh: 南非鴨

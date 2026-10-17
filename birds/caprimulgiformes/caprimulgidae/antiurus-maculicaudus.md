@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3548.0
 names:
   scientific: Antiurus maculicaudus
-  fa: nan
+  fa: ''
   en: Spot-tailed Nightjar
   es: Chotacabras Colipinto
   fr: Engoulevent à queue étoilée

@@ -12,7 +12,7 @@ names:
   es: Pijuí Pechiestriado
   fr: Synallaxe guiouti
   de: Streifenbrust-Dickichtschlüpfer
-  pt: stripe-breasted spinetail
+  pt: ''
   ru: Пестрогрудая иглохвостка
   ja: ゴマダラカマドドリ
   nl: Kaneelstekelstaart

@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Gorjinegro
   fr: Percefleur à gorge noire
   de: Schwarzkehl-Hakenschnabel
-  pt: black-throated flowerpiercer
+  pt: ''
   ru: Черногорлый цветокол
   ja: ノドグロハナサシミツドリ
   zh: 黑喉刺花鸟

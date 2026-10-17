@@ -12,7 +12,7 @@ names:
   es: Mielero Pintado
   fr: Méliphage peint
   de: Rotschnabel-Honigfresser
-  pt: painted honeyeater
+  pt: ''
   ru: Расписной медосос
   ja: ミミジロセグロミツスイ
   zh: 彩蚊蜜鸟

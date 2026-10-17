@@ -12,7 +12,7 @@ names:
   es: Oruguero Barrado
   fr: Échenilleur barré
   de: Bindenraupenfänger
-  pt: bar-bellied cuckooshrike
+  pt: ''
   ru: Полосатый воронец
   ja: カッコウサンショウクイ
   zh: 斑腹鹃鵙

@@ -12,7 +12,7 @@ names:
   es: Faisán Noble de Malasia
   fr: Faisan de Vieillot
   de: Malaienhaubenfasan
-  pt: malayan crested fireback
+  pt: ''
   zh: 馬來火背鷴
   nl: Maleise kuiffazant
   pl: kiściec czerwonogrzbiety

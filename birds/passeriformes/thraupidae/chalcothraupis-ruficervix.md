@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34983.0
 names:
   scientific: Chalcothraupis ruficervix
-  fa: nan
+  fa: ''
   en: Golden-naped Tanager
   es: Tangara Nuquirrufa
   fr: Calliste à nuque d'or
   de: Rotnackentangare
-  pt: golden-naped tanager
+  pt: ''
   ru: Тиаровая танагра
   ja: キンエリフウキンチョウ
   zh: 金頸唐加拉雀

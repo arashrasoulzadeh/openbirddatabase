@@ -12,7 +12,7 @@ names:
   es: Maluro Espléndido
   fr: Mérion splendide
   de: Türkisstaffelschwanz
-  pt: splendid fairywren
+  pt: ''
   ru: Роскошный малюр
   ja: ムラサキオーストラリアムシクイ
   zh: 辉蓝细尾鹩莺

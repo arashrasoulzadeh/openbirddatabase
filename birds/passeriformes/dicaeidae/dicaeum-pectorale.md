@@ -12,7 +12,7 @@ names:
   es: Picaflores Pectoral
   fr: Dicée à plastron
   de: Papuamistelfresser
-  pt: olive-crowned flowerpecker
+  pt: ''
   ru: Папуанский цветоед
   ja: ムネアカハナドリ
   zh: 綠冠啄花

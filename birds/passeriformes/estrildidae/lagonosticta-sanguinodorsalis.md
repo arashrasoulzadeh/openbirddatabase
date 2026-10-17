@@ -12,7 +12,7 @@ names:
   es: Amaranta Roquera
   fr: Amarante des rochers
   de: Felsenamarant
-  pt: rock firefinch
+  pt: ''
   ru: Скальный амарант
   ja: イワコウギョクチョウ
   zh: 岩火雀

@@ -15,7 +15,7 @@ names:
   pt: norfolk island gerygone
   ru: Скромная геригона
   ja: ノーフォークセンニョムシクイ
-  zh: Norfolk Gerygone
+  zh: ''
   nl: Norfolkmangrovezanger
   pl: krzakówka samotna
   tr: Norfolk Adası Gerigonu

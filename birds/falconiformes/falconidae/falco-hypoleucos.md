@@ -15,7 +15,7 @@ names:
   pt: gray falcon
   ru: Серый сокол
   ja: ハイイロハヤブサ
-  zh: Grey Falcon
+  zh: ''
   nl: Grijze valk
   pl: sokół siwy
   tr: Gri Sırtlı Doğan

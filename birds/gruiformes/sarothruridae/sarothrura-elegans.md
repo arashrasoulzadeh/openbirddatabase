@@ -12,7 +12,7 @@ names:
   es: Polluela Elegante
   fr: Râle ponctué
   de: Tropfenralle
-  pt: buff-spotted flufftail
+  pt: ''
   ru: Пёстрая жемчужная курочка
   ja: キボシクイナ
   nl: Bruinvlekral

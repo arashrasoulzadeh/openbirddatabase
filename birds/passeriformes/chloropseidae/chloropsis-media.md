@@ -12,7 +12,7 @@ names:
   es: Verdín de Sumatra
   fr: Verdin de Sumatra
   de: Sumatrablattvogel
-  pt: sumatran leafbird
+  pt: ''
   ru: Суматранская листовка
   ja: スマトラコノハドリ
   nl: Sumatraanse bladvogel

@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 13339.0
 names:
   scientific: Erythropitta meeki
-  fa: nan
+  fa: ''
   en: Louisiade Pitta
   es: Pita de las Luisiadas
   fr: Brève de Louisiade
   de: Louisade-Blaubrustpitta
-  pt: louisiade pitta
+  pt: ''
   ru: Луизиадская питта
   ja: ルイジアードヤイロチョウ
   nl: Rosselpitta

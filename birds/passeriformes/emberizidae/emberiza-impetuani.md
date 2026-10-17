@@ -12,7 +12,7 @@ names:
   es: Escribano Alaudino
   fr: Bruant des rochers
   de: Lerchenammer
-  pt: lark-like bunting
+  pt: ''
   ru: Бледная овсянка
   ja: ヒバリホオジロ
   nl: Leeuwerikgors

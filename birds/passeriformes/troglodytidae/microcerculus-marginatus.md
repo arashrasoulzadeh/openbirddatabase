@@ -15,7 +15,7 @@ names:
   pt: uirapuru-veado
   ru: Соловьиный крапивник
   ja: ミナミナキミソサザイ
-  zh: Southern Nightingale-Wren
+  zh: ''
   nl: Zuidelijke nachtegaalwinterkoning
   pl: fletniczek białogardły
   tr: Pullu Çıtkuşu

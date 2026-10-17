@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10108.0
 names:
   scientific: Halcyon chelicuti
-  fa: nan
+  fa: ''
   en: Striped Kingfisher
   es: Alción Estriado
   fr: Martin-chasseur strié

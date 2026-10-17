@@ -12,7 +12,7 @@ names:
   es: Actinodura Coroninegra
   fr: Actinodure à calotte noire
   de: Schwarzscheitel-Meisenhäherling
-  pt: black-crowned barwing
+  pt: ''
   ru: Черноголовый пестрокрыл
   ja: ズグロシマドリ
   zh: 黑冠斑翅鹛

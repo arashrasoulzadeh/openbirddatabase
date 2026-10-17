@@ -12,7 +12,7 @@ names:
   es: Churrín Panameño
   fr: Mérulaxe du Panama
   de: Tacarcunatapaculo
-  pt: tacarcuna tapaculo
+  pt: ''
   ru: Панамский тапакуло
   ja: マミジロオタテドリ
   nl: Panamese tapaculo

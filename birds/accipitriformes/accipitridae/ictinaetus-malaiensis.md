@@ -12,7 +12,7 @@ names:
   es: Águila Milana
   fr: Aigle noir
   de: Malaienadler
-  pt: black eagle
+  pt: ''
   ru: Орёл-яйцеед
   ja: カザノワシ
   zh: 林雕

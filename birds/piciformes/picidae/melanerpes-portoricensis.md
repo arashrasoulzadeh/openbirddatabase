@@ -12,7 +12,7 @@ names:
   es: Carpintero Puertorriqueño
   fr: Pic de Porto Rico
   de: Puerto-Rico-Specht
-  pt: puerto rican woodpecker
+  pt: ''
   ru: Пуэрториканский дятел
   ja: プエルトリコキツツキ
   nl: Puertoricaanse specht

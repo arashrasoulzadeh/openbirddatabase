@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14271.0
 names:
   scientific: Grallaria occabambae
-  fa: nan
+  fa: ''
   en: Urubamba Antpitta
   es: Tororoí de Urubamba
   fr: Grallaire d'Ocobamba
   de: Urubamba-Ameisenpitta
-  pt: urubamba antpitta
+  pt: ''
   ja: ウルバンバジアリドリ
   nl: Urubambamierpitta
   pl: kusaczka inkaska

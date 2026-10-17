@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8984.0
 names:
   scientific: Ketupa coromanda
-  fa: nan
+  fa: ''
   en: Dusky Eagle-Owl
   es: Búho de Coromandel
   fr: Grand-duc de Coromandel
   de: Koromandeluhu
-  pt: dusky eagle-owl
+  pt: ''
   ru: Тёмный филин
   ja: ウスグロワシミミズク
   zh: 乌雕鸮

@@ -12,7 +12,7 @@ names:
   es: Gerigón Sulfúreo
   fr: Gérygone soufrée
   de: Goldbrustgerygone
-  pt: golden-bellied gerygone
+  pt: ''
   ru: Золотогрудая геригона
   ja: マレーシアセンニョムシクイ
   nl: Goudbuikmangrovezanger

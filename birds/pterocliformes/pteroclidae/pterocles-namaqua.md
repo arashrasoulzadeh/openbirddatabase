@@ -12,7 +12,7 @@ names:
   es: Ganga Namaqua
   fr: Ganga namaqua
   de: Namaflughuhn
-  pt: namaqua sandgrouse
+  pt: ''
   ru: Капский рябок
   ja: クリムネサケイ
   zh: 南非沙鸡

@@ -15,7 +15,7 @@ names:
   pt: tico-tico-raposino
   ru: Пестрогрудая овсянка
   ja: ゴマフスズメ
-  zh: fox sparrow sp.
+  zh: ''
   nl: Roodstaartgors
   pl: pasówka rudosterna
   tr: Tilki Renkli Serçe

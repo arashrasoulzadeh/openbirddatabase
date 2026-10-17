@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14245.0
 names:
   scientific: Grallaria andicolus
-  fa: nan
+  fa: ''
   en: Stripe-headed Antpitta
   es: Tororoí Andino
   fr: Grallaire des Andes
   de: Strichelkopf-Ameisenpitta
-  pt: stripe-headed antpitta
+  pt: ''
   ru: Пёстрая питтовая муравьеловка
   ja: メジロジアリドリ
   nl: Streepkopmierpitta

@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Mahratta
   fr: Engoulevent de Sykes
   de: Pakistannachtschwalbe
-  pt: sykes's nightjar
+  pt: ''
   ru: Синдский козодой
   ja: ウスイロヨタカ
   zh: 塞氏夜鹰

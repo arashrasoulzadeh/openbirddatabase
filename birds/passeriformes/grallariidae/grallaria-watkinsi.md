@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14242.0
 names:
   scientific: Grallaria watkinsi
-  fa: nan
+  fa: ''
   en: Watkins's Antpitta
   es: Tororoí Matorralero
   fr: Grallaire de Watkins
   de: Buschland-Ameisenpitta
-  pt: watkins's antpitta
+  pt: ''
   ru: Кустарниковая питтовая муравьеловка
   ja: ワトキンスジアリドリ
   nl: Watkinsmierpitta

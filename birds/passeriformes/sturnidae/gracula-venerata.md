@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 27811.0
 names:
   scientific: Gracula venerata
-  fa: nan
+  fa: ''
   en: Tenggara Hill Myna
   es: Miná Venerado
   fr: Mainate de Sumbawa
   de: Sundabeo
-  pt: tenggara hill myna
+  pt: ''
   nl: Tenggarabeo
   pl: gwarek floreski
   tr: Tenggara Küpeli Çiğdecisi

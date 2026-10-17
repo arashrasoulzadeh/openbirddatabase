@@ -12,7 +12,7 @@ names:
   es: Oruguero de Mcgregor
   fr: Échenilleur de McGregor
   de: Spitzschwanz-Raupenfänger
-  pt: mcgregor's cuckooshrike
+  pt: ''
   ru: Острохвостый цикадник
   ja: ミンダナオオオサンショウクイ
   zh: 尖尾鹃鵙

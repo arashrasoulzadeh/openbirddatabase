@@ -12,7 +12,7 @@ names:
   es: Urraca de Whitehead
   fr: Pirolle de Whitehead
   de: Hainankitta
-  pt: white-winged magpie
+  pt: ''
   ru: Сойковая сорока
   ja: ハジロサンジャク
   zh: 白翅蓝鹊

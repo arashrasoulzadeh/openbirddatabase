@@ -12,7 +12,7 @@ names:
   es: Dacnis Turquesa
   fr: Dacnis de Hartlaub
   de: Türkispitpit
-  pt: turquoise dacnis
+  pt: ''
   ru: Бирюзовый дакнис
   ja: ハシブトヒワミツドリ
   nl: Turkooispitpit

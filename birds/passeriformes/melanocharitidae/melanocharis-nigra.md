@@ -12,7 +12,7 @@ names:
   es: Picabayas Negro
   fr: Piquebaie noir
   de: Weißbüschel-Beerenpicker
-  pt: black berrypecker
+  pt: ''
   ru: Сине-чёрная ягодница
   ja: クロパプアハナドリ
   nl: Zwarte bessenpikker

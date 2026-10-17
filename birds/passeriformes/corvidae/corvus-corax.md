@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21624.0
 names:
   scientific: Corvus corax
-  fa: nan
+  fa: ''
   en: Northern Raven
   es: Cuervo Grande
   fr: Grand Corbeau

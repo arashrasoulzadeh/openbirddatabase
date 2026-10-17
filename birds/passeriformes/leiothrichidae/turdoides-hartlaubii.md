@@ -12,7 +12,7 @@ names:
   es: Turdoide de Hartlaub
   fr: Cratérope de Hartlaub
   de: Hartlaubdrosselhäherling
-  pt: hartlaub's babbler
+  pt: ''
   ru: Замбезийская дроздовка
   ja: アンゴラヤブチメドリ
   zh: 安哥拉鶇鶥

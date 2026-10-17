@@ -12,7 +12,7 @@ names:
   es: Momoto Cejiazul
   fr: Motmot à sourcils bleus
   de: Brauenmotmot
-  pt: turquoise-browed motmot
+  pt: ''
   ru: Синебровый момот
   ja: アオマユハチクイモドキ
   zh: 綠眉翠鴗

@@ -12,7 +12,7 @@ names:
   es: Tordina Malgache
   fr: Mystacorne de Crossley
   de: Weißbartvanga
-  pt: crossley's vanga
+  pt: ''
   ru: Тимелевая ванга
   ja: ハシナガマダガスカルチメドリ
   nl: Crossleyvanga

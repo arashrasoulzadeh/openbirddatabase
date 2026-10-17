@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 32134.0
 names:
   scientific: Magumma parva
-  fa: nan
+  fa: ''
   en: Anianiau
   es: Anianiau
   fr: Anianiau de Kauai
   de: Gelbkleidervogel
-  pt: anianiau
+  pt: ''
   ru: Анианиау
   ja: コハワイミツスイ
   zh: 小夏威夷绿雀

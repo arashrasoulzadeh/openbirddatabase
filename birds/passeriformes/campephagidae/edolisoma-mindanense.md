@@ -12,7 +12,7 @@ names:
   es: Oruguero Filipino
   fr: Échenilleur à menton noir
   de: Philippinenraupenfänger
-  pt: black-bibbed cicadabird
+  pt: ''
   ru: Минданаосский цикадник
   ja: クロムネオオサンショウクイ
   zh: 黑胸鹃鵙

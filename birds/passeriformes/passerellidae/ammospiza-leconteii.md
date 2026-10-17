@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33221.0
 names:
   scientific: Ammospiza leconteii
-  fa: nan
+  fa: ''
   en: LeConte's Sparrow
   es: Chingolo de Le Conte
   fr: Bruant de LeConte
   de: Leconteammer
-  pt: leconte's sparrow
+  pt: ''
   ru: Луговая овсянка-барсучок
   ja: シロスジヒメドリ
   zh: 來康氏沙鵐

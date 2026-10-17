@@ -15,7 +15,7 @@ names:
   pt: sulphur-rumped flycatcher
   ru: Желтогузый широкохвост
   ja: キゴシハエトリ
-  zh: Sulphur-rumped Myiobius
+  zh: ''
   nl: Zwavelstuittiran
   pl: szczecinówka złotorzytna
   tr: Sülfür Sokumlu Yalancıtiran

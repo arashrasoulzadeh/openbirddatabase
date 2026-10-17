@@ -12,7 +12,7 @@ names:
   es: Verdillo Oliváceo
   fr: Viréon olivâtre
   de: Olivvireo
-  pt: olivaceous greenlet
+  pt: ''
   ru: Оливковый виреончик
   ja: アンデスヒメモズモドキ
   nl: Olijfvireo

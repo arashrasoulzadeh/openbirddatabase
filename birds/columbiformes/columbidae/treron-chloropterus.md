@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2497.0
 names:
   scientific: Treron chloropterus
-  fa: nan
+  fa: ''
   en: Andaman Green Pigeon
   es: Vinago de las Andamán
   fr: Colombar des Andaman
@@ -15,7 +15,7 @@ names:
   pt: andaman green-pigeon
   ru: Андаманский зеленый голубь
   ja: アンダマンアオバト
-  zh: Andaman Green Pigeon
+  zh: ''
   nl: Andamanenpapegaaiduif
   pl: treron zielonoszyi
   tr: Andaman Yeşil Güvercini

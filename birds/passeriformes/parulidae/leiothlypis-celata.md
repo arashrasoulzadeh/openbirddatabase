@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33973.0
 names:
   scientific: Leiothlypis celata
-  fa: nan
+  fa: ''
   en: Orange-crowned Warbler
   es: Reinita Coroninaranja
   fr: Paruline verdâtre
   de: Orangefleck-Waldsänger
-  pt: orange-crowned warbler
+  pt: ''
   ru: Рыжешапочная древесница
   ja: サメズアカアメリカムシクイ
   zh: 橙冠蟲森鶯

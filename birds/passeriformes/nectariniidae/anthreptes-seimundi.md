@@ -12,7 +12,7 @@ names:
   es: Suimanga de Seimund
   fr: Souimanga de Seimund
   de: Stutzschwanz-Nektarvogel
-  pt: little green sunbird
+  pt: ''
   ru: Пеночковая нектарница
   ja: コミドリタイヨウチョウ
   nl: Kortstaarthoningzuiger

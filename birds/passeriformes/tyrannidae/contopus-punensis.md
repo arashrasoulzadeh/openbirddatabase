@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16904.0
 names:
   scientific: Contopus punensis
-  fa: nan
+  fa: ''
   en: Tumbes Pewee
   es: Pibí Tropical Occidental
   fr: Moucherolle de Puna
   de: Tumbesschnäppertyrann
-  pt: tumbes pewee
+  pt: ''
   ru: Тумбесский пиви
   nl: Tumbespiewie
   pl: piwik andyjski

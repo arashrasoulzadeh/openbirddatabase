@@ -15,7 +15,7 @@ names:
   pt: orange-bellied fruit-dove
   ru: Оранжевобрюхий фруктовый голубь
   ja: ヒノマルヒメアオバト
-  zh: Orange-bellied Fruit Dove
+  zh: ''
   nl: Oranjebuikjufferduif
   pl: owocożer zielony
   tr: Turuncu Karınlı Meyve Kumrusu

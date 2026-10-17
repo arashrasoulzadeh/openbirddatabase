@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquifina de Woodhouse
   fr: Parmoptile à gorge rousse
   de: Woodhouse-Ameisenpicker
-  pt: woodhouse's antpecker
+  pt: ''
   ru: Рыжеголовый астрильд
   ja: ムシクイキンパラ
   zh: 啄花雀

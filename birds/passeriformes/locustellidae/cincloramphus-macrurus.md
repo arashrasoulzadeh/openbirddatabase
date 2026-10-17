@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23883.0
 names:
   scientific: Cincloramphus macrurus
-  fa: nan
+  fa: ''
   en: Papuan Grassbird
   es: Yerbera Papú
   fr: Mégalure papoue
   de: Papuabuschsänger
-  pt: papuan grassbird
+  pt: ''
   ru: Новогвинейская клинохвостка
   nl: Papoeagrasvogel
   pl: krzakowik papuaski

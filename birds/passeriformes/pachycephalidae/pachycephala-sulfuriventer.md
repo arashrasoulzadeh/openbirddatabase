@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19513.0
 names:
   scientific: Pachycephala sulfuriventer
-  fa: nan
+  fa: ''
   en: Sulphur-vented Whistler
   es: Silbador Ventrisulfúreo
   fr: Siffleur à ventre jaune
@@ -15,7 +15,7 @@ names:
   pt: sulphur-bellied whistler
   ru: Сулавесский свистун
   ja: セレベスヤマモズヒタキ
-  zh: Sulphur-vented Whistler
+  zh: ''
   nl: Zwavelbuikfluiter
   pl: fletówka siarkowa
   tr: Limoni Karınlı Islıkçı

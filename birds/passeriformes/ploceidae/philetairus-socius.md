@@ -12,7 +12,7 @@ names:
   es: Tejedor Republicano
   fr: Républicain social
   de: Siedelweber
-  pt: sociable weaver
+  pt: ''
   ru: Общественный ткачик
   ja: シャカイハタオリ
   zh: 群織雀

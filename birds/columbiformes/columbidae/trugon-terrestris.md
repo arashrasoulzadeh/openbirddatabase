@@ -15,7 +15,7 @@ names:
   pt: thick-billed ground-pigeon
   ru: Толстоклювый голубь
   ja: ハシブトバト
-  zh: Thick-billed Ground Pigeon
+  zh: ''
   nl: Grijze grondduif
   pl: papuasek
   tr: Yer Güvercini

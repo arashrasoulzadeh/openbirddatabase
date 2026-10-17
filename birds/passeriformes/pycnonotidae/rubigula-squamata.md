@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24635.0
 names:
   scientific: Rubigula squamata
-  fa: nan
+  fa: ''
   en: Scaly-breasted Bulbul
   es: Bulbul Escamoso
   fr: Bulbul écaillé
   de: Schuppenbülbül
-  pt: scaly-breasted bulbul
+  pt: ''
   ru: Чешуйчатый бюльбюль
   ja: ウロコヒヨドリ
   nl: Schubborstbuulbuul

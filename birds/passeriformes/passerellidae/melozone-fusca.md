@@ -12,7 +12,7 @@ names:
   es: Toquí Pardo
   fr: Tohi des canyons
   de: Braunrücken-Grundammer
-  pt: canyon towhee
+  pt: ''
   ru: Бурый тохи
   ja: ムジトウヒチョウ
   nl: Bruine towie

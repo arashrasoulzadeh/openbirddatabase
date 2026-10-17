@@ -12,7 +12,7 @@ names:
   es: Busardo Gorjiblanco
   fr: Buse à gorge blanche
   de: Weißkehlbussard
-  pt: white-throated hawk
+  pt: ''
   ru: Белогорлый канюк
   ja: アンデスミジカオノスリ
   nl: Witkeelbuizerd

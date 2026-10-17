@@ -12,7 +12,7 @@ names:
   es: Cacatúa Gangang
   fr: Cacatoès à tête rouge
   de: Helmkakadu
-  pt: gang-gang cockatoo
+  pt: ''
   ru: Шлемоносный какаду
   ja: アカサカオウム
   zh: 紅冠灰鳳頭鸚鵡

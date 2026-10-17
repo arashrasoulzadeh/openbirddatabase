@@ -12,7 +12,7 @@ names:
   es: Camachuelo de Blanford
   fr: Roselin de Blanford
   de: Blanfordgimpel
-  pt: blanford's rosefinch
+  pt: ''
   ru: Карминный вьюрок
   ja: ヒイロマシコ
   zh: 赤朱雀

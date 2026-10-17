@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24943.0
 names:
   scientific: Phylloscopus examinandus
-  fa: nan
+  fa: ''
   en: Kamchatka Leaf Warbler
   es: Mosquitero de Kamtchatka
   fr: Pouillot du Kamtchatka

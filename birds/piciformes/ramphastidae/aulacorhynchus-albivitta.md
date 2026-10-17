@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10845.0
 names:
   scientific: Aulacorhynchus albivitta
-  fa: nan
+  fa: ''
   en: Southern Emerald Toucanet
   es: Tucanete Gorjiblanco
   fr: Toucanet à gorge blanche

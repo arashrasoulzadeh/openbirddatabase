@@ -15,7 +15,7 @@ names:
   pt: angola cave-chat
   ru: Чекановый пещерник
   ja: セキレイツグミヒタキ
-  zh: Angola Cave Chat
+  zh: ''
   nl: Holenlawaaimaker
   pl: złotokos srokaty
   tr: Alaca Kaya Bülbülü

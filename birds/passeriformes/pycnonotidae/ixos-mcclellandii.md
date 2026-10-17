@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24533.0
 names:
   scientific: Ixos mcclellandii
-  fa: nan
+  fa: ''
   en: Mountain Bulbul
   es: Bulbul de Mcclelland
   fr: Bulbul de McClelland
   de: Grünflügelbülbül
-  pt: mountain bulbul
+  pt: ''
   ru: Зеленокрылый бюльбюль
   ja: ミヤマヒヨドリ
   zh: 绿翅短脚鹎

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9225.0
 names:
   scientific: Strix sartorii
-  fa: nan
+  fa: ''
   en: Cinereous Owl
   es: Cárabo Mexicano
   fr: Chouette du Mexique
   de: Mexikokauz
-  pt: cinereous owl
+  pt: ''
   ru: Мексиканская неясыть
   ja: メキシコフクロウ
   nl: Mexicaanse bosuil

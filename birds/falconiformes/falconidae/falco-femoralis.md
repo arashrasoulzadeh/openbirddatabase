@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12092.0
 names:
   scientific: Falco femoralis
-  fa: nan
+  fa: ''
   en: Aplomado Falcon
   es: Halcón Aleto
   fr: Faucon aplomado

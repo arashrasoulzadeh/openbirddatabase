@@ -12,7 +12,7 @@ names:
   es: Petrel Hawaiano
   fr: Pétrel des Hawaï
   de: Hawaiisturmvogel
-  pt: hawaiian petrel
+  pt: ''
   ru: Гавайский тайфунник
   ja: ハワイシロハラミズナギドリ
   nl: Hawaïstormvogel

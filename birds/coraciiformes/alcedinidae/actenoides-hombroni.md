@@ -12,7 +12,7 @@ names:
   es: Alción de Mindanao
   fr: Martin-chasseur de Hombron
   de: Mindanaoliest
-  pt: blue-capped kingfisher
+  pt: ''
   ru: Синешапочный зимородок
   ja: フィリピンアオヒゲショウビン
   nl: Mindanaobosijsvogel

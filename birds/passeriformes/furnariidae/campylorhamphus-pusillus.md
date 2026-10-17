@@ -12,7 +12,7 @@ names:
   es: Picoguadaña Andino
   fr: Grimpar à bec brun
   de: Braunsensenschnabel
-  pt: brown-billed scythebill
+  pt: ''
   ru: Буроклювый дугоклюв
   ja: チャユミハシオニキバシリ
   nl: Bruinsnavelmuisspecht

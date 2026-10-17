@@ -12,7 +12,7 @@ names:
   es: Serín Culiblanco
   fr: Serin à croupion blanc
   de: Weißbürzelgirlitz
-  pt: white-rumped seedeater
+  pt: ''
   ru: Белопоясничный канареечник
   ja: コシジロカナリア
   nl: Edelzanger

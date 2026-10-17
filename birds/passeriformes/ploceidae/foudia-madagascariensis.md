@@ -12,7 +12,7 @@ names:
   es: Fodi Rojo
   fr: Foudi rouge
   de: Madagaskarweber
-  pt: red fody
+  pt: ''
   ru: Красный фуди
   ja: ベニノジコ
   zh: 红织雀

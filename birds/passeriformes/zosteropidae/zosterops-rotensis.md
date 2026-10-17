@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 25838.0
 names:
   scientific: Zosterops rotensis
-  fa: nan
+  fa: ''
   en: Rota White-eye
   es: Anteojitos de Isla Rota
   fr: Zostérops de Rota
   de: Rotabrillenvogel
-  pt: rota white-eye
+  pt: ''
   ru: Ротанская белоглазка
   ja: ロタメジロ
   nl: Rotabrilvogel

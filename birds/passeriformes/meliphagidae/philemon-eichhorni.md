@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18193.0
 names:
   scientific: Philemon eichhorni
-  fa: nan
+  fa: ''
   en: New Ireland Friarbird
   es: Filemón de Nueva Irlanda
   fr: Polochion de Nouvelle-Irlande
   de: Neuirland-Lederkopf
-  pt: new ireland friarbird
+  pt: ''
   ru: Новоирландский кожеголов
   ja: ニューアイルランドハゲミツスイ
   nl: Eichhornlederkop

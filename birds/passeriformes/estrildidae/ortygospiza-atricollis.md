@@ -12,7 +12,7 @@ names:
   es: Estrilda Codorniz
   fr: Astrild-caille à lunettes
   de: Wachtelastrild
-  pt: quailfinch
+  pt: ''
   ru: Перепелиный астрильд
   ja: シャコスズメ
   zh: 黑领鹑雀

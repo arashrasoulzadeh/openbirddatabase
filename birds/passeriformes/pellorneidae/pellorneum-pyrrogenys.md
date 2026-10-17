@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26262.0
 names:
   scientific: Pellorneum pyrrogenys
-  fa: nan
+  fa: ''
   en: Temminck's Babbler
   es: Tordina de Temminck
   fr: Akalat de Temminck
   de: Rostwangen-Erddrossling
-  pt: temminck's babbler
+  pt: ''
   ru: Рыжещёкая тимелия-говорушка
   ja: ワキアカムジチメドリ
   zh: 泰明氏幽鶥

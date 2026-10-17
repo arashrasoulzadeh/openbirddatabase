@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24611.0
 names:
   scientific: Microtarsus eutilotus
-  fa: nan
+  fa: ''
   en: Puff-backed Bulbul
   es: Bulbul Lanudo
   fr: Bulbul laineux
   de: Flauschrückenbülbül
-  pt: puff-backed bulbul
+  pt: ''
   ru: Серохохлый бюльбюль
   ja: チャイロヒヨドリ
   nl: Donsrugbuulbuul

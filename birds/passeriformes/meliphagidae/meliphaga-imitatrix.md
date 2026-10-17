@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17778.0
 names:
   scientific: Meliphaga imitatrix
-  fa: nan
+  fa: ''
   en: Cryptic Honeyeater
   es: Mielero Críptico
   fr: Méliphage imitateur
   de: Elfenhonigfresser
-  pt: cryptic honeyeater
+  pt: ''
   ru: Кэрнский медосос
   nl: Cryptische honingeter
   pl: miodojad nadobny

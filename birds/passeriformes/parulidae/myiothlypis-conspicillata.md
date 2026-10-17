@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34330.0
 names:
   scientific: Myiothlypis conspicillata
-  fa: nan
+  fa: ''
   en: White-lored Warbler
   es: Reinita Embridada
   fr: Paruline à lores blancs
   de: Weißzügel-Waldsänger
-  pt: white-lored warbler
+  pt: ''
   ru: Уздечковый певун
   ja: シロガシラアメリカムシクイ
   nl: Witteugelzanger

@@ -12,7 +12,7 @@ names:
   es: Polluela Patirroja
   fr: Râle barré
   de: Malaienralle
-  pt: red-legged crake
+  pt: ''
   ru: Полосатый пастушок
   ja: ナンヨウオオクイナ
   zh: 红腿斑秧鸡

@@ -12,7 +12,7 @@ names:
   es: Pergolero Moteado Oriental
   fr: Jardinier maculé
   de: Fleckenlaubenvogel
-  pt: spotted bowerbird
+  pt: ''
   ru: Пятнистый беседочник
   ja: マダラニワシドリ
   zh: 斑大亭鸟

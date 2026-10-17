@@ -12,7 +12,7 @@ names:
   es: Mosquitero Cejiblanco
   fr: Bouscarle à sourcils blancs
   de: Bambusdickichtsänger
-  pt: yellow-bellied warbler
+  pt: ''
   ru: Желтобрюхая комарница
   ja: マミジロムシクイ
   zh: 黄腹鹟莺

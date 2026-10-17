@@ -12,7 +12,7 @@ names:
   es: Chingolo de Bell
   fr: Bruant de Bell
   de: Salbeiammer
-  pt: bell's sparrow
+  pt: ''
   ru: Шалфейная овсянка
   ja: クロフヒメドリ
   zh: 贝氏漠鹀

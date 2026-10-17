@@ -12,7 +12,7 @@ names:
   es: Canario Oropéndola
   fr: Linurge loriot
   de: Pirolgimpel
-  pt: oriole finch
+  pt: ''
   ru: Иволговый вьюрок
   ja: キンエリヒワ
   nl: Wielewaalvink

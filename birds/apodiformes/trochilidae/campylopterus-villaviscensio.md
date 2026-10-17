@@ -12,7 +12,7 @@ names:
   es: Colibrí del Napo
   fr: Campyloptère du Napo
   de: Napodegenflügel
-  pt: napo sabrewing
+  pt: ''
   ru: Напоанский саблекрыл
   ja: キンボウシハチドリ
   zh: 那波刀翅蜂鸟

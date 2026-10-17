@@ -12,7 +12,7 @@ names:
   es: Mosquitero de David
   fr: Pouillot de Milne-Edwards
   de: Davidlaubsänger
-  pt: yellow-streaked warbler
+  pt: ''
   ru: Пеночка Арманда
   ja: モウコムジセッカ
   zh: 棕眉柳莺

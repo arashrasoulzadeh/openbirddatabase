@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24458.0
 names:
   scientific: Alophoixus frater
-  fa: nan
+  fa: ''
   en: Palawan Bulbul
   es: Bulbul Fraile
   fr: Bulbul de Sharpe
@@ -15,7 +15,7 @@ names:
   pt: gray-throated bulbul
   ru: Палаванский бюльбюль-бородач
   ja: ハイノドカンムリヒヨドリ
-  zh: Palawan Bulbul
+  zh: ''
   nl: Palawanbuulbuul
   pl: szczeciak palawański
   tr: Palavan Gri Yanaklı Arapbülbülü

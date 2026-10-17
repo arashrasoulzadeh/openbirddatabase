@@ -12,7 +12,7 @@ names:
   es: Papamoscas Isleño
   fr: Gobemouche des îles
   de: Azurschnäpper
-  pt: turquoise flycatcher
+  pt: ''
   ru: Лазурная мухоловка
   ja: アオムネヒタキ
   nl: Panayvliegenvanger

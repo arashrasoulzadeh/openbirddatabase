@@ -12,7 +12,7 @@ names:
   es: Cuco Colilargo Oliváceo
   fr: Coucou olivâtre
   de: Olivkuckuck
-  pt: olive long-tailed cuckoo
+  pt: ''
   ru: Оливковая кукушка
   ja: オリーブオナガカッコウ
   nl: Bruine langstaartkoekoek

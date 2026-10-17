@@ -12,7 +12,7 @@ names:
   es: Cuclillo Esmeralda Asiático
   fr: Coucou émeraude
   de: Prachtkuckuck
-  pt: asian emerald cuckoo
+  pt: ''
   ru: Изумрудная кукушка
   ja: ミドリテリカッコウ
   zh: 翠金鹃

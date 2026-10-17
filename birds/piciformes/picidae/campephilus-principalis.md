@@ -12,7 +12,7 @@ names:
   es: Picamaderos Picomarfil
   fr: Pic à bec ivoire
   de: Elfenbeinspecht
-  pt: ivory-billed woodpecker
+  pt: ''
   ru: Белоклювый дятел
   ja: ハシジロキツツキ
   zh: 象牙喙啄木鳥

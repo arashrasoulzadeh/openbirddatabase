@@ -15,7 +15,7 @@ names:
   pt: tordo-de-timor
   ru: Тиморский дрозд
   ja: チモールジツグミ
-  zh: Orange-sided Thrush
+  zh: ''
   nl: Timorlijster
   pl: drozdaczek białogardły
   tr: Timor Ardıcı

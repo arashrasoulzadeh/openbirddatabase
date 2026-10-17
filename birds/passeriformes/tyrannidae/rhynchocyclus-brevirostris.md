@@ -12,7 +12,7 @@ names:
   es: Picoplano de Anteojos
   fr: Tyranneau à bec court
   de: Augenring-Breitschnabeltyrann
-  pt: eye-ringed flatbill
+  pt: ''
   ru: Очковый мухоед
   ja: メジロマルハシタイランチョウ
   nl: Brilbreedbektiran

@@ -12,7 +12,7 @@ names:
   es: Bienteveo del Chocó
   fr: Tyran diadème
   de: Weißnacken-Maskentyrann
-  pt: white-ringed flycatcher
+  pt: ''
   ru: Белогорлый бентеви
   ja: シロハチマキヒタキモドキ
   nl: Witringtiran

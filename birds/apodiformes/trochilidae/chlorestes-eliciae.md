@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5196.0
 names:
   scientific: Chlorestes eliciae
-  fa: nan
+  fa: ''
   en: Blue-throated Sapphire
   es: Zafiro de Elicia
   fr: Colibri d'Élicia
@@ -15,7 +15,7 @@ names:
   pt: blue-throated goldentail
   ru: Златохвостый сапфир
   ja: オウゴンサファイアハチドリ
-  zh: Blue-throated Sapphire
+  zh: ''
   nl: Goudstaartsaffierkolibrie
   pl: szafirek złotosterny
   tr: Elicia Safiri

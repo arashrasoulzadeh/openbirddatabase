@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34807.0
 names:
   scientific: Ramphocelus melanogaster
-  fa: nan
+  fa: ''
   en: Huallaga Tanager
   es: Tangara del Huallaga
   fr: Tangara du Huallaga
@@ -15,7 +15,7 @@ names:
   pt: black-bellied tanager
   ru: Чернобрюхий сереброклюв
   ja: クロハラベニフウキンチョウ
-  zh: Huallaga Tanager
+  zh: ''
   nl: Zwartbuiktangare
   pl: tapiranga kreskowana
   tr: Huallaga Tangarası

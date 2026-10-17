@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26660.0
 names:
   scientific: Turdoides chapini
-  fa: nan
+  fa: ''
   en: Chapin's Babbler
   es: Charlatán de Chapin
   fr: Phyllanthe de Chapin
@@ -15,7 +15,7 @@ names:
   pt: chapin's mountain-babbler
   ru: Рувензорская дроздовка
   ja: チャガシラハシジロチメドリ
-  zh: Chapin's Babbler
+  zh: ''
   nl: Chapinbergtimalia
   pl: stoczyk kongijski
   tr: Chapin Yedikardeşi

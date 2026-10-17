@@ -12,7 +12,7 @@ names:
   es: Arañero de Whitehead
   fr: Arachnothère de Whitehead
   de: Bergspinnenjäger
-  pt: whitehead's spiderhunter
+  pt: ''
   ru: Горная пауколовка
   ja: ゴマフクモカリドリ
   zh: 懷氏捕蛛鳥

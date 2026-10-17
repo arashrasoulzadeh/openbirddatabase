@@ -12,7 +12,7 @@ names:
   es: Pergolero Pardo
   fr: Jardinier brun
   de: Hüttenlaubenvogel
-  pt: vogelkop bowerbird
+  pt: ''
   ru: Бурый садовник
   ja: チャイロニワシドリ
   zh: 佛鳩卡褐色園丁鳥

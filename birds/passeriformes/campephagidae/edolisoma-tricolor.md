@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18906.0
 names:
   scientific: Edolisoma tricolor
-  fa: nan
+  fa: ''
   en: Malaita Cicadabird
   es: Oruguero de Malaita
   fr: Échenilleur de Malaita
-  pt: malaita cicadabird
+  pt: ''
   ja: マライタオオサンショウクイ
   nl: Malaitarupsvogel
   pl: gąsienicojad czarnoszyi

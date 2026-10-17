@@ -15,7 +15,7 @@ names:
   pt: purple-capped fruit-dove
   ru: Понпейский фруктовый голубь
   ja: ポンペイヒメアオバト
-  zh: Purple-capped Fruit Dove
+  zh: ''
   nl: Ponapéjufferduif
   pl: owocożer purpurowogłowy
   tr: Mor Tepeli Meyve Kumrusu

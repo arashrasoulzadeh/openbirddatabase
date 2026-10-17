@@ -12,7 +12,7 @@ names:
   es: Pardela de Newell
   fr: Puffin de Newell
   de: Hawaiisturmtaucher
-  pt: newell's shearwater
+  pt: ''
   ru: Гавайский буревестник
   ja: ハワイセグロミズナギドリ
   nl: Newellpijlstormvogel

@@ -12,7 +12,7 @@ names:
   es: Verdín Frentidorado
   fr: Verdin à front d'or
   de: Goldstirn-Blattvogel
-  pt: golden-fronted leafbird
+  pt: ''
   ru: Золотолобая листовка
   ja: キビタイコノハドリ
   zh: 金额叶鹎

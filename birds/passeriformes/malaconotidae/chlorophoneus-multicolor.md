@@ -12,7 +12,7 @@ names:
   es: Bubú Multicolor
   fr: Gonolek multicolore
   de: Vielfarbenwürger
-  pt: many-colored bushshrike
+  pt: ''
   ru: Многоцветный гладиатор
   ja: タショクミドリヤブモズ
   nl: Veelkleurige bosklauwier

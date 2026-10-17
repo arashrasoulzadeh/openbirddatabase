@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 7056.0
 names:
   scientific: Hydrobates socorroensis
-  fa: nan
+  fa: ''
   en: Townsend's Storm Petrel
   es: Paíño de Townsend
   fr: Océanite de Townsend
@@ -15,7 +15,7 @@ names:
   pt: townsend's storm-petrel
   ru: Летняя качурка
   ja: タウンゼンドウミツバメ
-  zh: Townsend's Storm Petrel
+  zh: ''
   nl: Townsendstormvogeltje
   pl: nawałnik meksykański
   tr: Townsend Fırtınakırlangıcı

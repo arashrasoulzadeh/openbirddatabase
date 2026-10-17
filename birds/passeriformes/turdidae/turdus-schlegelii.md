@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28526.0
 names:
   scientific: Turdus schlegelii
-  fa: nan
+  fa: ''
   en: Sulawesi Island Thrush
   es: Mirlo de Timor
   fr: Merle des Célèbes
   pt: wallacean island-thrush
   ja: ワラセアハイガシラツグミ
-  zh: Wallacean Island Thrush
+  zh: ''
   nl: Wallaceamerel
   pl: drozd celebeski
   tr: Wallasya Ada Ardıcı

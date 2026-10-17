@@ -12,7 +12,7 @@ names:
   es: Mosquerito Serrano
   fr: Tyranneau trompeur
   de: Küstenkordilleren-Kleintyrann
-  pt: spectacled tyrannulet
+  pt: ''
   ru: Невзрачный москитолов
   ja: メガネコタイランチョウ
   nl: Meridavliegenpikker

@@ -12,7 +12,7 @@ names:
   es: Aratinga de Guayaquil
   fr: Conure à tête rouge
   de: Guayaquilsittich
-  pt: red-masked parakeet
+  pt: ''
   ru: Красноголовая аратинга
   ja: オナガアカボウシインコ
   nl: Ecuadoraanse aratinga

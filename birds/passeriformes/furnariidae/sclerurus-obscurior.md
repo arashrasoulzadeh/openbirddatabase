@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 14537.0
 names:
   scientific: Sclerurus obscurior
-  fa: nan
+  fa: ''
   en: Dusky Leaftosser
   es: Tirahojas Oscuro
   fr: Sclérure obscur
   de: Braunkehl-Laubwender
   ru: Тёмный тенелюб
-  zh: Dusky Leaftosser
+  zh: ''
   nl: Donkere bladkrabber
   pl: liściarek ciemny
   tr: Kızıl Boğazlı Yaprakçeviren

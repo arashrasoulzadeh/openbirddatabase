@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18653.0
 names:
   scientific: Ceblepyris graueri
-  fa: nan
+  fa: ''
   en: Grauer's Cuckooshrike
   es: Oruguero de Grauer
   fr: Échenilleur de Grauer
   de: Silberraupenfänger
-  pt: grauer's cuckooshrike
+  pt: ''
   ru: Серебристый воронец
   ja: コムナジロオオサンショウクイ
   zh: 格氏鹃鵙

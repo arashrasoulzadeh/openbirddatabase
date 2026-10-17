@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30840.0
 names:
   scientific: Ploceus castaneofuscus
-  fa: nan
+  fa: ''
   en: Chestnut-and-black Weaver
   es: Tejedor Pardinegro
   fr: Tisserin noir et marron
   de: Fuchsweber
-  pt: chestnut-and-black weaver
+  pt: ''
   nl: Bruin-zwarte wever
   pl: wikłacz brunatny
   tr: Karaca Dokumacı

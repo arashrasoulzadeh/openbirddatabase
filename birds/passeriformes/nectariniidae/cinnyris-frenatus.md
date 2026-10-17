@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 30464.0
 names:
   scientific: Cinnyris frenatus
-  fa: nan
+  fa: ''
   en: Sahul Sunbird
   es: Suimanga de Sahul
   fr: Souimanga à moustaches
-  pt: sahul sunbird
+  pt: ''
   zh: 莎湖花蜜鳥
   nl: Sahoelhoningzuiger
   pl: nektarnik australijski

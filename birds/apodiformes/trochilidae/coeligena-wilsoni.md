@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4621.0
 names:
   scientific: Coeligena wilsoni
-  fa: nan
+  fa: ''
   en: Brown Inca
   es: Inca Pardo
   fr: Inca brun
   de: Braunkolibri
-  pt: brown inca
+  pt: ''
   ru: Коричневый инка
   ja: チャイロインカハチドリ
   zh: 褐星额蜂鸟

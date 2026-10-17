@@ -12,7 +12,7 @@ names:
   es: Cistícola Cantor
   fr: Cisticole chanteuse
   de: Rostflügel-Zistensänger
-  pt: singing cisticola
+  pt: ''
   ru: Певчая цистикола
   ja: ウタイセッカ
   nl: Witbrauwgraszanger

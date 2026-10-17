@@ -12,7 +12,7 @@ names:
   es: Yuhina Diademada
   fr: Yuhina à diadème
   de: Diademyuhina
-  pt: white-collared yuhina
+  pt: ''
   ru: Диадемовая юхина
   ja: シロエリカンムリチメドリ
   zh: 白领凤鹛

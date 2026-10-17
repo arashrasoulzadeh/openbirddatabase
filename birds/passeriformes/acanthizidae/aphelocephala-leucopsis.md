@@ -12,7 +12,7 @@ names:
   es: Cariblanco Meridional
   fr: Acanthize blanchâtre
   de: Fahlrücken-Weißstirnchen
-  pt: southern whiteface
+  pt: ''
   ru: Белолицый арлекин
   ja: カオジロムシクイ
   zh: 白脸刺莺

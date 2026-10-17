@@ -6,14 +6,14 @@ iucn_status: LC
 taxon_order: 12526.0
 names:
   scientific: Nannopsittacus gulielmitertii
-  fa: nan
+  fa: ''
   en: Blue-fronted Fig Parrot
   es: Lorito Pechinaranja
   fr: Psittacule à poitrine orange
   de: Blaustirn-Zwergpapagei
   pt: blue-fronted fig-parrot
   ru: Чернощёкий фиговый попугайчик
-  zh: Blue-fronted Fig Parrot
+  zh: ''
   nl: Blauwvoorhoofdvijgpapegaai
   pl: figówka czarnolica
   tr: Mavi Alınlı İncir Papağanı

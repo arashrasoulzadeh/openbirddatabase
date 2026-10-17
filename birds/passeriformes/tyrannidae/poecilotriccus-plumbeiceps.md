@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16394.0
 names:
   scientific: Poecilotriccus plumbeiceps
-  fa: nan
+  fa: ''
   en: Ochre-faced Tody-Flycatcher
   es: Titirijí Cabecicanela
   fr: Todirostre gorgeret

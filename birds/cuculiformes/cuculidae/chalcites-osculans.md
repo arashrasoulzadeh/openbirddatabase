@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3316.0
 names:
   scientific: Chalcites osculans
-  fa: nan
+  fa: ''
   en: Black-eared Cuckoo
   es: Cuclillo Orejinegro
   fr: Coucou oreillard
   de: Schwarzohrkuckuck
-  pt: black-eared cuckoo
+  pt: ''
   ru: Черноухая кукушка
   ja: ミミグロカッコウ
   nl: Zwartoorkoekoek

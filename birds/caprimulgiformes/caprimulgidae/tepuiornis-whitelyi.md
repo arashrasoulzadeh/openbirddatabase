@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3536.0
 names:
   scientific: Tepuiornis whitelyi
-  fa: nan
+  fa: ''
   en: Roraiman Nightjar
   es: Chotacabras del Roraima
   fr: Engoulevent du Roraima

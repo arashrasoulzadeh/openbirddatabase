@@ -12,7 +12,7 @@ names:
   es: Batarito Coronipunteado
   fr: Batara ponctué
   de: Tüpfelkronen-Ameisenvogel
-  pt: spot-crowned antvireo
+  pt: ''
   ru: Жемчужношапочный батарито
   ja: シロボシアリモズモドキ
   zh: 斑点冠蚁鵙

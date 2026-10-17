@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17828.0
 names:
   scientific: Melidectes torquatus
-  fa: nan
+  fa: ''
   en: Ornate Melidectes
   es: Mielero Maquillado
   fr: Méliphage maquillé
   de: Zimtbrust-Honigfresser
-  pt: ornate melidectes
+  pt: ''
   ru: Украшенный медосос
   ja: ニクダレヤマミツスイ
   nl: Ornaathoningeter

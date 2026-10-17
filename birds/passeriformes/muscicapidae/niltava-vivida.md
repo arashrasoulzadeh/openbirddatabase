@@ -12,7 +12,7 @@ names:
   es: Papamoscas Vívido Chico
   fr: Gobemouche de Taïwan
   de: Taiwanblauschnäpper
-  pt: taiwan vivid niltava
+  pt: ''
   ru: Нильтава Свайна
   ja: チャバラオオルリ
   zh: 台湾蓝仙鹟

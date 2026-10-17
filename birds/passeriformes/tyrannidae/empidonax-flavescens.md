@@ -12,7 +12,7 @@ names:
   es: Mosquero Amarillento
   fr: Moucherolle jaunâtre
   de: Sumpfschnäppertyrann
-  pt: yellowish flycatcher
+  pt: ''
   ru: Желтоватый мухолов
   ja: キメジロハエトリ
   zh: 淡黃紋霸鶲

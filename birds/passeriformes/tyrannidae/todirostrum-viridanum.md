@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16439.0
 names:
   scientific: Todirostrum viridanum
-  fa: nan
+  fa: ''
   en: Maracaibo Tody-Flycatcher
   es: Titirijí de Maracaibo
   fr: Todirostre du Maracaïbo
   de: Kurzschwanz-Todityrann
-  pt: maracaibo tody-flycatcher
+  pt: ''
   ru: Короткохвостый тоди-мухолов
   ja: タンビハシナガタイランチョウ
   nl: Kortstaartschoffelsnavel

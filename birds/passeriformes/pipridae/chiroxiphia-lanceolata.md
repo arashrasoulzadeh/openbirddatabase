@@ -12,7 +12,7 @@ names:
   es: Saltarín Lanceolado
   fr: Manakin lancéolé
   de: Lanzettschwanzpipra
-  pt: lance-tailed manakin
+  pt: ''
   ru: Ланцетохвостый манакин
   ja: ハリオセアオマイコドリ
   nl: Lancetmanakin

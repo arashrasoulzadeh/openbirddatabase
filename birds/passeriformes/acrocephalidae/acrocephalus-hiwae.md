@@ -12,7 +12,7 @@ names:
   es: Carricero de Saipán
   fr: Rousserolle de Saipan
   de: Marianenrohrsänger
-  pt: saipan reed warbler
+  pt: ''
   ru: Сайпанская камышовка
   ja: サイパンヨシキリ
   zh: 塞班苇莺

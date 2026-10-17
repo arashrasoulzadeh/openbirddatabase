@@ -12,7 +12,7 @@ names:
   es: Picogordo Alimoteado
   fr: Gros-bec à ailes tachetées
   de: Fleckenkernbeißer
-  pt: spot-winged grosbeak
+  pt: ''
   ru: Пестрокрылый горный дубонос
   ja: キバラクロシメ
   zh: 白点翅拟蜡嘴雀

@@ -12,7 +12,7 @@ names:
   es: Drongo de Sharpe
   fr: Drongo de Sharpe
   de: Sharpedrongo
-  pt: sharpe's drongo
+  pt: ''
   ru: Центральноафриканский дронго
   zh: 夏氏方尾卷尾
   nl: Kleine drongo

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24909.0
 names:
   scientific: Phylloscopus burkii
-  fa: nan
+  fa: ''
   en: Green-crowned Warbler
   es: Mosquitero de Burke
   fr: Pouillot de Burke
   de: Goldbrillen-Laubsänger
-  pt: green-crowned warbler
+  pt: ''
   ru: Златоглазая очковая пеночка
   ja: マユグロモリムシクイ
   zh: 金眶鹟莺

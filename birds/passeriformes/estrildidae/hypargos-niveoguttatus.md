@@ -12,7 +12,7 @@ names:
   es: Estrilda Golirroja
   fr: Sénégali enflammé
   de: Tropfenastrild
-  pt: red-throated twinspot
+  pt: ''
   ru: Красногрудый жемчужник
   ja: アラレチョウ
   zh: 朱胸斑雀

@@ -12,7 +12,7 @@ names:
   es: Charlatán Ocelado
   fr: Garrulaxe ocellé
   de: Waldhäherling
-  pt: spotted laughingthrush
+  pt: ''
   ru: Глазчатая кустарница
   ja: シロボシガビチョウ
   zh: 眼纹噪鹛

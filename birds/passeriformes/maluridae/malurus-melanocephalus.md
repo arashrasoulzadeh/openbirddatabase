@@ -12,7 +12,7 @@ names:
   es: Maluro Dorsirrojo
   fr: Mérion à dos rouge
   de: Rotrücken-Staffelschwanz
-  pt: red-backed fairywren
+  pt: ''
   ru: Чёрно-красный малюр
   ja: セアカオーストラリアムシクイ
   zh: 红背细尾鹩莺

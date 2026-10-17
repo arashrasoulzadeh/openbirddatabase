@@ -12,7 +12,7 @@ names:
   es: Vireo de Cassin
   fr: Viréo de Cassin
   de: Cassinvireo
-  pt: cassin's vireo
+  pt: ''
   ru: Очковый виреон
   ja: ニシフタスジモズモドキ
   nl: Cassinvireo

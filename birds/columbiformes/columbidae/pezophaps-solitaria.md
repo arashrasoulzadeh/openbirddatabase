@@ -12,7 +12,7 @@ names:
   es: Solitario de Isla Rodrigues
   fr: Dronte de Rodrigues
   de: Rodriguesdodo
-  pt: rodrigues solitaire
+  pt: ''
   ru: Дронт-отшельник
   ja: ロドリゲスドードー
   zh: 羅德里格斯渡渡鳥

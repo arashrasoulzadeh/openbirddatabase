@@ -12,7 +12,7 @@ names:
   es: Prinia del Himalaya
   fr: Prinia crinigère
   de: Bergprinie
-  pt: himalayan prinia
+  pt: ''
   ru: Горная приния
   ja: ヒマラヤハウチワドリ
   zh: 喜山山鹪莺

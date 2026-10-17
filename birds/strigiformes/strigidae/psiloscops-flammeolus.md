@@ -12,7 +12,7 @@ names:
   es: Autillo Flamulado
   fr: Petit-duc nain
   de: Ponderosaeule
-  pt: flammulated owl
+  pt: ''
   ru: Сосновая совка
   ja: アメリカコノハズク
   nl: Ponderosa-uil

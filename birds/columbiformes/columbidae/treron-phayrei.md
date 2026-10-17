@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2498.0
 names:
   scientific: Treron phayrei
-  fa: nan
+  fa: ''
   en: Ashy-headed Green Pigeon
   es: Vinago del Himalaya
   fr: Colombar de Phayre

@@ -15,7 +15,7 @@ names:
   pt: rufous-backed robin
   ru: Рыжеспинный дрозд
   ja: メキシココマツグミ
-  zh: Rufous-backed Thrush
+  zh: ''
   nl: Roestruglijster
   pl: drozd rudogrzbiety
   tr: Meksika Ardıcı

@@ -12,7 +12,7 @@ names:
   es: Bisbita Andino
   fr: Pipit du paramo
   de: Paramopieper
-  pt: paramo pipit
+  pt: ''
   ru: Конёк парамо
   ja: アンデスタヒバリ
   nl: Paramopieper

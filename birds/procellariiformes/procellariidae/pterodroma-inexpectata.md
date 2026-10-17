@@ -12,7 +12,7 @@ names:
   es: Petrel Moteado
   fr: Pétrel maculé
   de: Regensturmvogel
-  pt: mottled petrel
+  pt: ''
   ru: Пёстрый тайфунник
   ja: マダラシロハラミズナギドリ
   zh: 鱗斑圓尾鸌

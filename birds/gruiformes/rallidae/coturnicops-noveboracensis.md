@@ -12,7 +12,7 @@ names:
   es: Polluela Amarillenta
   fr: Râle jaune
   de: Gelbralle
-  pt: yellow rail
+  pt: ''
   ru: Жёлтая курочка-малютка
   ja: アメリカシマクイナ
   zh: 北美花田鸡

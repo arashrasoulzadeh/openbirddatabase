@@ -12,7 +12,7 @@ names:
   es: Bandurrita de Arica
   fr: Upucerthie à gorge blanche
   de: Weißkehl-Erdhacker
-  pt: white-throated earthcreeper
+  pt: ''
   ru: Белогорлый норник
   ja: ノドジロカマハシカマドドリ
   nl: Witkeelaardkruiper

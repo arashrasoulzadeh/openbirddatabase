@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25731.0
 names:
   scientific: Zosterops atrifrons
-  fa: nan
+  fa: ''
   en: Black-crowned White-eye
   es: Anteojitos Frentinegro
   fr: Zostérops à front noir
   de: Sulabrillenvogel
-  pt: black-crowned white-eye
+  pt: ''
   ru: Золотогорлая белоглазка
   ja: クロビタイメジロ
   zh: 白額繡眼

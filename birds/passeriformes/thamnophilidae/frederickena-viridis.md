@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13457.0
 names:
   scientific: Frederickena viridis
-  fa: nan
+  fa: ''
   en: Black-throated Antshrike
   es: Batará Gorjinegro
   fr: Batara à gorge noire

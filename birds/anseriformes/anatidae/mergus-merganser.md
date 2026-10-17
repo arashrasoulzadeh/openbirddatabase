@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 762.0
 names:
   scientific: Mergus merganser
-  fa: nan
+  fa: ''
   en: Common Merganser
   es: Serreta Grande
   fr: Grand Harle

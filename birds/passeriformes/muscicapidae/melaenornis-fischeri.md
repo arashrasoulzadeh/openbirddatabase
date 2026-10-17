@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28929.0
 names:
   scientific: Melaenornis fischeri
-  fa: nan
+  fa: ''
   en: White-eyed Slaty Flycatcher
   es: Papamoscas de Fischer
   fr: Gobemouche de Fischer
@@ -15,7 +15,7 @@ names:
   pt: white-eyed slaty-flycatcher
   ru: Мухоловка-белоглазка
   ja: メジロハイビタキ
-  zh: White-eyed Slaty Flycatcher
+  zh: ''
   nl: Bergdrongovliegenvanger
   pl: mucharka białooka
   tr: Gözlüklü Drongo Sinekkapanı

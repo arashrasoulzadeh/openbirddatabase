@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25287.0
 names:
   scientific: Curruca nisoria
-  fa: nan
+  fa: ''
   en: Barred Warbler
   es: Curruca Gavilana
   fr: Fauvette épervière

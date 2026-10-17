@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz de Choiseul
   fr: Microgoura de Choiseul
   de: Salomonentaube
-  pt: choiseul pigeon
+  pt: ''
   ru: Шуазёльский голубь
   ja: カンザシバト
   zh: 索羅門冕鴿

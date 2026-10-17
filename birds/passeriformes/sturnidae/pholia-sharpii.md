@@ -12,7 +12,7 @@ names:
   es: Estornino de Sharpe
   fr: Choucador de Sharpe
   de: Rostbauchstar
-  pt: sharpe's starling
+  pt: ''
   ru: Ласточковый скворец
   ja: ムナジロムクドリ
   nl: Sharpespreeuw

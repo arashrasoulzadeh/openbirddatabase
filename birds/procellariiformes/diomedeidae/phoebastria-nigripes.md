@@ -12,7 +12,7 @@ names:
   es: Albatros Patinegro
   fr: Albatros à pieds noirs
   de: Schwarzfußalbatros
-  pt: black-footed albatross
+  pt: ''
   ru: Черноногий альбатрос
   ja: クロアシアホウドリ
   zh: 黑脚信天翁

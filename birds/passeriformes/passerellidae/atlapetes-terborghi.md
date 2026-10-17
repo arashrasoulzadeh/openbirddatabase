@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33510.0
 names:
   scientific: Atlapetes terborghi
-  fa: nan
+  fa: ''
   en: Vilcabamba Brushfinch
   es: Atlapetes de Vilcabamba
   fr: Tohi de Terborgh
   de: Vilcabambabuschammer
-  pt: vilcabamba brushfinch
+  pt: ''
   ru: Вилькабамбская атлапета
   ja: ビルカバンバヤブシトド
   nl: Vilcabambastruikgors

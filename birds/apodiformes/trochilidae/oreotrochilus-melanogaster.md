@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4492.0
 names:
   scientific: Oreotrochilus melanogaster
-  fa: nan
+  fa: ''
   en: Black-breasted Hillstar
   es: Colibrí Pechinegro
   fr: Colibri à plastron noir
   de: Schwarzbrustkolibri
-  pt: black-breasted hillstar
+  pt: ''
   ru: Черногрудая ореада
   ja: ムナグロヤマハチドリ
   zh: 黑胸山蜂鸟

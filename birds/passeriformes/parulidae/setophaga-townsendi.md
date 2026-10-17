@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34206.0
 names:
   scientific: Setophaga townsendi
-  fa: nan
+  fa: ''
   en: Townsend's Warbler
   es: Reinita de Townsend
   fr: Paruline de Townsend
   de: Townsendwaldsänger
-  pt: townsend's warbler
+  pt: ''
   ru: Желтобровая древесница
   ja: タウンゼンドアメリカムシクイ
   zh: 黃眉林鶯

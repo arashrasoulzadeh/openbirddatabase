@@ -12,7 +12,7 @@ names:
   es: Cerquero Dorsiverde
   fr: Tohi à dos vert
   de: Grünrückenammer
-  pt: green-backed sparrow
+  pt: ''
   ru: Зеленоспинный тохи
   ja: ミドリオリーブシトド
   nl: Groenruggors

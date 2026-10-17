@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 956.0
 names:
   scientific: Ortalis motmot
-  fa: nan
+  fa: ''
   en: Little Chachalaca
   es: Chachalaca Guayanesa
   fr: Ortalide motmot
@@ -15,7 +15,7 @@ names:
   pt: aracuã-pequeno
   ru: Малая чачалака
   ja: カワリヒメシャクケイ
-  zh: Little Chachalaca
+  zh: ''
   nl: Kleine chachalaca
   pl: czakalaka rdzawa
   tr: Kuzeyli Küçük Çaçakala

@@ -12,7 +12,7 @@ names:
   es: Picogordo Japonés
   fr: Gros-bec masqué
   de: Maskenkernbeißer
-  pt: japanese grosbeak
+  pt: ''
   ru: Большой черноголовый дубонос
   ja: イカル
   zh: 黑头蜡嘴雀

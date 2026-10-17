@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15166.0
 names:
   scientific: Syndactyla subalaris
-  fa: nan
+  fa: ''
   en: Lineated Foliage-gleaner
   es: Ticotico Rayado
   fr: Anabate vergeté
   de: Streifenblattspäher
-  pt: lineated foliage-gleaner
+  pt: ''
   ru: Исчерченный сростнопал
   ja: キスジカマドドリ
   nl: Gestreepte bladspeurder

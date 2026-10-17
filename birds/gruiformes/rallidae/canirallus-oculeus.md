@@ -15,7 +15,7 @@ names:
   pt: gray-throated rail
   ru: Серогорлая лесная курочка
   ja: アフリカクイナ
-  zh: Grey-throated Rail
+  zh: ''
   nl: Grijskeelral
   pl: wodnik szarogardły
   tr: Boz Alınlı Yelve

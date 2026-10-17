@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Banyumas
   fr: Gobemouche des collines
   de: Bergblauschnäpper
-  pt: javan blue flycatcher
+  pt: ''
   ru: Горная голубая мухоловка-циорнис
   ja: ジャワヒメアオヒタキ
   zh: 山蓝仙鹟

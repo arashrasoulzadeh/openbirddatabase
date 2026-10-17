@@ -12,7 +12,7 @@ names:
   es: Chotacabras Sencillo
   fr: Engoulevent terne
   de: Marmornachtschwalbe
-  pt: plain nightjar
+  pt: ''
   ru: Мраморный козодой
   ja: ムジヨタカ
   zh: 纯色夜鹰

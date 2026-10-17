@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11837.0
 names:
   scientific: Piculus leucolaemus
-  fa: nan
+  fa: ''
   en: White-throated Woodpecker
   es: Carpintero Gorjiblanco
   fr: Pic à gorge blanche

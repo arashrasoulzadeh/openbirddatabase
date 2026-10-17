@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24682.0
 names:
   scientific: Pycnonotus pseudosimplex
-  fa: nan
+  fa: ''
   en: Cream-eyed Bulbul
   es: Bulbul Ojicremoso
   fr: Bulbul aux yeux crème
   de: Cremeaugenbülbül
-  pt: cream-eyed bulbul
+  pt: ''
   ru: Борнейский бюльбюль
   nl: Crèmeoogbuulbuul
   pl: bilbil jasnooki

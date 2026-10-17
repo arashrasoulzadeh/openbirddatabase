@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23845.0
 names:
   scientific: Locustella seebohmi
-  fa: nan
+  fa: ''
   en: Benguet Bush Warbler
   es: Zarzalero de Seebohm
   fr: Locustelle de Seebohm
   de: Luzonschwirl
-  pt: benguet bush warbler
+  pt: ''
   ru: Лусонская пестрогрудка
   ja: ベンゲットオオセkカ
   zh: 高山短翅莺

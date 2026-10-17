@@ -12,7 +12,7 @@ names:
   es: Oruguero Blanquinegro
   fr: Échenilleur noir et blanc
   de: Luzonraupenfänger
-  pt: black-and-white triller
+  pt: ''
   ru: Чёрно-белый личинкоед-свистун
   ja: オニナキサンショウクイ
   zh: 黑白鳴鵑鵙

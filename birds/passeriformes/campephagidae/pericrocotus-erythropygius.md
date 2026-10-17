@@ -12,7 +12,7 @@ names:
   es: Minivet Ventriblanco
   fr: Minivet à ventre blanc
   de: Weißbauch-Mennigvogel
-  pt: white-bellied minivet
+  pt: ''
   ru: Белобрюхий личинкоед
   ja: シロハラサンショウクイ
   zh: 白腹山椒鸟

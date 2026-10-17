@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12874.0
 names:
   scientific: Pionus sordidus
-  fa: nan
+  fa: ''
   en: Red-billed Parrot
   es: Loro Piquirrojo
   fr: Pione à bec rouge
   de: Dunenkopfpapagei
-  pt: red-billed parrot
+  pt: ''
   ru: Красноклювый амазонет
   ja: ヨゴレインコ
   nl: Roodsnavelmargrietje

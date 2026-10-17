@@ -12,7 +12,7 @@ names:
   es: Andarrios de Kiritimati
   fr: Bécasseau de Kiritimati
   de: Kiritimati-Südseeläufer
-  pt: kiritimati sandpiper
+  pt: ''
   ru: Южный атолльник
   ja: クリスマスシギ
   zh: 圣诞岛矶鹬

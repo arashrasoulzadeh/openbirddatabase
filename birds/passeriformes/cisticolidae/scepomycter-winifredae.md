@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 23340.0
 names:
   scientific: Scepomycter winifredae
-  fa: nan
+  fa: ''
   en: Winifred's Warbler
   es: Prinia de Winifred
   fr: Bathmocerque de Winifred

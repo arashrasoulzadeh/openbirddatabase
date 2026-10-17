@@ -15,7 +15,7 @@ names:
   pt: somali grosbeak
   ru: Сомалийский вьюрок
   ja: ソマリアシメ
-  zh: Somali Golden-winged Grosbeak
+  zh: ''
   nl: Somalische goudvleugelvink
   pl: złotopiórek somalijski
   tr: Somali Kocabaşı

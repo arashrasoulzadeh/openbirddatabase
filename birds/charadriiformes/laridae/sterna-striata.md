@@ -12,7 +12,7 @@ names:
   es: Charrán Maorí
   fr: Sterne tara
   de: Weißstirn-Seeschwalbe
-  pt: white-fronted tern
+  pt: ''
   ru: Белолобая крачка
   ja: シロビタイアジサシ
   nl: Tarastern

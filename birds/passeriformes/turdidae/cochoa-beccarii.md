@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28247.0
 names:
   scientific: Cochoa beccarii
-  fa: nan
+  fa: ''
   en: Sumatran Cochoa
   es: Cochoa de Sumatra
   fr: Cochoa de Sumatra
   de: Sumatraschnäpperdrossel
-  pt: sumatran cochoa
+  pt: ''
   ru: Суматранская кохоа
   ja: スマトラミヤマツグミ
   nl: Sumatraanse cochoa

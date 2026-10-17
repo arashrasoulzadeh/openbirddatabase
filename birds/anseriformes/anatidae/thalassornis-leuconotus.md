@@ -12,7 +12,7 @@ names:
   es: Pato Dorsiblanco
   fr: Dendrocygne à dos blanc
   de: Weißrücken-Pfeifgans
-  pt: white-backed duck
+  pt: ''
   ru: Белоспинная утка
   ja: コシジロガモ
   zh: 白背鸭

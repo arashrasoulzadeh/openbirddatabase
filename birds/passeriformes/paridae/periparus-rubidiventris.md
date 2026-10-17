@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21979.0
 names:
   scientific: Periparus rubidiventris
-  fa: nan
+  fa: ''
   en: Rufous-vented Tit
   es: Carbonero Culirrufo
   fr: Mésange cul-roux
   de: Rotbrustmeise
-  pt: rufous-vented tit
+  pt: ''
   ru: Рододендровая синица
   ja: カンムリシジュウガラ
   zh: 黑冠山雀

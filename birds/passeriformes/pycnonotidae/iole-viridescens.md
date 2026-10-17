@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24495.0
 names:
   scientific: Iole viridescens
-  fa: nan
+  fa: ''
   en: Olive Bulbul
   es: Bulbul Verdoso
   fr: Bulbul olive
   de: Olivbülbül
-  pt: olive bulbul
+  pt: ''
   ru: Бирманский восточный бюльбюль
   ja: オリーブヒヨドリ
   zh: 橄綠短腳鵯

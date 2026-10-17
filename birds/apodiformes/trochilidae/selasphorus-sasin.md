@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4831.0
 names:
   scientific: Selasphorus sasin
-  fa: nan
+  fa: ''
   en: Allen's Hummingbird
   es: Colibrí de Allen
   fr: Colibri d'Allen
   de: Grünrücken-Zimtelfe
-  pt: allen's hummingbird
+  pt: ''
   ru: Алленов колибри
   ja: アレンハチドリ
   zh: 艾氏煌蜂鸟

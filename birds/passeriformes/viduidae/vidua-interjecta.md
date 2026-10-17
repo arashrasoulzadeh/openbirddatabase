@@ -15,7 +15,7 @@ names:
   pt: exclamatory paradise-whydah
   ru: Гвинейская райская вдовушка
   ja: オナガホウオウジャク
-  zh: Exclamatory Paradise Whydah
+  zh: ''
   nl: Langstaartparadijswida
   pl: wdówka długosterna
   tr: Vurgulu Cennet Vidyası

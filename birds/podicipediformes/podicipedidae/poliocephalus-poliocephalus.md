@@ -12,7 +12,7 @@ names:
   es: Zampullín Canoso
   fr: Grèbe argenté
   de: Haarschopftaucher
-  pt: hoary-headed grebe
+  pt: ''
   ru: Седоголовая поганка
   ja: シラガカイツブリ
   zh: 灰头䴙䴘

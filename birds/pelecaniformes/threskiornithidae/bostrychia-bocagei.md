@@ -12,7 +12,7 @@ names:
   es: Ibis Enano
   fr: Ibis de Sao Tomé
   de: São-Tomé-Ibis
-  pt: sao tome ibis
+  pt: ''
   ru: Сантомейский ибис
   ja: コオリーブトキ
   zh: 侏橄欖綠䴉

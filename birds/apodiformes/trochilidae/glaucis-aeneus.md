@@ -12,7 +12,7 @@ names:
   es: Ermitaño Bronceado
   fr: Ermite bronzé
   de: Kupferschattenkolibri
-  pt: bronzy hermit
+  pt: ''
   ru: Бронзовый колибри-отшельник
   ja: ブロンズハチドリ
   zh: 銅色蜂鳥

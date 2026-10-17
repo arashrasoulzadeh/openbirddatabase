@@ -12,7 +12,7 @@ names:
   es: Suimanga de Bates
   fr: Souimanga de Bates
   de: Einfarb-Nektarvogel
-  pt: bates's sunbird
+  pt: ''
   ru: Одноцветная нектарница
   ja: ヒメオリーブタイヨウチョウ
   nl: Bateshoningzuiger

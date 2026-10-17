@@ -12,7 +12,7 @@ names:
   es: Batará Crestibarrado
   fr: Batara de Lafresnaye
   de: Streifenameisenwürger
-  pt: bar-crested antshrike
+  pt: ''
   ru: Пестрохохлый колючник
   ja: コロンビアシマアリモズ
   zh: 斑冠蚁鵙

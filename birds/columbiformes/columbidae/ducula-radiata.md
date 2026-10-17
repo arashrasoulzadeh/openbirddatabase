@@ -15,7 +15,7 @@ names:
   pt: gray-headed imperial-pigeon
   ru: Сероголовый плодовый голубь
   ja: ハイガシラオビオバト
-  zh: Grey-headed Imperial Pigeon
+  zh: ''
   nl: Kleine muskaatduif
   pl: muszkatela spiżowa
   tr: Gri Başlı Has Güvercin

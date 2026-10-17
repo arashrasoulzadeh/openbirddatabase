@@ -12,7 +12,7 @@ names:
   es: Abanico Rojizo
   fr: Rhipidure roux
   de: Fuchsfächerschwanz
-  pt: australian rufous fantail
+  pt: ''
   ru: Краснолобая веерохвостка
   ja: オウギビタキ
   zh: 棕额扇尾鹟

@@ -12,7 +12,7 @@ names:
   es: Gaviota Plateada Sudafricana
   fr: Mouette de Hartlaub
   de: Hartlaubmöwe
-  pt: hartlaub's gull
+  pt: ''
   ru: Капская чайка
   ja: アフリカギンカモメ
   nl: Hartlaubmeeuw

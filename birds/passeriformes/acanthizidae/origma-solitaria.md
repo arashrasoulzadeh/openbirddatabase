@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18305.0
 names:
   scientific: Origma solitaria
-  fa: nan
+  fa: ''
   en: Rockwarbler
   es: Acantiza Minera
   fr: Séricorne des rochers
   de: Steinhuscher
-  pt: rockwarbler
+  pt: ''
   ru: Оригма
   ja: イワムシクイ
   nl: Rotsstruiksluiper

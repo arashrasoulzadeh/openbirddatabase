@@ -12,7 +12,7 @@ names:
   es: Obispo de Zanzíbar
   fr: Euplecte de Zanzibar
   de: Brandweber
-  pt: zanzibar red bishop
+  pt: ''
   ru: Чернобрюхий ткачик
   ja: ムナグロキンランチョウ
   nl: Zwartbuikwever

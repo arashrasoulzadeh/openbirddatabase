@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 7060.0
 names:
   scientific: Hydrobates cheimomnestes
-  fa: nan
+  fa: ''
   en: Ainley's Storm Petrel
   es: Paíño de Ainley
   fr: Océanite d'Ainley
@@ -15,7 +15,7 @@ names:
   pt: ainley's storm-petrel
   ru: Зимняя качурка
   ja: エインリーウミツバメ
-  zh: Ainley's Storm Petrel
+  zh: ''
   nl: Ainleystormvogeltje
   pl: nawałnik zimowy
   tr: Ainley Fırtınakırlangıcı

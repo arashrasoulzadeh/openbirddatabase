@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28934.0
 names:
   scientific: Melaenornis brunneus
-  fa: nan
+  fa: ''
   en: Angola Slaty Flycatcher
   es: Papamoscas Angoleño
   fr: Gobemouche d'Angola
@@ -15,7 +15,7 @@ names:
   pt: angola slaty-flycatcher
   ru: Ангольская мухоловка
   ja: アンゴラヒタキ
-  zh: Angola Slaty Flycatcher
+  zh: ''
   nl: Angolese drongovliegenvanger
   pl: mucharka angolska
   tr: Kesmeli Drongo Sinekkapanı

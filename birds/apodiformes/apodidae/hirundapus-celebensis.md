@@ -12,7 +12,7 @@ names:
   es: Vencejo de Célebes
   fr: Martinet des Célèbes
   de: Purpursegler
-  pt: purple needletail
+  pt: ''
   ru: Пурпурный колючехвост
   ja: セレベスハリオアマツバメ
   zh: 紫针尾雨燕

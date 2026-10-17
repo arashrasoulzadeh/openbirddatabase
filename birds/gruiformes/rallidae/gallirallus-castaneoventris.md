@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5357.0
 names:
   scientific: Gallirallus castaneoventris
-  fa: nan
+  fa: ''
   en: Chestnut Rail
   es: Cotara Australiana
   fr: Râle à ventre roux
   de: Kastanienbauchralle
-  pt: chestnut rail
+  pt: ''
   ru: Мангровый погоныш
   ja: マングローブクイナ
   zh: 栗腹秧雞

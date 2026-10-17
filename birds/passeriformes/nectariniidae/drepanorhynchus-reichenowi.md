@@ -12,7 +12,7 @@ names:
   es: Suimanga Alidorado
   fr: Souimanga à ailes dorées
   de: Goldschwingen-Nektarvogel
-  pt: golden-winged sunbird
+  pt: ''
   ru: Золотокрылая нектарница
   ja: キンバネオナガタイヨウチョウ
   zh: 金翅花蜜鸟

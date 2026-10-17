@@ -15,7 +15,7 @@ names:
   pt: okarito brown kiwi
   ru: Окаритский киви
   ja: オカリトキーウィ
-  zh: Okarito Kiwi
+  zh: ''
   nl: Rowi
   pl: kiwi szary
   tr: Okarito Kivisi

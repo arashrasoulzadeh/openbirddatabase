@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11592.0
 names:
   scientific: Meiglyptes grammithorax
-  fa: nan
+  fa: ''
   en: Buff-rumped Woodpecker
   es: Pito Barrado
   fr: Pic à croupion fauve
   de: Malaienwellenspecht
-  pt: buff-rumped woodpecker
+  pt: ''
   ru: Рябой дятел
   ja: ヒメカレハゲラ
   zh: 黃腰啄木鳥

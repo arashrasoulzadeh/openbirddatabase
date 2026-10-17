@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23622.0
 names:
   scientific: Nesillas lantzii
-  fa: nan
+  fa: ''
   en: Subdesert Brush Warbler
   es: Zarzalero de Lantz
   fr: Nésille de Lantz
@@ -15,7 +15,7 @@ names:
   pt: subdesert brush-warbler
   ru: Южный рогозник
   ja: ハンサバクシマヨシキリ
-  zh: Subdesert Brush Warbler
+  zh: ''
   nl: Lantzzanger
   pl: chaszczak piaskowy
   tr: Çölaltı Çalı Ötleğeni

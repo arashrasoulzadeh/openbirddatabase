@@ -15,7 +15,7 @@ names:
   pt: brown-capped rosy-finch
   ru: Бурошапочный вьюрок
   ja: チャボウシハギマシコ
-  zh: Brown-capped Rosy Finch
+  zh: ''
   nl: Bruinkopbergvink
   pl: góralka różowa
   tr: Boz Başlı Alamecek

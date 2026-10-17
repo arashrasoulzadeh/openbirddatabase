@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16663.0
 names:
   scientific: Myiopagis cinerea
-  fa: nan
+  fa: ''
   en: Amazonian Elaenia
   es: Fiofío Gris Amazónico
   fr: Élénie grise

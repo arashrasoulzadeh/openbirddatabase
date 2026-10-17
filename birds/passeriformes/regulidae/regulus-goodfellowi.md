@@ -12,7 +12,7 @@ names:
   es: Reyezuelo de Formosa
   fr: Roitelet de Taïwan
   de: Taiwangoldhähnchen
-  pt: flamecrest
+  pt: ''
   ru: Тайваньский королёк
   ja: ニイタカキクイタダキ
   zh: 台湾戴菊

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26467.0
 names:
   scientific: Trochalopteron milnei
-  fa: nan
+  fa: ''
   en: Red-tailed Laughingthrush
   es: Charlatán Colirrojo
   fr: Garrulaxe à queue rouge
   de: Rotschwanzhäherling
-  pt: red-tailed laughingthrush
+  pt: ''
   ru: Краснохвостая кустарница
   ja: アカオガビチョウ
   zh: 赤尾噪鹛

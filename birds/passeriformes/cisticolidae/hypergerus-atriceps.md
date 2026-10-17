@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23352.0
 names:
   scientific: Hypergerus atriceps
-  fa: nan
+  fa: ''
   en: Oriole Warbler
   es: Prinia Oropéndola
   fr: Noircap loriot
   de: Pirolsänger
-  pt: oriole warbler
+  pt: ''
   ru: Иволговый седоголов
   ja: キンイロオオムシクイ
   nl: Wielewaalzanger

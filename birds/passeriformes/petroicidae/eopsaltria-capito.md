@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21868.0
 names:
   scientific: Eopsaltria capito
-  fa: nan
+  fa: ''
   en: Pale-yellow Robin
   es: Petroica Amarillenta
   fr: Miro jaunâtre
   de: Graugesichtschnäpper
-  pt: pale-yellow robin
+  pt: ''
   ru: Большеголовая дриада
   ja: キアシヒタキ
   nl: Bleekgele vliegenvanger

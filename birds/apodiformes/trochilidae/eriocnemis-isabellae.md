@@ -12,7 +12,7 @@ names:
   es: Calzadito del Pinche
   fr: Érione d'Isabella
   de: Schmuckkehl-Höschenkolibri
-  pt: gorgeted puffleg
+  pt: ''
   ru: Синехвостый эрион
   ja: エリマキアシハチドリ
   zh: 飾領蓬腿蜂鳥

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12795.0
 names:
   scientific: Touit huetii
-  fa: nan
+  fa: ''
   en: Scarlet-shouldered Parrotlet
   es: Cotorrita Alirroja
   fr: Toui de Huet

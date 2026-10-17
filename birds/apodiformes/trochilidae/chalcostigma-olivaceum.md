@@ -12,7 +12,7 @@ names:
   es: Colibrí Oliváceo
   fr: Métallure olivâtre
   de: Braunglanzschwänzchen
-  pt: olivaceous thornbill
+  pt: ''
   ru: Оливковый радужник
   ja: オリーブコバシハチドリ
   zh: 绿尖嘴蜂鸟

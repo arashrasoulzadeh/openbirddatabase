@@ -12,7 +12,7 @@ names:
   es: Picoloro Unicolor
   fr: Paradoxornis unicolore
   de: Einfarb-Papageimeise
-  pt: brown parrotbill
+  pt: ''
   ru: Одноцветная сутора
   ja: ヒマラヤダルマエナガ
   zh: 褐鸦雀

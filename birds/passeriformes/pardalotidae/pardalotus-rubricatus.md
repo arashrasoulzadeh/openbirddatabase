@@ -12,7 +12,7 @@ names:
   es: Pardalote Cejirrojo
   fr: Pardalote à sourcils rouges
   de: Rotbrauen-Panthervogel
-  pt: red-browed pardalote
+  pt: ''
   ru: Краснобровый радужник
   ja: アカマユホウセキドリ
   zh: 红眉食蜜鸟

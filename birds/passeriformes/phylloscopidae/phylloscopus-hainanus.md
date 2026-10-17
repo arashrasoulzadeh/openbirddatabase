@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 24992.0
 names:
   scientific: Phylloscopus hainanus
-  fa: nan
+  fa: ''
   en: Hainan Leaf Warbler
   es: Mosquitero de Hainán
   fr: Pouillot de Hainan
   de: Hainanlaubsänger
-  pt: hainan leaf warbler
+  pt: ''
   ru: Хайнаньская пеночка
   ja: ハイナンムシクイ
   zh: 海南柳莺

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 15358.0
 names:
   scientific: Phacellodomus dorsalis
-  fa: nan
+  fa: ''
   en: Chestnut-backed Thornbird
   es: Espinero Dorsicastaño
   fr: Synallaxe à dos marron
   de: Graunacken-Bündelnister
-  pt: chestnut-backed thornbird
+  pt: ''
   ru: Мараньонский эспинеро
   ja: ハシナガアレチカマドドリ
   nl: Roodrugstekelkruin

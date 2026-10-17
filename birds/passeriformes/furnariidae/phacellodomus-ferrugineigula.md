@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15363.0
 names:
   scientific: Phacellodomus ferrugineigula
-  fa: nan
+  fa: ''
   en: Orange-breasted Thornbird
   es: Espinero Pechicanelo
   fr: Synallaxe à gorge rousse

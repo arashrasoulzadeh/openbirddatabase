@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10619.0
 names:
   scientific: Buccanodon duchaillui
-  fa: nan
+  fa: ''
   en: Yellow-spotted Barbet
   es: Barbudo Pintado
   fr: Barbican à taches jaunes
   de: Gelbfleck-Bartvogel
-  pt: yellow-spotted barbet
+  pt: ''
   ru: Пятнистая либия
   ja: キミミヒメゴシキドリ
   nl: Geelvlekbaardvogel

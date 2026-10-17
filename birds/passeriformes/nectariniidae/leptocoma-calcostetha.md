@@ -12,7 +12,7 @@ names:
   es: Suimanga de Macklot
   fr: Souimanga de Macklot
   de: Kupferkehl-Nektarvogel
-  pt: copper-throated sunbird
+  pt: ''
   ru: Медногрудая нектарница
   ja: ノドアカタイヨウチョウ
   zh: 銅喉花蜜鳥

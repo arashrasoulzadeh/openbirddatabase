@@ -12,7 +12,7 @@ names:
   es: Calzadito Verdoso Sureño
   fr: Érione à pattes rousses
   de: Fahlschenkel-Höschenkolibri
-  pt: buff-thighed puffleg
+  pt: ''
   ru: Бледноногий эрион
   ja: キモモアシゲハチドリ
   zh: 黄腿蓬腿蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14269.0
 names:
   scientific: Grallaria centralis
-  fa: nan
+  fa: ''
   en: Oxapampa Antpitta
   es: Tororoí de Oxapampa
   fr: Grallaire d'Oxapampa
   de: Oxapampa-Ameisenpitta
-  pt: oxapampa antpitta
+  pt: ''
   ja: オクサパンパジアリドリ
   nl: Oxapampamierpitta
   pl: kusaczka żółtobrzucha

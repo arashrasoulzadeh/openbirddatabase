@@ -12,7 +12,7 @@ names:
   es: Petroica de Isla Sur
   fr: Miro rubisole
   de: Südinselschnäpper
-  pt: south island robin
+  pt: ''
   ru: Южная петроика
   ja: ミナミニュージーランドコマヒタキ
   zh: 南岛鸲鹟

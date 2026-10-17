@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14959.0
 names:
   scientific: Lepidocolaptes falcinellus
-  fa: nan
+  fa: ''
   en: Scalloped Woodcreeper
   es: Trepatroncos Festoneado
   fr: Grimpar festonné

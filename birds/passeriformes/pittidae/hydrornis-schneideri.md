@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13365.0
 names:
   scientific: Hydrornis schneideri
-  fa: nan
+  fa: ''
   en: Schneider's Pitta
   es: Pita de Schneider
   fr: Brève de Schneider
   de: Schneiderpitta
-  pt: schneider's pitta
+  pt: ''
   ru: Рыжеголовая питта
   ja: キタスマトラヤイロチョウ
   zh: 施氏八色鶇

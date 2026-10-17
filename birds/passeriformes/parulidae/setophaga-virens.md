@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34218.0
 names:
   scientific: Setophaga virens
-  fa: nan
+  fa: ''
   en: Black-throated Green Warbler
   es: Reinita Dorsiverde
   fr: Paruline à gorge noire

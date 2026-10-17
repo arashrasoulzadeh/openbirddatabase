@@ -12,7 +12,7 @@ names:
   es: Zorzal de Ward
   fr: Grive de Ward
   de: Elsterdrossel
-  pt: pied thrush
+  pt: ''
   ru: Пегий дрозд
   ja: シロクロジツグミ
   zh: 杂色地鸫

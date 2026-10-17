@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 29582.0
 names:
   scientific: Ficedula bonthaina
-  fa: nan
+  fa: ''
   en: Lompobattang Flycatcher
   es: Papamoscas del Lompobattang
   fr: Gobemouche du Lompobattang
   de: Bonthainschnäpper
-  pt: lompobattang flycatcher
+  pt: ''
   ru: Макасарская мухоловка
   ja: セレベスヤマヒタキ
   nl: Bonthainvliegenvanger

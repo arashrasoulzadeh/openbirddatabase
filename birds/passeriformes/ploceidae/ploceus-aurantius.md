@@ -12,7 +12,7 @@ names:
   es: Tejedor Anaranjado
   fr: Tisserin orangé
   de: Königsweber
-  pt: orange weaver
+  pt: ''
   ru: Королевский ткач
   ja: オレンジハタオリ
   nl: Koningswever

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24608.0
 names:
   scientific: Hypsipetes parvirostris
-  fa: nan
+  fa: ''
   en: Grande Comore Bulbul
   es: Bulbul de Gran Comora
   fr: Bulbul des Comores
   de: Komoren-Rotschnabelbülbül
-  pt: grande comore bulbul
+  pt: ''
   ru: Коморский бюльбюль
   ja: コモロクロヒヨドリ
   nl: Grande-Comorebuulbuul

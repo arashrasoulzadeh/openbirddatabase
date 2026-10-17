@@ -12,7 +12,7 @@ names:
   es: Zanate Canadiense
   fr: Quiscale rouilleux
   de: Roststärling
-  pt: rusty blackbird
+  pt: ''
   ru: Ржавчатый трупиал
   ja: クロムクドリモドキ
   zh: 鏽色黑鸝

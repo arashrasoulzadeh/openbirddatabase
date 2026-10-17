@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13092.0
 names:
   scientific: Eupsittula nana
-  fa: nan
+  fa: ''
   en: Olive-throated Parakeet
   es: Aratinga Jamaicana
   fr: Conure naine
   de: Jamaikasittich
-  pt: olive-throated parakeet
+  pt: ''
   ru: Ямайская аратинга
   ja: ジャマイカインコ
   nl: Olijfkeelaratinga

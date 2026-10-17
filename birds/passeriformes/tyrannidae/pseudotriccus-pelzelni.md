@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16281.0
 names:
   scientific: Pseudotriccus pelzelni
-  fa: nan
+  fa: ''
   en: Bronze-olive Pygmy Tyrant
   es: Tiranuelo Bronceado
   fr: Tyranneau bronzé
@@ -15,7 +15,7 @@ names:
   pt: bronze-olive pygmy-tyrant
   ru: Бронзовый каполего
   ja: コバシハエトリモドキ
-  zh: Bronze-olive Pygmy Tyrant
+  zh: ''
   nl: Bronzen dwergtiran
   pl: tyranulek brunatny
   tr: Bronz Küçük Tiran

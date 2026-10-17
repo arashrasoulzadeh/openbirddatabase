@@ -12,7 +12,7 @@ names:
   es: Esmeralda Bronceada
   fr: Émeraude cuivrée
   de: Bronzeschwanz-Smaragdkolibri
-  pt: coppery emerald
+  pt: ''
   ru: Бронзовохвостый изумруд
   ja: ドウイロヒメエメラルドハチドリ
   zh: 铜色翠蜂鸟

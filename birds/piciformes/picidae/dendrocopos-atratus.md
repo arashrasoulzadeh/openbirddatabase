@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11330.0
 names:
   scientific: Dendrocopos atratus
-  fa: nan
+  fa: ''
   en: Stripe-breasted Woodpecker
   es: Pico Estriado
   fr: Pic à poitrine rayée
   de: Streifenbrustspecht
-  pt: stripe-breasted woodpecker
+  pt: ''
   ru: Пестрогрудый дятел
   ja: ムナフアカゲラ
   zh: 纹胸啄木鸟

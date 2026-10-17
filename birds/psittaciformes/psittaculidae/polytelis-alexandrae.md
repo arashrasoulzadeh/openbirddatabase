@@ -12,7 +12,7 @@ names:
   es: Perico Princesa
   fr: Perruche d'Alexandra
   de: Alexandrasittich
-  pt: princess parrot
+  pt: ''
   ru: Розовогорлый попугай
   ja: テンニョインコ
   zh: 公主鸚鵡

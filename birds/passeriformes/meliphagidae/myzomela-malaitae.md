@@ -15,7 +15,7 @@ names:
   pt: red-bellied myzomela
   ru: Малаитская медовка
   ja: マライタミツスイ
-  zh: Red-vested Myzomela
+  zh: ''
   nl: Malaitadwerghoningeter
   pl: miodówka czerwonobrzucha
   tr: Malaita Mizomelası

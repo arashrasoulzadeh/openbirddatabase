@@ -12,7 +12,7 @@ names:
   es: Cotinga Azul
   fr: Cotinga bleu
   de: Prachtkotinga
-  pt: blue cotinga
+  pt: ''
   ru: Синяя котинга
   ja: ルリカザリドリ
   nl: Zwartbuikcotinga

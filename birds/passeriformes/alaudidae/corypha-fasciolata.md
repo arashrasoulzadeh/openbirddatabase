@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22546.0
 names:
   scientific: Corypha fasciolata
-  fa: nan
+  fa: ''
   en: Eastern Clapper Lark
   es: Alondra Aplaudidora Oriental
   fr: Alouette fasciée
   de: Ostklapperlerche
-  pt: eastern clapper lark
+  pt: ''
   ru: Ботсванский жаворонок
   ja: ヒガシハイイロヤブヒバリ
   nl: Oostelijke klapperleeuwerik

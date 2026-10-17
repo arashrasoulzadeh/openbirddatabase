@@ -15,7 +15,7 @@ names:
   pt: moseley's rockhopper penguin
   ru: Косматый пингвин
   ja: キタイワトビペンギン
-  zh: Northern Rockhopper Penguin
+  zh: ''
   nl: Noordelijke rotspinguïn
   pl: pingwin długoczuby
   tr: Büyük Zıplar Penguen

@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Filamentosa
   fr: Paradisier multifil
   de: Fadenparadiesvogel
-  pt: twelve-wired bird-of-paradise
+  pt: ''
   ru: Нитчатая райская птица
   ja: ジュウニセンフウチョウ
-  zh: Twelve-wired Bird-of-paradise
+  zh: ''
   nl: Twaalfdradige paradijshop
   pl: czarownik
   tr: Oniki Telli Cennetkuşu

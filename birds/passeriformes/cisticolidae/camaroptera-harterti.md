@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23036.0
 names:
   scientific: Camaroptera harterti
-  fa: nan
+  fa: ''
   en: Hartert's Camaroptera
   es: Camaróptera de Hartert
   fr: Camaroptère de Hartert
   de: Hartertbogenflügel
-  pt: hartert's camaroptera
+  pt: ''
   ru: Ангольская терновница
   nl: Hartertcamaroptera
   pl: beczak zielonoskrzydły

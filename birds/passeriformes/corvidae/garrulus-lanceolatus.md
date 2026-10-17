@@ -12,7 +12,7 @@ names:
   es: Arrendajo Cabecinegro
   fr: Geai lancéolé
   de: Strichelhäher
-  pt: black-headed jay
+  pt: ''
   ru: Гималайская сойка
   ja: インドカケス
   zh: 黑頭松鴉

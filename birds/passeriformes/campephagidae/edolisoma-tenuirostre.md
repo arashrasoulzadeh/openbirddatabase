@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18940.0
 names:
   scientific: Edolisoma tenuirostre
-  fa: nan
+  fa: ''
   en: Sahul Cicadabird
   es: Oruguero Picofino
   fr: Échenilleur cigale

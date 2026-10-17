@@ -12,7 +12,7 @@ names:
   es: Picanzo Roquero
   fr: Siffleur des rochers
   de: Felsendickkopf
-  pt: sandstone shrikethrush
+  pt: ''
   ru: Буланый питуи
   ja: チャバラモズツグミ
   zh: 褐胸鵙鹟

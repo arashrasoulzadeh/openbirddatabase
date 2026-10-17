@@ -15,7 +15,7 @@ names:
   pt: sao tome pigeon
   ru: Сантомейский голубь
   ja: サントメニジェリバト
-  zh: Island Bronze-naped Pigeon
+  zh: ''
   nl: Sao-Tomébronsnekduif
   pl: gołąb zatokowy
   tr: Pembe Enseli Güvercin

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28222.0
 names:
   scientific: Zoothera neilgherriensis
-  fa: nan
+  fa: ''
   en: Nilgiri Thrush
   es: Zorzal de Los Nilgiri
   fr: Grive des Nilgiri
   de: Nilgiri-Erddrossel
-  pt: nilgiri thrush
+  pt: ''
   ru: Нилгирийский дрозд
   ja: ニルギリトラツグミ
   nl: Nilgirigoudlijster

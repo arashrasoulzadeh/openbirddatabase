@@ -12,7 +12,7 @@ names:
   es: Prinia de Sierra Leona
   fr: Apalis du Sierra Leone
   de: Hochland-Feinsänger
-  pt: sierra leone prinia
+  pt: ''
   ru: Белоглазая приния
   ja: シェラレオネハウチワドリ
   nl: Witoogprinia

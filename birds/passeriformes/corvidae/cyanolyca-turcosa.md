@@ -12,7 +12,7 @@ names:
   es: Chara Turquesa
   fr: Geai turquoise
   de: Türkishäher
-  pt: turquoise jay
+  pt: ''
   ru: Бирюзовая сойка
   ja: ジュズカケアオカケス
   zh: 青绿蓝头鹊

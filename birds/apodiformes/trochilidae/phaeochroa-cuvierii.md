@@ -12,7 +12,7 @@ names:
   es: Colibrí de Cuvier
   fr: Colibri de Cuvier
   de: Schuppenbrustkolibri
-  pt: scaly-breasted hummingbird
+  pt: ''
   ru: Чешуйчатогрудый саблекрыл
   ja: セイガイハチドリ
   zh: 鳞胸刀翅蜂鸟

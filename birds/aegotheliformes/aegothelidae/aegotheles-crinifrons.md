@@ -12,7 +12,7 @@ names:
   es: Egotelo Moluqueño
   fr: Égothèle des Moluques
   de: Molukkenhöhlenschwalm
-  pt: moluccan owlet-nightjar
+  pt: ''
   ru: Молуккский совиный козодой
   ja: ハルマヘラズクヨタカ
   nl: Molukse dwergnachtzwaluw

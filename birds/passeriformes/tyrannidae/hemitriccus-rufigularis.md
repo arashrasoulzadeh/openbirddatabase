@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16381.0
 names:
   scientific: Hemitriccus rufigularis
-  fa: nan
+  fa: ''
   en: Buff-throated Tody-Tyrant
   es: Titirijí Gorjirrufo
   fr: Todirostre à gorge fauve
   de: Graukappen-Todityrann
-  pt: buff-throated tody-tyrant
+  pt: ''
   ru: Перуанский тоди-тиранн
   ja: チャノドコビトドリモドキ
   nl: Bruinkeeltodietiran

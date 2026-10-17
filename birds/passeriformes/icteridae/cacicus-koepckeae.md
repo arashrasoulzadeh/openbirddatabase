@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 33644.0
 names:
   scientific: Cacicus koepckeae
-  fa: nan
+  fa: ''
   en: Selva Cacique
   es: Cacique de Koepcke
   fr: Cassique de Koepcke

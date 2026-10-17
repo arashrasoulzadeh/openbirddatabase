@@ -12,7 +12,7 @@ names:
   es: Piscuiz de la Puna
   fr: Synallaxe de Heller
   de: Punacanastero
-  pt: puna thistletail
+  pt: ''
   ru: Чертополошник пуны
   ja: プナトゲオカマドドリ
   nl: Punadistelstaart

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 5048.0
 names:
   scientific: Ramosomyia viridifrons
-  fa: nan
+  fa: ''
   en: Green-fronted Hummingbird
   es: Amazilia Frentiverde
   fr: Ariane à front vert
   de: Grünscheitelamazilie
-  pt: green-fronted hummingbird
+  pt: ''
   ru: Зеленолобая амазилия
   ja: ミドリビタイハチドリ
   nl: Groenvoorhoofdamazilia

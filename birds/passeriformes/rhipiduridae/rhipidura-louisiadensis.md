@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20342.0
 names:
   scientific: Rhipidura louisiadensis
-  fa: nan
+  fa: ''
   en: Louisiade Fantail
   es: Abanico Coligrís
   fr: Rhipidure de Louisiade
-  pt: louisiade fantail
+  pt: ''
   nl: Louisiadenwaaierstaart
   pl: wachlarzówka białosterna
   tr: Louisiade Katmerkuyruğu

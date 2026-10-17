@@ -12,7 +12,7 @@ names:
   es: Kaka
   fr: Nestor superbe
   de: Kaka
-  pt: new zealand kaka
+  pt: ''
   ru: Кака
   ja: カカ
   zh: 卡卡鸚鵡

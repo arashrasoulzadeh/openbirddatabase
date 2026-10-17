@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10631.0
 names:
   scientific: Tricholaema frontata
-  fa: nan
+  fa: ''
   en: Miombo Pied Barbet
   es: Barbudo del Miombo
   fr: Barbican du miombo
@@ -15,7 +15,7 @@ names:
   pt: miombo barbet
   ru: Желтогрудая либия
   ja: ミオンボコゴシキドリ
-  zh: Miombo Pied Barbet
+  zh: ''
   nl: Miombobaardvogel
   pl: głowaczek plamisty
   tr: Miombo Barbeti

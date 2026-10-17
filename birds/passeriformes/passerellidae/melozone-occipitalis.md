@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33357.0
 names:
   scientific: Melozone occipitalis
-  fa: nan
+  fa: ''
   en: Grey-crowned Ground Sparrow
   es: Toquí Coronigrís
   fr: Tohi à calotte grise

@@ -15,7 +15,7 @@ names:
   pt: cantador-estriado
   ru: Пёстрая муравьянка
   ja: シマナキアリドリ
-  zh: Spix's Warbling Antbird
+  zh: ''
   nl: Spixmierzanger
   pl: jaguarek łuskowany
   tr: Spix Karıncaavcısı

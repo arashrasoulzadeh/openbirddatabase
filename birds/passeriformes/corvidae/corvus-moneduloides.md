@@ -12,7 +12,7 @@ names:
   es: Cuervo de Nueva Caledonia
   fr: Corbeau calédonien
   de: Geradschnabelkrähe
-  pt: new caledonian crow
+  pt: ''
   ru: Новокаледонская ворона
   ja: カレドニアガラス
   zh: 新喀鴉

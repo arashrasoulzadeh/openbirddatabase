@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 12279.0
 names:
   scientific: Aprosmictus jonquillaceus
-  fa: nan
+  fa: ''
   en: Jonquil Parrot
   es: Papagayo de Timor
   fr: Perruche jonquille
@@ -15,7 +15,7 @@ names:
   pt: papagaio-de-timor
   ru: Тиморский попугай
   ja: ハゴロモインコモドキ
-  zh: Jonquil Parrot
+  zh: ''
   nl: Timorese parkiet
   pl: krasnopiórka timorska
   tr: Timor Papağanı

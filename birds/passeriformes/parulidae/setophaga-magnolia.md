@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34079.0
 names:
   scientific: Setophaga magnolia
-  fa: nan
+  fa: ''
   en: Magnolia Warbler
   es: Reinita de Magnolia
   fr: Paruline à tête cendrée

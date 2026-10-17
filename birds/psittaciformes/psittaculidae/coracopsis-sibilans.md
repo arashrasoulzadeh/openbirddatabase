@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12230.0
 names:
   scientific: Coracopsis sibilans
-  fa: nan
+  fa: ''
   en: Comoro Black Parrot
   es: Loro de las Comoras
   fr: Vaza des Comores
   de: Komorenpapagei
-  pt: comoro black parrot
+  pt: ''
   nl: Comorenpapegaai
   pl: papuzica komorska
   tr: Komoro Kara Papağanı

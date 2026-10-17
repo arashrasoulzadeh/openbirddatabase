@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22230.0
 names:
   scientific: Melaniparus guineensis
-  fa: nan
+  fa: ''
   en: White-shouldered Black Tit
   es: Carbonero Guineano
   fr: Mésange galonnée
@@ -15,7 +15,7 @@ names:
   pt: chapim-da-guiné
   ru: Белоплечая синица
   ja: カタジロクロガラ
-  zh: White-shouldered Black Tit
+  zh: ''
   nl: Guinese mees
   pl: sikora żółtooka
   tr: Ak Omuzlu Kömürcü Baştankara

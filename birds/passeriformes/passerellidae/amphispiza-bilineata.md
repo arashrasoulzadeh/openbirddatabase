@@ -12,7 +12,7 @@ names:
   es: Chingolo Gorjinegro
   fr: Bruant à gorge noire
   de: Schwarzkehlammer
-  pt: black-throated sparrow
+  pt: ''
   ru: Чернозобая овсянка
   ja: ノドグロヒメドリ
   zh: 黑喉漠鹀

@@ -12,7 +12,7 @@ names:
   es: Pardela de Bryan
   fr: Puffin de Bryan
   de: Midwaysturmtaucher
-  pt: bryan's shearwater
+  pt: ''
   ru: Мидуэйский буревестник
   ja: オガサワラヒメミズナギドリ
   nl: Bryanpijlstormvogel

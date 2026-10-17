@@ -15,7 +15,7 @@ names:
   pt: holub's golden-weaver
   ru: Шафрановый ткач
   ja: オオコガネハタオリ
-  zh: Holub's Golden Weaver
+  zh: ''
   nl: Saffraanwever
   pl: wikłacz złotawy
   tr: Holub Altın Dokumacısı

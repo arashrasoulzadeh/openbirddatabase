@@ -15,7 +15,7 @@ names:
   pt: maroon pigeon
   ru: Сантомейский вяхирь
   ja: サントメオリーブバト
-  zh: Sao Tome Olive Pigeon
+  zh: ''
   nl: Sao-Toméolijfduif
   pl: gołąb kasztanowaty
   tr: Sao Tome Zeytin Güvercini

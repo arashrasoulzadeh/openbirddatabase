@@ -12,7 +12,7 @@ names:
   es: Paloma de Delegorgue
   fr: Pigeon de Delegorgue
   de: Bronzehalstaube
-  pt: eastern bronze-naped pigeon
+  pt: ''
   ru: Винно-красный голубь
   ja: ブロンズエリジロバト
   zh: 德氏鴿

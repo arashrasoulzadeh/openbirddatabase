@@ -12,7 +12,7 @@ names:
   es: Paloma Araucana
   fr: Pigeon du Chili
   de: Araukanientaube
-  pt: chilean pigeon
+  pt: ''
   ru: Чилийский голубь
   ja: チリーバト
   zh: 智利鴿

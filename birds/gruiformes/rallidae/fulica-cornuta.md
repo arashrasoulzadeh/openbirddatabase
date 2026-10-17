@@ -12,7 +12,7 @@ names:
   es: Focha Cornuda
   fr: Foulque cornue
   de: Rüsselblässhuhn
-  pt: horned coot
+  pt: ''
   ru: Рогатая лысуха
   ja: ツノオオバン
   zh: 角骨顶

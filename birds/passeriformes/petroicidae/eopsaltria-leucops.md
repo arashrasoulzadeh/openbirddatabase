@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21871.0
 names:
   scientific: Eopsaltria leucops
-  fa: nan
+  fa: ''
   en: White-faced Robin
   es: Petroica Cariblanca
   fr: Miro à face blanche
   de: Weißgesichtschnäpper
-  pt: white-faced robin
+  pt: ''
   ru: Белолицая дриада
   ja: カオジロキアシヒタキ
   nl: Witteugelvliegenvanger

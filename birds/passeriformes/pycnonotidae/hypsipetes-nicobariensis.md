@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24543.0
 names:
   scientific: Hypsipetes nicobariensis
-  fa: nan
+  fa: ''
   en: Nicobar Bulbul
   es: Bulbul de las Nicobar
   fr: Bulbul des Nicobar
   de: Nikobarenbülbül
-  pt: nicobar bulbul
+  pt: ''
   ru: Никобарский бюльбюль
   ja: ニコバルヒヨドリ
   nl: Nicobarenbuulbuul

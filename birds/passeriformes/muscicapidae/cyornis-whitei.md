@@ -12,7 +12,7 @@ names:
   es: Papamoscas Pechiclaro
   fr: Gobemouche de White
   de: Hügelblauschnäpper
-  pt: hill blue flycatcher
+  pt: ''
   ru: Горная нильтава
   ja: ミヤマヒメアオヒタキ
   zh: 山蓝仙鹟

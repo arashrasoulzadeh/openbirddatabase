@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26793.0
 names:
   scientific: Pterorhinus chinensis
-  fa: nan
+  fa: ''
   en: Black-throated Laughingthrush
   es: Charlatán Golinegro
   fr: Garrulaxe à joues blanches
   de: Weißohrhäherling
-  pt: black-throated laughingthrush
+  pt: ''
   ru: Индокитайская кустарница
   ja: タイカンチョウ
   zh: 黑喉噪鹛

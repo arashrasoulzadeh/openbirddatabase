@@ -12,7 +12,7 @@ names:
   es: Vencejo del Himalaya
   fr: Martinet de Blyth
   de: Assamsegler
-  pt: blyth's swift
+  pt: ''
   ru: Гималайский стриж
   ja: ブライスアマツバメ
   zh: 布氏白腰雨燕

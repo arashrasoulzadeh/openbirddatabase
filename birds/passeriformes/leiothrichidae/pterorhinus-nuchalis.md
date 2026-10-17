@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26792.0
 names:
   scientific: Pterorhinus nuchalis
-  fa: nan
+  fa: ''
   en: Chestnut-backed Laughingthrush
   es: Charlatán Nuquipardo
   fr: Garrulaxe à nuque marron
   de: Rotnackenhäherling
-  pt: chestnut-backed laughingthrush
+  pt: ''
   ru: Манишковая кустарница
   ja: チャエリタイカンチョウ
   zh: 栗背噪鹛

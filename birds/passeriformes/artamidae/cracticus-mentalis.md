@@ -12,7 +12,7 @@ names:
   es: Verdugo Dorsinegro
   fr: Cassican à dos noir
   de: Schwarzrücken-Krähenstar
-  pt: black-backed butcherbird
+  pt: ''
   ru: Черноспинная флейтовая птица
   ja: セグロモズガラス
   zh: 黑背白鍾雀

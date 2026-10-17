@@ -15,7 +15,7 @@ names:
   pt: uru
   ru: Пестрокрылый зубцеклювый перепел
   ja: ジャネイロウズラ
-  zh: Spot-winged Wood Quail
+  zh: ''
   nl: Grijze tandkwartel
   pl: przepiór brazylijski
   tr: Kurşuni Tokro

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28627.0
 names:
   scientific: Turdus ardosiaceus
-  fa: nan
+  fa: ''
   en: Eastern Red-legged Thrush
   es: Zorzal Patirrojo Oriental
   fr: Merle dominicain
   de: Hispaniola-Rotfußdrossel
-  pt: eastern red-legged thrush
+  pt: ''
   nl: Oostelijke roodpootlijster
   pl: drozd haitański
   tr: Doğulu Kırmızı Bacaklı Ardıç

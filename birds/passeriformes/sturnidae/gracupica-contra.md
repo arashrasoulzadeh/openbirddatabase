@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27834.0
 names:
   scientific: Gracupica contra
-  fa: nan
+  fa: ''
   en: Indian Pied Myna
   es: Estornino Pío Común
   fr: Étourneau pie

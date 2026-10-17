@@ -15,7 +15,7 @@ names:
   pt: gray-streaked honeyeater
   ru: Пёстрый нектароед
   ja: オオセスジミツスイ
-  zh: Grey-streaked Honeyeater
+  zh: ''
   nl: Zwartrughoningeter
   pl: paskowik szarogłowy
   tr: Gri Kır Balkuşu

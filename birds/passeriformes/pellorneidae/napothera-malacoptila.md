@@ -12,7 +12,7 @@ names:
   es: Ratina Picuda
   fr: Turdinule à long bec
   de: Assamsäbeldrossling
-  pt: long-billed wren-babbler
+  pt: ''
   ru: Ассамская серпоклювка
   ja: ハシナガサザイチメドリ
   zh: 长嘴鹩鹛

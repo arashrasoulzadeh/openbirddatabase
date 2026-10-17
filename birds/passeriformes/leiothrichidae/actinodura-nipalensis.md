@@ -12,7 +12,7 @@ names:
   es: Actinodura Nepalí
   fr: Actinodure du Népal
   de: Nepalmeisenhäherling
-  pt: hoary-throated barwing
+  pt: ''
   ru: Непальский пестрокрыл
   ja: ノドジロシマドリ
   zh: 纹头斑翅鹛

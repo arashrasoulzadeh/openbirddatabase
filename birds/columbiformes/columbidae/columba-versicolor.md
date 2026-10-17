@@ -15,7 +15,7 @@ names:
   pt: bonin pigeon
   ru: Бонинский вяхирь
   ja: オガサワラカラスバト
-  zh: Bonin Wood Pigeon
+  zh: ''
   nl: Boninduif
   pl: gołąb boniński
   tr: Bonin Güvercini

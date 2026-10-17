@@ -12,7 +12,7 @@ names:
   es: Estrilda de Salvadori
   fr: Astrild de Salvadori
   de: Salvadoriastrild
-  pt: abyssinian crimsonwing
+  pt: ''
   ru: Горный астрильд
   ja: ハゴロモキンパラ
   zh: 绿背朱翅雀

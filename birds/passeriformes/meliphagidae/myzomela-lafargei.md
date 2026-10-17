@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18031.0
 names:
   scientific: Myzomela lafargei
-  fa: nan
+  fa: ''
   en: Red-capped Myzomela
   es: Mielero Nuquirrojo
   fr: Myzomèle à nuque rouge
@@ -15,7 +15,7 @@ names:
   pt: scarlet-naped myzomela
   ru: Бугенвильская медовка
   ja: アカエリミツスイ
-  zh: Red-capped Myzomela
+  zh: ''
   nl: Roodnekdwerghoningeter
   pl: miodówka czapeczkowa
   tr: Al Takkeli Mizomela

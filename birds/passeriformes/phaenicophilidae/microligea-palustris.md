@@ -12,7 +12,7 @@ names:
   es: Reinita Coliverde
   fr: Ligéa aux yeux rouges
   de: Graubrust-Palmtangare
-  pt: green-tailed warbler
+  pt: ''
   ru: Серогрудая эспаньола
   ja: アカアメリカムシクイ
   nl: Haïtizanger

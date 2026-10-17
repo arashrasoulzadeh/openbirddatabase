@@ -12,7 +12,7 @@ names:
   es: Mosquero Fajado
   fr: Moucherolle ceinturé
   de: Brustband-Schnäppertyrann
-  pt: belted flycatcher
+  pt: ''
   ru: Коричневогрудый мухолов
   ja: ムネアカエボシタイランチョウ
   nl: Gordeltiran

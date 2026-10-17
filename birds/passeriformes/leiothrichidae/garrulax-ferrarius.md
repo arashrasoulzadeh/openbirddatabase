@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26747.0
 names:
   scientific: Garrulax ferrarius
-  fa: nan
+  fa: ''
   en: Cambodian Laughingthrush
   es: Charlatán de Camboya
   fr: Garrulaxe du Cambodge
   de: Kardamomhäherling
-  pt: cambodian laughingthrush
+  pt: ''
   ru: Камбоджийская кустарница
   ja: カンボジアガビチョウ
   zh: 柬埔寨噪鶥

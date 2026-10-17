@@ -15,7 +15,7 @@ names:
   pt: south island wren
   ru: Скальный стрелок
   ja: イワサザイ
-  zh: New Zealand Rockwren
+  zh: ''
   nl: Zuidereilandwinterkoning
   pl: łazik skalny
   tr: Kaya Zeniği

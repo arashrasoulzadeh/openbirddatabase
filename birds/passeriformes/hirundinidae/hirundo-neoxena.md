@@ -12,7 +12,7 @@ names:
   es: Golondrina Australiana
   fr: Hirondelle messagère
   de: Glücksschwalbe
-  pt: welcome swallow
+  pt: ''
   ru: Краснолобая ласточка
   ja: オーストラリアツバメ
   zh: 喜燕

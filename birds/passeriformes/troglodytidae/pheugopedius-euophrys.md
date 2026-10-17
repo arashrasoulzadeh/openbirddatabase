@@ -12,7 +12,7 @@ names:
   es: Cucarachero Coliliso
   fr: Troglodyte maculé
   de: Kastanienrücken-Zaunkönig
-  pt: plain-tailed wren
+  pt: ''
   ru: Рыжехвостый крапивник
   ja: アカオマユミソサザイ
   nl: Wenkbrauwwinterkoning

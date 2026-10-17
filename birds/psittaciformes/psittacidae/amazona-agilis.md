@@ -12,7 +12,7 @@ names:
   es: Amazona Jamaicana Piquioscura
   fr: Amazone verte
   de: Rotspiegelamazone
-  pt: black-billed amazon
+  pt: ''
   ru: Черноклювый амазон
   ja: ハシグロボウシインコ
   zh: 黑嘴亚马逊鹦鹉

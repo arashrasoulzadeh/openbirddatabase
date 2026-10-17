@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8131.0
 names:
   scientific: Tachyspiza erythropus
-  fa: nan
+  fa: ''
   en: Red-thighed Sparrowhawk
   es: Gavilán Patirrojo
   fr: Épervier de Hartlaub

@@ -12,7 +12,7 @@ names:
   es: Zorzal Ventricastaño
   fr: Merle à ventre fauve
   de: Ockerbauchdrossel
-  pt: chestnut-bellied thrush
+  pt: ''
   ru: Каштановобрюхий дрозд
   ja: クリハラツグミ
   nl: Bruinbuiklijster

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28917.0
 names:
   scientific: Melaenornis ardesiacus
-  fa: nan
+  fa: ''
   en: Yellow-eyed Black Flycatcher
   es: Papamoscas de Berlioz
   fr: Gobemouche de Berlioz
@@ -15,7 +15,7 @@ names:
   pt: yellow-eyed black-flycatcher
   ru: Желтоглазая мухоловка
   ja: コンゴクロヒタキ
-  zh: Yellow-eyed Black Flycatcher
+  zh: ''
   nl: Geeloogdrongovliegenvanger
   pl: mucharka żółtooka
   tr: Sarı Gözlü Drongo Sinekkapanı

@@ -7,14 +7,14 @@ iucn_status: NT
 taxon_order: 8738.0
 names:
   scientific: Otus mendeni
-  fa: nan
+  fa: ''
   en: Banggai Scops Owl
   es: Autillo de las Banggai
   fr: Petit-duc des Banggai
   de: Banggai-Zwergohreule
   pt: banggai scops-owl
   ja: バンガイコノハズク
-  zh: Banggai Scops Owl
+  zh: ''
   nl: Banggaidwergooruil
   pl: syczek zmienny
   tr: Peleng İshakkuşu

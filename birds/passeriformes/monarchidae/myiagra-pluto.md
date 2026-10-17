@@ -12,7 +12,7 @@ names:
   es: Monarca de Ponapé
   fr: Monarque de Ponapé
   de: Pohnpeimonarch
-  pt: pohnpei flycatcher
+  pt: ''
   ru: Понпейская миагра
   ja: クロヒラハシ
   nl: Ponapémonarch

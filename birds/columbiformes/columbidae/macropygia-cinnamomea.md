@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 2122.0
 names:
   scientific: Macropygia cinnamomea
-  fa: nan
+  fa: ''
   en: Enggano Cuckoo-Dove
   es: Tórtola Cuco de Enggano
   fr: Phasianelle d'Enggano
   de: Engganotaube
-  pt: enggano cuckoo-dove
+  pt: ''
   ru: Энганская кукушковая горлица
   ja: エンガノオナガバト
   nl: Engganokoekoeksduif

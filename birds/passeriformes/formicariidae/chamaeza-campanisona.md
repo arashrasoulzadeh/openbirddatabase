@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14501.0
 names:
   scientific: Chamaeza campanisona
-  fa: nan
+  fa: ''
   en: Short-tailed Antthrush
   es: Tovacá Colicorto
   fr: Tétéma flambé

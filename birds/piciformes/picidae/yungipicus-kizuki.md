@@ -12,7 +12,7 @@ names:
   es: Pico Kizuki
   fr: Pic kisuki
   de: Kizukispecht
-  pt: japanese pygmy woodpecker
+  pt: ''
   ru: Малый острокрылый дятел
   ja: コゲラ
   zh: 小星头啄木鸟

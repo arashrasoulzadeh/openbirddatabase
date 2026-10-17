@@ -12,7 +12,7 @@ names:
   es: Pijuí Collarejo
   fr: Synallaxe à collier
   de: Strichelbrust-Dickichtschlüpfer
-  pt: necklaced spinetail
+  pt: ''
   ru: Белогрудая иглохвостка
   ja: ヒメオナガカマドドリ
   nl: Halsbandstekelstaart

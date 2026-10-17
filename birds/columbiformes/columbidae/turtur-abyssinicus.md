@@ -15,7 +15,7 @@ names:
   pt: pomba-brava
   ru: Черноклювая лесная горлица
   ja: ハシグロアオフバト
-  zh: Black-billed Wood Dove
+  zh: ''
   nl: Zwartsnavelduif
   pl: turkaweczka czarnodzioba
   tr: Sahel Kumrusu

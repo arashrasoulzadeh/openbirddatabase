@@ -12,7 +12,7 @@ names:
   es: Maluro Pechiazul
   fr: Mérion à gorge bleue
   de: Blaubrust-Staffelschwanz
-  pt: blue-breasted fairywren
+  pt: ''
   ru: Синегрудый малюр
   ja: アオムネオーストラリアムシクイ
   nl: Blauwborstelfje

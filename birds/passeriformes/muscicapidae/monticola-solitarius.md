@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29652.0
 names:
   scientific: Monticola solitarius
-  fa: nan
+  fa: ''
   en: Blue Rock Thrush
   es: Roquero Solitario
   fr: Monticole bleu

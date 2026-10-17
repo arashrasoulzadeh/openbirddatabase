@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14524.0
 names:
   scientific: Chamaeza turdina
-  fa: nan
+  fa: ''
   en: Schwartz's Antthrush
   es: Tovacá Turdino
   fr: Tétéma festonné
   de: Schuppenbauch-Ameisendrossel
-  pt: schwartz's antthrush
+  pt: ''
   ru: Дроздовая муравейница
   ja: オウギアリツグミ
   nl: Geschubde mierlijster

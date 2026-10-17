@@ -12,7 +12,7 @@ names:
   es: Pito Nuquigualdo
   fr: Pic à nuque jaune
   de: Gelbnackenspecht
-  pt: greater yellownape
+  pt: ''
   ru: Большой желтохохлый дятел
   ja: キエリアオゲラ
   zh: 大黄冠啄木鸟

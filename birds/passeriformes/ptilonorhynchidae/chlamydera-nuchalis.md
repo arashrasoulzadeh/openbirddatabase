@@ -12,7 +12,7 @@ names:
   es: Pergolero Grande
   fr: Jardinier à nuque rose
   de: Graulaubenvogel
-  pt: great bowerbird
+  pt: ''
   ru: Большой беседочник
   ja: オオニワシドリ
   zh: 大亭鸟

@@ -12,10 +12,10 @@ names:
   es: Sastrecillo Dorsiverde
   fr: Couturière d'Ogilvie-Grant
   de: Trillerschneidervogel
-  pt: green-backed tailorbird
+  pt: ''
   ru: Зеленоспинная портниха
   ja: セミドリサイホウチョウ
-  zh: Trilling Tailorbird
+  zh: ''
   nl: Trillersnijdervogel
   pl: krawczyk zielonogrzbiety
   tr: Yeşil Sırtlı Terzikuşu

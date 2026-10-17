@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29637.0
 names:
   scientific: Monticola rufiventris
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Rock Thrush
   es: Roquero Ventrirrufo
   fr: Monticole à ventre marron

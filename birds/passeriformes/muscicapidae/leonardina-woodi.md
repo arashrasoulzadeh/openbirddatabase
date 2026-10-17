@@ -15,7 +15,7 @@ names:
   pt: bagobo robin
   ru: Леонардина
   ja: アポチメドリ
-  zh: Bagobo Babbler
+  zh: ''
   nl: Bagobomuistimalia
   pl: ziemnotymalia
   tr: Bagobo Gevezeardıcı

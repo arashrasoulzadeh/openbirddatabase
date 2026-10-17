@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12413.0
 names:
   scientific: Tanygnathus megalorynchos
-  fa: nan
+  fa: ''
   en: Great-billed Parrot
   es: Loro Picogordo
   fr: Perruche à bec de sang

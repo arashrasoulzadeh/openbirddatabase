@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19836.0
 names:
   scientific: Dyaphorophyia tonsa
-  fa: nan
+  fa: ''
   en: White-spotted Wattle-eye
   es: Batis Carunculado Tordo
   fr: Pririt à taches blanches
   de: Weißbrauen-Lappenschnäpper
-  pt: white-spotted wattle-eye
+  pt: ''
   ru: Белобровая серёжкоглазка
   ja: コシミノメガネヒタキ
   nl: Witbrauwlelvliegenvanger

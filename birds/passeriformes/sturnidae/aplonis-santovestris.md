@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 27729.0
 names:
   scientific: Aplonis santovestris
-  fa: nan
+  fa: ''
   en: Mountain Starling
   es: Estornino de Espíritu Santo
   fr: Stourne d'Espiritu Santo
   de: Rostbürzelstar
-  pt: mountain starling
+  pt: ''
   ru: Вануатский скворец
   ja: ヤマカラスモドキ
   nl: Bergpurperspreeuw

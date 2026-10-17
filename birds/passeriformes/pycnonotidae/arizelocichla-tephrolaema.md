@@ -12,7 +12,7 @@ names:
   es: Bulbul Pechioliva
   fr: Bulbul à gorge grise
   de: Bergwaldbülbül
-  pt: western mountain greenbul
+  pt: ''
   ru: Камерунский бюльбюль
   ja: ハイノドヒヨ
   nl: Westelijke grijskeelbuulbuul

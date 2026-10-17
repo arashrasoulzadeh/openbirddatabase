@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero Etiópico
   fr: Busard grenouillard
   de: Froschweihe
-  pt: african marsh harrier
+  pt: ''
   ru: Африканский лунь
   ja: アフリカチュウヒ
   nl: Afrikaanse bruine kiekendief

@@ -15,7 +15,7 @@ names:
   pt: periquito-das-barreiras
   ru: Скальный попугай
   ja: イワインコ
-  zh: Burrowing Parrot
+  zh: ''
   nl: Holenparkiet
   pl: patagonka
   tr: Patagonya Papağanı

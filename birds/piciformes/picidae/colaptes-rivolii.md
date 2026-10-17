@@ -12,7 +12,7 @@ names:
   es: Carpintero Candela
   fr: Pic de Rivoli
   de: Rotmantelspecht
-  pt: crimson-mantled woodpecker
+  pt: ''
   ru: Нарядный дятел
   ja: アカバネモリゲラ
   nl: Roodmantelspecht

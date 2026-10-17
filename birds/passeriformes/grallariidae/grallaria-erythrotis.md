@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14293.0
 names:
   scientific: Grallaria erythrotis
-  fa: nan
+  fa: ''
   en: Rufous-faced Antpitta
   es: Tororoí Carirrufo
   fr: Grallaire masquée
   de: Rostwangen-Ameisenpitta
-  pt: rufous-faced antpitta
+  pt: ''
   ru: Красноухая питтовая муравьеловка
   ja: アカガオジアリドリ
   nl: Roodoormierpitta

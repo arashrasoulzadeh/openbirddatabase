@@ -12,7 +12,7 @@ names:
   es: Picatroncos Pizarroso
   fr: Pic meunier
   de: Puderspecht
-  pt: great slaty woodpecker
+  pt: ''
   ru: Серая желна
   ja: ボウシゲラ
   zh: 大灰啄木鸟

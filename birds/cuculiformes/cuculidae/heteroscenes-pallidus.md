@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3345.0
 names:
   scientific: Heteroscenes pallidus
-  fa: nan
+  fa: ''
   en: Pallid Cuckoo
   es: Cuco Pálido
   fr: Coucou pâle

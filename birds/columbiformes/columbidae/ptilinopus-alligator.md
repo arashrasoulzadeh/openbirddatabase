@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2637.0
 names:
   scientific: Ptilinopus alligator
-  fa: nan
+  fa: ''
   en: Black-banded Fruit Dove
   es: Tilopo de Los Alligator
   fr: Ptilope de l'Alligator
@@ -15,7 +15,7 @@ names:
   pt: black-banded fruit-dove
   ru: Чернополосый фруктовый голубь
   ja: クロオビバト
-  zh: Black-banded Fruit Dove
+  zh: ''
   nl: Alligatorjufferduif
   pl: owocożer czarnowstęgi
   tr: Kesmeli Meyve Kumrusu

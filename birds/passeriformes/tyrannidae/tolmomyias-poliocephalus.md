@@ -15,7 +15,7 @@ names:
   pt: bico-chato-de-cabeça-cinza
   ru: Сероголовый мухоед
   ja: ハイボウシヒラハシハエトリ
-  zh: Grey-crowned Flatbill
+  zh: ''
   nl: Grijskruinbreedbektiran
   pl: oliwiak Taczanowskiego
   tr: Gri Tepeli Yassıgaga

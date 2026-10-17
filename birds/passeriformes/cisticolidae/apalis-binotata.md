@@ -15,7 +15,7 @@ names:
   pt: masked apalis
   ru: Масковый апалис
   ja: カオグロイロムシクイ
-  zh: Lowland Masked Apalis
+  zh: ''
   nl: Maskerapalis
   pl: nikornik maskowy
   tr: Yakalı Apalis

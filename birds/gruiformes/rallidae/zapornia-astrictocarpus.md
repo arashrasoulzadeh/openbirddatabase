@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5599.0
 names:
   scientific: Zapornia astrictocarpus
-  fa: nan
+  fa: ''
   en: St. Helena Crake
   es: Polluela de Isla Santa Elena
   fr: Marouette de Sainte-Hélène
   de: Helenasumpfhuhn
-  pt: st. helena crake
+  pt: ''
   ru: Святоеленский погоныш
   nl: Sint-Helenaporseleinhoen
   pl: kureczka atlantycka

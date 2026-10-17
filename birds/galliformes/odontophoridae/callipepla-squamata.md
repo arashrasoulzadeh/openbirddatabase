@@ -12,7 +12,7 @@ names:
   es: Colín Escamado
   fr: Colin écaillé
   de: Schuppenwachtel
-  pt: scaled quail
+  pt: ''
   ru: Чешуйчатый перепел
   ja: ウロコウズラ
   zh: 鳞斑鹑

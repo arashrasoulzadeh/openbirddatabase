@@ -12,7 +12,7 @@ names:
   es: Petrel Alinegro
   fr: Pétrel à ailes noires
   de: Schwarzflügel-Sturmvogel
-  pt: black-winged petrel
+  pt: ''
   ru: Чернокрылый тайфунник
   ja: ハグロシロハラミズナギドリ
   zh: 黑翅圆尾鹱

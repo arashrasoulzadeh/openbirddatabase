@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11669.0
 names:
   scientific: Picus erythropygius
-  fa: nan
+  fa: ''
   en: Black-headed Woodpecker
   es: Pito Cabecinegro
   fr: Pic à tête noire
   de: Rotbürzelspecht
-  pt: black-headed woodpecker
+  pt: ''
   ru: Краснопоясничный дятел
   ja: コシアカアオゲラ
   zh: 黑頭綠啄木鳥

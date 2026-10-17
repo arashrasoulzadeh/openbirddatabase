@@ -12,7 +12,7 @@ names:
   es: Camachuelo Cejirrojo
   fr: Roselin à tête rouge
   de: Rhododendrongimpel
-  pt: crimson-browed finch
+  pt: ''
   ru: Рододендроновая чечевица
   ja: ベニマユマシコ
   zh: 红眉松雀

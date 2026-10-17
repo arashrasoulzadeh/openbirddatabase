@@ -12,7 +12,7 @@ names:
   es: Papamoscas de las Nicobar
   fr: Gobemouche des Nicobar
   de: Nikobaren-Dschungelschnäpper
-  pt: nicobar jungle flycatcher
+  pt: ''
   ru: Никобарская джунглевая мухоловка
   ja: ニコバルミツリンヒタキ
   nl: Nicobarenjunglevliegenvanger

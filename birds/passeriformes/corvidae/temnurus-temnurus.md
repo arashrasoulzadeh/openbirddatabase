@@ -12,7 +12,7 @@ names:
   es: Urraca de Raquetas
   fr: Témia temnure
   de: Leiterschwanzelster
-  pt: ratchet-tailed treepie
+  pt: ''
   ru: Пилохвостая сорока
   ja: キリオオナガ
   zh: 塔尾树鹊

@@ -15,7 +15,7 @@ names:
   pt: gough island finch
   ru: Гофский овсяночник
   ja: ゴーフフィンチ
-  zh: Gough Finch
+  zh: ''
   nl: Goughgors
   pl: wyspiarczyk
   tr: Gough Adası İspinozu

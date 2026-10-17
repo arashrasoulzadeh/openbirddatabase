@@ -12,7 +12,7 @@ names:
   es: Bandurrita Estriada
   fr: Upucerthie striée
   de: Streifenerdhacker
-  pt: striated earthcreeper
+  pt: ''
   ru: Пёстрый норник
   ja: シマカマハシカマドドリ
   nl: Gestreepte aardkruiper

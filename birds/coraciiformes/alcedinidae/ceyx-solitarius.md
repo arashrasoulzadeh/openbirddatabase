@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9985.0
 names:
   scientific: Ceyx solitarius
-  fa: nan
+  fa: ''
   en: Papuan Dwarf Kingfisher
   es: Martín Pigmeo Papú
   fr: Martin-pêcheur de Nouvelle-Guinée
@@ -15,7 +15,7 @@ names:
   pt: papuan dwarf-kingfisher
   ru: Папуанский зимородок
   ja: パプアカワセミ
-  zh: Papuan Dwarf Kingfisher
+  zh: ''
   nl: Papoeadwergijsvogel
   pl: zimorodek samotny
   tr: Papua Küçük Yalıçapkını

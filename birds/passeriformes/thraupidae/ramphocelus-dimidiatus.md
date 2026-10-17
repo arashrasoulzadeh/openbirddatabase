@@ -12,7 +12,7 @@ names:
   es: Tangara Dorsirroja
   fr: Tangara à dos rouge
   de: Scharlachbauchtangare
-  pt: crimson-backed tanager
+  pt: ''
   ru: Колумбийский сереброклюв
   ja: セアカフウキンチョウ
   nl: Roodbuiktangare

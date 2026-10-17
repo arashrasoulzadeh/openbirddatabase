@@ -12,7 +12,7 @@ names:
   es: Lori Bigotudo
   fr: Lori bridé
   de: Arfaklori
-  pt: plum-faced lorikeet
+  pt: ''
   ru: Арфакский лорикет
   ja: ヤマムスメインコ
   nl: Berglori

@@ -15,7 +15,7 @@ names:
   pt: chestnut-breasted munia
   ru: Каштановогрудая муния
   ja: シマコキン
-  zh: Chestnut-breasted Mannikin
+  zh: ''
   nl: Bruinborstrietvink
   pl: mniszka przepasana
   tr: Bal Göğüslü Munya

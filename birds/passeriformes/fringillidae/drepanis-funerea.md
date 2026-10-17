@@ -12,7 +12,7 @@ names:
   es: Mamo Negro
   fr: Drépanide noir
   de: Trauerkleidervogel
-  pt: black mamo
+  pt: ''
   ru: Чёрная мамо
   ja: クロハワイミツスイ
   zh: 黑監督吸蜜鳥

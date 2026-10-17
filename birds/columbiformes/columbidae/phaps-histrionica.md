@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce Arlequín
   fr: Colombine arlequin
   de: Harlekintaube
-  pt: flock bronzewing
+  pt: ''
   ru: Масковый бронзовокрыл
   ja: クマドリバト
   zh: 聚群铜翅鸠

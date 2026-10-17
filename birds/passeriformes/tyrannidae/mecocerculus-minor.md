@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16595.0
 names:
   scientific: Mecocerculus minor
-  fa: nan
+  fa: ''
   en: Sulphur-bellied Tyrannulet
   es: Piojito Azufre
   fr: Tyranneau soufré
   de: Gelbbauch-Tachurityrann
-  pt: sulphur-bellied tyrannulet
+  pt: ''
   ru: Желтобрюхий москитолов
   ja: キバラフタスジタイランチョウ
   nl: Geelbuiktachuri

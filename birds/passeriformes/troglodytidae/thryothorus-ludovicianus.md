@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Carolina
   fr: Troglodyte de Caroline
   de: Carolinazaunkönig
-  pt: carolina wren
+  pt: ''
   ru: Каролинский крапивник
   ja: チャバラマユミソサザイ
   zh: 皇葦鷦鷯

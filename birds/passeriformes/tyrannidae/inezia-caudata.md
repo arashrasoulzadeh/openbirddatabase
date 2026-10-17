@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16841.0
 names:
   scientific: Inezia caudata
-  fa: nan
+  fa: ''
   en: Pale-tipped Inezia
   es: Piojito Coludo
   fr: Tyranneau frangé
@@ -15,7 +15,7 @@ names:
   pt: amarelinho-da-amazônia
   ru: Белоглазая инезия
   ja: シロビタイマメタイランチョウ
-  zh: Pale-tipped Inezia
+  zh: ''
   nl: Salvininezia
   pl: pręgówek gujański
   tr: Uzun Kuyruklu İnezya

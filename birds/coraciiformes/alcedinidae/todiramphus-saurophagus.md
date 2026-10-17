@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10201.0
 names:
   scientific: Todiramphus saurophagus
-  fa: nan
+  fa: ''
   en: Beach Kingfisher
   es: Alción Lagartijero
   fr: Martin-chasseur à tête blanche
   de: Echsenliest
-  pt: beach kingfisher
+  pt: ''
   ru: Белоголовая альциона
   ja: シロガシラショウビン
   zh: 白頭翡翠

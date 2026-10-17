@@ -12,7 +12,7 @@ names:
   es: Ánade Malgache
   fr: Canard de Meller
   de: Madagaskarente
-  pt: meller's duck
+  pt: ''
   ru: Мадагаскарская кряква
   ja: マダガスカルガモ
   zh: 麻斑鸭

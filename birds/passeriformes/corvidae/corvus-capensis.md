@@ -12,7 +12,7 @@ names:
   es: Cuervo de El Cabo
   fr: Corneille du Cap
   de: Kapkrähe
-  pt: cape crow
+  pt: ''
   ru: Африканский грач
   ja: ツルハシガラス
   zh: 海角鴉

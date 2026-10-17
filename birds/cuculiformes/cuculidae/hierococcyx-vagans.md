@@ -12,7 +12,7 @@ names:
   es: Cuco Bigotudo
   fr: Coucou à moustaches
   de: Bartkuckuck
-  pt: moustached hawk-cuckoo
+  pt: ''
   ru: Усатая кукушка
   ja: チャイロジュウイチ
   nl: Kleine sperwerkoekoek

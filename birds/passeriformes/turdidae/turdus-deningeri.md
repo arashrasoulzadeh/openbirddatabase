@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28542.0
 names:
   scientific: Turdus deningeri
-  fa: nan
+  fa: ''
   en: Sula Island Thrush
   es: Mirlo de Las Molucas
   fr: Merle des Moluques
   pt: moluccan island-thrush
   ja: モルッカハイガシラツグミ
-  zh: Moluccan Island Thrush
+  zh: ''
   nl: Molukse merel
   pl: drozd molucki
   tr: Maluku Ada Ardıcı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10755.0
 names:
   scientific: Psilopogon flavifrons
-  fa: nan
+  fa: ''
   en: Yellow-fronted Barbet
   es: Barbudo Frentigualdo
   fr: Barbu à front d'or
   de: Goldstirn-Bartvogel
-  pt: yellow-fronted barbet
+  pt: ''
   ru: Желтолобый бородастик
   ja: キビタイゴシキドリ
   zh: 黃額擬啄木

@@ -12,7 +12,7 @@ names:
   es: Tortolita Pechimorada
   fr: Colombe mondétour
   de: Mondetourtäubchen
-  pt: maroon-chested ground dove
+  pt: ''
   ru: Каштановогрудая земляная горлица
   ja: フジムネアルキバト
   zh: 紫胸地鸠

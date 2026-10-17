@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24934.0
 names:
   scientific: Phylloscopus emeiensis
-  fa: nan
+  fa: ''
   en: Emei Leaf Warbler
   es: Mosquitero del Emei
   fr: Pouillot de l'Omei
   de: Emeilaubsänger
-  pt: emei leaf warbler
+  pt: ''
   ru: Эмейская пеночка
   ja: エメイムシクイ
   zh: 峨眉柳莺

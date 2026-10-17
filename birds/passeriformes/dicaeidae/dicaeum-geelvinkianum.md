@@ -12,7 +12,7 @@ names:
   es: Picaflores Capirrojo
   fr: Dicée de Geelvink
   de: Rotkappen-Mistelfresser
-  pt: red-capped flowerpecker
+  pt: ''
   ru: Красноголовый цветоед
   ja: パプアハナドリ
   zh: 紅頂啄花

@@ -12,7 +12,7 @@ names:
   es: Perdiz Faisán Gorjiclara
   fr: Tétraophase de Széchenyi
   de: Rostkehl-Keilschwanzhuhn
-  pt: buff-throated monal-partridge
+  pt: ''
   ru: Светлогорлый кундык
   ja: チベットキジシャコ
   nl: Roodkeelwigstaarthoen

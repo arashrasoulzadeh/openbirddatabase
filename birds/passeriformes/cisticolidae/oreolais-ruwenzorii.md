@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22988.0
 names:
   scientific: Oreolais ruwenzorii
-  fa: nan
+  fa: ''
   en: Rwenzori Apalis
   es: Apalis del Ruwenzori
   fr: Apalis du Rwenzori
   de: Ruwenzorifeinsänger
-  pt: rwenzori apalis
+  pt: ''
   ru: Ошейниковый апалис
   ja: クビワイロムシクイ
   nl: Ruwenzoriapalis

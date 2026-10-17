@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16672.0
 names:
   scientific: Myiopagis viridicata
-  fa: nan
+  fa: ''
   en: Greenish Elaenia
   es: Fiofío Verdoso
   fr: Élénie verdâtre

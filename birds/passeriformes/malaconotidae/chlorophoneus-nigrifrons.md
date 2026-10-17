@@ -12,7 +12,7 @@ names:
   es: Bubú Frentinegro
   fr: Gonolek à front noir
   de: Graustirnwürger
-  pt: black-fronted bushshrike
+  pt: ''
   ru: Черногрудый гладиатор
   ja: クロガオミドリヤブモズ
   nl: Reichenowbosklauwier

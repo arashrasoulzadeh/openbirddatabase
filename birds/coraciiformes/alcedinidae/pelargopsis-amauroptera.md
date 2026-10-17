@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10043.0
 names:
   scientific: Pelargopsis amauroptera
-  fa: nan
+  fa: ''
   en: Brown-winged Kingfisher
   es: Alción Alipardo
   fr: Martin-chasseur à ailes brunes
   de: Braunflügelliest
-  pt: brown-winged kingfisher
+  pt: ''
   ru: Бурокрылый гуриал
   ja: チャバネコウハシショウビン
   zh: 褐翅翡翠

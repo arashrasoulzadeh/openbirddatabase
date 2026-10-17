@@ -12,7 +12,7 @@ names:
   es: Búho Magallánico
   fr: Grand-duc de Magellanie
   de: Magellanuhu
-  pt: lesser horned owl
+  pt: ''
   ru: Магелланов филин
   ja: マゼランワシミミズク
   nl: Magelhaenoehoe

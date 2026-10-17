@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 13034.0
 names:
   scientific: Pyrrhura subandina
-  fa: nan
+  fa: ''
   en: Subandean Parakeet
   es: Cotorra Subandina
   fr: Conure du Sinu
   de: Jaraquiel-Sittich
-  pt: subandean parakeet
+  pt: ''
   nl: Panamese parkiet
   pl: rudosterka kolumbijska
   tr: Sinu Boyalı Papağanı

@@ -12,7 +12,7 @@ names:
   es: Abubilla Malgache
   fr: Huppe de Madagascar
   de: Madagaskarwiedehopf
-  pt: madagascar hoopoe
+  pt: ''
   ru: Мадагаскарский удод
   ja: マダガスカルヤツガシラ
   nl: Madagaskarhop

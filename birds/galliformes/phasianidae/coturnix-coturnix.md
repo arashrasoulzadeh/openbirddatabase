@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1738.0
 names:
   scientific: Coturnix coturnix
-  fa: nan
+  fa: ''
   en: Common Quail
   es: Codorniz Común
   fr: Caille des blés

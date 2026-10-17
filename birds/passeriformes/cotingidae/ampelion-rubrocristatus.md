@@ -12,7 +12,7 @@ names:
   es: Cotinga Crestirrojo
   fr: Cotinga à huppe rouge
   de: Rotschopfkotinga
-  pt: red-crested cotinga
+  pt: ''
   ru: Свиристелевая котинга
   ja: アカカンムリカザリドリ
   nl: Roodkuifcotinga

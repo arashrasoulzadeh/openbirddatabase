@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 26348.0
 names:
   scientific: Gypsophila calcicola
-  fa: nan
+  fa: ''
   en: Rufous Limestone Babbler
   es: Ratina Calcícola
   fr: Turdinule calcicole
   de: Thaidrossling
-  pt: rufous limestone babbler
+  pt: ''
   zh: 棕灰岩鹪鹛
   nl: Rosse mergelsluiptimalia
   pl: kusotymalek rdzawy

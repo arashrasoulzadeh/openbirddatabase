@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14162.0
 names:
   scientific: Conopophaga melanogaster
-  fa: nan
+  fa: ''
   en: Black-bellied Gnateater
   es: Jejenero Ventrinegro
   fr: Conopophage à ventre noir

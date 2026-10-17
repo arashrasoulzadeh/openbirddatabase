@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22543.0
 names:
   scientific: Corypha apiata
-  fa: nan
+  fa: ''
   en: Cape Clapper Lark
   es: Alondra Aplaudidora de El Cabo
   fr: Alouette bateleuse
   de: Grasklapperlerche
-  pt: cape clapper lark
+  pt: ''
   ru: Травяной жаворонок
   ja: ハイイロヤブヒバリ
   nl: Klapperleeuwerik

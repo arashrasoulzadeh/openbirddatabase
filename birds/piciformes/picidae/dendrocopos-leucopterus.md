@@ -12,7 +12,7 @@ names:
   es: Pico Aliblanco
   fr: Pic à ailes blanches
   de: Weißflügelspecht
-  pt: white-winged woodpecker
+  pt: ''
   ru: Белокрылый дятел
   ja: ハジロアカゲラ
   zh: 白翅啄木鸟

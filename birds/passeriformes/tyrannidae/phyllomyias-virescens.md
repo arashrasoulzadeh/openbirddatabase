@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16762.0
 names:
   scientific: Phyllomyias virescens
-  fa: nan
+  fa: ''
   en: Greenish Tyrannulet
   es: Mosquerito Verdoso
   fr: Tyranneau verdin

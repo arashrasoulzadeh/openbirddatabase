@@ -12,7 +12,7 @@ names:
   es: Toquí Oaxaqueño
   fr: Tohi à gorge blanche
   de: Weißkehl-Grundammer
-  pt: white-throated towhee
+  pt: ''
   ru: Белогорлый тохи
   ja: ノドジロトウヒチョウ
   nl: Witkeeltowie

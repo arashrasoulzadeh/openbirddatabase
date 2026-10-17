@@ -12,7 +12,7 @@ names:
   es: Turdoide Pardo
   fr: Cratérope brun
   de: Sudandrosselhäherling
-  pt: brown babbler
+  pt: ''
   ru: Суданская дроздовка
   ja: キバラヤブチメドリ
   zh: 非洲褐鶇鶥

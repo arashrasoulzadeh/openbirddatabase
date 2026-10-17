@@ -15,7 +15,7 @@ names:
   pt: new guinea megapode
   ru: Новогвинейский большеног
   ja: ニューギニアツカツクリ
-  zh: New Guinea Scrubfowl
+  zh: ''
   nl: Grijs boshoen
   pl: nogal nowogwinejski
   tr: Yeni Gine Megapodu

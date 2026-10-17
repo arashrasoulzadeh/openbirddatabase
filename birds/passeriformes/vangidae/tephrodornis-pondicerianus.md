@@ -12,7 +12,7 @@ names:
   es: Ceniciento Chico
   fr: Téphrodorne de Pondichéry
   de: Indienvanga
-  pt: common woodshrike
+  pt: ''
   ru: Белобровый личинколов
   ja: モズサンショウクイ
   nl: Kleine rupsklauwier

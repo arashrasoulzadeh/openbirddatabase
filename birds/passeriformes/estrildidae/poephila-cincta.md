@@ -12,7 +12,7 @@ names:
   es: Diamante Gorjinegro
   fr: Diamant à bavette
   de: Gürtelamadine
-  pt: black-throated finch
+  pt: ''
   ru: Короткохвостая амадина
   ja: キンセイチョウ
   nl: Gordelamadine

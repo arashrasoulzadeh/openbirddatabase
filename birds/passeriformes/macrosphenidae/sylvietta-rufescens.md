@@ -12,7 +12,7 @@ names:
   es: Crombec Piquilargo
   fr: Crombec à long bec
   de: Langschnabelsylvietta
-  pt: long-billed crombec
+  pt: ''
   ru: Длинноклювый кромбек
   ja: ハシナガチビオムシクイ
   zh: 长嘴森莺

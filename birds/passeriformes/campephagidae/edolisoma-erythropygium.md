@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18914.0
 names:
   scientific: Edolisoma erythropygium
-  fa: nan
+  fa: ''
   en: Central Melanesian Cicadabird
   es: Oruguero de Guadalcanal
   fr: Échenilleur de Guadalcanal
-  pt: central melanesian cicadabird
+  pt: ''
   ja: メラネシアセミサンショウクイ
   nl: Salomonsrupsvogel
   pl: gąsienicojad rdzawy

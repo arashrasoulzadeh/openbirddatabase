@@ -15,7 +15,7 @@ names:
   pt: mottled honeyeater
   ru: Пестрогрудый медосос
   ja: ムナボシキミミミツスイ
-  zh: Mottle-breasted Honeyeater
+  zh: ''
   nl: Mimikahoningeter
   pl: miodojad marmurkowy
   tr: Mimika Balkuşu

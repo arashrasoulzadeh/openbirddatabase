@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche de las Artemisas
   fr: Moqueur des armoises
   de: Beifuß-Spottdrossel
-  pt: sage thrasher
+  pt: ''
   ru: Полынный пересмешник
   ja: ウタイマネシツグミ
   zh: 高山矢嘲鶇

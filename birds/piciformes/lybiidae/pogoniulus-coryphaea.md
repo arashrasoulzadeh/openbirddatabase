@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10591.0
 names:
   scientific: Pogoniulus coryphaea
-  fa: nan
+  fa: ''
   en: Western Tinkerbird
   es: Barbudito Coronado
   fr: Barbion montagnard
   de: Gelbrücken-Bartvogel
-  pt: western tinkerbird
+  pt: ''
   ru: Желтоспинный медник
   ja: セスジヒメゴシキドリ
   nl: Geelrugketellapper

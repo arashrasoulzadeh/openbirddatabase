@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30352.0
 names:
   scientific: Cinnyris gertrudis
-  fa: nan
+  fa: ''
   en: Western Miombo Sunbird
   es: Suimanga del Miombo Occidental
   fr: Souimanga de Pinto
   de: Gertrudisnektarvogel
-  pt: western miombo sunbird
+  pt: ''
   ru: Замбезийская нектарница
   nl: Westelijke miombohoningzuiger
   pl: nektarnik dwuobrożny

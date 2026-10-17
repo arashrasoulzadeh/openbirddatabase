@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2733.0
 names:
   scientific: Ptilinopus coralensis
-  fa: nan
+  fa: ''
   en: Atoll Fruit Dove
   es: Tilopo de las Tuamotu
   fr: Ptilope des Tuamotu
@@ -15,7 +15,7 @@ names:
   pt: atoll fruit-dove
   ru: Полинезийский фруктовый голубь
   ja: カンショウヒメアオバト
-  zh: Atoll Fruit Dove
+  zh: ''
   nl: Tuamotujufferduif
   pl: owocożer koralowy
   tr: Tuamotu Meyve Kumrusu

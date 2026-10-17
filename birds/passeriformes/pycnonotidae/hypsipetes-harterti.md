@@ -13,7 +13,7 @@ names:
   fr: Bulbul des Banggai
   de: Banggaigoldbülbül
   pt: banggai golden-bulbul
-  zh: Banggai Golden Bulbul
+  zh: ''
   nl: Banggaibuulbuul
   pl: szczeciak złotogardły
   tr: Banggai Altınbülbülü

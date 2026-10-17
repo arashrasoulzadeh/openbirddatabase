@@ -12,7 +12,7 @@ names:
   es: Solitario Dorsipardo
   fr: Solitaire à dos brun
   de: Braunrückenklarino
-  pt: brown-backed solitaire
+  pt: ''
   ru: Буроспинный кларино
   ja: クリセヒトリツグミ
   nl: Bruinrugsolitaire

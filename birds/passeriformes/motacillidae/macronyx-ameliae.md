@@ -12,7 +12,7 @@ names:
   es: Bisbita Gorjirrosado
   fr: Sentinelle à gorge rose
   de: Rubinkehlpieper
-  pt: rosy-throated longclaw
+  pt: ''
   ru: Красногорлый шпорник
   ja: ベニバラツメナガタヒバリ
   nl: Roodkeellangklauw

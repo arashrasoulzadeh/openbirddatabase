@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 4883.0
 names:
   scientific: Cynanthus canivetii
-  fa: nan
+  fa: ''
   en: Canivet's Emerald
   es: Esmeralda de Canivet
   fr: Émeraude de Canivet
   de: Gabelschwanz-Smaragdkolibri
-  pt: canivet's emerald
+  pt: ''
   ru: Вилохвостый изумруд
   ja: エンビヒメエメラルドハチドリ
   zh: 卡氏翠蜂鸟

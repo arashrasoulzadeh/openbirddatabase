@@ -12,7 +12,7 @@ names:
   es: Cucarachero Cejón
   fr: Troglodyte bridé
   de: Küstenzaunkönig
-  pt: superciliated wren
+  pt: ''
   ru: Прибрежный крапивник
   ja: マミジロミソサザイ
   nl: Humboldtwinterkoning

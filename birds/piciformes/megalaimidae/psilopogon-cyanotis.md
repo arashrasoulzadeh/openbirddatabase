@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10707.0
 names:
   scientific: Psilopogon cyanotis
-  fa: nan
+  fa: ''
   en: Blue-eared Barbet
   es: Barbudo Orejiazul
   fr: Barbu à oreillons bleus
   de: Blauohr-Bartvogel
-  pt: blue-eared barbet
+  pt: ''
   ru: Синеухий бородастик
   zh: 蓝耳拟啄木鸟
   nl: Blauwoorbaardvogel

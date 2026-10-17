@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26351.0
 names:
   scientific: Gypsophila rufipectus
-  fa: nan
+  fa: ''
   en: Rusty-breasted Wren-Babbler
   es: Ratina Pechirrufa
   fr: Turdinule de Sumatra
   de: Kastanienbauchdrossling
-  pt: rusty-breasted wren-babbler
+  pt: ''
   ru: Суматранская подкоренница
   ja: スマトラサザイチメドリ
   zh: 苏门答腊鹪鹛

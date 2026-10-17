@@ -12,7 +12,7 @@ names:
   es: Torillo de El Cabo
   fr: Turnix du fynbos
   de: Kaplaufhühnchen
-  pt: fynbos buttonquail
+  pt: ''
   ru: Капская трёхперстка
   ja: フィンボスミフウズラ
   zh: 非洲三趾鹑

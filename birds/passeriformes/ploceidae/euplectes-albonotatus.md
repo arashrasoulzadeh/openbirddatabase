@@ -12,7 +12,7 @@ names:
   es: Obispo Aliblanco
   fr: Euplecte à épaules blanches
   de: Spiegelweber
-  pt: white-winged widowbird
+  pt: ''
   ru: Белокрылый ткачик
   ja: ハジロホウオウ
   nl: Spiegelwidavink

@@ -12,7 +12,7 @@ names:
   es: Suimanga Hermoso
   fr: Souimanga oreillard
   de: Philippinennektarvogel
-  pt: handsome sunbird
+  pt: ''
   ru: Филиппинская нектарница
   ja: ハンサムタイヨウチョウ
   nl: Mooie honingzuiger

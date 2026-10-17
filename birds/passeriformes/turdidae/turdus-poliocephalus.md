@@ -14,7 +14,7 @@ names:
   pt: tasman sea island-thrush
   ru: Изменчивый дрозд
   ja: タスマンハイガシラツグミ
-  zh: Tasman Sea Island Thrush
+  zh: ''
   nl: Tasmanzeemerel
   pl: drozd wyspowy
   tr: Tasman Denizi Ada Ardıcı

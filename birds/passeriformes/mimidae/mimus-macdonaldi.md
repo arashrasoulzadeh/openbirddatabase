@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 28093.0
 names:
   scientific: Mimus macdonaldi
-  fa: nan
+  fa: ''
   en: Espanola Mockingbird
   es: Sinsonte de Isla Española
   fr: Moqueur d'Espanola
@@ -15,7 +15,7 @@ names:
   pt: española mockingbird
   ru: Эспаньольский пересмешник
   ja: フッドマネシツグミ
-  zh: Espanola Mockingbird
+  zh: ''
   nl: Españolaspotlijster
   pl: przedrzeźniacz hakodzioby
   tr: Espanyola Taklitçisi

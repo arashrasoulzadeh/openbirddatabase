@@ -12,7 +12,7 @@ names:
   es: Carpintero Bellotero
   fr: Pic glandivore
   de: Eichelspecht
-  pt: acorn woodpecker
+  pt: ''
   ru: Желудёвый дятел
   ja: ドングリキツツキ
   zh: 橡樹啄木鳥

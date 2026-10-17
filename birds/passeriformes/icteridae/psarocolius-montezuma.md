@@ -12,7 +12,7 @@ names:
   es: Cacique de Moctezuma
   fr: Cassique de Montezuma
   de: Montezumastirnvogel
-  pt: montezuma oropendola
+  pt: ''
   ru: Оропендола-монтесума
   ja: オオツリスドリ
   nl: Montezumaoropendola

@@ -15,7 +15,7 @@ names:
   pt: rola-de-adamawa
   ru: Андаманская горлица
   ja: バラムネキジバト
-  zh: Adamawa Turtle Dove
+  zh: ''
   nl: Adamawatortel
   pl: turkawka różowobrzucha
   tr: Pembe Karınlı Üveyik

@@ -12,7 +12,7 @@ names:
   es: Churrín de Matorral
   fr: Mérulaxe du matorral
   de: Rostbürzeltapaculo
-  pt: pale-bellied tapaculo
+  pt: ''
   ru: Сероголовый тапакуло
   ja: コシアカオタテドリ
   nl: Matorraltapaculo

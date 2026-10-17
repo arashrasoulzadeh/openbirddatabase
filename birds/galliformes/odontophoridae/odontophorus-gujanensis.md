@@ -15,7 +15,7 @@ names:
   pt: uru-corcovado
   ru: Мраморный зубцеклювый перепел
   ja: ギアナウズラ
-  zh: Marbled Wood Quail
+  zh: ''
   nl: Gemarmerde tandkwartel
   pl: przepiór marmurkowy
   tr: Mermerli Tokro

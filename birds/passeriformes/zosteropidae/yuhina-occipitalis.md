@@ -12,7 +12,7 @@ names:
   es: Yuhina Ventrirrufa
   fr: Yuhina à ventre roux
   de: Rotsteißyuhina
-  pt: rufous-vented yuhina
+  pt: ''
   ru: Рыжебрюхая юхина
   ja: チャバラカンムリチメドリ
   zh: 棕臀凤鹛

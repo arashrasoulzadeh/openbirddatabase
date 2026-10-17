@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13925.0
 names:
   scientific: Cercomacra manu
-  fa: nan
+  fa: ''
   en: Manu Antbird
   es: Hormiguero del Manu
   fr: Grisin du Manu

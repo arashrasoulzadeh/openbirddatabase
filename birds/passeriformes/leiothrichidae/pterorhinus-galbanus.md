@@ -12,7 +12,7 @@ names:
   es: Charlatán Goligualdo
   fr: Garrulaxe à gorge jaune
   de: Gelbbauchhäherling
-  pt: yellow-throated laughingthrush
+  pt: ''
   ru: Желтогорлая кустарница
   ja: キノドガビチョウ
   zh: 黄喉噪鹛

@@ -15,7 +15,7 @@ names:
   pt: íbis-branca-australiana
   ru: Молуккский ибис
   ja: オーストラリアクロトキ
-  zh: Australian White Ibis
+  zh: ''
   nl: Australische witte ibis
   pl: ibis czarnopióry
   tr: Avustralya Kutsal Aynağı

@@ -12,7 +12,7 @@ names:
   es: Podargo de las Salomón
   fr: Podarge des Salomon
   de: Salomonenschwalm
-  pt: solomons frogmouth
+  pt: ''
   ru: Соломонский лягушкорот
   ja: ソロモンマグチヨタカ
   nl: Salomonskikkerbek

@@ -12,7 +12,7 @@ names:
   es: Cotorrita Aliturquesa
   fr: Toui de Spengel
   de: Türkissperlingspapagei
-  pt: turquoise-winged parrotlet
+  pt: ''
   nl: Turkooisvleugelmuspapegaai
   pl: wróbliczka niebieskorzytna
   tr: Türkuaz Kanatlı Serçe Papağanı

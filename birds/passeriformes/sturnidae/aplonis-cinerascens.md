@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27773.0
 names:
   scientific: Aplonis cinerascens
-  fa: nan
+  fa: ''
   en: Rarotonga Starling
   es: Estornino de Isla Rarotonga
   fr: Stourne de Rarotonga
   de: Rarotongastar
-  pt: rarotonga starling
+  pt: ''
   ru: Раротонгский скворец
   ja: ラロトンガカラスモドキ
   nl: Rarotongaspreeuw

@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Festoneada
   fr: Paradisier festonné
   de: Schildparadiesvogel
-  pt: paradise riflebird
+  pt: ''
   ru: Райский веерокрыл
   ja: ウロコフウチョウ
   nl: Schildgeweervogel

@@ -12,7 +12,7 @@ names:
   es: Alondra de Gray
   fr: Alouette de Gray
   de: Namiblerche
-  pt: gray's lark
+  pt: ''
   ru: Намибский жаворонок
   ja: ムジスナヒバリ
   zh: 格氏漠百灵

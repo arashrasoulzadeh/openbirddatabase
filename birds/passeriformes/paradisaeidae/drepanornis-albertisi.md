@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Albertis
   fr: Paradisier de d'Albertis
   de: Schwarzschnabel-Paradieshopf
-  pt: black-billed sicklebill
+  pt: ''
   ru: Желтохвостый райский шилоклюв
   ja: クロカマハシフウチョウ
   nl: Geelstaartsikkelsnavel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1680.0
 names:
   scientific: Scleroptila elgonensis
-  fa: nan
+  fa: ''
   en: Elgon Francolin
   es: Francolín del Elgón
   fr: Francolin de l'Elgon
   de: Elgonfrankolin
-  pt: elgon francolin
+  pt: ''
   nl: Elgonfrankolijn
   pl: frankolin rdzawobrzuchy
   tr: Eglon Turacı

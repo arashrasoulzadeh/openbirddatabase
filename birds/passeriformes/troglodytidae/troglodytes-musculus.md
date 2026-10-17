@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27209.0
 names:
   scientific: Troglodytes musculus
-  fa: nan
+  fa: ''
   en: Southern House Wren
   es: Chochín Criollo Sureño
   fr: Troglodyte austral

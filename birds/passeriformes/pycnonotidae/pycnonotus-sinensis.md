@@ -12,7 +12,7 @@ names:
   es: Bulbul Chino
   fr: Bulbul de Chine
   de: Chinabülbül
-  pt: light-vented bulbul
+  pt: ''
   ru: Китайский бюльбюль
   ja: シロガシラ
   zh: 白头鹎

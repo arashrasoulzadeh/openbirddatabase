@@ -15,7 +15,7 @@ names:
   pt: streak-throated bush-tyrant
   ru: Пестрогорлая гевара
   ja: ヤブタイランチョウ
-  zh: Streak-throated Bush Tyrant
+  zh: ''
   nl: Streepkeelstruiktiran
   pl: kopciuch smugoszyi
   tr: Çizgili Boğazlı Çalı Tiranı

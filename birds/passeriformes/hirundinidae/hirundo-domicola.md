@@ -12,7 +12,7 @@ names:
   es: Golondrina de Cabaña
   fr: Hirondelle des Nilgiri
   de: Hügelschwalbe
-  pt: hill swallow
+  pt: ''
   ru: Каштановогорлая ласточка
   ja: インドツバメ
   nl: Hutzwaluw

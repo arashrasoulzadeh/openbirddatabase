@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14275.0
 names:
   scientific: Grallaria cochabambae
-  fa: nan
+  fa: ''
   en: Bolivian Antpitta
   es: Tororoí Boliviano
   fr: Grallaire de Cochabamba
   de: Bolivienameisenpitta
-  pt: bolivian antpitta
+  pt: ''
   ja: ボリビアジアリドリ
   nl: Boliviaanse mierpitta
   pl: kusaczka uboga

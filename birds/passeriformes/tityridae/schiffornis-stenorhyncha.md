@@ -12,7 +12,7 @@ names:
   es: Llorón Picofino
   fr: Antriade sténorhynque
   de: Rostflügelbekarde
-  pt: russet-winged schiffornis
+  pt: ''
   ru: Бурокрылая сельвиния
   ja: アカバネツグミマイコドリ
   nl: Roestvleugelschiffornis

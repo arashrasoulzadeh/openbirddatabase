@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27782.0
 names:
   scientific: Basilornis corythaix
-  fa: nan
+  fa: ''
   en: Long-crested Myna
   es: Miná Moluqueño
   fr: Basilorne de Céram
   de: Molukkenatzel
-  pt: long-crested myna
+  pt: ''
   ru: Длиннохохлый раджа
   ja: セラムオオサマムクドリ
   nl: Molukse koningsspreeuw

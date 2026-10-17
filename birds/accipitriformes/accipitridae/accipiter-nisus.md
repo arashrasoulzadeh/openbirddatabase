@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8245.0
 names:
   scientific: Accipiter nisus
-  fa: nan
+  fa: ''
   en: Eurasian Sparrowhawk
   es: Gavilán Común
   fr: Épervier d'Europe

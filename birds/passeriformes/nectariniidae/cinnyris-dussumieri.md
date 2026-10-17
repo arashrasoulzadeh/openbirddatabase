@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30495.0
 names:
   scientific: Cinnyris dussumieri
-  fa: nan
+  fa: ''
   en: Seychelles Sunbird
   es: Suimanga de las Seychelles
   fr: Souimanga des Seychelles
   de: Seychellennektarvogel
-  pt: seychelles sunbird
+  pt: ''
   ru: Сейшельская нектарница
   ja: セーシェルタイヨウチョウ
   nl: Seychellenhoningzuiger

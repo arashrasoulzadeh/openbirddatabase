@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34181.0
 names:
   scientific: Setophaga vitellina
-  fa: nan
+  fa: ''
   en: Vitelline Warbler
   es: Reinita de las Caimán
   fr: Paruline des Caïmans
   de: Dotterwaldsänger
-  pt: vitelline warbler
+  pt: ''
   ru: Кайманская древесница
   ja: ケーマンアメリカムシクイ
   nl: Kaaimanzanger

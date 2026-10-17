@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5938.0
 names:
   scientific: Anarhynchus pecuarius
-  fa: nan
+  fa: ''
   en: Kittlitz's Plover
   es: Chorlitejo Pecuario
   fr: Pluvier pâtre

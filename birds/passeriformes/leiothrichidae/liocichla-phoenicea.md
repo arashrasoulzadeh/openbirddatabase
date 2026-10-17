@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26599.0
 names:
   scientific: Liocichla phoenicea
-  fa: nan
+  fa: ''
   en: Red-faced Liocichla
   es: Charlatán Carirrojo
   fr: Garrulaxe à ailes rouges
   de: Karminflügel-Bunthäherling
-  pt: red-faced liocichla
+  pt: ''
   ru: Карминнокрылая лиоцихла
   ja: アカガオヤブドリ
   nl: Roodmaskertimalia

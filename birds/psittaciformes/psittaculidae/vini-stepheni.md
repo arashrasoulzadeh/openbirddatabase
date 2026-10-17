@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12597.0
 names:
   scientific: Vini stepheni
-  fa: nan
+  fa: ''
   en: Stephen's Lorikeet
   es: Lori de Stephen
   fr: Lori de Stephen
   de: Hendersonlori
-  pt: stephen's lorikeet
+  pt: ''
   ru: Питкэрнский лори-отшельник
   ja: ムネムラサキインコ
   nl: Stephenlori

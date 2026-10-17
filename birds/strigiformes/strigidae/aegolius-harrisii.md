@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9314.0
 names:
   scientific: Aegolius harrisii
-  fa: nan
+  fa: ''
   en: Buff-fronted Owl
   es: Mochuelo Canela
   fr: Nyctale de Harris

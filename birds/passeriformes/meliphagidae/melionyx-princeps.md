@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 17827.0
 names:
   scientific: Melionyx princeps
-  fa: nan
+  fa: ''
   en: Long-bearded Honeyeater
   es: Mielero Barbilargo
   fr: Méliphage à barbe longue
   de: Langbart-Honigfresser
-  pt: long-bearded honeyeater
+  pt: ''
   ru: Длиннобородый нектароед
   ja: シラヒゲヤマミツスイ
   nl: Langbaardhoningeter

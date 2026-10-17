@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4630.0
 names:
   scientific: Coeligena conradii
-  fa: nan
+  fa: ''
   en: Green Inca
   es: Inca Verde
   fr: Inca de Conrad
   de: Méridakolibri
-  pt: green inca
+  pt: ''
   zh: 绿星额蜂鸟
   nl: Groene incakolibrie
   pl: elfik białopierśny

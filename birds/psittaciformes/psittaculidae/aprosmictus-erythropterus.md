@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12282.0
 names:
   scientific: Aprosmictus erythropterus
-  fa: nan
+  fa: ''
   en: Red-winged Parrot
   es: Papagayo Alirrojo
   fr: Perruche érythroptère
   de: Rotflügelsittich
-  pt: red-winged parrot
+  pt: ''
   ru: Краснокрылый попугай
   ja: ハゴロモインコ
   zh: 紅翅鸚鵡

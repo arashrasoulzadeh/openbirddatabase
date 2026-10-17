@@ -15,7 +15,7 @@ names:
   pt: albatroz-de-coroa-branca
   ru: Белошапочный альбатрос
   ja: ハジロアホウドリ
-  zh: Shy Albatross
+  zh: ''
   nl: Witkruinalbatros
   pl: albatros szarodzioby
   tr: Mahçup Albatros

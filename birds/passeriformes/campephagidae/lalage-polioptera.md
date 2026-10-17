@@ -12,7 +12,7 @@ names:
   es: Oruguero de Indochina
   fr: Échenilleur indochinois
   de: Gartenraupenfänger
-  pt: indochinese cuckooshrike
+  pt: ''
   ru: Серокрылый личинкоед-свистун
   ja: ハイイロアサクラサンショウクイ
   zh: 灰鹃鵙

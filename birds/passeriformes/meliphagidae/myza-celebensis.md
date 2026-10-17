@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17698.0
 names:
   scientific: Myza celebensis
-  fa: nan
+  fa: ''
   en: Dark-eared Myza
   es: Mielero Chico de Célebes
   fr: Méliphage des Célèbes
   de: Brillenhonigfresser
-  pt: dark-eared myza
+  pt: ''
   ru: Очковая миза
   ja: チャイロセレベスミツスイ
   zh: 暗耳汲蜜鸟

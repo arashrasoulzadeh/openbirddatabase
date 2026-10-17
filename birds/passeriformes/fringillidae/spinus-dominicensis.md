@@ -12,7 +12,7 @@ names:
   es: Jilguero Antillano
   fr: Tarin des Antilles
   de: Haitizeisig
-  pt: antillean siskin
+  pt: ''
   ru: Антильский чиж
   ja: ヒスパニオラズグロヒワ
   nl: Haïtiaanse sijs

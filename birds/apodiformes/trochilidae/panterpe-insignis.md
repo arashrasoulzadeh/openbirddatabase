@@ -12,7 +12,7 @@ names:
   es: Colibrí Insigne
   fr: Colibri insigne
   de: Feuerkehlkolibri
-  pt: fiery-throated hummingbird
+  pt: ''
   ru: Радужный колибри
   ja: ヒノドハチドリ
   zh: 火喉蜂鸟

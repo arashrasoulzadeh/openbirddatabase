@@ -12,7 +12,7 @@ names:
   es: Periquito Ventrinaranja
   fr: Perruche à ventre orange
   de: Goldbauchsittich
-  pt: orange-bellied parrot
+  pt: ''
   ru: Золотистобрюхий травяной попугайчик
   ja: アカハラワカバインコ
   zh: 橙腹草鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Pico Pechileonado
   fr: Pic de Macé
   de: Isabellbrustspecht
-  pt: fulvous-breasted woodpecker
+  pt: ''
   ru: Буланый дятел
   ja: コモンアカゲラ
   zh: 茶胸斑啄木鸟

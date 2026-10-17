@@ -12,7 +12,7 @@ names:
   es: Diamante Colifino
   fr: Diamant quadricolore
   de: Lauchpapageiamadine
-  pt: pin-tailed parrotfinch
+  pt: ''
   ru: Длиннохвостая амадина
   ja: セイコウチョウ
   zh: 长尾鹦雀

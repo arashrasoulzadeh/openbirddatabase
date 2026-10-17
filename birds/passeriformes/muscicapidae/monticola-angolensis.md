@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29660.0
 names:
   scientific: Monticola angolensis
-  fa: nan
+  fa: ''
   en: Miombo Rock Thrush
   es: Roquero Angoleño
   fr: Monticole angolais
@@ -15,7 +15,7 @@ names:
   pt: miombo rock-thrush
   ru: Ангольский каменный дрозд
   ja: ホシイソヒヨ
-  zh: Miombo Rock Thrush
+  zh: ''
   nl: Miomborotslijster
   pl: nagórnik plamkowany
   tr: Miombo Taşkızılı

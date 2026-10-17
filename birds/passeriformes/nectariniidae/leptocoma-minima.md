@@ -12,7 +12,7 @@ names:
   es: Suimanga Mínimo
   fr: Souimanga menu
   de: Däumlingsnektarvogel
-  pt: crimson-backed sunbird
+  pt: ''
   ru: Карликовая нектарница
   ja: マメタイヨウチョウ
   nl: Dwerghoningzuiger

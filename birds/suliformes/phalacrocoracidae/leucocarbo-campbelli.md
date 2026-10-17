@@ -15,7 +15,7 @@ names:
   pt: campbell islands shag
   ru: Кэмпбельский баклан
   ja: ノドオビムナジロウ
-  zh: Campbell Shag
+  zh: ''
   nl: Campbellaalscholver
   pl: kormoran czarnoszyi
   tr: Campbell Adası Alaca Karabatağı

@@ -12,7 +12,7 @@ names:
   es: Bulbul del Kilimanjaro
   fr: Bulbul à tête sombre
   de: Schwarzkappenbülbül
-  pt: black-headed mountain greenbul
+  pt: ''
   ru: Рифтовый зелёный бюльбюль
   ja: クロガシラアオヒヨ
   nl: Oostelijke grijskeelbuulbuul

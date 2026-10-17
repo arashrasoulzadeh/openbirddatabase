@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17088.0
 names:
   scientific: Muscisaxicola cinereus
-  fa: nan
+  fa: ''
   en: Cinereous Ground Tyrant
   es: Dormilona Cenicienta
   fr: Dormilon cendré
@@ -15,7 +15,7 @@ names:
   pt: cinereous ground-tyrant
   ru: Пепельная дормилона
   ja: ハイイロイワタイランチョウ
-  zh: Cinereous Ground Tyrant
+  zh: ''
   nl: Grijze grondtiran
   pl: skałotyran popielaty
   tr: Kül Rengi Yer Tiranı

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9937.0
 names:
   scientific: Alcedo peninsulae
-  fa: nan
+  fa: ''
   en: Malaysian Blue-banded Kingfisher
   es: Martín Pescador Bandeado de Malasia
   fr: Martin-pêcheur péninsulaire
   de: Blaubandeisvogel
-  pt: malaysian blue-banded kingfisher
+  pt: ''
   zh: 马来蓝带翠鸟
   nl: Soendablauwborstijsvogel
   pl: zimorodek malajski

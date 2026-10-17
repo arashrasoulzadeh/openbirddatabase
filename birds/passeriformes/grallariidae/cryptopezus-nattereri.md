@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14295.0
 names:
   scientific: Cryptopezus nattereri
-  fa: nan
+  fa: ''
   en: Speckle-breasted Antpitta
   es: Tororoí de Natterer
   fr: Grallaire de Natterer

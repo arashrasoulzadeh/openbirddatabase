@@ -12,7 +12,7 @@ names:
   es: Gaviota de Tasmania
   fr: Goéland austral
   de: Dickschnabelmöwe
-  pt: pacific gull
+  pt: ''
   ru: Большеклювая чайка
   ja: ハシブトカモメ
   zh: 太平洋鷗

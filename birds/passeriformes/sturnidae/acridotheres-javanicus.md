@@ -12,7 +12,7 @@ names:
   es: Miná de Java
   fr: Martin de Java
   de: Javamaina
-  pt: javan myna
+  pt: ''
   ru: Яванская майна
   ja: ジャワハッカ
   nl: Javaanse maina

@@ -15,7 +15,7 @@ names:
   pt: corujão-pesqueiro
   ru: Полосатая рыбная сова
   ja: ウオクイフクロウ
-  zh: Pel's Fishing Owl
+  zh: ''
   nl: Pel-visuil
   pl: rybiarka duża
   tr: Afrika Balık Baykuşu

@@ -12,7 +12,7 @@ names:
   es: Tordina Pechiescamada
   fr: Akalat à poitrine écaillée
   de: Schuppenbrust-Laubdrossling
-  pt: scaly-breasted illadopsis
+  pt: ''
   ru: Чешуйчатогрудый дроздовник
   ja: ウロコムジチメドリ
   zh: 白胸非洲雅鹛

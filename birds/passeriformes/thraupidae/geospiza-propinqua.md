@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 35777.0
 names:
   scientific: Geospiza propinqua
-  fa: nan
+  fa: ''
   en: Genovesa Cactus Finch
   es: Pinzón de Darwin Picogrueso de Genovesa
   fr: Géospize voisin
@@ -15,7 +15,7 @@ names:
   pt: genovesa cactus-finch
   ru: Кактусовый галапагосский вьюрок
   ja: ヘノベササボテンフィンチ
-  zh: Genovesa Cactus Finch
+  zh: ''
   nl: Genovesacactusvink
   pl: darwinka duża
   tr: Genovesa Kaktüs İspinozu

@@ -12,7 +12,7 @@ names:
   es: Colibrí Aterciopelado
   fr: Colibri de Lafresnaye
   de: Samtbauchkolibri
-  pt: mountain velvetbreast
+  pt: ''
   ru: Бархатная ореада
   ja: ビロードハチドリ
   zh: 絨胸山蜂鳥

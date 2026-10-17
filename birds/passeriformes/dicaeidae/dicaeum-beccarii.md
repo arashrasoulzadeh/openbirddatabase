@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30100.0
 names:
   scientific: Dicaeum beccarii
-  fa: nan
+  fa: ''
   en: Sumatran Flowerpecker
   es: Picaflores de Sumatra
   fr: Dicée de Beccari
   de: Sumatramistelfresser
-  pt: sumatran flowerpecker
+  pt: ''
   nl: Sumatraanse honingvogel
   pl: kwiatówka płowobrzucha
   tr: Beccari Öksekuşu

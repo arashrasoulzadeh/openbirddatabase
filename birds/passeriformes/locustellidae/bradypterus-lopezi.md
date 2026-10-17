@@ -15,7 +15,7 @@ names:
   pt: evergreen-forest warbler
   ru: Лесная бурогрудка
   ja: モリオウギセッカ
-  zh: Evergreen Forest Warbler
+  zh: ''
   nl: Woudstruikzanger
   pl: krótkolotka brunatna
   tr: Lopes Ötleğeni

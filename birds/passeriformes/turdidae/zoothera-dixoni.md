@@ -12,7 +12,7 @@ names:
   es: Zorzal de Dixon
   fr: Grive de Dixon
   de: Dixonerddrossel
-  pt: long-tailed thrush
+  pt: ''
   ru: Длиннохвостый дрозд
   ja: オナガトラツグミ
   zh: 长尾地鸫

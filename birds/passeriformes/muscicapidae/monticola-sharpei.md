@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29648.0
 names:
   scientific: Monticola sharpei
-  fa: nan
+  fa: ''
   en: Forest Rock Thrush
   es: Roquero de Sharpe
   fr: Monticole de forêt
@@ -15,7 +15,7 @@ names:
   pt: forest rock-thrush
   ru: Мадагаскарский каменный дрозд
   ja: モリカワリツグミ
-  zh: Forest Rock Thrush
+  zh: ''
   nl: Bosrotslijster
   pl: nagórnik leśny
   tr: Orman Taşkızılı

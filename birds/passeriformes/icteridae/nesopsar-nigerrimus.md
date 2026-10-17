@@ -12,7 +12,7 @@ names:
   es: Zanate Jamaicano
   fr: Carouge de Jamaïque
   de: Bromelienstärling
-  pt: jamaican blackbird
+  pt: ''
   ru: Бромелиевый трупиал
   ja: ジャマイカクロムクドリモドキ
   nl: Jamaicaanse troepiaal

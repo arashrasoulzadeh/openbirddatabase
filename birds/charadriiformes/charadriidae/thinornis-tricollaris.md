@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5845.0
 names:
   scientific: Thinornis tricollaris
-  fa: nan
+  fa: ''
   en: Three-banded Plover
   es: Chorlitejo Tricollar
   fr: Pluvier à triple collier

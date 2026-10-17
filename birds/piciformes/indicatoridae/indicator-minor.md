@@ -12,7 +12,7 @@ names:
   es: Indicador Menor
   fr: Petit Indicateur
   de: Nasenstreif-Honiganzeiger
-  pt: lesser honeyguide
+  pt: ''
   ru: Малый медоуказчик
   ja: コミツオシエ
   nl: Kleine honingspeurder

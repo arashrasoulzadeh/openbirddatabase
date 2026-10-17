@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3243.0
 names:
   scientific: Coccyzus erythropthalmus
-  fa: nan
+  fa: ''
   en: Black-billed Cuckoo
   es: Cuclillo Piquinegro
   fr: Coulicou à bec noir

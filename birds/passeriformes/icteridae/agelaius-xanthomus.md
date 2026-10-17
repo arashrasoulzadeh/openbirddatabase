@@ -12,7 +12,7 @@ names:
   es: Sargento Puertorriqueño
   fr: Carouge de Porto Rico
   de: Gelbschulterstärling
-  pt: yellow-shouldered blackbird
+  pt: ''
   ru: Желтокрылый трупиал
   ja: キガタハゴロモガラス
   nl: Geelschoudertroepiaal

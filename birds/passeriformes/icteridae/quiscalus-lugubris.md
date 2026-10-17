@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33889.0
 names:
   scientific: Quiscalus lugubris
-  fa: nan
+  fa: ''
   en: Carib Grackle
   es: Zanate Caribeño
   fr: Quiscale merle

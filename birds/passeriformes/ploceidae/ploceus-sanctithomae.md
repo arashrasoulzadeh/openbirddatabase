@@ -12,7 +12,7 @@ names:
   es: Tejedor de Santo Tomé
   fr: Tisserin de Sao Tomé
   de: São-Tomé-Weber
-  pt: sao tome weaver
+  pt: ''
   ru: Сантомейский ткач
   ja: サントメハタオリ
   nl: Sao-Toméwever

@@ -12,7 +12,7 @@ names:
   es: Pijuí Pizarroso
   fr: Synallaxe ardoisé
   de: Graurücken-Dickichtschlüpfer
-  pt: slaty spinetail
+  pt: ''
   ru: Серогорлый иглохвостый печник
   ja: ススイロカマドドリ
   nl: Leikleurige stekelstaart

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25875.0
 names:
   scientific: Zosterops inornatus
-  fa: nan
+  fa: ''
   en: Large Lifou White-eye
   es: Anteojitos Sencillo
   fr: Zostérops de Lifu
   de: Lifubrillenvogel
-  pt: large lifou white-eye
+  pt: ''
   ru: Луайотская белоглазка
   ja: リフメジロ
   nl: Grote lifubrilvogel

@@ -12,7 +12,7 @@ names:
   es: Zordala Dorsicastaña
   fr: Ptilorrhoa à dos roux
   de: Buntflöter
-  pt: chestnut-backed jewel-babbler
+  pt: ''
   ru: Каштановый флейтист
   ja: ヤマパプアチメドリ
   nl: Bonte juweelbabbelaar

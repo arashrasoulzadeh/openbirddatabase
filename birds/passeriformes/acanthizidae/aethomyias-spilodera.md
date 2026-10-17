@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18348.0
 names:
   scientific: Aethomyias spilodera
-  fa: nan
+  fa: ''
   en: Pale-billed Scrubwren
   es: Sedosito Piquiblanco
   fr: Séricorne à bec blanc
   de: Fahlschnabelsericornis
-  pt: pale-billed scrubwren
+  pt: ''
   ru: Светлоклювая кустовка
   ja: ハシジロヤブムシクイ
   nl: Witbekstruiksluiper

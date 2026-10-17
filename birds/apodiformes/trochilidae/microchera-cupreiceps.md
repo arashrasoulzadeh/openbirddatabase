@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 5008.0
 names:
   scientific: Microchera cupreiceps
-  fa: nan
+  fa: ''
   en: Coppery-headed Emerald
   es: Esmeralda Capirotada
   fr: Colibri à tête cuivrée
   de: Bronzekappenkolibri
-  pt: coppery-headed emerald
+  pt: ''
   ru: Медноголовая эльвира
   ja: ドウボウシハチドリ
   zh: 铜头丽蜂鸟

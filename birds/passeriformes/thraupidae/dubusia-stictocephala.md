@@ -11,7 +11,7 @@ names:
   en: Streak-crowned Mountain Tanager
   es: Tangara Pechifulva Sureña
   fr: Tangara à calotte rayée
-  pt: streak-crowned mountain tanager
+  pt: ''
   nl: Streepkopbergtangare
   pl: andomodraszek plamkogłowy
   tr: Gök Kırçıllı Dağ Tangarası

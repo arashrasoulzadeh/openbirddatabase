@@ -15,7 +15,7 @@ names:
   pt: gray-headed lovebird
   ru: Сероголовый неразлучник
   ja: カルカヤインコ
-  zh: Grey-headed Lovebird
+  zh: ''
   nl: Grijskopagapornis
   pl: nierozłączka siwogłowa
   tr: Gri Başlı Cennet Papağanı

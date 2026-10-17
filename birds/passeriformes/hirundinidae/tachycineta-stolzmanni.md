@@ -12,7 +12,7 @@ names:
   es: Golondrina de Tumbes
   fr: Hirondelle de Stolzmann
   de: Tumbesschwalbe
-  pt: tumbes swallow
+  pt: ''
   ru: Тумбесская ласточка
   ja: ペルーミドリツバメ
   zh: 秘魯樹燕

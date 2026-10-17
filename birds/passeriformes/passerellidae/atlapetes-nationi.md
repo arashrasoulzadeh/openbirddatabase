@@ -12,7 +12,7 @@ names:
   es: Atlapetes Ventrirrufo
   fr: Tohi à ventre roux
   de: Rostbauch-Buschammer
-  pt: rusty-bellied brushfinch
+  pt: ''
   ru: Рыжебрюхая атлапета
   ja: チャバラヤブシトド
   nl: Roestbuikstruikgors

@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 17128.0
 names:
   scientific: Neoxolmis rubetra
-  fa: nan
+  fa: ''
   en: Rusty-backed Monjita
   es: Monjita Castaña
   fr: Pépoaza traquet

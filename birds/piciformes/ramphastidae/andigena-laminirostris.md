@@ -15,7 +15,7 @@ names:
   pt: plate-billed mountain-toucan
   ru: Плоскоклювый перцеяд
   ja: イタハシヤマオオハシ
-  zh: Plate-billed Mountain Toucan
+  zh: ''
   nl: Zwartkruinbergtoekan
   pl: andotukan pstrodzioby
   tr: Levhalı Dağ Tukaneti

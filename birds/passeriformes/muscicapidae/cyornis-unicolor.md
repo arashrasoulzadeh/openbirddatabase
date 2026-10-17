@@ -12,7 +12,7 @@ names:
   es: Papamoscas Azulado
   fr: Gobemouche bleuâtre
   de: Einfarb-Blauschnäpper
-  pt: pale blue flycatcher
+  pt: ''
   ru: Бледно-голубая нильтава
   ja: ウスヒメアオヒタキ
   zh: 纯蓝仙鹟

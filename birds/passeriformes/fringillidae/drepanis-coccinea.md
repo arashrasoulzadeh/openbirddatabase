@@ -12,7 +12,7 @@ names:
   es: '''i''iwi'
   fr: Iiwi rouge
   de: Iiwikleidervogel
-  pt: iiwi
+  pt: ''
   ru: Чёрно-алая ииви
   ja: ベニハワイミツスイ
   zh: 鐮嘴管鴰

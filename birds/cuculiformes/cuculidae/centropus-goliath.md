@@ -12,7 +12,7 @@ names:
   es: Cucal Goliat
   fr: Coucal goliath
   de: Goliathkuckuck
-  pt: goliath coucal
+  pt: ''
   ru: Кукаль-голиаф
   ja: オニバンケン
   nl: Goliathspoorkoekoek

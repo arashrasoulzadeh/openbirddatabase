@@ -12,7 +12,7 @@ names:
   es: Petroica Granate
   fr: Miro grenat
   de: Granatschnäpper
-  pt: garnet robin
+  pt: ''
   ru: Каштановая дриада
   ja: セアカヒタキ
   nl: Bloedrugvliegenvanger

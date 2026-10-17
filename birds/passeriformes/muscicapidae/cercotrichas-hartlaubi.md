@@ -15,7 +15,7 @@ names:
   pt: brown-backed scrub-robin
   ru: Буроспинный тугайный соловей
   ja: マミジロヤブコマドリ
-  zh: Brown-backed Scrub Robin
+  zh: ''
   nl: Bruinrugwaaierstaart
   pl: drozdówka sawannowa
   tr: Hartlaub Çalı Bülbülü

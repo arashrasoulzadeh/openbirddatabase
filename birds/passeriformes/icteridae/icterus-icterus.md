@@ -12,7 +12,7 @@ names:
   es: Turpial Venezolano
   fr: Oriole troupiale
   de: Orangetrupial
-  pt: venezuelan troupial
+  pt: ''
   ru: Цветной трупиал
   ja: ムクドリモドキ
   zh: 擬黃鸝

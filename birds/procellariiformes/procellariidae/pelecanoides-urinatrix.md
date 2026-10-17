@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7264.0
 names:
   scientific: Pelecanoides urinatrix
-  fa: nan
+  fa: ''
   en: Common Diving Petrel
   es: Potoyunco Común
   fr: Puffinure plongeur
@@ -15,7 +15,7 @@ names:
   pt: common diving-petrel
   ru: Южный ныряющий буревестник
   ja: モグリウミツバメ
-  zh: Common Diving Petrel
+  zh: ''
   nl: Alkstormvogeltje
   pl: nurzec czarnoskrzydły
   tr: Dalıcı Fırtınakuşu

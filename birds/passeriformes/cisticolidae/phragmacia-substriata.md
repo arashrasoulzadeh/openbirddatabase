@@ -12,7 +12,7 @@ names:
   es: Prinia Namaqua
   fr: Apalis namaqua
   de: Namafeinsänger
-  pt: namaqua warbler
+  pt: ''
   ru: Пёстрая приния
   ja: ムナフハウチワドリ
   nl: Namaquaprinia

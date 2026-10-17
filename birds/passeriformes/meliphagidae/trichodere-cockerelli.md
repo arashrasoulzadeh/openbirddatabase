@@ -12,7 +12,7 @@ names:
   es: Mielero de Cockerell
   fr: Méliphage de Cockerell
   de: Uferhonigfresser
-  pt: white-streaked honeyeater
+  pt: ''
   ru: Желтоухий медолюб
   ja: キミミオリーブミツスイ
   nl: Cape-Yorkhoningeter

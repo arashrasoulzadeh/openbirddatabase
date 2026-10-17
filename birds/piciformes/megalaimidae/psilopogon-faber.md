@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10773.0
 names:
   scientific: Psilopogon faber
-  fa: nan
+  fa: ''
   en: Chinese Barbet
   es: Barbudo Chino
   fr: Barbu forgeron
   de: Schwarzstirn-Bartvogel
-  pt: chinese barbet
+  pt: ''
   ru: Китайский бородастик
   ja: チュウゴクゴシキドリ
   zh: 黑眉拟啄木鸟

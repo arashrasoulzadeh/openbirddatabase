@@ -12,7 +12,7 @@ names:
   es: Amazona Nuquigualda
   fr: Amazone à nuque d'or
   de: Gelbnackenamazone
-  pt: yellow-naped amazon
+  pt: ''
   ru: Желтошейный амазон
   ja: キエリボウシインコ
   zh: 黃頸亞馬遜鸚鵡

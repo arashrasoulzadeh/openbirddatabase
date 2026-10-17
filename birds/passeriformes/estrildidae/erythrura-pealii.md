@@ -12,7 +12,7 @@ names:
   es: Diamante de Fiyi
   fr: Diamant de Peal
   de: Fidschipapageiamadine
-  pt: fiji parrotfinch
+  pt: ''
   ru: Фиджийская амадина
   ja: フィジーヒノマルチョウ
   zh: 斐济鹦雀

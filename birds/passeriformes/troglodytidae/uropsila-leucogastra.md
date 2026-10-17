@@ -12,7 +12,7 @@ names:
   es: Cucarachero Ventriblanco
   fr: Troglodyte à ventre blanc
   de: Weißbauch-Zaunkönig
-  pt: white-bellied wren
+  pt: ''
   ru: Белобрюхий крапивник
   ja: コビトミソサザイ
   zh: 白腹鹪鹩属

@@ -12,7 +12,7 @@ names:
   es: Subepalo Moteado
   fr: Anabasitte tachetée
   de: Hellkehl-Stachelschwanz
-  pt: spotted barbtail
+  pt: ''
   ru: Пятнистый зубцехвост
   ja: キボシヒゲオカマドドリ
   nl: Vlekborstboomloper

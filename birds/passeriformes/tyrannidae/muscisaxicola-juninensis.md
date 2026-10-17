@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17087.0
 names:
   scientific: Muscisaxicola juninensis
-  fa: nan
+  fa: ''
   en: Puna Ground Tyrant
   es: Dormilona Puneña
   fr: Dormilon de Junin
@@ -15,7 +15,7 @@ names:
   pt: puna ground-tyrant
   ru: Хунинская дормилона
   ja: コウゲンイワタイランチョウ
-  zh: Puna Ground Tyrant
+  zh: ''
   nl: Punagrondtiran
   pl: skałotyran punański
   tr: Puna Yer Tiranı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17762.0
 names:
   scientific: Meliphaga flavirictus
-  fa: nan
+  fa: ''
   en: Yellow-gaped Honeyeater
   es: Mielero Sonriente
   fr: Méliphage souriant
   de: Gelbkinn-Honigfresser
-  pt: yellow-gaped honeyeater
+  pt: ''
   ru: Желтоусый медосос
   ja: キスジキミミミツスイ
   nl: Geelteugelhoningeter

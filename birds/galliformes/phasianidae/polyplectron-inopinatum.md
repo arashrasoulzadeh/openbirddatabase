@@ -12,7 +12,7 @@ names:
   es: Espolonero de Rothschild
   fr: Éperonnier de Rothschild
   de: Rothschild-Pfaufasan
-  pt: mountain peacock-pheasant
+  pt: ''
   ru: Горный павлиний фазан
   ja: アカコクジャク
   zh: 羅氏孔雀

@@ -12,7 +12,7 @@ names:
   es: Faisancillo Rojo
   fr: Galloperdrix rouge
   de: Rotspornhuhn
-  pt: red spurfowl
+  pt: ''
   ru: Красная шпорцевая курица
   ja: アカケズメシャコ
   nl: Rode dwergfazant

@@ -15,7 +15,7 @@ names:
   pt: buru mountain-pigeon
   ru: Буруанский голубь
   ja: オナガミヤマバト
-  zh: Buru Mountain Pigeon
+  zh: ''
   nl: Burubergduif
   pl: krasnook długosterny
   tr: Buru Dağ Güvercini

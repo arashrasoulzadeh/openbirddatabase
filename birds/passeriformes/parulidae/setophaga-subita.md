@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 34192.0
 names:
   scientific: Setophaga subita
-  fa: nan
+  fa: ''
   en: Barbuda Warbler
   es: Reinita de Barbuda
   fr: Paruline de Barbuda
   de: Barbudawaldsänger
-  pt: barbuda warbler
+  pt: ''
   ru: Барбудская древесница
   ja: バーブーダアメリカミシクイ
   nl: Barbudazanger

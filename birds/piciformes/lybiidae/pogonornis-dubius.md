@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10681.0
 names:
   scientific: Pogonornis dubius
-  fa: nan
+  fa: ''
   en: Bearded Barbet
   es: Barbudo Pechirrojo
   fr: Barbican à poitrine rouge

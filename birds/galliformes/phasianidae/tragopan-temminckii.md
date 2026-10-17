@@ -12,7 +12,7 @@ names:
   es: Tragopán Cariazul
   fr: Tragopan de Temminck
   de: Temmincktragopan
-  pt: temminck's tragopan
+  pt: ''
   ru: Глазчатый трагопан
   ja: ベニジュケイ
   zh: 红腹角雉

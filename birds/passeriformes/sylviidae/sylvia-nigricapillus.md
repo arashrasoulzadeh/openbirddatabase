@@ -12,7 +12,7 @@ names:
   es: Curruca Sudafricana
   fr: Fauvette à calotte noire
   de: Kappengrasmücke
-  pt: bush blackcap
+  pt: ''
   ru: Кустарниковая славка-монашка
   ja: ズグロハシジロチメドリ
   zh: 黑顶鹛莺

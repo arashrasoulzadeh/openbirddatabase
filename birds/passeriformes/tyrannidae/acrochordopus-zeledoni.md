@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16781.0
 names:
   scientific: Acrochordopus zeledoni
-  fa: nan
+  fa: ''
   en: White-fronted Tyrannulet
   es: Mosquerito de Zeledón
   fr: Tyranneau de Zeledon
   de: Weißstirn-Kleintyrann
-  pt: white-fronted tyrannulet
+  pt: ''
   ru: Белолобый пестрощёкий тиранчик
   nl: Zeledonvliegenpikker
   pl: pręgotyranik białolicy

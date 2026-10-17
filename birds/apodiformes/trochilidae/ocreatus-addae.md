@@ -12,7 +12,7 @@ names:
   es: Colibrí de Raquetas Faldirrojo
   fr: Haut-de-chausses de Bolivie
   de: Rotschenkel-Flaggensylphe
-  pt: rufous-booted racket-tail
+  pt: ''
   zh: 棕靴盘尾蜂鸟
   nl: Yungasvlagstaartpluimbroekje
   pl: furczak krótkopióry

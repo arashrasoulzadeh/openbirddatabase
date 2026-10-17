@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9376.0
 names:
   scientific: Ninox rumseyi
-  fa: nan
+  fa: ''
   en: Cebu Boobook
   es: Nínox de Cebú
   fr: Ninoxe de Cebu
   de: Cebukauz
-  pt: cebu boobook
+  pt: ''
   ru: Себуанская иглоногая сова
   ja: セブアオバズク
   nl: Cebuvalkuil

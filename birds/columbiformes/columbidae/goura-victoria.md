@@ -15,7 +15,7 @@ names:
   pt: victoria crowned-pigeon
   ru: Веероносный голубь
   ja: オウギバト
-  zh: Victoria Crowned Pigeon
+  zh: ''
   nl: Waaierduif
   pl: koroniec plamoczuby
   tr: Viktorya Taçlı Güvercini

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28057.0
 names:
   scientific: Toxostoma lecontei
-  fa: nan
+  fa: ''
   en: LeConte's Thrasher
   es: Cuitlacoche Pálido
   fr: Moqueur de LeConte
   de: Wüstenspottdrossel
-  pt: leconte's thrasher
+  pt: ''
   ru: Пустынный пересмешник
   ja: サボテンムジツグミモドキ
   nl: Woestijnspotlijster

@@ -12,7 +12,7 @@ names:
   es: Chotacabras Colifino
   fr: Engoulevent de Reichenow
   de: Kurzschleppen-Nachtschwalbe
-  pt: slender-tailed nightjar
+  pt: ''
   ru: Узкохвостый козодой
   ja: ホソオヨタカ
   zh: 细尾夜鹰

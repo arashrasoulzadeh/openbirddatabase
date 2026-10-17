@@ -15,7 +15,7 @@ names:
   pt: black-billed woodhoopoe
   ru: Черноклювый древесный удод
   ja: ソマリーモリヤツガシラ
-  zh: Black-billed Wood Hoopoe
+  zh: ''
   nl: Zwartsnavelkakelaar
   pl: sierpodudek czarnodzioby
   tr: Kara Gagalı İbibik

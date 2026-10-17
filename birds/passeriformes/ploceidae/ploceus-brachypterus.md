@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30780.0
 names:
   scientific: Ploceus brachypterus
-  fa: nan
+  fa: ''
   en: Olive-naped Weaver
   es: Tejedor Nuquiverde
   fr: Tisserin pirate
   de: Olivnackenweber
-  pt: olive-naped weaver
+  pt: ''
   nl: Olijfnekwever
   pl: wikłacz krótkoskrzydły
   tr: Yeşil Enseli Dokumacı

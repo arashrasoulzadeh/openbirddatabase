@@ -12,7 +12,7 @@ names:
   es: Chocha Oscura
   fr: Bécasse de Java
   de: Malaienschnepfe
-  pt: javan woodcock
+  pt: ''
   ru: Тёмный вальдшнеп
   ja: ミナミヤマシギ
   nl: Javaanse houtsnip

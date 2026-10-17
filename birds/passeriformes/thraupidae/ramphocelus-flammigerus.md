@@ -12,7 +12,7 @@ names:
   es: Tangara Flamígera
   fr: Tangara flamboyant
   de: Feuerbürzeltangare
-  pt: flame-rumped tanager
+  pt: ''
   ru: Красноспинный сереброклюв
   ja: ミナミコシアカフウキンチョウ
   nl: Vuurrugtangare

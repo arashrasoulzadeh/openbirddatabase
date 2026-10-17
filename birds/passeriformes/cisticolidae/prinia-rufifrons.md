@@ -12,7 +12,7 @@ names:
   es: Prinia Frentirroja
   fr: Prinia de Rüppell
   de: Rotstirnprinie
-  pt: red-fronted prinia
+  pt: ''
   ru: Краснолицая приния
   ja: チャビタイムシクイ
   nl: Roodmaskerprinia

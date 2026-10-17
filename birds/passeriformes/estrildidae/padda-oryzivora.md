@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 31066.0
 names:
   scientific: Padda oryzivora
-  fa: nan
+  fa: ''
   en: Java Sparrow
   es: Capuchino Arrocero de Java
   fr: Padda de Java

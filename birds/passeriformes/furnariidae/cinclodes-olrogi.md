@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15096.0
 names:
   scientific: Cinclodes olrogi
-  fa: nan
+  fa: ''
   en: Olrog's Cinclodes
   es: Remolinera de Olrog
   fr: Cinclode d'Olrog
   de: Zweifarb-Uferwipper
-  pt: olrog's cinclodes
+  pt: ''
   ru: Пестрокрылая трясохвостка
   ja: アルゼンチンカワカマドドリ
   nl: Olrogwipstaart

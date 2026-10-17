@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29950.0
 names:
   scientific: Pachyglossa olivacea
-  fa: nan
+  fa: ''
   en: Olive-backed Flowerpecker
   es: Picaflores Oliváceo
   fr: Dicée olive
   de: Grünmantel-Mistelfresser
-  pt: olive-backed flowerpecker
+  pt: ''
   ru: Зеленоспинный цветосос
   ja: オリーブハナドリモドキ
   nl: Groenrughoningvogel

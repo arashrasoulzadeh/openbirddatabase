@@ -12,7 +12,7 @@ names:
   es: Bulbul Chillón
   fr: Bulbul bruyant
   de: Sjöstedtbülbül
-  pt: sjöstedt's greenbul
+  pt: ''
   ru: Экваториальный бюльбюль
   ja: キバラオジロヒヨドリ
   nl: Sjöstedtbuulbuul

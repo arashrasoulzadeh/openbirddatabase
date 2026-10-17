@@ -12,7 +12,7 @@ names:
   es: Albatros de Isla Ámsterdam
   fr: Albatros d'Amsterdam
   de: Amsterdamalbatros
-  pt: amsterdam albatross
+  pt: ''
   ru: Амстердамский альбатрос
   ja: アムステルダムアホウドリ
   zh: 阿島信天翁

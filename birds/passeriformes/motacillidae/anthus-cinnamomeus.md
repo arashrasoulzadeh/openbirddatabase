@@ -12,7 +12,7 @@ names:
   es: Bisbita Africano
   fr: Pipit africain
   de: Zimtspornpieper
-  pt: african pipit
+  pt: ''
   ru: Африканский конёк
   ja: アフリカマミジロタヒバリ
   nl: Kaneelpieper

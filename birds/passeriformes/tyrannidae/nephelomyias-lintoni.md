@@ -12,7 +12,7 @@ names:
   es: Mosquero de Linton
   fr: Moucherolle de Linton
   de: Orangeband-Schnäppertyrann
-  pt: orange-banded flycatcher
+  pt: ''
   ru: Светлоглазая курэта
   ja: アカバネフタスジハエトリ
   nl: Oranjebandtiran

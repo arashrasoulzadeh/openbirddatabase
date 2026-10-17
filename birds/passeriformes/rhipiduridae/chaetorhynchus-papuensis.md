@@ -12,7 +12,7 @@ names:
   es: Drongo Papú
   fr: Chétorhynque papou
   de: Drongofächerschwanz
-  pt: drongo fantail
+  pt: ''
   ru: Бирюзовый веерохвост
   ja: パプアオウチュウ
   nl: Bergdrongo

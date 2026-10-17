@@ -12,7 +12,7 @@ names:
   es: Pingüino Barbijo
   fr: Manchot à jugulaire
   de: Kehlstreifpinguin
-  pt: chinstrap penguin
+  pt: ''
   ru: Антарктический пингвин
   ja: ヒゲペンギン
   zh: 南極企鵝

@@ -12,7 +12,7 @@ names:
   es: Carpinterito de Guayana
   fr: Picumne de Cayenne
   de: Däumlingsspecht
-  pt: arrowhead piculet
+  pt: ''
   ru: Гвианский дятелок
   ja: ヤジリヒメキツツキ
   zh: 尖头姬啄木鸟

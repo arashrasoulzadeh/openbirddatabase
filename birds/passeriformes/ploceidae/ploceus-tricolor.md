@@ -12,7 +12,7 @@ names:
   es: Tejedor Tricolor
   fr: Tisserin tricolore
   de: Dreifarbweber
-  pt: yellow-mantled weaver
+  pt: ''
   ru: Трёхцветный ткач
   ja: サンショクハタオリ
   nl: Driekleurenwever

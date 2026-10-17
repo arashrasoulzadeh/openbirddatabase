@@ -12,7 +12,7 @@ names:
   es: Cuervo Jamaicano
   fr: Corneille de Jamaïque
   de: Jamaikakrähe
-  pt: jamaican crow
+  pt: ''
   ru: Ямайская ворона
   ja: ジャマイカガラス
   zh: 牙買加烏鴉

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7074.0
 names:
   scientific: Hydrobates melania
-  fa: nan
+  fa: ''
   en: Black Storm Petrel
   es: Paíño Negro
   fr: Océanite noir
@@ -15,7 +15,7 @@ names:
   pt: black storm-petrel
   ru: Чёрная качурка
   ja: アメリカクロウミツバメ
-  zh: Black Storm Petrel
+  zh: ''
   nl: Zwart stormvogeltje
   pl: nawałnik czarny
   tr: Kaliforniya Fırtınakırlangıcı

@@ -12,7 +12,7 @@ names:
   es: Abubilla Arbórea Menor
   fr: Irrisor à cimeterre
   de: Goldschnabel-Sichelhopf
-  pt: abyssinian scimitarbill
+  pt: ''
   ru: Восточный древесный удод
   ja: キバシカマハシ
   nl: Abessijnse boomhop

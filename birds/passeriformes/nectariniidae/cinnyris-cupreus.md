@@ -12,7 +12,7 @@ names:
   es: Suimanga Cobrizo
   fr: Souimanga cuivré
   de: Kupfernektarvogel
-  pt: copper sunbird
+  pt: ''
   ru: Медная нектарница
   ja: ブロンズタイヨウチョウ
   nl: Koperhoningzuiger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26776.0
 names:
   scientific: Pterorhinus delesserti
-  fa: nan
+  fa: ''
   en: Wayanad Laughingthrush
   es: Charlatán de Delessert
   fr: Garrulaxe de Delessert
   de: Rostflankenhäherling
-  pt: wayanad laughingthrush
+  pt: ''
   ru: Малабарская кустарница
   ja: ホオグロガビチョウ
   zh: 灰胸噪鹛

@@ -12,7 +12,7 @@ names:
   es: Momoto Rojizo
   fr: Motmot caraïbe
   de: Rötelbauchmotmot
-  pt: whooping motmot
+  pt: ''
   ru: Карибский момот
   ja: ナキハチクイモドキ
   nl: Caribische motmot

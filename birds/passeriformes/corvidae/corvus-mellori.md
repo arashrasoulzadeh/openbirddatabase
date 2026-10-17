@@ -12,7 +12,7 @@ names:
   es: Cuervo de Mellor
   fr: Petit Corbeau
   de: Gesellschaftskrähe
-  pt: little raven
+  pt: ''
   ru: Южноавстралийский ворон
   ja: ミナミコワタリガラス
   zh: 小渡鴉

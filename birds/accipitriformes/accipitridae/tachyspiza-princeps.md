@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 8186.0
 names:
   scientific: Tachyspiza princeps
-  fa: nan
+  fa: ''
   en: New Britain Goshawk
   es: Azor de Nueva Bretaña
   fr: Autour de Mayr
   de: Prinzenhabicht
-  pt: new britain goshawk
+  pt: ''
   ru: Новобританский тетеревятник
   ja: オオハイガシラオオタカ
   zh: 灰頭鷹

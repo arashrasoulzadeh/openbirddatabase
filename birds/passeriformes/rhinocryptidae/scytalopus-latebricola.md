@@ -12,7 +12,7 @@ names:
   es: Churrín Ratona
   fr: Mérulaxe à croupion brun
   de: Hellkehltapaculo
-  pt: brown-rumped tapaculo
+  pt: ''
   ru: Буропоясничный тапакуло
   ja: ハイムネオタテドリ
   nl: Bruinstuittapaculo

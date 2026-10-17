@@ -12,7 +12,7 @@ names:
   es: Tordina de Puvel
   fr: Akalat de Puvel
   de: Puvellaubdrossling
-  pt: puvel's illadopsis
+  pt: ''
   ru: Большеногый дроздовник
   ja: シロハラムジチメドリ
   zh: 浦氏非洲雅鹛

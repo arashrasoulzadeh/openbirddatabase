@@ -12,7 +12,7 @@ names:
   es: Batará Negruzco
   fr: Batara capucin
   de: Kapuzenameisenwürger
-  pt: black-hooded antshrike
+  pt: ''
   ru: Капюшоновый колючник
   ja: シロボシクロアリモズ
   zh: 黑头蚁鵙

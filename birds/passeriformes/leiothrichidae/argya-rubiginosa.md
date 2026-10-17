@@ -12,7 +12,7 @@ names:
   es: Turdoide Herrumbroso
   fr: Cratérope rubigineux
   de: Heuglindrosselhäherling
-  pt: rufous chatterer
+  pt: ''
   ru: Рыжая дроздовка
   ja: チャイロヤブチメドリ
   zh: 棕紅鶇鶥

@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Piquicurvo
   fr: Moqueur à bec courbe
   de: Krummschnabel-Spottdrossel
-  pt: curve-billed thrasher
+  pt: ''
   ru: Кривоклювый пересмешник
   ja: マルハシツグミモドキ
   nl: Krombekspotlijster

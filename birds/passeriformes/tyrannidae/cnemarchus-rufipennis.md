@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17113.0
 names:
   scientific: Cnemarchus rufipennis
-  fa: nan
+  fa: ''
   en: Rufous-webbed Bush Tyrant
   es: Birro Alirrufo
   fr: Moucherolle à ailes rousses
@@ -15,7 +15,7 @@ names:
   pt: rufous-webbed bush-tyrant
   ru: Рыжекрылая гевара
   ja: シロハラヤブタイランチョウ
-  zh: Rufous-webbed Bush Tyrant
+  zh: ''
   nl: Roodvleugelstruiktiran
   pl: rudolotek
   tr: Kızıl Kanatlı Çalı Tiranı

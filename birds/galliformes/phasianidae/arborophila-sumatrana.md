@@ -12,7 +12,7 @@ names:
   es: Arborófila de Sumatra
   fr: Torquéole de Sumatra
   de: Sumatrabuschwachtel
-  pt: sumatran partridge
+  pt: ''
   ru: Суматранская лесная куропатка
   ja: スマトラミヤマテッケイ
   zh: 蘇門答臘山鷓鴣

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25996.0
 names:
   scientific: Spelaeornis oatesi
-  fa: nan
+  fa: ''
   en: Chin Hills Wren-Babbler
   es: Ratina de Los Chin
   fr: Timalie d'Oates
   de: Perlen-Zaunkönigtimalie
-  pt: chin hills wren-babbler
+  pt: ''
   ru: Ассамский тинглин
   ja: チンオナガサザイチメドリ
   zh: 缅甸鹩鹛

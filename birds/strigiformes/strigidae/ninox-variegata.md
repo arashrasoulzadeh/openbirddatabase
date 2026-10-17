@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9395.0
 names:
   scientific: Ninox variegata
-  fa: nan
+  fa: ''
   en: New Ireland Boobook
   es: Nínox de las Bismarck
   fr: Ninoxe bariolée
@@ -15,7 +15,7 @@ names:
   pt: bismarck boobook
   ru: Новоирландская иглоногая сова
   ja: ニューアイルランドアオバズク
-  zh: New Ireland Boobook
+  zh: ''
   nl: Nieuw-Ierlandvalkuil
   pl: sowica cętkowana
   tr: Bismark Bubuğu

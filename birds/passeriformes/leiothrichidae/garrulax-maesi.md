@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26748.0
 names:
   scientific: Garrulax maesi
-  fa: nan
+  fa: ''
   en: Grey Laughingthrush
   es: Charlatán de Maës
   fr: Garrulaxe de Maës

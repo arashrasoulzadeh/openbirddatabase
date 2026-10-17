@@ -15,7 +15,7 @@ names:
   pt: tchota-cana
   ru: Кабо-вердианская камышовка
   ja: ケープベルデアシナガヨシキリ
-  zh: Cape Verde Warbler
+  zh: ''
   nl: Kaapverdische rietzanger
   pl: trzciniak wyspowy
   tr: Kap Verde Kamışçını

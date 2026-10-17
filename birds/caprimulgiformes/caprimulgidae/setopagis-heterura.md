@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3545.0
 names:
   scientific: Setopagis heterura
-  fa: nan
+  fa: ''
   en: Todd's Nightjar
   es: Chotacabras de Todd
   fr: Engoulevent de Todd

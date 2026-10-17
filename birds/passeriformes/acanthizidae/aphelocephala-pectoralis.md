@@ -12,7 +12,7 @@ names:
   es: Cariblanco Pectoral
   fr: Acanthize à collier roux
   de: Braunbrust-Weißstirnchen
-  pt: chestnut-breasted whiteface
+  pt: ''
   ru: Каштановогрудый арлекин
   ja: チャムネカオジロムシクイ
   nl: Kastanjeborstwitgezicht

@@ -12,7 +12,7 @@ names:
   es: Carbonero Montañés
   fr: Mésange de Gambel
   de: Gebirgsmeise
-  pt: mountain chickadee
+  pt: ''
   ru: Горная гаичка
   ja: マミジロコガラ
   zh: 栗背山雀

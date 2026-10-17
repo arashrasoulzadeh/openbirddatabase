@@ -12,7 +12,7 @@ names:
   es: Avefría Fluvial
   fr: Vanneau pie
   de: Flusskiebitz
-  pt: river lapwing
+  pt: ''
   ru: Индийский чибис
   ja: カタグロツメバゲリ
   zh: 距翅麦鸡

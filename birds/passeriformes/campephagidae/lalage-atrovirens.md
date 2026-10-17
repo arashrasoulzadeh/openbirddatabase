@@ -12,7 +12,7 @@ names:
   es: Oruguero Cejinegro
   fr: Échenilleur papou
   de: Papuaraupenfänger
-  pt: black-browed triller
+  pt: ''
   ru: Чернобровый личинкоед-свистун
   ja: マユグロナキサンショウクイ
   zh: 黑眉鳴鵑鵙

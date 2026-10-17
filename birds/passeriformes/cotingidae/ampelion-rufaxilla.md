@@ -12,7 +12,7 @@ names:
   es: Cotinga Cresticastaño
   fr: Cotinga à tête rousse
   de: Braunohrkotinga
-  pt: chestnut-crested cotinga
+  pt: ''
   ru: Каштановохохлая котинга
   ja: カンムリカザリドリ
   nl: Roodkopcotinga

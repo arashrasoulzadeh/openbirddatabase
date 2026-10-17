@@ -12,7 +12,7 @@ names:
   es: Bulbul Moteado
   fr: Bulbul tacheté
   de: Fleckenbülbül
-  pt: spotted greenbul
+  pt: ''
   ru: Пятнистый бюльбюль
   ja: シロボシヒヨドリ
   nl: Gevlekte buulbuul

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23863.0
 names:
   scientific: Malia grata
-  fa: nan
+  fa: ''
   en: Malia
   es: Timalí Malia
   fr: Malia des Célèbes
   de: Moossänger
-  pt: malia
+  pt: ''
   ru: Малия
   ja: セレベスチメドリ
   nl: Malia

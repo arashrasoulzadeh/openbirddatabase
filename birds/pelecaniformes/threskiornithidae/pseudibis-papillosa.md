@@ -12,7 +12,7 @@ names:
   es: Ibis Verrugoso
   fr: Ibis noir
   de: Warzenibis
-  pt: red-naped ibis
+  pt: ''
   ru: Бородавчатый ибис
   ja: アカアシトキ
   zh: 黑䴉

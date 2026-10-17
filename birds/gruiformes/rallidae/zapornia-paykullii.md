@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 5583.0
 names:
   scientific: Zapornia paykullii
-  fa: nan
+  fa: ''
   en: Band-bellied Crake
   es: Polluela Mandarina
   fr: Marouette mandarin
   de: Mandarinsumpfhuhn
-  pt: band-bellied crake
+  pt: ''
   ru: Большой погоныш
   ja: コウライクイナ
   zh: 斑胁田鸡

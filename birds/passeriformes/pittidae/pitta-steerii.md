@@ -12,7 +12,7 @@ names:
   es: Pita de Mindanao
   fr: Brève de Steere
   de: Azurbrustpitta
-  pt: azure-breasted pitta
+  pt: ''
   ru: Лазурная питта
   ja: ソライロヤイロチョウ
   zh: 藍胸八色鶇

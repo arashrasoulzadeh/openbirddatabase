@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35731.0
 names:
   scientific: Asemospiza obscura
-  fa: nan
+  fa: ''
   en: Dull-colored Grassquit
   es: Semillero Oscuro
   fr: Cici obscur

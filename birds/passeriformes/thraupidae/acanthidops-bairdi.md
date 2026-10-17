@@ -12,7 +12,7 @@ names:
   es: Yal Costarricense
   fr: Bec-en-cheville gris
   de: Vulkanammertangare
-  pt: peg-billed finch
+  pt: ''
   ru: Остроклювый овсяночник
   ja: ハシナガシトド
   zh: 尖嘴雀鹀

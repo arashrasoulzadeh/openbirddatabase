@@ -12,7 +12,7 @@ names:
   es: Verdín de Palawan
   fr: Verdin de Palawan
   de: Palawanblattvogel
-  pt: yellow-throated leafbird
+  pt: ''
   ru: Палаванская листовка
   ja: パラワンコノハドリ
   nl: Palawanbladvogel

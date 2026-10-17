@@ -12,7 +12,7 @@ names:
   es: Ratina de Mindanao
   fr: Turdinule des Philippines
   de: Philippinenwolldrossling
-  pt: striated wren-babbler
+  pt: ''
   ru: Филиппинский питтодрозд
   ja: ミノチメドリ
   zh: 條紋地鶥

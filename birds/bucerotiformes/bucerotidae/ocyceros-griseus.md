@@ -15,7 +15,7 @@ names:
   pt: malabar gray hornbill
   ru: Малабарский серый ток
   ja: ニシインドコサイチョウ
-  zh: Malabar Grey Hornbill
+  zh: ''
   nl: Malabartok
   pl: dzioborożec szary
   tr: Malabar Boynuzgagası

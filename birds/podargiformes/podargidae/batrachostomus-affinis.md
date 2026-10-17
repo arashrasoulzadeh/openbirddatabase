@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3795.0
 names:
   scientific: Batrachostomus affinis
-  fa: nan
+  fa: ''
   en: Blyth's Frogmouth
   es: Podargo de Blyth
   fr: Podarge de Blyth
   de: Malaienschwalm
-  pt: blyth's frogmouth
+  pt: ''
   ru: Малайский лягушкорот
   ja: コガマグチヨタカ
   nl: Blythkikkerbek

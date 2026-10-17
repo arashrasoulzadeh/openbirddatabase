@@ -15,7 +15,7 @@ names:
   pt: yellow-lored amazon
   ru: Юкатанский амазон
   ja: キバナボウシインコ
-  zh: Yucatan Amazon
+  zh: ''
   nl: Geelteugelamazone
   pl: amazonka żółtokantarowa
   tr: Yukatan Amazonu

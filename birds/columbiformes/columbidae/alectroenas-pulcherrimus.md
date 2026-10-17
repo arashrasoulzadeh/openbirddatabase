@@ -15,7 +15,7 @@ names:
   pt: seychelles blue-pigeon
   ru: Сейшельский гривун
   ja: セーシェルルリバト
-  zh: Seychelles Blue Pigeon
+  zh: ''
   nl: Seychellenblauwduif
   pl: koralczyk czerwonogłowy
   tr: Seyşeller Mavi Güvercini

@@ -12,7 +12,7 @@ names:
   es: Cernícalo Ojiblanco
   fr: Crécerelle aux yeux blancs
   de: Steppenfalke
-  pt: greater kestrel
+  pt: ''
   ru: Большая пустельга
   ja: メジロチョウゲンボウ
   zh: 黃眼隼

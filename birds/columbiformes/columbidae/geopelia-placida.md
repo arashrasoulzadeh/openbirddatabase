@@ -12,7 +12,7 @@ names:
   es: Tortolita Plácida
   fr: Géopélie placide
   de: Friedenstäubchen
-  pt: peaceful dove
+  pt: ''
   ru: Полосатая горлица
   ja: オーストラリアチョウショウバト
   zh: 戈氏姬地鳩

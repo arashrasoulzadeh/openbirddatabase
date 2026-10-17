@@ -12,7 +12,7 @@ names:
   es: Zordala Azul
   fr: Ptilorrhoa bleu
   de: Blauflöter
-  pt: blue jewel-babbler
+  pt: ''
   ru: Синий флейтист
   ja: パプアチメドリ
   nl: Blauwe juweelbabbelaar

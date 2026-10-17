@@ -12,7 +12,7 @@ names:
   es: Rascón de Virginia
   fr: Râle de Virginie
   de: Virginiaralle
-  pt: virginia rail
+  pt: ''
   ru: Виргинский пастушок
   ja: コオニクイナ
   zh: 維吉尼亞秧雞

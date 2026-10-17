@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7947.0
 names:
   scientific: Gyps fulvus
-  fa: nan
+  fa: ''
   en: Griffon Vulture
   es: Buitre Leonado
   fr: Vautour fauve

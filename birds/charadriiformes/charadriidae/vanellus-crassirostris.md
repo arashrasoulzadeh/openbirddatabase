@@ -12,7 +12,7 @@ names:
   es: Avefría Palustre
   fr: Vanneau à ailes blanches
   de: Langzehenkiebitz
-  pt: long-toed lapwing
+  pt: ''
   ru: Длиннопалый чибис
   ja: レンカクゲリ
   zh: 长趾麦鸡

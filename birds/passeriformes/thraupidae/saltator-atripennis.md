@@ -12,7 +12,7 @@ names:
   es: Pepitero Alinegro
   fr: Saltator à ailes noires
   de: Schwarzschwingensaltator
-  pt: black-winged saltator
+  pt: ''
   ru: Чернокрылый сальтатор
   ja: ハグロイカル
   nl: Zwartvleugelsaltator

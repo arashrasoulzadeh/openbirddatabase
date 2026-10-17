@@ -15,7 +15,7 @@ names:
   pt: woodhouse's scrub-jay
   ru: Невадская сойка
   ja: ウッドハウスカケス
-  zh: Woodhouse's Scrub Jay
+  zh: ''
   nl: Pinyonstruikgaai
   pl: modrowronka leśna
   tr: Woodhouse Çalı Kargası

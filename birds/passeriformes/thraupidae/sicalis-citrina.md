@@ -15,7 +15,7 @@ names:
   pt: canário-rasteiro
   ru: Лимонный зерноед
   ja: オジロキンノジコ
-  zh: Stripe-tailed Yellow Finch
+  zh: ''
   nl: Witstaartsaffraangors
   pl: szafranka kanarkowa
   tr: Sarı Alınlı Kanarya İspinozu

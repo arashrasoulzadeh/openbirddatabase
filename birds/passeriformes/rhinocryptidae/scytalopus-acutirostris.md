@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14434.0
 names:
   scientific: Scytalopus acutirostris
-  fa: nan
+  fa: ''
   en: Tschudi's Tapaculo
   es: Churrín de Tschudi
   fr: Mérulaxe de Tschudi
   de: Grautapaculo
-  pt: tschudi's tapaculo
+  pt: ''
   ru: Тонкоклювый тапакуло
   ja: ハシボソオタテドリ
   nl: Tschuditapaculo

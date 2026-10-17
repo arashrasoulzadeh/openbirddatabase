@@ -12,7 +12,7 @@ names:
   es: Batará Collarejo
   fr: Batara de Bernard
   de: Fleckengesicht-Ameisenwürger
-  pt: collared antshrike
+  pt: ''
   ru: Белошейный колючник
   ja: シロエリエボシアリモズ
   nl: Withalsmierklauwier

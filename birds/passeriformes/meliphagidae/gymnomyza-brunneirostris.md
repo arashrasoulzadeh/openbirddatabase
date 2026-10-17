@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18147.0
 names:
   scientific: Gymnomyza brunneirostris
-  fa: nan
+  fa: ''
   en: Duetting Giant Honeyeater
   es: Mielero Gigante Piquipardo
   fr: Méliphage de Viti Levu
@@ -15,7 +15,7 @@ names:
   pt: duetting giant-honeyeater
   ru: Гигантский мао
   ja: チャバシオオミツスイ
-  zh: Duetting Giant Honeyeater
+  zh: ''
   nl: Bruinsnavelhoningeter
   pl: miodowiec jednobarwny
   tr: Viti Levu Balkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28852.0
 names:
   scientific: Bradornis microrhynchus
-  fa: nan
+  fa: ''
   en: African Grey Flycatcher
   es: Papamoscas Piquicorto
   fr: Gobemouche à petit bec
@@ -15,7 +15,7 @@ names:
   pt: african gray flycatcher
   ru: Африканская мухоловка
   ja: ハイイロヒタキ
-  zh: African Grey Flycatcher
+  zh: ''
   nl: Streepkopvliegenvanger
   pl: mucharka szara
   tr: Afrika Gri Sinekkapanı

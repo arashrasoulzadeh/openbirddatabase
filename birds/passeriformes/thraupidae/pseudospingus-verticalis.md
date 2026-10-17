@@ -12,7 +12,7 @@ names:
   es: Hemispingo Cabecinegro
   fr: Tangara à tête noire
   de: Schwarzkopf-Finkentangare
-  pt: black-headed hemispingus
+  pt: ''
   ru: Черноголовая пипира
   ja: ズグロモリフウキンチョウ
   nl: Bleekkruintangare

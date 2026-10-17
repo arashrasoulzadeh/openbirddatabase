@@ -12,7 +12,7 @@ names:
   es: Jilguero Yanqui
   fr: Chardonneret jaune
   de: Goldzeisig
-  pt: american goldfinch
+  pt: ''
   ru: Американский чиж
   ja: オウゴンヒワ
   zh: 美洲金翅雀

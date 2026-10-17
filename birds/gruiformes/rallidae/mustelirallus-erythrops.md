@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5429.0
 names:
   scientific: Mustelirallus erythrops
-  fa: nan
+  fa: ''
   en: Paint-billed Crake
   es: Polluela Picopinta
   fr: Râle à bec peint

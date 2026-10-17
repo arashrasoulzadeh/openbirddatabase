@@ -15,7 +15,7 @@ names:
   pt: plumed whistling-duck
   ru: Розовоногая древесная утка
   ja: カザリリュウキュウガモ
-  zh: Plumed Whistling Duck
+  zh: ''
   nl: Australische fluiteend
   pl: drzewica australijska
   tr: Etekli Islıkçı Ördek

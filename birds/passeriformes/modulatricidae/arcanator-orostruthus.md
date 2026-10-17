@@ -12,7 +12,7 @@ names:
   es: Tordina Manchada
   fr: Modulatrice grivelée
   de: Strichelkehlsopranist
-  pt: dapple-throat
+  pt: ''
   ru: Горный пестрозоб
   ja: ヤマブチツグミヒタキ
   nl: Buulbuullijster

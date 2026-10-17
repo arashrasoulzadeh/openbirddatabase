@@ -12,7 +12,7 @@ names:
   es: Conirrostro Orejiblanco
   fr: Conirostre oreillard
   de: Weißohr-Spitzschnabel
-  pt: white-eared conebill
+  pt: ''
   ru: Белоухий конусоклюв
   ja: ミミジロマルハシミツドリ
   zh: 白耳锥嘴雀

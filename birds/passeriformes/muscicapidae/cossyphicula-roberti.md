@@ -12,7 +12,7 @@ names:
   es: Cosifa Ventriblanco
   fr: Cossyphe à ventre blanc
   de: Weißbauchrötel
-  pt: white-bellied robin-chat
+  pt: ''
   ru: Белобрюхий рыжехвост
   ja: シロハラツグミヒタキ
   zh: 白腹歌鵖

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10123.0
 names:
   scientific: Todiramphus pyrrhopygius
-  fa: nan
+  fa: ''
   en: Red-backed Kingfisher
   es: Alción Culirrojo
   fr: Martin-chasseur à dos de feu
   de: Rotbürzelliest
-  pt: red-backed kingfisher
+  pt: ''
   ru: Красноспинная альциона
   ja: コシアカショウビン
   zh: 紅背翡翠

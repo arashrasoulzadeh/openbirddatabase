@@ -15,7 +15,7 @@ names:
   pt: moluccan dwarf-kingfisher
   ru: Карликовый лесной зимородок
   ja: マメカワセミ
-  zh: Moluccan Dwarf Kingfisher
+  zh: ''
   nl: Molukse dwergijsvogel
   pl: zimorodek zmienny
   tr: Maluku Küçük Yalıçapkını

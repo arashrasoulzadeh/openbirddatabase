@@ -12,7 +12,7 @@ names:
   es: Picoloro del Yangtsé
   fr: Paradoxornis du Yangtsé
   de: Jangtsepapageimeise
-  pt: reed parrotbill
+  pt: ''
   ru: Тростниковая сутора
   ja: カオジロダルマエナガ
   zh: 震旦鸦雀

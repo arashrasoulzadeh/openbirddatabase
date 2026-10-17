@@ -12,7 +12,7 @@ names:
   es: Alción Rojizo
   fr: Martin-chasseur violet
   de: Feuerliest
-  pt: ruddy kingfisher
+  pt: ''
   ru: Рыжий зимородок
   ja: アカショウビン
   zh: 赤翡翠

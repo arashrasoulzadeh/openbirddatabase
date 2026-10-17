@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 7862.0
 names:
   scientific: Neophron percnopterus
-  fa: nan
+  fa: ''
   en: Egyptian Vulture
   es: Alimoche Común
   fr: Percnoptère d'Égypte

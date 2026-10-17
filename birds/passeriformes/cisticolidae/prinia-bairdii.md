@@ -12,7 +12,7 @@ names:
   es: Prinia Barrada
   fr: Prinia rayée
   de: Zebraprinie
-  pt: banded prinia
+  pt: ''
   ru: Зебровая приния
   ja: ヨコジマハウチワドリ
   nl: Zebraprinia

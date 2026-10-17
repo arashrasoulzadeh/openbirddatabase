@@ -12,7 +12,7 @@ names:
   es: Corredor Indio
   fr: Courvite de Coromandel
   de: Koromandelrennvogel
-  pt: indian courser
+  pt: ''
   ru: Коромандельский бегунок
   ja: インドスナバシリ
   nl: Indische renvogel

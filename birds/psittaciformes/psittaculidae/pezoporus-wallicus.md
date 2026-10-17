@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12433.0
 names:
   scientific: Pezoporus wallicus
-  fa: nan
+  fa: ''
   en: Ground Parrot
   es: Perico Terrestre
   fr: Perruche terrestre
   de: Erdsittich
-  pt: ground parrot
+  pt: ''
   ru: Земляной попугайчик
   ja: キジインコ
   zh: 地棲鸚鵡

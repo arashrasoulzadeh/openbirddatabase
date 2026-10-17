@@ -12,7 +12,7 @@ names:
   es: Soldadito Carmesí
   fr: Rhodospingue ponceau
   de: Purpurhaubentangare
-  pt: crimson-breasted finch
+  pt: ''
   ru: Огненная арагуира
   ja: ヒムネシトド
   zh: 红胸雀

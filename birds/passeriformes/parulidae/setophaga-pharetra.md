@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34056.0
 names:
   scientific: Setophaga pharetra
-  fa: nan
+  fa: ''
   en: Arrowhead Warbler
   es: Reinita Jamaicana
   fr: Paruline de Jamaïque
   de: Strichelwaldsänger
-  pt: arrowhead warbler
+  pt: ''
   ru: Пёстрая древесница
   ja: ヤジリアメリカムシクイ
   zh: 尖头林莺

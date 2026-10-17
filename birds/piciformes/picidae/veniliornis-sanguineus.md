@@ -12,7 +12,7 @@ names:
   es: Carpintero Sanguíneo
   fr: Pic rougeâtre
   de: Blutrückenspecht
-  pt: blood-colored woodpecker
+  pt: ''
   ru: Кровавоспинный дятел
   ja: ベニハゲラ
   nl: Bloedrugspecht

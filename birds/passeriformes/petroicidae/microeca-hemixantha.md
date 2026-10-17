@@ -12,7 +12,7 @@ names:
   es: Petroica de las Tanimbar
   fr: Miro des Tanimbar
   de: Tanimbarschnäpper
-  pt: golden-bellied flyrobin
+  pt: ''
   ru: Золотистая дриада
   ja: タニンバルオリーブヒタキ
   nl: Tanimbarvliegenvanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3166.0
 names:
   scientific: Taccocua leschenaultii
-  fa: nan
+  fa: ''
   en: Sirkeer Malkoha
   es: Malcoha Sirkir
   fr: Malcoha sirkir
   de: Sirkarkuckuck
-  pt: sirkeer malkoha
+  pt: ''
   ru: Индийская малкоа
   ja: タテフバンケンモドキ
   zh: 短嘴地鹃

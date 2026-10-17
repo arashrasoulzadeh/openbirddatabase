@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35802.0
 names:
   scientific: Saltator olivascens
-  fa: nan
+  fa: ''
   en: Olive-grey Saltator
   es: Pepitero Grisáceo del Caribe
   fr: Saltator de Cabanis
   de: Karibiksaltator
-  zh: Olive-grey Saltator
+  zh: ''
   nl: Olijf-grijze saltator
   pl: ziarnołusk oliwkowy
   tr: Kurşuni Saltator

@@ -12,7 +12,7 @@ names:
   es: Avelira Soberbia
   fr: Ménure superbe
   de: Graurücken-Leierschwanz
-  pt: superb lyrebird
+  pt: ''
   ru: Великолепный лирохвост
   ja: コトドリ
   zh: 华丽琴鸟

@@ -12,7 +12,7 @@ names:
   es: Turpial de Bullock
   fr: Oriole de Bullock
   de: Bullocktrupial
-  pt: bullock's oriole
+  pt: ''
   ru: Белокрылый трупиал
   ja: ビュラックムクドリモドキ
   zh: 布氏擬鸝

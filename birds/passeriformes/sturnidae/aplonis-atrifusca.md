@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27771.0
 names:
   scientific: Aplonis atrifusca
-  fa: nan
+  fa: ''
   en: Samoan Starling
   es: Estornino de Samoa
   fr: Stourne de Samoa
   de: Samoastar
-  pt: samoan starling
+  pt: ''
   ru: Самоанский скворец
   ja: サモアカラスモドキ
   nl: Samoapurperspreeuw

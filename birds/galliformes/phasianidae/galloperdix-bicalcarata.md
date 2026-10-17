@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1601.0
 names:
   scientific: Galloperdix bicalcarata
-  fa: nan
+  fa: ''
   en: Sri Lanka Spurfowl
   es: Faisancillo de Sri Lanka
   fr: Galloperdrix de Ceylan
   de: Ceylonspornhuhn
-  pt: sri lanka spurfowl
+  pt: ''
   ru: Цейлонская шпорцевая курица
   ja: セイロンケズメシャコ
   zh: 斯里兰卡鸡鹑

@@ -12,7 +12,7 @@ names:
   es: Pergolero Regente
   fr: Jardinier prince-régent
   de: Gelbnacken-Laubenvogel
-  pt: regent bowerbird
+  pt: ''
   ru: Желтоголовый шалашник
   ja: フウチョウモドキ
   zh: 紫背別墅鳥

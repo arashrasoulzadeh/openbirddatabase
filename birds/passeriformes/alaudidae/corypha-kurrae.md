@@ -10,7 +10,7 @@ names:
   en: Highland Lark
   es: Alondra Sudanesa
   fr: Alouette des monts
-  pt: highland lark
+  pt: ''
   nl: Hooglandleeuwerik
   pl: skowroniec wyżynny
   tr: Şarabi Toygar

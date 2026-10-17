@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23616.0
 names:
   scientific: Nesillas typica
-  fa: nan
+  fa: ''
   en: Malagasy Brush Warbler
   es: Zarzalero Malgache
   fr: Nésille malgache

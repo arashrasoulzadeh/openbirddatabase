@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29640.0
 names:
   scientific: Monticola brevipes
-  fa: nan
+  fa: ''
   en: Short-toed Rock Thrush
   es: Roquero de Namibia
   fr: Monticole à doigts courts
@@ -15,7 +15,7 @@ names:
   pt: short-toed rock-thrush
   ru: Короткопалый каменный дрозд
   ja: シロガシライソヒヨ
-  zh: Short-toed Rock Thrush
+  zh: ''
   nl: Kortteenrotslijster
   pl: nagórnik krótkopalcowy
   tr: Kır Başlı Taşkızılı

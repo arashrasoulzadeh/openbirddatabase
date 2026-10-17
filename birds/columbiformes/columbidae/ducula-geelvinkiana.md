@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 2788.0
 names:
   scientific: Ducula geelvinkiana
-  fa: nan
+  fa: ''
   en: Geelvink Imperial Pigeon
   es: Dúcula de Geelvink
   fr: Carpophage de Geelvink
   de: Numforfruchttaube
   pt: geelvink imperial-pigeon
-  zh: Geelvink Imperial Pigeon
+  zh: ''
   nl: Geelvinkmuskaatduif
   pl: muszkatela uboga
   tr: Geelvink Has Güvercini

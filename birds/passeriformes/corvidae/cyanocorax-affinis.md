@@ -12,7 +12,7 @@ names:
   es: Chara Pechinegra
   fr: Geai à poitrine noire
   de: Schwarzbrust-Blaurabe
-  pt: black-chested jay
+  pt: ''
   ru: Черногрудая сойка
   ja: ムナグロルリサンジャク
   zh: 黑胸蓝鸦

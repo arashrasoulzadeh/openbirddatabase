@@ -12,7 +12,7 @@ names:
   es: Zorzal Cuelliblanco Norteño
   fr: Merle à gorge blanche
   de: Weißkehldrossel
-  pt: white-throated thrush
+  pt: ''
   ru: Манишковый дрозд
   ja: キバシノドジロツグミ
   nl: Witkeellijster

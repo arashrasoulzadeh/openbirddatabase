@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Ua Pou
   fr: Monarque de Ua Pou
   de: Ua-Pou-Monarch
-  pt: ua pou monarch
+  pt: ''
   ru: Белохвостая помарея
   ja: ウアポウヒタキ
   nl: Ua-Poumonarch

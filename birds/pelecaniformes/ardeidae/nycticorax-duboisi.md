@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 7607.0
 names:
   scientific: Nycticorax duboisi
-  fa: nan
+  fa: ''
   en: Reunion Night Heron
   es: Martinete de Reunión
   fr: Bihoreau de La Réunion
   de: Réunion-Nachtreiher
-  pt: reunion night heron
+  pt: ''
   ru: Реюньонская кваква
   ja: レユニオンゴイサギ
   zh: 留岛夜鹭

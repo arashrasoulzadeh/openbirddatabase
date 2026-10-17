@@ -12,7 +12,7 @@ names:
   es: Gallito de las Rocas Peruano
   fr: Coq-de-roche péruvien
   de: Andenfelsenhahn
-  pt: andean cock-of-the-rock
+  pt: ''
   ru: Андский скальный петушок
   ja: アンデスイワドリ
   zh: 安第斯動冠傘鳥

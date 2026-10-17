@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16441.0
 names:
   scientific: Todirostrum pictum
-  fa: nan
+  fa: ''
   en: Painted Tody-Flycatcher
   es: Titirijí Pintado
   fr: Todirostre peint

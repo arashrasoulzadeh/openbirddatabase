@@ -12,7 +12,7 @@ names:
   es: Picanzo de Bower
   fr: Siffleur de Bower
   de: Graurücken-Dickkopf
-  pt: bower's shrikethrush
+  pt: ''
   ru: Сероспинный питуи
   ja: ムナフモズツグミ
   nl: Grijsruglijsterdikkop

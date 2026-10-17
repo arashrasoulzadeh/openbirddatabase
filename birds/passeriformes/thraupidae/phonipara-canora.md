@@ -12,7 +12,7 @@ names:
   es: Semillero Canoro
   fr: Petit-chanteur de Cuba
   de: Kubagimpeltangare
-  pt: cuban grassquit
+  pt: ''
   ru: Кубинский семилеро
   ja: クビワスズメ
   nl: Kleine cubavink

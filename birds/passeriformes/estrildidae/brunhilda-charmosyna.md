@@ -11,7 +11,7 @@ names:
   es: Estrilda Carinegra Norteña
   fr: Astrild des fées
   de: Feenastrild
-  pt: black-cheeked waxbill
+  pt: ''
   ru: Чернощёкий астрильд
   ja: コシアカカエデチョウ
   zh: 红腰梅花雀

@@ -15,7 +15,7 @@ names:
   pt: marañon crescentchest
   ru: Мараньонская серпогрудка
   ja: キマユオタテドリ
-  zh: Maranon Crescentchest
+  zh: ''
   nl: Marañonmaansluiper
   pl: obrożnik peruwiański
   tr: Maranyon Hilalgerdanı

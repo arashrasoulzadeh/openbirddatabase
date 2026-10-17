@@ -12,7 +12,7 @@ names:
   es: Rascón Inepto
   fr: Râle géant
   de: Baumralle
-  pt: new guinea flightless rail
+  pt: ''
   ru: Новогвинейский погоныш
   ja: パプアクイナ
   zh: 新几内亚秧鸡

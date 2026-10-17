@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35574.0
 names:
   scientific: Sporophila morelleti
-  fa: nan
+  fa: ''
   en: Morelet's Seedeater
   es: Semillero Cuelliblanco
   fr: Sporophile de Morelet
   de: Schwarzbrustspelzer
-  pt: morelet's seedeater
+  pt: ''
   ru: Воротничковый просяночник
   ja: シロエリヒメウソ
   nl: Withalsdikbekje

@@ -12,7 +12,7 @@ names:
   es: Brillante Emperador
   fr: Brillant impératrice
   de: Rotstern-Brillantkolibri
-  pt: empress brilliant
+  pt: ''
   ru: Королевский бриллиант
   ja: エンビテリハチドリ
   zh: 皇辉蜂鸟

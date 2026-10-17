@@ -12,7 +12,7 @@ names:
   es: Cucal de Célebes
   fr: Coucal des Célèbes
   de: Celebeskuckuck
-  pt: bay coucal
+  pt: ''
   ru: Сулавесский кукаль
   ja: セレベスバンケン
   nl: Sulawesispoorkoekoek

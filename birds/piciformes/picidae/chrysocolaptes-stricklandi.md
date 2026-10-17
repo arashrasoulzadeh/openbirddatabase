@@ -12,7 +12,7 @@ names:
   es: Pito Sultán de Sri Lanka
   fr: Pic de Ceylan
   de: Ceylonsultanspecht
-  pt: crimson-backed flameback
+  pt: ''
   ru: Красноспинный дятел-султан
   ja: セアカコガネゲラ
   nl: Ceylonese goudrugspecht

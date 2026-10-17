@@ -12,7 +12,7 @@ names:
   es: Mielero Chillón
   fr: Méliphage bruyant
   de: Weißstirn-Schwatzvogel
-  pt: noisy miner
+  pt: ''
   ru: Черношапочная манорина
   ja: クロガオミツスイ
   zh: 黑額礦吸蜜鳥

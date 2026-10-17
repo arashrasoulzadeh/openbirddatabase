@@ -15,7 +15,7 @@ names:
   pt: gray greenbul
   ru: Карликовый бюльбюль
   ja: ヒメハイヒヨ
-  zh: Little Grey Greenbul
+  zh: ''
   nl: Dwergbuulbuul
   pl: brązownik szarawy
   tr: Küçük Yaprakbülbülü

@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Mindanao
   fr: Calao de Mindanao
   de: Tariktikhornvogel
-  pt: mindanao hornbill
+  pt: ''
   ru: Минданаоский калао
   ja: ミンダナオカオグロサイチョウ
   zh: 棉岛犀鸟

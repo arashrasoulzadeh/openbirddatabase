@@ -12,7 +12,7 @@ names:
   es: Camachuelo Mexicano
   fr: Roselin familier
   de: Hausgimpel
-  pt: house finch
+  pt: ''
   ru: Мексиканская чечевица
   ja: メキシコマシコ
   zh: 家朱雀

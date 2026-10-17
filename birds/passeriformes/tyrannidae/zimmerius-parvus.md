@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16800.0
 names:
   scientific: Zimmerius parvus
-  fa: nan
+  fa: ''
   en: Mistletoe Tyrannulet
   es: Mosquerito Menor
   fr: Tyranneau menu
   de: Hellbauch-Kleintyrann
-  pt: mistletoe tyrannulet
+  pt: ''
   ru: Малый москитолов
   ja: ヤドリギコタイランチョウ
   nl: Maretakvliegenpikker

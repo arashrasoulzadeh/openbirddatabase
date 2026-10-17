@@ -12,7 +12,7 @@ names:
   es: Ánade Subantártico
   fr: Canard d'Eaton
   de: Kerguelenente
-  pt: eaton's pintail
+  pt: ''
   ru: Кергеленская шилохвость
   ja: イートンオナガガモ
   zh: 凱島針尾鴨

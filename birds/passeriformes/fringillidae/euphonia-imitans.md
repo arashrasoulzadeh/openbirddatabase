@@ -12,7 +12,7 @@ names:
   es: Eufonia Coronipinta
   fr: Organiste moucheté
   de: Stirnfleckenorganist
-  pt: spot-crowned euphonia
+  pt: ''
   ru: Венценосная эуфония
   ja: ホシスミレフウキンチョウ
   nl: Vlekkruinorganist

@@ -12,7 +12,7 @@ names:
   es: Churrín Diademado
   fr: Mérulaxe à diadème
   de: Diademtapaculo
-  pt: diademed tapaculo
+  pt: ''
   ru: Диадемовый тапакуло
   ja: オウカンオタテドリ
   nl: Diadeemtapaculo

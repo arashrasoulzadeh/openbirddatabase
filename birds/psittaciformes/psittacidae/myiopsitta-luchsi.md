@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12823.0
 names:
   scientific: Myiopsitta luchsi
-  fa: nan
+  fa: ''
   en: Cliff Parakeet
   es: Cotorra Boliviana
   fr: Perriche des falaises
   de: Luchssittich
-  pt: cliff parakeet
+  pt: ''
   ru: Боливийский попугай-монах
   zh: 懸崖鸚鵡
   nl: Klifparkiet

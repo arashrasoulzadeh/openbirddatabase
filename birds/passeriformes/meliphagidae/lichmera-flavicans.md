@@ -15,7 +15,7 @@ names:
   pt: papa-mel-d'orelha-amarela
   ru: Тиморский медолюб
   ja: チモールオリーブミツスイ
-  zh: Flame-eared Honeyeater
+  zh: ''
   nl: Timorese honingeter
   pl: miodojadek złotouchy
   tr: Timor Balkuşu

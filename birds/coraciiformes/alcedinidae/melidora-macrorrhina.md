@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10229.0
 names:
   scientific: Melidora macrorrhina
-  fa: nan
+  fa: ''
   en: Hook-billed Kingfisher
   es: Martín Cazador Ganchudo
   fr: Martin-chasseur d'Euphrosine
   de: Hakenliest
-  pt: hook-billed kingfisher
+  pt: ''
   ru: Крючкоклювый зимородок
   ja: カギハシショウビン
   nl: Haaksnavelijsvogel

@@ -12,7 +12,7 @@ names:
   es: Toquí Moteado
   fr: Tohi tacheté
   de: Fleckengrundammer
-  pt: spotted towhee
+  pt: ''
   ru: Пятнистый тохи
   ja: ホシワキアカトウヒチョウ
   zh: 斑唧鵐

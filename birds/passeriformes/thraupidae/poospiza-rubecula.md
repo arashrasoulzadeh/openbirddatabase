@@ -12,7 +12,7 @@ names:
   es: Monterita Pechirrufa
   fr: Chipiu rougegorge
   de: Rostbauch-Finkentangare
-  pt: rufous-breasted warbling finch
+  pt: ''
   ru: Зарянковая монтерита
   ja: ムネアカマユシトド
   nl: Roodborstboomgors

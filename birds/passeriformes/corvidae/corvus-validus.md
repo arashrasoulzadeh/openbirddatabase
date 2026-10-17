@@ -12,7 +12,7 @@ names:
   es: Cuervo Moluqueño
   fr: Corneille des Moluques
   de: Molukkenkrähe
-  pt: long-billed crow
+  pt: ''
   ru: Молуккская ворона
   ja: モルッカガラス
   zh: 长嘴乌鸦

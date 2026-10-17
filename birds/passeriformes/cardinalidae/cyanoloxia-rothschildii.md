@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34584.0
 names:
   scientific: Cyanoloxia rothschildii
-  fa: nan
+  fa: ''
   en: Amazonian Grosbeak
   es: Picogrueso Amazónico
   fr: Évêque de Rothschild

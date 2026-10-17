@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco de Mackinlay
   fr: Phasianelle de Mackinlay
   de: Mackinlaytaube
-  pt: spot-breasted cuckoo-dove
+  pt: ''
   ru: Рыжая кукушковая горлица
   ja: メラネシアオナガバト
   nl: Mackinlaykoekoeksduif

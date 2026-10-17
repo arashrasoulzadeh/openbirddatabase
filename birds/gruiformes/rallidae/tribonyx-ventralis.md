@@ -12,7 +12,7 @@ names:
   es: Gallineta Patirroja
   fr: Gallinule aborigène
   de: Rotfuß-Teichhuhn
-  pt: black-tailed nativehen
+  pt: ''
   ru: Чернохвостая камышница
   ja: オグロバン
   zh: 黑尾水鸡

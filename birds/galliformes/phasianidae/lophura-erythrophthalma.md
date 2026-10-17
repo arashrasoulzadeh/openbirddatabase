@@ -12,7 +12,7 @@ names:
   es: Faisán Colicanelo Malayo
   fr: Faisan à queue rousse
   de: Malaien-Gelbschwanzfasan
-  pt: malayan crestless fireback
+  pt: ''
   ru: Вилохвостая лофура
   ja: ウチワキジ
   zh: 棕尾火背鷴

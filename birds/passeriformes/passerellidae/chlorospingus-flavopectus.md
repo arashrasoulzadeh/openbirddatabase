@@ -12,7 +12,7 @@ names:
   es: Clorospingo Común
   fr: Chlorospin des buissons
   de: Finkengrünammer
-  pt: common chlorospingus
+  pt: ''
   ru: Очковый дромник
   ja: ヤブフウキンチョウ
   nl: Briltangare

@@ -15,7 +15,7 @@ names:
   pt: gaivota-cinzenta
   ru: Серая чайка
   ja: ハイイロカモメ
-  zh: Grey Gull
+  zh: ''
   nl: Grijze meeuw
   pl: mewa szara
   tr: Kül Rengi Martı

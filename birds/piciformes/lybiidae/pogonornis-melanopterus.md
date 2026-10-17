@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10674.0
 names:
   scientific: Pogonornis melanopterus
-  fa: nan
+  fa: ''
   en: Brown-breasted Barbet
   es: Barbudo Pechipardo
   fr: Barbican à poitrine brune
   de: Braunbrust-Bartvogel
-  pt: brown-breasted barbet
+  pt: ''
   ru: Красноголовый зубцеклюв
   ja: チャムネゴシキドリ
   nl: Bruinborstbaardvogel

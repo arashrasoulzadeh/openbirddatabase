@@ -15,7 +15,7 @@ names:
   pt: luzon racquet-tail
   ru: Горный ракетохвост
   ja: ルソンズアカウチワインコ
-  zh: Montane Racket-tail
+  zh: ''
   nl: Bergvlagstaartpapegaai
   pl: listkogonka niebieskolica
   tr: Dağ Raket Kuyruklu Papağanı

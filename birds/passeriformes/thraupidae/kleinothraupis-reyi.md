@@ -15,7 +15,7 @@ names:
   pt: gray-capped hemispingus
   ru: Серошапочная пипира
   ja: ハイガシラモリフウキンチョウ
-  zh: Grey-capped Hemispingus
+  zh: ''
   nl: Grijskruintangare
   pl: zieleńczyk szarołbisty
   tr: Gri Başlı Hemispingus

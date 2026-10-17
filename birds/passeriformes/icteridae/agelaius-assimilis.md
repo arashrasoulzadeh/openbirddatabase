@@ -12,7 +12,7 @@ names:
   es: Sargento Cubano
   fr: Carouge de Cuba
   de: Rotschulterstärling
-  pt: red-shouldered blackbird
+  pt: ''
   ru: Краснокрылый трупиал
   ja: アカカタハゴロモガラス
   nl: Roodschoudertroepiaal

@@ -12,7 +12,7 @@ names:
   es: Leiótrix Cariblanco
   fr: Léiothrix à joues argent
   de: Silberohr-Sonnenvogel
-  pt: silver-eared mesia
+  pt: ''
   ru: Белоухий лиотрикс
   ja: ゴシキソウシチョウ
   zh: 银耳相思鸟

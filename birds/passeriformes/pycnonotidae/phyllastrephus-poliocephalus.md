@@ -15,7 +15,7 @@ names:
   pt: gray-headed greenbul
   ru: Седоголовый бюльбюль
   ja: キバラミドリヒヨドリ
-  zh: Grey-headed Greenbul
+  zh: ''
   nl: Geelbuikloofbuulbuul
   pl: jasnobrzuch żółty
   tr: Gri Yaprakbülbülü

@@ -12,10 +12,10 @@ names:
   es: Tangara Rosada
   fr: Quéo rosalbin
   de: Rosenbrust-Tangarenammer
-  pt: rosy thrush-tanager
+  pt: ''
   ru: Дроздовидная кео
   ja: バラムネフウキンチョウ
-  zh: Rosy Thrush-tanager
+  zh: ''
   nl: Troepiaaltangare
   pl: tanagrzec
   tr: Pembe Gerdanlı Ardıç Tangarası

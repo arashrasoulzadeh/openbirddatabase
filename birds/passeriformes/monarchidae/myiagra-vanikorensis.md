@@ -12,7 +12,7 @@ names:
   es: Monarca de Vanikoro
   fr: Monarque de Vanikoro
   de: Rotbauchmonarch
-  pt: vanikoro flycatcher
+  pt: ''
   ru: Фиджийская миагра
   ja: アカハシヒラハシ
   nl: Roodbuikmonarch

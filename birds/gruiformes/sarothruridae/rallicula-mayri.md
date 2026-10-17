@@ -12,7 +12,7 @@ names:
   es: Polluela de Mayr
   fr: Râle de Mayr
   de: Zyklopenralle
-  pt: mayr's forest rail
+  pt: ''
   ru: Новогвинейский пастушок
   ja: クリイロパプアクイナ
   nl: Mayrkaneelral

@@ -12,7 +12,7 @@ names:
   es: Gorrión Cuellirrufo
   fr: Niverolle à cou roux
   de: Rothals-Erdsperling
-  pt: rufous-necked snowfinch
+  pt: ''
   ru: Рыжешейный земляной воробей
   ja: チャミミユキスズメ
   zh: 棕颈雪雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34289.0
 names:
   scientific: Myiothlypis griseiceps
-  fa: nan
+  fa: ''
   en: Grey-headed Warbler
   es: Reinita Cabecigrís
   fr: Paruline à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-headed warbler
   ru: Серогорлый певун
   ja: ハイガシラアメリカムシクイ
-  zh: Grey-headed Warbler
+  zh: ''
   nl: Grijswangzanger
   pl: koronówka szarogłowa
   tr: Gri Başlı Ötleğen

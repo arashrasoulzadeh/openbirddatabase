@@ -15,7 +15,7 @@ names:
   pt: red-faced woodland-warbler
   ru: Рыжелицая пеночка
   ja: アカガオハヤシムシクイ
-  zh: Red-faced Woodland Warbler
+  zh: ''
   nl: Bruinwangboszanger
   pl: świstunka rdzawolica
   tr: Al Yüzlü Çıvgın

@@ -12,7 +12,7 @@ names:
   es: Cistícola Castaño
   fr: Cisticole châtaine
   de: Zimtzistensänger
-  pt: pale-crowned cisticola
+  pt: ''
   ru: Светлоголовая цистикола
   ja: ニッケイセッカ
   nl: Bleekkopgraszanger

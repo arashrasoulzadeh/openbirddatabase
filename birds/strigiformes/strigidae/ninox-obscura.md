@@ -12,7 +12,7 @@ names:
   es: Nínox Oscuro
   fr: Ninoxe de Hume
   de: Dunkelkauz
-  pt: hume's boobook
+  pt: ''
   ru: Тёмная иглоногая сова
   ja: アンダマナオバズク
   nl: Grote-Andamanenvalkuil

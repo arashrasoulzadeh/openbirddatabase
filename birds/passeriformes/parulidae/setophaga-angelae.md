@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 34055.0
 names:
   scientific: Setophaga angelae
-  fa: nan
+  fa: ''
   en: Elfin Woods Warbler
   es: Reinita de Ángela
   fr: Paruline d'Angela
@@ -15,7 +15,7 @@ names:
   pt: elfin-woods warbler
   ru: Пуэрториканская древесница
   ja: プエルトリコアメリカムシクイ
-  zh: Elfin Woods Warbler
+  zh: ''
   nl: Puertoricaanse zanger
   pl: lasówka wzorzysta
   tr: Elfin Ormanı Ötleğeni

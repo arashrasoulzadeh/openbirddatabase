@@ -12,7 +12,7 @@ names:
   es: Momoto Enano
   fr: Motmot nain
   de: Zwergmotmot
-  pt: tody motmot
+  pt: ''
   ru: Малый момот
   ja: コハチクイモドキ
   nl: Kleine motmot

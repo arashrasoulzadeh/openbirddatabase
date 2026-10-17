@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35445.0
 names:
   scientific: Poospiza rufosuperciliaris
-  fa: nan
+  fa: ''
   en: Rufous-browed Hemispingus
   es: Hemispingo Cejirrufo
   fr: Chipiu à sourcils fauves
   de: Zimtbrauen-Finkentangare
-  pt: rufous-browed hemispingus
+  pt: ''
   ru: Рыжебровая пипира
   ja: アカマユモリフウキンチョウ
   nl: Roodbrauwboomgors

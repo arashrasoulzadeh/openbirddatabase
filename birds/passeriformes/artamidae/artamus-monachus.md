@@ -12,7 +12,7 @@ names:
   es: Artamo Cabecinegro
   fr: Langrayen à tête noire
   de: Weißrücken-Schwalbenstar
-  pt: ivory-backed woodswallow
+  pt: ''
   ru: Черноголовый артам
   ja: セレベスモリツバメ
   zh: 白喙燕鵙

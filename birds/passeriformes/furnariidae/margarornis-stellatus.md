@@ -15,7 +15,7 @@ names:
   pt: fulvous-dotted treerunner
   ru: Жемчужногорлый щетинкохвост
   ja: ムナボシヒゲオカマドドリ
-  zh: Star-chested Treerunner
+  zh: ''
   nl: Bruinvlekboomloper
   pl: perłowiec gwiaździsty
   tr: Yıldızlı Dalkoşarı

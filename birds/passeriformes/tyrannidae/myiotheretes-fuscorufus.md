@@ -15,7 +15,7 @@ names:
   pt: rufous-bellied bush-tyrant
   ru: Рыжебрюхий кустарниковый тиранн
   ja: アカハラヤブタイランチョウ
-  zh: Rufous-bellied Bush Tyrant
+  zh: ''
   nl: Roodbuikstruiktiran
   pl: kopciuch rdzawoskrzydły
   tr: Kızıl Karınlı Çalı Tiranı

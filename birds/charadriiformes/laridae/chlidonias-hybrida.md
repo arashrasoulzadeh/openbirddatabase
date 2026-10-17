@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6720.0
 names:
   scientific: Chlidonias hybrida
-  fa: nan
+  fa: ''
   en: Whiskered Tern
   es: Fumarel Cariblanco
   fr: Guifette moustac

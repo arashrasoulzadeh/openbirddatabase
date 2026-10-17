@@ -12,7 +12,7 @@ names:
   es: Bubú Cabecinegro
   fr: Gonolek à ventre rouge
   de: Scharlachwürger
-  pt: black-headed gonolek
+  pt: ''
   ru: Черноголовый гонолек
   ja: アカクロヤブモズ
   nl: Zwartkopfiskaal

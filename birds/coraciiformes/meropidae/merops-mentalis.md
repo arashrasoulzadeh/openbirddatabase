@@ -12,7 +12,7 @@ names:
   es: Abejaruco Cabeciazul Occidental
   fr: Guêpier à moustaches
   de: Türkisbartspint
-  pt: blue-moustached bee-eater
+  pt: ''
   ru: Синеусая щурка
   ja: アオヒゲハチクイ
   nl: Blauwsnorbijeneter

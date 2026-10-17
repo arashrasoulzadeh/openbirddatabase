@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14256.0
 names:
   scientific: Grallaria carrikeri
-  fa: nan
+  fa: ''
   en: Pale-billed Antpitta
   es: Tororoí de Carriker
   fr: Grallaire de Carriker
   de: Blassschnabel-Ameisenpitta
-  pt: pale-billed antpitta
+  pt: ''
   ru: Светлоклювая питтовая муравьеловка
   ja: ハシジロジアリドリ
   nl: Bleeksnavelmierpitta

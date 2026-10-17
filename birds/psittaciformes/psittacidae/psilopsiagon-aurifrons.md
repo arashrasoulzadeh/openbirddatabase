@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12806.0
 names:
   scientific: Psilopsiagon aurifrons
-  fa: nan
+  fa: ''
   en: Mountain Parakeet
   es: Catita Frentidorada
   fr: Toui à bandeau jaune
   de: Zitronensittich
-  pt: mountain parakeet
+  pt: ''
   ru: Желтолобый калита
   ja: シトロンインコ
   nl: Citroenparkiet

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3173.0
 names:
   scientific: Phaenicophaeus curvirostris
-  fa: nan
+  fa: ''
   en: Chestnut-breasted Malkoha
   es: Malcoha Pechicastaño
   fr: Malcoha rouverdin
   de: Schimmerkuckuck
-  pt: chestnut-breasted malkoha
+  pt: ''
   ru: Каштановогрудая малкоа
   ja: チャムネバンケンモドキ
   zh: 栗胸地鵑

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3372.0
 names:
   scientific: Cacomantis sepulcralis
-  fa: nan
+  fa: ''
   en: Sunda Brush Cuckoo
   es: Cuco Malayo
   fr: Coucou endeuillé
   de: Rostbrustkuckuck
-  pt: sunda brush cuckoo
+  pt: ''
   ru: Ржавобрюхая кукушка
   ja: ハイガシラヒメカッコウ
   nl: Soendastruikkoekoek

@@ -12,7 +12,7 @@ names:
   es: Vanga de Van Dam
   fr: Vanga de van Dam
   de: Ambarovanga
-  pt: van dam's vanga
+  pt: ''
   ru: Белогорлая ванга
   ja: シロノドハシボソオオハシモズ
   nl: Vandamvanga

@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Tinian
   fr: Monarque de Tinian
   de: Tinianmonarch
-  pt: tinian monarch
+  pt: ''
   ru: Марианский монарх
   ja: チャバラビタキ
   nl: Tinianmonarch

@@ -12,7 +12,7 @@ names:
   es: Remolinera Castaña
   fr: Cinclode à ailes blanches
   de: Schwarzschwanz-Uferwipper
-  pt: white-winged cinclodes
+  pt: ''
   ru: Атакамская трясохвостка
   ja: ハジロカワカマドドリ
   nl: Witvleugelwipstaart

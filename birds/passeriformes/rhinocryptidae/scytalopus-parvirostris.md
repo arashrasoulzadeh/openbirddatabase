@@ -12,7 +12,7 @@ names:
   es: Churrín Trinador
   fr: Mérulaxe à petit bec
   de: Trillertapaculo
-  pt: trilling tapaculo
+  pt: ''
   ru: Певчий тапакуло
   ja: ウスズミオタテドリ
   nl: Zwartgrijze tapaculo

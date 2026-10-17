@@ -12,7 +12,7 @@ names:
   es: Torillo Ocelado
   fr: Turnix de Luçon
   de: Riesenlaufhühnchen
-  pt: spotted buttonquail
+  pt: ''
   ru: Большая трёхперстка
   ja: ルソンミフウズラ
   zh: 菲律宾三趾鹑

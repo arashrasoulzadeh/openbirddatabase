@@ -12,7 +12,7 @@ names:
   es: Inca Alihabano
   fr: Inca à gemme bleue
   de: Fahlflügelkolibri
-  pt: buff-winged starfrontlet
+  pt: ''
   ru: Бледнокрылый инка
   ja: モンツキインカハチドリ
   zh: 黄翅星额蜂鳥

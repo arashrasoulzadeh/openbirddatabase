@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21839.0
 names:
   scientific: Melanodryas bimaculata
-  fa: nan
+  fa: ''
   en: White-rumped Robin
   es: Petroica Culiblanca
   fr: Miro à croupion blanc
   de: Weißbürzel-Dickichtschnäpper
-  pt: white-rumped robin
+  pt: ''
   ru: Пятнистая дриада
   ja: コシジロパプアヒタキ
   nl: Witstuitstruikvliegenvanger

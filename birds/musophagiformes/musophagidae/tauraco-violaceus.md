@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2993.0
 names:
   scientific: Tauraco violaceus
-  fa: nan
+  fa: ''
   en: Violet Turaco
   es: Turaco Violáceo
   fr: Touraco violet

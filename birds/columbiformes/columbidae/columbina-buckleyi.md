@@ -12,7 +12,7 @@ names:
   es: Columbina Ecuatoriana
   fr: Colombe de Buckley
   de: Blasstäubchen
-  pt: ecuadorian ground dove
+  pt: ''
   ru: Эквадорская земляная горлица
   ja: オオスズメバト
   zh: 厄瓜多地鳩

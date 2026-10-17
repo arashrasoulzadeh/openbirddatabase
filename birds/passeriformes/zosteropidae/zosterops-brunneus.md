@@ -15,7 +15,7 @@ names:
   pt: bioko speirops
   ru: Бурая белоглазка
   ja: フェルナンドポーメジロモドキ
-  zh: Fernando Po Speirops
+  zh: ''
   nl: Biokobrilvogel
   pl: szlarnik brunatny
   tr: Fernando Po Gözlükçüsü

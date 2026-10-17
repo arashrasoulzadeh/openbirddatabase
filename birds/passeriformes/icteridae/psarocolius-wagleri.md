@@ -12,7 +12,7 @@ names:
   es: Cacique Cabecicastaño
   fr: Cassique à tête brune
   de: Rotkopf-Stirnvogel
-  pt: chestnut-headed oropendola
+  pt: ''
   ru: Каштановоголовая оропендола
   ja: クリガシラオオツリスドリ
   nl: Wagleroropendola

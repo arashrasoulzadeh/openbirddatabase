@@ -12,7 +12,7 @@ names:
   es: Estornino de Blyth
   fr: Étourneau de Blyth
   de: Malabarstar
-  pt: malabar starling
+  pt: ''
   ru: Малабарский скворец
   ja: マラバームクドリ
   zh: 马拉巴椋鸟

@@ -12,10 +12,10 @@ names:
   es: Anteojitos Ojigualdo
   fr: Zostérops à lunettes jaunes
   de: Gelbring-Brillenvogel
-  pt: yellow-spectacled heleia
+  pt: ''
   ru: Желтолицая элейя
   ja: ウォーレスメジロ
-  zh: Yellow-ringed White-eye
+  zh: ''
   nl: Geelringbrilvogel
   pl: okularowiec żółtooki
   tr: Sarı Halkalı Gözlükçü

@@ -12,7 +12,7 @@ names:
   es: Cetia Verdiamarilla
   fr: Bouscarle jaune et vert
   de: Olivseidensänger
-  pt: aberrant bush warbler
+  pt: ''
   ru: Оливковая широкохвостка
   ja: キバラウグイス
   zh: 异色树莺

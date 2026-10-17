@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26743.0
 names:
   scientific: Garrulax milleti
-  fa: nan
+  fa: ''
   en: Black-hooded Laughingthrush
   es: Charlatán de Millet
   fr: Garrulaxe de Millet
   de: Kapuzenhäherling
-  pt: black-hooded laughingthrush
+  pt: ''
   ru: Капюшоновая кустарница
   ja: クロズキンガビチョウ
   zh: 黑冠噪鶥

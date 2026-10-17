@@ -12,7 +12,7 @@ names:
   es: Pito de Corazones
   fr: Pic canente
   de: Rundschwanzspecht
-  pt: heart-spotted woodpecker
+  pt: ''
   ru: Чернохохлый дятлик
   ja: クロカンムリコゲラ
   zh: 黑冠啄木鳥

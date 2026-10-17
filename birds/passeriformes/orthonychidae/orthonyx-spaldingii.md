@@ -12,7 +12,7 @@ names:
   es: Colaespina de Spalding
   fr: Orthonyx de Spalding
   de: Schwarzkopfflöter
-  pt: chowchilla
+  pt: ''
   ru: Чаучилла
   ja: メジロハシリチメドリ
   zh: 黑头刺尾鸫

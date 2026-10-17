@@ -12,7 +12,7 @@ names:
   es: Cerquero Tangarino
   fr: Tohi élégant
   de: Tangarenbuschammer
-  pt: tanager finch
+  pt: ''
   ru: Танагровый дромник
   ja: フウキンチョウモドキ
   zh: 唐納雀鵐

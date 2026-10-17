@@ -15,7 +15,7 @@ names:
   pt: spectacled imperial-pigeon
   ru: Очковый плодовый голубь
   ja: メジロミカドバト
-  zh: Spectacled Imperial Pigeon
+  zh: ''
   nl: Brilmuskaatduif
   pl: muszkatela białooka
   tr: Gözlüklü Has Güvercin

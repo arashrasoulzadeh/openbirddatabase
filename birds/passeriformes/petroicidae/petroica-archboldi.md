@@ -12,7 +12,7 @@ names:
   es: Petroica Roquera
   fr: Miro des rochers
   de: Felsenschnäpper
-  pt: snow mountain robin
+  pt: ''
   ru: Горная петроика
   ja: イワサンショクヒタキ
   zh: 雪山知更

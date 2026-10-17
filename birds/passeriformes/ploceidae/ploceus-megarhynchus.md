@@ -12,7 +12,7 @@ names:
   es: Tejedor de Finn
   fr: Tisserin de Finn
   de: Großschnabelweber
-  pt: finn's weaver
+  pt: ''
   ru: Большеклювый ткач
   ja: キイロコウヨウジャク
   zh: 巨嘴织雀

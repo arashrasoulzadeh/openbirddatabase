@@ -15,7 +15,7 @@ names:
   pt: gray-crowned rosy-finch
   ru: Американский вьюрок
   ja: ハイガシラハギマシコ
-  zh: Grey-crowned Rosy Finch
+  zh: ''
   nl: Grijskruinbergvink
   pl: góralka siwogłowa
   tr: Gri Başlı Alamecek

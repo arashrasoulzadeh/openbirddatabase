@@ -12,7 +12,7 @@ names:
   es: Jacamará Cobrizo
   fr: Jacamar des Andes
   de: Kupferglanzvogel
-  pt: coppery-chested jacamar
+  pt: ''
   ru: Рыжебрюхая якамара
   ja: セミドリキリハシ
   nl: Koperborstglansvogel

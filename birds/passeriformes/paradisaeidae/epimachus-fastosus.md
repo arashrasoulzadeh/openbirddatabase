@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Fastuosa
   fr: Paradisier fastueux
   de: Schwarzbauch-Paradieshopf
-  pt: black sicklebill
+  pt: ''
   ru: Чёрный райский шилоклюв
   ja: オナガカマハシフウチョウ
   zh: 黑镰嘴风鸟

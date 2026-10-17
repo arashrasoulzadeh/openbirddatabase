@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 23756.0
 names:
   scientific: Acrocephalus caffer
-  fa: nan
+  fa: ''
   en: Tahiti Reed Warbler
   es: Carricero de Tahití
   fr: Rousserolle à long bec
   de: Langschnabel-Rohrsänger
-  pt: tahiti reed warbler
+  pt: ''
   ru: Таитянская камышовка
   ja: ハシナガヨシキリ
   zh: 长嘴苇莺

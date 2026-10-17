@@ -12,7 +12,7 @@ names:
   es: Pijuí de Cundinamarca
   fr: Synallaxe à gorge argentée
   de: Grauschwanz-Dickichtschlüpfer
-  pt: silvery-throated spinetail
+  pt: ''
   ru: Серозобая иглохвостка
   ja: ギンノドオナガカマドドリ
   nl: Zilverkeelstekelstaart

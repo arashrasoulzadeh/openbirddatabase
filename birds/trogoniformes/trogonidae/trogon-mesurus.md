@@ -12,7 +12,7 @@ names:
   es: Trogón Colinegro Occidental
   fr: Trogon d'Équateur
   de: Guayaquiltrogon
-  pt: ecuadorian trogon
+  pt: ''
   ru: Белоглазый трогон
   ja: エクアドルキヌバネドリ
   nl: Ecuadoraanse trogon

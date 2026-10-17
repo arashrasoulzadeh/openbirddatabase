@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 30367.0
 names:
   scientific: Cinnyris prigoginei
-  fa: nan
+  fa: ''
   en: Prigogine's Double-collared Sunbird
   es: Suimanga de Prigogine
   fr: Souimanga de Prigogine
@@ -15,7 +15,7 @@ names:
   pt: prigogine's sunbird
   ru: Марунгская нектарница
   ja: ミヤマゴシキタイヨウチョウ
-  zh: Prigogine's Double-collared Sunbird
+  zh: ''
   nl: Prigoginehoningzuiger
   pl: nektarnik przepasany
   tr: Prigogine Nektarkuşu

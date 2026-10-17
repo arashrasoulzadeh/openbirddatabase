@@ -12,7 +12,7 @@ names:
   es: Turdoide Escamado
   fr: Cratérope maillé
   de: Schuppendrosselhäherling
-  pt: scaly babbler
+  pt: ''
   ru: Чешуйчатая дроздовка
   ja: ウロコヤブチメドリ
   zh: 鳞羽鸫鹛

@@ -12,7 +12,7 @@ names:
   es: Bubú de Willard
   fr: Gonolek de Willard
   de: Grauaugenwürger
-  pt: willard's sooty boubou
+  pt: ''
   ru: Рувензорский бубу
   ja: ウィラードナキヤブモズ
   nl: Willardfiskaal

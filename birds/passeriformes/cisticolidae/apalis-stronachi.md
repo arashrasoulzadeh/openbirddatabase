@@ -10,7 +10,7 @@ names:
   en: Maasai Apalis
   es: Apalis Masái
   fr: Apalis de Stronach
-  pt: maasai apalis
+  pt: ''
   nl: Masai-apalis
   pl: nikornik masajski
   tr: Masai Mara Apalisi

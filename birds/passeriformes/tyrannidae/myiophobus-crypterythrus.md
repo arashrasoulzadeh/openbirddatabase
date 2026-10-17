@@ -13,7 +13,7 @@ names:
   fr: Moucherolle de Pallantanga
   de: Grauschulter-Schnäppertyrann
   pt: mouse-gray flycatcher
-  zh: Mouse-grey Flycatcher
+  zh: ''
   nl: Grijze roesttiran
   pl: tyranka szarawa
   tr: Gri Sinek Tiranı

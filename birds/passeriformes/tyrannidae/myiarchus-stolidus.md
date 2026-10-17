@@ -12,7 +12,7 @@ names:
   es: Copetón Bobito
   fr: Tyran grosse-tête
   de: Haitischopftyrann
-  pt: stolid flycatcher
+  pt: ''
   ru: Большеголовый миарх
   ja: アカオヒタキモドキ
   nl: Dikkoptiran

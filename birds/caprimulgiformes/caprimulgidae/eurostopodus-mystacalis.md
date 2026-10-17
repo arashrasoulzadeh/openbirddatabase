@@ -12,7 +12,7 @@ names:
   es: Chotacabras Bigotudo
   fr: Engoulevent moustac
   de: Bartnachtschwalbe
-  pt: white-throated nightjar
+  pt: ''
   ru: Белоусый козодой
   ja: オオヒゲナシヨタカ
   zh: 白喉毛腿夜鹰

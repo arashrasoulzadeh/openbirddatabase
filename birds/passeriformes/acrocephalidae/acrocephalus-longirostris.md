@@ -12,7 +12,7 @@ names:
   es: Carricero de Isla Moorea
   fr: Rousserolle de Moorea
   de: Moorearohrsänger
-  pt: moorea reed warbler
+  pt: ''
   ru: Муреанская камышовка
   ja: モーレアヨシキリ
   zh: 莫岛苇莺

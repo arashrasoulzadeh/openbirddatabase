@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25602.0
 names:
   scientific: Zosterops nigrorum
-  fa: nan
+  fa: ''
   en: Yellowish White-eye
   es: Anteojitos Amarillento
   fr: Zostérops jaunâtre
   de: Philippinenbrillenvogel
-  pt: yellowish white-eye
+  pt: ''
   ru: Филиппинская белоглазка
   ja: フィリピンキメジロ
   zh: 菲律賓繡眼

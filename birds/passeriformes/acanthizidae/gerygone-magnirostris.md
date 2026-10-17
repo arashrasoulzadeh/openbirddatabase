@@ -12,7 +12,7 @@ names:
   es: Gerigón Picudo
   fr: Gérygone à bec fort
   de: Sumpfgerygone
-  pt: large-billed gerygone
+  pt: ''
   ru: Большеклювая геригона
   ja: ハシブトセンニョムシクイ
   zh: 沼泽噪刺莺

@@ -12,7 +12,7 @@ names:
   es: Barrancolí Picogrueso
   fr: Todier à bec large
   de: Breitschnabeltodi
-  pt: broad-billed tody
+  pt: ''
   ru: Ширококлювый тоди
   ja: ハシブトコビトドリ
   nl: Diksnaveltodie

@@ -12,7 +12,7 @@ names:
   es: Bisbita Montano
   fr: Pipit alticole
   de: Drakensbergpieper
-  pt: mountain pipit
+  pt: ''
   ru: Лесотский конёк
   ja: ヤママミジロタヒバリ
   nl: Bergpieper

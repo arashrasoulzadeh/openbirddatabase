@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24502.0
 names:
   scientific: Iole charlottae
-  fa: nan
+  fa: ''
   en: Charlotte's Bulbul
   es: Bulbul de Charlotte
   fr: Bulbul de Charlotte
   de: Charlottebülbül
-  pt: charlotte's bulbul
+  pt: ''
   ru: Бледный бюльбюль
   ja: シャーロットヒヨドリ
   nl: Borneose buulbuul

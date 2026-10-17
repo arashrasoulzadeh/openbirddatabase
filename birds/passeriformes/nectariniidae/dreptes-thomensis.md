@@ -15,7 +15,7 @@ names:
   pt: sao tome sunbird
   ru: Гигантская нектарница
   ja: クロオニタイヨウチョウ
-  zh: Giant Sunbird
+  zh: ''
   nl: Reuzenhoningzuiger
   pl: nektarnik posępny
   tr: Büyük Nektarkuşu

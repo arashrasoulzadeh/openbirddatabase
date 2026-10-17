@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22225.0
 names:
   scientific: Machlolophus spilonotus
-  fa: nan
+  fa: ''
   en: Yellow-cheeked Tit
   es: Carbonero Carigualdo Chino
   fr: Mésange à dos tacheté
   de: Königsmeise
-  pt: yellow-cheeked tit
+  pt: ''
   ru: Королевская синица
   ja: セボシカンムリガラ
   zh: 黄颊山雀

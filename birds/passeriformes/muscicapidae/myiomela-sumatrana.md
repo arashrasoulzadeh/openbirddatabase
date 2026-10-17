@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29475.0
 names:
   scientific: Myiomela sumatrana
-  fa: nan
+  fa: ''
   en: Sumatran Blue Robin
   es: Ruiseñor de Sumatra
   fr: Myiomèle de Sumatra
@@ -15,7 +15,7 @@ names:
   pt: sumatran robin
   ru: Myiomela diana sumatrana
   ja: スマトラシロビタイコンヒタキ
-  zh: Sumatran Blue Robin
+  zh: ''
   nl: Sumatraanse callene
   pl: pluszanka sumatrzańska
   tr: Sumatra Bülbülü

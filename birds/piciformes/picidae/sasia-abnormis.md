@@ -12,7 +12,7 @@ names:
   es: Carpinterito Malayo
   fr: Picumne roux
   de: Malaienmausspecht
-  pt: rufous piculet
+  pt: ''
   ru: Рыжий дятелок
   ja: マレーミツユビコゲラ
   zh: 棕啄木鳥

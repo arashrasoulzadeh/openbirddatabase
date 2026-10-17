@@ -12,7 +12,7 @@ names:
   es: Oo de Bishop
   fr: Moho de Bishop
   de: Ohrbüschelmoho
-  pt: bishop's oo
+  pt: ''
   ru: Желтоухий мохо
   ja: ミミフサミツスイ
   zh: 監督吸蜜鳥

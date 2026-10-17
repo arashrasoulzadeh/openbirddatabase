@@ -12,7 +12,7 @@ names:
   es: Verderón del Himalaya
   fr: Verdier de l'Himalaya
   de: Himalajagrünfink
-  pt: yellow-breasted greenfinch
+  pt: ''
   ru: Чижиная зеленушка
   ja: キバラカワラヒワ
   zh: 高山金翅雀

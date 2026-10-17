@@ -12,7 +12,7 @@ names:
   es: Tangara Negriamarilla
   fr: Tangara loriot
   de: Zitronentangare
-  pt: black-and-yellow tanager
+  pt: ''
   ru: Чёрно-жёлтая танагра
   ja: キンクロフウキンチョウ
   zh: 黑黄唐纳雀

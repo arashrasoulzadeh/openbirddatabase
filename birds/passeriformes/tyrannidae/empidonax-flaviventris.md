@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16949.0
 names:
   scientific: Empidonax flaviventris
-  fa: nan
+  fa: ''
   en: Yellow-bellied Flycatcher
   es: Mosquero Ventriamarillo
   fr: Moucherolle à ventre jaune
   de: Birkenschnäppertyrann
-  pt: yellow-bellied flycatcher
+  pt: ''
   ru: Желтобрюхий мухолов
   ja: キバラメジロハエトリ
   zh: 黃腹蚊霸鶲

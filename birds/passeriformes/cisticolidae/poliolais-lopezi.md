@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22995.0
 names:
   scientific: Poliolais lopezi
-  fa: nan
+  fa: ''
   en: White-tailed Warbler
   es: Camaróptera Coliblanca
   fr: Poliolaïs à queue blanche
   de: Weißschwanzsänger
-  pt: white-tailed warbler
+  pt: ''
   ru: Шиферная белохвостка
   ja: ヘルナンドポームシクイ
   nl: Witstaartzanger

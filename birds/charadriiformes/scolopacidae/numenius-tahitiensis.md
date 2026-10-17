@@ -12,7 +12,7 @@ names:
   es: Zarapito del Pacífico
   fr: Courlis d'Alaska
   de: Borstenbrachvogel
-  pt: bristle-thighed curlew
+  pt: ''
   ru: Таитянский кроншнеп
   ja: ハリモモチュウシャク
   zh: 太平洋杓鹬

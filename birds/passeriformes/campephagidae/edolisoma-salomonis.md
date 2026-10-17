@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18907.0
 names:
   scientific: Edolisoma salomonis
-  fa: nan
+  fa: ''
   en: Makira Cicadabird
   es: Oruguero de San Cristóbal
   fr: Échenilleur de San Cristobal

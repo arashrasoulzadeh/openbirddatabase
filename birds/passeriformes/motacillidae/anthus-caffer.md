@@ -15,7 +15,7 @@ names:
   pt: bush pipit
   ru: Кустарниковый конёк
   ja: クサハラタヒバリ
-  zh: Bushveld Pipit
+  zh: ''
   nl: Savannepieper
   pl: świergotek zaroślowy
   tr: Otlak İncirkuşu

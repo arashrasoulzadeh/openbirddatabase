@@ -12,7 +12,7 @@ names:
   es: Mosquitero Carirrufo
   fr: Bouscarle à moustaches
   de: Rostwangen-Dickichtsänger
-  pt: rufous-faced warbler
+  pt: ''
   ru: Рыжещёкая комарница
   ja: コシジロムシクイ
   zh: 棕脸鹟莺

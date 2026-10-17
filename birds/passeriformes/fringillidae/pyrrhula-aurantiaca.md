@@ -12,7 +12,7 @@ names:
   es: Camachuelo Anaranjado
   fr: Bouvreuil orangé
   de: Goldrückengimpel
-  pt: orange bullfinch
+  pt: ''
   ru: Оранжевый снегирь
   ja: オレンジウソ
   zh: 橙色灰雀

@@ -12,7 +12,7 @@ names:
   es: Grulla Cuellinegra
   fr: Grue à cou noir
   de: Schwarzhalskranich
-  pt: black-necked crane
+  pt: ''
   ru: Черношейный журавль
   ja: オグロヅル
   zh: 黑颈鹤

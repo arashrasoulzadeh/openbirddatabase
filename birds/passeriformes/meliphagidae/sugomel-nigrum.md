@@ -12,7 +12,7 @@ names:
   es: Mielero Blanquinegro
   fr: Myzomèle cravaté
   de: Trauerhonigfresser
-  pt: black honeyeater
+  pt: ''
   ru: Чёрный медосос
   ja: シロクロミツスイ
   zh: 黑吸蜜鸟

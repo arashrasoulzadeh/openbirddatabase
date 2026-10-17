@@ -12,7 +12,7 @@ names:
   es: Picotenaza Africano
   fr: Bec-ouvert africain
   de: Glanzklaffschnabel
-  pt: african openbill
+  pt: ''
   ru: Африканский аист-разиня
   ja: クロスキハシコウ
   zh: 非洲鉗嘴鸛

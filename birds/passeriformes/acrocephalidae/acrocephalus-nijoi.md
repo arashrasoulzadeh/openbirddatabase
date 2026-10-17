@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 23733.0
 names:
   scientific: Acrocephalus nijoi
-  fa: nan
+  fa: ''
   en: Aguiguan Reed Warbler
   es: Carricero de Isla Aguiján
   fr: Rousserolle d'Aguijan
   de: Aguijanrohrsänger
-  pt: aguiguan reed warbler
+  pt: ''
   ja: アギハンヨシキリ
   zh: 马里亚纳苇莺
   nl: Aguijankarekiet

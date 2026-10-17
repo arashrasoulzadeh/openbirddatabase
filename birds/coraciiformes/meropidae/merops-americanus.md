@@ -12,7 +12,7 @@ names:
   es: Abejaruco Filipino
   fr: Guêpier à gorge verte
   de: Rostscheitelspint
-  pt: rufous-crowned bee-eater
+  pt: ''
   ja: アカカンムリハチクイ
   nl: Roestkruinbijeneter
   pl: żołna czerwonołbista

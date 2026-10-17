@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2943.0
 names:
   scientific: Heterotetrax vigorsii
-  fa: nan
+  fa: ''
   en: Karoo Korhaan
   es: Sisón del Karoo
   fr: Outarde de Vigors
@@ -15,7 +15,7 @@ names:
   pt: karoo bustard
   ru: Черногорлый корхан
   ja: ノドグロショウノガン
-  zh: Karoo Korhaan
+  zh: ''
   nl: Zwartkintrap
   pl: dropik szaroszyi
   tr: Karu Toyu

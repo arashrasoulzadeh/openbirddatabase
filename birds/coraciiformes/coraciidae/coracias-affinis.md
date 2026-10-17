@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10343.0
 names:
   scientific: Coracias affinis
-  fa: nan
+  fa: ''
   en: Indochinese Roller
   es: Carraca Indochina
   fr: Rollier d'Indochine
   de: Purpurbrustracke
-  pt: indochinese roller
+  pt: ''
   ru: Индокитайская сизоворонка
   ja: インドシナブッポウソウ
   zh: 棕胸佛法僧

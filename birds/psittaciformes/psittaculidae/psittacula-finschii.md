@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12360.0
 names:
   scientific: Psittacula finschii
-  fa: nan
+  fa: ''
   en: Grey-headed Parakeet
   es: Cotorra de Finsch
   fr: Perruche de Finsch

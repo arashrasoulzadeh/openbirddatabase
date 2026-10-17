@@ -12,7 +12,7 @@ names:
   es: Arborófila Pechicastaña
   fr: Torquéole à poitrine châtaine
   de: Charltonbuschwachtel
-  pt: chestnut-necklaced partridge
+  pt: ''
   ru: Ожереловая лесная куропатка
   ja: クリチャミヤマテッケイ
   zh: 栗胸树鹧鸪

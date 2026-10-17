@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Republicana
   fr: Paradisier républicain
   de: Nacktkopf-Paradiesvogel
-  pt: wilson's bird-of-paradise
+  pt: ''
   ru: Синеголовая райская птица
   ja: アカミノフウチョウ
-  zh: Wilson's Bird-of-paradise
+  zh: ''
   nl: Wilsonparadijsvogel
   pl: latawiec krasnogrzbiety
   tr: Mavi Tepeli Cennetkuşu

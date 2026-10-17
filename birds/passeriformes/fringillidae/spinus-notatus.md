@@ -12,7 +12,7 @@ names:
   es: Jilguero Cabecinegro
   fr: Tarin à tête noire
   de: Schwarzbrustzeisig
-  pt: black-headed siskin
+  pt: ''
   ru: Черноголовый чиж
   ja: ズグロキバラヒワ
   nl: Zwartkopsijs

@@ -12,7 +12,7 @@ names:
   es: Anteojitos Pechiblanco
   fr: Zostérops à poitrine blanche
   de: Norfolkbrillenvogel
-  pt: white-chested white-eye
+  pt: ''
   ru: Норфолкская белоглазка
   ja: ノーフォークメジロ
   zh: 白胸繡眼鳥

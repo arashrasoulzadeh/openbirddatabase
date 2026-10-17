@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8746.0
 names:
   scientific: Otus pamelae
-  fa: nan
+  fa: ''
   en: Arabian Scops Owl
   es: Autillo Árabe
   fr: Petit-duc d'Arabie
@@ -15,7 +15,7 @@ names:
   pt: arabian scops-owl
   ru: Аравийская сплюшка
   ja: アラビアコノハズク
-  zh: Arabian Scops Owl
+  zh: ''
   nl: Arabische dwergooruil
   pl: syczek białobrewy
   tr: Arabistan İshakkuşu

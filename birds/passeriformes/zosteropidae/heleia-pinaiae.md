@@ -15,7 +15,7 @@ names:
   pt: gray-hooded heleia
   ru: Сероголовая элейя
   ja: チャムネメジロ
-  zh: Grey-hooded White-eye
+  zh: ''
   nl: Serambergbrilvogel
   pl: okularowiec szarogłowy
   tr: Gri Başlı Gözlükçü

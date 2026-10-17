@@ -12,7 +12,7 @@ names:
   es: Picamaderos de Magallanes
   fr: Pic de Magellan
   de: Magellanspecht
-  pt: magellanic woodpecker
+  pt: ''
   ru: Магелланов дятел
   ja: マゼランキツツキ
   zh: 麥哲倫啄木鳥

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28248.0
 names:
   scientific: Cochoa azurea
-  fa: nan
+  fa: ''
   en: Javan Cochoa
   es: Cochoa de Java
   fr: Cochoa azuré
   de: Sundaschnäpperdrossel
-  pt: javan cochoa
+  pt: ''
   ru: Синяя кохоа
   ja: ジャワミヤマツグミ
   nl: Blauwe cochoa

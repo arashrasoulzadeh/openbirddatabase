@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6361.0
 names:
   scientific: Stercorarius parasiticus
-  fa: nan
+  fa: ''
   en: Parasitic Jaeger
   es: Págalo Parásito
   fr: Labbe parasite

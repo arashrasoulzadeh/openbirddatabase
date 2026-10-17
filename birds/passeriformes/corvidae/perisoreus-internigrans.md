@@ -12,7 +12,7 @@ names:
   es: Arrendajo de Sichuán
   fr: Mésangeai du Sichuan
   de: Sichuanhäher
-  pt: sichuan jay
+  pt: ''
   ru: Сычуаньская кукша
   ja: ハイイロカケス
   zh: 黑头噪鸦

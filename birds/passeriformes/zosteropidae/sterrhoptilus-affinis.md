@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25556.0
 names:
   scientific: Sterrhoptilus affinis
-  fa: nan
+  fa: ''
   en: Calabarzon Babbler
   es: Timalí de Calabarzón
   fr: Zostérops du Calabarzon
   de: Bicolbrillenvogel
-  pt: calabarzon babbler
+  pt: ''
   nl: Calabarzonboomtimalia
   pl: cierniofilipinek rdzawogardły
   tr: Luzon Kara Alınlı Gözlükçüsü

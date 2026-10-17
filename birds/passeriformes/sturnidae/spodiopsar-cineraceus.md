@@ -12,7 +12,7 @@ names:
   es: Estornino Gris
   fr: Étourneau gris
   de: Weißwangenstar
-  pt: white-cheeked starling
+  pt: ''
   ru: Серый скворец
   ja: ムクドリ
   zh: 灰椋鸟

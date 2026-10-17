@@ -12,7 +12,7 @@ names:
   es: Pardela Subantártica
   fr: Puffin élégant
   de: Subantarktis-Sturmtaucher
-  pt: subantarctic shearwater
+  pt: ''
   ru: Субантарктический буревестник
   ja: アナンキョクヒメミズナギドリ
   nl: Subantarctische kleine pijlstormvogel

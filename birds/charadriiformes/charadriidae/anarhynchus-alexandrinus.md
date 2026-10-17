@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5954.0
 names:
   scientific: Anarhynchus alexandrinus
-  fa: nan
+  fa: ''
   en: Kentish Plover
   es: Chorlitejo Patinegro
   fr: Pluvier à collier interrompu

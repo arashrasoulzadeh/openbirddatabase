@@ -12,7 +12,7 @@ names:
   es: Semillero Torcaz
   fr: Sporophile à col blanc
   de: Halsbandspelzer
-  pt: cinnamon-rumped seedeater
+  pt: ''
   ru: Ошейниковый просяночник
   ja: セアカシロエリヒメウソ
   nl: Kaneelstuitdikbekje

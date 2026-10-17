@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16965.0
 names:
   scientific: Empidonax wrightii
-  fa: nan
+  fa: ''
   en: American Grey Flycatcher
   es: Mosquero Gris
   fr: Moucherolle gris
@@ -15,7 +15,7 @@ names:
   pt: gray flycatcher
   ru: Пепельный мухолов
   ja: ハイイロメジロハエトリ
-  zh: American Grey Flycatcher
+  zh: ''
   nl: Alsemfeetiran
   pl: empidonka zielna
   tr: Wright Sinekkapanı

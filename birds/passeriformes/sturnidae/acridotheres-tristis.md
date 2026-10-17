@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27859.0
 names:
   scientific: Acridotheres tristis
-  fa: nan
+  fa: ''
   en: Common Myna
   es: Miná Común
   fr: Martin triste

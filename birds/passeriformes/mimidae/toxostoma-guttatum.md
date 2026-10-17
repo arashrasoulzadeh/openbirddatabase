@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 28045.0
 names:
   scientific: Toxostoma guttatum
-  fa: nan
+  fa: ''
   en: Cozumel Thrasher
   es: Cuitlacoche de Cozumel
   fr: Moqueur de Cozumel
   de: Cozumelspottdrossel
-  pt: cozumel thrasher
+  pt: ''
   ru: Косумельский пересмешник
   ja: コスメルツグミモドキ
   zh: 斑弯嘴嘲鸫

@@ -12,7 +12,7 @@ names:
   es: Calandria Tibetana
   fr: Alouette du Tibet
   de: Sumpflerche
-  pt: tibetan lark
+  pt: ''
   ru: Тибетский жаворонок
   ja: オオコウテンシ
   zh: 长嘴百灵

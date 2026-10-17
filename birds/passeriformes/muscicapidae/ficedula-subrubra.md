@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Cachemira
   fr: Gobemouche du Cachemire
   de: Kaschmirschnäpper
-  pt: kashmir flycatcher
+  pt: ''
   ru: Кашмирская мухоловка
   ja: カシミールオジロビタキ
   nl: Kasjmirvliegenvanger

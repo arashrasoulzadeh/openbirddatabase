@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34049.0
 names:
   scientific: Geothlypis nelsoni
-  fa: nan
+  fa: ''
   en: Hooded Yellowthroat
   es: Mascarita Matorralera
   fr: Paruline de Nelson
   de: Berggelbkehlchen
-  pt: hooded yellowthroat
+  pt: ''
   ru: Капюшоновая желтогрудка
   ja: ズキンカオグロムシクイ
   nl: Nelsonmaskerzanger

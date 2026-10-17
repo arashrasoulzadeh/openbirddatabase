@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10130.0
 names:
   scientific: Todiramphus farquhari
-  fa: nan
+  fa: ''
   en: Vanuatu Kingfisher
   es: Alción Ventrirrufo
   fr: Martin-chasseur à ventre roux
   de: Braunbauchliest
-  pt: vanuatu kingfisher
+  pt: ''
   ru: Вануатская альциона
   ja: クリハラショウビン
   zh: 栗腹翡翠

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17264.0
 names:
   scientific: Sirystes subcanescens
-  fa: nan
+  fa: ''
   en: Todd's Sirystes
   es: Mosquero Canoso
   fr: Tyran mélodieux

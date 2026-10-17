@@ -15,7 +15,7 @@ names:
   pt: bush wren
   ru: Кустарниковый стрелок
   ja: ヤブサザイ
-  zh: Bushwren
+  zh: ''
   nl: Struikwinterkoning
   pl: łazik zaroślowy
   tr: Zenik

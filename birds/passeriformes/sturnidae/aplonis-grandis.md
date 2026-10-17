@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27715.0
 names:
   scientific: Aplonis grandis
-  fa: nan
+  fa: ''
   en: Brown-winged Starling
   es: Estornino de las Salomón
   fr: Stourne des Salomon
   de: Kragenstar
-  pt: brown-winged starling
+  pt: ''
   ru: Соломоновский скворец
   ja: オオカラスモドキ
   nl: Grote purperspreeuw

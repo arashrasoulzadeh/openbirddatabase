@@ -12,7 +12,7 @@ names:
   es: Tejedor de Jackson
   fr: Tisserin à dos d'or
   de: Jacksonweber
-  pt: golden-backed weaver
+  pt: ''
   ru: Златоспинный ткач
   ja: キゴロモハタオリ
   zh: 蘇丹金背織布鳥

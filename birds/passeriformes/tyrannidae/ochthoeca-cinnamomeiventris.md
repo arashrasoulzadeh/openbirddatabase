@@ -15,7 +15,7 @@ names:
   pt: chestnut-bellied chat-tyrant
   ru: Сероспинный чекановый тиранн
   ja: カワリヒタキタイランチョウ
-  zh: Slaty-backed Chat-Tyrant
+  zh: ''
   nl: Grijsrugtapuittiran
   pl: kląszczyk ciemnogrzbiety
   tr: Kestane Karınlı Bülbül Tiranı

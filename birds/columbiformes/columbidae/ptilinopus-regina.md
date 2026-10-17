@@ -15,7 +15,7 @@ names:
   pt: pombo-frugívoro-de-coroa-rosada
   ru: Королевский фруктовый голубь
   ja: ベニビタイヒメアオバト
-  zh: Rose-crowned Fruit Dove
+  zh: ''
   nl: Swainsonjufferduif
   pl: owocożer królewski
   tr: Gül Alınlı Meyve Kumrusu

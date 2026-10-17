@@ -12,7 +12,7 @@ names:
   es: Maluro Variegado
   fr: Mérion de Lambert
   de: Weißbauch-Staffelschwanz
-  pt: variegated fairywren
+  pt: ''
   ru: Разноцветный малюр
   ja: タサイオーストラリアムシクイ
   zh: 雜色細尾鷯鶯

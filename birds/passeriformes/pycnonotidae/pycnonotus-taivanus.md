@@ -12,7 +12,7 @@ names:
   es: Bulbul de Taiwán
   fr: Bulbul de Taïwan
   de: Taiwanbülbül
-  pt: styan's bulbul
+  pt: ''
   ru: Тайваньский бюльбюль
   ja: クロガシラ
   zh: 台湾鹎

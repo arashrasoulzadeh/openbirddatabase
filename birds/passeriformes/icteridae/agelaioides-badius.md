@@ -15,7 +15,7 @@ names:
   pt: asa-de-telha
   ru: Бурокрылый курен
   ja: クリバネコウウチョウ
-  zh: Greyish Baywing
+  zh: ''
   nl: Grijze koevogel
   pl: szarokacyk
   tr: Gri İnekkuşu

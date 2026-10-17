@@ -12,7 +12,7 @@ names:
   es: Abanico de las Palaos
   fr: Rhipidure des Palau
   de: Palaufächerschwanz
-  pt: palau fantail
+  pt: ''
   ru: Палауская веерохвостка
   ja: アカオウギビタキ
   zh: 帛琉扇尾鶲

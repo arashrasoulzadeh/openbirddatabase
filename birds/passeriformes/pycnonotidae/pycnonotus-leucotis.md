@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24776.0
 names:
   scientific: Pycnonotus leucotis
-  fa: nan
+  fa: ''
   en: White-eared Bulbul
   es: Bulbul Orejiblanco
   fr: Bulbul à oreillons blancs

@@ -12,7 +12,7 @@ names:
   es: Suimanga Camerunés
   fr: Souimanga à tête bleue
   de: Blaukopf-Nektarvogel
-  pt: cameroon sunbird
+  pt: ''
   ru: Лазурноголовая нектарница
   ja: ニシルリガシラタイヨウチョウ
   nl: Blauwkophoningzuiger

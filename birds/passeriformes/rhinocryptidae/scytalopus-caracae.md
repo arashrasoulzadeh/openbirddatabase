@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14451.0
 names:
   scientific: Scytalopus caracae
-  fa: nan
+  fa: ''
   en: Caracas Tapaculo
   es: Churrín de Caracas
   fr: Mérulaxe de Caracas
   de: Caracastapaculo
-  pt: caracas tapaculo
+  pt: ''
   ru: Венесуэльский тапакуло
   ja: カラカスオタテドリ
   nl: Caracastapaculo

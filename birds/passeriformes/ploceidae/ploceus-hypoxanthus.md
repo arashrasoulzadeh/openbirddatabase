@@ -12,7 +12,7 @@ names:
   es: Tejedor Dorado Asiático
   fr: Tisserin doré
   de: Kernbeißerweber
-  pt: asian golden weaver
+  pt: ''
   ru: Желтобрюхий ткач
   ja: キンイロコウヨウジャク
   zh: 亞洲金織布鳥

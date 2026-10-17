@@ -12,7 +12,7 @@ names:
   es: Cistícola Enmascarado
   fr: Cisticole masquée
   de: Schwarzzügel-Zistensänger
-  pt: black-lored cisticola
+  pt: ''
   ru: Уздечковая цистикола
   ja: ハナグロセッカ
   nl: Zwartteugelgraszanger

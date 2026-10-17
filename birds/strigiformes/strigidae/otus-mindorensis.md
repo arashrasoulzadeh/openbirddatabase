@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8714.0
 names:
   scientific: Otus mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Scops Owl
   es: Autillo de Mindoro
   fr: Petit-duc de Mindoro
@@ -15,7 +15,7 @@ names:
   pt: mindoro scops-owl
   ru: Миндорская сплюшка
   ja: ミンドロコノハズク
-  zh: Mindoro Scops Owl
+  zh: ''
   nl: Mindorodwergooruil
   pl: syczek wyżynny
   tr: Mindoro İshakkuşu

@@ -12,7 +12,7 @@ names:
   es: Colibrí de Raquetas Peruano
   fr: Haut-de-chausses du Pérou
   de: Peruflaggensylphe
-  pt: peruvian racket-tail
+  pt: ''
   zh: 秘鲁盘尾蜂鸟
   nl: Peruaans vlagstaartpluimbroekje
   pl: furczak rdzawopióry

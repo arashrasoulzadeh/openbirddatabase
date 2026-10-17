@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9167.0
 names:
   scientific: Strix nigrolineata
-  fa: nan
+  fa: ''
   en: Black-and-white Owl
   es: Cárabo Blanquinegro
   fr: Chouette à lignes noires
   de: Bindenhalskauz
-  pt: black-and-white owl
+  pt: ''
   ru: Чёрно-белая неясыть
   ja: シロクロヒナフクロウ
   nl: Zwart-witte bosuil

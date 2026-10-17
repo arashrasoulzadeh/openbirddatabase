@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33074.0
 names:
   scientific: Arremon dorbignii
-  fa: nan
+  fa: ''
   en: Moss-backed Sparrow
   es: Cerquero Cejilargo
   fr: Tohi de d'Orbigny
   de: Moosmantel-Buschammer
-  pt: moss-backed sparrow
+  pt: ''
   nl: Mosruggors
   pl: strojnogłowik oliwkowogrzbiety
   tr: Yosun Sırtlı Çalı Serçesi

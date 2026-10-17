@@ -12,7 +12,7 @@ names:
   es: Alicorto de Java
   fr: Brachyptère de Java
   de: Java-Bergkurzflügel
-  pt: javan shortwing
+  pt: ''
   ru: Голубой короткокрылый дрозд
   ja: ジャワコバネヒタキ
   zh: 蓝短翅鸫

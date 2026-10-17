@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27949.0
 names:
   scientific: Lamprotornis purpuroptera
-  fa: nan
+  fa: ''
   en: Rüppell's Starling
   es: Estornino de Rüppell
   fr: Choucador de Rüppell
   de: Schweifglanzstar
-  pt: rüppell's starling
+  pt: ''
   ru: Пурпурнокрылый спрео
   ja: コオナガテリムク
   zh: 盧氏麗椋鳥

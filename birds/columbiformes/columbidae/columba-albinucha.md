@@ -12,7 +12,7 @@ names:
   es: Paloma Nuquialba
   fr: Pigeon à nuque blanche
   de: Weißnackentaube
-  pt: white-naped pigeon
+  pt: ''
   ru: Белозатылочный вяхирь
   ja: シロエリバト
   zh: 白枕鴿

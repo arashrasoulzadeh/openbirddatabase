@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2699.0
 names:
   scientific: Ptilinopus monacha
-  fa: nan
+  fa: ''
   en: Blue-capped Fruit Dove
   es: Tilopo Monje
   fr: Ptilope moine
@@ -15,7 +15,7 @@ names:
   pt: blue-capped fruit-dove
   ru: Синешапочный фруктовый голубь
   ja: アオボウシヒメアオバト
-  zh: Blue-capped Fruit Dove
+  zh: ''
   nl: Halmaherajufferduif
   pl: owocożer niebieskoczelny
   tr: Mavi Tepeli Meyve Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Terrera Coronigrís
   fr: Moinelette croisée
   de: Grauscheitellerche
-  pt: ashy-crowned sparrow-lark
+  pt: ''
   ru: Серошапочный жаворонок
   ja: ハイガシラスズメヒバリ
   zh: 灰頂雀百靈

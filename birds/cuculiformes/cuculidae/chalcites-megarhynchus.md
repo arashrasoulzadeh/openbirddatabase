@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3312.0
 names:
   scientific: Chalcites megarhynchus
-  fa: nan
+  fa: ''
   en: Long-billed Cuckoo
   es: Cuclillo Piquilargo
   fr: Coucou à long bec
   de: Langschnabelkuckuck
-  pt: long-billed cuckoo
+  pt: ''
   ru: Длинноклювая кукушка
   ja: ハシナガヒメカッコウ
   nl: Langsnavelkoekoek

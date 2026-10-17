@@ -12,7 +12,7 @@ names:
   es: Tiluchí del Perijá
   fr: Grisin de Klages
   de: Küstenkordilleren-Ameisenfänger
-  pt: klages's antbird
+  pt: ''
   ru: Перихская муравьянка
   ja: クラーゲスアリドリ
   nl: Klagesmiervogel

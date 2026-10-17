@@ -12,7 +12,7 @@ names:
   es: Zorzal Pizarroso
   fr: Grive schistacée
   de: Weißohrdrossel
-  pt: slaty-backed thrush
+  pt: ''
   ru: Белоухий дрозд
   ja: ホオジロジツグミ
   nl: Tanimbarlijster

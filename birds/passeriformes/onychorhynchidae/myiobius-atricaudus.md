@@ -15,7 +15,7 @@ names:
   pt: assanhadinho-de-cauda-preta
   ru: Чернохвостый широкохвост
   ja: オナガキゴシハエトリ
-  zh: Black-tailed Myiobius
+  zh: ''
   nl: Zwartstaarttiran
   pl: szczecinówka czarnosterna
   tr: Kara Kuyruklu Yalancıtiran

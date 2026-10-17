@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22170.0
 names:
   scientific: Parus monticolus
-  fa: nan
+  fa: ''
   en: Green-backed Tit
   es: Carbonero Dorsiverde
   fr: Mésange montagnarde
   de: Bergkohlmeise
-  pt: green-backed tit
+  pt: ''
   ru: Зеленоспинная синица
   ja: キバラシジュウカラ
   zh: 绿背山雀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17916.0
 names:
   scientific: Melipotes gymnops
-  fa: nan
+  fa: ''
   en: Arfak Honeyeater
   es: Mielero de Los Arfak
   fr: Méliphage à ventre tacheté
   de: Fleckenbauch-Honigfresser
-  pt: arfak honeyeater
+  pt: ''
   ru: Арфакский нектаролюб
   ja: ニシキホオミツスイ
   nl: Arfakhoningeter

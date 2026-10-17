@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24921.0
 names:
   scientific: Phylloscopus soror
-  fa: nan
+  fa: ''
   en: Alström's Warbler
   es: Mosquitero Soror
   fr: Pouillot soeur
   de: Alström-Laubsänger
-  pt: alström's warbler
+  pt: ''
   ru: Сычуаньская очковая пеночка
   ja: ムジオモリムシクイ
   zh: 淡尾鹟莺

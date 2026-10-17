@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1468.0
 names:
   scientific: Syrmaticus mikado
-  fa: nan
+  fa: ''
   en: Mikado Pheasant
   es: Faisán Mikado
   fr: Faisan mikado
   de: Mikadofasan
-  pt: mikado pheasant
+  pt: ''
   ru: Фазан микадо
   ja: ミカドキジ
   zh: 黑长尾雉

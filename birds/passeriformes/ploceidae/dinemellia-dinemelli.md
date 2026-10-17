@@ -15,7 +15,7 @@ names:
   pt: white-headed buffalo-weaver
   ru: Белоголовый ткач
   ja: シロガシラウシハタオリ
-  zh: White-headed Buffalo Weaver
+  zh: ''
   nl: Witkopbuffelwever
   pl: bawolik białogłowy
   tr: Ak Başlı Dokumacı

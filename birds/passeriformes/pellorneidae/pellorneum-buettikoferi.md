@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26261.0
 names:
   scientific: Pellorneum buettikoferi
-  fa: nan
+  fa: ''
   en: Sumatran Babbler
   es: Tordina de Sumatra
   fr: Akalat de Sumatra
   de: Sumatraerddrossling
-  pt: sumatran babbler
+  pt: ''
   ru: Суматранская тимелия-говорушка
   ja: スマトラムジチメドリ
   zh: 蘇門答臘幽鶥

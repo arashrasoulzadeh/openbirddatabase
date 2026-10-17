@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25679.0
 names:
   scientific: Zosterops kaffensis
-  fa: nan
+  fa: ''
   en: Kafa White-eye
   es: Anteojitos Serrano de Kaffa
   fr: Zostérops du Kaffa
   de: Kaffabrillenvogel
-  pt: kafa white-eye
+  pt: ''
   nl: Kaffabrilvogel
   pl: szlarnik leśny
   tr: Dağ Gözlükçüsü

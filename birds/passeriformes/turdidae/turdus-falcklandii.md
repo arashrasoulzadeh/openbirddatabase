@@ -12,7 +12,7 @@ names:
   es: Zorzal Patagón
   fr: Merle austral
   de: Magellandrossel
-  pt: austral thrush
+  pt: ''
   ru: Магелланов дрозд
   ja: フォークランドツグミ
   nl: Magelhaenlijster

@@ -12,7 +12,7 @@ names:
   es: Cigua Puertorriqueña
   fr: Zéna de Porto Rico
   de: Puerto-Rico-Streifenkopftangare
-  pt: puerto rican spindalis
+  pt: ''
   ru: Пуэрториканская зена
   ja: プエルトリコシトドフウキンチョウ
   nl: Puertoricaanse spindalis

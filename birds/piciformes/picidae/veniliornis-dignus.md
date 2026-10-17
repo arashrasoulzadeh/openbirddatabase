@@ -12,7 +12,7 @@ names:
   es: Carpintero Ventriamarillo
   fr: Pic à ventre jaune
   de: Gelbbauchspecht
-  pt: yellow-vented woodpecker
+  pt: ''
   ru: Желтобокий дятел
   ja: キバラハゲラ
   nl: Geelbuikspecht

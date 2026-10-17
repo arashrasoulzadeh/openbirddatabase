@@ -15,7 +15,7 @@ names:
   pt: usambara greenbul
   ru: Узамбарский бюльбюль
   ja: ウサンバラミドリヒヨドリ
-  zh: Montane Tiny Greenbul
+  zh: ''
   nl: Bergloofbuulbuul
   pl: jasnobrzuch tanzański
   tr: Dağ Yaprakbülbülü

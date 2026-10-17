@@ -12,7 +12,7 @@ names:
   es: Zorzal Grandala
   fr: Grandala bleu
   de: Grandala
-  pt: grandala
+  pt: ''
   ru: Лазоревая птица, грандала
   ja: ムラサキツグミ
   zh: 蓝大翅鸲

@@ -15,7 +15,7 @@ names:
   pt: gray-and-gold warbler
   ru: Сероспинный певун
   ja: セアオアメリカムシクイ
-  zh: Grey-and-gold Warbler
+  zh: ''
   nl: Feeënzanger
   pl: koronówka szaro-złota
   tr: Fraser Ötleğeni

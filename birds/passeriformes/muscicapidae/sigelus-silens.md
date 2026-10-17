@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28916.0
 names:
   scientific: Sigelus silens
-  fa: nan
+  fa: ''
   en: Fiscal Flycatcher
   es: Papamoscas Fiscal
   fr: Gobemouche fiscal
   de: Würgerschnäpper
-  pt: fiscal flycatcher
+  pt: ''
   ru: Сорокопутовая мухоловка
   ja: シロハラクロヒタキ
   nl: Klauwiervliegenvanger

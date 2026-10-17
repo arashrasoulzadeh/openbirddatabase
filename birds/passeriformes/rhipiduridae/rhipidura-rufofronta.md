@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 20354.0
 names:
   scientific: Rhipidura rufofronta
-  fa: nan
+  fa: ''
   en: Solomons Rufous Fantail
   es: Abanico de las Salomón
   fr: Rhipidure des Salomon
   de: Rhipidura rufofrontata
-  pt: solomons rufous fantail
+  pt: ''
   ru: Rhipidura rufofrontata
   nl: Salomonswaaierstaart
   pl: wachlarzówka rdzawoczelna

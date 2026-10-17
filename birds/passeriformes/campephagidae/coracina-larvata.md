@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18752.0
 names:
   scientific: Coracina larvata
-  fa: nan
+  fa: ''
   en: Sunda Cuckooshrike
   es: Oruguero de la Sonda
   fr: Échenilleur de la Sonde
   de: Sundaraupenfänger
-  pt: sunda cuckooshrike
+  pt: ''
   ru: Масковый воронец
   ja: カオグロオオサンショウクイ
   zh: 巽他鹃鵙

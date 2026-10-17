@@ -12,7 +12,7 @@ names:
   es: Faisán Cobrizo
   fr: Faisan scintillant
   de: Kupferfasan
-  pt: copper pheasant
+  pt: ''
   ru: Медный фазан
   ja: ヤマドリ
   zh: 铜长尾雉

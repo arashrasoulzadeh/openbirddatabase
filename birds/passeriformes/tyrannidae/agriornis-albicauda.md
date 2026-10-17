@@ -12,7 +12,7 @@ names:
   es: Gaucho Andino
   fr: Gaucho à queue blanche
   de: Weißschwanz-Hakentyrann
-  pt: white-tailed shrike-tyrant
+  pt: ''
   ru: Белохвостый гаучо
   ja: オジロモズタイランチョウ
   nl: Witstaartklauwiertiran

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6541.0
 names:
   scientific: Larus vegae
-  fa: nan
+  fa: ''
   en: Vega Gull
   es: Gaviota del Vega
   fr: Goéland de la Vega
   de: Ostsibirienmöwe
-  pt: vega gull
+  pt: ''
   ru: Восточносибирская чайка
   ja: セグロカモメ
   zh: 织女银鸥

@@ -15,7 +15,7 @@ names:
   pt: gray teal
   ru: Серый чирок
   ja: ハイイロコガモ
-  zh: Grey Teal
+  zh: ''
   nl: Australische taling
   pl: cyraneczka australijska
   tr: Avustralya Gri Çamurcunu

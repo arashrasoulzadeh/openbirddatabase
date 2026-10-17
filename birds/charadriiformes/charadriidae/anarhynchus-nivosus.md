@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5941.0
 names:
   scientific: Anarhynchus nivosus
-  fa: nan
+  fa: ''
   en: Snowy Plover
   es: Chorlitejo Nivoso
   fr: Pluvier neigeux

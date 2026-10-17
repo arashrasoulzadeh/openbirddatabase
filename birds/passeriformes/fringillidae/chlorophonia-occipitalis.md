@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31998.0
 names:
   scientific: Chlorophonia occipitalis
-  fa: nan
+  fa: ''
   en: Blue-crowned Chlorophonia
   es: Clorofonia Coroniazul
   fr: Organiste à calotte bleue
   de: Blauscheitelorganist
-  pt: blue-crowned chlorophonia
+  pt: ''
   ru: Диадемовый органист
   ja: ズアオミドリフウキンチョウ
   nl: Blauwkruinorganist

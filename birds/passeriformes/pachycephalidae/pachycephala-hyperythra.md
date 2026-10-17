@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19524.0
 names:
   scientific: Pachycephala hyperythra
-  fa: nan
+  fa: ''
   en: Rusty Whistler
   es: Silbador Herrumbroso
   fr: Siffleur rouilleux
   de: Rostbauch-Dickkopf
-  pt: rusty whistler
+  pt: ''
   ru: Рыжегрудый свистун
   ja: ムネアカモズヒタキ
   zh: 棕胸啸鹟

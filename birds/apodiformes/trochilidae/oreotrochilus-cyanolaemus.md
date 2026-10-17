@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 4490.0
 names:
   scientific: Oreotrochilus cyanolaemus
-  fa: nan
+  fa: ''
   en: Blue-throated Hillstar
   es: Colibrí del Arcos
   fr: Colibri d'El Oro
   de: Blaulatzkolibri
-  pt: blue-throated hillstar
+  pt: ''
   ru: Синегорлая ореада
   zh: 蓝喉山蜂鸟
   nl: Blauwkeelbergnimf

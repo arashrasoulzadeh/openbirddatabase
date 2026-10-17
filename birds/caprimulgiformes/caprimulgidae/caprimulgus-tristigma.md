@@ -12,7 +12,7 @@ names:
   es: Chotacabras Pecoso
   fr: Engoulevent pointillé
   de: Fleckennachtschwalbe
-  pt: freckled nightjar
+  pt: ''
   ru: Крапчатый козодой
   ja: ゴマフヨタカ
   zh: 雀斑夜鹰

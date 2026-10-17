@@ -12,7 +12,7 @@ names:
   es: Junco de Baja California
   fr: Junco de Baird
   de: Braunflankenammer
-  pt: baird's junco
+  pt: ''
   ru: Дубовый юнко
   ja: バハカリフォルニアユキヒメドリ
   nl: Bruinflankjunco

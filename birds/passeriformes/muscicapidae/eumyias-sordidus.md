@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Sri Lanka
   fr: Gobemouche de Ceylan
   de: Ceylonschnäpper
-  pt: dull-blue flycatcher
+  pt: ''
   ru: Серосиняя мухоловка
   ja: セイロンヒタキ
   zh: 暗藍仙鶲

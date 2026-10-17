@@ -15,7 +15,7 @@ names:
   pt: maria-preta-bate-rabo
   ru: Белокрылая вдовка
   ja: ハジロクロタイランチョウ
-  zh: White-winged Black Tyrant
+  zh: ''
   nl: Witvleugelmoortiran
   pl: wdowik białopręgi
   tr: Ak Kanatlı Esmer Tiran

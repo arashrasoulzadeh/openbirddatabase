@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24212.0
 names:
   scientific: Atronanus fuliginosus
-  fa: nan
+  fa: ''
   en: Forest Swallow
   es: Golondrina Selvática
   fr: Hirondelle de forêt
   de: Bronzeschwalbe
-  pt: forest swallow
+  pt: ''
   ru: Лесная ласточка
   ja: モリサンショクツバメ
   nl: Gabonese zwaluw

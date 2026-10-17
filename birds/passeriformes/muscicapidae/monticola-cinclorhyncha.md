@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29639.0
 names:
   scientific: Monticola cinclorhyncha
-  fa: nan
+  fa: ''
   en: Blue-capped Rock Thrush
   es: Roquero Capiazul
   fr: Monticole à croupion roux

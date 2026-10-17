@@ -12,7 +12,7 @@ names:
   es: Pico Velloso
   fr: Pic chevelu
   de: Haarspecht
-  pt: hairy woodpecker
+  pt: ''
   ru: Волосатый дятел
   ja: セジロアカゲラ
   zh: 多毛啄木鳥

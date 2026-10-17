@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28471.0
 names:
   scientific: Turdus olivaceofuscus
-  fa: nan
+  fa: ''
   en: Sao Tome Thrush
   es: Zorzal de Santo Tomé
   fr: Merle de Sao Tomé
   de: São-Tomé-Drossel
-  pt: sao tome thrush
+  pt: ''
   ru: Сантомейский дрозд
   ja: サントメウロコツグミ
   nl: Sao-Tomélijster

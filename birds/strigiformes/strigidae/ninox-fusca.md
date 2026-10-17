@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9341.0
 names:
   scientific: Ninox fusca
-  fa: nan
+  fa: ''
   en: Timor Boobook
   es: Nínox de Timor
   fr: Ninoxe rayée
   de: Timorkauz
-  pt: timor boobook
+  pt: ''
   ja: ティモールアオバズク
   nl: Timorboeboek
   pl: sowica timorska

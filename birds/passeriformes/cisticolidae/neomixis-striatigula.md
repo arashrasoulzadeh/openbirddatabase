@@ -12,7 +12,7 @@ names:
   es: Jiji Grande
   fr: Grande Éroesse
   de: Streifenkehlsänger
-  pt: stripe-throated jery
+  pt: ''
   ru: Пестрогорлая эресса
   ja: クロスジニセムシクイチメドリ
   nl: Streepkeeljery

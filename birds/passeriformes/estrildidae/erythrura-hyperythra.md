@@ -12,7 +12,7 @@ names:
   es: Diamante Coliverde
   fr: Diamant à queue verte
   de: Bambuspapageiamadine
-  pt: tawny-breasted parrotfinch
+  pt: ''
   ru: Бамбуковая амадина
   ja: チャバラセイコウチョウ
   zh: 绿尾鹦雀

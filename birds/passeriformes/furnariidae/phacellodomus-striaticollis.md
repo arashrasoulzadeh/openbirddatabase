@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15360.0
 names:
   scientific: Phacellodomus striaticollis
-  fa: nan
+  fa: ''
   en: Freckle-breasted Thornbird
   es: Espinero Pechirrayado
   fr: Synallaxe rousselé

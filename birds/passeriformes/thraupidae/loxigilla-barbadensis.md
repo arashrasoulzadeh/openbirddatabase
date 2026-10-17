@@ -12,7 +12,7 @@ names:
   es: Semillero de Barbados
   fr: Pèrenoir de Barbade
   de: Barbadosgimpeltangare
-  pt: barbados bullfinch
+  pt: ''
   ru: Барбадосский семилеро
   ja: バルバドスアカウソ
   nl: Barbadosdikbekje

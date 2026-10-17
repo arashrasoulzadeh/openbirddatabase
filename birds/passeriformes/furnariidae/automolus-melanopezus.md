@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15254.0
 names:
   scientific: Automolus melanopezus
-  fa: nan
+  fa: ''
   en: Brown-rumped Foliage-gleaner
   es: Ticotico Pardo
   fr: Anabate brunâtre

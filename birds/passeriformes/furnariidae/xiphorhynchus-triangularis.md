@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Dorsioliva
   fr: Grimpar à dos olive
   de: Olivrücken-Baumsteiger
-  pt: olive-backed woodcreeper
+  pt: ''
   ru: Оливковоспинный древолаз
   ja: オリーブオニキバシリ
   nl: Olijfrugmuisspecht

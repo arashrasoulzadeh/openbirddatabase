@@ -12,7 +12,7 @@ names:
   es: Cucaburra Ventrirrufa
   fr: Martin-chasseur de Gaudichaud
   de: Rotbauchliest
-  pt: rufous-bellied kookaburra
+  pt: ''
   ru: Краснобрюхая кукабара
   ja: チャバラワライカワセミ
   zh: 赤腹笑翠鳥

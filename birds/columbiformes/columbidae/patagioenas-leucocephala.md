@@ -12,7 +12,7 @@ names:
   es: Paloma Coronita
   fr: Pigeon à couronne blanche
   de: Weißscheiteltaube
-  pt: white-crowned pigeon
+  pt: ''
   ru: Белошапочный голубь
   ja: シロボウシバト
   zh: 白頂鴿

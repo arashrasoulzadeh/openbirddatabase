@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22262.0
 names:
   scientific: Melaniparus afer
-  fa: nan
+  fa: ''
   en: Grey Tit
   es: Carbonero Gris
   fr: Mésange petit-deuil
@@ -15,7 +15,7 @@ names:
   pt: gray tit
   ru: Акациевая синица
   ja: ハイイロガラ
-  zh: Grey Tit
+  zh: ''
   nl: Kaapse mees
   pl: sikora akacjowa
   tr: Kap Baştankarası

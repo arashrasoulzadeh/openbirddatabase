@@ -12,7 +12,7 @@ names:
   es: Estornino Coroniblanco
   fr: Spréo à calotte blanche
   de: Weißscheitel-Glanzstar
-  pt: white-crowned starling
+  pt: ''
   ru: Белошапочный спрео
   ja: シラガテリムク
   nl: Witkruinglansspreeuw

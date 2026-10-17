@@ -15,7 +15,7 @@ names:
   pt: kiritimati reed warbler
   ru: Полинезийская камышовка
   ja: クリスマスヨシキリ
-  zh: Bokikokiko
+  zh: ''
   nl: Christmaskarekiet
   pl: trzciniak popielaty
   tr: Kiritimati Kamışçını

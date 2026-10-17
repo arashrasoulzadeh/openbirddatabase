@@ -12,7 +12,7 @@ names:
   es: Picaflores Piquirrojo
   fr: Dicée à bec rouge
   de: Blassschnabel-Mistelfresser
-  pt: pale-billed flowerpecker
+  pt: ''
   ru: Индийский цветоед
   ja: アカハシハナドリ
   zh: 淡嘴啄花鳥

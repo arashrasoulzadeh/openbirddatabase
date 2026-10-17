@@ -12,7 +12,7 @@ names:
   es: Petrel Cuelliblanco
   fr: Pétrel à col blanc
   de: Weißnacken-Sturmvogel
-  pt: white-necked petrel
+  pt: ''
   ru: Ошейниковый тайфунник
   ja: クビワオオシロハラミズナギドリ
   zh: 白翎海燕

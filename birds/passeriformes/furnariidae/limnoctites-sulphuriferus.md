@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15483.0
 names:
   scientific: Limnoctites sulphuriferus
-  fa: nan
+  fa: ''
   en: Sulphur-bearded Reedhaunter
   es: Curutié Ocráceo
   fr: Synallaxe soufré

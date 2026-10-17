@@ -12,7 +12,7 @@ names:
   es: Mosquerito del Chocó
   fr: Tyranneau du Choco
   de: Chocókleintyrann
-  pt: choco tyrannulet
+  pt: ''
   ru: Чокский москитолов
   ja: ノドジロコタイランチョウ
   nl: Chocovliegenpikker

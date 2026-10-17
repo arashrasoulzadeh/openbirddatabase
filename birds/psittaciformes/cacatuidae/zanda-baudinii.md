@@ -15,7 +15,7 @@ names:
   pt: baudin's black-cockatoo
   ru: Белоухий траурный какаду
   ja: オジロクロオウム
-  zh: Baudin's Black Cockatoo
+  zh: ''
   nl: Langsnavelraafkaketoe
   pl: żałobnica białosterna
   tr: Baudin Siyah Kakadusu

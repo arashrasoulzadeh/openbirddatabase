@@ -12,7 +12,7 @@ names:
   es: Carpintero Ventribarrado
   fr: Pic à ventre barré
   de: Bindenbauchspecht
-  pt: bar-bellied woodpecker
+  pt: ''
   ru: Зебровый дятел
   ja: シマゲラ
   nl: Bandbuikspecht

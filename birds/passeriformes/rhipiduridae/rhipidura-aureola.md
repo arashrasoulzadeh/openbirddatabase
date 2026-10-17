@@ -12,7 +12,7 @@ names:
   es: Abanico Cejiblanco
   fr: Rhipidure à grands sourcils
   de: Weißstirn-Fächerschwanz
-  pt: white-browed fantail
+  pt: ''
   ru: Белобровая веерохвостка
   ja: マミジロオウギビタキ
   zh: 白眉扇尾鹟

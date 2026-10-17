@@ -12,7 +12,7 @@ names:
   es: Abejaruco Esmeralda Oriental
   fr: Guêpier d'Orient
   de: Bronzescheitel-Smaragdspint
-  pt: asian green bee-eater
+  pt: ''
   ru: Малая зелёная щурка
   ja: ミドリハチクイ
   zh: 绿喉蜂虎

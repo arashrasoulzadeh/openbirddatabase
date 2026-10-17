@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28764.0
 names:
   scientific: Turdus sanchezorum
-  fa: nan
+  fa: ''
   en: Varzea Thrush
   es: Zorzal de Várzea
   fr: Merle des Sanchez

@@ -12,7 +12,7 @@ names:
   es: Monarca Plomizo
   fr: Monarque rougegorge
   de: Silbermonarch
-  pt: leaden flycatcher
+  pt: ''
   ru: Серебристая миагра
   ja: ナマリイロヒラハシ
   zh: 鉛灰闊嘴鶲

@@ -12,7 +12,7 @@ names:
   es: Petroica Amarilla
   fr: Miro à poitrine jaune
   de: Goldbauchschnäpper
-  pt: eastern yellow robin
+  pt: ''
   ru: Жёлтая дриада
   ja: ヒガシキバラヒタキ
   nl: Groenstuitvliegenvanger

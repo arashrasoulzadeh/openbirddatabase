@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10095.0
 names:
   scientific: Halcyon senegaloides
-  fa: nan
+  fa: ''
   en: Mangrove Kingfisher
   es: Alción de Manglar
   fr: Martin-chasseur des mangroves
   de: Mangroveliest
-  pt: mangrove kingfisher
+  pt: ''
   ru: Мангровый зимородок
   ja: マングローブショウビン
   nl: Mangrove-ijsvogel

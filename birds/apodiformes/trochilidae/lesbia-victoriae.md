@@ -12,7 +12,7 @@ names:
   es: Colibrí Colilargo Mayor
   fr: Porte-traîne lesbie
   de: Schwarzschwanzsylphe
-  pt: black-tailed trainbearer
+  pt: ''
   ru: Чернохвостая комета
   ja: ミドリフタオハチドリ
   zh: 黑帶尾蜂鳥

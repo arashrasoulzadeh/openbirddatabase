@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 16380.0
 names:
   scientific: Hemitriccus kaempferi
-  fa: nan
+  fa: ''
   en: Kaempfer's Tody-Tyrant
   es: Titirijí de Kaempfer
   fr: Todirostre de Kaempfer

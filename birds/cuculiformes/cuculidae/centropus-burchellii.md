@@ -12,7 +12,7 @@ names:
   es: Cucal de Burchell
   fr: Coucal de Burchell
   de: Burchellkuckuck
-  pt: burchell's coucal
+  pt: ''
   ru: Южноафриканский кукаль
   ja: ズグロバンケン
   zh: 布氏鴉鵑

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35022.0
 names:
   scientific: Stilpnia larvata
-  fa: nan
+  fa: ''
   en: Golden-hooded Tanager
   es: Tangara Cabecidorada
   fr: Calliste à coiffe d'or
   de: Goldscheiteltangare
-  pt: golden-hooded tanager
+  pt: ''
   ru: Золотистоголовая танагра
   ja: キンズキンフウキンチョウ
   nl: Purpermaskertangare

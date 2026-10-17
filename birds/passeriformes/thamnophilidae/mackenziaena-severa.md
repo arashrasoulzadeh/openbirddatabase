@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13456.0
 names:
   scientific: Mackenziaena severa
-  fa: nan
+  fa: ''
   en: Tufted Antshrike
   es: Batará Copetón
   fr: Batara othello

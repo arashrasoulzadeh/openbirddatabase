@@ -12,7 +12,7 @@ names:
   es: Papamoscas Dayaco
   fr: Gobemouche dayak
   de: Borneoblauschnäpper
-  pt: dayak blue flycatcher
+  pt: ''
   ja: ダヤクヒメアオヒタキ
   nl: Dajakniltava
   pl: dżunglówka borneańska

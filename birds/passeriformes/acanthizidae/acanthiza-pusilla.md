@@ -12,7 +12,7 @@ names:
   es: Acantiza Parda
   fr: Acanthize mignon
   de: Roststirn-Dornschnabel
-  pt: brown thornbill
+  pt: ''
   ru: Малая шипоклювка
   ja: チャイロトゲハシムシクイ
   nl: Bruine doornsnavel

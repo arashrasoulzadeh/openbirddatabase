@@ -12,7 +12,7 @@ names:
   es: Picaflores Carminoso
   fr: Dicée poignardé
   de: Mennigbrust-Mistelfresser
-  pt: crimson-breasted flowerpecker
+  pt: ''
   ru: Красногрудый цветоед
   ja: ムネアカハナドリモドキ
   zh: 紅胸鋸齒啄花鳥

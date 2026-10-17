@@ -12,7 +12,7 @@ names:
   es: Amazona Jamaicana Piquiclara
   fr: Amazone sasabé
   de: Jamaikaamazone
-  pt: yellow-billed amazon
+  pt: ''
   ru: Желтоклювый амазон
   ja: エリマキボウシインコ
   zh: 黄嘴亚马逊鹦鹉

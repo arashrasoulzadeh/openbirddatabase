@@ -12,7 +12,7 @@ names:
   es: Mosquitero de Mindanao
   fr: Pouillot des Philippines
   de: Philippinenlaubsänger
-  pt: philippine leaf warbler
+  pt: ''
   ru: Филиппинская пеночка
   ja: フィリピンムシクイ
   nl: Morseleyboszanger

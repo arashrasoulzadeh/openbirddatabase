@@ -15,7 +15,7 @@ names:
   pt: jamaican lizard-cuckoo
   ru: Ямайская пиайя
   ja: ジャマイカトゲカッコウ
-  zh: Jamaican Lizard Cuckoo
+  zh: ''
   nl: Jamaicaanse hagediskoekoek
   pl: jaszczurkojad ciemnogłowy
   tr: Jamaika Kertenkele Guguğu

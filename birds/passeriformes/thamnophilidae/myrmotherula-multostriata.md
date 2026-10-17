@@ -15,7 +15,7 @@ names:
   pt: choquinha-estriada-da-amazônia
   ru: Амазонский муравьелов
   ja: アマゾンヒメアリサザイ
-  zh: Amazonian Streaked Antwren
+  zh: ''
   nl: Amazonemiersluiper
   pl: mrówiaczek brazylijski
   tr: Amazon Çizgili Karıncaçıvgını

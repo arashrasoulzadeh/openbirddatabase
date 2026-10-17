@@ -12,7 +12,7 @@ names:
   es: Vireo de Bell
   fr: Viréo de Bell
   de: Braunaugenvireo
-  pt: bell's vireo
+  pt: ''
   ru: Пеночковый виреон
   ja: ベルモズモドキ
   zh: 最小腹绿鹃

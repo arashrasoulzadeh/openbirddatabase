@@ -12,7 +12,7 @@ names:
   es: Colibrí Colilargo Menor
   fr: Porte-traîne nouna
   de: Grünschwanzsylphe
-  pt: green-tailed trainbearer
+  pt: ''
   ru: Зеленохвостая комета
   ja: コミドリフタオハチドリ
   zh: 绿带尾蜂鸟

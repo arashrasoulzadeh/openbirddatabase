@@ -12,7 +12,7 @@ names:
   es: Dormilona Colicorta
   fr: Moucherolle à queue courte
   de: Stummelschwanztyrann
-  pt: short-tailed field tyrant
+  pt: ''
   ru: Короткохвостый мухолов
   ja: アシナガタイランチョウ
   zh: 短尾田霸鹟

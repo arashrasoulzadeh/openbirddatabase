@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17840.0
 names:
   scientific: Melidectes leucostephes
-  fa: nan
+  fa: ''
   en: Vogelkop Melidectes
   es: Mielero de Vogelkop
   fr: Méliphage à face blanche
   de: Diademhonigfresser
-  pt: vogelkop melidectes
+  pt: ''
   ru: Белолицый медосос
   ja: シロガオヤマミツスイ
   nl: Witmaskerhoningeter

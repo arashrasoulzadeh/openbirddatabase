@@ -12,7 +12,7 @@ names:
   es: Carraca de Célebes
   fr: Rollier de Temminck
   de: Celebesracke
-  pt: purple-winged roller
+  pt: ''
   ru: Сулавесская сизоворонка
   ja: セレベスブッポウソウ
   nl: Sulawesischarrelaar

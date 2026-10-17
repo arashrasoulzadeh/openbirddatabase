@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9089.0
 names:
   scientific: Taenioptynx brodiei
-  fa: nan
+  fa: ''
   en: Collared Owlet
   es: Mochuelo Acollarado
   fr: Chevêchette à collier
   de: Wachtelzwergkauz
-  pt: collared owlet
+  pt: ''
   ru: Ошейниковый сычик
   ja: ヒメフクロウ
   zh: 领鸺鹠

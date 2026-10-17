@@ -12,7 +12,7 @@ names:
   es: Solitario Puaiohi
   fr: Solitaire puaïohi
   de: Palmerklarino
-  pt: puaiohi
+  pt: ''
   ru: Пуаиохи
   ja: カウアイツグミ
   nl: Kleine kauailijster

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18363.0
 names:
   scientific: Aethomyias arfakianus
-  fa: nan
+  fa: ''
   en: Grey-green Scrubwren
   es: Sedosito de Los Arfak
   fr: Séricorne vert-de-gris
@@ -15,7 +15,7 @@ names:
   pt: gray-green scrubwren
   ru: Арфакская кустовка
   ja: コヤブムシクイ
-  zh: Grey-green Scrubwren
+  zh: ''
   nl: Grijsgroene struiksluiper
   pl: solnik zielonawy
   tr: Arfak Serikornisi

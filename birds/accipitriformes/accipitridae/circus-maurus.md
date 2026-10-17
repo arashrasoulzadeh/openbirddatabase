@@ -12,7 +12,7 @@ names:
   es: Aguilucho Negro
   fr: Busard maure
   de: Kapweihe
-  pt: black harrier
+  pt: ''
   ru: Чёрный лунь
   ja: クロチュウヒ
   zh: 黑鹞

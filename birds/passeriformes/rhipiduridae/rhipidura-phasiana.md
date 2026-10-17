@@ -12,7 +12,7 @@ names:
   es: Abanico de Manglar
   fr: Rhipidure des mangroves
   de: Mangrovefächerschwanz
-  pt: mangrove fantail
+  pt: ''
   ru: Мангровая веерохвостка
   ja: マングローブオウギビタキ
   zh: 红树扇尾鹟

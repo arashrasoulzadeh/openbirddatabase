@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 14713.0
 names:
   scientific: Dendrocolaptes certhia
-  fa: nan
+  fa: ''
   en: Amazonian Barred Woodcreeper
   es: Trepatroncos Barrado Amazónico
   fr: Grimpar barré
   de: Amazonien-Bindenbaumsteiger
   ru: Амазонский древолаз
   ja: ヨコジマオニキバシリ
-  zh: Amazonian Barred Woodcreeper
+  zh: ''
   nl: Gebandeerde muisspecht
   pl: tęgoster prążkowany
   tr: Amazon Yazılı Tırmaşık

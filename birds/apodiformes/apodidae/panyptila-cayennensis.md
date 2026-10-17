@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4169.0
 names:
   scientific: Panyptila cayennensis
-  fa: nan
+  fa: ''
   en: Lesser Swallow-tailed Swift
   es: Vencejo Tijereta Chico
   fr: Martinet de Cayenne

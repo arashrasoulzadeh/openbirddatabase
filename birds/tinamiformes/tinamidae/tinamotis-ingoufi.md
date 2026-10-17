@@ -12,7 +12,7 @@ names:
   es: Kiula Patagona
   fr: Tinamou de Patagonie
   de: Patagonientinamu
-  pt: patagonian tinamou
+  pt: ''
   ru: Патагонский тинаму
   ja: パタゴニアシギダチョウ
   zh: 南山䳍

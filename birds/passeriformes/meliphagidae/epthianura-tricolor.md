@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17913.0
 names:
   scientific: Epthianura tricolor
-  fa: nan
+  fa: ''
   en: Crimson Chat
   es: Eptianuro Tricolor
   fr: Epthianure tricolore
   de: Scharlachtrugschmätzer
-  pt: crimson chat
+  pt: ''
   ru: Красная пустынница
   ja: ベニオーストラリアヒタキ
   zh: 绯红澳䳭

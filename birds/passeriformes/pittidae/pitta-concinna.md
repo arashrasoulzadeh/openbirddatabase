@@ -12,7 +12,7 @@ names:
   es: Pita Ventrinegra
   fr: Brève de Lombok
   de: Sundaschmuckpitta
-  pt: ornate pitta
+  pt: ''
   ja: インドネシアノドグロヤイロチョウ
   nl: Ornaatpitta
   pl: kurtaczek floreski

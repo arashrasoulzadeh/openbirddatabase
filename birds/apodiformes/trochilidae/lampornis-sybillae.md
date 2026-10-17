@@ -15,7 +15,7 @@ names:
   pt: green-breasted mountain-gem
   ru: Зеленогрудый солнечник
   ja: アオムネシロメジリハチドリ
-  zh: Green-breasted Mountaingem
+  zh: ''
   nl: Groenbuikjuweelkolibrie
   pl: malachicik zielony
   tr: Yeşil Göğüslü Dağmücevheri

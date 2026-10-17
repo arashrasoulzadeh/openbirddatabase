@@ -12,7 +12,7 @@ names:
   es: Curruca de Böhm
   fr: Fauvette sanglée
   de: Bandgrasmücke
-  pt: banded parisoma
+  pt: ''
   ru: Ошейниковая синицевая славка
   ja: ムナオビカラムシクイ
   zh: 斑林莺

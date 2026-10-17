@@ -12,7 +12,7 @@ names:
   es: Gallo Siberiano
   fr: Tétras de Sibérie
   de: Sichelhuhn
-  pt: siberian grouse
+  pt: ''
   ru: Дикуша
   ja: カマバネライチョウ
   zh: 镰翅鸡

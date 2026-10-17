@@ -12,7 +12,7 @@ names:
   es: Agateador Nepalí
   fr: Grimpereau du Népal
   de: Rostflanken-Baumläufer
-  pt: rusty-flanked treecreeper
+  pt: ''
   ru: Непальская пищуха
   ja: ワキアカキバシリ
   zh: 锈红腹旋木雀

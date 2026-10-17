@@ -12,7 +12,7 @@ names:
   es: Guajolote Ocelado
   fr: Dindon ocellé
   de: Pfauentruthuhn
-  pt: ocellated turkey
+  pt: ''
   ru: Глазчатая индейка
   ja: ヒョウモンシチメンチョウ
   zh: 眼斑吐綬雞

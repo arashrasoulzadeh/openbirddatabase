@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 26080.0
 names:
   scientific: Erythrogenys imberbis
-  fa: nan
+  fa: ''
   en: Red-eyed Scimitar Babbler
   es: Cimitarra de Birmania
   fr: Pomatorhin aux yeux rouges

@@ -12,7 +12,7 @@ names:
   es: Mosquerito Piquicurvo Norteño
   fr: Bec-en-arc cendré
   de: Graukehl-Krummschnabeltyrann
-  pt: northern bentbill
+  pt: ''
   ru: Серогрудый крючкоклюв
   ja: カマハシタイランチョウ
   nl: Mexicaanse krombektiran

@@ -15,7 +15,7 @@ names:
   pt: gray-barred wren
   ru: Крапчатый крапивник
   ja: シマサボテンミソサザイ
-  zh: Grey-barred Wren
+  zh: ''
   nl: Grijsbandwinterkoning
   pl: strzyż jarzębaty
   tr: Gri Şeritli Çıtkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10678.0
 names:
   scientific: Pogonornis bidentatus
-  fa: nan
+  fa: ''
   en: Double-toothed Barbet
   es: Barbudo Bidentado
   fr: Barbican bidenté

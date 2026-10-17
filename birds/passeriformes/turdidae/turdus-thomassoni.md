@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28514.0
 names:
   scientific: Turdus thomassoni
-  fa: nan
+  fa: ''
   en: Luzon Island Thrush
   es: Mirlo de Luzón
   fr: Merle de Luçon
   pt: luzon island-thrush
   ja: ルソンハイガシラツグミ
-  zh: Luzon Island Thrush
+  zh: ''
   nl: Luzonmerel
   pl: drozd luzoński
   tr: Luzon Adası Ardıcı

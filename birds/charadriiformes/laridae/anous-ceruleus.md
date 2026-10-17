@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6657.0
 names:
   scientific: Anous ceruleus
-  fa: nan
+  fa: ''
   en: Blue Noddy
   es: Tiñosa Azulada
   fr: Noddi bleu
@@ -15,7 +15,7 @@ names:
   pt: blue-gray noddy
   ru: Сизая кланяющаяся крачка
   ja: ソライロアジサシ
-  zh: Blue Noddy
+  zh: ''
   nl: Blauwe noddy
   pl: rybołówka polinezyjska
   tr: Gökçe Nodi

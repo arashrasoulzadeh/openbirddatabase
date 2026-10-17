@@ -12,7 +12,7 @@ names:
   es: Chango Ventrirrojo
   fr: Carouge à ventre rouge
   de: Rotbauchstärling
-  pt: red-bellied grackle
+  pt: ''
   ru: Краснобрюхий гракл
   ja: アカハラムクドリモドキ
   zh: 红腹拟鹩哥

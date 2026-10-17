@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24925.0
 names:
   scientific: Phylloscopus trochiloides
-  fa: nan
+  fa: ''
   en: Greenish Warbler
   es: Mosquitero Verdoso
   fr: Pouillot verdâtre

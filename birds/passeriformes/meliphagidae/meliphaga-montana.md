@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17751.0
 names:
   scientific: Meliphaga montana
-  fa: nan
+  fa: ''
   en: Forest Honeyeater
   es: Mielero Montano
   fr: Méliphage forestier
   de: Bergwald-Honigfresser
-  pt: forest honeyeater
+  pt: ''
   ru: Горный медосос
   ja: ミヤマミミジロミツスイ
   nl: Salvadorihoningeter

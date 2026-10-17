@@ -12,7 +12,7 @@ names:
   es: Oropéndola de Santo Tomé
   fr: Loriot de Sao Tomé
   de: São-Tomé-Pirol
-  pt: sao tome oriole
+  pt: ''
   ru: Сантомейская иволга
   ja: サントメコウライウグイス
   nl: Sao-Toméwielewaal

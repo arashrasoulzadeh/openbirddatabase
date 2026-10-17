@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3426.0
 names:
   scientific: Hierococcyx fugax
-  fa: nan
+  fa: ''
   en: Malaysian Hawk-Cuckoo
   es: Cuco Huidizo
   fr: Coucou fugitif
   de: Fluchtkuckuck
-  pt: malaysian hawk-cuckoo
+  pt: ''
   ru: Малайская кукушка
   ja: マレーシアジュウイチ
   zh: 馬來鷹鵑

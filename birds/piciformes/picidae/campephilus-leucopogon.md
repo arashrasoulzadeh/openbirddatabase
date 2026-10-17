@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11567.0
 names:
   scientific: Campephilus leucopogon
-  fa: nan
+  fa: ''
   en: Cream-backed Woodpecker
   es: Picamaderos Dorsiblanco
   fr: Pic à dos crème

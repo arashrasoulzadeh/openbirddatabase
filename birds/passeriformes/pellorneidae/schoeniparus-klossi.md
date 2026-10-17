@@ -12,7 +12,7 @@ names:
   es: Fulveta Coroninegra
   fr: Pseudominla de Kloss
   de: Streifenkopf-Zweigdrossling
-  pt: black-crowned fulvetta
+  pt: ''
   ru: Пестроголовая альциппа
   ja: クロガシラチメドリ
   zh: 黑頂雀鶥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12718.0
 names:
   scientific: Loriculus bonapartei
-  fa: nan
+  fa: ''
   en: Black-billed Hanging Parrot
   es: Lorículo Piquinegro
   fr: Coryllis de Bonaparte
   pt: black-billed hanging-parrot
-  zh: Black-billed Hanging Parrot
+  zh: ''
   nl: Suluvleermuisparkiet
   pl: zwisogłówka czarnodzioba
   tr: Kara Gagalı Cennet Papağanı

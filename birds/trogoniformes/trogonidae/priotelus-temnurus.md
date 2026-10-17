@@ -12,7 +12,7 @@ names:
   es: Trogón Tocororo
   fr: Trogon de Cuba
   de: Kubatrogon
-  pt: cuban trogon
+  pt: ''
   ru: Кубинский трогон
   ja: キューバキヌバネドリ
   zh: 古巴咬鵑

@@ -12,7 +12,7 @@ names:
   es: Zarzalero Piquilargo
   fr: Locustelle à long bec
   de: Kaschmirschwirl
-  pt: long-billed bush warbler
+  pt: ''
   ru: Длинноклювая пестрогрудка
   ja: ハシナガオウギセッカ
   zh: 巨嘴短翅蝗莺

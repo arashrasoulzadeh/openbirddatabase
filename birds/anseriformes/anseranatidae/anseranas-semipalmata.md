@@ -12,7 +12,7 @@ names:
   es: Ganso Urraca
   fr: Canaroie semipalmée
   de: Spaltfußgans
-  pt: magpie goose
+  pt: ''
   ru: Полулапчатый гусь
   ja: カササギガン
   zh: 鵲鵝

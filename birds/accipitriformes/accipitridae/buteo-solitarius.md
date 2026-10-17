@@ -12,7 +12,7 @@ names:
   es: Busardo Hawaiano
   fr: Buse d'Hawaï
   de: Hawaiibussard
-  pt: hawaiian hawk
+  pt: ''
   ru: Канюк-отшельник
   ja: ハワイノスリ
   nl: Hawaïbuizerd

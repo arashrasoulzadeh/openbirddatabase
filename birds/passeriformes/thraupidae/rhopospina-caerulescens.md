@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35420.0
 names:
   scientific: Rhopospina caerulescens
-  fa: nan
+  fa: ''
   en: Blue Finch
   es: Yal Azul
   fr: Porphyrin à bec jaune

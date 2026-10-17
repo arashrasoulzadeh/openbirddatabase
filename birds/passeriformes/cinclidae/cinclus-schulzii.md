@@ -12,7 +12,7 @@ names:
   es: Mirlo Acuático Gorjirrufo
   fr: Cincle à gorge rousse
   de: Rostkehl-Wasseramsel
-  pt: rufous-throated dipper
+  pt: ''
   ru: Рыжегорлая оляпка
   ja: ノドアカカワガラス
   zh: 棕喉河乌

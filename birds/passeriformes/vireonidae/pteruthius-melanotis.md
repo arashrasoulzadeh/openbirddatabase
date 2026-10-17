@@ -12,7 +12,7 @@ names:
   es: Vireo Alcaudón Orejudo
   fr: Allotrie à gorge marron
   de: Zimtkehl-Würgervireo
-  pt: black-eared shrike-babbler
+  pt: ''
   ru: Желтолобая птерутия
   ja: クリノドモズチメドリ
   zh: 栗喉鵙鹛

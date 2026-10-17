@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce Frentiblanca
   fr: Colombine à front blanc
   de: Weißstirntaube
-  pt: new guinea bronzewing
+  pt: ''
   ru: Новогвинейский бронзовокрыл
   ja: ハシナガバト
   zh: 白顶孤鸠

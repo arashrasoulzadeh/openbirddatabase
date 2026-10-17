@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 30194.0
 names:
   scientific: Anthreptes tephrolaemus
-  fa: nan
+  fa: ''
   en: Grey-chinned Sunbird
   es: Suimanga Barbigrís
   fr: Souimanga à menton gris
   de: Graukinn-Nektarvogel
   pt: gray-chinned sunbird
-  zh: Grey-chinned Sunbird
+  zh: ''
   nl: Grijskinhoningzuiger
   pl: nektarzyk szarobrody
   tr: Yeşil Nektarkuşu

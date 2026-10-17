@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 33483.0
 names:
   scientific: Atlapetes blancae
-  fa: nan
+  fa: ''
   en: Antioquia Brushfinch
   es: Atlapetes Antioqueño
   fr: Tohi de Blanca
   de: Antioquiabuschammer
-  pt: antioquia brushfinch
+  pt: ''
   ru: Масковая атлапета
   ja: アンティオキアアブシトド
   nl: Antioquiastruikgors

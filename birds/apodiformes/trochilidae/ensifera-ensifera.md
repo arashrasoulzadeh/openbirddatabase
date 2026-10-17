@@ -12,7 +12,7 @@ names:
   es: Colibrí Picoespada
   fr: Colibri porte-épée
   de: Schwertschnabelkolibri
-  pt: sword-billed hummingbird
+  pt: ''
   ru: Мечеклюв
   ja: ヤリハシハチドリ
   zh: 刀嘴蜂鳥

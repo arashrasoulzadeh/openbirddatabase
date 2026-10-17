@@ -12,7 +12,7 @@ names:
   es: Cucarachero Cabecigrís
   fr: Troglodyte moine
   de: Rußkopf-Zaunkönig
-  pt: sooty-headed wren
+  pt: ''
   ru: Темноголовый крапивник
   ja: ススイロマユミソサザイ
   nl: Roetkopwinterkoning

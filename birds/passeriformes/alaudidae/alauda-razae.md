@@ -15,7 +15,7 @@ names:
   pt: calhandra-do-ilhéu-raso
   ru: Кабо-вердианский жаворонок
   ja: ラザコヒバリ
-  zh: Raso Lark
+  zh: ''
   nl: Razoleeuwerik
   pl: skowronek wyspowy
   tr: Razo Toygarı

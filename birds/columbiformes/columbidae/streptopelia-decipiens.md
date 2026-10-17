@@ -15,7 +15,7 @@ names:
   pt: rola-gemedora
   ru: Очковая горлица
   ja: アフリカシラコバト
-  zh: Mourning Collared Dove
+  zh: ''
   nl: Treurtortel
   pl: synogarlica okularowa
   tr: Gözlüklü Kumru

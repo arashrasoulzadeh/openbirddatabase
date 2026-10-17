@@ -12,7 +12,7 @@ names:
   es: Arborófila de Java
   fr: Torquéole de Java
   de: Javabuschwachtel
-  pt: chestnut-bellied partridge
+  pt: ''
   ru: Яванская лесная куропатка
   ja: ジャワミヤマテッケイ
   zh: 栗腹山鷓鴣

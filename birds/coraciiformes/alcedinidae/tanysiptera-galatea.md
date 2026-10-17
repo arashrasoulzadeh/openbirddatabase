@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10262.0
 names:
   scientific: Tanysiptera galatea
-  fa: nan
+  fa: ''
   en: Common Paradise Kingfisher
   es: Alción Colilargo Común
   fr: Martin-chasseur à longs brins
@@ -15,7 +15,7 @@ names:
   pt: common paradise-kingfisher
   ru: Райский зимородок
   ja: ラケットカワセミ
-  zh: Common Paradise Kingfisher
+  zh: ''
   nl: Vlagstaartijsvogel
   pl: sterowik duży
   tr: Cennet Yalıçapkını

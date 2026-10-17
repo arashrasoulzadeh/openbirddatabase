@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21860.0
 names:
   scientific: Eopsaltria placens
-  fa: nan
+  fa: ''
   en: Banded Yellow Robin
   es: Petroica Bandeada
   fr: Miro ceinturé
   de: Olivbandschnäpper
-  pt: banded yellow robin
+  pt: ''
   ru: Ошейниковая дриада
   ja: パプアキイロヒタキ
   nl: Groenbandvliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Alondra Piquirrosa
   fr: Alouette à bec rose
   de: Rotschnabellerche
-  pt: pink-billed lark
+  pt: ''
   ru: Красноклювый жаворонок
   ja: ベニハシシトドコヒバリ
   zh: 粉嘴沙百灵

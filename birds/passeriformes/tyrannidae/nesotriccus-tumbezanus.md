@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16620.0
 names:
   scientific: Nesotriccus tumbezanus
-  fa: nan
+  fa: ''
   en: Tumbesian Tyrannulet
   es: Piojito de Tumbes
   fr: Tyranneau de Tumbes
   de: Tumbeskleintyrann
-  pt: tumbesian tyrannulet
+  pt: ''
   ru: Тумбесский комароед
   nl: Tumbesvliegenpikker
   pl: mysityranik Taczanowskiego

@@ -12,7 +12,7 @@ names:
   es: Serín de Mindanao
   fr: Serin de Mindanao
   de: Mindanaogirlitz
-  pt: mindanao serin
+  pt: ''
   ja: ミンダナオハグロヒワ
   nl: Mindanaokanarie
   pl: pstrokulczyk górski

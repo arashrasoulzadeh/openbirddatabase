@@ -12,7 +12,7 @@ names:
   es: Azulillo Sietecolores
   fr: Passerin nonpareil
   de: Papstfink
-  pt: painted bunting
+  pt: ''
   ru: Расписной колорин
   ja: ゴシキノジコ
   zh: 麗色彩鵐

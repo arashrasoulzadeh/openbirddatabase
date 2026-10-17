@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25015.0
 names:
   scientific: Phylloscopus makirensis
-  fa: nan
+  fa: ''
   en: Makira Leaf Warbler
   es: Mosquitero de San Cristóbal
   fr: Pouillot de San Cristobal
   de: Makiralaubsänger
-  pt: makira leaf warbler
+  pt: ''
   ru: Макирская пеночка
   ja: サンクリストバルムシクイ
   nl: Makiraboszanger

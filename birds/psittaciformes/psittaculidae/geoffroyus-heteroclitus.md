@@ -15,7 +15,7 @@ names:
   pt: singing parrot
   ru: Желтоголовый жоффруа
   ja: キガシラインコ
-  zh: Song Parrot
+  zh: ''
   nl: Zangpapegaai
   pl: śpiewaczka żółtogłowa
   tr: Sarı Başlı Papağan

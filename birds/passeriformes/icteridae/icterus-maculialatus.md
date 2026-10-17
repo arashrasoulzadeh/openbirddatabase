@@ -12,7 +12,7 @@ names:
   es: Turpial Alibarrado
   fr: Oriole unifascié
   de: Bindentrupial
-  pt: bar-winged oriole
+  pt: ''
   ru: Голосистый трупиал
   ja: シロスジムクドリモドキ
   nl: Witbandtroepiaal

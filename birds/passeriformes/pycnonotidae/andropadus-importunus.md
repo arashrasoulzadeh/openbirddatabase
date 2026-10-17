@@ -12,7 +12,7 @@ names:
   es: Bulbul de Zanzíbar
   fr: Bulbul importun
   de: Dunkelbülbül
-  pt: sombre greenbul
+  pt: ''
   ru: Светлоглазый бюльбюль
   ja: ウスグロアオヒヨ
   nl: Vale buulbuul

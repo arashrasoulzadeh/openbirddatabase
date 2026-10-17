@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7387.0
 names:
   scientific: Microcarbo pygmaeus
-  fa: nan
+  fa: ''
   en: Pygmy Cormorant
   es: Cormorán Pigmeo
   fr: Cormoran pygmée

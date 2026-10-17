@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28649.0
 names:
   scientific: Turdus swalesi
-  fa: nan
+  fa: ''
   en: La Selle Thrush
   es: Zorzal de la Española
   fr: Merle de La Selle
   de: Haitidrossel
-  pt: la selle thrush
+  pt: ''
   ru: Гаитянский дрозд
   ja: ハイチアカハラツグミ
   nl: Haïtilijster

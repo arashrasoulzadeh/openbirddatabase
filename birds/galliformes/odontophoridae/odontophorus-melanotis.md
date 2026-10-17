@@ -15,7 +15,7 @@ names:
   pt: black-eared wood-quail
   ru: Черноухий зубцеклювый перепел
   ja: ミミグロウズラ
-  zh: Black-eared Wood Quail
+  zh: ''
   nl: Zwartoortandkwartel
   pl: przepiór czarnobrody
   tr: Kara Boğazlı Tokro

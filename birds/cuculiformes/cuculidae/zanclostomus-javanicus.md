@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3170.0
 names:
   scientific: Zanclostomus javanicus
-  fa: nan
+  fa: ''
   en: Red-billed Malkoha
   es: Malcoha Piquirrojo
   fr: Malcoha javanais
   de: Kastanienbauchkuckuck
-  pt: red-billed malkoha
+  pt: ''
   ru: Красноклювая малкоа
   ja: アカハシバンケンモドキ
   zh: 紅嘴地鵑

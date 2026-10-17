@@ -12,7 +12,7 @@ names:
   es: Vencejo de Shoa
   fr: Martinet de Shoa
   de: Maussegler
-  pt: scarce swift
+  pt: ''
   ru: Мышиная салангана
   ja: エンビアマツバメ
   zh: 珍雨燕

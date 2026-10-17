@@ -12,7 +12,7 @@ names:
   es: Suimanga de Bannerman
   fr: Souimanga de Bannerman
   de: Bannerman-Nektarvogel
-  pt: bannerman's sunbird
+  pt: ''
   ru: Катангская нектарница
   ja: ミナミアオガシラタイヨウチョウ
   nl: Bannermanhoningzuiger

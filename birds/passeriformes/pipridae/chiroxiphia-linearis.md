@@ -12,7 +12,7 @@ names:
   es: Saltarín Colilargo
   fr: Manakin fastueux
   de: Langschwanzpipra
-  pt: long-tailed manakin
+  pt: ''
   ru: Длиннохвостый манакин
   ja: オナガセアオマイコドリ
   nl: Langstaartmanakin

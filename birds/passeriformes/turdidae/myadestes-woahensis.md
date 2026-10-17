@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 28193.0
 names:
   scientific: Myadestes woahensis
-  fa: nan
+  fa: ''
   en: Amaui
   es: Solitario Amaui
   fr: Solitaire d'Oahu
   de: Oahuklarino
-  pt: amaui
+  pt: ''
   ja: オアフヒトリツグミ
   nl: Oahulijster
   pl: klarnetnik brązowy

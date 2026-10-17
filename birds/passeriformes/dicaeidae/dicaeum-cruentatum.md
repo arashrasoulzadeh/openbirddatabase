@@ -12,7 +12,7 @@ names:
   es: Picaflores Dorsirrojo
   fr: Dicée à dos rouge
   de: Scharlachmistelfresser
-  pt: scarlet-backed flowerpecker
+  pt: ''
   ru: Огненноспинный цветоед
   ja: セアカハナドリ
   zh: 朱背啄花鸟

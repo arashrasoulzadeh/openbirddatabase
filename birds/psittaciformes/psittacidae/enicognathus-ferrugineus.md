@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13076.0
 names:
   scientific: Enicognathus ferrugineus
-  fa: nan
+  fa: ''
   en: Austral Parakeet
   es: Cotorra Cachaña
   fr: Conure magellanique
   de: Smaragdsittich
-  pt: austral parakeet
+  pt: ''
   ru: Магелланова которра
   ja: コイミドリインコ
   zh: 南方椎尾鸚鵡

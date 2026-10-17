@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7724.0
 names:
   scientific: Ardea ibis
-  fa: nan
+  fa: ''
   en: Western Cattle Egret
   es: Garcilla Bueyera Occidental
   fr: Héron garde-boeufs

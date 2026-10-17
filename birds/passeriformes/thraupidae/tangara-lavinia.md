@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35084.0
 names:
   scientific: Tangara lavinia
-  fa: nan
+  fa: ''
   en: Rufous-winged Tanager
   es: Tangara Alirrufa
   fr: Calliste à ailes rousses
   de: Kastanienflügeltangare
-  pt: rufous-winged tanager
+  pt: ''
   ru: Рыжекрылая танагра
   ja: チャバネフウキンチョウ
   zh: 棕翅唐加拉雀

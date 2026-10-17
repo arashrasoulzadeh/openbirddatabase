@@ -12,7 +12,7 @@ names:
   es: Negrita Frentigualda
   fr: Nigrette à front jaune
   de: Blassstirnschwärzling
-  pt: pale-fronted nigrita
+  pt: ''
   ru: Желтолобая нигрита
   ja: シロビタイクロキンパラ
   zh: 淡额黑雀

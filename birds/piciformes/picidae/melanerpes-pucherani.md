@@ -12,7 +12,7 @@ names:
   es: Carpintero Centroamericano
   fr: Pic de Pucheran
   de: Schläfenfleckspecht
-  pt: black-cheeked woodpecker
+  pt: ''
   ru: Чернощёкий дятел
   ja: ホオグロミヤビゲラ
   nl: Zwartwangspecht

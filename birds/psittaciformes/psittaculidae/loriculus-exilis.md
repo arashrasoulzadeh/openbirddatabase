@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12729.0
 names:
   scientific: Loriculus exilis
-  fa: nan
+  fa: ''
   en: Pygmy Hanging Parrot
   es: Lorículo Exiguo
   fr: Coryllis vert
@@ -15,7 +15,7 @@ names:
   pt: pygmy hanging-parrot
   ru: Карликовый лорикулюс
   ja: コハナサトウチョウ
-  zh: Pygmy Hanging Parrot
+  zh: ''
   nl: Groene vleermuisparkiet
   pl: zwisogłówka zielona
   tr: Selebes Küçük Cennet Papağanı

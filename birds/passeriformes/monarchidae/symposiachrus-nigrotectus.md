@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20926.0
 names:
   scientific: Symposiachrus nigrotectus
-  fa: nan
+  fa: ''
   en: Vella Lavella Monarch
   es: Monarca de Vella Lavella
   fr: Monarque de Vella Lavella
-  pt: vella lavella monarch
+  pt: ''
   ja: ベララベラホオジロカササギビタキ
   nl: Vella-Lavellamonarch
   pl: monareczka białobrzucha

@@ -15,7 +15,7 @@ names:
   pt: painted firetail
   ru: Расписная амадина
   ja: コマチスズメ
-  zh: Painted Finch
+  zh: ''
   nl: Geschilderde astrild
   pl: kraśniczek czerwonolicy
   tr: Boyalı Belikınalı

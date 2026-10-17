@@ -12,7 +12,7 @@ names:
   es: Pita Graciosa
   fr: Brève gracieuse
   de: Maronenpitta
-  pt: graceful pitta
+  pt: ''
   ru: Изящная питта
   ja: スマトラヤイロチョウ
   zh: 黑冠八色鶇

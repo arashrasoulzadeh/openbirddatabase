@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2481.0
 names:
   scientific: Phapitreron cinereiceps
-  fa: nan
+  fa: ''
   en: Tawitawi Brown Dove
   es: Vinago Pardo de Tawi-Tawi
   fr: Phapitréron de Tawi-Tawi
@@ -15,7 +15,7 @@ names:
   pt: tawitawi brown-dove
   ru: Сероголовая горлица
   ja: ミナミオオテリアオバト
-  zh: Tawitawi Brown Dove
+  zh: ''
   nl: Tawitawivruchtduif
   pl: brązaczek ciemnouchy
   tr: Tawitawi Esmer Kumrusu

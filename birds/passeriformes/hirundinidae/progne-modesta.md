@@ -12,7 +12,7 @@ names:
   es: Golondrina de Galápagos
   fr: Hirondelle des Galapagos
   de: Galápagosschwalbe
-  pt: galapagos martin
+  pt: ''
   ru: Галапагосская ласточка
   ja: ガラパゴスムラサキツバメ
   zh: 加島崖燕

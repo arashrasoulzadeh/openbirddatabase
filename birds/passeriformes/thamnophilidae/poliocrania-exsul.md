@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14020.0
 names:
   scientific: Poliocrania exsul
-  fa: nan
+  fa: ''
   en: Chestnut-backed Antbird
   es: Hormiguero Dorsicastaño
   fr: Alapi à dos roux
   de: Braunrücken-Ameisenvogel
-  pt: chestnut-backed antbird
+  pt: ''
   ru: Коричневоспинная муравьеловка
   ja: クリセアリドリ
   nl: Bruinrugmiervogel

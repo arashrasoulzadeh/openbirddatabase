@@ -12,7 +12,7 @@ names:
   es: Picaflores de Borneo
   fr: Dicée de Bornéo
   de: Borneomistelfresser
-  pt: black-sided flowerpecker
+  pt: ''
   ru: Борнейский цветоед
   ja: ボルネオノドアカハナドリ
   zh: 黑邊紅胸啄花

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17108.0
 names:
   scientific: Muscisaxicola frontalis
-  fa: nan
+  fa: ''
   en: Black-fronted Ground Tyrant
   es: Dormilona Frentinegra
   fr: Dormilon à front noir
@@ -15,7 +15,7 @@ names:
   pt: black-fronted ground-tyrant
   ru: Чернолобая дормилона
   ja: クロビタイイワタイランチョウ
-  zh: Black-fronted Ground Tyrant
+  zh: ''
   nl: Zwartkruingrondtiran
   pl: skałotyran czarnoczelny
   tr: Kara Alınlı Yer Tiranı

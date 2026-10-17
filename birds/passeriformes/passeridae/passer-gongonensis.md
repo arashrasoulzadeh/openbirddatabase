@@ -12,7 +12,7 @@ names:
   es: Gorrión Picogordo
   fr: Moineau perroquet
   de: Papageischnabelsperling
-  pt: parrot-billed sparrow
+  pt: ''
   ru: Попугаеклювый воробей
   ja: ハシブトハイガシラスズメ
   zh: 鸚嘴麻雀

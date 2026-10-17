@@ -15,7 +15,7 @@ names:
   pt: picanço-real-meridional
   ru: Пиренейский сорокопут
   ja: イベリアオオモズ
-  zh: Iberian Grey Shrike
+  zh: ''
   nl: Iberische klapekster
   pl: dzierzba śródziemnomorska
   tr: İberya Örümcekkuşu

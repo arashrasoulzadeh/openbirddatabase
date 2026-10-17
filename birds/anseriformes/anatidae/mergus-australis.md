@@ -15,7 +15,7 @@ names:
   pt: auckland islands merganser
   ru: Оклендский крохаль
   ja: オークランドアイサ
-  zh: New Zealand Merganser
+  zh: ''
   nl: Aucklandzaagbek
   pl: tracz nowozelandzki
   tr: Yeni Zelanda Tarakdişi

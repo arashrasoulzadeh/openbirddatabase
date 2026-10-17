@@ -12,7 +12,7 @@ names:
   es: Negrito Andino
   fr: Lessonie des Andes
   de: Andensporntyrann
-  pt: andean negrito
+  pt: ''
   ru: Андский негрито
   ja: オオセアカタイランチョウ
   nl: Andesnegrito

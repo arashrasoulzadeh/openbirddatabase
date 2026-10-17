@@ -15,7 +15,7 @@ names:
   pt: gray-crowned palm-tanager
   ru: Серошапочная пальмагра
   ja: ハイガシラヤシフウキンチョウ
-  zh: Grey-crowned Palm-tanager
+  zh: ''
   nl: Grijskruinpalmtangare
   pl: hispaniolczyk szarołbisty
   tr: Gri Alınlı Palmiye Tangarası

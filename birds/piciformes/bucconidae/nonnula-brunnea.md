@@ -12,7 +12,7 @@ names:
   es: Monjilla Canela
   fr: Barbacou brun
   de: Einfarb-Faulvogel
-  pt: brown nunlet
+  pt: ''
   ru: Бурая ленивка
   ja: チャイロアマドリ
   nl: Bruine trappist

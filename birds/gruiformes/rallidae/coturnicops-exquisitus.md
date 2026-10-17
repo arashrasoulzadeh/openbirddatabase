@@ -12,7 +12,7 @@ names:
   es: Polluela Exquisita
   fr: Râle de Swinhoe
   de: Mandschurenralle
-  pt: swinhoe's rail
+  pt: ''
   ru: Белокрылая курочка-малютка
   ja: シマクイナ
   zh: 花田鸡

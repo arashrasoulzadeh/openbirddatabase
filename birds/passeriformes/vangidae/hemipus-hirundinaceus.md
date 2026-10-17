@@ -12,7 +12,7 @@ names:
   es: Oruguero Golondrina
   fr: Hémipe véloce
   de: Sundaschnäppervanga
-  pt: black-winged flycatcher-shrike
+  pt: ''
   ru: Чернокрылый личинколов
   ja: ハグロヒタキサンショウクイ
   zh: 黑翅鶲鵙

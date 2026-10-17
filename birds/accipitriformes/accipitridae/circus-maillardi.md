@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero de Reunión
   fr: Busard de Maillard
   de: Réunionweihe
-  pt: reunion harrier
+  pt: ''
   ru: Реюньонский лунь
   ja: レユニオンチュウヒ
   zh: 留島鷂

@@ -12,7 +12,7 @@ names:
   es: Vencejo Cuellirrojo
   fr: Martinet à collier roux
   de: Rothalssegler
-  pt: chestnut-collared swift
+  pt: ''
   ru: Каштановогрудый стриж
   ja: クリエリムジアマツバメ
   zh: 栗领黑雨燕

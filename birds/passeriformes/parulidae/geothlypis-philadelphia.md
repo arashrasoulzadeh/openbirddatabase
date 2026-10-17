@@ -12,7 +12,7 @@ names:
   es: Reinita Plañidera
   fr: Paruline triste
   de: Graukopf-Waldsänger
-  pt: mourning warbler
+  pt: ''
   ru: Черногорлая хвойница
   ja: ノドグロアメリカムシクイ
   zh: 污黑黃喉地鶯

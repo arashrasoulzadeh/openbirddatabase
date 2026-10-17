@@ -12,7 +12,7 @@ names:
   es: Torcecuello Africano
   fr: Torcol à gorge rousse
   de: Rostkehl-Wendehals
-  pt: red-throated wryneck
+  pt: ''
   ru: Красногорлая вертишейка
   ja: ムネアカアリスイ
   nl: Afrikaanse draaihals

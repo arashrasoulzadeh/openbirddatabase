@@ -12,7 +12,7 @@ names:
   es: Petrel de las Bonin
   fr: Pétrel des Bonin
   de: Boninsturmvogel
-  pt: bonin petrel
+  pt: ''
   ru: Бонинский тайфунник
   ja: シロハラミズナギドリ
   zh: 白额圆尾鹱

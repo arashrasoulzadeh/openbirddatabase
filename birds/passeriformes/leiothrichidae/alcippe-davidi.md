@@ -12,7 +12,7 @@ names:
   es: Fulveta de David
   fr: Alcippe de David
   de: Davidzweigdrossling
-  pt: david's fulvetta
+  pt: ''
   ru: Сычуаньская альциппа
   ja: アヴィドチメドリ
   zh: 灰眶雀鹛

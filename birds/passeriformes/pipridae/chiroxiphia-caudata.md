@@ -15,7 +15,7 @@ names:
   pt: tangará
   ru: Ласточкохвостый манакин
   ja: エンビセアオマイコドリ
-  zh: Blue Manakin
+  zh: ''
   nl: Zwaluwstaartmanakin
   pl: modrogrzbiecik tęposterny
   tr: Kırlangıç Kuyruklu Manakin

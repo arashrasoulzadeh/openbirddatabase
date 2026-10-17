@@ -12,7 +12,7 @@ names:
   es: Faisán Ensangrentado
   fr: Ithagine ensanglantée
   de: Blutfasan
-  pt: blood pheasant
+  pt: ''
   ru: Сермун
   ja: ベニキジ
   zh: 血雉

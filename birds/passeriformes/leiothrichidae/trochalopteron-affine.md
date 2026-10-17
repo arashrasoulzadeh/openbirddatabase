@@ -12,7 +12,7 @@ names:
   es: Charlatán Carinegro
   fr: Garrulaxe à face noire
   de: Schwarzscheitelhäherling
-  pt: black-faced laughingthrush
+  pt: ''
   ru: Чернолицая кустарница
   ja: キンバネガビチョウ
   zh: 黑顶噪鹛

@@ -12,7 +12,7 @@ names:
   es: Chocha de Célebes
   fr: Bécasse des Célèbes
   de: Celebesschnepfe
-  pt: sulawesi woodcock
+  pt: ''
   ru: Сулавесский вальдшнеп
   ja: セレベスヤマシギ
   nl: Celebeshoutsnip

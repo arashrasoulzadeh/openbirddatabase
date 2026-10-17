@@ -15,7 +15,7 @@ names:
   pt: new guinea eagle
   ru: Новогвинейская гарпия
   ja: パプアオウギワシ
-  zh: Papuan Eagle
+  zh: ''
   nl: Papoea-arend
   pl: harpia papuaska
   tr: Papua Kartalı

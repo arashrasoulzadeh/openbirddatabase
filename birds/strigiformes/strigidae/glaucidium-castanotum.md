@@ -12,7 +12,7 @@ names:
   es: Mochuelo de Sri Lanka
   fr: Chevêchette à dos marron
   de: Kastanienmantel-Zwergkauz
-  pt: chestnut-backed owlet
+  pt: ''
   ru: Каштановоспинный сычик
   ja: クリセスズメフクロウ
   zh: 栗背鵂鶹

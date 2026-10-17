@@ -15,7 +15,7 @@ names:
   pt: choca-bate-cabo
   ru: Аспидный колючник
   ja: ハイイロアリモズ
-  zh: Northern Slaty Antshrike
+  zh: ''
   nl: Noordelijke gevlekte mierklauwier
   pl: chronka plamista
   tr: Kuzeyli Gri Karıncaavcısı

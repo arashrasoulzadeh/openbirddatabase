@@ -12,7 +12,7 @@ names:
   es: Junco de Los Volcanes
   fr: Junco des volcans
   de: Vulkanammer
-  pt: volcano junco
+  pt: ''
   ru: Пёстрый юнко
   ja: ミヤマユキヒメドリ
   nl: Vulkaanjunco

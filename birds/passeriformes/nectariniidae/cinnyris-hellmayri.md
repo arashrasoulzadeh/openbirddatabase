@@ -12,7 +12,7 @@ names:
   es: Suimanga Árabe
   fr: Souimanga d'Arabie
   de: Arabiennektarvogel
-  pt: arabian sunbird
+  pt: ''
   nl: Arabische honingzuiger
   pl: nektarnik arabski
   tr: Arabistan Nektarkuşu

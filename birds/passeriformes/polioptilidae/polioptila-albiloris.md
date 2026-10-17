@@ -12,7 +12,7 @@ names:
   es: Perlita Cejiblanca
   fr: Gobemoucheron à face blanche
   de: Weißzügel-Mückenfänger
-  pt: white-lored gnatcatcher
+  pt: ''
   ru: Уздечковая комароловка
   ja: ホオジロズグロブユムシクイ
   nl: Witteugelmuggenvanger

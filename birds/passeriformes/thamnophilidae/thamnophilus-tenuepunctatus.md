@@ -12,7 +12,7 @@ names:
   es: Batará Vermiculado
   fr: Batara vermiculé
   de: Feinstreifen-Ameisenwürger
-  pt: lined antshrike
+  pt: ''
   ru: Рябой колючник
   ja: キタセグロシマアリモズ
   zh: 线纹蚁鵙

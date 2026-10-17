@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14938.0
 names:
   scientific: Lepidocolaptes leucogaster
-  fa: nan
+  fa: ''
   en: White-striped Woodcreeper
   es: Trepatroncos Escarchado
   fr: Grimpar givré
   de: Weißstreifen-Baumsteiger
-  pt: white-striped woodcreeper
+  pt: ''
   ru: Рябой древолаз
   ja: シロハラオニキバシリ
   nl: Witbuikmuisspecht

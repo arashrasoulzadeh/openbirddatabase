@@ -12,7 +12,7 @@ names:
   es: Koel Piquinegro
   fr: Coucou à bec noir
   de: Schwarzschnabelkoel
-  pt: black-billed koel
+  pt: ''
   ru: Черноклювый коэль
   ja: スラウェシオニカッコウ
   nl: Sulawesikoël

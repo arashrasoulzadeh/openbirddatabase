@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11346.0
 names:
   scientific: Dendrocopos darjellensis
-  fa: nan
+  fa: ''
   en: Darjeeling Woodpecker
   es: Pico de Darjeeling
   fr: Pic de Darjiling
   de: Darjeelingspecht
-  pt: darjeeling woodpecker
+  pt: ''
   ru: Сиккимский дятел
   ja: キバラアカゲラ
   zh: 黄颈啄木鸟

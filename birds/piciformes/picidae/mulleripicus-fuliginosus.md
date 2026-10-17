@@ -7,14 +7,14 @@ iucn_status: VU
 taxon_order: 11749.0
 names:
   scientific: Mulleripicus fuliginosus
-  fa: nan
+  fa: ''
   en: Southern Sooty Woodpecker
   es: Picatroncos Filipino Sureño
   fr: Pic fuligineux
   de: Leytespecht
   pt: southern sooty-woodpecker
   ja: ミナミクロボウシゲラ
-  zh: Southern Sooty Woodpecker
+  zh: ''
   nl: Grijze treurspecht
   pl: mohun krótkodzioby
   tr: Güney Filipin Ağaçkakanı

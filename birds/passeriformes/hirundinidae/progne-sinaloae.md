@@ -12,7 +12,7 @@ names:
   es: Golondrina Sinaloense
   fr: Hirondelle du Sinaloa
   de: Sinaloaschwalbe
-  pt: sinaloa martin
+  pt: ''
   ru: Мексиканская ласточка
   ja: シナロアムラサキツバメ
   zh: 墨西哥崖燕

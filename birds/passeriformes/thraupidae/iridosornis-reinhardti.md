@@ -12,7 +12,7 @@ names:
   es: Tangara de Reinhardt
   fr: Tangara de Reinhardt
   de: Goldband-Bergtangare
-  pt: yellow-scarfed tanager
+  pt: ''
   ru: Желтоухая танагра
   ja: ペルーニジフウキンチョウ
   nl: Goudbandtangare

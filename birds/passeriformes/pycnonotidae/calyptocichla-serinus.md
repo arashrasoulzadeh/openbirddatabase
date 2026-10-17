@@ -12,7 +12,7 @@ names:
   es: Bulbul Dorado
   fr: Bulbul doré
   de: Goldbülbül
-  pt: golden greenbul
+  pt: ''
   ru: Золотистый бюльбюль
   ja: セリンヒヨドリ
   zh: 金绿鹎属

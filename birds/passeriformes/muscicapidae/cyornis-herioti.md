@@ -12,7 +12,7 @@ names:
   es: Papamoscas Pechiazul
   fr: Gobemouche à poitrine bleue
   de: Heriotblauschnäpper
-  pt: blue-breasted blue flycatcher
+  pt: ''
   ru: Синегрудая нильтава
   ja: ルソンヒメアオヒタキ
   nl: Noord-Luzonniltava

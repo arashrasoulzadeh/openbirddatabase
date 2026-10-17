@@ -12,7 +12,7 @@ names:
   es: Yerbera Chica
   fr: Mégalure menue
   de: Zwergschilfsänger
-  pt: little grassbird
+  pt: ''
   ru: Карликовая котата
   ja: シマオオセッカ
   zh: 姬大尾莺

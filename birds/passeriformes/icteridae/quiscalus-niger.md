@@ -12,7 +12,7 @@ names:
   es: Zanate Antillano
   fr: Quiscale noir
   de: Antillengrackel
-  pt: greater antillean grackle
+  pt: ''
   ru: Антильский гракл
   ja: アンチルクロムクドリモドキ
   zh: 黑擬八哥

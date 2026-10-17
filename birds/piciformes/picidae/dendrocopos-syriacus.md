@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11372.0
 names:
   scientific: Dendrocopos syriacus
-  fa: nan
+  fa: ''
   en: Syrian Woodpecker
   es: Pico Sirio
   fr: Pic syriaque

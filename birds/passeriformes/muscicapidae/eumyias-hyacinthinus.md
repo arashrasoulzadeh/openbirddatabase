@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 29076.0
 names:
   scientific: Eumyias hyacinthinus
-  fa: nan
+  fa: ''
   en: Timor Blue Flycatcher
   es: Papamoscas Jacintino
   fr: Gobemouche hyacinthe

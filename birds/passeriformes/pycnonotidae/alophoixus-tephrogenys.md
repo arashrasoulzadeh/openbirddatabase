@@ -7,14 +7,14 @@ iucn_status: VU
 taxon_order: 24459.0
 names:
   scientific: Alophoixus tephrogenys
-  fa: nan
+  fa: ''
   en: Grey-cheeked Bulbul
   es: Bulbul Carigrís
   fr: Bulbul à joues grises
   de: Grauwangenbülbül
   pt: gray-cheeked bulbul
   ru: Серощёкий бюльбюль-бородач
-  zh: Grey-cheeked Bulbul
+  zh: ''
   nl: Grijswangbaardbuulbuul
   pl: szczeciak szarolicy
   tr: Boz Yanaklı Arapbülbülü

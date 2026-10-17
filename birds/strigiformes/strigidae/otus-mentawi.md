@@ -15,7 +15,7 @@ names:
   pt: mentawai scops-owl
   ru: Ментавайская совка
   ja: メンタワイオオコノハズク
-  zh: Mentawai Scops Owl
+  zh: ''
   nl: Siporadwergooruil
   pl: syczek atolowy
   tr: Mentavai İshakkuşu

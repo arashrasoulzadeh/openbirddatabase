@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14280.0
 names:
   scientific: Grallaria blakei
-  fa: nan
+  fa: ''
   en: Chestnut Antpitta
   es: Tororoí Castaño
   fr: Grallaire de Blake
   de: Kastanienameisenpitta
-  pt: chestnut antpitta
+  pt: ''
   ru: Каштановая питтовая муравьеловка
   ja: クリイロジアリドリ
   nl: Kastanjebruine mierpitta

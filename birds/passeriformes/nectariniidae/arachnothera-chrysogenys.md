@@ -12,7 +12,7 @@ names:
   es: Arañero Carigualdo
   fr: Arachnothère à joues jaunes
   de: Gelbwangen-Spinnenjäger
-  pt: yellow-eared spiderhunter
+  pt: ''
   ru: Желтоухая пауколовка
   ja: キミミクモカリドリ
   nl: Geelwangspinnenjager

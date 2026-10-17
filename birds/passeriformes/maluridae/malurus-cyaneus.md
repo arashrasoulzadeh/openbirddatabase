@@ -12,7 +12,7 @@ names:
   es: Maluro Soberbio
   fr: Mérion superbe
   de: Prachtstaffelschwanz
-  pt: superb fairywren
+  pt: ''
   ru: Великолепный малюр
   ja: ルリオーストラリアムシクイ
   zh: 華麗細尾鵑鶯

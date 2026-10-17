@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12542.0
 names:
   scientific: Cyclopsitta desmarestii
-  fa: nan
+  fa: ''
   en: Large Fig Parrot
   es: Lorito de Desmarest
   fr: Psittacule de Desmarest
@@ -15,7 +15,7 @@ names:
   pt: large fig-parrot
   ru: Клинохвостый фиговый попугайчик
   ja: クサビオヒメインコ
-  zh: Large Fig Parrot
+  zh: ''
   nl: Desmarestvijgpapegaai
   pl: figówka tęczowa
   tr: Büyük İncir Papağanı

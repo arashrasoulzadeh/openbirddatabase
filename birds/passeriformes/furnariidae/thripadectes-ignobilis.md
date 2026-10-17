@@ -12,7 +12,7 @@ names:
   es: Trepamusgos Uniforme
   fr: Anabate uniforme
   de: Einfarbbaumspäher
-  pt: uniform treehunter
+  pt: ''
   ru: Одноцветный лесовик
   ja: ムジムシクイカマドドリ
   nl: Eenkleurige boomjager

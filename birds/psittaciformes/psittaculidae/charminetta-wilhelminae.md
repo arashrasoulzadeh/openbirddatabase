@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12564.0
 names:
   scientific: Charminetta wilhelminae
-  fa: nan
+  fa: ''
   en: Pygmy Lorikeet
   es: Lori Pigmeo
   fr: Lori de Wilhelmina
   de: Elfenlori
-  pt: pygmy lorikeet
+  pt: ''
   ru: Украшенный лори Вильгельмины
   ja: コシアカキスジインコ
   nl: Wilhelminalori

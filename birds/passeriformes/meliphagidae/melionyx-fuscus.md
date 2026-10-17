@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17823.0
 names:
   scientific: Melionyx fuscus
-  fa: nan
+  fa: ''
   en: Sooty Honeyeater
   es: Mielero Fuliginoso
   fr: Méliphage fuligineux
   de: Buntwarzen-Honigfresser
-  pt: sooty honeyeater
+  pt: ''
   ru: Тёмный нектароед
   ja: ススイロヤマミツスイ
   nl: Roethoningeter

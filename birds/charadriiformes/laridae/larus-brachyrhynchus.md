@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6519.0
 names:
   scientific: Larus brachyrhynchus
-  fa: nan
+  fa: ''
   en: Short-billed Gull
   es: Gaviota de Alaska
   fr: Goéland à bec court

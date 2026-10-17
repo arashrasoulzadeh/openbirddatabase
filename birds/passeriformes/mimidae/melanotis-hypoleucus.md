@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27998.0
 names:
   scientific: Melanotis hypoleucus
-  fa: nan
+  fa: ''
   en: Blue-and-white Mockingbird
   es: Mulato Pechiblanco
   fr: Moqueur bleu et blanc
   de: Lasurspottdrossel
-  pt: blue-and-white mockingbird
+  pt: ''
   ru: Сине-белый пересмешник
   ja: シロハラアオマネシツグミ
   nl: Blauw-witte spotlijster

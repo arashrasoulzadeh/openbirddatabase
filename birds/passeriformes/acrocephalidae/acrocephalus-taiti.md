@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 23748.0
 names:
   scientific: Acrocephalus taiti
-  fa: nan
+  fa: ''
   en: Henderson Reed Warbler
   es: Carricero de Isla Henderson
   fr: Rousserolle de Henderson
@@ -15,7 +15,7 @@ names:
   pt: henderson island reed warbler
   ru: Хендерсонская камышовка
   ja: タヒチヨシキリ
-  zh: Henderson Reed Warbler
+  zh: ''
   nl: Hendersonkarekiet
   pl: trzciniak blady
   tr: Henderson Kamışçını

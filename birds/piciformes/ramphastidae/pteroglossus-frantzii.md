@@ -12,7 +12,7 @@ names:
   es: Arasarí Piquinaranja
   fr: Araçari de Frantzius
   de: Feuerschnabelarassari
-  pt: fiery-billed aracari
+  pt: ''
   ru: Огненноклювый арасари
   ja: アカハシムナフチュウハシ
   nl: Vuursnavelarassari

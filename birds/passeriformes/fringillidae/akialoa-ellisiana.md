@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32131.0
 names:
   scientific: Akialoa ellisiana
-  fa: nan
+  fa: ''
   en: Oahu Akialoa
   es: Akialoa de Oahu
   fr: Akialoa d'Oahu
   de: Groß-Akialoakleidervogel
-  pt: oahu akialoa
+  pt: ''
   ru: Большая акиалоа
   ja: オアフユミハシハワイミツスイ
   zh: 大綠雀

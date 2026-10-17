@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12583.0
 names:
   scientific: Charmosyna papou
-  fa: nan
+  fa: ''
   en: West Papuan Lorikeet
   es: Lori Papú
   fr: Lori papou
   de: Papualori
-  pt: west papuan lorikeet
+  pt: ''
   ru: Папуанский украшенный лори
   ja: オナガパプアインコ
   nl: Vogelkoplori

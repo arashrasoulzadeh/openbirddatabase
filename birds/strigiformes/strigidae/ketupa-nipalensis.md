@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8987.0
 names:
   scientific: Ketupa nipalensis
-  fa: nan
+  fa: ''
   en: Spot-bellied Eagle-Owl
   es: Búho Nepalí
   fr: Grand-duc du Népal
   de: Nepaluhu
-  pt: spot-bellied eagle-owl
+  pt: ''
   ru: Непальский филин
   ja: ネパールワシミミズク
   zh: 林雕鸮

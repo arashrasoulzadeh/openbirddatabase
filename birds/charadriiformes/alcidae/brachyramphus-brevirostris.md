@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 6394.0
 names:
   scientific: Brachyramphus brevirostris
-  fa: nan
+  fa: ''
   en: Kittlitz's Murrelet
   es: Mérgulo Piquicorto
   fr: Guillemot de Kittlitz
   de: Kurzschnabelalk
-  pt: kittlitz's murrelet
+  pt: ''
   ru: Короткоклювый пыжик
   ja: コバシウミスズメ
   zh: 小嘴斑海雀

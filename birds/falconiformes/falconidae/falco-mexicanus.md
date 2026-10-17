@@ -12,7 +12,7 @@ names:
   es: Halcón Mexicano
   fr: Faucon des prairies
   de: Präriefalke
-  pt: prairie falcon
+  pt: ''
   ru: Мексиканский сокол
   ja: ソウゲンハヤブサ
   zh: 草原隼

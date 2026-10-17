@@ -7,13 +7,13 @@ iucn_status: DD
 taxon_order: 7039.0
 names:
   scientific: Fregetta lineata
-  fa: nan
+  fa: ''
   en: New Caledonian Storm Petrel
   es: Paíño de Nueva Caledonia
   fr: Océanite de Nouvelle-Calédonie
   de: Neukaledonien-Sturmschwalbe
   pt: new caledonian storm-petrel
-  zh: New Caledonian Storm Petrel
+  zh: ''
   nl: Nieuw-Caledonisch stormvogeltje
   pl: oceannik plamisty
   tr: Yeni Kaledonya Fırtınakırlangıcı

@@ -12,7 +12,7 @@ names:
   es: Focha Gigante
   fr: Foulque géante
   de: Riesenblässhuhn
-  pt: giant coot
+  pt: ''
   ru: Гигантская лысуха
   ja: オニオオバン
   nl: Reuzenkoet

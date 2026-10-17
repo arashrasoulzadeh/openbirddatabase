@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6811.0
 names:
   scientific: Phoenicopterus roseus
-  fa: nan
+  fa: ''
   en: Greater Flamingo
   es: Flamenco Común
   fr: Flamant rose

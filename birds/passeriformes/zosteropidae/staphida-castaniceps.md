@@ -12,7 +12,7 @@ names:
   es: Yuhina Estriada
   fr: Yuhina à tête marron
   de: Rotohryuhina
-  pt: striated yuhina
+  pt: ''
   ru: Красноухая юхина
   ja: クリミミチメドリ
   zh: 栗耳凤鹛

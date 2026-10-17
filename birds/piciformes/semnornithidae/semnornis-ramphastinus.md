@@ -12,7 +12,7 @@ names:
   es: Cabezón Tucán
   fr: Cabézon toucan
   de: Tukanbartvogel
-  pt: toucan barbet
+  pt: ''
   ru: Тукановая бородатка
   ja: オオハシゴシキドリ
   zh: 巨嘴擬鴷

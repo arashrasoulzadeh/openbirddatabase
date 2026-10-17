@@ -12,7 +12,7 @@ names:
   es: Lagópodo Coliblanco
   fr: Lagopède à queue blanche
   de: Weißschwanz-Schneehuhn
-  pt: white-tailed ptarmigan
+  pt: ''
   ru: Белохвостая куропатка
   ja: オジロライチョウ
   zh: 白尾雷鸟

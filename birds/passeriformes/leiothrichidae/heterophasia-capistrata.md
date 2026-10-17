@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26506.0
 names:
   scientific: Heterophasia capistrata
-  fa: nan
+  fa: ''
   en: Rufous Sibia
   es: Sibia Rufa
   fr: Garrulaxe casqué
   de: Schwarzkappensibia
-  pt: rufous sibia
+  pt: ''
   ru: Рыжая сибия
   ja: ズグロウタイチメドリ
   zh: 黑顶奇鹛

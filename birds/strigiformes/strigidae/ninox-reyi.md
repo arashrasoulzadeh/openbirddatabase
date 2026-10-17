@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9378.0
 names:
   scientific: Ninox reyi
-  fa: nan
+  fa: ''
   en: Sulu Boobook
   es: Nínox de las Joló
   fr: Ninoxe des Sulu
   de: Sulukauz
-  pt: sulu boobook
+  pt: ''
   ru: Сулуанская иглоногая сова
   ja: スールーアオバズク
   nl: Suluvalkuil

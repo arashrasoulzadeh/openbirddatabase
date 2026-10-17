@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14289.0
 names:
   scientific: Grallaria urraoensis
-  fa: nan
+  fa: ''
   en: Urrao Antpitta
   es: Tororoí de Urrao
   fr: Grallaire d'Urrao
   de: Antioquia-Ameisenpitta
-  pt: urrao antpitta
+  pt: ''
   ru: Оливковая питтовая муравьеловка
   ja: ウラオジアリドリ
   nl: Urraomierpitta

@@ -15,7 +15,7 @@ names:
   pt: dimorphic dwarf-kingfisher
   ru: Изменчивый зимородок
   ja: カワリカワセミ
-  zh: Dimorphic Dwarf Kingfisher
+  zh: ''
   nl: Mindanaodwergijsvogel
   pl: zimorodek niebieskawy
   tr: Margareta Küçük Yalıçapkını

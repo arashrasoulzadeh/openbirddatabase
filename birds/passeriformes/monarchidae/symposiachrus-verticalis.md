@@ -12,7 +12,7 @@ names:
   es: Monarca de las Bismarck
   fr: Monarque des Bismarck
   de: Stirnschopfmonarch
-  pt: bismarck monarch
+  pt: ''
   ru: Новобританский монарх
   ja: ズグロカササギビタキ
   nl: Zwartkeelmonarch

@@ -12,7 +12,7 @@ names:
   es: Diamante Escarlata
   fr: Diamant phaéton
   de: Sonnenamadine
-  pt: crimson finch
+  pt: ''
   ru: Рубиновая амадина
   ja: アサヒスズメ
   zh: 赤胸星雀

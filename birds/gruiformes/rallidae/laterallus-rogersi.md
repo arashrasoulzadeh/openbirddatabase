@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 5629.0
 names:
   scientific: Laterallus rogersi
-  fa: nan
+  fa: ''
   en: Inaccessible Island Rail
   es: Rasconcillo de Tristán de Acuña
   fr: Râle atlantis
   de: Atlantisralle
-  pt: inaccessible island rail
+  pt: ''
   ru: Тристанский пастушок
   ja: マメクロクイナ
   nl: Inaccessibleral

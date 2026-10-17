@@ -12,7 +12,7 @@ names:
   es: Anteojitos Picofino
   fr: Zostérops à bec fin
   de: Dünnschnabel-Brillenvogel
-  pt: slender-billed white-eye
+  pt: ''
   ru: Тонкоклювая белоглазка
   ja: ハシボソメジロ
   zh: 細嘴繡眼

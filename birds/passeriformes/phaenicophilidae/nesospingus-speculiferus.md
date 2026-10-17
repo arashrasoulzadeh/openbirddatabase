@@ -12,7 +12,7 @@ names:
   es: Tangara Puertorriqueña
   fr: Pleureur de Porto Rico
   de: Puerto-Rico-Tangare
-  pt: puerto rican tanager
+  pt: ''
   ru: Льороса
   ja: プエルトリコフウキンチョウ
   zh: 暗唐纳雀

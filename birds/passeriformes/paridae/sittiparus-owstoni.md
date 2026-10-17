@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 22018.0
 names:
   scientific: Sittiparus owstoni
-  fa: nan
+  fa: ''
   en: Owston's Tit
   es: Carbonero de las Izu
   fr: Mésange d'Owston
   de: Izuinseln-Buntmeise
-  pt: owston's tit
+  pt: ''
   ru: Рыжещёкая синица
   ja: オーストンヤマガラ
   zh: 伊豆雜色山雀

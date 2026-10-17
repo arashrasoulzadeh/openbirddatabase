@@ -12,7 +12,7 @@ names:
   es: Cetia Grande
   fr: Grande Bouscarle
   de: Rhododendron-Seidensänger
-  pt: chestnut-crowned bush warbler
+  pt: ''
   ru: Рододендровая широкохвостка
   ja: チャガシラウグイス
   zh: 大树莺

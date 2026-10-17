@@ -12,7 +12,7 @@ names:
   es: Solitario Omao
   fr: Solitaire d'Hawaï
   de: Hawaiiklarino
-  pt: omao
+  pt: ''
   ru: Омао
   ja: ハワイツグミ
   nl: Hawaïlijster

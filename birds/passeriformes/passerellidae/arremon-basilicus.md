@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33034.0
 names:
   scientific: Arremon basilicus
-  fa: nan
+  fa: ''
   en: Sierra Nevada Brushfinch
   es: Cerquero de Bangs
   fr: Tohi de Bangs
   de: Brustfleck-Buschammer
-  pt: sierra nevada brushfinch
+  pt: ''
   ru: Сантамартийский тохи
   ja: シエラネバダヤブシトド
   nl: Bangsstruikgors

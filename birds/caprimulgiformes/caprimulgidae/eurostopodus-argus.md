@@ -12,7 +12,7 @@ names:
   es: Chotacabras Argos
   fr: Engoulevent argus
   de: Argusnachtschwalbe
-  pt: spotted nightjar
+  pt: ''
   ru: Козодой-аргус
   ja: ヒゲナシヨタカ
   zh: 斑毛腿夜鹰

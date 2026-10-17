@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15122.0
 names:
   scientific: Anabazenops dorsalis
-  fa: nan
+  fa: ''
   en: Bamboo Foliage-gleaner
   es: Ticotico Carioscuro
   fr: Anabate à grands sourcils
@@ -15,7 +15,7 @@ names:
   pt: barranqueiro-de-topete
   ru: Серобрюхий древесник
   ja: セアカハシブトカマドドリ
-  zh: Bamboo Foliage-gleaner
+  zh: ''
   nl: Kuifbladspeurder
   pl: bambuśnik białobrzuchy
   tr: Bambu Yaprakkarıştıranı

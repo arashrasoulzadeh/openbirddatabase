@@ -12,7 +12,7 @@ names:
   es: Paloma Culipinta
   fr: Carpophage des Célèbes
   de: Fleckenfruchttaube
-  pt: sombre pigeon
+  pt: ''
   ru: Сулавесский голубь
   ja: セレベスバト
   nl: Notenduif

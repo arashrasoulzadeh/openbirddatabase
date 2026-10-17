@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16262.0
 names:
   scientific: Phylloscartes virescens
-  fa: nan
+  fa: ''
   en: Olive-green Tyrannulet
   es: Orejerito Verdoso
   fr: Tyranneau verdâtre

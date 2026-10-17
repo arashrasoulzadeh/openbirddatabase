@@ -12,7 +12,7 @@ names:
   es: Saltarrocas Damara
   fr: Achétopse à flancs roux
   de: Klippensänger
-  pt: rockrunner
+  pt: ''
   ru: Дамарский скалолаз
   ja: イワトビムシクイ
   zh: 岩莺

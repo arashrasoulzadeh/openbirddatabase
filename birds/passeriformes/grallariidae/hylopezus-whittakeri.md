@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14306.0
 names:
   scientific: Hylopezus whittakeri
-  fa: nan
+  fa: ''
   en: Alta Floresta Antpitta
   es: Tororoí de Alta Floresta
   fr: Grallaire de Whittaker

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24503.0
 names:
   scientific: Iole cacharensis
-  fa: nan
+  fa: ''
   en: Cachar Bulbul
   es: Bulbul de Cachar
   fr: Bulbul du Cachar
   de: Cacharbülbül
-  pt: cachar bulbul
+  pt: ''
   ru: Качарский бюльбюль
   ja: カチャールヒヨドリ
   nl: Cacharbuulbuul

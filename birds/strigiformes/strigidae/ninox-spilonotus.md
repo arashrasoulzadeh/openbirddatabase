@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 9373.0
 names:
   scientific: Ninox spilonotus
-  fa: nan
+  fa: ''
   en: Romblon Boobook
   es: Nínox de Romblón
   fr: Ninoxe du Romblon
   de: Romblonkauz
-  pt: romblon boobook
+  pt: ''
   ru: Ромблонская иглоногая сова
   ja: ロンブロンアオバズク
   nl: Romblonvalkuil

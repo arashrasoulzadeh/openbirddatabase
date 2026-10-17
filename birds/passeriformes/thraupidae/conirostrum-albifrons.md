@@ -12,7 +12,7 @@ names:
   es: Conirrostro Coronado
   fr: Conirostre coiffé
   de: Kappenspitzschnabel
-  pt: capped conebill
+  pt: ''
   ru: Белошапочный конусоклюв
   ja: ボウシマルハシミツドリ
   zh: 白顶锥嘴雀

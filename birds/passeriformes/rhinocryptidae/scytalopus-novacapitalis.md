@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 14396.0
 names:
   scientific: Scytalopus novacapitalis
-  fa: nan
+  fa: ''
   en: Brasilia Tapaculo
   es: Churrín de Brasilia
   fr: Mérulaxe de Brasilia

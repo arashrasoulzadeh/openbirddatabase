@@ -12,7 +12,7 @@ names:
   es: Paloma Bicrestada
   fr: Carpophage à double huppe
   de: Haubenfruchttaube
-  pt: topknot pigeon
+  pt: ''
   ru: Чубатый плодовый голубь
   ja: カミカザリバト
   zh: 髻鸠

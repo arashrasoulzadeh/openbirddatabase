@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26171.0
 names:
   scientific: Gampsorhynchus rufulus
-  fa: nan
+  fa: ''
   en: White-hooded Babbler
   es: Timalí Cabeciblanco
   fr: Gampsorin à tête blanche
   de: Weißkopf-Baumdrossling
-  pt: white-hooded babbler
+  pt: ''
   ru: Рыжеватая белоголовка
   ja: シロガシラモズチメドリ
   zh: 白头鵙鹛

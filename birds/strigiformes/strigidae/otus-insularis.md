@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 8772.0
 names:
   scientific: Otus insularis
-  fa: nan
+  fa: ''
   en: Seychelles Scops Owl
   es: Autillo de las Seychelles
   fr: Petit-duc scieur
@@ -15,7 +15,7 @@ names:
   pt: seychelles scops-owl
   ru: Сейшельская совка
   ja: セーシェルコノハズク
-  zh: Seychelles Scops Owl
+  zh: ''
   nl: Seychellendwergooruil
   pl: syczek seszelski
   tr: Seyşeller İshakkuşu

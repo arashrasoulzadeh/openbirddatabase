@@ -12,7 +12,7 @@ names:
   es: Trepamusgos Barbablanca Andino
   fr: Pseudocolapte de Boissonneau
   de: Weißwangen-Astspäher
-  pt: streaked tuftedcheek
+  pt: ''
   ru: Андский гусар
   ja: エリマキカマドドリ
   nl: Andespluimoor

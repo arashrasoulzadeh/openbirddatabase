@@ -15,7 +15,7 @@ names:
   pt: rabo-mole-da-serra
   ru: Длиннохвостый пампасник
   ja: キノドソウゲンノジコ
-  zh: Serra Finch
+  zh: ''
   nl: Langstaartgors
   pl: pampasówka szarogłowa
   tr: Serra İspinozu

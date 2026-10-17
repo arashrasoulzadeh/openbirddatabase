@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11273.0
 names:
   scientific: Chloropicus pyrrhogaster
-  fa: nan
+  fa: ''
   en: Fire-bellied Woodpecker
   es: Pito Ventrirrojo
   fr: Pic à ventre de feu
   de: Rotbauchspecht
-  pt: fire-bellied woodpecker
+  pt: ''
   ru: Огненобрюхий дятел
   ja: アカハラゲラ
   nl: Vuurbuikspecht

@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 14911.0
 names:
   scientific: Campylorhamphus multostriatus
-  fa: nan
+  fa: ''
   en: Xingu Scythebill
   es: Picoguadaña del Xingú
   fr: Grimpar du Xingu

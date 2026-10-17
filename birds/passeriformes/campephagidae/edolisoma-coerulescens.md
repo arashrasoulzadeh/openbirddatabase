@@ -12,7 +12,7 @@ names:
   es: Oruguero Negruzco
   fr: Échenilleur noir
   de: Glanzraupenfänger
-  pt: blackish cuckooshrike
+  pt: ''
   ru: Блестящий цикадник
   ja: フィリピンオオサンショウクイ
   zh: 菲律宾黑鹃鵙

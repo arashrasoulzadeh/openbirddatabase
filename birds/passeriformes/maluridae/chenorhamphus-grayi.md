@@ -12,7 +12,7 @@ names:
   es: Maluro Picoancho
   fr: Mérion à bec large
   de: Breitschnabel-Staffelschwanz
-  pt: broad-billed fairywren
+  pt: ''
   ru: Синебровый малюр
   ja: アオヒロハシムシクイ
   nl: Breedsnavelelfje

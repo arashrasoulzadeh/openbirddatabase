@@ -15,7 +15,7 @@ names:
   pt: spectacled bristle-tyrant
   ru: Очковый тираннчик
   ja: メジロヒゲハエトリ
-  zh: Spectacled Bristle Tyrant
+  zh: ''
   nl: Brillooftiran
   pl: tyrańczyk okularowy
   tr: Gözlüklü Yaprak Tiranı

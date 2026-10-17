@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2507.0
 names:
   scientific: Treron curvirostra
-  fa: nan
+  fa: ''
   en: Thick-billed Green Pigeon
   es: Vinago Piquigrueso
   fr: Colombar à gros bec

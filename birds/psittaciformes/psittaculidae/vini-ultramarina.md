@@ -12,7 +12,7 @@ names:
   es: Lori Ultramar
   fr: Lori ultramarin
   de: Ultramarinlori
-  pt: ultramarine lorikeet
+  pt: ''
   ru: Маркизский лори-отшельник
   ja: コンセイインコ
   zh: 深藍吸蜜鸚鵡

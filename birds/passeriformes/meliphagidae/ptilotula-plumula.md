@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17896.0
 names:
   scientific: Ptilotula plumula
-  fa: nan
+  fa: ''
   en: Grey-fronted Honeyeater
   es: Mielero de Plumón
   fr: Méliphage à plumet noir
@@ -15,7 +15,7 @@ names:
   pt: gray-fronted honeyeater
   ru: Серолобый медосос
   ja: ミドリコバシミツスイ
-  zh: Grey-fronted Honeyeater
+  zh: ''
   nl: Groenkophoningeter
   pl: złotouch szaroczelny
   tr: Sarı-Siyah Yakalı Balkuşu

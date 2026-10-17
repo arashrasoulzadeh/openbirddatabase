@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32431.0
 names:
   scientific: Crithagra whytii
-  fa: nan
+  fa: ''
   en: Yellow-browed Seedeater
   es: Serín de Whyti
   fr: Serin bridé
   de: Whytigirlitz
-  pt: yellow-browed seedeater
+  pt: ''
   ru: Желтобровый канареечник
   ja: ミナミキマユカナリア
   nl: Geelbrauwkanarie

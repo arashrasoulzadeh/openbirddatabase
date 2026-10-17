@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34387.0
 names:
   scientific: Myioborus melanocephalus
-  fa: nan
+  fa: ''
   en: Spectacled Whitestart
   es: Candelita de Anteojos
   fr: Paruline à lunettes
@@ -15,7 +15,7 @@ names:
   pt: spectacled redstart
   ru: Очковая канделита
   ja: カワリアメリカムシクイ
-  zh: Spectacled Whitestart
+  zh: ''
   nl: Brilzanger
   pl: pleszówka okularowa
   tr: Gözlüklü Ötleğen

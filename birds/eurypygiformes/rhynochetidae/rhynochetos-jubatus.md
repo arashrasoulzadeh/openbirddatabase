@@ -12,7 +12,7 @@ names:
   es: Kagú
   fr: Kagou huppé
   de: Kagu
-  pt: kagu
+  pt: ''
   ru: Кагу
   ja: カグー
   zh: 鷺鶴

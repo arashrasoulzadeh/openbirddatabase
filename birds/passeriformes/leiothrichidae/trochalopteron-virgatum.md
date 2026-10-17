@@ -12,7 +12,7 @@ names:
   es: Charlatán Rayado
   fr: Garrulaxe flammé
   de: Weißschafthäherling
-  pt: striped laughingthrush
+  pt: ''
   ru: Пёстрая кустарница
   ja: シラフガビチョウ
   zh: 纹耳噪鹛

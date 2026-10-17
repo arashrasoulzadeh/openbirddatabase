@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10129.0
 names:
   scientific: Todiramphus leucopygius
-  fa: nan
+  fa: ''
   en: Ultramarine Kingfisher
   es: Alción Ultramar
   fr: Martin-chasseur outremer
   de: Ultramarinliest
-  pt: ultramarine kingfisher
+  pt: ''
   ru: Ультрамариновая альциона
   ja: ルリショウビン
   zh: 深藍翡翠

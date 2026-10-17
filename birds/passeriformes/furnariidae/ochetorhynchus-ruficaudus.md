@@ -12,7 +12,7 @@ names:
   es: Bandurrita Piquirrecta
   fr: Chilia de Meyen
   de: Geradschnabel-Erdhacker
-  pt: straight-billed earthcreeper
+  pt: ''
   ru: Рыжехвостая чилия
   ja: アカオイワカマドドリ
   nl: Priemsnavelaardkruiper

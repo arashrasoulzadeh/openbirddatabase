@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34568.0
 names:
   scientific: Granatellus sallaei
-  fa: nan
+  fa: ''
   en: Grey-throated Chat
   es: Reinita Yucateca
   fr: Granatelle à plastron
@@ -15,7 +15,7 @@ names:
   pt: gray-throated chat
   ru: Серогорлая гранателла
   ja: コムネアカアメリカムシクイ
-  zh: Grey-throated Chat
+  zh: ''
   nl: Grijskeelgranaatzanger
   pl: granatówka szarogardła
   tr: Yukatan Bülbül Kardinali

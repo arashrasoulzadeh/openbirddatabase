@@ -12,7 +12,7 @@ names:
   es: Perico de Tasmania
   fr: Perruche à ventre jaune
   de: Gelbbauchsittich
-  pt: green rosella
+  pt: ''
   ru: Желтобрюхая розелла
   ja: アカビタイキクサインコ
   zh: 綠背玫瑰鸚鵡

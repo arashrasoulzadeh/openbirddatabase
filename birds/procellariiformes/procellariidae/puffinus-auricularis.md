@@ -12,7 +12,7 @@ names:
   es: Pardela de Townsend
   fr: Puffin de Townsend
   de: Townsendsturmtaucher
-  pt: townsend's shearwater
+  pt: ''
   ru: Сокоррский буревестник
   ja: オオセグロミズナギドリ
   nl: Townsendpijlstormvogel

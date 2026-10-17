@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5151.0
 names:
   scientific: Chrysuronia boucardi
-  fa: nan
+  fa: ''
   en: Mangrove Hummingbird
   es: Amazilia de Manglar
   fr: Ariane de Boucard
   de: Mangrovenamazilie
-  pt: mangrove hummingbird
+  pt: ''
   ru: Мангровая амазилия
   ja: マングローブエメラルドハチドリ
   nl: Mangroveamazilia

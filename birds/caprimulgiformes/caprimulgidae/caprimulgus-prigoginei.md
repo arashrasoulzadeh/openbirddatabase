@@ -15,7 +15,7 @@ names:
   pt: itombwe nightjar
   ru: Козодой Пригожина
   ja: プリゴジンヨタカ
-  zh: Prigogine's Nightjar
+  zh: ''
   nl: Louettenachtzwaluw
   pl: lelek kongijski
   tr: Prigogine Çobanaldatanı

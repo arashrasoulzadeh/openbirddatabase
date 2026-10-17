@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 968.0
 names:
   scientific: Ortalis araucuan
-  fa: nan
+  fa: ''
   en: East Brazilian Chachalaca
   es: Chachalaca Oriental
   fr: Ortalide araucuan

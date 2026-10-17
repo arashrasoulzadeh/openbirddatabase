@@ -12,7 +12,7 @@ names:
   es: Vireo Alcaudón Intermedio
   fr: Allotrie intermédiaire
   de: Rostbrust-Würgervireo
-  pt: clicking shrike-babbler
+  pt: ''
   ru: Индокитайская птерутия
   ja: インドシナクリビタイモズチメドリ
   zh: 栗额鵙鹛

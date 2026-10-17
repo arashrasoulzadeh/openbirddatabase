@@ -12,7 +12,7 @@ names:
   es: Trogón de Baird
   fr: Trogon de Baird
   de: Bairdtrogon
-  pt: baird's trogon
+  pt: ''
   ru: Костариканский трогон
   ja: パナマハグロキヌバネドリ
   nl: Bairdtrogon

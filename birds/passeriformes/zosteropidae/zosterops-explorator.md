@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25824.0
 names:
   scientific: Zosterops explorator
-  fa: nan
+  fa: ''
   en: Fiji White-eye
   es: Anteojitos de Fiyi
   fr: Zostérops des Fidji
   de: Layardbrillenvogel
-  pt: fiji white-eye
+  pt: ''
   ru: Фиджийская белоглазка
   ja: フィジーメジロ
   zh: 萊氏繡眼

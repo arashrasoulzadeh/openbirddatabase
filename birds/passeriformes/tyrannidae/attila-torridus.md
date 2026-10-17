@@ -12,7 +12,7 @@ names:
   es: Atila Ocre
   fr: Attila ocré
   de: Ockerattilatyrann
-  pt: ochraceous attila
+  pt: ''
   ru: Охристый аттила
   ja: ウスイロカギハシタイランチョウ
   nl: Okerattila

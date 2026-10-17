@@ -12,7 +12,7 @@ names:
   es: Cuervo Tamaulipeco
   fr: Corneille du Mexique
   de: Tamaulipaskrähe
-  pt: tamaulipas crow
+  pt: ''
   ru: Мексиканская ворона
   ja: メキシコガラス
   zh: 墨西哥烏鴉

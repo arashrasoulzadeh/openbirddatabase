@@ -12,7 +12,7 @@ names:
   es: Picaflores Culidorado
   fr: Dicée de la Sonde
   de: Bartmistelfresser
-  pt: golden-rumped flowerpecker
+  pt: ''
   ru: Бородатый цветоед
   ja: アンナハナドリ
   zh: 金腰啄花

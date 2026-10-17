@@ -12,7 +12,7 @@ names:
   es: Carraca Lila
   fr: Rollier à longs brins
   de: Gabelracke
-  pt: lilac-breasted roller
+  pt: ''
   ru: Лиловогрудая сизоворонка
   ja: ライラックニシブッポウソウ
   zh: 燕尾佛法僧

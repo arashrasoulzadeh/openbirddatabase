@@ -12,7 +12,7 @@ names:
   es: Alicorto Estrellado
   fr: Brachyptère étoilée
   de: Braunrücken-Kurzflügel
-  pt: gould's shortwing
+  pt: ''
   ru: Крапчатый короткокрыл
   ja: シロボシコバネヒタキ
   zh: 栗背短翅鸫

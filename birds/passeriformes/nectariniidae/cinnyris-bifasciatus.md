@@ -12,7 +12,7 @@ names:
   es: Suimanga Bandeado
   fr: Souimanga bifascié
   de: Zweiband-Nektarvogel
-  pt: purple-banded sunbird
+  pt: ''
   ru: Сиреневогрудая нектарница
   ja: ヒメニシキタイヨウチョウ
   nl: Purperbandhoningzuiger

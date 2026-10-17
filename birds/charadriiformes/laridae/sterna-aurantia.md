@@ -12,7 +12,7 @@ names:
   es: Charrán Indio
   fr: Sterne de rivière
   de: Goldschnabel-Seeschwalbe
-  pt: river tern
+  pt: ''
   ru: Индийская крачка
   ja: カワアジサシ
   zh: 黄嘴河燕鸥

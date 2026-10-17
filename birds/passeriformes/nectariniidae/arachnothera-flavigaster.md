@@ -12,7 +12,7 @@ names:
   es: Arañero de Anteojos
   fr: Arachnothère à lunettes
   de: Brillenspinnenjäger
-  pt: spectacled spiderhunter
+  pt: ''
   ru: Очковая пауколовка
   ja: オオキミミクモカリドリ
   zh: 大黃耳捕蛛鳥

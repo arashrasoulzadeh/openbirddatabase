@@ -15,7 +15,7 @@ names:
   pt: yellow-vented myzomela
   ru: Краснопоянисничная медовка
   ja: コシアカミツスイ
-  zh: Crimson-rumped Myzomela
+  zh: ''
   nl: Roodstuitdwerghoningeter
   pl: miodówka krasnorzytna
   tr: Eichhorn Mizomelası

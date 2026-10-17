@@ -12,7 +12,7 @@ names:
   es: Petroica del Pacífico
   fr: Miro du Pacifique
   de: Pazifikscharlachschnäpper
-  pt: pacific robin
+  pt: ''
   ru: Многоцветная петроика
   ja: パシフィックヒタキ
   zh: 太平洋鸲鹟

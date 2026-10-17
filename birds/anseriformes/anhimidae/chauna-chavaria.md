@@ -12,7 +12,7 @@ names:
   es: Chajá Chicagüire
   fr: Kamichi chavaria
   de: Weißwangen-Wehrvogel
-  pt: northern screamer
+  pt: ''
   ru: Черношейная паламедея
   ja: クロエリサケビドリ
   zh: 黑颈冠叫鸭

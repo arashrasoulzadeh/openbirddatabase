@@ -15,7 +15,7 @@ names:
   pt: mauritius shelduck
   ru: Маврикийский гусь
   ja: モーリシャスツクシガモ
-  zh: Mauritius Sheldgoose
+  zh: ''
   nl: Mauritiusgans
   pl: kazarka maurytyjska
   tr: Morityus Kazı

@@ -12,7 +12,7 @@ names:
   es: Pingüino de El Cabo
   fr: Manchot du Cap
   de: Brillenpinguin
-  pt: african penguin
+  pt: ''
   ru: Очковый пингвин
   ja: ケープペンギン
   zh: 斑嘴環企鵝

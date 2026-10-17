@@ -15,7 +15,7 @@ names:
   pt: pardela-cinza
   ru: Бурый буревестник
   ja: オオハイイロミズナギドリ
-  zh: Grey Petrel
+  zh: ''
   nl: Bruine stormvogel
   pl: burzyk bury
   tr: Kahverengi Yelkovan

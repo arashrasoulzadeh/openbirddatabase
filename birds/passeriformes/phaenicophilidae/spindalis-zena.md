@@ -12,7 +12,7 @@ names:
   es: Cigua Cubana
   fr: Zéna à tête rayée
   de: Kuba-Streifenkopftangare
-  pt: western spindalis
+  pt: ''
   ru: Кубинская зена
   ja: シトドフウキンチョウ
   nl: Westelijke spindalis

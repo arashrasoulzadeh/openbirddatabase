@@ -12,7 +12,7 @@ names:
   es: Águila Ventrirroja
   fr: Aigle à ventre roux
   de: Rotbauchadler
-  pt: rufous-bellied eagle
+  pt: ''
   ru: Рыжебрюхий орёл
   ja: アカハラクマタカ
   zh: 棕腹隼雕

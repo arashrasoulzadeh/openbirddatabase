@@ -15,7 +15,7 @@ names:
   pt: northern masked-weaver
   ru: Нильский ткач
   ja: キタメンガタハタオリ
-  zh: Northern Masked Weaver
+  zh: ''
   nl: Geelrugwever
   pl: wikłacz jeziorowy
   tr: Kuzeyli Maskeli Dokumacı

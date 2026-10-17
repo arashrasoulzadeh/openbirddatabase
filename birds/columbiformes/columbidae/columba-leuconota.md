@@ -12,7 +12,7 @@ names:
   es: Paloma Nival
   fr: Pigeon des neiges
   de: Schneetaube
-  pt: snow pigeon
+  pt: ''
   ru: Белогрудый голубь
   ja: ユキバト
   zh: 雪鸽

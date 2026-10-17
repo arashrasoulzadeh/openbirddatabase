@@ -12,7 +12,7 @@ names:
   es: Minero Grande
   fr: Géositte isabelle
   de: Hellbürzel-Erdhacker
-  pt: creamy-rumped miner
+  pt: ''
   ru: Буланый землекоп
   ja: コシジロジカマドドリ
   nl: Izabelholengraver

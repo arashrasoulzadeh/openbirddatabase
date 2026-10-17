@@ -12,7 +12,7 @@ names:
   es: Carbonero Carigualdo Himalayo
   fr: Mésange à joues jaunes
   de: Himalajakronenmeise
-  pt: himalayan black-lored tit
+  pt: ''
   ru: Гималайская синица
   ja: キホオカンムリガラ
   zh: 眼纹黄山雀

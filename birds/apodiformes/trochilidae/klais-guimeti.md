@@ -12,7 +12,7 @@ names:
   es: Colibrí Cabeciazul
   fr: Colibri à tête violette
   de: Violettkopfkolibri
-  pt: violet-headed hummingbird
+  pt: ''
   ru: Фиолетовоголовый колибри
   ja: スミレガシラハチドリ
   zh: 紫头蜂鸟

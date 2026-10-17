@@ -15,7 +15,7 @@ names:
   pt: yellow-bibbed fruit-dove
   ru: Желтозобый пёстрый голубь
   ja: ミカヅキヒメアオバト
-  zh: Yellow-bibbed Fruit Dove
+  zh: ''
   nl: Geelbefjufferduif
   pl: owocożer żółtopierśny
   tr: Sarı Bantlı Meyve Kumrusu

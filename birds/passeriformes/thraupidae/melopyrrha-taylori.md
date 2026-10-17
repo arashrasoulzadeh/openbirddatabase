@@ -7,11 +7,11 @@ iucn_status: NT
 taxon_order: 35702.0
 names:
   scientific: Melopyrrha taylori
-  fa: nan
+  fa: ''
   en: Grand Cayman Bullfinch
   es: Semillero de Gran Caimán
   fr: Pèrenoir de Grande Caïman
-  pt: grand cayman bullfinch
+  pt: ''
   ja: グランドケイマンウソ
   nl: Kaaimandikbekje
   pl: gilówka szarawa

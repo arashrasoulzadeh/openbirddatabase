@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27116.0
 names:
   scientific: Polioptila albiventris
-  fa: nan
+  fa: ''
   en: Yucatan Gnatcatcher
   es: Perlita del Yucatán
   fr: Gobemoucheron du Yucatan
   de: Yucatánmückenfänger
-  pt: yucatan gnatcatcher
+  pt: ''
   ru: Юкатанская комароловка
   ja: ユカタンブユムシクイ
   nl: Yucatanmuggenvanger

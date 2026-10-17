@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13913.0
 names:
   scientific: Cercomacroides serva
-  fa: nan
+  fa: ''
   en: Black Antbird
   es: Hormiguero Negro
   fr: Grisin noir

@@ -12,7 +12,7 @@ names:
   es: Turpial de las Bahamas
   fr: Oriole des Bahamas
   de: Bahamatrupial
-  pt: bahama oriole
+  pt: ''
   ru: Багамский трупиал
   ja: バハマムクドリモドキ
   nl: Bahamatroepiaal

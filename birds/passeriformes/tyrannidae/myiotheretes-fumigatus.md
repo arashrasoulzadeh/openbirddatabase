@@ -15,7 +15,7 @@ names:
   pt: smoky bush-tyrant
   ru: Дымчатая гевара
   ja: チャイロヤブタイランチョウ
-  zh: Smoky Bush Tyrant
+  zh: ''
   nl: Roetkleurige struiktiran
   pl: kopciuch ciemny
   tr: Kül Rengi Çalı Tiranı

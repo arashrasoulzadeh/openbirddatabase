@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28525.0
 names:
   scientific: Turdus erythropleurus
-  fa: nan
+  fa: ''
   en: Christmas Island Thrush
   es: Mirlo de Isla Navidad
   fr: Merle de Christmas
   pt: christmas island-thrush
   ja: ミンダナオハイガシラツグミ（erythropleurus）
-  zh: Christmas Island Thrush
+  zh: ''
   nl: Christmasmerel
   pl: drozd rdzawoboczny
   tr: Kristmas Adası Ardıcı

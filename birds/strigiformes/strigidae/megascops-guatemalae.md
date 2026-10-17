@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8831.0
 names:
   scientific: Megascops guatemalae
-  fa: nan
+  fa: ''
   en: Middle American Screech Owl
   es: Autillo Guatemalteco
   fr: Petit-duc guatémaltèque
@@ -15,7 +15,7 @@ names:
   pt: middle american screech-owl
   ru: Краснолицая совка
   ja: ハラグロオオコノハズク
-  zh: Middle American Screech Owl
+  zh: ''
   nl: Roodwangschreeuwuil
   pl: syczoń zmienny
   tr: Guatemala Puhucuğu

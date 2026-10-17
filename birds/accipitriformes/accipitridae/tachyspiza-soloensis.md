@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8177.0
 names:
   scientific: Tachyspiza soloensis
-  fa: nan
+  fa: ''
   en: Chinese Sparrowhawk
   es: Gavilán Ranero
   fr: Épervier de Horsfield

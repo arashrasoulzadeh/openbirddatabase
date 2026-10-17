@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16924.0
 names:
   scientific: Contopus virens
-  fa: nan
+  fa: ''
   en: Eastern Wood Pewee
   es: Pibí Oriental
   fr: Pioui de l'Est
@@ -15,7 +15,7 @@ names:
   pt: piuí-verdadeiro-do-leste
   ru: Восточный пиви
   ja: モリタイランチョウ
-  zh: Eastern Wood Pewee
+  zh: ''
   nl: Oostelijke bospiewie
   pl: piwik leśny
   tr: Doğulu Pivi

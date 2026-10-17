@@ -12,7 +12,7 @@ names:
   es: Picoloro Cabecinegro
   fr: Paradoxornis à calotte noire
   de: Schwarzkappen-Papageimeise
-  pt: black-headed parrotbill
+  pt: ''
   ru: Черноголовая сутора
   ja: ズグロダルマエナガ
   zh: 黑头鸦雀

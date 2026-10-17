@@ -12,7 +12,7 @@ names:
   es: Tangara Carinegruzca
   fr: Mitrospin obscur
   de: Rußgesicht-Stärlingstangare
-  pt: dusky-faced tanager
+  pt: ''
   ru: Темнолицая силипипа
   ja: ヨゴレフウキンチョウ
   nl: Roetmaskertangare

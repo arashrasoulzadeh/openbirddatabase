@@ -12,7 +12,7 @@ names:
   es: Picaflores de Mindanao
   fr: Dicée à calotte olive
   de: Olivkopf-Mistelfresser
-  pt: olive-capped flowerpecker
+  pt: ''
   ru: Оливковоголовый цветоед
   ja: ハシナガハナドリ
   zh: 绿顶啄花鸟

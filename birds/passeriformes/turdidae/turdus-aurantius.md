@@ -12,7 +12,7 @@ names:
   es: Zorzal Gorjiblanco
   fr: Merle à miroir
   de: Weißkinndrossel
-  pt: white-chinned thrush
+  pt: ''
   ru: Ямайский дрозд
   ja: アゴジロツグミ
   nl: Witkinlijster

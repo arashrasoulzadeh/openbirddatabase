@@ -15,7 +15,7 @@ names:
   pt: taperuçu-escuro
   ru: Американский стриж
   ja: クロムジアマツバメ
-  zh: American Black Swift
+  zh: ''
   nl: Zwarte gierzwaluw
   pl: cierniosternik czarny
   tr: Karaca Ebabil

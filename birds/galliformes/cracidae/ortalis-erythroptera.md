@@ -12,7 +12,7 @@ names:
   es: Chachalaca Cabecirrufa
   fr: Ortalide à tête rousse
   de: Rotkopfguan
-  pt: rufous-headed chachalaca
+  pt: ''
   ru: Красноголовая чачалака
   ja: ズアカヒメシャクケイ
   zh: 棕头小冠雉

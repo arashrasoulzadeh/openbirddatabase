@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 478.0
 names:
   scientific: Sibirionetta formosa
-  fa: nan
+  fa: ''
   en: Baikal Teal
   es: Cerceta del Baikal
   fr: Sarcelle élégante

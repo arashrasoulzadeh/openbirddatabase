@@ -12,7 +12,7 @@ names:
   es: Pito Sultán de Java
   fr: Pic de Java
   de: Javasultanspecht
-  pt: javan flameback
+  pt: ''
   ru: Яванский дятел-султан
   ja: ジャワコガネゲラ
   nl: Horsfieldgoudrugspecht

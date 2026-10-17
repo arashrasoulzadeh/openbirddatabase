@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5130.0
 names:
   scientific: Uranomitra franciae
-  fa: nan
+  fa: ''
   en: Andean Emerald
   es: Amazilia Andina
   fr: Ariane de Francia
   de: Andenamazilie
-  pt: andean emerald
+  pt: ''
   ru: Андская амазилия
   ja: ズアオエメラルドハチドリ
   nl: Andesamazilia

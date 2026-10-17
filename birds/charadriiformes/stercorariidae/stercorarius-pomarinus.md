@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6363.0
 names:
   scientific: Stercorarius pomarinus
-  fa: nan
+  fa: ''
   en: Pomarine Jaeger
   es: Págalo Pomarino
   fr: Labbe pomarin

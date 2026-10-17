@@ -12,7 +12,7 @@ names:
   es: Bubú Nuquirrojo
   fr: Gonolek à nuque rouge
   de: Rotnackenwürger
-  pt: red-naped bushshrike
+  pt: ''
   ru: Белобровый бубу
   ja: フタスジヤブモズ
   nl: Roodkruinfiskaal

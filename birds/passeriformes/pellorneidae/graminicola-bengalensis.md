@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26139.0
 names:
   scientific: Graminicola bengalensis
-  fa: nan
+  fa: ''
   en: Indian Grassbird
   es: Yerbera Bengalí
   fr: Grande Graminicole
   de: Indiengrasdrossling
-  pt: indian grassbird
+  pt: ''
   ru: Индийская длиннохвостка
   ja: コシアカセッカ
   zh: 南亚草鹛

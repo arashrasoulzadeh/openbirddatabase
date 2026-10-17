@@ -12,7 +12,7 @@ names:
   es: Tejedor de Loango
   fr: Tisserin à bec grêle
   de: Loangoweber
-  pt: loango weaver
+  pt: ''
   ru: Габонский ткач
   ja: キンチャハシボソハタオリ
   nl: Loangowever

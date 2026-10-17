@@ -12,7 +12,7 @@ names:
   es: Grulla Cuelliblanca
   fr: Grue à cou blanc
   de: Weißnackenkranich
-  pt: white-naped crane
+  pt: ''
   ru: Даурский журавль
   ja: マナヅル
   zh: 白枕鹤

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26249.0
 names:
   scientific: Pellorneum albiventre
-  fa: nan
+  fa: ''
   en: Spot-throated Babbler
   es: Tordina Golipinta
   fr: Akalat à gorge tachetée
   de: Weißbauch-Erddrossling
-  pt: spot-throated babbler
+  pt: ''
   ru: Белобрюхая тимелия-говорушка
   ja: チャイロジチメドリ
   zh: 白腹幽鹛

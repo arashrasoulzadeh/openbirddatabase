@@ -12,7 +12,7 @@ names:
   es: Diamante Hermoso
   fr: Diamant queue-de-feu
   de: Feuerschwanzamadine
-  pt: beautiful firetail
+  pt: ''
   ru: Очковая амадина
   ja: サザナミスズメ
   zh: 艳火尾雀

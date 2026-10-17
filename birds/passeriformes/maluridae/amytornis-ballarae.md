@@ -12,7 +12,7 @@ names:
   es: Maluro Kalkadoon
   fr: Amytis kalkadoon
   de: Grauflanken-Grasschlüpfer
-  pt: kalkadoon grasswren
+  pt: ''
   ru: Серобокий амитис
   ja: カルカドンセスジムシクイ
   nl: Kalkadoongrassluiper

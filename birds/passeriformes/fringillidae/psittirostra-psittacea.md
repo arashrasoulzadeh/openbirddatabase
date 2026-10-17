@@ -11,7 +11,7 @@ names:
   en: Ou
   fr: Psittirostre psittacin
   de: Gelbkopf-Kleidervogel
-  pt: ou
+  pt: ''
   ru: Попугаевая оу
   ja: キガシラハワイマシコ
   zh: 鹦嘴管舌雀

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26150.0
 names:
   scientific: Turdinus atrigularis
-  fa: nan
+  fa: ''
   en: Black-throated Wren-Babbler
   es: Ratina Golinegra
   fr: Turdinule à gorge noire
   de: Schwarzkehldrossling
-  pt: black-throated wren-babbler
+  pt: ''
   ru: Черногорлая подкоренница
   ja: ノドグロサザイチメドリ
   zh: 黑喉鹪鹛

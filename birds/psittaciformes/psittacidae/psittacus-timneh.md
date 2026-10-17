@@ -12,7 +12,7 @@ names:
   es: Loro Timneh
   fr: Perroquet timneh
   de: Timnehpapagei
-  pt: timneh parrot
+  pt: ''
   ru: Бурохвостый жако
   ja: コイネズミヨウム
   nl: Timnehpapegaai

@@ -12,7 +12,7 @@ names:
   es: Zorzal Cabecipardo
   fr: Merle à flancs roux
   de: Japandrossel
-  pt: brown-headed thrush
+  pt: ''
   ru: Золотистый дрозд
   ja: アカハラ
   zh: 赤胸鸫

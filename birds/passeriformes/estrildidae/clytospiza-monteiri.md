@@ -12,7 +12,7 @@ names:
   es: Estrilda Parda
   fr: Sénégali brun
   de: Monteiroastrild
-  pt: brown twinspot
+  pt: ''
   ru: Коричневый жемчужник
   ja: チャバラアラレチョウ
   zh: 褐双点雀

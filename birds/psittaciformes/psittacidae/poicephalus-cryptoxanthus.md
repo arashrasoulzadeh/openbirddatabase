@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12781.0
 names:
   scientific: Poicephalus cryptoxanthus
-  fa: nan
+  fa: ''
   en: Brown-headed Parrot
   es: Lorito Cabecipardo
   fr: Perroquet à tête brune
   de: Braunkopfpapagei
-  pt: brown-headed parrot
+  pt: ''
   ru: Буроголовый попугай
   ja: チャガシラハネナガインコ
   nl: Bruinkoppapegaai

@@ -12,7 +12,7 @@ names:
   es: Avetoro Australiano
   fr: Butor d'Australie
   de: Braunbart-Rohrdommel
-  pt: australasian bittern
+  pt: ''
   ru: Австралийская выпь
   ja: オーストラリアサンカノゴイ
   zh: 褐麻鳽

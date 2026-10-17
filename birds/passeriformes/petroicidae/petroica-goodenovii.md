@@ -12,7 +12,7 @@ names:
   es: Petroica Frentirroja
   fr: Miro à front rouge
   de: Rotstirnschnäpper
-  pt: red-capped robin
+  pt: ''
   ru: Краснолобая петроика
   ja: アカビタイサンショクヒタキ
   zh: 红头鸲鹟

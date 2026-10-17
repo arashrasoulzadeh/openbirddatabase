@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29909.0
 names:
   scientific: Phainopepla nitens
-  fa: nan
+  fa: ''
   en: Phainopepla
   es: Capulinero Negro
   fr: Phénopèple luisant
   de: Trauerseidenschnäpper
-  pt: phainopepla
+  pt: ''
   ru: Чёрный шелкохвост
   ja: レンジャクモドキ
   nl: Zwarte zijdevliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Luzón
   fr: Calao de Manille
   de: Luzonhornvogel
-  pt: luzon hornbill
+  pt: ''
   ru: Лусонский калао
   ja: ルソンカオグロサイチョウ
   nl: Luzonneushoornvogel

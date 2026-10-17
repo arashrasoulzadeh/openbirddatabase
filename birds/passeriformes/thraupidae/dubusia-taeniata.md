@@ -12,10 +12,10 @@ names:
   es: Tangara Pechifulva Norteña
   fr: Tangara à poitrine fauve
   de: Silberbrauenbergtangare
-  pt: buff-banded mountain tanager
+  pt: ''
   ru: Дюбузия
   ja: ギンマユフウキンチョウ
-  zh: Buff-breasted Mountain Tanager
+  zh: ''
   nl: Zwartnekbergtangare
   pl: andomodraszek sędziwy
   tr: Saman Gerdanlı Dağ Tangarası

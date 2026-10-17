@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18022.0
 names:
   scientific: Myzomela nigriventris
-  fa: nan
+  fa: ''
   en: Samoan Myzomela
   es: Mielero de Samoa
   fr: Myzomèle des Samoa
   de: Samoahonigfresser
-  pt: samoan myzomela
+  pt: ''
   ja: サモアミツスイ
   nl: Samoadwerghoningeter
   pl: miodówka samoańska

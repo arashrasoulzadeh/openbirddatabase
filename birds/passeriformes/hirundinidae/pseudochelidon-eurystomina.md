@@ -12,7 +12,7 @@ names:
   es: Avión Ribereño Africano
   fr: Pseudolangrayen d'Afrique
   de: Rotaugenschwalbe
-  pt: african river martin
+  pt: ''
   ru: Речная ласточка
   ja: アフリカカワツバメ
   zh: 非洲河燕

@@ -12,7 +12,7 @@ names:
   es: Tejedor de Preuss
   fr: Tisserin de Preuss
   de: Preussweber
-  pt: preuss's weaver
+  pt: ''
   ru: Гвинейский ткач
   ja: ハグロハタオリ
   zh: 金背织巢鸟

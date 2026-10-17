@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29356.0
 names:
   scientific: Brachypteryx cruralis
-  fa: nan
+  fa: ''
   en: Himalayan Shortwing
   es: Alicorto del Himalaya
   fr: Brachyptère de l'Himalaya
   de: Himalaja-Bergkurzflügel
-  pt: himalayan shortwing
+  pt: ''
   ru: Гималайский короткокрыл
   ja: ヒマラヤコバネヒタキ
   zh: 喜山短翅鸫

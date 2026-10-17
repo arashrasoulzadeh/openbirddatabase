@@ -12,7 +12,7 @@ names:
   es: Verdugo Fuliginoso
   fr: Réveilleur noir
   de: Tasmankrähenstar
-  pt: black currawong
+  pt: ''
   ru: Чёрный куравонг
   ja: クロフエガラス
   zh: 黑噪钟鹊

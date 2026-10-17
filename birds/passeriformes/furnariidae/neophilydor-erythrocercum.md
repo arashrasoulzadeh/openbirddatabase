@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15136.0
 names:
   scientific: Neophilydor erythrocercum
-  fa: nan
+  fa: ''
   en: Rufous-rumped Foliage-gleaner
   es: Ticotico Lomirrufo
   fr: Anabate à croupion roux

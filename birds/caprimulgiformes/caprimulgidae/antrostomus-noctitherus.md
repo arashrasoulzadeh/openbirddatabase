@@ -12,7 +12,7 @@ names:
   es: Chotacabras Puertorriqueño
   fr: Engoulevent de Porto Rico
   de: Puerto-Rico-Nachtschwalbe
-  pt: puerto rican nightjar
+  pt: ''
   ru: Пуэрториканский козодой
   ja: プエルトリコヨタカ
   zh: 波多黎各夜鹰

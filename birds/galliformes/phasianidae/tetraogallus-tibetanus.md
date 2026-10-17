@@ -12,7 +12,7 @@ names:
   es: Perdigallo Tibetano
   fr: Tétraogalle du Tibet
   de: Tibetkönigshuhn
-  pt: tibetan snowcock
+  pt: ''
   ru: Тибетский улар
   ja: チベットセッケイ
   zh: 藏雪鸡

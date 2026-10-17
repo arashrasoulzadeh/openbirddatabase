@@ -12,7 +12,7 @@ names:
   es: Peltopo Montano
   fr: Peltopse des montagnes
   de: Bergwürgerstar
-  pt: mountain peltops
+  pt: ''
   ru: Горная белоушка
   ja: ヤマセジロヒタキ
   zh: 高地白頰鍾雀

@@ -12,7 +12,7 @@ names:
   es: Busardo de El Cabo
   fr: Buse forestière
   de: Kapbussard
-  pt: forest buzzard
+  pt: ''
   ru: Лесной канюк
   ja: モリノスリ
   nl: Kaapse buizerd

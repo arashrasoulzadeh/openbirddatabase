@@ -12,7 +12,7 @@ names:
   es: Bulbul Listado
   fr: Bulbul à stries jaunes
   de: Gelbstreifenbülbül
-  pt: yellow-streaked greenbul
+  pt: ''
   ru: Жёлто-пёстрый бюльбюль
   ja: キジマミドリヒヨドリ
   nl: Gestreepte loofbuulbuul

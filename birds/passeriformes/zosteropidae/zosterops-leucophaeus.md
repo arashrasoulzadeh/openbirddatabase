@@ -12,7 +12,7 @@ names:
   es: Anteojitos Plateado
   fr: Zostérops de Principé
   de: Silberbrillenvogel
-  pt: principe speirops
+  pt: ''
   ru: Серебристая белоглазка
   ja: プリンシペメジロモドキ
   zh: 白頂繡眼

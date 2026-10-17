@@ -15,7 +15,7 @@ names:
   pt: large tree-finch
   ru: Попугаевый дарвинов вьюрок
   ja: オオダーウィンフィンチ
-  zh: Large Tree Finch
+  zh: ''
   nl: Grote boomvink
   pl: kłowacz papugodzioby
   tr: Büyük Ağaç İspinozu

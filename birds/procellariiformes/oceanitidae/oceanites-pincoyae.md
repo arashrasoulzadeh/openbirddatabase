@@ -15,7 +15,7 @@ names:
   pt: pincoya storm-petrel
   ru: Чилийская океанида
   ja: ピンコヤウミツバメ
-  zh: Pincoya Storm Petrel
+  zh: ''
   nl: Pincoyastormvogeltje
   pl: oceannik białoskrzydły
   tr: Pinkoya Fırtınakırlangıcı

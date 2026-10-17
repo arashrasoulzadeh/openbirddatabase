@@ -12,7 +12,7 @@ names:
   es: Colirrojo Gorjiblanco
   fr: Rougequeue à gorge blanche
   de: Weißkehl-Rotschwanz
-  pt: white-throated redstart
+  pt: ''
   ru: Белозвёздная горихвостка
   ja: ノドジロジョウビタキ
   zh: 白喉红尾鸲

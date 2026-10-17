@@ -12,7 +12,7 @@ names:
   es: Akelat de Sharpe
   fr: Rougegorge de Sharpe
   de: Braunbruströtel
-  pt: sharpe's akalat
+  pt: ''
   ru: Танзанийский заряночник
   ja: マユジロヒメコマドリ
   nl: Sharpeakalat

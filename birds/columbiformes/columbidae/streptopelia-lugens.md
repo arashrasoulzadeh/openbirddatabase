@@ -15,7 +15,7 @@ names:
   pt: dusky turtle-dove
   ru: Тёмная горлица
   ja: クロエリキジバト
-  zh: Dusky Turtle Dove
+  zh: ''
   nl: Rouwtortel
   pl: turkawka żałobna
   tr: Boz Üveyik

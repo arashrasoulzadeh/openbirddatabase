@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18746.0
 names:
   scientific: Coracina panayensis
-  fa: nan
+  fa: ''
   en: Visayan Cuckooshrike
   es: Oruguero de las Bisayas
   fr: Échenilleur des Visayas
   de: Visayasraupenfänger
-  pt: visayan cuckooshrike
+  pt: ''
   ja: ビサヤカッコウサンショウクイ
   nl: Panayrupsvogel
   pl: kruczyna wisajska

@@ -12,7 +12,7 @@ names:
   es: Lori Versicolor
   fr: Loriquet versicolore
   de: Buntlori
-  pt: varied lorikeet
+  pt: ''
   ru: Пёстрый лорикет
   ja: クスダマインコ
   zh: 杂色鹦鹉

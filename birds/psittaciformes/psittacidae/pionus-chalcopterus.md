@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12895.0
 names:
   scientific: Pionus chalcopterus
-  fa: nan
+  fa: ''
   en: Bronze-winged Parrot
   es: Loro Alibronceado
   fr: Pione noire
   de: Glanzflügelpapagei
-  pt: bronze-winged parrot
+  pt: ''
   ru: Бронзовокрылый амазонет
   ja: ドウバネインコ
   zh: 青铜翅鹦哥

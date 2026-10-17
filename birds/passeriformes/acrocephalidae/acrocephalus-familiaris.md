@@ -12,7 +12,7 @@ names:
   es: Carricero Familiar
   fr: Rousserolle obscure
   de: Hawaiirohrsänger
-  pt: millerbird
+  pt: ''
   ru: Лайсанская камышовка
   ja: レイサンヨシキリ
   zh: 米尔苇莺

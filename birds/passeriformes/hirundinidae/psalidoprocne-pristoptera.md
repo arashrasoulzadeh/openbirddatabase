@@ -15,7 +15,7 @@ names:
   pt: black sawwing
   ru: Чёрная ласточка
   ja: ムネジロクロツバメ
-  zh: Black Saw-wing
+  zh: ''
   nl: Blauw-zwarte kamzwaluw
   pl: żałobniczka sawannowa
   tr: Kara Kırlangıç

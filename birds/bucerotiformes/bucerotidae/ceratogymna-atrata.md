@@ -12,7 +12,7 @@ names:
   es: Cálao Casquinegro
   fr: Calao à casque noir
   de: Schwarzhelm-Hornvogel
-  pt: black-casqued hornbill
+  pt: ''
   ru: Черноклювый шлеморог
   ja: クロコブサイチョウ
   nl: Blauwkeelneushoornvogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34872.0
 names:
   scientific: Anisognathus lacrymosus
-  fa: nan
+  fa: ''
   en: Lacrimose Mountain Tanager
   es: Tangara Lacrimosa
   fr: Tangara larmoyant
   de: Tränenbergtangare
-  pt: lacrimose mountain tanager
+  pt: ''
   ru: Плачущая танагра
   ja: キボシヤマフウキンチョウ
   nl: Druppelbergtangare

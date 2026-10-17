@@ -12,7 +12,7 @@ names:
   es: Guacamayo de Cochabamba
   fr: Ara de Lafresnaye
   de: Rotohrara
-  pt: red-fronted macaw
+  pt: ''
   ru: Красноухий ара
   ja: アカミミコンゴウインコ
   zh: 红额金刚鹦鹉

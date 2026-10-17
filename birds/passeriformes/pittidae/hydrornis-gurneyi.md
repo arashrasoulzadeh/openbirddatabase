@@ -12,7 +12,7 @@ names:
   es: Pita de Gurney
   fr: Brève de Gurney
   de: Gurneypitta
-  pt: gurney's pitta
+  pt: ''
   ru: Желтогрудая питта
   ja: クロハラシマヤイロチョウ
   zh: 泰國八色鶇

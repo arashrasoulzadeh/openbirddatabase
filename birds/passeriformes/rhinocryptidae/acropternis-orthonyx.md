@@ -12,7 +12,7 @@ names:
   es: Tapaculo Ocelado
   fr: Mérulaxe ocellé
   de: Perlmanteltapaculo
-  pt: ocellated tapaculo
+  pt: ''
   ru: Глазчатый тапакуло
   ja: シラボシオタテドリ
   nl: Zilverpareltapaculo

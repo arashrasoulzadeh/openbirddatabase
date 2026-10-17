@@ -12,7 +12,7 @@ names:
   es: Mochuelo Brahmán
   fr: Chevêche brame
   de: Brahmakauz
-  pt: spotted owlet
+  pt: ''
   ru: Браминский сыч
   ja: インドコキンメフクロウ
   zh: 横斑腹小鸮

@@ -12,7 +12,7 @@ names:
   es: Cutia Nepalí
   fr: Cutie du Népal
   de: Himalajacutia
-  pt: himalayan cutia
+  pt: ''
   ru: Гималайская кутия
   ja: セアカチメドリ
   zh: 斑胁姬鹛

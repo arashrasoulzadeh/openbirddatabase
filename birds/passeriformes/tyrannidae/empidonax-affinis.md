@@ -12,7 +12,7 @@ names:
   es: Mosquero de Los Pinos
   fr: Moucherolle des pins
   de: Kiefernschnäppertyrann
-  pt: pine flycatcher
+  pt: ''
   ru: Сосновый мухолов
   ja: マツメジロハエトリ
   nl: Dennenfeetiran

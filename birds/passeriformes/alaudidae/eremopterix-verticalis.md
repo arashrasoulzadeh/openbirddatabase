@@ -15,7 +15,7 @@ names:
   pt: gray-backed sparrow-lark
   ru: Сероспинный жаворонок
   ja: シロエリスズメヒバリ
-  zh: Grey-backed Sparrow-Lark
+  zh: ''
   nl: Grijsrugvinkleeuwerik
   pl: pustynka białołbista
   tr: Ak Enseli Serçe Toygarı

@@ -12,7 +12,7 @@ names:
   es: Mochuelo Cabezón
   fr: Petite Nyctale
   de: Sägekauz
-  pt: northern saw-whet owl
+  pt: ''
   ru: Североамериканский сыч
   ja: アメリカキンメフクロウ
   zh: 棕榈鬼鸮

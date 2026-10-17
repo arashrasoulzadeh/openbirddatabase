@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23758.0
 names:
   scientific: Acrocephalus percernis
-  fa: nan
+  fa: ''
   en: Northern Marquesan Reed Warbler
   es: Carricero de las Marquesas Septentrional
   fr: Rousserolle de Nuku Hiva
   de: Nordmarquesas-Rohrsänger
-  pt: northern marquesan reed warbler
+  pt: ''
   ru: Нукухивская камышовка
   ja: キタマルケサスヨシキリ
   zh: 北马岛苇莺

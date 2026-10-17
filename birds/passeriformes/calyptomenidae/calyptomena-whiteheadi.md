@@ -12,7 +12,7 @@ names:
   es: Eurilaimo de Whitehead
   fr: Eurylaime de Whitehead
   de: Schwarzkehl-Breitrachen
-  pt: whitehead's broadbill
+  pt: ''
   ru: Черногорлый скрытоклюв
   ja: オオミドリヒロハシ
   zh: 黑喉绿阔嘴鸟

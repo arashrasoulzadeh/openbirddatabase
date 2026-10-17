@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12380.0
 names:
   scientific: Psittacula exsul
-  fa: nan
+  fa: ''
   en: Newton's Parakeet
   es: Cotorra de Isla Rodrigues
   fr: Perruche de Newton
   de: Rodriguessittich
-  pt: newton's parakeet
+  pt: ''
   ru: Родригесский кольчатый попугай
   ja: ロドリゲスダルマインコ
   zh: 牛頓鸚鵡

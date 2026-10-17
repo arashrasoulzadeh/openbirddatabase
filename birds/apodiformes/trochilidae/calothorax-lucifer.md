@@ -15,7 +15,7 @@ names:
   pt: lucifer hummingbird
   ru: Сверкающий люцифер
   ja: アカヒゲハチドリ
-  zh: Lucifer Sheartail
+  zh: ''
   nl: Luciferkolibrie
   pl: koliberek pustynny
   tr: Işıldayan Kolibri

@@ -12,7 +12,7 @@ names:
   es: Estornino Esmeralda
   fr: Choucador iris
   de: Schillerglanzstar
-  pt: emerald starling
+  pt: ''
   ru: Изумрудный спрео
   ja: エメラルドテリムク
   nl: Smaragdspreeuw

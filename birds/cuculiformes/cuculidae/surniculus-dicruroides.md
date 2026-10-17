@@ -12,7 +12,7 @@ names:
   es: Cuclillo Drongo Coliahorquillado
   fr: Coucou à queue fourchue
   de: Gabelschwanz-Drongokuckuck
-  pt: fork-tailed drongo-cuckoo
+  pt: ''
   ru: Вилохвостая дронговая кукушка
   ja: エンビオウチュウカッコウ
   zh: 叉尾乌鹃

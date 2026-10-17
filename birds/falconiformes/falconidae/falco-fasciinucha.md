@@ -12,7 +12,7 @@ names:
   es: Halcón Taita
   fr: Faucon taita
   de: Taitafalke
-  pt: taita falcon
+  pt: ''
   ru: Короткохвостый сокол
   ja: タイタハヤブサ
   nl: Taitavalk

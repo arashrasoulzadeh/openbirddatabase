@@ -12,7 +12,7 @@ names:
   es: Ánade Picopinto Indio
   fr: Canard à bec tacheté
   de: Indien-Fleckschnabelente
-  pt: indian spot-billed duck
+  pt: ''
   ru: Пестроносая кряква
   ja: アカボシカルガモ
   zh: 印缅斑嘴鸭

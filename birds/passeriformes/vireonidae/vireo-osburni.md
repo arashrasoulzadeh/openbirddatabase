@@ -12,7 +12,7 @@ names:
   es: Vireo de Osburn
   fr: Viréo d'Osburn
   de: Bergvireo
-  pt: blue mountain vireo
+  pt: ''
   ru: Горный виреон
   ja: ブルーマウンテンモズモドキ
   nl: Osburnvireo

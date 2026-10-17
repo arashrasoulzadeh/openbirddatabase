@@ -12,7 +12,7 @@ names:
   es: Picohoz Colicanela
   fr: Bec-en-faucille de La Condamine
   de: Rotschwanz-Sichelschnabel
-  pt: buff-tailed sicklebill
+  pt: ''
   ru: Краснохвостый орлиноклюв
   ja: アカオカマハシハチドリ
   zh: 黄尾鐮嘴蜂鳥

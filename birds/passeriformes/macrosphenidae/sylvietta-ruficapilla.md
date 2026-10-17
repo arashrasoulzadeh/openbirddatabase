@@ -12,7 +12,7 @@ names:
   es: Crombec Orejirrufo
   fr: Crombec à calotte rousse
   de: Rotohrsylvietta
-  pt: red-capped crombec
+  pt: ''
   ru: Рыжеухий кромбек
   ja: ズアカチビオムシクイ
   nl: Roodkapkrombek

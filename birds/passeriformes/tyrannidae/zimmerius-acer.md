@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16798.0
 names:
   scientific: Zimmerius acer
-  fa: nan
+  fa: ''
   en: Guianan Tyrannulet
   es: Mosquerito Guayanés
   fr: Tyranneau vif

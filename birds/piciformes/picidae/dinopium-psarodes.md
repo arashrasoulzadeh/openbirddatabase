@@ -12,7 +12,7 @@ names:
   es: Pito Dorsirrojo
   fr: Pic de Lichtenstein
   de: Rotrückenspecht
-  pt: red-backed flameback
+  pt: ''
   ru: Шриланкийский дятел-султан
   zh: 小金背啄木鳥
   nl: Rode goudrugspecht

@@ -12,7 +12,7 @@ names:
   es: Cucarachero Jaspeado
   fr: Troglodyte de Sclater
   de: Bänderbrust-Zaunkönig
-  pt: speckle-breasted wren
+  pt: ''
   ru: Веснушчатый крапивник
   ja: ムナフマユミソサザイ
   nl: Marañonwinterkoning

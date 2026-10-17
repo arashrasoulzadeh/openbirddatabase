@@ -12,7 +12,7 @@ names:
   es: Prión Picogrueso
   fr: Prion à bec épais
   de: Dickschnabel-Sturmvogel
-  pt: fulmar prion
+  pt: ''
   ru: Толстоклювый прион
   ja: ハシブトクジラドリ
   nl: Dikbekprion

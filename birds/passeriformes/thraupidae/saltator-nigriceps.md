@@ -12,7 +12,7 @@ names:
   es: Pepitero Capuchinegro
   fr: Saltator à capuchon
   de: Schwarzkopfsaltator
-  pt: black-cowled saltator
+  pt: ''
   ru: Капюшоновый сальтатор
   ja: クロズキンイカル
   nl: Roodsnavelsaltator

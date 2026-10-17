@@ -12,7 +12,7 @@ names:
   es: Prinia Somalí
   fr: Prinia pâle
   de: Somaliprinie
-  pt: pale prinia
+  pt: ''
   ru: Сомалийская приния
   ja: ハイイロハウチワドリ
   nl: Bleke prinia

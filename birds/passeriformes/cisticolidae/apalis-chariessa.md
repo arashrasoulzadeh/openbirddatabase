@@ -12,7 +12,7 @@ names:
   es: Apalis Aliblanco
   fr: Apalis à ailes blanches
   de: Spiegelfeinsänger
-  pt: white-winged apalis
+  pt: ''
   ru: Белокрылый апалис
   ja: ハジロイロムシクイ
   nl: Witvleugelapalis

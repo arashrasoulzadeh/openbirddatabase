@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8278.0
 names:
   scientific: Astur cooperii
-  fa: nan
+  fa: ''
   en: Cooper's Hawk
   es: Gavilán de Cooper
   fr: Épervier de Cooper
   de: Rundschwanzhabicht
-  pt: cooper's hawk
+  pt: ''
   ru: Куперов ястреб
   ja: クーパーハイタカ
   zh: 雞鷹

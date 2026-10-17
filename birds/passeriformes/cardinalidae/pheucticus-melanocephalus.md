@@ -12,7 +12,7 @@ names:
   es: Picogrueso Cabecinegro
   fr: Cardinal à tête noire
   de: Schwarzkopf-Kernknacker
-  pt: black-headed grosbeak
+  pt: ''
   ru: Черноголовый толстонос
   ja: チャバライカル
   zh: 黑頭白斑翅雀

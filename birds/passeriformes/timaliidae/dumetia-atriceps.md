@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25898.0
 names:
   scientific: Dumetia atriceps
-  fa: nan
+  fa: ''
   en: Dark-fronted Babbler
   es: Timalí Frentinegro
   fr: Timalie à tête noire
   de: Kapuzentyrannentimalie
-  pt: dark-fronted babbler
+  pt: ''
   ru: Капюшонная тимелия
   ja: ズグロインドチメドリ
   zh: 黑头鹛

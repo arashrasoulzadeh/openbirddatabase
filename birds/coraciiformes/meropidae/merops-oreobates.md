@@ -12,7 +12,7 @@ names:
   es: Abejaruco Montano
   fr: Guêpier montagnard
   de: Bergspint
-  pt: cinnamon-chested bee-eater
+  pt: ''
   ru: Ошейниковая щурка
   ja: チャムネハチクイ
   nl: Bergbijeneter

@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Bandeado de Java
   fr: Martin-pêcheur à large bande
   de: Brustbandeisvogel
-  pt: javan blue-banded kingfisher
+  pt: ''
   ru: Полосатогрудый зимородок
   ja: アオムネカワセミ
   zh: 藍帶翠鳥

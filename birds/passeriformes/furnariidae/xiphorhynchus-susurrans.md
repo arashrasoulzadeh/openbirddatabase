@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14821.0
 names:
   scientific: Xiphorhynchus susurrans
-  fa: nan
+  fa: ''
   en: Cocoa Woodcreeper
   es: Trepatroncos Cacao
   fr: Grimpar cacao
   de: Kakaobaumsteiger
-  pt: cocoa woodcreeper
+  pt: ''
   ru: Мечеклювый древолаз
   ja: ココアオニキバシリ
   nl: Cocoamuisspecht

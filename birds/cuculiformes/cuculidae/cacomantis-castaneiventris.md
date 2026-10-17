@@ -12,7 +12,7 @@ names:
   es: Cuco Ventricastaño
   fr: Coucou à poitrine rousse
   de: Rostbauchkuckuck
-  pt: chestnut-breasted cuckoo
+  pt: ''
   ru: Каштановая кукушка
   ja: クリハラヒメカッコウ
   nl: Roestbuikkoekoek

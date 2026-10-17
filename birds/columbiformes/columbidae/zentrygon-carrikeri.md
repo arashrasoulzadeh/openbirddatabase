@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 2371.0
 names:
   scientific: Zentrygon carrikeri
-  fa: nan
+  fa: ''
   en: Tuxtla Quail-Dove
   es: Paloma Perdiz de Veracruz
   fr: Colombe de Tuxtla
   de: Veracruztaube
-  pt: tuxtla quail-dove
+  pt: ''
   ru: Веракрусская перепелиная горлица
   ja: ベラクルスウズラバト
   zh: 卡氏鹑鸠

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5478.0
 names:
   scientific: Gallinula tenebrosa
-  fa: nan
+  fa: ''
   en: Dusky Moorhen
   es: Gallineta Enlutada
   fr: Gallinule sombre

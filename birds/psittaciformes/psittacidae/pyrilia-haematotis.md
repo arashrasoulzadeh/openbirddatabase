@@ -12,7 +12,7 @@ names:
   es: Lorito Encapuchado
   fr: Caïque à capuchon
   de: Grauwangenpapagei
-  pt: brown-hooded parrot
+  pt: ''
   ru: Буроголовый лорито
   ja: アカミミインコ
   nl: Roodoorpapegaai

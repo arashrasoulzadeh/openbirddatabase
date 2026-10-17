@@ -15,7 +15,7 @@ names:
   pt: black-faced apalis
   ru: Рувензорский апалис
   ja: ミヤマカオグロイロムシクイ
-  zh: Mountain Masked Apalis
+  zh: ''
   nl: Kivuapalis
   pl: nikornik czarnolicy
   tr: Kara Başlı Dağ Apalisi

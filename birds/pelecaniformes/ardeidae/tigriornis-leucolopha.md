@@ -15,7 +15,7 @@ names:
   pt: garça-tigre
   ru: Белохохлая тигровая выпь
   ja: アフリカトラフサギ
-  zh: White-crested Tiger Heron
+  zh: ''
   nl: Afrikaanse tijgerroerdomp
   pl: tygryska białoczuba
   tr: Afrika Kaplan Balıkçılı

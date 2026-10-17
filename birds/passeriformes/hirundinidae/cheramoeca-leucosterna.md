@@ -12,7 +12,7 @@ names:
   es: Golondrina Dorsiblanca
   fr: Hirondelle à dos blanc
   de: Weißrückenschwalbe
-  pt: white-backed swallow
+  pt: ''
   ru: Белоспинная ласточка
   ja: セジロツバメ
   zh: 白背燕属

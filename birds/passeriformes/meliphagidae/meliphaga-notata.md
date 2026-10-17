@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17740.0
 names:
   scientific: Meliphaga notata
-  fa: nan
+  fa: ''
   en: Yellow-spotted Honeyeater
   es: Mielero Marcado
   fr: Méliphage marqué
   de: Torreshonigfresser
-  pt: yellow-spotted honeyeater
+  pt: ''
   ru: Малый медосос
   ja: コキミミミツスイ
   zh: 黄斑吸蜜鳥

@@ -12,7 +12,7 @@ names:
   es: Cistícola de Socotra
   fr: Cisticole de Socotra
   de: Sokotrazistensänger
-  pt: socotra cisticola
+  pt: ''
   ru: Сокотранская цистикола
   ja: ソコトラセッカ
   nl: Socotragraszanger

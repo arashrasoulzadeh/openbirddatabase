@@ -12,7 +12,7 @@ names:
   es: Urraca Oriental
   fr: Pie orientale
   de: Orientelster
-  pt: oriental magpie
+  pt: ''
   ru: Китайская сорока
   ja: カササギ
   zh: 喜鹊

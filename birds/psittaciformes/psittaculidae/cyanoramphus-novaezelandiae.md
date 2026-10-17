@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12456.0
 names:
   scientific: Cyanoramphus novaezelandiae
-  fa: nan
+  fa: ''
   en: Red-crowned Parakeet
   es: Perico Maorí Cabecirrojo
   fr: Perruche de Sparrman
   de: Ziegensittich
-  pt: red-crowned parakeet
+  pt: ''
   ru: Краснолобый какарики
   ja: アオハシインコ
   zh: 红额鹦鹉

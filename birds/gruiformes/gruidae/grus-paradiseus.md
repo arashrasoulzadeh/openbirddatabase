@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5714.0
 names:
   scientific: Grus paradiseus
-  fa: nan
+  fa: ''
   en: Blue Crane
   es: Grulla del Paraíso
   fr: Grue de paradis
   de: Paradieskranich
-  pt: blue crane
+  pt: ''
   ru: Райский журавль
   ja: ハゴロモヅル
   zh: 藍鶴

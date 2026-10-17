@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25233.0
 names:
   scientific: Aegithalos leucogenys
-  fa: nan
+  fa: ''
   en: White-cheeked Bushtit
   es: Mito Cariblanco
   fr: Orite à joues blanches
@@ -15,7 +15,7 @@ names:
   pt: white-cheeked tit
   ru: Белощёкий ополовник
   ja: ホオジロエナガ
-  zh: White-cheeked Bushtit
+  zh: ''
   nl: Witwangstaartmees
   pl: raniuszek czarnobrody
   tr: Ak Yüzlü Uzunkuyruk

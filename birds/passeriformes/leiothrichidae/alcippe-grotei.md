@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26393.0
 names:
   scientific: Alcippe grotei
-  fa: nan
+  fa: ''
   en: Black-browed Fulvetta
   es: Fulveta Cejinegra
   fr: Alcippe de Grote
   de: Weißbauch-Zweigdrossling
-  pt: black-browed fulvetta
+  pt: ''
   ru: Чернобровая альциппа
   ja: マユグロチメドリ
   zh: 黑眉雀鹛

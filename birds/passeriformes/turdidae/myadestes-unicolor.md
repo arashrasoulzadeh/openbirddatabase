@@ -12,7 +12,7 @@ names:
   es: Solitario Unicolor
   fr: Solitaire ardoisé
   de: Schieferklarino
-  pt: slate-colored solitaire
+  pt: ''
   ru: Серый кларино
   ja: ムジヒトリツグミ
   nl: Leigrijze solitaire

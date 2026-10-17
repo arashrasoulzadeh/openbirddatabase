@@ -12,7 +12,7 @@ names:
   es: Colirrojo Acuático
   fr: Rougequeue à calotte blanche
   de: Weißscheitel-Rotschwanz
-  pt: white-capped redstart
+  pt: ''
   ru: Водяная горихвостка
   ja: シロボウシカワビタキ
   zh: 白顶溪鸲

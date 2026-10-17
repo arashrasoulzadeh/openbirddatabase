@@ -12,7 +12,7 @@ names:
   es: Perlita Capirotada
   fr: Gobemoucheron à coiffe noire
   de: Schwarzkappen-Mückenfänger
-  pt: black-capped gnatcatcher
+  pt: ''
   ru: Черноголовая комароловка
   ja: ズグロブユムシクイ
   nl: Zwartkopmuggenvanger

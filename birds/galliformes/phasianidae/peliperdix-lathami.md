@@ -12,7 +12,7 @@ names:
   es: Francolín Cariblanco
   fr: Francolin de Latham
   de: Lathamfrankolin
-  pt: latham's francolin
+  pt: ''
   ru: Лесной франколин
   ja: モリシャコ
   zh: 林鹧鸪

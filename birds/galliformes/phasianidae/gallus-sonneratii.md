@@ -15,7 +15,7 @@ names:
   pt: gray junglefowl
   ru: Серый петух
   ja: ハイイロヤケイ
-  zh: Grey Junglefowl
+  zh: ''
   nl: Sonnerathoen
   pl: kur siwy
   tr: Benekli Yaban Tavuğu

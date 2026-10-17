@@ -12,7 +12,7 @@ names:
   es: Picogrueso Muslinegro
   fr: Cardinal à cuisses noires
   de: Schwarzschenkel-Kernknacker
-  pt: black-thighed grosbeak
+  pt: ''
   ru: Чернокрылый толстонос
   ja: クロモモオウゴンイカル
   nl: Zwartdijkardinaal

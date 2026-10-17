@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 26731.0
 names:
   scientific: Garrulax rufifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Laughingthrush
   es: Charlatán Frentirrufo
   fr: Garrulaxe à front roux
   de: Rotstirnhäherling
-  pt: rufous-fronted laughingthrush
+  pt: ''
   ru: Краснолобая кустарница
   ja: チャビタイガビチョウ
   zh: 红额噪鹛

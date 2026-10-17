@@ -12,7 +12,7 @@ names:
   es: Yuhina Goliestriada
   fr: Yuhina à gorge striée
   de: Kehlstreifenyuhina
-  pt: stripe-throated yuhina
+  pt: ''
   ru: Пестрогорлая юхина
   ja: ノドフカンムリチメドリ
   zh: 纹喉凤鹛

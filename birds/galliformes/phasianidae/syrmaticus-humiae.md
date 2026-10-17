@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 1470.0
 names:
   scientific: Syrmaticus humiae
-  fa: nan
+  fa: ''
   en: Mrs. Hume's Pheasant
   es: Faisán de Hume
   fr: Faisan de Hume
   de: Burmafasan
-  pt: mrs. hume's pheasant
+  pt: ''
   ru: Бирманский фазан
   ja: ビルマカラヤマドリ
   zh: 黑颈长尾雉

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28206.0
 names:
   scientific: Zoothera heinrichi
-  fa: nan
+  fa: ''
   en: Geomalia
   es: Zorzal Terrestre de Célebes
   fr: Grive des Célèbes
   de: Sulawesi-Erddrossel
-  pt: geomalia
+  pt: ''
   ru: Сулавесский дрозд
   ja: セエレベスヤマツグミ
   nl: Geomalia

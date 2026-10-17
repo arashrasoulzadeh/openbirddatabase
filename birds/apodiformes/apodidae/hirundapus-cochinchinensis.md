@@ -12,7 +12,7 @@ names:
   es: Vencejo de la Cochinchina
   fr: Martinet de Cochinchine
   de: Graukehlsegler
-  pt: silver-backed needletail
+  pt: ''
   ru: Серебристый колючехвост
   ja: クロビタイハリオアマツバメ
   zh: 灰喉针尾雨燕

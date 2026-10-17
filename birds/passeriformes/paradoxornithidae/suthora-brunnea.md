@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25500.0
 names:
   scientific: Suthora brunnea
-  fa: nan
+  fa: ''
   en: Brown-winged Parrotbill
   es: Picoloro Alipardo
   fr: Paradoxornis à ailes brunes
   de: Braunflügel-Papageimeise
-  pt: brown-winged parrotbill
+  pt: ''
   ru: Бурокрылая сутора
   ja: ウンナンダルマエナガ
   zh: 褐翅鸦雀

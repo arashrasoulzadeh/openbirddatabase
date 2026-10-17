@@ -15,7 +15,7 @@ names:
   pt: pássaro-gato
   ru: Кошачий пересмешник
   ja: ネコマネドリ
-  zh: Grey Catbird
+  zh: ''
   nl: Katvogel
   pl: przedrzeźniacz ciemny
   tr: Gri Kedikuşu

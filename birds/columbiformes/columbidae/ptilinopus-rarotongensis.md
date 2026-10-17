@@ -15,7 +15,7 @@ names:
   pt: cook islands fruit-dove
   ru: Раротонгский фруктовый голубь
   ja: ラロトンガヒメアオバト
-  zh: Lilac-crowned Fruit Dove
+  zh: ''
   nl: Rarotongajufferduif
   pl: owocożer różowoczelny
   tr: Rarotonga Meyve Kumrusu

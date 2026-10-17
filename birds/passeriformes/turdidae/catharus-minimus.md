@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28318.0
 names:
   scientific: Catharus minimus
-  fa: nan
+  fa: ''
   en: Grey-cheeked Thrush
   es: Zorzalito Carigrís
   fr: Grive à joues grises
@@ -15,7 +15,7 @@ names:
   pt: sabiazinho-de-cara-cinza
   ru: Малый дрозд
   ja: ハイイロチャツグミ
-  zh: Grey-cheeked Thrush
+  zh: ''
   nl: Grijswangdwerglijster
   pl: drozdek szarolicy
   tr: Gri Yanaklı Bülbül Ardıcı

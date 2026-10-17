@@ -15,7 +15,7 @@ names:
   pt: sertanejo-escuro
   ru: Амазонский мухолов
   ja: ウスグロヤブハエトリ
-  zh: Amazonian Scrub Flycatcher
+  zh: ''
   nl: Donkere vliegenpikker
   pl: szaroliczek ciemny
   tr: Amazon Çalı Sinekkapanı

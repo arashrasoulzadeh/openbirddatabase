@@ -12,7 +12,7 @@ names:
   es: Ibis Nipón
   fr: Ibis nippon
   de: Nipponibis
-  pt: crested ibis
+  pt: ''
   ru: Красноногий ибис
   ja: トキ
   zh: 朱鹮

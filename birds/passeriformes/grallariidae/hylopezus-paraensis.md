@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14305.0
 names:
   scientific: Hylopezus paraensis
-  fa: nan
+  fa: ''
   en: Snethlage's Antpitta
   es: Tororoí de Pará
   fr: Grallaire du Para

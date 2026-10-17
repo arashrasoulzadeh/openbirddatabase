@@ -12,7 +12,7 @@ names:
   es: Malimbo Piquiazul
   fr: Malimbe à bec bleu
   de: Rotkehlweber
-  pt: blue-billed malimbe
+  pt: ''
   ru: Синеклювый малимб
   ja: ノドアカモリハタオリ
   nl: Roodkeelprachtwever

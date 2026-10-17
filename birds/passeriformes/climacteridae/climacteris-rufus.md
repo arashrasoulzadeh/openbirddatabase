@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17594.0
 names:
   scientific: Climacteris rufus
-  fa: nan
+  fa: ''
   en: Rufous Treecreeper
   es: Corretroncos Rufo
   fr: Échelet roux
   de: Rostbauch-Baumrutscher
-  pt: rufous treecreeper
+  pt: ''
   ru: Рыжая ложнопищуха
   ja: チャバラキノボリ
   nl: Rosse kruiper

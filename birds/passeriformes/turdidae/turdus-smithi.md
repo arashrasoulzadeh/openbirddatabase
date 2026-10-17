@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28494.0
 names:
   scientific: Turdus smithi
-  fa: nan
+  fa: ''
   en: Karoo Thrush
   es: Zorzal del Karoo
   fr: Merle de Smith
   de: Karoodrossel
-  pt: karoo thrush
+  pt: ''
   ru: Каруйский дрозд
   ja: カルーオリーブツグミ
   nl: Karoolijster

@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco Unchal
   fr: Phasianelle onchall
   de: Bindenschwanztaube
-  pt: barred cuckoo-dove
+  pt: ''
   ru: Полосатая кукушковая горлица
   ja: ヨコジマオナガバト
   zh: 斑尾鹃鸠

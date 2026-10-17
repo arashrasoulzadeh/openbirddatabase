@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28839.0
 names:
   scientific: Myopornis boehmi
-  fa: nan
+  fa: ''
   en: Böhm's Flycatcher
   es: Papamoscas de Böhm
   fr: Gobemouche de Böhm
   de: Böhmschnäpper
-  pt: böhm's flycatcher
+  pt: ''
   ru: Пёстрая мухоловка
   ja: ヤガスリヒタキ
   nl: Böhmvliegenvanger

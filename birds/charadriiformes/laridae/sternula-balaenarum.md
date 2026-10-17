@@ -12,7 +12,7 @@ names:
   es: Charrancito Damara
   fr: Sterne des baleiniers
   de: Damaraseeschwalbe
-  pt: damara tern
+  pt: ''
   ru: Китовая крачка
   ja: マダラアジサシ
   nl: Damarastern

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7800.0
 names:
   scientific: Pelecanus onocrotalus
-  fa: nan
+  fa: ''
   en: Great White Pelican
   es: Pelícano Común
   fr: Pélican blanc

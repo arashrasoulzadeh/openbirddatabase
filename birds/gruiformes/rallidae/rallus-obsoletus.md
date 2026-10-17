@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 5256.0
 names:
   scientific: Rallus obsoletus
-  fa: nan
+  fa: ''
   en: Ridgway's Rail
   es: Rascón de Ridgway
   fr: Râle de Californie
   de: Ridgwayralle
-  pt: ridgway's rail
+  pt: ''
   ru: Калифорнийский пастушок
   ja: ニシオニクイナ
   zh: 里氏秧雞

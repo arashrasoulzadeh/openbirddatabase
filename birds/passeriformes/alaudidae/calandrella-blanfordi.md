@@ -12,7 +12,7 @@ names:
   es: Terrera de Blanford
   fr: Alouette de Blanford
   de: Blanfordlerche
-  pt: blanford's lark
+  pt: ''
   ru: Ржавохохлый жаворонок
   ja: ソマリーヒメコウテンシ
   zh: 布氏百灵

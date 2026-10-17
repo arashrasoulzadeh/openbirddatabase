@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18903.0
 names:
   scientific: Edolisoma holopolium
-  fa: nan
+  fa: ''
   en: Solomons Cicadabird
   es: Oruguero de las Salomón
   fr: Échenilleur des Salomon
   de: Salomonenraupenfänger
-  pt: solomons cicadabird
+  pt: ''
   ru: Чернобрюхий цикадник
   ja: ソロモンオオサンショウクイ
   zh: 黑腹鹃鵙

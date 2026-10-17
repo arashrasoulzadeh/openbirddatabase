@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33472.0
 names:
   scientific: Atlapetes crassus
-  fa: nan
+  fa: ''
   en: Choco Brushfinch
   es: Atlapetes del Chocó
   fr: Tohi à bec fort
   de: Goldscheitel-Buschammer
-  pt: choco brushfinch
+  pt: ''
   ru: Чокская атлапета
   nl: Chocostruikgors
   pl: zaroślak złotołbisty

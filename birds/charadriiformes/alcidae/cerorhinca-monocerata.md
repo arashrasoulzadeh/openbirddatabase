@@ -12,7 +12,7 @@ names:
   es: Alca Unicórnea
   fr: Macareux rhinocéros
   de: Nashornalk
-  pt: rhinoceros auklet
+  pt: ''
   ru: Тупик-носорог
   ja: ウトウ
   zh: 角嘴海雀

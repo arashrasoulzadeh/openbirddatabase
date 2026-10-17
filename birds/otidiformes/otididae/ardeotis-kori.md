@@ -12,7 +12,7 @@ names:
   es: Avutarda Kori
   fr: Outarde kori
   de: Riesentrappe
-  pt: kori bustard
+  pt: ''
   ru: Дрофа-кори
   ja: アフリカオオノガン
   zh: 灰頸鷺鴇

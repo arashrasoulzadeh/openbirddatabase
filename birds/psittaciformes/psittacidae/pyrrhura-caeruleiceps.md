@@ -7,11 +7,11 @@ iucn_status: EN
 taxon_order: 13037.0
 names:
   scientific: Pyrrhura caeruleiceps
-  fa: nan
+  fa: ''
   en: Perija Parakeet
   es: Cotorra de Perijá
   fr: Conure de Todd
-  pt: perija parakeet
+  pt: ''
   nl: Perijaparkiet
   pl: rudosterka modroczelna
   tr: Periha Boyalı Papağanı

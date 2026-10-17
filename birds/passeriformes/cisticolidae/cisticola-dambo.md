@@ -12,7 +12,7 @@ names:
   es: Cistícola Dambo
   fr: Cisticole dambo
   de: Dambozistensänger
-  pt: dambo cisticola
+  pt: ''
   ru: Темнохвостая цистикола
   ja: オグロセッカ
   nl: Dambograszanger

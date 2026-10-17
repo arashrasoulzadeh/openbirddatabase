@@ -15,7 +15,7 @@ names:
   pt: javan green-magpie
   ru: Короткохвостая цисса
   ja: タンビヘキサン
-  zh: Javan Green Magpie
+  zh: ''
   nl: Kortstaartkitta
   pl: kitta krótkosterna
   tr: Cava Yeşil Saksağanı

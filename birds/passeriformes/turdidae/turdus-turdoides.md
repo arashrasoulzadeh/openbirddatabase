@@ -12,7 +12,7 @@ names:
   es: Zorzal Montano de Célebes
   fr: Cataponère des Célèbes
   de: Schwarzbrauendrossel
-  pt: sulawesi thrush
+  pt: ''
   ru: Катапонера
   ja: セレベスツグミ
   nl: Cataponeralijster

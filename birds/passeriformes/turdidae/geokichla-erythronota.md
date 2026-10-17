@@ -15,7 +15,7 @@ names:
   pt: rusty-backed thrush
   ru: Рыжеспинный земляной дрозд
   ja: ムナグロジツグミ
-  zh: Red-backed Thrush
+  zh: ''
   nl: Roodruglijster
   pl: drozdaczek zmienny
   tr: Kızıl Sırtlı Ardıç

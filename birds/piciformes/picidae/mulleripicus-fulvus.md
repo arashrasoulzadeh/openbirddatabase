@@ -12,7 +12,7 @@ names:
   es: Picatroncos de Célebes
   fr: Pic fauve
   de: Celebesspecht
-  pt: ashy woodpecker
+  pt: ''
   ru: Краснолицая желна
   ja: ツラアカボウシゲラ
   zh: 暗黄啄木鸟

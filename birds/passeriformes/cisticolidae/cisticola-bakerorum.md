@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 23390.0
 names:
   scientific: Cisticola bakerorum
-  fa: nan
+  fa: ''
   en: Kilombero Cisticola
   es: Cisticola de Kilombero
   fr: Cisticole des Baker
   de: Kilomberozistensänger
-  pt: kilombero cisticola
+  pt: ''
   nl: Kilomberograszanger
   pl: chwastówka gwiżdżąca
   tr: Kilombero Prinyası

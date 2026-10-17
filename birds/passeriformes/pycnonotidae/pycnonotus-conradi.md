@@ -12,7 +12,7 @@ names:
   es: Bulbul de Blanford Oriental
   fr: Bulbul de Conrad
   de: Strichelwangenbülbül
-  pt: streak-eared bulbul
+  pt: ''
   ru: Пестрощёкий бюльбюль
   ja: ミミスジヒヨドリ
   zh: 条耳鹎

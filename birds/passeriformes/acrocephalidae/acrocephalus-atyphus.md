@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23763.0
 names:
   scientific: Acrocephalus atyphus
-  fa: nan
+  fa: ''
   en: Tuamotu Reed Warbler
   es: Carricero de las Tuamotu
   fr: Rousserolle des Tuamotu
   de: Tuamoturohrsänger
-  pt: tuamotu reed warbler
+  pt: ''
   ru: Туамотская камышовка
   ja: ツアモツヨシキリ
   zh: 环礁苇莺

@@ -12,7 +12,7 @@ names:
   es: Chupasavia Oscuro
   fr: Pic de Williamson
   de: Kiefernsaftlecker
-  pt: williamson's sapsucker
+  pt: ''
   ru: Сосновый дятел-сокоед
   ja: ズグロシルスイキツツキ
   zh: 威氏吸汁啄木鳥

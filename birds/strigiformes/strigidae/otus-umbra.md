@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8743.0
 names:
   scientific: Otus umbra
-  fa: nan
+  fa: ''
   en: Simeulue Scops Owl
   es: Autillo de Simeulue
   fr: Petit-duc de Simalur
@@ -15,7 +15,7 @@ names:
   pt: simeulue scops-owl
   ru: Сималурская сплюшка
   ja: ムンタワイコノハズク
-  zh: Simeulue Scops Owl
+  zh: ''
   nl: Simeuluedwergooruil
   pl: syczek mroczny
   tr: Simalur İshakkuşu

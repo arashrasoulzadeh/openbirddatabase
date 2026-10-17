@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27710.0
 names:
   scientific: Aplonis insularis
-  fa: nan
+  fa: ''
   en: Rennell Starling
   es: Estornino de Isla Rennell
   fr: Stourne de Rennell
   de: Rennellstar
-  pt: rennell starling
+  pt: ''
   ru: Реннелльский скворец
   ja: レンネルカラスモドキ
   nl: Rennellpurperspreeuw

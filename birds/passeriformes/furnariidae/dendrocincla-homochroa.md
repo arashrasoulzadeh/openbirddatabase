@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Rojizo
   fr: Grimpar roux
   de: Rostkappen-Baumsteiger
-  pt: ruddy woodcreeper
+  pt: ''
   ru: Рыжий древолаз
   ja: アカコオニキバシリ
   nl: Rosse muisspecht

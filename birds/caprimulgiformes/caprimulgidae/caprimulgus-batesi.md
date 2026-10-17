@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Bates
   fr: Engoulevent de Bates
   de: Waldnachtschwalbe
-  pt: bates's nightjar
+  pt: ''
   ru: Центральноафриканский козодой
   ja: オニヨタカ
   zh: 贝氏夜鹰

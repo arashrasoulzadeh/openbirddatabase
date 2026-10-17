@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Sepia
   fr: Grimpar à ailes rousses
   de: Hellschwingen-Baumsteiger
-  pt: tawny-winged woodcreeper
+  pt: ''
   ru: Юкатанский древолаз
   ja: キマユコオニキバシリ
   nl: Bruinvleugelmuisspecht

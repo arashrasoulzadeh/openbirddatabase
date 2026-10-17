@@ -12,7 +12,7 @@ names:
   es: Bisbita Abisinio
   fr: Sentinelle d'Abyssinie
   de: Goldhalspieper
-  pt: abyssinian longclaw
+  pt: ''
   ru: Эфиопский шпорник
   ja: チャバラツメナガタヒバリ
   nl: Geelhalslangklauw

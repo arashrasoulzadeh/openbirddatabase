@@ -12,7 +12,7 @@ names:
   es: Zorzal Plomizo Andino
   fr: Merle ardoisé
   de: Andengraudrossel
-  pt: andean slaty thrush
+  pt: ''
   ru: Траурный дрозд
   ja: ウスズミツグミ
   zh: 安第斯鶇

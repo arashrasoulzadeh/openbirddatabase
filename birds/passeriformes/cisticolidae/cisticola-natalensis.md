@@ -12,7 +12,7 @@ names:
   es: Cistícola de Natal
   fr: Cisticole striée
   de: Strichelzistensänger
-  pt: croaking cisticola
+  pt: ''
   ru: Пёстрая цистикола
   ja: エリフセッカ
   zh: 蛙聲扇尾鶯

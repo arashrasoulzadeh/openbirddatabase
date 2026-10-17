@@ -12,7 +12,7 @@ names:
   es: Clorospingo Cejiblanco
   fr: Chlorospin à sourcils brisés
   de: Weißbrauen-Grünammer
-  pt: sooty-capped chlorospingus
+  pt: ''
   ru: Белобровый дромник
   ja: マミジロヤブフウキンチョウ
   nl: Witbrauwtangare

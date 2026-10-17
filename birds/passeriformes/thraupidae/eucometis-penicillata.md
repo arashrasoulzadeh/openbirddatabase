@@ -15,7 +15,7 @@ names:
   pt: pipira-da-taoca
   ru: Серохохлая танагра
   ja: カンムリフウキンチョウ
-  zh: Grey-headed Tanager
+  zh: ''
   nl: Amazonetangare
   pl: szczotkogłówka
   tr: Gri Başlı Tangara

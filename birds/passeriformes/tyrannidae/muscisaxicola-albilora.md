@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17102.0
 names:
   scientific: Muscisaxicola albilora
-  fa: nan
+  fa: ''
   en: White-browed Ground Tyrant
   es: Dormilona Cejiblanca
   fr: Dormilon à sourcils blancs
@@ -15,7 +15,7 @@ names:
   pt: white-browed ground-tyrant
   ru: Белобровая дормилона
   ja: マミジロイワタイランチョウ
-  zh: White-browed Ground Tyrant
+  zh: ''
   nl: Witbrauwgrondtiran
   pl: skałotyran białobrewy
   tr: Ak Kaşlı Yer Tiranı

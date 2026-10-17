@@ -12,7 +12,7 @@ names:
   es: Azulejo Oriental
   fr: Merlebleu de l'Est
   de: Rotkehl-Hüttensänger
-  pt: eastern bluebird
+  pt: ''
   ru: Восточная сиалия
   ja: ルリツグミ
   zh: 東藍鴝

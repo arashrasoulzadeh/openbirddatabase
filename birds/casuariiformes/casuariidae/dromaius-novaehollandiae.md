@@ -12,7 +12,7 @@ names:
   es: Emú
   fr: Émeu d'Australie
   de: Großer Emu
-  pt: emu
+  pt: ''
   ru: Эму
   ja: エミュー
   zh: 鴯鶓

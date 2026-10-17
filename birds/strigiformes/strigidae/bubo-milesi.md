@@ -12,7 +12,7 @@ names:
   es: Búho Árabe
   fr: Grand-duc d'Oman
   de: Arabienuhu
-  pt: arabian eagle-owl
+  pt: ''
   ja: アラビアワシミミズク
   nl: Arabische oehoe
   pl: puchacz arabski

@@ -12,7 +12,7 @@ names:
   es: Rascón Mexicano
   fr: Râle du Mexique
   de: Aztekenralle
-  pt: aztec rail
+  pt: ''
   ru: Мексиканский пастушок
   ja: アステッククイナ
   zh: 阿芝秧雞

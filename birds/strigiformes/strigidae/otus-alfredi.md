@@ -15,7 +15,7 @@ names:
   pt: flores scops-owl
   ru: Флоресская совка
   ja: フロレスコノハズク
-  zh: Flores Scops Owl
+  zh: ''
   nl: Floresdwergooruil
   pl: syczek rdzawy
   tr: Flores İshakkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3324.0
 names:
   scientific: Chalcites minutillus
-  fa: nan
+  fa: ''
   en: Little Bronze Cuckoo
   es: Cuclillo Menudo
   fr: Coucou menu
@@ -15,7 +15,7 @@ names:
   pt: little bronze-cuckoo
   ru: Карликовая кукушка
   ja: アカメテリカッコウ
-  zh: Little Bronze Cuckoo
+  zh: ''
   nl: Kleine bronskoekoek
   pl: kukułeczka zielonogłowa
   tr: Küçük Zümrüt Guguğu

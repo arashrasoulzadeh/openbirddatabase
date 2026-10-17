@@ -12,7 +12,7 @@ names:
   es: Cucal de Sri Lanka
   fr: Coucal de Ceylan
   de: Ceylonkuckuck
-  pt: green-billed coucal
+  pt: ''
   ru: Шриланкийский кукаль
   ja: セイロンバンケン
   zh: 绿嘴鸦鹃

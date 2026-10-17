@@ -12,7 +12,7 @@ names:
   es: Gaviota Plateada Australiana
   fr: Mouette argentée
   de: Silberkopfmöwe
-  pt: silver gull
+  pt: ''
   ru: Австралийская чайка
   ja: ギンカモメ
   zh: 澳洲红嘴鸥

@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Samar
   fr: Calao de Samar
   de: Samarhornvogel
-  pt: samar hornbill
+  pt: ''
   ru: Самаранский калао
   ja: サマールカオグロサイチョウ
   zh: 沙馬犀鳥

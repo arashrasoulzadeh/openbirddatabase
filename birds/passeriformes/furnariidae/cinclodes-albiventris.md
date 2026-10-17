@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15097.0
 names:
   scientific: Cinclodes albiventris
-  fa: nan
+  fa: ''
   en: Cream-winged Cinclodes
   es: Remolinera Común Meridional
   fr: Cinclode à miroir blanc
   de: Blassbauch-Uferwipper
-  pt: cream-winged cinclodes
+  pt: ''
   ru: Светлокрылая трясохвостка
   ja: キバネカワカマドドリ
   nl: Crèmevleugelwipstaart

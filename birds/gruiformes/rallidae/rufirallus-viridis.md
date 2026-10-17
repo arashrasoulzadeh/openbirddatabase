@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5616.0
 names:
   scientific: Rufirallus viridis
-  fa: nan
+  fa: ''
   en: Russet-crowned Crake
   es: Polluela Coronirrufa
   fr: Râle kiolo

@@ -12,7 +12,7 @@ names:
   es: Silbador Campanillero
   fr: Carillonneur huppé
   de: Schwarz-Haubendickkopf
-  pt: crested bellbird
+  pt: ''
   ru: Хохлатая птица-колокольчик
   ja: カンムリモズヒタキ
   zh: 冠钟鹟

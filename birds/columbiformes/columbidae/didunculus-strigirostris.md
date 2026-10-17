@@ -12,7 +12,7 @@ names:
   es: Paloma Manumea
   fr: Diduncule strigirostre
   de: Zahntaube
-  pt: tooth-billed pigeon
+  pt: ''
   ru: Зубцеклювый голубь
   ja: オオハシバト
   zh: 齒鳩

@@ -12,7 +12,7 @@ names:
   es: Conirrostro Cejiblanco
   fr: Conirostre à ventre roux
   de: Weißbrauen-Spitzschnabel
-  pt: white-browed conebill
+  pt: ''
   ru: Белобровый конусоклюв
   ja: マミジロマルハシミツドリ
   zh: 白眉锥嘴雀

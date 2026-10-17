@@ -15,7 +15,7 @@ names:
   pt: fire-throated metaltail
   ru: Красногорлый металлохвост
   ja: ヒノドテリオハチドリ
-  zh: Fiery-throated Metaltail
+  zh: ''
   nl: Vuurkeelglansstaartkolibrie
   pl: metalik czerwonogardły
   tr: Alev Gerdanlı Metalkuyruk

@@ -12,7 +12,7 @@ names:
   es: Chocha Papú
   fr: Bécasse de Nouvelle-Guinée
   de: Neuguineaschnepfe
-  pt: new guinea woodcock
+  pt: ''
   ru: Новогвинейский вальдшнеп
   ja: ニューギニアヤマシギ
   nl: Nieuw-Guinese houtsnip

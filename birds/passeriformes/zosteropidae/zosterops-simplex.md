@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25619.0
 names:
   scientific: Zosterops simplex
-  fa: nan
+  fa: ''
   en: Swinhoe's White-eye
   es: Anteojitos de Swinhoe
   fr: Zostérops de Swinhoe
   de: Swinhoebrillenvogel
-  pt: swinhoe's white-eye
+  pt: ''
   ru: Китайская белоглазка
   ja: ミナミメジロ
   zh: 暗绿绣眼鸟

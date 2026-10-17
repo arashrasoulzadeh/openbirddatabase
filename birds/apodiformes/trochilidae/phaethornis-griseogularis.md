@@ -15,7 +15,7 @@ names:
   pt: rabo-branco-de-garganta-cinza
   ru: Серогорлый колибри-отшельник
   ja: ハイノドユミハチドリ
-  zh: Grey-chinned Hermit
+  zh: ''
   nl: Grijskinheremietkolibrie
   pl: pustelnik szarogardły
   tr: Gri Gıdılı Hermit

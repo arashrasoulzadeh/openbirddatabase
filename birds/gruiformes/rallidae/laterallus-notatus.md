@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 5630.0
 names:
   scientific: Laterallus notatus
-  fa: nan
+  fa: ''
   en: Speckled Rail
   es: Polluela de Darwin
   fr: Râle étoilé

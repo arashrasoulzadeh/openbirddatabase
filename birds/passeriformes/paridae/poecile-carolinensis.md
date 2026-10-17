@@ -12,7 +12,7 @@ names:
   es: Carbonero de Carolina
   fr: Mésange de Caroline
   de: Carolinameise
-  pt: carolina chickadee
+  pt: ''
   ru: Каролинская гаичка
   ja: カロライナコガラ
   nl: Carolinamees

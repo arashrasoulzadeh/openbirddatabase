@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24708.0
 names:
   scientific: Pycnonotus xanthorrhous
-  fa: nan
+  fa: ''
   en: Brown-breasted Bulbul
   es: Bulbul Pechipardo
   fr: Bulbul à poitrine brune
   de: Braunbrustbülbül
-  pt: brown-breasted bulbul
+  pt: ''
   ru: Бурогрудый бюльбюль
   ja: ノドジロヒヨドリ
   zh: 黄臀鹎

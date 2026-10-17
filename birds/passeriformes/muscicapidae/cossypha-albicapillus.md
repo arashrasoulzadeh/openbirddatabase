@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29241.0
 names:
   scientific: Cossypha albicapillus
-  fa: nan
+  fa: ''
   en: White-crowned Robin-Chat
   es: Cosifa Coroniblanca
   fr: Cossyphe à calotte blanche
   de: Weißscheitelrötel
-  pt: white-crowned robin-chat
+  pt: ''
   ru: Белошапочный рыжехвост
   ja: オオツグミヒタキ
   nl: Schubkruinlawaaimaker

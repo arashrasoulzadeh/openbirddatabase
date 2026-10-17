@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25551.0
 names:
   scientific: Sterrhoptilus capitalis
-  fa: nan
+  fa: ''
   en: Rusty-crowned Babbler
   es: Timalí Mitrado
   fr: Zostérops de Tweeddale
   de: Gelbkehl-Brillenvogel
-  pt: rusty-crowned babbler
+  pt: ''
   ru: Рыжешапочная пестроголовка
   ja: キノドモリチメドリ
   zh: 棕头穗鹛

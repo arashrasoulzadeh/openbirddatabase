@@ -12,7 +12,7 @@ names:
   es: Eptianuro Naranja
   fr: Epthianure orangée
   de: Goldstirn-Trugschmätzer
-  pt: orange chat
+  pt: ''
   ru: Золотистая пустынница
   ja: オレンジオーストラリアヒタキ
   zh: 橙澳䳭

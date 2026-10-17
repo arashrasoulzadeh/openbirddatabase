@@ -12,7 +12,7 @@ names:
   es: Gorrión del Sind
   fr: Moineau du Sind
   de: Dschungelsperling
-  pt: sind sparrow
+  pt: ''
   ru: Тугайный воробей
   ja: インダススズメ
   zh: 信德麻雀

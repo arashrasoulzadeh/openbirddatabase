@@ -12,7 +12,7 @@ names:
   es: Tieke de Isla Sur
   fr: Créadion rounoir
   de: Südinsel-Sattelvogel
-  pt: south island saddleback
+  pt: ''
   ru: Южный седлоспин
   ja: セアカホオダレムクドリ
   zh: 南岛鞍背鸦

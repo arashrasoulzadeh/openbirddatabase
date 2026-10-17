@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14397.0
 names:
   scientific: Scytalopus petrophilus
-  fa: nan
+  fa: ''
   en: Rock Tapaculo
   es: Churrín Roquero
   fr: Mérulaxe des rochers

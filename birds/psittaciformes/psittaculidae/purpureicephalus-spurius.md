@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12521.0
 names:
   scientific: Purpureicephalus spurius
-  fa: nan
+  fa: ''
   en: Red-capped Parrot
   es: Perico Capelo
   fr: Perruche à tête pourpre
   de: Rotkappensittich
-  pt: red-capped parrot
+  pt: ''
   ru: Красношапочный попугай
   ja: ユーカリインコ
   zh: 红顶鹦鹉

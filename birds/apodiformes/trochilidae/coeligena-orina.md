@@ -12,7 +12,7 @@ names:
   es: Inca de Antioquía
   fr: Inca de Wetmore
   de: Antioquiakolibri
-  pt: dusky starfrontlet
+  pt: ''
   ru: Зелёный инка
   ja: ミドリインカハチドリ
   zh: 暗星额蜂鸟

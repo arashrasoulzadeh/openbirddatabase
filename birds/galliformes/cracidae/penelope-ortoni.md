@@ -12,7 +12,7 @@ names:
   es: Pava de Orton
   fr: Pénélope d'Orton
   de: Ortonguan
-  pt: baudo guan
+  pt: ''
   ru: Ортонова пенелопа
   ja: チャイロシャクケイ
   zh: 古铜冠雉

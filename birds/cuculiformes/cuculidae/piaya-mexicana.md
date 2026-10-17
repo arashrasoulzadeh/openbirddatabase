@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3217.0
 names:
   scientific: Piaya mexicana
-  fa: nan
+  fa: ''
   en: Mexican Squirrel Cuckoo
   es: Cuco Ardilla Mexicano
   fr: Piaye du Mexique

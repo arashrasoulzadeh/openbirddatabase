@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 16772.0
 names:
   scientific: Phyllomyias weedeni
-  fa: nan
+  fa: ''
   en: Yungas Tyrannulet
   es: Mosquerito de Los Yungas
   fr: Tyranneau de Weeden

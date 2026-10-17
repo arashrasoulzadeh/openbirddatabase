@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5199.0
 names:
   scientific: Chlorestes cyanus
-  fa: nan
+  fa: ''
   en: White-chinned Sapphire
   es: Zafiro Gorjiblanco
   fr: Colibri azuré

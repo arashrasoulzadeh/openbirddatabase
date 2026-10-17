@@ -12,7 +12,7 @@ names:
   es: Aguilucho Pío
   fr: Busard tchoug
   de: Elsterweihe
-  pt: pied harrier
+  pt: ''
   ru: Пегий лунь
   ja: マダラチュウヒ
   zh: 鹊鹞

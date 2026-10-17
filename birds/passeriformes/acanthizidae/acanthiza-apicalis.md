@@ -12,7 +12,7 @@ names:
   es: Acantiza Apical
   fr: Acanthize troglodyte
   de: Stelzschwanz-Dornschnabel
-  pt: inland thornbill
+  pt: ''
   ru: Пестрогрудая шипоклювка
   ja: ヒロオトゲハシムシクイ
   zh: 宽尾刺嘴莺

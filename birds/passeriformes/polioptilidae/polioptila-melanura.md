@@ -12,7 +12,7 @@ names:
   es: Perlita Colinegra
   fr: Gobemoucheron à queue noire
   de: Schwarzschwanz-Mückenfänger
-  pt: black-tailed gnatcatcher
+  pt: ''
   ru: Чернохвостая комароловка
   ja: オグロブユムシクイ
   nl: Zwartstaartmuggenvanger

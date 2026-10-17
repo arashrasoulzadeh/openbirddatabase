@@ -12,7 +12,7 @@ names:
   es: Ñandú Petiso
   fr: Nandou de Darwin
   de: Darwinnandu
-  pt: lesser rhea
+  pt: ''
   ru: Дарвинов нанду
   ja: ダーウィンレア
   zh: 美洲小鴕

@@ -15,7 +15,7 @@ names:
   pt: solitário-preto
   ru: Чёрный тугайный соловей
   ja: クロヤブコマ
-  zh: Black Scrub Robin
+  zh: ''
   nl: Zwarte waaierstaart
   pl: drozdówka czarna
   tr: Kara Çalı Bülbülü

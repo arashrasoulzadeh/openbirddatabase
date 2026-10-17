@@ -12,7 +12,7 @@ names:
   es: Indicador Insigne
   fr: Indicateur pygmée
   de: Liliputhoniganzeiger
-  pt: cassin's honeybird
+  pt: ''
   ru: Карликовый медоуказчик
   ja: ニシオリーブヒメミツオシエ
   nl: Dwerghoningspeurder

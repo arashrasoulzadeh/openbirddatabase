@@ -12,7 +12,7 @@ names:
   es: Colibrí Colipinto Peruano
   fr: Colibri de Hartert
   de: Hartertkolibri
-  pt: peruvian piedtail
+  pt: ''
   ru: Перуанский колибри
   ja: ペルーマダラオハチドリ
   zh: 秘鲁斑尾蜂鸟

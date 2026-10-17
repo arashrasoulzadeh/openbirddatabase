@@ -12,7 +12,7 @@ names:
   es: Oruguero Purpúreo
   fr: Échenilleur pourpré
   de: Purpurraupenfänger
-  pt: purple-throated cuckooshrike
+  pt: ''
   ru: Пурпурногорлый личинколюб
   ja: テリサンショウクイ
   zh: 紫喉鵑鵙

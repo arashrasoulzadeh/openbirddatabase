@@ -12,7 +12,7 @@ names:
   es: Carpintero Nuquigualdo
   fr: Pic masqué
   de: Buntkopfspecht
-  pt: golden-naped woodpecker
+  pt: ''
   ru: Масковый дятел
   ja: キエリミヤビゲラ
   nl: Goudnekspecht

@@ -12,7 +12,7 @@ names:
   es: Cúa Pechirrojo
   fr: Coua de Serrès
   de: Rotbrust-Seidenkuckuck
-  pt: red-breasted coua
+  pt: ''
   ru: Красногрудая тивука
   ja: ムネアカジカッコウ
   nl: Vruchtencoua

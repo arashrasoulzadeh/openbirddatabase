@@ -12,7 +12,7 @@ names:
   es: Zorzal Citrino
   fr: Grive à tête orange
   de: Damadrossel
-  pt: orange-headed thrush
+  pt: ''
   ru: Оранжевоголовый дрозд
   ja: オレンジジツグミ
   zh: 橙头地鸫

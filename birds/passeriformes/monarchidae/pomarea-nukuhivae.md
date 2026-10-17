@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 20806.0
 names:
   scientific: Pomarea nukuhivae
-  fa: nan
+  fa: ''
   en: Nuku Hiva Monarch
   es: Monarca de Nuku Hiva
   fr: Monarque de Nuku Hiva
   de: Nuku-Hiva-Monarch
-  pt: nuku hiva monarch
+  pt: ''
   ru: Белоплечая помарея
   ja: ヌクヒバヒタキ
   nl: Nuku-Hivamonarch

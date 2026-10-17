@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2985.0
 names:
   scientific: Gallirex porphyreolophus
-  fa: nan
+  fa: ''
   en: Purple-crested Turaco
   es: Turaco Crestimorado
   fr: Touraco à huppe splendide
   de: Glanzhaubenturako
-  pt: purple-crested turaco
+  pt: ''
   ru: Пурпурнохохлый турако
   ja: ズグロエボシドリ
   nl: Purperkuiftoerako

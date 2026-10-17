@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5189.0
 names:
   scientific: Polyerata rosenbergi
-  fa: nan
+  fa: ''
   en: Purple-chested Hummingbird
   es: Amazilia de Rosenberg
   fr: Ariane de Rosenberg
   de: Rosenbergamazilie
-  pt: purple-chested hummingbird
+  pt: ''
   ru: Пурпурногорлая амазилия
   ja: ムネムラサキエメラルドハチドリ
   nl: Purperborstamazilia

@@ -12,7 +12,7 @@ names:
   es: Abejaruco Negro
   fr: Guêpier noir
   de: Purpurspint
-  pt: black bee-eater
+  pt: ''
   ru: Чёрная щурка
   ja: クロハチクイ
   nl: Zwarte bijeneter

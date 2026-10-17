@@ -12,7 +12,7 @@ names:
   es: Barrancolí Jamaicano
   fr: Todier de Jamaïque
   de: Grüntodi
-  pt: jamaican tody
+  pt: ''
   ru: Ямайский тоди
   ja: ジャマイカコビトドリ
   nl: Jamaicaanse todie

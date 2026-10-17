@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34238.0
 names:
   scientific: Basileuterus melanogenys
-  fa: nan
+  fa: ''
   en: Black-cheeked Warbler
   es: Reinita Carinegra
   fr: Paruline sombre
   de: Schwarzwangen-Waldsänger
-  pt: black-cheeked warbler
+  pt: ''
   ru: Чернощёкая корольковка
   ja: ホオグロアメリカムシクイ
   nl: Zwartwangzanger

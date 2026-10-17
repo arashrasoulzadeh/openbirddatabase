@@ -12,7 +12,7 @@ names:
   es: Hormiguerito Pizarroso
   fr: Myrmidon ardoisé
   de: Hochland-Ameisenschlüpfer
-  pt: slaty antwren
+  pt: ''
   ru: Сизый муравьелов
   ja: ハイイロヒメアリサザイ
   zh: 蓝灰蚁鹩

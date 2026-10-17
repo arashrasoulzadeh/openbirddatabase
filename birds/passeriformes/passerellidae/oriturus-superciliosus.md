@@ -12,7 +12,7 @@ names:
   es: Chingolo Rayado
   fr: Bruant rayé
   de: Streifenammer
-  pt: striped sparrow
+  pt: ''
   ru: Исчерченная овсянка
   ja: ホオグロシトド
   nl: Zwartwanggors

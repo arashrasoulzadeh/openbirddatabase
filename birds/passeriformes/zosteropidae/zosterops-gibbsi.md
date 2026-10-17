@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25823.0
 names:
   scientific: Zosterops gibbsi
-  fa: nan
+  fa: ''
   en: Vanikoro White-eye
   es: Anteojitos de Vanikoro
   fr: Zostérops de Vanikoro
   de: Vanikorobrillenvogel
-  pt: vanikoro white-eye
+  pt: ''
   ru: Длинноклювая белоглазка
   ja: バニコロメジロ
   nl: Vanikorobrilvogel

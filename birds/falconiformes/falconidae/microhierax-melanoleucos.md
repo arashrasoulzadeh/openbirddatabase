@@ -12,7 +12,7 @@ names:
   es: Falconete Pío
   fr: Fauconnet noir et blanc
   de: Elsterfälkchen
-  pt: pied falconet
+  pt: ''
   ru: Сорочий сокол-крошка
   ja: シロハラヒメハヤブサ
   zh: 白腿小隼

@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Apolinar
   fr: Troglodyte d'Apolinar
   de: Apolinarzaunkönig
-  pt: apolinar's wren
+  pt: ''
   ru: Боготский крапивник
   ja: オオヌマミソサザイ
   zh: 阿氏沼泽鹪鹩

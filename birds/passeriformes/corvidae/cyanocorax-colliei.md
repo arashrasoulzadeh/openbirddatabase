@@ -12,7 +12,7 @@ names:
   es: Urraca Hermosa Carinegra
   fr: Geai à face noire
   de: Schwarzkehl-Elsternhäher
-  pt: black-throated magpie-jay
+  pt: ''
   ru: Черногорлая сорочья сойка
   ja: コリーカンムリサンジャク
   zh: 黑喉鹊鸦

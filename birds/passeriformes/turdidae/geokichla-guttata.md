@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 28360.0
 names:
   scientific: Geokichla guttata
-  fa: nan
+  fa: ''
   en: Spotted Ground Thrush
   es: Zorzal Moteado
   fr: Grive tachetée
@@ -15,7 +15,7 @@ names:
   pt: spotted ground-thrush
   ru: Пятнистый дрозд
   ja: ゴマフジツグミ
-  zh: Spotted Ground Thrush
+  zh: ''
   nl: Natallijster
   pl: drozdaczek plamisty
   tr: Benekli Ardıç

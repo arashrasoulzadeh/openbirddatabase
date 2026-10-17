@@ -12,7 +12,7 @@ names:
   es: Cistícola del Nilo
   fr: Cisticole du Nil
   de: Heuglinzistensänger
-  pt: winding cisticola
+  pt: ''
   ru: Экваториальная цистикола
   nl: Oevergraszanger
   pl: chwastówka równikowa

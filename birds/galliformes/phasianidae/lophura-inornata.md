@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 1560.0
 names:
   scientific: Lophura inornata
-  fa: nan
+  fa: ''
   en: Salvadori's Pheasant
   es: Faisán Sencillo
   fr: Faisan de Salvadori
   de: Salvadorifasan
-  pt: salvadori's pheasant
+  pt: ''
   ru: Суматранский фазан
   ja: クロウチワキジ
   zh: 黑尾鹇

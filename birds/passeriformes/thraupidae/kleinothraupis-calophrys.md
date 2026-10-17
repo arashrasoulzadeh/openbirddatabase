@@ -12,7 +12,7 @@ names:
   es: Hemispingo de Los Bambúes
   fr: Tangara des bambous
   de: Ockerbrauen-Finkentangare
-  pt: orange-browed hemispingus
+  pt: ''
   ru: Оранжевобровая пипира
   ja: ボリビアモリフウキンチョウ
   nl: Okerbrauwtangare

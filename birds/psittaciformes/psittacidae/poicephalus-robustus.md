@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12767.0
 names:
   scientific: Poicephalus robustus
-  fa: nan
+  fa: ''
   en: Cape Parrot
   es: Lorito Robusto
   fr: Perroquet robuste
   de: Kappapagei
-  pt: cape parrot
+  pt: ''
   ru: Капский попугай
   ja: ケープインコ
   nl: Kaapse papegaai

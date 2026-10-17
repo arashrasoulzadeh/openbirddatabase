@@ -15,7 +15,7 @@ names:
   pt: double-eyed fig-parrot
   ru: Краснощёкий фиговый попугайчик
   ja: イチジクインコ
-  zh: Double-eyed Fig Parrot
+  zh: ''
   nl: Dubbeloogvijgpapegaai
   pl: figówka zmienna
   tr: Kırmızılı İncir Papağanı

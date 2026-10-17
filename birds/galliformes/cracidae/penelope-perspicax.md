@@ -12,7 +12,7 @@ names:
   es: Pava del Cauca
   fr: Pénélope du Cauca
   de: Caucaguan
-  pt: cauca guan
+  pt: ''
   ru: Колумбийская пенелопа
   ja: アカシャクケイ
   zh: 考加冠雉

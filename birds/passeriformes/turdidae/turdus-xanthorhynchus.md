@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 28470.0
 names:
   scientific: Turdus xanthorhynchus
-  fa: nan
+  fa: ''
   en: Principe Thrush
   es: Zorzal de Príncipe
   fr: Merle de Principé
   de: Príncipedrossel
-  pt: principe thrush
+  pt: ''
   ru: Принсипийский дрозд
   ja: プリンチペウロコツグミ
   nl: Principelijster

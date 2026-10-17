@@ -12,7 +12,7 @@ names:
   es: Curruca Yemení
   fr: Fauvette du Yémen
   de: Jemengrasmücke
-  pt: yemen warbler
+  pt: ''
   ru: Йеменская синицевая славка
   ja: アラビアカラムシクイ
   zh: 也门林莺

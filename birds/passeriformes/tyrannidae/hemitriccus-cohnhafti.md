@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 16333.0
 names:
   scientific: Hemitriccus cohnhafti
-  fa: nan
+  fa: ''
   en: Acre Tody-Tyrant
   es: Titirijí de Acre
   fr: Todirostre de Cohn-Haft

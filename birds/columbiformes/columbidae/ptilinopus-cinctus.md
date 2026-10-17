@@ -15,7 +15,7 @@ names:
   pt: pombo-frugívoro-de-dorso-negro
   ru: Чернокрылый фруктовый голубь
   ja: セグロシロバト
-  zh: Banded Fruit Dove
+  zh: ''
   nl: Gordeljufferduif
   pl: owocożer czarnogrzbiety
   tr: Kuşaklı Meyve Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Faisán Noble de Borneo
   fr: Faisan noble
   de: Borneohaubenfasan
-  pt: bornean crested fireback
+  pt: ''
   ru: Огненноспинная лофура
   ja: コシアカキジ
   zh: 鳳冠火背鷴

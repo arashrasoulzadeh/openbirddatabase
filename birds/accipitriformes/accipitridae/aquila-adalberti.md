@@ -15,7 +15,7 @@ names:
   pt: águia-imperial-ibérica
   ru: Испанский могильник
   ja: ニシカタジロワシ
-  zh: Spanish Imperial Eagle
+  zh: ''
   nl: Spaanse keizerarend
   pl: orzeł iberyjski
   tr: İberya Şah Kartalı

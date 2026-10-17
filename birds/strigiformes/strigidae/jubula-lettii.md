@@ -12,7 +12,7 @@ names:
   es: Búho de Crin
   fr: Duc à crinière
   de: Mähnenkauz
-  pt: maned owl
+  pt: ''
   ru: Гривистая неясыть
   ja: タテガミズク
   zh: 鬃鴞

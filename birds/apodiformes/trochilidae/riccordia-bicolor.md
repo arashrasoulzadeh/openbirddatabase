@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 4866.0
 names:
   scientific: Riccordia bicolor
-  fa: nan
+  fa: ''
   en: Blue-headed Hummingbird
   es: Colibrí Bicolor
   fr: Colibri à tête bleue
   de: Blaukopfkolibri
-  pt: blue-headed hummingbird
+  pt: ''
   ru: Синий колибри
   ja: ヒラハシハチドリ
   nl: Tweekleurige kolibrie

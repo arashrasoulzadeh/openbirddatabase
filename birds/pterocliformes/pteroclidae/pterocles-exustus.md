@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2868.0
 names:
   scientific: Pterocles exustus
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Sandgrouse
   es: Ganga Moruna
   fr: Ganga à ventre brun

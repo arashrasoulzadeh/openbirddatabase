@@ -12,7 +12,7 @@ names:
   es: Calzadito Frentiazul
   fr: Érione à front bleu
   de: Blaustirn-Höschenkolibri
-  pt: blue-capped puffleg
+  pt: ''
   ru: Синешапочный эрион
   ja: ズアオワタアシハチドリ
   zh: 蓝顶毛腿蜂鸟

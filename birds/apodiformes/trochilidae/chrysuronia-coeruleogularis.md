@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5152.0
 names:
   scientific: Chrysuronia coeruleogularis
-  fa: nan
+  fa: ''
   en: Sapphire-throated Hummingbird
   es: Colibrí Gorjizafiro
   fr: Colibri faux-saphir
   de: Blaukehlkolibri
-  pt: sapphire-throated hummingbird
+  pt: ''
   ru: Синегорлый колибри
   ja: ルリノドハチドリ
   nl: Saffierkeelkolibrie

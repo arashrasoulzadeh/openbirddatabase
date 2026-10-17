@@ -12,7 +12,7 @@ names:
   es: Bulbul Bres
   fr: Bulbul brès
   de: Braunwangenbülbül
-  pt: brown-cheeked bulbul
+  pt: ''
   ru: Бурощёкий бюльбюль-бородач
   ja: ハイガシラカンムリヒヨドリ
   nl: Bruinwangbaardbuulbuul

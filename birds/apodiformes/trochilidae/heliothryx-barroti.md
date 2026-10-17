@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4368.0
 names:
   scientific: Heliothryx barroti
-  fa: nan
+  fa: ''
   en: Purple-crowned Fairy
   es: Colibrí Hada Occidental
   fr: Colibri féérique
   de: Purpurkron-Schmuckkolibri
-  pt: purple-crowned fairy
+  pt: ''
   ru: Колибри-фея
   ja: スミレセンニョハチドリ
   zh: 紫冠仙蜂鸟

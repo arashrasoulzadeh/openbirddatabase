@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3052.0
 names:
   scientific: Neomorphus pucheranii
-  fa: nan
+  fa: ''
   en: Red-billed Ground Cuckoo
   es: Cuco Hormiguero Piquirrojo
   fr: Géocoucou de Pucheran
@@ -15,7 +15,7 @@ names:
   pt: jacu-estalo-de-bico-vermelho
   ru: Красноклювая земляная кукушка
   ja: アカハシアメリカジカッコウ
-  zh: Red-billed Ground Cuckoo
+  zh: ''
   nl: Roodsnavelgrondkoekoek
   pl: kukawka czerwonodzioba
   tr: Kırmızı Gagalı Yer Guguğu

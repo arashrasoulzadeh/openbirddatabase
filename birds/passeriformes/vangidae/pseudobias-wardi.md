@@ -12,10 +12,10 @@ names:
   es: Bias de Ward
   fr: Pseudobias de Ward
   de: Blauringvanga
-  pt: ward's vanga
+  pt: ''
   ru: Мухоловковая ванга
   ja: マダガスカルタンビヒタキ
-  zh: Ward's Flycatcher
+  zh: ''
   nl: Vliegenvangervanga
   pl: czarnogłowik
   tr: Ward Vangası

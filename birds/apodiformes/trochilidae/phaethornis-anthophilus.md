@@ -12,7 +12,7 @@ names:
   es: Ermitaño Ventripálido
   fr: Ermite anthophile
   de: Fleckenkehl-Schattenkolibri
-  pt: pale-bellied hermit
+  pt: ''
   ru: Светлобрюхий колибри-отшельник
   ja: シロハラユミハチドリ
   zh: 淡腹隐蜂鸟

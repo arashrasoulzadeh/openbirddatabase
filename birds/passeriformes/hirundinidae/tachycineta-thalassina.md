@@ -12,7 +12,7 @@ names:
   es: Golondrina Verdemar
   fr: Hirondelle à face blanche
   de: Veilchenschwalbe
-  pt: violet-green swallow
+  pt: ''
   ru: Фиолетово-зелёная ласточка
   ja: スミレミドリツバメ
   zh: 紫綠樹燕

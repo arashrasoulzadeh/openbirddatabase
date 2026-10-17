@@ -15,7 +15,7 @@ names:
   pt: coroa-de-fogo
   ru: Огненношапочный манакин
   ja: ヒボウシマルオマイコドリ
-  zh: Flame-crested Manakin
+  zh: ''
   nl: Vlamkruinmanakin
   pl: manakin ognisty
   tr: Alev Taçlı Manakin

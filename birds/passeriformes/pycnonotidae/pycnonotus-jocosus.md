@@ -12,7 +12,7 @@ names:
   es: Bulbul Orfeo
   fr: Bulbul orphée
   de: Rotohrbülbül
-  pt: red-whiskered bulbul
+  pt: ''
   ru: Красноухий бюльбюль
   ja: コウラウン
   zh: 红耳鹎

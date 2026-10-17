@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14288.0
 names:
   scientific: Grallaria atuensis
-  fa: nan
+  fa: ''
   en: Atuen Antpitta
   es: Tororoí Leonado Sureño
   fr: Grallaire d'Atuen
   de: Grauwangen-Ameisenpitta
-  pt: atuen antpitta
+  pt: ''
   nl: Atuenmierpitta
   pl: kusaczka nakrapiana
   tr: Atuen Yerçavuşu

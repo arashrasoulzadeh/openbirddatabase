@@ -12,7 +12,7 @@ names:
   es: Mirlo Grande
   fr: Merle géant
   de: Riesendrossel
-  pt: great thrush
+  pt: ''
   ru: Большой дрозд
   ja: オニツグミ
   zh: 大棕鶇

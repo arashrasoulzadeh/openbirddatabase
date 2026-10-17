@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15635.0
 names:
   scientific: Synallaxis azarae
-  fa: nan
+  fa: ''
   en: Azara's Spinetail
   es: Pijuí de Azara
   fr: Synallaxe d'Azara
   de: Azaradickichtschlüpfer
-  pt: azara's spinetail
+  pt: ''
   ru: Кордильерская иглохвостка
   ja: ミヤマオナガカマドドリ
   nl: Azarastekelstaart

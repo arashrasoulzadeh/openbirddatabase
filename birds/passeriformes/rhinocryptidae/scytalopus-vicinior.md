@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14442.0
 names:
   scientific: Scytalopus vicinior
-  fa: nan
+  fa: ''
   en: Narino Tapaculo
   es: Churrín de Nariño
   fr: Mérulaxe du Narino
@@ -15,7 +15,7 @@ names:
   pt: nariño tapaculo
   ru: Колумбийский тапакуло
   ja: マユナシオタテドリ
-  zh: Narino Tapaculo
+  zh: ''
   nl: Nariñotapaculo
   pl: krytonosek ponury
   tr: Narinyo Tapakolası

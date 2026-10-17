@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18483.0
 names:
   scientific: Gerygone citrina
-  fa: nan
+  fa: ''
   en: Rennell Gerygone
   es: Gerigón de Isla Rennell
   fr: Gérygone de Rennell
   de: Rennellgerygone
-  pt: rennell gerygone
+  pt: ''
   nl: Rennellmangrovezanger
   pl: krzakówka cytrynowa
   tr: Rennell Gerigonu

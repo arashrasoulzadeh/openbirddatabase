@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15133.0
 names:
   scientific: Neophilydor fuscipenne
-  fa: nan
+  fa: ''
   en: Slaty-winged Foliage-gleaner
   es: Ticotico Aligrís
   fr: Anabate à ailes sombres
   de: Schieferflügel-Blattspäher
-  pt: slaty-winged foliage-gleaner
+  pt: ''
   ru: Темнокрылый филидор
   ja: ハイバネカマドドリ
   nl: Donkervleugelbladspeurder

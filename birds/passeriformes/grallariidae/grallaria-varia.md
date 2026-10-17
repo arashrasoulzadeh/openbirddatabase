@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14201.0
 names:
   scientific: Grallaria varia
-  fa: nan
+  fa: ''
   en: Variegated Antpitta
   es: Tororoí Pintado
   fr: Grallaire roi

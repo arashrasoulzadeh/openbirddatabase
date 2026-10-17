@@ -12,7 +12,7 @@ names:
   es: Corvino Negro
   fr: Corbicrave leucoptère
   de: Drosseltöpferkrähe
-  pt: white-winged chough
+  pt: ''
   ru: Вайю
   ja: オオツチスドリ
   nl: Modderkraai

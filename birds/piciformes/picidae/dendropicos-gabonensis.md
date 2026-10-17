@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11281.0
 names:
   scientific: Dendropicos gabonensis
-  fa: nan
+  fa: ''
   en: Gabon Woodpecker
   es: Pito de Gabón
   fr: Pic du Gabon
   de: Gabunspecht
-  pt: gabon woodpecker
+  pt: ''
   ru: Габонский дятел
   ja: ゴマフゲラ
   zh: 加彭啄木鳥

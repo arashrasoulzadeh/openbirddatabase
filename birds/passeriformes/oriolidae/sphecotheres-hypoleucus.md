@@ -12,7 +12,7 @@ names:
   es: Papafigos de Wetar
   fr: Sphécothère de Wetar
   de: Wetarpirol
-  pt: wetar figbird
+  pt: ''
   ru: Ветарская инжирница
   ja: ウェタルメガネコウライウグイス
   zh: 白腹裸眼鹂

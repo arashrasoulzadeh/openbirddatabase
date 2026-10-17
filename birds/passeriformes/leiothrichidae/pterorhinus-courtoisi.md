@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 26780.0
 names:
   scientific: Pterorhinus courtoisi
-  fa: nan
+  fa: ''
   en: Blue-crowned Laughingthrush
   es: Charlatán Coroniazul
   fr: Garrulaxe de Courtois
   de: Blaukappenhäherling
-  pt: blue-crowned laughingthrush
+  pt: ''
   ru: Сизоголовая кустарница
   ja: ズアオキノドガビチョウ
   zh: 靛冠噪鹛

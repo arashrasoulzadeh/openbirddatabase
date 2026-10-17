@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9829.0
 names:
   scientific: Merops apiaster
-  fa: nan
+  fa: ''
   en: European Bee-eater
   es: Abejaruco Europeo
   fr: Guêpier d'Europe

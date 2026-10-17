@@ -15,7 +15,7 @@ names:
   pt: black-billed cuckoo-dove
   ru: Каштановая кукушковая горлица
   ja: ハシグロオナガバト
-  zh: Bar-tailed Cuckoo-Dove
+  zh: ''
   nl: Kleine gestreepte koekoeksduif
   pl: kasztanówka czarnodzioba
   tr: Yeni Gine Guguk Kumrusu

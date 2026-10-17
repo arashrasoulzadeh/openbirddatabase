@@ -12,7 +12,7 @@ names:
   es: Gorrión del Saxaul
   fr: Moineau des saxaouls
   de: Saxaulsperling
-  pt: saxaul sparrow
+  pt: ''
   ru: Саксаульный воробей
   ja: ノウメンスズメ
   zh: 黑顶麻雀

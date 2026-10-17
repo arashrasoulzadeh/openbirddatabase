@@ -12,7 +12,7 @@ names:
   es: Momoto Serrano
   fr: Motmot d'Équateur
   de: Hochlandmotmot
-  pt: andean motmot
+  pt: ''
   ru: Горный момот
   ja: タカネハチクイモドキ
   nl: Hooglandmotmot

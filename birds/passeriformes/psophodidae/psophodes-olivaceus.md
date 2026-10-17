@@ -12,7 +12,7 @@ names:
   es: Zordala Crestada Oriental
   fr: Psophode à tête noire
   de: Schwarzschopfflöter
-  pt: eastern whipbird
+  pt: ''
   ru: Белогорлая птица-бич
   ja: ムナグロシラヒゲドリ
   nl: Zwartkopzwiepfluiter

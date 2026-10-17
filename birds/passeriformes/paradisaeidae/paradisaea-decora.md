@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso de Goldie
   fr: Paradisier de Goldie
   de: Lavendelparadiesvogel
-  pt: goldie's bird-of-paradise
+  pt: ''
   ru: Украшенная райская птица
   ja: ベニカザリフウチョウ
-  zh: Goldie's Bird-of-paradise
+  zh: ''
   nl: Goldieparadijsvogel
   pl: cudowronka złotogrzbieta
   tr: Lavanta Göğüslü Cennetkuşu

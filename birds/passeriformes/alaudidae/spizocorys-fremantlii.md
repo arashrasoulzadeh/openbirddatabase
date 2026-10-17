@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22607.0
 names:
   scientific: Spizocorys fremantlii
-  fa: nan
+  fa: ''
   en: Short-tailed Lark
   es: Alondra Colicorta
   fr: Alouette à queue courte
   de: Kurzschwanzlerche
-  pt: short-tailed lark
+  pt: ''
   ru: Длинноклювый жаворонок
   ja: ウズラヒバリ
   nl: Kortstaartleeuwerik

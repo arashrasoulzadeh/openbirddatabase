@@ -15,7 +15,7 @@ names:
   pt: pacific heron
   ru: Белошейная цапля
   ja: シロガシラサギ
-  zh: White-necked Heron
+  zh: ''
   nl: Withalsreiger
   pl: czapla białoszyja
   tr: Ak Boyunlu Balıkçıl

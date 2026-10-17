@@ -15,7 +15,7 @@ names:
   pt: abd al kuri sparrow
   ru: Абдэлькурский воробей
   ja: アブドゥルクーリースズメ
-  zh: Abd al-Kuri Sparrow
+  zh: ''
   nl: Abd-Al-Kurimus
   pl: wróbel wyspowy
   tr: Abdül El Kuri Serçesi

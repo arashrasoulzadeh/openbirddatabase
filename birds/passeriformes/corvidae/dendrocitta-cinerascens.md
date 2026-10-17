@@ -12,7 +12,7 @@ names:
   es: Urraca de Borneo
   fr: Témia de Bornéo
   de: Borneobaumelster
-  pt: bornean treepie
+  pt: ''
   ru: Борнейская китта
   ja: ボルネオシラガオナガ
   zh: 加里曼丹树鹊

@@ -15,7 +15,7 @@ names:
   pt: garça-negra
   ru: Западная рифовая цапля
   ja: アフリカクロサギ
-  zh: Western Reef Heron
+  zh: ''
   nl: Westelijke rifreiger
   pl: czapla rafowa
   tr: Kıyı Balıkçılı

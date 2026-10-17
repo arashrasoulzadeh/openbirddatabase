@@ -12,7 +12,7 @@ names:
   es: Amazona de la Española
   fr: Amazone d'Hispaniola
   de: Hispaniolaamazone
-  pt: hispaniolan amazon
+  pt: ''
   ru: Черноухий амазон
   ja: ミミグロボウシインコ
   zh: 亚马逊鹦鹉

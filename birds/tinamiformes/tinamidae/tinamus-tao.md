@@ -15,7 +15,7 @@ names:
   pt: azulona
   ru: Тао
   ja: ハイイロシギダチョウ
-  zh: Grey Tinamou
+  zh: ''
   nl: Grijze tinamoe
   pl: kusacz szary
   tr: Gri Tinamu

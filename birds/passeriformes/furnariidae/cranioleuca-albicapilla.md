@@ -12,7 +12,7 @@ names:
   es: Curutié Crestado
   fr: Synallaxe à calotte blanche
   de: Fahlkappen-Baumschlüpfer
-  pt: creamy-crested spinetail
+  pt: ''
   ru: Кремовохохлая курутия
   ja: キボウシカマドドリ
   nl: Vaalkopstekelstaart

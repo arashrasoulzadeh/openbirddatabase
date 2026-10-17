@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7578.0
 names:
   scientific: Botaurus cinnamomeus
-  fa: nan
+  fa: ''
   en: Cinnamon Bittern
   es: Avetorillo Canelo
   fr: Blongios cannelle

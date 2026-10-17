@@ -15,7 +15,7 @@ names:
   pt: gray warbler-finch
   ru: Славковый дарвинов вьюрок
   ja: ハイイロムシクイフィンチ
-  zh: Grey Warbler-Finch
+  zh: ''
   nl: Grijze boszangervink
   pl: owadziarka szara
   tr: Gri Ötleğen İspinozu

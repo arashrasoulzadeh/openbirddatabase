@@ -12,7 +12,7 @@ names:
   es: Eurilaimo de Hose
   fr: Eurylaime de Hose
   de: Fleckenflügel-Breitrachen
-  pt: hose's broadbill
+  pt: ''
   ru: Синебрюхий скрытоклюв
   ja: アオムネミドリヒロハシ
   zh: 丽绿阔嘴鸟

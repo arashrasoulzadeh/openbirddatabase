@@ -15,7 +15,7 @@ names:
   pt: inhambu-de-pé-cinza
   ru: Сероногий скрытохвост
   ja: アオアシシギダチョウ
-  zh: Grey-legged Tinamou
+  zh: ''
   nl: Grijspoottinamoe
   pl: kusacz szaronogi
   tr: Gri Ayaklı Tinamu

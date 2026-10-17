@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 7076.0
 names:
   scientific: Hydrobates markhami
-  fa: nan
+  fa: ''
   en: Markham's Storm Petrel
   es: Paíño Ahumado
   fr: Océanite de Markham
@@ -15,7 +15,7 @@ names:
   pt: markham's storm-petrel
   ru: Перуанская качурка
   ja: ペルーウミツバメ
-  zh: Markham's Storm Petrel
+  zh: ''
   nl: Humboldtstormvogeltje
   pl: nawałnik ciemny
   tr: Markham Fırtınakırlangıcı

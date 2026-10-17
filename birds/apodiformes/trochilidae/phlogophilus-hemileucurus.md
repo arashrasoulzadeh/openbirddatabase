@@ -12,7 +12,7 @@ names:
   es: Colibrí Colipinto Ecuatoriano
   fr: Colibri à queue mi-blanche
   de: Schwarzweißschwanz-Kolibri
-  pt: ecuadorian piedtail
+  pt: ''
   ru: Пестрохвостый колибри
   ja: マダラオハチドリ
   zh: 厄瓜多尔斑尾蜂鸟

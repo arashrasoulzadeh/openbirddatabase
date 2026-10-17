@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10218.0
 names:
   scientific: Todiramphus enigma
-  fa: nan
+  fa: ''
   en: Talaud Kingfisher
   es: Alción de las Talaud
   fr: Martin-chasseur des Talaud
   de: Talaudliest
-  pt: talaud kingfisher
+  pt: ''
   ru: Талаудская альциона
   ja: タラウドショウビン
   zh: 暗色翡翠

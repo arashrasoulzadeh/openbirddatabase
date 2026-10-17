@@ -15,7 +15,7 @@ names:
   pt: pink-headed fruit-dove
   ru: Розовоголовый фруктовый голубь
   ja: ベニガシラヒメアオバト
-  zh: Pink-headed Fruit Dove
+  zh: ''
   nl: Roodhalsjufferduif
   pl: owocożer różowogłowy
   tr: Pembe Başlı Meyve Kumrusu

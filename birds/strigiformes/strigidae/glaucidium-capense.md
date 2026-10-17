@@ -12,7 +12,7 @@ names:
   es: Mochuelo de El Cabo
   fr: Chevêchette du Cap
   de: Kapzwergkauz
-  pt: african barred owlet
+  pt: ''
   ru: Капский сычик
   ja: ヨコジマスズメフクロウ
   nl: Kaapse dwerguil

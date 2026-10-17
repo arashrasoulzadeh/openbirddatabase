@@ -12,7 +12,7 @@ names:
   es: Zorzal Azteca
   fr: Grive aztèque
   de: Aztekendrossel
-  pt: aztec thrush
+  pt: ''
   ru: Ацтекский дрозд
   ja: カササギツグミ
   zh: 阿茲特克地鶇

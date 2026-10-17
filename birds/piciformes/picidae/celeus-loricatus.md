@@ -12,7 +12,7 @@ names:
   es: Carpintero Canelo
   fr: Pic cannelle
   de: Rotkehlspecht
-  pt: cinnamon woodpecker
+  pt: ''
   ru: Коричневый дятел-гренадер
   ja: ヒメテンニョゲラ
   nl: Roodkeelspecht

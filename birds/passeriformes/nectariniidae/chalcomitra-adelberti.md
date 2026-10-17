@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjiclaro
   fr: Souimanga d'Adelbert
   de: Fahlkehl-Glanzköpfchen
-  pt: buff-throated sunbird
+  pt: ''
   ru: Каштановая нектарница
   ja: キノドタイヨウチョウ
   nl: Adelberthoningzuiger

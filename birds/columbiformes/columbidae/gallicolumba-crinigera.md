@@ -12,7 +12,7 @@ names:
   es: Paloma Apuñalada de Mindanao
   fr: Gallicolombe de Bartlett
   de: Brandtaube
-  pt: mindanao bleeding-heart
+  pt: ''
   ru: Минданаоский кровавогрудый голубь
   ja: ミンダナオヒムネバト
   nl: Bartlettdolksteekduif

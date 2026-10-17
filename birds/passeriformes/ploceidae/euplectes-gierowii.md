@@ -12,7 +12,7 @@ names:
   es: Obispo Negro
   fr: Euplecte de Gierow
   de: Bischofsweber
-  pt: black bishop
+  pt: ''
   ru: Чёрно-рыжий ткачик
   ja: クロキンランチョウ
   nl: Zwarte vuurwever

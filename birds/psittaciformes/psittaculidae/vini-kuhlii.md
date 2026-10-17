@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 12598.0
 names:
   scientific: Vini kuhlii
-  fa: nan
+  fa: ''
   en: Kuhl's Lorikeet
   es: Lori de Rimatara
   fr: Lori de Kuhl
   de: Rubinlori
-  pt: kuhl's lorikeet
+  pt: ''
   ru: Рубиновый лори-отшельник
   ja: ムスメインコ
   zh: 孔氏吸蜜鹦鹉

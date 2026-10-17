@@ -15,7 +15,7 @@ names:
   pt: large gray babbler
   ru: Большая дроздовка
   ja: オジロヤブチメドリ
-  zh: Large Grey Babbler
+  zh: ''
   nl: Malcolmbabbelaar
   pl: tymal szary
   tr: Büyük Gri Yedikardeş

@@ -12,7 +12,7 @@ names:
   es: Colibrí Colibronce
   fr: Colibri de Bourcier
   de: Rosenkehlsylphe
-  pt: bronze-tailed comet
+  pt: ''
   ru: Бронзовохвостая комета
   ja: スミレフタオハチドリ
   zh: 铜尾慧星蜂鸟

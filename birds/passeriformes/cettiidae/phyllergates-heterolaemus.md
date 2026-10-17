@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Encapuchado
   fr: Bouscarle à capuchon
   de: Rotkopf-Dickichtsänger
-  pt: rufous-headed tailorbird
+  pt: ''
   ru: Рыжеголовая долгоклювка
   ja: ミンダナオサイホウチョウ
   zh: 褐头缝叶莺

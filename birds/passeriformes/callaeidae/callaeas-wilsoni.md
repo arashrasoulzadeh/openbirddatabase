@@ -12,7 +12,7 @@ names:
   es: Kokako de Isla Norte
   fr: Glaucope de Wilson
   de: Graulappenvogel
-  pt: north island kokako
+  pt: ''
   ru: Северный кокако
   ja: ホクトウハシブトホオダレムクドリ
   zh: 北岛垂耳鸦

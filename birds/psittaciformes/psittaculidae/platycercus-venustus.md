@@ -12,7 +12,7 @@ names:
   es: Perico Gracioso
   fr: Perruche gracieuse
   de: Schwarzkopfsittich
-  pt: northern rosella
+  pt: ''
   ru: Черноголовая розелла
   ja: ズグロサメクサインコ
   zh: 澳北玫瑰鸚鵡

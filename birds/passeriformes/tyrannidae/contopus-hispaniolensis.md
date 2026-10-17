@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16932.0
 names:
   scientific: Contopus hispaniolensis
-  fa: nan
+  fa: ''
   en: Hispaniolan Pewee
   es: Pibí de la Española
   fr: Moucherolle d'Hispaniola
   de: Hispaniolaschnäppertyrann
-  pt: hispaniolan pewee
+  pt: ''
   ru: Гаитянский пиви
   ja: ヒスパニオラモリタイランチョウ
   nl: Hispaniolapiewie

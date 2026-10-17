@@ -12,7 +12,7 @@ names:
   es: Minivet Chico
   fr: Minivet oranor
   de: Zwergmennigvogel
-  pt: small minivet
+  pt: ''
   ru: Горихвостковый личинкоед
   ja: コサンショウクイ
   zh: 小山椒鸟

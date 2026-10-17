@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13294.0
 names:
   scientific: Eurylaimus ochromalus
-  fa: nan
+  fa: ''
   en: Black-and-yellow Broadbill
   es: Eurilaimo Negrigualdo
   fr: Eurylaime à capuchon
   de: Halsband-Breitrachen
-  pt: black-and-yellow broadbill
+  pt: ''
   ru: Желтоглазый рогоклюв
   ja: クビワヒロハシ
   zh: 黑黃闊嘴鳥

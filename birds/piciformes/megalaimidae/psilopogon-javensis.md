@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10733.0
 names:
   scientific: Psilopogon javensis
-  fa: nan
+  fa: ''
   en: Black-banded Barbet
   es: Barbudo de Java
   fr: Barbu de Java
   de: Javabartvogel
-  pt: black-banded barbet
+  pt: ''
   ru: Яванский бородастик
   ja: シシガシラゴシキドリ
   nl: Javaanse baardvogel

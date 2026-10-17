@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14158.0
 names:
   scientific: Pittasoma rufopileatum
-  fa: nan
+  fa: ''
   en: Rufous-crowned Antpitta
   es: Tororoí Capirrufo
   fr: Pittasome à sourcils noirs
   de: Schwarzbrauen-Mückenfresser
-  pt: rufous-crowned antpitta
+  pt: ''
   ru: Рыжеголовая питтасома
   ja: ズアカアリヤイロチョウ
   nl: Roodkruinmierpitta

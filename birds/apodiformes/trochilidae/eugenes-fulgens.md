@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4723.0
 names:
   scientific: Eugenes fulgens
-  fa: nan
+  fa: ''
   en: Rivoli's Hummingbird
   es: Colibrí Magnífico
   fr: Colibri de Rivoli
   de: Violettkron-Brillantkolibri
-  pt: rivoli's hummingbird
+  pt: ''
   ru: Колибри-герцог
   ja: アオノドハチドリ
   zh: 大蜂鸟

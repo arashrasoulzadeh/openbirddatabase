@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz de las Tuamotu
   fr: Gallicolombe érythroptère
   de: Tahititaube
-  pt: polynesian ground dove
+  pt: ''
   ru: Краснокрылый куриный голубь
   ja: ソシエテマミムナジロバト
   zh: 波利尼西亞地鴿

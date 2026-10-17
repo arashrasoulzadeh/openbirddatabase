@@ -12,7 +12,7 @@ names:
   es: Papamoscas Herero
   fr: Gobemouche héréro
   de: Namibschnäpper
-  pt: herero chat
+  pt: ''
   ru: Герера
   ja: ヘレロノビタキ
   nl: Hererotapuit

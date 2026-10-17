@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26157.0
 names:
   scientific: Malacopteron cinereum
-  fa: nan
+  fa: ''
   en: Scaly-crowned Babbler
   es: Tordina Coroniescamada
   fr: Akalat à calotte maillée
   de: Schuppenstirn-Zweigdrossling
-  pt: scaly-crowned babbler
+  pt: ''
   ru: Краснолобый шелкопёр
   ja: コズアカチャイロチメドリ
   zh: 小紅頭樹鶥

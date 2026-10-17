@@ -12,7 +12,7 @@ names:
   fr: Merle à tête blanche
   pt: white-headed island-thrush
   ja: カオジロハイガシラツグミ
-  zh: White-headed Island Thrush
+  zh: ''
   nl: Erromangomerel
   pl: drozd białogłowy
   tr: Ak Başlı Ada Ardıcı

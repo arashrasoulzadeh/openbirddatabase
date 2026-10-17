@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28313.0
 names:
   scientific: Catharus fuscescens
-  fa: nan
+  fa: ''
   en: Veery
   es: Zorzalito Rojizo
   fr: Grive fauve

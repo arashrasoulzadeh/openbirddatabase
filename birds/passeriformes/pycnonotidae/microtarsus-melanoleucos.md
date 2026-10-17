@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24612.0
 names:
   scientific: Microtarsus melanoleucos
-  fa: nan
+  fa: ''
   en: Black-and-white Bulbul
   es: Bulbul Blanquinegro
   fr: Bulbul demi-deuil
   de: Trauerbülbül
-  pt: black-and-white bulbul
+  pt: ''
   ru: Белоплечий бюльбюль
   ja: モンツキヒヨドリ
   nl: Zwart-witte buulbuul

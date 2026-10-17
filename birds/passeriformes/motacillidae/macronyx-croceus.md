@@ -12,7 +12,7 @@ names:
   es: Bisbita Gorjigualdo
   fr: Sentinelle à gorge jaune
   de: Gelbkehlpieper
-  pt: yellow-throated longclaw
+  pt: ''
   ru: Желтогорлый шпорник
   ja: キムネツメナガタヒバリ
   zh: 黄喉长爪鹡鸰

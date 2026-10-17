@@ -12,7 +12,7 @@ names:
   es: Loro Ecléctico de las Tanimbar
   fr: Éclectus des Tanimbar
   de: Riedel-Edelpapagei
-  pt: tanimbar eclectus
+  pt: ''
   nl: Tanimbaredelpapegaai
   pl: barwnica tanimbarska
   tr: Tanimbar Eklektus Papağanı

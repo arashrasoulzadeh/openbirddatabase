@@ -12,7 +12,7 @@ names:
   es: Piscuiz Barbiblanco
   fr: Synallaxe à menton blanc
   de: Graubauchcanastero
-  pt: white-chinned thistletail
+  pt: ''
   ru: Белобородый чертополошник
   ja: トゲオカマドドリ
   nl: Witkindistelstaart

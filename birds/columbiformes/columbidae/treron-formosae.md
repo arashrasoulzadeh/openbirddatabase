@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2577.0
 names:
   scientific: Treron formosae
-  fa: nan
+  fa: ''
   en: Whistling Green Pigeon
   es: Vinago de Formosa
   fr: Colombar de Formose

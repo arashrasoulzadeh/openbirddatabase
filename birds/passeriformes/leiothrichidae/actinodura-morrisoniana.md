@@ -12,7 +12,7 @@ names:
   es: Actinodura de Formosa
   fr: Actinodure de Taïwan
   de: Taiwanmeisenhäherling
-  pt: taiwan barwing
+  pt: ''
   ru: Тайваньский пестрокрыл
   ja: シマドリ
   zh: 台湾斑翅鹛

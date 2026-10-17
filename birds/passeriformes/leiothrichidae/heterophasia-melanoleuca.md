@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26514.0
 names:
   scientific: Heterophasia melanoleuca
-  fa: nan
+  fa: ''
   en: Dark-backed Sibia
   es: Sibia Dorsinegra
   fr: Garrulaxe à tête noire

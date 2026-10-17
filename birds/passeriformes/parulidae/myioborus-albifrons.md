@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 34395.0
 names:
   scientific: Myioborus albifrons
-  fa: nan
+  fa: ''
   en: White-fronted Whitestart
   es: Candelita Frentiblanca
   fr: Paruline à front blanc
@@ -15,7 +15,7 @@ names:
   pt: white-fronted redstart
   ru: Белолобая канделита
   ja: シロビタイアメリカムシクイ
-  zh: White-fronted Whitestart
+  zh: ''
   nl: Witvoorhoofdzanger
   pl: pleszówka białoczelna
   tr: Ak Alınlı Ötleğen

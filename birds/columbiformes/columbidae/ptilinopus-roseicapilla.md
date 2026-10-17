@@ -15,7 +15,7 @@ names:
   pt: mariana fruit-dove
   ru: Марианский фруктовый голубь
   ja: コバシヒメアオバト
-  zh: Mariana Fruit Dove
+  zh: ''
   nl: Marianenjufferduif
   pl: owocożer mariański
   tr: Mariana Adaları Meyve Kumrusu

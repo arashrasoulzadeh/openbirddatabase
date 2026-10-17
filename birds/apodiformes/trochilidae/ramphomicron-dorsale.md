@@ -12,7 +12,7 @@ names:
   es: Colibrí Piquicorto Dorsinegro
   fr: Colibri à dos noir
   de: Schwarzrückenkolibri
-  pt: black-backed thornbill
+  pt: ''
   ru: Черноспинный короткоклюв
   ja: セグロトゲハシハチドリ
   zh: 黑背刺嘴蜂鸟

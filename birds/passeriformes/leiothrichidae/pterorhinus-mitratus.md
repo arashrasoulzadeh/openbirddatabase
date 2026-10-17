@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26783.0
 names:
   scientific: Pterorhinus mitratus
-  fa: nan
+  fa: ''
   en: Chestnut-capped Laughingthrush
   es: Charlatán Mitrado
   fr: Garrulaxe mitré
   de: Spiegelhäherling
-  pt: chestnut-capped laughingthrush
+  pt: ''
   ru: Белокрылая кустарница
   ja: チャガシラガビチョウ
   zh: 栗頭噪鶥

@@ -12,7 +12,7 @@ names:
   es: Águila de Ayres
   fr: Aigle d'Ayres
   de: Fleckenadler
-  pt: ayres's hawk-eagle
+  pt: ''
   ru: Пятнистый орёл-карлик
   ja: シロハラクマタカ
   zh: 艾氏雕

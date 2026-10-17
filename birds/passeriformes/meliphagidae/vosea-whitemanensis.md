@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 17943.0
 names:
   scientific: Vosea whitemanensis
-  fa: nan
+  fa: ''
   en: Gilliard's Honeyeater
   es: Mielero de las Bismarck
   fr: Myzomèle des Whiteman
@@ -15,7 +15,7 @@ names:
   pt: bismarck honeyeater
   ru: Горный мелидек
   ja: ユミハシミツスイ
-  zh: Gilliard's Honeyeater
+  zh: ''
   nl: Whitemanhoningeter
   pl: dziwook górski
   tr: Gilliard Balkuşu

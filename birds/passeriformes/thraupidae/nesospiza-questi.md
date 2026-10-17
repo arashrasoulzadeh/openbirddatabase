@@ -12,7 +12,7 @@ names:
   es: Yal de las Ruiseñor
   fr: Nésospize du Quest
   de: Spitzschnabel-Ammertangare
-  pt: nightingale island finch
+  pt: ''
   ru: Найтингейлский овсяночник
   ja: ナイチンゲールマシコ
   zh: 南丁格尔岛雀

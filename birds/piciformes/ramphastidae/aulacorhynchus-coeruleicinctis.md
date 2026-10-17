@@ -12,7 +12,7 @@ names:
   es: Tucanete Pechiazul
   fr: Toucanet à ceinture bleue
   de: Grauschnabelarassari
-  pt: blue-banded toucanet
+  pt: ''
   ru: Сероклювый туканет
   ja: アオオビミドリチュウハシ
   nl: Blauwbandarassari

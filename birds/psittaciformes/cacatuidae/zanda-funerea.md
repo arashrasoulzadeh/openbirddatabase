@@ -15,7 +15,7 @@ names:
   pt: yellow-tailed black-cockatoo
   ru: Желтохвостый траурный какаду
   ja: キイロオクロオウム
-  zh: Yellow-tailed Black Cockatoo
+  zh: ''
   nl: Geeloograafkaketoe
   pl: żałobnica żółtosterna
   tr: Sarı Kuyruklu Kakadu

@@ -15,7 +15,7 @@ names:
   pt: andean pygmy-owl
   ru: Андский сычик
   ja: アンデススズメフクロウ
-  zh: Andean Pygmy Owl
+  zh: ''
   nl: Andesdwerguil
   pl: sóweczka andyjska
   tr: And Serçe Baykuşu

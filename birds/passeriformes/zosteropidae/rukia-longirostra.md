@@ -12,7 +12,7 @@ names:
   es: Anteojitos Piquilargo
   fr: Zostérops de Ponapé
   de: Langschnabel-Brillenvogel
-  pt: long-billed white-eye
+  pt: ''
   ru: Длинноклювая тахоу
   ja: ハシナガメジロ
   nl: Langsnavelbrilvogel

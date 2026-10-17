@@ -12,7 +12,7 @@ names:
   es: Charlatán Rojizo Chino
   fr: Garrulaxe de Berthémy
   de: Ockerhäherling
-  pt: buffy laughingthrush
+  pt: ''
   ru: Буланая кустарница
   ja: タケドリ
   zh: 棕噪鹛

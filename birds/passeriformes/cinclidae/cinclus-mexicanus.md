@@ -12,7 +12,7 @@ names:
   es: Mirlo Acuático Norteamericano
   fr: Cincle d'Amérique
   de: Grauwasseramsel
-  pt: american dipper
+  pt: ''
   ru: Серая оляпка
   ja: メキシコカワガラス
   zh: 美洲河鳥

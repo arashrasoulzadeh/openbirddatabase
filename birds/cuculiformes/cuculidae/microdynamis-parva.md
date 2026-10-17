@@ -12,7 +12,7 @@ names:
   es: Koel Enano
   fr: Coucou à tête noire
   de: Schwarzkappenkuckuck
-  pt: dwarf koel
+  pt: ''
   ru: Карликовый коэль
   ja: クロボウシカッコウ
   nl: Baardkoekoek

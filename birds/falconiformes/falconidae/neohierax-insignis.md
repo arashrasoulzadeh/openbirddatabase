@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11988.0
 names:
   scientific: Neohierax insignis
-  fa: nan
+  fa: ''
   en: White-rumped Falcon
   es: Halconcito Asiático
   fr: Faucon à pattes jaunes
   de: Langschwanz-Zwergfalke
-  pt: white-rumped falcon
+  pt: ''
   ru: Азиатский соколок
   ja: アジアコビトハヤブサ
   nl: Birmese dwergvalk

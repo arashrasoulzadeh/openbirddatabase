@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2981.0
 names:
   scientific: Gallirex johnstoni
-  fa: nan
+  fa: ''
   en: Rwenzori Turaco
   es: Turaco del Ruwenzori
   fr: Touraco du Rwenzori
   de: Ruwenzoriturako
-  pt: rwenzori turaco
+  pt: ''
   ru: Рувензорский турако
   ja: アカエリエボシドリ
   nl: Ruwenzoritoerako

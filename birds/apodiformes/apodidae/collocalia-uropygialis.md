@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3977.0
 names:
   scientific: Collocalia uropygialis
-  fa: nan
+  fa: ''
   en: Satin Swiftlet
   es: Salangana Satinada
   fr: Salangane des Nouvelles-Hébrides
   de: Samtsalangane
-  pt: satin swiftlet
+  pt: ''
   ru: Синеватая салангана
   ja: サテンアナツバメ
   nl: Satijndwergsalangaan

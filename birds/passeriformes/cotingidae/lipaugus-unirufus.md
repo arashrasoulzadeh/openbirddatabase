@@ -12,7 +12,7 @@ names:
   es: Guardabosques Rojizo
   fr: Piauhau roux
   de: Rötelkotinga
-  pt: rufous piha
+  pt: ''
   ru: Рыжая пиха
   ja: アカチャムジカザリドリ
   nl: Rosse piha

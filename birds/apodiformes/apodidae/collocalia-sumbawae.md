@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3952.0
 names:
   scientific: Collocalia sumbawae
-  fa: nan
+  fa: ''
   en: Tenggara Swiftlet
   es: Salangana de Tenggara
   fr: Salangane de Sumbawa
   de: Tenggarasalangane
-  pt: tenggara swiftlet
+  pt: ''
   ru: Тенггарская салангана
   ja: トゥンガラアナツバメ
   nl: Tenggaradwergsalangaan

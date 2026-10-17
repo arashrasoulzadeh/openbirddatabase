@@ -12,7 +12,7 @@ names:
   es: Abanico Cabeciazul de las Bisayas
   fr: Rhipidure des Visayas
   de: Weißbauch-Fächerschwanz
-  pt: visayan fantail
+  pt: ''
   ru: Висаянская веерохвостка
   ja: ヴィサヤオウギビタキ
   nl: West-Visayawaaierstaart

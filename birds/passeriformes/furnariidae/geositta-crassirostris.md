@@ -12,7 +12,7 @@ names:
   es: Minero Picogrueso
   fr: Géositte à bec épais
   de: Dickschnabel-Erdhacker
-  pt: thick-billed miner
+  pt: ''
   ru: Толстоклювый землекоп
   ja: ハシブトジカマドドリ
   nl: Diksnavelholengraver

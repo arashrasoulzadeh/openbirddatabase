@@ -12,7 +12,7 @@ names:
   es: Piquero Camanay
   fr: Fou à pieds bleus
   de: Blaufußtölpel
-  pt: blue-footed booby
+  pt: ''
   ru: Голубоногая олуша
   ja: アオアシカツオドリ
   zh: 藍腳鰹鳥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5053.0
 names:
   scientific: Saucerottia cyanocephala
-  fa: nan
+  fa: ''
   en: Azure-crowned Hummingbird
   es: Amazilia Coroniazul
   fr: Ariane à couronne azur
   de: Blaukopfamazilie
-  pt: azure-crowned hummingbird
+  pt: ''
   ru: Синеголовая амазилия
   ja: ソライロボウシエメラルドハチドリ
   zh: 红嘴蜂鸟

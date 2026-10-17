@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10529.0
 names:
   scientific: Trachylaemus goffinii
-  fa: nan
+  fa: ''
   en: Western Yellow-billed Barbet
   es: Barbudo Piquigualdo Occidental
   fr: Barbican de Goffin
   de: Gelbbauch-Bartvogel
-  pt: western yellow-billed barbet
+  pt: ''
   ru: Желтобрюхий щетиногруд
   ja: キバシオナガゴシキドリ
   nl: Westelijke geelsnavelbaardvogel

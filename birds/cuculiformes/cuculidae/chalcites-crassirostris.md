@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 3341.0
 names:
   scientific: Chalcites crassirostris
-  fa: nan
+  fa: ''
   en: Pied Bronze Cuckoo
   es: Cuclillo Pío
   fr: Coucou de Salvadori
   de: Dickschnabel-Bronzekuckuck
   pt: pied bronze-cuckoo
-  zh: Pied Bronze Cuckoo
+  zh: ''
   nl: Groene Bronskoekoek
   pl: kukuleczka srokata
   tr: Alaca Zümrüt Guguğu

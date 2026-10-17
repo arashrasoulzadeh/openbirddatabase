@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34153.0
 names:
   scientific: Setophaga pinus
-  fa: nan
+  fa: ''
   en: Pine Warbler
   es: Reinita del Pinar
   fr: Paruline des pins
   de: Kiefernwaldsänger
-  pt: pine warbler
+  pt: ''
   ru: Сосновая древесница
   ja: マツアメリカムシクイ
   zh: 黃腹松林鶯

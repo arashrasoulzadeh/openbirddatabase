@@ -12,7 +12,7 @@ names:
   es: Mochuelo Peludo
   fr: Chevêchette nimbée
   de: Perukauz
-  pt: long-whiskered owlet
+  pt: ''
   ru: Бакенбардовый сычик
   ja: カオカザリヒメフクロウ
   zh: 長鬚鴞

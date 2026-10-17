@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9997.0
 names:
   scientific: Corythornis cristatus
-  fa: nan
+  fa: ''
   en: Malachite Kingfisher
   es: Martín Pescador Malaquita
   fr: Martin-pêcheur huppé

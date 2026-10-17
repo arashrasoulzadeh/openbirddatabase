@@ -12,7 +12,7 @@ names:
   es: Ibis Tornasolado
   fr: Ibis d'Australie
   de: Stachelibis
-  pt: straw-necked ibis
+  pt: ''
   ru: Австралийский ибис
   ja: ムギワラトキ
   zh: 蓑頸白䴉

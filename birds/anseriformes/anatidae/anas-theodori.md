@@ -15,7 +15,7 @@ names:
   pt: mauritius duck
   ru: Маврикийский чирок
   ja: モーリシャスガモ
-  zh: Mascarene Teal
+  zh: ''
   nl: Mauritiuseend
   pl: cyraneczka maskareńska
   tr: Maskarenya Ördeği

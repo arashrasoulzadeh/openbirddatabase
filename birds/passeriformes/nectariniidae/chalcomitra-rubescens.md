@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjiverde
   fr: Souimanga à gorge verte
   de: Grünkehl-Glanzköpfchen
-  pt: green-throated sunbird
+  pt: ''
   ru: Зеленогорлая нектарница
   ja: アオノドタイヨウチョウ
   nl: Groenkeelhoningzuiger

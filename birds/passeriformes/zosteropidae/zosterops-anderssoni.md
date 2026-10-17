@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25708.0
 names:
   scientific: Zosterops anderssoni
-  fa: nan
+  fa: ''
   en: Southern Yellow White-eye
   es: Anteojitos del Zambeze
   fr: Zostérops d'Andersson
   de: Südbrillenvogel
-  pt: southern yellow white-eye
+  pt: ''
   ru: Южноафриканская белоглазка
   zh: 南黃繡眼
   nl: Zuidelijke gele brilvogel

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 15646.0
 names:
   scientific: Synallaxis courseni
-  fa: nan
+  fa: ''
   en: Apurimac Spinetail
   es: Pijuí de Apurímac
   fr: Synallaxe de Coursen
   de: Langschwanz-Dickichtschlüpfer
-  pt: apurimac spinetail
+  pt: ''
   ru: Длиннохвостая иглохвостка
   ja: アプリマックカマドドリ
   nl: Apurimacstekelstaart

@@ -12,7 +12,7 @@ names:
   es: Oruguero Picogrueso
   fr: Échenilleur à gros bec
   de: Dickschnabel-Raupenfänger
-  pt: stout-billed cuckooshrike
+  pt: ''
   ru: Толстоклювый воронец
   ja: ハシブトオニサンショウクイ
   zh: 厚嘴鹃鵙

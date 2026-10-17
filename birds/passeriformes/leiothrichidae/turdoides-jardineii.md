@@ -12,7 +12,7 @@ names:
   es: Turdoide de Jardine
   fr: Cratérope fléché
   de: Weißstrichel-Drosselhäherling
-  pt: arrow-marked babbler
+  pt: ''
   ru: Бурая дроздовка
   ja: ヤモンヤブチメドリ
   zh: 箭紋鶇鶥

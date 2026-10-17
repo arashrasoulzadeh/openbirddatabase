@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 8130.0
 names:
   scientific: Aerospiza castanilius
-  fa: nan
+  fa: ''
   en: Chestnut-flanked Sparrowhawk
   es: Gavilán Flanquirrojo
   fr: Autour à flancs roux
   de: Rotflankenhabicht
-  pt: chestnut-flanked sparrowhawk
+  pt: ''
   ru: Каштановобрюхий ястреб
   ja: ワキアカハイタカ
   zh: 栗脇雀鷹

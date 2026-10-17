@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25868.0
 names:
   scientific: Zosterops hypolais
-  fa: nan
+  fa: ''
   en: Plain White-eye
   es: Anteojitos Liso
   fr: Zostérops hypolaïs
   de: Schlichtbrillenvogel
-  pt: plain white-eye
+  pt: ''
   ru: Япская белоглазка
   ja: ムジメジロ
   nl: Effen brilvogel

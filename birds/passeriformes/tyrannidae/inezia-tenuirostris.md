@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16836.0
 names:
   scientific: Inezia tenuirostris
-  fa: nan
+  fa: ''
   en: Slender-billed Inezia
   es: Piojito Picofino
   fr: Tyranneau à bec fin
@@ -15,7 +15,7 @@ names:
   pt: slender-billed tyrannulet
   ru: Тонкоклювая инезия
   ja: ハシボソマメタイランチョウ
-  zh: Slender-billed Inezia
+  zh: ''
   nl: Dunsnavelinezia
   pl: pręgówek cienkodzioby
   tr: İnce Gagalı İnezya

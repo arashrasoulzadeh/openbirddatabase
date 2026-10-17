@@ -12,7 +12,7 @@ names:
   es: Colibrí Capirrufo
   fr: Métallure à tête rousse
   de: Kastanienkappen-Glanzschwänzchen
-  pt: rufous-capped thornbill
+  pt: ''
   ru: Красношапочный радужник
   ja: ズアカコバシハチドリ
   zh: 棕顶尖嘴蜂鸟

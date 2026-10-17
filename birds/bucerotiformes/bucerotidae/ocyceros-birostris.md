@@ -15,7 +15,7 @@ names:
   pt: indian gray hornbill
   ru: Индийский серый ток
   ja: インドコサイチョウ
-  zh: Indian Grey Hornbill
+  zh: ''
   nl: Wigstaarttok
   pl: dzioborożec indyjski
   tr: Hint Gri Boynuzgagası

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34270.0
 names:
   scientific: Basileuterus tristriatus
-  fa: nan
+  fa: ''
   en: Three-striped Warbler
   es: Reinita Cabecilistada
   fr: Paruline triligne
   de: Dreistreifen-Waldsänger
-  pt: three-striped warbler
+  pt: ''
   ru: Трёхполосый корольковый певун
   ja: ミスジアメリカムシクイ
   nl: Driestreepzanger

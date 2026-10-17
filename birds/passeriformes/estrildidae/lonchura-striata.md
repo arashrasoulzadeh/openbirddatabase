@@ -12,7 +12,7 @@ names:
   es: Capuchino Culiblanco
   fr: Capucin domino
   de: Spitzschwanz-Bronzemännchen
-  pt: white-rumped munia
+  pt: ''
   ru: Острохвостая муния
   ja: コシジロキンパラ
   zh: 白腰文鸟

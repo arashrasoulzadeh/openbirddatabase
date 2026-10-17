@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 8786.0
 names:
   scientific: Otus capnodes
-  fa: nan
+  fa: ''
   en: Anjouan Scops Owl
   es: Autillo de Anjouan
   fr: Petit-duc d'Anjouan
@@ -15,7 +15,7 @@ names:
   pt: anjouan scops-owl
   ru: Анжуанская сплюшка
   ja: アンジュアンコノハズク
-  zh: Anjouan Scops Owl
+  zh: ''
   nl: Anjouandwergooruil
   pl: syczek krótkouchy
   tr: Anjuan İshakkuşu

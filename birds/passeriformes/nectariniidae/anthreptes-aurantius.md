@@ -12,7 +12,7 @@ names:
   es: Suimanga Colivioleta
   fr: Souimanga à queue violette
   de: Violettschwanz-Nektarvogel
-  pt: violet-tailed sunbird
+  pt: ''
   ru: Фиолетовохвостая нектарница
   ja: ルリイロコバシタイヨウチョウ
   zh: 紫尾食蜜鳥

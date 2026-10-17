@@ -12,7 +12,7 @@ names:
   es: Pava Andina
   fr: Pénélope des Andes
   de: Andenguan
-  pt: andean guan
+  pt: ''
   ru: Андская пенелопа
   ja: アンデスシャクケイ
   zh: 安第斯冠雉

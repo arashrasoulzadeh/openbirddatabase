@@ -12,7 +12,7 @@ names:
   es: Agachadiza Africana
   fr: Bécassine africaine
   de: Afrikabekassine
-  pt: african snipe
+  pt: ''
   ru: Африканский бекас
   ja: アフリカジシギ
   nl: Afrikaanse snip

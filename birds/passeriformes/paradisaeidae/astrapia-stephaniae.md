@@ -15,7 +15,7 @@ names:
   pt: stephanie's astrapia
   ru: Коричневобрюхая астрапия
   ja: シロジクオナガフウチョウ
-  zh: Princess Stephanie's Astrapia
+  zh: ''
   nl: Stephanieastrapia
   pl: astrapia lśniąca
   tr: Stephanie Astrapyası

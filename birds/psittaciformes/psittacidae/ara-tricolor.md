@@ -12,7 +12,7 @@ names:
   es: Guacamayo de Cuba
   fr: Ara tricolore
   de: Dreifarbenara
-  pt: cuban macaw
+  pt: ''
   ru: Трёхцветный ара
   ja: ミイロコンゴウインコ
   zh: 古巴紅鸚鵡

@@ -13,7 +13,7 @@ names:
   fr: Falconelle de White
   de: Gelbflügel-Meisendickkopf
   pt: northern shrike-tit
-  zh: Northern Shriketit
+  zh: ''
   nl: Noordelijke harlekijndikkop
   pl: czubiec mały
   tr: Kuzeyli Kerpetenkuşu

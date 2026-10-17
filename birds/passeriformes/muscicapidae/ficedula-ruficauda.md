@@ -12,7 +12,7 @@ names:
   es: Papamoscas Colirrojo
   fr: Gobemouche à queue rousse
   de: Rotschwanzschnäpper
-  pt: rusty-tailed flycatcher
+  pt: ''
   ru: Рыжехвостая мухоловка
   ja: アカオサメビタキ
   zh: 栗尾姬鹟

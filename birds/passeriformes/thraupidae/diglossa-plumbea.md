@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Plomizo
   fr: Percefleur ardoisé
   de: Einfarb-Hakenschnabel
-  pt: slaty flowerpiercer
+  pt: ''
   ru: Свинцовый цветокол
   ja: ウスズミハナサシミツドリ
   zh: 灰刺花鸟

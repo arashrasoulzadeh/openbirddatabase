@@ -12,7 +12,7 @@ names:
   es: Cuclillo Violeta
   fr: Coucou violet
   de: Amethystkuckuck
-  pt: violet cuckoo
+  pt: ''
   ru: Аметистовая кукушка
   ja: スミレテリカッコウ
   zh: 紫金鹃

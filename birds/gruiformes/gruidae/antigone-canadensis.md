@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5697.0
 names:
   scientific: Antigone canadensis
-  fa: nan
+  fa: ''
   en: Sandhill Crane
   es: Grulla Canadiense
   fr: Grue du Canada

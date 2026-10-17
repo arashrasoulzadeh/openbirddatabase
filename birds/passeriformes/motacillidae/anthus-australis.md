@@ -12,7 +12,7 @@ names:
   es: Bisbita Australiano
   fr: Pipit d'Australie
   de: Australspornpieper
-  pt: australian pipit
+  pt: ''
   ru: Австралийский конёк
   ja: オーストラリアマミジロタヒバリ
   zh: 澳洲鹨

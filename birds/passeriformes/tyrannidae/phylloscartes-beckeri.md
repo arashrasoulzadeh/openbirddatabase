@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 16267.0
 names:
   scientific: Phylloscartes beckeri
-  fa: nan
+  fa: ''
   en: Bahia Tyrannulet
   es: Orejerito de Bahía
   fr: Tyranneau de Becker

@@ -12,7 +12,7 @@ names:
   es: Carpinterito Boliviano
   fr: Picumne de d'Orbigny
   de: Andenzwergspecht
-  pt: ocellated piculet
+  pt: ''
   ru: Глазчатый дятелок
   ja: ガンモンヒメキツツキ
   nl: D'Orbignydwergspecht

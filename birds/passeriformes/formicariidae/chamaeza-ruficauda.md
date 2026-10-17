@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14527.0
 names:
   scientific: Chamaeza ruficauda
-  fa: nan
+  fa: ''
   en: Rufous-tailed Antthrush
   es: Tovacá Colirrufo
   fr: Tétéma à queue rousse

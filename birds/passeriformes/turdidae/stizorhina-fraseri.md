@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28148.0
 names:
   scientific: Stizorhina fraseri
-  fa: nan
+  fa: ''
   en: Fraser's Rufous Thrush
   es: Zorzal de Fraser
   fr: Stizorhin de Fraser
@@ -15,7 +15,7 @@ names:
   pt: rufous flycatcher-thrush
   ru: Рыжий мухоловкодрозд
   ja: サビイロヒタキ
-  zh: Fraser's Rufous Thrush
+  zh: ''
   nl: Fraserkortpootlijster
   pl: wahal rudy
   tr: Fraser Ardıcı

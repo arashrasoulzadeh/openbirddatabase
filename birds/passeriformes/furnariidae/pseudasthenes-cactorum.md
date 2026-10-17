@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15542.0
 names:
   scientific: Pseudasthenes cactorum
-  fa: nan
+  fa: ''
   en: Cactus Canastero
   es: Canastero de Los Cactus
   fr: Synallaxe des cactus
   de: Kaktuscanastero
-  pt: cactus canastero
+  pt: ''
   ru: Кактусовая болария
   ja: サボテンカマドドリ
   zh: 仙人掌卡納雀

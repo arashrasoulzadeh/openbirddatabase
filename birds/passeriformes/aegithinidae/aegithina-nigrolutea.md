@@ -15,7 +15,7 @@ names:
   pt: white-tailed iora
   ru: Черношапочная йора
   ja: ズグロヒメコノハドリ
-  zh: Marshall's Iora
+  zh: ''
   nl: Zwartkopiora
   pl: paskownik białosterny
   tr: Ak Kuyruklu İora

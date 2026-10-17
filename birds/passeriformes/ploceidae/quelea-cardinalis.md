@@ -12,7 +12,7 @@ names:
   es: Quelea Cardenal
   fr: Travailleur cardinal
   de: Kardinalweber
-  pt: cardinal quelea
+  pt: ''
   ru: Кардиналовая квелия
   ja: ムネアカコウヨウチョウ
   nl: Kardinaalwever

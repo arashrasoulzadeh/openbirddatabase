@@ -12,7 +12,7 @@ names:
   es: Cacique Negro
   fr: Cassique noir
   de: Anthrazitstirnvogel
-  pt: black oropendola
+  pt: ''
   ru: Чёрная оропендола
   ja: クロオオツリスドリ
   nl: Zwarte oropendola

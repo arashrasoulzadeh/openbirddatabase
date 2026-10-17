@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10666.0
 names:
   scientific: Lybius torquatus
-  fa: nan
+  fa: ''
   en: Black-collared Barbet
   es: Barbudo Acollarado
   fr: Barbican à collier
   de: Halsband-Bartvogel
-  pt: black-collared barbet
+  pt: ''
   ru: Ошейниковая либия
   ja: クビワゴシキドリ
   nl: Zwarthalsbaardvogel

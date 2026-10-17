@@ -15,7 +15,7 @@ names:
   pt: great lizard-cuckoo
   ru: Ящеричная пиайя
   ja: オオトゲカッコウ
-  zh: Great Lizard Cuckoo
+  zh: ''
   nl: Grote hagediskoekoek
   pl: jaszczurkojad duży
   tr: Büyük Kertenkele Guguğu

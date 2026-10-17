@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33600.0
 names:
   scientific: Leistes loyca
-  fa: nan
+  fa: ''
   en: Long-tailed Meadowlark
   es: Loica Común
   fr: Sturnelle australe
   de: Langschwanzstärling
-  pt: long-tailed meadowlark
+  pt: ''
   ru: Длиннохвостая лойка
   ja: オナガマキバドリ
   nl: Grote weidespreeuw

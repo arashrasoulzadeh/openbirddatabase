@@ -15,7 +15,7 @@ names:
   pt: andorinha-das-rochas-de-preuss
   ru: Краснобровая ласточка
   ja: ノドジロサンショクツバメ
-  zh: Preuss's Cliff Swallow
+  zh: ''
   nl: Preussklifzwaluw
   pl: jaskółka koroniasta
   tr: Preuss Kırlangıcı

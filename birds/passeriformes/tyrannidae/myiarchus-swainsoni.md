@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17301.0
 names:
   scientific: Myiarchus swainsoni
-  fa: nan
+  fa: ''
   en: Swainson's Flycatcher
   es: Copetón de Swainson
   fr: Tyran de Swainson

@@ -12,7 +12,7 @@ names:
   es: Alondra Roja
   fr: Alouette ferrugineuse
   de: Kalaharilerche
-  pt: red lark
+  pt: ''
   ru: Калахарский жаворонок
   ja: セアカスナヒバリ
   zh: 红歌百灵

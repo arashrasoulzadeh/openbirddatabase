@@ -12,7 +12,7 @@ names:
   es: Elanio Escrito
   fr: Élanion lettré
   de: Schwarzachselaar
-  pt: letter-winged kite
+  pt: ''
   ru: Чернополосый коршун
   ja: クロオビトビ
   zh: 纹翅鸢

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25724.0
 names:
   scientific: Zosterops chloris
-  fa: nan
+  fa: ''
   en: Lemon-bellied White-eye
   es: Anteojitos Ventrilimón
   fr: Zostérops à ventre citron
   de: Molukkenbrillenvogel
-  pt: lemon-bellied white-eye
+  pt: ''
   ru: Цитроновая белоглазка
   ja: マングローブメジロ
   zh: 紅樹繡眼

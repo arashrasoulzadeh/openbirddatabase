@@ -12,7 +12,7 @@ names:
   es: Chingolo Albinegro
   fr: Bruant noir et blanc
   de: Prärieammer
-  pt: lark bunting
+  pt: ''
   ru: Жаворонковая овсянка
   ja: カタジロクロシトド
   zh: 白斑黑鹀

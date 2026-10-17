@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25614.0
 names:
   scientific: Zosterops flavilateralis
-  fa: nan
+  fa: ''
   en: Pale White-eye
   es: Anteojitos Keniata
   fr: Zostérops à flancs jaunes
   de: Keniabrillenvogel
-  pt: pale white-eye
+  pt: ''
   ru: Желтобокая белоглазка
   zh: 灰白繡眼
   nl: Keniaanse brilvogel

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13044.0
 names:
   scientific: Pyrrhura lucianii
-  fa: nan
+  fa: ''
   en: Bonaparte's Parakeet
   es: Cotorra de Bonaparte
   fr: Conure de Bonaparte

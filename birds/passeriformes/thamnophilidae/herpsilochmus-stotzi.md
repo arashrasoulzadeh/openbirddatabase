@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13792.0
 names:
   scientific: Herpsilochmus stotzi
-  fa: nan
+  fa: ''
   en: Aripuana Antwren
   es: Tiluchí de Aripuaná
   fr: Grisin de Stotz

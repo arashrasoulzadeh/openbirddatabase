@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechivioleta
   fr: Souimanga à poitrine violette
   de: Veilchenbrust-Nektarvogel
-  pt: violet-breasted sunbird
+  pt: ''
   ru: Фиолетовогрудая нектарница
   ja: スミレイロニシキタイヨウチョウ
   nl: Violetborsthoningzuiger

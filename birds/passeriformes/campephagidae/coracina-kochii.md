@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18747.0
 names:
   scientific: Coracina kochii
-  fa: nan
+  fa: ''
   en: Mindanao Cuckooshrike
   es: Oruguero de Mindanao
   fr: Échenilleur de Mindanao
-  pt: mindanao cuckooshrike
+  pt: ''
   ja: ミンダナオカッコウサンショウクイ
   nl: Mindanaorupsvogel
   pl: kruczyna mindanajska

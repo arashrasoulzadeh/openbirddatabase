@@ -12,7 +12,7 @@ names:
   es: Prinia Sencilla
   fr: Prinia simple
   de: Schlichtprinie
-  pt: plain prinia
+  pt: ''
   ru: Буроголовая приния
   ja: アジアマミハウチワドリ
   zh: 纯色山鹪莺

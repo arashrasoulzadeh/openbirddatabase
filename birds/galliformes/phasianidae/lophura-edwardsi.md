@@ -12,7 +12,7 @@ names:
   es: Faisán de Edwards
   fr: Faisan d'Edwards
   de: Edwardsfasan
-  pt: edwards's pheasant
+  pt: ''
   ru: Фазан Эдвардса
   ja: コサンケイ
   zh: 愛氏鷴

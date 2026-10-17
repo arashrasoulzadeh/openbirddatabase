@@ -12,7 +12,7 @@ names:
   es: Cucal de Gabón
   fr: Coucal du Gabon
   de: Ansellkuckuck
-  pt: gabon coucal
+  pt: ''
   ru: Габонский кукаль
   ja: チャバラバンケン
   nl: Gabonese spoorkoekoek

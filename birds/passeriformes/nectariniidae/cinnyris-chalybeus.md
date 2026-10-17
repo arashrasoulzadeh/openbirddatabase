@@ -12,7 +12,7 @@ names:
   es: Suimanga Acerado
   fr: Souimanga chalybé
   de: Kapnektarvogel
-  pt: southern double-collared sunbird
+  pt: ''
   ru: Южная нектарница
   ja: ミナミゴシキタイヨウチョウ
   zh: 南方雙領花蜜鳥

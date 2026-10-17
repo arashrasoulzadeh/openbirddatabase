@@ -7,11 +7,11 @@ iucn_status: NT
 taxon_order: 29295.0
 names:
   scientific: Stiphrornis pyrrholaemus
-  fa: nan
+  fa: ''
   en: Olive-backed Forest Robin
   es: Petirrojo Selvático Dorsioliva
   fr: Rougegorge à dos olive
-  pt: olive-backed forest robin
+  pt: ''
   nl: Olijfrugbosakalat
   pl: afrorudzik oliwkowy
   tr: Yeşil Sırtlı Orman Bülbülü

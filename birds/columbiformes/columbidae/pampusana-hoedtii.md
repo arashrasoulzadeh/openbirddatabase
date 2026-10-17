@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2183.0
 names:
   scientific: Pampusana hoedtii
-  fa: nan
+  fa: ''
   en: Wetar Ground Dove
   es: Paloma Perdiz de Wetar
   fr: Gallicolombe de Wetar

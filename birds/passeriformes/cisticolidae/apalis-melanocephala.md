@@ -12,7 +12,7 @@ names:
   es: Apalis Cabecinegro
   fr: Apalis à tête noire
   de: Schwarzkopf-Feinsänger
-  pt: black-headed apalis
+  pt: ''
   ru: Черноголовый апалис
   ja: ズグロイロムシクイ
   nl: Tanzaniaanse apalis

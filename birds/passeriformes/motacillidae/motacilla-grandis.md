@@ -12,7 +12,7 @@ names:
   es: Lavandera Japonesa
   fr: Bergeronnette du Japon
   de: Japanstelze
-  pt: japanese wagtail
+  pt: ''
   ru: Японская трясогузка
   ja: セグロセキレイ
   zh: 日本鹡鸰

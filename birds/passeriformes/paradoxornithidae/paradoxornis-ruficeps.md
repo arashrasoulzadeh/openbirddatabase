@@ -12,7 +12,7 @@ names:
   es: Picoloro Cabecirrufo Occidental
   fr: Paradoxornis à tête rousse
   de: Weißkehl-Papageimeise
-  pt: white-breasted parrotbill
+  pt: ''
   ru: Белогрудая сутора
   ja: ムナジロダルマエナガ
   zh: 白胸鸦雀

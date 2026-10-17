@@ -12,7 +12,7 @@ names:
   es: Lori Pardo
   fr: Lori de Duyvenbode
   de: Braunlori
-  pt: brown lory
+  pt: ''
   ru: Бурый лори
   ja: キバネインコ
   nl: Bruine lori

@@ -12,7 +12,7 @@ names:
   es: Frutero Enmascarado
   fr: Cotinga masqué
   de: Gelbbrustkotinga
-  pt: masked fruiteater
+  pt: ''
   ru: Манишковый ягодоед
   ja: カオグロミドリカザリドリ
   nl: Maskercotinga

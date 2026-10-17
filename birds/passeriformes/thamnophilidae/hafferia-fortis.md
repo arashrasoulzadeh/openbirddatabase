@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14052.0
 names:
   scientific: Hafferia fortis
-  fa: nan
+  fa: ''
   en: Sooty Antbird
   es: Hormiguero Tiznado
   fr: Alapi fuligineux

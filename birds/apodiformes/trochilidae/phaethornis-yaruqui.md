@@ -12,7 +12,7 @@ names:
   es: Ermitaño de Yaruquí
   fr: Ermite yaruqui
   de: Smaragdschattenkolibri
-  pt: white-whiskered hermit
+  pt: ''
   ru: Усатый колибри-отшельник
   ja: シラヒゲユミハチドリ
   zh: 白须隐蜂鸟

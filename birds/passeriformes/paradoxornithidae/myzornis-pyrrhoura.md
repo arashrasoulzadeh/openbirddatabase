@@ -12,7 +12,7 @@ names:
   es: Timalí Melero
   fr: Myzorne queue-de-feu
   de: Smaragdgrasmücke
-  pt: fire-tailed myzornis
+  pt: ''
   ru: Зелёная огнехвостка, мизорнис
   ja: ゴシキチメドリ
   zh: 火尾绿鹛

@@ -12,7 +12,7 @@ names:
   es: Carpintero Escarlata
   fr: Pic rubin
   de: Scharlachrückenspecht
-  pt: scarlet-backed woodpecker
+  pt: ''
   ru: Рубиновый дятел
   ja: セアカハゲラ
   nl: Roodrugspecht

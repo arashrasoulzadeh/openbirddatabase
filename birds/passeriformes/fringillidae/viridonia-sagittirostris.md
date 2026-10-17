@@ -12,7 +12,7 @@ names:
   es: Amakihi Grande
   fr: Grand Amakihi
   de: Amakihikleidervogel
-  pt: greater amakihi
+  pt: ''
   ru: Большая амакихи
   ja: オオハワイミツスイ
   zh: 大顎雀

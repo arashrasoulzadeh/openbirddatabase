@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18077.0
 names:
   scientific: Lichmera lombokia
-  fa: nan
+  fa: ''
   en: Scaly-crowned Honeyeater
   es: Mielero de Lombok
   fr: Méliphage de Lombok
@@ -15,7 +15,7 @@ names:
   pt: sunda honeyeater
   ru: Ломбокский медолюб
   ja: ロンボクミツスイ
-  zh: Scaly-crowned Honeyeater
+  zh: ''
   nl: Lombokhoningeter
   pl: oliwomiodzik
   tr: Lombok Balkuşu

@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18909.0
 names:
   scientific: Edolisoma salvadorii
-  fa: nan
+  fa: ''
   en: Sangihe Cicadabird
   es: Oruguero de las Sangihe
   fr: Échenilleur des Sangihe
-  pt: sangihe cicadabird
+  pt: ''
   ja: サンギヘネズミオオサンショウクイ
   nl: Sangirrupsvogel
   pl: gąsienicojad celebeski

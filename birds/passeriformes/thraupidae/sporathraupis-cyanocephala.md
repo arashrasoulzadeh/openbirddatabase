@@ -12,7 +12,7 @@ names:
   es: Tangara Coroniazul
   fr: Tangara à tête bleue
   de: Blaukopftangare
-  pt: blue-capped tanager
+  pt: ''
   ru: Синеголовая танагра
   ja: ズアオフウキンチョウ
   zh: 蓝枕裸鼻雀

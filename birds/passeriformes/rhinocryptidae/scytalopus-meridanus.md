@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14459.0
 names:
   scientific: Scytalopus meridanus
-  fa: nan
+  fa: ''
   en: Merida Tapaculo
   es: Churrín de Mérida
   fr: Mérulaxe de Mérida
   de: Méridatapaculo
-  pt: merida tapaculo
+  pt: ''
   ru: Меридский тапакуло
   ja: メリダオタテドリ
   nl: Meridatapaculo

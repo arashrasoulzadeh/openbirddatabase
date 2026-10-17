@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10567.0
 names:
   scientific: Stactolaema leucotis
-  fa: nan
+  fa: ''
   en: White-eared Barbet
   es: Barbudo Orejiblanco
   fr: Barbican oreillard
   de: Weißohr-Bartvogel
-  pt: white-eared barbet
+  pt: ''
   ru: Белоухая либия
   ja: ミミジロゴシキドリ
   nl: Witoorbaardvogel

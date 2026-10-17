@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12653.0
 names:
   scientific: Trichoglossus reticulatus
-  fa: nan
+  fa: ''
   en: Blue-streaked Lory
   es: Lori de las Tanimbar
   fr: Loriquet réticulé

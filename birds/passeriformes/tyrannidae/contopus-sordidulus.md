@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16912.0
 names:
   scientific: Contopus sordidulus
-  fa: nan
+  fa: ''
   en: Western Wood Pewee
   es: Pibí Occidental
   fr: Pioui de l'Ouest
@@ -15,7 +15,7 @@ names:
   pt: piuí-verdadeiro-do-oeste
   ru: Западный пиви
   ja: ニシモリタイランチョウ
-  zh: Western Wood Pewee
+  zh: ''
   nl: Westelijke bospiewie
   pl: piwik brunatny
   tr: Batılı Tropikal Pivi

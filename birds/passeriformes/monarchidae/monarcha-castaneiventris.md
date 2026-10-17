@@ -12,7 +12,7 @@ names:
   es: Monarca Ventricastaño
   fr: Monarque à ventre marron
   de: Schwarzrückenmonarch
-  pt: chestnut-bellied monarch
+  pt: ''
   ru: Каштановобрюхий монарх
   ja: チャバラカササギビタキ
   nl: Kastanjebuikmonarch

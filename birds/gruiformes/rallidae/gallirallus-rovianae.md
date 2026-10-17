@@ -12,7 +12,7 @@ names:
   es: Rascón Roviana
   fr: Râle roviana
   de: Rovianaralle
-  pt: roviana rail
+  pt: ''
   ru: Ровианский трескун
   ja: ソロモンクイナ
   nl: Rovianaral

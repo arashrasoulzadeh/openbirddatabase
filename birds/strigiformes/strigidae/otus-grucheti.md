@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8788.0
 names:
   scientific: Otus grucheti
-  fa: nan
+  fa: ''
   en: Reunion Scops Owl
   es: Autillo de Reunión
   fr: Petit-duc de La Réunion
@@ -15,7 +15,7 @@ names:
   pt: reunion scops-owl
   ru: Реюньонская совка
   ja: レユニオンコノハズク
-  zh: Reunion Scops Owl
+  zh: ''
   nl: Réuniondwergooruil
   pl: uszatnik mały
   tr: Reünyon İshakkuşu

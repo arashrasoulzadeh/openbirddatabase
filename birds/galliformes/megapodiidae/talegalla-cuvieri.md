@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 802.0
 names:
   scientific: Talegalla cuvieri
-  fa: nan
+  fa: ''
   en: Red-billed Brushturkey
   es: Talégalo de Cuvier
   fr: Talégalle de Cuvier
   de: Rotschnabel-Buschhuhn
-  pt: red-billed brushturkey
+  pt: ''
   ru: Красноклювий курохвост
   ja: アカハシツカツクリ
   zh: 紅嘴營塚雉

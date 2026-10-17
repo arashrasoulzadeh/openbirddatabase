@@ -12,7 +12,7 @@ names:
   es: Trepador Indochino
   fr: Sittelle d'Indochine
   de: Burmakleiber
-  pt: burmese nuthatch
+  pt: ''
   ru: Бирманский поползень
   ja: ブルマゴジュウカラ
   zh: 缅甸䴓

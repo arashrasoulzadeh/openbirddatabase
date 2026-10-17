@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7610.0
 names:
   scientific: Nycticorax caledonicus
-  fa: nan
+  fa: ''
   en: Nankeen Night Heron
   es: Martinete Canelo
   fr: Bihoreau cannelle

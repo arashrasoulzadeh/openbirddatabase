@@ -12,7 +12,7 @@ names:
   es: Gaucho Grande
   fr: Grand Gaucho
   de: Schwarzschwanz-Hakentyrann
-  pt: great shrike-tyrant
+  pt: ''
   ru: Чернохвостый гаучо
   ja: オオモズタイランチョウ
   nl: Grote klauwiertiran

@@ -15,7 +15,7 @@ names:
   pt: abibe-carúncula
   ru: Сенегальский чибис
   ja: トサカゲリ
-  zh: African Wattled Lapwing
+  zh: ''
   nl: Lelkievit
   pl: czajka płowa
   tr: Afrika Kızkuşu

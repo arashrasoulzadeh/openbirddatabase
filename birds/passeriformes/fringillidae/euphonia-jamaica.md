@@ -12,7 +12,7 @@ names:
   es: Eufonia Jamaicana
   fr: Organiste de Jamaïque
   de: Gimpelorganist
-  pt: jamaican euphonia
+  pt: ''
   ru: Ямайская эуфония
   ja: ジャマイカスミレフウキンチョウ
   nl: Jamaicaanse organist

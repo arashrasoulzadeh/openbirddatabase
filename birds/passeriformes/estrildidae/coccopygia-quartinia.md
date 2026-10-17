@@ -12,7 +12,7 @@ names:
   es: Estrilda Ventrigualda Oriental
   fr: Astrild à ventre jaune
   de: Gelbbauchastrild
-  pt: yellow-bellied waxbill
+  pt: ''
   ru: Желтобрюхий астрильд
   ja: ヒガシキバラカエデチョウ
   zh: 黄腹梅花雀

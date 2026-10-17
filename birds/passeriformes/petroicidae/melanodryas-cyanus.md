@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21852.0
 names:
   scientific: Melanodryas cyanus
-  fa: nan
+  fa: ''
   en: Slaty Robin
   es: Petroica Azulada
   fr: Miro gris-bleu
@@ -15,7 +15,7 @@ names:
   pt: blue-gray robin
   ru: Тёмная дриада
   ja: ネズミパプアヒタキ
-  zh: Slaty Robin
+  zh: ''
   nl: Leizwarte struikvliegenvanger
   pl: smolarka jednobarwna
   tr: Mavi-Gri Bülbül

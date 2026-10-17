@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Chucho
   fr: Moqueur corossol
   de: Perlaugen-Spottdrossel
-  pt: pearly-eyed thrasher
+  pt: ''
   ru: Жемчужноглазый пересмешник
   ja: オオウロコツグミモドキ
   zh: 珠眼嘲鸫

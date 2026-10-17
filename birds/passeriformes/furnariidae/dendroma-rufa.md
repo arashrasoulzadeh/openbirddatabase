@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15195.0
 names:
   scientific: Dendroma rufa
-  fa: nan
+  fa: ''
   en: Buff-fronted Foliage-gleaner
   es: Ticotico Ocráceo Grande
   fr: Anabate roux

@@ -12,7 +12,7 @@ names:
   es: Acantiza de Helechal
   fr: Northielle des fougères
   de: Farnhuscher
-  pt: fernwren
+  pt: ''
   ru: Усатый шипоклюв
   ja: シダムシクイ
   nl: Zwartkeelstruiksluiper

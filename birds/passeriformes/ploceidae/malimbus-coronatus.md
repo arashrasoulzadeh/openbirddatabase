@@ -12,7 +12,7 @@ names:
   es: Malimbo Coronado
   fr: Malimbe couronné
   de: Kronenweber
-  pt: red-crowned malimbe
+  pt: ''
   ru: Красношапочный малимб
   ja: アカボウシモリハタオリ
   nl: Roodkruinprachtwever

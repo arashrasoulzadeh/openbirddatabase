@@ -12,7 +12,7 @@ names:
   es: Chara Centroamericana
   fr: Geai houppé
   de: Hartlaubblaurabe
-  pt: bushy-crested jay
+  pt: ''
   ru: Чёрно-синяя сойка
   ja: ヤマヌレバカケス
   zh: 浓冠鸦

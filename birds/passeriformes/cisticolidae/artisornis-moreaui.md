@@ -15,7 +15,7 @@ names:
   pt: long-billed tailorbird
   ru: Длинноклювый апалис
   ja: ハシナガイロムシクイ
-  zh: Long-billed Forest Warbler
+  zh: ''
   nl: Moreausnijdervogel
   pl: rdzawoczółek szydłodzioby
   tr: Uzun Gagalı Afrika Terzikuşu

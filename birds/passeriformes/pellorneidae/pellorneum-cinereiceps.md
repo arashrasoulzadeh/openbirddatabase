@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26248.0
 names:
   scientific: Pellorneum cinereiceps
-  fa: nan
+  fa: ''
   en: Ashy-headed Babbler
   es: Tordina Coronigrís
   fr: Akalat à tête cendrée
   de: Graukopf-Mausdrossling
-  pt: ashy-headed babbler
+  pt: ''
   ru: Сероголовый шелкопёр
   ja: パラワンムジチメドリ
   zh: 灰頭雅鶥

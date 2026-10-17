@@ -12,7 +12,7 @@ names:
   es: Turdoide Matorralero
   fr: Cratérope de brousse
   de: Dschungeldrosselhäherling
-  pt: jungle babbler
+  pt: ''
   ru: Джунглевая дроздовка
   ja: ツチイロヤブチメドリ
   zh: 丛林鸫鹛

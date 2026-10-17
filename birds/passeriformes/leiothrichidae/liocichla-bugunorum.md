@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 26596.0
 names:
   scientific: Liocichla bugunorum
-  fa: nan
+  fa: ''
   en: Bugun Liocichla
   es: Charlatán Bugun
   fr: Garrulaxe des Buguns
   de: Bugunbunthäherling
-  pt: bugun liocichla
+  pt: ''
   ru: Бугунская лиоцихла
   ja: ブグンヤブドリ
   zh: 黑冠薮鹛

@@ -12,7 +12,7 @@ names:
   es: Canastera Malgache
   fr: Glaréole malgache
   de: Madagaskarbrachschwalbe
-  pt: madagascar pratincole
+  pt: ''
   ru: Мадагаскарская тиркушка
   ja: チャバラツバメチドリ
   nl: Madagaskarvorkstaartplevier

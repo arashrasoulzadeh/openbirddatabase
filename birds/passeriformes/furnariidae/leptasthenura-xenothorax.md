@@ -12,7 +12,7 @@ names:
   es: Tijeral Cejiblanco
   fr: Synallaxe à gorge rayée
   de: Graubauch-Meisenschlüpfer
-  pt: white-browed tit-spinetail
+  pt: ''
   ru: Жемчужногорлая колючехвостка
   ja: マミジロエナガカマドドリ
   nl: Witbrauwmeesstekelstaart

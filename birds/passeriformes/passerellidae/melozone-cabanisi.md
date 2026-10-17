@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 33362.0
 names:
   scientific: Melozone cabanisi
-  fa: nan
+  fa: ''
   en: Cabanis's Ground Sparrow
   es: Toquí Costarricense
   fr: Tohi de Cabanis
@@ -15,7 +15,7 @@ names:
   pt: cabanis's ground-sparrow
   ru: Белолицый тохи
   ja: コスタリカシトド
-  zh: Cabanis's Ground Sparrow
+  zh: ''
   nl: Costaricaanse grondgors
   pl: ziemnołuszcz kostarykański
   tr: Cabanis Yer Serçesi

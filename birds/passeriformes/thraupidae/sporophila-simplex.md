@@ -12,7 +12,7 @@ names:
   es: Semillero Simple
   fr: Sporophile simple
   de: Schlichtspelzer
-  pt: drab seedeater
+  pt: ''
   ru: Толстоклювый просяночник
   ja: ムジヒメウソ
   nl: Vaalbruin dikbekje

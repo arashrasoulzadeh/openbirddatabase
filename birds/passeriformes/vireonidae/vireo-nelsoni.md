@@ -12,7 +12,7 @@ names:
   es: Vireo Enano
   fr: Viréo nain
   de: Zwergvireo
-  pt: dwarf vireo
+  pt: ''
   ru: Карликовый виреон
   ja: チビモズモドキ
   nl: Dwergvireo

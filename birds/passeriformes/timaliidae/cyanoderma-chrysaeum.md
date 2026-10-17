@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25943.0
 names:
   scientific: Cyanoderma chrysaeum
-  fa: nan
+  fa: ''
   en: Golden Babbler
   es: Timalí Dorado
   fr: Timalie dorée
   de: Goldbuschtimalie
-  pt: golden babbler
+  pt: ''
   ru: Золотистая тимелия
   ja: キガシラモリチメドリ
   zh: 金头穗鹛

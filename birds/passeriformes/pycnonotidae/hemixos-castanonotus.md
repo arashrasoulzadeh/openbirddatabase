@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24522.0
 names:
   scientific: Hemixos castanonotus
-  fa: nan
+  fa: ''
   en: Chestnut Bulbul
   es: Bulbul Castaño
   fr: Bulbul marron
   de: Braunmantelbülbül
-  pt: chestnut bulbul
+  pt: ''
   ru: Каштановый бюльбюль
   ja: クリイロヒヨドリ
   zh: 栗背短脚鹎

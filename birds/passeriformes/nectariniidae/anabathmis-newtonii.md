@@ -12,7 +12,7 @@ names:
   es: Suimanga de Newton
   fr: Souimanga de Newton
   de: Gelbbrust-Nektarvogel
-  pt: newton's sunbird
+  pt: ''
   ru: Сантомейская нектарница
   ja: サントメタイヨウチョウ
   nl: Geelborsthoningzuiger

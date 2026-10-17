@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2588.0
 names:
   scientific: Megaloprepia magnifica
-  fa: nan
+  fa: ''
   en: Wompoo Fruit Dove
   es: Tilopo Magnífico
   fr: Ptilope magnifique
@@ -15,7 +15,7 @@ names:
   pt: wompoo fruit-dove
   ru: Длиннохвостый фруктовый голубь
   ja: ワープーアオバト
-  zh: Wompoo Fruit Dove
+  zh: ''
   nl: Wompoejufferduif
   pl: owocożer purpurowy
   tr: Mor Göğüslü Meyve Kumrusu

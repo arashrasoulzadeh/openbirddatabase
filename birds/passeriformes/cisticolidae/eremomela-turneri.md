@@ -12,7 +12,7 @@ names:
   es: Eremomela de Turner
   fr: Érémomèle de Turner
   de: Braunstirneremomela
-  pt: turner's eremomela
+  pt: ''
   ru: Рыжелобая желтобрюшка
   ja: クリビタイヒメムシクイ
   nl: Bruinkoperemomela

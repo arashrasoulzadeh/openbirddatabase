@@ -12,7 +12,7 @@ names:
   es: Saltarín de Los Yungas
   fr: Manakin des yungas
   de: Yungaspipra
-  pt: yungas manakin
+  pt: ''
   ru: Боливийский манакин
   ja: ボリビアセアオマイコドリ
   nl: Yungasmanakin

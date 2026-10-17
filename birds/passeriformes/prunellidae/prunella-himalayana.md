@@ -12,7 +12,7 @@ names:
   es: Acentor del Himalaya
   fr: Accenteur de l'Himalaya
   de: Himalajabraunelle
-  pt: altai accentor
+  pt: ''
   ru: Гималайская завирушка
   ja: ヒマラヤイワヒバリ
   zh: 高原岩鹨

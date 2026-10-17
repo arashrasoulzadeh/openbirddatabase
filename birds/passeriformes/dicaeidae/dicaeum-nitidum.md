@@ -12,7 +12,7 @@ names:
   es: Picaflores de las Luisiadas
   fr: Dicée de Louisiade
   de: Louisiadenmistelfresser
-  pt: louisiade flowerpecker
+  pt: ''
   ru: Луизиадский цветоед
   ja: ルイジアードハナドリ
   zh: 路易啄花鸟

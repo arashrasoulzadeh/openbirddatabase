@@ -15,7 +15,7 @@ names:
   pt: rufous-breasted wood-quail
   ru: Рыжегрудый зубцеклювый перепел
   ja: チャバラウズラ
-  zh: Rufous-breasted Wood Quail
+  zh: ''
   nl: Bruinborsttandkwartel
   pl: przepiór peruwiański
   tr: Kızıl Göğüslü Tokro

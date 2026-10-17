@@ -12,7 +12,7 @@ names:
   es: Alondra Pechirrosa
   fr: Alouette à poitrine rose
   de: Fahlbrustlerche
-  pt: pink-breasted lark
+  pt: ''
   ru: Розовогрудый жаворонок
   ja: ウスムネヤブヒバリ
   zh: 粉胸歌百灵

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24321.0
 names:
   scientific: Bleda eximius
-  fa: nan
+  fa: ''
   en: Green-tailed Bristlebill
   es: Bulbul Coliverde
   fr: Bulbul à queue verte
   de: Grünschwanz-Borstenbülbül
-  pt: green-tailed bristlebill
+  pt: ''
   ru: Зеленохвостый бюльбюль
   ja: ミドリオヒゲヒヨドリ
   nl: Groenstaartblada

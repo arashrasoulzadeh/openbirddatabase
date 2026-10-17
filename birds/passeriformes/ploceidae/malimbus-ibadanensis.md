@@ -12,7 +12,7 @@ names:
   es: Malimbo de Ibadán
   fr: Malimbe d'Ibadan
   de: Ibadanweber
-  pt: ibadan malimbe
+  pt: ''
   ru: Нигерийский малимб
   ja: ムネアカモリハタオリ
   nl: Ibadanprachtwever

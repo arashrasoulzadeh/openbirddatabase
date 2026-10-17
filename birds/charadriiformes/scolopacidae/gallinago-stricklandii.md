@@ -12,7 +12,7 @@ names:
   es: Agachadiza Fueguina
   fr: Bécassine de Strickland
   de: Kordillerenbekassine
-  pt: fuegian snipe
+  pt: ''
   ru: Патагонский бекас
   ja: ハシブトタシギ
   nl: Vuurlandsnip

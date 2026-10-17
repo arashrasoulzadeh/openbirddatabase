@@ -12,7 +12,7 @@ names:
   es: Bisbita Liso
   fr: Pipit à dos uni
   de: Braunrückenpieper
-  pt: plain-backed pipit
+  pt: ''
   ru: Буроспинный конёк
   ja: チャイロタヒバリ
   nl: Bruinrugpieper

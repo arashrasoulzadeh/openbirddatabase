@@ -15,7 +15,7 @@ names:
   pt: caburé
   ru: Рыжий сычик
   ja: アカスズメフクロウ
-  zh: Ferruginous Pygmy Owl
+  zh: ''
   nl: Braziliaanse dwerguil
   pl: sóweczka kreskowana
   tr: Kızıl Renkli Serçe Baykuşu

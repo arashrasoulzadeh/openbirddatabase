@@ -12,7 +12,7 @@ names:
   es: Estornino Rabilargo
   fr: Choucador à queue étroite
   de: Spitzschwanzstar
-  pt: narrow-tailed starling
+  pt: ''
   ru: Лесной скворец
   ja: ホソオテリムク
   nl: Spitsstaartspreeuw

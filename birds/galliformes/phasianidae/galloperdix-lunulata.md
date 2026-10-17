@@ -12,7 +12,7 @@ names:
   es: Faisancillo Moteado
   fr: Galloperdrix lunulée
   de: Perlspornhuhn
-  pt: painted spurfowl
+  pt: ''
   ru: Жемчужная шпорцевая курица
   ja: クロアシケズメシャコ
   nl: Pareldwergfazant

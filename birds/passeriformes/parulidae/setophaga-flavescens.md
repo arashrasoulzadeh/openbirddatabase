@@ -12,7 +12,7 @@ names:
   es: Reinita de las Bahamas
   fr: Paruline de Todd
   de: Bahamawaldsänger
-  pt: bahama warbler
+  pt: ''
   ru: Багамская древесница
   ja: バハマアメリカムシクイ
   nl: Bahamazanger

@@ -12,7 +12,7 @@ names:
   es: Charlatán Barrado
   fr: Garrulaxe barré
   de: Borstenhäherling
-  pt: streaked laughingthrush
+  pt: ''
   ru: Полосатая тимелия
   ja: ムナフガビチョウ
   zh: 细纹噪鹛

@@ -12,7 +12,7 @@ names:
   es: Picudo Pechigrís
   fr: Toxoramphe à ventre gris
   de: Gnomenpfriemschnabel
-  pt: spectacled longbill
+  pt: ''
   ru: Карликовый иглоклюв
   ja: オオコビトミツスイ
   nl: Groene dwerghoningjager

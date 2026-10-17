@@ -12,7 +12,7 @@ names:
   es: Monarca Gorjicastaño
   fr: Monarque à gorge marron
   de: Schmuckmonarch
-  pt: chestnut-throated flycatcher
+  pt: ''
   ru: Каштановогорлая миагра
   ja: ノドアカヒラハシ
   nl: Bruinkeelmonarch

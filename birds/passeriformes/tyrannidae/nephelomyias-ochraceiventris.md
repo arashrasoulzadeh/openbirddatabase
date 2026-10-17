@@ -12,7 +12,7 @@ names:
   es: Mosquero Pechiocre
   fr: Moucherolle à poitrine ocre
   de: Ockerhals-Schnäppertyrann
-  pt: ochraceous-breasted flycatcher
+  pt: ''
   ru: Охристогрудая курэта
   ja: ムネアカフタスジハエトリ
   nl: Goudkeeltiran

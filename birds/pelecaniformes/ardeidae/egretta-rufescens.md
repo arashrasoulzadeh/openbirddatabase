@@ -12,7 +12,7 @@ names:
   es: Garceta Rojiza
   fr: Aigrette roussâtre
   de: Rötelreiher
-  pt: reddish egret
+  pt: ''
   ru: Рыжеватая цапля
   ja: アカクロサギ
   zh: 棕颈鹭

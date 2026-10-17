@@ -12,7 +12,7 @@ names:
   es: Papafigos de Vieillot
   fr: Sphécothère de Vieillot
   de: Feigenpirol
-  pt: australasian figbird
+  pt: ''
   ru: Зелёная инжирница
   ja: メガネコウライウグイス
   zh: 澳大利亞裸眼鸝（南方裸眼鸝）

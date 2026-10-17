@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5044.0
 names:
   scientific: Ramosomyia violiceps
-  fa: nan
+  fa: ''
   en: Violet-crowned Hummingbird
   es: Amazilia Coronivioleta
   fr: Ariane à couronne violette
   de: Veilchenscheitelamazilie
-  pt: violet-crowned hummingbird
+  pt: ''
   ru: Фиолетовоголовая амазилия
   ja: スミレハチドリ
   zh: 紫冠蜂鸟

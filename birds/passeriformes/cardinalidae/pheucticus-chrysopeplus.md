@@ -12,7 +12,7 @@ names:
   es: Picogrueso Amarillo
   fr: Cardinal jaune
   de: Gelbkopf-Kernknacker
-  pt: yellow grosbeak
+  pt: ''
   ru: Жёлтый толстонос
   ja: オウゴンイカル
   nl: Gele kardinaal

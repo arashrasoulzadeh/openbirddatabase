@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4395.0
 names:
   scientific: Anthracothorax aurulentus
-  fa: nan
+  fa: ''
   en: Puerto Rican Mango
   es: Mango Puertoriqueño Dorado
   fr: Mango de Porto Rico
   de: Puerto-Rico-Mangokolibri
-  pt: puerto rican mango
+  pt: ''
   zh: 波多黎各芒果蜂鸟
   nl: Puertoricaanse mango
   pl: węglik czarnopierśny

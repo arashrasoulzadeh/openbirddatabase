@@ -15,7 +15,7 @@ names:
   pt: toro olive-greenbul
   ru: Угандийский бюльбюль
   ja: ウスリーオリーブヒヨドリ
-  zh: Toro Olive Greenbul
+  zh: ''
   nl: Toroloofbuulbuul
   pl: jasnobrzuch bury
   tr: Toro Yaprakbülbülü

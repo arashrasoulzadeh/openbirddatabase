@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7081.0
 names:
   scientific: Hydrobates microsoma
-  fa: nan
+  fa: ''
   en: Least Storm Petrel
   es: Paíño Menudo
   fr: Océanite minute
@@ -15,7 +15,7 @@ names:
   pt: least storm-petrel
   ru: Крошечная качурка
   ja: コウミツバメ
-  zh: Least Storm Petrel
+  zh: ''
   nl: Dwergstormvogeltje
   pl: nawałnik malutki
   tr: Küçük Fırtınakırlangıcı

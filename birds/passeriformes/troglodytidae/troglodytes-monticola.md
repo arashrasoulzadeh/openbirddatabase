@@ -12,7 +12,7 @@ names:
   es: Chochín de Santa Marta
   fr: Troglodyte de Santa Marta
   de: Santa-Marta-Zaunkönig
-  pt: santa marta wren
+  pt: ''
   ru: Сантамартийский крапивник
   ja: サンタマルタミソサザイ
   zh: 聖塔馬塔鷦鷯

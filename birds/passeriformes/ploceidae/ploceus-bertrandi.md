@@ -12,7 +12,7 @@ names:
   es: Tejedor de Malawi
   fr: Tisserin de Bertram
   de: Malawiweber
-  pt: bertram's weaver
+  pt: ''
   ru: Малавийский ткач
   ja: クロエリハタオリ
   nl: Bertramwever

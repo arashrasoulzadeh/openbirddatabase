@@ -12,7 +12,7 @@ names:
   es: Bulbul del Kikuyo
   fr: Bulbul kikuyu
   de: Olivbauchbülbül
-  pt: kikuyu mountain greenbul
+  pt: ''
   ru: Кикуйский бюльбюль
   nl: Kikuyubuulbuul
   pl: górobilbil oliwkowobrzuchy

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13187.0
 names:
   scientific: Psittacara finschi
-  fa: nan
+  fa: ''
   en: Finsch's Parakeet
   es: Aratinga de Finsch
   fr: Conure de Finsch
@@ -15,7 +15,7 @@ names:
   pt: crimson-fronted parakeet
   ru: Краснолобая аратинга
   ja: アカビタイメキシコインコ
-  zh: Finsch's Parakeet
+  zh: ''
   nl: Finsch' aratinga
   pl: szmaragdolotka czerwonoczelna
   tr: Finsch Papağanı

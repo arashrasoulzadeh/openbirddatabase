@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26118.0
 names:
   scientific: Stachyris humei
-  fa: nan
+  fa: ''
   en: Sikkim Wedge-billed Babbler
   es: Ratina Picocuña Occidental
   fr: Timalie à gros bec
   de: Schwarzbrust-Buschtimalie
-  pt: sikkim wedge-billed babbler
+  pt: ''
   ru: Сиккимская клиноклювка
   ja: キリハシチメドリ
   nl: Westelijke wigsnaveltimalia

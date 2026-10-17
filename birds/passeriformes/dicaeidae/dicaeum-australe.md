@@ -12,7 +12,7 @@ names:
   es: Picaflores Filipino
   fr: Dicée des Philippines
   de: Rostbauch-Mistelfresser
-  pt: red-keeled flowerpecker
+  pt: ''
   ru: Филиппинский цветоед
   ja: ゴシキハナドリ
   nl: Filipijnse honingvogel

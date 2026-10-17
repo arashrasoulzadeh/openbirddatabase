@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35101.0
 names:
   scientific: Tangara chrysotis
-  fa: nan
+  fa: ''
   en: Golden-eared Tanager
   es: Tangara Orejidorada
   fr: Calliste à oreilles d'or
   de: Goldohrtangare
-  pt: golden-eared tanager
+  pt: ''
   ru: Золотистоухая танагра
   ja: キミミフウキンチョウ
   zh: 金耳唐加拉雀

@@ -15,7 +15,7 @@ names:
   pt: gray-breasted partridge
   ru: Светлолицая лесная куропатка
   ja: ハイムネミヤマテッケイ
-  zh: Grey-breasted Partridge
+  zh: ''
   nl: Grijsborstbospatrijs
   pl: pstropiór białouchy
   tr: Oriyental Dağ Kekliği

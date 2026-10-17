@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28223.0
 names:
   scientific: Zoothera imbricata
-  fa: nan
+  fa: ''
   en: Sri Lanka Thrush
   es: Zorzal de Sri Lanka
   fr: Grive de Ceylan
   de: Ceylonerddrossel
-  pt: sri lanka thrush
+  pt: ''
   ru: Саманалайский дрозд
   ja: スリランカトラツグミ
   nl: Ceylonese goudlijster

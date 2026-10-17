@@ -15,7 +15,7 @@ names:
   pt: lemon-breasted seedeater
   ru: Лимонногрудый канареечник
   ja: キムネカナリア
-  zh: Lemon-breasted Canary
+  zh: ''
   nl: Geelborstkanarie
   pl: afrokulczyk żółtopierśny
   tr: Sarı Göğüslü İskete

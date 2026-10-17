@@ -12,7 +12,7 @@ names:
   es: Monarca de Natewa
   fr: Lamprolie de Vanua Levu
   de: Natewafächerschwanz
-  pt: natewa silktail
+  pt: ''
   ru: Малая шелкохвостка
   ja: ナテワビロードムシクイ
   zh: 拿特哇絲尾鶲

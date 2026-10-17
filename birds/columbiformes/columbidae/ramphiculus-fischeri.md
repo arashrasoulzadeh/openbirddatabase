@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2601.0
 names:
   scientific: Ramphiculus fischeri
-  fa: nan
+  fa: ''
   en: Red-eared Fruit Dove
   es: Tilopo de Fischer
   fr: Ptilope de Fischer
@@ -15,7 +15,7 @@ names:
   pt: red-eared fruit-dove
   ru: Красноухий фруктовый голубь
   ja: ハイボウシヒメアオバト
-  zh: Red-eared Fruit Dove
+  zh: ''
   nl: Roodoorjufferduif
   pl: owocożer bordowouchy
   tr: Kızıl Kulaklı Meyve Kumrusu

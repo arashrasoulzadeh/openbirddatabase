@@ -12,7 +12,7 @@ names:
   es: Anteojitos de las Chuuk
   fr: Zostérops de Truk
   de: Trukbrillenvogel
-  pt: teardrop white-eye
+  pt: ''
   ru: Плаксивая тахоу
   ja: アカアシメジロ
   nl: Trukbrilvogel

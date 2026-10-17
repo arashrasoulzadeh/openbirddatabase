@@ -12,7 +12,7 @@ names:
   es: Metalura Escamosa
   fr: Métallure à queue d'airain
   de: Schuppenbauch-Glanzschwänzchen
-  pt: scaled metaltail
+  pt: ''
   ru: Чешуйчатый металлохвост
   ja: ウロコテリオハチドリ
   zh: 鳞辉尾蜂鸟

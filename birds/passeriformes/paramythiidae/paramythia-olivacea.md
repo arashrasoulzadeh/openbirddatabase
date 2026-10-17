@@ -12,7 +12,7 @@ names:
   es: Picabayas Crestado Occidental
   fr: Paramythie de van Oort
   de: Oliv-Schopfbeerenfresser
-  pt: western crested berrypecker
+  pt: ''
   zh: 西冠啄果鸟
   nl: Westelijke bergbessenpikker
   pl: jagodnik białobrewy

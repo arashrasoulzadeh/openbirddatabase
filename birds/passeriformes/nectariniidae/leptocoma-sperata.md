@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjipúrpura
   fr: Souimanga à gorge améthyste
   de: Purpurkehl-Nektarvogel
-  pt: purple-throated sunbird
+  pt: ''
   ru: Пурпурногорлая нектраница
   ja: ムネアカタイヨウチョウ
   nl: Purperkeelhoningzuiger

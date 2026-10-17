@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25663.0
 names:
   scientific: Zosterops borbonicus
-  fa: nan
+  fa: ''
   en: Reunion Grey White-eye
   es: Anteojitos Gris de Reunión
   fr: Zostérops de Bourbon
@@ -15,7 +15,7 @@ names:
   pt: reunion gray white-eye
   ru: Белоплечая белоглазка
   ja: マスカリンメジロ
-  zh: Reunion Grey White-eye
+  zh: ''
   nl: Grijze réunionbrilvogel
   pl: szlarnik białorzytny
   tr: Reünyon Gri Gözlükçüsü

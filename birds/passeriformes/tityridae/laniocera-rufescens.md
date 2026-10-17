@@ -12,7 +12,7 @@ names:
   es: Plañidera Moteada
   fr: Aulia tacheté
   de: Rötelbekarde
-  pt: speckled mourner
+  pt: ''
   ru: Рыжеватая аулия
   ja: モンキタイランチョウ
   nl: Geelpluimtreurtiran

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14276.0
 names:
   scientific: Grallaria alvarezi
-  fa: nan
+  fa: ''
   en: Chami Antpitta
   es: Tororoí Chamí
   fr: Grallaire d'Alvarez
   de: Caucaameisenpitta
-  pt: chami antpitta
+  pt: ''
   ja: チャミジアリドリ
   nl: Chamimierpitta
   pl: kusaczka rdzawobrzucha

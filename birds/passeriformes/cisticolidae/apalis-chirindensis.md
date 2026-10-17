@@ -12,7 +12,7 @@ names:
   es: Apalis del Chirinda
   fr: Apalis de Chirinda
   de: Chirindafeinsänger
-  pt: chirinda apalis
+  pt: ''
   ru: Серый апалис
   ja: ローデシアイロムシクイ
   nl: Chirinda-apalis

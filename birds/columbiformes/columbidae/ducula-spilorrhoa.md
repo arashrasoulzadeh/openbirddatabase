@@ -15,7 +15,7 @@ names:
   pt: torresian imperial-pigeon
   ru: Пегий плодовый голубь
   ja: パプアソデグロバト
-  zh: Torresian Imperial Pigeon
+  zh: ''
   nl: Australische muskaatduif
   pl: muszkatela srokata
   tr: Akça Has Güvercin

@@ -12,7 +12,7 @@ names:
   es: Nínox Punteado
   fr: Ninoxe pointillée
   de: Pünktchenkauz
-  pt: speckled boobook
+  pt: ''
   ru: Пятнистая иглоногая сова
   ja: フイリアオバズク
   nl: Gespikkelde valkuil

@@ -12,7 +12,7 @@ names:
   es: Piquero Peruano
   fr: Fou varié
   de: Guanotölpel
-  pt: peruvian booby
+  pt: ''
   ru: Перуанская олуша
   ja: ペルーカツオドリ
   zh: 秘鲁鲣鸟

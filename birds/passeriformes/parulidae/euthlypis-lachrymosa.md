@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34224.0
 names:
   scientific: Euthlypis lachrymosa
-  fa: nan
+  fa: ''
   en: Fan-tailed Warbler
   es: Reinita Roquera
   fr: Paruline des rochers
   de: Fächerwaldsänger
-  pt: fan-tailed warbler
+  pt: ''
   ru: Веерохвостая корольковка
   ja: オウギアメリカムシクイ
   nl: Waaierzanger

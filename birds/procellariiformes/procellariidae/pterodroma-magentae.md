@@ -12,7 +12,7 @@ names:
   es: Petrel Taiko
   fr: Pétrel du Magenta
   de: Magentasturmvogel
-  pt: magenta petrel
+  pt: ''
   ru: Чатамский тайфунник
   ja: マジェンタミズナギドリ
   nl: Magentastormvogel

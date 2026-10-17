@@ -12,7 +12,7 @@ names:
   es: Mielero Matorralero
   fr: Méliphage buissonnier
   de: Schneeohr-Honigfresser
-  pt: scrub honeyeater
+  pt: ''
   ru: Кустарниковый медосос
   ja: シロフサミツスイ
   nl: Witgevlekte honingeter

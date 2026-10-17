@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35736.0
 names:
   scientific: Asemospiza fuliginosa
-  fa: nan
+  fa: ''
   en: Sooty Grassquit
   es: Semillero Fuliginoso
   fr: Cici fuligineux

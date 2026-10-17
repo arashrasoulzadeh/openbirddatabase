@@ -15,7 +15,7 @@ names:
   pt: banded sunbird
   ru: Краснополосая нектарница
   ja: アカオビコバシタイヨウチョウ
-  zh: Banded Green Sunbird
+  zh: ''
   nl: Roodbandhoningzuiger
   pl: nektarzyk czerwonowstęgi
   tr: Kuşaklı Nektarkuşu

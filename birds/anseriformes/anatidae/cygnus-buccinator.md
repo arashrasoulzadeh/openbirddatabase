@@ -12,7 +12,7 @@ names:
   es: Cisne Trompetero
   fr: Cygne trompette
   de: Trompeterschwan
-  pt: trumpeter swan
+  pt: ''
   ru: Лебедь-трубач
   ja: ナキハクチョウ
   zh: 黑嘴天鹅

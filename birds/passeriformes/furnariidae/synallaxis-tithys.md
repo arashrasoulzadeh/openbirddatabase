@@ -12,7 +12,7 @@ names:
   es: Pijuí Cabecinegro
   fr: Synallaxe tithys
   de: Schwarzgesicht-Dickichtschlüpfer
-  pt: blackish-headed spinetail
+  pt: ''
   ru: Темноголовая иглохвостка
   ja: カオグロカマドドリ
   nl: Zwartkopstekelstaart

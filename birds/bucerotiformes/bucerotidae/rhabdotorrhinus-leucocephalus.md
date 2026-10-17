@@ -12,7 +12,7 @@ names:
   es: Cálao Grande de Mindanao
   fr: Calao de Vieillot
   de: Mindanaohornvogel
-  pt: writhed hornbill
+  pt: ''
   ru: Красноклювый калао
   ja: アカハシサイチョウ
   zh: 白头犀鸟

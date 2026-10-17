@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18756.0
 names:
   scientific: Coracina personata
-  fa: nan
+  fa: ''
   en: Wallacean Cuckooshrike
   es: Oruguero de Wallacea
   fr: Échenilleur wallacéen

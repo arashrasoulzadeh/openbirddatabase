@@ -12,7 +12,7 @@ names:
   es: Gorrión de Swainson
   fr: Moineau de Swainson
   de: Swainsonsperling
-  pt: swainson's sparrow
+  pt: ''
   ru: Эфиопский воробей
   ja: ムジハイガシラスズメ
   zh: 斯氏麻雀

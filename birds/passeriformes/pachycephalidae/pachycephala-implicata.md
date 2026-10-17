@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19426.0
 names:
   scientific: Pachycephala implicata
-  fa: nan
+  fa: ''
   en: Hooded Whistler
   es: Silbador de Guadalcanal
   fr: Siffleur des Salomon
@@ -15,7 +15,7 @@ names:
   pt: guadalcanal hooded whistler
   ru: Соломонский свистун
   ja: ソロモンモズヒタキ
-  zh: Hooded Whistler
+  zh: ''
   nl: Guadalcanalfluiter
   pl: fletówka żałobna
   tr: Guadalkanal Islıkçısı

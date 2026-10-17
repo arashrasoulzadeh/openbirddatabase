@@ -12,7 +12,7 @@ names:
   es: Azor Rabilargo
   fr: Autour à longue queue
   de: Langschwanzhabicht
-  pt: long-tailed hawk
+  pt: ''
   ru: Длиннохвостый ястреб
   ja: オナガオオタカ
   zh: 非洲长尾鹰

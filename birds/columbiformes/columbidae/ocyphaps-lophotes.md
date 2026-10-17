@@ -12,7 +12,7 @@ names:
   es: Paloma Bronce Crestada
   fr: Colombine longup
   de: Spitzschopftaube
-  pt: crested pigeon
+  pt: ''
   ru: Хохлатый бронзовокрыл
   ja: レンジャクバト
   zh: 鳳頭鳩

@@ -12,7 +12,7 @@ names:
   es: Hormiguero Ocelado
   fr: Fourmilier ocellé
   de: Halsband-Ameisenvogel
-  pt: ocellated antbird
+  pt: ''
   ru: Глазчатая гологлазка
   ja: アオメウロコアリドリ
   nl: McLeannanmiervogel

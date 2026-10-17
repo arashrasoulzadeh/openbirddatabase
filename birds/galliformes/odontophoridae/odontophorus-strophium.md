@@ -15,7 +15,7 @@ names:
   pt: gorgeted wood-quail
   ru: Воротничковый зубцеклювый перепел
   ja: クビワウズラ
-  zh: Gorgeted Wood Quail
+  zh: ''
   nl: Witkeeltandkwartel
   pl: przepiór białolicy
   tr: Kolyeli Tokro

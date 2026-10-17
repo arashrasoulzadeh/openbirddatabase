@@ -12,7 +12,7 @@ names:
   es: Talégalo de Freycinet
   fr: Mégapode de Freycinet
   de: Molukken-Großfußhuhn
-  pt: dusky megapode
+  pt: ''
   ru: Джунглевая курица
   ja: ツカツクリ
   zh: 烏塚雉

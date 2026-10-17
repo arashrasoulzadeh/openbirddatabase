@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Los Arfak
   fr: Paradisier à gorge noire
   de: Fächerparadieselster
-  pt: arfak astrapia
+  pt: ''
   ru: Арфакская астрапия
   ja: オナガフウチョウ
   nl: Arfakastrapia

@@ -12,7 +12,7 @@ names:
   es: Peutrén
   fr: Pitajo de Patagonie
   de: Patagonienschmätzertyrann
-  pt: patagonian tyrant
+  pt: ''
   ru: Патагонский мухолов
   ja: パタゴニアヒタキタイランチョウ
   zh: 巴塔唧霸鹟

@@ -15,7 +15,7 @@ names:
   pt: trinca-ferro-gongá
   ru: Серый сальтатор
   ja: ハイイロイカル
-  zh: Bluish-grey Saltator
+  zh: ''
   nl: Blauwgrijze saltator
   pl: ziarnołusk szary
   tr: Mavi-Gri Saltator

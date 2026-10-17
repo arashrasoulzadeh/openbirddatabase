@@ -12,7 +12,7 @@ names:
   es: Pardela de Heinroth
   fr: Puffin de Heinroth
   de: Heinrothsturmtaucher
-  pt: heinroth's shearwater
+  pt: ''
   ru: Соломонский буревестник
   ja: ビスマルクミズナギドリ
   zh: 所罗门鹱

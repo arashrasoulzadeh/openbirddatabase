@@ -12,7 +12,7 @@ names:
   es: Silbador de Célebes
   fr: Hylocitrin à flancs jaunes
   de: Sulawesiwaldpfeifer
-  pt: hylocitrea
+  pt: ''
   ru: Хилоцитрея
   ja: ミドリモズヒタキ
   zh: 林啸鹟

@@ -12,7 +12,7 @@ names:
   es: Suimanga de Reichenow
   fr: Souimanga de Reichenow
   de: Blaukehl-Nektarvogel
-  pt: plain-backed sunbird
+  pt: ''
   ru: Синегорлая нектарница
   ja: ノドグロコバシタイヨウチョウ
   zh: 純背食蜜鳥

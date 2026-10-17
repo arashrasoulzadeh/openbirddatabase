@@ -12,7 +12,7 @@ names:
   es: Yal Cejiblanco
   fr: Mélanodère à sourcils blancs
   de: Weißbart-Ammertangare
-  pt: white-bridled finch
+  pt: ''
   ru: Черногорлый овсяночник
   ja: ノドグロシトド
   zh: 黑喉雀鹀

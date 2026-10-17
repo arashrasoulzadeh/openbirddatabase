@@ -15,7 +15,7 @@ names:
   pt: saurá
   ru: Огненая котинга
   ja: ギアナアカクロカザリドリ
-  zh: Guianan Red Cotinga
+  zh: ''
   nl: Rode cotinga
   pl: karmazynowiec wschodni
   tr: Guyana Kırmızı Kotingası

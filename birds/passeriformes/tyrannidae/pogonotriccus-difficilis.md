@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16246.0
 names:
   scientific: Pogonotriccus difficilis
-  fa: nan
+  fa: ''
   en: Serra do Mar Bristle Tyrant
   es: Orejerito de Serra Do Mar
   fr: Tyranneau des Ihering
@@ -15,7 +15,7 @@ names:
   pt: estalinho
   ru: Пеночковый каричи
   ja: シロハラコバシハエトリ
-  zh: Serra do Mar Bristle Tyrant
+  zh: ''
   nl: Witooglooftiran
   pl: tyrańczyk białooki
   tr: Serro Do Mar Yaprak Tiranı

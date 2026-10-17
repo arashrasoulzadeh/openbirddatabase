@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26002.0
 names:
   scientific: Melanocichla calva
-  fa: nan
+  fa: ''
   en: Bare-headed Laughingthrush
   es: Charlatán Calvo
   fr: Timalie chauve
   de: Kahlkopfhäherling
-  pt: bare-headed laughingthrush
+  pt: ''
   ru: Гололицая кустарница
   ja: ハゲガビチョウ
   zh: 裸头噪鹛

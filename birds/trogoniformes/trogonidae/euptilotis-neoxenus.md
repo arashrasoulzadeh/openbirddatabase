@@ -12,7 +12,7 @@ names:
   es: Trogón Orejón
   fr: Quetzal oreillard
   de: Kieferntrogon
-  pt: eared quetzal
+  pt: ''
   ru: Ушастый кетцаль
   ja: ミミキヌバネドリ
   zh: 角咬鹃

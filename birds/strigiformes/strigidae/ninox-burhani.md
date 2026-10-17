@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9380.0
 names:
   scientific: Ninox burhani
-  fa: nan
+  fa: ''
   en: Togian Boobook
   es: Nínox de las Togian
   fr: Ninoxe de Burhan
   de: Togiankauz
-  pt: togian boobook
+  pt: ''
   ru: Тогианская иглоногая сова
   ja: トギアンアオバズク
   nl: Togianvalkuil

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28245.0
 names:
   scientific: Cochoa viridis
-  fa: nan
+  fa: ''
   en: Green Cochoa
   es: Cochoa Verde
   fr: Cochoa vert
   de: Smaragdschnäpperdrossel
-  pt: green cochoa
+  pt: ''
   ru: Зелёная кохоа
   ja: ミドリミヤマツグミ
   zh: 绿宽嘴鸫

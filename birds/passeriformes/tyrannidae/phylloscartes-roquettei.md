@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 16271.0
 names:
   scientific: Phylloscartes roquettei
-  fa: nan
+  fa: ''
   en: Minas Gerais Tyrannulet
   es: Orejerito de Minas Gerais
   fr: Tyranneau de Minas Gerais

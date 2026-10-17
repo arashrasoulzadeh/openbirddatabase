@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4794.0
 names:
   scientific: Philodice bryantae
-  fa: nan
+  fa: ''
   en: Magenta-throated Woodstar
   es: Colibrí Magenta
   fr: Colibri magenta
   de: Violettkehl-Sternkolibri
-  pt: magenta-throated woodstar
+  pt: ''
   ru: Фиолетовогорлый эльф
   ja: コスタリカハチドリ
   nl: Costaricaanse boself

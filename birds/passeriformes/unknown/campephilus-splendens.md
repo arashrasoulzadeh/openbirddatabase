@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 0
 names:
   scientific: Campephilus splendens
-  fa: nan
+  fa: ''
   en: Splendid Woodpecker
   zh: 瑰麗啄木鸟
   nl: Campephilus haematogaster splendens

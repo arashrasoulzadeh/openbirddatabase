@@ -14,7 +14,7 @@ names:
   de: Kappenkreischeule
   ru: Черношапочная совка
   ja: ズグロオオコノハズク
-  zh: Black-capped Screech Owl
+  zh: ''
   nl: Zwartkopschreeuwuil
   pl: syczoń ciemnogłowy
   tr: Kara Çemberli Puhucuk

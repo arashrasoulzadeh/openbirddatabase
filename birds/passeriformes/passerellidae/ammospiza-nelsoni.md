@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33232.0
 names:
   scientific: Ammospiza nelsoni
-  fa: nan
+  fa: ''
   en: Nelson's Sparrow
   es: Chingolo de Nelson
   fr: Bruant de Nelson
   de: Nelsonammer
-  pt: nelson's sparrow
+  pt: ''
   ru: Канадская овсянка-барсучок
   ja: ネルソントゲオヒメドリ
   zh: 尼爾森尖尾沙鵐

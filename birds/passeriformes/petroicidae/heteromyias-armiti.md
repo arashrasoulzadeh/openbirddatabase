@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 21811.0
 names:
   scientific: Heteromyias armiti
-  fa: nan
+  fa: ''
   en: Black-capped Robin
   es: Petroica Cabecinegra
   fr: Miro d'Armit
   de: Schwarzscheitel-Farnschnäpper
-  pt: black-capped robin
+  pt: ''
   nl: Zwartkruinstruikvliegenvanger
   pl: gwizdacz czarnołbisty
   tr: Armit Bülbülü

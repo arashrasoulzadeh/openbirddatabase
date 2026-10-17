@@ -12,7 +12,7 @@ names:
   es: Paloma del Congo
   fr: Pigeon gris
   de: Kongotaube
-  pt: afep pigeon
+  pt: ''
   ru: Конголезский вяхирь
   ja: ハラジロバト
   nl: Afrikaanse houtduif

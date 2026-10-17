@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34493.0
 names:
   scientific: Chlorothraupis carmioli
-  fa: nan
+  fa: ''
   en: Carmiol's Tanager
   es: Tangara de Carmiol
   fr: Habia de Carmiol
   de: Carmiolkardinal
-  pt: carmiol's tanager
+  pt: ''
   ru: Зелёная хабия
   ja: オリーブフウキンチョウ
   nl: Carmioltangare

@@ -12,7 +12,7 @@ names:
   es: Jiji Común
   fr: Petite Éroesse
   de: Graunackensänger
-  pt: common jery
+  pt: ''
   ru: Серошейная эресса
   ja: クビワニセムシクイチメドリ
   zh: 北雜鶥

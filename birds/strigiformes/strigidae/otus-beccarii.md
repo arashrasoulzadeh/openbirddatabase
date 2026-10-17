@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8742.0
 names:
   scientific: Otus beccarii
-  fa: nan
+  fa: ''
   en: Biak Scops Owl
   es: Autillo de Biak
   fr: Petit-duc de Beccari
@@ -15,7 +15,7 @@ names:
   pt: biak scops-owl
   ru: Биакская совка
   ja: ビアクコノハズク
-  zh: Biak Scops Owl
+  zh: ''
   nl: Biakdwergooruil
   pl: syczek papuaski
   tr: Biak İshakkuşu

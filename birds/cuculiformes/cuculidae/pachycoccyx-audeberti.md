@@ -12,7 +12,7 @@ names:
   es: Críalo Piquigrueso
   fr: Coucou d'Audebert
   de: Dickschnabelkuckuck
-  pt: thick-billed cuckoo
+  pt: ''
   ru: Толстоклювая кукушка
   ja: ハシブトカッコウ
   nl: Diksnavelkoekoek

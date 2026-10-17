@@ -12,7 +12,7 @@ names:
   es: Turaco Crestiblanco
   fr: Touraco à huppe blanche
   de: Weißhaubenturako
-  pt: white-crested turaco
+  pt: ''
   ru: Белохохлый турако
   ja: シロガシラエボシドリ
   nl: Witkuiftoerako

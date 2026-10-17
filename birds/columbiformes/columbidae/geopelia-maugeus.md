@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2237.0
 names:
   scientific: Geopelia maugeus
-  fa: nan
+  fa: ''
   en: Barred Dove
   es: Tortolita de Timor
   fr: Géopélie de Maugé

@@ -15,7 +15,7 @@ names:
   pt: salvadori's serin
   ru: Ошейниковый канареечник
   ja: サルバドールカナリア
-  zh: Salvadori's Seedeater
+  zh: ''
   nl: Salvadorikanarie
   pl: afrokulczyk obrożny
   tr: Salvadori İsketesi

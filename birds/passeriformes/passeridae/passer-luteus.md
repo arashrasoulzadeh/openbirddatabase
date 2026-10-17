@@ -12,7 +12,7 @@ names:
   es: Gorrión Dorado
   fr: Moineau doré
   de: Braunrücken-Goldsperling
-  pt: sudan golden sparrow
+  pt: ''
   ru: Жёлтый воробей
   ja: コガネスズメ
   zh: 金麻雀

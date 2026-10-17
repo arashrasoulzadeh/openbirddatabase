@@ -15,7 +15,7 @@ names:
   pt: wallace's fruit-dove
   ru: Белогорлый фруктовый голубь
   ja: ウロコヒメアオバト
-  zh: Wallace's Fruit Dove
+  zh: ''
   nl: Wallacejufferduif
   pl: owocożer złotobrzuchy
   tr: Wallace Meyve Kumrusu

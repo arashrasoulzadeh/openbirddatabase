@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13440.0
 names:
   scientific: Euchrepomis spodioptila
-  fa: nan
+  fa: ''
   en: Ash-winged Antwren
   es: Tiluchí Piojito
   fr: Grisin spodioptile

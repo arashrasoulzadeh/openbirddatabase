@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34409.0
 names:
   scientific: Piranga roseogularis
-  fa: nan
+  fa: ''
   en: Rose-throated Tanager
   es: Piranga Yucateca
   fr: Piranga à gorge rose
   de: Rosenkehlkardinal
-  pt: rose-throated tanager
+  pt: ''
   ru: Розовогорлая пиранга
   ja: バラノドフウキンチョウ
   nl: Rozekeeltangare

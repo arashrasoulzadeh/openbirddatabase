@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15203.0
 names:
   scientific: Dendroma erythroptera
-  fa: nan
+  fa: ''
   en: Chestnut-winged Foliage-gleaner
   es: Ticotico Alicastaño
   fr: Anabate à ailes rousses

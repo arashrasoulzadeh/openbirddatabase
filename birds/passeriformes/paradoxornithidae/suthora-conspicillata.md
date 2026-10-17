@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25493.0
 names:
   scientific: Suthora conspicillata
-  fa: nan
+  fa: ''
   en: Spectacled Parrotbill
   es: Picoloro de Anteojos
   fr: Paradoxornis à lunettes
   de: Brillenpapageimeise
-  pt: spectacled parrotbill
+  pt: ''
   ru: Очковая сутора
   ja: メジロダルマエナガ
   zh: 白眶鸦雀

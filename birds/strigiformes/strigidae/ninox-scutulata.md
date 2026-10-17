@@ -12,7 +12,7 @@ names:
   es: Nínox Pardo
   fr: Ninoxe hirsute
   de: Falkenkauz
-  pt: brown boobook
+  pt: ''
   ru: Бурая иглоногая сова
   ja: チャイロアオバズク
   zh: 鹰鸮

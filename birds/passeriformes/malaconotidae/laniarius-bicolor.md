@@ -15,7 +15,7 @@ names:
   pt: gabon boubou
   ru: Двухцветный бубу
   ja: フタイロヤブモズ
-  zh: Swamp Boubou
+  zh: ''
   nl: Moerasfiskaal
   pl: dzierzyk dwubarwny
   tr: Bataklık Bubusu

@@ -12,7 +12,7 @@ names:
   es: Pava Aburria
   fr: Pénélope aburri
   de: Lappenguan
-  pt: wattled guan
+  pt: ''
   ru: Серёжчатый гуан
   ja: ニクダレシャクケイ
   zh: 肉垂冠雉

@@ -12,7 +12,7 @@ names:
   es: Tirano Gorjiníveo
   fr: Tyran chimu
   de: Schneekehl-Königstyrann
-  pt: snowy-throated kingbird
+  pt: ''
   ru: Белогорлый тиранн
   ja: ユキノドタイランチョウ
   nl: Sneeuwkeelkoningstiran

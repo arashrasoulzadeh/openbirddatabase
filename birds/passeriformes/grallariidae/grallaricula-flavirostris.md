@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14332.0
 names:
   scientific: Grallaricula flavirostris
-  fa: nan
+  fa: ''
   en: Ochre-breasted Antpitta
   es: Ponchito Ocráceo
   fr: Grallaire ocrée
   de: Ockerbrust-Ameisenpitta
-  pt: ochre-breasted antpitta
+  pt: ''
   ru: Андская питтуля
   ja: キムネヒメジアリドリ
   nl: Okerborstdwergmierpitta

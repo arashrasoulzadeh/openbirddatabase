@@ -12,7 +12,7 @@ names:
   es: Tijeral Coronado
   fr: Synallaxe couronné
   de: Rostkappen-Meisenschlüpfer
-  pt: rusty-crowned tit-spinetail
+  pt: ''
   ru: Рыжешапочная колючехвостка
   ja: クリボウシエナガカマドドリ
   nl: Roestkruinmeesstekelstaart

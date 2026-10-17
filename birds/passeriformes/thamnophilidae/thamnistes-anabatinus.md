@@ -12,7 +12,7 @@ names:
   es: Batará Café
   fr: Batara rousset
   de: Rostschwanz-Ameisenwürger
-  pt: russet antshrike
+  pt: ''
   ru: Ржавчатая чока
   ja: ヤブアリモズ
   nl: Rosse mierklauwier

@@ -12,7 +12,7 @@ names:
   es: Busardo Japonés
   fr: Buse du Japon
   de: Taigabussard
-  pt: eastern buzzard
+  pt: ''
   ru: Восточный канюк
   ja: ノスリ
   zh: 普通鵟

@@ -15,7 +15,7 @@ names:
   pt: javan banded-pitta
   ru: Синехвостая питта
   ja: キマユシマヤイロチョウ
-  zh: Javan Banded Pitta
+  zh: ''
   nl: Javaanse blauwstaartpitta
   pl: kurtaczek prążkobrzuchy
   tr: Java Yazılı Pittası

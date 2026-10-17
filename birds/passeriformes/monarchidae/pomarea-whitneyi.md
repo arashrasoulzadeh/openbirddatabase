@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Fatu Hiva
   fr: Monarque de Fatu Hiva
   de: Fatuhivamonarch
-  pt: fatu hiva monarch
+  pt: ''
   ru: Фатухивская помарея
   ja: オオマルケサスヒタキ
   nl: Fatu-Hivamonarch

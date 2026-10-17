@@ -12,7 +12,7 @@ names:
   es: Tejedor Bicolor
   fr: Tisserin bicolore
   de: Waldweber
-  pt: dark-backed weaver
+  pt: ''
   ru: Черноспинный ткач
   ja: ニショクハタオリ
   nl: Woudwever

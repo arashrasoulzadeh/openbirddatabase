@@ -15,7 +15,7 @@ names:
   pt: sunda scops-owl
   ru: Малайская совка
   ja: スンダオオコノハズク
-  zh: Sunda Scops Owl
+  zh: ''
   nl: Soendadwergooruil
   pl: syczek obrożny
   tr: Sunda İshakkuşu

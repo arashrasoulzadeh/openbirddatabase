@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26442.0
 names:
   scientific: Trochalopteron squamatum
-  fa: nan
+  fa: ''
   en: Blue-winged Laughingthrush
   es: Charlatán Aliazul
   fr: Garrulaxe écaillé
   de: Blauflügelhäherling
-  pt: blue-winged laughingthrush
+  pt: ''
   ru: Чешуйчатогрудая кустарница
   ja: アオバネガビチョウ
   zh: 蓝翅噪鹛

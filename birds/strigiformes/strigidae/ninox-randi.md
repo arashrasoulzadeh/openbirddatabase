@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9366.0
 names:
   scientific: Ninox randi
-  fa: nan
+  fa: ''
   en: Chocolate Boobook
   es: Nínox Chocolate
   fr: Ninoxe de Rand
   de: Schokoladenkauz
-  pt: chocolate boobook
+  pt: ''
   ru: Каштановая иглоногая сова
   ja: チョコレートアオバズク
   nl: Chocolavalkuil

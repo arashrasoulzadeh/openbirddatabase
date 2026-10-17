@@ -12,7 +12,7 @@ names:
   es: Carpinterito Perlado
   fr: Picumne perlé
   de: Perlenbrust-Zwergspecht
-  pt: speckle-chested piculet
+  pt: ''
   ru: Жемчужный дятелок
   ja: ムナフヒメキツツキ
   nl: Spikkelborstdwergspecht

@@ -12,7 +12,7 @@ names:
   es: Calzadito Pechiblanco
   fr: Érione d'Aline
   de: Weißbrust-Höschenkolibri
-  pt: emerald-bellied puffleg
+  pt: ''
   ru: Изумрудный эрион
   ja: ミドリワタアシハチドリ
   zh: 翠腹毛腿蜂鸟

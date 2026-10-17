@@ -12,7 +12,7 @@ names:
   es: Tinamú Cejudo
   fr: Tinamou à grands sourcils
   de: Brauentinamu
-  pt: pale-browed tinamou
+  pt: ''
   ru: Тусклый скрытохвост
   ja: マミジロシギダチョウ
   zh: 淡眉穴䳍

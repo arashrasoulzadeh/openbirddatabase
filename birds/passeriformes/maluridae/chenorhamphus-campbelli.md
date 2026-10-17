@@ -12,7 +12,7 @@ names:
   es: Maluro de Isla Campbell
   fr: Mérion de Campbell
   de: Campbellstaffelschwanz
-  pt: campbell's fairywren
+  pt: ''
   ru: Черноусый малюр
   ja: ズアカヒロハシムシクイ
   nl: Bosavi-elfje

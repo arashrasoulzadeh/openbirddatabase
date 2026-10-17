@@ -12,7 +12,7 @@ names:
   es: Churrín Plateado
   fr: Mérulaxe argenté
   de: Silberbrauentapaculo
-  pt: silvery-fronted tapaculo
+  pt: ''
   ru: Светлолобый тапакуло
   ja: キンビタイオタテドリ
   nl: Costaricaanse tapaculo

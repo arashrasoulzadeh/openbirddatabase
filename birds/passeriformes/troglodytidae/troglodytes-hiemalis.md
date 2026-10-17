@@ -12,7 +12,7 @@ names:
   es: Chochín Hiemal
   fr: Troglodyte des forêts
   de: Winterzaunkönig
-  pt: winter wren
+  pt: ''
   ru: Американский крапивник
   ja: フユミソサザイ
   zh: 冬鷦鷯

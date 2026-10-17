@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8744.0
 names:
   scientific: Otus enganensis
-  fa: nan
+  fa: ''
   en: Enggano Scops Owl
   es: Autillo de Enggano
   fr: Petit-duc d'Enggano
@@ -15,7 +15,7 @@ names:
   pt: enggano scops-owl
   ru: Энганская совка
   ja: エンガノコノハズク
-  zh: Enggano Scops Owl
+  zh: ''
   nl: Engganodwergooruil
   pl: syczek ciemny
   tr: Enggano İshakkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34449.0
 names:
   scientific: Piranga leucoptera
-  fa: nan
+  fa: ''
   en: White-winged Tanager
   es: Piranga Aliblanca
   fr: Piranga bifascié

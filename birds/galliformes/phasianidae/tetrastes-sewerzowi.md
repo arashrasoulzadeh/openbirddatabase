@@ -12,7 +12,7 @@ names:
   es: Grévol Chino
   fr: Gélinotte de Severtsov
   de: Schwarzbrust-Haselhuhn
-  pt: chinese grouse
+  pt: ''
   ru: Рябчик Северцова
   ja: ミヤマエゾライチョウ
   zh: 斑尾榛鸡

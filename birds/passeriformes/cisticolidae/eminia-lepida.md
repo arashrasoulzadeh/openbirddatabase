@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23353.0
 names:
   scientific: Eminia lepida
-  fa: nan
+  fa: ''
   en: Grey-capped Warbler
   es: Eminia
   fr: Éminie à calotte grise
@@ -15,7 +15,7 @@ names:
   pt: gray-capped warbler
   ru: Эминия
   ja: ハイガシラムシクイ
-  zh: Grey-capped Warbler
+  zh: ''
   nl: Eminiazanger
   pl: wilgowiec rdzawogardły
   tr: Eminya

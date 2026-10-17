@@ -12,7 +12,7 @@ names:
   es: Diamante de Gould
   fr: Diamant de Gould
   de: Gouldamadine
-  pt: gouldian finch
+  pt: ''
   ru: Гульдова амадина
   ja: コキンチョウ
   zh: 胡錦鳥

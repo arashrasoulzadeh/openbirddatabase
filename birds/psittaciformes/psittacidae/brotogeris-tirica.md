@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12828.0
 names:
   scientific: Brotogeris tirica
-  fa: nan
+  fa: ''
   en: Plain Parakeet
   es: Catita Tirica
   fr: Toui tirica

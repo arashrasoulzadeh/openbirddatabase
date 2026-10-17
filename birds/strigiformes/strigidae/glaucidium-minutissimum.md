@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9036.0
 names:
   scientific: Glaucidium minutissimum
-  fa: nan
+  fa: ''
   en: East Brazilian Pygmy Owl
   es: Mochuelo Mínimo
   fr: Chevêchette cabouré
@@ -15,7 +15,7 @@ names:
   pt: caburé-miudinho
   ru: Крошечный сычик
   ja: ブラジルコスズメフクロウ
-  zh: East Brazilian Pygmy Owl
+  zh: ''
   nl: Kleinste dwerguil
   pl: sóweczka karłowata
   tr: Brezilya Serçe Baykuşu

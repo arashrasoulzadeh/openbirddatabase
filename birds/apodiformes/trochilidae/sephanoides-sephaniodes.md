@@ -12,7 +12,7 @@ names:
   es: Colibrí Austral
   fr: Colibri du Chili
   de: Chilekolibri
-  pt: green-backed firecrown
+  pt: ''
   ru: Чилийская диадема
   ja: ベニイタダキハチドリ
   zh: 绿背火冠蜂鸟

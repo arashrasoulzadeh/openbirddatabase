@@ -12,7 +12,7 @@ names:
   es: Bubú Silbón
   fr: Gonolek bacbakiri
   de: Bokmakiriwürger
-  pt: bokmakierie
+  pt: ''
   ru: Желтогрудый гладиатор
   ja: キノドミドリヤブモズ
   nl: Bokmakierieklauwier

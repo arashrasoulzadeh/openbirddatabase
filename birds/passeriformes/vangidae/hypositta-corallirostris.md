@@ -15,7 +15,7 @@ names:
   pt: nuthatch-vanga
   ru: Поползневая ванга
   ja: ベニバシゴジュウカラモズ
-  zh: Nuthatch Vanga
+  zh: ''
   nl: Boomklevervanga
   pl: koralodziób długopalcowy
   tr: Sıvacı Vanga

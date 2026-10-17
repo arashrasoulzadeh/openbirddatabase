@@ -12,7 +12,7 @@ names:
   es: Falconete Indonesio
   fr: Fauconnet moineau
   de: Finkenfälkchen
-  pt: black-thighed falconet
+  pt: ''
   ru: Черноногий сокол-крошка
   ja: モモグロヒメハヤブサ
   zh: 黑腿小隼

@@ -15,7 +15,7 @@ names:
   pt: galapagos rail
   ru: Галапагосский коростелёк
   ja: ガラパゴスコビトクイナ
-  zh: Galapagos Crake
+  zh: ''
   nl: Galapagosdwergral
   pl: derkaczyk galapagoski
   tr: Galapagos Yelvesi

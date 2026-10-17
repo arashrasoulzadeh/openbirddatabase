@@ -12,7 +12,7 @@ names:
   es: Tortolita Humeral
   fr: Géopélie à nuque rousse
   de: Kupfernackentäubchen
-  pt: bar-shouldered dove
+  pt: ''
   ru: Медношейная горлица
   ja: ベニカノコバト
   zh: 斑肩姬地鳩

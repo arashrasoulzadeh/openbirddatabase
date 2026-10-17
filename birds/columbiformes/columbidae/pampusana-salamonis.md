@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 2186.0
 names:
   scientific: Pampusana salamonis
-  fa: nan
+  fa: ''
   en: Thick-billed Ground Dove
   es: Paloma Perdiz de las Salomón
   fr: Gallicolombe des Salomon
   de: Makirataube
-  pt: thick-billed ground dove
+  pt: ''
   ru: Макиранский куриный голубь
   ja: ソロモンバト
   nl: Diksnavelpatrijsduif

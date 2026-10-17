@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 15390.0
 names:
   scientific: Asthenes hudsoni
-  fa: nan
+  fa: ''
   en: Hudson's Canastero
   es: Canastero Pampeano
   fr: Synallaxe de Hudson

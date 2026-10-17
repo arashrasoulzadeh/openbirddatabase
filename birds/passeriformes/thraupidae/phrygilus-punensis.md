@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35344.0
 names:
   scientific: Phrygilus punensis
-  fa: nan
+  fa: ''
   en: Peruvian Sierra Finch
   es: Yal Peruano
   fr: Phrygile du Pérou
   de: Buschammertangare
-  pt: peruvian sierra finch
+  pt: ''
   ru: Перуанский овсяночник
   ja: ペルーヤマシトド
   zh: 秘鲁岭雀鹀

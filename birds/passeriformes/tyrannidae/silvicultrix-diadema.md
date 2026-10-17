@@ -12,7 +12,7 @@ names:
   es: Pitajo Diademado
   fr: Pitajo diadème
   de: Gelbbauch-Schmätzertyrann
-  pt: yellow-bellied chat-tyrant
+  pt: ''
   ru: Диадемовая тираннита
   ja: キバラヒタキタイランチョウ
   nl: Diadeemtapuittiran

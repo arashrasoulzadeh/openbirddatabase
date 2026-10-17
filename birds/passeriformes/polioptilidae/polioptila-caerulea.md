@@ -15,7 +15,7 @@ names:
   pt: blue-gray gnatcatcher
   ru: Голубая комароловка
   ja: ブユムシクイ
-  zh: Blue-grey Gnatcatcher
+  zh: ''
   nl: Blauwgrijze muggenvanger
   pl: siwuszka ciemnobrewa
   tr: Gökrengi Bitkuşu

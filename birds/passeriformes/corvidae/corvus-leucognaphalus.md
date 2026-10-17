@@ -12,7 +12,7 @@ names:
   es: Cuervo de la Española
   fr: Corneille d'Hispaniola
   de: Antillenkrähe
-  pt: white-necked crow
+  pt: ''
   ru: Антильская ворона
   ja: ヒスパニオラガラス
   zh: 美洲白頸鴉

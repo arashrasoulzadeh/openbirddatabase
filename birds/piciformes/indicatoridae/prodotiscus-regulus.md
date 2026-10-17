@@ -12,7 +12,7 @@ names:
   es: Indicador Dorsipardo
   fr: Indicateur de Wahlberg
   de: Braunrücken-Honiganzeiger
-  pt: brown-backed honeybird
+  pt: ''
   ru: Тонкоклювый медоуказчик
   ja: ヒメミツオシエ
   nl: Bruinrughoningspeurder

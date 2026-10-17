@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27846.0
 names:
   scientific: Sturnia pagodarum
-  fa: nan
+  fa: ''
   en: Brahminy Starling
   es: Estornino de las Pagodas
   fr: Étourneau des pagodes
   de: Pagodenstar
-  pt: brahminy starling
+  pt: ''
   ru: Браминский скворец
   ja: ズグロムクドリ
   zh: 黑冠椋鸟

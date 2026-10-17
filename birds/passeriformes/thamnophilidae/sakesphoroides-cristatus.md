@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13486.0
 names:
   scientific: Sakesphoroides cristatus
-  fa: nan
+  fa: ''
   en: Silvery-cheeked Antshrike
   es: Batará Crestado
   fr: Batara à joues argent

@@ -12,7 +12,7 @@ names:
   es: Chingolo Coliblanco
   fr: Bruant vespéral
   de: Abendammer
-  pt: vesper sparrow
+  pt: ''
   ru: Вечерняя овсянка
   ja: オジロヒメドリ
   zh: 黃昏歌雀鵐

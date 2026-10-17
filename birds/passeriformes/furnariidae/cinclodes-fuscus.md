@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15087.0
 names:
   scientific: Cinclodes fuscus
-  fa: nan
+  fa: ''
   en: Buff-winged Cinclodes
   es: Remolinera Fusca
   fr: Cinclode brun

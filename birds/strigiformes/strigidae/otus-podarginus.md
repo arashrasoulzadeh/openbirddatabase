@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8726.0
 names:
   scientific: Otus podarginus
-  fa: nan
+  fa: ''
   en: Palau Scops Owl
   es: Autillo de las Palaos
   fr: Petit-duc des Palau
@@ -15,7 +15,7 @@ names:
   pt: palau scops-owl
   ru: Палауская совка
   ja: カキイロコノハズク
-  zh: Palau Scops Owl
+  zh: ''
   nl: Palaudwergooruil
   pl: syczek mikronezyjski
   tr: Palau Puhucuğu

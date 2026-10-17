@@ -12,7 +12,7 @@ names:
   es: Hormiguerito Submontano
   fr: Myrmidon des contreforts
   de: Andenameisenschlüpfer
-  pt: foothill stipplethroat
+  pt: ''
   ru: Сероспинный алапи
   ja: サンロクヒメアリサザイ
   nl: Heuvelmiersluiper

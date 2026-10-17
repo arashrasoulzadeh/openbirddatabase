@@ -15,7 +15,7 @@ names:
   pt: gray-headed sunbird
   ru: Сероголовая нектарница
   ja: ハイガシラコバシタイヨウチョウ
-  zh: Grey-headed Sunbird
+  zh: ''
   nl: Grijskophoningzuiger
   pl: nektarzyk szarogłowy
   tr: Gri Başlı Nektarkuşu

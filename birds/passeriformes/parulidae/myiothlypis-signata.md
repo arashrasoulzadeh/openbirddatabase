@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34304.0
 names:
   scientific: Myiothlypis signata
-  fa: nan
+  fa: ''
   en: Pale-legged Warbler
   es: Reinita Paticlara
   fr: Paruline à pattes pâles
   de: Bergbach-Waldsänger
-  pt: pale-legged warbler
+  pt: ''
   ru: Бледноногий певун
   ja: シロアシアメリカムシクイ
   nl: Bleekpootzanger

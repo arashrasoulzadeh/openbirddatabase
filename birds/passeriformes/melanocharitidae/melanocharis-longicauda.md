@@ -12,7 +12,7 @@ names:
   es: Picabayas Colilargo
   fr: Piquebaie à longue queue
   de: Gelbbüschel-Beerenpicker
-  pt: mid-mountain berrypecker
+  pt: ''
   ru: Длиннохвостая ягодница
   ja: ヤマパプアハナドリ
   nl: Geelpluimbessenpikker

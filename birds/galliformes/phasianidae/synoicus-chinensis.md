@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1726.0
 names:
   scientific: Synoicus chinensis
-  fa: nan
+  fa: ''
   en: King Quail
   es: Codorniz China
   fr: Caille peinte

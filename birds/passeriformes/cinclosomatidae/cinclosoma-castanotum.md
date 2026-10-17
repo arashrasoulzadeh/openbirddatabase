@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18532.0
 names:
   scientific: Cinclosoma castanotum
-  fa: nan
+  fa: ''
   en: Chestnut Quail-thrush
   es: Zordala Castaña
   fr: Cinclosome marron
   de: Kastanienmantelflöter
-  pt: chestnut quail-thrush
+  pt: ''
   ru: Пестрокрылый флейтист
   ja: クリゴシウズラチメドリ
   nl: Roodrugkwartellijster

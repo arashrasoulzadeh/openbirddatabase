@@ -12,7 +12,7 @@ names:
   es: Saltarín Azabache
   fr: Manakin unicolore
   de: Einfarbpipra
-  pt: jet manakin
+  pt: ''
   ru: Одноцветный манакин
   ja: ペルークロマイコドリ
   nl: Andesmanakin

@@ -15,7 +15,7 @@ names:
   pt: eastern chanting-goshawk
   ru: Серый певчий ястреб
   ja: ヒガシコシジロウタオオタカ
-  zh: Eastern Chanting Goshawk
+  zh: ''
   nl: Oostelijke zanghavik
   pl: jastrzębiak popielaty
   tr: Doğulu Ötücü Çakır

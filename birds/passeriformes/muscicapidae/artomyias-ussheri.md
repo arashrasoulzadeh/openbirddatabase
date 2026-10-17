@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28840.0
 names:
   scientific: Artomyias ussheri
-  fa: nan
+  fa: ''
   en: Ussher's Flycatcher
   es: Papamoscas de Ussher
   fr: Gobemouche d'Ussher
   de: Schwalbenschnäpper
-  pt: ussher's flycatcher
+  pt: ''
   ru: Ласточковая мухоловка
   ja: ススグロヒタキ
   nl: Usshervliegenvanger

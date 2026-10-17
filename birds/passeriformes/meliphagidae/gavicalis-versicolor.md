@@ -12,7 +12,7 @@ names:
   es: Mielero Versicolor
   fr: Méliphage versicolore
   de: Pirolhonigfresser
-  pt: varied honeyeater
+  pt: ''
   ru: Иволговый медосос
   ja: タテフミツスイ
   nl: Wielewaalhoningeter

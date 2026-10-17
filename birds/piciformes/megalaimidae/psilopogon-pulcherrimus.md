@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10734.0
 names:
   scientific: Psilopogon pulcherrimus
-  fa: nan
+  fa: ''
   en: Golden-naped Barbet
   es: Barbudo Elegante
   fr: Barbu élégant
   de: Prachtbartvogel
-  pt: golden-naped barbet
+  pt: ''
   ru: Синелицый бородастик
   ja: キエリゴシキドリ
   nl: Goudnekbaardvogel

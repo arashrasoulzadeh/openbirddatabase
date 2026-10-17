@@ -12,7 +12,7 @@ names:
   es: Newtonia Oscura
   fr: Newtonie sombre
   de: Olivbauchvanga
-  pt: dark newtonia
+  pt: ''
   ru: Тёмная ньютония
   ja: ホオアカニュートンヒタキ
   nl: Groene newtonia

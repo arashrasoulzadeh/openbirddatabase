@@ -12,7 +12,7 @@ names:
   es: Tejedor de El Cabo
   fr: Tisserin du Cap
   de: Kapweber
-  pt: cape weaver
+  pt: ''
   ru: Капский ткач
   ja: ケープハタオリ
   zh: 南非織雀

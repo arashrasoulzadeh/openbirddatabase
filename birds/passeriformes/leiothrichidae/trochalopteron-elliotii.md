@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26464.0
 names:
   scientific: Trochalopteron elliotii
-  fa: nan
+  fa: ''
   en: Elliot's Laughingthrush
   es: Charlatán de Elliot
   fr: Garrulaxe d'Elliot
   de: Elliothäherling
-  pt: elliot's laughingthrush
+  pt: ''
   ru: Сычуаньская кустарница
   ja: カキハガビチョウ
   zh: 橙翅噪鹛

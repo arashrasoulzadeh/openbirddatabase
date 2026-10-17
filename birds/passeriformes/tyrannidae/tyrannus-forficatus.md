@@ -12,7 +12,7 @@ names:
   es: Tijereta Rosada
   fr: Tyran à longue queue
   de: Scherenschwanz-Königstyrann
-  pt: scissor-tailed flycatcher
+  pt: ''
   ru: Длиннохвостый тиранн
   ja: エンビタイランチョウ
   zh: 剪尾王霸鹟

@@ -12,7 +12,7 @@ names:
   es: Picoplano Rabón
   fr: Platyrhynque à queue courte
   de: Kurzschwanz-Spatelschnabeltyrann
-  pt: stub-tailed spadebill
+  pt: ''
   ru: Короткохвостый плоскоклюв
   ja: メジロヒラハシタイランチョウ
   nl: Kortstaartbreedbektiran

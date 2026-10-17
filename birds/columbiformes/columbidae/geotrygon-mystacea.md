@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2323.0
 names:
   scientific: Geotrygon mystacea
-  fa: nan
+  fa: ''
   en: Bridled Quail-Dove
   es: Paloma Perdiz de Martinica
   fr: Colombe à croissants
   de: Schnurrbarttaube
-  pt: bridled quail-dove
+  pt: ''
   ru: Усатая перепелиная горлица
   ja: オオテリハウズラバト
   zh: 绿颈鹑鸠

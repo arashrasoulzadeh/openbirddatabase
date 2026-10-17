@@ -12,7 +12,7 @@ names:
   es: Perico Nocturno
   fr: Perruche nocturne
   de: Höhlensittich
-  pt: night parrot
+  pt: ''
   ru: Ночной попугайчик
   ja: ヒメフクロウインコ
   zh: 夜鸚鵡

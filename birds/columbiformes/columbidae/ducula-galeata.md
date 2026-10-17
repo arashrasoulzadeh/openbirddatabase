@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2786.0
 names:
   scientific: Ducula galeata
-  fa: nan
+  fa: ''
   en: Nuku Hiva Imperial Pigeon
   es: Dúcula de las Marquesas
   fr: Carpophage des Marquises
@@ -15,7 +15,7 @@ names:
   pt: nuku hiva imperial-pigeon
   ru: Маркизский плодовый голубь
   ja: マルケサスコブバト
-  zh: Nuku Hiva Imperial Pigeon
+  zh: ''
   nl: Nuku-Hivamuskaatduif
   pl: muszkatela płaskodzioba
   tr: Markiz Adaları Has Güvercini

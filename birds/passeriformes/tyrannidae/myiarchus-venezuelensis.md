@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17307.0
 names:
   scientific: Myiarchus venezuelensis
-  fa: nan
+  fa: ''
   en: Venezuelan Flycatcher
   es: Copetón Venezolano
   fr: Tyran du Venezuela
   de: Venezuelaschopftyrann
-  pt: venezuelan flycatcher
+  pt: ''
   ru: Венесуэльский миарх
   ja: ベネズエラヒタキモドキ
   zh: 委内瑞拉蝇霸鹟

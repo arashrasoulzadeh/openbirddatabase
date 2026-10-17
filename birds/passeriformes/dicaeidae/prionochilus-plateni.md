@@ -12,7 +12,7 @@ names:
   es: Picaflores de Palawan
   fr: Dicée de Palawan
   de: Palawanmistelfresser
-  pt: palawan flowerpecker
+  pt: ''
   ru: Палаванский цветоед
   ja: パラワンハナドリモドキ
   zh: 巴拉望啄花鸟

@@ -15,7 +15,7 @@ names:
   pt: canário-do-brejo
   ru: Серощёкая колудито
   ja: ヒメクサビオノジコ
-  zh: Lesser Grass Finch
+  zh: ''
   nl: Kleine grasgors
   pl: trznadlówka mała
   tr: Küçük Otlak İspinozu

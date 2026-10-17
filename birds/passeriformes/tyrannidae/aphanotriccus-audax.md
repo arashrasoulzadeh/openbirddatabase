@@ -12,7 +12,7 @@ names:
   es: Mosquero Piquinegro
   fr: Moucherolle à bec noir
   de: Schwarzschnabel-Schnäppertyrann
-  pt: black-billed flycatcher
+  pt: ''
   ru: Черноклювый мухолов
   ja: ハシグロハエトリ
   nl: Nelsontiran

@@ -12,7 +12,7 @@ names:
   es: Vencejo de Nyanza
   fr: Martinet du Nyanza
   de: Braunsegler
-  pt: nyanza swift
+  pt: ''
   ru: Бурый стриж
   ja: ススイロアマツバメ
   nl: Nyanzagierzwaluw

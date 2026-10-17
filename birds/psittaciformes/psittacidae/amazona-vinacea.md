@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 12902.0
 names:
   scientific: Amazona vinacea
-  fa: nan
+  fa: ''
   en: Vinaceous-breasted Amazon
   es: Amazona Vinosa
   fr: Amazone vineuse

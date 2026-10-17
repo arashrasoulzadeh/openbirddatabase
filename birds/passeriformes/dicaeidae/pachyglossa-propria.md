@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29973.0
 names:
   scientific: Pachyglossa propria
-  fa: nan
+  fa: ''
   en: Whiskered Flowerpecker
   es: Picaflores Bigotudo
   fr: Dicée à poitrine grise
   de: Graubrust-Mistelfresser
-  pt: whiskered flowerpecker
+  pt: ''
   ru: Усатый цветоед
   ja: シラヒゲハナドリ
   nl: Grijsborsthoningvogel

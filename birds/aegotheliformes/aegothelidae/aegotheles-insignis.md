@@ -12,7 +12,7 @@ names:
   es: Egotelo Grande
   fr: Grand Égothèle
   de: Käuzchenhöhlenschwalm
-  pt: feline owlet-nightjar
+  pt: ''
   ru: Рыжий совиный козодой
   ja: オオズクヨタカ
   nl: Rosse dwergnachtzwaluw

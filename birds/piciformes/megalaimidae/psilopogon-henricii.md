@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10735.0
 names:
   scientific: Psilopogon henricii
-  fa: nan
+  fa: ''
   en: Yellow-crowned Barbet
   es: Barbudo Coronigualdo
   fr: Barbu à sourcils jaunes
   de: Gelbscheitel-Bartvogel
-  pt: yellow-crowned barbet
+  pt: ''
   ru: Желтошапочный бородастик
   ja: キンカブリゴシキドリ
   nl: Geelkruinbaardvogel

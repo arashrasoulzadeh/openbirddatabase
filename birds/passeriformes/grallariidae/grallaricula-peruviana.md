@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14346.0
 names:
   scientific: Grallaricula peruviana
-  fa: nan
+  fa: ''
   en: Peruvian Antpitta
   es: Ponchito Peruano
   fr: Grallaire du Pérou
   de: Schmuckameisenpitta
-  pt: peruvian antpitta
+  pt: ''
   ru: Перуанская питтуля
   ja: ペルーヒメジアリドリ
   nl: Piuradwergmierpitta

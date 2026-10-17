@@ -12,7 +12,7 @@ names:
   es: Pingüino de Fiordland
   fr: Gorfou du Fiordland
   de: Dickschnabelpinguin
-  pt: fiordland penguin
+  pt: ''
   ru: Толстоклювый пингвин
   ja: キマユペンギン
   zh: 鳳冠企鵝

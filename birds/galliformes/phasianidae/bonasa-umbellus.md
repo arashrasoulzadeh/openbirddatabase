@@ -12,7 +12,7 @@ names:
   es: Grévol Engolado
   fr: Gélinotte huppée
   de: Kragenhuhn
-  pt: ruffed grouse
+  pt: ''
   ru: Воротничковый рябчик
   ja: エリマキライチョウ
   zh: 披肩榛雞

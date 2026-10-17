@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8300.0
 names:
   scientific: Astur melanoleucus
-  fa: nan
+  fa: ''
   en: Black Sparrowhawk
   es: Azor Blanquinegro
   fr: Autour noir
@@ -15,7 +15,7 @@ names:
   pt: black goshawk
   ru: Чёрно-белый ястреб
   ja: オオハイタカ
-  zh: Black Sparrowhawk
+  zh: ''
   nl: Zwarte havik
   pl: jastrząb czarno-biały
   tr: Kara Atmaca

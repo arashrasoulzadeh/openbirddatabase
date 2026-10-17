@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Frentirrufo
   fr: Couturière à front roux
   de: Kastanienstirn-Schneidervogel
-  pt: rufous-fronted tailorbird
+  pt: ''
   ru: Краснолобая портниха
   ja: アカビタイサイホウチョウ
   zh: 吕宋缝叶莺

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9702.0
 names:
   scientific: Bycanistes cylindricus
-  fa: nan
+  fa: ''
   en: Brown-cheeked Hornbill
   es: Cálao Caripardo
   fr: Calao à joues brunes
   de: Braunwangen-Hornvogel
-  pt: brown-cheeked hornbill
+  pt: ''
   ru: Бурощёкий шлеморог
   ja: モモグロサイチョウ
   nl: Bruinoorneushoornvogel

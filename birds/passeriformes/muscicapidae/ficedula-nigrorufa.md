@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29509.0
 names:
   scientific: Ficedula nigrorufa
-  fa: nan
+  fa: ''
   en: Black-and-orange Flycatcher
   es: Papamoscas Rufinegro
   fr: Gobemouche orange et noir
   de: Orangeschnäpper
-  pt: black-and-orange flycatcher
+  pt: ''
   ru: Чёрно-рыжая мухоловка
   ja: クロアカヒタキ
   zh: 黑棕姬鹟

@@ -12,7 +12,7 @@ names:
   es: Urogallo Piquinegro
   fr: Tétras à bec noir
   de: Steinauerhuhn
-  pt: black-billed capercaillie
+  pt: ''
   ru: Каменный глухарь
   ja: オオライチョウ
   zh: 黑嘴松鸡

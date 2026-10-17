@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13301.0
 names:
   scientific: Philepitta schlegeli
-  fa: nan
+  fa: ''
   en: Schlegel's Asity
   es: Filepita de Schlegel
   fr: Philépitte de Schlegel
   de: Gelbbauchjala
-  pt: schlegel's asity
+  pt: ''
   ru: Желтобрюхая филепитта
   ja: キイロマミヤイロチョウ
   zh: 施氏裸眉鸫

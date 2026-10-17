@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26119.0
 names:
   scientific: Stachyris roberti
-  fa: nan
+  fa: ''
   en: Cachar Wedge-billed Babbler
   es: Ratina Picocuña Oriental
   fr: Timalie de Robert
   de: Schuppenbuschtimalie
-  pt: cachar wedge-billed babbler
+  pt: ''
   ru: Чешуегрудая клиноклювка
   ja: チャイロキリハシチメドリ
   nl: Oostelijke wigsnaveltimalia

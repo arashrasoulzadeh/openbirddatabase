@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 20845.0
 names:
   scientific: Carterornis castus
-  fa: nan
+  fa: ''
   en: Tanimbar Monarch
   es: Monarca de las Tanimbar
   fr: Monarque des Tanimbar
   de: Tanimbarmonarch
-  pt: tanimbar monarch
+  pt: ''
   ja: ヤムデナカササギビタキ
   nl: Loetoemonarch
   pl: monarka tanimbarska

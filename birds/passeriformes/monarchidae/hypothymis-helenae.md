@@ -12,7 +12,7 @@ names:
   es: Monarca de Helena
   fr: Tchitrec d'Hélène
   de: Helenamonarch
-  pt: short-crested monarch
+  pt: ''
   ru: Лазурный монарх
   ja: フジイロヒタキ
   zh: 短冠王鶲

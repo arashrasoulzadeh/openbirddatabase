@@ -12,7 +12,7 @@ names:
   es: Albatros de Isla Laysan
   fr: Albatros de Laysan
   de: Laysanalbatros
-  pt: laysan albatross
+  pt: ''
   ru: Темноспинный альбатрос
   ja: コアホウドリ
   zh: 黑背信天翁

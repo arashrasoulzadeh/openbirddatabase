@@ -12,7 +12,7 @@ names:
   es: Monarca Pizarroso
   fr: Monarque schistacé
   de: Vanikoromonarch
-  pt: vanikoro monarch
+  pt: ''
   ru: Ваникорская майрия
   ja: サンタクルーズヒタキ
   nl: Vanikoromonarch

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16157.0
 names:
   scientific: Neopipo cinnamomea
-  fa: nan
+  fa: ''
   en: Cinnamon Neopipo
   es: Mosquerito Canelo
   fr: Néopipo cannelle
@@ -15,7 +15,7 @@ names:
   pt: enferrujadinho
   ru: Манакиновый мухолов
   ja: ニッケイマイコドリ
-  zh: Cinnamon Neopipo
+  zh: ''
   nl: Kaneelmanakin
   pl: cynamotyranik
   tr: Tarçın Rengi Neopipo

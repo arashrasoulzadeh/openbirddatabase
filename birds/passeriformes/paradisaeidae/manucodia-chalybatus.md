@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Metálica
   fr: Paradisier vert
   de: Stahlparadieskrähe
-  pt: crinkle-collared manucode
+  pt: ''
   ru: Вороная манукодия
   ja: アオムネカラスフウチョウ
   nl: Ruwhalsparadijskraai

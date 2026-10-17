@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29237.0
 names:
   scientific: Cossypha heinrichi
-  fa: nan
+  fa: ''
   en: White-headed Robin-Chat
   es: Cosifa Cabeciblanca
   fr: Cossyphe à tête blanche
   de: Weißkopfrötel
-  pt: white-headed robin-chat
+  pt: ''
   ru: Белоголовый рыжехвост
   ja: シロガシラツグミヒタキ
   nl: Witkoplawaaimaker

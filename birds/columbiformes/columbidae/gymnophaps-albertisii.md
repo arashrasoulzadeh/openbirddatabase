@@ -15,7 +15,7 @@ names:
   pt: papuan mountain-pigeon
   ru: Новогвинейский голубь
   ja: アカメミヤマバト
-  zh: Papuan Mountain Pigeon
+  zh: ''
   nl: Nieuw-Guinese bergduif
   pl: krasnook ciemnogłowy
   tr: Papua Dağ Güvercini

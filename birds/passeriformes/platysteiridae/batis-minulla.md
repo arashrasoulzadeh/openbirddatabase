@@ -12,7 +12,7 @@ names:
   es: Batis Angoleño
   fr: Pririt d'Angola
   de: Angolaschnäpper
-  pt: angola batis
+  pt: ''
   ru: Ангольский батис
   ja: アンゴラセワタビタキ
   nl: Angolese vliegenvanger

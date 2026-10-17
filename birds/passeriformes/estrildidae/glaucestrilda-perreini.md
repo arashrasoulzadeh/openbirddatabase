@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 31275.0
 names:
   scientific: Glaucestrilda perreini
-  fa: nan
+  fa: ''
   en: Grey Waxbill
   es: Estrilda Colinegra
   fr: Astrild à queue noire
@@ -14,7 +14,7 @@ names:
   pt: black-tailed waxbill
   ru: Чернохвостый астрильд
   ja: オグロアサギリチョウ
-  zh: Grey Waxbill
+  zh: ''
   nl: Zwartstaartastrild
   pl: astryld czarnosterny
   tr: Kara Kuyruklu Mumgaga

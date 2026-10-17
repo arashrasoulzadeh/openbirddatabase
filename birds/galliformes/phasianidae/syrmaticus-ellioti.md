@@ -12,7 +12,7 @@ names:
   es: Faisán de Elliot
   fr: Faisan d'Elliot
   de: Elliotfasan
-  pt: elliot's pheasant
+  pt: ''
   ru: Пёстрый фазан
   ja: カラヤマドリ
   zh: 白颈长尾雉

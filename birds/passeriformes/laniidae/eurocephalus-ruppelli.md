@@ -15,7 +15,7 @@ names:
   pt: white-rumped shrike
   ru: Белобрюхий сорокопут
   ja: キタシロズキンヤブモズ
-  zh: Northern White-crowned Shrike
+  zh: ''
   nl: Noordelijke witkruinklauwier
   pl: białoczub białorzytny
   tr: Ak Sokumlu Örümcekkuşu

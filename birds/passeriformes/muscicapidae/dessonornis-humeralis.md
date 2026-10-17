@@ -12,7 +12,7 @@ names:
   es: Cosifa Gorjiblanca
   fr: Cossyphe à gorge blanche
   de: Weißkehlrötel
-  pt: white-throated robin-chat
+  pt: ''
   ru: Белогорлый рыжехвост
   ja: ノドジロツグミヒタキ
   nl: Witkeellawaaimaker

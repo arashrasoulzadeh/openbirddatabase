@@ -15,7 +15,7 @@ names:
   pt: greater bluebonnet
   ru: Кровавобрюхий попугайчик
   ja: ハナガサインコ
-  zh: Eastern Bluebonnet
+  zh: ''
   nl: Roodbuikparkiet
   pl: świergotka ognistobrzucha
   tr: Mavi Yüzlü Papağan

@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 29979.0
 names:
   scientific: Dicaeum dayakorum
-  fa: nan
+  fa: ''
   en: Spectacled Flowerpecker
   es: Picaflores Especulado
   fr: Dicée à lunettes
   de: Dayakmistelfresser
-  pt: spectacled flowerpecker
+  pt: ''
   ru: Даякский цветоед
   ja: メガネハナドリ
   zh: 眼鏡啄花鳥

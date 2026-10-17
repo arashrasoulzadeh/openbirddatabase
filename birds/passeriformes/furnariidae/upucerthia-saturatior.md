@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15071.0
 names:
   scientific: Upucerthia saturatior
-  fa: nan
+  fa: ''
   en: Patagonian Forest Earthcreeper
   es: Bandurrita Saturada
   fr: Upucerthie de forêt
   de: Dunkelrücken-Erdhacker
-  pt: patagonian forest earthcreeper
+  pt: ''
   ru: Патагонский норник
   ja: パタゴニアモリカマハシカマドドリ
   nl: Patagonische bosaardkruiper

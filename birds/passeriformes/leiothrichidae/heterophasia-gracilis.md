@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26513.0
 names:
   scientific: Heterophasia gracilis
-  fa: nan
+  fa: ''
   en: Grey Sibia
   es: Sibia Gris
   fr: Garrulaxe gris

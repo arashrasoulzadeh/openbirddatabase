@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16428.0
 names:
   scientific: Todirostrum poliocephalum
-  fa: nan
+  fa: ''
   en: Yellow-lored Tody-Flycatcher
   es: Titirijí Cabecigrís
   fr: Todirostre à tête grise
@@ -15,7 +15,7 @@ names:
   pt: teque-teque
   ru: Сероголовый тоди-мухолов
   ja: ハイガシラタイランチョウ
-  zh: Yellow-lored Tody-Flycatcher
+  zh: ''
   nl: Grijskopschoffelsnavel
   pl: klinodziobek żółtokantarowy
   tr: Kurşuni Todi Sinekkapanı

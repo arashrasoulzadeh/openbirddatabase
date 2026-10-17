@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30499.0
 names:
   scientific: Cinnyris comorensis
-  fa: nan
+  fa: ''
   en: Anjouan Sunbird
   es: Suimanga de Anjouan
   fr: Souimanga d'Anjouan
   de: Anjouannektarvogel
-  pt: anjouan sunbird
+  pt: ''
   ru: Анжуанская нектарница
   ja: アンジュアンタイヨウチョウ
   nl: Anjouanhoningzuiger

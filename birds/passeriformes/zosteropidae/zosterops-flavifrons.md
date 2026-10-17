@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25813.0
 names:
   scientific: Zosterops flavifrons
-  fa: nan
+  fa: ''
   en: Vanuatu White-eye
   es: Anteojitos Frentigualdo
   fr: Zostérops à front jaune
@@ -15,7 +15,7 @@ names:
   pt: yellow-fronted white-eye
   ru: Вануатская белоглазка
   ja: キビタイメジロ
-  zh: Vanuatu White-eye
+  zh: ''
   nl: Vanuatubrilvogel
   pl: szlarnik żółtoczelny
   tr: Vanuatu Gözlükçüsü

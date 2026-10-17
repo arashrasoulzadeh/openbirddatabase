@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10967.0
 names:
   scientific: Indicator willcocksi
-  fa: nan
+  fa: ''
   en: Willcocks's Honeyguide
   es: Indicador de Willcocks
   fr: Indicateur de Willcocks
   de: Guineahoniganzeiger
-  pt: willcocks's honeyguide
+  pt: ''
   ru: Гвинейский медоуказчик
   ja: ニシマメミツオシエ
   nl: Willcockshoningspeurder

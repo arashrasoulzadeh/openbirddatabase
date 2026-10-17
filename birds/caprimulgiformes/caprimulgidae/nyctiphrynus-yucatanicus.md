@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3583.0
 names:
   scientific: Nyctiphrynus yucatanicus
-  fa: nan
+  fa: ''
   en: Yucatan Poorwill
   es: Chotacabras Yucateco
   fr: Engoulevent du Yucatan
   de: Yucatánnachtschwalbe
-  pt: yucatan poorwill
+  pt: ''
   ru: Юкатанский козодой
   ja: ユカタンヨタカ
   zh: 尤卡坦耳夜鹰

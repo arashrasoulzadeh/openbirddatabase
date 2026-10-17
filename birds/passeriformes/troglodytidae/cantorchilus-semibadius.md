@@ -12,7 +12,7 @@ names:
   es: Cucarachero Ribereño
   fr: Troglodyte des ruisseaux
   de: Uferzaunkönig
-  pt: riverside wren
+  pt: ''
   ru: Речной крапивник
   ja: カワマユミソサザイ
   nl: Oeverwinterkoning

@@ -12,7 +12,7 @@ names:
   es: Golondrina de las Bahamas
   fr: Hirondelle des Bahamas
   de: Bahamaschwalbe
-  pt: bahama swallow
+  pt: ''
   ru: Багамская ласточка
   ja: バハマツバメ
   zh: 巴哈馬樹燕

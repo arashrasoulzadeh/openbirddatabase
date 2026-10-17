@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14267.0
 names:
   scientific: Grallaria rufocinerea
-  fa: nan
+  fa: ''
   en: Bicolored Antpitta
   es: Tororoí Bicolor
   fr: Grallaire bicolore
   de: Zweifarben-Ameisenpitta
-  pt: bicolored antpitta
+  pt: ''
   ru: Рыжеголовая питтовая муравьеловка
   ja: ニショクジアリドリ
   nl: Tweekleurige mierpitta

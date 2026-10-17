@@ -15,7 +15,7 @@ names:
   pt: auckland islands teal
   ru: Оклендский чирок
   ja: クリイロコガモ
-  zh: Auckland Teal
+  zh: ''
   nl: Aucklandtaling
   pl: cyraneczka auklandzka
   tr: Aukland Patekesi

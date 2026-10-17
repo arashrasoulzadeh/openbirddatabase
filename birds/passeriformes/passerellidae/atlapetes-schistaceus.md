@@ -15,7 +15,7 @@ names:
   pt: northern slaty brushfinch
   ru: Серогрудая атлапета
   ja: ウスグロヤブシトド
-  zh: Slaty Brushfinch
+  zh: ''
   nl: Grijsborststruikgors
   pl: zaroślak ciemny
   tr: Arduvaz Çalı Serçesi

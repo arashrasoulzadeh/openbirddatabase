@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32175.0
 names:
   scientific: Carpodacus formosanus
-  fa: nan
+  fa: ''
   en: Taiwan Rosefinch
   es: Camachuelo de Formosa
   fr: Roselin de Taïwan
   de: Formosagimpel
-  pt: taiwan rosefinch
+  pt: ''
   ru: Тайваньская чечевица
   ja: タイワンマシコ
   zh: 台湾酒红朱雀

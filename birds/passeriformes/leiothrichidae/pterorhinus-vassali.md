@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26778.0
 names:
   scientific: Pterorhinus vassali
-  fa: nan
+  fa: ''
   en: White-cheeked Laughingthrush
   es: Charlatán Cariblanco
   fr: Garrulaxe de Vassal
   de: Schwarzohrhäherling
-  pt: white-cheeked laughingthrush
+  pt: ''
   ru: Черноухая кустарница
   ja: ホオジロガビチョウ
   zh: 白脸噪鹛

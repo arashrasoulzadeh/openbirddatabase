@@ -15,7 +15,7 @@ names:
   pt: gray-bellied comet
   ru: Серобрюхий сильф
   ja: オナガハチドリ
-  zh: Grey-bellied Comet
+  zh: ''
   nl: Grijsbuikkomeetkolibrie
   pl: komecik szarobrzuchy
   tr: Gri Karınlı Peri

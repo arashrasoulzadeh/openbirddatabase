@@ -12,7 +12,7 @@ names:
   es: Perdigallo Altaico
   fr: Tétraogalle de l'Altaï
   de: Altaikönigshuhn
-  pt: altai snowcock
+  pt: ''
   ru: Алтайский улар
   ja: アルタイセッケイ
   zh: 阿尔泰雪鸡

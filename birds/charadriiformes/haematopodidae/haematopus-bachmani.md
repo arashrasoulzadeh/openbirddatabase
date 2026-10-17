@@ -12,7 +12,7 @@ names:
   es: Ostrero Negro Norteamericano
   fr: Huîtrier de Bachman
   de: Klippenausternfischer
-  pt: black oystercatcher
+  pt: ''
   ru: Чёрный кулик-сорока
   ja: クロミヤコドリ
   zh: 美洲黑蛎鹬

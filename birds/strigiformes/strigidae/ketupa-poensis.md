@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8962.0
 names:
   scientific: Ketupa poensis
-  fa: nan
+  fa: ''
   en: Fraser's Eagle-Owl
   es: Búho de Guinea
   fr: Grand-duc à aigrettes
   de: Guineauhu
-  pt: fraser's eagle-owl
+  pt: ''
   ru: Гвинейский филин
   ja: コヨコジマワシミミズク
   nl: Kleine oehoe

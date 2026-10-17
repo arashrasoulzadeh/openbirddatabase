@@ -12,7 +12,7 @@ names:
   es: Pito de Okinawa
   fr: Pic d'Okinawa
   de: Okinawaspecht
-  pt: okinawa woodpecker
+  pt: ''
   ru: Окинавский дятел
   ja: ノグチゲラ
   zh: 野口啄木鳥

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13533.0
 names:
   scientific: Thamnophilus shumbae
-  fa: nan
+  fa: ''
   en: Maranon Antshrike
   es: Batará del Marañón
   fr: Batara de Shumba

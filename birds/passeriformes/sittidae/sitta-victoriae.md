@@ -12,7 +12,7 @@ names:
   es: Trepador Birmano
   fr: Sittelle du Victoria
   de: Weißbrauenkleiber
-  pt: white-browed nuthatch
+  pt: ''
   ru: Белобровый поползень
   ja: マミジロゴジュウカラ
   nl: Witbrauwboomklever

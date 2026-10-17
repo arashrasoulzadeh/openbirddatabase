@@ -12,7 +12,7 @@ names:
   es: Avefría Andina
   fr: Vanneau des Andes
   de: Andenkiebitz
-  pt: andean lapwing
+  pt: ''
   ru: Андский чибис
   ja: アンデスツメバゲリ
   zh: 安第斯麦鸡

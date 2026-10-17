@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35782.0
 names:
   scientific: Saltatricula atricollis
-  fa: nan
+  fa: ''
   en: Black-throated Saltator
   es: Pepitero Gorjinegro
   fr: Saltator à gorge noire

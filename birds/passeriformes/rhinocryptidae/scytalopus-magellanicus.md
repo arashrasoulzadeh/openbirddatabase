@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14402.0
 names:
   scientific: Scytalopus magellanicus
-  fa: nan
+  fa: ''
   en: Magellanic Tapaculo
   es: Churrín Magallánico
   fr: Mérulaxe des Andes
   de: Magellantapaculo
-  pt: magellanic tapaculo
+  pt: ''
   ru: Магелланов тапакуло
   ja: タンビオタテドリ
   nl: Magelhaentapaculo

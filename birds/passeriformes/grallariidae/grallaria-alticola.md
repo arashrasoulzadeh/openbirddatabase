@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14285.0
 names:
   scientific: Grallaria alticola
-  fa: nan
+  fa: ''
   en: Boyaca Antpitta
   es: Tororoí Leonado Norteño
   fr: Grallaire alticole
   de: Ockerwangen-Ameisenpitta
-  pt: boyaca antpitta
+  pt: ''
   nl: Boyacamierpitta
   pl: kusaczka turniowa
   tr: Boyaka Yerçavuşu

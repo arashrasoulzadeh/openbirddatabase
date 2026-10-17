@@ -12,7 +12,7 @@ names:
   es: Avelira de Alberto
   fr: Ménure d'Albert
   de: Braunrücken-Leierschwanz
-  pt: albert's lyrebird
+  pt: ''
   ru: Альбертов лирохвост
   ja: アルバートコトドリ
   zh: 艾氏琴鸟

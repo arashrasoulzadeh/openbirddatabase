@@ -12,7 +12,7 @@ names:
   es: Pardela de Isla Rapa
   fr: Puffin de Rapa
   de: Rapasturmtaucher
-  pt: rapa shearwater
+  pt: ''
   ru: Табуайский буревестник
   ja: ラパセグロミズナギドリ
   nl: Rapapijlstormvogel

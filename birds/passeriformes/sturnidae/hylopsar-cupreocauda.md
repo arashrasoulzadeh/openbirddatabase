@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27945.0
 names:
   scientific: Hylopsar cupreocauda
-  fa: nan
+  fa: ''
   en: Copper-tailed Starling
   es: Estornino Colicobrizo
   fr: Choucador à queue bronzée
   de: Kupferglanzstar
-  pt: copper-tailed starling
+  pt: ''
   ru: Медный спрео
   ja: ドウイロテリムク
   nl: Koperstaartglansspreeuw

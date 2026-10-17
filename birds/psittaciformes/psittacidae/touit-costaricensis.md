@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12796.0
 names:
   scientific: Touit costaricensis
-  fa: nan
+  fa: ''
   en: Red-fronted Parrotlet
   es: Cotorrita Costarricense
   fr: Toui du Costa Rica
   de: Costa-Rica-Papagei
-  pt: red-fronted parrotlet
+  pt: ''
   ru: Краснолобый туети
   ja: アカビタイイロオインコ
   nl: Costaricaanse papegaai

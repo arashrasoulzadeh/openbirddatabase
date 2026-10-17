@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15697.0
 names:
   scientific: Chiroxiphia bokermanni
-  fa: nan
+  fa: ''
   en: Araripe Manakin
   es: Saltarín de Araripe
   fr: Manakin de Bokermann

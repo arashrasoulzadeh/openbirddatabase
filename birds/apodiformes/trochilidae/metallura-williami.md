@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4552.0
 names:
   scientific: Metallura williami
-  fa: nan
+  fa: ''
   en: Viridian Metaltail
   es: Metalura Verde
   fr: Métallure verte
   de: Grünglanzschwänzchen
-  pt: viridian metaltail
+  pt: ''
   ru: Зелёный металлохвост
   ja: キンミドリテリオハチドリ
   zh: 翠绿辉尾蜂鸟

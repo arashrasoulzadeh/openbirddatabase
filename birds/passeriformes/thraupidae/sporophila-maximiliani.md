@@ -15,7 +15,7 @@ names:
   pt: bicudo
   ru: Серебристоклювый просяночник
   ja: ハシブトコメワリ
-  zh: Great-billed Seed Finch
+  zh: ''
   nl: Grootsnavelzaadkraker
   pl: ryżołusk wielkodzioby
   tr: Maximilian Koca Tohumculu

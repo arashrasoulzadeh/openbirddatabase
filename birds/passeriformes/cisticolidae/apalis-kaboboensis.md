@@ -12,7 +12,7 @@ names:
   es: Apalis del Kabobo
   fr: Apalis du Kabobo
   de: Kabobofeinsänger
-  pt: kabobo apalis
+  pt: ''
   ru: Аспидный апалис
   ja: カボボイロムシクイ
   nl: Kaboboapalis

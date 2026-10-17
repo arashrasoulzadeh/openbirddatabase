@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1681.0
 names:
   scientific: Scleroptila afra
-  fa: nan
+  fa: ''
   en: Grey-winged Francolin
   es: Francolín Aligrís
   fr: Francolin à ailes grises
@@ -15,7 +15,7 @@ names:
   pt: gray-winged francolin
   ru: Серокрылый франколин
   ja: ハイバネシャコ
-  zh: Grey-winged Francolin
+  zh: ''
   nl: Grijsvleugelfrankolijn
   pl: frankolin szaroskrzydły
   tr: Yayla Turacı

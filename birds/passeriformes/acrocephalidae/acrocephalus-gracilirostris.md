@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23690.0
 names:
   scientific: Acrocephalus gracilirostris
-  fa: nan
+  fa: ''
   en: Lesser Swamp Warbler
   es: Carricero Picofino
   fr: Rousserolle à bec fin
   de: Kaprohrsänger
-  pt: lesser swamp warbler
+  pt: ''
   ru: Капская камышовка
   ja: アシナガヨシキリ
   zh: 细嘴苇莺

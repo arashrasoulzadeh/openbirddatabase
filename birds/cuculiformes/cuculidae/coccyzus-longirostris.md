@@ -15,7 +15,7 @@ names:
   pt: hispaniolan lizard-cuckoo
   ru: Гаитянская пиайя
   ja: ヒスパニオラトゲカッコウ
-  zh: Hispaniolan Lizard Cuckoo
+  zh: ''
   nl: Hispaniolahagediskoekoek
   pl: jaszczurkojad szary
   tr: Hispanyola Kertenkele Guguğu

@@ -15,7 +15,7 @@ names:
   pt: andorinha-riça
   ru: Гвинейская ласточка
   ja: ミドリクロツバメ
-  zh: Fanti Saw-wing
+  zh: ''
   nl: Fantikamzwaluw
   pl: żałobniczka widłosterna
   tr: Fanti Kırlangıcı

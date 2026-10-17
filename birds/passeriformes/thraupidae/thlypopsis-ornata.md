@@ -12,7 +12,7 @@ names:
   es: Tangara Pechicanela
   fr: Tangara à flancs roux
   de: Zimtbrusttangare
-  pt: rufous-chested tanager
+  pt: ''
   ru: Оранжевая пипира
   ja: ムネアカフウキンチョウ
   nl: Kaneelborsttangare

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33035.0
 names:
   scientific: Arremon perijanus
-  fa: nan
+  fa: ''
   en: Perija Brushfinch
   es: Cerquero del Perijá
   fr: Tohi de la Perija
   de: Perijábuschammer
-  pt: perija brushfinch
+  pt: ''
   ru: Перихский тохи
   ja: ペリハヤブシトド
   nl: Perijastruikgors

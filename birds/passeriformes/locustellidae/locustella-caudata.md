@@ -12,7 +12,7 @@ names:
   es: Zarzalero Colilargo
   fr: Locustelle à longue queue
   de: Langschwanzschwirl
-  pt: long-tailed bush warbler
+  pt: ''
   ru: Длиннохвостая пестрогрудка
   ja: オナガオウギセッカ
   nl: Langstaartstruikzanger

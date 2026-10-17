@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20316.0
 names:
   scientific: Rhipidura sulaensis
-  fa: nan
+  fa: ''
   en: Taliabu Fantail
   es: Abanico de Taliabu
   fr: Rhipidure des Sula
   de: Sulafächerschwanz
-  pt: taliabu fantail
+  pt: ''
   ru: Рыжебровая веерохвостка
   ja: タリアブオウギビタキ
   nl: Taliabuwaaierstaart

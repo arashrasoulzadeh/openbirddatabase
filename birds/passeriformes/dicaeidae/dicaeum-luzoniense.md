@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30096.0
 names:
   scientific: Dicaeum luzoniense
-  fa: nan
+  fa: ''
   en: Fire-throated Flowerpecker
   es: Picaflores de Luzón
   fr: Dicée de Luçon
   de: Feuerkehl-Mistelfresser
-  pt: fire-throated flowerpecker
+  pt: ''
   nl: Vlamkeelhoningvogel
   pl: kwiatówka ognistogardła
   tr: Filipin Alev Göğüslü Öksekuşu

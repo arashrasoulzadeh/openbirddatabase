@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 17993.0
 names:
   scientific: Myzomela batjanensis
-  fa: nan
+  fa: ''
   en: Bacan Myzomela
   es: Mielero de las Bacan
   fr: Myzomèle de Bacan
   de: Bacanhonigfresser
-  pt: bacan myzomela
+  pt: ''
   nl: Batjandwerghoningeter
   pl: miodówka szaropierśna
   tr: Baçan Mizomelası

@@ -12,7 +12,7 @@ names:
   es: Bienteveo Barbiblanco
   fr: Tyran des llanos
   de: Schwarzscheitel-Maskentyrann
-  pt: white-bearded flycatcher
+  pt: ''
   ru: Белобородая питанга-крошка
   ja: ノドジロハチマキヒタキモドキ
   zh: 白须短嘴霸鹟

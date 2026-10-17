@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Negra
   fr: Paradisier noir
   de: Glanzparadieskrähe
-  pt: glossy-mantled manucode
+  pt: ''
   ru: Блестящая манукодия
   ja: テリカラスフウチョウ
   nl: Glansparadijskraai

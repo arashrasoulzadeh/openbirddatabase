@@ -12,7 +12,7 @@ names:
   es: Pico de la Sonda
   fr: Pic nain
   de: Braunscheitelspecht
-  pt: sunda pygmy woodpecker
+  pt: ''
   ru: Зондский острокрылый дятел
   ja: マレーコゲラ
   zh: 巽他啄木鳥

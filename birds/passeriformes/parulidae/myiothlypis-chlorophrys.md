@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34324.0
 names:
   scientific: Myiothlypis chlorophrys
-  fa: nan
+  fa: ''
   en: Choco Warbler
   es: Reinita del Chocó
   fr: Paruline du Choco
   de: Chocówaldsänger
-  pt: choco warbler
+  pt: ''
   ru: Чокский певун
   ja: チョコアメリカムシクイ
   nl: Chocozanger

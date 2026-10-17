@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18763.0
 names:
   scientific: Coracina parvula
-  fa: nan
+  fa: ''
   en: Halmahera Cuckooshrike
   es: Oruguero de Halmahera
   fr: Échenilleur d'Halmahera
   de: Halmaheraraupenfänger
-  pt: halmahera cuckooshrike
+  pt: ''
   ru: Хальмахерский цикадник
   ja: ハルマヘラオオサンショウクイ
   zh: 哈岛鹃鵙

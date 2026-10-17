@@ -12,7 +12,7 @@ names:
   es: Minivet Encendido
   fr: Minivet flamboyant
   de: Feuermennigvogel
-  pt: fiery minivet
+  pt: ''
   ru: Пламенный личинкоед
   ja: コベニサンショウクイ
   zh: 火紅山椒鳥

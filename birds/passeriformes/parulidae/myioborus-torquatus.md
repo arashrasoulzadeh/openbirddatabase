@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34382.0
 names:
   scientific: Myioborus torquatus
-  fa: nan
+  fa: ''
   en: Collared Whitestart
   es: Candelita Collareja
   fr: Paruline ceinturée
@@ -15,7 +15,7 @@ names:
   pt: collared redstart
   ru: Ошейниковая канделита
   ja: クビワアメリカムシクイ
-  zh: Collared Whitestart
+  zh: ''
   nl: Halsbandzanger
   pl: pleszówka przepasana
   tr: Kolyeli Ötleğen

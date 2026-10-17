@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 18830.0
 names:
   scientific: Lalage conjuncta
-  fa: nan
+  fa: ''
   en: Mussau Triller
   es: Oruguero de San Matías
   fr: Échenilleur des Saint-Matthias
   de: Mussauraupenfänger
-  pt: mussau triller
+  pt: ''
   ru: Бисмаркский личинкоед-свистун
   ja: ビスマークナキサンショウクイ
   nl: Sint-Matthiastriller

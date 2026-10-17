@@ -12,7 +12,7 @@ names:
   es: Toco de Von Der Decken
   fr: Calao de der Decken
   de: Von-der-Decken-Toko
-  pt: von der decken's hornbill
+  pt: ''
   ru: Саванный токо
   ja: セグロコサイチョウ
   zh: 德氏彎嘴犀鳥

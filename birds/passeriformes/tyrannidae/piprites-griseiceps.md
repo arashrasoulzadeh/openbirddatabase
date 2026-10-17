@@ -15,7 +15,7 @@ names:
   pt: gray-headed piprites
   ru: Сероголовая пиприта
   ja: メジロマイコドリ
-  zh: Grey-headed Piprites
+  zh: ''
   nl: Grijskopmanakin
   pl: krzykaczyk szarogłowy
   tr: Gri Başlı Piprit

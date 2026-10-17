@@ -12,7 +12,7 @@ names:
   es: Cuervo Sinaloense
   fr: Corneille du Sinaloa
   de: Sinaloakrähe
-  pt: sinaloa crow
+  pt: ''
   ru: Синалойская ворона
   ja: ニシメキシコガラス
   zh: 西納勞烏鴉

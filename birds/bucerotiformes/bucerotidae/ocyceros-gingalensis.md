@@ -15,7 +15,7 @@ names:
   pt: sri lanka gray hornbill
   ru: Цейлонский серый ток
   ja: スリランカコサイチョウ
-  zh: Sri Lanka Grey Hornbill
+  zh: ''
   nl: Ceylontok
   pl: dzioborożec cejloński
   tr: Seylan Boynuzgagası

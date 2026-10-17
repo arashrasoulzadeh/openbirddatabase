@@ -12,7 +12,7 @@ names:
   es: Tucanete Picosurcado
   fr: Toucanet à bec sillonné
   de: Blauzügelarassari
-  pt: groove-billed toucanet
+  pt: ''
   ru: Зелёный туканет
   ja: ミネアカミドリチュウハシ
   nl: Geeloogarassari

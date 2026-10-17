@@ -12,7 +12,7 @@ names:
   es: Trepatroncos Tiranino
   fr: Grimpar tyran
   de: Tyrannenbaumsteiger
-  pt: tyrannine woodcreeper
+  pt: ''
   ru: Дятловый древолаз
   ja: ミヤマコオニキバシリ
   nl: Tiranmuisspecht

@@ -12,7 +12,7 @@ names:
   es: Alondra Leonada
   fr: Alouette fauve
   de: Savannenlerche
-  pt: fawn-colored lark
+  pt: ''
   ru: Белобровый кустарниковый жаворонок
   ja: カレハヤブヒバリ
   nl: Savanneleeuwerik

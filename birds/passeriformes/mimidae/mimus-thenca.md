@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28070.0
 names:
   scientific: Mimus thenca
-  fa: nan
+  fa: ''
   en: Chilean Mockingbird
   es: Sinsonte Tenca
   fr: Moqueur du Chili
   de: Chilespottdrossel
-  pt: chilean mockingbird
+  pt: ''
   ru: Чилийский пересмешник
   ja: チリーマネシツグミ
   nl: Chileense spotlijster

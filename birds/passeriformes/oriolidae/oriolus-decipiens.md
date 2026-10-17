@@ -12,7 +12,7 @@ names:
   es: Oropéndola de las Tanimbar
   fr: Loriot des Tanimbar
   de: Tanimbarpirol
-  pt: tanimbar oriole
+  pt: ''
   ru: Танимбарская иволга
   ja: タニンバルコウライウグイス
   nl: Tanimbarwielewaal

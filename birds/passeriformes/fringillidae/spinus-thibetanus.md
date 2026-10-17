@@ -12,7 +12,7 @@ names:
   es: Jilguero Tibetano
   fr: Tarin du Tibet
   de: Himalajazeisig
-  pt: tibetan serin
+  pt: ''
   ru: Тибетский чиж
   ja: チベットヒワ
   zh: 藏黄雀

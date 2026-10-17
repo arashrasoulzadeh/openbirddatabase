@@ -15,7 +15,7 @@ names:
   pt: yellow-throated woodland-warbler
   ru: Рыжешапочная пеночка
   ja: キノドハヤシムシクイ
-  zh: Yellow-throated Woodland Warbler
+  zh: ''
   nl: Roodkruinboszanger
   pl: świstunka żółtogardła
   tr: Sarı Gerdanlı Çıvgın

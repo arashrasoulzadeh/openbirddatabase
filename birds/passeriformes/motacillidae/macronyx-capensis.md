@@ -15,7 +15,7 @@ names:
   pt: orange-throated longclaw
   ru: Капский шпорник
   ja: アカノドツメナガタヒバリ
-  zh: Cape Longclaw
+  zh: ''
   nl: Kaapse langklauw
   pl: szponnik rudobrewy
   tr: Kap İncirkuşu

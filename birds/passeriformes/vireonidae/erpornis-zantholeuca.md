@@ -12,7 +12,7 @@ names:
   es: Yuhina Ventriblanca
   fr: Erpornis à ventre blanc
   de: Haubenvireo
-  pt: white-bellied erpornis
+  pt: ''
   ru: Эрпорнис, зелёная ложноюхина
   ja: アオチメドリ
   zh: 白腹凤鹛

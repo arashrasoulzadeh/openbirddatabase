@@ -12,7 +12,7 @@ names:
   es: Monarca de Manus
   fr: Monarque triste
   de: Silberschwanzmonarch
-  pt: manus monarch
+  pt: ''
   ru: Белохвостый монарх
   ja: アドミラルチーカササギビタキ
   nl: Zilverstaartmonarch

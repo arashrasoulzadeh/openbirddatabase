@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11455.0
 names:
   scientific: Leuconotopicus fumigatus
-  fa: nan
+  fa: ''
   en: Smoky-brown Woodpecker
   es: Carpintero Ahumado
   fr: Pic enfumé
   de: Rußspecht
-  pt: smoky-brown woodpecker
+  pt: ''
   ru: Дымчатый дятел
   ja: ハゲラ
   nl: Roetspecht

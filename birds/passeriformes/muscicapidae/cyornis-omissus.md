@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Célebes
   fr: Gobemouche des Célèbes
   de: Sulawesiblauschnäpper
-  pt: sulawesi blue flycatcher
+  pt: ''
   ru: Сулавесская нильтава
   ja: スラウェシヒメアオヒタキ
   nl: Sulawesiniltava

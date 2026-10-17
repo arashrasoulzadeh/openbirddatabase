@@ -12,7 +12,7 @@ names:
   es: Zampullín del Atitlán
   fr: Grèbe de l'Atitlan
   de: Atitlantaucher
-  pt: atitlan grebe
+  pt: ''
   ru: Атитланская поганка
   ja: オオオビハシカイツブリ
   zh: 阿提特蘭鷿鷈

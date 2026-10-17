@@ -12,7 +12,7 @@ names:
   es: Hormiguero Moteado
   fr: Alapi grivelé
   de: Rotmantel-Ameisenwächter
-  pt: spotted antbird
+  pt: ''
   ru: Пятнистая муравьеловка
   ja: ズグロホシアリドリ
   zh: 点斑蚁鸟

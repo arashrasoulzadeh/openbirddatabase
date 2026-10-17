@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 752.0
 names:
   scientific: Mergellus albellus
-  fa: nan
+  fa: ''
   en: Smew
   es: Serreta Chica
   fr: Harle piette

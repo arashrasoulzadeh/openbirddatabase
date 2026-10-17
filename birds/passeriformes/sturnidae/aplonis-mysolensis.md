@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27745.0
 names:
   scientific: Aplonis mysolensis
-  fa: nan
+  fa: ''
   en: Moluccan Starling
   es: Estornino Moluqueño
   fr: Stourne des Moluques
   de: Molukkenstar
-  pt: moluccan starling
+  pt: ''
   ru: Молуккский скворец
   ja: モルッカカラスモドキ
   nl: Molukse purperspreeuw

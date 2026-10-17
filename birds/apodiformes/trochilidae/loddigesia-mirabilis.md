@@ -12,7 +12,7 @@ names:
   es: Colibrí Admirable
   fr: Loddigésie admirable
   de: Violettscheitel-Flaggensylphe
-  pt: marvelous spatuletail
+  pt: ''
   ru: Колибри-ракетохвост
   ja: オナガラケットハチドリ
   zh: 叉拍尾蜂鳥

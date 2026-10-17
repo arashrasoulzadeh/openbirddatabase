@@ -12,7 +12,7 @@ names:
   es: Colinegro Indio
   fr: Traquet bistré
   de: Braunsteinschmätzer
-  pt: brown rock chat
+  pt: ''
   ru: Бурая чернохвостка
   ja: チャイロイワビタキ
   zh: 褐岩䳭

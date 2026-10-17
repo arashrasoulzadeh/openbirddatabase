@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35069.0
 names:
   scientific: Tangara velia
-  fa: nan
+  fa: ''
   en: Opal-rumped Tanager
   es: Tangara Velia
   fr: Calliste varié

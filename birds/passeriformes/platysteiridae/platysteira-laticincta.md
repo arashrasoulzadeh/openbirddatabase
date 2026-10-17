@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 19846.0
 names:
   scientific: Platysteira laticincta
-  fa: nan
+  fa: ''
   en: Banded Wattle-eye
   es: Batis Carunculado de Bamenda
   fr: Pririt de Bamenda
   de: Bandlappenschnäpper
-  pt: banded wattle-eye
+  pt: ''
   ru: Камерунская серёжкоглазка
   ja: ヨコジマメガネヒタキ
   nl: Bamendalelvliegenvanger

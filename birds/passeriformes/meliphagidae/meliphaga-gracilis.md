@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17777.0
 names:
   scientific: Meliphaga gracilis
-  fa: nan
+  fa: ''
   en: Graceful Honeyeater
   es: Mielero Grácil
   fr: Méliphage gracile
   de: Feenhonigfresser
-  pt: graceful honeyeater
+  pt: ''
   ru: Изящный медосос
   ja: ハシボソキミミミツスイ
   nl: Priemsnavelhoningeter

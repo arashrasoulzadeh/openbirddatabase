@@ -15,7 +15,7 @@ names:
   pt: arrabio-de-bico-vermelho
   ru: Красноклювая шилохвость
   ja: アカハシオナガガモ
-  zh: Red-billed Teal
+  zh: ''
   nl: Roodsnavelpijlstaart
   pl: rożeniec czerwonodzioby
   tr: Kırmızı Gagalı Ördek

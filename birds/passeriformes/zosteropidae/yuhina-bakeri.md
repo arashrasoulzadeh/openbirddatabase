@@ -12,7 +12,7 @@ names:
   es: Yuhina Nuquiblanca
   fr: Yuhina à nuque blanche
   de: Rotkopfyuhina
-  pt: white-naped yuhina
+  pt: ''
   ru: Белохохлая юхина
   ja: ミミジロカンムリチメドリ
   zh: 白项凤鹛

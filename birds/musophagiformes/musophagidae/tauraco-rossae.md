@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2994.0
 names:
   scientific: Tauraco rossae
-  fa: nan
+  fa: ''
   en: Ross's Turaco
   es: Turaco de Ross
   fr: Touraco de Lady Ross
   de: Rossturako
-  pt: ross's turaco
+  pt: ''
   ru: Гологлазый турако
   ja: ムラサキエボシドリ
   nl: Geelmaskertoerako

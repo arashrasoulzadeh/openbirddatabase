@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4566.0
 names:
   scientific: Metallura phoebe
-  fa: nan
+  fa: ''
   en: Black Metaltail
   es: Metalura Negra
   fr: Métallure phébé
   de: Schwarzbauch-Glanzschwänzchen
-  pt: black metaltail
+  pt: ''
   ru: Чёрный металлохвост
   ja: クロテリオハチドリ
   zh: 黑辉尾蜂鸟

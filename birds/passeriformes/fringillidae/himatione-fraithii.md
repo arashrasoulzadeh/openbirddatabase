@@ -12,7 +12,7 @@ names:
   es: Mielerito de Isla Laysan
   fr: Picchion de Laysan
   de: Laysan-Apapanekleidervogel
-  pt: laysan honeycreeper
+  pt: ''
   ru: Лайсанская апапане
   ja: ライサンハワイミツスイ
   zh: 雷仙島蜜鸟

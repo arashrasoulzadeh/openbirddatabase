@@ -12,7 +12,7 @@ names:
   es: Abanico Samoano
   fr: Rhipidure des Samoa
   de: Samoafächerschwanz
-  pt: samoan fantail
+  pt: ''
   ru: Самоанская веерохвостка
   ja: サモアオウギビタキ
   nl: Samoawaaierstaart

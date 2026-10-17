@@ -12,7 +12,7 @@ names:
   es: Elminia Blanquiazul
   fr: Elminie à queue blanche
   de: Weißschwanz-Haubenschnäpper
-  pt: white-tailed blue flycatcher
+  pt: ''
   ru: Белохвостая хохлатая мухоловка
   ja: オジロソライロヒタキ
   nl: Witstaartkuifvliegenvanger

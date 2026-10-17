@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7275.0
 names:
   scientific: Pelecanoides magellani
-  fa: nan
+  fa: ''
   en: Magellanic Diving Petrel
   es: Potoyunco Magallánico
   fr: Puffinure de Magellan
@@ -15,7 +15,7 @@ names:
   pt: petrel-mergulhador
   ru: Магелланов ныряющий буревестник
   ja: マゼランモグリウミツバメ
-  zh: Magellanic Diving Petrel
+  zh: ''
   nl: Magelhaenalkstormvogeltje
   pl: nurzec magellański
   tr: Macellan Dalıcı Fırtınakuşu

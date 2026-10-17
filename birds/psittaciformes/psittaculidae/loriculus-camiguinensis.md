@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12717.0
 names:
   scientific: Loriculus camiguinensis
-  fa: nan
+  fa: ''
   en: Camiguin Hanging Parrot
   es: Lorículo de Camiguín
   fr: Coryllis de Camiguin
@@ -15,7 +15,7 @@ names:
   pt: camiguin hanging-parrot
   ru: Камигинский лорикулюс
   ja: カミギンサトウチョウ
-  zh: Camiguin Hanging Parrot
+  zh: ''
   nl: Camiguinvleermuisparkiet
   pl: zwisogłówka niebieskolica
   tr: Kamigin Cennet Papağanı

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9030.0
 names:
   scientific: Glaucidium palmarum
-  fa: nan
+  fa: ''
   en: Colima Pygmy Owl
   es: Mochuelo de Colima
   fr: Chevêchette du Colima
@@ -15,7 +15,7 @@ names:
   pt: colima pygmy-owl
   ru: Пальмовый сычик
   ja: コリマスズメフクロウ
-  zh: Colima Pygmy Owl
+  zh: ''
   nl: Colimadwerguil
   pl: sóweczka palmowa
   tr: Kolima Serçe Baykuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3893.0
 names:
   scientific: Chaetura fumosa
-  fa: nan
+  fa: ''
   en: Costa Rican Swift
   es: Vencejo Costarricense
   fr: Martinet du Costa Rica
   de: Blasskehlsegler
-  pt: costa rican swift
+  pt: ''
   ru: Костариканский иглохвост
   ja: パナマハリオアマツバメ
   zh: 哥斯达黎加雨燕

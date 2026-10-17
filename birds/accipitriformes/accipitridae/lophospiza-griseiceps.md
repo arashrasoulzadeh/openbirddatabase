@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8097.0
 names:
   scientific: Lophospiza griseiceps
-  fa: nan
+  fa: ''
   en: Sulawesi Goshawk
   es: Gavilán de Célebes
   fr: Autour des Célèbes
   de: Graukopfhabicht
-  pt: sulawesi goshawk
+  pt: ''
   ru: Сулавесский ястреб
   ja: セレベスオオタカ
   zh: 灰頭鳳頭鷹

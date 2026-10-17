@@ -12,7 +12,7 @@ names:
   es: Semillero Sencillo
   fr: Cataménie terne
   de: Schlichtsamenfresser
-  pt: plain-colored seedeater
+  pt: ''
   ru: Невзрачный семеноед
   ja: ムジタネワリ
   nl: Bruingrijze catamenia

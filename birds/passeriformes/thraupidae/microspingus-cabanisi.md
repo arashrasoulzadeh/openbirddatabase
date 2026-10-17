@@ -15,7 +15,7 @@ names:
   pt: quete-do-sul
   ru: Серогорлая монтерита
   ja: ハイノドマユシトド
-  zh: Grey-throated Warbling Finch
+  zh: ''
   nl: Grijsborstboomgors
   pl: czywik kasztanowaty
   tr: Gri Boğazlı İspinoz

@@ -15,7 +15,7 @@ names:
   pt: slender-tailed cisticola
   ru: Чернохвостая цистикола
   ja: オグロイロムシクイ
-  zh: Black-tailed Cisticola
+  zh: ''
   nl: Zwartstaartgraszanger
   pl: chwastówka czarnosterna
   tr: Kara Kuyruklu Yelpazekuyruk

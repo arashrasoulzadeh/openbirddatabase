@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Enmascarado
   fr: Percefleur masqué
   de: Maskenhakenschnabel
-  pt: masked flowerpiercer
+  pt: ''
   ru: Масковый цветокол
   ja: カオグロハナサシミツドリ
   zh: 花脸刺花鸟

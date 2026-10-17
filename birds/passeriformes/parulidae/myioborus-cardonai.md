@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 34380.0
 names:
   scientific: Myioborus cardonai
-  fa: nan
+  fa: ''
   en: Guaiquinima Whitestart
   es: Candelita de Cardona
   fr: Paruline de Cardona
@@ -15,7 +15,7 @@ names:
   pt: saffron-breasted redstart
   ru: Серощёкая канделита
   ja: キムネアメリカムシクイ
-  zh: Guaiquinima Whitestart
+  zh: ''
   nl: Cardonazanger
   pl: pleszówka szafranowa
   tr: Sarı Göğüslü Ötleğen

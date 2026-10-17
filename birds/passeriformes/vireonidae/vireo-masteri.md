@@ -12,7 +12,7 @@ names:
   es: Vireo del Chocó
   fr: Viréo du Choco
   de: Kolumbienvireo
-  pt: choco vireo
+  pt: ''
   ru: Чокский виреон
   ja: チョコモズモドキ
   nl: Chocovireo

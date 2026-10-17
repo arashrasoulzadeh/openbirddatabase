@@ -12,7 +12,7 @@ names:
   es: Espolonero de Borneo
   fr: Éperonnier de Bornéo
   de: Borneopfaufasan
-  pt: bornean peacock-pheasant
+  pt: ''
   ru: Борнейский павлиний фазан
   ja: ボルネオエボシコクジャク
   zh: 婆羅洲孔雀雉

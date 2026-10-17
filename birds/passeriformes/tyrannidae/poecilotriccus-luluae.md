@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16389.0
 names:
   scientific: Poecilotriccus luluae
-  fa: nan
+  fa: ''
   en: Lulu's Tody-Flycatcher
   es: Titirijí de Lulu
   fr: Todirostre de Lulu
@@ -15,7 +15,7 @@ names:
   pt: johnson's tody-flycatcher
   ru: Рыжеголовый тоди-мухолов
   ja: ジョンソンハシナガハエトリ
-  zh: Lulu's Tody-Flycatcher
+  zh: ''
   nl: Lulutodietiran
   pl: barwniczek złotobrzuchy
   tr: Lulu Todi Sinekkapanı

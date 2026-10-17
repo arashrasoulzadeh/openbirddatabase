@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2526.0
 names:
   scientific: Treron phoenicopterus
-  fa: nan
+  fa: ''
   en: Yellow-footed Green Pigeon
   es: Vinago Patigualdo
   fr: Colombar commandeur

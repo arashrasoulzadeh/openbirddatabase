@@ -12,7 +12,7 @@ names:
   es: Carbonero Mexicano
   fr: Mésange grise
   de: Grauflankenmeise
-  pt: mexican chickadee
+  pt: ''
   ru: Мексиканская гаичка
   ja: メキシココガラ
   nl: Grijsflankmees

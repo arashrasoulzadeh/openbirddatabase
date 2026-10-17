@@ -15,7 +15,7 @@ names:
   pt: gray-headed broadbill
   ru: Сероголовый ширококлюв
   ja: ハイガシラアフリカヒロハシ
-  zh: Grey-headed Broadbill
+  zh: ''
   nl: Grijskopbreedbek
   pl: czapecznik ciemny
   tr: Gri Başlı Genişgaga

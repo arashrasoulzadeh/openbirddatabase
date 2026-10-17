@@ -15,7 +15,7 @@ names:
   pt: mountain sawwing
   ru: Бурая ласточка
   ja: ミヤマクロツバメ
-  zh: Mountain Saw-wing
+  zh: ''
   nl: Kameroense kamzwaluw
   pl: żałobniczka górska
   tr: Kamerun Dağ Kırlangıcı

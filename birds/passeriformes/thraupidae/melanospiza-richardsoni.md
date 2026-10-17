@@ -12,7 +12,7 @@ names:
   es: Semillero de Santa Lucía
   fr: Moisson pied-blanc
   de: Blassfuß-Gimpeltangare
-  pt: st. lucia black finch
+  pt: ''
   ru: Санталюсийский семилеро
   ja: セントルシアクロシトド
   nl: Sint-Luciagrondvink

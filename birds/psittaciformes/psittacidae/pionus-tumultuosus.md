@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12886.0
 names:
   scientific: Pionus tumultuosus
-  fa: nan
+  fa: ''
   en: Speckle-faced Parrot
   es: Loro Tumultuoso
   fr: Pione pailletée
   de: Purpurstirnpapagei
-  pt: speckle-faced parrot
+  pt: ''
   ru: Сливоголовый амазонет
   ja: バラガシラインコ
   nl: Pruimkopmargrietje

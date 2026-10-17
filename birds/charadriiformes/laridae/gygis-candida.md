@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 6627.0
 names:
   scientific: Gygis candida
-  fa: nan
+  fa: ''
   en: Blue-billed White Tern
   es: Charrán Blanco Pacífico
   fr: Gygis du Pacifique

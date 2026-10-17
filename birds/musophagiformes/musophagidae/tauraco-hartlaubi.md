@@ -12,7 +12,7 @@ names:
   es: Turaco de Hartlaub
   fr: Touraco de Hartlaub
   de: Seidenturako
-  pt: hartlaub's turaco
+  pt: ''
   ru: Синехохлый турако
   ja: オウカンエボシドリ
   nl: Hartlaubtoerako

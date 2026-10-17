@@ -12,7 +12,7 @@ names:
   es: Talégalo Eremita
   fr: Mégapode mélanésien
   de: Bismarck-Großfußhuhn
-  pt: melanesian megapode
+  pt: ''
   ru: Меланезийский большеног
   ja: メラネシアツカツクリ
   zh: 美拉尼西亞塚雉

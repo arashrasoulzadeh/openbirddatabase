@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 31274.0
 names:
   scientific: Glaucestrilda caerulescens
-  fa: nan
+  fa: ''
   en: Lavender Waxbill
   es: Estrilda Azulada
   fr: Astrild queue-de-vinaigre

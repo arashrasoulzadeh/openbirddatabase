@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28709.0
 names:
   scientific: Turdus maranonicus
-  fa: nan
+  fa: ''
   en: Maranon Thrush
   es: Zorzal del Marañón
   fr: Merle du Maranon
@@ -15,7 +15,7 @@ names:
   pt: marañon thrush
   ru: Мараньонский дрозд
   ja: ペルーウロコツグミ
-  zh: Maranon Thrush
+  zh: ''
   nl: Marañonlijster
   pl: drozd Taczanowskiego
   tr: Maranyon Ardıcı

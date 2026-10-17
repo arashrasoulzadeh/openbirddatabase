@@ -12,7 +12,7 @@ names:
   es: Yuhina de Borneo
   fr: Yuhina de Bornéo
   de: Rotschopfyuhina
-  pt: chestnut-crested yuhina
+  pt: ''
   ru: Рыжехохлая юхина
   ja: ボルネオクリミミチメドリ
   zh: 栗冠鳳鶥

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13439.0
 names:
   scientific: Euchrepomis sharpei
-  fa: nan
+  fa: ''
   en: Yellow-rumped Antwren
   es: Tiluchí Lomigualdo
   fr: Grisin à croupion jaune
   de: Gelbbürzel-Ameisenfänger
-  pt: yellow-rumped antwren
+  pt: ''
   ru: Желтоплечий тилучи
   ja: キゴシアリサザイ
   nl: Geelstuitmiersluiper

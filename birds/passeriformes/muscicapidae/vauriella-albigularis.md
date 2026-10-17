@@ -15,7 +15,7 @@ names:
   pt: negros jungle flycatcher
   ru: Негросская гилейница
   ja: シロアゴミツリンヒタキ
-  zh: White-throated Jungle Flycatcher
+  zh: ''
   nl: Negrosjunglevliegenvanger
   pl: dżunglareczka białogardła
   tr: Negros Orman Sinekkapanı

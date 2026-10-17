@@ -12,7 +12,7 @@ names:
   es: Reinita Chillina
   fr: Chillina de Fernandina
   de: Gelbkopf-Kubasänger
-  pt: yellow-headed warbler
+  pt: ''
   ru: Желтоголовый щебетун
   ja: ニシキューバムシクイ
   nl: Geelkopzanger

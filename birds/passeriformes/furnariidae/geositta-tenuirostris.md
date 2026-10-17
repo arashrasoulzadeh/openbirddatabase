@@ -12,7 +12,7 @@ names:
   es: Minero Picudo
   fr: Géositte à bec grêle
   de: Dünnschnabel-Erdhacker
-  pt: slender-billed miner
+  pt: ''
   ru: Тонкоклювый землекоп
   ja: ハシボソジカマドドリ
   nl: Dunsnavelholengraver

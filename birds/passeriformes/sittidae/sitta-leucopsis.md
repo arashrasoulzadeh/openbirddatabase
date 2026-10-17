@@ -12,7 +12,7 @@ names:
   es: Trepador Cariblanco
   fr: Sittelle à joues blanches
   de: Weißwangenkleiber
-  pt: white-cheeked nuthatch
+  pt: ''
   ru: Белощёкий поползень
   ja: ホオジロゴジュウカラ
   zh: 喜山白脸䴓

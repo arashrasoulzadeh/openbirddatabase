@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9987.0
 names:
   scientific: Ceyx mulcatus
-  fa: nan
+  fa: ''
   en: New Ireland Dwarf Kingfisher
   es: Martín Pigmeo de Nueva Irlanda
   fr: Martin-pêcheur de Nouvelle-Irlande
@@ -15,7 +15,7 @@ names:
   pt: new ireland dwarf-kingfisher
   ru: Новоирландский зимородок
   ja: ニューアイルランドカワセミ
-  zh: New Ireland Dwarf Kingfisher
+  zh: ''
   nl: Nieuw-Ierlanddwergijsvogel
   pl: zimorodek rdzawobrzuchy
   tr: Yeni İrlanda Yalıçapkını

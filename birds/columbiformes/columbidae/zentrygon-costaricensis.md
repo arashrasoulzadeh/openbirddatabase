@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2372.0
 names:
   scientific: Zentrygon costaricensis
-  fa: nan
+  fa: ''
   en: Buff-fronted Quail-Dove
   es: Paloma Perdiz Costarricense
   fr: Colombe du Costa Rica
   de: Costa-Rica-Taube
-  pt: buff-fronted quail-dove
+  pt: ''
   ru: Костариканская перепелиная горлица
   ja: セアカウズラバト
   zh: 黄额鹑鸠

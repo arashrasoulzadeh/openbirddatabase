@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 34994.0
 names:
   scientific: Stilpnia cyanoptera
-  fa: nan
+  fa: ''
   en: Black-headed Tanager
   es: Tangara Cabecinegra
   fr: Calliste à tête noire

@@ -12,7 +12,7 @@ names:
   es: Verderón Vietnamita
   fr: Verdier du Vietnam
   de: Annamgrünfink
-  pt: vietnamese greenfinch
+  pt: ''
   ru: Далатская зеленушка
   ja: ベトナムカワラヒワ
   nl: Vietnamese groenling

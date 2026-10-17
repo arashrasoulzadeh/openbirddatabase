@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz de las Palaos
   fr: Gallicolombe des Palau
   de: Graustirntaube
-  pt: palau ground dove
+  pt: ''
   ru: Палауский куриный голубь
   ja: パラオムナジロバト
   nl: Palaupatrijsduif

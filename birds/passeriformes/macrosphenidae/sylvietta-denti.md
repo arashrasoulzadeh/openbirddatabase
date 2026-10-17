@@ -12,7 +12,7 @@ names:
   es: Crombec Ventrilimón
   fr: Crombec à gorge tachetée
   de: Gelbsteißsylvietta
-  pt: lemon-bellied crombec
+  pt: ''
   ru: Желтобрюхий кромбек
   ja: キバラチビオムシクイ
   nl: Geelbuikkrombek

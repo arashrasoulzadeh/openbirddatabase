@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16951.0
 names:
   scientific: Empidonax alnorum
-  fa: nan
+  fa: ''
   en: Alder Flycatcher
   es: Mosquero Alisero
   fr: Moucherolle des aulnes

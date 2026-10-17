@@ -12,7 +12,7 @@ names:
   es: Colibrí Piquicorto Común
   fr: Colibri à petit bec
   de: Kurzschnabelkolibri
-  pt: purple-backed thornbill
+  pt: ''
   ru: Пурпурный короткоклюв
   ja: トゲハシハチドリ
   zh: 紫背刺嘴蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Cormorán de Bajío
   fr: Cormoran des bancs
   de: Küstenscharbe
-  pt: bank cormorant
+  pt: ''
   ru: Береговой баклан
   ja: ハナグロウ
   nl: Kustaalscholver

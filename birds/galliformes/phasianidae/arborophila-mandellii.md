@@ -12,7 +12,7 @@ names:
   es: Arborófila Pechirroja
   fr: Torquéole de Mandelli
   de: Rotbrust-Buschwachtel
-  pt: chestnut-breasted partridge
+  pt: ''
   ru: Красногрудая лесная куропатка
   ja: ムネアカミヤマテッケイ
   zh: 红胸山鹧鸪

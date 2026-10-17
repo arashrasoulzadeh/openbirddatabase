@@ -12,7 +12,7 @@ names:
   es: Mielero Fusco
   fr: Méliphage grisâtre
   de: Olivkehl-Honigfresser
-  pt: fuscous honeyeater
+  pt: ''
   ru: Оливковогорлый медосос
   ja: コバシミツスイ
   nl: Brilhoningeter

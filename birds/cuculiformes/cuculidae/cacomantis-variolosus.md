@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3379.0
 names:
   scientific: Cacomantis variolosus
-  fa: nan
+  fa: ''
   en: Sahul Brush Cuckoo
   es: Cuco Varioloso
   fr: Coucou des buissons
   de: Buschkuckuck
-  pt: sahul brush cuckoo
+  pt: ''
   ru: Щетинистая кукушка
   ja: サフルハイガシラヒメカッコウ
   zh: 叢杜鵑

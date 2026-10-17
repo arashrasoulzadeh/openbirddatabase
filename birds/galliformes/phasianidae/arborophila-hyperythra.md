@@ -12,7 +12,7 @@ names:
   es: Arborófila de Borneo
   fr: Torquéole de Bornéo
   de: Borneobuschwachtel
-  pt: red-breasted partridge
+  pt: ''
   ru: Борнейская лесная куропатка
   ja: ボルネオミヤマテッケイ
   zh: 赤胸山鷓鴣

@@ -12,7 +12,7 @@ names:
   es: Paloma Montaraz Jamaicana
   fr: Colombe de Jamaïque
   de: Jamaikataube
-  pt: caribbean dove
+  pt: ''
   ru: Ямайская голубка
   ja: シロハラシャコバト
   zh: 白腹棕翅鸠

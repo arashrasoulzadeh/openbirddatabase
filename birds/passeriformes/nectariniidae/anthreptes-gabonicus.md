@@ -15,7 +15,7 @@ names:
   pt: mouse-brown sunbird
   ru: Серая нектарница
   ja: メジロコバシタイヨウチョウ
-  zh: Mangrove Sunbird
+  zh: ''
   nl: Bruine honingzuiger
   pl: nektarzyk myszaty
   tr: Esmer Nektarkuşu

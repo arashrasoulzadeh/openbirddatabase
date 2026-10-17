@@ -15,7 +15,7 @@ names:
   pt: western black-headed oriole
   ru: Гвинейская иволга
   ja: キエリコウライウグイス
-  zh: Western Oriole
+  zh: ''
   nl: Blauwvleugelwielewaal
   pl: wilga kapturowa
   tr: Batı Afrika Kara Başlı Sarıasma

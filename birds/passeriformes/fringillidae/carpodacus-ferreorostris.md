@@ -12,7 +12,7 @@ names:
   es: Picogordo de las Bonin
   fr: Roselin des Bonin
   de: Boningimpel
-  pt: bonin grosbeak
+  pt: ''
   ru: Дубоносовая чечевица
   ja: オガサワラマシコ
   zh: 笠原臘嘴雀

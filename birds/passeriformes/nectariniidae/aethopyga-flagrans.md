@@ -12,7 +12,7 @@ names:
   es: Suimanga Llameante
   fr: Souimanga flamboyant
   de: Feuerbrust-Nektarvogel
-  pt: flaming sunbird
+  pt: ''
   ru: Черногорлая нектарница
   ja: ワキグロタイヨウチョウ
   nl: Vuurborsthoningzuiger

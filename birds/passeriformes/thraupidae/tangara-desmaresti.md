@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35082.0
 names:
   scientific: Tangara desmaresti
-  fa: nan
+  fa: ''
   en: Brassy-breasted Tanager
   es: Tangara de Desmarest
   fr: Calliste de Desmarest

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35006.0
 names:
   scientific: Stilpnia meyerdeschauenseei
-  fa: nan
+  fa: ''
   en: Green-capped Tanager
   es: Tangara Coroniverde
   fr: Calliste de Schauensee
   de: Grünkappentangare
-  pt: green-capped tanager
+  pt: ''
   ru: Инамбарская танагра
   ja: アンデスフウキンチョウ
   nl: Sandiatangare

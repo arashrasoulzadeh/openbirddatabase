@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16402.0
 names:
   scientific: Poecilotriccus latirostris
-  fa: nan
+  fa: ''
   en: Rusty-fronted Tody-Flycatcher
   es: Titirijí Frentirrojo
   fr: Todirostre à front roux

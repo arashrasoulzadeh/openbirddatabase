@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33039.0
 names:
   scientific: Arremon phaeopleurus
-  fa: nan
+  fa: ''
   en: Caracas Brushfinch
   es: Cerquero de Sclater
   fr: Tohi de Sclater
   de: Caracasbuschammer
-  pt: caracas brushfinch
+  pt: ''
   ru: Венесуэльский тохи
   ja: カラカスヤブシトド
   nl: Caracasstruikgors

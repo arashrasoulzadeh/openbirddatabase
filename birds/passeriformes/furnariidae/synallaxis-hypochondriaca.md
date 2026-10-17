@@ -12,7 +12,7 @@ names:
   es: Curutié Grande
   fr: Synallaxe à poitrine rayée
   de: Weißbrust-Dickichtschlüpfer
-  pt: great spinetail
+  pt: ''
   ru: Большая иглохвостка
   ja: ペルーオオカマドドリ
   nl: Grote canastero

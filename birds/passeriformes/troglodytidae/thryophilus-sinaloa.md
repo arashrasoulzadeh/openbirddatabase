@@ -12,7 +12,7 @@ names:
   es: Cucarachero Sinaloense
   fr: Troglodyte du Sinaloa
   de: Sinaloazaunkönig
-  pt: sinaloa wren
+  pt: ''
   ru: Мексиканский крапивник
   ja: シナロアマユミソサザイ
   nl: Sinaloawinterkoning

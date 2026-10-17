@@ -12,7 +12,7 @@ names:
   es: Arborófila de Sichuán
   fr: Torquéole de Boulton
   de: Sichuanbuschwachtel
-  pt: sichuan partridge
+  pt: ''
   ru: Сычуаньская лесная куропатка
   ja: シセンミヤマテッケイ
   zh: 四川山鹧鸪

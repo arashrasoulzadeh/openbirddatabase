@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Soberbia Mayor
   fr: Paradisier de Huon
   de: Pracht-Kragenparadiesvogel
-  pt: greater lophorina
+  pt: ''
   ru: Большая лофорина
   ja: カタカケフウチョウ
   nl: Grote kraagparadijsvogel

@@ -12,7 +12,7 @@ names:
   es: Bisbita Oriental
   fr: Pipit rousset
   de: Orientspornpieper
-  pt: paddyfield pipit
+  pt: ''
   ru: Рисовой конёк
   ja: ヒメマミジロタヒバリ
   zh: 田鹨

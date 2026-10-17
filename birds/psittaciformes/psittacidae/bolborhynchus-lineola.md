@@ -12,7 +12,7 @@ names:
   es: Catita Barrada
   fr: Toui catherine
   de: Katharinasittich
-  pt: barred parakeet
+  pt: ''
   ru: Полосатый калита
   ja: サザナミインコ
   nl: Katharinaparkiet

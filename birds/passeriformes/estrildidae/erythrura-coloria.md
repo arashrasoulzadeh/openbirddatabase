@@ -12,7 +12,7 @@ names:
   es: Diamante de Mindanao
   fr: Diamant de Mindanao
   de: Buntkopf-Papageiamadine
-  pt: red-eared parrotfinch
+  pt: ''
   ru: Минданаосская амадина
   ja: ホオアカセイコウチョウ
   zh: 红耳鹦雀

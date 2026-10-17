@@ -12,7 +12,7 @@ names:
   es: Tangara Verdinegra
   fr: Calliste vert
   de: Schwarznackentangare
-  pt: metallic-green tanager
+  pt: ''
   ru: Блестящая танагра
   ja: テリミドリフウキンチョウ
   zh: 辉绿唐加拉雀

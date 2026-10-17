@@ -12,7 +12,7 @@ names:
   es: Aratinga del Pacífico
   fr: Conure de Ridgway
   de: Mexikosittich
-  pt: pacific parakeet
+  pt: ''
   ru: Зелёная аратинга
   ja: オオメキシコインコ
   nl: Pacifische aratinga

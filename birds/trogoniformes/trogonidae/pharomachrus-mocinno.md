@@ -12,7 +12,7 @@ names:
   es: Quetzal Guatemalteco
   fr: Quetzal resplendissant
   de: Quetzal
-  pt: resplendent quetzal
+  pt: ''
   ru: Кетцаль
   ja: カザリキヌバネドリ
   zh: 鳳尾綠咬鵑

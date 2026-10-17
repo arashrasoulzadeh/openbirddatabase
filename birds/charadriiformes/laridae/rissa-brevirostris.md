@@ -12,7 +12,7 @@ names:
   es: Gaviota Piquicorta
   fr: Mouette des brumes
   de: Klippenmöwe
-  pt: red-legged kittiwake
+  pt: ''
   ru: Красноногая говорушка
   ja: アカアシミツユビカモメ
   zh: 紅腳三趾鷗

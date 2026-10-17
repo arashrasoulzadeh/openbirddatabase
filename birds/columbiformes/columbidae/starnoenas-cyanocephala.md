@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz Cubana
   fr: Colombe à tête bleue
   de: Kubataube
-  pt: blue-headed quail-dove
+  pt: ''
   ru: Синеголовый земляной голубь
   ja: クロヒゲバト
   zh: 蓝头鹑鸠

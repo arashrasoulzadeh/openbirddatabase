@@ -12,7 +12,7 @@ names:
   es: Semillero Bicolor
   fr: Cici verdinère
   de: Jamaikagimpeltangare
-  pt: black-faced grassquit
+  pt: ''
   ru: Чернолицый семилеро
   ja: ニショクコメワリ
   nl: Maskergrondvink

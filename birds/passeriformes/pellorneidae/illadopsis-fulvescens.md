@@ -12,7 +12,7 @@ names:
   es: Tordina Parda
   fr: Akalat brun
   de: Braunbauch-Laubdrossling
-  pt: brown illadopsis
+  pt: ''
   ru: Бурый дроздовник
   ja: チャイロムジチメドリ
   zh: 褐非洲雅鹛

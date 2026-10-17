@@ -12,7 +12,7 @@ names:
   es: Urraca Vagabunda
   fr: Témia vagabonde
   de: Wanderbaumelster
-  pt: rufous treepie
+  pt: ''
   ru: Рыжая китта
   ja: チャイロオナガ
   zh: 棕腹树鹊

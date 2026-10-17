@@ -12,7 +12,7 @@ names:
   es: Oruguero Menor
   fr: Échenilleur frangé
   de: Zwergraupenfänger
-  pt: lesser cuckooshrike
+  pt: ''
   ru: Карликовый личинкоед-свистун
   ja: コアサクラサンショウクイ
   zh: 纓鵑鵙

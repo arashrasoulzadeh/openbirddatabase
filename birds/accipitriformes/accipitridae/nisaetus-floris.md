@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 8019.0
 names:
   scientific: Nisaetus floris
-  fa: nan
+  fa: ''
   en: Flores Hawk-Eagle
   es: Águila de Flores
   fr: Aigle de Florès
   de: Floreshaubenadler
-  pt: flores hawk-eagle
+  pt: ''
   ru: Зондский хохлатый орёл
   ja: フローレスクマタカ
   nl: Floreskuifarend

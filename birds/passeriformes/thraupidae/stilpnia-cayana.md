@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 35007.0
 names:
   scientific: Stilpnia cayana
-  fa: nan
+  fa: ''
   en: Burnished-buff Tanager
   es: Tangara Isabel
   fr: Calliste passevert

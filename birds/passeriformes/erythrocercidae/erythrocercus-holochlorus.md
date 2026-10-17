@@ -15,7 +15,7 @@ names:
   pt: yellow flycatcher
   ru: Жёлтая рыжехвостка
   ja: キイロヒメヒタキ
-  zh: Little Yellow Flycatcher
+  zh: ''
   nl: Gele elfmonarch
   pl: oliweczka cytrynowa
   tr: Sarı Sinekkapan

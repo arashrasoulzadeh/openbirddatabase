@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10791.0
 names:
   scientific: Capito hypoleucus
-  fa: nan
+  fa: ''
   en: White-mantled Barbet
   es: Cabezón Dorsiblanco
   fr: Cabézon à manteau blanc
   de: Weißmantel-Bartvogel
-  pt: white-mantled barbet
+  pt: ''
   ru: Белоспинная бородатка
   ja: セジロゴシキドリ
   zh: 白肩拟啄木鸟

@@ -12,7 +12,7 @@ names:
   es: Churrín Cejiblanco
   fr: Mérulaxe bridé
   de: Weißbrauentapaculo
-  pt: white-browed tapaculo
+  pt: ''
   ru: Белобровый тапакуло
   ja: ノドジロオタテドリ
   nl: Witbrauwtapaculo

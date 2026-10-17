@@ -12,7 +12,7 @@ names:
   es: Chara Andina
   fr: Geai indigo
   de: Weißbandhäher
-  pt: white-collared jay
+  pt: ''
   ru: Ошейниковая сойка
   ja: カオグロアオカケス
   zh: 白领蓝头鹊

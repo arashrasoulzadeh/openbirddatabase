@@ -12,7 +12,7 @@ names:
   es: Alondra Oscura
   fr: Alouette brune
   de: Drossellerche
-  pt: dusky lark
+  pt: ''
   ru: Коньковый жаворонок
   ja: ウスグロセイタカヒバリ
   zh: 黑歌百靈

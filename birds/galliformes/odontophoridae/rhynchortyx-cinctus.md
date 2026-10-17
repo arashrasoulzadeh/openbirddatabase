@@ -12,7 +12,7 @@ names:
   es: Colín Carirrufo
   fr: Colin ceinturé
   de: Graubrustwachtel
-  pt: tawny-faced quail
+  pt: ''
   ru: Длинноногий перепел
   ja: アシナガコリン
   zh: 茶脸鹑

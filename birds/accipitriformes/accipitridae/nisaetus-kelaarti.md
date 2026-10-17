@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8002.0
 names:
   scientific: Nisaetus kelaarti
-  fa: nan
+  fa: ''
   en: Legge's Hawk-Eagle
   es: Águila de Sri Lanka
   fr: Aigle de Legge
   de: Ceylonhaubenadler
-  pt: legge's hawk-eagle
+  pt: ''
   ru: Цейлонский хохлатый орёл
   ja: レッグクマタカ
   nl: Leggekuifarend

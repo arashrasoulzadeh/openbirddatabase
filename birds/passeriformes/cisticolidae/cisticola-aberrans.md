@@ -12,7 +12,7 @@ names:
   es: Cistícola Perezoso
   fr: Cisticole paresseuse
   de: Langschwanz-Zistensänger
-  pt: rock-loving cisticola
+  pt: ''
   ru: Длиннохвостая цистикола
   ja: ミナミイワセッカ
   nl: Langstaartgraszanger

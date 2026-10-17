@@ -15,7 +15,7 @@ names:
   pt: gray-and-white tyrannulet
   ru: Ложноэления
   ja: シロキクイタダキモドキ
-  zh: Grey-and-white Tyrannulet
+  zh: ''
   nl: Grijs-witte elenia
   pl: białoczuprynka
   tr: Gri-Beyaz Elenya

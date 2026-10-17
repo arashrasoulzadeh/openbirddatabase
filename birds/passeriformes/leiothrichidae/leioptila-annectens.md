@@ -12,7 +12,7 @@ names:
   es: Sibia Dorsirrufa
   fr: Léioptile à dos marron
   de: Rotrückensibia
-  pt: rufous-backed sibia
+  pt: ''
   ru: Рыжий пестрохвост
   ja: セアカウタイチメドリ
   zh: 栗背奇鹛

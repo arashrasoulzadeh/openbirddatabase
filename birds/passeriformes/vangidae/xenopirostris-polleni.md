@@ -12,7 +12,7 @@ names:
   es: Vanga de Pollen
   fr: Vanga de Pollen
   de: Pollenvanga
-  pt: pollen's vanga
+  pt: ''
   ru: Черногрудая ванга
   ja: クロノドハシボソオオハシモズ
   zh: 白額厚嘴鵙

@@ -12,7 +12,7 @@ names:
   es: Bubú Sombrío
   fr: Gonolek fuligineux
   de: Schwarzwürger
-  pt: lowland sooty boubou
+  pt: ''
   ru: Лесной бубу
   ja: テリクロナキヤブモズ
   nl: Zwarte fiskaal

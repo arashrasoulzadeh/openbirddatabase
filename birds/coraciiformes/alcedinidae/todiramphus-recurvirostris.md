@@ -12,7 +12,7 @@ names:
   es: Alción Piquiplano
   fr: Martin-chasseur des Samoa
   de: Flachschnabelliest
-  pt: flat-billed kingfisher
+  pt: ''
   ru: Плоскоклювая альциона
   ja: サモアショウビン
   zh: 扁嘴翡翠

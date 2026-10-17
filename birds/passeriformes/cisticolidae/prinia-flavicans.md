@@ -12,7 +12,7 @@ names:
   es: Prinia Pechinegra
   fr: Prinia à plastron
   de: Brustbandprinie
-  pt: black-chested prinia
+  pt: ''
   ru: Черногрудая приния
   ja: ムナグロハウチワドリ
   nl: Zwartborstprinia

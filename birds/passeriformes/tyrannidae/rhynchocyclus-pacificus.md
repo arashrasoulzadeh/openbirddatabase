@@ -12,7 +12,7 @@ names:
   es: Picoplano del Pacífico
   fr: Tyranneau de Colombie
   de: Pazifik-Breitschnabeltyrann
-  pt: pacific flatbill
+  pt: ''
   ru: Чокский мухоед
   ja: ミナミメジロマルハシタイランチョウ
   zh: 太平洋扁嘴霸鹟

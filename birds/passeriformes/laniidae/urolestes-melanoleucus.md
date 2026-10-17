@@ -12,7 +12,7 @@ names:
   es: Alcaudón Pío
   fr: Corvinelle noir et blanc
   de: Elsterwürger
-  pt: magpie shrike
+  pt: ''
   ru: Сорочий сорокопут
   ja: シロクロオナガモズ
   zh: 白肩鹊鵙

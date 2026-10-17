@@ -12,7 +12,7 @@ names:
   es: Arrendajo Crestado
   fr: Platylophe longup
   de: Haubenhäher
-  pt: crested jayshrike
+  pt: ''
   ru: Хохлатая малайская сойка
   ja: カンムリカケス
   zh: 冠鸦

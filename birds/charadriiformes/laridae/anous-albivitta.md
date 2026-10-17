@@ -15,7 +15,7 @@ names:
   pt: gray noddy
   ru: Серая кланяющаяся крачка
   ja: ハイイロアジサシ
-  zh: Grey Noddy
+  zh: ''
   nl: Grijze noddy
   pl: rybołówka szara
   tr: Gri Nodi

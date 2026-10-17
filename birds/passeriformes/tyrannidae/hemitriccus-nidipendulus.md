@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16355.0
 names:
   scientific: Hemitriccus nidipendulus
-  fa: nan
+  fa: ''
   en: Hangnest Tody-Tyrant
   es: Titirijí de Wied
   fr: Todirostre de Wied

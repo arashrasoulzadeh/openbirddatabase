@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 12453.0
 names:
   scientific: Cyanoramphus ulietanus
-  fa: nan
+  fa: ''
   en: Raiatea Parakeet
   es: Perico de Isla Raiatea
   fr: Perruche de Raiatea
   de: Raiateasittich
-  pt: raiatea parakeet
+  pt: ''
   ru: Коричневоголовый какарики
   ja: ウリエテアオハシインコ
   zh: 社會島鸚鵡

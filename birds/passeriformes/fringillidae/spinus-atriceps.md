@@ -12,7 +12,7 @@ names:
   es: Jilguero Capirotado
   fr: Tarin sombre
   de: Guatemalazeisig
-  pt: black-capped siskin
+  pt: ''
   ru: Гватемальский чиж
   ja: クロズキンヒワ
   nl: Groene sijs

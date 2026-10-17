@@ -12,7 +12,7 @@ names:
   es: Gallo de Java
   fr: Coq de Java
   de: Gabelschwanzhuhn
-  pt: green junglefowl
+  pt: ''
   ru: Зелёный петух
   ja: アオエリヤケイ
   zh: 綠原雞

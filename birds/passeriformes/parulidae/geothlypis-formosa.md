@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34011.0
 names:
   scientific: Geothlypis formosa
-  fa: nan
+  fa: ''
   en: Kentucky Warbler
   es: Reinita de Kentucky
   fr: Paruline du Kentucky
   de: Kentuckygelbkehlchen
-  pt: kentucky warbler
+  pt: ''
   ru: Златобровая желтогрудка
   ja: メガネアメリカムシクイ
   zh: 麗色黃喉地鶯

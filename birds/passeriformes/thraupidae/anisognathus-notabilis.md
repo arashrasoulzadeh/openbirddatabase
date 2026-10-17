@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34900.0
 names:
   scientific: Anisognathus notabilis
-  fa: nan
+  fa: ''
   en: Black-chinned Mountain Tanager
   es: Tangara Barbinegra
   fr: Tangara à menton noir
   de: Schwarzkinn-Bergtangare
-  pt: black-chinned mountain tanager
+  pt: ''
   ru: Эквадорская танагра
   ja: クロアゴヤマフウキンチョウ
   nl: Zwartkinbergtangare

@@ -12,7 +12,7 @@ names:
   es: Petrel de las Fiyi
   fr: Pétrel des Fidji
   de: Fidschisturmvogel
-  pt: fiji petrel
+  pt: ''
   ru: Фиджийский тайфунник
   ja: フィージーミズナギドリ
   zh: 斐济圆尾鹱

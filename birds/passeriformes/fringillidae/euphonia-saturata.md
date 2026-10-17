@@ -12,7 +12,7 @@ names:
   es: Eufonia Coroninaranja
   fr: Organiste à calotte d'or
   de: Orangescheitelorganist
-  pt: orange-crowned euphonia
+  pt: ''
   ru: Оранжевошапочная эуфония
   ja: キカムリスミレフウキンチョウ
   nl: Vuurkruinorganist

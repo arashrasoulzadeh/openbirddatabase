@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 12802.0
 names:
   scientific: Touit surdus
-  fa: nan
+  fa: ''
   en: Golden-tailed Parrotlet
   es: Cotorrita Sorda
   fr: Toui à queue d'or

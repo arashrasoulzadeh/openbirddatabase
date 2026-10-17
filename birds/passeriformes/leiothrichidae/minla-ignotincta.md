@@ -12,7 +12,7 @@ names:
   es: Minla Colirroja
   fr: Minla à queue rousse
   de: Rotschwanzminla
-  pt: red-tailed minla
+  pt: ''
   ru: Краснохвостая минла
   ja: アカオコバシチメドリ
   zh: 火尾希鹛

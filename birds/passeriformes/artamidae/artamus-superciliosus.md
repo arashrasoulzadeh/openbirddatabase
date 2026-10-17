@@ -12,7 +12,7 @@ names:
   es: Artamo Cejiblanco
   fr: Langrayen bridé
   de: Weißbrauen-Schwalbenstar
-  pt: white-browed woodswallow
+  pt: ''
   ru: Белобровый артам
   ja: マミジロモリツバメ
   zh: 白眉燕鵙

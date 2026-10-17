@@ -7,15 +7,15 @@ iucn_status: LC
 taxon_order: 20640.0
 names:
   scientific: Diphyllodes magnificus
-  fa: nan
+  fa: ''
   en: Magnificent Bird-of-paradise
   es: Ave del Paraíso Magnífica
   fr: Paradisier magnifique
   de: Sichelschwanz-Paradiesvogel
-  pt: magnificent bird-of-paradise
+  pt: ''
   ru: Великолепная райская птица
   ja: キンミノフウチョウ
-  zh: Magnificent Bird-of-paradise
+  zh: ''
   nl: Geelkraagparadijsvogel
   pl: latawiec złotogrzbiety
   tr: Muhteşem Cennetkuşu

@@ -12,7 +12,7 @@ names:
   es: Batará Unicolor
   fr: Batara unicolore
   de: Einfarbameisenwürger
-  pt: uniform antshrike
+  pt: ''
   ru: Одноцветный колючник
   ja: ムジアリモズ
   zh: 纯色蚁鵙

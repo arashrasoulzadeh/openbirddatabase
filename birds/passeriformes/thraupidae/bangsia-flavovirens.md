@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 34837.0
 names:
   scientific: Bangsia flavovirens
-  fa: nan
+  fa: ''
   en: Yellow-green Tanager
   es: Tangara Verdiamarilla
   fr: Tangara jaune-vert
   de: Olivbergtangare
-  pt: yellow-green tanager
+  pt: ''
   ru: Жёлто-зелёная танагра
   ja: キミドリヤブフウキンチョウ
   nl: Zwartvoorhoofdtangare

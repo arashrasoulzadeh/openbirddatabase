@@ -12,7 +12,7 @@ names:
   es: Loro Ecléctico de Nueva Guinea
   fr: Éclectus papou
   de: Neuguinea-Edelpapagei
-  pt: papuan eclectus
+  pt: ''
   zh: 折衷鸚鵡
   nl: Papoea-edelpapegaai
   pl: barwnica papuaska

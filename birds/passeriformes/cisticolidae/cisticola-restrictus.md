@@ -12,7 +12,7 @@ names:
   es: Cistícola del Tana
   fr: Cisticole du Tana
   de: Tanazistensänger
-  pt: tana river cisticola
+  pt: ''
   ru: Танская цистикола
   ja: タナセッカ
   zh: 塔那河扇尾鶯

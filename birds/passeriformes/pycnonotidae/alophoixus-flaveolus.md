@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24470.0
 names:
   scientific: Alophoixus flaveolus
-  fa: nan
+  fa: ''
   en: White-throated Bulbul
   es: Bulbul Frentigrís
   fr: Bulbul flavéole
   de: Weißkehlbülbül
-  pt: white-throated bulbul
+  pt: ''
   ru: Белогорлый бюльбюль-бородач
   ja: キバラカンムリヒヨドリ
   zh: 黄腹冠鹎

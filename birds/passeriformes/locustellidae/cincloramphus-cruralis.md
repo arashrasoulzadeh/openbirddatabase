@@ -12,7 +12,7 @@ names:
   es: Yerbera Parda
   fr: Mégalure brune
   de: Schwarzbauch-Buschsänger
-  pt: brown songlark
+  pt: ''
   ru: Жаворонковая клинохвостка
   ja: ヒバリモドキ
   zh: 褐鹨莺

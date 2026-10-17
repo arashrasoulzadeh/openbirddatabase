@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2087.0
 names:
   scientific: Macropygia timorlaoensis
-  fa: nan
+  fa: ''
   en: Tanimbar Cuckoo-Dove
   es: Tórtola Cuco de las Tanimbar
   fr: Phasianelle des Tanimbar
   de: Tanimbartaube
-  pt: tanimbar cuckoo-dove
+  pt: ''
   ru: Танимбарская кукушковая горлица
   ja: タニンバルオナガバト
   nl: Tanimbarkoekoeksduif

@@ -12,7 +12,7 @@ names:
   es: Pecholuna Elegante
   fr: Cordon-noir élégant
   de: Rotflügel-Bandvogel
-  pt: elegant crescentchest
+  pt: ''
   ru: Украшенная серпогрудка
   ja: ヒメキマユオタテドリ
   nl: Bonte maansluiper

@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Montano
   fr: Bouscarle de Temminck
   de: Bergdickichtsänger
-  pt: mountain tailorbird
+  pt: ''
   ru: Горная долгоклювка
   ja: キバラサイホウチョウ
   zh: 金头拟缝叶莺

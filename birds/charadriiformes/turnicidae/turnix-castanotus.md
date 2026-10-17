@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6295.0
 names:
   scientific: Turnix castanotus
-  fa: nan
+  fa: ''
   en: Chestnut-backed Buttonquail
   es: Torillo Dorsicastaño
   fr: Turnix castanote
   de: Rotrücken-Laufhühnchen
-  pt: chestnut-backed buttonquail
+  pt: ''
   ru: Каштановоспинная трёхперстка
   ja: セアカミフウズラ
   zh: 栗背三趾鹑

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26090.0
 names:
   scientific: Erythrogenys swinhoei
-  fa: nan
+  fa: ''
   en: Grey-sided Scimitar Babbler
   es: Cimitarra Flanquigrís
   fr: Pomatorhin de Swinhoe

@@ -12,7 +12,7 @@ names:
   es: Tinamú Canelo
   fr: Tinamou cannelle
   de: Buschtinamu
-  pt: thicket tinamou
+  pt: ''
   ru: Кустарниковый скрытохвост
   ja: ヤブシギダチョウ
   zh: 棕穴䳍

@@ -12,7 +12,7 @@ names:
   es: Paloma Faisán Cuelliverde
   fr: Otidiphaps noble
   de: Fasantaube
-  pt: pheasant pigeon
+  pt: ''
   ru: Фазановый голубь
   ja: ゴクラクバト
   zh: 雉鳩

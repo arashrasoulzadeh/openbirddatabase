@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33272.0
 names:
   scientific: Centronyx henslowii
-  fa: nan
+  fa: ''
   en: Henslow's Sparrow
   es: Chingolo de Henslow
   fr: Bruant de Henslow
   de: Henslowammer
-  pt: henslow's sparrow
+  pt: ''
   ru: Рыжекрылая овсянка-барсучок
   ja: ヘンスローヒメドリ
   zh: 亨斯氏草鵐

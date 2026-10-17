@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 23770.0
 names:
   scientific: Acrocephalus astrolabii
-  fa: nan
+  fa: ''
   en: Mangareva Reed Warbler
   es: Carricero de Isla Mangareva
   fr: Rousserolle de l'Astrolabe
   de: Mangarevarohrsänger
-  pt: mangareva reed warbler
+  pt: ''
   ru: Мангаревская камышовка
   ja: マンガレヴァスヨシキリ
   zh: 曼岛苇莺

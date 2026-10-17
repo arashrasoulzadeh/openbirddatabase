@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10817.0
 names:
   scientific: Eubucco tucinkae
-  fa: nan
+  fa: ''
   en: Scarlet-hooded Barbet
   es: Cabezón de Carabaya
   fr: Cabézon de Carabaya

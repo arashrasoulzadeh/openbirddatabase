@@ -15,7 +15,7 @@ names:
   pt: mouse-colored penduline-tit
   ru: Серый ремез
   ja: ネズミアフリカツリスガラ
-  zh: Mouse-colored Penduline Tit
+  zh: ''
   nl: Grijze kapokmees
   pl: remizek blady
   tr: Fare Rengi Çulhakuşu

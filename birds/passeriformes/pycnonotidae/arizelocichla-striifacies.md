@@ -12,7 +12,7 @@ names:
   es: Bulbul Cabecioliva
   fr: Bulbul à face striée
   de: Streifenohrbülbül
-  pt: olive-headed greenbul
+  pt: ''
   ru: Пестролицый бюльбюль
   nl: Streepkopbuulbuul
   pl: górobilbil kreskolicy

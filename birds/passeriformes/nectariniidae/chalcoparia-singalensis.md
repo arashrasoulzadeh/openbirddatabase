@@ -12,7 +12,7 @@ names:
   es: Suimanga Carirrubí
   fr: Souimanga à joues rubis
   de: Rubinwangen-Nektarvogel
-  pt: ruby-cheeked sunbird
+  pt: ''
   ru: Карминнощёкая нектарница
   ja: ホオアカコバシタイヨウチョウ
   zh: 紫颊直嘴太阳鸟

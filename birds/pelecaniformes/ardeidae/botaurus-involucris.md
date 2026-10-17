@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7564.0
 names:
   scientific: Botaurus involucris
-  fa: nan
+  fa: ''
   en: Stripe-backed Bittern
   es: Avetorillo Listado
   fr: Blongios varié

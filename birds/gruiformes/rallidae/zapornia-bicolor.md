@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5602.0
 names:
   scientific: Zapornia bicolor
-  fa: nan
+  fa: ''
   en: Black-tailed Crake
   es: Polluela Bicolor
   fr: Marouette bicolore
   de: Zweifarb-Sumpfhuhn
-  pt: black-tailed crake
+  pt: ''
   ru: Двуцветный погоныш
   ja: オグロクイナ
   zh: 棕背田鸡

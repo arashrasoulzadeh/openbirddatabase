@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29970.0
 names:
   scientific: Pachyglossa everetti
-  fa: nan
+  fa: ''
   en: Brown-backed Flowerpecker
   es: Picaflores Dorsipardo
   fr: Dicée d'Everett
   de: Braunrücken-Mistelfresser
-  pt: brown-backed flowerpecker
+  pt: ''
   ru: Буроспинный цветоед
   ja: メジロハシブトハナドリ
   nl: Bruinrughoningvogel

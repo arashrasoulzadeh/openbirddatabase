@@ -12,7 +12,7 @@ names:
   es: Negrita Pechiblanca
   fr: Nigrette à ventre blanc
   de: Mantelschwärzling
-  pt: white-breasted nigrita
+  pt: ''
   ru: Плащеносная нигрита
   ja: シロハラクロキンバラ
   zh: 白胸黑雀

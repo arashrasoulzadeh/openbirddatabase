@@ -12,7 +12,7 @@ names:
   es: Tangara Rojiblanca
   fr: Tangara rouge
   de: Seidenflankentangare
-  pt: scarlet-and-white tanager
+  pt: ''
   ru: Красно-белая танагра
   ja: ニショクフウキンチョウ
   zh: 红白唐纳雀

@@ -12,7 +12,7 @@ names:
   es: Tejedor Sakalava
   fr: Tisserin sakalave
   de: Sakalavaweber
-  pt: sakalava weaver
+  pt: ''
   ru: Мадагаскарский ткач
   ja: ニシマダガスカルハタオリ
   nl: Sakalavawever

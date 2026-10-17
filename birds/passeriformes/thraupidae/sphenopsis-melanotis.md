@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34686.0
 names:
   scientific: Sphenopsis melanotis
-  fa: nan
+  fa: ''
   en: Black-eared Hemispingus
   es: hemispingo orejinegro
   fr: Tangara barbouillé

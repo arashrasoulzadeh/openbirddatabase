@@ -12,7 +12,7 @@ names:
   es: Abanico Dorsirrufo
   fr: Rhipidure à dos roux
   de: Rostrücken-Fächerschwanz
-  pt: rufous-backed fantail
+  pt: ''
   ru: Рыжеспинная веерохвостка
   ja: セアカオウギビタキ
   zh: 灰胸扇尾鹟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22989.0
 names:
   scientific: Artisornis metopias
-  fa: nan
+  fa: ''
   en: Red-capped Forest Warbler
   es: Sastrecillo Africano
   fr: Apalis couturière
@@ -15,7 +15,7 @@ names:
   pt: african tailorbird
   ru: Красноголовый апалис
   ja: アフリカサイホウチョウ
-  zh: Red-capped Forest Warbler
+  zh: ''
   nl: Roodkapsnijdervogel
   pl: rdzawoczółek oliwkowy
   tr: Afrika Terzikuşu

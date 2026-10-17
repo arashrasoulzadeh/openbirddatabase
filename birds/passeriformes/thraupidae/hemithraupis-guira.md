@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35203.0
 names:
   scientific: Hemithraupis guira
-  fa: nan
+  fa: ''
   en: Guira Tanager
   es: Tangara Guirá
   fr: Tangara guira

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24979.0
 names:
   scientific: Phylloscopus goodsoni
-  fa: nan
+  fa: ''
   en: Hartert's Leaf Warbler
   es: Mosquitero de Hartert
   fr: Pouillot de Goodson
   de: Hartertlaubsänger
-  pt: hartert's leaf warbler
+  pt: ''
   ru: Восточнокитайская пеночка
   ja: ハルテルトムシクイ
   zh: 华南冠纹柳莺

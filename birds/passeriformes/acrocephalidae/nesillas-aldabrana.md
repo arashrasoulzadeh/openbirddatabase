@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 23615.0
 names:
   scientific: Nesillas aldabrana
-  fa: nan
+  fa: ''
   en: Aldabra Brush Warbler
   es: Zarzalero de Isla Aldabra
   fr: Nésille d'Aldabra
@@ -15,7 +15,7 @@ names:
   pt: aldabra brush-warbler
   ru: Сейшельский рогозник
   ja: アルダブラシマヨシキリ
-  zh: Aldabra Brush Warbler
+  zh: ''
   nl: Aldabrazanger
   pl: chaszczak aldabrański
   tr: Aldabra Çalı Ötleğeni

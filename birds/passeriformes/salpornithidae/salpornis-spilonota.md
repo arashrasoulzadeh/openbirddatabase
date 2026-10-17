@@ -12,7 +12,7 @@ names:
   es: Agateador Moteado Indio
   fr: Salpornis tacheté
   de: Indienstammsteiger
-  pt: indian spotted creeper
+  pt: ''
   ru: Индийская пятнистая пищуха
   ja: ホシキバシリ
   nl: Indiase gevlekte boomkruiper

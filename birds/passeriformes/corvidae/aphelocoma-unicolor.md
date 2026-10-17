@@ -12,7 +12,7 @@ names:
   es: Chara Unicolor
   fr: Geai unicolore
   de: Einfarbhäher
-  pt: unicolored jay
+  pt: ''
   ru: Одноцветная сойка
   ja: ムジアオカケス
   zh: 纯色丛鸦

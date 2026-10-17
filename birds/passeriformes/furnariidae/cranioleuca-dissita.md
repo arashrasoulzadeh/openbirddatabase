@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15495.0
 names:
   scientific: Cranioleuca dissita
-  fa: nan
+  fa: ''
   en: Coiba Spinetail
   es: Curutié de Coiba
   fr: Synallaxe de Coiba
   de: Weißkinn-Baumschlüpfer
-  pt: coiba spinetail
+  pt: ''
   ru: Панамская курутия
   ja: コイバアカオカマドドリ
   nl: Coibastekelstaart

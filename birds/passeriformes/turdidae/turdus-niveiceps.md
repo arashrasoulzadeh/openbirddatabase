@@ -12,7 +12,7 @@ names:
   es: Zorzal de Formosa
   fr: Merle de Taïwan
   de: Taiwandrossel
-  pt: taiwan thrush
+  pt: ''
   ru: Тайваньский дрозд
   ja: タイワンツグミ
   zh: 白头鸫

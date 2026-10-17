@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10641.0
 names:
   scientific: Tricholaema melanocephala
-  fa: nan
+  fa: ''
   en: Black-throated Barbet
   es: Barbudo Cabecinegro
   fr: Barbican à tête noire
   de: Schwarzkopf-Bartvogel
-  pt: black-throated barbet
+  pt: ''
   ru: Черноголовая либия
   ja: ズグロコゴシキドリ
   nl: Zwartkopbaardvogel

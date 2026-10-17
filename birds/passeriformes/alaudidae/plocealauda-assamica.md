@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22479.0
 names:
   scientific: Plocealauda assamica
-  fa: nan
+  fa: ''
   en: Bengal Bush Lark
   es: Alondra de Assam
   fr: Alouette d'Assam

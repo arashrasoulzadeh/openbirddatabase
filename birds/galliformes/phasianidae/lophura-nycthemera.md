@@ -12,7 +12,7 @@ names:
   es: Faisán Plateado
   fr: Faisan argenté
   de: Silberfasan
-  pt: silver pheasant
+  pt: ''
   ru: Серебряный фазан
   ja: ハッカン
   zh: 白鹇

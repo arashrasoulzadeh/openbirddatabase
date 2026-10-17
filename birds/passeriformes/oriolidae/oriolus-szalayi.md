@@ -12,7 +12,7 @@ names:
   es: Oropéndola Papú
   fr: Loriot papou
   de: Neuguineapirol
-  pt: brown oriole
+  pt: ''
   ru: Бурая иволга
   ja: チャイロコウライウグイス
   nl: Bruine wielewaal

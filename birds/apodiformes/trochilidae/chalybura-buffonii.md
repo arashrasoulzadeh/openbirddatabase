@@ -12,7 +12,7 @@ names:
   es: Colibrí de Buffon
   fr: Colibri de Buffon
   de: Blauschwanz-Buffonkolibri
-  pt: white-vented plumeleteer
+  pt: ''
   ru: Белогузый колибри
   ja: ワタハラハチドリ
   zh: 白腹棕尾蜂鸟

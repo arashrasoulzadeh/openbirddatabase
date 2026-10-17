@@ -12,7 +12,7 @@ names:
   es: Suimanga del Miombo Oriental
   fr: Souimanga du miombo
   de: Miombonektarvogel
-  pt: eastern miombo sunbird
+  pt: ''
   ru: Миомбская нектраница
   ja: ハイゴシゴシキタイヨウチョウ
   nl: Oostelijke miombohoningzuiger

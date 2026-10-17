@@ -15,7 +15,7 @@ names:
   pt: greater yellow-finch
   ru: Золотобрюхий зерноед
   ja: オオキンノジコ
-  zh: Greater Yellow Finch
+  zh: ''
   nl: Grote saffraangors
   pl: szafranka duża
   tr: Büyük Kanarya İspinozu

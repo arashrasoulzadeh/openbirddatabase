@@ -12,7 +12,7 @@ names:
   es: Tejedor Castaño
   fr: Tisserin roux
   de: Maronenweber
-  pt: chestnut weaver
+  pt: ''
   ru: Каштановый ткач
   ja: クリイロハタオリ
   nl: Kastanjewever

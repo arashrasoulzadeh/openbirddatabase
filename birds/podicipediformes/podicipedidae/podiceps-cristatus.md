@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6872.0
 names:
   scientific: Podiceps cristatus
-  fa: nan
+  fa: ''
   en: Great Crested Grebe
   es: Somormujo Lavanco
   fr: Grèbe huppé

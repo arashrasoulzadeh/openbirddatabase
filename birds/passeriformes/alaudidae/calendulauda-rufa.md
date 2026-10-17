@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22430.0
 names:
   scientific: Calendulauda rufa
-  fa: nan
+  fa: ''
   en: Rusty Bush Lark
   es: Alondra Rufa
   fr: Alouette rousse
@@ -15,7 +15,7 @@ names:
   pt: rusty lark
   ru: Рыжий жаворонок
   ja: チャイロヤブヒバリ
-  zh: Rusty Bush Lark
+  zh: ''
   nl: Roestbruine leeuwerik
   pl: afroskowronek zmienny
   tr: Pas Rengi Toygar

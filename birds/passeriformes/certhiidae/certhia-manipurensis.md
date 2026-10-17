@@ -12,7 +12,7 @@ names:
   es: Agateador de Manipur
   fr: Grimpereau du Manipur
   de: Manipurbaumläufer
-  pt: hume's treecreeper
+  pt: ''
   ru: Манипурская пищуха
   ja: マニプルキバシリ
   zh: 休氏旋木雀

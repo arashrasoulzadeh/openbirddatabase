@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18025.0
 names:
   scientific: Myzomela pammelaena
-  fa: nan
+  fa: ''
   en: Bismarck Black Myzomela
   es: Mielero de Ébano
   fr: Myzomèle ébène
   de: Ebenholz-Honigfresser
-  pt: bismarck black myzomela
+  pt: ''
   ru: Бисмаркская медовка
   ja: コクタンミツスイ
   nl: Ebbendwerghoningeter

@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 33955.0
 names:
   scientific: Vermivora bachmanii
-  fa: nan
+  fa: ''
   en: Bachman's Warbler
   es: Reinita de Bachman
   fr: Paruline de Bachman
   de: Gelbstirn-Waldsänger
-  pt: bachman's warbler
+  pt: ''
   ru: Багамская червеедка
   ja: ムナグロアメリカムシクイ
   zh: 黑胸蟲森鶯

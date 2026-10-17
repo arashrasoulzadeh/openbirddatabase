@@ -12,7 +12,7 @@ names:
   es: Chotacabras Músico
   fr: Engoulevent musicien
   de: Pfeifnachtschwalbe
-  pt: fiery-necked nightjar
+  pt: ''
   ru: Свистящий козодой
   ja: チャエリヨタカ
   zh: 非洲夜鹰

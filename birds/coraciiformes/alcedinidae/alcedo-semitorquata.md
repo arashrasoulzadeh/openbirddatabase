@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Cobalto
   fr: Martin-pêcheur à demi-collier
   de: Kobalteisvogel
-  pt: half-collared kingfisher
+  pt: ''
   ru: Кобальтовый зимородок
   ja: ハシグロカワセミ
   zh: 半領翠鳥

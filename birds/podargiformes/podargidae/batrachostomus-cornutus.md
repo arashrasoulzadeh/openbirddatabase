@@ -12,7 +12,7 @@ names:
   es: Podargo Cornudo
   fr: Podarge cornu
   de: Sundaschwalm
-  pt: sunda frogmouth
+  pt: ''
   ru: Рогатый лягушкорот
   ja: スンダガマグチヨタカ
   zh: 巽他蟆口鴟

@@ -12,7 +12,7 @@ names:
   es: Podargo Australiano
   fr: Podarge gris
   de: Eulenschwalm
-  pt: tawny frogmouth
+  pt: ''
   ru: Исполинский лягушкорот
   ja: オーストラリアガマグチヨタカ
   zh: 茶色蟆口鴟

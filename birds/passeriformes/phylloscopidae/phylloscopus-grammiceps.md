@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24963.0
 names:
   scientific: Phylloscopus grammiceps
-  fa: nan
+  fa: ''
   en: Sunda Warbler
   es: Mosquitero de la Sonda
   fr: Pouillot de la Sonde
   de: Javalaubsänger
-  pt: sunda warbler
+  pt: ''
   ru: Зондская расписная пеночка
   ja: スンダモリムシクイ
   nl: Soendaboszanger

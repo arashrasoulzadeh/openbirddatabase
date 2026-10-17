@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Esmeralda Grande
   fr: Paradisier grand-émeraude
   de: Großparadiesvogel
-  pt: greater bird-of-paradise
+  pt: ''
   ru: Большая райская птица
   ja: オオフウチョウ
-  zh: Greater Bird-of-paradise
+  zh: ''
   nl: Grote paradijsvogel
   pl: cudowronka wielka
   tr: Büyük Cennetkuşu

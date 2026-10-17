@@ -12,7 +12,7 @@ names:
   es: Chochín Malvinero
   fr: Troglodyte de Cobb
   de: Falklandzaunkönig
-  pt: cobb's wren
+  pt: ''
   ru: Фолклендский крапивник
   ja: フォークランドミソサザイ
   zh: 克布氏鷦鷯

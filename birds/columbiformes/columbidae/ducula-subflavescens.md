@@ -15,7 +15,7 @@ names:
   pt: yellowish imperial-pigeon
   ru: Желтоватый плодовый голубь
   ja: キイロソデグロバト
-  zh: Yellowish Imperial Pigeon
+  zh: ''
   nl: Bismarckmuskaatduif
   pl: muszkatela melanezyjska
   tr: Sarıca Has Güvercin

@@ -12,7 +12,7 @@ names:
   es: Gorrión de Taczanowski
   fr: Niverolle de Taczanowski
   de: Weißbürzel-Erdsperling
-  pt: white-rumped snowfinch
+  pt: ''
   ru: Белопоясный земляной воробей
   ja: コシジロユキスズメ
   zh: 白腰雪雀

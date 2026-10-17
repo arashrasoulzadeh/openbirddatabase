@@ -12,7 +12,7 @@ names:
   es: Casuario Común
   fr: Casoar à casque
   de: Helmkasuar
-  pt: southern cassowary
+  pt: ''
   ru: Шлемоносный казуар
   ja: ヒクイドリ
   nl: Helmkasuaris

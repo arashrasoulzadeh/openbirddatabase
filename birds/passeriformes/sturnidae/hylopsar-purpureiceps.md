@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27944.0
 names:
   scientific: Hylopsar purpureiceps
-  fa: nan
+  fa: ''
   en: Purple-headed Starling
   es: Estornino Cabecipúrpura
   fr: Choucador à tête pourprée
   de: Samtglanzstar
-  pt: purple-headed starling
+  pt: ''
   ru: Бархатный спрео
   ja: ムラサキズキンテリムク
   nl: Purperkopglansspreeuw

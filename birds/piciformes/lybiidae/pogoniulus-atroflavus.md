@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10595.0
 names:
   scientific: Pogoniulus atroflavus
-  fa: nan
+  fa: ''
   en: Red-rumped Tinkerbird
   es: Barbudito Culirrojo
   fr: Barbion à croupion rouge
   de: Rotbürzel-Bartvogel
-  pt: red-rumped tinkerbird
+  pt: ''
   ru: Красногузый медник
   ja: コシアカヒメゴシキドリ
   nl: Roodstuitketellapper

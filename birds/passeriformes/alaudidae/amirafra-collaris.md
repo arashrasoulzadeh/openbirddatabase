@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22514.0
 names:
   scientific: Amirafra collaris
-  fa: nan
+  fa: ''
   en: Collared Lark
   es: Alondra Acollarada
   fr: Alouette à collier
   de: Halsbandlerche
-  pt: collared lark
+  pt: ''
   ru: Ошейниковый жаворонок
   ja: クロエリヤブヒバリ
   nl: Befleeuwerik

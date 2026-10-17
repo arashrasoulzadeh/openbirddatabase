@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28203.0
 names:
   scientific: Zoothera griseiceps
-  fa: nan
+  fa: ''
   en: Sichuan Thrush
   es: Zorzal Dorsiliso de Sichuán
   fr: Grive du Sichuan
   de: Sichuanerddrossel
-  pt: sichuan thrush
+  pt: ''
   ru: Сычуаньский дрозд
   ja: シセントラツグミ
   nl: Sichuanlijster

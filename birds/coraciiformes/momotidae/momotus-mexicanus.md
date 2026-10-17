@@ -12,7 +12,7 @@ names:
   es: Momoto Mexicano
   fr: Motmot à tête rousse
   de: Braunscheitelmotmot
-  pt: russet-crowned motmot
+  pt: ''
   ru: Бурошапочный момот
   ja: チャズキンハチクイモドキ
   nl: Bruinkopmotmot

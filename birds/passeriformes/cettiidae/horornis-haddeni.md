@@ -15,7 +15,7 @@ names:
   pt: odedi
   ru: Бугенвильская широкохвостка
   ja: ブーゲンビルウグイス
-  zh: Bougainville Bush Warbler
+  zh: ''
   nl: Odedi
   pl: wierzbownik jasnogardły
   tr: Bogenvil Çalıbülbülü

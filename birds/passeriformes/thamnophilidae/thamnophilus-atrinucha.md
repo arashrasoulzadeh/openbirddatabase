@@ -12,7 +12,7 @@ names:
   es: Batará Pizarroso Occidental
   fr: Batara à nuque noire
   de: Kolumbienameisenwürger
-  pt: black-crowned antshrike
+  pt: ''
   ru: Пестрокрылый колючник
   ja: ニシハイイロアリモズ
   zh: 西蓝灰蚁鵙

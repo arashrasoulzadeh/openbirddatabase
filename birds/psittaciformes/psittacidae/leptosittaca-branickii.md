@@ -12,7 +12,7 @@ names:
   es: Aratinga de Pinceles
   fr: Conure à pinceaux d'or
   de: Pinselsittich
-  pt: golden-plumed parakeet
+  pt: ''
   ru: Желтоусый попугай
   ja: ミヤマインコ
   zh: 金羽鹦哥属

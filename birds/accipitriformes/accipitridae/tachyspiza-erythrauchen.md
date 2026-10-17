@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8148.0
 names:
   scientific: Tachyspiza erythrauchen
-  fa: nan
+  fa: ''
   en: Rufous-necked Sparrowhawk
   es: Gavilán Moluqueño
   fr: Épervier à gorge grise
   de: Rotnackensperber
-  pt: rufous-necked sparrowhawk
+  pt: ''
   ru: Красношейный перепелятник
   ja: モルッカツミ
   zh: 褐領雀鷹

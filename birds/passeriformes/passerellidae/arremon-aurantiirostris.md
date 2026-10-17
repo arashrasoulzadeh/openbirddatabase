@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33051.0
 names:
   scientific: Arremon aurantiirostris
-  fa: nan
+  fa: ''
   en: Orange-billed Sparrow
   es: Cerquero Piquinaranja
   fr: Tohi à bec orange
   de: Goldschnabel-Buschammer
-  pt: orange-billed sparrow
+  pt: ''
   ru: Оранжевоклювый тохи
   ja: アカハシシズカシトド
   nl: Goudsnavelgors

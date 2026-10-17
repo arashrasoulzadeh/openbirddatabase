@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17263.0
 names:
   scientific: Sirystes albocinereus
-  fa: nan
+  fa: ''
   en: White-rumped Sirystes
   es: Mosquero Culiblanco
   fr: Tyran à croupion blanc

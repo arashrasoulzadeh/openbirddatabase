@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2946.0
 names:
   scientific: Heterotetrax rueppelii
-  fa: nan
+  fa: ''
   en: Rüppell's Korhaan
   es: Sisón de Damaraland
   fr: Outarde de Rüppell
@@ -15,7 +15,7 @@ names:
   pt: rüppell's bustard
   ru: Намибийский корхан
   ja: コノドグロショウノガン
-  zh: Rüppell's Korhaan
+  zh: ''
   nl: Rüppelltrap
   pl: dropik namibijski
   tr: Rüppell Toyu

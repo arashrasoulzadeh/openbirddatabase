@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2083.0
 names:
   scientific: Macropygia macassariensis
-  fa: nan
+  fa: ''
   en: Flores Sea Cuckoo-Dove
   es: Tórtola Cuco de Flores
   fr: Phasianelle de Wallace
   de: Wellenbrusttaube
-  pt: flores sea cuckoo-dove
+  pt: ''
   ru: Флоресская кукушковая горлица
   ja: オオオナガバト
   nl: Floreszeekoekoeksduif

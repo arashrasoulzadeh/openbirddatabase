@@ -12,7 +12,7 @@ names:
   es: Zorzal Jamaicano
   fr: Merle aux yeux blancs
   de: Weißaugendrossel
-  pt: white-eyed thrush
+  pt: ''
   ru: Белоглазый дрозд
   ja: メジロムジツグミ
   nl: Witooglijster

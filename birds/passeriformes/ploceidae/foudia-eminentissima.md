@@ -15,7 +15,7 @@ names:
   pt: red-headed fody
   ru: Красноголовый фуди
   ja: シロハラベニノジコ
-  zh: Comoro Fody
+  zh: ''
   nl: Comorenwever
   pl: wikłacz komorski
   tr: Komoro Fodisi

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22985.0
 names:
   scientific: Oreolais pulcher
-  fa: nan
+  fa: ''
   en: Black-collared Apalis
   es: Apalis Cuellinegro
   fr: Apalis à col noir
   de: Schmuckfeinsänger
-  pt: black-collared apalis
+  pt: ''
   ru: Украшенный апалис
   ja: ワキアカイロムシクイ
   nl: Ornaatapalis

@@ -15,7 +15,7 @@ names:
   pt: gray-chested jungle flycatcher
   ru: Серогрудая джунглевая мухоловка
   ja: ノドジロミツリンヒタキ
-  zh: Grey-chested Jungle Flycatcher
+  zh: ''
   nl: Witkeeljunglevliegenvanger
   pl: dżunglówka szaropierśna
   tr: Tarçın Rengi Sinekkapan

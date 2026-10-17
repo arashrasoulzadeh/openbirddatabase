@@ -12,7 +12,7 @@ names:
   es: Cuco Oscuro
   fr: Coucou de Bock
   de: Grausperberkuckuck
-  pt: dark hawk-cuckoo
+  pt: ''
   ru: Тёмная кукушка
   ja: クロジュウイチ
   zh: 烏鷹鵑

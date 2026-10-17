@@ -12,7 +12,7 @@ names:
   es: Pradero Occidental
   fr: Sturnelle de l'Ouest
   de: Wiesenstärling
-  pt: western meadowlark
+  pt: ''
   ru: Западный луговой трупиал
   ja: ニシマキバドリ
   zh: 西美草地鷚

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29553.0
 names:
   scientific: Ficedula albicilla
-  fa: nan
+  fa: ''
   en: Taiga Flycatcher
   es: Papamoscas de la Taiga
   fr: Gobemouche de la taïga

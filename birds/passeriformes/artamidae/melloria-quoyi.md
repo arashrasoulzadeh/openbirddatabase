@@ -12,7 +12,7 @@ names:
   es: Verdugo Negro
   fr: Cassican des mangroves
   de: Mangrovekrähenstar
-  pt: black butcherbird
+  pt: ''
   ru: Чёрная флейтовая птица
   ja: クロモズガラス
   zh: 黑鐘鵲

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 8009.0
 names:
   scientific: Nisaetus pinskeri
-  fa: nan
+  fa: ''
   en: Pinsker's Hawk-Eagle
   es: Águila de Pinsker
   fr: Aigle de Pinsker
   de: Mindanaohaubenadler
-  pt: pinsker's hawk-eagle
+  pt: ''
   ru: Васаянский хохлатый орёл
   ja: ピンスカークマタカ
   nl: Zuid-Filipijnse kuifarend

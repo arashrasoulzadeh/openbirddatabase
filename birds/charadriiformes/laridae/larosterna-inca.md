@@ -12,7 +12,7 @@ names:
   es: Charrán Inca
   fr: Sterne inca
   de: Inkaseeschwalbe
-  pt: inca tern
+  pt: ''
   ru: Крачка-инка
   ja: インカアジサシ
   zh: 印加燕鸥

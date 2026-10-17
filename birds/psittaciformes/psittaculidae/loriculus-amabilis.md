@@ -15,7 +15,7 @@ names:
   pt: moluccan hanging-parrot
   ru: Молуккский лорикулюс
   ja: コシミノサトウチョウ
-  zh: Moluccan Hanging Parrot
+  zh: ''
   nl: Molukse vleermuisparkiet
   pl: zwisogłówka molucka
   tr: Maluku Cennet Papağanı

@@ -15,7 +15,7 @@ names:
   pt: lesser ground-cuckoo
   ru: Дроздовая кукушка
   ja: チビミチバシリ
-  zh: Lesser Ground Cuckoo
+  zh: ''
   nl: Lijsterkoekoek
   pl: klinochwostka mała
   tr: Küçük Yer Guguğu

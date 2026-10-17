@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7665.0
 names:
   scientific: Calherodius leuconotus
-  fa: nan
+  fa: ''
   en: White-backed Night Heron
   es: Martinete Encapuchado
   fr: Bihoreau à dos blanc

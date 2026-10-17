@@ -12,7 +12,7 @@ names:
   es: Zanate Marismeño
   fr: Quiscale des marais
   de: Bootschwanzgrackel
-  pt: boat-tailed grackle
+  pt: ''
   ru: Лодкохвостый гракл
   ja: キタオナガクロムクドリモドキ
   zh: 船尾擬八哥

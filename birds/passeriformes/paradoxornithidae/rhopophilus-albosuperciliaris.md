@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25400.0
 names:
   scientific: Rhopophilus albosuperciliaris
-  fa: nan
+  fa: ''
   en: Tarim Babbler
   es: Timalí del Tarim
   fr: Rhopophile du Tarim
   de: Tarimgrasmücke
-  pt: tarim babbler
+  pt: ''
   ru: Таримский камышовник
   ja: シロマユチメドリ
   zh: 西域山鹛

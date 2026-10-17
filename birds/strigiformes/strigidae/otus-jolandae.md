@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 8725.0
 names:
   scientific: Otus jolandae
-  fa: nan
+  fa: ''
   en: Rinjani Scops Owl
   es: Autillo del Rinjani
   fr: Petit-duc de Lombok
@@ -15,7 +15,7 @@ names:
   pt: rinjani scops-owl
   ru: Ломбокская совка
   ja: リンジャニコノハズク
-  zh: Rinjani Scops Owl
+  zh: ''
   nl: Rinjanidwergooruil
   pl: syczek kraterowy
   tr: Rinjani İshakkuşu

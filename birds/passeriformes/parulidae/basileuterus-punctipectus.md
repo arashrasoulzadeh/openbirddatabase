@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34281.0
 names:
   scientific: Basileuterus punctipectus
-  fa: nan
+  fa: ''
   en: Yungas Warbler
   es: Reinita de Los Yungas
   fr: Paruline des yungas
   de: Yungaswaldsänger
-  pt: yungas warbler
+  pt: ''
   ru: Боливийская корольковка
   nl: Yungaszanger
   pl: koronówka czarnoucha

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9342.0
 names:
   scientific: Ninox plesseni
-  fa: nan
+  fa: ''
   en: Alor Boobook
   es: Nínox de Alor
   fr: Ninoxe d'Alor
   de: Alorkauz
-  pt: alor boobook
+  pt: ''
   ja: アロールアオバズク
   nl: Alorboeboek
   pl: sowica atolowa

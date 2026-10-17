@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 14450.0
 names:
   scientific: Scytalopus robbinsi
-  fa: nan
+  fa: ''
   en: El Oro Tapaculo
   es: Churrín de El Oro
   fr: Mérulaxe de Robbins
@@ -15,7 +15,7 @@ names:
   pt: ecuadorian tapaculo
   ru: Эквадорский тапакуло
   ja: エクアドルオタテドリ
-  zh: El Oro Tapaculo
+  zh: ''
   nl: Robbinstapaculo
   pl: krytonosek ekwadorski
   tr: El Oro Tapakolası

@@ -10,7 +10,7 @@ names:
   en: Plains Lark
   es: Alondra de las Llanuras
   fr: Alouette de Kabali
-  pt: plains lark
+  pt: ''
   nl: Vlakteleeuwerik
   pl: skowroniec buszowy
   tr: Soluk Kızıl Enseli Toygar

@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 3392.0
 names:
   scientific: Cacomantis blandus
-  fa: nan
+  fa: ''
   en: Manus Brush Cuckoo
   es: Cuco de las Almirantazgo
   fr: Coucou de l'Amirauté
-  pt: manus brush cuckoo
+  pt: ''
   ja: マヌスハイガシラヒメカッコウ
   nl: Manusstruikkoekoek
   pl: kukułka szarogardła

@@ -12,7 +12,7 @@ names:
   es: Arborófila Cariblanca
   fr: Torquéole à joues blanches
   de: Weißwangen-Buschwachtel
-  pt: white-cheeked partridge
+  pt: ''
   ru: Белощёкая лесная куропатка
   ja: ノドグロミヤマテッケイ
   zh: 白颊山鹧鸪

@@ -15,7 +15,7 @@ names:
   pt: papyrus yellow-warbler
   ru: Папирусовая бормотушка
   ja: ハシボソキイロムシクイ
-  zh: Papyrus Yellow Warbler
+  zh: ''
   nl: Geelbuikrietzanger
   pl: papiruśnik
   tr: Sarı Papirus Ötleğeni

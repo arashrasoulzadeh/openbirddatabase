@@ -12,7 +12,7 @@ names:
   es: Francolín Cuellicastaño
   fr: Francolin à cou roux
   de: Braunnackenfrankolin
-  pt: chestnut-naped spurfowl
+  pt: ''
   ru: Каштановозатылочный турач
   ja: チャエリシャコ
   nl: Roestkopfrankolijn

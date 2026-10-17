@@ -15,7 +15,7 @@ names:
   pt: gray francolin
   ru: Серый турач
   ja: シマシャコ
-  zh: Grey Francolin
+  zh: ''
   nl: Grijze frankolijn
   pl: frankolin indyjski
   tr: Boz Turaç

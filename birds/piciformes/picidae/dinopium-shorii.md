@@ -12,7 +12,7 @@ names:
   es: Pito de Shore
   fr: Pic de Shore
   de: Himalaja-Feuerrückenspecht
-  pt: himalayan flameback
+  pt: ''
   ru: Гималайский дятел-султан
   ja: ヒマラヤズアカミユビゲラ
   zh: 喜山金背啄木鸟

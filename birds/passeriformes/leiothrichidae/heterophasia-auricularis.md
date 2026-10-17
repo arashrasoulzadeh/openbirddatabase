@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26505.0
 names:
   scientific: Heterophasia auricularis
-  fa: nan
+  fa: ''
   en: White-eared Sibia
   es: Sibia de Formosa
   fr: Garrulaxe oreillard
   de: Weißohrsibia
-  pt: white-eared sibia
+  pt: ''
   ru: Белоухая сибия
   ja: ミミジロチメドリ
   zh: 白耳奇鹛

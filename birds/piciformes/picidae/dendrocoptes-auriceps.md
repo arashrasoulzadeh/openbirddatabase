@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11271.0
 names:
   scientific: Dendrocoptes auriceps
-  fa: nan
+  fa: ''
   en: Brown-fronted Woodpecker
   es: Pico Frentipardo
   fr: Pic à tête jaune
   de: Braunstirnspecht
-  pt: brown-fronted woodpecker
+  pt: ''
   ru: Коронованный дятел
   ja: キボウシアカゲラ
   zh: 褐额啄木鸟

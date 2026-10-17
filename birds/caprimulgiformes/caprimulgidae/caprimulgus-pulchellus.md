@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Salvadori
   fr: Engoulevent de Salvadori
   de: Salvadorinachtschwalbe
-  pt: salvadori's nightjar
+  pt: ''
   ru: Зондский козодой
   ja: ジャワヨタカ
   zh: 萨氏夜鹰

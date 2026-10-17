@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12825.0
 names:
   scientific: Brotogeris sanctithomae
-  fa: nan
+  fa: ''
   en: Tui Parakeet
   es: Catita Frentigualda
   fr: Toui à front d'or

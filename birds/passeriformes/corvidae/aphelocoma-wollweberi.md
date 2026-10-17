@@ -12,7 +12,7 @@ names:
   es: Chara Pechigrís
   fr: Geai du Mexique
   de: Mexikohäher
-  pt: mexican jay
+  pt: ''
   ru: Мексиканская сойка
   ja: メキシコカケス
   nl: Mexicaanse gaai

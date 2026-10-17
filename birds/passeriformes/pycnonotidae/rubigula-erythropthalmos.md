@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24629.0
 names:
   scientific: Rubigula erythropthalmos
-  fa: nan
+  fa: ''
   en: Spectacled Bulbul
   es: Bulbul de Anteojos
   fr: Bulbul oeil-de-feu
   de: Brillenbülbül
-  pt: spectacled bulbul
+  pt: ''
   ru: Красноглазый бюльбюль
   ja: コアカメチャイロヒヨドリ
   zh: 小褐鵯

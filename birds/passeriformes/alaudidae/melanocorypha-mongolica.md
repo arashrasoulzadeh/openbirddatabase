@@ -12,7 +12,7 @@ names:
   es: Calandria de Mongolia
   fr: Alouette de Mongolie
   de: Mongolenlerche
-  pt: mongolian lark
+  pt: ''
   ru: Монгольский жаворонок
   ja: コウテンシ
   zh: 蒙古百灵

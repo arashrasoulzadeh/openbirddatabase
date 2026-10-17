@@ -12,7 +12,7 @@ names:
   es: Trepador de Yunnán
   fr: Sittelle du Yunnan
   de: Yunnankleiber
-  pt: yunnan nuthatch
+  pt: ''
   ru: Юннаньский поползень
   ja: ウンナンゴジュウカラ
   zh: 滇䴓

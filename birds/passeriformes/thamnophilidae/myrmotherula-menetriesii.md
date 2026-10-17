@@ -15,7 +15,7 @@ names:
   pt: choquinha-de-garganta-cinza
   ru: Пестрокрылый муравьелов
   ja: ハイバラヒメアリサザイ
-  zh: Grey Antwren
+  zh: ''
   nl: Bonte miersluiper
   pl: mrówiaczek siwy
   tr: Gri Karıncaçıvgını

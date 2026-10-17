@@ -12,7 +12,7 @@ names:
   es: Albatros de Galápagos
   fr: Albatros des Galapagos
   de: Galápagosalbatros
-  pt: waved albatross
+  pt: ''
   ru: Галапагосский альбатрос
   ja: ガラパゴスアホウドリ
   zh: 波紋信天翁

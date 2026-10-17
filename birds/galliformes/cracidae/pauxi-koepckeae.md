@@ -12,7 +12,7 @@ names:
   es: Paují Unicornio Peruano
   fr: Hocco de Koepcke
   de: Koepckehokko
-  pt: sira curassow
+  pt: ''
   ru: Перуанский гокко
   ja: シラホウカンチョウ
   zh: 希拉盔嘴雉

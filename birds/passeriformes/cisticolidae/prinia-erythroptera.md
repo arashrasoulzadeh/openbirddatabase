@@ -12,7 +12,7 @@ names:
   es: Prinia Alirroja
   fr: Prinia à ailes rousses
   de: Sonnenprinie
-  pt: red-winged prinia
+  pt: ''
   ru: Краснокрылая приния
   ja: アカバネムシクイ
   nl: Roodvleugelprinia

@@ -15,7 +15,7 @@ names:
   pt: plumbeous forest-falcon
   ru: Сизый лесной сокол
   ja: ハイイロモリハヤブサ
-  zh: Plumbeous Forest Falcon
+  zh: ''
   nl: Sclaterbosvalk
   pl: trębacz szarogardły
   tr: Kurşuni Orman Doğanı

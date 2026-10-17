@@ -15,7 +15,7 @@ names:
   pt: papuan owl
   ru: Папуанская сова
   ja: パプアオナガフクロウ
-  zh: Papuan Hawk-Owl
+  zh: ''
   nl: Havikuil
   pl: sowica jastrzębia
   tr: Papua Atmaca Baykuşu

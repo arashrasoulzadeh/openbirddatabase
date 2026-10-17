@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 25798.0
 names:
   scientific: Zosterops melanurus
-  fa: nan
+  fa: ''
   en: Sangkar White-eye
   es: Anteojitos de Sangkar
   fr: Zostérops à queue noire
   de: Sangkarbrillenvogel
-  pt: sangkar white-eye
+  pt: ''
   ru: Яванская белоглазка
   ja: サンカーメジロ
   zh: 印尼繡眼

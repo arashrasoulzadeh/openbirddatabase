@@ -12,7 +12,7 @@ names:
   es: Zarapito Americano
   fr: Courlis à long bec
   de: Rostbrachvogel
-  pt: long-billed curlew
+  pt: ''
   ru: Американский кроншнеп
   ja: アメリカダイシャクシギ
   zh: 长嘴杓鹬

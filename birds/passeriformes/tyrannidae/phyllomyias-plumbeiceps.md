@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16778.0
 names:
   scientific: Phyllomyias plumbeiceps
-  fa: nan
+  fa: ''
   en: Plumbeous-crowned Tyrannulet
   es: Mosquerito Coroniplomizo
   fr: Tyranneau plombé
   de: Graukronen-Kleintyrann
-  pt: plumbeous-crowned tyrannulet
+  pt: ''
   ru: Андский москитеро
   ja: ミミグロコタイランチョウ
   nl: Loodkruinvliegenpikker

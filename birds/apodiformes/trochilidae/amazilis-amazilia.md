@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5123.0
 names:
   scientific: Amazilis amazilia
-  fa: nan
+  fa: ''
   en: Amazilia Hummingbird
   es: Amazilia Costeña
   fr: Ariane de Lesson
   de: Rostbauchamazilie
-  pt: amazilia hummingbird
+  pt: ''
   ru: Рыжебрюхая амазилия
   ja: チャムネエメラルドハチドリ
   zh: 艳蜂鸟

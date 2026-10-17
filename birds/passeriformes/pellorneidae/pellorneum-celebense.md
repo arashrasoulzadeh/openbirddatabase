@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26272.0
 names:
   scientific: Pellorneum celebense
-  fa: nan
+  fa: ''
   en: Sulawesi Babbler
   es: Tordina de Célebes
   fr: Akalat des Célèbes
   de: Weißkehl-Mausdrossling
-  pt: sulawesi babbler
+  pt: ''
   ru: Сулавесский усатоклюв
   ja: セレベスムジチメドリ
   zh: 蘇拉威西雅鶥

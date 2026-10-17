@@ -12,7 +12,7 @@ names:
   es: Sedosito Estriado
   fr: Séricorne strié
   de: Strichelhuscher
-  pt: striated fieldwren
+  pt: ''
   ru: Исчерченный ложнокрапивник
   ja: キバラノハラムシクイ
   nl: Gestreepte struiksluiper

@@ -12,7 +12,7 @@ names:
   es: Talégalo de las Marianas
   fr: Mégapode de La Pérouse
   de: Marianen-Großfußhuhn
-  pt: micronesian megapode
+  pt: ''
   ru: Микронезийский большеног
   ja: マリアナツカツクリ
   zh: 密克羅尼西亞塚雉

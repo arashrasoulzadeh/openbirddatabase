@@ -12,7 +12,7 @@ names:
   es: Toco Negro Occidental
   fr: Calao de Hartlaub
   de: Westlicher Hartlaub-Toko
-  pt: western dwarf hornbill
+  pt: ''
   ru: Чёрный малый ток
   ja: マミジロマメサイチョウ
   nl: Westelijke zwarte tok

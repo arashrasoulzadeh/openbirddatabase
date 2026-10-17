@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17929.0
 names:
   scientific: Melilestes megarhynchus
-  fa: nan
+  fa: ''
   en: Long-billed Honeyeater
   es: Mielero Piquilargo
   fr: Méliphage à long bec
   de: Langschnabel-Honigfresser
-  pt: long-billed honeyeater
+  pt: ''
   ru: Длинноклювый нектаролюб
   ja: ハシブトミツスイ
   nl: Langsnavelhoningeter

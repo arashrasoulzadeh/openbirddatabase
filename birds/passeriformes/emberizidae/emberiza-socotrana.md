@@ -12,7 +12,7 @@ names:
   es: Escribano de Socotra
   fr: Bruant de Socotra
   de: Sokotraammer
-  pt: socotra bunting
+  pt: ''
   ru: Сокотранская овсянка
   ja: ソコトラホオジロ
   nl: Socotragors

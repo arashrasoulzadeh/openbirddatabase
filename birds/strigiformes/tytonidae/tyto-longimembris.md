@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8603.0
 names:
   scientific: Tyto longimembris
-  fa: nan
+  fa: ''
   en: Eastern Grass Owl
   es: Lechuza Patilarga
   fr: Effraie de prairie

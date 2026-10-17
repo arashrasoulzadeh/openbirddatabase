@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9034.0
 names:
   scientific: Glaucidium hardyi
-  fa: nan
+  fa: ''
   en: Amazonian Pygmy Owl
   es: Mochuelo Amazónico
   fr: Chevêchette d'Amazonie
@@ -15,7 +15,7 @@ names:
   pt: caburé-da-amazônia
   ru: Амазонский сычик
   ja: ハーディスズメフクロウ
-  zh: Amazonian Pygmy Owl
+  zh: ''
   nl: Amazonedwerguil
   pl: sóweczka brazylijska
   tr: Amazon Serçe Baykuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26076.0
 names:
   scientific: Erythrogenys erythrogenys
-  fa: nan
+  fa: ''
   en: Rusty-cheeked Scimitar Babbler
   es: Cimitarra Carirrufa
   fr: Pomatorhin à joues rousses

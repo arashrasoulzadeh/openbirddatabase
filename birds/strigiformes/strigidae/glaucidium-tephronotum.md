@@ -12,7 +12,7 @@ names:
   es: Mochuelo Pechirrojo
   fr: Chevêchette à pieds jaunes
   de: Rotbrust-Zwergkauz
-  pt: red-chested owlet
+  pt: ''
   ru: Красногрудый сычик
   ja: ムネアカスズメフクロウ
   nl: Roodborstdwerguil

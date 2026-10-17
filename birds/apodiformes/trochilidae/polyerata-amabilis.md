@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5190.0
 names:
   scientific: Polyerata amabilis
-  fa: nan
+  fa: ''
   en: Blue-chested Hummingbird
   es: Amazilia Amable
   fr: Ariane aimable
   de: Blaubrustamazilie
-  pt: blue-chested hummingbird
+  pt: ''
   ru: Голубогрудая амазилия
   ja: エメラルドハチドリ
   nl: Blauwborstamazilia

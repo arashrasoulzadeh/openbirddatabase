@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17095.0
 names:
   scientific: Muscisaxicola rufivertex
-  fa: nan
+  fa: ''
   en: Rufous-naped Ground Tyrant
   es: Dormilona Nuquirroja
   fr: Dormilon à calotte rousse
@@ -15,7 +15,7 @@ names:
   pt: rufous-naped ground-tyrant
   ru: Рыжешапочная дормилона
   ja: イワタイランチョウ
-  zh: Rufous-naped Ground Tyrant
+  zh: ''
   nl: Roodnekgrondtiran
   pl: skałotyran rdzawołbisty
   tr: Kızıl Enseli Yer Tiranı

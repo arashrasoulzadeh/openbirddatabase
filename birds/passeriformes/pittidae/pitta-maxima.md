@@ -12,7 +12,7 @@ names:
   es: Pita de Halmahera
   fr: Brève d'Halmahera
   de: Weißbrustpitta
-  pt: ivory-breasted pitta
+  pt: ''
   ru: Белобрюхая питта
   ja: オオヤイロチョウ
   zh: 白胸八色鶇

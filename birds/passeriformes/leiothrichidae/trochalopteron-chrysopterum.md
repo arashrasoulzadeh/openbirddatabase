@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26478.0
 names:
   scientific: Trochalopteron chrysopterum
-  fa: nan
+  fa: ''
   en: Assam Laughingthrush
   es: Charlatán de Assam
   fr: Garrulaxe d'Assam
   de: Assamhäherling
-  pt: assam laughingthrush
+  pt: ''
   ru: Ассамская кустарница
   ja: アッサムガビチョウ
   zh: 金翅噪鹛

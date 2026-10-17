@@ -12,7 +12,7 @@ names:
   es: Picaflores de las Andamán
   fr: Dicée des Andaman
   de: Andamanenmistelfresser
-  pt: andaman flowerpecker
+  pt: ''
   ru: Андаманский цветоед
   ja: アンダマンハナドリ
   nl: Andamanenhoningvogel

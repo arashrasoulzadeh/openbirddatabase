@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 10609.0
 names:
   scientific: Pogoniulus uropygialis
-  fa: nan
+  fa: ''
   en: Northern Red-fronted Tinkerbird
   es: Barbudito Frentirrojo Norteño
   fr: Barbion de Heuglin
-  pt: northern red-fronted tinkerbird
+  pt: ''
   ja: キタアカビタイヒメゴシキドリ
   nl: Roodvoorhoofdketellapper
   pl: wąsaczek pstry

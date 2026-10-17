@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2099.0
 names:
   scientific: Macropygia doreya
-  fa: nan
+  fa: ''
   en: Sultan's Cuckoo-Dove
   es: Tórtola Cuco Sultán
   fr: Phasianelle sultane
   de: Sultantaube
-  pt: sultan's cuckoo-dove
+  pt: ''
   ru: Султанская кукушковая горлица
   ja: スルターンオナガバト
   nl: Sultankoekoeksduif

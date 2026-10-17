@@ -12,7 +12,7 @@ names:
   es: Prinia Fluvial
   fr: Prinia aquatique
   de: Flussprinie
-  pt: river prinia
+  pt: ''
   ru: Речная приния
   ja: カワハウチワドリ
   nl: Rivierprinia

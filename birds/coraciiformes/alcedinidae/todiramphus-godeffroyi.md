@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 10131.0
 names:
   scientific: Todiramphus godeffroyi
-  fa: nan
+  fa: ''
   en: Marquesan Kingfisher
   es: Alción de las Marquesas
   fr: Martin-chasseur des Marquises
   de: Marquesasliest
-  pt: marquesan kingfisher
+  pt: ''
   ru: Маркизская альциона
   ja: マルケサスショウビン
   zh: 馬克島翡翠

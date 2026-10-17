@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33078.0
 names:
   scientific: Arremon virenticeps
-  fa: nan
+  fa: ''
   en: Green-striped Brushfinch
   es: Cerquero Verdilistado
   fr: Tohi à raies vertes
   de: Grünscheitel-Buschammer
-  pt: green-striped brushfinch
+  pt: ''
   ru: Зеленобровый тохи
   ja: メキシコスジボウシヤブシトド
   nl: Groenkruinstruikgors

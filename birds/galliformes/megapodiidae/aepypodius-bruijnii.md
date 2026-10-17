@@ -12,7 +12,7 @@ names:
   es: Talégalo de Waigeo
   fr: Talégalle de Bruijn
   de: Braunbrust-Buschhuhn
-  pt: waigeo brushturkey
+  pt: ''
   ru: Красноголовий курохвост
   ja: ワイゲウツカツクリ
   zh: 冠塚雉

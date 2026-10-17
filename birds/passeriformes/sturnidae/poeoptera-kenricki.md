@@ -12,7 +12,7 @@ names:
   es: Estornino de Kenrick
   fr: Choucador de Kenrick
   de: Kenrickstar
-  pt: kenrick's starling
+  pt: ''
   ru: Танзанийский скворец
   ja: クロテリムク
   nl: Kenrickspreeuw

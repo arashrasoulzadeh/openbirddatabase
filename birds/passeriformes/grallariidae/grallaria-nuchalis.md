@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14252.0
 names:
   scientific: Grallaria nuchalis
-  fa: nan
+  fa: ''
   en: Chestnut-naped Antpitta
   es: Tororoí Nuquicastaño
   fr: Grallaire à nuque rousse
   de: Rostnacken-Ameisenpitta
-  pt: chestnut-naped antpitta
+  pt: ''
   ru: Каштановоголовая питтовая муравьеловка
   ja: クリエリジアリドリ
   nl: Roodnekmierpitta

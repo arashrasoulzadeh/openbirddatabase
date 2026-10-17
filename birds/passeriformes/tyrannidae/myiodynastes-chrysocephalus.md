@@ -12,7 +12,7 @@ names:
   es: Bienteveo Coronidorado
   fr: Tyran à casque d'or
   de: Andenmaskentyrann
-  pt: golden-crowned flycatcher
+  pt: ''
   ru: Андский бентеви
   ja: キンカムリブチタイランチョウ
   nl: Goudkruintiran

@@ -12,7 +12,7 @@ names:
   es: Cascanueces Americano
   fr: Cassenoix d'Amérique
   de: Kiefernhäher
-  pt: clark's nutcracker
+  pt: ''
   ru: Американская кедровка
   ja: ハイイロホシガラス
   zh: 北美星鴉

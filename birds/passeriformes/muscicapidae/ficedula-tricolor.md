@@ -12,7 +12,7 @@ names:
   es: Papamoscas Tricolor
   fr: Gobemouche bleu-ardoise
   de: Dreifarbenschnäpper
-  pt: slaty-blue flycatcher
+  pt: ''
   ru: Трёхцветная мухоловка
   ja: カオグロヒタキ
   zh: 灰蓝姬鹟

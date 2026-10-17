@@ -14,7 +14,7 @@ names:
   de: Sulagoldbülbül
   pt: sula golden-bulbul
   ru: Длинноклювый бюльбюль
-  zh: Sula Golden Bulbul
+  zh: ''
   nl: Soelabuulbuul
   pl: szczeciak wielkodzioby
   tr: Sula Altınbülbülü

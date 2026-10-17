@@ -12,7 +12,7 @@ names:
   es: Charlatán Alidorado
   fr: Garrulaxe du Ngoc Linh
   de: Goldflügelhäherling
-  pt: golden-winged laughingthrush
+  pt: ''
   ru: Контумская кустарница
   ja: キンイロガビチョウ
   zh: 金翅噪鹛

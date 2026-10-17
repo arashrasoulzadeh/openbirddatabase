@@ -12,7 +12,7 @@ names:
   es: Pintada Negra
   fr: Pintade noire
   de: Schwarzperlhuhn
-  pt: black guineafowl
+  pt: ''
   ru: Чёрная цесарка
   ja: クロホロホロチョウ
   nl: Zwart parelhoen

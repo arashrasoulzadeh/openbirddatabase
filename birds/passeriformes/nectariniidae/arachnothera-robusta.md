@@ -12,7 +12,7 @@ names:
   es: Arañero Piquilargo
   fr: Arachnothère à long bec
   de: Langschnabel-Spinnenjäger
-  pt: long-billed spiderhunter
+  pt: ''
   ru: Большая пауколовка
   ja: ハシナガクモカリドリ
   nl: Langsnavelspinnenjager

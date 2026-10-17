@@ -15,7 +15,7 @@ names:
   pt: iraúna-de-bico-branco
   ru: Траурный кассик
   ja: アオクロツリスドリ
-  zh: Solitary Cacique
+  zh: ''
   nl: Zwarte buidelspreeuw
   pl: kacykowiec samotny
   tr: Yalnız Kara Kasik

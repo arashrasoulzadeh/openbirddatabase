@@ -12,7 +12,7 @@ names:
   es: Pito Miniado
   fr: Pic minium
   de: Mennigspecht
-  pt: banded woodpecker
+  pt: ''
   ru: Красный желтохохлый дятел
   ja: シマベニアオゲラ
   zh: 鑲紅綠啄木鳥

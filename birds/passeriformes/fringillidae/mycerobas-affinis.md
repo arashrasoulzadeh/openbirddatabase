@@ -12,7 +12,7 @@ names:
   es: Picogordo Acollarado
   fr: Gros-bec voisin
   de: Gelbschenkel-Kernbeißer
-  pt: collared grosbeak
+  pt: ''
   ru: Ошейниковый горный дубонос
   ja: キバシキンクロシメ
   zh: 黄颈拟蜡嘴雀

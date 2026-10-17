@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 18929.0
 names:
   scientific: Edolisoma grayi
-  fa: nan
+  fa: ''
   en: North Moluccan Cicadabird
   es: Oruguero de las Molucas
   fr: Échenilleur de Bacan
-  pt: north moluccan cicadabird
+  pt: ''
   ja: キタモルッカサンショウクイ
   nl: Noord-Molukse rupsvogel
   pl: gąsienicojad skryty

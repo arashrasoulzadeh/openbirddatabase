@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22999.0
 names:
   scientific: Calamonastes undosus
-  fa: nan
+  fa: ''
   en: Miombo Wren-Warbler
   es: Camaróptera del Miombo
   fr: Camaroptère du miombo
   de: Miombobindensänger
-  pt: miombo wren-warbler
+  pt: ''
   ru: Миомбская зебрина
   ja: アカアシコムシクイ
   nl: Miombosavannezanger

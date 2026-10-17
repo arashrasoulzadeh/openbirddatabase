@@ -12,7 +12,7 @@ names:
   es: Monarca Reluciente
   fr: Monarque luisant
   de: Glanzmonarch
-  pt: shining flycatcher
+  pt: ''
   ru: Блестящая миагра
   ja: テリヒラハシ
   zh: 辉阔嘴鹟

@@ -15,7 +15,7 @@ names:
   pt: vitelline masked-weaver
   ru: Чернолобый ткач
   ja: キイロメンガタハタオリ
-  zh: Vitelline Masked Weaver
+  zh: ''
   nl: Dottergele wever
   pl: wikłacz akacjowy
   tr: Maskeli Altın Dokumacı

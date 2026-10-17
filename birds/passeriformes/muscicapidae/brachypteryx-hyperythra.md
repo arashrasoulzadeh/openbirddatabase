@@ -12,7 +12,7 @@ names:
   es: Alicorto Ventrirrufo
   fr: Brachyptère à ventre roux
   de: Rostbauch-Kurzflügel
-  pt: rusty-bellied shortwing
+  pt: ''
   ru: Рыжебрюхий короткокрыл
   ja: ムネアカコバネヒタキ
   zh: 锈腹短翅鸫

@@ -12,7 +12,7 @@ names:
   es: Tejedor Chico
   fr: Tisserin minule
   de: Zwergweber
-  pt: little weaver
+  pt: ''
   ru: Малый ткач
   ja: ヒメハタオリ
   nl: Dwergmaskerwever

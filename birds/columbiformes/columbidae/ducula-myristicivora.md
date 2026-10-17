@@ -15,7 +15,7 @@ names:
   pt: spice imperial-pigeon
   ru: Чернорогий плодовый голубь
   ja: クロコブバト
-  zh: Spice Imperial Pigeon
+  zh: ''
   nl: Zwartknobbelmuskaatduif
   pl: muszkatela szmaragdowa
   tr: Waigeo Has Güvercini

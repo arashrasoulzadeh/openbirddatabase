@@ -12,7 +12,7 @@ names:
   es: Águila Chica
   fr: Aigle nain
   de: Kaninchenadler
-  pt: little eagle
+  pt: ''
   ru: Австралийский орёл-карлик
   ja: アカヒメクマタカ
   zh: 小隼雕

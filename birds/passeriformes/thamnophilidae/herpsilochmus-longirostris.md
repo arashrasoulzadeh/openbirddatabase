@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13806.0
 names:
   scientific: Herpsilochmus longirostris
-  fa: nan
+  fa: ''
   en: Large-billed Antwren
   es: Tiluchí Piquilargo
   fr: Grisin à grand bec

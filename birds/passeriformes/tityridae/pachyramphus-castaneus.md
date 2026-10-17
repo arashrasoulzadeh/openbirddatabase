@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16042.0
 names:
   scientific: Pachyramphus castaneus
-  fa: nan
+  fa: ''
   en: Chestnut-crowned Becard
   es: Anambé Castaño
   fr: Bécarde à calotte rousse

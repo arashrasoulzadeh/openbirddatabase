@@ -12,7 +12,7 @@ names:
   es: Calzadito Patinegro
   fr: Érione de Derby
   de: Schwarzfeder-Höschenkolibri
-  pt: black-thighed puffleg
+  pt: ''
   ru: Чернобёдрый эрион
   ja: クロモモワタアシハチドリ
   zh: 黑脚毛腿蜂鸟

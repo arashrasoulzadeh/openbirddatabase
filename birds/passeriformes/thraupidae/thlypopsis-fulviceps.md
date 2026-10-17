@@ -12,7 +12,7 @@ names:
   es: Tangara Cabecifulva
   fr: Tangara à tête fauve
   de: Rostkopftangare
-  pt: fulvous-headed tanager
+  pt: ''
   ru: Буроголовая пипира
   ja: チャズキンフウキンチョウ
   nl: Taankoptangare

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31602.0
 names:
   scientific: Passer zarudnyi
-  fa: nan
+  fa: ''
   en: Zarudny's Sparrow
   es: Gorrión del Karakum
   fr: Moineau de Zarudny

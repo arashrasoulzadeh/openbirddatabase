@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12843.0
 names:
   scientific: Brotogeris chrysoptera
-  fa: nan
+  fa: ''
   en: Golden-winged Parakeet
   es: Catita Alidorada
   fr: Toui para

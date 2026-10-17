@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25869.0
 names:
   scientific: Zosterops griseotinctus
-  fa: nan
+  fa: ''
   en: Louisiade White-eye
   es: Anteojitos de las Luisiadas
   fr: Zostérops de Louisiade
   de: Louisiadenbrillenvogel
-  pt: louisiade white-eye
+  pt: ''
   ru: Оливковая белоглазка
   ja: ルイジアードメジロ
   nl: Louisiadenbrilvogel

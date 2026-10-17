@@ -12,7 +12,7 @@ names:
   es: Vencejo de Camerún
   fr: Martinet de Bates
   de: Kamerunsegler
-  pt: bates's swift
+  pt: ''
   ru: Камерунский стриж
   ja: クロアマツバメ
   nl: Batesgierzwaluw

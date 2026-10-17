@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Azulado
   fr: Percefleur bleuté
   de: Silberhakenschnabel
-  pt: bluish flowerpiercer
+  pt: ''
   ru: Сизый цветокол
   ja: アオハナサシミツドリ
   zh: 浅蓝刺花鸟

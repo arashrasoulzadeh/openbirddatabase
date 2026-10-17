@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12468.0
 names:
   scientific: Cyanoramphus forbesi
-  fa: nan
+  fa: ''
   en: Chatham Islands Parakeet
   es: Perico de las Chatham
   fr: Perruche des Chatham
   de: Chathamsittich
-  pt: chatham islands parakeet
+  pt: ''
   ru: Чатемский какарики
   ja: チャタムアオハシインコ
   zh: 查島鸚鵡

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25526.0
 names:
   scientific: Staphida torqueola
-  fa: nan
+  fa: ''
   en: Indochinese Yuhina
   es: Yuhina Indochina
   fr: Yuhina à bandeau
   de: Kastanienohryuhina
-  pt: indochinese yuhina
+  pt: ''
   ru: Индокитайская юхина
   ja: インドシナミミチメドリ
   zh: 栗颈凤鹛

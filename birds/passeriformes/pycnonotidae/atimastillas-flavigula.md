@@ -12,7 +12,7 @@ names:
   es: Bulbul Gorjiclaro
   fr: Bulbul d'Angola
   de: Blasskehlbülbül
-  pt: pale-throated greenbul
+  pt: ''
   nl: Bleekkeelbuulbuul
   pl: bilbilak jasnogardły
   tr: Boz Boğazlı Yaprakbülbülü

@@ -12,7 +12,7 @@ names:
   es: Cucarachero Feliz
   fr: Troglodyte joyeux
   de: Glückszaunkönig
-  pt: happy wren
+  pt: ''
   ru: Гвианский крапивник
   ja: キバラマユミソサザイ
   nl: Sonorawinterkoning

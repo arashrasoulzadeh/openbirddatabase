@@ -15,7 +15,7 @@ names:
   pt: azure roller
   ru: Лазурный широкорот
   ja: モルッカブッポウソウ
-  zh: Azure Dollarbird
+  zh: ''
   nl: Azuurscharrelaar
   pl: kraskówka lazurowa
   tr: Mavi-Mor Gökkuzgun

@@ -12,7 +12,7 @@ names:
   es: Aratinga Verde
   fr: Conure verte
   de: Grünsittich
-  pt: green parakeet
+  pt: ''
   ru: Мексиканская аратинга
   ja: テリハメキシコインコ
   nl: Groene aratinga

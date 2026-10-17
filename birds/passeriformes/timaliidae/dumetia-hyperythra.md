@@ -12,7 +12,7 @@ names:
   es: Timalí Ventrirrufo
   fr: Timalie à ventre roux
   de: Rotbauch-Tyrannentimalie
-  pt: tawny-bellied babbler
+  pt: ''
   ru: Охристая тимелия
   ja: インドチメドリ
   zh: 棕腹鹛

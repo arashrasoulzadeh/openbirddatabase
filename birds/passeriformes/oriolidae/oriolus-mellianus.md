@@ -12,7 +12,7 @@ names:
   es: Oropéndola Plateada
   fr: Loriot argenté
   de: Seidenpirol
-  pt: silver oriole
+  pt: ''
   ru: Серебристая иволга
   ja: ギンイロヒゴロモ
   zh: 鹊色鹂

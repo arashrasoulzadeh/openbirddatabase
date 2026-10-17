@@ -12,7 +12,7 @@ names:
   es: Fulveta Parda
   fr: Alcippe brun
   de: Braunschwanz-Zweigdrossling
-  pt: brown fulvetta
+  pt: ''
   ru: Бурая альциппа
   ja: ムジチメドリ
   zh: 褐雀鹛

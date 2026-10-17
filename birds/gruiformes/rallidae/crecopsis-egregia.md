@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5325.0
 names:
   scientific: Crecopsis egregia
-  fa: nan
+  fa: ''
   en: African Crake
   es: Guión Africano
   fr: Râle des prés

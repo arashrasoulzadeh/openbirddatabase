@@ -12,7 +12,7 @@ names:
   es: Vanga Azul de Madagascar
   fr: Artamie azurée
   de: Blauvanga
-  pt: madagascar blue vanga
+  pt: ''
   ru: Синяя расписная ванга
   ja: ルリイロマダガスカルモズ
   nl: Blauwe vanga

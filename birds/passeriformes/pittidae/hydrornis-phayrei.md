@@ -12,7 +12,7 @@ names:
   es: Pita Orejuda
   fr: Brève ornée
   de: Ohrenpitta
-  pt: eared pitta
+  pt: ''
   ru: Ушастая питта
   ja: ツノヤイロチョウ
   zh: 双辫八色鸫

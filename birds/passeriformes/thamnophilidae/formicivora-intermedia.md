@@ -12,7 +12,7 @@ names:
   es: Hormiguerito Coicorita Norteño
   fr: Grisin intermédiaire
   de: Blassrücken-Ameisenfänger
-  pt: northern white-fringed antwren
+  pt: ''
   ru: Колумбийский муравьелов
   nl: Noordelijke witbandmiersluiper
   pl: mrówkodławik północny

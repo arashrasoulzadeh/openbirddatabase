@@ -12,7 +12,7 @@ names:
   es: Tangara Acollarada
   fr: Tangara ceinturé
   de: Flammentangare
-  pt: crimson-collared tanager
+  pt: ''
   ru: Огненный сереброклюв
   ja: ベニエリフウキンチョウ
   nl: Vuurkraagtangare

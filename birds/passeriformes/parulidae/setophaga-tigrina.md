@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34060.0
 names:
   scientific: Setophaga tigrina
-  fa: nan
+  fa: ''
   en: Cape May Warbler
   es: Reinita Atigrada
   fr: Paruline tigrée

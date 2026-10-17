@@ -12,7 +12,7 @@ names:
   es: Solitario Kamao
   fr: Solitaire kamao
   de: Kauaiklarino
-  pt: kamao
+  pt: ''
   ru: Камао
   ja: カウアイヒトリツグミ
   zh: 考艾岛孤鸫

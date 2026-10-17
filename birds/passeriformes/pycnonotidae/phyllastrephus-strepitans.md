@@ -12,7 +12,7 @@ names:
   es: Bulbul Pardo
   fr: Bulbul brun
   de: Braunbülbül
-  pt: northern brownbul
+  pt: ''
   ru: Восточноафриканский бюльбюль
   ja: ハバタキチャイロヒヨドリ
   nl: Bruine loofbuulbuul

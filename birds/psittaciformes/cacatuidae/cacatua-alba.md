@@ -12,7 +12,7 @@ names:
   es: Cacatúa Blanca
   fr: Cacatoès blanc
   de: Weißhaubenkakadu
-  pt: white cockatoo
+  pt: ''
   ru: Белый какаду
   ja: タイハクオウム
   zh: 白鳳頭鸚鵡

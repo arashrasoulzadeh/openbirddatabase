@@ -12,7 +12,7 @@ names:
   es: Avefría Lúgubre
   fr: Vanneau terne
   de: Weißkehlkiebitz
-  pt: senegal lapwing
+  pt: ''
   ru: Траурный чибис
   ja: シロビタイゲリ
   zh: 塞内加尔麦鸡

@@ -12,7 +12,7 @@ names:
   es: Monarca Carinegro
   fr: Monarque à face noire
   de: Maskenmonarch
-  pt: black-faced monarch
+  pt: ''
   ru: Масковый монарх
   ja: カオグロカササギビタキ
   zh: 黑臉王鶲

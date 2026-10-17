@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14422.0
 names:
   scientific: Scytalopus bolivianus
-  fa: nan
+  fa: ''
   en: Bolivian Tapaculo
   es: Churrín Boliviano
   fr: Mérulaxe de Bolivie
   de: Weißkronentapaculo
-  pt: bolivian tapaculo
+  pt: ''
   ru: Боливийский тапакуло
   ja: ミナミシロボウシオタテドリ
   nl: Boliviaanse tapaculo

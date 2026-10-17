@@ -15,7 +15,7 @@ names:
   pt: greenish yellow-finch
   ru: Оливковый зерноед
   ja: ミドリキンノジコ
-  zh: Greenish Yellow Finch
+  zh: ''
   nl: Groengele saffraangors
   pl: szafranka oliwkowa
   tr: Yeşil Kanarya İspinozu

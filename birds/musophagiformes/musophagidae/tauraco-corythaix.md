@@ -12,7 +12,7 @@ names:
   es: Turaco de Knysna
   fr: Touraco louri
   de: Helmturako
-  pt: knysna turaco
+  pt: ''
   ru: Шлемоносный турако
   ja: エボシドリ
   zh: 白梢冠蕉鵑

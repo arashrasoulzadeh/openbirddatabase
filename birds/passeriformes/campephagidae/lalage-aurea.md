@@ -12,7 +12,7 @@ names:
   es: Oruguero Ventrirrufo
   fr: Échenilleur orangé
   de: Rotbauch-Raupenfänger
-  pt: rufous-bellied triller
+  pt: ''
   ru: Рыжебрюхий личинкоед-свистун
   ja: モルッカナキサンショウクイ
   zh: 金腹鳴鵑鵙

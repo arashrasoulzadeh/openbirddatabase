@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17654.0
 names:
   scientific: Malurus assimilis
-  fa: nan
+  fa: ''
   en: Purple-backed Fairywren
   es: Maluro Dorsimorado
   fr: Mérion violacé
   de: Purpurrücken-Staffelschwanz
-  pt: purple-backed fairywren
+  pt: ''
   ru: Красноспинный малюр
   ja: ムナグロオーストラリアムシクイ
   zh: 紫背细尾鹩莺

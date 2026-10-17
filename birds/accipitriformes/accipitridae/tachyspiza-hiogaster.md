@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8188.0
 names:
   scientific: Tachyspiza hiogaster
-  fa: nan
+  fa: ''
   en: Variable Goshawk
   es: Azor Variable
   fr: Autour variable
   de: Inselhabicht
-  pt: variable goshawk
+  pt: ''
   ru: Изменчивый ястреб
   ja: カワリオオタカ
   zh: 雜色鷹

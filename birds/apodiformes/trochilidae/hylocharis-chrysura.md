@@ -15,7 +15,7 @@ names:
   pt: beija-flor-dourado
   ru: Золотистый сапфир
   ja: コガネオサファイアハチドリ
-  zh: Gilded Sapphire
+  zh: ''
   nl: Gouden saffierkolibrie
   pl: szafirek złotawy
   tr: Bronz Safir

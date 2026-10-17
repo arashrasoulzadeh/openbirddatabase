@@ -12,7 +12,7 @@ names:
   es: Apalis Gorjicastaño
   fr: Apalis à gorge marron
   de: Bergfeinsänger
-  pt: chestnut-throated apalis
+  pt: ''
   ru: Рыжегорлый апалис
   ja: クリノドイロムシクイ
   nl: Bergapalis

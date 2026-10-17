@@ -12,7 +12,7 @@ names:
   es: Herrerillo Unicolor
   fr: Mésange unicolore
   de: Eichenmeise
-  pt: oak titmouse
+  pt: ''
   ru: Дубовая гренадерка
   ja: ハイエボシガラ
   nl: Grijze mees

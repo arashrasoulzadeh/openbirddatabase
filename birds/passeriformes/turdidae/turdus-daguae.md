@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28734.0
 names:
   scientific: Turdus daguae
-  fa: nan
+  fa: ''
   en: Dagua Thrush
   es: Zorzal del Chocó
   fr: Merle du Dagua
   de: Daguadrossel
-  pt: dagua thrush
+  pt: ''
   ru: Колумбийский дрозд
   ja: パナマツグミ
   nl: Dagualijster

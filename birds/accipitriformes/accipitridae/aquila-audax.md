@@ -12,7 +12,7 @@ names:
   es: Águila Audaz
   fr: Aigle d'Australie
   de: Keilschwanzadler
-  pt: wedge-tailed eagle
+  pt: ''
   ru: Клинохвостый орёл
   ja: オナガイヌワシ
   zh: 楔尾鵰

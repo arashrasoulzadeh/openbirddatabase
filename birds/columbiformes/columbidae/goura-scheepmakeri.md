@@ -15,7 +15,7 @@ names:
   pt: scheepmaker's crowned-pigeon
   ru: Каштановогрудый венценосный голубь
   ja: ミナミカンムリバト
-  zh: Scheepmaker's Crowned Pigeon
+  zh: ''
   nl: Scheepmakerkroonduif
   pl: koroniec błękitny
   tr: Güneyli Taçlı Güvercin

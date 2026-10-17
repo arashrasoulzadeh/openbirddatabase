@@ -12,7 +12,7 @@ names:
   es: Suimanga de Príncipe
   fr: Souimanga de Hartlaub
   de: Hartlaub-Nektarvogel
-  pt: principe sunbird
+  pt: ''
   ru: Принсипийская нектарница
   ja: プリンシペタイヨウチョウ
   nl: Principehoningzuiger

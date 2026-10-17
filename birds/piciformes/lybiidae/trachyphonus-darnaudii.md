@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10545.0
 names:
   scientific: Trachyphonus darnaudii
-  fa: nan
+  fa: ''
   en: D'Arnaud's Barbet
   es: Barbudo de D'Arnaud
   fr: Barbican d'Arnaud
   de: Ohrfleck-Bartvogel
-  pt: d'arnaud's barbet
+  pt: ''
   ru: Пестроголовая чубатка
   ja: ゴマフオナガゴシキドリ
   nl: D'Arnaudbaardvogel

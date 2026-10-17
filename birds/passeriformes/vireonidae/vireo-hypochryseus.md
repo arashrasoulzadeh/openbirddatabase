@@ -12,7 +12,7 @@ names:
   es: Vireo Dorado
   fr: Viréo doré
   de: Goldbauchvireo
-  pt: golden vireo
+  pt: ''
   ru: Золотистый виреон
   ja: オウゴンモズモドキ
   nl: Goudbuikvireo

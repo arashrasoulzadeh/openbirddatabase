@@ -15,7 +15,7 @@ names:
   pt: gunnison sage-grouse
   ru: Малый полынный тетерев
   ja: ガニソンキジオライチョウ
-  zh: Gunnison Grouse
+  zh: ''
   nl: Gunnisonhoen
   pl: preriokur wyżynny
   tr: Gunnison Çalı Tavuğu

@@ -12,7 +12,7 @@ names:
   es: Mochuelo de Java
   fr: Chevêchette spadicée
   de: Trillerzwergkauz
-  pt: javan owlet
+  pt: ''
   ru: Яванский сычик
   ja: ジャワスズメフクロウ
   nl: Bruinvleugeldwerguil

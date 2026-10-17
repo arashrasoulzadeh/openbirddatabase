@@ -15,7 +15,7 @@ names:
   pt: barbudinho
   ru: Бородатый тираннчик
   ja: ミナミヒゲハエトリ
-  zh: Southern Bristle Tyrant
+  zh: ''
   nl: Temmincklooftiran
   pl: tyrańczyk białobrewy
   tr: Ak Pınarlı Yaprak Tiranı

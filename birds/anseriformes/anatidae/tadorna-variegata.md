@@ -12,7 +12,7 @@ names:
   es: Tarro Maorí
   fr: Tadorne de paradis
   de: Paradiesgans
-  pt: paradise shelduck
+  pt: ''
   ru: Новозеландский огарь
   ja: クロアカツクシガモ
   zh: 天堂鴨

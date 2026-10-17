@@ -12,7 +12,7 @@ names:
   es: Verdín Ventrinaranja
   fr: Verdin de Hardwicke
   de: Orangebauch-Blattvogel
-  pt: orange-bellied leafbird
+  pt: ''
   ru: Оранжевобрюхая листовка
   ja: アカハラコノハドリ
   zh: 橙腹叶鹎

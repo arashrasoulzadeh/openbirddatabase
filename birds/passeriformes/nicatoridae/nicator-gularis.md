@@ -12,7 +12,7 @@ names:
   es: Conquistador Oriental
   fr: Nicator à tête brune
   de: Braunkopf-Tropfenvogel
-  pt: eastern nicator
+  pt: ''
   ru: Буроголовый никатор
   ja: カオジロムシクイヒヨ
   nl: Bruinkopnicator

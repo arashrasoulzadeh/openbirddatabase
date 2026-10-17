@@ -12,7 +12,7 @@ names:
   es: Cucarachero Pinto
   fr: Troglodyte à poitrine tachetée
   de: Fleckenbrust-Zaunkönig
-  pt: spot-breasted wren
+  pt: ''
   ru: Пятнистогрудый кустарниковый крапивник
   ja: クロボシマユミソサザイ
   nl: Vlekborstwinterkoning

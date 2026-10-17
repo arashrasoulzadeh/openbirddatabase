@@ -12,7 +12,7 @@ names:
   es: Reinita Cejuda
   fr: Paruline à croissant
   de: Schmuckwaldsänger
-  pt: crescent-chested warbler
+  pt: ''
   ru: Украшенная древесница
   ja: ミカヅキアメリカムシクイ
   nl: Ornaatzanger

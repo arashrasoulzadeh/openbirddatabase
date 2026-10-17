@@ -12,7 +12,7 @@ names:
   es: Alondra del Karoo
   fr: Alouette du Karoo
   de: Karoolerche
-  pt: karoo lark
+  pt: ''
   ru: Карруский жаворонок
   ja: ウスイロハシボソヒバリ
   zh: 红背歌百灵

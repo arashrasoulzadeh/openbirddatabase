@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13974.0
 names:
   scientific: Hypocnemoides melanopogon
-  fa: nan
+  fa: ''
   en: Black-chinned Antbird
   es: Hormiguero Barbinegro
   fr: Alapi à menton noir

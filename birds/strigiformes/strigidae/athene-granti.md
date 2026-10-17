@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9129.0
 names:
   scientific: Athene granti
-  fa: nan
+  fa: ''
   en: Guadalcanal Owl
   es: Nínox de Guadalcanal
   fr: Chevêche de Guadalcanal
   de: Guadalcanalkauz
-  pt: guadalcanal owl
+  pt: ''
   nl: Guadalcanaluil
   pl: pójdźka falista
   tr: Guadalkanal Bubuğu

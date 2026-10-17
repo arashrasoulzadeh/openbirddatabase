@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8647.0
 names:
   scientific: Tyto deroepstorffi
-  fa: nan
+  fa: ''
   en: Andaman Masked Owl
   es: Lechuza de las Andamán
   fr: Effraie des Andaman
@@ -15,7 +15,7 @@ names:
   pt: andaman masked-owl
   ru: Андаманская сипуха
   ja: アンダマンメンフクロウ
-  zh: Andaman Masked Owl
+  zh: ''
   nl: Andamanenkerkuil
   pl: płomykówka andamańska
   tr: Andaman Peçeli Baykuşu

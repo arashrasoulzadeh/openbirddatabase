@@ -12,7 +12,7 @@ names:
   es: Acantiza Pizarrosa
   fr: Acanthize ardoisé
   de: Graurücken-Dornschnabel
-  pt: slaty-backed thornbill
+  pt: ''
   ru: Сероспинная шипоклювка
   ja: ハイイロトゲハシムシクイ
   zh: 蓝灰刺嘴莺

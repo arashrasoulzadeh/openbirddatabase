@@ -12,7 +12,7 @@ names:
   es: Pijuí Paramero
   fr: Synallaxe à sourcils blancs
   de: Kurzschwanz-Dickichtschlüpfer
-  pt: white-browed spinetail
+  pt: ''
   ru: Белобровый иглохвостый печник
   ja: マミジロカマドドリ
   nl: Witbrauwstekelstaart

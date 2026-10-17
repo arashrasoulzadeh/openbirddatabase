@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15694.0
 names:
   scientific: Protopelma chrysolophum
-  fa: nan
+  fa: ''
   en: Serra do Mar Tyrant-Manakin
   es: Saltarín de Serra Do Mar
   fr: Manakin de Serra do Mar

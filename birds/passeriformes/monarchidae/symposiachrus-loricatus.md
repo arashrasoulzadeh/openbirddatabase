@@ -12,7 +12,7 @@ names:
   es: Monarca de Buru
   fr: Monarque de Buru
   de: Burumonarch
-  pt: buru monarch
+  pt: ''
   ru: Буруанский монарх
   ja: クロカササギビタキ
   nl: Burumonarch

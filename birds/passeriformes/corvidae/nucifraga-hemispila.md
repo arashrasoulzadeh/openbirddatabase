@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21490.0
 names:
   scientific: Nucifraga hemispila
-  fa: nan
+  fa: ''
   en: Southern Nutcracker
   es: Cascanueces Sureño
   fr: Cassenoix de Chine
   de: Fichtenhäher
-  pt: southern nutcracker
+  pt: ''
   ru: Гималайская кедровка
   ja: ミナミホシガラス
   nl: Chinese notenkraker

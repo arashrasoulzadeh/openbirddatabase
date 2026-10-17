@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14274.0
 names:
   scientific: Grallaria sinaensis
-  fa: nan
+  fa: ''
   en: Puno Antpitta
   es: Tororoí de Sina
   fr: Grallaire de Sina
   de: Punoameisenpitta
-  pt: puno antpitta
+  pt: ''
   ja: プノジアリドリ
   nl: Punomierpitta
   pl: kusaczka mahoniowa

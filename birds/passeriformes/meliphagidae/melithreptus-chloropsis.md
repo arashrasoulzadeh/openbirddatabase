@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18129.0
 names:
   scientific: Melithreptus chloropsis
-  fa: nan
+  fa: ''
   en: Gilbert's Honeyeater
   es: Mielero Nuquiblanco Occidental
   fr: Méliphage du Swan
   de: Weißbrauen-Honigfresser
-  pt: gilbert's honeyeater
+  pt: ''
   ru: Белобровая медвянка
   ja: ニシハチマキミツスイ
   nl: Swanhoningeter

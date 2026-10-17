@@ -12,7 +12,7 @@ names:
   es: Filemón Estriado
   fr: Polochion strié
   de: Halmaheralederkopf
-  pt: white-streaked friarbird
+  pt: ''
   ru: Взъерошенный медосос
   ja: ハルマヘラハゲミツスイ
   nl: Halmaheralederkop

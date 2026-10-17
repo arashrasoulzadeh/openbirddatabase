@@ -12,7 +12,7 @@ names:
   es: Anteojitos del Orange
   fr: Zostérops de Swainson
   de: Oranjebrillenvogel
-  pt: orange river white-eye
+  pt: ''
   ru: Бледная белоглазка
   ja: ウスイロメジロ
   zh: 蒼色繡眼

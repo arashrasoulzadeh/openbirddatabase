@@ -12,7 +12,7 @@ names:
   es: Prinia del Karoo
   fr: Prinia du Karoo
   de: Fleckenprinie
-  pt: karoo prinia
+  pt: ''
   ru: Пятнистая приния
   ja: ゴマフハウチワドリ
   nl: Karooprinia

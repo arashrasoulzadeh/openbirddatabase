@@ -12,7 +12,7 @@ names:
   es: Coqueta de Guerrero
   fr: Coquette du Guerrero
   de: Kurzhaubenelfe
-  pt: short-crested coquette
+  pt: ''
   ru: Короткохохлая кокетка
   ja: ミジカツノユウジョハチドリ
   zh: 短冠蜂鸟

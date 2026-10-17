@@ -12,7 +12,7 @@ names:
   es: Tinamú Serrano
   fr: Tinamou de Bonaparte
   de: Bergtinamu
-  pt: highland tinamou
+  pt: ''
   ru: Горный трёхпалый тинаму
   ja: タカネシギダチョウ
   zh: 高原林䳍

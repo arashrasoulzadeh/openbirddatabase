@@ -12,7 +12,7 @@ names:
   es: Tragopán de Blyth
   fr: Tragopan de Blyth
   de: Blythtragopan
-  pt: blyth's tragopan
+  pt: ''
   ru: Серобрюхий трагопан
   ja: ミヤマジュケイ
   zh: 灰腹角雉

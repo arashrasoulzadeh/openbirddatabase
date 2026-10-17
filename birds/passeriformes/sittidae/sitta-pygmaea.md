@@ -12,7 +12,7 @@ names:
   es: Trepador Enano
   fr: Sittelle pygmée
   de: Zwergkleiber
-  pt: pygmy nuthatch
+  pt: ''
   ru: Поползень-крошка
   ja: ヒメゴジュウカラ
   nl: Dwergboomklever

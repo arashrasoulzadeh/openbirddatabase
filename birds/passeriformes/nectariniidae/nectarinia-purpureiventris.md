@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechipúrpura
   fr: Souimanga à ventre pourpre
   de: Purpurbrust-Nektarvogel
-  pt: purple-breasted sunbird
+  pt: ''
   ru: Пурпурнобрюхая нектарница
   ja: ムラサキオナガタイヨウチョウ
   nl: Purperbuikhoningzuiger

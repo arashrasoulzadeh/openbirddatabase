@@ -12,7 +12,7 @@ names:
   es: Prinia Selvática
   fr: Prinia forestière
   de: Dschungelprinie
-  pt: jungle prinia
+  pt: ''
   ru: Джунглевая приния
   ja: インドハウチワドリ
   nl: Jungleprinia

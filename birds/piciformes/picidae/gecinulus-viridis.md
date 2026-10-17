@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11599.0
 names:
   scientific: Gecinulus viridis
-  fa: nan
+  fa: ''
   en: Bamboo Woodpecker
   es: Pito del Bambú Sureño
   fr: Pic des bambous
   de: Bambusspecht
-  pt: bamboo woodpecker
+  pt: ''
   ru: Бамбуковый дятел
   ja: アオタケゲラ
   zh: 馬來亞竹啄木

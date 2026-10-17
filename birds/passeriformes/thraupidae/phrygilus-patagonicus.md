@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35352.0
 names:
   scientific: Phrygilus patagonicus
-  fa: nan
+  fa: ''
   en: Patagonian Sierra Finch
   es: Yal Patagón
   fr: Phrygile de Patagonie
   de: Graukopf-Ammertangare
-  pt: patagonian sierra finch
+  pt: ''
   ru: Патагонский овсяночник
   ja: パタゴニアヤマシトド
   zh: 南美岭雀鹀

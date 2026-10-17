@@ -15,7 +15,7 @@ names:
   pt: panay striped-babbler
   ru: Панайская пеструшка
   ja: パナイモリチメドリ
-  zh: Panay Striped Babbler
+  zh: ''
   nl: Panayboomtimalia
   pl: filipinek białolicy
   tr: Panay Çizgili Gözlükçüsü

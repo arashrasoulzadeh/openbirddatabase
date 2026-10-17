@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 11745.0
 names:
   scientific: Mulleripicus funebris
-  fa: nan
+  fa: ''
   en: Northern Sooty Woodpecker
   es: Picatroncos Filipino Norteño
   fr: Pic en deuil
@@ -15,7 +15,7 @@ names:
   pt: northern sooty-woodpecker
   ru: Филиппинская желна
   ja: キタクロボウシゲラ
-  zh: Northern Sooty Woodpecker
+  zh: ''
   nl: Zwarte treurspecht
   pl: mohun czarniawy
   tr: Kuzey Filipin Ağaçkakanı

@@ -12,7 +12,7 @@ names:
   es: Malimbo Culirrojo
   fr: Malimbe à queue rouge
   de: Rotsteißweber
-  pt: red-vented malimbe
+  pt: ''
   ru: Чёрно-красный малимб
   ja: シリアカモリハタオリ
   nl: Schildprachtwever

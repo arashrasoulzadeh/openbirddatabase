@@ -12,7 +12,7 @@ names:
   es: Mosquitero de Tickell
   fr: Pouillot de Tickell
   de: Himalajalaubsänger
-  pt: tickell's leaf warbler
+  pt: ''
   ru: Тибетская пеночка
   ja: キバラムシクイ
   nl: Himalayaboszanger

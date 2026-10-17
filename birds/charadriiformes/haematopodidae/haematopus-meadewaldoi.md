@@ -15,7 +15,7 @@ names:
   pt: canarian oystercatcher
   ru: Канарский кулик-сорока
   ja: カナリークロミヤコドリ
-  zh: Canary Islands Oystercatcher
+  zh: ''
   nl: Canarische scholekster
   pl: ostrygojad kanaryjski
   tr: Kanarya Poyrazkuşu

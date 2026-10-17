@@ -15,7 +15,7 @@ names:
   pt: african yellow-warbler
   ru: Жёлтая бормотушка
   ja: キイロムシクイ
-  zh: African Yellow Warbler
+  zh: ''
   nl: Gele rietzanger
   pl: zaganiacz ciemnogłowy
   tr: Afrika Sarı Mukalliti

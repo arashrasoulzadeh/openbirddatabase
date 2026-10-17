@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 33040.0
 names:
   scientific: Arremon phygas
-  fa: nan
+  fa: ''
   en: Paria Brushfinch
   es: Cerquero de Berlepsch
   fr: Tohi de Berlepsch
   de: Berlepschbuschammer
-  pt: paria brushfinch
+  pt: ''
   ru: Париайский дромник
   ja: パリアヤブシトド
   nl: Pariastruikgors

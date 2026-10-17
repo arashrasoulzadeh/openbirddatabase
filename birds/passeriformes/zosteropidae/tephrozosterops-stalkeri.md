@@ -15,7 +15,7 @@ names:
   pt: rufescent white-eye
   ru: Двухцветная темноглазка
   ja: セラムメジロ
-  zh: Rufescent Darkeye
+  zh: ''
   nl: Karopibrilvogel
   pl: szlarnik dwubarwny
   tr: Kırmızı-Beyaz Gözlükçü

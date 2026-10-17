@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7391.0
 names:
   scientific: Urile pelagicus
-  fa: nan
+  fa: ''
   en: Pelagic Cormorant
   es: Cormorán Pelágico
   fr: Cormoran pélagique
   de: Meerscharbe
-  pt: pelagic cormorant
+  pt: ''
   ru: Берингов баклан
   ja: ヒメウ
   zh: 海鸬鹚

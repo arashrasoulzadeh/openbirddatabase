@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28448.0
 names:
   scientific: Turdus libonyana
-  fa: nan
+  fa: ''
   en: Kurrichane Thrush
   es: Zorzal de Kurrichane
   fr: Merle kurrichane
   de: Rotschnabeldrossel
-  pt: kurrichane thrush
+  pt: ''
   ru: Красноклювый дрозд
   ja: キアシオリーブツグミ
   zh: 利邦鶇

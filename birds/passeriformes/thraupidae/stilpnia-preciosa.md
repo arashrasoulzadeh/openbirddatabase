@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35005.0
 names:
   scientific: Stilpnia preciosa
-  fa: nan
+  fa: ''
   en: Chestnut-backed Tanager
   es: Tangara Preciosa
   fr: Calliste à dos marron

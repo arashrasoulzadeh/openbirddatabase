@@ -12,7 +12,7 @@ names:
   es: Cálao Arrugado
   fr: Calao à casque rouge
   de: Runzelhornvogel
-  pt: wrinkled hornbill
+  pt: ''
   ru: Морщинистый калао
   ja: ズグロサイチョウ
   zh: 皺盔犀鳥

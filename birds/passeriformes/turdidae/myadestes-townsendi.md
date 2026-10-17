@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28163.0
 names:
   scientific: Myadestes townsendi
-  fa: nan
+  fa: ''
   en: Townsend's Solitaire
   es: Solitario Norteño
   fr: Solitaire de Townsend
   de: Townsendklarino
-  pt: townsend's solitaire
+  pt: ''
   ru: Горный кларино
   ja: ハエトリツグミ
   zh: 坦氏孤鶇

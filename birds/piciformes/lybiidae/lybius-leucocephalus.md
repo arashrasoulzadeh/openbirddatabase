@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10655.0
 names:
   scientific: Lybius leucocephalus
-  fa: nan
+  fa: ''
   en: White-headed Barbet
   es: Barbudo Cabeciblanco
   fr: Barbican à tête blanche
   de: Weißkopf-Bartvogel
-  pt: white-headed barbet
+  pt: ''
   ru: Белоголовая либия
   ja: シロガシラゴシキドリ
   nl: Witkopbaardvogel

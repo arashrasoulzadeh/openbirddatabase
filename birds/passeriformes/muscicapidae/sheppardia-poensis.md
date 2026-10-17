@@ -12,7 +12,7 @@ names:
   es: Akelat Colicorto
   fr: Rougegorge d'Alexander
   de: Kurzschwanzrötel
-  pt: short-tailed akalat
+  pt: ''
   ru: Рыжещёкий заряночник
   nl: Kortstaartjanfrederik
   pl: koloratka rdzawolica

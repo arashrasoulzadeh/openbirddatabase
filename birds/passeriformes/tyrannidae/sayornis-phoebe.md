@@ -12,7 +12,7 @@ names:
   es: Mosquero Fibí
   fr: Moucherolle phébi
   de: Weißbauch-Phoebetyrann
-  pt: eastern phoebe
+  pt: ''
   ru: Светлобрюхий фиби
   ja: ツキヒメハエトリ
   zh: 美東菲比霸鶲

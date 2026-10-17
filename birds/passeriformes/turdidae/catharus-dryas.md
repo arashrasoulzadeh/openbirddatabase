@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28307.0
 names:
   scientific: Catharus dryas
-  fa: nan
+  fa: ''
   en: Yellow-throated Nightingale-Thrush
   es: Zorzalito Overo
   fr: Grive tavelée
   de: Tropfenbrust-Musendrossel
-  pt: yellow-throated nightingale-thrush
+  pt: ''
   ru: Пятнистый соловьиный дрозд
   ja: ムナフチャツグミ
   nl: Geelkeeldwerglijster

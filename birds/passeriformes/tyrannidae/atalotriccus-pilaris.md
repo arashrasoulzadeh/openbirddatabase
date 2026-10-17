@@ -15,7 +15,7 @@ names:
   pt: maria-de-olho-claro
   ru: Светлоглазый тоди-мухолов
   ja: コバネハエトリ
-  zh: Pale-eyed Pygmy Tyrant
+  zh: ''
   nl: Bleekoogdwergtiran
   pl: żółtooczek
   tr: Ak Gözlü Küçük Tiran

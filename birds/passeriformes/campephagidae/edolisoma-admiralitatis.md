@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18908.0
 names:
   scientific: Edolisoma admiralitatis
-  fa: nan
+  fa: ''
   en: Admiralty Cicadabird
   es: Oruguero de las Almirantazgo
   fr: Échenilleur de Manus
@@ -15,7 +15,7 @@ names:
   pt: manus cicadabird
   ru: Адмиралтейский цикадник
   ja: マヌスセミサンショウクイ
-  zh: Admiralty Cicadabird
+  zh: ''
   nl: Admiraliteitsrupsvogel
   pl: gąsienicojad czarnolicy
   tr: Manus Adası Tırtılyiyeni

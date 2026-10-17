@@ -12,7 +12,7 @@ names:
   es: Faisán Koklas
   fr: Eulophe koklass
   de: Koklasfasan
-  pt: koklass pheasant
+  pt: ''
   ru: Коклас
   ja: ミノキジ
   zh: 勺鸡

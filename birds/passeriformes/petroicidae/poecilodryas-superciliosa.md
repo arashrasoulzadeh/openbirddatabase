@@ -12,7 +12,7 @@ names:
   es: Petroica Cejuda
   fr: Miro bridé
   de: Augenstreifschnäpper
-  pt: white-browed robin
+  pt: ''
   ru: Белобровая дриада
   ja: マミジロヒタキ
   nl: Witoorvliegenvanger

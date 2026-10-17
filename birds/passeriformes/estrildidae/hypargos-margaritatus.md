@@ -12,7 +12,7 @@ names:
   es: Estrilda Golirrosa
   fr: Sénégali de Verreaux
   de: Perlastrild
-  pt: pink-throated twinspot
+  pt: ''
   ru: Розовогрудый жемчужник
   ja: バラムネアラレチョウ
   zh: 玫胸斑雀

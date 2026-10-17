@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25975.0
 names:
   scientific: Cyanoderma pyrrhops
-  fa: nan
+  fa: ''
   en: Black-chinned Babbler
   es: Timalí Barbinegro
   fr: Timalie à bec rouge
   de: Schwarzkinn-Buschtimalie
-  pt: black-chinned babbler
+  pt: ''
   ru: Масковая тимелия
   ja: クロアゴモリチメドリ
   zh: 黑颏穗鹛

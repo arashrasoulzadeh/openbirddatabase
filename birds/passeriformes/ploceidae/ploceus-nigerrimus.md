@@ -12,7 +12,7 @@ names:
   es: Tejedor de Vieillot
   fr: Tisserin noir
   de: Vieillotweber
-  pt: vieillot's black weaver
+  pt: ''
   ru: Болотный ткач
   ja: クロハタオリ
   nl: Fluweelwever

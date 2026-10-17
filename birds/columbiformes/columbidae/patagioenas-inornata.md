@@ -12,7 +12,7 @@ names:
   es: Paloma Boba
   fr: Pigeon simple
   de: Rosenschultertaube
-  pt: plain pigeon
+  pt: ''
   ru: Антильский голубь
   ja: アンチルバト
   zh: 平原鴿

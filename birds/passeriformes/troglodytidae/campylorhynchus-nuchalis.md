@@ -12,7 +12,7 @@ names:
   es: Cucarachero Chocorocoy
   fr: Troglodyte rayé
   de: Pantherzaunkönig
-  pt: stripe-backed wren
+  pt: ''
   ru: Полосатый крапивник
   ja: タテジマサボテンミソサザイ
   zh: 纹背曲嘴鹪鹩

@@ -15,7 +15,7 @@ names:
   pt: white-winged collared-dove
   ru: Серебристокрылая горлица
   ja: ハジロシラコバト
-  zh: White-winged Collared Dove
+  zh: ''
   nl: Witvleugeltortel
   pl: synogarlica białoskrzydła
   tr: Ak Kanatlı Halkalı Kumru

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 32129.0
 names:
   scientific: Hemignathus wilsoni
-  fa: nan
+  fa: ''
   en: Akiapolaau
   es: Akiapolaau
   fr: Akiapolaau d'Hawaï
   de: Hawaii-Sichelkleidervogel
-  pt: akiapolaau
+  pt: ''
   ru: Акиполау
   ja: カワリハシハワイミツスイ
   nl: Akiapolaau

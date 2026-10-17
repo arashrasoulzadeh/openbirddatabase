@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20337.0
 names:
   scientific: Rhipidura torrida
-  fa: nan
+  fa: ''
   en: Gilolo Fantail
   es: Abanico de las Molucas
   fr: Rhipidure d'Halmahera
-  pt: gilolo fantail
+  pt: ''
   nl: Halmaherawaaierstaart
   pl: wachlarzówka molucka
   tr: Gilolo Katmerkuyruğu

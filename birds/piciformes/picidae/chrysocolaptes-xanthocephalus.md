@@ -12,7 +12,7 @@ names:
   es: Pito Sultán Carigualdo
   fr: Pic à face jaune
   de: Gelbwangen-Sultanspecht
-  pt: yellow-faced flameback
+  pt: ''
   ru: Желтоголовый дятел-султан
   ja: キガオコガネゲラ
   nl: Geelkopgoudrugspecht

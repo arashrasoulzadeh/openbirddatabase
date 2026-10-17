@@ -12,7 +12,7 @@ names:
   es: Paloma Rupestre
   fr: Pigeon des rochers
   de: Klippentaube
-  pt: hill pigeon
+  pt: ''
   ru: Скальный голубь
   ja: コウライバト
   zh: 岩鸽

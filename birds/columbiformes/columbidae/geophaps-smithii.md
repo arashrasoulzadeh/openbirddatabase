@@ -12,7 +12,7 @@ names:
   es: Paloma de Smith
   fr: Colombine de Smith
   de: Schuppenbrusttaube
-  pt: partridge pigeon
+  pt: ''
   ru: Краснолицый бронзовокрыл
   ja: アカメシャコバト
   zh: 裸眼岩鸠

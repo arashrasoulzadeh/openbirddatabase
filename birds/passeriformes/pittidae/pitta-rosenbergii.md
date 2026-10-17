@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13402.0
 names:
   scientific: Pitta rosenbergii
-  fa: nan
+  fa: ''
   en: Biak Hooded Pitta
   es: Pita Encapuchada de Biak
   fr: Brève de Biak
   de: Biak-Kappenpitta
-  pt: biak hooded pitta
+  pt: ''
   ja: ビアクズグロヤイロチョウ
   nl: Biakpitta
   pl: kurtaczek wyspowy

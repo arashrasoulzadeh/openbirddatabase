@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31463.0
 names:
   scientific: Vidua maryae
-  fa: nan
+  fa: ''
   en: Jos Plateau Indigobird
   es: Viuda del Jos
   fr: Combassou du Jos
   de: Jos-Plateau-Witwe
-  pt: jos plateau indigobird
+  pt: ''
   ru: Горная вдовушка
   ja: ジョスシコンチョウ
   zh: 乔斯维达雀

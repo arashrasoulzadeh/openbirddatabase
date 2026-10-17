@@ -12,7 +12,7 @@ names:
   es: Conirrostro Rufo
   fr: Conirostre roux
   de: Rotbrauen-Spitzschnabel
-  pt: rufous-browed conebill
+  pt: ''
   ru: Рыжебровый конусоклюв
   ja: アカマユマルハシミツドリ
   zh: 棕眉锥嘴雀

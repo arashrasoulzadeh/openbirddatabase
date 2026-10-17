@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 30389.0
 names:
   scientific: Cinnyris loveridgei
-  fa: nan
+  fa: ''
   en: Loveridge's Sunbird
   es: Suimanga de Loveridge
   fr: Souimanga de Loveridge
   de: Orangebauch-Nektarvogel
-  pt: loveridge's sunbird
+  pt: ''
   ru: Морогорская нектарница
   ja: ハシナガゴシキタイヨウチョウ
   nl: Loveridgehoningzuiger

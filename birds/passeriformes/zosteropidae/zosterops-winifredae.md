@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25702.0
 names:
   scientific: Zosterops winifredae
-  fa: nan
+  fa: ''
   en: South Pare White-eye
   es: Anteojitos Serrano de las Pare
   fr: Zostérops des Pare
   de: Parebrillenvogel
-  pt: south pare white-eye
+  pt: ''
   ru: Узамбарская белоглазка
   ja: サウスペアメジロ
   zh: 南帕雷山繡眼

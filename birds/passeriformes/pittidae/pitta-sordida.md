@@ -12,7 +12,7 @@ names:
   es: Pita Encapuchada Occidental
   fr: Brève à capuchon
   de: Kappenpitta
-  pt: western hooded pitta
+  pt: ''
   ru: Черноголовая питта
   ja: ズグロヤイロチョウ
   zh: 绿胸八色鸫

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13279.0
 names:
   scientific: Serilophus rubropygius
-  fa: nan
+  fa: ''
   en: Grey-lored Broadbill
   es: Eurilaimo Cejigrís
   fr: Eurylaime à sourcils gris

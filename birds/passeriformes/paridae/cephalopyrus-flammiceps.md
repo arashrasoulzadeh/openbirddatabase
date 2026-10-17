@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21937.0
 names:
   scientific: Cephalopyrus flammiceps
-  fa: nan
+  fa: ''
   en: Fire-capped Tit
   es: Pájaro Moscón Carirrojo
   fr: Mésange tête-de-feu
   de: Flammenstirnmeise
-  pt: fire-capped tit
+  pt: ''
   ru: Огненноголовая синица
   ja: ベニビタイガラ
   zh: 火冠雀

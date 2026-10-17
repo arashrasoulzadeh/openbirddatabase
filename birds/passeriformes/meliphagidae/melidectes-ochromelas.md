@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17836.0
 names:
   scientific: Melidectes ochromelas
-  fa: nan
+  fa: ''
   en: Cinnamon-browed Melidectes
   es: Mielero Cejirrufo
   fr: Méliphage à sourcils roux
   de: Rostohr-Honigfresser
-  pt: cinnamon-browed melidectes
+  pt: ''
   ru: Охристобровый медосос
   ja: ウロコヤマミツスイ
   nl: Roodbrauwhoningeter

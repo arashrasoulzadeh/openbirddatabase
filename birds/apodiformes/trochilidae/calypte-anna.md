@@ -12,7 +12,7 @@ names:
   es: Colibrí de Anna
   fr: Colibri d'Anna
   de: Annakolibri
-  pt: anna's hummingbird
+  pt: ''
   ru: Рубиновый калипсо
   ja: アンナハチドリ
   zh: 朱紅蜂鳥

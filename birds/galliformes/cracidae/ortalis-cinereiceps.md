@@ -15,7 +15,7 @@ names:
   pt: gray-headed chachalaca
   ru: Сероголовая чачалака
   ja: ハイガシラヒメシャクケイ
-  zh: Grey-headed Chachalaca
+  zh: ''
   nl: Grijskopchachalaca
   pl: czakalaka szarogłowa
   tr: Gri Başlı Çaçalaka

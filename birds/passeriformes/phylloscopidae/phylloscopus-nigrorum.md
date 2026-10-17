@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25003.0
 names:
   scientific: Phylloscopus nigrorum
-  fa: nan
+  fa: ''
   en: Negros Leaf Warbler
   es: Mosquitero Filipino
   fr: Pouillot de Moseley
   de: Negroslaubsänger
-  pt: negros leaf warbler
+  pt: ''
   ru: Негросская пеночка
   nl: Luzonboszanger
   pl: świstunka filipińska

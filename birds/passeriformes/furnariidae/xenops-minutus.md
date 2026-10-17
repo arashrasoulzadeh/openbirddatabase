@@ -15,7 +15,7 @@ names:
   pt: bico-virado-miúdo
   ru: Малый ксенопс
   ja: マミホオジロカマドドリ
-  zh: Atlantic Plain Xenops
+  zh: ''
   nl: Witkeelxenops
   pl: pełzacznik białowąsy
   tr: Atlantik Düz Zenopsu

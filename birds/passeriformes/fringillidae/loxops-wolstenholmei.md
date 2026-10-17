@@ -12,7 +12,7 @@ names:
   es: Akepa de Oahu
   fr: Loxopse d'Oahu
   de: Oahu-Akepakleidervogel
-  pt: oahu akepa
+  pt: ''
   ru: Оахская акепа
   ja: オアフコバシハワイミツスイ
   zh: 瓦岛红雀

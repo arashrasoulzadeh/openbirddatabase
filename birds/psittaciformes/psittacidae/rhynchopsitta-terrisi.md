@@ -12,7 +12,7 @@ names:
   es: Cotorra Serrana Oriental
   fr: Conure à front brun
   de: Maronenstirnsittich
-  pt: maroon-fronted parrot
+  pt: ''
   ru: Каштановолобый арара
   ja: クリムネインコ
   nl: Grote araparkiet

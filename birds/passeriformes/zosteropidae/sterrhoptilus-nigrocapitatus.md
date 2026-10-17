@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25557.0
 names:
   scientific: Sterrhoptilus nigrocapitatus
-  fa: nan
+  fa: ''
   en: Visayan Babbler
   es: Timalí Coroninegro
   fr: Zostérops de Steere
   de: Schwarzkappen-Brillenvogel
-  pt: visayan babbler
+  pt: ''
   ru: Черношапочная пестроголовка
   ja: クロボウシモリチメドリ
   zh: 黑冠穗鹛

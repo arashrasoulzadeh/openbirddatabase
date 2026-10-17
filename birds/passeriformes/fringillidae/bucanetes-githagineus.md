@@ -12,7 +12,7 @@ names:
   es: Camachuelo Trompetero
   fr: Roselin githagine
   de: Wüstengimpel
-  pt: trumpeter finch
+  pt: ''
   ru: Толстоклювый пустынный вьюрок
   ja: ナキマシコ
   zh: 沙雀

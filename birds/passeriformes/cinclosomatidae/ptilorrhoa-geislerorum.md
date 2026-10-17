@@ -14,7 +14,7 @@ names:
   de: Braunnackenflöter
   pt: dimorphic jewel-babbler
   ru: Двухцветный флейтист
-  zh: Brown-headed Jewel-babbler
+  zh: ''
   nl: Bruinkopjuweelbabbelaar
   pl: ściółkarz brązowogłowy
   tr: Gri Başlı Çilardıcı

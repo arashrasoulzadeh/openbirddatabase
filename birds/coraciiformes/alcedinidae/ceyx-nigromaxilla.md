@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 9993.0
 names:
   scientific: Ceyx nigromaxilla
-  fa: nan
+  fa: ''
   en: Guadalcanal Dwarf Kingfisher
   es: Martín Pigmeo de Guadalcanal
   fr: Martin-pêcheur de Guadalcanal
   de: Guadalcanal-Zwergfischer
   pt: guadalcanal dwarf-kingfisher
   ru: Гуадалканальский лесной зимородок
-  zh: Guadalcanal Dwarf Kingfisher
+  zh: ''
   nl: Guadalcanaldwergijsvogel
   pl: zimorodek wulkaniczny
   tr: Guadalkanal Küçük Yalıçapkını

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14265.0
 names:
   scientific: Grallaria spatiator
-  fa: nan
+  fa: ''
   en: Sierra Nevada Antpitta
   es: Tororoí de Sierra Nevada
   fr: Grallaire piétonne
   de: Sierra-Nevada-Ameisenpitta
-  pt: sierra nevada antpitta
+  pt: ''
   ja: シエラネバダジアリドリ
   nl: Sierra-Nevadamierpitta
   pl: kusaczka białorzytna

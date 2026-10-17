@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8159.0
 names:
   scientific: Tachyspiza gularis
-  fa: nan
+  fa: ''
   en: Japanese Sparrowhawk
   es: Gavilán Japonés
   fr: Épervier du Japon

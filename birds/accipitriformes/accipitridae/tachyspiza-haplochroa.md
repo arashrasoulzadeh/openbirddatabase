@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8224.0
 names:
   scientific: Tachyspiza haplochroa
-  fa: nan
+  fa: ''
   en: White-bellied Goshawk
   es: Gavilán de Nueva Caledonia
   fr: Autour à ventre blanc
@@ -15,7 +15,7 @@ names:
   pt: new caledonian goshawk
   ru: Белобрюхий ястреб
   ja: ムナグロオオタカ
-  zh: White-bellied Goshawk
+  zh: ''
   nl: Nieuw-Caledonische havik
   pl: krogulec czarnogardły
   tr: Ak Karınlı Çakır

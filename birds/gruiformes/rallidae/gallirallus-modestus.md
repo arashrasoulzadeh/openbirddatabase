@@ -15,7 +15,7 @@ names:
   pt: chatham islands rail
   ru: Чатемский трескун
   ja: チャタムクイナ
-  zh: Chatham Rail
+  zh: ''
   nl: Chathamral
   pl: wodnik brązowy
   tr: Chatham Adası Yelvesi

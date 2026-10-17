@@ -12,7 +12,7 @@ names:
   es: Bulbul de Fischer
   fr: Bulbul de Fischer
   de: Fischerbülbül
-  pt: fischer's greenbul
+  pt: ''
   ru: Момбасский бюльбюль
   ja: キスジチャイロヒヨドリ
   nl: Fischerloofbuulbuul

@@ -15,7 +15,7 @@ names:
   pt: albatroz-de-cabeça-cinza
   ru: Сероголовый альбатрос
   ja: ハイガシラアホウドリ
-  zh: Grey-headed Albatross
+  zh: ''
   nl: Grijskopalbatros
   pl: albatros szarogłowy
   tr: Boz Başlı Albatros

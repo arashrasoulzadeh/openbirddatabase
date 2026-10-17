@@ -15,7 +15,7 @@ names:
   pt: rufous-necked wood-rail
   ru: Рыжегрудый саракура
   ja: チャクビモリクイナ
-  zh: Rufous-necked Wood Rail
+  zh: ''
   nl: Roodnekbosral
   pl: chruścielak rdzawoszyi
   tr: Kızıl Boyunlu Orman Kılavuzu

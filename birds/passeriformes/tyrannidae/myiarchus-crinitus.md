@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17334.0
 names:
   scientific: Myiarchus crinitus
-  fa: nan
+  fa: ''
   en: Great Crested Flycatcher
   es: Copetón Viajero
   fr: Tyran huppé
   de: Gelbbauch-Schopftyrann
-  pt: great crested flycatcher
+  pt: ''
   ru: Хохлатый миарх
   ja: オオヒタキモドキ
   zh: 大冠蠅霸鶲

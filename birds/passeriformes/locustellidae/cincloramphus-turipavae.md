@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 23895.0
 names:
   scientific: Cincloramphus turipavae
-  fa: nan
+  fa: ''
   en: Guadalcanal Thicketbird
   es: Yerbera de Guadalcanal
   fr: Mégalure de Guadalcanal
   de: Guadalcanal-Buschsänger
-  pt: guadalcanal thicketbird
+  pt: ''
   ru: Вануатская клинохвостка
   ja: ニューヘブリデスツグミモドキ
   nl: Guadalcanalzanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14279.0
 names:
   scientific: Grallaria cajamarcae
-  fa: nan
+  fa: ''
   en: Cajamarca Antpitta
   es: Tororoí de Cajamarca
   fr: Grallaire de Cajamarca
   de: Cajamarcaameisenpitta
-  pt: cajamarca antpitta
+  pt: ''
   ja: カハマルカジアリドリ
   nl: Cajamarcamierpitta
   pl: kusaczka jasnobrzucha

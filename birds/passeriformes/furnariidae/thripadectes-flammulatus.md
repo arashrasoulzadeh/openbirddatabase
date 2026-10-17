@@ -12,7 +12,7 @@ names:
   es: Trepamusgos Flamulado
   fr: Anabate flammé
   de: Streifenbaumspäher
-  pt: flammulated treehunter
+  pt: ''
   ru: Пёстрый лесовик
   ja: ムシクイカマドドリ
   zh: 火红树猎雀

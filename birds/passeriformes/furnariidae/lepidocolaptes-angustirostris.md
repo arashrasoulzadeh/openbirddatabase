@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14929.0
 names:
   scientific: Lepidocolaptes angustirostris
-  fa: nan
+  fa: ''
   en: Narrow-billed Woodcreeper
   es: Trepatroncos Chico
   fr: Grimpar à bec étroit

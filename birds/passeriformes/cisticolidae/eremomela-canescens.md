@@ -12,7 +12,7 @@ names:
   es: Eremomela Dorsiverde
   fr: Érémomèle grisonnante
   de: Grünrückeneremomela
-  pt: green-backed eremomela
+  pt: ''
   ru: Масковая желтобрюшка
   ja: キムネヒメムシクイ
   nl: Grijskoperemomela

@@ -12,7 +12,7 @@ names:
   es: Esmeralda Coliverde
   fr: Émeraude alice
   de: Alicesmaragdkolibri
-  pt: green-tailed emerald
+  pt: ''
   ru: Зеленохвостый изумруд
   ja: ミドリオヒメエメラルドハチドリ
   zh: 绿尾翠蜂鸟

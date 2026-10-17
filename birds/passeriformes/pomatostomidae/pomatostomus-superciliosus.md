@@ -12,7 +12,7 @@ names:
   es: Gárrulo Cejudo
   fr: Pomatostome bridé
   de: Brauensäbler
-  pt: white-browed babbler
+  pt: ''
   ru: Белобровая яху
   ja: マミジロオーストラリアマルハシ
   zh: 白眉弯嘴鹛

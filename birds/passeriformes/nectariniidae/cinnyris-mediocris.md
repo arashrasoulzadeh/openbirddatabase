@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30383.0
 names:
   scientific: Cinnyris mediocris
-  fa: nan
+  fa: ''
   en: Eastern Double-collared Sunbird
   es: Suimanga del Kilimanjaro
   fr: Souimanga du Kilimandjaro
   de: Hochland-Nektarvogel
-  pt: eastern double-collared sunbird
+  pt: ''
   ru: Килиманджарская нектарница
   ja: ゴシキタイヨウチョウ
   nl: Kilimanjarohoningzuiger

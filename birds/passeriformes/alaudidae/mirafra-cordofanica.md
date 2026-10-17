@@ -12,7 +12,7 @@ names:
   es: Alondra del Kordofán
   fr: Alouette du Kordofan
   de: Kordofanlerche
-  pt: kordofan lark
+  pt: ''
   ru: Кордофанский жаворонок
   ja: サメイロヤブヒバリ
   zh: 金歌百灵

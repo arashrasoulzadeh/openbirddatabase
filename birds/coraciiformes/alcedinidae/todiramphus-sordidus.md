@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10175.0
 names:
   scientific: Todiramphus sordidus
-  fa: nan
+  fa: ''
   en: Torresian Kingfisher
   es: Alción Adán
   fr: Martin-chasseur de Torrès
   de: Gouldliest
-  pt: torresian kingfisher
+  pt: ''
   ru: Австралийская альциона
   ja: トレスショウビン
   zh: 托列斯翡翠

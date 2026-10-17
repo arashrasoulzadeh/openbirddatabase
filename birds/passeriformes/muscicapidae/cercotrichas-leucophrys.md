@@ -15,7 +15,7 @@ names:
   pt: white-browed scrub-robin
   ru: Белокрылый тугайный соловей
   ja: フタスジヤブコマドリ
-  zh: White-browed Scrub Robin
+  zh: ''
   nl: Witbrauwwaaierstaart
   pl: drozdówka jasna
   tr: Alaca Kanatlı Çalı Bülbülü

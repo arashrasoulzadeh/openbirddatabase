@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23778.0
 names:
   scientific: Helopsaltes amnicola
-  fa: nan
+  fa: ''
   en: Sakhalin Grasshopper Warbler
   es: Buscarla de Sajalín
   fr: Locustelle amnicole
   de: Sachalinschwirl
-  pt: sakhalin grasshopper warbler
+  pt: ''
   ru: Сахалинский сверчок
   ja: エゾセンニュウ
   zh: 库页岛蝗莺

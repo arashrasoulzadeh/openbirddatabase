@@ -15,7 +15,7 @@ names:
   pt: sierra madre ground-warbler
   ru: Пестрогорлый жемчужнокрыл
   ja: シエラマドレサザイチメドリ
-  zh: Sierra Madre Ground Warbler
+  zh: ''
   nl: Thompsonsluipzanger
   pl: perłopiórek bursztynowy
   tr: Sierra Madre Yer Ötleğeni

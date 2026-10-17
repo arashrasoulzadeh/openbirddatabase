@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27696.0
 names:
   scientific: Enodes erythrophris
-  fa: nan
+  fa: ''
   en: Fiery-browed Starling
   es: Estornino Cejirrojo
   fr: Énode à sourcils rouges
@@ -15,7 +15,7 @@ names:
   pt: fiery-browed myna
   ru: Краснобровый скворец
   ja: アカマユムクドリ
-  zh: Fiery-browed Starling
+  zh: ''
   nl: Roodbrauwspreeuw
   pl: pąsobrewik
   tr: Al Kaşlı Çiğdeci

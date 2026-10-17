@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30593.0
 names:
   scientific: Aethopyga tibolii
-  fa: nan
+  fa: ''
   en: Tboli Sunbird
   es: Suimanga de Tiboli
   fr: Souimanga des T'bolis
   de: Tbolinektarvogel
-  pt: tboli sunbird
+  pt: ''
   ja: ツボリタイヨウチョウ
   nl: Tbolihoningzuiger
   pl: kwiatownik ciemnogłowy

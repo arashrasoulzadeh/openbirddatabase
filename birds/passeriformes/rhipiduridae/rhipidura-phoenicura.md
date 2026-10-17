@@ -12,7 +12,7 @@ names:
   es: Abanico Colirrojo
   fr: Rhipidure rougequeue
   de: Rotbürzel-Fächerschwanz
-  pt: rufous-tailed fantail
+  pt: ''
   ru: Горихвостковая веерохвостка
   ja: アカオオウギビタキ
   nl: Roodstuitwaaierstaart

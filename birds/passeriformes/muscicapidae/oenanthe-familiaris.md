@@ -12,7 +12,7 @@ names:
   es: Colinegro Familiar
   fr: Traquet familier
   de: Rostschwanz-Steinschmätzer
-  pt: familiar chat
+  pt: ''
   ru: Рыжегузая чернохвостка
   ja: アカオイワビタキ
   nl: Roodstaartspekvreter

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5229.0
 names:
   scientific: Sarothrura rufa
-  fa: nan
+  fa: ''
   en: Red-chested Flufftail
   es: Polluela Rufa
   fr: Râle à camail
   de: Rotbrustralle
-  pt: red-chested flufftail
+  pt: ''
   ru: Красногрудая жемчужная курочка
   ja: ムネアカシマクイナ
   nl: Roodborstral

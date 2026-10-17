@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25751.0
 names:
   scientific: Zosterops meeki
-  fa: nan
+  fa: ''
   en: Tagula White-eye
   es: Anteojitos Goliblanco
   fr: Zostérops à gorge blanche
   de: Tagulabrillenvogel
-  pt: tagula white-eye
+  pt: ''
   ru: Тагуланская белоглазка
   ja: ノドジロメジロ
   nl: Tagulabrilvogel

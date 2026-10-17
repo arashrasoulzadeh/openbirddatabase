@@ -12,7 +12,7 @@ names:
   es: Cálao Patiblanco
   fr: Calao à cuisses blanches
   de: Weißschenkel-Hornvogel
-  pt: white-thighed hornbill
+  pt: ''
   ru: Белоногий шлеморог
   ja: モモジロサイチョウ
   nl: Witpootneushoornvogel

@@ -12,7 +12,7 @@ names:
   es: Chagra de James
   fr: Tchagra de James
   de: Somalitschagra
-  pt: three-streaked tchagra
+  pt: ''
   ru: Сомалийская чагра
   ja: ハイイロヤブモズ
   nl: Somalische tsjagra

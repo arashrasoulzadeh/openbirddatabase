@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4161.0
 names:
   scientific: Aeronautes montivagus
-  fa: nan
+  fa: ''
   en: White-tipped Swift
   es: Vencejo Montañés
   fr: Martinet montagnard

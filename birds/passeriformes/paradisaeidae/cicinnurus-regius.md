@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Real
   fr: Paradisier royal
   de: Königsparadiesvogel
-  pt: king bird-of-paradise
+  pt: ''
   ru: Королевская райская птица
   ja: ヒヨクドリ
-  zh: King Bird-of-paradise
+  zh: ''
   nl: Koningsparadijsvogel
   pl: latawiec królewski
   tr: Kral Cennetkuşu

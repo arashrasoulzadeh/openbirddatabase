@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 487.0
 names:
   scientific: Spatula cyanoptera
-  fa: nan
+  fa: ''
   en: Cinnamon Teal
   es: Cerceta Colorada
   fr: Sarcelle cannelle

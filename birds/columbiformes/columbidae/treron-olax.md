@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2483.0
 names:
   scientific: Treron olax
-  fa: nan
+  fa: ''
   en: Little Green Pigeon
   es: Vinago Chico
   fr: Colombar odorifère

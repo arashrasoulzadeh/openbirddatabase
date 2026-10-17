@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14209.0
 names:
   scientific: Grallaria alleni
-  fa: nan
+  fa: ''
   en: Moustached Antpitta
   es: Tororoí Bigotudo
   fr: Grallaire à moustaches
   de: Grauscheitel-Ameisenpitta
-  pt: moustached antpitta
+  pt: ''
   ru: Усатая питтовая муравьеловка
   ja: ヒゲジアリドリ
   nl: Allenmierpitta

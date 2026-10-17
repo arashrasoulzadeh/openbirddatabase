@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27828.0
 names:
   scientific: Creatophora cinerea
-  fa: nan
+  fa: ''
   en: Wattled Starling
   es: Estornino Carunculado
   fr: Étourneau caronculé
   de: Lappenstar
-  pt: wattled starling
+  pt: ''
   ru: Бородатый скворец
   ja: トサカムクドリ
   zh: 肉垂椋鳥

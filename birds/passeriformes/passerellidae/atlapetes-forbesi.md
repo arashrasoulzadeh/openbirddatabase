@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33508.0
 names:
   scientific: Atlapetes forbesi
-  fa: nan
+  fa: ''
   en: Apurimac Brushfinch
   es: Atlapetes de Apurímac
   fr: Tohi de Forbes
   de: Forbesbuschammer
-  pt: apurimac brushfinch
+  pt: ''
   ru: Апуримакская атлапета
   ja: アプリマクヤブシトド
   nl: Apurímacstruikgors

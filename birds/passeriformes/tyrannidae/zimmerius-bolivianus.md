@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16815.0
 names:
   scientific: Zimmerius bolivianus
-  fa: nan
+  fa: ''
   en: Bolivian Tyrannulet
   es: Mosquerito Boliviano
   fr: Tyranneau de Bolivie
   de: Olivkleintyrann
-  pt: bolivian tyrannulet
+  pt: ''
   ru: Боливийский карликовый тиранн
   ja: ボリビアコタイランチョウ
   nl: Boliviaanse vliegenpikker

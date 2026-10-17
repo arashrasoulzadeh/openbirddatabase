@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2373.0
 names:
   scientific: Zentrygon lawrencii
-  fa: nan
+  fa: ''
   en: Purplish-backed Quail-Dove
   es: Paloma Perdiz de Lawrence
   fr: Colombe de Lawrence
   de: Purpurrückentaube
-  pt: purplish-backed quail-dove
+  pt: ''
   ru: Пурпурная перепелиная горлица
   ja: アメリカウズラバト
   zh: 紫背鹑鸠

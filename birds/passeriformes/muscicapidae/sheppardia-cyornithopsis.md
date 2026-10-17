@@ -12,7 +12,7 @@ names:
   es: Akelat Occidental
   fr: Rougegorge merle
   de: Schnäpperrötel
-  pt: lowland akalat
+  pt: ''
   ru: Буробокий заряночник
   ja: ヒゲヒメコマドリ
   nl: Struikakalat

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7285.0
 names:
   scientific: Ciconia microscelis
-  fa: nan
+  fa: ''
   en: African Woolly-necked Stork
   es: Cigüeña Lanuda Africana
   fr: Cigogne à pattes noires
   de: Afrika-Wollhalsstorch
-  pt: african woolly-necked stork
+  pt: ''
   ru: Белошейный аист
   ja: アフリカシロエリコウ
   zh: 非洲白頸鸛

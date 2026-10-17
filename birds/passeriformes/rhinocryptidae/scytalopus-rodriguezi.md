@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 14445.0
 names:
   scientific: Scytalopus rodriguezi
-  fa: nan
+  fa: ''
   en: Magdalena Tapaculo
   es: Churrín del Alto Magdalena
   fr: Mérulaxe de Rodriguez
   de: Magdalenatapaculo
-  pt: magdalena tapaculo
+  pt: ''
   ru: Магдаленский тапакуло
   ja: マグダレーナオタテドリ
   nl: Magdalenatapaculo

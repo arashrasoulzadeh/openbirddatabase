@@ -15,7 +15,7 @@ names:
   pt: buff-shouldered widowbird
   ru: Горный ткачик
   ja: ミヤマキガタホウオウ
-  zh: Montane Widowbird
+  zh: ''
   nl: Reichenowwidavink
   pl: wikłacz płowoskrzydły
   tr: Dağ Dulkuşu

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18938.0
 names:
   scientific: Edolisoma rostratum
-  fa: nan
+  fa: ''
   en: Rossel Cicadabird
   es: Oruguero de Rossel
   fr: Échenilleur de Rossel
   de: Rosselraupenfänger
-  pt: rossel cicadabird
+  pt: ''
   ja: ロッセルセミサンショウクイ
   nl: Rosselrupsvogel
   pl: gąsienicojad wielkodzioby

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33979.0
 names:
   scientific: Leiothlypis crissalis
-  fa: nan
+  fa: ''
   en: Colima Warbler
   es: Reinita de Colima
   fr: Paruline de Colima
   de: Colimawaldsänger
-  pt: colima warbler
+  pt: ''
   ru: Мексиканская древесница
   ja: コリマアメリカムシクイ
   nl: Colimazanger

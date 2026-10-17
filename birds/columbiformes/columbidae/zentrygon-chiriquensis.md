@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2383.0
 names:
   scientific: Zentrygon chiriquensis
-  fa: nan
+  fa: ''
   en: Chiriqui Quail-Dove
   es: Paloma Perdiz de Chiriquí
   fr: Colombe du Chiriqui
   de: Chiriquitaube
-  pt: chiriqui quail-dove
+  pt: ''
   ru: Рыжегрудая перепелиная горлица
   ja: ムネアカウズラバト
   zh: 棕胸鹑鸠

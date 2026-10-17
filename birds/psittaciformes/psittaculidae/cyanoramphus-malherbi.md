@@ -12,7 +12,7 @@ names:
   es: Perico Maorí Montano
   fr: Perruche de Malherbe
   de: Malherbesittich
-  pt: malherbe's parakeet
+  pt: ''
   ru: Оранжеволобый какарики
   ja: マレルブアオハシインコ
   zh: 橙額鸚鵡

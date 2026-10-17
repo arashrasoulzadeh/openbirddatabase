@@ -12,7 +12,7 @@ names:
   es: Alondra Piquilarga
   fr: Alouette du Namaland
   de: Karoo-Langschnabellerche
-  pt: karoo long-billed lark
+  pt: ''
   ru: Полупустынный жаворонок
   nl: Karoolangsnavelleeuwerik
   pl: szponiak namibijski

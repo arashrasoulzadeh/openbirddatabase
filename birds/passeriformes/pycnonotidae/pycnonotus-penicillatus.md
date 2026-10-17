@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24707.0
 names:
   scientific: Pycnonotus penicillatus
-  fa: nan
+  fa: ''
   en: Yellow-eared Bulbul
   es: Bulbul Orejudo
   fr: Bulbul oreillard
   de: Schmuckbülbül
-  pt: yellow-eared bulbul
+  pt: ''
   ru: Желтобровый бюльбюль
   ja: キミミヒヨドリ
   zh: 黃耳鵯

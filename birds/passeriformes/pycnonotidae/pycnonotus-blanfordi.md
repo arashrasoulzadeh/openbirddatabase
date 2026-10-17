@@ -12,7 +12,7 @@ names:
   es: Bulbul de Blanford Occidental
   fr: Bulbul de Blanford
   de: Ayeyarwadybülbül
-  pt: ayeyarwady bulbul
+  pt: ''
   ru: Настоящий бюльбюль Блэнфорда
   ja: イラワディヒヨドリ
   zh: 條耳鵯

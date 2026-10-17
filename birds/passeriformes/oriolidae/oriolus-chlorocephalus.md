@@ -12,7 +12,7 @@ names:
   es: Oropéndola Cabeciverde
   fr: Loriot à tête verte
   de: Grünkopfpirol
-  pt: green-headed oriole
+  pt: ''
   ru: Зеленоголовая иволга
   ja: ミドリコウライウグイス
   nl: Groenkopwielewaal

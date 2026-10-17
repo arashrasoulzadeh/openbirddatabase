@@ -12,7 +12,7 @@ names:
   es: Toquí de Abert
   fr: Tohi d'Abert
   de: Schwarzkinn-Grundammer
-  pt: abert's towhee
+  pt: ''
   ru: Чернолицый тохи
   ja: メグロトウヒチョウ
   nl: Zwartkintowie

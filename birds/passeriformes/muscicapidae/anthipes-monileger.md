@@ -12,7 +12,7 @@ names:
   es: Papamoscas Gargantilla
   fr: Gobemouche à gorge blanche
   de: Diamantschnäpper
-  pt: white-gorgeted flycatcher
+  pt: ''
   ru: Белогорлая мухоловка
   ja: ノドジロヒタキ
   zh: 白喉姬鹟

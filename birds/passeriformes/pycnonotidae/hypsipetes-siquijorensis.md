@@ -12,7 +12,7 @@ names:
   es: Bulbul de Siquijor
   fr: Bulbul de Siquijor
   de: Schieferkopfbülbül
-  pt: streak-breasted bulbul
+  pt: ''
   ru: Лесной бюльбюль
   ja: セブヒヨドリ
   nl: Leikruinbuulbuul

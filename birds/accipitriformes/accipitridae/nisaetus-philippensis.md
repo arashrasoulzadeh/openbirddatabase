@@ -12,7 +12,7 @@ names:
   es: Águila de Filipinas
   fr: Aigle des Philippines
   de: Luzonhaubenadler
-  pt: philippine hawk-eagle
+  pt: ''
   ru: Филиппинский хохлатый орёл
   ja: フィリピンクマタカ
   zh: 菲律宾鹰鵰

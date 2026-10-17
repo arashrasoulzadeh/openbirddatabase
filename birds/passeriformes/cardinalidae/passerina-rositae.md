@@ -12,7 +12,7 @@ names:
   es: Azulillo Ventrirrosado
   fr: Passerin à ventre rose
   de: Rosenbauchfink
-  pt: rose-bellied bunting
+  pt: ''
   ru: Розовобрюхий колорин
   ja: バライロルリノジコ
   nl: Rozebuikgors

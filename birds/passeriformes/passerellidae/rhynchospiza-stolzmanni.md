@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32906.0
 names:
   scientific: Rhynchospiza stolzmanni
-  fa: nan
+  fa: ''
   en: Tumbes Sparrow
   es: Chingolo de Tumbes
   fr: Bruant de Tumbes
   de: Tumbesammer
-  pt: tumbes sparrow
+  pt: ''
   ru: Эквадорская овсянка
   ja: チャガタスズメモドキ
   nl: Tumbesgors

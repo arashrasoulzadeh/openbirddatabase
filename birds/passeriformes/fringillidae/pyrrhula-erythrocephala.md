@@ -12,7 +12,7 @@ names:
   es: Camachuelo Cabecirrojo
   fr: Bouvreuil à tête rouge
   de: Rotkopfgimpel
-  pt: red-headed bullfinch
+  pt: ''
   ru: Красноголовый снегирь
   ja: ズアカウソ
   zh: 红头灰雀

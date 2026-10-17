@@ -12,7 +12,7 @@ names:
   es: Colín Ocelado
   fr: Colin ocellé
   de: Tränenwachtel
-  pt: ocellated quail
+  pt: ''
   ru: Глазчатый перепел
   ja: タマフウズラ
   zh: 眼斑彩鹑

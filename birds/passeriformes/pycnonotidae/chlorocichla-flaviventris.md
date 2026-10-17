@@ -12,7 +12,7 @@ names:
   es: Bulbul Pechiamarillo
   fr: Bulbul à poitrine jaune
   de: Gelbbauchbülbül
-  pt: yellow-bellied greenbul
+  pt: ''
   ru: Желтобрюхий бюльбюль
   ja: キバラアオヒヨドリ
   nl: Geelborstbuulbuul

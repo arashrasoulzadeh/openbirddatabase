@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 14251.0
 names:
   scientific: Grallaria ridgelyi
-  fa: nan
+  fa: ''
   en: Jocotoco Antpitta
   es: Tororoí Jocotoco
   fr: Grallaire de Ridgely
   de: Zügelfleck-Ameisenpitta
-  pt: jocotoco antpitta
+  pt: ''
   ru: Белощёкая питтовая муравьеловка
   ja: ジョコトコアリドリ
   nl: Jocotocomierpitta

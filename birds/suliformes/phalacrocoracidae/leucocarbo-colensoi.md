@@ -15,7 +15,7 @@ names:
   pt: auckland islands shag
   ru: Оклендский баклан
   ja: オークランドウ
-  zh: Auckland Shag
+  zh: ''
   nl: Aucklandaalscholver
   pl: kormoran łuskowany
   tr: Aukland Adası Alaca Karabatağı

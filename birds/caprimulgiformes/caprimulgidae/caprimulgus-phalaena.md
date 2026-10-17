@@ -12,7 +12,7 @@ names:
   es: Chotacabras de las Palaos
   fr: Engoulevent des Palau
   de: Palaunachtschwalbe
-  pt: palau nightjar
+  pt: ''
   ru: Палауский козодой
   ja: パラオヨタカ
   zh: 帛琉夜鶯

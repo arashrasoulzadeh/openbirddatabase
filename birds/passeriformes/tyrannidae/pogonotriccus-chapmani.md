@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16257.0
 names:
   scientific: Pogonotriccus chapmani
-  fa: nan
+  fa: ''
   en: Chapman's Bristle Tyrant
   es: Orejerito de Chapman
   fr: Tyranneau de Chapman
@@ -15,7 +15,7 @@ names:
   pt: barbudinho-do-tepui
   ru: Рыжекрылый тираннчик
   ja: チャオビコバシハエトリ
-  zh: Chapman's Bristle Tyrant
+  zh: ''
   nl: Chapmanlooftiran
   pl: tyranczyk oliwkowy
   tr: Chapman Yaprak Tiranı

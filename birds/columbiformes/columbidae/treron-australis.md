@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2536.0
 names:
   scientific: Treron australis
-  fa: nan
+  fa: ''
   en: Madagascar Green Pigeon
   es: Vinago Malgache
   fr: Colombar maïtsou
@@ -15,7 +15,7 @@ names:
   pt: madagascar green-pigeon
   ru: Мадагаскарский зелёный голубь
   ja: マダガスカルアオバト
-  zh: Madagascar Green Pigeon
+  zh: ''
   nl: Madagaskarpapegaaiduif
   pl: treron malgaski
   tr: Madagaskar Yeşil Güvercini

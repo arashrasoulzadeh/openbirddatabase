@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31984.0
 names:
   scientific: Chlorophonia cyanocephala
-  fa: nan
+  fa: ''
   en: Golden-rumped Euphonia
   es: Eufonia Culidorada
   fr: Organiste doré

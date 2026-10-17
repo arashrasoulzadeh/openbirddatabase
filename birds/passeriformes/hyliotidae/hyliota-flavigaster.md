@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21893.0
 names:
   scientific: Hyliota flavigaster
-  fa: nan
+  fa: ''
   en: Yellow-bellied Hyliota
   es: Hiliota Ventrigualda
   fr: Hyliote à ventre jaune
   de: Gelbbauchhyliota
-  pt: yellow-bellied hyliota
+  pt: ''
   ru: Желтобрюхая хилиота
   ja: キバラムシクイヒタキ
   nl: Geelbuikhyliota

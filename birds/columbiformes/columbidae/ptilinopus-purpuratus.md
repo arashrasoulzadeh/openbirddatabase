@@ -15,7 +15,7 @@ names:
   pt: gray-green fruit-dove
   ru: Серо-зелёный фруктовый голубь
   ja: ポリネシアヒメアオバト
-  zh: Grey-green Fruit Dove
+  zh: ''
   nl: Tahitiaanse jufferduif
   pl: owocożer atolowy
   tr: Tahiti Meyve Kumrusu

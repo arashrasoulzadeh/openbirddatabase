@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7064.0
 names:
   scientific: Hydrobates castro
-  fa: nan
+  fa: ''
   en: Band-rumped Storm Petrel
   es: Paíño de Madeira
   fr: Océanite de Castro
@@ -15,7 +15,7 @@ names:
   pt: painho-da-ilha-da-madeira
   ru: Мадейрская качурка
   ja: クロコシジロウミツバメ
-  zh: Band-rumped Storm Petrel
+  zh: ''
   nl: Madeirastormvogeltje
   pl: nawałnik białorzytny
   tr: Madeyra Fırtınakırlangıcı

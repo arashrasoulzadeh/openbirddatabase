@@ -12,7 +12,7 @@ names:
   es: Pitajo de Jelski
   fr: Pitajo de Jelski
   de: Rostbürzel-Schmätzertyrann
-  pt: jelski's chat-tyrant
+  pt: ''
   ru: Желтолобая тираннита
   ja: ジェルスキーヒタキタイランチョウ
   zh: 杰氏唧霸鹟

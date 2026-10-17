@@ -12,7 +12,7 @@ names:
   es: Chotacabras Ticuer
   fr: Engoulevent de Salvin
   de: Salvinnachtschwalbe
-  pt: tawny-collared nightjar
+  pt: ''
   ru: Рыжеватый козодой
   ja: メキシコヨタカ
   zh: 褐领夜鹰

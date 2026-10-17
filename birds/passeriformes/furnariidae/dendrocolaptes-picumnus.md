@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14723.0
 names:
   scientific: Dendrocolaptes picumnus
-  fa: nan
+  fa: ''
   en: Black-banded Woodcreeper
   es: Trepatroncos Variable
   fr: Grimpar varié

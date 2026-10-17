@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5659.0
 names:
   scientific: Laterallus spiloptera
-  fa: nan
+  fa: ''
   en: Dot-winged Crake
   es: Polluela Overa
   fr: Râle maillé

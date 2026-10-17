@@ -12,7 +12,7 @@ names:
   es: Tejedor Baya
   fr: Tisserin baya
   de: Bayaweber
-  pt: baya weaver
+  pt: ''
   ru: Ткач-байя
   ja: キムネコウヨウジャク
   zh: 黄胸织雀

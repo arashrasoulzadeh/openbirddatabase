@@ -15,7 +15,7 @@ names:
   pt: blue-headed wood-dove
   ru: Сизоголовая лесная горлица
   ja: ズアオバト
-  zh: Blue-headed Wood Dove
+  zh: ''
   nl: Blauwkopduif
   pl: turkaweczka modrogłowa
   tr: Çivit Kafalı Kumru

@@ -15,7 +15,7 @@ names:
   pt: rufous-collared robin
   ru: Красношейный дрозд
   ja: アカエリツグミ
-  zh: Rufous-collared Thrush
+  zh: ''
   nl: Roodkraaglijster
   pl: drozd rdzawoszyi
   tr: Kızıl Boyunlu Ardıç

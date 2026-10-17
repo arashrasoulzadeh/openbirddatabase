@@ -12,7 +12,7 @@ names:
   es: Cucarachero Nuquirrufo
   fr: Troglodyte à nuque rousse
   de: Veracruz-Zaunkönig
-  pt: veracruz wren
+  pt: ''
   ru: Рыжешейный кактусовый крапивник
   ja: アカエリサボテンミソサザイ
   zh: 棕颈曲嘴鹪鹩

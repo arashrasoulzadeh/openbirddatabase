@@ -12,7 +12,7 @@ names:
   es: Mohoua Cabeciblanca
   fr: Mohoua à tête blanche
   de: Weißköpfchen
-  pt: whitehead
+  pt: ''
   ru: Белоголовая мохуа
   ja: シロモフアムシクイ
   zh: 白头刺莺

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 3909.0
 names:
   scientific: Chaetura andrei
-  fa: nan
+  fa: ''
   en: Ashy-tailed Swift
   es: Vencejo Colicenizo
   fr: Martinet d'André
   de: Grauschwanzsegler
-  pt: ashy-tailed swift
+  pt: ''
   ru: Серохвостый иглохвост
   nl: Venezolaanse gierzwaluw
   pl: kominiarczyk ciemnobrzuchy

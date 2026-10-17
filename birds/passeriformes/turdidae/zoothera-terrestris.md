@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 28224.0
 names:
   scientific: Zoothera terrestris
-  fa: nan
+  fa: ''
   en: Bonin Thrush
   es: Zorzal de las Bonin
   fr: Grive des Bonin
   de: Boninerddrossel
-  pt: bonin thrush
+  pt: ''
   ru: Бонинский дрозд
   ja: オガサワラガビチョウ
   zh: 啟利氏地鶇

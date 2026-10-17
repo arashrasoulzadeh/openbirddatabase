@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26494.0
 names:
   scientific: Trochalopteron peninsulae
-  fa: nan
+  fa: ''
   en: Malayan Laughingthrush
   es: Charlatán Malayo
   fr: Garrulaxe de Malaisie
   de: Malaienhäherling
-  pt: malayan laughingthrush
+  pt: ''
   ru: Малаккская кустарница
   ja: マレーシアガビチョウ
   zh: 馬來亞噪鶥

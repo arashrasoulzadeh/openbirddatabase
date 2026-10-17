@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16276.0
 names:
   scientific: Phylloscartes nigrifrons
-  fa: nan
+  fa: ''
   en: Black-fronted Tyrannulet
   es: Orejerito Frentinegro
   fr: Tyranneau à front noir

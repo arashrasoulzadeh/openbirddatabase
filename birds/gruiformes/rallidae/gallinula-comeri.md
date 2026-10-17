@@ -12,7 +12,7 @@ names:
   es: Gallineta de Gough
   fr: Gallinule de Gough
   de: Goughteichhuhn
-  pt: gough moorhen
+  pt: ''
   ru: Гофская камышница
   ja: ゴフバン
   zh: 果夫岛黑水鸡

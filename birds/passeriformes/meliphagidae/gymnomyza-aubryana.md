@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 18149.0
 names:
   scientific: Gymnomyza aubryana
-  fa: nan
+  fa: ''
   en: Crow Honeyeater
   es: Mielero Corvino
   fr: Méliphage toulou
   de: Rotgesicht-Honigfresser
-  pt: crow honeyeater
+  pt: ''
   ru: Вороний мао
   ja: オオミツスイ
   nl: Nieuw-Caledonische honingeter

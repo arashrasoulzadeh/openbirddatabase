@@ -12,7 +12,7 @@ names:
   es: Gallo Oscuro
   fr: Tétras sombre
   de: Douglasiengebirgshuhn
-  pt: dusky grouse
+  pt: ''
   ru: Голубой тетерев
   ja: アオライチョウ
   zh: 蓝镰翅鸡

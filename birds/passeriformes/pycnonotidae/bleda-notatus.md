@@ -12,7 +12,7 @@ names:
   es: Bulbul Manchado
   fr: Bulbul jaunelore
   de: Gelbzügel-Borstenbülbül
-  pt: yellow-lored bristlebill
+  pt: ''
   ru: Уздечковый щетинкоклювый бюльбюль
   ja: コヒゲヒヨドリ
   nl: Geelteugelblada

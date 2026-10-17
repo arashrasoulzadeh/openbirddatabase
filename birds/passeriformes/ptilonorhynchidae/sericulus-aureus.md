@@ -12,7 +12,7 @@ names:
   es: Pergolero Áureo
   fr: Jardinier du Prince d'Orange
   de: Goldlaubenvogel
-  pt: masked bowerbird
+  pt: ''
   ru: Чернолицый шалашник
   ja: オウゴンフウチョウモドキ
   zh: 辉亭鸟

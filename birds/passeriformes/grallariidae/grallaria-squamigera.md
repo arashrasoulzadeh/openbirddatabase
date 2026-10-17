@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14190.0
 names:
   scientific: Grallaria squamigera
-  fa: nan
+  fa: ''
   en: Undulated Antpitta
   es: Tororoí Ondoso
   fr: Grallaire ondée
   de: Ockerbauch-Ameisenpitta
-  pt: undulated antpitta
+  pt: ''
   ru: Чешуебрюхая питтовая муравьеловка
   ja: サザナミジアリドリ
   nl: Geschubde mierpitta

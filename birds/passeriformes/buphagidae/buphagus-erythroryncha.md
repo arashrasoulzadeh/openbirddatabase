@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27680.0
 names:
   scientific: Buphagus erythroryncha
-  fa: nan
+  fa: ''
   en: Red-billed Oxpecker
   es: Picabueyes Piquirrojo
   fr: Piqueboeuf à bec rouge
   de: Rotschnabel-Madenhacker
-  pt: red-billed oxpecker
+  pt: ''
   ru: Красноклювый волоклюй
   ja: アカハシウシツツキ
   zh: 紅嘴牛椋鳥

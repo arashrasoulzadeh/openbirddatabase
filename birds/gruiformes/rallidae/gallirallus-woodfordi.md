@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5394.0
 names:
   scientific: Gallirallus woodfordi
-  fa: nan
+  fa: ''
   en: Woodford's Rail
   es: Rascón de Guadalcanal
   fr: Râle de Woodford
   de: Salomonenralle
-  pt: woodford's rail
+  pt: ''
   ru: Соломонский трескун
   ja: ウッドフォードクイナ
   nl: Woodfordral

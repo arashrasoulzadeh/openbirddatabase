@@ -12,7 +12,7 @@ names:
   es: Escribano Collarejo
   fr: Plectrophane à ventre noir
   de: Gelbkehl-Spornammer
-  pt: chestnut-collared longspur
+  pt: ''
   ru: Украшенный подорожник
   ja: アカエリツメナガホオジロ
   zh: 栗领铁爪鹀

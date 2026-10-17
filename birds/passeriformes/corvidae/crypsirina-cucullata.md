@@ -12,7 +12,7 @@ names:
   es: Urraca Encapuchada
   fr: Témia à collier
   de: Kapuzenbaumelster
-  pt: hooded treepie
+  pt: ''
   ru: Черноголовая сорока
   ja: ラケットオナガ
   zh: 黑头树鹊

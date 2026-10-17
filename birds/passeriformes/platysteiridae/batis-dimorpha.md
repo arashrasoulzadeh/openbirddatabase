@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19870.0
 names:
   scientific: Batis dimorpha
-  fa: nan
+  fa: ''
   en: Malawi Batis
   es: Batis de Malawi
   fr: Pririt du Malawi
   de: Malawischnäpper
-  pt: malawi batis
+  pt: ''
   nl: Malawivliegenvanger
   pl: krępnik górski
   tr: Malavi Baptisi

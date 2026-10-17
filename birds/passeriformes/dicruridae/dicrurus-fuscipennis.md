@@ -12,7 +12,7 @@ names:
   es: Drongo de Gran Comora
   fr: Drongo de Grande Comore
   de: Braunschwingendrongo
-  pt: grande comore drongo
+  pt: ''
   ru: Коморский дронго
   ja: コモロオウチュウ
   zh: 葛摩卷尾

@@ -12,7 +12,7 @@ names:
   es: Rayadito Común
   fr: Synallaxe rayadito
   de: Stachelschwanzschlüpfer
-  pt: thorn-tailed rayadito
+  pt: ''
   ru: Шипохвостая райадито
   ja: ハリオカマドドリ
   zh: 棘尾雷雀

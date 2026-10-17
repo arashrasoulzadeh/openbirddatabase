@@ -15,7 +15,7 @@ names:
   pt: gray-winged robin-chat
   ru: Серокрылый рыжехвост
   ja: コホオアカツグミヒタキ
-  zh: Grey-winged Robin-Chat
+  zh: ''
   nl: Grijsvleugeljanfrederik
   pl: koloratka białobrewa
   tr: Gri Kanatlı Kızılca Bülbül

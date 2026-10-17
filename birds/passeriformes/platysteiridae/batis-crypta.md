@@ -12,7 +12,7 @@ names:
   es: Batis de Iringa
   fr: Pririt obscur
   de: Iringaschnäpper
-  pt: dark batis
+  pt: ''
   ru: Ирингийский батис
   ja: アカバネセワタビタキ
   nl: Iringavliegenvanger

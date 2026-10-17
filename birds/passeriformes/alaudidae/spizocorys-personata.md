@@ -12,7 +12,7 @@ names:
   es: Alondra Enmascarada
   fr: Alouette masquée
   de: Maskenlerche
-  pt: masked lark
+  pt: ''
   ru: Масковый жаворонок
   ja: ハシボソヒメコウテンシ
   zh: 花脸沙百灵

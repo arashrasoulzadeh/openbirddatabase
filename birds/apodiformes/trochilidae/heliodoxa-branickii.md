@@ -12,7 +12,7 @@ names:
   es: Brillante Alicanela
   fr: Brillant de Branicki
   de: Rotflügel-Brillantkolibri
-  pt: rufous-webbed brilliant
+  pt: ''
   ru: Рыжекрылый бриллиант
   ja: アカバネテリハチドリ
   zh: 棕甲辉蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10557.0
 names:
   scientific: Gymnobucco bonapartei
-  fa: nan
+  fa: ''
   en: Grey-throated Barbet
   es: Barbudo Gorjigrís
   fr: Barbican à gorge grise
@@ -15,7 +15,7 @@ names:
   pt: gray-throated barbet
   ru: Серогорлая либия
   ja: ハイノドゴシキドリ
-  zh: Grey-throated Barbet
+  zh: ''
   nl: Grijskeelborstelneus
   pl: łysoń siwogłowy
   tr: Gri Gerdanlı Barbet

@@ -12,7 +12,7 @@ names:
   es: Solitario Carinegro
   fr: Solitaire masqué
   de: Maskenklarino
-  pt: black-faced solitaire
+  pt: ''
   ru: Чернолицый кларино
   ja: ズグロヒトリツグミ
   nl: Zwartmaskersolitaire

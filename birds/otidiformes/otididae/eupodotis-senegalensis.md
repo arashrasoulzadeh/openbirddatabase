@@ -12,7 +12,7 @@ names:
   es: Sisón Senegalés
   fr: Outarde du Sénégal
   de: Senegaltrappe
-  pt: white-bellied bustard
+  pt: ''
   ru: Белобрюхий корхан
   ja: セネガルショウノガン
   zh: 白腹鴇

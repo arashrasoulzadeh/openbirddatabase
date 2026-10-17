@@ -12,7 +12,7 @@ names:
   es: Avefría Pechipinta
   fr: Vanneau d'Abyssinie
   de: Strichelbrustkiebitz
-  pt: spot-breasted lapwing
+  pt: ''
   ru: Пестрогрудый чибис
   ja: ムナフタゲリ
   zh: 斑胸麦鸡

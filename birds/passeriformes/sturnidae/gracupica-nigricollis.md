@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27833.0
 names:
   scientific: Gracupica nigricollis
-  fa: nan
+  fa: ''
   en: Black-collared Starling
   es: Estornino Cuellinegro
   fr: Étourneau à cou noir
   de: Schwarzhalsstar
-  pt: black-collared starling
+  pt: ''
   ru: Черношейный скворец
   ja: クビワムクドリ
   zh: 黑领椋鸟

@@ -15,7 +15,7 @@ names:
   pt: madagascar blue-pigeon
   ru: Мадагаскарский гривун
   ja: マダガスカルルリバト
-  zh: Madagascar Blue Pigeon
+  zh: ''
   nl: Madagaskarblauwduif
   pl: koralczyk niebieskawy
   tr: Madagaskar Mavi Güvercini

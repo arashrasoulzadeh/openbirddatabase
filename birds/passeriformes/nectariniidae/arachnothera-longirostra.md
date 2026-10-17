@@ -12,7 +12,7 @@ names:
   es: Arañero Chico
   fr: Petit Arachnothère
   de: Weißkehl-Spinnenjäger
-  pt: little spiderhunter
+  pt: ''
   ru: Длинноклювая пауколовка
   ja: コクモカリドリ
   zh: 长嘴捕蛛鸟

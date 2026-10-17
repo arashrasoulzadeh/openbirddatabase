@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 8770.0
 names:
   scientific: Otus moheliensis
-  fa: nan
+  fa: ''
   en: Moheli Scops Owl
   es: Autillo de Moheli
   fr: Petit-duc de Mohéli
@@ -15,7 +15,7 @@ names:
   pt: moheli scops-owl
   ru: Мохельская сплюшка
   ja: モヘリコノハズク
-  zh: Moheli Scops Owl
+  zh: ''
   nl: Mohelidwergooruil
   pl: syczek złowrogi
   tr: Moheli İshakkuşu

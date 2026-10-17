@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15540.0
 names:
   scientific: Pseudasthenes patagonica
-  fa: nan
+  fa: ''
   en: Patagonian Canastero
   es: Canastero Patagón
   fr: Synallaxe de Patagonie
   de: Fleckenkehlcanastero
-  pt: patagonian canastero
+  pt: ''
   ru: Патагонская болария
   ja: パタゴニアカマドドリ
   nl: Patagonische canastero

@@ -12,7 +12,7 @@ names:
   es: Maluro Coronado
   fr: Mérion couronné
   de: Purpurkopf-Staffelschwanz
-  pt: purple-crowned fairywren
+  pt: ''
   ru: Пурпурноголовый малюр
   ja: ホオグロオーストラリアムシクイ
   zh: 紫冠细尾鹩莺

@@ -12,7 +12,7 @@ names:
   es: Chorlito Pechinegro
   fr: Pluvier ceinturé
   de: Schwarzbrust-Regenpfeifer
-  pt: red-kneed dotterel
+  pt: ''
   ru: Черногрудый зуёк
   ja: ワキアカチドリ
   zh: 红膝麦鸡

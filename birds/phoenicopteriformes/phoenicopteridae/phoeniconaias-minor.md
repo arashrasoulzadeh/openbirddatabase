@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 6815.0
 names:
   scientific: Phoeniconaias minor
-  fa: nan
+  fa: ''
   en: Lesser Flamingo
   es: Flamenco Enano
   fr: Flamant nain

@@ -12,7 +12,7 @@ names:
   es: Bubú de Lühder
   fr: Gonolek de Lühder
   de: Braunscheitelwürger
-  pt: lühder's bushshrike
+  pt: ''
   ru: Рыжегрудый бубу
   ja: シロスジヤブモズ
   nl: Lühderfiskaal

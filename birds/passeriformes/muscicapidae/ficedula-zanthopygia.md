@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29498.0
 names:
   scientific: Ficedula zanthopygia
-  fa: nan
+  fa: ''
   en: Yellow-rumped Flycatcher
   es: Papamoscas Culiamarillo
   fr: Gobemouche à croupion jaune
   de: Goldschnäpper
-  pt: yellow-rumped flycatcher
+  pt: ''
   ru: Даурская желтоспинная мухоловка
   ja: マミジロキビタキ
   zh: 白眉姬鹟

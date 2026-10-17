@@ -12,7 +12,7 @@ names:
   es: Mielero Maorí
   fr: Méliphage carillonneur
   de: Maorihonigfresser
-  pt: new zealand bellbird
+  pt: ''
   ru: Коримако
   ja: ニュージーランドミツスイ
   zh: 紐西蘭鐘吸蜜鳥

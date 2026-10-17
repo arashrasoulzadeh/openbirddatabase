@@ -12,7 +12,7 @@ names:
   es: Buco Bicinto
   fr: Tamatia bifascié
   de: Doppelband-Faulvogel
-  pt: two-banded puffbird
+  pt: ''
   ru: Двухпоясная пуховка
   nl: Dubbelbandbaardkoekoek
   pl: drzym dwuobrożny

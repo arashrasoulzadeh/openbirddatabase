@@ -12,7 +12,7 @@ names:
   es: Palila de Isla Laysan
   fr: Psittirostre de Laysan
   de: Laysankleidervogel
-  pt: laysan finch
+  pt: ''
   ru: Лайсанская вьюрковая цветочница
   ja: レイサンハワイマシコ
   zh: 莱桑岛燕雀

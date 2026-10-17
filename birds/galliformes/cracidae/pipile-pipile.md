@@ -15,7 +15,7 @@ names:
   pt: trinidad piping-guan
   ru: Тринидадский гуан
   ja: トリニダードナキシャクケイ
-  zh: Trinidad Piping Guan
+  zh: ''
   nl: Trinidadgoean
   pl: grdacz trinidadzki
   tr: Trinidad Islıkçı Guanı

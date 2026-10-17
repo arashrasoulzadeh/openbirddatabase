@@ -15,7 +15,7 @@ names:
   pt: abyssinian ground-thrush
   ru: Оранжевый дрозд
   ja: アビシニアジツグミ
-  zh: Abyssinian Ground Thrush
+  zh: ''
   nl: Ethiopische lijster
   pl: drozdaczek okularowy
   tr: Habeş Yer Ardıcı

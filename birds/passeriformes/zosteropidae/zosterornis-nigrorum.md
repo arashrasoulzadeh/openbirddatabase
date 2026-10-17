@@ -15,7 +15,7 @@ names:
   pt: negros striped-babbler
   ru: Негросская пеструшка
   ja: ネグロスモリチメドリ
-  zh: Negros Striped Babbler
+  zh: ''
   nl: Negrosboomtimalia
   pl: filipinek oliwkowy
   tr: Negros Çizgili Gözlükçüsü

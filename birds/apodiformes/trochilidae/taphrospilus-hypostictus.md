@@ -12,7 +12,7 @@ names:
   es: Colibrí Moteado
   fr: Colibri grivelé
   de: Tropfenkolibri
-  pt: many-spotted hummingbird
+  pt: ''
   ru: Пёстрый колибри
   ja: ウロコハチドリ
   zh: 点斑薮蜂鸟

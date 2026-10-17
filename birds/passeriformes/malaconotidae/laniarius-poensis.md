@@ -15,7 +15,7 @@ names:
   pt: western boubou
   ru: Горный бубу
   ja: フェルナンドポーナキヤブモズ
-  zh: Mountain Sooty Boubou
+  zh: ''
   nl: Bergfiskaal
   pl: dzierzyk jednobarwny
   tr: Batılı Dağ Bubusu

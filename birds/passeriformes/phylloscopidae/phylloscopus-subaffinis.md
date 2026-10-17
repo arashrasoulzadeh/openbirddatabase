@@ -12,7 +12,7 @@ names:
   es: Mosquitero Gorjiclaro
   fr: Pouillot subaffin
   de: Blasskehl-Laubsänger
-  pt: buff-throated warbler
+  pt: ''
   ru: Китайская пеночка
   ja: バフイロムシクイ
   zh: 棕腹柳莺

@@ -12,7 +12,7 @@ names:
   es: Pergolero Pechipardo
   fr: Jardinier à poitrine fauve
   de: Braunbauch-Laubenvogel
-  pt: fawn-breasted bowerbird
+  pt: ''
   ru: Сероголовый беседочник
   ja: チャバラニワシドリ
   zh: 浅黄胸大亭鸟

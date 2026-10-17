@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26013.0
 names:
   scientific: Pomatorhinus ochraceiceps
-  fa: nan
+  fa: ''
   en: Red-billed Scimitar Babbler
   es: Cimitarra Piquirroja
   fr: Pomatorhin à bec rouge

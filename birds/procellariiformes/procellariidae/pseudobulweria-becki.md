@@ -12,7 +12,7 @@ names:
   es: Petrel de Beck
   fr: Pétrel de Beck
   de: Becksturmvogel
-  pt: beck's petrel
+  pt: ''
   ru: Соломонский тайфунник
   ja: ソロモンミズナギドリ
   zh: 贝氏圆尾鹱

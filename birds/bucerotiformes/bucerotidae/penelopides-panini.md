@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Panay
   fr: Calao tarictic
   de: Visayashornvogel
-  pt: visayan hornbill
+  pt: ''
   ru: Рыжехвостый калао
   ja: カオグロサイチョウ
   zh: 棕尾斑嘴犀鳥

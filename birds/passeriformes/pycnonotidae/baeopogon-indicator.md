@@ -12,7 +12,7 @@ names:
   es: Bulbul Indicador
   fr: Bulbul à queue blanche
   de: Indikatorbülbül
-  pt: honeyguide greenbul
+  pt: ''
   ru: Белохвостый бюльбюль
   ja: オジロヒヨドリ
   nl: Witstaartbuulbuul

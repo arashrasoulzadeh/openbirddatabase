@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7717.0
 names:
   scientific: Ardeola bacchus
-  fa: nan
+  fa: ''
   en: Chinese Pond Heron
   es: Garcilla China
   fr: Crabier de Chine

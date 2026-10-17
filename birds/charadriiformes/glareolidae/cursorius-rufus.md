@@ -12,7 +12,7 @@ names:
   es: Corredor Rufo
   fr: Courvite de Burchell
   de: Rostrennvogel
-  pt: burchell's courser
+  pt: ''
   ru: Рыжий бегунок
   ja: ミナミスナバシリ
   nl: Rosse renvogel

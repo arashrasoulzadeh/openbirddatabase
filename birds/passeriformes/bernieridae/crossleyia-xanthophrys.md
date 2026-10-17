@@ -12,7 +12,7 @@ names:
   es: Silvícola Foditany
   fr: Fouditany à sourcils jaunes
   de: Gelbbrauen-Madagaskarsänger
-  pt: madagascar yellowbrow
+  pt: ''
   ru: Желтобровая тетрака
   ja: キマユマダガスカルチメドリ
   nl: Geelbrauwtetraka

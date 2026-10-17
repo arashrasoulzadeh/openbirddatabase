@@ -12,7 +12,7 @@ names:
   es: Rascón de Platen
   fr: Râle de Platen
   de: Schnarchralle
-  pt: snoring rail
+  pt: ''
   ru: Сулавесский пастушок
   ja: セレベスクイナ
   zh: 鼾声秧鸡

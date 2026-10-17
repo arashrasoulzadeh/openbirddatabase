@@ -15,7 +15,7 @@ names:
   pt: painted redstart
   ru: Белокрылая канделита
   ja: カタジロアメリカムシクイ
-  zh: Painted Whitestart
+  zh: ''
   nl: Roodbuikzanger
   pl: pleszówka białoskrzydła
   tr: Boyalı Ötleğen

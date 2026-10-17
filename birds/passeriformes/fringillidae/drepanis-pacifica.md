@@ -12,7 +12,7 @@ names:
   es: Mamo de Hawái
   fr: Drépanide mamo
   de: Mamokleidervogel
-  pt: hawaii mamo
+  pt: ''
   ru: Желтопоясная мамо
   ja: キゴシクロハワイミツスイ
   zh: 夏威夷監督吸蜜鳥

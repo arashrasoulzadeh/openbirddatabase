@@ -12,7 +12,7 @@ names:
   es: Batis Colicorto
   fr: Pririt à queue courte
   de: Kurzschwanzschnäpper
-  pt: short-tailed batis
+  pt: ''
   ru: Короткохвостый батис
   ja: タンビセワタビタキ
   nl: Kortstaartvliegenvanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12960.0
 names:
   scientific: Amazona farinosa
-  fa: nan
+  fa: ''
   en: Mealy Amazon
   es: Amazona Harinosa
   fr: Amazone poudrée

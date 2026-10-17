@@ -12,7 +12,7 @@ names:
   es: Gerigón Piquicorto
   fr: Séricorne à bec court
   de: Stutzschnabel
-  pt: weebill
+  pt: ''
   ru: Короткоклювка
   ja: コバシムシクイ
   zh: 褐阔嘴莺

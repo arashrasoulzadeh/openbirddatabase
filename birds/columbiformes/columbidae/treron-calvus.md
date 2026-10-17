@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2548.0
 names:
   scientific: Treron calvus
-  fa: nan
+  fa: ''
   en: African Green Pigeon
   es: Vinago Africano
   fr: Colombar à front nu
@@ -15,7 +15,7 @@ names:
   pt: pombo-verde-africano
   ru: Африканский зелёный голубь
   ja: アフリカアオバト
-  zh: African Green Pigeon
+  zh: ''
   nl: Afrikaanse papegaaiduif
   pl: treron krasnonosy
   tr: Kırmızı Burunlu Yeşil Güvercin

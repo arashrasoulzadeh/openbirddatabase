@@ -12,7 +12,7 @@ names:
   es: Avefría Pechirrufa
   fr: Vanneau à poitrine châtaine
   de: Rotbrustkiebitz
-  pt: brown-chested lapwing
+  pt: ''
   ru: Рыжегрудый чибис
   ja: チャムネトサカゲリ
   zh: 褐胸麦鸡

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16576.0
 names:
   scientific: Mecocerculus poecilocercus
-  fa: nan
+  fa: ''
   en: White-tailed Tyrannulet
   es: Piojito Coliblanco
   fr: Tyranneau à queue blanche
   de: Weißschwanz-Tachurityrann
-  pt: white-tailed tyrannulet
+  pt: ''
   ru: Белохвостый москитолов
   ja: オジロフタスジタイランチョウ
   nl: Witstaarttachuri

@@ -12,7 +12,7 @@ names:
   es: Picotenaza Asiático
   fr: Bec-ouvert indien
   de: Silberklaffschnabel
-  pt: asian openbill
+  pt: ''
   ru: Индийский аист-разиня
   ja: スキハシコウ
   zh: 钳嘴鹳

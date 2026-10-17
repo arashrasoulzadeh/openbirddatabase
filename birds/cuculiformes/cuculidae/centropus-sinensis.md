@@ -12,7 +12,7 @@ names:
   es: Cucal Chino
   fr: Grand Coucal
   de: Heckenkuckuck
-  pt: greater coucal
+  pt: ''
   ru: Большой кукаль
   ja: オオバンケン
   zh: 褐翅鸦鹃

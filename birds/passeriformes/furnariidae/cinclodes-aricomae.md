@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 15111.0
 names:
   scientific: Cinclodes aricomae
-  fa: nan
+  fa: ''
   en: Royal Cinclodes
   es: Remolinera Real
   fr: Cinclode royal
   de: Weißkehl-Uferwipper
-  pt: royal cinclodes
+  pt: ''
   ru: Белобровая трясохвостка
   ja: ロイアルカマドドリ
   nl: Koningswipstaart

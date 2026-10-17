@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6728.0
 names:
   scientific: Chlidonias leucopterus
-  fa: nan
+  fa: ''
   en: White-winged Tern
   es: Fumarel Aliblanco
   fr: Guifette leucoptère

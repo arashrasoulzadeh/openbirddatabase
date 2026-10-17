@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25299.0
 names:
   scientific: Curruca subcoerulea
-  fa: nan
+  fa: ''
   en: Chestnut-vented Warbler
   es: Curruca Azulada
   fr: Fauvette grignette
   de: Meisengrasmücke
-  pt: chestnut-vented warbler
+  pt: ''
   ru: Капская синицевая славка
   ja: ケープカラムシクイ
   zh: 棕臀林莺

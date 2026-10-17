@@ -12,7 +12,7 @@ names:
   es: Tangara Florida
   fr: Calliste émeraude
   de: Smaragdtangare
-  pt: emerald tanager
+  pt: ''
   ru: Изумрудная танагра
   ja: キゴシミドリフウキンチョウ
   zh: 翠绿唐加拉雀

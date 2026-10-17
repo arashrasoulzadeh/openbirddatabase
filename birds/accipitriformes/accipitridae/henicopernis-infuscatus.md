@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 7927.0
 names:
   scientific: Henicopernis infuscatus
-  fa: nan
+  fa: ''
   en: Black Honey Buzzard
   es: Milano de Nueva Bretaña
   fr: Bondrée noire
@@ -15,7 +15,7 @@ names:
   pt: black honey-buzzard
   ru: Чёрный осоед
   ja: クロハチクマ
-  zh: Black Honey Buzzard
+  zh: ''
   nl: Zwarte wespendief
   pl: pszczołojad ciemny
   tr: Bismarck Uzun Kuyruklu Şahini

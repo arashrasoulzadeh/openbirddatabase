@@ -12,7 +12,7 @@ names:
   es: Yuhina Barbinegra
   fr: Yuhina à menton noir
   de: Meisenyuhina
-  pt: black-chinned yuhina
+  pt: ''
   ru: Синицевая юхина
   ja: クロアゴカンムリチメドリ
   zh: 黑额凤鹛

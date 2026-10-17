@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 14028.0
 names:
   scientific: Ampelornis griseiceps
-  fa: nan
+  fa: ''
   en: Grey-headed Antbird
   es: Hormiguero Cabecigrís
   fr: Alapi à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-headed antbird
   ru: Сероголовая муравьеловка
   ja: ハイガシラアリドリ
-  zh: Grey-headed Antbird
+  zh: ''
   nl: Palamblamiervogel
   pl: andomrowiniec
   tr: Gri Başlı Karıncakuşu

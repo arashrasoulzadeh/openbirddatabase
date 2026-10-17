@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35410.0
 names:
   scientific: Incaspiza personata
-  fa: nan
+  fa: ''
   en: Rufous-backed Inca Finch
   es: Incaspiza Dorsirrufo
   fr: Incaspize costumé
@@ -15,7 +15,7 @@ names:
   pt: rufous-backed inca-finch
   ru: Рыжеспинная пизарита-инка
   ja: セアカインカシトド
-  zh: Rufous-backed Inca Finch
+  zh: ''
   nl: Roodrugincagors
   pl: ineczka maskowa
   tr: Kızıl Sırtlı İnka İspinozu

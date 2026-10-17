@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4839.0
 names:
   scientific: Selasphorus platycercus
-  fa: nan
+  fa: ''
   en: Broad-tailed Hummingbird
   es: Colibrí Coliancho
   fr: Colibri à queue large
   de: Breitschwanzelfe
-  pt: broad-tailed hummingbird
+  pt: ''
   ru: Широкохвостый колибри
   ja: フトオハチドリ
   zh: 宽尾煌蜂鸟

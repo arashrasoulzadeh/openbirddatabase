@@ -12,7 +12,7 @@ names:
   es: Lori Cardenal
   fr: Lori cardinal
   de: Kardinallori
-  pt: cardinal lory
+  pt: ''
   ru: Кардиналовый лори
   ja: ベニインコ
   nl: Kardinaallori

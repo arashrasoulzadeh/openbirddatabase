@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24504.0
 names:
   scientific: Iole propinqua
-  fa: nan
+  fa: ''
   en: Grey-eyed Bulbul
   es: Bulbul Ojigrís
   fr: Bulbul aux yeux gris

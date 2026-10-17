@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11523.0
 names:
   scientific: Chrysocolaptes validus
-  fa: nan
+  fa: ''
   en: Orange-backed Woodpecker
   es: Pito Dorsinaranja
   fr: Pic vigoureux
   de: Reinwardtspecht
-  pt: orange-backed woodpecker
+  pt: ''
   ru: Оранжевоспинный дятел-султан
   ja: アカハラコガネゲラ
   zh: 橙背啄木鳥

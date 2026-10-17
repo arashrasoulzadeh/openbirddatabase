@@ -12,7 +12,7 @@ names:
   es: Perlita Cubana
   fr: Gobemoucheron de Cuba
   de: Kubamückenfänger
-  pt: cuban gnatcatcher
+  pt: ''
   ru: Кубинская комароловка
   ja: キューバブユムシクイ
   nl: Cubaanse muggenvanger

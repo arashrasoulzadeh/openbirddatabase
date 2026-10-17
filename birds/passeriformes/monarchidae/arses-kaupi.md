@@ -12,7 +12,7 @@ names:
   es: Monarca Pío
   fr: Monarque sanglé
   de: Elstermonarch
-  pt: pied monarch
+  pt: ''
   ru: Пегий воротничковый монарх
   ja: ムナオビエリマキヒタキ
   zh: 澳洲斑皺鶲

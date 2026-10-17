@@ -15,7 +15,7 @@ names:
   pt: woodland pipit
   ru: Древесный конёк
   ja: アンゴラタヒバリ
-  zh: Wood Pipit
+  zh: ''
   nl: Bospieper
   pl: świergotek brązowy
   tr: Orman İncirkuşu

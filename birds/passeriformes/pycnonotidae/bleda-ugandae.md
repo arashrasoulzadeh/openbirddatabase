@@ -12,7 +12,7 @@ names:
   es: Bulbul Ojigualdo
   fr: Bulbul aux yeux jaunes
   de: Gelbaugen-Borstenbülbül
-  pt: yellow-eyed bristlebill
+  pt: ''
   ru: Желтоглазый бюльбюль
   nl: Geeloogblada
   pl: bleda żółtooka

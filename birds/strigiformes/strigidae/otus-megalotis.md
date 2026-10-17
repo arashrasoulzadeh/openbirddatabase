@@ -15,7 +15,7 @@ names:
   pt: philippine scops-owl
   ru: Филиппинская совка
   ja: ルソンオオコノハズク
-  zh: Philippine Scops Owl
+  zh: ''
   nl: Filipijnse dwergooruil
   pl: syczek duży
   tr: Filipin İshakkuşu

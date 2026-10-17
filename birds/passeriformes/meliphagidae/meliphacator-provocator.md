@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18145.0
 names:
   scientific: Meliphacator provocator
-  fa: nan
+  fa: ''
   en: Kadavu Honeyeater
   es: Mielero de Kadavu
   fr: Méliphage de Kandavu
   de: Goldaugen-Honigfresser
-  pt: kadavu honeyeater
+  pt: ''
   ru: Желтолицый фулехайо
   ja: カンダブミツスイ
   nl: Kadavuhoningeter

@@ -12,7 +12,7 @@ names:
   es: Obispo de Jackson
   fr: Euplecte de Jackson
   de: Leierschwanzweber
-  pt: jackson's widowbird
+  pt: ''
   ru: Лирохвостый ткачик
   ja: オドリホウオウ
   zh: 傑氏巧織雀

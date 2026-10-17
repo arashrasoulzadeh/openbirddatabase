@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20050.0
 names:
   scientific: Dryoscopus cubla
-  fa: nan
+  fa: ''
   en: Black-backed Puffback
   es: Cubla Dorsinegra
   fr: Cubla boule-de-neige
   de: Schwarzmantel-Schneeballwürger
-  pt: black-backed puffback
+  pt: ''
   ru: Черноспинная пухоспинка
   ja: セグロフクレヤブモズ
   nl: Zwartrugpoederdonsklauwier

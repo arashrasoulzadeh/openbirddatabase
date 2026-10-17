@@ -12,7 +12,7 @@ names:
   es: Abejaruco Barbirrojo
   fr: Guêpier à fraise
   de: Rotbartspint
-  pt: red-bearded bee-eater
+  pt: ''
   ru: Краснобородая щурка
   ja: ムネアカハチクイ
   zh: 赤须夜蜂虎

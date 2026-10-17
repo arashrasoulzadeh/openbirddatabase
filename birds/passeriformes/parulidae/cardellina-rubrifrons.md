@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34350.0
 names:
   scientific: Cardellina rubrifrons
-  fa: nan
+  fa: ''
   en: Red-faced Warbler
   es: Reinita Carirroja
   fr: Paruline à face rouge
   de: Dreifarben-Waldsänger
-  pt: red-faced warbler
+  pt: ''
   ru: Краснолицая вильсония
   ja: アカガオアメリカムシクイ
   nl: Roodmaskerzanger

@@ -12,7 +12,7 @@ names:
   es: Cotinga de Remsen
   fr: Cotinga de Remsen
   de: Kastanienbauchkotinga
-  pt: chestnut-bellied cotinga
+  pt: ''
   ru: Каштановогрудая котинга
   ja: クリハラカザリドリ
   nl: Kastanjebuikcotinga

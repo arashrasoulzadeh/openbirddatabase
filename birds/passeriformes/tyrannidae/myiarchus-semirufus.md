@@ -12,7 +12,7 @@ names:
   es: Copetón Rufo
   fr: Tyran roux
   de: Rötelschopftyrann
-  pt: rufous flycatcher
+  pt: ''
   ru: Рыжий миарх
   ja: アカハラヒタキモドキ
   nl: Kusttiran

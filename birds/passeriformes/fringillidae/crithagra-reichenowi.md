@@ -12,7 +12,7 @@ names:
   es: Serín de Reichenow
   fr: Serin de Reichenow
   de: Reichenowgirlitz
-  pt: reichenow's seedeater
+  pt: ''
   ru: Саванный канареечник
   ja: ケニアキゴシカナリア
   nl: Reichenowkanarie

@@ -12,7 +12,7 @@ names:
   es: Cuco Colilargo Montano
   fr: Coucou montagnard
   de: Bergkuckuck
-  pt: barred long-tailed cuckoo
+  pt: ''
   ru: Горная кукушка
   ja: シマオナガカッコウ
   nl: Gestreepte langstaartkoekoek

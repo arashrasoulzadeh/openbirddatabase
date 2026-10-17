@@ -12,7 +12,7 @@ names:
   es: Cigüeña de Storm
   fr: Cigogne de Storm
   de: Höckerstorch
-  pt: storm's stork
+  pt: ''
   ru: Малайский аист
   ja: スンダエンビコウ
   zh: 黃臉鸛

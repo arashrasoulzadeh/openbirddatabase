@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14342.0
 names:
   scientific: Grallaricula cucullata
-  fa: nan
+  fa: ''
   en: Hooded Antpitta
   es: Ponchito Encapuchado
   fr: Grallaire à capuchon
   de: Rotkopf-Ameisenpitta
-  pt: hooded antpitta
+  pt: ''
   ru: Красноголовая питтуля
   ja: アカズキンヒメジアリドリ
   zh: 巾冠蚁鸫

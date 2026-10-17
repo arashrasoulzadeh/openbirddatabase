@@ -15,7 +15,7 @@ names:
   pt: maria-preta-de-penacho
   ru: Хохлатая вдовка
   ja: カンムリクロタイランチョウ
-  zh: Crested Black Tyrant
+  zh: ''
   nl: Kuifmoortiran
   pl: wdowik czubaty
   tr: Tepeli Esmer Tiran

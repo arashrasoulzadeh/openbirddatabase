@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27705.0
 names:
   scientific: Aplonis mystacea
-  fa: nan
+  fa: ''
   en: Yellow-eyed Starling
   es: Estornino Ojigualdo
   fr: Stourne de Grant
   de: Mimikastar
-  pt: yellow-eyed starling
+  pt: ''
   ru: Новогвинейский скворец
   ja: カンムリカラスモドキ
   nl: Mimikapurperspreeuw

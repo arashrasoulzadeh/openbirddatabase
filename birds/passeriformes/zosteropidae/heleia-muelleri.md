@@ -15,7 +15,7 @@ names:
   pt: olho-escuro-malhado
   ru: Тиморская элейя
   ja: チモールハシブトメジロ
-  zh: Spot-breasted Heleia
+  zh: ''
   nl: Timorese brilvogel
   pl: okularowiec plamisty
   tr: Timor Gözlükçüsü

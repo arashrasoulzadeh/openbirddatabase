@@ -12,7 +12,7 @@ names:
   es: Ibis Moteado
   fr: Ibis vermiculé
   de: Fleckenbrustibis
-  pt: spot-breasted ibis
+  pt: ''
   ru: Пятнистогрудый ибис
   ja: ムナフトキ
   zh: 斑胸䴉

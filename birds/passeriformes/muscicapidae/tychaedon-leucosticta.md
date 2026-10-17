@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28948.0
 names:
   scientific: Tychaedon leucosticta
-  fa: nan
+  fa: ''
   en: Forest Scrub Robin
   es: Alzacola Selvático
   fr: Agrobate du Ghana
@@ -15,7 +15,7 @@ names:
   pt: forest scrub-robin
   ru: Белоусый тугайный соловей
   ja: ハジロヤブコマドリ
-  zh: Forest Scrub Robin
+  zh: ''
   nl: Boswaaierstaart
   pl: drozdówek leśny
   tr: Orman Çalı Bülbülü

@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 9035.0
 names:
   scientific: Glaucidium mooreorum
-  fa: nan
+  fa: ''
   en: Pernambuco Pygmy Owl
   es: Mochuelo de Pernambuco
   fr: Chevêchette des Moore
@@ -15,7 +15,7 @@ names:
   pt: caburé-de-pernambuco
   ru: Пестроголовый сычик
   ja: ペルナンブコスズメフクロウ
-  zh: Pernambuco Pygmy Owl
+  zh: ''
   nl: Pernambucodwerguil
   pl: sóweczka kasztanowata
   tr: Pernambuko Serçe Baykuşu

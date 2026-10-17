@@ -15,7 +15,7 @@ names:
   pt: maria-de-peito-marchetado
   ru: Буроватый тоди-тиранн
   ja: シロスジコビトドリモドキ
-  zh: Flammulated Bamboo Tyrant
+  zh: ''
   nl: Gestreepte todietiran
   pl: smukłodziobek płowy
   tr: And Bambu Tiranı

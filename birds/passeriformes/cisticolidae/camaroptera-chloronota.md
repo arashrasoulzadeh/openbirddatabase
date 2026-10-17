@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23039.0
 names:
   scientific: Camaroptera chloronota
-  fa: nan
+  fa: ''
   en: Olive-green Camaroptera
   es: Camaróptera Dorsiverde
   fr: Camaroptère à dos vert
   de: Olivbogenflügel
-  pt: olive-green camaroptera
+  pt: ''
   ru: Оливковая терновница
   ja: オリーブコムシクイ
   nl: Olijfgroene camaroptera

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24706.0
 names:
   scientific: Pycnonotus xantholaemus
-  fa: nan
+  fa: ''
   en: Yellow-throated Bulbul
   es: Bulbul Gorjigualdo
   fr: Bulbul à menton jaune
   de: Goldkehlbülbül
-  pt: yellow-throated bulbul
+  pt: ''
   ru: Золотистогорлый бюльбюль
   ja: キノドヒヨドリ
   nl: Geelkeelbuulbuul

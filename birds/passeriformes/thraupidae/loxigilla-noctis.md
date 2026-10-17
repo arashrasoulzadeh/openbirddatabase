@@ -12,7 +12,7 @@ names:
   es: Semillero Gorjirrojo
   fr: Pèrenoir rougegorge
   de: Rotkehl-Gimpeltangare
-  pt: lesser antillean bullfinch
+  pt: ''
   ru: Красногорлый семилеро
   ja: コクロアカウソ
   nl: Antillendikbekje

@@ -12,7 +12,7 @@ names:
   es: Pita Granate
   fr: Brève grenadine
   de: Granatpitta
-  pt: garnet pitta
+  pt: ''
   ru: Гранатовая питта
   ja: ムラサキヤイロチョウ
   zh: 榴紅八色鶇

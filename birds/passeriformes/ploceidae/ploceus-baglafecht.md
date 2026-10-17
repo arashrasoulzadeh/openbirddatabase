@@ -12,7 +12,7 @@ names:
   es: Tejedor Baglafecht
   fr: Tisserin baglafecht
   de: Baglafechtweber
-  pt: baglafecht weaver
+  pt: ''
   ru: Черноухий ткач
   ja: ミミグロハタオリ
   nl: Baglafechtwever

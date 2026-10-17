@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16550.0
 names:
   scientific: Ornithion inerme
-  fa: nan
+  fa: ''
   en: White-lored Tyrannulet
   es: Mosquerito Moteado
   fr: Tyranneau minute

@@ -12,7 +12,7 @@ names:
   es: Monarca de las Marquesas
   fr: Monarque des Marquises
   de: Marquesasmonarch
-  pt: marquesan monarch
+  pt: ''
   ru: Маркизская помарея
   ja: マルケサスヒタキ
   nl: Markiezenmonarch

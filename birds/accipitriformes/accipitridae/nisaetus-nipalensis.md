@@ -12,7 +12,7 @@ names:
   es: Águila Montañesa
   fr: Aigle montagnard
   de: Berghaubenadler
-  pt: mountain hawk-eagle
+  pt: ''
   ru: Хохлатый орёл
   ja: クマタカ
   zh: 鹰雕

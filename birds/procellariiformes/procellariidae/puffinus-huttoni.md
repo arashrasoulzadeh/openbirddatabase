@@ -12,7 +12,7 @@ names:
   es: Pardela de Hutton
   fr: Puffin de Hutton
   de: Huttonsturmtaucher
-  pt: hutton's shearwater
+  pt: ''
   ru: Маорийский буревестник
   ja: ニュージーランドミズナギドリ
   zh: 澳洲鹱

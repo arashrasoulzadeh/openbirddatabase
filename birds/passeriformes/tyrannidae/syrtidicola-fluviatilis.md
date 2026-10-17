@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17081.0
 names:
   scientific: Syrtidicola fluviatilis
-  fa: nan
+  fa: ''
   en: Little Ground Tyrant
   es: Dormilona Enana
   fr: Dormilon fluviatile
@@ -15,7 +15,7 @@ names:
   pt: gaúcha-d'água
   ru: Малая дормилона
   ja: ヒメイワタイランチョウ
-  zh: Little Ground Tyrant
+  zh: ''
   nl: Kleine grondtiran
   pl: skałotyran mały
   tr: Küçük Yer Tiranı

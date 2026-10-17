@@ -12,7 +12,7 @@ names:
   es: Collalba Capirotada
   fr: Traquet du Cap
   de: Erdsteinschmätzer
-  pt: capped wheatear
+  pt: ''
   ru: Черношапочная каменка
   ja: クロエリサバクヒタキ
   nl: Aardtapuit

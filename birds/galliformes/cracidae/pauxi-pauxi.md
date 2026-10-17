@@ -12,7 +12,7 @@ names:
   es: Paují de Yelmo
   fr: Hocco à pierre
   de: Helmhokko
-  pt: helmeted curassow
+  pt: ''
   ru: Шлемоносный гокко
   ja: カブトホウカンチョウ
   nl: Helmhokko

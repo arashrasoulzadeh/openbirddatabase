@@ -12,7 +12,7 @@ names:
   es: Zampullín Malgache
   fr: Grèbe malgache
   de: Madagaskarzwergtaucher
-  pt: madagascar grebe
+  pt: ''
   ru: Мадагаскарская поганка
   ja: マダガスカルカイツブリ
   zh: 馬達加斯加鸊鷉

@@ -12,10 +12,10 @@ names:
   es: Pitajo Canela
   fr: Pitajo de d'Orbigny
   de: Graurücken-Schmätzertyrann
-  pt: d'orbigny's chat-tyrant
+  pt: ''
   ru: Скальная тираннита
   ja: ヒタキタイランチョウ
-  zh: D'Orbigny's Chat-Tyrant
+  zh: ''
   nl: D'Orbignytapuittiran
   pl: kląszczyk siwogardły
   tr: Tarçın Karınlı Bülbül Tiranı

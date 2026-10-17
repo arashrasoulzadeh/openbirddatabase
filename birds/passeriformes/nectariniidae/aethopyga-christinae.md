@@ -12,7 +12,7 @@ names:
   es: Suimanga de Christina
   fr: Souimanga de Christina
   de: Hainannektarvogel
-  pt: fork-tailed sunbird
+  pt: ''
   ru: Вилохвостая нектарница
   ja: エンビタイヨウチョウ
   zh: 叉尾太阳鸟

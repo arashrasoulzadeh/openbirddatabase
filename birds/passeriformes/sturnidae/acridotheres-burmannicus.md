@@ -12,7 +12,7 @@ names:
   es: Miná Birmano
   fr: Martin birman
   de: Burmamaina
-  pt: burmese myna
+  pt: ''
   ru: Камбоджийский скворец
   ja: シロガシラムクドリ
   zh: 红嘴椋鸟

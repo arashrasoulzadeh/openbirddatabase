@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25410.0
 names:
   scientific: Fulvetta vinipectus
-  fa: nan
+  fa: ''
   en: White-browed Fulvetta
   es: Fulveta Cejiblanca
   fr: Fulvetta de Hodgson
   de: Weißbrauen-Grasmücke
-  pt: white-browed fulvetta
+  pt: ''
   ru: Белобровая фульветта
   ja: ノドジロチメドリ
   zh: 白眉雀鹛

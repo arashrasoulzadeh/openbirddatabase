@@ -12,7 +12,7 @@ names:
   es: Charrancito de Saunders
   fr: Sterne de Saunders
   de: Orientseeschwalbe
-  pt: saunders's tern
+  pt: ''
   ru: Персидская крачка
   ja: アラビアコアジサシ
   nl: Saunders' dwergstern

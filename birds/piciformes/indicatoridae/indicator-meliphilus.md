@@ -12,7 +12,7 @@ names:
   es: Indicador Pálido
   fr: Indicateur pâle
   de: Tavetahoniganzeiger
-  pt: pallid honeyguide
+  pt: ''
   ru: Светлобрюхий медоуказчик
   ja: ヒガシマメミツオシエ
   nl: Bleke honingspeurder

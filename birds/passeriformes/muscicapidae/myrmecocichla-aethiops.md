@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29767.0
 names:
   scientific: Myrmecocichla aethiops
-  fa: nan
+  fa: ''
   en: Anteater Chat
   es: Zorzal Hormiguero Septentrional
   fr: Traquet brun
@@ -15,7 +15,7 @@ names:
   pt: northern anteater-chat
   ru: Саванная термитница
   ja: アリヒタキ
-  zh: Anteater Chat
+  zh: ''
   nl: Bruine miertapuit
   pl: smolarek brunatny
   tr: Kuzeyli Termit Bülbülü

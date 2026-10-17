@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10717.0
 names:
   scientific: Psilopogon eximius
-  fa: nan
+  fa: ''
   en: Bornean Barbet
   es: Barbudo Eximio
   fr: Barbu à gorge noire
   de: Schwarzkehl-Bartvogel
-  pt: bornean barbet
+  pt: ''
   ru: Черногорлый бородастик
   ja: ノドグロゴシキドリ
   nl: Zwartkeelbaardvogel

@@ -12,7 +12,7 @@ names:
   es: Ceniciento de Malabar
   fr: Téphrodorne de Malabar
   de: Malabarvanga
-  pt: malabar woodshrike
+  pt: ''
   ru: Малабарский личинколов
   ja: マラバーモズサンショウクイ
   nl: Malabarrupsklauwier

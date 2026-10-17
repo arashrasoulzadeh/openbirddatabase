@@ -15,7 +15,7 @@ names:
   pt: gray-headed batis
   ru: Приречный батис
   ja: ハイガシラセワタビタキ
-  zh: Grey-headed Batis
+  zh: ''
   nl: Doornvliegenvanger
   pl: krępnik akacjowy
   tr: Gri Başlıklı Batis

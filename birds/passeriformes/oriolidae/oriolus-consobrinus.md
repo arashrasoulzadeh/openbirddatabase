@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 19617.0
 names:
   scientific: Oriolus consobrinus
-  fa: nan
+  fa: ''
   en: Ventriloquial Oriole
   es: Oropéndola Ventrílocua
   fr: Loriot ventriloque
-  pt: ventriloquial oriole
+  pt: ''
   nl: Buiksprekerwielewaal
   pl: wilga żółtogrzbieta
   tr: Vantrolog Sarıasma

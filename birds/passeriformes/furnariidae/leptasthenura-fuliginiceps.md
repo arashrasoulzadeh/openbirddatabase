@@ -12,7 +12,7 @@ names:
   es: Tijeral Canelo
   fr: Synallaxe à tête brune
   de: Braunkappen-Meisenschlüpfer
-  pt: brown-capped tit-spinetail
+  pt: ''
   ru: Буланая колючехвостка
   ja: チャボウシエナガカマドドリ
   nl: Bruinkapmeesstekelstaart

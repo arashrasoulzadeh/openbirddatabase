@@ -12,7 +12,7 @@ names:
   es: Arborófila de Formosa
   fr: Torquéole de Formose
   de: Taiwanbuschwachtel
-  pt: taiwan partridge
+  pt: ''
   ru: Тайваньская лесная куропатка
   ja: ミヤマテッケイ
   zh: 台湾山鹧鸪

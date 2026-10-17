@@ -15,7 +15,7 @@ names:
   pt: moluccan whistler
   ru: Желтогорлый свистун
   ja: キノドモズヒタキ
-  zh: Yellow-throated Whistler
+  zh: ''
   nl: Geelkeelfluiter
   pl: fletówka grubodzioba
   tr: Maluku Altuni Islıkçısı

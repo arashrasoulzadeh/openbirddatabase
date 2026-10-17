@@ -12,7 +12,7 @@ names:
   es: Tangara Crestirrufa
   fr: Tangara à cimier roux
   de: Ockerschopftangare
-  pt: rufous-crested tanager
+  pt: ''
   ru: Рыже-сизая танагра
   ja: ボウシフウキンチョウ
   nl: Okerkuiftangare

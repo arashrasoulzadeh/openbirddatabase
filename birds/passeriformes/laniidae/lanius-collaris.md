@@ -12,7 +12,7 @@ names:
   es: Alcaudón Fiscal Sureño
   fr: Pie-grièche fiscale
   de: Fiskalwürger
-  pt: southern fiscal
+  pt: ''
   ru: Фискал-прокурор
   ja: カタジロオナガモズ
   zh: 領伯勞

@@ -12,7 +12,7 @@ names:
   es: Lorito Carirrosado
   fr: Caïque à joues roses
   de: Rosenwangenpapagei
-  pt: rose-faced parrot
+  pt: ''
   ru: Розовощёкий лорито
   ja: メカシインコ
   nl: Rozewangpapegaai

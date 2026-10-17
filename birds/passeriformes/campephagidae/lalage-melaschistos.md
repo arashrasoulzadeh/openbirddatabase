@@ -12,7 +12,7 @@ names:
   es: Oruguero Alinegro
   fr: Échenilleur ardoisé
   de: Trauerraupenfänger
-  pt: black-winged cuckooshrike
+  pt: ''
   ru: Траурный личинкоед-свистун
   ja: アサクラサンショウクイ
   zh: 暗灰鹃鵙

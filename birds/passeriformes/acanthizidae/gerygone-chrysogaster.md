@@ -12,7 +12,7 @@ names:
   es: Gerigón Ventrigualdo
   fr: Gérygone à ventre jaune
   de: Gelbbauchgerygone
-  pt: yellow-bellied gerygone
+  pt: ''
   ru: Желтобрюхая геригона
   ja: キバラセンニョムシクイ
   nl: Geelbuikmangrovezanger

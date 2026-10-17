@@ -12,7 +12,7 @@ names:
   es: Serín de Los Papiros
   fr: Serin du Koli
   de: Papyrusgirlitz
-  pt: papyrus canary
+  pt: ''
   ru: Папирусовый канареечник
   ja: ヌマカナリア
   nl: Papyruskanarie

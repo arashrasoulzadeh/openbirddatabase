@@ -12,7 +12,7 @@ names:
   es: Turpial Cubano
   fr: Oriole de Cuba
   de: Kubatrupial
-  pt: cuban oriole
+  pt: ''
   ru: Кубинский трупиал
   ja: キューバムクドリモドキ
   nl: Cubaanse troepiaal

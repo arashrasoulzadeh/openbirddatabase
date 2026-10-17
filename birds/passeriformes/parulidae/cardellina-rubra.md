@@ -12,7 +12,7 @@ names:
   es: Reinita Roja
   fr: Paruline rouge
   de: Purpurwaldsänger
-  pt: red warbler
+  pt: ''
   ru: Красная вильсония
   ja: ベニアメリカムシクイ
   nl: Rode zanger

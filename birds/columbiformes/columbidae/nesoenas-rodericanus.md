@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 2014.0
 names:
   scientific: Nesoenas rodericanus
-  fa: nan
+  fa: ''
   en: Rodrigues Pigeon
   es: Tórtola de Isla Rodrigues
   fr: Pigeon de Rodrigues
@@ -15,7 +15,7 @@ names:
   pt: rodrigues turtle-dove
   ru: Родригесский голубь
   ja: ロドリゲスキジバト
-  zh: Rodrigues Pigeon
+  zh: ''
   nl: Rodriguestortel
   pl: synogarlica maskareńska
   tr: Rodrigez Güvercini

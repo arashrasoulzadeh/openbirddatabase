@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29424.0
 names:
   scientific: Myophonus horsfieldii
-  fa: nan
+  fa: ''
   en: Malabar Whistling Thrush
   es: Arrenga Indio
   fr: Arrenga de Malabar
@@ -15,7 +15,7 @@ names:
   pt: malabar whistling-thrush
   ru: Малабарская синяя птица
   ja: インドルリチョウ
-  zh: Malabar Whistling Thrush
+  zh: ''
   nl: Malabarfluitlijster
   pl: gwizdokos malabarski
   tr: Malabar Islıkçı Bülbülü

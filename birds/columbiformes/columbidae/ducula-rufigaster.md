@@ -15,7 +15,7 @@ names:
   pt: purple-tailed imperial-pigeon
   ru: Рыжебрюхий плодовый голубь
   ja: スミレオミカドバト
-  zh: Purple-tailed Imperial Pigeon
+  zh: ''
   nl: Rode muskaatduif
   pl: muszkatela czerwonorzytna
   tr: Mor Kuyruklu Has Güvercin

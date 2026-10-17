@@ -15,7 +15,7 @@ names:
   pt: grou-coroado
   ru: Павлиний журавль
   ja: カンムリヅル
-  zh: Black Crowned Crane
+  zh: ''
   nl: Zwarte kroonkraanvogel
   pl: koronnik czarny
   tr: Siyah Taçlı Turna

@@ -12,7 +12,7 @@ names:
   es: Zanate de Brewer
   fr: Quiscale de Brewer
   de: Purpurstärling
-  pt: brewer's blackbird
+  pt: ''
   ru: Пастбищный трупиал
   ja: テリムクドリモドキ
   zh: 藍頭黑鸝

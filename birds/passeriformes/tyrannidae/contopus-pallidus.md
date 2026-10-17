@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16903.0
 names:
   scientific: Contopus pallidus
-  fa: nan
+  fa: ''
   en: Jamaican Pewee
   es: Pibí Jamaicano
   fr: Moucherolle de Jamaïque
   de: Jamaikaschnäppertyrann
-  pt: jamaican pewee
+  pt: ''
   ru: Ямайский пиви
   ja: ジャマイカモリタイランチョウ
   nl: Jamaicaanse piewie

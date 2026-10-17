@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15496.0
 names:
   scientific: Cranioleuca vulpecula
-  fa: nan
+  fa: ''
   en: Parker's Spinetail
   es: Curutié de Parker
   fr: Synallaxe de Parker

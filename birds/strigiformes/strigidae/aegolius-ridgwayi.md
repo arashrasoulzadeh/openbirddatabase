@@ -12,7 +12,7 @@ names:
   es: Mochuelo Moreno
   fr: Nyctale immaculée
   de: Ridgwaykauz
-  pt: unspotted saw-whet owl
+  pt: ''
   ru: Светлобрюхий сыч
   ja: メキシコキンメフクロウ
   nl: Ridgwayzaaguil

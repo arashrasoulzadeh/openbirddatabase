@@ -12,7 +12,7 @@ names:
   es: Perdiz Lerwa
   fr: Lerva des neiges
   de: Haldenhuhn
-  pt: snow partridge
+  pt: ''
   ru: Снежная куропатка
   ja: ユキシャコ
   zh: 雪鹑

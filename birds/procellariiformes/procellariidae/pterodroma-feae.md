@@ -15,7 +15,7 @@ names:
   pt: gon-gon
   ru: Зеленомысский мягкоперый тайфунник
   ja: ケープベルデミズナギドリ
-  zh: Fea's Petrel
+  zh: ''
   nl: Kaapverdische stormvogel
   pl: petrel wyspowy
   tr: Fea Fırtınakuşu

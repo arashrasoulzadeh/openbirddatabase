@@ -12,7 +12,7 @@ names:
   es: Aratinga Orejigualda
   fr: Conure à joues d'or
   de: Gelbohrsittich
-  pt: yellow-eared parrot
+  pt: ''
   ru: Желтоухий арара
   ja: キミミインコ
   zh: 黃耳長尾鸚鵡

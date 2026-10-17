@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32013.0
 names:
   scientific: Euphonia godmani
-  fa: nan
+  fa: ''
   en: West Mexican Euphonia
   es: Eufonia Mexicana
   fr: Organiste de Godman
   de: Weißsteißorganist
-  pt: west mexican euphonia
+  pt: ''
   nl: West-Mexicaanse organist
   pl: organka żółtoczelna
   tr: Batı Meksika Öfonyası

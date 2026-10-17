@@ -12,7 +12,7 @@ names:
   es: Suimanga Eximio
   fr: Souimanga de Java
   de: Javanektarvogel
-  pt: white-flanked sunbird
+  pt: ''
   ru: Яванская нектарница
   ja: シロフサタイヨウチョウ
   zh: 白胁太阳鸟

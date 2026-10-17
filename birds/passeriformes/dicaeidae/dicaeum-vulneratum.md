@@ -12,7 +12,7 @@ names:
   es: Picaflores Cenizo
   fr: Dicée cendré
   de: Serammistelfresser
-  pt: ashy flowerpecker
+  pt: ''
   ru: Пепельный цветоед
   ja: ハイビタイハナドリ
   zh: 灰啄花鸟

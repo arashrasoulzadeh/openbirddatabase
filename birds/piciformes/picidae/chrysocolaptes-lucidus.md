@@ -12,7 +12,7 @@ names:
   es: Pito Sultán Moteado
   fr: Pic sultan
   de: Kupfermantel-Sultanspecht
-  pt: buff-spotted flameback
+  pt: ''
   ru: Дятел-султан
   ja: コガネゲラ
   zh: 大金背啄木鸟

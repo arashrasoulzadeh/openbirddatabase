@@ -12,7 +12,7 @@ names:
   es: Mielero Goligualdo
   fr: Méliphage à cou jaune
   de: Gelbstirn-Schwatzvogel
-  pt: yellow-throated miner
+  pt: ''
   ru: Желтогорлая манорина
   ja: コシジロミツスイ
   zh: 黄喉矿吸蜜鸟

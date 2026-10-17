@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23463.0
 names:
   scientific: Cisticola lugubris
-  fa: nan
+  fa: ''
   en: Ethiopian Cisticola
   es: Cistícola Lúgubre
   fr: Cisticole d'Éthiopie
   de: Äthiopienzistensänger
-  pt: ethiopian cisticola
+  pt: ''
   ru: Эфиопская цистикола
   nl: Ethiopische graszanger
   pl: chwastówka etiopska

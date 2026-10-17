@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5083.0
 names:
   scientific: Saucerottia viridigaster
-  fa: nan
+  fa: ''
   en: Green-bellied Hummingbird
   es: Amazilia Colimorada
   fr: Ariane à ventre vert
   de: Grünbauchamazilie
-  pt: green-bellied hummingbird
+  pt: ''
   ru: Зеленобрюхая амазилия
   ja: スミレオエメラルドハチドリ
   nl: Groenbuikamazilia

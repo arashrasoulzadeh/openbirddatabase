@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3051.0
 names:
   scientific: Neomorphus rufipennis
-  fa: nan
+  fa: ''
   en: Rufous-winged Ground Cuckoo
   es: Cuco Hormiguero Alirrufo
   fr: Géocoucou à ailes rousses
@@ -15,7 +15,7 @@ names:
   pt: jacu-estalo-de-asa-vermelha
   ru: Краснокрылая земляная кукушка
   ja: アカメアメリカジカッコウ
-  zh: Rufous-winged Ground Cuckoo
+  zh: ''
   nl: Roodvleugelgrondkoekoek
   pl: kukawka rdzawoskrzydła
   tr: Kızıl Kanatlı Yer Guguğu

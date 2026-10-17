@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10799.0
 names:
   scientific: Capito niger
-  fa: nan
+  fa: ''
   en: Black-spotted Barbet
   es: Cabezón Negro
   fr: Cabézon tacheté

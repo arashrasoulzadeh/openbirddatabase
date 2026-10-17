@@ -12,7 +12,7 @@ names:
   es: Chotacabras Lira
   fr: Engoulevent lyre
   de: Leierschwanz-Nachtschwalbe
-  pt: lyre-tailed nightjar
+  pt: ''
   ru: Лирохвостый козодой
   ja: タテゴトヨタカ
   zh: 大燕尾夜鹰

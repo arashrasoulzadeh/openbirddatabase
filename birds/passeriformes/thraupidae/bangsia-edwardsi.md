@@ -12,7 +12,7 @@ names:
   es: Tangara de Edwards
   fr: Tangara d'Edwards
   de: Moosmantel-Bergtangare
-  pt: moss-backed tanager
+  pt: ''
   ru: Зеленоспинная танагра
   ja: コケイロフウキンチョウ
   nl: Groenrugtangare

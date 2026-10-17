@@ -12,7 +12,7 @@ names:
   es: Tejedor de Bannerman
   fr: Tisserin de Bannerman
   de: Hochlandweber
-  pt: bannerman's weaver
+  pt: ''
   ru: Камерунский ткач
   ja: カオグロハタオリ
   nl: Bannermanwever

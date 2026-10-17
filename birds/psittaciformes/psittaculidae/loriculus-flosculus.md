@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 12731.0
 names:
   scientific: Loriculus flosculus
-  fa: nan
+  fa: ''
   en: Wallace's Hanging Parrot
   es: Lorículo de Flores
   fr: Coryllis de Wallace
@@ -15,7 +15,7 @@ names:
   pt: wallace's hanging-parrot
   ru: Флоресский лорикулюс
   ja: ハナサトウチョウ
-  zh: Wallace's Hanging Parrot
+  zh: ''
   nl: Floresvleermuisparkiet
   pl: zwisogłówka zbroczona
   tr: Flores Cennet Papağanı

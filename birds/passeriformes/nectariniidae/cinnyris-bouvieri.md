@@ -12,7 +12,7 @@ names:
   es: Suimanga de Bouvier
   fr: Souimanga de Bouvier
   de: Braunbauch-Nektarvogel
-  pt: orange-tufted sunbird
+  pt: ''
   ru: Камерунская нектарница
   ja: キフサタイヨウチョウ
   nl: Bruinbuikhoningzuiger

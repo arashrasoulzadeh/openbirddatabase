@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13326.0
 names:
   scientific: Erythropitta macklotii
-  fa: nan
+  fa: ''
   en: Papuan Pitta
   es: Pita de Nueva Guinea
   fr: Brève de Macklot
   de: Papua-Blaubrustpitta
-  pt: papuan pitta
+  pt: ''
   ru: Папуанская питта
   nl: Papoeapitta
   pl: kurtaczek ciemnolicy

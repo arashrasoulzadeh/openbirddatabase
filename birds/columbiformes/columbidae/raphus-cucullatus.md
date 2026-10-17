@@ -12,7 +12,7 @@ names:
   es: Dodo
   fr: Dronte de Maurice
   de: Dodo
-  pt: dodo
+  pt: ''
   ru: Дронт
   ja: ドードー
   zh: 渡渡鸟

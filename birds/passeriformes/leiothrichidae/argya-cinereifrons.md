@@ -12,7 +12,7 @@ names:
   es: Charlatán Cabecigrís
   fr: Cratérope à tête cendrée
   de: Graustirnhäherling
-  pt: ashy-headed laughingthrush
+  pt: ''
   ru: Сероголовая дроздовка
   ja: セイロンガビチョウ
   zh: 灰頭噪鶥

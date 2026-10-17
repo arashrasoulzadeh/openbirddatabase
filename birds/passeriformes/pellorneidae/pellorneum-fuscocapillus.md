@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26233.0
 names:
   scientific: Pellorneum fuscocapillus
-  fa: nan
+  fa: ''
   en: Brown-capped Babbler
   es: Tordina Coroniparda
   fr: Akalat à calotte brune
   de: Braunscheitel-Erddrossling
-  pt: brown-capped babbler
+  pt: ''
   ru: Бурошапочная тимелия-говорушка
   ja: セイロンジチメドリ
   zh: 褐冠幽鶥

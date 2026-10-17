@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2310.0
 names:
   scientific: Geotrygon saphirina
-  fa: nan
+  fa: ''
   en: Sapphire Quail-Dove
   es: Paloma Perdiz Zafiro
   fr: Colombe saphir

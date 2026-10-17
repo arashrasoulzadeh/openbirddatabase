@@ -12,7 +12,7 @@ names:
   es: Timalí de Jerdon
   fr: Moupinie de Jerdon
   de: Jerdongrasmücke
-  pt: jerdon's babbler
+  pt: ''
   ru: Светлогорлый рогозник
   ja: インドセンニュウチメドリ
   zh: 杰氏鹛雀

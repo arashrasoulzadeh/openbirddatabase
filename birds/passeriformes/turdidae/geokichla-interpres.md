@@ -12,7 +12,7 @@ names:
   es: Zorzal Coronicastaño
   fr: Grive de Kuhl
   de: Rostkappendrossel
-  pt: chestnut-capped thrush
+  pt: ''
   ru: Красношапочный дрозд
   ja: クリガシラジツグミ
   nl: Kastanjekoplijster

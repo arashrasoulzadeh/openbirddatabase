@@ -12,7 +12,7 @@ names:
   es: Monarca Nuquiblanco
   fr: Monarque à nuque blanche
   de: Weißhalsmonarch
-  pt: white-naped monarch
+  pt: ''
   ru: Украшенный монарх
   ja: モルッカカササギビタキ
   nl: Halmaheramonarch

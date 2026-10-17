@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26124.0
 names:
   scientific: Stachyris thoracica
-  fa: nan
+  fa: ''
   en: White-bibbed Babbler
   es: Timalí Cuelliblanco
   fr: Timalie à col blanc
   de: Weißlatz-Buschtimalie
-  pt: white-bibbed babbler
+  pt: ''
   ru: Белозобая тимелия
   ja: ムナジロモリチメドリ
   zh: 白領穗鶥

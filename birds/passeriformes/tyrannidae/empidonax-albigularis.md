@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16959.0
 names:
   scientific: Empidonax albigularis
-  fa: nan
+  fa: ''
   en: White-throated Flycatcher
   es: Mosquero Gorjiblanco
   fr: Moucherolle à gorge blanche
   de: Fahlkehl-Schnäppertyrann
-  pt: white-throated flycatcher
+  pt: ''
   ru: Светлогорлый мухолов
   ja: シロノドメジロハエトリ
   nl: Witkeelfeetiran

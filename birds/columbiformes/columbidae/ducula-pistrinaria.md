@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2799.0
 names:
   scientific: Ducula pistrinaria
-  fa: nan
+  fa: ''
   en: Island Imperial Pigeon
   es: Dúcula Insular
   fr: Carpophage meunier
@@ -15,7 +15,7 @@ names:
   pt: island imperial-pigeon
   ru: Островной плодовый голубь
   ja: メラネシアミカドバト
-  zh: Island Imperial Pigeon
+  zh: ''
   nl: Koningsmuskaatduif
   pl: muszkatela blada
   tr: Boz Has Güvercin

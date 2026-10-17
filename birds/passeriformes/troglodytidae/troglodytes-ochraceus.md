@@ -12,7 +12,7 @@ names:
   es: Chochín Ocráceo
   fr: Troglodyte ocré
   de: Fahlstreif-Zaunkönig
-  pt: ochraceous wren
+  pt: ''
   ru: Охристый крапивник
   ja: キイロヤマミソサザイ
   zh: 奧求鷦鷯

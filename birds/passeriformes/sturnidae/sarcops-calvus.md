@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27784.0
 names:
   scientific: Sarcops calvus
-  fa: nan
+  fa: ''
   en: Coleto
   es: Miná Coleto
   fr: Goulin gris
   de: Kahlkopfatzel
-  pt: coleto
+  pt: ''
   ru: Колето
   ja: メガネムクドリ
   nl: Kaalkopspreeuw

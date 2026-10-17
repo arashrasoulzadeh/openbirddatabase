@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35370.0
 names:
   scientific: Idiopsar dorsalis
-  fa: nan
+  fa: ''
   en: Red-backed Sierra Finch
   es: Yal Dorsirrojo
   fr: Idiopsar à dos roux
   de: Braunmantel-Ammertangare
-  pt: red-backed sierra finch
+  pt: ''
   ru: Коричневоспинная диука
   ja: セアカヤマシトド
   nl: Roodrugsierragors

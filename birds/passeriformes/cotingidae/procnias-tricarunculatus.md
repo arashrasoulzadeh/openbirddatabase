@@ -12,7 +12,7 @@ names:
   es: Campanero Tricarunculado
   fr: Araponga tricaronculé
   de: Dreilappenkotinga
-  pt: three-wattled bellbird
+  pt: ''
   ru: Трёхусый звонарь
   ja: ヒゲドリ
   zh: 三肉垂钟雀

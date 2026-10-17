@@ -12,7 +12,7 @@ names:
   es: Francolín de Hildebrandt
   fr: Francolin de Hildebrandt
   de: Hildebrandtfrankolin
-  pt: hildebrandt's spurfowl
+  pt: ''
   ru: Восточноафриканский франколин
   ja: メスアカシャコ
   nl: Hildebrandtfrankolijn

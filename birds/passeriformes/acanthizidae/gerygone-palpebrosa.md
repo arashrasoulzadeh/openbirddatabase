@@ -12,7 +12,7 @@ names:
   es: Gerigón Duende
   fr: Gérygone enchanteresse
   de: Elfengerygone
-  pt: fairy gerygone
+  pt: ''
   ru: Темногорлая геригона
   ja: ノドグロセンニョムシクイ
   zh: 黑頭噪刺鶯

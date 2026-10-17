@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17107.0
 names:
   scientific: Muscisaxicola capistratus
-  fa: nan
+  fa: ''
   en: Cinnamon-bellied Ground Tyrant
   es: Dormilona Canela
   fr: Dormilon à ventre roux
@@ -15,7 +15,7 @@ names:
   pt: gaúcha-de-barriga-alaranjada
   ru: Рыжебрюхая дормилона
   ja: チャバライワタイランチョウ
-  zh: Cinnamon-bellied Ground Tyrant
+  zh: ''
   nl: Teugelgrondtiran
   pl: skałotyran płowy
   tr: Tarçın Rengi Yer Tiranı

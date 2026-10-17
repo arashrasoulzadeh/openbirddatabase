@@ -12,7 +12,7 @@ names:
   es: Filepita Suimanga Ventrigualda
   fr: Philépitte de Salomonsen
   de: Veilchenjala
-  pt: yellow-bellied sunbird-asity
+  pt: ''
   ru: Короткоклювая ложнонектарница
   ja: コバシニセタイヨウチョウ
   zh: 小弯嘴裸眉鸫

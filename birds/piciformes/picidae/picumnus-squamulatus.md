@@ -12,7 +12,7 @@ names:
   es: Carpinterito Escamoso
   fr: Picumne squamulé
   de: Schuppenzwergspecht
-  pt: scaled piculet
+  pt: ''
   ru: Чешуйчатый дятелок
   ja: ウロコヒメキツツキ
   nl: Geschubde dwergspecht

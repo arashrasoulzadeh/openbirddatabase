@@ -12,7 +12,7 @@ names:
   es: Shama de las Seychelles
   fr: Shama des Seychelles
   de: Seychellenschama
-  pt: seychelles magpie-robin
+  pt: ''
   ru: Сейшельский шама
   ja: セーシェルシキチョウ
   nl: Seychellenlijster

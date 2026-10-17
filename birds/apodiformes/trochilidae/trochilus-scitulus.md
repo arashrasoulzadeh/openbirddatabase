@@ -12,7 +12,7 @@ names:
   es: Colibrí Portacintas Piquinegro
   fr: Colibri à bec noir
   de: Schwarzschnabel-Jamaikasylphe
-  pt: black-billed streamertail
+  pt: ''
   ru: Чёрноклювый вымпелохвостый колибри
   zh: 黑嘴绶带蜂鸟
   nl: Zwartsnavelwimpelstaartkolibrie

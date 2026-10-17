@@ -12,7 +12,7 @@ names:
   es: Indicador Enano
   fr: Indicateur nain
   de: Kurzschnabel-Honiganzeiger
-  pt: dwarf honeyguide
+  pt: ''
   ru: Короткоклювый медоуказчик
   ja: コビトミツオシエ
   nl: Kortsnavelhoningspeurder

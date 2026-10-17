@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12419.0
 names:
   scientific: Tanygnathus lucionensis
-  fa: nan
+  fa: ''
   en: Blue-naped Parrot
   es: Loro Nuquiazul
   fr: Perruche de Luçon
   de: Blauscheitelpapagei
-  pt: blue-naped parrot
+  pt: ''
   ru: Синешапочный попугай
   ja: コオオハナインコモドキ
   zh: 藍頸巨喙鸚鵡

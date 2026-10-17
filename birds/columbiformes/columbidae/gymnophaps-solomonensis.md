@@ -15,7 +15,7 @@ names:
   pt: pale mountain-pigeon
   ru: Соломонский голубь
   ja: ソロモンミヤマバト
-  zh: Pale Mountain Pigeon
+  zh: ''
   nl: Salomonsbergduif
   pl: krasnook blady
   tr: Solomon Adaları Güvercini

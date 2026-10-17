@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2864.0
 names:
   scientific: Pterocles alchata
-  fa: nan
+  fa: ''
   en: Pin-tailed Sandgrouse
   es: Ganga Ibérica
   fr: Ganga cata

@@ -12,7 +12,7 @@ names:
   es: Cetia de las Palaos
   fr: Bouscarle des Palau
   de: Palauseidensänger
-  pt: palau bush warbler
+  pt: ''
   ru: Палауанская широкохвостка
   ja: ナンヨウウグイス
   zh: 帛琉樹鶯

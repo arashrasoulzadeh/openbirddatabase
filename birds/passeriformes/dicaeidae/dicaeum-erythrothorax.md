@@ -12,7 +12,7 @@ names:
   es: Picaflores de Buru
   fr: Dicée à gorge blanche
   de: Burumistelfresser
-  pt: buru flowerpecker
+  pt: ''
   ru: Огненногрудый цветоед
   ja: ノドジロハナドリ
   zh: 淡紅啄花

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29357.0
 names:
   scientific: Brachypteryx sinensis
-  fa: nan
+  fa: ''
   en: Chinese Shortwing
   es: Alicorto Chino
   fr: Brachyptère du Fujian
   de: China-Bergkurzflügel
-  pt: chinese shortwing
+  pt: ''
   ru: Китайский короткокрыл
   ja: カラコバネヒタキ
   zh: 中华短翅鸫

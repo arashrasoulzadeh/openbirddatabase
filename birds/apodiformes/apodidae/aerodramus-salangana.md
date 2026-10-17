@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4039.0
 names:
   scientific: Aerodramus salangana
-  fa: nan
+  fa: ''
   en: Mossy-nest Swiftlet
   es: Salangana de la Sonda
   fr: Salangane de la Sonde
   de: Moosnestsalangane
-  pt: mossy-nest swiftlet
+  pt: ''
   ru: Зондская салангана
   ja: コケアナツバメ
   zh: 苔巢金絲燕

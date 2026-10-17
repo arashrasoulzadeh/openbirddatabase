@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35003.0
 names:
   scientific: Stilpnia phillipsi
-  fa: nan
+  fa: ''
   en: Sira Tanager
   es: Tangara del Sira
   fr: Calliste de Phillips
   de: Siratangare
-  pt: sira tanager
+  pt: ''
   ru: Сирская танагра
   ja: シラアオフウキンチョウ
   nl: Siratangare

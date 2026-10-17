@@ -12,7 +12,7 @@ names:
   es: Cerceta Maorí
   fr: Sarcelle de Nouvelle-Zélande
   de: Neuseelandente
-  pt: brown teal
+  pt: ''
   ru: Бурый чирок
   ja: チャイロコガモ
   zh: 新西兰鸭

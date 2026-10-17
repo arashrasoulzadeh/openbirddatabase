@@ -12,7 +12,7 @@ names:
   es: Tortolita Estriada
   fr: Géopélie zébrée
   de: Sperbertäubchen
-  pt: zebra dove
+  pt: ''
   ru: Зебровая горлица
   ja: チョウショウバト
   zh: 斑姬地鸠

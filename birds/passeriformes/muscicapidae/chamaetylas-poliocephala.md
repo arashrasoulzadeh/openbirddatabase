@@ -12,7 +12,7 @@ names:
   es: Alete Pechipardo
   fr: Cossyphe à poitrine brune
   de: Braunbrust-Braunschwanz
-  pt: brown-chested alethe
+  pt: ''
   ru: Белобровый алет
   ja: マミジロムジヒタキ
   nl: Bruinborstalethe

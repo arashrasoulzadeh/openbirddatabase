@@ -12,7 +12,7 @@ names:
   es: Mielero Rojo de Célebes
   fr: Myzomèle des Célèbes
   de: Sulawesihonigfresser
-  pt: sulawesi myzomela
+  pt: ''
   ru: Сулавесская медовка
   ja: セレベスクレナイミツスイ
   nl: Sulawesidwerghoningeter

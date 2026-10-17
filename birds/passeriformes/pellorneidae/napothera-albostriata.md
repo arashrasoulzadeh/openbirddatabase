@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26376.0
 names:
   scientific: Napothera albostriata
-  fa: nan
+  fa: ''
   en: Sumatran Wren-Babbler
   es: Ratina de Sumatra
   fr: Turdinule à raies blanches
   de: Sumatrasäbeldrossling
-  pt: sumatran wren-babbler
+  pt: ''
   ru: Суматранская серпоклювка
   ja: スマトラハシナガサザイチメドリ
   zh: 苏门答腊鹩鹛

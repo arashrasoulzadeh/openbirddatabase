@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29766.0
 names:
   scientific: Myrmecocichla nigra
-  fa: nan
+  fa: ''
   en: Sooty Chat
   es: Zorzal Hormiguero Negro
   fr: Traquet commandeur
   de: Hadesschmätzer
-  pt: sooty chat
+  pt: ''
   ru: Чёрная термитница
   ja: クロアリヒタキ
   nl: Zwarte miertapuit

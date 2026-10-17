@@ -12,7 +12,7 @@ names:
   es: Chotacabras Estrellado
   fr: Engoulevent étoilé
   de: Sternnachtschwalbe
-  pt: star-spotted nightjar
+  pt: ''
   ru: Звездчатый козодой
   ja: ホシヨタカ
   zh: 星斑夜鹰

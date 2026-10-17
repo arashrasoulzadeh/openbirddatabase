@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 17123.0
 names:
   scientific: Nengetus cinereus
-  fa: nan
+  fa: ''
   en: Grey Monjita
   es: Monjita Gris
   fr: Pépoaza cendré
@@ -14,7 +14,7 @@ names:
   pt: primavera
   ru: Серая монашка
   ja: ハイムネタイランチョウ
-  zh: Grey Monjita
+  zh: ''
   nl: Grijze monjita
   pl: mniszek czarnowąsy
   tr: Gri Monhita

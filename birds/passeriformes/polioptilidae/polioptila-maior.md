@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 27115.0
 names:
   scientific: Polioptila maior
-  fa: nan
+  fa: ''
   en: Maranon Gnatcatcher
   es: Perlita del Marañón
   fr: Gobemoucheron du Maranon
   de: Marañónmückenfänger
   pt: marañon gnatcatcher
-  zh: Maranon Gnatcatcher
+  zh: ''
   nl: Marañonmuggenvanger
   pl: siwuszka peruwiańska
   tr: Maranyon Bitkuşu

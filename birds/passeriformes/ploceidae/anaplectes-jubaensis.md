@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30757.0
 names:
   scientific: Anaplectes jubaensis
-  fa: nan
+  fa: ''
   en: Red Weaver
   es: Tejedor Rojo
   fr: Anaplecte du Juba
   de: Rotweber
-  pt: red weaver
+  pt: ''
   nl: Rode wever
   pl: wikłacz pąsowy
   tr: Kırmızı Dokumacı

@@ -12,7 +12,7 @@ names:
   es: Bulbul Piquilargo
   fr: Bulbul à long bec
   de: Langschnabelbülbül
-  pt: hook-billed bulbul
+  pt: ''
   ru: Крючкоклювый бюльбюль
   ja: カギハシヒヨドリ
   zh: 鉤嘴鵯

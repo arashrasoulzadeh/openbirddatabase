@@ -12,7 +12,7 @@ names:
   es: Estornino Piquiblanco
   fr: Rufipenne à bec blanc
   de: Weißschnabelstar
-  pt: white-billed starling
+  pt: ''
   ru: Белоклювый скворец
   ja: ハシジロテリムク
   nl: Witsnavelspreeuw

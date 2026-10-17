@@ -12,7 +12,7 @@ names:
   es: Neosita Negra
   fr: Néositte noire
   de: Prachtkleiber
-  pt: black sittella
+  pt: ''
   ru: Краснолицая сителла
   ja: アカガオゴジュウカラ
   zh: 黑澳鳾

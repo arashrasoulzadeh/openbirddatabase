@@ -12,7 +12,7 @@ names:
   es: Ticotico Montano
   fr: Anabate montagnard
   de: Weißbrillen-Blattspäher
-  pt: montane foliage-gleaner
+  pt: ''
   ru: Горная казарита
   ja: ミヤママユカマドドリ
   nl: Bergbladspeurder

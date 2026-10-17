@@ -12,7 +12,7 @@ names:
   es: Zorzal Africano
   fr: Merle africain
   de: Afrikadrossel
-  pt: african thrush
+  pt: ''
   ru: Африканский дрозд
   ja: アフリカツグミ
   zh: 非洲鶇

@@ -15,7 +15,7 @@ names:
   pt: arara-azul-de-lear
   ru: Индиговый ара
   ja: コスミレコンゴウインコ
-  zh: Lear's Macaw
+  zh: ''
   nl: Indigoara
   pl: modroara błękitna
   tr: Lear Arası

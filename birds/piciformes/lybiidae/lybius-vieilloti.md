@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10651.0
 names:
   scientific: Lybius vieilloti
-  fa: nan
+  fa: ''
   en: Vieillot's Barbet
   es: Barbudo Sangrante
   fr: Barbican de Vieillot

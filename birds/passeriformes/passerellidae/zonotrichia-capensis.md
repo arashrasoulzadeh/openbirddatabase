@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33158.0
 names:
   scientific: Zonotrichia capensis
-  fa: nan
+  fa: ''
   en: Rufous-collared Sparrow
   es: Chingolo Común
   fr: Bruant chingolo

@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 27453.0
 names:
   scientific: Pheugopedius schulenbergi
-  fa: nan
+  fa: ''
   en: Grey-browed Wren
   es: Cucarachero Cejigrís
   fr: Troglodyte de Schulenberg
   de: Graubrauen-Zaunkönig
   pt: gray-browed wren
-  zh: Grey-browed Wren
+  zh: ''
   nl: Grijsbrauwwinterkoning
   pl: strzyżal blady
   tr: Güneyli Düz Kuyuklu Çıtkuşu

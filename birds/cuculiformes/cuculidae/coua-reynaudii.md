@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3069.0
 names:
   scientific: Coua reynaudii
-  fa: nan
+  fa: ''
   en: Red-fronted Coua
   es: Cúa Frentirrojo
   fr: Coua de Reynaud
   de: Rotstirn-Seidenkuckuck
-  pt: red-fronted coua
+  pt: ''
   ru: Краснолобая тивука
   ja: アカビタイジカッコウ
   nl: Roodvoorhoofdcoua

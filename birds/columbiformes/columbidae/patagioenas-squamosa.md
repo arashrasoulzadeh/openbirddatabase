@@ -12,7 +12,7 @@ names:
   es: Paloma Isleña
   fr: Pigeon à cou rouge
   de: Antillentaube
-  pt: scaly-naped pigeon
+  pt: ''
   ru: Красношейный голубь
   ja: アカエリバト
   zh: 鱗頸鴿

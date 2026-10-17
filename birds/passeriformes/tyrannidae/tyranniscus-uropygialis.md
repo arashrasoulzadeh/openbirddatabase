@@ -12,7 +12,7 @@ names:
   es: Mosquerito Culirrufo
   fr: Tyranneau à croupion fauve
   de: Zimtbürzel-Kleintyrann
-  pt: tawny-rumped tyrannulet
+  pt: ''
   ru: Светлогузый москитеро
   ja: キゴシコタイランチョウ
   nl: Goudstuitvliegenpikker

@@ -12,7 +12,7 @@ names:
   es: Zorzal Dorsiliso del Himalaya
   fr: Grive de Hodgson
   de: Felserddrossel
-  pt: alpine thrush
+  pt: ''
   ru: Гималайский дрозд
   ja: セアカトラツグミ
   nl: Himalayaberglijster

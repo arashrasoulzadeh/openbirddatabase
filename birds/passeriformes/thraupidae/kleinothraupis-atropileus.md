@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34672.0
 names:
   scientific: Kleinothraupis atropileus
-  fa: nan
+  fa: ''
   en: Black-capped Hemispingus
   es: Hemispingo Capirotado
   fr: Tangara à calotte noire
   de: Schwarzkappen-Finkentangare
-  pt: black-capped hemispingus
+  pt: ''
   ru: Черношапочный хемиспингус
   ja: マミジロモリフウキンチョウ
   nl: Zwartkruintangare

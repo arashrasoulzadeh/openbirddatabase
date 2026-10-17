@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25014.0
 names:
   scientific: Phylloscopus rotiensis
-  fa: nan
+  fa: ''
   en: Rote Leaf Warbler
   es: Mosquitero de Roti
   fr: Pouillot de Rote
   de: Rotilaubsänger
-  pt: rote leaf warbler
+  pt: ''
   ru: Ротанская пеночка
   ja: ロテムシクイ
   nl: Rotiboszanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25760.0
 names:
   scientific: Zosterops citrinella
-  fa: nan
+  fa: ''
   en: Ashy-bellied White-eye
   es: Anteojitos Ceniciento
   fr: Zostérops pâle

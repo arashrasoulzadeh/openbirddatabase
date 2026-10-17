@@ -12,7 +12,7 @@ names:
   es: Alción Culiblanco
   fr: Martin-chasseur étincelant
   de: Glitzerliest
-  pt: white-rumped kingfisher
+  pt: ''
   ru: Сорочий зимородок
   ja: コシジロショウビン
   nl: Blauw-witte ijsvogel

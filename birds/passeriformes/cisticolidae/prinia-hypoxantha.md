@@ -12,7 +12,7 @@ names:
   es: Prinia del Drakensberg
   fr: Prinia du Drakensberg
   de: Drakensbergprinie
-  pt: drakensberg prinia
+  pt: ''
   ru: Пестрогрудая приния
   ja: キムネハウチワドリ
   nl: Drakensbergprinia

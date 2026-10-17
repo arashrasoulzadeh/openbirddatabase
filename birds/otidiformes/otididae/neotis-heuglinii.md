@@ -12,7 +12,7 @@ names:
   es: Avutarda Somalí
   fr: Outarde de Heuglin
   de: Heuglintrappe
-  pt: heuglin's bustard
+  pt: ''
   ru: Сомалийская дрофа
   ja: チュウノガン
   zh: 黑臉鴇

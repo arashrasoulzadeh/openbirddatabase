@@ -12,7 +12,7 @@ names:
   es: Tarabilla Terrestre
   fr: Shama indien
   de: Strauchschmätzer
-  pt: indian robin
+  pt: ''
   ru: Рыжегузый шама
   ja: インドヒタキ
   zh: 印度鴝

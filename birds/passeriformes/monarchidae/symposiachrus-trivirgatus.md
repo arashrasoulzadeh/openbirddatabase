@@ -15,7 +15,7 @@ names:
   pt: monarca-de-lunetas
   ru: Очковый монарх
   ja: オーストラリアメンガタカササギビタキ
-  zh: Spectacled Monarch
+  zh: ''
   nl: Brilmonarch
   pl: monareczka okularowa
   tr: Avusturalya Maskeli Monarkı

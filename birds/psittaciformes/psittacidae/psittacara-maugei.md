@@ -12,7 +12,7 @@ names:
   es: Aratinga de Puerto Rico
   fr: Conure de Porto Rico
   de: Monasittich
-  pt: puerto rican parakeet
+  pt: ''
   ja: プエルトリコインコ
   zh: 波多黎各鸚哥
   nl: Puertoricaanse aratinga

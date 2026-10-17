@@ -12,7 +12,7 @@ names:
   es: Golondrina Paticlara
   fr: Hirondelle de Chapman
   de: Blassfußschwalbe
-  pt: pale-footed swallow
+  pt: ''
   ru: Бледноногая ласточка
   ja: ノドアカアイイロツバメ
   nl: Bleekpootzwaluw

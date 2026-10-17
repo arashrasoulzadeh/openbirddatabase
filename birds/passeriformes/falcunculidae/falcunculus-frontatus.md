@@ -15,7 +15,7 @@ names:
   pt: eastern shrike-tit
   ru: Синичья толстоголовка
   ja: ハシブトモズヒタキ
-  zh: Eastern Shriketit
+  zh: ''
   nl: Oostelijke harlekijndikkop
   pl: czubiec żółtobrzuchy
   tr: Doğulu Kerpetenkuşu

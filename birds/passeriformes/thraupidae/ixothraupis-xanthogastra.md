@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34973.0
 names:
   scientific: Ixothraupis xanthogastra
-  fa: nan
+  fa: ''
   en: Yellow-bellied Tanager
   es: Tangara Ventriamarilla
   fr: Calliste à ventre jaune

@@ -12,7 +12,7 @@ names:
   es: Bisbita Rosado
   fr: Pipit rosé
   de: Rosenpieper
-  pt: rosy pipit
+  pt: ''
   ru: Розовый конёк
   ja: ウスベニタヒバリ
   zh: 粉红胸鹨

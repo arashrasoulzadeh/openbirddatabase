@@ -12,7 +12,7 @@ names:
   es: Tordina Colicorta
   fr: Akalat à queue courte
   de: Kurzschwanz-Mausdrossling
-  pt: short-tailed babbler
+  pt: ''
   ru: Короткохвостый шелкопёр
   ja: タンビムジチメドリ
   nl: Kortstaartmuistimalia

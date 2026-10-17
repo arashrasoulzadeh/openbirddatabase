@@ -12,7 +12,7 @@ names:
   es: Pájaro Gato Negro
   fr: Moqueur noir
   de: Glanzspottdrossel
-  pt: black catbird
+  pt: ''
   ru: Чёрный пересмешник
   ja: クロネコマネドリ
   zh: 黑貓嘲鶇

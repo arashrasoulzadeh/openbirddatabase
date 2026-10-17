@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17889.0
 names:
   scientific: Ptilotula flavescens
-  fa: nan
+  fa: ''
   en: Yellow-tinted Honeyeater
   es: Mielero Amarillento
   fr: Méliphage flavescent
   de: Sichelohr-Honigfresser
-  pt: yellow-tinted honeyeater
+  pt: ''
   ru: Черноухий медосос
   ja: キイロコバシミツスイ
   zh: 淡黄吸蜜鸟

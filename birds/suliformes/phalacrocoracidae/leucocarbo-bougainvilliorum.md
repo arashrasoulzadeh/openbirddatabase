@@ -12,7 +12,7 @@ names:
   es: Cormorán Guanay
   fr: Cormoran de Bougainville
   de: Guanoscharbe
-  pt: guanay cormorant
+  pt: ''
   ru: Перуанский баклан
   ja: グアナイムナジロヒメウ
   zh: 南美鸬鹚

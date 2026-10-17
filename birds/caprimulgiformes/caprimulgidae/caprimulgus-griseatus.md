@@ -11,7 +11,7 @@ names:
   en: Chirruping Nightjar
   es: Chotacabras Chiví
   fr: Engoulevent griset
-  pt: chirruping nightjar
+  pt: ''
   ja: フィリピンシロアゴヨタカ
   nl: Kayumangginachtzwaluw
   pl: lelek mozaikowy

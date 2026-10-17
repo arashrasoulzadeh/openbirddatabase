@@ -12,7 +12,7 @@ names:
   es: Terrera Raytal
   fr: Alouette raytal
   de: Uferlerche
-  pt: sand lark
+  pt: ''
   ru: Песчаный жаворонок
   ja: インドコヒバリ
   zh: 恒河沙百灵

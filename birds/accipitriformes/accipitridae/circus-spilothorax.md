@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero de Papúa
   fr: Busard de Nouvelle-Guinée
   de: Papuaweihe
-  pt: papuan harrier
+  pt: ''
   ru: Новогвинейский лунь
   ja: パプアチュウヒ
   nl: Papoeakiekendief

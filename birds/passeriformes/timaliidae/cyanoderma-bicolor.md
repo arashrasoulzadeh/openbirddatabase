@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 25954.0
 names:
   scientific: Cyanoderma bicolor
-  fa: nan
+  fa: ''
   en: Bicolored Babbler
   es: Timalí Bicolor
   fr: Timalie bicolore
   de: Zweifarb-Buschtimalie
   pt: gray-hooded babbler
-  zh: Grey-hooded Babbler
+  zh: ''
   nl: Grijskapboomtimalia
   pl: kolcodziób śniadogłowy
   tr: Gri Boyunlu Çalı Timalyası

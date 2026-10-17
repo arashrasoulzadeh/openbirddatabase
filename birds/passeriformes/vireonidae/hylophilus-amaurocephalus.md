@@ -15,7 +15,7 @@ names:
   pt: vite-vite-de-olho-cinza
   ru: Сероглазый виреончик
   ja: キタズアカヒメモズモドキ
-  zh: Grey-eyed Greenlet
+  zh: ''
   nl: Grijsoogvireo
   pl: leśniak brazylijski
   tr: Gri Gözlü Yaprak Vireosu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14277.0
 names:
   scientific: Grallaria saturata
-  fa: nan
+  fa: ''
   en: Equatorial Antpitta
   es: Tororoí Ecuatorial
   fr: Grallaire d'Équateur
   de: Äquatorameisenpitta
-  pt: equatorial antpitta
+  pt: ''
   ja: エクアドルジアリドリ
   nl: Evenaarmierpitta
   pl: kusaczka równikowa

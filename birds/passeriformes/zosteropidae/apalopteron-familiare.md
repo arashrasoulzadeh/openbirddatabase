@@ -12,7 +12,7 @@ names:
   es: Anteojitos de las Bonin
   fr: Zostérops des Bonin
   de: Boninbrillenvogel
-  pt: bonin white-eye
+  pt: ''
   ru: Бонинская тахоу
   ja: メグロ
   zh: 小笠原绣眼

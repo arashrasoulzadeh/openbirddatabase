@@ -15,7 +15,7 @@ names:
   pt: marreca-caneleira
   ru: Рыжая древесная утка
   ja: アカリュウキュウガモ
-  zh: Fulvous Whistling Duck
+  zh: ''
   nl: Rosse fluiteend
   pl: drzewica dwubarwna
   tr: Kahverengi Islıkçı Ördek

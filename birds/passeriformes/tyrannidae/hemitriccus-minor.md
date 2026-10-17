@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16326.0
 names:
   scientific: Hemitriccus minor
-  fa: nan
+  fa: ''
   en: Snethlage's Tody-Tyrant
   es: Titirijí de Snethlage
   fr: Todirostre de Snethlage

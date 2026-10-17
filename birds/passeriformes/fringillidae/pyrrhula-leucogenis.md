@@ -12,7 +12,7 @@ names:
   es: Camachuelo Filipino
   fr: Bouvreuil des Philippines
   de: Weißwangengimpel
-  pt: white-cheeked bullfinch
+  pt: ''
   ru: Белощёкий снегирь
   ja: ホオジロウソ
   zh: 菲律賓灰雀

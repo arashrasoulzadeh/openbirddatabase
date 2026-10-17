@@ -15,7 +15,7 @@ names:
   pt: grayish miner
   ru: Серый землекоп
   ja: ハイイロジカマドドリ
-  zh: Greyish Miner
+  zh: ''
   nl: Grijze holengraver
   pl: dróżniczek skromny
   tr: Gri Madenci

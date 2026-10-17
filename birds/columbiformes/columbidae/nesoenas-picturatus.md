@@ -15,7 +15,7 @@ names:
   pt: malagasy turtle-dove
   ru: Мадагаскарский голубь
   ja: マダガスカルキジバト
-  zh: Malagasy Turtle Dove
+  zh: ''
   nl: Madagaskartortel
   pl: synogarlica brunatna
   tr: Madagaskar Kumrusu

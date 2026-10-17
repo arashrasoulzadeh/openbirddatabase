@@ -12,7 +12,7 @@ names:
   es: Bulbul Acollarado
   fr: Bulbul à collier noir
   de: Boabülbül
-  pt: black-collared bulbul
+  pt: ''
   ru: Манишковый бюльбюль
   ja: クロエリヒヨドリ
   nl: Zwartkraagbuulbuul

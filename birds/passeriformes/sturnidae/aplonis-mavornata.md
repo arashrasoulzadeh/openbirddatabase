@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 27774.0
 names:
   scientific: Aplonis mavornata
-  fa: nan
+  fa: ''
   en: Mauke Starling
   es: Estornino Misterioso
   fr: Stourne mystérieux
@@ -15,7 +15,7 @@ names:
   pt: mysterious starling
   ru: Маукский скворец
   ja: ライアテカラスモドキ
-  zh: Mauke Starling
+  zh: ''
   nl: Maukespreeuw
   pl: skworczyk skromny
   tr: Mauke Sığırcığı

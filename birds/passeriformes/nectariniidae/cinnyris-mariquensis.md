@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30393.0
 names:
   scientific: Cinnyris mariquensis
-  fa: nan
+  fa: ''
   en: Marico Sunbird
   es: Suimanga del Marico
   fr: Souimanga du Marico
   de: Bindennektarvogel
-  pt: marico sunbird
+  pt: ''
   ru: Зеленоспинная нектарница
   ja: ヒガシニシキタイヨウチョウ
   nl: Maricohoningzuiger

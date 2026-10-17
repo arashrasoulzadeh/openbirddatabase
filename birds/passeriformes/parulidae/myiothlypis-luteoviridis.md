@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34291.0
 names:
   scientific: Myiothlypis luteoviridis
-  fa: nan
+  fa: ''
   en: Citrine Warbler
   es: Reinita Citrina
   fr: Paruline citrine
   de: Bonapartewaldsänger
-  pt: citrine warbler
+  pt: ''
   ru: Лимонный певун
   ja: レモンアメリカムシクイ
   nl: Bonapartezanger

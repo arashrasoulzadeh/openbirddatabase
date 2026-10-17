@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8134.0
 names:
   scientific: Tachyspiza minulla
-  fa: nan
+  fa: ''
   en: Little Sparrowhawk
   es: Gavilán Chico
   fr: Épervier minule
   de: Zwergsperber
-  pt: little sparrowhawk
+  pt: ''
   ru: Африканский перепелятник
   ja: アフリカツミ
   zh: 小雀鷹

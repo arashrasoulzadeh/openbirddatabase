@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 22582.0
 names:
   scientific: Corypha hypermetra
-  fa: nan
+  fa: ''
   en: Red-winged Lark
   es: Alondra Alirroja
   fr: Alouette polyglotte
   de: Riesenlerche
-  pt: red-winged lark
+  pt: ''
   ru: Краснокрылый жаворонок
   ja: サビバネヤブヒバリ
   nl: Grote struikleeuwerik

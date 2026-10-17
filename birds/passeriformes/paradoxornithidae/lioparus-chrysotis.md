@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25384.0
 names:
   scientific: Lioparus chrysotis
-  fa: nan
+  fa: ''
   en: Golden-breasted Fulvetta
   es: Fulveta Dorada
   fr: Liopare à poitrine dorée
   de: Goldgrasmücke
-  pt: golden-breasted fulvetta
+  pt: ''
   ru: Золотистая фульветта
   ja: キンムネチメドリ
   zh: 金胸雀鹛

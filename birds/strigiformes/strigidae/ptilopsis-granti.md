@@ -12,7 +12,7 @@ names:
   es: Autillo Cariblanco Sureño
   fr: Petit-duc de Grant
   de: Südbüscheleule
-  pt: southern white-faced owl
+  pt: ''
   ru: Южная белолицая совка
   ja: ミナミアフリカオオコノハズク
   nl: Zuidelijke witwanguil

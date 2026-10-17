@@ -15,7 +15,7 @@ names:
   pt: munchique wood-wren
   ru: Лесной крапивник
   ja: ムンチケモリミソサザイ
-  zh: Munchique Wood Wren
+  zh: ''
   nl: Munchiqueboswinterkoning
   pl: stokowczyk rdzaworzytny
   tr: Münçike Çıtkuşu

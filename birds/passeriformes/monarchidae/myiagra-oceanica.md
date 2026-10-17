@@ -12,7 +12,7 @@ names:
   es: Monarca Oceánico
   fr: Monarque océanite
   de: Carolinenmonarch
-  pt: chuuk flycatcher
+  pt: ''
   ru: Микронезийская миагра
   ja: ヒラハシ
   nl: Carolinenmonarch

@@ -15,7 +15,7 @@ names:
   pt: vampire ground-finch
   ru: Галапагосский вьюрок-вампир
   ja: キュウケツコガラパゴスフィンチ
-  zh: Vampire Ground Finch
+  zh: ''
   nl: Vampiergrondvink
   pl: darwinka północna
   tr: Vampir Yer İspinozu

@@ -12,7 +12,7 @@ names:
   es: Ganga Malgache
   fr: Ganga masqué
   de: Madagaskarflughuhn
-  pt: madagascar sandgrouse
+  pt: ''
   ru: Мадагаскарский рябок
   ja: マダガスカルサケイ
   nl: Madagaskarzandhoen

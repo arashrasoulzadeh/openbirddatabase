@@ -12,7 +12,7 @@ names:
   es: Buscarla Colicorta Asiática
   fr: Bouscarle de Swinhoe
   de: Buschstutzschwanz
-  pt: asian stubtail
+  pt: ''
   ru: Короткохвостка
   ja: ヤブサメ
   zh: 鳞头树莺

@@ -12,7 +12,7 @@ names:
   es: Rabudito Crestado
   fr: Coquette de Popelaire
   de: Haubenfadenelfe
-  pt: wire-crested thorntail
+  pt: ''
   ru: Острохохлая шипохвостка
   ja: カンムリトゲオハチドリ
   zh: 翎冠刺尾蜂鸟

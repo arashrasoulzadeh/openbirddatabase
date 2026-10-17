@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2747.0
 names:
   scientific: Ducula mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Imperial Pigeon
   es: Dúcula de Mindoro
   fr: Carpophage de Mindoro
@@ -15,7 +15,7 @@ names:
   pt: mindoro imperial-pigeon
   ru: Миндорский плодовый голубь
   ja: ミンドロオビオバト
-  zh: Mindoro Imperial Pigeon
+  zh: ''
   nl: Mindoromuskaatduif
   pl: muszkatela okularowa
   tr: Mindoro Has Güvercini

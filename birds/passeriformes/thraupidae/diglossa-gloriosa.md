@@ -12,7 +12,7 @@ names:
   es: Pinchaflor de Mérida
   fr: Percefleur du Mérida
   de: Méridahakenschnabel
-  pt: merida flowerpiercer
+  pt: ''
   ru: Меридский цветокол
   ja: メリダハナサシミツドリ
   zh: 黑背刺花鸟

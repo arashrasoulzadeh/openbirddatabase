@@ -12,7 +12,7 @@ names:
   es: Zorzal Cenizo
   fr: Grive cendrée
   de: Mindorodrossel
-  pt: ashy thrush
+  pt: ''
   ru: Миндорский дрозд
   ja: クロボシジツグミ
   nl: Mindorolijster

@@ -15,7 +15,7 @@ names:
   pt: gray butcherbird
   ru: Серая флейтовая птица
   ja: ハイイロモズガラス
-  zh: Grey Butcherbird
+  zh: ''
   nl: Grijsrugorgelvogel
   pl: srokacz szary
   tr: Gri Sırtlı Kasapkuşu

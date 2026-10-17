@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13032.0
 names:
   scientific: Pyrrhura leucotis
-  fa: nan
+  fa: ''
   en: White-eared Parakeet
   es: Cotorra Orejiblanca
   fr: Conure leucotique
@@ -15,7 +15,7 @@ names:
   pt: tiriba-de-orelha-branca
   ru: Белоухая которра
   ja: ホオジロウロコインコ
-  zh: White-eared Parakeet
+  zh: ''
   nl: Witoorparkiet
   pl: rudosterka rdzawolica
   tr: Ak Kulaklı Papağan

@@ -12,7 +12,7 @@ names:
   es: Mielero Rojizo
   fr: Myzomèle érythrin
   de: Rötelhonigfresser
-  pt: reddish myzomela
+  pt: ''
   ja: ウスアカミツスイ
   nl: Donkerrode dwerghoningeter
   pl: miodówka ognista

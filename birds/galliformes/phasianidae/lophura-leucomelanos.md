@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1529.0
 names:
   scientific: Lophura leucomelanos
-  fa: nan
+  fa: ''
   en: Kalij Pheasant
   es: Faisán Kálij
   fr: Faisan leucomèle
   de: Kalifasan
-  pt: kalij pheasant
+  pt: ''
   ru: Калидж
   ja: ミヤマハッカン
   zh: 黑鹇

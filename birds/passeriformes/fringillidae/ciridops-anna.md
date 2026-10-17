@@ -12,7 +12,7 @@ names:
   es: Ula-Ai-Hawane
   fr: Ciridopse d'Anna
   de: Annakleidervogel
-  pt: ula-ai-hawane
+  pt: ''
   ru: Ула-аи-хаване
   ja: ウラアイハワネ
   zh: 安娜黑領雀

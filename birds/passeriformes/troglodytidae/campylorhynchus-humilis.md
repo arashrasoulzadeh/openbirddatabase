@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Sclater
   fr: Troglodyte à bandeau brun
   de: Sclaterzaunkönig
-  pt: russet-naped wren
+  pt: ''
   ru: Светлобрюхий крапивник
   nl: Roodnekwinterkoning
   pl: strzyż rdzawoszyi

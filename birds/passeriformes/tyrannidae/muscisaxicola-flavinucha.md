@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17092.0
 names:
   scientific: Muscisaxicola flavinucha
-  fa: nan
+  fa: ''
   en: Ochre-naped Ground Tyrant
   es: Dormilona Fraile
   fr: Dormilon à nuque jaune
@@ -15,7 +15,7 @@ names:
   pt: ochre-naped ground-tyrant
   ru: Светлошапочная дормилона
   ja: シロビタイイワタイランチョウ
-  zh: Ochre-naped Ground Tyrant
+  zh: ''
   nl: Geelnekgrondtiran
   pl: skałotyran żółtołbisty
   tr: Sarı Enseli Yer Tiranı

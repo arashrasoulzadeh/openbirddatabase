@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 27941.0
 names:
   scientific: Notopholia corusca
-  fa: nan
+  fa: ''
   en: Black-bellied Starling
   es: Estornino Ventrinegro
   fr: Choucador à ventre noir

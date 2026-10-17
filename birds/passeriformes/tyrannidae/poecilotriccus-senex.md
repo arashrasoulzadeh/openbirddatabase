@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16392.0
 names:
   scientific: Poecilotriccus senex
-  fa: nan
+  fa: ''
   en: Buff-cheeked Tody-Flycatcher
   es: Titirijí Carirrosa
   fr: Todirostre à joues rousses

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10646.0
 names:
   scientific: Lybius undatus
-  fa: nan
+  fa: ''
   en: Banded Barbet
   es: Barbudo Etíope
   fr: Barbican barré
   de: Wellenbartvogel
-  pt: banded barbet
+  pt: ''
   ru: Полосатая либия
   ja: アビシニアゴシキドリ
   nl: Gebandeerde baardvogel

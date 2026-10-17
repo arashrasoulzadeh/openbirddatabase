@@ -12,7 +12,7 @@ names:
   es: Fulveta Goligualda
   fr: Pseudominla à gorge jaune
   de: Gelbkehl-Zweigdrossling
-  pt: yellow-throated fulvetta
+  pt: ''
   ru: Желтобровая альциппа
   ja: キノドチメドリ
   zh: 黄喉雀鹛

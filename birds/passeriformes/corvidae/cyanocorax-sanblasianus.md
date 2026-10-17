@@ -12,7 +12,7 @@ names:
   es: Chara de San Blas
   fr: Geai de San Blas
   de: Acapulcoblaurabe
-  pt: san blas jay
+  pt: ''
   ru: Акапулькская сойка
   ja: ヌレバカケス
   zh: 黑蓝冠鸦

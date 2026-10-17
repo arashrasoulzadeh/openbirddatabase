@@ -12,7 +12,7 @@ names:
   es: Barbudo Gorjiazul Común
   fr: Barbu à gorge bleue
   de: Blauwangen-Bartvogel
-  pt: blue-throated barbet
+  pt: ''
   ru: Голубощёкий бородастик
   ja: アオノドゴシキドリ
   zh: 蓝喉拟啄木鸟

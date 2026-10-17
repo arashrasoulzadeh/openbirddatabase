@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 23624.0
 names:
   scientific: Nesillas mariae
-  fa: nan
+  fa: ''
   en: Moheli Brush Warbler
   es: Zarzalero de Moheli
   fr: Nésille de Mohéli
@@ -15,7 +15,7 @@ names:
   pt: moheli brush-warbler
   ru: Мохельский рогозник
   ja: コモロシマヨシキリ
-  zh: Moheli Brush Warbler
+  zh: ''
   nl: Mohélizanger
   pl: chaszczak oliwkowy
   tr: Moheli Çalı Ötleğeni

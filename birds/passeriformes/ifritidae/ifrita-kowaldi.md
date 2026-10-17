@@ -15,7 +15,7 @@ names:
   pt: blue-capped ifrita
   ru: Синешапочная ифрита
   ja: ズアオチメドリ
-  zh: Blue-capped Ifrit
+  zh: ''
   nl: Blauwkapifrita
   pl: modrogłówka
   tr: İfritakargası

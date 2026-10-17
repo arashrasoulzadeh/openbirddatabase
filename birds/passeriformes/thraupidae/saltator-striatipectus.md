@@ -12,7 +12,7 @@ names:
   es: Pepitero Listado
   fr: Saltator strié
   de: Strichelsaltator
-  pt: streaked saltator
+  pt: ''
   ru: Пёстрый сальтатор
   ja: ムナフイカル
   nl: Gestreepte saltator

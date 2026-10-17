@@ -12,7 +12,7 @@ names:
   es: Picoguadaña Grande
   fr: Grimpar de Pucheran
   de: Wangenstreif-Sensenschnabel
-  pt: greater scythebill
+  pt: ''
   ru: Большой дугоклюв
   ja: オオユミハシオニキバシリ
   nl: Wulpbekmuisspecht

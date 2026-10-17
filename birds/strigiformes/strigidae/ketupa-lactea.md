@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8966.0
 names:
   scientific: Ketupa lactea
-  fa: nan
+  fa: ''
   en: Verreaux's Eagle-Owl
   es: Búho Lechoso
   fr: Grand-duc de Verreaux

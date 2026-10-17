@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28576.0
 names:
   scientific: Turdus samoensis
-  fa: nan
+  fa: ''
   en: Samoan Island Thrush
   es: Mirlo de Samoa
   fr: Merle des Samoa
   pt: samoan island-thrush
   ja: サモアハイガシラツグミ
-  zh: Samoan Island Thrush
+  zh: ''
   nl: Samoamerel
   pl: drozd samoański
   tr: Samoa Ada Ardıcı

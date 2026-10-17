@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34269.0
 names:
   scientific: Basileuterus tacarcunae
-  fa: nan
+  fa: ''
   en: Tacarcuna Warbler
   es: Reinita de Tacarcuna
   fr: Paruline du Tacarcuna
   de: Tacarcunawaldsänger
-  pt: tacarcuna warbler
+  pt: ''
   ru: Такаркунская корольковка
   ja: タカルクナアメリカムシクイ
   nl: Tacarcunazanger

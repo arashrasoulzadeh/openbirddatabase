@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18920.0
 names:
   scientific: Edolisoma morio
-  fa: nan
+  fa: ''
   en: Sulawesi Cicadabird
   es: Oruguero de Célebes
   fr: Échenilleur morio
   de: Morioraupenfänger
-  pt: sulawesi cicadabird
+  pt: ''
   ru: Темноплечий сорокопутовый личинкоед
   ja: ネズミオオサンショウクイ
   zh: 苏拉鹃鵙

@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 25836.0
 names:
   scientific: Zosterops ponapensis
-  fa: nan
+  fa: ''
   en: Grey-brown White-eye
   es: Anteojitos de Ponapé
   fr: Zostérops gris-brun
   de: Pohnpeibrillenvogel
   pt: pohnpei white-eye
   ja: ポンペイメジロ
-  zh: Grey-brown White-eye
+  zh: ''
   nl: Ponapébrilvogel
   pl: szlarnik płowy
   tr: Pohnpei Gözlükçüsü

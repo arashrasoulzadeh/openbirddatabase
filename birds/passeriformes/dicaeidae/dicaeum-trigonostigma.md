@@ -12,7 +12,7 @@ names:
   es: Picaflores Ventrinaranja
   fr: Dicée à ventre orange
   de: Orangebauch-Mistelfresser
-  pt: orange-bellied flowerpecker
+  pt: ''
   ru: Оранжевобрюхий цветоед
   ja: オレンジハナドリ
   zh: 橙腹啄花

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34676.0
 names:
   scientific: Kleinothraupis parodii
-  fa: nan
+  fa: ''
   en: Parodi's Hemispingus
   es: Hemispingo de Parodi
   fr: Tangara de Parodi
   de: Gelbbrauen-Finkentangare
-  pt: parodi's hemispingus
+  pt: ''
   ru: Желтобровая пипира
   ja: キノドモリフウキンチョウ
   nl: Paroditangare

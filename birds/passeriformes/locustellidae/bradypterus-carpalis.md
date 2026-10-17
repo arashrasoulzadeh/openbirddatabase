@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23949.0
 names:
   scientific: Bradypterus carpalis
-  fa: nan
+  fa: ''
   en: White-winged Swamp Warbler
   es: Zarzalero Aliblanco
   fr: Mégalure à ailes blanches
   de: Bindenbuschsänger
-  pt: white-winged swamp warbler
+  pt: ''
   ru: Белокрылая бурогрудка
   ja: ハジロオウギセッカ
   zh: 白翅短翅莺

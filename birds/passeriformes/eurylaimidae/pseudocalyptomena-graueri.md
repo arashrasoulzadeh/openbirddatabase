@@ -12,7 +12,7 @@ names:
   es: Eurilaimo de Grauer
   fr: Eurylaime de Grauer
   de: Blaukehl-Breitrachen
-  pt: grauer's broadbill
+  pt: ''
   ru: Тонкоклювый рогоклюв
   ja: アフリカミドリヒロハシ
   zh: 非洲绿阔嘴鸟

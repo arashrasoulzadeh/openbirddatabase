@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18731.0
 names:
   scientific: Coracina larutensis
-  fa: nan
+  fa: ''
   en: Malayan Cuckooshrike
   es: Oruguero Malayo
   fr: Échenilleur malais
-  pt: malayan cuckooshrike
+  pt: ''
   ja: マレーシアオオオニサンショウクイ
   zh: 马来鹃鵙
   nl: Maleise rupsvogel

@@ -12,7 +12,7 @@ names:
   es: Vanga de Bernier
   fr: Oriolie de Bernier
   de: Schwarzvanga
-  pt: bernier's vanga
+  pt: ''
   ru: Чёрная ванга
   ja: クロマダガスカルモズ
   nl: Zwarte vanga

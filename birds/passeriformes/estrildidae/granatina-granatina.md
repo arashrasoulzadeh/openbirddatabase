@@ -12,7 +12,7 @@ names:
   es: Granadero Meridional
   fr: Cordonbleu grenadin
   de: Granatastrild
-  pt: violet-eared waxbill
+  pt: ''
   ru: Гранатовый астрильд
   ja: トキワスズメ
   zh: 紫耳蓝饰雀

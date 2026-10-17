@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4407.0
 names:
   scientific: Heliangelus spencei
-  fa: nan
+  fa: ''
   en: Merida Sunangel
   es: Colibrí de Mérida
   fr: Héliange du Mérida
   de: Méridasonnennymphe
-  pt: merida sunangel
+  pt: ''
   ru: Нимфа-диотима
   zh: 梅里达领蜂鸟
   nl: Meridazonnekolibrie

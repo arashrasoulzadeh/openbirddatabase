@@ -12,7 +12,7 @@ names:
   es: Oruguero de las Tanimbar
   fr: Échenilleur des Tanimbar
   de: Tanimbarraupenfänger
-  pt: white-browed triller
+  pt: ''
   ru: Танимбарский личинкоед-свистун
   ja: マミジロサンショウクイ
   zh: 白眉鳴鵑鵙

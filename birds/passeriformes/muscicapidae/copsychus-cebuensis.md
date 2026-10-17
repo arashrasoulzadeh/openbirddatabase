@@ -12,7 +12,7 @@ names:
   es: Shama de Cebú
   fr: Shama de Cebu
   de: Cebuschama
-  pt: black shama
+  pt: ''
   ru: Чёрный шама
   ja: セブクロシキチョウ
   nl: Cebushama

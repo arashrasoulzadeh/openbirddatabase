@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31890.0
 names:
   scientific: Anthus chii
-  fa: nan
+  fa: ''
   en: Yellowish Pipit
   es: Bisbita Amarillento
   fr: Pipit jaunâtre

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Vívido Grande
   fr: Gobemouche à ventre roux
   de: Prunkblauschnäpper
-  pt: chinese vivid niltava
+  pt: ''
   zh: 棕腹蓝仙鹟
   nl: Chinese roodkeelniltava
   pl: niltawa syczuańska

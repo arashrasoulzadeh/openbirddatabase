@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28918.0
 names:
   scientific: Melaenornis annamarulae
-  fa: nan
+  fa: ''
   en: Nimba Flycatcher
   es: Papamoscas Liberiano
   fr: Gobemouche du Libéria
   de: Liberiadrongoschnäpper
-  pt: nimba flycatcher
+  pt: ''
   ru: Либерийская мухоловка
   ja: リベリアクロヒタキ
   nl: Nimbadrongovliegenvanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2082.0
 names:
   scientific: Macropygia phasianella
-  fa: nan
+  fa: ''
   en: Brown Cuckoo-Dove
   es: Tórtola Cuco Parda
   fr: Phasianelle brune
   de: Maronentaube
-  pt: brown cuckoo-dove
+  pt: ''
   ru: Бурая кукушковая горлица
   ja: オナガバト
   zh: 栗褐鹃鸠

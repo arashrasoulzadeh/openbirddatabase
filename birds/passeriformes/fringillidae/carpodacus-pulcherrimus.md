@@ -12,7 +12,7 @@ names:
   es: Camachuelo Bonito del Himalaya
   fr: Roselin superbe
   de: Schmuckgimpel
-  pt: himalayan beautiful rosefinch
+  pt: ''
   ru: Серебристая чечевица
   ja: ヒマラヤコウザンマシコ
   nl: Himalayaprachtroodmus

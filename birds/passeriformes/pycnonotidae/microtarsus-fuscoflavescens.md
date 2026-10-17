@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24625.0
 names:
   scientific: Microtarsus fuscoflavescens
-  fa: nan
+  fa: ''
   en: Andaman Bulbul
   es: Bulbul de las Andamán
   fr: Bulbul des Andaman
   de: Andamanenbülbül
-  pt: andaman bulbul
+  pt: ''
   ru: Андаманский бюльбюль
   ja: アンダマンヒヨドリ
   nl: Andamanenbuulbuul

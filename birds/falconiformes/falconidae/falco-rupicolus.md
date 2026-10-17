@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12009.0
 names:
   scientific: Falco rupicolus
-  fa: nan
+  fa: ''
   en: Rock Kestrel
   es: Cernícalo Africano
   fr: Crécerelle des rochers
   de: Felsenfalke
-  pt: rock kestrel
+  pt: ''
   ru: Скальная пустельга
   ja: ミナミアフリカチョウゲンボウ
   zh: 岩隼

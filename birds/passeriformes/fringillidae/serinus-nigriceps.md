@@ -12,7 +12,7 @@ names:
   es: Serín Cabecinegro
   fr: Serin à tête noire
   de: Schwarzkopfgirlitz
-  pt: ethiopian siskin
+  pt: ''
   ru: Черноголовый вьюрок
   ja: ズキンヒワ
   nl: Zwartkopkanarie

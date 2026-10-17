@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15174.0
 names:
   scientific: Syndactyla rufosuperciliata
-  fa: nan
+  fa: ''
   en: Buff-browed Foliage-gleaner
   es: Ticotico Cejudo
   fr: Anabate à sourcils fauves

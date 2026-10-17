@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8280.0
 names:
   scientific: Astur gundlachi
-  fa: nan
+  fa: ''
   en: Gundlach's Hawk
   es: Gavilán Cubano
   fr: Épervier de Cuba
   de: Kubahabicht
-  pt: gundlach's hawk
+  pt: ''
   ru: Кубинский ястреб
   ja: ズグロハイタカ
   zh: 古巴鷹

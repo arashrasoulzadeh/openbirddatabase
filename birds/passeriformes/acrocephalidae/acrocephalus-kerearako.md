@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23749.0
 names:
   scientific: Acrocephalus kerearako
-  fa: nan
+  fa: ''
   en: Cook Reed Warbler
   es: Carricero de las Cook
   fr: Rousserolle des Cook
@@ -15,7 +15,7 @@ names:
   pt: cook islands reed warbler
   ru: Кереарако
   ja: クックヨシキリ
-  zh: Cook Reed Warbler
+  zh: ''
   nl: Mangaiakarekiet
   pl: trzciniak oliwkowy
   tr: Cook Adaları Kamışçını

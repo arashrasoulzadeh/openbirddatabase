@@ -12,7 +12,7 @@ names:
   es: Gerigón de las Chatham
   fr: Gérygone des Chatham
   de: Langschnabelgerygone
-  pt: chatham islands gerygone
+  pt: ''
   ru: Чатемская геригона
   ja: チャタムセンニョムシクイ
   nl: Chathammangrovezanger

@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorrión Coronicastaño
   fr: Mahali à calotte marron
   de: Kastanienscheitelweber
-  pt: chestnut-crowned sparrow-weaver
+  pt: ''
   ru: Каштановоголовый коробиндо
   ja: チャガシラスズメハタオリ
   zh: 栗顶织雀

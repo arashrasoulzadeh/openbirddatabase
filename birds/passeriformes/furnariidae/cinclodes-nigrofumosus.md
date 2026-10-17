@@ -15,7 +15,7 @@ names:
   pt: seaside cinclodes
   ru: Водяная трясохвостка
   ja: ウミベカマドドリ
-  zh: Chilean Seaside Cinclodes
+  zh: ''
   nl: Strandwipstaart
   pl: trzęsiogon ciemny
   tr: Şili Sahil Sinklotu

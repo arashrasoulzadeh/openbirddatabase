@@ -12,7 +12,7 @@ names:
   es: Fulveta Nepalí
   fr: Alcippe du Népal
   de: Nepalzweigdrossling
-  pt: nepal fulvetta
+  pt: ''
   ru: Непальская альциппа
   ja: ネパールメジロチメドリ
   zh: 白眶雀鹛

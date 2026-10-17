@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 14973.0
 names:
   scientific: Xenops mexicanus
-  fa: nan
+  fa: ''
   en: Northern Plain Xenops
   es: Picolezna Liso Mexicano
   fr: Sittine du Mexique
   pt: northern plain-xenops
-  zh: Northern Plain Xenops
+  zh: ''
   nl: Midden-Amerikaanse xenops
   pl: pełzacznik północny
   tr: Kuzeyli Düz Zenops

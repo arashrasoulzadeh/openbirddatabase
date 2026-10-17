@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Mandelli
   fr: Locustelle de Mandelli
   de: Mandellischwirl
-  pt: russet bush warbler
+  pt: ''
   ru: Ржавчатая пестрогрудка
   ja: タイワンオオセッカ
   zh: 高山短翅蝗莺

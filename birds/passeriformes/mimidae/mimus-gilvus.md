@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28101.0
 names:
   scientific: Mimus gilvus
-  fa: nan
+  fa: ''
   en: Tropical Mockingbird
   es: Sinsonte Tropical
   fr: Moqueur des savanes

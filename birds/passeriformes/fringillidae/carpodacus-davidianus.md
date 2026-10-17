@@ -12,7 +12,7 @@ names:
   es: Camachuelo Bonito Chino
   fr: Roselin de David
   de: Davidgimpel
-  pt: chinese beautiful rosefinch
+  pt: ''
   ru: Китайская чечевица
   ja: チュウゴクコウザンマシコ
   nl: Chinese prachtroodmus

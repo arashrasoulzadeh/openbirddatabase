@@ -12,7 +12,7 @@ names:
   es: Newtonia Común
   fr: Newtonie commune
   de: Rostbauchvanga
-  pt: common newtonia
+  pt: ''
   ru: Бурохвостая ньютония
   ja: ニュートンヒタキ
   nl: Roodbuiknewtonia

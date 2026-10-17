@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15391.0
 names:
   scientific: Asthenes anthoides
-  fa: nan
+  fa: ''
   en: Austral Canastero
   es: Canastero Austral
   fr: Synallaxe austral
   de: Graubrustcanastero
-  pt: austral canastero
+  pt: ''
   ru: Южный канастеро
   ja: シロアゴカマドドリ
   nl: Vuurlandcanastero

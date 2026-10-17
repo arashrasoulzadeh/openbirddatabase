@@ -12,7 +12,7 @@ names:
   es: Vencejo Filipino
   fr: Martinet des Philippines
   de: Philippinensegler
-  pt: philippine spinetail
+  pt: ''
   ru: Филиппинский колючехвост
   ja: フィリピンハリオアマツバメ
   zh: 白喉针尾雨燕

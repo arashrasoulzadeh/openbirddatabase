@@ -12,7 +12,7 @@ names:
   es: Bulbul de Everett
   fr: Bulbul d'Everett
   de: Everettbülbül
-  pt: yellowish bulbul
+  pt: ''
   ru: Желтоватый бюльбюль
   ja: キバラヒヨドリ
   nl: Everettbuulbuul

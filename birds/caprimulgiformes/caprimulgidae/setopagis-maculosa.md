@@ -12,7 +12,7 @@ names:
   es: Chotacabras Guayanés
   fr: Engoulevent de Guyane
   de: Cayennenachtschwalbe
-  pt: cayenne nightjar
+  pt: ''
   ru: Кайеннский козодой
   ja: ギアナヨタカ
   nl: Cayennenachtzwaluw

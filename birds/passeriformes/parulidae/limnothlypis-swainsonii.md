@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33964.0
 names:
   scientific: Limnothlypis swainsonii
-  fa: nan
+  fa: ''
   en: Swainson's Warbler
   es: Reinita de Swainson
   fr: Paruline de Swainson
   de: Swainsonwaldsänger
-  pt: swainson's warbler
+  pt: ''
   ru: Скрытная червеедка
   ja: チャカブリアメリカムシクイ
   zh: 白眉食虫莺属

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34965.0
 names:
   scientific: Ixothraupis rufigula
-  fa: nan
+  fa: ''
   en: Rufous-throated Tanager
   es: Tangara Golirrufa
   fr: Calliste à gorge rousse
   de: Rostkehltangare
-  pt: rufous-throated tanager
+  pt: ''
   ru: Рыжегорлая танагра
   ja: ノドアカフウキンチョウ
   zh: 棕喉唐加拉雀

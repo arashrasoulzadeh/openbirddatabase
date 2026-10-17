@@ -12,7 +12,7 @@ names:
   es: Perico Carigualdo
   fr: Perruche à oreilles jaunes
   de: Gelbwangensittich
-  pt: western rosella
+  pt: ''
   ru: Желтощёкая розелла
   ja: ココノエインコ
   zh: 澳西玫瑰鸚鵡

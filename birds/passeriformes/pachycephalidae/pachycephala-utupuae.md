@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 19440.0
 names:
   scientific: Pachycephala utupuae
-  fa: nan
+  fa: ''
   en: Utupua Whistler
   es: Silbador de Utupua
   fr: Siffleur d'Utupua
-  pt: utupua whistler
+  pt: ''
   nl: Utupuafluiter
   pl: fletówka żółtawa
   tr: Utupua Islıkçısı

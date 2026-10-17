@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17796.0
 names:
   scientific: Caligavis obscura
-  fa: nan
+  fa: ''
   en: Obscure Honeyeater
   es: Mielero Oscuro
   fr: Méliphage obscur
   de: Laubhonigfresser
-  pt: obscure honeyeater
+  pt: ''
   ru: Тёмный медосос
   ja: パプアミミジロミツスイ
   nl: Loverhoningeter

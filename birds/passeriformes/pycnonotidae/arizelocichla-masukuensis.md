@@ -12,7 +12,7 @@ names:
   es: Bulbul de Los Misuku
   fr: Bulbul des Misuku
   de: Shelleybülbül
-  pt: shelley's greenbul
+  pt: ''
   ru: Рифтовый бюльбюль
   ja: ミドリヒヨドリ
   nl: Shelleybuulbuul

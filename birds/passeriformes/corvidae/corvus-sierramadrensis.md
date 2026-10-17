@@ -10,7 +10,7 @@ names:
   en: Sierra Madre Crow
   es: Cuervo de Luzón
   fr: Corneille de Luçon
-  pt: sierra madre crow
+  pt: ''
   ja: シエラマドレガラス
   nl: Sierra-Madrekraai
   pl: wrona luzońska

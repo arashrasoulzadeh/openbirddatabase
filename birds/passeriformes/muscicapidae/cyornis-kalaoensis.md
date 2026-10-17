@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 29178.0
 names:
   scientific: Cyornis kalaoensis
-  fa: nan
+  fa: ''
   en: Kalao Blue Flycatcher
   es: Papamoscas de Isla Kalao
   fr: Gobemouche de Kalao
-  pt: kalao blue flycatcher
+  pt: ''
   ja: カラオヒメアオヒタキ
   nl: Kalaoniltava
   pl: dżunglówka białogardła

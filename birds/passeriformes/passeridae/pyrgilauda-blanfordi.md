@@ -12,7 +12,7 @@ names:
   es: Gorrión de Blanford
   fr: Niverolle de Blanford
   de: Blanforderdsperling
-  pt: blanford's snowfinch
+  pt: ''
   ru: Масковый земляной воробей
   ja: ノドグロユキスズメ
   zh: 棕背雪雀

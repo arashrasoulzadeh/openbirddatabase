@@ -12,7 +12,7 @@ names:
   es: Tiluchí Colilargo
   fr: Grisin de Chapman
   de: Strichelkopf-Ameisenfänger
-  pt: streak-headed antbird
+  pt: ''
   ru: Пестроголовая муравьянка
   ja: シマガシラアリドリ
   nl: Chapmanmiervogel

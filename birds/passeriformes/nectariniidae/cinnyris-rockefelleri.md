@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 30382.0
 names:
   scientific: Cinnyris rockefelleri
-  fa: nan
+  fa: ''
   en: Rockefeller's Sunbird
   es: Suimanga de Rockefeller
   fr: Souimanga de Rockefeller
   de: Blutbrust-Nektarvogel
-  pt: rockefeller's sunbird
+  pt: ''
   ru: Кровавогрудая нектарница
   ja: コンゴゴシキタイヨウチョウ
   nl: Rockefellerhoningzuiger

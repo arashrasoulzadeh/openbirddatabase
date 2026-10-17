@@ -12,7 +12,7 @@ names:
   es: Mielero Alirrufo
   fr: Méliphage à gouttelettes
   de: Zimtflügel-Honigfresser
-  pt: little wattlebird
+  pt: ''
   ru: Рыжекрылый серёжкоух
   ja: ハイガシラミツスイ
   zh: 小垂蜜鸟

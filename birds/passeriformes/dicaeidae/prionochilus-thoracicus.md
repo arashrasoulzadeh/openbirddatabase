@@ -12,7 +12,7 @@ names:
   es: Picaflores Pechiescarlata
   fr: Dicée à poitrine écarlate
   de: Rubinkehl-Mistelfresser
-  pt: scarlet-breasted flowerpecker
+  pt: ''
   ru: Рубиновогрудый цветоед
   ja: ベニムネハナドリモドキ
   zh: 赤胸锯齿啄花鸟

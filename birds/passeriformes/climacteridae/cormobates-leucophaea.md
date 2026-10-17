@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17575.0
 names:
   scientific: Cormobates leucophaea
-  fa: nan
+  fa: ''
   en: White-throated Treecreeper
   es: Corretroncos Gorjiblanco
   fr: Échelet leucophée
   de: Weißkehl-Baumrutscher
-  pt: white-throated treecreeper
+  pt: ''
   ru: Белогорлая ложнопищуха
   ja: ノドジロキノボリ
   nl: Witkeelkruiper

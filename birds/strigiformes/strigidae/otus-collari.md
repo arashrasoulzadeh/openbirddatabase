@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8739.0
 names:
   scientific: Otus collari
-  fa: nan
+  fa: ''
   en: Sangihe Scops Owl
   es: Autillo de Gran Sangir
   fr: Petit-duc des Sangihe
@@ -15,7 +15,7 @@ names:
   pt: sangihe scops-owl
   ru: Сангихская сплюшка
   ja: サンギヘコノハズク
-  zh: Sangihe Scops Owl
+  zh: ''
   nl: Sangirdwergooruil
   pl: syczek długoskrzydły
   tr: Sangihe İshakkuşu

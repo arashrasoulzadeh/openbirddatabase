@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 20922.0
 names:
   scientific: Symposiachrus malaitae
-  fa: nan
+  fa: ''
   en: Malaita Monarch
   es: Monarca de Malaita
   fr: Monarque de Malaita
   de: Malaitamonarch
-  pt: malaita monarch
+  pt: ''
   ja: マライタマダラカササギビタキ
   nl: Malaitamonarch
   pl: monareczka białolica

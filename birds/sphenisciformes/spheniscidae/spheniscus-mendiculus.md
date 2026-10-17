@@ -12,7 +12,7 @@ names:
   es: Pingüino de Galápagos
   fr: Manchot des Galapagos
   de: Galápagospinguin
-  pt: galapagos penguin
+  pt: ''
   ru: Галапагосский пингвин
   ja: ガラパゴスペンギン
   zh: 加拉帕戈斯企鵝

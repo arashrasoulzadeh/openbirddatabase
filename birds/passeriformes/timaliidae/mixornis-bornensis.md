@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25923.0
 names:
   scientific: Mixornis bornensis
-  fa: nan
+  fa: ''
   en: Bold-striped Tit-Babbler
   es: Timalí de Borneo
   fr: Timalie de Bornéo
   de: Fleckenmeisentimalie
-  pt: bold-striped tit-babbler
+  pt: ''
   ru: Пёстрая тимелия
   ja: シマムシクイチメドリ
   zh: 宽纹胸鹛

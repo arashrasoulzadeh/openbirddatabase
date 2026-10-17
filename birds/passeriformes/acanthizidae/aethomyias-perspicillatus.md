@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18361.0
 names:
   scientific: Aethomyias perspicillatus
-  fa: nan
+  fa: ''
   en: Buff-faced Scrubwren
   es: Sedosito Caricanela
   fr: Séricorne fardé
   de: Brillensericornis
-  pt: buff-faced scrubwren
+  pt: ''
   ru: Очковая кустовка
   ja: キガオヤブムシクイ
   nl: Bruinkopstruiksluiper

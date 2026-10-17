@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23933.0
 names:
   scientific: Bradypterus cinnamomeus
-  fa: nan
+  fa: ''
   en: Cinnamon Bracken Warbler
   es: Zarzalero Canela
   fr: Mégalure cannelle
@@ -15,7 +15,7 @@ names:
   pt: cinnamon bracken-warbler
   ru: Рыжеватая бурогрудка
   ja: ニッケイオウギセッカ
-  zh: Cinnamon Bracken Warbler
+  zh: ''
   nl: Kaneelstruikzanger
   pl: krótkolotka cynamonowa
   tr: Tarçın Rengi Ötleğen

@@ -15,7 +15,7 @@ names:
   pt: western crowned-pigeon
   ru: Венценосный голубь
   ja: カンムリバト
-  zh: Western Crowned Pigeon
+  zh: ''
   nl: Kroonduif
   pl: koroniec siodłaty
   tr: Batılı Taçlı Güvercin

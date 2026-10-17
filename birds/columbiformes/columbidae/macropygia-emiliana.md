@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco Indonesia
   fr: Phasianelle rousse
   de: Indonesientaube
-  pt: ruddy cuckoo-dove
+  pt: ''
   ru: Зондская кукушковая горлица
   ja: インドネシアオナガバト
   nl: Bruine koekoeksduif

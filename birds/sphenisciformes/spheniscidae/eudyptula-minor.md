@@ -12,7 +12,7 @@ names:
   es: Pingüino Enano
   fr: Manchot pygmée
   de: Zwergpinguin
-  pt: little penguin
+  pt: ''
   ru: Малый пингвин
   ja: コビトペンギン
   zh: 小藍企鵝

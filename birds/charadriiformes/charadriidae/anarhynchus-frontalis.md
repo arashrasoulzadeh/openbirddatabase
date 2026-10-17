@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Piquituerto
   fr: Pluvier anarhynque
   de: Schiefschnabel
-  pt: wrybill
+  pt: ''
   ru: Кривоклювый зуёк
   ja: ハシマガリチドリ
   zh: 弯嘴鸻属

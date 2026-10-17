@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10217.0
 names:
   scientific: Todiramphus funebris
-  fa: nan
+  fa: ''
   en: Sombre Kingfisher
   es: Alción Sombrío
   fr: Martin-chasseur funèbre
   de: Molukkenliest
-  pt: sombre kingfisher
+  pt: ''
   ru: Теневая альциона
   ja: ハルマヘラショウビン
   zh: 淡黑翡翠

@@ -12,7 +12,7 @@ names:
   es: Cuervo Hawaiano
   fr: Corneille d'Hawaï
   de: Hawaiikrähe
-  pt: hawaiian crow
+  pt: ''
   ru: Гавайская ворона
   ja: ハワイガラス
   zh: 夏威夷烏鴉

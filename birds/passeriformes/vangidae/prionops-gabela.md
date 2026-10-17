@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 19925.0
 names:
   scientific: Prionops gabela
-  fa: nan
+  fa: ''
   en: Gabela Helmetshrike
   es: Prionopo de Gabela
   fr: Bagadais de Gabela
@@ -15,7 +15,7 @@ names:
   pt: angola helmetshrike
   ru: Габельский шлемоголов
   ja: ハイイロメガネモズ
-  zh: Gabela Helmetshrike
+  zh: ''
   nl: Gabelaklauwier
   pl: czołoczub czerwonodzioby
   tr: Gabela Vangası

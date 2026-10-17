@@ -12,7 +12,7 @@ names:
   es: Zorzal Ventripálido
   fr: Merle cul-blanc
   de: Blasssteißdrossel
-  pt: pale-vented thrush
+  pt: ''
   ru: Белогузый дрозд
   ja: ウスムジツグミ
   nl: Bleekbuiklijster

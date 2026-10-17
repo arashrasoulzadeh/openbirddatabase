@@ -12,7 +12,7 @@ names:
   es: Shama Culiblanco
   fr: Shama des Andaman
   de: Andamanenschama
-  pt: andaman shama
+  pt: ''
   ru: Андаманский шама
   ja: アンダマンシキチョウ
   nl: Andamanenshama

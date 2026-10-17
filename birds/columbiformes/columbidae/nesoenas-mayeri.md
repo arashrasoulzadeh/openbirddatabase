@@ -12,7 +12,7 @@ names:
   es: Paloma Rosada
   fr: Pigeon rose
   de: Rosentaube
-  pt: pink pigeon
+  pt: ''
   ru: Розовый голубь
   ja: モーリシャスバト
   zh: 粉鴿

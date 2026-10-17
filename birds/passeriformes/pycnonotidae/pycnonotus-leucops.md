@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24705.0
 names:
   scientific: Pycnonotus leucops
-  fa: nan
+  fa: ''
   en: Pale-faced Bulbul
   es: Bulbul Cariclaro
   fr: Bulbul à face pâle
   de: Weißwangenbülbül
-  pt: pale-faced bulbul
+  pt: ''
   ru: Белолицый бюльбюль
   nl: Bleekgezichtbuulbuul
   pl: bilbil jasnolicy

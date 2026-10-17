@@ -12,7 +12,7 @@ names:
   es: Frutero Pechirrojo
   fr: Cotinga chevalier
   de: Scharlachbrustkotinga
-  pt: scarlet-breasted fruiteater
+  pt: ''
   ru: Красногрудый ягодоед
   ja: ムネアカミドリカザリドリ
   nl: Geelkeelcotinga

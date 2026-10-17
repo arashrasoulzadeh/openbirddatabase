@@ -12,7 +12,7 @@ names:
   es: Torrentero Chico
   fr: Énicure nain
   de: Stummelscherenschwanz
-  pt: little forktail
+  pt: ''
   ru: Белоножка
   ja: シロクロヒタキ
   zh: 小燕尾

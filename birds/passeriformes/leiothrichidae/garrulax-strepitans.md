@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26746.0
 names:
   scientific: Garrulax strepitans
-  fa: nan
+  fa: ''
   en: White-necked Laughingthrush
   es: Charlatán Cuelliblanco
   fr: Garrulaxe bruyant
   de: Weißhalshäherling
-  pt: white-necked laughingthrush
+  pt: ''
   ru: Белошейная кустарница
   ja: シロエリガビチョウ
   zh: 白颈噪鹛

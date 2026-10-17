@@ -12,7 +12,7 @@ names:
   es: Tesia de Everett
   fr: Tésie d'Everett
   de: Rostkappen-Stutzschwanz
-  pt: russet-capped tesia
+  pt: ''
   ru: Рыжеголовая короткохвостка
   ja: アカチャコビトサザイ
   zh: 褐冠地莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11275.0
 names:
   scientific: Chloropicus namaquus
-  fa: nan
+  fa: ''
   en: Bearded Woodpecker
   es: Pito Namaqua
   fr: Pic barbu
   de: Namaspecht
-  pt: bearded woodpecker
+  pt: ''
   ru: Бородатый дятел
   ja: クロヒゲゲラ
   nl: Baardspecht

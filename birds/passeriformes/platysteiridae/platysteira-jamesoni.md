@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19849.0
 names:
   scientific: Platysteira jamesoni
-  fa: nan
+  fa: ''
   en: Jameson's Wattle-eye
   es: Batis Carunculado de Jameson
   fr: Pririt de Jameson
   de: Ugandalappenschnäpper
-  pt: jameson's wattle-eye
+  pt: ''
   ru: Угандийская серёжкоглазка
   ja: ヒガシホオアカメガネヒタキ
   zh: 杰氏饰眼鹟

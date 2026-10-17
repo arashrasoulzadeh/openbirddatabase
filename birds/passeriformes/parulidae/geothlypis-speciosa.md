@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 34017.0
 names:
   scientific: Geothlypis speciosa
-  fa: nan
+  fa: ''
   en: Black-polled Yellowthroat
   es: Mascarita Transvolcánica
   fr: Paruline à face noire
   de: Ockerbrust-Gelbkehlchen
-  pt: black-polled yellowthroat
+  pt: ''
   ru: Чернолицая желтогрудка
   ja: クロガシラオグロムシクイ
   nl: Zwartkruinmaskerzanger

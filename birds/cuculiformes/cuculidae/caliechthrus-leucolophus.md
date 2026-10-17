@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3346.0
 names:
   scientific: Caliechthrus leucolophus
-  fa: nan
+  fa: ''
   en: White-crowned Cuckoo
   es: Koel Coroniblanco
   fr: Coucou à calotte blanche
   de: Weißscheitelkuckuck
-  pt: white-crowned cuckoo
+  pt: ''
   ru: Белошапочная кукушка
   ja: ユキボウシカッコウ
   nl: Witkruinkoekoek

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28960.0
 names:
   scientific: Tychaedon barbata
-  fa: nan
+  fa: ''
   en: Miombo Scrub Robin
   es: Alzacola Barbudo
   fr: Agrobate barbu
@@ -15,7 +15,7 @@ names:
   pt: miombo scrub-robin
   ru: Бородатый тугайный соловей
   ja: コシアカヤブコマドリ
-  zh: Miombo Scrub Robin
+  zh: ''
   nl: Baardwaaierstaart
   pl: drozdówek brodaty
   tr: Miombo Çalı Bülbülü

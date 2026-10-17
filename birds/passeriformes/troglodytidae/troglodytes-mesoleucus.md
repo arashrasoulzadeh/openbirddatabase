@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 27206.0
 names:
   scientific: Troglodytes mesoleucus
-  fa: nan
+  fa: ''
   en: St. Lucia Wren
   es: Chochín Criollo de Santa Lucía
   fr: Troglodyte de Sainte-Lucie
-  pt: st. lucia wren
+  pt: ''
   nl: Sint-Luciawinterkoning
   pl: strzyżyk białopręgi
   tr: Santa Lucia Çıtkuşu

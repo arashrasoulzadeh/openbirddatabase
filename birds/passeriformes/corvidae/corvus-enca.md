@@ -12,7 +12,7 @@ names:
   es: Cuervo Picofino
   fr: Corneille à bec fin
   de: Sundakrähe
-  pt: sunda crow
+  pt: ''
   ru: Малый ворон
   ja: スンダガラス
   zh: 細嘴烏鴉

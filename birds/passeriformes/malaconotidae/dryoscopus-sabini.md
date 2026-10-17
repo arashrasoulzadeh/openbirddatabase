@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20062.0
 names:
   scientific: Dryoscopus sabini
-  fa: nan
+  fa: ''
   en: Sabine's Puffback
   es: Cubla de Sabine
   fr: Cubla à gros bec
   de: Dickschnabel-Schneeballwürger
-  pt: sabine's puffback
+  pt: ''
   ru: Толстоклювая пухоспинка
   ja: オグロフクレヤブモズ
   nl: Dikbekpoederdonsklauwier

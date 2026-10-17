@@ -12,7 +12,7 @@ names:
   es: Perlita Californiana
   fr: Gobemoucheron de Californie
   de: Kalifornienmückenfänger
-  pt: california gnatcatcher
+  pt: ''
   ru: Калифорнийская комароловка
   ja: カリフォルニアブユムシクイ
   zh: 加州蚋鶯

@@ -12,7 +12,7 @@ names:
   es: Cálao Trompetero
   fr: Calao trompette
   de: Trompeterhornvogel
-  pt: trumpeter hornbill
+  pt: ''
   ru: Шлеморог-трубач
   ja: ナキサイチョウ
   nl: Trompetneushoornvogel

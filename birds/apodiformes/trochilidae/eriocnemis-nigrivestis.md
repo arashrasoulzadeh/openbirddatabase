@@ -12,7 +12,7 @@ names:
   es: Calzadito Pechinegro
   fr: Érione à robe noire
   de: Schwarzbauch-Höschenkolibri
-  pt: black-breasted puffleg
+  pt: ''
   ru: Черногрудый эрион
   ja: ムナグロワタアシハチドリ
   zh: 黑胸毛腿蜂鸟

@@ -15,7 +15,7 @@ names:
   pt: elliot's storm-petrel
   ru: Изящная океанида
   ja: コアシナガウミツバメ
-  zh: Elliot's Storm Petrel
+  zh: ''
   nl: Sierlijk stormvogeltje
   pl: oceannik krótkodzioby
   tr: Elliot Fırtınakırlangıcı

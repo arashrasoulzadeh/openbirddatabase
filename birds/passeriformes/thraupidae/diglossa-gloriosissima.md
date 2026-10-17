@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Ventrirrufo
   fr: Percefleur à ventre marron
   de: Maronenbauch-Hakenschnabel
-  pt: chestnut-bellied flowerpiercer
+  pt: ''
   ru: Каштановобрюхий цветокол
   ja: チャバラハナサシミツドリ
   zh: 栗腹刺花鸟

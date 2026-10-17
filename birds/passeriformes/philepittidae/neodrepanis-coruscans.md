@@ -12,7 +12,7 @@ names:
   es: Filepita Suimanga Común
   fr: Philépitte souimanga
   de: Nektarjala
-  pt: common sunbird-asity
+  pt: ''
   ru: Длинноклювая ложнонектарница
   ja: ニセタイヨウチョウ
   zh: 弯嘴裸眉鸫

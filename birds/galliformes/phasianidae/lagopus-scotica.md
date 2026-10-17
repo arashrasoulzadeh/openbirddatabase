@@ -12,7 +12,7 @@ names:
   es: Lagópodo Escocés
   fr: Lagopède d'Écosse
   de: Heideschneehuhn
-  pt: red grouse
+  pt: ''
   nl: Schots sneeuwhoen
   pl: pardwa szkocka
   tr: Kızılca Kar Tavuğu

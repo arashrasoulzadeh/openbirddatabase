@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3783.0
 names:
   scientific: Batrachostomus septimus
-  fa: nan
+  fa: ''
   en: Philippine Frogmouth
   es: Podargo Filipino
   fr: Podarge des Philippines
   de: Philippinenschwalm
-  pt: philippine frogmouth
+  pt: ''
   ru: Филиппинский лякушкорот
   ja: フィリピンガマグチヨタカ
   zh: 菲律賓蟆口鴟

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14360.0
 names:
   scientific: Grallaricula cumanensis
-  fa: nan
+  fa: ''
   en: Sucre Antpitta
   es: Ponchito de Sucre
   fr: Grallaire de Cumana
   de: Sucreameisenpitta
-  pt: sucre antpitta
+  pt: ''
   ru: Венесуэльская питтуля
   ja: スクレヒメジアリドリ
   nl: Sucredwergmierpitta

@@ -12,7 +12,7 @@ names:
   es: Carbonero del Caspio
   fr: Mésange d'Iran
   de: Elbursmeise
-  pt: caspian tit
+  pt: ''
   ru: Гирканская гаичка
   ja: カスピアコガラ
   nl: Iraanse rouwmees

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18690.0
 names:
   scientific: Coracina welchmani
-  fa: nan
+  fa: ''
   en: North Melanesian Cuckooshrike
   es: Oruguero de Welchman
   fr: Échenilleur de Welchman
   de: Solomonen-Raupenfänger
-  pt: north melanesian cuckooshrike
+  pt: ''
   ru: Соломонский воронец
   ja: キタメラネシアオニサンショウクイ
   nl: Noord-Melanesische rupsvogel

@@ -12,7 +12,7 @@ names:
   es: Turdoide Cabecinegro
   fr: Cratérope à tête noire
   de: Weißaugen-Drosselhäherling
-  pt: blackcap babbler
+  pt: ''
   ru: Белоглазая дроздовка
   ja: ズグロヤブチメドリ
   zh: 黑頭鶇鶥

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16763.0
 names:
   scientific: Phyllomyias reiseri
-  fa: nan
+  fa: ''
   en: Reiser's Tyrannulet
   es: Mosquerito de Reiser
   fr: Tyranneau de Reiser

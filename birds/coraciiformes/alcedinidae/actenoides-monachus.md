@@ -12,7 +12,7 @@ names:
   es: Alción Monje
   fr: Martin-chasseur moine
   de: Einsiedlerliest
-  pt: green-backed kingfisher
+  pt: ''
   ru: Синеголовый зимородок
   ja: チャバラショウビン
   zh: 綠背翡翠

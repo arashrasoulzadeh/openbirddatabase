@@ -12,7 +12,7 @@ names:
   es: Apalis Gorjigualdo
   fr: Apalis noir et jaune
   de: Gelbkehl-Feinsänger
-  pt: yellow-throated apalis
+  pt: ''
   ru: Желтозобый апалис
   nl: Geelkeelapalis
   pl: nikornik żółtogardły

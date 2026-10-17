@@ -12,7 +12,7 @@ names:
   es: Perdicilla Cabecirroja
   fr: Rouloul sanglant
   de: Rotkopfwachtel
-  pt: crimson-headed partridge
+  pt: ''
   ru: Красноголовая куропатка
   ja: アカガシラシャコ
   zh: 紅頭鷓鴣

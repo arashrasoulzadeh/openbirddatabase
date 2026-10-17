@@ -12,7 +12,7 @@ names:
   es: Cistícola Ceniciento
   fr: Cisticole cendrée
   de: Grauzistensänger
-  pt: ashy cisticola
+  pt: ''
   ru: Пепельная цистикола
   ja: サメイロセッカ
   nl: Grijze graszanger

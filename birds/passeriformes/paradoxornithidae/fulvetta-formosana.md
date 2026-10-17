@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25429.0
 names:
   scientific: Fulvetta formosana
-  fa: nan
+  fa: ''
   en: Taiwan Fulvetta
   es: Fulveta de Formosa
   fr: Fulvetta de Taïwan
   de: Taiwangrasmücke
-  pt: taiwan fulvetta
+  pt: ''
   ru: Тайваньская фульветта
   ja: タイワンチメドリ
   zh: 玉山雀鹛

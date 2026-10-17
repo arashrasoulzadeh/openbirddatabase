@@ -15,7 +15,7 @@ names:
   pt: malaysian eared-nightjar
   ru: Малайский рогатень
   ja: ミミヨタカ
-  zh: Malaysian Eared Nightjar
+  zh: ''
   nl: Temmincknachtzwaluw
   pl: rogatnik uszaty
   tr: Temminck Çobanaldatanı

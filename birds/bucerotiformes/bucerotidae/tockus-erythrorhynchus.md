@@ -12,7 +12,7 @@ names:
   es: Toco Piquirrojo Norteño
   fr: Calao à bec rouge
   de: Savannentoko
-  pt: northern red-billed hornbill
+  pt: ''
   ru: Красноклювый токо
   ja: アカハシコサイチョウ
   zh: 紅喙彎嘴犀鳥

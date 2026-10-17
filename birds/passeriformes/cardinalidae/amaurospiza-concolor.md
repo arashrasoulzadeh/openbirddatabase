@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34573.0
 names:
   scientific: Amaurospiza concolor
-  fa: nan
+  fa: ''
   en: Blue Seedeater
   es: Semillero Azul
   fr: Évêque bleu
   de: Indigokardinal
-  pt: blue seedeater
+  pt: ''
   ru: Индиговый кардинальчик
   ja: シコンコメワリ
   nl: Indigodikbekje

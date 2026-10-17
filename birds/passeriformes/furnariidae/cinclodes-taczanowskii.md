@@ -15,7 +15,7 @@ names:
   pt: surf cinclodes
   ru: Береговая трясохвостка
   ja: アライソカマドドリ
-  zh: Peruvian Seaside Cinclodes
+  zh: ''
   nl: Brandingwipstaart
   pl: trzęsiogon Taczanowskiego
   tr: Peru Sahil Sinklotu

@@ -12,7 +12,7 @@ names:
   es: Amazilia Yucateca
   fr: Ariane du Yucatan
   de: Fahlbauchamazilie
-  pt: buff-bellied hummingbird
+  pt: ''
   ru: Юкатанская амазилия
   ja: アカハシエメラルドハチドリ
   zh: 棕腹蜂鸟

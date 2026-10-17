@@ -12,7 +12,7 @@ names:
   es: Chara Verde
   fr: Geai vert
   de: Inkablaurabe
-  pt: green jay
+  pt: ''
   ru: Перуанская сойка
   ja: インカサンジャク
   nl: Groene gaai

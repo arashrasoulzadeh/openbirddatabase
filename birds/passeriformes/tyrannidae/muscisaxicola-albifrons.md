@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17091.0
 names:
   scientific: Muscisaxicola albifrons
-  fa: nan
+  fa: ''
   en: White-fronted Ground Tyrant
   es: Dormilona Gigante
   fr: Dormilon à front blanc
@@ -15,7 +15,7 @@ names:
   pt: white-fronted ground-tyrant
   ru: Белолобая дормилона
   ja: オオイワタイランチョウ
-  zh: White-fronted Ground Tyrant
+  zh: ''
   nl: Klifgrondtiran
   pl: skałotyran białoczelny
   tr: Ak Alınlı Yer Tiranı

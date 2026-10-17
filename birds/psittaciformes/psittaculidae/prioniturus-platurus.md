@@ -15,7 +15,7 @@ names:
   pt: golden-mantled racquet-tail
   ru: Рыжеспинный ракетохвост
   ja: ウチワインコ
-  zh: Golden-mantled Racket-tail
+  zh: ''
   nl: Goudrugvlagstaartpapegaai
   pl: listkogonka złotogrzbieta
   tr: Altın Yakalı Raket Kuyruklu Papağan

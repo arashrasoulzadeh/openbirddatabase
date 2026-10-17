@@ -12,7 +12,7 @@ names:
   es: Estrilda Sombría
   fr: Sénégali sombre
   de: Schieferastrild
-  pt: dusky twinspot
+  pt: ''
   ru: Аспидный жемчужник
   ja: コモンハイイロアラレチョウ
   zh: 乌双斑雀

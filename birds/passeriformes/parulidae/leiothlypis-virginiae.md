@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33986.0
 names:
   scientific: Leiothlypis virginiae
-  fa: nan
+  fa: ''
   en: Virginia's Warbler
   es: Reinita de Virginia
   fr: Paruline de Virginia
   de: Gelbsteiß-Waldsänger
-  pt: virginia's warbler
+  pt: ''
   ru: Желтогрудая древесница
   ja: キムネズアカアメリカムシクイ
   nl: Virginiazanger

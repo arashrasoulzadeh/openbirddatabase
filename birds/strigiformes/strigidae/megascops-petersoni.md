@@ -15,7 +15,7 @@ names:
   pt: cinnamon screech-owl
   ru: Коричневая совка
   ja: シナモンオオコノハズク
-  zh: Cinnamon Screech Owl
+  zh: ''
   nl: Kaneelkleurige schreeuwuil
   pl: syczoń jarzębaty
   tr: Tarçın Renkli Puhucuk

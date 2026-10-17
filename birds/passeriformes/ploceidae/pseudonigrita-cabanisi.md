@@ -15,7 +15,7 @@ names:
   pt: black-capped social-weaver
   ru: Черноголовый ткачик-воробей
   ja: クロガシラシュウダンハタオリ
-  zh: Black-capped Social Weaver
+  zh: ''
   nl: Zwartkapwever
   pl: gromadnik czarnogłowy
   tr: Kara Başlıklı Dokumacı

@@ -15,7 +15,7 @@ names:
   pt: gray-headed silverbill
   ru: Жемчужноголовая амадина
   ja: オキナチョウ
-  zh: Grey-headed Silverbill
+  zh: ''
   nl: Grijskopzilverbekje
   pl: srebrnodziobek szarogłowy
   tr: Gri Başlı Gümüşgaga

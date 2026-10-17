@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso de Raggi
   fr: Paradisier de Raggi
   de: Raggiparadiesvogel
-  pt: raggiana bird-of-paradise
+  pt: ''
   ru: Каштановая райская птица
   ja: アカカザリフウチョウ
-  zh: Raggiana Bird-of-paradise
+  zh: ''
   nl: Raggiparadijsvogel
   pl: cudowronka krasnopióra
   tr: Raggiana Cennetkuşu

@@ -12,7 +12,7 @@ names:
   es: Egotelo de Wallace
   fr: Égothèle de Wallace
   de: Fleckenhöhlenschwalm
-  pt: wallace's owlet-nightjar
+  pt: ''
   ru: Папуанский совиный козодой
   ja: ウォーレスズクヨタカ
   nl: Wallacedwergnachtzwaluw

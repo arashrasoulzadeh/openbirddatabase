@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 25683.0
 names:
   scientific: Zosterops ficedulinus
-  fa: nan
+  fa: ''
   en: Principe White-eye
   es: Anteojitos de Príncipe
   fr: Zostérops becfigue
   de: Fahlbrillenvogel
-  pt: principe white-eye
+  pt: ''
   ru: Принсипская белоглазка
   ja: プリンシペメジロ
   nl: Principebrilvogel

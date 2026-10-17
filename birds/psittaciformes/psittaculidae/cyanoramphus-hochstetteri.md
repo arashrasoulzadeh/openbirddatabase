@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12461.0
 names:
   scientific: Cyanoramphus hochstetteri
-  fa: nan
+  fa: ''
   en: Reischek's Parakeet
   es: Perico de Reischek
   fr: Perruche de Reischek
   de: Antipodensittich
-  pt: reischek's parakeet
+  pt: ''
   ru: Береговой какарики
   ja: ライシェックアオハシインコ
   nl: Kleine antipodenkakariki

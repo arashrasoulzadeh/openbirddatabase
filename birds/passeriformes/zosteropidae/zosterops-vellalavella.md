@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 25808.0
 names:
   scientific: Zosterops vellalavella
-  fa: nan
+  fa: ''
   en: Vella Lavella White-eye
   es: Anteojitos de Vella Lavella
   fr: Zostérops de Vella Lavella
@@ -15,7 +15,7 @@ names:
   pt: banded white-eye
   ru: Вельялавельская белоглазка
   ja: ベララベラメジロ
-  zh: Vella Lavella White-eye
+  zh: ''
   nl: Vellalavellabrilvogel
   pl: szlarnik pręgowany
   tr: Kuşaklı Gözlükçü

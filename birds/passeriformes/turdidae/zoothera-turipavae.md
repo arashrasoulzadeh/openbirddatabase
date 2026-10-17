@@ -12,7 +12,7 @@ names:
   es: Zorzal de Guadalcanal
   fr: Grive de Guadalcanal
   de: Guadalcanal-Erddrossel
-  pt: guadalcanal thrush
+  pt: ''
   ru: Гуадалканальский дрозд
   ja: ガダルカナルジツグミ
   nl: Guadalcanallijster

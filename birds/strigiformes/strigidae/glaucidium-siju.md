@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9056.0
 names:
   scientific: Glaucidium siju
-  fa: nan
+  fa: ''
   en: Cuban Pygmy Owl
   es: Mochuelo Sijú
   fr: Chevêchette de Cuba
@@ -15,7 +15,7 @@ names:
   pt: cuban pygmy-owl
   ru: Кубинский сычик
   ja: キューバスズメフクロウ
-  zh: Cuban Pygmy Owl
+  zh: ''
   nl: Cubaanse dwerguil
   pl: sóweczka kubańska
   tr: Küba Serçe Baykuşu

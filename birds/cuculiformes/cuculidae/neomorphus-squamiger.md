@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3049.0
 names:
   scientific: Neomorphus squamiger
-  fa: nan
+  fa: ''
   en: Scaled Ground Cuckoo
   es: Cuco Hormiguero Escalado
   fr: Géocoucou écaillé
@@ -15,7 +15,7 @@ names:
   pt: jacu-estalo-escamoso
   ru: Чешуйчатая земляная кукушка
   ja: ウロコアメリカジカッコウ
-  zh: Scaled Ground Cuckoo
+  zh: ''
   nl: Geschubde grondkoekoek
   pl: kukawka amazońska
   tr: Pullu Yer Guguğu

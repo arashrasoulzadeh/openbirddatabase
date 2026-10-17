@@ -12,7 +12,7 @@ names:
   es: Lechuza Malgache
   fr: Effraie de Soumagne
   de: Malegasseneule
-  pt: red owl
+  pt: ''
   ru: Мадагаскарская сипуха
   ja: マダガスカルメンフクロウ
   zh: 馬島草鴞

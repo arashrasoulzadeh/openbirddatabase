@@ -15,7 +15,7 @@ names:
   pt: andorinha-dos-charcos
   ru: Коричневогорлая береговушка
   ja: アフリカショウドウツバメ
-  zh: Brown-throated Martin
+  zh: ''
   nl: Vale oeverzwaluw
   pl: brzegówka mała
   tr: Esmer Kum Kırlangıcı

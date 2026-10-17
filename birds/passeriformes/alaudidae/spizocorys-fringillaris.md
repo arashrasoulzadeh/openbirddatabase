@@ -12,7 +12,7 @@ names:
   es: Alondra de Botha
   fr: Alouette de Botha
   de: Finkenlerche
-  pt: botha's lark
+  pt: ''
   ru: Зябликовый жаворонок
   ja: タンビコヒバリ
   zh: 博氏沙百灵

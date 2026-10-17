@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16057.0
 names:
   scientific: Pachyramphus albogriseus
-  fa: nan
+  fa: ''
   en: Black-and-white Becard
   es: Anambé Blanquinegro
   fr: Bécarde pie
   de: Graurückenbekarde
-  pt: black-and-white becard
+  pt: ''
   ru: Сероспинный бекард
   ja: ハイイロカザリドリモドキ
   nl: Eksterbekarde

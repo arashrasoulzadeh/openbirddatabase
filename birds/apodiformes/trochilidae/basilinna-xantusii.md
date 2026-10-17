@@ -12,7 +12,7 @@ names:
   es: Colibrí de Xantus
   fr: Colibri de Xantus
   de: Schwarzstirn-Saphirkolibri
-  pt: xantus's hummingbird
+  pt: ''
   ru: Чернолобый колибри
   ja: クロビタイサファイアハチドリ
   zh: 赞氏蜂鸟

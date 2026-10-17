@@ -12,7 +12,7 @@ names:
   es: Oruguero Azulado
   fr: Échenilleur bleu
   de: Azurraupenfänger
-  pt: blue cuckooshrike
+  pt: ''
   ru: Синий цикадник
   ja: ルリオオサンショウクイ
   zh: 蓝鹃鵙

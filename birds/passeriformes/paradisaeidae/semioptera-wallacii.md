@@ -15,7 +15,7 @@ names:
   pt: standardwing bird-of-paradise
   ru: Вымпеловая райская птица
   ja: シロハタフウチョウ
-  zh: Standardwing
+  zh: ''
   nl: Wallaceparadijsvogel
   pl: flagowiec
   tr: Wallace Cennetkuşu

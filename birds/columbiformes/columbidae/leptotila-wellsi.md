@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 2367.0
 names:
   scientific: Leptotila wellsi
-  fa: nan
+  fa: ''
   en: Grenada Dove
   es: Paloma Montaraz de Granada
   fr: Colombe de Grenade
   de: Grenadataube
-  pt: grenada dove
+  pt: ''
   ru: Гренадская голубка
   ja: グレナダバト
   zh: 威氏棕翅鸠

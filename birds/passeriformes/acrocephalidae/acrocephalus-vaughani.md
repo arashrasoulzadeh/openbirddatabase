@@ -12,7 +12,7 @@ names:
   es: Carricero de Isla Pitcairn
   fr: Rousserolle des Pitcairn
   de: Pitcairnrohrsänger
-  pt: pitcairn reed warbler
+  pt: ''
   ru: Питкернская камышовка
   ja: ピトケアンヨシキリ
   zh: 皮岛苇莺

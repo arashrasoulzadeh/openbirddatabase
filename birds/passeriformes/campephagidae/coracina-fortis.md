@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18764.0
 names:
   scientific: Coracina fortis
-  fa: nan
+  fa: ''
   en: Buru Cuckooshrike
   es: Oruguero de Buru
   fr: Échenilleur de Buru
   de: Bururaupenfänger
-  pt: buru cuckooshrike
+  pt: ''
   ru: Буруанский воронец
   ja: ブルオニサンショウクイ
   zh: 布鲁鹃鵙

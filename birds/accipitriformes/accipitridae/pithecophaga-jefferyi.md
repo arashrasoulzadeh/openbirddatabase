@@ -12,7 +12,7 @@ names:
   es: Águila Monera
   fr: Pithécophage des Philippines
   de: Affenadler
-  pt: philippine eagle
+  pt: ''
   ru: Филиппинский обезьяноед
   ja: フィリピンワシ
   zh: 菲律賓鷹

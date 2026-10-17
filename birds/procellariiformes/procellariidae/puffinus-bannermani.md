@@ -12,7 +12,7 @@ names:
   es: Pardela de las Bonin
   fr: Puffin de Bannerman
   de: Boninsturmtaucher
-  pt: bannerman's shearwater
+  pt: ''
   ru: Бонинский буревестник
   ja: オガサワラミズナギドリ
   zh: 班氏鹱

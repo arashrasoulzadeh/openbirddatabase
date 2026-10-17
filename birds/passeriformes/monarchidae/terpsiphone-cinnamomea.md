@@ -15,7 +15,7 @@ names:
   pt: rufous paradise-flycatcher
   ru: Рыжая райская мухоловка
   ja: アカサンコウチョウ
-  zh: Rufous Paradise Flycatcher
+  zh: ''
   nl: Rosse paradijsmonarch
   pl: muchodławka cynamonowa
   tr: Tarçın Rengi Monark

@@ -12,7 +12,7 @@ names:
   es: Barrancolí Puertorriqueño
   fr: Todier de Porto Rico
   de: Gelbflankentodi
-  pt: puerto rican tody
+  pt: ''
   ru: Пуэрториканский тоди
   ja: プエルトリココビトドリ
   zh: 波多黎各短尾鴗

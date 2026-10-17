@@ -15,7 +15,7 @@ names:
   pt: thrush babbler
   ru: Белобрюхий дроздовник
   ja: ツグミチメドリ
-  zh: Spotted Thrush-Babbler
+  zh: ''
   nl: Witbuiklijstertimalia
   pl: wyżynniak drozdowaty
   tr: Benekli İlladopsis

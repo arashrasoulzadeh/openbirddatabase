@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 7608.0
 names:
   scientific: Nycticorax mauritianus
-  fa: nan
+  fa: ''
   en: Mauritius Night Heron
   es: Martinete de Mauricio
   fr: Bihoreau de Maurice
   de: Mauritius-Nachtreiher
-  pt: mauritius night heron
+  pt: ''
   ru: Маврикийская кваква
   ja: モーリシャスゴイサギ
   zh: 毛里求斯夜蒼鷺

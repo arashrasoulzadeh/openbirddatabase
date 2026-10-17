@@ -15,7 +15,7 @@ names:
   pt: vermiculated fishing-owl
   ru: Мраморная рыбная сова
   ja: タテジマウオクイフクロウ
-  zh: Vermiculated Fishing Owl
+  zh: ''
   nl: Kleine visuil
   pl: rybiarka marmurkowa
   tr: Kongo Balık Baykuşu

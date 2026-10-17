@@ -12,7 +12,7 @@ names:
   es: Estornino de Isla Norfolk
   fr: Stourne de Norfolk
   de: Norfolkstar
-  pt: tasman starling
+  pt: ''
   ru: Норфолкский скворец
   ja: ノーフォークカラスモドキ
   zh: 綠頭輝椋鳥

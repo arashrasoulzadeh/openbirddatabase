@@ -12,7 +12,7 @@ names:
   es: Arañero Estriado
   fr: Grand Arachnothère
   de: Strichelspinnenjäger
-  pt: streaked spiderhunter
+  pt: ''
   ru: Пёстрая пауколовка
   ja: タテジマクモカリドリ
   zh: 纹背捕蛛鸟

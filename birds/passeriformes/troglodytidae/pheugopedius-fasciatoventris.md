@@ -12,7 +12,7 @@ names:
   es: Cucarachero Ventrinegro
   fr: Troglodyte à ventre noir
   de: Bindenbauch-Zaunkönig
-  pt: black-bellied wren
+  pt: ''
   ru: Чернобрюхий крапивник
   ja: ノドジロマユミソサザイ
   nl: Zwartbuikwinterkoning

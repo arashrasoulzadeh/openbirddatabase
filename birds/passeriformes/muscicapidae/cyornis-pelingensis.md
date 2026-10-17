@@ -12,7 +12,7 @@ names:
   es: Papamoscas de las Banggai
   fr: Gobemouche de Peleng
   de: Pelengdschungelschnäpper
-  pt: banggai jungle flycatcher
+  pt: ''
   ru: Пеленгская джунглевая мухоловка
   ja: バンガイミツリンヒタキ
   nl: Banggai-junglevliegenvanger

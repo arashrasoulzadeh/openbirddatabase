@@ -12,7 +12,7 @@ names:
   es: Trepador del Himalaya
   fr: Sittelle de l'Himalaya
   de: Weißschwanzkleiber
-  pt: white-tailed nuthatch
+  pt: ''
   ru: Белохвостый поползень
   ja: オジロゴジュウカラ
   zh: 白尾䴓

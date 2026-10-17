@@ -12,7 +12,7 @@ names:
   es: Cucarachero Dorsicastaño
   fr: Troglodyte à dos roux
   de: Rostrücken-Zaunkönig
-  pt: rufous-backed wren
+  pt: ''
   ru: Рыжеспинный крапивник
   nl: Roodrugwinterkoning
   pl: strzyż rdzawogrzbiety

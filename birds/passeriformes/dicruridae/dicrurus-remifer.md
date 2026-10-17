@@ -12,7 +12,7 @@ names:
   es: Drongo de Raquetas Chico
   fr: Drongo à rames
   de: Spateldrongo
-  pt: lesser racket-tailed drongo
+  pt: ''
   ru: Ракетохвостый дронго
   ja: ヒメカザリオウチュウ
   zh: 小盘尾

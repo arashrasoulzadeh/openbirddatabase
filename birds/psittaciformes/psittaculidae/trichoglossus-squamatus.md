@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12663.0
 names:
   scientific: Trichoglossus squamatus
-  fa: nan
+  fa: ''
   en: Violet-necked Lory
   es: Lori Escamoso
   fr: Loriquet écaillé
   de: Kapuzenlori
-  pt: violet-necked lory
+  pt: ''
   ru: Чешуйчатый лори
   ja: コムラサキインコ
   nl: Violetneklori

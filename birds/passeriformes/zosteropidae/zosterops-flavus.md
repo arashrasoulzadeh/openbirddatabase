@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 25759.0
 names:
   scientific: Zosterops flavus
-  fa: nan
+  fa: ''
   en: Javan White-eye
   es: Anteojitos Amarillo
   fr: Zostérops flavescent
   de: Horsfieldbrillenvogel
-  pt: javan white-eye
+  pt: ''
   ru: Жёлтая белоглазка
   ja: ジャワメジロ
   zh: 爪哇繡眼

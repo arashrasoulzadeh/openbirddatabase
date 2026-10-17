@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Célebes
   fr: Engoulevent des Célèbes
   de: Sulawesinachtschwalbe
-  pt: sulawesi nightjar
+  pt: ''
   ru: Сулавесский козодой
   ja: スラウェシヨタカ
   zh: 苏拉夜鹰

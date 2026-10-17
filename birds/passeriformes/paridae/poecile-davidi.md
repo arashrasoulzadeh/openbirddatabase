@@ -12,7 +12,7 @@ names:
   es: Carbonero de David
   fr: Mésange de David
   de: Davidmeise
-  pt: pere david's tit
+  pt: ''
   ru: Рыжегрудая гаичка
   ja: アカハラガラ
   zh: 红腹山雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22231.0
 names:
   scientific: Melaniparus leucomelas
-  fa: nan
+  fa: ''
   en: White-winged Black Tit
   es: Carbonero Aliblanco
   fr: Mésange à épaulettes
@@ -15,7 +15,7 @@ names:
   pt: white-winged black-tit
   ru: Белокрылая синица
   ja: ハジロクロガラ
-  zh: White-winged Black Tit
+  zh: ''
   nl: Rüppellmees
   pl: sikora białoskrzydła
   tr: Ak Kanatlı Kömürcü Baştankara

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26328.0
 names:
   scientific: Malacocincla sepiaria
-  fa: nan
+  fa: ''
   en: Horsfield's Babbler
   es: Tordina de Horsfield
   fr: Akalat de Horsfield
   de: Horsfieldmausdrossling
-  pt: horsfield's babbler
+  pt: ''
   ru: Малайский шелкопёр
   ja: ズグロムジチメドリ
   zh: 霍氏雅鶥

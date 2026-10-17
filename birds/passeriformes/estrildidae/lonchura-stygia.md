@@ -15,7 +15,7 @@ names:
   pt: black munia
   ru: Чёрная муния
   ja: クロキンパラ
-  zh: Black Mannikin
+  zh: ''
   nl: Zwarte rietvink
   pl: mniszka czarna
   tr: Kara Munya

@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorjipardo Norteño
   fr: Tisserin à gorge noire
   de: Riedweber
-  pt: northern brown-throated weaver
+  pt: ''
   ru: Камышовый ткач
   ja: キタチャノドハタオリ
   nl: Rietwever

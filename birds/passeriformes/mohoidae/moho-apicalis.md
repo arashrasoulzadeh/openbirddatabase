@@ -12,7 +12,7 @@ names:
   es: Oo de Oahu
   fr: Moho d'Oahu
   de: Krausschwanzmoho
-  pt: oahu oo
+  pt: ''
   ru: Пестрохвостый мохо
   ja: ワキフサミツスイ
   zh: 歐胡吸蜜鳥

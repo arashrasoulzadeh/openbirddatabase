@@ -15,7 +15,7 @@ names:
   pt: blue-headed racquet-tail
   ru: Палаванский ракетохвост
   ja: パラワンウチワインコ
-  zh: Blue-headed Racket-tail
+  zh: ''
   nl: Palawanvlagstaartpapegaai
   pl: listkogonka modrogłowa
   tr: Palavan Raket Kuyruklu Papağanı

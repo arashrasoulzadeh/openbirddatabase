@@ -15,7 +15,7 @@ names:
   pt: red shining-parrot
   ru: Фиджийский попугай-арлекин
   ja: キサキインコ
-  zh: Maroon Shining Parrot
+  zh: ''
   nl: Pompadourparkiet
   pl: fidżyjka kasztanowata
   tr: Şarabi Papağan

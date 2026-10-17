@@ -12,7 +12,7 @@ names:
   es: Cistícola Cabecirrojo
   fr: Cisticole à tête rousse
   de: Rotkopf-Zistensänger
-  pt: red-pate cisticola
+  pt: ''
   ru: Красноголовая цистикола
   ja: ズアカセッカ
   zh: 红头扇尾莺

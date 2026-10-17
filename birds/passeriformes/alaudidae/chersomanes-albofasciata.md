@@ -12,7 +12,7 @@ names:
   es: Alondra Espolada
   fr: Alouette éperonnée
   de: Zirplerche
-  pt: spike-heeled lark
+  pt: ''
   ru: Высоконогий африканский жаворонок
   ja: シロスジハシボソヒバリ
   zh: 釘踝百靈

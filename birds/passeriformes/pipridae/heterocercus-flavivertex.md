@@ -15,7 +15,7 @@ names:
   pt: dançarino-de-crista-amarela
   ru: Златошапочный манакин
   ja: キボウシマルオマイコドリ
-  zh: Yellow-crested Manakin
+  zh: ''
   nl: Geelkruinmanakin
   pl: manakin żółtogłowy
   tr: Sarı Taçlı Manakin

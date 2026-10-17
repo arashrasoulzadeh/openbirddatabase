@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2598.0
 names:
   scientific: Ramphiculus occipitalis
-  fa: nan
+  fa: ''
   en: Yellow-breasted Fruit Dove
   es: Tilopo Occipital
   fr: Ptilope batilde
@@ -15,7 +15,7 @@ names:
   pt: yellow-breasted fruit-dove
   ru: Желтогрудый фруктовый голубь
   ja: ホオアカヒメアオバト
-  zh: Yellow-breasted Fruit Dove
+  zh: ''
   nl: Geelborstjufferduif
   pl: owocożer barwny
   tr: Sarı Göğüslü Meyve Kumrusu

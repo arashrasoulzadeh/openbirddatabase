@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Sombrío
   fr: Eurylaime corydon
   de: Braunbreitrachen
-  pt: dusky broadbill
+  pt: ''
   ru: Бурый рогоклюв
   ja: ガマヒロハシ
   zh: 暗闊嘴鳥

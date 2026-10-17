@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 23742.0
 names:
   scientific: Acrocephalus yamashinae
-  fa: nan
+  fa: ''
   en: Pagan Reed Warbler
   es: Carricero de Isla Pagán
   fr: Rousserolle de Pagan
   de: Paganrohrsänger
-  pt: pagan reed warbler
+  pt: ''
   ru: Паганская камышовка
   ja: パガンヨシキリ
   zh: 帕甘苇莺

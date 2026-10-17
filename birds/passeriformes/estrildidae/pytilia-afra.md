@@ -12,7 +12,7 @@ names:
   es: Estrilda Alinaranja
   fr: Beaumarquet à dos jaune
   de: Wienerastrild
-  pt: orange-winged pytilia
+  pt: ''
   ru: Златокрылый астрильд
   ja: ビジョスズメ
   zh: 橙翅斑腹雀

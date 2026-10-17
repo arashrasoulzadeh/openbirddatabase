@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30410.0
 names:
   scientific: Cinnyris pembae
-  fa: nan
+  fa: ''
   en: Pemba Sunbird
   es: Suimanga de Pemba
   fr: Souimanga de Pemba
   de: Pembanektarvogel
-  pt: pemba sunbird
+  pt: ''
   ru: Пембская нектарница
   ja: ペンバニシキタイヨウチョウ
   nl: Pembahoningzuiger

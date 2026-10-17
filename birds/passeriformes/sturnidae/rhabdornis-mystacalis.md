@@ -15,7 +15,7 @@ names:
   pt: stripe-sided rhabdornis
   ru: Филиппинский пищуховый скворец
   ja: キバシリモドキ
-  zh: Stripe-headed Rhabdornis
+  zh: ''
   nl: Streepkopkruiper
   pl: filipińczyk wąsaty
   tr: Bıyıklı Çizgili Sığırcık

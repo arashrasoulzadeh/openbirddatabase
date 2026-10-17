@@ -12,7 +12,7 @@ names:
   es: Monarca Alimoteado
   fr: Monarque à ailes tachetées
   de: Perlenflügelmonarch
-  pt: spot-winged monarch
+  pt: ''
   ru: Жемчужнокрылый монарх
   ja: シラボシカササギビタキ
   nl: Vlekvleugelmonarch

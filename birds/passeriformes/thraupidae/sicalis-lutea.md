@@ -15,7 +15,7 @@ names:
   pt: puna yellow-finch
   ru: Жёлтый зерноед
   ja: オリーブキンノジコ
-  zh: Puna Yellow Finch
+  zh: ''
   nl: Punasaffraangors
   pl: szafranka żółta
   tr: Puna Kanarya İspinozu

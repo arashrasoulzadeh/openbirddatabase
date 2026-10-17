@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32158.0
 names:
   scientific: Carpodacus grandis
-  fa: nan
+  fa: ''
   en: Blyth's Rosefinch
   es: Camachuelo de Blyth
   fr: Roselin de Blyth
   de: Blythgimpel
-  pt: blyth's rosefinch
+  pt: ''
   ru: Розовая чечевица
   ja: ヒマラヤマシコ
   zh: 喜山红腰朱雀

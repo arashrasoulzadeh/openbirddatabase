@@ -12,7 +12,7 @@ names:
   es: Drongo Escamoso
   fr: Drongo pailleté
   de: Glanzfleckdrongo
-  pt: spangled drongo
+  pt: ''
   ru: Сверкающий дронго
   ja: テリオウチュウ
   zh: 耀輝卷尾

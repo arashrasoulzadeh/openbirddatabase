@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13066.0
 names:
   scientific: Pyrrhura albipectus
-  fa: nan
+  fa: ''
   en: White-breasted Parakeet
   es: Cotorra Cuelliblanca
   fr: Conure à col blanc
@@ -15,7 +15,7 @@ names:
   pt: white-necked parakeet
   ru: Белогрудая которра
   ja: ムナジロウロコインコ
-  zh: White-breasted Parakeet
+  zh: ''
   nl: Witnekparkiet
   pl: rudosterka białoszyja
   tr: Beyaz Göğüslü Papağan

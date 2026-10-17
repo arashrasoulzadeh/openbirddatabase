@@ -12,7 +12,7 @@ names:
   es: Turpial de la Española
   fr: Oriole d'Hispaniola
   de: Hispaniolatrupial
-  pt: hispaniolan oriole
+  pt: ''
   ru: Доминиканский трупиал
   ja: ヒスパニオラムクドリモドキ
   nl: Hispaniolatroepiaal

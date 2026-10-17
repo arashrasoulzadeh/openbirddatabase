@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14051.0
 names:
   scientific: Akletos goeldii
-  fa: nan
+  fa: ''
   en: Goeldi's Antbird
   es: Hormiguero de Goeldi
   fr: Alapi de Goeldi

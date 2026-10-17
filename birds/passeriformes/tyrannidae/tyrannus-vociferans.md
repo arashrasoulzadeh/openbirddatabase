@@ -12,7 +12,7 @@ names:
   es: Tirano Gritón
   fr: Tyran de Cassin
   de: Cassinkönigstyrann
-  pt: cassin's kingbird
+  pt: ''
   ru: Серогрудый тиранн
   ja: ハシボソタイランチョウ
   nl: Cassinkoningstiran

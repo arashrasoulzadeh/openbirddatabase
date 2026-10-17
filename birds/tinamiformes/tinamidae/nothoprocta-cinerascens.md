@@ -12,7 +12,7 @@ names:
   es: Tinamú Montaraz
   fr: Tinamou sauvageon
   de: Cordobatinamu
-  pt: brushland tinamou
+  pt: ''
   ru: Пампасный тинаму
   ja: アレチシギダチョウ
   zh: 灰斑䳍

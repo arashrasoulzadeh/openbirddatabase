@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27964.0
 names:
   scientific: Lamprotornis regius
-  fa: nan
+  fa: ''
   en: Golden-breasted Starling
   es: Estornino Pechidorado
   fr: Choucador royal
   de: Königsglanzstar
-  pt: golden-breasted starling
+  pt: ''
   ru: Королевский спрео
   ja: キンムネオナガテリムク
   zh: 金胸麗椋鳥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19848.0
 names:
   scientific: Platysteira chalybea
-  fa: nan
+  fa: ''
   en: Black-necked Wattle-eye
   es: Batis Carunculado Cuellinegro
   fr: Pririt chalybé
   de: Schwarznacken-Lappenschnäpper
-  pt: black-necked wattle-eye
+  pt: ''
   ru: Черношейная серёжкоглазка
   ja: クロエリメガネヒタキ
   nl: Reichenowlelvliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Cascanueces del Himalaya
   fr: Cassenoix du Cachemire
   de: Himalajahäher
-  pt: kashmir nutcracker
+  pt: ''
   ru: Кашмирская кедровка
   ja: カシミールホシガラス
   zh: 大斑星鸦

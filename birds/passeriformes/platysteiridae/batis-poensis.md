@@ -15,7 +15,7 @@ names:
   pt: bioko batis
   ru: Пестроспинный батис
   ja: フェルナンドポーセワタビタキ
-  zh: Fernando Po Batis
+  zh: ''
   nl: Biokovliegenvanger
   pl: krępnik plamisty
   tr: Fernando Po Batisi

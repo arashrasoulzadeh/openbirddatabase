@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2991.0
 names:
   scientific: Menelikornis ruspolii
-  fa: nan
+  fa: ''
   en: Ruspoli's Turaco
   es: Turaco de Ruspoli
   fr: Touraco de Ruspoli
@@ -15,7 +15,7 @@ names:
   pt: prince ruspoli's turaco
   ru: Эфиопский турако
   ja: シラガエボシドリ
-  zh: Ruspoli's Turaco
+  zh: ''
   nl: Ruspolitoerako
   pl: turak etiopski
   tr: Ruspoli Turakosu

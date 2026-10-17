@@ -12,7 +12,7 @@ names:
   es: Capuchino Coroniblanco
   fr: Capucin marron
   de: Weißkappennonne
-  pt: white-capped munia
+  pt: ''
   ru: Каштановая муния
   ja: シロボウシキンパラ
   zh: 白頂文鳥

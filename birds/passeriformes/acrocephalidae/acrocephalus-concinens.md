@@ -12,7 +12,7 @@ names:
   es: Carricero de Swinhoe
   fr: Rousserolle de Swinhoe
   de: Strauchrohrsänger
-  pt: blunt-winged warbler
+  pt: ''
   ru: Кустарниковая камышовка
   ja: コバネヨシキリ
   zh: 钝翅苇莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22269.0
 names:
   scientific: Auriparus flaviceps
-  fa: nan
+  fa: ''
   en: Verdin
   es: Pájaro Moscón Baloncito
   fr: Auripare verdin
   de: Goldkopf-Beutelmeise
-  pt: verdin
+  pt: ''
   ru: Американский ремез
   ja: アメリカツリスガラ
   nl: Geelkopmees

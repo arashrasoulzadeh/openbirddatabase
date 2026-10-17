@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14427.0
 names:
   scientific: Scytalopus sanctaemartae
-  fa: nan
+  fa: ''
   en: Santa Marta Tapaculo
   es: Churrín de Santa Marta
   fr: Mérulaxe de Santa Marta
   de: Santa-Marta-Tapaculo
-  pt: santa marta tapaculo
+  pt: ''
   ru: Сантамартийский тапакуло
   ja: サンタマルタオタテドリ
   nl: Santa-Martatapaculo

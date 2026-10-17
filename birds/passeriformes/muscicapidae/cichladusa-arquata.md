@@ -15,7 +15,7 @@ names:
   pt: collared palm-thrush
   ru: Ожереловая пальмара
   ja: アサナキヒタキ
-  zh: Collared Palm Thrush
+  zh: ''
   nl: Zambezipalmlijster
   pl: palmodrozd tarczowy
   tr: Kolyeli Palmiye Palmiye Ardıcı

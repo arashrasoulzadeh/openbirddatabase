@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12724.0
 names:
   scientific: Loriculus aurantiifrons
-  fa: nan
+  fa: ''
   en: Orange-fronted Hanging Parrot
   es: Lorículo Papú
   fr: Coryllis à front orange
@@ -15,7 +15,7 @@ names:
   pt: papuan hanging-parrot
   ru: Золотолобый лорикулюс
   ja: ノドアカサトウチョウ
-  zh: Orange-fronted Hanging Parrot
+  zh: ''
   nl: Schlegelvleermuisparkiet
   pl: zwisogłówka złotoczelna
   tr: Papua Cennet Papağanı

@@ -15,7 +15,7 @@ names:
   pt: wallace's scops-owl
   ru: Лающая совка
   ja: フロレスオオコノハズク
-  zh: Wallace's Scops Owl
+  zh: ''
   nl: Wallacedwergooruil
   pl: syczek płowy
   tr: Vallas İshakkuşu

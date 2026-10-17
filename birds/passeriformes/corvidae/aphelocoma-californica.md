@@ -15,7 +15,7 @@ names:
   pt: california scrub-jay
   ru: Калифорнийская сойка
   ja: カリフォルニアカケス
-  zh: California Scrub Jay
+  zh: ''
   nl: Westelijke struikgaai
   pl: modrowronka kalifornijska
   tr: Kaliforniya Çalı Kargası

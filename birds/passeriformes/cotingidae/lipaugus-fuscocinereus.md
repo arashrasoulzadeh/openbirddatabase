@@ -12,7 +12,7 @@ names:
   es: Guardabosques Oscuro
   fr: Piauhau sombre
   de: Graukotinga
-  pt: dusky piha
+  pt: ''
   ru: Тёмная пиха
   ja: オオムジカザリドリ
   nl: Grauwe piha

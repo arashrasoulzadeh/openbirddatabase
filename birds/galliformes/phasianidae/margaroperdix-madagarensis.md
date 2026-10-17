@@ -12,7 +12,7 @@ names:
   es: Perdiz Malgache
   fr: Caille de Madagascar
   de: Perlwachtel
-  pt: madagascar partridge
+  pt: ''
   ru: Жемчужная куропатка
   ja: マダガスカルシャコ
   zh: 马岛鹑属

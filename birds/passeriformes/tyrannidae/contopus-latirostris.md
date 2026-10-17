@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16935.0
 names:
   scientific: Contopus latirostris
-  fa: nan
+  fa: ''
   en: Lesser Antillean Pewee
   es: Pibí Puertorriqueño
   fr: Moucherolle gobemouche
   de: Kleinantillen-Schnäppertyrann
-  pt: lesser antillean pewee
+  pt: ''
   ru: Антильский пиви
   ja: ショウアンチルヒタキモドキ
   nl: Roestbuikpiewie

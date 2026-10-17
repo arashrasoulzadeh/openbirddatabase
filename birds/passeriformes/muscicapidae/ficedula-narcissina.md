@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29500.0
 names:
   scientific: Ficedula narcissina
-  fa: nan
+  fa: ''
   en: Narcissus Flycatcher
   es: Papamoscas Narciso
   fr: Gobemouche narcisse
   de: Narzissenschnäpper
-  pt: narcissus flycatcher
+  pt: ''
   ru: Японская желтоспинная мухоловка
   ja: キビタキ
   zh: 黄眉姬鹟

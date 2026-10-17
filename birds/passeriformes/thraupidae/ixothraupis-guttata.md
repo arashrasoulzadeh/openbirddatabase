@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34966.0
 names:
   scientific: Ixothraupis guttata
-  fa: nan
+  fa: ''
   en: Speckled Tanager
   es: Tangara Pintoja
   fr: Calliste tiqueté

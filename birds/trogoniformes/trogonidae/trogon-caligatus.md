@@ -15,7 +15,7 @@ names:
   pt: gartered violaceous trogon
   ru: Желтобрюхий трогон
   ja: ガーターキヌバネドリ
-  zh: Gartered Trogon
+  zh: ''
   nl: Gouldtrogon
   pl: trogon wyżynny
   tr: Mor Trogon

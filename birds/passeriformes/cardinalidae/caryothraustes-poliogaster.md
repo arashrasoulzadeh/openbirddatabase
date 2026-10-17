@@ -12,7 +12,7 @@ names:
   es: Picogrueso Carinegro
   fr: Cardinal à ventre blanc
   de: Graubauchkardinal
-  pt: black-faced grosbeak
+  pt: ''
   ru: Масковый толстонос
   ja: シロハラキミドリイカル
   nl: Grijsbuikkardinaal

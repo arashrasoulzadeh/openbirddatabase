@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28221.0
 names:
   scientific: Zoothera major
-  fa: nan
+  fa: ''
   en: Amami Thrush
   es: Zorzal de las Amami
   fr: Grive d'Amami
   de: Ryūkyū-Erddrossel
-  pt: amami thrush
+  pt: ''
   ru: Амамийский дрозд
   ja: オオトラツグミ
   zh: 奄美鶇

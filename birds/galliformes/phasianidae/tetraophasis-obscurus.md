@@ -12,7 +12,7 @@ names:
   es: Perdiz Faisán Gorjioscura
   fr: Tétraophase de Verreaux
   de: Braunkehl-Keilschwanzhuhn
-  pt: chestnut-throated monal-partridge
+  pt: ''
   ru: Тёмный кундык
   ja: キジシャコ
   zh: 红喉雉鹑

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16964.0
 names:
   scientific: Empidonax hammondii
-  fa: nan
+  fa: ''
   en: Hammond's Flycatcher
   es: Mosquero de Hammond
   fr: Moucherolle de Hammond
   de: Tannenschnäppertyrann
-  pt: hammond's flycatcher
+  pt: ''
   ru: Еловый мухолов
   ja: ハモンドメジロハエトリ
   zh: 哈氏紋霸鶲

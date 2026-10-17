@@ -12,7 +12,7 @@ names:
   es: Gallineta Filipina
   fr: Râle des Philippines
   de: Philippinenkielralle
-  pt: plain bush-hen
+  pt: ''
   ru: Филиппинский карео
   ja: バンクイナ
   nl: Olijfbruin waterhoen

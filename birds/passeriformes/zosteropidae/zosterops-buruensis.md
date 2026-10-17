@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25757.0
 names:
   scientific: Zosterops buruensis
-  fa: nan
+  fa: ''
   en: Buru White-eye
   es: Anteojitos de Buru
   fr: Zostérops de Buru
   de: Burubrillenvogel
-  pt: buru white-eye
+  pt: ''
   ru: Буруанская белоглазка
   ja: ブルメジロ
   nl: Burubrilvogel

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26143.0
 names:
   scientific: Turdinus macrodactylus
-  fa: nan
+  fa: ''
   en: Large Wren-Babbler
   es: Ratina Grande
   fr: Grande Turdinule
   de: Graubauchdrossling
-  pt: large wren-babbler
+  pt: ''
   ru: Серобрюхая подкоренница
   ja: オオサザイチメドリ
   zh: 大鹪鹛

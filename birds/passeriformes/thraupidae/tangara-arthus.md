@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35115.0
 names:
   scientific: Tangara arthus
-  fa: nan
+  fa: ''
   en: Golden Tanager
   es: Tangara Dorada
   fr: Calliste doré
   de: Goldtangare
-  pt: golden tanager
+  pt: ''
   ru: Золотая танагра
   ja: キンイロフウキンチョウ
   zh: 金靓唐纳雀

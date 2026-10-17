@@ -15,7 +15,7 @@ names:
   pt: black rosy-finch
   ru: Чёрный вьюрок
   ja: クロハギマシコ
-  zh: Black Rosy Finch
+  zh: ''
   nl: Zwarte bergvink
   pl: góralka ciemna
   tr: Kara Alamecek

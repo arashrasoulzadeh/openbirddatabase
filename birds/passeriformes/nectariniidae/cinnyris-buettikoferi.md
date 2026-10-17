@@ -12,7 +12,7 @@ names:
   es: Suimanga de Sumba
   fr: Souimanga de Sumba
   de: Sumbanektarvogel
-  pt: apricot-breasted sunbird
+  pt: ''
   ru: Сумбанская нектарница
   ja: スンバタイヨウチョウ
   nl: Soembahoningzuiger

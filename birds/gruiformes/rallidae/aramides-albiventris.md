@@ -15,7 +15,7 @@ names:
   pt: russet-naped wood-rail
   ru: Рыжешейный саракура
   ja: シロハラモリクイナ
-  zh: Russet-naped Wood Rail
+  zh: ''
   nl: Witbuikbosral
   pl: chruścielak białobrzuchy
   tr: Kızıl Enseli Orman Kılavuzu

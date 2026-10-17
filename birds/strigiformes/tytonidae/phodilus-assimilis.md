@@ -15,7 +15,7 @@ names:
   pt: sri lanka bay-owl
   ru: Цейлонская масковая сипуха
   ja: スリランカメンフクロウ
-  zh: Sri Lanka Bay Owl
+  zh: ''
   nl: Ceylonese bruine uil
   pl: puchówka cejlońska
   tr: Seylan Maskeli Baykuşu

@@ -15,7 +15,7 @@ names:
   pt: grande comore flycatcher
   ru: Желтоклювая мухоловка
   ja: コモロヒタキ
-  zh: Humblot's Flycatcher
+  zh: ''
   nl: Humblotvliegenvanger
   pl: komorówka
   tr: Büyük Komor Sinekkapanı

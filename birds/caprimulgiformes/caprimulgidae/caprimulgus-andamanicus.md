@@ -12,7 +12,7 @@ names:
   es: Chotacabras de las Andamán
   fr: Engoulevent des Andaman
   de: Andamanennachtschwalbe
-  pt: andaman nightjar
+  pt: ''
   ru: Андаманский козодой
   ja: アンダマンヨタカ
   nl: Andamanennachtzwaluw

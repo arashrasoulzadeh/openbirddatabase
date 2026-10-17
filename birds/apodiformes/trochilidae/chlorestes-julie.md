@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5205.0
 names:
   scientific: Chlorestes julie
-  fa: nan
+  fa: ''
   en: Violet-bellied Hummingbird
   es: Colibrí de Julia
   fr: Colibri de Julie
   de: Juliakolibri
-  pt: violet-bellied hummingbird
+  pt: ''
   ru: Фиолетовобрюхий колибри
   ja: スミレハラハチドリ
   zh: 紫腹蜂鸟

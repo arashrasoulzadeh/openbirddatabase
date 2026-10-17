@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 2656.0
 names:
   scientific: Ptilinopus speciosus
-  fa: nan
+  fa: ''
   en: Geelvink Fruit Dove
   es: Tilopo de Geelvink
   fr: Ptilope de Geelvink
   de: Biakfruchttaube
   pt: geelvink fruit-dove
-  zh: Geelvink Fruit Dove
+  zh: ''
   nl: Geelvinkjufferduif
   pl: owocożer dwuwstęgowy
   tr: Geelvink Meyve Kumrusu

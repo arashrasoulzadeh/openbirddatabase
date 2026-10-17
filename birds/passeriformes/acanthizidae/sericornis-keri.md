@@ -12,7 +12,7 @@ names:
   es: Sedosito del Atherton
   fr: Séricorne de l'Atherton
   de: Rotstirnsericornis
-  pt: atherton scrubwren
+  pt: ''
   ru: Рыжелобая кустовка
   ja: メグロヤブムシクイ
   nl: Athertonstruiksluiper

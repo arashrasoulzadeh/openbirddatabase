@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16072.0
 names:
   scientific: Pachyramphus surinamus
-  fa: nan
+  fa: ''
   en: Glossy-backed Becard
   es: Anambé de Surinam
   fr: Bécarde du Suriname

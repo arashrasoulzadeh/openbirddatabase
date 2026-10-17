@@ -12,7 +12,7 @@ names:
   es: Pradero Chihuahuense
   fr: Sturnelle de Lilian
   de: Chihuahuastärling
-  pt: chihuahuan meadowlark
+  pt: ''
   nl: Chihuahuaweidespreeuw
   pl: wojak białosterny
   tr: Çihuahua Tarlasığırcığı

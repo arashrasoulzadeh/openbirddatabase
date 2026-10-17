@@ -12,7 +12,7 @@ names:
   es: Abanico de Célebes
   fr: Rhipidure des Célèbes
   de: Sulawesifächerschwanz
-  pt: sulawesi fantail
+  pt: ''
   ru: Сулавесская веерохвостка
   ja: セレベスオウギビタキ
   nl: Sulawesiwaaierstaart

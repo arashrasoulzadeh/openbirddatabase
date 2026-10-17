@@ -12,7 +12,7 @@ names:
   es: Tordo Boliviano
   fr: Carouge de Bolivie
   de: Bolivienstärling
-  pt: bolivian blackbird
+  pt: ''
   ru: Боливийский курен
   ja: ボリビアクロムクドリモドキ
   nl: Andestroepiaal

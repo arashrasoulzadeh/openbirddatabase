@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 7388.0
 names:
   scientific: Poikilocarbo gaimardi
-  fa: nan
+  fa: ''
   en: Red-legged Cormorant
   es: Cormorán Chuita
   fr: Cormoran de Gaimard
   de: Buntscharbe
-  pt: red-legged cormorant
+  pt: ''
   ru: Красноногий баклан
   ja: サカツラウ
   nl: Roodpootaalscholver

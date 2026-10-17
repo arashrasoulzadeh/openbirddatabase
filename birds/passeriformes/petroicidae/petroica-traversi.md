@@ -12,7 +12,7 @@ names:
   es: Petroica de las Chatham
   fr: Miro des Chatham
   de: Chathamschnäpper
-  pt: black robin
+  pt: ''
   ru: Чатемская петроика
   ja: チャタムヒタキ
   zh: 查岛鸲鹟

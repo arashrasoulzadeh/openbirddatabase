@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4614.0
 names:
   scientific: Coeligena coeligena
-  fa: nan
+  fa: ''
   en: Bronzy Inca
   es: Inca Bronceado
   fr: Inca céleste
   de: Bronzekolibri
-  pt: bronzy inca
+  pt: ''
   ru: Бронзовый инка
   ja: ブロンズインカハチドリ
   zh: 铜色星额蜂鸟

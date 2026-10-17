@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28919.0
 names:
   scientific: Melaenornis edolioides
-  fa: nan
+  fa: ''
   en: Northern Black Flycatcher
   es: Papamoscas Drongo
   fr: Gobemouche drongo
@@ -15,7 +15,7 @@ names:
   pt: northern black-flycatcher
   ru: Чёрная мухоловка
   ja: クロヒタキ
-  zh: Northern Black Flycatcher
+  zh: ''
   nl: Senegalese drongovliegenvanger
   pl: mucharka czarna
   tr: Kuzeyli Drongo Sinekkapanı

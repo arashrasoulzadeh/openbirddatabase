@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12654.0
 names:
   scientific: Trichoglossus semilarvatus
-  fa: nan
+  fa: ''
   en: Blue-eared Lory
   es: Lori de Ceram
   fr: Loriquet masqué
   de: Halbmaskenlori
-  pt: blue-eared lory
+  pt: ''
   ru: Синеухий лори
   ja: ホオアオインコ
   nl: Blauwoorlori

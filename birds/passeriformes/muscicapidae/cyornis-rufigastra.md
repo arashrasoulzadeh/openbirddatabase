@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Manglar
   fr: Gobemouche des mangroves
   de: Mangroveblauschnäpper
-  pt: mangrove blue flycatcher
+  pt: ''
   ru: Мангровая нильтава
   ja: マングローブヒメアオヒタキ
   zh: 紅樹仙鶲

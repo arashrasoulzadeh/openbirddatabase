@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27932.0
 names:
   scientific: Grafisia torquata
-  fa: nan
+  fa: ''
   en: White-collared Starling
   es: Estornino Acollarado
   fr: Choucador à cou blanc
   de: Ringstar
-  pt: white-collared starling
+  pt: ''
   ru: Белогрудый скворец
   ja: ムナジロテリムク
   nl: Witkraagspreeuw

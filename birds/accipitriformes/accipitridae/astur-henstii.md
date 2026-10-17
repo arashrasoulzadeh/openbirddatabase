@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8303.0
 names:
   scientific: Astur henstii
-  fa: nan
+  fa: ''
   en: Henst's Goshawk
   es: Azor Malgache
   fr: Autour de Henst
   de: Madagaskarhabicht
-  pt: henst's goshawk
+  pt: ''
   ru: Мадагаскарский тетеревятник
   ja: マダガスカルオオタカ
   zh: 亨斯特氏鷹

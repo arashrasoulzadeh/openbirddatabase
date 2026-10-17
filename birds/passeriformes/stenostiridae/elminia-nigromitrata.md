@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21914.0
 names:
   scientific: Elminia nigromitrata
-  fa: nan
+  fa: ''
   en: Dusky Crested Flycatcher
   es: Elminia Cabecinegra
   fr: Elminie à tête noire
   de: Schwarzkopf-Haubenschnäpper
-  pt: dusky crested flycatcher
+  pt: ''
   ru: Чернохохлая эльминия
   ja: クロカンムリヒタキ
   nl: Donkere kuifvliegenvanger

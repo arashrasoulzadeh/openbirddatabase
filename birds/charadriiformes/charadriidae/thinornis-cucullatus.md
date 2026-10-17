@@ -12,7 +12,7 @@ names:
   es: Chorlito Encapuchado
   fr: Pluvier à camail
   de: Kappenregenpfeifer
-  pt: hooded plover
+  pt: ''
   ru: Австралийский зуёк
   ja: ズグロチドリ
   nl: Zwartkopplevier

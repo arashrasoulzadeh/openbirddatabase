@@ -12,7 +12,7 @@ names:
   es: Ánade Filipino
   fr: Canard des Philippines
   de: Philippinenente
-  pt: philippine duck
+  pt: ''
   ru: Филиппинская кряква
   ja: アカノドカルガモ
   zh: 棕颈鸭

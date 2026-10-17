@@ -12,7 +12,7 @@ names:
   es: Lori Embridado
   fr: Loriquet harnaché
   de: Gelbbrustlori
-  pt: marigold lorikeet
+  pt: ''
   ru: Синеллицый дорикет
   ja: チモールセイガイインコ
   nl: Geelhalslori

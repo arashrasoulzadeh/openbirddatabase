@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30463.0
 names:
   scientific: Cinnyris infrenatus
-  fa: nan
+  fa: ''
   en: Tukangbesi Sunbird
   es: Suimanga de las Tukangbesi
   fr: Souimanga des Tukangbesi
   de: Wakatobi-Nektarvogel
-  pt: tukangbesi sunbird
+  pt: ''
   nl: Toekangbesihoningzuiger
   pl: nektarnik wyspowy
   tr: Tukangbesi Nektarkuşu

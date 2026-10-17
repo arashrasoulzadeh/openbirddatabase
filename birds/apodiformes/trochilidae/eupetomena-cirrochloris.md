@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5038.0
 names:
   scientific: Eupetomena cirrochloris
-  fa: nan
+  fa: ''
   en: Sombre Hummingbird
   es: Colibrí Apagado
   fr: Colibri vert et gris

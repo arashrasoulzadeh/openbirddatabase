@@ -12,7 +12,7 @@ names:
   es: Churrín Negruzco
   fr: Mérulaxe noirâtre
   de: Schwarztapaculo
-  pt: blackish tapaculo
+  pt: ''
   ru: Чёрный тапакуло
   ja: クロミオタテドリ
   nl: Zwarte tapaculo

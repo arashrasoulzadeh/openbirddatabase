@@ -12,7 +12,7 @@ names:
   es: Rascón de Hawkins
   fr: Râle de Hawkins
   de: Hawkinsralle
-  pt: hawkins's rail
+  pt: ''
   ru: Чатемский погоныш
   zh: 大查岛秧鸡
   nl: Hawkinsral

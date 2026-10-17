@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14920.0
 names:
   scientific: Drymornis bridgesii
-  fa: nan
+  fa: ''
   en: Scimitar-billed Woodcreeper
   es: Trepatroncos Chinchero
   fr: Grimpar porte-sabre

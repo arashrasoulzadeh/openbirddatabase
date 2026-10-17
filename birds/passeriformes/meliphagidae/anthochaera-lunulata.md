@@ -12,7 +12,7 @@ names:
   es: Mielero Lunulado
   fr: Méliphage mineur
   de: Zwerghonigfresser
-  pt: western wattlebird
+  pt: ''
   ru: Темнозобый серёжкоух
   ja: ギンホオミツスイ
   nl: Westelijke lelhoningeter

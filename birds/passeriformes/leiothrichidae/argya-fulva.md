@@ -15,7 +15,7 @@ names:
   pt: zaragateiro-fulvo
   ru: Сахарская дроздовка
   ja: スナイロヤブチメドリ
-  zh: Fulvous Babbler
+  zh: ''
   nl: Bruingele babbelaar
   pl: tymal saharyjski
   tr: Kızılca Yedikardeş

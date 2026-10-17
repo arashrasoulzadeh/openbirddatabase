@@ -12,7 +12,7 @@ names:
   es: Pingüino de Sclater
   fr: Gorfou huppé
   de: Sclaterpinguin
-  pt: erect-crested penguin
+  pt: ''
   ru: Большехохлый пингвин
   ja: マユダチペンギン
   zh: 豎冠企鵝

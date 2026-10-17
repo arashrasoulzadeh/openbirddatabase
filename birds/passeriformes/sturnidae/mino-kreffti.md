@@ -12,7 +12,7 @@ names:
   es: Miná de las Bismarck
   fr: Mino de Krefft
   de: Bismarckatzel
-  pt: long-tailed myna
+  pt: ''
   ru: Длиннохвостый мино
   ja: オナガムクドリ
   nl: Bismarckmaina

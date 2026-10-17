@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28253.0
 names:
   scientific: Catharus gracilirostris
-  fa: nan
+  fa: ''
   en: Black-billed Nightingale-Thrush
   es: Zorzalito Piquinegro
   fr: Grive à bec noir
   de: Graukehl-Musendrossel
-  pt: black-billed nightingale-thrush
+  pt: ''
   ru: Сероголовый соловьиный дрозд
   ja: ハシグロチャツグミ
   zh: 黑嘴夜鶇

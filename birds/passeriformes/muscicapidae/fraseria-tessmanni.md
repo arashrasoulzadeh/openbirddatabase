@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28906.0
 names:
   scientific: Fraseria tessmanni
-  fa: nan
+  fa: ''
   en: Tessmann's Flycatcher
   es: Papamoscas de Tessmann
   fr: Gobemouche de Tessmann
   de: Tessmannschnäpper
-  pt: tessmann's flycatcher
+  pt: ''
   ru: Камерунская мухоловка
   ja: オオススイロヒタキ
   nl: Tessmannvliegenvanger

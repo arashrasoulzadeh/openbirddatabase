@@ -12,7 +12,7 @@ names:
   es: Pico Crestipardo
   fr: Pic à calotte brune
   de: Indienspecht
-  pt: brown-capped pygmy woodpecker
+  pt: ''
   ru: Бурошапочный острокрылый дятел
   ja: チャガシラコゲラ
   nl: Indiase specht

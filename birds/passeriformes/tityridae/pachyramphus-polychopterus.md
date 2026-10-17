@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16048.0
 names:
   scientific: Pachyramphus polychopterus
-  fa: nan
+  fa: ''
   en: White-winged Becard
   es: Anambé Aliblanco
   fr: Bécarde à ailes blanches

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12803.0
 names:
   scientific: Touit stictopterus
-  fa: nan
+  fa: ''
   en: Spot-winged Parrotlet
   es: Cotorrita Alipinta
   fr: Toui tacheté
   de: Tüpfelpapagei
-  pt: spot-winged parrotlet
+  pt: ''
   ru: Пестрокрылый туети
   ja: ハマダラインコ
   zh: 斑翅鹦哥

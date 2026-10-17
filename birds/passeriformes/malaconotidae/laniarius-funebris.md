@@ -12,7 +12,7 @@ names:
   es: Bubú Fúnebre
   fr: Gonolek ardoisé
   de: Schieferwürger
-  pt: slate-colored boubou
+  pt: ''
   ru: Траурный бубу
   ja: スレートナキヤブモズ
   nl: Leikleurige fiskaal

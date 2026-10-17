@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3843.0
 names:
   scientific: Streptoprocne zonaris
-  fa: nan
+  fa: ''
   en: White-collared Swift
   es: Vencejo Acollarado
   fr: Martinet à collier blanc

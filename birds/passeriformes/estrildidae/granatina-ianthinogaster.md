@@ -12,7 +12,7 @@ names:
   es: Granadero Oriental
   fr: Cordonbleu violacé
   de: Veilchenastrild
-  pt: purple grenadier
+  pt: ''
   ru: Фиалковый астрильд
   ja: ムラサキトキワスズメ
   zh: 紫蓝饰雀

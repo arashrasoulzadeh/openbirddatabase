@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32130.0
 names:
   scientific: Akialoa obscura
-  fa: nan
+  fa: ''
   en: Lesser Akialoa
   es: Akialoa de Hawái
   fr: Akialoa d'Hawaï
   de: Hawaii-Akialoakleidervogel
-  pt: lesser akialoa
+  pt: ''
   ru: Малая акиалоа
   ja: ユミハシハワイミツスイ
   zh: 長嘴導顎雀

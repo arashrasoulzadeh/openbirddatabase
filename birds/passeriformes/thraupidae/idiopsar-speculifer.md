@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35372.0
 names:
   scientific: Idiopsar speculifer
-  fa: nan
+  fa: ''
   en: Glacier Finch
   es: Diuca Aliblanca
   fr: Idiopsar leucoptère
   de: Spiegelammertangare
-  pt: glacier finch
+  pt: ''
   ru: Белокрылая диука
   ja: ハジロジュウカチョウ
   nl: Gletsjergors

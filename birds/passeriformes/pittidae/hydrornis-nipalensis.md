@@ -12,7 +12,7 @@ names:
   es: Pita Nuquiazul
   fr: Brève à nuque bleue
   de: Blaunackenpitta
-  pt: blue-naped pitta
+  pt: ''
   ru: Непальская питта
   ja: アオエリヤイロチョウ
   zh: 蓝枕八色鸫

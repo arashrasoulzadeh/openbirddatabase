@@ -12,7 +12,7 @@ names:
   es: Estornino Somalí
   fr: Rufipenne de Blyth
   de: Somalistar
-  pt: somali starling
+  pt: ''
   ru: Сомалийский скворец
   ja: ソマリーテリムク
   nl: Somalische spreeuw

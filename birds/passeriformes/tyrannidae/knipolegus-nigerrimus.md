@@ -15,7 +15,7 @@ names:
   pt: maria-preta-de-garganta-vermelha
   ru: Рыжегорлая вдовка
   ja: ビロードクロタイランチョウ
-  zh: Velvety Black Tyrant
+  zh: ''
   nl: Fluweelmoortiran
   pl: wdowik czarny
   tr: Kadife Esmer Tiran

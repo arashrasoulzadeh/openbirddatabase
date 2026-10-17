@@ -12,7 +12,7 @@ names:
   es: Vireo Jamaicano
   fr: Viréo de Jamaïque
   de: Jamaikavireo
-  pt: jamaican vireo
+  pt: ''
   ru: Ямайский виреон
   ja: ジャマイカモズモドキ
   nl: Jamaicaanse vireo

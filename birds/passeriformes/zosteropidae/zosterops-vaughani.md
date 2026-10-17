@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25713.0
 names:
   scientific: Zosterops vaughani
-  fa: nan
+  fa: ''
   en: Pemba White-eye
   es: Anteojitos de Pemba
   fr: Zostérops de Pemba
   de: Pembabrillenvogel
-  pt: pemba white-eye
+  pt: ''
   ru: Пембанская белоглазка
   ja: ペンバメジロ
   zh: 奔巴繡眼

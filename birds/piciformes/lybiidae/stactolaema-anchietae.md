@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10579.0
 names:
   scientific: Stactolaema anchietae
-  fa: nan
+  fa: ''
   en: Anchieta's Barbet
   es: Barbudo de Anchieta
   fr: Barbican à tête jaune
   de: Strohkopf-Bartvogel
-  pt: anchieta's barbet
+  pt: ''
   ru: Желтолицая либия
   ja: キガシラゴシキドリ
   nl: Geelkopbaardvogel

@@ -12,7 +12,7 @@ names:
   es: Eufonia Verdosa
   fr: Organiste mordoré
   de: Grünscheitelorganist
-  pt: bronze-green euphonia
+  pt: ''
   ru: Зелёная эуфония
   ja: ブロンズフウキンチョウ
   nl: Groenkruinorganist

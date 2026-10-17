@@ -12,7 +12,7 @@ names:
   es: Cúa Capirrojo
   fr: Coua à tête rousse
   de: Rostkappen-Seidenkuckuck
-  pt: red-capped coua
+  pt: ''
   ru: Рыжеголовая тивука
   ja: アカボウシジカッコウ
   nl: Roestkopcoua

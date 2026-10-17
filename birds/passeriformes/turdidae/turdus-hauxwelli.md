@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28750.0
 names:
   scientific: Turdus hauxwelli
-  fa: nan
+  fa: ''
   en: Hauxwell's Thrush
   es: Zorzal de Hauxwell
   fr: Merle de Hauxwell

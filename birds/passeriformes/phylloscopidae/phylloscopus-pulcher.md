@@ -12,7 +12,7 @@ names:
   es: Mosquitero Elegante
   fr: Pouillot élégant
   de: Goldbinden-Laubsänger
-  pt: buff-barred warbler
+  pt: ''
   ru: Рыжеполосая зарничка
   ja: チャバネムシクイ
   zh: 橙斑翅柳莺

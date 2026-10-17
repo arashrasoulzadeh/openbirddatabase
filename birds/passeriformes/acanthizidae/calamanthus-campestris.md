@@ -12,7 +12,7 @@ names:
   es: Sedosito Rufo
   fr: Séricorne roussâtre
   de: Rötelhuscher
-  pt: rufous fieldwren
+  pt: ''
   ru: Полевой ложнокрапивник
   ja: ノハラムシクイ
   zh: 褐刺莺

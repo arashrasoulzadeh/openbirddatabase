@@ -12,7 +12,7 @@ names:
   es: Golondrina Pueblera
   fr: Hirondelle à front brun
   de: Höhlenschwalbe
-  pt: cave swallow
+  pt: ''
   ru: Пещерная ласточка
   ja: セスジツバメ
   nl: Holenzwaluw

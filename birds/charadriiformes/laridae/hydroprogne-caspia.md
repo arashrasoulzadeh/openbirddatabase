@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6718.0
 names:
   scientific: Hydroprogne caspia
-  fa: nan
+  fa: ''
   en: Caspian Tern
   es: Pagaza Piquirroja
   fr: Sterne caspienne

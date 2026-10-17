@@ -12,7 +12,7 @@ names:
   es: Chupasavia Nuquirrojo
   fr: Pic à nuque rouge
   de: Rotnacken-Saftlecker
-  pt: red-naped sapsucker
+  pt: ''
   ru: Красногорлый дятел-сокоед
   ja: アカエリシルスイキツツキ
   zh: 紅頸吸汁啄木鳥

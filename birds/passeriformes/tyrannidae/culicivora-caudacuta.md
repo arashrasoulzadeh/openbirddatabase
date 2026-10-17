@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16645.0
 names:
   scientific: Culicivora caudacuta
-  fa: nan
+  fa: ''
   en: Sharp-tailed Grass Tyrant
   es: Tachurí Coludo
   fr: Tyranneau à queue aiguë
@@ -15,7 +15,7 @@ names:
   pt: papa-moscas-do-campo
   ru: Острохвостый тачурито
   ja: ハリオタイランチョウ
-  zh: Sharp-tailed Grass Tyrant
+  zh: ''
   nl: Puntstaarttiran
   pl: trawniczek
   tr: Sivri Kuyruklu Tiran

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1933.0
 names:
   scientific: Aplopelia larvata
-  fa: nan
+  fa: ''
   en: Lemon Dove
   es: Paloma Caripálida
   fr: Pigeon à masque blanc
   de: Zimttaube
-  pt: lemon dove
+  pt: ''
   ru: Коричневый голубь
   ja: レモンバト
   nl: Kaneeltortel

@@ -12,7 +12,7 @@ names:
   es: Calzadito Verdoso Norteño
   fr: Érione d'Aurélie
   de: Kupferglanz-Höschenkolibri
-  pt: greenish puffleg
+  pt: ''
   ru: Сверкающий эрион
   ja: ミドリアシゲハチドリ
   zh: 淡绿蓬腿蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34498.0
 names:
   scientific: Chlorothraupis olivacea
-  fa: nan
+  fa: ''
   en: Lemon-spectacled Tanager
   es: Tangara Olivácea
   fr: Habia à lunettes
   de: Gelbbrauenkardinal
-  pt: lemon-spectacled tanager
+  pt: ''
   ru: Очковая хабия
   ja: メガネオリーブフウキンチョウ
   nl: Geelbriltangare

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25963.0
 names:
   scientific: Cyanoderma rufifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Babbler
   es: Timalí Frentirrufo
   fr: Timalie à front roux
   de: Rotstirn-Buschtimalie
-  pt: rufous-fronted babbler
+  pt: ''
   ru: Краснолобый стахирис
   ja: ノドフズアカチメドリ
   nl: Roestkruinboomtimalia

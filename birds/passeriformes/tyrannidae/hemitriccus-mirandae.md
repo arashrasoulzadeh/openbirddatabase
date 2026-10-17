@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 16379.0
 names:
   scientific: Hemitriccus mirandae
-  fa: nan
+  fa: ''
   en: Buff-breasted Tody-Tyrant
   es: Titirijí de Miranda
   fr: Todirostre de Miranda

@@ -12,7 +12,7 @@ names:
   es: Plañidera Rojiza
   fr: Tyran plaintif
   de: Zimtschmucktyrann
-  pt: rufous mourner
+  pt: ''
   ru: Рыжия тиранн-плакса
   ja: ナゲキタイランチョウ
   nl: Rosse treurtiran

@@ -12,7 +12,7 @@ names:
   es: Melampita Chica
   fr: Petite Mélampitte
   de: Glanzflöter
-  pt: lesser melampitta
+  pt: ''
   ru: Малая мелампитта
   ja: クロチメドリ
   nl: Kleine paradijspitta

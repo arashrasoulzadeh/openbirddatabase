@@ -15,7 +15,7 @@ names:
   pt: socó-jararaca
   ru: Полосатая тигровая выпь
   ja: ズグロトラフサギ
-  zh: Fasciated Tiger Heron
+  zh: ''
   nl: Gestreepte tijgerroerdomp
   pl: tygryska ciemna
   tr: Amerika Kaplan Balıkçılı

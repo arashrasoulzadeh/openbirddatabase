@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22558.0
 names:
   scientific: Corypha africana
-  fa: nan
+  fa: ''
   en: Rufous-naped Lark
   es: Alondra Nuquirrufa
   fr: Alouette à nuque rousse
   de: Kurzhaubenlerche
-  pt: rufous-naped lark
+  pt: ''
   ru: Африканский кустарниковый жаворонок
   ja: チャエリヤブヒバリ
   nl: Roodnekleeuwerik

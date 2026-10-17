@@ -12,7 +12,7 @@ names:
   es: Chara Collareja
   fr: Geai à collier
   de: Schwarzbandhäher
-  pt: black-collared jay
+  pt: ''
   ru: Чернощёкая сойка
   ja: クロエリアオカケス
   zh: 黑领蓝头鹊

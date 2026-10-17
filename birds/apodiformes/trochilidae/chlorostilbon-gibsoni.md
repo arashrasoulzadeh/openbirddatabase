@@ -12,7 +12,7 @@ names:
   es: Esmeralda Piquirroja
   fr: Émeraude de Gibson
   de: Kolumbiensmaragdkolibri
-  pt: red-billed emerald
+  pt: ''
   ru: Красноклювый изумруд
   ja: アカハシヒメエメラルドハチドリ
   zh: 紅喙翠蜂鸟

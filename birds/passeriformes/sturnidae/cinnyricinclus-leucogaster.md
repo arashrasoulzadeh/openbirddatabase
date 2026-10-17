@@ -12,7 +12,7 @@ names:
   es: Estornino Amatista
   fr: Étourneau améthyste
   de: Amethystglanzstar
-  pt: violet-backed starling
+  pt: ''
   ru: Аметистовый скворец
   ja: シロハラムクドリ
   zh: 白腹紫椋鳥

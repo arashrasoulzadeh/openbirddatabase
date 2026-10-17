@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10044.0
 names:
   scientific: Pelargopsis capensis
-  fa: nan
+  fa: ''
   en: Stork-billed Kingfisher
   es: Alción Picocigüeña
   fr: Martin-chasseur gurial
   de: Storchschnabelliest
-  pt: stork-billed kingfisher
+  pt: ''
   ru: Аистоклювый гуриал
   ja: コウハシショウビン
   zh: 鹳嘴翡翠

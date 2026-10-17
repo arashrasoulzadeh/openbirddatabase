@@ -12,7 +12,7 @@ names:
   es: Toco Pardo
   fr: Calao pygmée
   de: Zwergtoko
-  pt: red-billed dwarf hornbill
+  pt: ''
   ru: Малый токо
   ja: アカハシマメサイチョウ
   zh: 侏彎嘴犀鳥

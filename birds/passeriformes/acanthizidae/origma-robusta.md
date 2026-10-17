@@ -7,15 +7,15 @@ iucn_status: LC
 taxon_order: 18291.0
 names:
   scientific: Origma robusta
-  fa: nan
+  fa: ''
   en: Mountain Mouse-warbler
   es: Acantiza Robusta
   fr: Séricorne robuste
   de: Braunbauchhuscher
-  pt: mountain mouse-warbler
+  pt: ''
   ru: Бурая мышевидка
   ja: ヤマネズミムシクイ
-  zh: Mountain Mouse-warbler
+  zh: ''
   nl: Bergstruiksluiper
   pl: paprotek górski
   tr: Boz Farebülbülü

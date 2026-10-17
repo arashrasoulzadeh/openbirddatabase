@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29583.0
 names:
   scientific: Ficedula harterti
-  fa: nan
+  fa: ''
   en: Sumba Flycatcher
   es: Papamoscas de Hartert
   fr: Gobemouche de Hartert
   de: Hartertschnäpper
-  pt: sumba flycatcher
+  pt: ''
   ru: Скромная мухоловка
   ja: スンバヒタキ
   nl: Hartertvliegenvanger

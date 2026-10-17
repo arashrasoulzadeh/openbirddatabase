@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26832.0
 names:
   scientific: Pterorhinus ruficeps
-  fa: nan
+  fa: ''
   en: Rufous-crowned Laughingthrush
   es: Charlatán Coronirrufo
   fr: Garrulaxe à calotte rousse
   de: Rotkappenhäherling
-  pt: rufous-crowned laughingthrush
+  pt: ''
   ru: Рыжешапочная кустарница
   ja: ズアカノドジロガビチョウ
   zh: 台湾白喉噪鹛

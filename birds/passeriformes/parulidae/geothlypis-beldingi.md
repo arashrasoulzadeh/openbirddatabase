@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 34020.0
 names:
   scientific: Geothlypis beldingi
-  fa: nan
+  fa: ''
   en: Belding's Yellowthroat
   es: Mascarita de Belding
   fr: Paruline de Belding
   de: Sumpfgelbkehlchen
-  pt: belding's yellowthroat
+  pt: ''
   ru: Камышовая желтогрудка
   ja: キオビカオグロムシクイ
   nl: Beldingmaskerzanger

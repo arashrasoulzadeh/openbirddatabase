@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4623.0
 names:
   scientific: Coeligena torquata
-  fa: nan
+  fa: ''
   en: Collared Inca
   es: Inca Acollarado
   fr: Inca à collier
   de: Violettscheitelkolibri
-  pt: collared inca
+  pt: ''
   ru: Ошейниковый инка
   ja: シロエリインカハチドリ
   zh: 領印加蜂鳥

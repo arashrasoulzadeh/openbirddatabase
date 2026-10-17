@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25851.0
 names:
   scientific: Zosterops kuehni
-  fa: nan
+  fa: ''
   en: Ambon White-eye
   es: Anteojitos de Ambon
   fr: Zostérops d'Ambon
   de: Ambonbrillenvogel
-  pt: ambon white-eye
+  pt: ''
   ru: Амбонская белоглазка
   ja: アンボンメジロ
   nl: Ambonese brilvogel

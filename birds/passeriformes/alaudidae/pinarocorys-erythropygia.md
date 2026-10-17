@@ -12,7 +12,7 @@ names:
   es: Alondra Colirrufa
   fr: Alouette à queue rousse
   de: Rotbürzellerche
-  pt: rufous-rumped lark
+  pt: ''
   ru: Рыжегузый жаворонок
   ja: アカオセイタカヒバリ
   zh: 棕腰歌百靈

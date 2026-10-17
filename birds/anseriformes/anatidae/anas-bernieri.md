@@ -12,7 +12,7 @@ names:
   es: Cerceta Malgache
   fr: Sarcelle de Bernier
   de: Bernierente
-  pt: bernier's teal
+  pt: ''
   ru: Мадагаскарский чирок
   ja: シロスジコガモ
   zh: 馬島麻斑鴨

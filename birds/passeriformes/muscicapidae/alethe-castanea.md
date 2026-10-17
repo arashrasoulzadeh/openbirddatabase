@@ -12,7 +12,7 @@ names:
   es: Alete Castaño
   fr: Alèthe à couronne orangée
   de: Kastanienbraunschwanz
-  pt: fire-crested alethe
+  pt: ''
   ru: Каштановая алета
   ja: ズアカムジヒタキ
   nl: Bruinkruinalethe

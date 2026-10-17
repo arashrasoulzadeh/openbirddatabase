@@ -12,7 +12,7 @@ names:
   es: Perlita de Iquitos
   fr: Gobemoucheron de Clements
   de: Iquitosmückenfänger
-  pt: iquitos gnatcatcher
+  pt: ''
   ru: Очковая комароловка
   ja: イキトスブユムシクイ
   nl: Iquitosmuggenvanger

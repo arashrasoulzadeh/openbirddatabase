@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Trompetera
   fr: Paradisier de Keraudren
   de: Trompeterparadieskrähe
-  pt: trumpet manucode
+  pt: ''
   ru: Манукод-трубач
   ja: ナキカラスフウチョウ
   nl: Trompetparadijskraai

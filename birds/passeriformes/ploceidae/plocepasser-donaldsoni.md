@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorrión de Donaldson
   fr: Mahali de Donaldson
   de: Dornbuschweber
-  pt: donaldson smith's sparrow-weaver
+  pt: ''
   ru: Кустарниковый коробиндо
   ja: コシジロスズメハタオリ
   nl: Donaldsonwever

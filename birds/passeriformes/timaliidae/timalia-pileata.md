@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25886.0
 names:
   scientific: Timalia pileata
-  fa: nan
+  fa: ''
   en: Chestnut-capped Babbler
   es: Timalí Capirotado
   fr: Timalie coiffée
   de: Rotkappentimalie
-  pt: chestnut-capped babbler
+  pt: ''
   ru: Красношапочная тимелия
   ja: アカガシラチメドリ
   zh: 红顶鹛

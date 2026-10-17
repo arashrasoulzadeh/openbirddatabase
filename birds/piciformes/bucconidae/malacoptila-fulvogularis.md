@@ -12,7 +12,7 @@ names:
   es: Buco Listado
   fr: Tamatia à gorge fauve
   de: Ockerkehl-Faulvogel
-  pt: black-streaked puffbird
+  pt: ''
   ru: Рыжепоясная пуховка
   ja: クロスジオオガシラ
   nl: Okerborstbaardkoekoek

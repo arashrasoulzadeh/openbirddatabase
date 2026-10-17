@@ -12,7 +12,7 @@ names:
   es: Búho Africano
   fr: Grand-duc africain
   de: Fleckenuhu
-  pt: spotted eagle-owl
+  pt: ''
   ru: Африканский филин
   ja: アフリカワシミミズク
   nl: Afrikaanse oehoe

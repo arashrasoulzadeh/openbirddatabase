@@ -15,7 +15,7 @@ names:
   pt: rola-rosada
   ru: Сахельская горлица
   ja: バライロシラコバト
-  zh: African Collared Dove
+  zh: ''
   nl: Izabeltortel
   pl: cukrówka
   tr: Afrika Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Jilguero de Los Pinos
   fr: Tarin des pins
   de: Fichtenzeisig
-  pt: pine siskin
+  pt: ''
   ru: Сосновый чиж
   ja: マツノキヒワ
   zh: 松金翅雀

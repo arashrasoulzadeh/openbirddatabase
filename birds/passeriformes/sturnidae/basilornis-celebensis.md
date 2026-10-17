@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27780.0
 names:
   scientific: Basilornis celebensis
-  fa: nan
+  fa: ''
   en: Sulawesi Myna
   es: Miná de Célebes
   fr: Basilorne des Célèbes
   de: Königsatzel
-  pt: sulawesi myna
+  pt: ''
   ru: Сулавесский раджа
   ja: セレベスオオサマムクドリ
   nl: Sulawesikoningsspreeuw

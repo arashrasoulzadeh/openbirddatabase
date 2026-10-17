@@ -12,7 +12,7 @@ names:
   es: Cotorra del Himalaya
   fr: Perruche de l'Himalaya
   de: Himalajasittich
-  pt: slaty-headed parakeet
+  pt: ''
   ru: Гималайский кольчатый попугай
   ja: ズグロコセイインコ
   zh: 青头鹦鹉

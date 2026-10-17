@@ -12,7 +12,7 @@ names:
   es: Bengalí Verde
   fr: Bengali vert
   de: Olivastrild
-  pt: green avadavat
+  pt: ''
   ru: Оливковый астрильд
   ja: シマキンカ
   zh: 綠色紅梅花雀

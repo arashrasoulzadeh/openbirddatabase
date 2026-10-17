@@ -15,7 +15,7 @@ names:
   pt: red-bellied fruit-dove
   ru: Краснобрюхий фруктовый голубь
   ja: アカハラヒメアオバト
-  zh: Red-bellied Fruit Dove
+  zh: ''
   nl: Greyjufferduif
   pl: owocożer czerwonobrzuchy
   tr: Kırmızı Karınlı Meyve Kumrusu

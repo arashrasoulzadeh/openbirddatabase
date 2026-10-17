@@ -12,7 +12,7 @@ names:
   es: Golondrina Dorada
   fr: Hirondelle dorée
   de: Antillenschwalbe
-  pt: golden swallow
+  pt: ''
   ru: Золотистая ласточка
   ja: キンイロツバメ
   zh: 金色樹燕

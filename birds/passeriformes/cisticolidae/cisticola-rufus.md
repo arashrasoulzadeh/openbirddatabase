@@ -12,7 +12,7 @@ names:
   es: Cistícola Rojizo
   fr: Cisticole rousse
   de: Rostzistensänger
-  pt: rufous cisticola
+  pt: ''
   ru: Ржавчатая цистикола
   ja: アカセッカ
   nl: Rosse graszanger

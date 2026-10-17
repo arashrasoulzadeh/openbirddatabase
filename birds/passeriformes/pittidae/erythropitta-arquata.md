@@ -12,7 +12,7 @@ names:
   es: Pita Bandeada
   fr: Brève à bandeau
   de: Azurbandpitta
-  pt: blue-banded pitta
+  pt: ''
   ru: Красноголовая питта
   ja: アオオビヤイロチョウ
   zh: 蓝斑八色鸫

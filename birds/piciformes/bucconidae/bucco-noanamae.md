@@ -12,7 +12,7 @@ names:
   es: Buco de Noanamá
   fr: Tamatia de Colombie
   de: Rußkappen-Faulvogel
-  pt: sooty-capped puffbird
+  pt: ''
   ru: Темноголовая пуховка
   ja: ハイボウシオオガシラ
   nl: Roetkruinbaardkoekoek

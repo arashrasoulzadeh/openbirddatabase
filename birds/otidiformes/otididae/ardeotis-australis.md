@@ -12,7 +12,7 @@ names:
   es: Avutarda Australiana
   fr: Outarde d'Australie
   de: Wammentrappe
-  pt: australian bustard
+  pt: ''
   ru: Австралийская дрофа
   ja: オーストラリアオオノガン
   zh: 澳洲鴇

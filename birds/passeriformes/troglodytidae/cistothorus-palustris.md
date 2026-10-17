@@ -12,7 +12,7 @@ names:
   es: Cucarachero Pantanero
   fr: Troglodyte des marais
   de: Sumpfzaunkönig
-  pt: marsh wren
+  pt: ''
   ru: Болотный крапивник
   ja: ハシナガヌマミソサザイ
   zh: 长嘴沼泽鹪鹩

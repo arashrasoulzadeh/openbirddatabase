@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18658.0
 names:
   scientific: Ceblepyris pectoralis
-  fa: nan
+  fa: ''
   en: White-breasted Cuckooshrike
   es: Oruguero Pechiblanco
   fr: Échenilleur à ventre blanc

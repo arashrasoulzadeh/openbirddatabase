@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24916.0
 names:
   scientific: Phylloscopus valentini
-  fa: nan
+  fa: ''
   en: Bianchi's Warbler
   es: Mosquitero de Bianchi
   fr: Pouillot de Bianchi
   de: Bianchilaubsänger
-  pt: bianchi's warbler
+  pt: ''
   ru: Очковая пеночка Бианки
   ja: インドシナモリムシクイ
   zh: 比氏鹟莺

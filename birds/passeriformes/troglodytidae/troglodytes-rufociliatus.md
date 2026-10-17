@@ -12,7 +12,7 @@ names:
   es: Chochín Cejirrufo
   fr: Troglodyte à sourcils roux
   de: Rostbrauen-Zaunkönig
-  pt: rufous-browed wren
+  pt: ''
   ru: Рыжебровый крапивник
   ja: アカマユヤマミソサザイ
   zh: 褐眉鷦鷯

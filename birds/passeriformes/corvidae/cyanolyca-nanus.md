@@ -12,7 +12,7 @@ names:
   es: Chara Enana
   fr: Geai nain
   de: Zwerghäher
-  pt: dwarf jay
+  pt: ''
   ru: Карликовая сойка
   ja: ヒメアオカケス
   zh: 小蓝头鹊

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12655.0
 names:
   scientific: Trichoglossus borneus
-  fa: nan
+  fa: ''
   en: Red Lory
   es: Lori Rojo
   fr: Loriquet écarlate

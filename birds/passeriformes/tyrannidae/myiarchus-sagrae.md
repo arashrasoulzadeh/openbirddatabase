@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17348.0
 names:
   scientific: Myiarchus sagrae
-  fa: nan
+  fa: ''
   en: La Sagra's Flycatcher
   es: Copetón de de la Sagra
   fr: Tyran de La Sagra
   de: Kubaschopftyrann
-  pt: la sagra's flycatcher
+  pt: ''
   ru: Кубинский миарх
   ja: バハマヒタキモドキ
   nl: Lasagratiran

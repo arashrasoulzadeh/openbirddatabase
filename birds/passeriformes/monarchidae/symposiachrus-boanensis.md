@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Boano
   fr: Monarque de Boano
   de: Boanomonarch
-  pt: boano monarch
+  pt: ''
   ru: Боанский монарх
   ja: クロアゴカササギビタキ
   nl: Boanomonarch

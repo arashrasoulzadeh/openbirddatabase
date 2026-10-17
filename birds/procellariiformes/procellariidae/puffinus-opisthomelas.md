@@ -12,7 +12,7 @@ names:
   es: Pardela Culinegra
   fr: Puffin cul-noir
   de: Schwarzsteiß-Sturmtaucher
-  pt: black-vented shearwater
+  pt: ''
   ru: Чернохвостый буревестник
   ja: クロハラミズナギドリ
   nl: Zwartbuikpijlstormvogel

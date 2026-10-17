@@ -12,7 +12,7 @@ names:
   es: Gaviota Japonesa
   fr: Goéland à queue noire
   de: Japanmöwe
-  pt: black-tailed gull
+  pt: ''
   ru: Чернохвостая чайка
   ja: ウミネコ
   zh: 黑尾鸥

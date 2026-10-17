@@ -12,7 +12,7 @@ names:
   es: Trepador Indio
   fr: Sittelle indienne
   de: Kastanienkleiber
-  pt: indian nuthatch
+  pt: ''
   ru: Каштановогрудый поползень
   ja: チャバラゴジュウカラ
   zh: 栗腹

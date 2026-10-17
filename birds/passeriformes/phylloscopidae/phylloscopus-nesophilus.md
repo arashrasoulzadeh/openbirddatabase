@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25016.0
 names:
   scientific: Phylloscopus nesophilus
-  fa: nan
+  fa: ''
   en: Sulawesi Leaf Warbler
   es: Mosquitero de Célebes
   fr: Pouillot des Célèbes
   de: Sulawesilaubsänger
-  pt: sulawesi leaf warbler
+  pt: ''
   ru: Сулавесская пеночка
   ja: スラウェシムシクイ
   nl: Sulawesiboszanger

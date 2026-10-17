@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2739.0
 names:
   scientific: Ptilinopus hernsheimi
-  fa: nan
+  fa: ''
   en: Kosrae Fruit Dove
   es: Tilopo de Isla Kosrae
   fr: Ptilope de Kosrae
@@ -15,7 +15,7 @@ names:
   pt: kosrae fruit-dove
   ru: Каролинский фруктовый голубь
   ja: コスラエヒメアオバト
-  zh: Kosrae Fruit Dove
+  zh: ''
   nl: Kusaiejufferduif
   pl: owocożer żółtosterny
   tr: Kuşray Meyve Kumrusu

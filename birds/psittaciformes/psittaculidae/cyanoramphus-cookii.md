@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12463.0
 names:
   scientific: Cyanoramphus cookii
-  fa: nan
+  fa: ''
   en: Norfolk Parakeet
   es: Perico de Isla Norfolk
   fr: Perruche de Norfolk

@@ -12,7 +12,7 @@ names:
   es: Ratina Goliblanca
   fr: Turdinule de Pasquier
   de: Tonkinsäbeldrossling
-  pt: white-throated wren-babbler
+  pt: ''
   ru: Белогорлая серпоклювка
   ja: ベトナムサザイチメドリ
   zh: 白喉鹩鹛

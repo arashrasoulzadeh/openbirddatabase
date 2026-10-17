@@ -12,7 +12,7 @@ names:
   es: Varillero Ojipálido
   fr: Carouge à oeil clair
   de: Gelbaugenstärling
-  pt: pale-eyed blackbird
+  pt: ''
   ru: Желтоглазый курен
   ja: キンメハゴロモガラス
   nl: Drijftiltroepiaal

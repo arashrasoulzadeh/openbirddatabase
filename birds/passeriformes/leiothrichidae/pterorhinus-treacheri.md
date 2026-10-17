@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26786.0
 names:
   scientific: Pterorhinus treacheri
-  fa: nan
+  fa: ''
   en: Chestnut-hooded Laughingthrush
   es: Charlatán de Treacher
   fr: Garrulaxe de Treacher
   de: Kastanienkappenhäherling
-  pt: chestnut-hooded laughingthrush
+  pt: ''
   ru: Шиферная кустарница
   ja: ボルネオチャガシラガビチョウ
   nl: Kastanjekaplijstergaai

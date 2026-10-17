@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24157.0
 names:
   scientific: Ptyonoprogne fuligula
-  fa: nan
+  fa: ''
   en: Large Rock Martin
   es: Avión Isabel Meridional
   fr: Hirondelle isabelline
@@ -15,7 +15,7 @@ names:
   pt: andorinha-das-rochas-africana
   ru: Африканская скалистая ласточка
   ja: ミナミアフリカチャイロツバメ
-  zh: Large Rock Martin
+  zh: ''
   nl: Kaapse Rotszwaluw
   pl: jaskółka blada
   tr: Güneyli Küçük Kaya Kırlangıcı

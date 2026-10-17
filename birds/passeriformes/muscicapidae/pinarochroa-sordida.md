@@ -12,7 +12,7 @@ names:
   es: Colinegro Abisinio
   fr: Traquet afroalpin
   de: Almenschmätzer
-  pt: moorland chat
+  pt: ''
   ru: Скромная трактрака
   ja: ミヤマイワビタキ
   nl: Oost-Afrikaanse spekvreter

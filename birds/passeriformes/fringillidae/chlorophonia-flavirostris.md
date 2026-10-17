@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31997.0
 names:
   scientific: Chlorophonia flavirostris
-  fa: nan
+  fa: ''
   en: Yellow-collared Chlorophonia
   es: Clorofonia Acollarada
   fr: Organiste à col jaune
   de: Halsbandorganist
-  pt: yellow-collared chlorophonia
+  pt: ''
   ru: Красноклювый органист
   ja: キエリミドリフウキンチョウ
   zh: 黃領綠雀

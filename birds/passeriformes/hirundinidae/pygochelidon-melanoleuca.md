@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24132.0
 names:
   scientific: Pygochelidon melanoleuca
-  fa: nan
+  fa: ''
   en: Black-collared Swallow
   es: Golondrina Acollarada
   fr: Hirondelle des torrents

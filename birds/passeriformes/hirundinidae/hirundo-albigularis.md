@@ -12,7 +12,7 @@ names:
   es: Golondrina Gorjiblanca
   fr: Hirondelle à gorge blanche
   de: Weißkehlschwalbe
-  pt: white-throated swallow
+  pt: ''
   ru: Белогорлая ласточка
   ja: ノドジロツバメ
   zh: 白喉燕

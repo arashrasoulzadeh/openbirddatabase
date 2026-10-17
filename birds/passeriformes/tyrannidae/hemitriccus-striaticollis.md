@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16352.0
 names:
   scientific: Hemitriccus striaticollis
-  fa: nan
+  fa: ''
   en: Stripe-necked Tody-Tyrant
   es: Titirijí Gorjiestriado
   fr: Todirostre à cou rayé

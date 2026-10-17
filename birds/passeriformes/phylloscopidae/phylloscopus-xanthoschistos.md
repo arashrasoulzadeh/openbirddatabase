@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24983.0
 names:
   scientific: Phylloscopus xanthoschistos
-  fa: nan
+  fa: ''
   en: Grey-hooded Warbler
   es: Mosquitero Cabecigrís
   fr: Pouillot à tête grise

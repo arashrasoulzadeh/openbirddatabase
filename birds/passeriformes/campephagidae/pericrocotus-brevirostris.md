@@ -12,7 +12,7 @@ names:
   es: Minivet Piquicorto
   fr: Minivet à bec court
   de: Kurzschnabel-Mennigvogel
-  pt: short-billed minivet
+  pt: ''
   ru: Короткоклювый личинкоед
   ja: コバシベニサンショウクイ
   zh: 短嘴山椒鸟

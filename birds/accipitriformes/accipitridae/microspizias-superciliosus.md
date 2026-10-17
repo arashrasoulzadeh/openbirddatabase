@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8334.0
 names:
   scientific: Microspizias superciliosus
-  fa: nan
+  fa: ''
   en: Tiny Hawk
   es: Gavilancito Americano
   fr: Épervier nain

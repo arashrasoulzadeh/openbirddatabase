@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17917.0
 names:
   scientific: Melipotes fumigatus
-  fa: nan
+  fa: ''
   en: Common Smoky Honeyeater
   es: Mielero Ahumado
   fr: Méliphage enfumé
@@ -15,7 +15,7 @@ names:
   pt: smoky honeyeater
   ru: Пепельный нектаролюб
   ja: キホオミツスイ
-  zh: Common Smoky Honeyeater
+  zh: ''
   nl: Geelwanghoningeter
   pl: dziwoliczek zmienny
   tr: Kül Rengi Balkuşu

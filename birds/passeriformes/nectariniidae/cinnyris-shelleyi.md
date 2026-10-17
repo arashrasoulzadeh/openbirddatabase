@@ -12,7 +12,7 @@ names:
   es: Suimanga de Shelley
   fr: Souimanga de Shelley
   de: Scharlachbrust-Nektarvogel
-  pt: shelley's sunbird
+  pt: ''
   ru: Двуошейниковая нектарница
   ja: ヒムネニシキタイヨウチョウ
   nl: Shelleyhoningzuiger

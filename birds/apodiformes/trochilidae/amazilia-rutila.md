@@ -12,7 +12,7 @@ names:
   es: Amazilia Canela
   fr: Ariane cannelle
   de: Zimtbauchamazilie
-  pt: cinnamon hummingbird
+  pt: ''
   ru: Рыжая амазилия
   ja: ニッケイハチドリ
   zh: 桂红蜂鸟

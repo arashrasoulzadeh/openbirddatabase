@@ -12,7 +12,7 @@ names:
   es: Nínox Reidor
   fr: Ninoxe rieuse
   de: Lachkauz
-  pt: laughing owl
+  pt: ''
   ru: Хохочущая сова
   ja: ワライフクロウ
   nl: Lachuil

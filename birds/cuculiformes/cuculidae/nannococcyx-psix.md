@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 3260.0
 names:
   scientific: Nannococcyx psix
-  fa: nan
+  fa: ''
   en: St. Helena Cuckoo
   es: Cuco de Isla Santa Elena
   fr: Coucou de Sainte-Hélène
   de: Helenakuckuck
-  pt: st. helena cuckoo
+  pt: ''
   ru: Святоеленская кукушка
   ja: セントヘレナカッコウ
   zh: 圣赫勒拿杜鹃

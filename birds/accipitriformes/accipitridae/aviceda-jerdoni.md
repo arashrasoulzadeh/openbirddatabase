@@ -12,7 +12,7 @@ names:
   es: Baza Oriental
   fr: Baza de Jerdon
   de: Orientweih
-  pt: jerdon's baza
+  pt: ''
   ru: Азиатская база
   ja: チャイロカッコウハヤブサ
   zh: 褐冠鹃隼

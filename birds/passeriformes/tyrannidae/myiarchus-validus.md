@@ -12,7 +12,7 @@ names:
   es: Copetón Colirrufo
   fr: Tyran à queue rousse
   de: Rostschwanz-Schopftyrann
-  pt: rufous-tailed flycatcher
+  pt: ''
   ru: Рыжехвостый миарх
   ja: アカオオオヒタキモドキ
   nl: Oranjestaarttiran

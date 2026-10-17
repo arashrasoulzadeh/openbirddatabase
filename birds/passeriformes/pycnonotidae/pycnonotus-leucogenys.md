@@ -12,7 +12,7 @@ names:
   es: Bulbul Cariblanco
   fr: Bulbul à joues blanches
   de: Himalajabülbül
-  pt: himalayan bulbul
+  pt: ''
   ru: Белощекий бюль-бюль
   ja: ホオジロヒヨドリ
   zh: 白颊鹎

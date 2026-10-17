@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 3180.0
 names:
   scientific: Phaenicophaeus sumatranus
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Malkoha
   es: Malcoha Ventrirrufo
   fr: Malcoha à ventre roux
   de: Rotbauchkuckuck
-  pt: chestnut-bellied malkoha
+  pt: ''
   ru: Рыжебрюхая малкоа
   ja: チャバラクロバンケンモドキ
   zh: 棕腹地鵑

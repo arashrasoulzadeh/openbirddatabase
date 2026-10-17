@@ -12,7 +12,7 @@ names:
   es: Tinamú Negro
   fr: Tinamou noir
   de: Schwarztinamu
-  pt: black tinamou
+  pt: ''
   ru: Чёрный тинаму
   ja: クロシギダチョウ
   zh: 黑䳍

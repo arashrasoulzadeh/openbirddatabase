@@ -12,7 +12,7 @@ names:
   es: Chotacabras Oscuro
   fr: Engoulevent sombre
   de: Zügelnachtschwalbe
-  pt: sombre nightjar
+  pt: ''
   ru: Тёмный козодой
   ja: ハイイロヨタカ
   zh: 乌夜鹰

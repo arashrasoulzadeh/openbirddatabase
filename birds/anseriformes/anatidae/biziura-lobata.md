@@ -12,7 +12,7 @@ names:
   es: Malvasía Papuda
   fr: Érismature à barbillons
   de: Lappenente
-  pt: musk duck
+  pt: ''
   ru: Лопастная утка
   ja: ニオイガモ
   zh: 麝鴨

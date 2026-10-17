@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 2825.0
 names:
   scientific: Ducula cuprea
-  fa: nan
+  fa: ''
   en: Malabar Imperial Pigeon
   es: Dúcula de Los Nilgiri
   fr: Carpophage des Nilgiri
   de: Malabarfruchttaube
   pt: malabar imperial-pigeon
-  zh: Malabar Imperial Pigeon
+  zh: ''
   nl: Malabarmuskaatduif
   pl: muszkatela brunatna
   tr: Malabar Has Güvercini

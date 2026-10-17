@@ -12,7 +12,7 @@ names:
   es: Turpial de Martinica
   fr: Oriole de Martinique
   de: Braunkopftrupial
-  pt: martinique oriole
+  pt: ''
   ru: Мартиникийский трупиал
   ja: マルチニクムクドリモドキ
   nl: Martiniquetroepiaal

@@ -15,7 +15,7 @@ names:
   pt: biak megapode
   ru: Биакский большеног
   ja: ビアクツカツクリ
-  zh: Biak Scrubfowl
+  zh: ''
   nl: Geelvinkboshoen
   pl: nogal namorzynowy
   tr: Biak Megapodu

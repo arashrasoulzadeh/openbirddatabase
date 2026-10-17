@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15123.0
 names:
   scientific: Anabazenops fuscus
-  fa: nan
+  fa: ''
   en: White-collared Foliage-gleaner
   es: Ticotico Acollarado
   fr: Anabate à col blanc

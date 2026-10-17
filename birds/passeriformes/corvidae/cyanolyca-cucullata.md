@@ -12,7 +12,7 @@ names:
   es: Chara Coroniazul
   fr: Geai couronné
   de: Blaukappenhäher
-  pt: azure-hooded jay
+  pt: ''
   ru: Синеголовая сойка
   ja: ボウシアオカケス
   zh: 青蓝头鹊

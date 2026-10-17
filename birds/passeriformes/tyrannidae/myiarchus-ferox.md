@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17312.0
 names:
   scientific: Myiarchus ferox
-  fa: nan
+  fa: ''
   en: Short-crested Flycatcher
   es: Copetón Feroz
   fr: Tyran féroce

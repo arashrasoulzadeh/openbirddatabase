@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26828.0
 names:
   scientific: Pterorhinus albogularis
-  fa: nan
+  fa: ''
   en: White-throated Laughingthrush
   es: Charlatán Gorjiblanco
   fr: Garrulaxe à gorge blanche
   de: Weißkehlhäherling
-  pt: white-throated laughingthrush
+  pt: ''
   ru: Белогорлая кустарница
   ja: ノドジロガビチョウ
   zh: 白喉噪鹛

@@ -12,7 +12,7 @@ names:
   es: Pinzón de Darwin Vegetariano
   fr: Géospize crassirostre
   de: Dickschnabel-Darwinfink
-  pt: vegetarian finch
+  pt: ''
   ru: Толстоклювый дарвинов вьюрок
   ja: ハシブトダーウィンフィンチ
   zh: 植食树雀

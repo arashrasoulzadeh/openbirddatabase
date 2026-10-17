@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17161.0
 names:
   scientific: Fluvicola albiventer
-  fa: nan
+  fa: ''
   en: Black-backed Water Tyrant
   es: Viudita Dorsinegra
   fr: Moucherolle à dos noir
@@ -15,7 +15,7 @@ names:
   pt: lavadeira-de-cara-branca
   ru: Черноспинный мухолов
   ja: セグロコマダラタイランチョウ
-  zh: Black-backed Water Tyrant
+  zh: ''
   nl: Zwartrugwatertiran
   pl: wodopławik czarnogrzbiety
   tr: Kara Sırtlı Irmak Tiranı

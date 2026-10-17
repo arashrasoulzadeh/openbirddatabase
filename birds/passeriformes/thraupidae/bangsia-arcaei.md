@@ -12,7 +12,7 @@ names:
   es: Tangara de Arcé
   fr: Tangara jaune et bleu
   de: Gelbbauch-Bergtangare
-  pt: blue-and-gold tanager
+  pt: ''
   ru: Сине-золотая танагра
   ja: アオキバラフウキンチョウ
   nl: Blauw-gouden tangare

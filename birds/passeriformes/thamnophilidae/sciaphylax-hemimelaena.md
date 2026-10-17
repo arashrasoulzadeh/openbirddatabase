@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 14033.0
 names:
   scientific: Sciaphylax hemimelaena
-  fa: nan
+  fa: ''
   en: Southern Chestnut-tailed Antbird
   es: Hormiguero Colicastaño Sureño
   fr: Alapi rougequeue
   de: Rotschwanz-Ameisenvogel
   ru: Бурохвостая муравьянка
   ja: クリオアリドリ
-  zh: Southern Chestnut-tailed Antbird
+  zh: ''
   nl: Zuidelijke kastanjestaartmiervogel
   pl: rudogonka amazońska
   tr: Kuzeyli Kestanerengi Karıncakuşu

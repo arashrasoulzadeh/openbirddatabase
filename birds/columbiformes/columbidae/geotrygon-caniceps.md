@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2320.0
 names:
   scientific: Geotrygon caniceps
-  fa: nan
+  fa: ''
   en: Grey-fronted Quail-Dove
   es: Paloma Perdiz Camao
   fr: Colombe de Gundlach
@@ -15,7 +15,7 @@ names:
   pt: gray-fronted quail-dove
   ru: Сероголовая перепелиная горлица
   ja: ハイビタイウズラバト
-  zh: Grey-fronted Quail-Dove
+  zh: ''
   nl: Grijskopkwartelduif
   pl: błyskotek szaroczelny
   tr: Gri Başlı Bıldırcın Kumrusu

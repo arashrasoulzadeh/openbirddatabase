@@ -15,7 +15,7 @@ names:
   pt: spotted wood-quail
   ru: Пятнистый зубцеклювый перепел
   ja: マダラウズラ
-  zh: Spotted Wood Quail
+  zh: ''
   nl: Gevlekte tandkwartel
   pl: przepiór brązowy
   tr: İncili Tokro

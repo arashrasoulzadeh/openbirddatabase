@@ -12,7 +12,7 @@ names:
   es: Gorrión Chico
   fr: Petit Moineau
   de: Buschsteinsperling
-  pt: sahel bush sparrow
+  pt: ''
   ru: Кустарниковый воробей
   ja: ヤブイワスズメ
   zh: 小石雀

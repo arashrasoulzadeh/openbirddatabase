@@ -12,7 +12,7 @@ names:
   es: Malimbo Ventrirrojo
   fr: Malimbe à ventre rouge
   de: Rotbauchweber
-  pt: red-bellied malimbe
+  pt: ''
   ru: Краснобрюхий малимб
   ja: ヒオドシハタオリ
   nl: Roodbuikprachtwever

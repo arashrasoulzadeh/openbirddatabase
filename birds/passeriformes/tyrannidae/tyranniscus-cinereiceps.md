@@ -12,7 +12,7 @@ names:
   es: Mosquerito Cenizo
   fr: Tyranneau à tête cendrée
   de: Ohrfleck-Kleintyrann
-  pt: ashy-headed tyrannulet
+  pt: ''
   ru: Черноухий москитеро
   ja: ズアオコタイランチョウ
   nl: Grijskopvliegenpikker

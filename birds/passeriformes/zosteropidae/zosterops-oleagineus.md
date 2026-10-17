@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 25834.0
 names:
   scientific: Zosterops oleagineus
-  fa: nan
+  fa: ''
   en: Olive-colored White-eye
   es: Anteojitos de Isla Yap
   fr: Zostérops de Yap
@@ -15,7 +15,7 @@ names:
   pt: yap white-eye
   ru: Красноногая белоглазка
   ja: ミヤマメジロ
-  zh: Olive-colored White-eye
+  zh: ''
   nl: Yapbrilvogel
   pl: szlarnik jasnonogi
   tr: Yap Gözlükçüsü

@@ -12,7 +12,7 @@ names:
   es: Trogón Montano
   fr: Trogon à queue barrée
   de: Bergtrogon
-  pt: bar-tailed trogon
+  pt: ''
   ru: Полосатохвостый трогон
   ja: シマオアフリカキヌバネドリ
   zh: 斑尾咬鵑

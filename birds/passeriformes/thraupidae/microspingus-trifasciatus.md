@@ -12,7 +12,7 @@ names:
   es: Hemispingo Trilistado
   fr: Tangara trifascié
   de: Streifenfinkentangare
-  pt: three-striped hemispingus
+  pt: ''
   ru: Трёхполосая пипира
   ja: ミスジモリフウキンチョウ
   nl: Driestrepenboomgors

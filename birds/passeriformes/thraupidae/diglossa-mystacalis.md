@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Bigotudo
   fr: Percefleur moustachu
   de: Barthakenschnabel
-  pt: moustached flowerpiercer
+  pt: ''
   ru: Усатый цветокол
   ja: シラヒゲハナサシミツドリ
   zh: 须刺花鸟

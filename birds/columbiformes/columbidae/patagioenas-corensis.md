@@ -12,7 +12,7 @@ names:
   es: Paloma Aliblanca
   fr: Pigeon jounud
   de: Nacktaugentaube
-  pt: bare-eyed pigeon
+  pt: ''
   ru: Гологлазый голубь
   ja: アオメバト
   zh: 裸眼鴿

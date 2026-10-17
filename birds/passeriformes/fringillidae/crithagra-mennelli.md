@@ -12,7 +12,7 @@ names:
   es: Serín Orejinegro
   fr: Serin oreillard
   de: Schwarzwangengirlitz
-  pt: black-eared seedeater
+  pt: ''
   ru: Чернощёкий канареечник
   ja: ミミグロカナリア
   nl: Zwartwangkanarie

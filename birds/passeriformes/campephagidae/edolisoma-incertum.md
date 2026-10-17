@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18932.0
 names:
   scientific: Edolisoma incertum
-  fa: nan
+  fa: ''
   en: Black-shouldered Cicadabird
   es: Oruguero Incierto
   fr: Échenilleur à épaulettes noires
@@ -15,7 +15,7 @@ names:
   pt: papuan cicadabird
   ru: Черноплечий цикадник
   ja: カタグロオオサンショウクイ
-  zh: Black-shouldered Cicadabird
+  zh: ''
   nl: Nieuw-Guinese rupsvogel
   pl: gąsienicojad epoletowy
   tr: Kara Omuzlu Tırtılyiyen

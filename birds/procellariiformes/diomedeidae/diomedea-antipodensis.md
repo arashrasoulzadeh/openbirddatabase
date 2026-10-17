@@ -12,7 +12,7 @@ names:
   es: Albatros de las Antípodas
   fr: Albatros des Antipodes
   de: Antipodenalbatros
-  pt: antipodean albatross
+  pt: ''
   ru: Альбатрос с острова Антиподов
   ja: アンティポデスアホウドリ
   zh: 對蹠群島信天翁

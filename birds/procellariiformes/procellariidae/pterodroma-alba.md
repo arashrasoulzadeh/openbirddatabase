@@ -12,7 +12,7 @@ names:
   es: Petrel de las Fénix
   fr: Pétrel à poitrine blanche
   de: Phönixsturmvogel
-  pt: phoenix petrel
+  pt: ''
   ru: Белый тайфунник
   ja: ムナオビシロハラミズナギドリ
   zh: 白腹圆尾鹱

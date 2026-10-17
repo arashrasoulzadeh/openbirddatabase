@@ -12,7 +12,7 @@ names:
   es: Bisbita de las Georgias del Sur
   fr: Pipit antarctique
   de: Riesenpieper
-  pt: south georgia pipit
+  pt: ''
   ru: Антарктический конёк
   ja: サウスジョージアタヒバリ
   zh: 南極鷚

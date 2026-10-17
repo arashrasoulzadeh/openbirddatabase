@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14463.0
 names:
   scientific: Scytalopus spillmanni
-  fa: nan
+  fa: ''
   en: Spillmann's Tapaculo
   es: Churrín de Spillmann
   fr: Mérulaxe de Spillmann
   de: Roststeißtapaculo
-  pt: spillmann's tapaculo
+  pt: ''
   ru: Чускейский тапакуло
   ja: スピルマンオタテドリ
   nl: Spillmanntapaculo

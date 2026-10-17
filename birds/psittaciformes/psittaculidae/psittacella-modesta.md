@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12402.0
 names:
   scientific: Psittacella modesta
-  fa: nan
+  fa: ''
   en: Modest Tiger Parrot
   es: Lorito Tigre Modesto
   fr: Perruche modeste
@@ -15,7 +15,7 @@ names:
   pt: modest tiger-parrot
   ru: Оливковый попугай
   ja: ヒメクビワインコ
-  zh: Modest Tiger Parrot
+  zh: ''
   nl: Kleine tijgerparkiet
   pl: brązogłówka oliwkowa
   tr: Küçük Kaplan Papağanı

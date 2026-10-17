@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15612.0
 names:
   scientific: Synallaxis spixi
-  fa: nan
+  fa: ''
   en: Spix's Spinetail
   es: Pijuí Plomizo
   fr: Synallaxe de Spix

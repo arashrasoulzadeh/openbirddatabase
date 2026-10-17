@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 25853.0
 names:
   scientific: Zosterops luteirostris
-  fa: nan
+  fa: ''
   en: Gizo White-eye
   es: Anteojitos de Gizo
   fr: Zostérops de Gizo
@@ -15,7 +15,7 @@ names:
   pt: splendid white-eye
   ru: Желтоклювая белоглазка
   ja: ユウビンソロモンメジロ
-  zh: Gizo White-eye
+  zh: ''
   nl: Gizobrilvogel
   pl: szlarnik złotodzioby
   tr: Gizo Gözlükçü

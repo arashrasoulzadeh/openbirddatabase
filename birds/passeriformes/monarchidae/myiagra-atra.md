@@ -15,7 +15,7 @@ names:
   pt: biak flycatcher
   ru: Чёрная миагра
   ja: ミソルクロヒラハシ
-  zh: Biak Black Flycatcher
+  zh: ''
   nl: Zwarte Biakmonarch
   pl: muszarka czarna
   tr: Biak Monarkı

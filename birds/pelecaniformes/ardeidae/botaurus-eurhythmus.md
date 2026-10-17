@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7579.0
 names:
   scientific: Botaurus eurhythmus
-  fa: nan
+  fa: ''
   en: Von Schrenck's Bittern
   es: Avetorillo Manchú
   fr: Blongios de Schrenck

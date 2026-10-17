@@ -12,7 +12,7 @@ names:
   es: Batis del Ruwenzori
   fr: Pririt du Rwenzori
   de: Ruwenzorischnäpper
-  pt: rwenzori batis
+  pt: ''
   ru: Рувензорский батис
   ja: ハナジロセワタビタキ
   nl: Ruwenzorivliegenvanger

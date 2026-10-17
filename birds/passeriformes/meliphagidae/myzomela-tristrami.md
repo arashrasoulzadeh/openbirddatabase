@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18038.0
 names:
   scientific: Myzomela tristrami
-  fa: nan
+  fa: ''
   en: Sooty Myzomela
   es: Mielero de Tristram
   fr: Myzomèle de Tristram
   de: Tristramhonigfresser
-  pt: sooty myzomela
+  pt: ''
   ru: Соломонская медовка
   ja: ソロモンミツスイ
   nl: Tristramdwerghoningeter

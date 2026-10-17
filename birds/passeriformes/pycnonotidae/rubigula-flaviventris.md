@@ -12,7 +12,7 @@ names:
   es: Bulbul Crestinegro
   fr: Bulbul à huppe noire
   de: Haubenbülbül
-  pt: black-crested bulbul
+  pt: ''
   ru: Чернохохлый бюльбюль
   ja: クロボウシヒヨドリ
   zh: 黑冠黄鹎

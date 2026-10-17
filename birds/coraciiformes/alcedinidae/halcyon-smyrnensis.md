@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10076.0
 names:
   scientific: Halcyon smyrnensis
-  fa: nan
+  fa: ''
   en: White-throated Kingfisher
   es: Alción de Esmirna
   fr: Martin-chasseur de Smyrne

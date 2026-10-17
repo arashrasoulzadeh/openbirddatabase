@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25842.0
 names:
   scientific: Zosterops stresemanni
-  fa: nan
+  fa: ''
   en: Malaita White-eye
   es: Anteojitos de Malaita
   fr: Zostérops de Malaita
   de: Malaitabrillenvogel
-  pt: malaita white-eye
+  pt: ''
   ru: Малаитская белоглазка
   ja: マライタメジロ
   nl: Malaitabrilvogel

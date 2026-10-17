@@ -12,7 +12,7 @@ names:
   es: Chingolo Rojizo
   fr: Tohi roussâtre
   de: Rostrückenammer
-  pt: rusty sparrow
+  pt: ''
   ru: Рыжеспинная овсянка
   ja: オオスズメモドキ
   nl: Roestruggors

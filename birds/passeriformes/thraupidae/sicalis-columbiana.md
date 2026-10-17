@@ -15,7 +15,7 @@ names:
   pt: canário-do-amazonas
   ru: Карликовый зерноед
   ja: アカビタイキンノジコ
-  zh: Orange-fronted Yellow Finch
+  zh: ''
   nl: Dwergsaffraangors
   pl: szafranka czerwonoczelna
   tr: Amazon Kanarya İspinozu

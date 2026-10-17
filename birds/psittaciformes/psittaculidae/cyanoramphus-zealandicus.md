@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 12454.0
 names:
   scientific: Cyanoramphus zealandicus
-  fa: nan
+  fa: ''
   en: Black-fronted Parakeet
   es: Perico Frentinegro
   fr: Perruche de Tahiti
   de: Schwarzstirnsittich
-  pt: black-fronted parakeet
+  pt: ''
   ru: Таитянский какарики
   ja: タヒチアオハシインコ
   zh: 黑額鸚鵡

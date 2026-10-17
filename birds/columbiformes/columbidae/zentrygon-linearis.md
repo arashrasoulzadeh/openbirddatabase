@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2380.0
 names:
   scientific: Zentrygon linearis
-  fa: nan
+  fa: ''
   en: Lined Quail-Dove
   es: Paloma Perdiz Embridada
   fr: Colombe bridée
   de: Streifentaube
-  pt: lined quail-dove
+  pt: ''
   ru: Бледнолицая перепелиная горлица
   ja: オオウズラバト
   zh: 白脸鹑鸠

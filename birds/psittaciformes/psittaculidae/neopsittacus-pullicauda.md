@@ -12,7 +12,7 @@ names:
   es: Lori Montano Chico
   fr: Lori émeraude
   de: Orangeschnabel-Berglori
-  pt: orange-billed lorikeet
+  pt: ''
   ru: Оранжевоклювый лорикет
   ja: アルプスインコ
   nl: Smaragdlori

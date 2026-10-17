@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24684.0
 names:
   scientific: Pycnonotus cinereifrons
-  fa: nan
+  fa: ''
   en: Ashy-fronted Bulbul
   es: Bulbul Penitente
   fr: Bulbul à front cendré
   de: Graustirnbülbül
-  pt: ashy-fronted bulbul
+  pt: ''
   ru: Палаванский бюльбюль
   ja: パラワンヒヨドリ
   zh: 灰額鵯

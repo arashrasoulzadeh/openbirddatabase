@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 3823.0
 names:
   scientific: Aegotheles terborghi
-  fa: nan
+  fa: ''
   en: Karimui Owlet-nightjar
   es: Egotelo del Karimui
   fr: Égothèle de Karimui
-  pt: karimui owlet-nightjar
+  pt: ''
   ja: カリムイシロエリズクヨタカ
   nl: Karimuidwergnachtzwaluw
   pl: sownik samotny

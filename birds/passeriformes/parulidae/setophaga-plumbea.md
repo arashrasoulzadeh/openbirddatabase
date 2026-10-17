@@ -12,7 +12,7 @@ names:
   es: Reinita Plúmbea
   fr: Paruline caféiette
   de: Grauwaldsänger
-  pt: plumbeous warbler
+  pt: ''
   ru: Серая древесница
   ja: ドミニカアメリカムシクイ
   nl: Guadeloupezanger

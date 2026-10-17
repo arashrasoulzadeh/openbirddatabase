@@ -12,7 +12,7 @@ names:
   es: Coqueta Crestinegra
   fr: Coquette d'Hélène
   de: Schwarzschopfelfe
-  pt: black-crested coquette
+  pt: ''
   ru: Чернохохлая кокетка
   ja: クロツノユウジョハチドリ
   zh: 黑冠蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34432.0
 names:
   scientific: Piranga rubra
-  fa: nan
+  fa: ''
   en: Summer Tanager
   es: Piranga Roja
   fr: Piranga vermillon

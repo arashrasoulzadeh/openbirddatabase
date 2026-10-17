@@ -15,7 +15,7 @@ names:
   pt: cinnamon-bellied imperial-pigeon
   ru: Молуккский плодовый голубь
   ja: モルッカミカドバト
-  zh: Cinnamon-bellied Imperial Pigeon
+  zh: ''
   nl: Molukse muskaatduif
   pl: muszkatela cynamonowa
   tr: Tarçın Karınlı Has Güvercin

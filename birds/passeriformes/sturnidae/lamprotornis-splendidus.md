@@ -12,7 +12,7 @@ names:
   es: Estornino Espléndido
   fr: Choucador splendide
   de: Prachtglanzstar
-  pt: splendid starling
+  pt: ''
   ru: Великолепный спрео
   ja: セイキテリムク
   nl: Prachtglansspreeuw

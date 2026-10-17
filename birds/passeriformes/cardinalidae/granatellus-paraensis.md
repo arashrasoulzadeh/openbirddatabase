@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34572.0
 names:
   scientific: Granatellus paraensis
-  fa: nan
+  fa: ''
   en: Rose-bellied Chat
   es: Reinita Pechirroja de Pará
   fr: Granatelle du Para

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26737.0
 names:
   scientific: Garrulax leucolophus
-  fa: nan
+  fa: ''
   en: White-crested Laughingthrush
   es: Charlatán Crestiblanco
   fr: Garrulaxe à huppe blanche

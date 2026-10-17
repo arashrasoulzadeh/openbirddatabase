@@ -12,7 +12,7 @@ names:
   es: Carpintero de Carolina
   fr: Pic à ventre roux
   de: Carolinaspecht
-  pt: red-bellied woodpecker
+  pt: ''
   ru: Каролинский дятел
   ja: シマセゲラ
   zh: 红腹啄木鸟

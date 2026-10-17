@@ -12,7 +12,7 @@ names:
   es: Babax Gigante
   fr: Babaxe de Waddell
   de: Großhäherling
-  pt: giant babax
+  pt: ''
   ru: Гигантская кустарница
   ja: オオヒゲチメドリ
   zh: 大草鹛

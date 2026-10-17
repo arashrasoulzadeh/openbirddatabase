@@ -12,7 +12,7 @@ names:
   es: Saltarín Cuelliblanco
   fr: Manakin à col blanc
   de: Weißbandpipra
-  pt: white-collared manakin
+  pt: ''
   ru: Белобородый манакин
   ja: ムナジロマイコドリ
   nl: Witkraagmanakin

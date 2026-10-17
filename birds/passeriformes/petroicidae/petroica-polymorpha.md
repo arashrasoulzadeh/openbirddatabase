@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21748.0
 names:
   scientific: Petroica polymorpha
-  fa: nan
+  fa: ''
   en: Solomons Robin
   es: Petroica de San Cristóbal
   fr: Miro des Salomon
   de: Salomonenschnäpper
-  pt: solomons robin
+  pt: ''
   ru: Соломонская петроика
   zh: 所罗门鸲鹟
   nl: Salomonsvliegenvanger

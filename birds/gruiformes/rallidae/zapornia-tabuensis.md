@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5606.0
 names:
   scientific: Zapornia tabuensis
-  fa: nan
+  fa: ''
   en: Spotless Crake
   es: Polluela de Tongatapu
   fr: Marouette fuligineuse

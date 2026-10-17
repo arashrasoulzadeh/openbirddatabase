@@ -15,7 +15,7 @@ names:
   pt: rapazinho-estriado-do-oeste
   ru: Западная пуховка
   ja: ニシオオガシラ
-  zh: Western Striolated Puffbird
+  zh: ''
   nl: Obamabaardkoekoek
   pl: drzym ciemnopióry
   tr: Batılı Çizgili Pufkuşu

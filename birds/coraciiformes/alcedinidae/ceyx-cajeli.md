@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9984.0
 names:
   scientific: Ceyx cajeli
-  fa: nan
+  fa: ''
   en: Buru Dwarf Kingfisher
   es: Martín Pigmeo de Buru
   fr: Martin-pêcheur de Buru
@@ -15,7 +15,7 @@ names:
   pt: buru dwarf-kingfisher
   ru: Буруанский зимородок
   ja: ブルカワセミ
-  zh: Buru Dwarf Kingfisher
+  zh: ''
   nl: Burudwergijsvogel
   pl: zimorodek czarnoskrzydły
   tr: Buru Küçük Yalıçapkını

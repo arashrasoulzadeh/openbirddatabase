@@ -12,7 +12,7 @@ names:
   es: Chochín del Pacífico
   fr: Troglodyte de Baird
   de: Pazifikzaunkönig
-  pt: pacific wren
+  pt: ''
   ru: Тихоокеанский крапивник
   ja: タイヘイミソサザイ
   zh: 太平洋鷦鷯

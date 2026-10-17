@@ -12,7 +12,7 @@ names:
   es: Gaviota Andina
   fr: Mouette des Andes
   de: Andenmöwe
-  pt: andean gull
+  pt: ''
   ru: Андская чайка
   ja: アンデスカモメ
   nl: Andesmeeuw

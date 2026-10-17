@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13790.0
 names:
   scientific: Herpsilochmus atricapillus
-  fa: nan
+  fa: ''
   en: Black-capped Antwren
   es: Tiluchí Plomizo
   fr: Grisin mitré

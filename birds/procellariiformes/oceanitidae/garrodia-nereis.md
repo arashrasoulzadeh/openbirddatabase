@@ -15,7 +15,7 @@ names:
   pt: gray-backed storm-petrel
   ru: Сероспинная океанида
   ja: ヒメアシナガウミツバメ
-  zh: Grey-backed Storm Petrel
+  zh: ''
   nl: Grijsrugstormvogeltje
   pl: oceannik szarogrzbiety
   tr: Boz Sırtlı Fırtınakırlangıcı

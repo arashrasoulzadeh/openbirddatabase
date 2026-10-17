@@ -12,7 +12,7 @@ names:
   es: Zordala Cobriza
   fr: Cinclosome cuivré
   de: Kupfermantelflöter
-  pt: copperback quail-thrush
+  pt: ''
   ru: Каштановоспинный флейтист
   ja: アカガネウズラチメドリ
   zh: 铜背鹑鸫

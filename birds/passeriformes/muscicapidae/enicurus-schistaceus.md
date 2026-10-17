@@ -12,7 +12,7 @@ names:
   es: Torrentero Dorsigrís
   fr: Énicure ardoisé
   de: Graurücken-Scherenschwanz
-  pt: slaty-backed forktail
+  pt: ''
   ru: Сероспинная вилохвостка
   ja: セアオエンビシキチョウ
   zh: 灰背燕尾

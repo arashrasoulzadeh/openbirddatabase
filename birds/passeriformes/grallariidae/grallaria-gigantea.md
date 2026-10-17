@@ -12,7 +12,7 @@ names:
   es: Tororoí Gigante
   fr: Grallaire géante
   de: Riesenameisenpitta
-  pt: giant antpitta
+  pt: ''
   ru: Гигантская питтовая муравьеловка
   ja: オニジアリドリ
   nl: Reuzenmierpitta

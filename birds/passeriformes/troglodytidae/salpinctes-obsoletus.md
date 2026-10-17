@@ -12,7 +12,7 @@ names:
   es: Cucarachero Roquero
   fr: Troglodyte des rochers
   de: Felsenzaunkönig
-  pt: rock wren
+  pt: ''
   ru: Скальный крапивник
   ja: イワミソサザイ
   zh: 岩鹪鹩

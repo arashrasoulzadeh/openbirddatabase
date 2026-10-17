@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19565.0
 names:
   scientific: Pachycephala lanioides
-  fa: nan
+  fa: ''
   en: White-breasted Whistler
   es: Silbador Pechiblanco
   fr: Siffleur à bavette blanche
   de: Braunhals-Dickkopf
-  pt: white-breasted whistler
+  pt: ''
   ru: Сорокопутовый свистун
   ja: シロハラモズヒタキ
   zh: 白胸啸鹟

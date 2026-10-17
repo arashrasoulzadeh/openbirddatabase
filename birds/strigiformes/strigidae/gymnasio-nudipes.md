@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8796.0
 names:
   scientific: Gymnasio nudipes
-  fa: nan
+  fa: ''
   en: Puerto Rican Owl
   es: Autillo Puertorriqueño
   fr: Petit-duc de Porto Rico
   de: Nacktfuß-Kreischeule
-  pt: puerto rican owl
+  pt: ''
   ru: Пуэрториканская совка
   ja: プエルトリコオオコノハズク
   nl: Puertoricaanse uil

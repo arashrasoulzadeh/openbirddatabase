@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 29046.0
 names:
   scientific: Sholicola albiventris
-  fa: nan
+  fa: ''
   en: White-bellied Blue Robin
   es: Alicorto Ventriblanco
   fr: Myiomèle à ventre blanc
@@ -15,7 +15,7 @@ names:
   pt: white-bellied sholakili
   ru: Белобрюхий шолакили
   ja: シロハラコンヒタキ
-  zh: White-bellied Blue Robin
+  zh: ''
   nl: Witbuikkortvleugel
   pl: runniczek białobrzuchy
   tr: Ak Karınlı Çivit Bülbülü

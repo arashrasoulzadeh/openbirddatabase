@@ -12,7 +12,7 @@ names:
   es: Dacnis Pechirrojo
   fr: Dacnis à poitrine rouge
   de: Rotbrustpitpit
-  pt: scarlet-breasted dacnis
+  pt: ''
   ru: Красногрудый дакнис
   ja: ムネアカヒワミツドリ
   zh: 红胸锥嘴雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24632.0
 names:
   scientific: Rubigula cyaniventris
-  fa: nan
+  fa: ''
   en: Grey-bellied Bulbul
   es: Bulbul Ventrigrís
   fr: Bulbul à ventre gris
@@ -15,7 +15,7 @@ names:
   pt: gray-bellied bulbul
   ru: Серобрюхий бюльбюль
   ja: ハイムネヒヨドリ
-  zh: Grey-bellied Bulbul
+  zh: ''
   nl: Grijsbuikbuulbuul
   pl: bilbil szarobrzuchy
   tr: Gri-Mavi Karınlı Arapbülbülü

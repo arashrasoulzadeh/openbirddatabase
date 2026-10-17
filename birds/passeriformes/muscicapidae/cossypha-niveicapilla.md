@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29238.0
 names:
   scientific: Cossypha niveicapilla
-  fa: nan
+  fa: ''
   en: Snowy-crowned Robin-Chat
   es: Cosifa Coroninívea
   fr: Cossyphe à calotte neigeuse
   de: Schneescheitelrötel
-  pt: snowy-crowned robin-chat
+  pt: ''
   ru: Седоголовый рыжехвост
   ja: シロズキンツグミヒタキ
   nl: Witkruinlawaaimaker

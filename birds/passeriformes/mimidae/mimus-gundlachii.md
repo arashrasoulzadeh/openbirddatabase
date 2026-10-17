@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28082.0
 names:
   scientific: Mimus gundlachii
-  fa: nan
+  fa: ''
   en: Bahama Mockingbird
   es: Sinsonte de las Bahamas
   fr: Moqueur des Bahamas
   de: Gundlachspottdrossel
-  pt: bahama mockingbird
+  pt: ''
   ru: Багамский пересмешник
   ja: バハママネシツグミ
   nl: Bahamaspotlijster

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13072.0
 names:
   scientific: Pyrrhura hoffmanni
-  fa: nan
+  fa: ''
   en: Sulphur-winged Parakeet
   es: Cotorra Catana
   fr: Conure de Hoffmann
   de: Hoffmannsittich
-  pt: sulphur-winged parakeet
+  pt: ''
   ru: Желтокрылая которра
   ja: ホオベニインコ
   nl: Hoffmannparkiet

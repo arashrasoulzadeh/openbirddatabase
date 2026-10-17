@@ -12,7 +12,7 @@ names:
   es: Orejerito de Parker
   fr: Tyranneau de Parker
   de: Zimtgesicht-Laubtyrann
-  pt: cinnamon-faced tyrannulet
+  pt: ''
   ru: Рыжелицый каричи
   ja: ニッケイガオコバシハエトリ
   nl: Parkerlooftiran

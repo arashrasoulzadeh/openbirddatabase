@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Comrie
   fr: Paradisier d'Entrecasteaux
   de: Kräuselparadieskrähe
-  pt: curl-crested manucode
+  pt: ''
   ru: Курчавая манукодия
   ja: チヂレゲカラスフウチョウ
   nl: Kroeskopparadijskraai

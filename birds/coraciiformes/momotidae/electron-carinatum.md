@@ -12,7 +12,7 @@ names:
   es: Momoto Carenado
   fr: Motmot à bec caréné
   de: Kielschnabelmotmot
-  pt: keel-billed motmot
+  pt: ''
   ru: Ребристоклювый момот
   ja: ミドリヒロハシハチクイモドキ
   nl: Kielsnavelmotmot

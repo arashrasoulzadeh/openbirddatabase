@@ -12,7 +12,7 @@ names:
   es: Cárabo Común
   fr: Chouette hulotte
   de: Waldkauz
-  pt: tawny owl
+  pt: ''
   ru: Серая неясыть
   ja: モリフクロウ
   zh: 西灰林鸮

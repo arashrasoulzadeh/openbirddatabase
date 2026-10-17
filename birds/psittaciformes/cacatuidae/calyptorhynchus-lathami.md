@@ -15,7 +15,7 @@ names:
   pt: glossy black-cockatoo
   ru: Буроголовый траурный какаду
   ja: テリクロオウム
-  zh: Glossy Black Cockatoo
+  zh: ''
   nl: Bruine raafkaketoe
   pl: żałobnica brunatna
   tr: Parlak Siyah Kakadu

@@ -12,7 +12,7 @@ names:
   es: Colibrí Violeta
   fr: Héliange viola
   de: Purpurkehl-Sonnennymphe
-  pt: purple-throated sunangel
+  pt: ''
   ru: Пурпурногорлый феб
   ja: フジノドテンシハチドリ
   zh: 紫喉领蜂鸟

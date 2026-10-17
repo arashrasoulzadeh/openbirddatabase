@@ -12,7 +12,7 @@ names:
   es: Silbador Picoarado
   fr: Écorceur caronculé
   de: Lappenpflugschnabel
-  pt: wattled ploughbill
+  pt: ''
   ru: Бородатый толстоклюв
   ja: ホオダレモズガラ
   zh: 肉垂犁嘴鸟

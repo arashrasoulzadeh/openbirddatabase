@@ -15,7 +15,7 @@ names:
   pt: pale crag-martin
   ru: Пустынная скалистая ласточка
   ja: アフリカチャイロツバメ
-  zh: Pale Crag Martin
+  zh: ''
   nl: Vale Rotszwaluw
   pl: jaskółka płowa
   tr: Kuzeyli Küçük Kaya Kırlangıcı

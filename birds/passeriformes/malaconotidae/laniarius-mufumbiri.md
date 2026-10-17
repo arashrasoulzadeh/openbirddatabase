@@ -12,7 +12,7 @@ names:
   es: Bubú de Los Papiros
   fr: Gonolek des papyrus
   de: Papyruswürger
-  pt: papyrus gonolek
+  pt: ''
   ru: Папирусовый гонолек
   ja: アカハラセグロヤブモズ
   nl: Papyrusfiskaal

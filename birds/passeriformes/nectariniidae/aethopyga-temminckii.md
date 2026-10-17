@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30540.0
 names:
   scientific: Aethopyga temminckii
-  fa: nan
+  fa: ''
   en: Temminck's Sunbird
   es: Suimanga de Temminck
   fr: Souimanga de Temminck
   de: Temmincknektarvogel
-  pt: temminck's sunbird
+  pt: ''
   ru: Краснохвостая нектарница
   ja: ミヤマタイヨウチョウ
   zh: 特氏太陽鳥

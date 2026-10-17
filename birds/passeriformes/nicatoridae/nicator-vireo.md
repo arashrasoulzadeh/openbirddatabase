@@ -12,7 +12,7 @@ names:
   es: Conquistador Gorjiamarillo
   fr: Nicator à gorge jaune
   de: Gelbkehl-Tropfenvogel
-  pt: yellow-throated nicator
+  pt: ''
   ru: Желтогорлый никатор
   ja: キノドムシクイヒヨ
   nl: Geelkeelnicator

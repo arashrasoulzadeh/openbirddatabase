@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4882.0
 names:
   scientific: Cynanthus forficatus
-  fa: nan
+  fa: ''
   en: Cozumel Emerald
   es: Esmeralda de Cozumel
   fr: Émeraude de Cozumel
   de: Schwalbenschwanz-Smaragdkolibri
-  pt: cozumel emerald
+  pt: ''
   ru: Косумельский изумруд
   ja: コスメルヒメエメラルドハチドリ
   zh: 科苏梅尔翠蜂鸟

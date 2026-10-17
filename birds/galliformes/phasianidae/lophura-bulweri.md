@@ -12,7 +12,7 @@ names:
   es: Faisán Coliblanco
   fr: Faisan de Bulwer
   de: Bulwerfasan
-  pt: bulwer's pheasant
+  pt: ''
   ru: Белохвостый фазан
   ja: オジロウチワキジ
   zh: 鳞背鹇

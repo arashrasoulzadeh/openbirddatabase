@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 30474.0
 names:
   scientific: Cinnyris clementiae
-  fa: nan
+  fa: ''
   en: South Moluccan Sunbird
   es: Suimanga de Clemence
   fr: Souimanga de Clémence
-  pt: south moluccan sunbird
+  pt: ''
   nl: Zuid-Molukse honingzuiger
   pl: nektarnik molucki
   tr: Güney Maluku Nektarkuşu

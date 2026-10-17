@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10720.0
 names:
   scientific: Psilopogon pyrolophus
-  fa: nan
+  fa: ''
   en: Fire-tufted Barbet
   es: Barbudo Picofuego
   fr: Barbu à collier
   de: Rotbüschel-Bartvogel
-  pt: fire-tufted barbet
+  pt: ''
   ru: Чубатый бородастик
   ja: アカフサゴシキドリ
   zh: 火簇擬啄木鳥

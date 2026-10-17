@@ -12,7 +12,7 @@ names:
   es: Sargento Tricolor
   fr: Carouge de Californie
   de: Dreifarbenstärling
-  pt: tricolored blackbird
+  pt: ''
   ru: Трёхцветный трупиал
   ja: サンショクハゴロモガラス
   zh: 三色黑鸝

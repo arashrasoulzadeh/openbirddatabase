@@ -12,7 +12,7 @@ names:
   es: Batis de Erlanger
   fr: Pririt d'Erlanger
   de: Kongoschnäpper
-  pt: western black-headed batis
+  pt: ''
   ru: Экваториальный батис
   nl: Westelijke savannevliegenvanger
   pl: krępnik białobrewy

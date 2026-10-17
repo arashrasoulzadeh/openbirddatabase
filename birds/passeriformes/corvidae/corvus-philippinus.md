@@ -10,7 +10,7 @@ names:
   en: Philippine Jungle Crow
   es: Cuervo Filipino
   fr: Corbeau des Philippines
-  pt: philippine jungle crow
+  pt: ''
   ja: フィリピンハシブトガラス
   zh: 菲律賓巨嘴鴉
   nl: Filipijnse kraai

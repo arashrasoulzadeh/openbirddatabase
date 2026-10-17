@@ -12,7 +12,7 @@ names:
   es: Frutero Pechinegro
   fr: Cotinga de Lubomirsk
   de: Schwarzkappenkotinga
-  pt: black-chested fruiteater
+  pt: ''
   ru: Черногрудый ягодоед
   ja: ムナグロミドリカザリドリ
   nl: Zwartborstcotinga

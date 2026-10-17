@@ -12,7 +12,7 @@ names:
   es: Frailecillo Corniculado
   fr: Macareux cornu
   de: Hornlund
-  pt: horned puffin
+  pt: ''
   ru: Ипатка
   ja: ツノメドリ
   zh: 角海鹦

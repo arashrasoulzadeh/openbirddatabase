@@ -12,7 +12,7 @@ names:
   es: Hemispingo Dorsigrís
   fr: Chipiu de Goering
   de: Graurücken-Finkentangare
-  pt: slaty-backed hemispingus
+  pt: ''
   ru: Рыжебрюхая пипира
   ja: アカハラモリフウキンチョウ
   nl: Grijsrugboomgors

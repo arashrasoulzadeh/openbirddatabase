@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 7075.0
 names:
   scientific: Hydrobates macrodactylus
-  fa: nan
+  fa: ''
   en: Guadalupe Storm Petrel
   es: Paíño de Isla Guadalupe
   fr: Océanite de Guadalupe
@@ -15,7 +15,7 @@ names:
   pt: guadalupe storm-petrel
   ru: Гуадалупская качурка
   ja: グアダループウミツバメ
-  zh: Guadalupe Storm Petrel
+  zh: ''
   nl: Guadalupestormvogeltje
   pl: nawałnik reliktowy
   tr: Guadalupe Fırtınakırlangıcı

@@ -12,7 +12,7 @@ names:
   es: Salangana Montana
   fr: Salangane de montagne
   de: Bergsalangane
-  pt: mountain swiftlet
+  pt: ''
   ru: Ласточковая салангана
   ja: ヤマアナツバメ
   zh: 山金丝燕

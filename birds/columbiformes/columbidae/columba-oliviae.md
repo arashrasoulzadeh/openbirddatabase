@@ -12,7 +12,7 @@ names:
   es: Paloma Somalí
   fr: Pigeon de Somalie
   de: Somalitaube
-  pt: somali pigeon
+  pt: ''
   ru: Сомалийский голубь
   ja: ソマリーヒメバト
   zh: 索馬里鴿

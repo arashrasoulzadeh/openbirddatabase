@@ -12,7 +12,7 @@ names:
   es: Águila de Java
   fr: Aigle de Java
   de: Javahaubenadler
-  pt: javan hawk-eagle
+  pt: ''
   ru: Яванский хохлатый орёл
   ja: ジャワクマタカ
   zh: 爪哇鹰雕

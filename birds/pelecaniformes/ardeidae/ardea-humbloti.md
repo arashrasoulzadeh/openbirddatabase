@@ -12,7 +12,7 @@ names:
   es: Garza Malgache
   fr: Héron de Humblot
   de: Madagaskarreiher
-  pt: humblot's heron
+  pt: ''
   ru: Мадагаскарская цапля
   ja: マダガスカルサギ
   zh: 馬島鷺

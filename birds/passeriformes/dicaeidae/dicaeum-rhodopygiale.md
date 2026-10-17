@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 30111.0
 names:
   scientific: Dicaeum rhodopygiale
-  fa: nan
+  fa: ''
   en: Flores Flowerpecker
   es: Picaflores de Flores
   fr: Dicée de Flores
-  pt: flores flowerpecker
+  pt: ''
   nl: Floreshoningvogel
   pl: kwiatówka floreska
   tr: Flores Öksekuşu

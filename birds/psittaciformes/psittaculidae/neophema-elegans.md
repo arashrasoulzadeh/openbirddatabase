@@ -12,7 +12,7 @@ names:
   es: Periquito Elegante
   fr: Perruche élégante
   de: Schmucksittich
-  pt: elegant parrot
+  pt: ''
   ru: Украшенный травяной попугайчик
   ja: ワカナインコ
   zh: 藍眉草鸚鵡

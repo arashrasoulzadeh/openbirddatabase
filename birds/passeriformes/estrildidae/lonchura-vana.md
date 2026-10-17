@@ -15,7 +15,7 @@ names:
   pt: gray-banded munia
   ru: Белолицая муния
   ja: アルファクヘキチョウ
-  zh: Grey-banded Mannikin
+  zh: ''
   nl: Arfaknon
   pl: mniszka złotosterna
   tr: Arfak Munyası

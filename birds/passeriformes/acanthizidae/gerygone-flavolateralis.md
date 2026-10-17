@@ -12,7 +12,7 @@ names:
   es: Gerigón Melanesio
   fr: Gérygone mélanésienne
   de: Fächerschwanzgerygone
-  pt: fan-tailed gerygone
+  pt: ''
   ru: Новокаледонская геригона
   ja: カレドニアセンニョムシクイ
   nl: Vanuatumangrovezanger

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9377.0
 names:
   scientific: Ninox leventisi
-  fa: nan
+  fa: ''
   en: Camiguin Boobook
   es: Nínox de Camiguín
   fr: Ninoxe de Camiguin
   de: Camiguinkauz
-  pt: camiguin boobook
+  pt: ''
   ru: Камигуинская иглоногая сова
   ja: カミギンアオバズク
   nl: Camiguinvalkuil

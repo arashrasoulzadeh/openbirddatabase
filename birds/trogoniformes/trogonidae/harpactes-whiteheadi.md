@@ -12,7 +12,7 @@ names:
   es: Trogón de Borneo
   fr: Trogon de Whitehead
   de: Graubrusttrogon
-  pt: whitehead's trogon
+  pt: ''
   ru: Серогрудый трогон
   ja: ノドグロキヌバネドリ
   zh: 灰胸咬鵑

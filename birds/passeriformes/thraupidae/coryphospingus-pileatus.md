@@ -15,7 +15,7 @@ names:
   pt: tico-tico-rei-cinza
   ru: Серая арагуира
   ja: シロハラベニイタダキ
-  zh: Grey Pileated Finch
+  zh: ''
   nl: Grijze kroongors
   pl: lanio siwy
   tr: Taçlı Gri İspinoz

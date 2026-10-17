@@ -12,7 +12,7 @@ names:
   es: Busardo Cuellirrojo
   fr: Buse d'Afrique
   de: Rostnackenbussard
-  pt: red-necked buzzard
+  pt: ''
   ru: Красношейный канюк
   ja: アフリカアカオノスリ
   nl: Afrikaanse roodstaartbuizerd

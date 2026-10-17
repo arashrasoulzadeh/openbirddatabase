@@ -12,7 +12,7 @@ names:
   es: Neosita Papú
   fr: Néositte papoue
   de: Papuakleiber
-  pt: papuan sittella
+  pt: ''
   ru: Папуанская сителла
   ja: パプアゴジュウカラ
   zh: 巴布亞澳鳾

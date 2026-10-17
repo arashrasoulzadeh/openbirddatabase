@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 25994.0
 names:
   scientific: Spelaeornis kinneari
-  fa: nan
+  fa: ''
   en: Pale-throated Wren-Babbler
   es: Ratina Gorjipálida
   fr: Timalie de Kinnear
   de: Blasskehl-Zaunkönigtimalie
-  pt: pale-throated wren-babbler
+  pt: ''
   ru: Светлогорлый тинглин
   ja: ノドジロオナガサザイチメドリ
   zh: 淡喉鹩鹛

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10762.0
 names:
   scientific: Psilopogon corvinus
-  fa: nan
+  fa: ''
   en: Brown-throated Barbet
   es: Barbudo Corvino
   fr: Barbu corbin
   de: Braunkehl-Bartvogel
-  pt: brown-throated barbet
+  pt: ''
   ru: Бурогорлый бородастик
   ja: チャノドゴシキドリ
   zh: 褐喉拟啄木鸟

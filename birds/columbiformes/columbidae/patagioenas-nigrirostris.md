@@ -12,7 +12,7 @@ names:
   es: Paloma Piquicorta
   fr: Pigeon à bec noir
   de: Kurzschnabeltaube
-  pt: short-billed pigeon
+  pt: ''
   ru: Короткоклювый голубь
   ja: コバシバト
   zh: 短嘴鴿

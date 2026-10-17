@@ -11,7 +11,7 @@ names:
   es: Monarca de Isla Maupiti
   fr: Monarque de Maupiti
   de: Maupiti-Monarch
-  pt: maupiti monarch
+  pt: ''
   ru: Полинезийская помарея
   ja: マウピティヒタキ
   nl: Maupitimonarch

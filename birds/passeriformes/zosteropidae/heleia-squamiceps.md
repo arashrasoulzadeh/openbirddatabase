@@ -12,10 +12,10 @@ names:
   es: Anteojitos Cabecirrayado
   fr: Zostérops à tête rayée
   de: Schuppenkopf-Brillenvogel
-  pt: sulawesi heleia
+  pt: ''
   ru: Пестроголовая элейя
   ja: ウロコメジロ
-  zh: Streak-headed White-eye
+  zh: ''
   nl: Sulawesibergbrilvogel
   pl: okularowiec łuskogłowy
   tr: Kırçıllı Gözlükçü

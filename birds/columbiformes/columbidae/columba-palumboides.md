@@ -15,7 +15,7 @@ names:
   pt: andaman wood-pigeon
   ru: Андаманский вяхирь
   ja: アンダマンモリバト
-  zh: Andaman Wood Pigeon
+  zh: ''
   nl: Andamanenhoutduif
   pl: gołąb siwogłowy
   tr: Andaman Güvercini

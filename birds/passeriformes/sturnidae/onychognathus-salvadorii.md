@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27925.0
 names:
   scientific: Onychognathus salvadorii
-  fa: nan
+  fa: ''
   en: Bristle-crowned Starling
   es: Estornino de Salvadori
   fr: Rufipenne de Salvadori
   de: Helmstar
-  pt: bristle-crowned starling
+  pt: ''
   ru: Шлемоносный скворец
   ja: カンムリテリムク
   nl: Borstelkruinspreeuw

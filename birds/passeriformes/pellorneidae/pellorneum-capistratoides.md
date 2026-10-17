@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26240.0
 names:
   scientific: Pellorneum capistratoides
-  fa: nan
+  fa: ''
   en: Bornean Black-capped Babbler
   es: Tordina de Borneo
   fr: Akalat de Bornéo
   de: Borneoerddrossling
-  pt: bornean black-capped babbler
+  pt: ''
   zh: 婆羅洲黑冠幽鶥
   nl: Borneose jungletimalia
   pl: dżunglak borneański

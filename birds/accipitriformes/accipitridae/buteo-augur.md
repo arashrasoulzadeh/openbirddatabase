@@ -12,7 +12,7 @@ names:
   es: Busardo Augur Oriental
   fr: Buse augure
   de: Augurbussard
-  pt: augur buzzard
+  pt: ''
   ru: Канюк-авгур
   ja: ヨゲンノスリ
   zh: 棕鵟

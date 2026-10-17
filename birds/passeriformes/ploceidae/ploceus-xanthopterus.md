@@ -12,7 +12,7 @@ names:
   es: Tejedor Gorjipardo Sureño
   fr: Tisserin à gorge brune
   de: Braunkehlweber
-  pt: southern brown-throated weaver
+  pt: ''
   ru: Коричневогорлый ткач
   ja: チャノドハタオリ
   nl: Bruinkeelwever

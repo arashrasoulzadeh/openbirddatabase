@@ -12,7 +12,7 @@ names:
   es: Vencejo Arborícola Chico
   fr: Hémiprocné coiffé
   de: Ohrenbaumsegler
-  pt: whiskered treeswift
+  pt: ''
   ru: Ушастый клехо
   ja: コシラヒゲカンムリアマツバメ
   zh: 小鳳頭雨燕

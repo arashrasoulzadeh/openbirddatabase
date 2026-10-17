@@ -12,7 +12,7 @@ names:
   es: Gorrión Swahili
   fr: Moineau swahili
   de: Suahelisperling
-  pt: swahili sparrow
+  pt: ''
   ru: Суахильский воробей
   ja: スワヒリハイガシラスズメ
   zh: 東非麻雀

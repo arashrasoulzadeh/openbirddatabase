@@ -12,7 +12,7 @@ names:
   es: Perdiz Gorjinegra
   fr: Perdrix de Philby
   de: Philbysteinhuhn
-  pt: philby's partridge
+  pt: ''
   ru: Аравийский кеклик
   ja: ノドグロイワシャコ
   zh: 黑臉石雞

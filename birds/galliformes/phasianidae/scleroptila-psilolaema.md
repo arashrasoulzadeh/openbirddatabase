@@ -12,7 +12,7 @@ names:
   es: Francolín Etíope
   fr: Francolin montagnard
   de: Hochlandfrankolin
-  pt: moorland francolin
+  pt: ''
   ru: Горный франколин
   ja: コウゲンシャコ
   zh: 高地鹧鸪

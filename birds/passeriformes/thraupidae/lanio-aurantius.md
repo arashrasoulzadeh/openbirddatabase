@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34786.0
 names:
   scientific: Lanio aurantius
-  fa: nan
+  fa: ''
   en: Black-throated Shrike-Tanager
   es: Tangara Gorjinegra
   fr: Tangara à gorge noire
   de: Schwarzkehl-Würgertangare
-  pt: black-throated shrike-tanager
+  pt: ''
   ru: Черногорлая сорокопутовая танагра
   ja: ノドグロモズフウキンチョウ
   nl: Zwartkeelklauwiertangare

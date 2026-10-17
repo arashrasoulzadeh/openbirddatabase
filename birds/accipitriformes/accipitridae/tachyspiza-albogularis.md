@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8215.0
 names:
   scientific: Tachyspiza albogularis
-  fa: nan
+  fa: ''
   en: Pied Goshawk
   es: Gavilán Pío
   fr: Autour pie
   de: Elsterhabicht
-  pt: pied goshawk
+  pt: ''
   ru: Сорочий ястреб
   ja: ノドジロオオタカ
   zh: 鵲色鷹

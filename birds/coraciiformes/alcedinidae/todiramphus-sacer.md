@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10143.0
 names:
   scientific: Todiramphus sacer
-  fa: nan
+  fa: ''
   en: Pacific Kingfisher
   es: Alción del Pacífico
   fr: Martin-chasseur du Pacifique
   de: Pazifikliest
-  pt: pacific kingfisher
+  pt: ''
   ru: Океанская альциона
   ja: タイヘイヨウショウビン
   zh: 太平洋翡翠

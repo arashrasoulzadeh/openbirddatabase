@@ -6,12 +6,12 @@ iucn_status: VU
 taxon_order: 5012.0
 names:
   scientific: Eupherusa ridgwayi
-  fa: nan
+  fa: ''
   en: Mexican Woodnymph
   es: Zafiro Mexicano
   fr: Dryade du Mexique
   de: Mexikonymphe
-  pt: mexican woodnymph
+  pt: ''
   ru: Мексиканская талурания
   ja: メキシコモリハチドリ
   nl: Mexicaanse bosnimf

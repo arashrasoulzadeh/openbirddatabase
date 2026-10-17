@@ -12,7 +12,7 @@ names:
   es: Petrel Níveo
   fr: Pétrel des neiges
   de: Schneesturmvogel
-  pt: snow petrel
+  pt: ''
   ru: Снежный буревестник
   ja: ユキドリ
   zh: 雪鹱

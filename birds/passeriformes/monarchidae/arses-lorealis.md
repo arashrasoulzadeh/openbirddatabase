@@ -12,7 +12,7 @@ names:
   es: Monarca de Cabo York
   fr: Monarque ruché
   de: Yorkmonarch
-  pt: frill-necked monarch
+  pt: ''
   ru: Синеглазый воротничковый монарх
   ja: ケープヨークエリマキヒタキ
   nl: Witborstfranjemonarch

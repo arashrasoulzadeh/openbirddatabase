@@ -15,7 +15,7 @@ names:
   pt: falcão-caburé
   ru: Полосатый лесной сокол
   ja: ヨコジマモリハヤブサ
-  zh: Barred Forest Falcon
+  zh: ''
   nl: Gestreepte bosvalk
   pl: trębacz prążkowany
   tr: Yazılı Orman Doğanı

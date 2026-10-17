@@ -12,7 +12,7 @@ names:
   es: Colibrí de Stanley
   fr: Métallure de Stanley
   de: Schwarzkopf-Glanzschwänzchen
-  pt: blue-mantled thornbill
+  pt: ''
   ru: Черноголовый радужник
   ja: セアオコバシハチドリ
   zh: 蓝背尖嘴蜂鸟

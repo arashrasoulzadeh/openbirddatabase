@@ -12,7 +12,7 @@ names:
   es: Akepa de Hawái
   fr: Loxopse d'Hawaï
   de: Hawaii-Akepakleidervogel
-  pt: hawaii akepa
+  pt: ''
   ru: Алая акепа
   ja: コバシハワイミツスイ
   nl: Hawaï-akepa

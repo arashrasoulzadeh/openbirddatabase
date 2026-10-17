@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8135.0
 names:
   scientific: Tachyspiza virgata
-  fa: nan
+  fa: ''
   en: Besra
   es: Gavilán Besra
   fr: Épervier besra
   de: Besrasperber
-  pt: besra
+  pt: ''
   ru: Индийский перепелятник
   ja: ミナミツミ
   zh: 松雀鹰

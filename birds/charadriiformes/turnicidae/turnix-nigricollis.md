@@ -12,7 +12,7 @@ names:
   es: Torillo Malgache
   fr: Turnix de Madagascar
   de: Schwarzkehl-Laufhühnchen
-  pt: madagascar buttonquail
+  pt: ''
   ru: Мадагаскарская трёхперстка
   ja: マダガスカルミフウズラ
   zh: 马岛三趾鹑

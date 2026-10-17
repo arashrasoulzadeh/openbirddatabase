@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 9560.0
 names:
   scientific: Trogon tenellus
-  fa: nan
+  fa: ''
   en: Graceful Black-throated Trogon
   es: Trogón Amarillo Norteño
   fr: Trogon de Cabanis
   de: Nördlicher Schwarzkehltrogon
-  pt: graceful black-throated trogon
-  zh: Northern Black-throated Trogon
+  pt: ''
+  zh: ''
   nl: Noordelijke zwartkeeltrogon
   pl: trogon modrosterny
   tr: Kuzeyli Kara Gerdanlı Trogon

@@ -12,7 +12,7 @@ names:
   es: Chochita de las Auckland
   fr: Bécassine des Auckland
   de: Aucklandschnepfe
-  pt: subantarctic snipe
+  pt: ''
   ru: Оклендский хакавай
   ja: ムカシジシギ
   nl: Aucklandsnip

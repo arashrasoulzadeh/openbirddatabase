@@ -12,7 +12,7 @@ names:
   es: Artamo Ceniciento
   fr: Langrayen brun
   de: Grauschwalbenstar
-  pt: ashy woodswallow
+  pt: ''
   ru: Серый артам
   ja: ハイイロモリツバメ
   zh: 灰燕鵙

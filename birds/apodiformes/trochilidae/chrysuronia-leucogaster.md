@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5164.0
 names:
   scientific: Chrysuronia leucogaster
-  fa: nan
+  fa: ''
   en: Plain-bellied Emerald
   es: Amazilia Ventriblanca
   fr: Ariane vert-doré

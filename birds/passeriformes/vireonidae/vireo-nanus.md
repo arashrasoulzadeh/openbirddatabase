@@ -12,7 +12,7 @@ names:
   es: Vireo de la Española
   fr: Viréo d'Hispaniola
   de: Schnäppervireo
-  pt: flat-billed vireo
+  pt: ''
   ru: Плоскоклювый виреон
   ja: ヒラハシモズモドキ
   nl: Platsnavelvireo

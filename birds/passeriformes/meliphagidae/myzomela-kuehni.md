@@ -15,7 +15,7 @@ names:
   pt: crimson-hooded myzomela
   ru: Ветарская медовка
   ja: シロハラミツスイ
-  zh: Wetar Myzomela
+  zh: ''
   nl: Wetardwerghoningeter
   pl: miodówka szkarłatna
   tr: Wetar Mizomelası

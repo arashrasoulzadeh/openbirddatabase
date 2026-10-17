@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 29418.0
 names:
   scientific: Myophonus blighi
-  fa: nan
+  fa: ''
   en: Sri Lanka Whistling Thrush
   es: Arrenga de Sri Lanka
   fr: Arrenga de Ceylan
@@ -15,7 +15,7 @@ names:
   pt: sri lanka whistling-thrush
   ru: Ланкийская синяя птица
   ja: セイロンルリチョウ
-  zh: Sri Lanka Whistling Thrush
+  zh: ''
   nl: Ceylonese fluitlijster
   pl: gwizdokos cejloński
   tr: Seylan Islıkçı Bülbülü

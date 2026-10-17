@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5631.0
 names:
   scientific: Laterallus flaviventer
-  fa: nan
+  fa: ''
   en: Yellow-breasted Crake
   es: Polluela Pálida
   fr: Râle à sourcils blancs

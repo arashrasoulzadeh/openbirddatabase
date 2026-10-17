@@ -12,7 +12,7 @@ names:
   es: Monterita Boliviana
   fr: Chipiu de Bolivie
   de: Zimtbrust-Finkentangare
-  pt: bolivian warbling finch
+  pt: ''
   ru: Боливийская монтерита
   ja: ボリビアマユシトド
   nl: Boliviaanse boomgors

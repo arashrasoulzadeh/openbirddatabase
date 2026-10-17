@@ -12,7 +12,7 @@ names:
   es: Zorzal Patirrojo Occidental
   fr: Merle vantard
   de: Rotfußdrossel
-  pt: western red-legged thrush
+  pt: ''
   ru: Красноногий дрозд
   ja: オジロツグミ
   nl: Westelijke roodpootlijster

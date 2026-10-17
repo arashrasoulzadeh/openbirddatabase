@@ -12,7 +12,7 @@ names:
   es: Anteojitos Oriental
   fr: Zostérops oriental
   de: Gangesbrillenvogel
-  pt: indian white-eye
+  pt: ''
   ru: Восточная белоглазка
   ja: インドメジロ
   zh: 灰腹绣眼鸟

@@ -12,7 +12,7 @@ names:
   es: Urraca Bronceada
   fr: Témia bronzée
   de: Spatelbaumelster
-  pt: racket-tailed treepie
+  pt: ''
   ru: Ракетохвостая сорока
   ja: クロラケットオナガ
   zh: 盘尾树鹊

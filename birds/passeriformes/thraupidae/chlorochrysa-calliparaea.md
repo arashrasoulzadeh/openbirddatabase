@@ -12,7 +12,7 @@ names:
   es: Tangara Orejinaranja
   fr: Tangara de Tschudi
   de: Schwarzkehl-Bunttangare
-  pt: orange-eared tanager
+  pt: ''
   ru: Каштановоухая танагра
   ja: ホオアカエメラルドフウキンチョウ
   nl: Oranjeoortangare

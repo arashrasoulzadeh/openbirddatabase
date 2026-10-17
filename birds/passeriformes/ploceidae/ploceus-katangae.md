@@ -15,7 +15,7 @@ names:
   pt: katanga masked-weaver
   ru: Катангский ткач
   ja: カタンガメンガタハタオリ
-  zh: Katanga Masked Weaver
+  zh: ''
   nl: Katangawever
   pl: wikłacz katangijski
   tr: Katanga Dokumacısı

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28152.0
 names:
   scientific: Stizorhina finschi
-  fa: nan
+  fa: ''
   en: Finsch's Rufous Thrush
   es: Zorzal de Finsch
   fr: Stizorhin de Finsch
@@ -15,7 +15,7 @@ names:
   pt: finsch's flycatcher-thrush
   ru: Гвинейский мухоловкодрозд
   ja: オジロサビイロヒタキ
-  zh: Finsch's Rufous Thrush
+  zh: ''
   nl: Finschkortpootlijster
   pl: wahal śniady
   tr: Finsch Kızıl Ardıcı

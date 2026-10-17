@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34244.0
 names:
   scientific: Basileuterus belli
-  fa: nan
+  fa: ''
   en: Golden-browed Warbler
   es: Reinita Cejidorada
   fr: Paruline à sourcils dorés
   de: Goldstreif-Waldsänger
-  pt: golden-browed warbler
+  pt: ''
   ru: Златобровая корольковка
   ja: キンマユアメリカムシクイ
   nl: Goudbrauwzanger

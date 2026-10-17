@@ -12,7 +12,7 @@ names:
   es: Gorrión de Socotra
   fr: Moineau de Socotra
   de: Sokotrasperling
-  pt: socotra sparrow
+  pt: ''
   ru: Сокотранский воробей
   ja: ソコトラスズメ
   zh: 索島麻雀

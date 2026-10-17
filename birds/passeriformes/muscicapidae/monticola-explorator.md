@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 29643.0
 names:
   scientific: Monticola explorator
-  fa: nan
+  fa: ''
   en: Sentinel Rock Thrush
   es: Roquero Centinela
   fr: Monticole espion
@@ -15,7 +15,7 @@ names:
   pt: sentinel rock-thrush
   ru: Длиннопалый каменный дрозд
   ja: コシアカイソヒヨ
-  zh: Sentinel Rock Thrush
+  zh: ''
   nl: Langteenrotslijster
   pl: nagórnik modroszyi
   tr: Kaşif Taşkızılı

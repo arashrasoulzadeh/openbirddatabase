@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5216.0
 names:
   scientific: Mentocrex kioloides
-  fa: nan
+  fa: ''
   en: Madagascar Forest Rail
   es: Rascón Kioloide
   fr: Râle à gorge blanche
   de: Graukehlralle
-  pt: madagascar forest rail
+  pt: ''
   ru: Каштановая лесная курочка
   ja: マダガスカルクイナ
   zh: 马岛林秧鸡

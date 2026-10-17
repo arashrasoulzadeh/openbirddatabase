@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Los Meratus
   fr: Gobemouche des Meratus
   de: Meratusblauschnäpper
-  pt: meratus blue flycatcher
+  pt: ''
   ja: ミナミカリマンタンヒメアオヒタキ
   nl: Meratusniltava
   pl: dżunglówka skryta

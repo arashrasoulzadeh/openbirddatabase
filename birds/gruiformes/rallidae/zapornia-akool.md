@@ -12,7 +12,7 @@ names:
   es: Polluela Akul
   fr: Marouette akool
   de: Braunbauch-Kielralle
-  pt: brown crake
+  pt: ''
   ru: Серобрюхий погоныш
   ja: チャバネクイナ
   nl: Bruin waterhoen

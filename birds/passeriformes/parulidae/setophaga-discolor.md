@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34185.0
 names:
   scientific: Setophaga discolor
-  fa: nan
+  fa: ''
   en: Prairie Warbler
   es: Reinita Galana
   fr: Paruline des prés
   de: Rotmantel-Waldsänger
-  pt: prairie warbler
+  pt: ''
   ru: Прерийная древесница
   ja: チャスジアメリカムシクイ
   zh: 草原林鶯

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34152.0
 names:
   scientific: Setophaga pityophila
-  fa: nan
+  fa: ''
   en: Olive-capped Warbler
   es: Reinita Coroniverde
   fr: Paruline à calotte verte
   de: Kubawaldsänger
-  pt: olive-capped warbler
+  pt: ''
   ru: Кубинская древесница
   ja: キューバアメリカムシクイ
   nl: Olijfkruinzanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18187.0
 names:
   scientific: Philemon kisserensis
-  fa: nan
+  fa: ''
   en: Grey Friarbird
   es: Filemón de Kisar
   fr: Polochion de Kisar
@@ -15,7 +15,7 @@ names:
   pt: gray friarbird
   ru: Серый кожеголов
   ja: ハイイロハゲミツスイ
-  zh: Grey Friarbird
+  zh: ''
   nl: Kisserlederkop
   pl: filemon szary
   tr: Gri Yüzlü Keşişkuşu

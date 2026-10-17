@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Borneo
   fr: Gobemouche de Bornéo
   de: Prachtblauschnäpper
-  pt: bornean blue flycatcher
+  pt: ''
   ru: Великолепная нильтава
   ja: ボルネオヒメアオヒタキ
   nl: Borneose niltava

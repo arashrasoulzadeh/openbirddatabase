@@ -12,7 +12,7 @@ names:
   es: Prinia Carirrufa
   fr: Cisticole à joues rousses
   de: Rotohrsänger
-  pt: rufous-eared warbler
+  pt: ''
   ru: Рыжещёкий тонкохвост
   ja: ムナオビハウチワドリ
   nl: Roodoorprinia

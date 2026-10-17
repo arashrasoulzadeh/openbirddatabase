@@ -12,7 +12,7 @@ names:
   es: Chotacabras Espinero
   fr: Engoulevent des épines
   de: Dornbusch-Nachtschwalbe
-  pt: donaldson smith's nightjar
+  pt: ''
   ru: Сомалийский козодой
   ja: ヒメヨタカ
   zh: 德氏夜鹰

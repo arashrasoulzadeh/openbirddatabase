@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 9387.0
 names:
   scientific: Ninox natalis
-  fa: nan
+  fa: ''
   en: Christmas Boobook
   es: Nínox de Isla Navidad
   fr: Ninoxe de Christmas
@@ -15,7 +15,7 @@ names:
   pt: christmas island boobook
   ru: Рождественская иглоногая сова
   ja: クリスマスアオバズク
-  zh: Christmas Boobook
+  zh: ''
   nl: Christmasvalkuil
   pl: sowica prążkowana
   tr: Kızıl Çizgili Bubuk

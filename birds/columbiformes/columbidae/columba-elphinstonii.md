@@ -15,7 +15,7 @@ names:
   pt: nilgiri wood-pigeon
   ru: Нильгирийский вяхирь
   ja: カノコモリバト
-  zh: Nilgiri Wood Pigeon
+  zh: ''
   nl: Nilgirihoutduif
   pl: gołąb brązowogrzbiety
   tr: Nilgiri Tahtalısı

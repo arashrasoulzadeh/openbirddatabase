@@ -15,7 +15,7 @@ names:
   pt: principe golden-weaver
   ru: Принсипский ткач
   ja: プリンシペハタオリ
-  zh: Principe Weaver
+  zh: ''
   nl: Principewever
   pl: wikłacz zatokowy
   tr: Prinsipe Dokumacısı

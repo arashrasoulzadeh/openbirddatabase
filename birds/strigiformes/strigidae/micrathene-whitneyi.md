@@ -12,7 +12,7 @@ names:
   es: Mochuelo de Los Saguaros
   fr: Chevêchette des saguaros
   de: Elfenkauz
-  pt: elf owl
+  pt: ''
   ru: Сычик-эльф
   ja: サボテンフクロウ
   zh: 姬鴞

@@ -12,7 +12,7 @@ names:
   es: Akohekohe
   fr: Palmérie huppée
   de: Haubenkleidervogel
-  pt: akohekohe
+  pt: ''
   ru: Акохекохе
   ja: カンムリハワイミツスイ
   zh: 冠旋蜜雀

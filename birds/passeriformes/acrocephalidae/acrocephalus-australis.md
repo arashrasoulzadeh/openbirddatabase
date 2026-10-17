@@ -12,7 +12,7 @@ names:
   es: Carricero Australiano
   fr: Rousserolle d'Australie
   de: Australrohrsänger
-  pt: australian reed warbler
+  pt: ''
   ru: Австралийская камышовка
   ja: オーストラリアヨシキリ
   zh: 澳洲苇莺

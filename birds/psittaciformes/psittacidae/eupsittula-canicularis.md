@@ -12,7 +12,7 @@ names:
   es: Aratinga Frentinaranja
   fr: Conure à front rouge
   de: Elfenbeinsittich
-  pt: orange-fronted parakeet
+  pt: ''
   ru: Оранжеволобая аратинга
   ja: メキシコインコ
   nl: Ivooraratinga

@@ -12,7 +12,7 @@ names:
   es: Loro Piquiancho
   fr: Perruche à gros bec
   de: Mauritiuspapagei
-  pt: broad-billed parrot
+  pt: ''
   ru: Ширококлювый попугай
   ja: モーリシャスインコ
   zh: 毛里求斯鸚鵡

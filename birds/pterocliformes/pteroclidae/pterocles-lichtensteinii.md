@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2894.0
 names:
   scientific: Pterocles lichtensteinii
-  fa: nan
+  fa: ''
   en: Lichtenstein's Sandgrouse
   es: Ganga de Lichtenstein
   fr: Ganga de Lichtenstein

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32181.0
 names:
   scientific: Carpodacus roborowskii
-  fa: nan
+  fa: ''
   en: Tibetan Rosefinch
   es: Camachuelo de Roborowski
   fr: Roselin de Roborowski
   de: Roborowskigimpel
-  pt: tibetan rosefinch
+  pt: ''
   ru: Тибетская чечевица
   ja: ハネナガマシコ
   zh: 藏雀

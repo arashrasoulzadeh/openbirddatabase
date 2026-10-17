@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35454.0
 names:
   scientific: Poospiza baeri
-  fa: nan
+  fa: ''
   en: Tucuman Mountain Finch
   es: Monterita de Tucumán
   fr: Chipiu du Tucuman
   de: Graubauch-Finkentangare
-  pt: tucuman mountain finch
+  pt: ''
   ru: Тукуманская монтерита
   ja: アカビタイマユシトド
   nl: Tucumanboomgors

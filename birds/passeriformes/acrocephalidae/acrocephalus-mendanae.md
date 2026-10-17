@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23737.0
 names:
   scientific: Acrocephalus mendanae
-  fa: nan
+  fa: ''
   en: Southern Marquesan Reed Warbler
   es: Carricero de las Marquesas Meridional
   fr: Rousserolle des Marquises
   de: Südmarquesas-Rohrsänger
-  pt: southern marquesan reed warbler
+  pt: ''
   ru: Фатухивская камышовка
   ja: マルケサスヨシキリ
   zh: 马岛苇莺

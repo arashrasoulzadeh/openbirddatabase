@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15045.0
 names:
   scientific: Furnarius torridus
-  fa: nan
+  fa: ''
   en: Bay Hornero
   es: Hornero Castaño
   fr: Fournier à bec clair
@@ -15,7 +15,7 @@ names:
   pt: joão-de-bico-pálido
   ru: Светлоклювый печник
   ja: ハシジロカマドドリ
-  zh: Bay Hornero
+  zh: ''
   nl: Bleeksnavelovenvogel
   pl: garncarz rzeczny
   tr: Tarçın Rengi Çömlekçikuşu

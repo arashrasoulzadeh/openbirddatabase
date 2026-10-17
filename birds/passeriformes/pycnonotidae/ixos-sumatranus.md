@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24530.0
 names:
   scientific: Ixos sumatranus
-  fa: nan
+  fa: ''
   en: Sumatran Bulbul
   es: Bulbul de Sumatra
   fr: Bulbul de Sumatra
   de: Sumatrabülbül
-  pt: sumatran bulbul
+  pt: ''
   nl: Grote Sumatraanse buulbuul
   pl: szczeciak sumatrzański
   tr: Sumatra Arapbülbülü

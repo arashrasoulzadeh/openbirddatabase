@@ -12,7 +12,7 @@ names:
   es: Cúa Azul
   fr: Coua bleu
   de: Blauseidenkuckuck
-  pt: blue coua
+  pt: ''
   ru: Синяя тивука
   ja: アオジカッコウ
   nl: Blauwe coua

@@ -12,7 +12,7 @@ names:
   es: Maluro Sombrío
   fr: Amytis de Purnell
   de: Zimtgrasschlüpfer
-  pt: dusky grasswren
+  pt: ''
   ru: Тусклый амитис
   ja: ハシボソセスジムシクイ
   zh: 乌草鹩莺

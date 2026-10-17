@@ -12,7 +12,7 @@ names:
   es: Picoloro Pechipinto
   fr: Paradoxornis fléché
   de: Fleckenbrust-Papageimeise
-  pt: spot-breasted parrotbill
+  pt: ''
   ru: Пестрогрудая сутора
   ja: ミミグロダルマエナガ
   zh: 点胸鸦雀

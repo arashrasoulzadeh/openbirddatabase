@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25809.0
 names:
   scientific: Zosterops sanctaecrucis
-  fa: nan
+  fa: ''
   en: Santa Cruz White-eye
   es: Anteojitos de las Santa Cruz
   fr: Zostérops des Santa Cruz
   de: Einfarb-Brillenvogel
-  pt: santa cruz white-eye
+  pt: ''
   ru: Скромная белоглазка
   ja: サンタクルーズメジロ
   nl: Santa-Cruzbrilvogel

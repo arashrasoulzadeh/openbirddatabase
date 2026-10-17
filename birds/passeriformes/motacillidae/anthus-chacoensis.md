@@ -12,7 +12,7 @@ names:
   es: Bisbita Chaqueño
   fr: Pipit du Chaco
   de: Chacopieper
-  pt: pampas pipit
+  pt: ''
   ru: Пампасный конёк
   ja: ウスキイロタヒバリ
   nl: Chacopieper

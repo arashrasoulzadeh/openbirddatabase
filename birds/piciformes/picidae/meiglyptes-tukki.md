@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11586.0
 names:
   scientific: Meiglyptes tukki
-  fa: nan
+  fa: ''
   en: Buff-necked Woodpecker
   es: Pito Tukki
   fr: Pic tukki
   de: Tukkispecht
-  pt: buff-necked woodpecker
+  pt: ''
   ru: Светлошейный дятел
   ja: カレハゲラ
   zh: 黃頸斑啄木鳥

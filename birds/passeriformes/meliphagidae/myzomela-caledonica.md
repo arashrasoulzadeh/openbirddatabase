@@ -12,7 +12,7 @@ names:
   es: Mielero de Nueva Caledonia
   fr: Myzomèle calédonien
   de: Neukaledonien-Honigfresser
-  pt: new caledonian myzomela
+  pt: ''
   ru: Новокаледонская медовка
   ja: カレドニアミツスイ
   nl: Nieuw-Caledonische dwerghoningeter

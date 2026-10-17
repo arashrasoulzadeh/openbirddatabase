@@ -12,7 +12,7 @@ names:
   es: Drongo de las Andamán
   fr: Drongo des Andaman
   de: Andamanendrongo
-  pt: andaman drongo
+  pt: ''
   ru: Андаманский дронго
   ja: アンダマンオウチュウ
   zh: 安達曼卷尾

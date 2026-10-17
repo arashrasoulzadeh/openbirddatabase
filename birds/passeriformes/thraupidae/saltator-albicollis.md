@@ -12,7 +12,7 @@ names:
   es: Pepitero Antillano
   fr: Saltator gros-bec
   de: Antillensaltator
-  pt: lesser antillean saltator
+  pt: ''
   ru: Белогорлый сальтатор
   ja: アンチルムナフイカル
   nl: Antilliaanse saltator

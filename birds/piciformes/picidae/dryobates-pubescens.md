@@ -12,7 +12,7 @@ names:
   es: Pico Pubescente
   fr: Pic mineur
   de: Dunenspecht
-  pt: downy woodpecker
+  pt: ''
   ru: Пушистый дятел
   ja: セジロコゲラ
   zh: 絨啄木鳥

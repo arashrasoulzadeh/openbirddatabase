@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16223.0
 names:
   scientific: Mionectes macconnelli
-  fa: nan
+  fa: ''
   en: McConnell's Flycatcher
   es: Mosquero de Mcconnell
   fr: Pipromorphe de McConnell

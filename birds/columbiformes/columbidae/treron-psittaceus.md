@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2524.0
 names:
   scientific: Treron psittaceus
-  fa: nan
+  fa: ''
   en: Timor Green Pigeon
   es: Vinago de Timor
   fr: Colombar unicolore
@@ -15,7 +15,7 @@ names:
   pt: pombo-verde-de-timor
   ru: Тиморский зелёный голубь
   ja: チモールアオバト
-  zh: Timor Green Pigeon
+  zh: ''
   nl: Timorpapegaaiduif
   pl: treron timorski
   tr: Timor Yeşil Güvercini

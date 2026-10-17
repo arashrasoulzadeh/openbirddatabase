@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12631.0
 names:
   scientific: Chalcopsitta fuscata
-  fa: nan
+  fa: ''
   en: Dusky Lory
   es: Lori Sombrío
   fr: Lori sombre
   de: Weißbürzellori
-  pt: dusky lory
+  pt: ''
   ru: Тёмный лори
   ja: コシジロインコ
   nl: Witruglori

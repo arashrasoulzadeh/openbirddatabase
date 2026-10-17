@@ -12,7 +12,7 @@ names:
   es: Zorzal Boliviano
   fr: Merle de Bolivie
   de: Palmaritodrossel
-  pt: unicolored thrush
+  pt: ''
   ru: Пальмовый дрозд
   ja: スナイロムジツグミ
   nl: Palmaritolijster

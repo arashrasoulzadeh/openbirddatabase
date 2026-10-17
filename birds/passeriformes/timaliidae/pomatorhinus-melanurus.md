@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26060.0
 names:
   scientific: Pomatorhinus melanurus
-  fa: nan
+  fa: ''
   en: Sri Lanka Scimitar Babbler
   es: Cimitarra Cingalesa
   fr: Pomatorhin de Ceylan
@@ -15,7 +15,7 @@ names:
   pt: sri lanka scimitar-babbler
   ru: Ланкийский саблеклюв
   ja: スリランカマルハシ
-  zh: Sri Lanka Scimitar Babbler
+  zh: ''
   nl: Ceylonese kruiplijster
   pl: łączniak cejloński
   tr: Seylan Kıvrıkgagası

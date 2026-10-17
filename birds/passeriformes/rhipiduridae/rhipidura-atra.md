@@ -12,7 +12,7 @@ names:
   es: Abanico Negro
   fr: Rhipidure noir
   de: Rabenfächerschwanz
-  pt: black fantail
+  pt: ''
   ru: Чёрная веерохвостка
   ja: クロオウギビタキ
   nl: Salvadoriwaaierstaart

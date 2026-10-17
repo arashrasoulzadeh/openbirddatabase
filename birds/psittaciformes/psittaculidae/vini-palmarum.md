@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12592.0
 names:
   scientific: Vini palmarum
-  fa: nan
+  fa: ''
   en: Palm Lorikeet
   es: Lori Palmero
   fr: Lori des palmiers
   de: Palmenlori
-  pt: palm lorikeet
+  pt: ''
   ru: Пальмовый лорикет
   ja: ヒメムジインコ
   nl: Palmlori

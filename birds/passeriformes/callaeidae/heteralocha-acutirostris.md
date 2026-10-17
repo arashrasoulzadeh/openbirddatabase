@@ -11,7 +11,7 @@ names:
   en: Huia
   fr: Huia dimorphe
   de: Huialappenvogel
-  pt: huia
+  pt: ''
   ru: Гуйя, разноклювая гуйя
   ja: ホオダレムクドリ
   zh: 兼嘴垂耳鸦

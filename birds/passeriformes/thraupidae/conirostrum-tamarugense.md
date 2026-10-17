@@ -12,7 +12,7 @@ names:
   es: Conirrostro de Tamarugal
   fr: Conirostre des tamarugos
   de: Rotstirn-Spitzschnabel
-  pt: tamarugo conebill
+  pt: ''
   ru: Рыжегрудый конусоклюв
   ja: タマルゴマルハシミツドリ
   zh: 约氏锥嘴雀

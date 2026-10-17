@@ -12,7 +12,7 @@ names:
   es: Papamoscas Oliváceo
   fr: Gobemouche olivâtre
   de: Olivschnäpper
-  pt: olivaceous flycatcher
+  pt: ''
   ru: Оливковая мухоловка
   ja: オリーブサメヒタキ
   nl: Olijfgroene vliegenvanger

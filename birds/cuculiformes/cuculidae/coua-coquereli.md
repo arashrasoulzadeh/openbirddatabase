@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3070.0
 names:
   scientific: Coua coquereli
-  fa: nan
+  fa: ''
   en: Coquerel's Coua
   es: Cúa de Coquerel
   fr: Coua de Coquerel
   de: Coquerel-Seidenkuckuck
-  pt: coquerel's coua
+  pt: ''
   ru: Западная тивука
   ja: ニシジカッコウ
   nl: Coquerelcoua

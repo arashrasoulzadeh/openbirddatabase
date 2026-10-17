@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11839.0
 names:
   scientific: Piculus flavigula
-  fa: nan
+  fa: ''
   en: Yellow-throated Woodpecker
   es: Carpintero Gorjigualdo
   fr: Pic à gorge jaune

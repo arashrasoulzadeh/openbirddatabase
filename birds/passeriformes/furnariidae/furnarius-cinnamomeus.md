@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15036.0
 names:
   scientific: Furnarius cinnamomeus
-  fa: nan
+  fa: ''
   en: Pacific Hornero
   es: Hornero del Pacífico
   fr: Fournier cannelle
   de: Weißbauchtöpfer
-  pt: pacific hornero
+  pt: ''
   ru: Светлобрюхий печник
   nl: Kaneelovenvogel
   pl: garncarz cynamonowy

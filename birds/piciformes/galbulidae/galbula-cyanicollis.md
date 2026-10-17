@@ -15,7 +15,7 @@ names:
   pt: ariramba-da-mata
   ru: Синешейная якамара
   ja: ホオアカキリハシ
-  zh: Blue-necked Jacamar
+  zh: ''
   nl: Purperhalsglansvogel
   pl: złotopiór niebieskoszyi
   tr: Mavi Yanaklı Jakamar

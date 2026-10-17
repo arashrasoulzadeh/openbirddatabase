@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13937.0
 names:
   scientific: Cercomacra carbonaria
-  fa: nan
+  fa: ''
   en: Rio Branco Antbird
   es: Hormiguero del Branco
   fr: Grisin charbonnier

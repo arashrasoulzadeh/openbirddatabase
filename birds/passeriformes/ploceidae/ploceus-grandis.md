@@ -12,7 +12,7 @@ names:
   es: Tejedor Gigante
   fr: Tisserin géant
   de: Riesenweber
-  pt: giant weaver
+  pt: ''
   ru: Гигантский ткач
   ja: オニハタオリ
   nl: Reuzenwever

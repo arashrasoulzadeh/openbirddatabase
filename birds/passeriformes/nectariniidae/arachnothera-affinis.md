@@ -12,7 +12,7 @@ names:
   es: Arañero Pechiestriado
   fr: Arachnothère à poitrine grise
   de: Strichelbrust-Spinnenjäger
-  pt: streaky-breasted spiderhunter
+  pt: ''
   ru: Серобрюхая пауколовка
   ja: スジムネクモカリドリ
   nl: Streepborstspinnenjager

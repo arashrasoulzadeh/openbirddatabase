@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31053.0
 names:
   scientific: Spermestes fringilloides
-  fa: nan
+  fa: ''
   en: Magpie Mannikin
   es: Capuchino Pío
   fr: Capucin pie
   de: Riesenelsterchen
-  pt: magpie mannikin
+  pt: ''
   ru: Сорочья муния
   ja: オオシチチョウ
   nl: Reuzenekstertje

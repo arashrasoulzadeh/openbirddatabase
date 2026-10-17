@@ -15,7 +15,7 @@ names:
   pt: gray-striped spurfowl
   ru: Серополосый франколин
   ja: アンゴラシャコ
-  zh: Grey-striped Spurfowl
+  zh: ''
   nl: Grantfrankolijn
   pl: szponiastonóg rudoplamy
   tr: Kızıl Çizgili Turaç

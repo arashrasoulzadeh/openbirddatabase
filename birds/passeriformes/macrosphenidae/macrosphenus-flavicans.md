@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22907.0
 names:
   scientific: Macrosphenus flavicans
-  fa: nan
+  fa: ''
   en: Yellow Longbill
   es: Picolargo Amarillo
   fr: Nasique jaune
   de: Gelbbauch-Bülbülgrasmücke
-  pt: yellow longbill
+  pt: ''
   ru: Желтобрюхий долгонос
   ja: キイロハシナガムシクイ
   nl: Gele langsnavelzanger

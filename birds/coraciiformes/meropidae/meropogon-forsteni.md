@@ -12,7 +12,7 @@ names:
   es: Abejaruco de Célebes
   fr: Guêpier des Célèbes
   de: Celebesspint
-  pt: purple-bearded bee-eater
+  pt: ''
   ru: Бородатая щурка
   ja: セレベスハチクイ
   zh: 紫鬚蜂虎

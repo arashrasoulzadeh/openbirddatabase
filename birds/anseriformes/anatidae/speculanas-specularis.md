@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 444.0
 names:
   scientific: Speculanas specularis
-  fa: nan
+  fa: ''
   en: Bronze-winged Duck
   es: Ánade Anteojillo
   fr: Canard à lunettes
@@ -15,7 +15,7 @@ names:
   pt: spectacled duck
   ru: Бронзовокрылая утка
   ja: ノドジロガモ
-  zh: Bronze-winged Duck
+  zh: ''
   nl: Bronsvleugeleend
   pl: lustrzynka
   tr: Gözlüklü Ördek

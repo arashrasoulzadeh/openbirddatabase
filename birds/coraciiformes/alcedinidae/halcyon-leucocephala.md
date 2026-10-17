@@ -15,7 +15,7 @@ names:
   pt: passarinha
   ru: Сероголовый зимородок
   ja: ハイガシラショウビン
-  zh: Grey-headed Kingfisher
+  zh: ''
   nl: Grijskopijsvogel
   pl: łowiec szarogłowy
   tr: Boz Başlı Yalıçapkını

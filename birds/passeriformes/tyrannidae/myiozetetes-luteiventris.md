@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17407.0
 names:
   scientific: Myiozetetes luteiventris
-  fa: nan
+  fa: ''
   en: Dusky-chested Flycatcher
   es: Bienteveo Pechioscuro
   fr: Tyran à gorge rayée

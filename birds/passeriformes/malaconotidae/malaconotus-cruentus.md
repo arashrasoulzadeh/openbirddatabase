@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20187.0
 names:
   scientific: Malaconotus cruentus
-  fa: nan
+  fa: ''
   en: Fiery-breasted Bushshrike
   es: Gladiador Cruento
   fr: Gladiateur ensanglanté
   de: Blutbrustwürger
-  pt: fiery-breasted bushshrike
+  pt: ''
   ru: Огненогрудый гладиатор
   ja: クロオビオオヤブモズ
   nl: Bloedklauwier

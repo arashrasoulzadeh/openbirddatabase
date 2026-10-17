@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9053.0
 names:
   scientific: Glaucidium nana
-  fa: nan
+  fa: ''
   en: Austral Pygmy Owl
   es: Mochuelo Patagón
   fr: Chevêchette australe
@@ -15,7 +15,7 @@ names:
   pt: austral pygmy-owl
   ru: Южный сычик
   ja: ミナミスズメフクロウ
-  zh: Austral Pygmy Owl
+  zh: ''
   nl: Magelhaendwerguil
   pl: sóweczka magellańska
   tr: Güneyli Serçe Baykuşu

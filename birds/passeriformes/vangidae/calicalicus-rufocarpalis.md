@@ -12,7 +12,7 @@ names:
   es: Vanga Hombrorrojo
   fr: Calicalic à épaulettes
   de: Rotschultervanga
-  pt: red-shouldered vanga
+  pt: ''
   ru: Красноплечая ванга
   ja: カタアカオオハシモズ
   nl: Roodschoudervanga

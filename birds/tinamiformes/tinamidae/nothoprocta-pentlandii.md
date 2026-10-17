@@ -12,7 +12,7 @@ names:
   es: Tinamú Andino
   fr: Tinamou des Andes
   de: Andentinamu
-  pt: andean tinamou
+  pt: ''
   ru: Андский тинаму
   ja: アンデスシギダチョウ
   zh: 安第斯斑䳍

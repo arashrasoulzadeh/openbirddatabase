@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18214.0
 names:
   scientific: Philemon diemenensis
-  fa: nan
+  fa: ''
   en: New Caledonian Friarbird
   es: Filemón de Nueva Caledonia
   fr: Polochion moine
   de: Neukaledonien-Lederkopf
-  pt: new caledonian friarbird
+  pt: ''
   ru: Новокаледонский кожеголов
   ja: カレドニアハゲミツスイ
   nl: Nieuw-Caledonische lederkop

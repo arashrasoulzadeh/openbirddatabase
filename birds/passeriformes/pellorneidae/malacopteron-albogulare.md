@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 26154.0
 names:
   scientific: Malacopteron albogulare
-  fa: nan
+  fa: ''
   en: Grey-breasted Babbler
   es: Tordina Pechigrís
   fr: Akalat à gorge blanche
@@ -15,7 +15,7 @@ names:
   pt: gray-breasted babbler
   ru: Серогрудый шелкопёр
   ja: ムナオビチャイロチメドリ
-  zh: Grey-breasted Babbler
+  zh: ''
   nl: Grijsborsttwijgtimalia
   pl: sundajek białobrewy
   tr: Gri Kuşaklı Kasapardıcı

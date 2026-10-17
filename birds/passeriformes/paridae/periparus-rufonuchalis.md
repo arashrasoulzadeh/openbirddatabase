@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21978.0
 names:
   scientific: Periparus rufonuchalis
-  fa: nan
+  fa: ''
   en: Rufous-naped Tit
   es: Carbonero Nuquirrufo
   fr: Mésange à nuque rousse
   de: Fichtenmeise
-  pt: rufous-naped tit
+  pt: ''
   ru: Рыжешейная синица
   ja: アカエリシジュウガラ
   zh: 棕枕山雀

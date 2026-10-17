@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11732.0
 names:
   scientific: Campethera notata
-  fa: nan
+  fa: ''
   en: Knysna Woodpecker
   es: Pito de Knysna
   fr: Pic tigré
   de: Knysnaspecht
-  pt: knysna woodpecker
+  pt: ''
   ru: Капский дятел
   ja: クニスナアオゲラ
   zh: 南非啄木

@@ -12,7 +12,7 @@ names:
   es: Calzadito Reluciente
   fr: Érione pattue
   de: Violettkehl-Höschenkolibri
-  pt: glowing puffleg
+  pt: ''
   ru: Бронзовый эрион
   ja: ヒカリワタアシハチドリ
   zh: 紫颏毛腿蜂鸟

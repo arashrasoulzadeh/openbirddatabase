@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14491.0
 names:
   scientific: Formicarius rufifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Antthrush
   es: Formicario Frentirrufo
   fr: Tétéma à front roux

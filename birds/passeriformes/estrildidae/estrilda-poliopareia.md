@@ -12,7 +12,7 @@ names:
   es: Estrilda del Níger
   fr: Astrild du Niger
   de: Anambraastrild
-  pt: anambra waxbill
+  pt: ''
   ru: Нигерийский астрильд
   ja: アナンブラカエデチョウ
   nl: Anambra-astrild

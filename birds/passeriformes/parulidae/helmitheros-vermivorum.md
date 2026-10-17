@@ -12,7 +12,7 @@ names:
   es: Reinita Gusanera
   fr: Paruline vermivore
   de: Haldenwaldsänger
-  pt: worm-eating warbler
+  pt: ''
   ru: Певун-червеед
   ja: フタスジアメリカムシクイ
   zh: 食虫莺属

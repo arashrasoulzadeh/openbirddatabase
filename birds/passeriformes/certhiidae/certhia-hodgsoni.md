@@ -12,7 +12,7 @@ names:
   es: Agateador de Hodgson
   fr: Grimpereau de Hodgson
   de: Himalajabaumläufer
-  pt: hodgson's treecreeper
+  pt: ''
   ru: Кашмирская пищуху
   ja: ホジソンキバシリ
   zh: 霍氏旋木雀

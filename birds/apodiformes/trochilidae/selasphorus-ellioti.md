@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 4849.0
 names:
   scientific: Selasphorus ellioti
-  fa: nan
+  fa: ''
   en: Wine-throated Hummingbird
   es: Colibrí de Elliot
   fr: Colibri d'Elliot
   de: Elliotelfe
-  pt: wine-throated hummingbird
+  pt: ''
   ru: Винногорлый эльф
   ja: グアテマラコアカヒゲハチドリ
   zh: 瑰喉蜂鸟

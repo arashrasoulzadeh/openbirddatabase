@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6358.0
 names:
   scientific: Stercorarius longicaudus
-  fa: nan
+  fa: ''
   en: Long-tailed Jaeger
   es: Págalo Rabero
   fr: Labbe à longue queue

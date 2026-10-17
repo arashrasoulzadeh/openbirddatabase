@@ -12,7 +12,7 @@ names:
   es: Cucal Monje
   fr: Coucal à nuque bleue
   de: Blaukopfkuckuck
-  pt: blue-headed coucal
+  pt: ''
   ru: Синеголовый кукаль
   ja: ズアオバンケン
   nl: Monniksspoorkoekoek

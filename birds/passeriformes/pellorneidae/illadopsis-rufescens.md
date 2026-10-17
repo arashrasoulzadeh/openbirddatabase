@@ -12,7 +12,7 @@ names:
   es: Tordina Alirrufa
   fr: Akalat à ailes rousses
   de: Rostschwingen-Laubdrossling
-  pt: rufous-winged illadopsis
+  pt: ''
   ru: Рыжекрылый дроздовник
   ja: アカバネムジチメドリ
   zh: 棕翅非洲雅鹛

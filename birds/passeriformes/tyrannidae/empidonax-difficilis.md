@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16975.0
 names:
   scientific: Empidonax difficilis
-  fa: nan
+  fa: ''
   en: Western Flycatcher
   es: Mosquero del Pacífico
   fr: Moucherolle obscur
   de: Ufertyrann
-  pt: western flycatcher
+  pt: ''
   ru: Западный эмпидонакс
   ja: キノドメジロハエトリ
   nl: Westelijke feetiran

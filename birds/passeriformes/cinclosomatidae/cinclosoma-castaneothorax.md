@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18537.0
 names:
   scientific: Cinclosoma castaneothorax
-  fa: nan
+  fa: ''
   en: Chestnut-breasted Quail-thrush
   es: Zordala Pechicastaña
   fr: Cinclosome à poitrine cannelle
   de: Kastanienbrustflöter
-  pt: chestnut-breasted quail-thrush
+  pt: ''
   ru: Рыжегрудый флейтист
   ja: クリムネウズラチメドリ
   nl: Bruinborstkwartellijster

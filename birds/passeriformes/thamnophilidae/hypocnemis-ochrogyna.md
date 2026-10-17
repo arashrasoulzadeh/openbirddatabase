@@ -15,7 +15,7 @@ names:
   pt: cantador-ocráceo
   ru: Рондонийская муравьянка
   ja: ロンドニアナキアリドリ
-  zh: Rondonia Warbling Antbird
+  zh: ''
   nl: Rondoniamierzanger
   pl: jaguarek boliwijski
   tr: Rondonia Karıncakuşu

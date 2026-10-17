@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26128.0
 names:
   scientific: Stachyris strialata
-  fa: nan
+  fa: ''
   en: Spot-necked Babbler
   es: Timalí Gorjipinto
   fr: Timalie à cou tacheté
   de: Fleckenhals-Buschtimalie
-  pt: spot-necked babbler
+  pt: ''
   ru: Пестрошейная тимелия
   ja: エリボシモリチメドリ
   zh: 斑颈穗鹛

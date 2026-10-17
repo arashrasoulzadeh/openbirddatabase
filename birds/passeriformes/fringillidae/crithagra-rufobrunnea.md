@@ -12,7 +12,7 @@ names:
   es: Serín de Príncipe
   fr: Serin roux
   de: Príncipegirlitz
-  pt: principe seedeater
+  pt: ''
   ru: Принсипский канареечник
   ja: プリンシペカナリア
   nl: Principekanarie

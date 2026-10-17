@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 13062.0
 names:
   scientific: Pyrrhura orcesi
-  fa: nan
+  fa: ''
   en: El Oro Parakeet
   es: Cotorra de El Oro
   fr: Conure d'Orcés
   de: Orcessittich
-  pt: el oro parakeet
+  pt: ''
   ru: Эквадорская которра
   ja: エルオロウロコインコ
   nl: El-Oroparkiet

@@ -12,7 +12,7 @@ names:
   es: Pita Cabeciazul
   fr: Brève à tête bleue
   de: Blauscheitelpitta
-  pt: blue-headed pitta
+  pt: ''
   ru: Синеголовая питта
   ja: ズアオヤイロチョウ
   zh: 藍頭八色鶇

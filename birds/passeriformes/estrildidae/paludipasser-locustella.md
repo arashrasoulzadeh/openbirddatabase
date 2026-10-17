@@ -15,7 +15,7 @@ names:
   pt: locustfinch
   ru: Саранчовый астрильд
   ja: ムネアカウズラスズメ
-  zh: Locust Finch
+  zh: ''
   nl: Sprinkhaanastrild
   pl: trawinek czerwonolicy
   tr: Çekirge Mumgagası

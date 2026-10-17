@@ -12,7 +12,7 @@ names:
   es: Apalis Pechigualdo
   fr: Apalis à gorge jaune
   de: Gelbbrust-Feinsänger
-  pt: yellow-breasted apalis
+  pt: ''
   ru: Желтогрудый апалис
   ja: キムネイロムシクイ
   nl: Geelborstapalis

@@ -12,7 +12,7 @@ names:
   es: Cortarramas Chileno
   fr: Rara à queue rousse
   de: Rotschwanz-Pflanzenmäher
-  pt: rufous-tailed plantcutter
+  pt: ''
   ru: Чилийский листорез
   ja: チリークサカリドリ
   nl: Roodstaartzaagvink

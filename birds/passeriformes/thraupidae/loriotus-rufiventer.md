@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34760.0
 names:
   scientific: Loriotus rufiventer
-  fa: nan
+  fa: ''
   en: Yellow-crested Tanager
   es: Tangara Crestiamarilla
   fr: Tangara à crête jaune

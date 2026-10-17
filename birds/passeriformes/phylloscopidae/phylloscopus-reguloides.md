@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24973.0
 names:
   scientific: Phylloscopus reguloides
-  fa: nan
+  fa: ''
   en: Blyth's Leaf Warbler
   es: Mosquitero de Blyth
   fr: Pouillot de Blyth
   de: Streifenkopf-Laubsänger
-  pt: blyth's leaf warbler
+  pt: ''
   ru: Корольковидная пеночка
   ja: ヒマラヤムシクイ
   zh: 西南冠纹柳莺

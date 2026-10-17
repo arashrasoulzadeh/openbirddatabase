@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 12647.0
 names:
   scientific: Trichoglossus iris
-  fa: nan
+  fa: ''
   en: Iris Lorikeet
   es: Lori Iris
   fr: Loriquet iris

@@ -12,7 +12,7 @@ names:
   es: Mielero Moteado
   fr: Méliphage pailleté
   de: Huonhonigfresser
-  pt: spangled honeyeater
+  pt: ''
   ru: Очковый нектаролюб
   ja: ヒガシキホオミツスイ
   nl: Huonhoningeter

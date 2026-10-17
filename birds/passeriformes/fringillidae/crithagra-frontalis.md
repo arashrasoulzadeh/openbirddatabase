@@ -12,7 +12,7 @@ names:
   es: Serín Cejigualdo
   fr: Serin à diadème
   de: Diademgirlitz
-  pt: western citril
+  pt: ''
   ru: Желтолобый канареечник
   ja: ニシムナフヒワ
   nl: Geelvoorhoofdkanarie

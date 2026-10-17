@@ -12,7 +12,7 @@ names:
   es: Piquero de Abbott
   fr: Fou d'Abbott
   de: Abbotttölpel
-  pt: abbott's booby
+  pt: ''
   ru: Олуша Эбботта
   ja: モモグロカツオドリ
   zh: 粉嘴鰹鳥

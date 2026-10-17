@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6532.0
 names:
   scientific: Larus cachinnans
-  fa: nan
+  fa: ''
   en: Caspian Gull
   es: Gaviota del Caspio
   fr: Goéland pontique

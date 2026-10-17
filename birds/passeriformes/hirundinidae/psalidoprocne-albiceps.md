@@ -15,7 +15,7 @@ names:
   pt: white-headed sawwing
   ru: Белоголовая ласточка
   ja: シロガシラクロツバメ
-  zh: White-headed Saw-wing
+  zh: ''
   nl: Witkopkamzwaluw
   pl: żałobniczka białogłowa
   tr: Ak Başlı Kırlangıç

@@ -12,7 +12,7 @@ names:
   es: Silbador Oriolino
   fr: Siffleur loriot
   de: Salomonendickkopf
-  pt: oriole whistler
+  pt: ''
   ru: Иволговый свистун
   ja: コウライウグイスモズヒタキ
   nl: Wielewaalfluiter

@@ -12,7 +12,7 @@ names:
   es: Colibrí Crestado
   fr: Colibri huppé
   de: Antillenhaubenkolibri
-  pt: antillean crested hummingbird
+  pt: ''
   ru: Хохлатый колибри
   ja: アンチルカンムリハチドリ
   zh: 凤头蜂鸟

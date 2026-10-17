@@ -12,7 +12,7 @@ names:
   es: Carpintero de Isla Guadalupe
   fr: Pic de Guadeloupe
   de: Guadeloupespecht
-  pt: guadeloupe woodpecker
+  pt: ''
   ru: Гваделупский дятел
   ja: グアドループキツツキ
   nl: Guadeloupespecht

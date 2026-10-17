@@ -12,7 +12,7 @@ names:
   es: Acentor Petirrojo
   fr: Accenteur rougegorge
   de: Rostbrustbraunelle
-  pt: robin accentor
+  pt: ''
   ru: Зарянковая завирушка
   ja: ムネアカイワヒバリ
   zh: 鸲岩鹨

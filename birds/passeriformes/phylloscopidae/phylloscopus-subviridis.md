@@ -12,7 +12,7 @@ names:
   es: Mosquitero de Brooks
   fr: Pouillot de Brooks
   de: Brookslaubsänger
-  pt: brooks's leaf warbler
+  pt: ''
   ru: Пеночка гималайская
   ja: アフガンムシクイ
   zh: 布氏柳莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26337.0
 names:
   scientific: Gypsophila crassa
-  fa: nan
+  fa: ''
   en: Mountain Wren-Babbler
   es: Ratina Montana
   fr: Turdinule des montagnes
   de: Blasskehldrossling
-  pt: mountain wren-babbler
+  pt: ''
   ru: Горная подкоренница
   ja: ノドジロサザイチメドリ
   zh: 山鹪鹛

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24869.0
 names:
   scientific: Phylloscopus cebuensis
-  fa: nan
+  fa: ''
   en: Lemon-throated Leaf Warbler
   es: Mosquitero de Luzón
   fr: Pouillot à gorge citron
   de: Luzonlaubsänger
-  pt: lemon-throated leaf warbler
+  pt: ''
   ru: Желтогорлая пеночка
   ja: ルソンムシクイ
   nl: Duboisboszanger

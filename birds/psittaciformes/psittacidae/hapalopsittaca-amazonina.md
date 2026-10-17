@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12852.0
 names:
   scientific: Hapalopsittaca amazonina
-  fa: nan
+  fa: ''
   en: Rusty-faced Parrot
   es: Lorito Amazonino
   fr: Caïque à face rousse
   de: Rostkopfpapagei
-  pt: rusty-faced parrot
+  pt: ''
   ru: Рыжелицый лорито
   ja: アカガタインコ
   nl: Andespapegaai

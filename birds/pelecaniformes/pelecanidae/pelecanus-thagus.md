@@ -12,7 +12,7 @@ names:
   es: Pelícano Alcatraz
   fr: Pélican thage
   de: Chilepelikan
-  pt: peruvian pelican
+  pt: ''
   ru: Перуанский пеликан
   ja: ペルーペリカン
   zh: 秘魯鵜鶘

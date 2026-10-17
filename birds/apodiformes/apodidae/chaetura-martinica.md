@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3894.0
 names:
   scientific: Chaetura martinica
-  fa: nan
+  fa: ''
   en: Lesser Antillean Swift
   es: Vencejo de Martinica
   fr: Martinet chiquesol
   de: Antillensegler
-  pt: lesser antillean swift
+  pt: ''
   ru: Антильский иглохвост
   ja: アンチルハリオアマツバメ
   zh: 安岛雨燕

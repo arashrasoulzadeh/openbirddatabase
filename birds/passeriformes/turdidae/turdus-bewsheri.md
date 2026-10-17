@@ -12,7 +12,7 @@ names:
   es: Zorzal de las Comoras
   fr: Merle des Comores
   de: Komorendrossel
-  pt: comoro thrush
+  pt: ''
   ru: Коморский дрозд
   ja: コモロウロコツグミ
   nl: Comorenlijster

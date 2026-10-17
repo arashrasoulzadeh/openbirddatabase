@@ -15,7 +15,7 @@ names:
   pt: southern penduline-tit
   ru: Капский ремез
   ja: キバラアフリカツリスガラ
-  zh: Cape Penduline Tit
+  zh: ''
   nl: Kaapse kapokmees
   pl: remizek żółtobrzuchy
   tr: Güney Afrika Çulhakuşu

@@ -12,7 +12,7 @@ names:
   es: Minero Peruano
   fr: Géositte du Pérou
   de: Küstenerdhacker
-  pt: coastal miner
+  pt: ''
   ru: Береговой землекоп
   ja: ウミベジカマドドリ
   nl: Kustholengraver

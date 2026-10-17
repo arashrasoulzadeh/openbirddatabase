@@ -12,7 +12,7 @@ names:
   es: Vanga Cabecinegro
   fr: Tylas à tête noire
   de: Bülbülvanga
-  pt: tylas vanga
+  pt: ''
   ru: Бюльбюлевая ванга
   ja: マダガスカルヒヨドリ
   nl: Kinkimavo

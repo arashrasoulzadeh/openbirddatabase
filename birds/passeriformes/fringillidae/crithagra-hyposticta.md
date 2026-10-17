@@ -12,7 +12,7 @@ names:
   es: Serín Keniata
   fr: Serin est-africain
   de: Streifengirlitz
-  pt: southern citril
+  pt: ''
   ru: Оливковый канареечник
   ja: ヒガシムナフヒワ
   nl: Citrienkanarie

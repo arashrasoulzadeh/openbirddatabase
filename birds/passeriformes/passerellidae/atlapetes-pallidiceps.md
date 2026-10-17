@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 33500.0
 names:
   scientific: Atlapetes pallidiceps
-  fa: nan
+  fa: ''
   en: Pale-headed Brushfinch
   es: Atlapetes Cabecipálido
   fr: Tohi grisonnant
   de: Blasskopf-Buschammer
-  pt: pale-headed brushfinch
+  pt: ''
   ru: Бледноголовая атлапета
   ja: エクアドルヤブシトド
   nl: Bleekkopstruikgors

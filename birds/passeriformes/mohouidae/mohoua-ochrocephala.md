@@ -12,7 +12,7 @@ names:
   es: Mohoua Cabecigualda
   fr: Mohoua à tête jaune
   de: Gelbköpfchen
-  pt: yellowhead
+  pt: ''
   ru: Желтоголовая мохуа
   ja: キイロモフアムシクイ
   zh: 黃頭鳥

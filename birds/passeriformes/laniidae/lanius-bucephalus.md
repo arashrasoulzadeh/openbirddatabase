@@ -12,7 +12,7 @@ names:
   es: Alcaudón Bucéfalo
   fr: Pie-grièche bucéphale
   de: Büffelkopfwürger
-  pt: bull-headed shrike
+  pt: ''
   ru: Японский сорокопут
   ja: モズ
   zh: 牛头伯劳

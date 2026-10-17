@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6928.0
 names:
   scientific: Gavia arctica
-  fa: nan
+  fa: ''
   en: Black-throated Loon
   es: Colimbo Ártico
   fr: Plongeon arctique

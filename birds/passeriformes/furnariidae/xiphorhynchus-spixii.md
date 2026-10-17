@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14820.0
 names:
   scientific: Xiphorhynchus spixii
-  fa: nan
+  fa: ''
   en: Spix's Woodcreeper
   es: Trepatroncos de Spix
   fr: Grimpar de Spix

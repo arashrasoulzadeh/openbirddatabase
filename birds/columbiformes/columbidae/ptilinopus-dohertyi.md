@@ -15,7 +15,7 @@ names:
   pt: red-naped fruit-dove
   ru: Краснозатылочный фруктовый голубь
   ja: アカエリヒメアオバト
-  zh: Red-naped Fruit Dove
+  zh: ''
   nl: Roodnekjufferduif
   pl: owocożer czerwonoplamy
   tr: Kırmızı Enseli Meyve Kumrusu

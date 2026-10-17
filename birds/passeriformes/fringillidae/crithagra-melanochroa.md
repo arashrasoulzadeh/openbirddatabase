@@ -12,7 +12,7 @@ names:
   es: Serín de Los Kipengere
   fr: Serin des Kipengere
   de: Tansaniagirlitz
-  pt: kipengere seedeater
+  pt: ''
   ru: Танзанийский канареечник
   ja: キペンゲレカナリア
   nl: Kipengerekanarie

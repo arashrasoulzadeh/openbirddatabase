@@ -15,7 +15,7 @@ names:
   pt: bare-throated tiger-heron
   ru: Мексиканская тигровая выпь
   ja: ハゲノドトラフサギ
-  zh: Bare-throated Tiger Heron
+  zh: ''
   nl: Mexicaanse tijgerroerdomp
   pl: tygryska nagobroda
   tr: Meksika Kaplan Balıkçılı

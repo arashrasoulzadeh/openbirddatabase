@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 6543.0
 names:
   scientific: Larus mongolicus
-  fa: nan
+  fa: ''
   en: Mongolian Gull
   es: Gaviota de Mongolia
   fr: Goéland de Mongolie
   de: Mongolenmöwe
-  pt: mongolian gull
+  pt: ''
   ru: Монгольская чайка
   ja: モンゴルセグロカモメ
   zh: 蒙古银鸥

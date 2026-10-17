@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12894.0
 names:
   scientific: Pionus senilis
-  fa: nan
+  fa: ''
   en: White-crowned Parrot
   es: Loro Senil
   fr: Pione à couronne blanche
   de: Weißstirnpapagei
-  pt: white-crowned parrot
+  pt: ''
   ru: Белоголовый амазонет
   ja: メキシコシロガシラインコ
   nl: Witkopmargrietje

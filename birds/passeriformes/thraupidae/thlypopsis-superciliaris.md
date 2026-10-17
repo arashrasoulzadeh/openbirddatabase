@@ -12,7 +12,7 @@ names:
   es: Hemispingo Cejudo
   fr: Tangara bridé
   de: Augenbrauentangare
-  pt: superciliaried hemispingus
+  pt: ''
   ru: Светлобровая пипира
   ja: オリーブモリフウキンチョウ
   nl: Wenkbrauwtangare

@@ -12,7 +12,7 @@ names:
   es: Cárabo Guatemalteco
   fr: Chouette fauve
   de: Gelbkauz
-  pt: fulvous owl
+  pt: ''
   ru: Бурая неясыть
   ja: チャイロアメリカフクロウ
   zh: 茶色林鴞

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 30361.0
 names:
   scientific: Cinnyris neergaardi
-  fa: nan
+  fa: ''
   en: Neergaard's Sunbird
   es: Suimanga de Neergaard
   fr: Souimanga de Neergaard
   de: Neergaard-Nektarvogel
-  pt: neergaard's sunbird
+  pt: ''
   ru: Мозамбикская нектарница
   ja: クロハラゴシキタイヨウチョウ
   nl: Neergaardhoningzuiger

@@ -12,7 +12,7 @@ names:
   es: Tejedor de Kilombero
   fr: Tisserin de Burnier
   de: Kilomberoweber
-  pt: kilombero weaver
+  pt: ''
   ru: Келомберский ткач
   ja: タンザニアチャノドハタオリ
   nl: Kilomberowever

@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 20907.0
 names:
   scientific: Symposiachrus melanopterus
-  fa: nan
+  fa: ''
   en: Louisiade Monarch
   es: Monarca de Las Luisiadas
   fr: Monarque de Louisiade
   de: Louisiademonarch
   pt: louisiade spectacled monarch
   ja: ルイジアードメンガタカササギビタキ
-  zh: Louisiade Monarch
+  zh: ''
   nl: Louisiadenmonarch
   pl: monareczka czarnoskrzydła
   tr: Luisiad Adaları Maskeli Monarkı

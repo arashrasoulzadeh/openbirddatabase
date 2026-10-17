@@ -12,7 +12,7 @@ names:
   es: Acantiza Reguloide
   fr: Acanthize à croupion beige
   de: Goldhähnchen-Dornschnabel
-  pt: buff-rumped thornbill
+  pt: ''
   ru: Корольковая шипоклювка
   ja: ウグイストゲハシムシクイ
   nl: Vaalstuitdoornsnavel

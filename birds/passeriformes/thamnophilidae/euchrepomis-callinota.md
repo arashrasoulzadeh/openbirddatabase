@@ -12,7 +12,7 @@ names:
   es: Tiluchí Lomirrufo
   fr: Grisin à croupion roux
   de: Rostbürzel-Ameisenfänger
-  pt: rufous-rumped antwren
+  pt: ''
   ru: Рыжегузый тилучи
   ja: コシアカアリサザイ
   nl: Grijswangmiersluiper

@@ -15,7 +15,7 @@ names:
   pt: gold-whiskered barbet
   ru: Желтоусый бородастик
   ja: キホオゴシキドリ
-  zh: Golden-whiskered Barbet
+  zh: ''
   nl: Geelwangbaardvogel
   pl: pstrogłów złotawy
   tr: Sarı Bıyıklı Barbet

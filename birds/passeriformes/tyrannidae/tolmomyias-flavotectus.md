@@ -12,7 +12,7 @@ names:
   es: Picoplano Aliamarillo del Pacífico
   fr: Tyranneau à ailes jaunes
   de: Gelbschwingen-Breitschnabeltyrann
-  pt: yellow-winged flatbill
+  pt: ''
   ru: Светлокрылый мухоед
   nl: Geelrandbreedbektiran
   pl: oliwiak siwogłowy

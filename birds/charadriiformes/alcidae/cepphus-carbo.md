@@ -12,7 +12,7 @@ names:
   es: Arao de Anteojos
   fr: Guillemot à lunettes
   de: Brillenteiste
-  pt: spectacled guillemot
+  pt: ''
   ru: Очковый чистик
   ja: ケイマフリ
   zh: 白眶海鴿

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17776.0
 names:
   scientific: Meliphaga vicina
-  fa: nan
+  fa: ''
   en: Tagula Honeyeater
   es: Mielero de Tagula
   fr: Méliphage de Tagula
   de: Tagulahonigfresser
-  pt: tagula honeyeater
+  pt: ''
   ru: Тагуланский медосос
   ja: タグラキミミミツスイ
   zh: 塔古吸蜜鸟

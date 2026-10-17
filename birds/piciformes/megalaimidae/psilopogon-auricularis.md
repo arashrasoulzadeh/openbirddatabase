@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10759.0
 names:
   scientific: Psilopogon auricularis
-  fa: nan
+  fa: ''
   en: Necklaced Barbet
   es: Barbudo de Lazo
   fr: Barbu à gorge d'or
   de: Weißwangen-Bartvogel
-  pt: necklaced barbet
+  pt: ''
   ja: キンノドゴシキドリ
   nl: Halsbandbaardvogel
   pl: pstrogłów złotogardły

@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 6291.0
 names:
   scientific: Turnix worcesteri
-  fa: nan
+  fa: ''
   en: Luzon Buttonquail
   es: Torillo de Worcester
   fr: Turnix de Worcester
   de: Worcesterlaufhühnchen
-  pt: luzon buttonquail
+  pt: ''
   ru: Лусонская трёхперстка
   ja: フィリピンヒメミフウズラ
   zh: 沃氏三趾鹑

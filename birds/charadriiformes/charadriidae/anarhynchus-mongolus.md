@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5908.0
 names:
   scientific: Anarhynchus mongolus
-  fa: nan
+  fa: ''
   en: Siberian Sand Plover
   es: Chorlitejo Siberiano
   fr: Pluvier de Mongolie

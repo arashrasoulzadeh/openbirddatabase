@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10796.0
 names:
   scientific: Capito fitzpatricki
-  fa: nan
+  fa: ''
   en: Sira Barbet
   es: Cabezón del Sira
   fr: Cabézon du Sira
   de: Sirabartvogel
-  pt: sira barbet
+  pt: ''
   ru: Сирский кабезон
   nl: Sirabaardvogel
   pl: brodacz czerwonoboczny

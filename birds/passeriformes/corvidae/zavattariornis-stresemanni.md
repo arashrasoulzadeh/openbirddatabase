@@ -12,10 +12,10 @@ names:
   es: Urraquita de Stresemann
   fr: Corbin de Stresemann
   de: Akazienhäher
-  pt: ethiopian bushcrow
+  pt: ''
   ru: Акациевая сойка
   ja: ソデグロガラス
-  zh: Stresemann's Bushcrow
+  zh: ''
   nl: Acaciagaai
   pl: abisyniak
   tr: Stresemann Çalı Kargası

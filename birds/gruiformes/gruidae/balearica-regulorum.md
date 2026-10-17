@@ -15,7 +15,7 @@ names:
   pt: gray crowned-crane
   ru: Венценосный журавль
   ja: ホオジロカンムリヅル
-  zh: Grey Crowned Crane
+  zh: ''
   nl: Grijze kroonkraanvogel
   pl: koronnik szary
   tr: Gri Taçlı Turna

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25881.0
 names:
   scientific: Zosterops xanthochroa
-  fa: nan
+  fa: ''
   en: Green-backed White-eye
   es: Anteojitos Dorsiverde
   fr: Zostérops à dos vert
   de: Neukaledonien-Brillenvogel
-  pt: green-backed white-eye
+  pt: ''
   ru: Новокаледонская белоглазка
   ja: カレドニアメジロ
   zh: 綠背繡眼

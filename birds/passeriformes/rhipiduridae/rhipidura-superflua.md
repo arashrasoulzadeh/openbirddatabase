@@ -12,7 +12,7 @@ names:
   es: Abanico de Buru
   fr: Rhipidure de Buru
   de: Burufächerschwanz
-  pt: tawny-backed fantail
+  pt: ''
   ru: Каштановоспинная веерохвостка
   ja: ブルオウギビタキ
   nl: Buruwaaierstaart

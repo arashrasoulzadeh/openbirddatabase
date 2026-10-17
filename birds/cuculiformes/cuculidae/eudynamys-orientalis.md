@@ -12,7 +12,7 @@ names:
   es: Koel Oriental
   fr: Coucou bleuté
   de: Pazifikkoel
-  pt: pacific koel
+  pt: ''
   ru: Тихоокеанский коэль
   ja: オーストラリアオニカッコウ
   zh: 太平洋噪鵑

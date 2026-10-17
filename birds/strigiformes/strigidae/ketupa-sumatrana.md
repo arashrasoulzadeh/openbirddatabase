@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8990.0
 names:
   scientific: Ketupa sumatrana
-  fa: nan
+  fa: ''
   en: Barred Eagle-Owl
   es: Búho de Malasia
   fr: Grand-duc bruyant
   de: Malaienuhu
-  pt: barred eagle-owl
+  pt: ''
   ru: Малайский филин
   ja: マレーワシミミズク
   zh: 馬來雕鴞

@@ -12,7 +12,7 @@ names:
   es: Casuario Unicarunculado
   fr: Casoar unicaronculé
   de: Einlappenkasuar
-  pt: northern cassowary
+  pt: ''
   ru: Оранжевошейный казуар
   ja: パプアヒクイドリ
   zh: 北方鶴鴕

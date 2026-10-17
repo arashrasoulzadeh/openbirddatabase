@@ -14,7 +14,7 @@ names:
   de: Obigoldbülbül
   pt: obi golden-bulbul
   ja: オビキン'イロヒヨドリ
-  zh: Obi Golden Bulbul
+  zh: ''
   nl: Obibuulbuul
   pl: szczeciak żółtogardły
   tr: Obi Altınbülbülü

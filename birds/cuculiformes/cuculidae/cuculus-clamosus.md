@@ -12,7 +12,7 @@ names:
   es: Cuco Negro
   fr: Coucou criard
   de: Schwarzkuckuck
-  pt: black cuckoo
+  pt: ''
   ru: Чёрная кукушка
   ja: クロカッコウ
   nl: Zwarte koekoek

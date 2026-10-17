@@ -15,7 +15,7 @@ names:
   pt: uganda woodland-warbler
   ru: Угандийская пеночка
   ja: ウガンダハヤシムシクイ
-  zh: Uganda Woodland Warbler
+  zh: ''
   nl: Budongoboszanger
   pl: świstunka szerokobrewa
   tr: Uganda Çıvgını

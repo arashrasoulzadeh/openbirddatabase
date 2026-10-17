@@ -12,7 +12,7 @@ names:
   es: Monarca de las Chuuk
   fr: Monarque de Truk
   de: Chuukmonarch
-  pt: chuuk monarch
+  pt: ''
   ru: Белый монарх
   ja: カワリヒタキ
   nl: Trukmonarch

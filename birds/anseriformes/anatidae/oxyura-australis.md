@@ -12,7 +12,7 @@ names:
   es: Malvasía Australiana
   fr: Érismature australe
   de: Schwarzkinn-Ruderente
-  pt: blue-billed duck
+  pt: ''
   ru: Австралийская савка
   ja: オーストラリアオタテガモ
   zh: 藍嘴鴨

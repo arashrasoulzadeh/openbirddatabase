@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5487.0
 names:
   scientific: Fulica atra
-  fa: nan
+  fa: ''
   en: Eurasian Coot
   es: Focha Común
   fr: Foulque macroule

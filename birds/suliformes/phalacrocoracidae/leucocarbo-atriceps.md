@@ -15,7 +15,7 @@ names:
   pt: imperial cormorant
   ru: Антарктический синеглазый баклан
   ja: ズグロムナジロヒメウ
-  zh: imperial cormorant sp.
+  zh: ''
   nl: Keizeraalscholver
   pl: kormoran niebieskooki
   tr: Mavi Gözlü Karabatak

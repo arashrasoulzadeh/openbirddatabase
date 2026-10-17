@@ -13,7 +13,7 @@ names:
   fr: Inca doré
   de: Goldmusketier
   pt: merida starfrontlet
-  zh: Golden-tailed Starfrontlet
+  zh: ''
   nl: Gouden incakolibrie
   pl: elfik złotawy
   tr: Merida Parlakalın

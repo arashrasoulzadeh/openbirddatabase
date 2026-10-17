@@ -12,7 +12,7 @@ names:
   es: Bandurrita Patagona
   fr: Chilia rougequeue
   de: Schwarzschwanz-Erdhacker
-  pt: band-tailed earthcreeper
+  pt: ''
   ru: Горихвостковая чилия
   ja: ヒトリカマドドリ
   nl: Bandstaartaardkruiper

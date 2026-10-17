@@ -15,7 +15,7 @@ names:
   pt: gray-backed cisticola
   ru: Рыжеголовая цистикола
   ja: ハイイロセッカ
-  zh: Grey-backed Cisticola
+  zh: ''
   nl: Rotsgraszanger
   pl: chwastówka szarogrzbieta
   tr: Gri Sırtlı Yelpazekuyruk

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11394.0
 names:
   scientific: Dryobates pernyii
-  fa: nan
+  fa: ''
   en: Necklaced Woodpecker
   es: Pico Pechirrojo Oriental
   fr: Pic de Perny
   de: Karmesinbrustspecht
-  pt: necklaced woodpecker
+  pt: ''
   zh: 赤胸啄木鸟
   nl: Halsbandspecht
   pl: dzięcioł zbroczony

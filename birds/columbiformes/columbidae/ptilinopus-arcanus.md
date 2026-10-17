@@ -15,7 +15,7 @@ names:
   pt: negros fruit-dove
   ru: Негросский фруктовый голубь
   ja: ネグロスヒメアオバト
-  zh: Negros Fruit Dove
+  zh: ''
   nl: Ripleyjufferduif
   pl: owocożer żółtooki
   tr: Negros Meyve Kumrusu

@@ -15,7 +15,7 @@ names:
   pt: spotted imperial-pigeon
   ru: Крапчатый плодовый голубь
   ja: ウロコミカドバト
-  zh: Spotted Imperial Pigeon
+  zh: ''
   nl: Hoefijzermuskaatduif
   pl: muszkatela brunatnobrzucha
   tr: Kesmeli Has Güvercin

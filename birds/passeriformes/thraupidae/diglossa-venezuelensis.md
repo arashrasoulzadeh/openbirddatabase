@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Venezolano
   fr: Percefleur du Venezuela
   de: Dunkelhakenschnabel
-  pt: venezuelan flowerpiercer
+  pt: ''
   ru: Траурный цветокол
   ja: ミヤマハナサシミツドリ
   zh: 委内瑞拉刺花鸟

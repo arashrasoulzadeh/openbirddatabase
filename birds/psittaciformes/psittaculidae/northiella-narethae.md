@@ -12,7 +12,7 @@ names:
   es: Perico de Naretha
   fr: Perruche de Naretha
   de: Narethasittich
-  pt: naretha bluebonnet
+  pt: ''
   ja: ナレサハナガサインコ
   nl: Narethaparkiet
   pl: świergotka żółtobrzucha

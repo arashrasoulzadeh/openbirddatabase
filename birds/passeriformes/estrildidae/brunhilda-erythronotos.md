@@ -11,7 +11,7 @@ names:
   es: Estrilda Carinegra Sureña
   fr: Astrild à moustaches
   de: Elfenastrild
-  pt: black-faced waxbill
+  pt: ''
   ru: Чернолицый астрильд
   ja: ホオグロカエデチョウ
   zh: 黑颊梅花雀

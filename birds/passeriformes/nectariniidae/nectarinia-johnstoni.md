@@ -15,7 +15,7 @@ names:
   pt: red-tufted sunbird
   ru: Нитехвостая нектарница
   ja: アカフサオナガタイヨウチョウ
-  zh: Scarlet-tufted Sunbird
+  zh: ''
   nl: Lobeliahoningzuiger
   pl: nektarnik szkarłatnoboczny
   tr: Johnston Nektarkuşu

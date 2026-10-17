@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26166.0
 names:
   scientific: Malacopteron magnirostre
-  fa: nan
+  fa: ''
   en: Moustached Babbler
   es: Tordina Bigotuda
   fr: Akalat moustachu
   de: Bartstreif-Zweigdrossling
-  pt: moustached babbler
+  pt: ''
   ru: Усатый шелкопёр
   ja: ヒゲチャイロチメドリ
   zh: 須樹鶥

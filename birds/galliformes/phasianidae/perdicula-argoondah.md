@@ -15,7 +15,7 @@ names:
   pt: rock bush-quail
   ru: Скальный перепел
   ja: イワヤブウズラ
-  zh: Rock Bush Quail
+  zh: ''
   nl: Madrasdwergpatrijs
   pl: przepióreczka skalna
   tr: Taşlık Cüce Bıldırcını

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10535.0
 names:
   scientific: Trachyphonus vaillantii
-  fa: nan
+  fa: ''
   en: Crested Barbet
   es: Barbudo Crestado
   fr: Barbican promépic
   de: Haubenbartvogel
-  pt: crested barbet
+  pt: ''
   ru: Хохлатая чубатка
   ja: ムナオビオナガゴシキドリ
   zh: 南非拟啄木

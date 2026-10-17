@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2594.0
 names:
   scientific: Ramphiculus marchei
-  fa: nan
+  fa: ''
   en: Flame-breasted Fruit Dove
   es: Tilopo de Marche
   fr: Ptilope de Marche
@@ -15,7 +15,7 @@ names:
   pt: flame-breasted fruit-dove
   ru: Черноухий фруктовый голубь
   ja: ヒムネヒメアオバト
-  zh: Flame-breasted Fruit Dove
+  zh: ''
   nl: Vlamborstjufferduif
   pl: owocożer czarnouchy
   tr: Alev Göğüslü Meyve Kumrusu

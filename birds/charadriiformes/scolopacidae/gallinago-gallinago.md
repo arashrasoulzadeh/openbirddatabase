@@ -12,7 +12,7 @@ names:
   es: Agachadiza Común
   fr: Bécassine des marais
   de: Bekassine
-  pt: common snipe
+  pt: ''
   ru: Бекас
   ja: タシギ
   zh: 扇尾沙锥

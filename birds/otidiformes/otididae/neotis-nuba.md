@@ -12,7 +12,7 @@ names:
   es: Avutarda Núbica
   fr: Outarde nubienne
   de: Nubientrappe
-  pt: nubian bustard
+  pt: ''
   ru: Нубийская дрофа
   ja: ヌビアチュウノガン
   zh: 棕頂鴇

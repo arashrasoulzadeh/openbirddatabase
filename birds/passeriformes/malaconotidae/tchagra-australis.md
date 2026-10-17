@@ -12,7 +12,7 @@ names:
   es: Chagra Coroniparda
   fr: Tchagra à tête brune
   de: Dorntschagra
-  pt: brown-crowned tchagra
+  pt: ''
   ru: Бурошапочная чагра
   ja: チャガシラヤブモズ
   nl: Bruinkruintsjagra

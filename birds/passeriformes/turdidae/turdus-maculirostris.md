@@ -12,7 +12,7 @@ names:
   es: Zorzal Ecuatoriano
   fr: Merle d'Équateur
   de: Tumbesdrossel
-  pt: ecuadorian thrush
+  pt: ''
   ru: Эквадорский дрозд
   ja: エクアドルジツグミ
   nl: Ecuadoraanse lijster

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25998.0
 names:
   scientific: Spelaeornis reptatus
-  fa: nan
+  fa: ''
   en: Grey-bellied Wren-Babbler
   es: Ratina Ventrigrís
   fr: Timalie de Bingham

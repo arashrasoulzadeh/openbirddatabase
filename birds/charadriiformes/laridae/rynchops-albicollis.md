@@ -12,7 +12,7 @@ names:
   es: Rayador Indio
   fr: Bec-en-ciseaux à collier
   de: Indienscherenschnabel
-  pt: indian skimmer
+  pt: ''
   ru: Индийский водорез
   ja: シロエリハサミアジサシ
   zh: 剪嘴鸥

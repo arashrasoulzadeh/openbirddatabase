@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12437.0
 names:
   scientific: Neopsephotus bourkii
-  fa: nan
+  fa: ''
   en: Bourke's Parrot
   es: Periquito Rosado
   fr: Perruche de Bourke
   de: Bourkesittich
-  pt: bourke's parrot
+  pt: ''
   ru: Розовобрюхий травяной попугайчик
   ja: アキクサインコ
   zh: 伯克草鸚鵡

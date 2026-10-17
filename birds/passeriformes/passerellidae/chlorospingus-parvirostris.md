@@ -15,7 +15,7 @@ names:
   pt: short-billed chlorospingus
   ru: Короткоклювый дромник
   ja: コバシヤブフウキンチョウ
-  zh: Yellow-whiskered Chlorospingus
+  zh: ''
   nl: Kortsnaveltangare
   pl: zieleniec żółtowąsy
   tr: Sarı Bıyıklı Klorospingus

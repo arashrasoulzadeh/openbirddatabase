@@ -12,7 +12,7 @@ names:
   es: Busardo de la Española
   fr: Buse de Ridgway
   de: Haitibussard
-  pt: ridgway's hawk
+  pt: ''
   ru: Гаитянский канюк
   ja: ヒスパニオラノスリ
   zh: 島鵟

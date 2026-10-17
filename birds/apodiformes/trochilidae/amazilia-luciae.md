@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 5120.0
 names:
   scientific: Amazilia luciae
-  fa: nan
+  fa: ''
   en: Honduran Emerald
   es: Amazilia Hondureña
   fr: Ariane de Lucy
   de: Hondurasamazilie
-  pt: honduran emerald
+  pt: ''
   ru: Гондурасская амазилия
   ja: ホンジュラスエメラルドハチドリ
   zh: 洪都拉斯蜂鸟

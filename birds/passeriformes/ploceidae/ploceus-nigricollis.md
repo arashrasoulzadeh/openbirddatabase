@@ -12,7 +12,7 @@ names:
   es: Tejedor Cuellinegro
   fr: Tisserin à cou noir
   de: Kurzflügelweber
-  pt: black-necked weaver
+  pt: ''
   ru: Короткокрылый ткач
   ja: ノドグロハタオリ
   zh: 黑颈织雀

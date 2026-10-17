@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Rarotonga
   fr: Monarque de Rarotonga
   de: Rarotongamonarch
-  pt: rarotonga monarch
+  pt: ''
   ru: Раротонгская помарея
   ja: ラロトンガヒタキ
   nl: Rarotongamonarch

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18024.0
 names:
   scientific: Myzomela sclateri
-  fa: nan
+  fa: ''
   en: Sclater's Myzomela
   es: Mielero de Sclater
   fr: Myzomèle de Sclater
   de: Scharlachkehl-Honigfresser
-  pt: sclater's myzomela
+  pt: ''
   ru: Красношейная медовка
   ja: ノドアカミツスイ
   nl: Roodkeeldwerghoningeter

@@ -12,7 +12,7 @@ names:
   es: Cistícola Murmurador
   fr: Cisticole murmure
   de: Angolazistensänger
-  pt: bubbling cisticola
+  pt: ''
   ru: Ангольская цистикола
   ja: アンゴラセッカ
   zh: 沸声扇尾莺

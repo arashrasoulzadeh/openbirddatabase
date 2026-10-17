@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16773.0
 names:
   scientific: Phyllomyias griseiceps
-  fa: nan
+  fa: ''
   en: Sooty-headed Tyrannulet
   es: Mosquerito Cabecigrís
   fr: Tyranneau nain

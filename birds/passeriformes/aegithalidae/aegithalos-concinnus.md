@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25235.0
 names:
   scientific: Aegithalos concinnus
-  fa: nan
+  fa: ''
   en: Black-throated Bushtit
   es: Mito Gorjinegro
   fr: Orite à tête rousse

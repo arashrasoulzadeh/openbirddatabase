@@ -12,7 +12,7 @@ names:
   es: Cariblanco Bandeado
   fr: Acanthize à collier noir
   de: Halsband-Weißstirnchen
-  pt: banded whiteface
+  pt: ''
   ru: Ошейниковый арлекин
   ja: クビワカオジロムシクイ
   zh: 斑纹白脸刺莺

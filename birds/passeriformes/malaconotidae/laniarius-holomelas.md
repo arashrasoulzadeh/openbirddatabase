@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 20144.0
 names:
   scientific: Laniarius holomelas
-  fa: nan
+  fa: ''
   en: Albertine Sooty Boubou
   es: Bubú Montano Oriental
   fr: Gonolek de Jackson
@@ -15,7 +15,7 @@ names:
   pt: albertine boubou
   ru: Рифтовый бубу
   ja: アルベルティーヌナキヤブモズ
-  zh: Albertine Sooty Boubou
+  zh: ''
   nl: Albertinefiskaal
   pl: dzierzyk okopcony
   tr: Doğulu Dağ Bubusu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17749.0
 names:
   scientific: Meliphaga albilineata
-  fa: nan
+  fa: ''
   en: White-lined Honeyeater
   es: Mielero Listado
   fr: Méliphage à boucle blanche
   de: Weißbart-Honigfresser
-  pt: white-lined honeyeater
+  pt: ''
   ru: Белоусый медосос
   ja: シロスジミツスイ
   nl: Witbaardhoningeter

@@ -12,7 +12,7 @@ names:
   es: Miná Grande
   fr: Grand Martin
   de: Riesenmaina
-  pt: great myna
+  pt: ''
   ru: Чубатая майна
   ja: オオハッカ
   zh: 林八哥

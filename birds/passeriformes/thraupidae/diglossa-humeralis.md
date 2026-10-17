@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Negro
   fr: Percefleur noir
   de: Schwarzhakenschnabel
-  pt: black flowerpiercer
+  pt: ''
   ru: Чёрный цветокол
   ja: クロハナサシミツドリ
   zh: 黑刺花鸟

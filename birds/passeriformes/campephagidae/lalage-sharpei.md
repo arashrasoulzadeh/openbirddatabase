@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18799.0
 names:
   scientific: Lalage sharpei
-  fa: nan
+  fa: ''
   en: Samoan Triller
   es: Oruguero de Samoa
   fr: Échenilleur des Samoa
   de: Braunrücken-Raupenfänger
-  pt: samoan triller
+  pt: ''
   ru: Самоанский личинкоед-свистун
   ja: サモアナキサンショウクイ
   zh: 薩摩亞鳴鵑鵙

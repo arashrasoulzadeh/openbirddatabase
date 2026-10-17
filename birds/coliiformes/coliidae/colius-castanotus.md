@@ -12,7 +12,7 @@ names:
   es: Pájaro Ratón Dorsirrojo
   fr: Coliou à dos marron
   de: Rotrücken-Mausvogel
-  pt: red-backed mousebird
+  pt: ''
   ru: Красноспинная птица-мышь
   ja: コシアカネズミドリ
   zh: 红背鼠鸟

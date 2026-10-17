@@ -12,7 +12,7 @@ names:
   es: Pardela de Westland
   fr: Puffin du Westland
   de: Westland-Sturmvogel
-  pt: westland petrel
+  pt: ''
   ru: Новозеландский буревестник
   ja: ウエストランドクロミズナギドリ
   nl: Westlandstormvogel

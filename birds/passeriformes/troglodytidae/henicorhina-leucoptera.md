@@ -15,7 +15,7 @@ names:
   pt: bar-winged wood-wren
   ru: Белокрылый крапивник
   ja: シロスジモリミソサザイ
-  zh: Bar-winged Wood Wren
+  zh: ''
   nl: Peruaanse boswinterkoning
   pl: stokowczyk prążkoskrzydły
   tr: Ak Kanatlı Çıtkuşu

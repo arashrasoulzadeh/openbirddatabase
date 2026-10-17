@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18683.0
 names:
   scientific: Coracina boyeri
-  fa: nan
+  fa: ''
   en: Boyer's Cuckooshrike
   es: Oruguero de Boyer
   fr: Échenilleur de Boyer
   de: Rostachsel-Raupenfänger
-  pt: boyer's cuckooshrike
+  pt: ''
   ru: Новогвинейский воронец
   ja: ノドグロオオサンショウクイ
   zh: 白眼先鹃鵙

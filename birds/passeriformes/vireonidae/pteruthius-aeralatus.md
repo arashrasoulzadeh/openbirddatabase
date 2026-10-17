@@ -12,7 +12,7 @@ names:
   es: Vireo Alcaudón Cejiblanco
   fr: Allotrie siamoise
   de: Rostflügel-Würgervireo
-  pt: white-browed shrike-babbler
+  pt: ''
   ru: Индокитайская птерутия
   zh: 红翅鵙鹛
   nl: Blythklauwiertimalia

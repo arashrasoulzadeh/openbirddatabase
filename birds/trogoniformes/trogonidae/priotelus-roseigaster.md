@@ -12,7 +12,7 @@ names:
   es: Trogón de la Española
   fr: Trogon damoiseau
   de: Hispaniolatrogon
-  pt: hispaniolan trogon
+  pt: ''
   ru: Розовобрюхий трогон
   ja: ヒスパニオラキヌバネドリ
   zh: 伊斯帕尼奥拉咬鵑

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14031.0
 names:
   scientific: Sipia nigricauda
-  fa: nan
+  fa: ''
   en: Esmeraldas Antbird
   es: Hormiguero de Esmeraldas
   fr: Alapi d'Esmeraldas
   de: Chocóameisenvogel
-  pt: esmeraldas antbird
+  pt: ''
   ru: Аспидная муравьеловка
   ja: ハイイロタンビアリドリ
   nl: Esmeraldasmiervogel

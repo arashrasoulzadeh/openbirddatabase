@@ -12,7 +12,7 @@ names:
   es: Barrancolí Picofino
   fr: Todier à bec étroit
   de: Schmalschnabeltodi
-  pt: narrow-billed tody
+  pt: ''
   ru: Узкоклювый тоди
   ja: ハシボソコビトドリ
   nl: Smalsnaveltodie

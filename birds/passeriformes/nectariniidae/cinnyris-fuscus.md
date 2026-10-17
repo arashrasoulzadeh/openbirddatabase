@@ -12,7 +12,7 @@ names:
   es: Suimanga Oscuro
   fr: Souimanga fuligineux
   de: Rußnektarvogel
-  pt: dusky sunbird
+  pt: ''
   ru: Дымчатая нектарница
   ja: ウスグロタイヨウチョウ
   nl: Roethoningzuiger

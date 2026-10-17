@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12839.0
 names:
   scientific: Brotogeris cyanoptera
-  fa: nan
+  fa: ''
   en: Cobalt-winged Parakeet
   es: Catita Aliazul
   fr: Toui de Deville

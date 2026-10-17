@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11650.0
 names:
   scientific: Picus rabieri
-  fa: nan
+  fa: ''
   en: Red-collared Woodpecker
   es: Pito Vietnamita
   fr: Pic de Rabier
   de: Halsbandspecht
-  pt: red-collared woodpecker
+  pt: ''
   ru: Капюшоновый дятел
   ja: アンナンヤマゲラ
   zh: 红颈绿啄木鸟

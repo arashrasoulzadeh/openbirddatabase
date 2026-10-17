@@ -12,7 +12,7 @@ names:
   es: Oruguero Indio
   fr: Échenilleur de Macé
   de: Maskenraupenfänger
-  pt: indian cuckooshrike
+  pt: ''
   ru: Большой сорокопутовый личинкоед
   ja: インドオオオニサンショウクイ
   zh: 印度鹃鵙

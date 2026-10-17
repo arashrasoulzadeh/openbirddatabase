@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24678.0
 names:
   scientific: Pycnonotus brunneus
-  fa: nan
+  fa: ''
   en: Asian Red-eyed Bulbul
   es: Bulbul Ojirrojo
   fr: Bulbul aux yeux rouges
@@ -15,7 +15,7 @@ names:
   pt: red-eyed bulbul
   ru: Оранжевоглазый бюльбюль
   ja: アカメチャイロヒヨ
-  zh: Asian Red-eyed Bulbul
+  zh: ''
   nl: Roodoogbuulbuul
   pl: bilbil jednobarwny
   tr: Alev Gözlü Arapbülbülü

@@ -12,7 +12,7 @@ names:
   es: Abanico de Cockerell
   fr: Rhipidure de Cockerell
   de: Salomonenfächerschwanz
-  pt: white-winged fantail
+  pt: ''
   ru: Белокрылая веерохвостка
   ja: ソロモンオウギビタキ
   nl: Cockerellwaaierstaart

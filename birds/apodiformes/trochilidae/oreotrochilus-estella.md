@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4494.0
 names:
   scientific: Oreotrochilus estella
-  fa: nan
+  fa: ''
   en: Andean Hillstar
   es: Colibrí Puneño
   fr: Colibri d'Estelle
   de: Estellakolibri
-  pt: andean hillstar
+  pt: ''
   ru: Андская ореада
   ja: アンデスヤマハチドリ
   zh: 安第斯山蜂鸟

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 20191.0
 names:
   scientific: Malaconotus gladiator
-  fa: nan
+  fa: ''
   en: Green-breasted Bushshrike
   es: Gladiador Pechiverde
   fr: Gladiateur à poitrine verte
   de: Grünbrustwürger
-  pt: green-breasted bushshrike
+  pt: ''
   ru: Зеленогрудый гладиатор
   ja: アオムネオオヤブモズ
   nl: Gladiatorklauwier

@@ -12,7 +12,7 @@ names:
   es: Mosquero Gorjiestriado
   fr: Pipromorphe strié
   de: Graukappen-Pipratyrann
-  pt: streak-necked flycatcher
+  pt: ''
   ru: Пестрогрудый тираннчик
   ja: オリーブハエトリ
   nl: Streepnekpipratiran

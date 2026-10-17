@@ -15,7 +15,7 @@ names:
   pt: red-legged brushturkey
   ru: Ошейниковий курохвост
   ja: チャエリツカツクリ
-  zh: Collared Brushturkey
+  zh: ''
   nl: Bruinkraagboskalkoen
   pl: nogal brązowodzioby
   tr: Kolyeli Talegalo

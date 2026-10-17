@@ -12,7 +12,7 @@ names:
   es: Periquito Migrador
   fr: Perruche de Latham
   de: Schwalbensittich
-  pt: swift parrot
+  pt: ''
   ru: Ласточковый попугайчик
   ja: オトメインコ
   zh: 快速鸚鵡

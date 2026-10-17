@@ -15,7 +15,7 @@ names:
   pt: guincho-pequeno
   ru: Серогрудый змееяд
   ja: オビチュウヒワシ
-  zh: Western Banded Snake Eagle
+  zh: ''
   nl: Bandstaartslangenarend
   pl: gadożer białopręgi
   tr: Batılı Çizgili Yılan Kartalı

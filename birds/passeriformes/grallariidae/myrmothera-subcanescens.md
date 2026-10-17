@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14325.0
 names:
   scientific: Myrmothera subcanescens
-  fa: nan
+  fa: ''
   en: Tapajos Antpitta
   es: Tororoí del Tapajós
   fr: Grallaire grisâtre

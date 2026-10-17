@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9343.0
 names:
   scientific: Ninox leucopsis
-  fa: nan
+  fa: ''
   en: Tasmanian Boobook
   es: Nínox Tasmano
   fr: Ninoxe de Tasmanie
   de: Tasmankuckuckskauz
-  pt: tasmanian boobook
+  pt: ''
   nl: Tasmaanse boeboek
   pl: sowica tasmańska
   tr: Tasmanya Bubuğu

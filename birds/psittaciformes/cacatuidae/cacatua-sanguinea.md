@@ -12,7 +12,7 @@ names:
   es: Cacatúa Sanguínea
   fr: Cacatoès corella
   de: Nacktaugenkakadu
-  pt: little corella
+  pt: ''
   ru: Гологлазый какаду
   ja: アカビタイムジオウム
   zh: 小鳳頭鸚鵡

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13068.0
 names:
   scientific: Pyrrhura hoematotis
-  fa: nan
+  fa: ''
   en: Blood-eared Parakeet
   es: Cotorra Colirroja
   fr: Conure à oreillons
@@ -15,7 +15,7 @@ names:
   pt: red-eared parakeet
   ru: Красноухая которра
   ja: アカミミウロコインコ
-  zh: Blood-eared Parakeet
+  zh: ''
   nl: Roodoorparkiet
   pl: rudosterka krasnoucha
   tr: Al Kulaklı Papağan

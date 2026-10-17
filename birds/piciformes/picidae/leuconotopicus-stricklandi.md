@@ -12,7 +12,7 @@ names:
   es: Pico de Strickland
   fr: Pic de Strickland
   de: Stricklandspecht
-  pt: strickland's woodpecker
+  pt: ''
   ru: Мексиканский дятел
   ja: チャバネアカゲラ
   nl: Stricklandspecht

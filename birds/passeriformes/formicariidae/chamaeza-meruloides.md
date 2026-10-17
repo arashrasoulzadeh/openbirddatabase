@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14523.0
 names:
   scientific: Chamaeza meruloides
-  fa: nan
+  fa: ''
   en: Cryptic Antthrush
   es: Tovacá Críptico
   fr: Tétéma de Such
@@ -15,7 +15,7 @@ names:
   pt: tovaca-cantadora
   ru: Скрытная муравейница
   ja: カクレアリツグミ
-  zh: Cryptic Antthrush
+  zh: ''
   nl: Cryptische mierlijster
   pl: mrówkodrozd skryty
   tr: Such Karıncaardıcı

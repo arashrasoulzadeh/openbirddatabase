@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31965.0
 names:
   scientific: Fringilla spodiogenys
-  fa: nan
+  fa: ''
   en: African Chaffinch
   es: Pinzón Magrebí
   fr: Pinson d'Afrique
   de: Maghrebbuchfink
-  pt: african chaffinch
+  pt: ''
   ru: Африканский зяблик
   ja: アフリカズアオアトリ
   zh: 非洲燕雀

@@ -12,7 +12,7 @@ names:
   es: Pinchaflor Índigo
   fr: Percefleur indigo
   de: Indigohakenschnabel
-  pt: indigo flowerpiercer
+  pt: ''
   ru: Индиговый цветокол
   ja: アイイロハナサシミツドリ
   zh: 青刺花鸟

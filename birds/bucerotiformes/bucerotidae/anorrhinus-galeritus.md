@@ -12,7 +12,7 @@ names:
   es: Cálao Crestado
   fr: Calao largup
   de: Kurzschopf-Hornvogel
-  pt: bushy-crested hornbill
+  pt: ''
   ru: Чубатая птица-носорог
   ja: ムジサイチョウ
   zh: 鳳頭犀鳥

@@ -15,7 +15,7 @@ names:
   pt: curió
   ru: Каштаново-чёрный просяночник
   ja: ヒメコメワリ
-  zh: Chestnut-bellied Seed Finch
+  zh: ''
   nl: Zwartkopzaadkraker
   pl: ryżołusk rudobrzuchy
   tr: Kestane Karınlı Koca Tohumcul

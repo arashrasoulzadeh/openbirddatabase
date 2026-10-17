@@ -12,7 +12,7 @@ names:
   es: Chotacabras Marajá
   fr: Engoulevent de Jerdon
   de: Maharadschanachtschwalbe
-  pt: jerdon's nightjar
+  pt: ''
   ru: Чернокрылый козодой
   ja: インドオビロヨタカ
   zh: 印度长尾夜鹰

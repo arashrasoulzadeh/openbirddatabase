@@ -12,7 +12,7 @@ names:
   es: Mérgulo Californiano Alioscuro
   fr: Guillemot de Craveri
   de: Niederkalifornienalk
-  pt: craveri's murrelet
+  pt: ''
   ru: Мексиканский старик
   ja: クラベリーウミスズメ
   nl: Craverialk

@@ -12,7 +12,7 @@ names:
   es: Chara Ultramarina
   fr: Geai des volcans
   de: Ultramarinhäher
-  pt: transvolcanic jay
+  pt: ''
   ru: Ультрамариновая сойка
   ja: カザンカケス
   zh: 灰胸丛鸦

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29646.0
 names:
   scientific: Monticola imerina
-  fa: nan
+  fa: ''
   en: Littoral Rock Thrush
   es: Roquero Litoral
   fr: Monticole du littoral
@@ -15,7 +15,7 @@ names:
   pt: littoral rock-thrush
   ru: Тусклый каменный дрозд
   ja: カワリツグミヒタキ
-  zh: Littoral Rock Thrush
+  zh: ''
   nl: Duinrotslijster
   pl: nagórnik nadbrzeżny
   tr: Sahil Taşkızılı

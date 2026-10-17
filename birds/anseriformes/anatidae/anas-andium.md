@@ -12,7 +12,7 @@ names:
   es: Cerceta Andina
   fr: Sarcelle des Andes
   de: Andenente
-  pt: andean teal
+  pt: ''
   ru: Андский чирок
   ja: アンデスコガモ
   zh: 斑頭鴨

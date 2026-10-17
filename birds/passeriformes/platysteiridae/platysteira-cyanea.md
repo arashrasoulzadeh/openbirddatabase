@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19837.0
 names:
   scientific: Platysteira cyanea
-  fa: nan
+  fa: ''
   en: Brown-throated Wattle-eye
   es: Batis Carunculado Gorjipardo
   fr: Pririt à collier
   de: Bindenlappenschnäpper
-  pt: brown-throated wattle-eye
+  pt: ''
   ru: Очковая серёжкоглазка
   ja: メガネヒタキ
   nl: Bruinkeellelvliegenvanger

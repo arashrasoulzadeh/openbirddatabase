@@ -12,7 +12,7 @@ names:
   es: Serín Canoso
   fr: Serin ouest-africain
   de: Nordbrauengirlitz
-  pt: west african seedeater
+  pt: ''
   ru: Сероголовый канареечник
   ja: ニシアフリカカナリア
   nl: Witbrauwkanarie

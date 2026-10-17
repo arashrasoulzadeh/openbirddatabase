@@ -12,7 +12,7 @@ names:
   es: Gallineta de Tasmania
   fr: Gallinule de Tasmanie
   de: Grünfuß-Teichhuhn
-  pt: tasmanian nativehen
+  pt: ''
   ru: Тасманийская камышница
   ja: タスマニアオグロバン
   nl: Tasmaans waterhoen

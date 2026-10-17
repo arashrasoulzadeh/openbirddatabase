@@ -12,7 +12,7 @@ names:
   es: Rascón Rojo
   fr: Râle de Maurice
   de: Mauritiusralle
-  pt: red rail
+  pt: ''
   ru: Маврикийский пастушок
   ja: モーリシャスクイナ
   zh: 紅秧雞

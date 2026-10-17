@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Wahnes
   fr: Paradisier de Wahnes
   de: Wahnesparadiesvogel
-  pt: wahnes's parotia
+  pt: ''
   ru: Хуонская паротия
   ja: オナガカンザシフウチョウ
   nl: Huonparotia

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6725.0
 names:
   scientific: Chlidonias niger
-  fa: nan
+  fa: ''
   en: Black Tern
   es: Fumarel Común
   fr: Guifette noire

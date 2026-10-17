@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9064.0
 names:
   scientific: Glaucidium sjostedti
-  fa: nan
+  fa: ''
   en: Sjöstedt's Barred Owlet
   es: Mochuelo del Congo
   fr: Chevêchette à queue barrée
@@ -15,7 +15,7 @@ names:
   pt: sjöstedt's owlet
   ru: Каштановый сычик
   ja: セアカスズメフクロウ
-  zh: Sjöstedt's Barred Owlet
+  zh: ''
   nl: Kameroense dwerguil
   pl: sóweczka białobroda
   tr: Kamerun Serçe Baykuşu

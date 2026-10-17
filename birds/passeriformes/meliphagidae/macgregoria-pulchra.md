@@ -7,15 +7,15 @@ iucn_status: VU
 taxon_order: 17926.0
 names:
   scientific: Macgregoria pulchra
-  fa: nan
+  fa: ''
   en: MacGregor's Honeyeater
   es: Mielero de Macgregor
   fr: Méliphage de MacGregor
   de: Lappenhonigfresser
-  pt: macgregor's honeyeater
+  pt: ''
   ru: Очковая макгрегория
   ja: ハナガオフウチョウ
-  zh: MacGregor's Honeyeater
+  zh: ''
   nl: MacGregorhoningeter
   pl: płatkook
   tr: Macgregor Balkuşu

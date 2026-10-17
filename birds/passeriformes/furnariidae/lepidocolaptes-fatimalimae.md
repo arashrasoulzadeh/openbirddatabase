@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14962.0
 names:
   scientific: Lepidocolaptes fatimalimae
-  fa: nan
+  fa: ''
   en: Inambari Woodcreeper
   es: Trepatroncos del Inambari
   fr: Grimpar de l'Inambari

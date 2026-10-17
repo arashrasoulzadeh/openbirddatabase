@@ -12,7 +12,7 @@ names:
   es: Escribano Gorjigrís
   fr: Bruant de Gosling
   de: Graukehlammer
-  pt: gosling's bunting
+  pt: ''
   ru: Серогорлая овсянка
   ja: ゴスリングホオジロ
   nl: Goslings gors

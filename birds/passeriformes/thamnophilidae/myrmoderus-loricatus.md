@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14048.0
 names:
   scientific: Myrmoderus loricatus
-  fa: nan
+  fa: ''
   en: White-bibbed Antbird
   es: Hormiguero Enmascarado
   fr: Alapi cuirassé

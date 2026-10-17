@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21917.0
 names:
   scientific: Elminia albiventris
-  fa: nan
+  fa: ''
   en: White-bellied Crested Flycatcher
   es: Elminia Ventriblanca
   fr: Elminie à ventre blanc
   de: Weißbauch-Haubenschnäpper
-  pt: white-bellied crested flycatcher
+  pt: ''
   ru: Белобрюхая эльминия
   ja: シロハラカンムリヒタキ
   nl: Witbuikkuifvliegenvanger

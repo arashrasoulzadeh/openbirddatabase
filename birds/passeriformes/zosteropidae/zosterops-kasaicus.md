@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 25697.0
 names:
   scientific: Zosterops kasaicus
-  fa: nan
+  fa: ''
   en: Angola White-eye
   es: Anteojitos Angoleño
   fr: Zostérops d'Angola
-  pt: angola white-eye
+  pt: ''
   nl: Angolese brilvogel
   pl: szlarnik angolski
   tr: Angola Gözlükçüsü

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24317.0
 names:
   scientific: Bleda syndactylus
-  fa: nan
+  fa: ''
   en: Red-tailed Bristlebill
   es: Bulbul Bigotudo
   fr: Bulbul moustac
   de: Rotschwanz-Borstenbülbül
-  pt: red-tailed bristlebill
+  pt: ''
   ru: Краснохвостый бюльбюль
   ja: ヒゲヒヨドリ
   nl: Roodstaartblada

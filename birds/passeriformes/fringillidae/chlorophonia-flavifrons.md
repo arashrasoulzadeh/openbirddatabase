@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 31983.0
 names:
   scientific: Chlorophonia flavifrons
-  fa: nan
+  fa: ''
   en: Lesser Antillean Euphonia
   es: Eufonia de las Antillas Menores
   fr: Organiste des Petites Antilles
-  pt: lesser antillean euphonia
+  pt: ''
   nl: Kleine-Antillenorganist
   pl: tęczanka antylska
   tr: Küçük Antiller Öfonyası

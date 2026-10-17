@@ -12,7 +12,7 @@ names:
   es: Zenaida Peruana
   fr: Tourterelle côtière
   de: Perutaube
-  pt: west peruvian dove
+  pt: ''
   ru: Перуанская горлица
   ja: ミナミハジロバト
   nl: Peruaanse treurduif

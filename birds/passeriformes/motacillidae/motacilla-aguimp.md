@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31717.0
 names:
   scientific: Motacilla aguimp
-  fa: nan
+  fa: ''
   en: African Pied Wagtail
   es: Lavandera Africana
   fr: Bergeronnette pie
   de: Witwenstelze
-  pt: african pied wagtail
+  pt: ''
   ru: Пегая трясогузка
   ja: ハジロハクセキレイ
   nl: Afrikaanse bonte kwikstaart

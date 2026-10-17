@@ -12,7 +12,7 @@ names:
   es: Cárabo Patiblanco
   fr: Chouette fasciée
   de: Rötelkauz
-  pt: rufous-banded owl
+  pt: ''
   ru: Андская неясыть
   ja: アカオビヒナフクロウ
   nl: Witbroekbosuil

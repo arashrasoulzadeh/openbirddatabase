@@ -12,7 +12,7 @@ names:
   es: Tucanete de Derby
   fr: Toucanet de Derby
   de: Blaunackenarassari
-  pt: chestnut-tipped toucanet
+  pt: ''
   ru: Малахитовый туканет
   ja: クロアカミドリチュウハシ
   nl: Derbyarassari

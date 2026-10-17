@@ -12,7 +12,7 @@ names:
   es: Faisán Siamés
   fr: Faisan prélat
   de: Prälatfasan
-  pt: siamese fireback
+  pt: ''
   ru: Фазан-прелат
   ja: シマハッカン
   zh: 戴氏鷴

@@ -12,7 +12,7 @@ names:
   es: Buco Bobito
   fr: Tamatia à gorge rousse
   de: Rostkehl-Faulvogel
-  pt: russet-throated puffbird
+  pt: ''
   ru: Красногорлая пуховка
   ja: ノドアカオオガシラ
   nl: Roestkeelbaardkoekoek

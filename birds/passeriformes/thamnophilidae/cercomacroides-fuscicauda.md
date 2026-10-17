@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13922.0
 names:
   scientific: Cercomacroides fuscicauda
-  fa: nan
+  fa: ''
   en: Riparian Antbird
   es: Hormiguero Ribereño
   fr: Grisin riverain

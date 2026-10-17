@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21909.0
 names:
   scientific: Chelidorhynx hypoxanthus
-  fa: nan
+  fa: ''
   en: Yellow-bellied Fantail
   es: Papamoscas Ventrigualdo
   fr: Chélidorhynque à ventre jaune

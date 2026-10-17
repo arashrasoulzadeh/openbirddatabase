@@ -15,7 +15,7 @@ names:
   pt: pitta-like ground-roller
   ru: Синеголовая земляная ракша
   ja: ルリガシラハシリブッポウソウ
-  zh: Pitta-like Ground Roller
+  zh: ''
   nl: Blauwkopgrondscharrelaar
   pl: kurtokraska białogardła
   tr: Pittamsı Yerkuzgunu

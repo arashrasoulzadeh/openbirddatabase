@@ -12,7 +12,7 @@ names:
   es: Crombec Cejiblanco
   fr: Crombec à sourcils blancs
   de: Weißbrauensylvietta
-  pt: white-browed crombec
+  pt: ''
   ru: Белобровый кромбек
   ja: マミジロチビオムシクイ
   nl: Witbrauwkrombek

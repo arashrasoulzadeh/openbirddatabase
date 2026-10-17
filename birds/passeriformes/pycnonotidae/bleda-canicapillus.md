@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24324.0
 names:
   scientific: Bleda canicapillus
-  fa: nan
+  fa: ''
   en: Grey-headed Bristlebill
   es: Bulbul Hormiguero
   fr: Bulbul fourmilier
@@ -15,7 +15,7 @@ names:
   pt: tuta-cabeça-vermelha
   ru: Гвинейский бюльбюль
   ja: ハイガシラヒゲヒヨドリ
-  zh: Grey-headed Bristlebill
+  zh: ''
   nl: Grijskopblada
   pl: bleda szarogłowa
   tr: Gri Başlı Karıncabülbülü

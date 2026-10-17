@@ -12,7 +12,7 @@ names:
   es: Aratinga de la Española
   fr: Conure maîtresse
   de: Haitisittich
-  pt: hispaniolan parakeet
+  pt: ''
   ru: Гаитянская аратинга
   ja: アカガタミドリインコ
   nl: Hispaniola-aratinga

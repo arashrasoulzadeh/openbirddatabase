@@ -12,7 +12,7 @@ names:
   es: Perdigallo Himalayo
   fr: Tétraogalle de l'Himalaya
   de: Himalajakönigshuhn
-  pt: himalayan snowcock
+  pt: ''
   ru: Гималайский улар
   ja: ヒマラヤセッケイ
   zh: 暗腹雪鸡

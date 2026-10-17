@@ -15,7 +15,7 @@ names:
   pt: coppery thorntail
   ru: Медная шипохвостка
   ja: ドウイロトゲオハチドリ
-  zh: Letitia's Thorntail
+  zh: ''
   nl: Koperen draadkolibrie
   pl: kolcosterek miedziany
   tr: Bakır Rengi Telkuyruk

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23788.0
 names:
   scientific: Helopsaltes ochotensis
-  fa: nan
+  fa: ''
   en: Middendorff's Grasshopper Warbler
   es: Buscarla de Middendorff
   fr: Locustelle de Middendorff
   de: Middendorffschwirl
-  pt: middendorff's grasshopper warbler
+  pt: ''
   ru: Охотский сверчок
   ja: シマセンニュウ
   zh: 北蝗莺

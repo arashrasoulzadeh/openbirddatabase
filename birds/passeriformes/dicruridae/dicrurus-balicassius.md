@@ -12,7 +12,7 @@ names:
   es: Drongo Balicassio
   fr: Drongo balicassio
   de: Philippinendrongo
-  pt: balicassiao
+  pt: ''
   ru: Филиппинский дронго
   ja: ヤハズカンムリオウチュウ
   zh: 白脅卷尾

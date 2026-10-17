@@ -12,7 +12,7 @@ names:
   es: Eremomela del Karoo
   fr: Érémomèle du Karoo
   de: Langschwanzeremomela
-  pt: karoo eremomela
+  pt: ''
   ru: Пустынная желтобрюшка
   ja: キゴシヒメムシクイ
   nl: Karoo-eremomela

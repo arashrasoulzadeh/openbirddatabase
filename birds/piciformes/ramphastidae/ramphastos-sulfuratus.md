@@ -12,7 +12,7 @@ names:
   es: Tucán Piquiverde
   fr: Toucan à carène
   de: Fischertukan
-  pt: keel-billed toucan
+  pt: ''
   ru: Радужный тукан
   ja: サンショクキムネオオハシ
   zh: 彩虹巨嘴鳥

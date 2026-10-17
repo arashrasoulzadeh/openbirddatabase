@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18933.0
 names:
   scientific: Edolisoma remotum
-  fa: nan
+  fa: ''
   en: Bismarck Cicadabird
   es: Oruguero Remoto
   fr: Échenilleur des Bismarck
   de: Bismarckraupenfänger
-  pt: bismarck cicadabird
+  pt: ''
   ru: Серошапочный цикадник
   ja: ビスマルクセミサンショウクイ
   nl: Bismarckrupsvogel

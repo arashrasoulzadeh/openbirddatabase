@@ -7,13 +7,13 @@ iucn_status: LC
 taxon_order: 26063.0
 names:
   scientific: Pomatorhinus bornensis
-  fa: nan
+  fa: ''
   en: Sunda Scimitar Babbler
   es: Cimitarra de Borneo
   fr: Pomatorhin de Bornéo
   de: Sundasäbler
   pt: sunda scimitar-babbler
-  zh: Sunda Scimitar Babbler
+  zh: ''
   nl: Soendakruiplijster
   pl: łączniak sundajski
   tr: Sunda Kıvrıkgagası

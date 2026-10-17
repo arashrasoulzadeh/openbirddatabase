@@ -12,7 +12,7 @@ names:
   es: Elepaio de Hawái
   fr: Monarque d'Hawaï
   de: Hawaiimonarch
-  pt: hawaii elepaio
+  pt: ''
   ru: Гавайский элепайо
   ja: ハワイヒタキ
   zh: 夏威夷蚋鶲

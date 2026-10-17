@@ -12,7 +12,7 @@ names:
   es: Indicador del Zambeze
   fr: Indicateur gris
   de: Graubauch-Honiganzeiger
-  pt: green-backed honeybird
+  pt: ''
   ru: Зелёный медоуказчик
   ja: ヒガシオリーブヒメミツオシエ
   nl: Grijze honingspeurder

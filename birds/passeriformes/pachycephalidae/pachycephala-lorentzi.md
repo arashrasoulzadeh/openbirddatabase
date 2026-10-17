@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19499.0
 names:
   scientific: Pachycephala lorentzi
-  fa: nan
+  fa: ''
   en: Lorentz's Whistler
   es: Silbador de Lorentz
   fr: Siffleur de Lorentz
   de: Lorentzdickkopf
-  pt: lorentz's whistler
+  pt: ''
   ru: Ирианский свистун
   ja: アオムネモズヒタキ
   zh: 罗氏啸鹟

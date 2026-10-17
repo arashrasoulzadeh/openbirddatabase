@@ -12,7 +12,7 @@ names:
   es: Bisbita Llanero
   fr: Pipit de Sprague
   de: Präriepieper
-  pt: sprague's pipit
+  pt: ''
   ru: Прерийный конёк
   ja: ヤブタヒバリ
   nl: Prairiepieper

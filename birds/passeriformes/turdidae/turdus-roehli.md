@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28469.0
 names:
   scientific: Turdus roehli
-  fa: nan
+  fa: ''
   en: Usambara Thrush
   es: Zorzal de Los Usambara
   fr: Merle de Roehl
   de: Usambaradrossel
-  pt: usambara thrush
+  pt: ''
   ru: Узамбарский дрозд
   ja: ウサンバラオリーブツグミ
   nl: Usambaralijster

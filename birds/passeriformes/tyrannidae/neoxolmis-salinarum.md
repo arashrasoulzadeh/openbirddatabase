@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 17127.0
 names:
   scientific: Neoxolmis salinarum
-  fa: nan
+  fa: ''
   en: Salinas Monjita
   es: Monjita Salinera
   fr: Pépoaza des Salinas
   de: Weißnacken-Scheckenentyrann
-  pt: salinas monjita
+  pt: ''
   ru: Светлобрюхая монашка
   ja: サリナスタイランチョウ
   nl: Salinasmonjita

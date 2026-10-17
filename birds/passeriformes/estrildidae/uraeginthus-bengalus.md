@@ -15,7 +15,7 @@ names:
   pt: peito-celeste
   ru: Красноухий астрильд
   ja: セイキチョウ
-  zh: Red-cheeked Cordon-bleu
+  zh: ''
   nl: Blauwfazantje
   pl: motylik krasnouchy
   tr: Al Yanaklı Mavi Mumgaga

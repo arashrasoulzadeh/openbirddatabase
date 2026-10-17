@@ -12,7 +12,7 @@ names:
   es: Papamoscas Tarabilla
   fr: Gobemouche traquet
   de: Akazienschnäpper
-  pt: chat flycatcher
+  pt: ''
   ru: Дроздовая мухоловка
   ja: オオチャビタキ
   nl: Lijstervliegenvanger

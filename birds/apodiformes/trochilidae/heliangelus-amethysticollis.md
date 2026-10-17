@@ -12,7 +12,7 @@ names:
   es: Colibrí Gorjiamatista
   fr: Héliange à gorge améthyste
   de: Amethystsonnennymphe
-  pt: amethyst-throated sunangel
+  pt: ''
   ru: Солнечная нимфа
   ja: アメシストテンシハチドリ
   zh: 紫晶喉領蜂鳥

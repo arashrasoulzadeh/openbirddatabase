@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17826.0
 names:
   scientific: Melionyx nouhuysi
-  fa: nan
+  fa: ''
   en: Short-bearded Honeyeater
   es: Mielero Barbicorto
   fr: Méliphage à barbe courte
   de: Kurzbart-Honigfresser
-  pt: short-bearded honeyeater
+  pt: ''
   ru: Белобородый нектароед
   ja: ノドジロヤマミツスイ
   nl: Kortbaardhoningeter

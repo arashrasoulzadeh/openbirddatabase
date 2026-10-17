@@ -12,7 +12,7 @@ names:
   es: Carraca de Raquetas
   fr: Rollier à raquettes
   de: Spatelracke
-  pt: racket-tailed roller
+  pt: ''
   ru: Ракетохвостая сизоворонка
   ja: ラケットニシブッポウソウ
   zh: 拍尾佛法僧

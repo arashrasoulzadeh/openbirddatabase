@@ -12,7 +12,7 @@ names:
   es: Tragopán Chino
   fr: Tragopan de Cabot
   de: Cabottragopan
-  pt: cabot's tragopan
+  pt: ''
   ru: Китайский трагопан
   ja: ジュケイ
   zh: 黄腹角雉

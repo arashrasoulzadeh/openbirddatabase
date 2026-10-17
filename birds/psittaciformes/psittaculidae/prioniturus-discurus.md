@@ -15,7 +15,7 @@ names:
   pt: blue-crowned racquet-tail
   ru: Филипинский ракетохвост
   ja: ズアオウチワインコ
-  zh: Blue-crowned Racket-tail
+  zh: ''
   nl: Blauwkruinvlagstaartpapegaai
   pl: listkogonka niebieskoczapkowa
   tr: Filipin Raket Kuyruklu Papağanı

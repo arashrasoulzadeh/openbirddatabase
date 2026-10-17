@@ -12,7 +12,7 @@ names:
   es: Alondra Sabota
   fr: Alouette sabota
   de: Sabotalerche
-  pt: sabota lark
+  pt: ''
   ru: Южноафриканский жаворонок
   ja: ハヤシヤブヒバリ
   zh: 萨博塔歌百灵

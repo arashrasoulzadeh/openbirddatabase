@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7271.0
 names:
   scientific: Pelecanoides georgicus
-  fa: nan
+  fa: ''
   en: South Georgia Diving Petrel
   es: Potoyunco de Georgia del Sur
   fr: Puffinure de Géorgie du Sud
@@ -15,7 +15,7 @@ names:
   pt: south georgia diving-petrel
   ru: Георгийский ныряющий буревестник
   ja: ミナミモグリウミツバメ
-  zh: South Georgia Diving Petrel
+  zh: ''
   nl: Zuid-Georgisch alkstormvogeltje
   pl: nurzec mały
   tr: Pelajik Dalıcı Fırtınakuşu

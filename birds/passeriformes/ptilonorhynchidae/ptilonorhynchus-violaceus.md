@@ -12,7 +12,7 @@ names:
   es: Pergolero Satinado
   fr: Jardinier satiné
   de: Seidenlaubenvogel
-  pt: satin bowerbird
+  pt: ''
   ru: Атласный шалашник
   ja: アオアズマヤドリ
   zh: 缎蓝园丁鸟

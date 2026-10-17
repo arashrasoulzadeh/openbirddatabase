@@ -12,7 +12,7 @@ names:
   es: Bisbita del Himalaya
   fr: Pipit montagnard
   de: Mattenpieper
-  pt: upland pipit
+  pt: ''
   ru: Гималайский конёк
   ja: コウゲンタヒバリ
   zh: 山鹨

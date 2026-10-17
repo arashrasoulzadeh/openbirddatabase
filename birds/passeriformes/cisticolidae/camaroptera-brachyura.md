@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23017.0
 names:
   scientific: Camaroptera brachyura
-  fa: nan
+  fa: ''
   en: Bleating Camaroptera
   es: Camaróptera Baladora
   fr: Camaroptère à tête grise

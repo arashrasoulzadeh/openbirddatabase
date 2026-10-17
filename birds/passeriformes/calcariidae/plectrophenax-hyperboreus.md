@@ -12,7 +12,7 @@ names:
   es: Escribano de Mckay
   fr: Plectrophane blanc
   de: Beringschneeammer
-  pt: mckay's bunting
+  pt: ''
   ru: Белая пуночка
   ja: ベーリングユキホオジロ
   zh: 麦氏鹀

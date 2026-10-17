@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8598.0
 names:
   scientific: Tyto inexspectata
-  fa: nan
+  fa: ''
   en: Minahasa Masked Owl
   es: Lechuza de Minahassa
   fr: Effraie de Minahassa
@@ -15,7 +15,7 @@ names:
   pt: minahasa masked-owl
   ru: Минахасская сипуха
   ja: ミナハサメンフクロウ
-  zh: Minahasa Masked Owl
+  zh: ''
   nl: Minahassakerkuil
   pl: płomykówka rdzawolica
   tr: Minahassa Peçeli Baykuşu

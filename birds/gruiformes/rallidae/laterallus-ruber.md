@@ -12,7 +12,7 @@ names:
   es: Polluela Rojiza
   fr: Râle roux
   de: Rubinralle
-  pt: ruddy crake
+  pt: ''
   ru: Рыжий коростелёк
   ja: ズグロコビトクイナ
   zh: 红田鸡

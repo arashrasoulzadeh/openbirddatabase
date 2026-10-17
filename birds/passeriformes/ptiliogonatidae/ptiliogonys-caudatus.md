@@ -12,7 +12,7 @@ names:
   es: Capulinero Colilargo
   fr: Ptilogon à longue queue
   de: Langschwanz-Seidenschnäpper
-  pt: long-tailed silky-flycatcher
+  pt: ''
   ru: Длиннохвостый шелкохвост
   ja: オナガレンジャクモドキ
   nl: Langstaartzijdevliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Colibrí Orejiblanco
   fr: Colibri à oreilles blanches
   de: Purpurstirn-Saphirkolibri
-  pt: white-eared hummingbird
+  pt: ''
   ru: Белоухий колибри
   ja: ミミジロサファイアハチドリ
   zh: 白耳蜂鸟

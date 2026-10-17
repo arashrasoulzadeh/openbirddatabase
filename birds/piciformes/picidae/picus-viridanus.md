@@ -12,7 +12,7 @@ names:
   es: Pito Verdoso
   fr: Pic verdâtre
   de: Burmagrünspecht
-  pt: streak-breasted woodpecker
+  pt: ''
   ru: Полосатобрюхий дятел
   ja: スジムネアオゲラ
   zh: 斑胸綠啄木鳥

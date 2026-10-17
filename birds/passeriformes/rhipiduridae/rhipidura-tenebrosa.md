@@ -15,7 +15,7 @@ names:
   pt: dusky fantail
   ru: Санкристобальская веерохвостка
   ja: ウスグロオウギビタキ
-  zh: Makira Fantail
+  zh: ''
   nl: Donkere waaierstaart
   pl: wachlarzówka ciemna
   tr: Makira Katmerkuyruğu

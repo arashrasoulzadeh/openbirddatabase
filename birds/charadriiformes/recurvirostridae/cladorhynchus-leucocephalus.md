@@ -12,7 +12,7 @@ names:
   es: Cigüeñuela Pechirroja
   fr: Échasse à tête blanche
   de: Schlammstelzer
-  pt: banded stilt
+  pt: ''
   ru: Рыжегрудый ходулочник
   ja: ムネアカセイタカシギ
   zh: 斑长脚鹬

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14008.0
 names:
   scientific: Myrmelastes humaythae
-  fa: nan
+  fa: ''
   en: Humaita Antbird
   es: Hormiguero de Humaitá
   fr: Alapi d'Humaita

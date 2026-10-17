@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25252.0
 names:
   scientific: Aegithalos fuliginosus
-  fa: nan
+  fa: ''
   en: Sooty Bushtit
   es: Mito Cuelliblanco
   fr: Orite à col blanc

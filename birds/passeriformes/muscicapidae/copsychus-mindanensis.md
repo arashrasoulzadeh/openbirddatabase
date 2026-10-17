@@ -12,7 +12,7 @@ names:
   es: Shama Filipino
   fr: Shama des Philippines
   de: Philippinenschama
-  pt: philippine magpie-robin
+  pt: ''
   ru: Филиппинский шама
   ja: フィリピンシキチョウ
   nl: Filipijnse dayallijster

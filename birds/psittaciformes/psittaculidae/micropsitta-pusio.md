@@ -15,7 +15,7 @@ names:
   pt: buff-faced pygmy-parrot
   ru: Буроголовый карликовый попугайчик
   ja: アオボウシケラインコ
-  zh: Buff-faced Pygmy Parrot
+  zh: ''
   nl: Dwergspechtpapegaai
   pl: karłówka płowolica
   tr: Turuncu Yüzlü Cüce Papağan

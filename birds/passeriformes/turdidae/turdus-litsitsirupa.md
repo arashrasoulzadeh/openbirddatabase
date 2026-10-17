@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28425.0
 names:
   scientific: Turdus litsitsirupa
-  fa: nan
+  fa: ''
   en: Groundscraper Thrush
   es: Zorzal Litsitsirupa
   fr: Grive litsitsirupa
   de: Akaziendrossel
-  pt: groundscraper thrush
+  pt: ''
   ru: Дрозд-землекоп
   ja: ウタツグミモドキ
   nl: Acacialijster

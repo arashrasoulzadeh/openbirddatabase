@@ -12,7 +12,7 @@ names:
   es: Agachadiza Malgache
   fr: Bécassine malgache
   de: Madagaskarbekassine
-  pt: madagascar snipe
+  pt: ''
   ru: Мадагаскарский бекас
   ja: マダガスカルジシギ
   nl: Madagaskarsnip

@@ -15,7 +15,7 @@ names:
   pt: caçula
   ru: Короткохвостая аруна
   ja: タンビコビトタイランチョウ
-  zh: Short-tailed Pygmy Tyrant
+  zh: ''
   nl: Kortstaartdwergtiran
   pl: tyraneczek krótkosterny
   tr: Kısa Kuyruklu Küçük Tiran

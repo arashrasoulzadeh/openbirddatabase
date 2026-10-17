@@ -12,7 +12,7 @@ names:
   es: Colibrí Colirraro
   fr: Colibri à queue singulière
   de: Scherenschwanz-Sternkolibri
-  pt: slender sheartail
+  pt: ''
   ru: Стройный искрохвост
   ja: トガリエンビハチドリ
   zh: 细剪尾蜂鸟

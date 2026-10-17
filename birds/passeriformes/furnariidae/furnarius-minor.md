@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15046.0
 names:
   scientific: Furnarius minor
-  fa: nan
+  fa: ''
   en: Lesser Hornero
   es: Hornero Chico
   fr: Petit Fournier

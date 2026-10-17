@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27953.0
 names:
   scientific: Lamprotornis mevesii
-  fa: nan
+  fa: ''
   en: Meves's Starling
   es: Estornino de Meves
   fr: Choucador de Meves
   de: Mevesglanzstar
-  pt: meves's starling
+  pt: ''
   ru: Пестрохвостый спрео
   ja: シマオオナガテリムク
   nl: Meveglansspreeuw

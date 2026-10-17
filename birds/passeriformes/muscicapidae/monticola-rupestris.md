@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29663.0
 names:
   scientific: Monticola rupestris
-  fa: nan
+  fa: ''
   en: Cape Rock Thrush
   es: Roquero de El Cabo
   fr: Monticole rocar
@@ -15,7 +15,7 @@ names:
   pt: cape rock-thrush
   ru: Южноафриканский каменный дрозд
   ja: ルリガシライソヒヨ
-  zh: Cape Rock Thrush
+  zh: ''
   nl: Kaapse rotslijster
   pl: nagórnik brązowoskrzydły
   tr: Kap Taşkızılı

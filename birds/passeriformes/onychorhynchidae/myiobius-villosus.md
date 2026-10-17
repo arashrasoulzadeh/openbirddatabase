@@ -15,7 +15,7 @@ names:
   pt: tawny-breasted flycatcher
   ru: Охристый широкохвост
   ja: チャムネキゴシハエトリ
-  zh: Tawny-breasted Myiobius
+  zh: ''
   nl: Borsteltiran
   pl: szczecinówka rdzawopierśna
   tr: Kestane Göğüslü Yalancıtiran

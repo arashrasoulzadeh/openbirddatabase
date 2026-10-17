@@ -15,7 +15,7 @@ names:
   pt: orange-fronted fruit-dove
   ru: Золотистолобый фруктовый голубь
   ja: キビタイヒメアオバト
-  zh: Orange-fronted Fruit Dove
+  zh: ''
   nl: Goudvoorhoofdjufferduif
   pl: owocożer złotoczelny
   tr: Turuncu Alınlı Meyve Kumrusu

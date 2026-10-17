@@ -12,7 +12,7 @@ names:
   es: Anteojitos Moluqueño
   fr: Zostérops à gorge crème
   de: Braunscheitel-Brillenvogel
-  pt: cream-throated white-eye
+  pt: ''
   ru: Хальмахерская белоглазка
   ja: モルッカメジロ
   zh: 摩鹿加繡眼

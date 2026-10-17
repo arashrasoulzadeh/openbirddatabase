@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16368.0
 names:
   scientific: Hemitriccus inornatus
-  fa: nan
+  fa: ''
   en: Pelzeln's Tody-Tyrant
   es: Titirijí de Pelzeln
   fr: Todirostre de Pelzeln

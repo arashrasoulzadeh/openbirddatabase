@@ -12,7 +12,7 @@ names:
   es: Ermitaño Barbudo Colibandeado
   fr: Ermite de Rucker
   de: Weißbinden-Schattenkolibri
-  pt: band-tailed barbthroat
+  pt: ''
   ru: Полосатохвостый колибри-отшельник
   ja: オビオヒゲハチドリ
   zh: 斑尾髭喉蜂鸟

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 7668.0
 names:
   scientific: Oroanassa magnifica
-  fa: nan
+  fa: ''
   en: White-eared Night Heron
   es: Martinete Magnífico
   fr: Bihoreau superbe
   de: Hainanreiher
-  pt: white-eared night heron
+  pt: ''
   ru: Белоухая кваква
   ja: ハイナンミゾゴイ
   zh: 海南鳽

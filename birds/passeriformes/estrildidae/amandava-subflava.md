@@ -15,7 +15,7 @@ names:
   pt: guarda-marinha
   ru: Золотистогрудый астрильд
   ja: シマベニスズメ
-  zh: Orange-breasted Waxbill
+  zh: ''
   nl: Goudbuikje
   pl: bengalik złotobrzuchy
   tr: Altın Göğüslü Mumgaga

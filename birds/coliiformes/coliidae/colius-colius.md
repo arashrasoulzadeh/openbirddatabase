@@ -12,7 +12,7 @@ names:
   es: Pájaro Ratón Dorsiblanco
   fr: Coliou à dos blanc
   de: Weißrücken-Mausvogel
-  pt: white-backed mousebird
+  pt: ''
   ru: Белоспинная птица-мышь
   ja: セジロネズミドリ
   nl: Witstuitmuisvogel

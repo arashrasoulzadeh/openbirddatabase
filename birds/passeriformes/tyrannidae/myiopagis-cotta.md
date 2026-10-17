@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16671.0
 names:
   scientific: Myiopagis cotta
-  fa: nan
+  fa: ''
   en: Jamaican Elaenia
   es: Fiofío Jamaicano
   fr: Élénie de Jamaïque
   de: Weißkehl-Olivtyrann
-  pt: jamaican elaenia
+  pt: ''
   ru: Ямайская эления
   ja: ジャマイカキクイタダキモドキ
   nl: Jamaicaanse elenia

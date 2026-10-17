@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26775.0
 names:
   scientific: Ianthocincla lunulata
-  fa: nan
+  fa: ''
   en: Barred Laughingthrush
   es: Charlatán Lunado
   fr: Garrulaxe à lunules
   de: Wellenhäherling
-  pt: barred laughingthrush
+  pt: ''
   ru: Волнистая кустарница
   ja: セスジガビチョウ
   zh: 斑背噪鹛

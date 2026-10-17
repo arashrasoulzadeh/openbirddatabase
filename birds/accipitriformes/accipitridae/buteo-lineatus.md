@@ -12,7 +12,7 @@ names:
   es: Busardo Pechirrojo
   fr: Buse à épaulettes
   de: Rotschulterbussard
-  pt: red-shouldered hawk
+  pt: ''
   ru: Красноплечий канюк
   ja: カタアカノスリ
   zh: 赤肩鵟

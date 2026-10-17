@@ -12,7 +12,7 @@ names:
   es: Vencejo de Cassin
   fr: Martinet de Cassin
   de: Cassinsegler
-  pt: cassin's spinetail
+  pt: ''
   ru: Кассинов колючехвост
   ja: ミジカオハリオアマツバメ
   nl: Cassingierzwaluw

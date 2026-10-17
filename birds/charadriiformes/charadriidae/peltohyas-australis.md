@@ -12,7 +12,7 @@ names:
   es: Chorlito Australiano
   fr: Pluvier australien
   de: Gürtelregenpfeifer
-  pt: inland dotterel
+  pt: ''
   ru: Австралийский бегун
   ja: マキエチドリ
   zh: 澳洲小嘴鸻

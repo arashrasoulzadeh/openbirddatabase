@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16399.0
 names:
   scientific: Poecilotriccus fumifrons
-  fa: nan
+  fa: ''
   en: Smoky-fronted Tody-Flycatcher
   es: Titirijí Frentigrís
   fr: Todirostre à front gris

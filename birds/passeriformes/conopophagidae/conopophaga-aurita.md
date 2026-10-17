@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14167.0
 names:
   scientific: Conopophaga aurita
-  fa: nan
+  fa: ''
   en: Chestnut-belted Gnateater
   es: Jejenero Orejudo
   fr: Conopophage à oreilles blanches

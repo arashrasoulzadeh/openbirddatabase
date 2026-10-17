@@ -12,7 +12,7 @@ names:
   es: Akelat de Gunning
   fr: Rougegorge de Gunning
   de: Blauflügelrötel
-  pt: east coast akalat
+  pt: ''
   ru: Прибрежный заряночник
   ja: シロハラヒメコマドリ
   nl: Blauwvleugelakalat

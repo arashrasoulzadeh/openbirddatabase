@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4077.0
 names:
   scientific: Tachymarptis melba
-  fa: nan
+  fa: ''
   en: Alpine Swift
   es: Vencejo Real
   fr: Martinet à ventre blanc

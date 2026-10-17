@@ -12,7 +12,7 @@ names:
   es: Cucarachero Ventribarrado
   fr: Troglodyte barré
   de: Akazienzaunkönig
-  pt: banded wren
+  pt: ''
   ru: Акациевый крапивник
   ja: クロオビマユミソサザイ
   nl: Acaciawinterkoning

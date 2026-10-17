@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14091.0
 names:
   scientific: Oneillornis salvini
-  fa: nan
+  fa: ''
   en: White-throated Antbird
   es: Hormiguero Gorjiblanco
   fr: Fourmilier de Salvin

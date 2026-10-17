@@ -12,7 +12,7 @@ names:
   es: Papamoscas Ventriblanco
   fr: Gobemouche à ventre blanc
   de: Keralablauschnäpper
-  pt: white-bellied blue flycatcher
+  pt: ''
   ru: Белобрюхая нильтава
   ja: シロハラヒメアオヒタキ
   zh: 白腹仙鹟

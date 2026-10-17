@@ -12,7 +12,7 @@ names:
   es: Atlapetes Nuquiblanco
   fr: Tohi à calotte blanche
   de: Weißnacken-Buschammer
-  pt: white-naped brushfinch
+  pt: ''
   ru: Белошапочная атлапета
   ja: シロエリヤブシトド
   nl: Witnekstruikgors

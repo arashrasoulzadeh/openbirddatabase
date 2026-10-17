@@ -12,7 +12,7 @@ names:
   es: Churrín Ventrirrufo
   fr: Mérulaxe à ventre roux
   de: Schieferrückentapaculo
-  pt: rufous-vented tapaculo
+  pt: ''
   ru: Рыжебрюхий тапакуло
   ja: シリアカオタテドリ
   nl: Roodbuiktapaculo

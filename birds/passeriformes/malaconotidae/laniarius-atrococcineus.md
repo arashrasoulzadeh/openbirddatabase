@@ -15,7 +15,7 @@ names:
   pt: crimson-breasted gonolek
   ru: Белокрылый гонолек
   ja: ハジロアカハラヤブモズ
-  zh: Crimson-breasted Shrike
+  zh: ''
   nl: Burchellfiskaal
   pl: dzierzyk purpurowy
   tr: Ala-Kırmızı Bubu

@@ -12,7 +12,7 @@ names:
   es: Fulveta de Huet
   fr: Alcippe de Huet
   de: Huetzweigdrossling
-  pt: huet's fulvetta
+  pt: ''
   ru: Китайская альциппа
   ja: ユエチメドリ
   zh: 淡眉雀鹛

@@ -12,7 +12,7 @@ names:
   es: Silbador de las Bismarck
   fr: Siffleur des Bismarck
   de: Bismarckdickkopf
-  pt: bismarck whistler
+  pt: ''
   ru: Бисмаркский свистун
   ja: ビスマルクモズヒタキ
   nl: Bismarckfluiter

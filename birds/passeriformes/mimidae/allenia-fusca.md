@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Oscuro
   fr: Moqueur grivotte
   de: Schuppenspottdrossel
-  pt: scaly-breasted thrasher
+  pt: ''
   ru: Чешуйчатогрудый пересмешник
   ja: ウロコツグミモドキ
   zh: 鳞胸嘲鸫

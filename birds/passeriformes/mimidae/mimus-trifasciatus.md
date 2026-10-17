@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 28092.0
 names:
   scientific: Mimus trifasciatus
-  fa: nan
+  fa: ''
   en: Floreana Mockingbird
   es: Sinsonte de Isla Floreana
   fr: Moqueur de Floreana
   de: Floreanaspottdrossel
-  pt: floreana mockingbird
+  pt: ''
   ru: Флореанский пересмешник
   ja: チャールズマネシツグミ
   zh: 三斑嘲鶇

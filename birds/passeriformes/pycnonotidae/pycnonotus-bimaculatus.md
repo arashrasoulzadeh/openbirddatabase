@@ -12,7 +12,7 @@ names:
   es: Bulbul Bimaculado
   fr: Bulbul bimaculé
   de: Goldfleckbülbül
-  pt: orange-spotted bulbul
+  pt: ''
   ru: Оранжеволобый бюльбюль
   ja: アカボシヒヨドリ
   zh: 橙斑鵯

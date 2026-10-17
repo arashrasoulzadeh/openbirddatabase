@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12451.0
 names:
   scientific: Eunymphicus cornutus
-  fa: nan
+  fa: ''
   en: Horned Parakeet
   es: Perico Cornudo
   fr: Perruche cornue
   de: Hornsittich
-  pt: horned parakeet
+  pt: ''
   ru: Рогатый попугай
   ja: ヘイワインコ
   zh: 獨角鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Cacatúa Galah
   fr: Cacatoès rosalbin
   de: Rosakakadu
-  pt: galah
+  pt: ''
   ru: Розовый какаду
   ja: モモイロインコ
   zh: 粉紅鳳頭鸚鵡

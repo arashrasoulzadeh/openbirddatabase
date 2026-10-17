@@ -12,7 +12,7 @@ names:
   es: Curutié Carirrojo
   fr: Synallaxe à face rouge
   de: Rotgesicht-Baumschlüpfer
-  pt: red-faced spinetail
+  pt: ''
   ru: Краснолицая курутия
   ja: アカガオカマドドリ
   nl: Roodwangstekelstaart

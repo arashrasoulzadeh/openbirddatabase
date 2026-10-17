@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12342.0
 names:
   scientific: Mascarinus mascarinus
-  fa: nan
+  fa: ''
   en: Mascarene Parrot
   es: Loro de las Mascareñas
   fr: Mascarin de La Réunion
   de: Maskarenenpapagei
-  pt: mascarene parrot
+  pt: ''
   ru: Маскаренский попугай
   ja: マスカリンインコ
   nl: Mascarenenpapegaai

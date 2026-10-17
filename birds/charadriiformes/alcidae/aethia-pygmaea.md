@@ -12,7 +12,7 @@ names:
   es: Mérgulo Bigotudo
   fr: Starique pygmée
   de: Bartalk
-  pt: whiskered auklet
+  pt: ''
   ru: Малая конюга
   ja: シラヒゲウミスズメ
   zh: 長腮鬚海雀

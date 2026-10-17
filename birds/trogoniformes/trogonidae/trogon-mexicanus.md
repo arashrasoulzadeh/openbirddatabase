@@ -12,7 +12,7 @@ names:
   es: Trogón Mexicano
   fr: Trogon montagnard
   de: Bronzetrogon
-  pt: mountain trogon
+  pt: ''
   ru: Горный трогон
   ja: メキシコキヌバネドリ
   zh: 墨西哥咬鹃

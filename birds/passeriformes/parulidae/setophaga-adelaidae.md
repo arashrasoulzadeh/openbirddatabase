@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34191.0
 names:
   scientific: Setophaga adelaidae
-  fa: nan
+  fa: ''
   en: Adelaide's Warbler
   es: Reinita Puertorriqueña
   fr: Paruline d'Adelaide
   de: Antillenwaldsänger
-  pt: adelaide's warbler
+  pt: ''
   ru: Антильская древесница
   ja: キバラアメリカムシクイ
   nl: Adelaidezanger

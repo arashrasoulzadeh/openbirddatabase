@@ -12,7 +12,7 @@ names:
   es: Apalis Gorjirrufo
   fr: Apalis à gorge rousse
   de: Weißbauch-Feinsänger
-  pt: buff-throated apalis
+  pt: ''
   ru: Белобрюхий апалис
   ja: セグロイロムシクイ
   nl: Zwartrugapalis

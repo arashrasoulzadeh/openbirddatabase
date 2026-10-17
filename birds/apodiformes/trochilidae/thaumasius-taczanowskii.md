@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5030.0
 names:
   scientific: Thaumasius taczanowskii
-  fa: nan
+  fa: ''
   en: Spot-throated Hummingbird
   es: Colibrí de Taczanowski
   fr: Colibri de Taczanowski
   de: Taczanowskikolibri
-  pt: spot-throated hummingbird
+  pt: ''
   ru: Пятнистогорлый левкипп
   ja: ホシノドミズベハチドリ
   nl: Vlekkeelkolibrie

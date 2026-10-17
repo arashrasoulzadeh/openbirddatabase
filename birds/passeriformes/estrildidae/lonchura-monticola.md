@@ -15,7 +15,7 @@ names:
   pt: alpine munia
   ru: Папуанская муния
   ja: タカネキンパラ
-  zh: Eastern Alpine Mannikin
+  zh: ''
   nl: Bergrietvink
   pl: mniszka czarnowstęga
   tr: Dağ Munyası

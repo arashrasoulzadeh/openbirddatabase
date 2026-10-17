@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33999.0
 names:
   scientific: Geothlypis aequinoctialis
-  fa: nan
+  fa: ''
   en: Masked Yellowthroat
   es: Mascarita Equinoccial
   fr: Paruline équatoriale

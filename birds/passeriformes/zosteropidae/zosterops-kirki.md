@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25721.0
 names:
   scientific: Zosterops kirki
-  fa: nan
+  fa: ''
   en: Kirk's White-eye
   es: Anteojitos de Kirk
   fr: Zostérops de Kirk
   de: Komorenbrillenvogel
-  pt: kirk's white-eye
+  pt: ''
   ru: Коморская белоглазка
   ja: カークメジロ
   nl: Grande-Comorebrilvogel

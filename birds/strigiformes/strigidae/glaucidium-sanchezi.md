@@ -15,7 +15,7 @@ names:
   pt: tamaulipas pygmy-owl
   ru: Мексиканский сычик
   ja: メキシコスズメフクロウ
-  zh: Tamaulipas Pygmy Owl
+  zh: ''
   nl: Tamaulipasdwerguil
   pl: sóweczka meksykańska
   tr: Tamaulipas Serçe Baykuşu

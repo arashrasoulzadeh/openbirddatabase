@@ -12,7 +12,7 @@ names:
   es: Zordala Moteada
   fr: Ptilorrhoa tacheté
   de: Bergwaldflöter
-  pt: spotted jewel-babbler
+  pt: ''
   ru: Пятнистый флейтист
   ja: タカネパプアチメドリ
   nl: Bergjuweelbabbelaar

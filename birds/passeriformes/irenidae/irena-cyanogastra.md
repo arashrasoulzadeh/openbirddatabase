@@ -12,7 +12,7 @@ names:
   es: Irena Dorsinegra
   fr: Irène à ventre bleu
   de: Kobaltfeenvogel
-  pt: philippine fairy-bluebird
+  pt: ''
   ru: Кобальтовая ирена
   ja: スミレコノハドリ
   nl: Filipijnse blauwrug

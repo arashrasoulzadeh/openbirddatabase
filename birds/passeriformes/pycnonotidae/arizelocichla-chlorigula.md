@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24369.0
 names:
   scientific: Arizelocichla chlorigula
-  fa: nan
+  fa: ''
   en: Yellow-throated Mountain Greenbul
   es: Bulbul Gorjiverde
   fr: Bulbul des Nguru
   de: Gelbfleckbülbül
-  pt: yellow-throated mountain greenbul
+  pt: ''
   ru: Желтозобый бюльбюль
   ja: ミナミアオノドヒヨ
   nl: Citroenkeelbuulbuul

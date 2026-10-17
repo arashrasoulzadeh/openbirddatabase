@@ -12,7 +12,7 @@ names:
   es: Polluela Negra Malgache
   fr: Marouette d'Olivier
   de: Malegassenkielralle
-  pt: sakalava rail
+  pt: ''
   ru: Мадагаскарский погоныш
   ja: マダガスカルクロクイナ
   nl: Olivierwaterhoen

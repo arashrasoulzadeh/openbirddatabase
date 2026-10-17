@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 28617.0
 names:
   scientific: Turdus ravidus
-  fa: nan
+  fa: ''
   en: Grand Cayman Thrush
   es: Zorzal de Gran Caimán
   fr: Merle de Grande Caïman
   de: Caymandrossel
-  pt: grand cayman thrush
+  pt: ''
   ru: Красноглазый дрозд
   ja: ケーマンツグミ
   zh: 大開曼鶇

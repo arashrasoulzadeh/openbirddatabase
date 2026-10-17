@@ -12,7 +12,7 @@ names:
   es: Lori Arcoiris
   fr: Loriquet arc-en-ciel
   de: Regenbogenlori
-  pt: rainbow lorikeet
+  pt: ''
   ru: Радужный лорикет
   ja: オーストラリアゴシキセイガイインコ
   zh: 彩虹吸蜜鹦鹉

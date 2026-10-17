@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Hainán
   fr: Gobemouche de Hainan
   de: Hainanblauschnäpper
-  pt: hainan blue flycatcher
+  pt: ''
   ru: Хайнаньская нильтава
   ja: ハイナンヒメアオヒタキ
   zh: 海南蓝仙鹟

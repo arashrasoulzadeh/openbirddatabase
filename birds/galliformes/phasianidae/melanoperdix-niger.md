@@ -12,7 +12,7 @@ names:
   es: Perdiz Negra
   fr: Rouloul noir
   de: Schwarzwachtel
-  pt: black partridge
+  pt: ''
   ru: Чёрная куропатка
   ja: クマシャコ
   zh: 黑鶉

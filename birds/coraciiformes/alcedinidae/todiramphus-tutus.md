@@ -12,7 +12,7 @@ names:
   es: Alción Respetado
   fr: Martin-chasseur respecté
   de: Boraboraliest
-  pt: chattering kingfisher
+  pt: ''
   ru: Полинезийская альциона
   ja: マミジロショウビン
   zh: 博拉翡翠

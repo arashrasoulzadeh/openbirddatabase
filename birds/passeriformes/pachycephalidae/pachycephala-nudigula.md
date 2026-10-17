@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19382.0
 names:
   scientific: Pachycephala nudigula
-  fa: nan
+  fa: ''
   en: Bare-throated Whistler
   es: Silbador de Flores
   fr: Siffleur à gorge nue
   de: Nacktkehl-Dickkopf
-  pt: bare-throated whistler
+  pt: ''
   ru: Гологорлый свистун
   ja: ハゲノドモズヒタキ
   zh: 裸喉啸鹟

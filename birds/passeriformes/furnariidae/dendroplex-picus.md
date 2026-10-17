@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14871.0
 names:
   scientific: Dendroplex picus
-  fa: nan
+  fa: ''
   en: Straight-billed Woodcreeper
   es: Trepatroncos Piquirrecto
   fr: Grimpar talapiot

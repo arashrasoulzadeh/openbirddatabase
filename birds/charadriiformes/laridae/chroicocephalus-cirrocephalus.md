@@ -15,7 +15,7 @@ names:
   pt: gaivota-de-cabeça-cinza
   ru: Сероголовая чайка
   ja: ズアオカモメ
-  zh: Grey-headed Gull
+  zh: ''
   nl: Grijskopmeeuw
   pl: mewa szarogłowa
   tr: Gri Başlı Martı

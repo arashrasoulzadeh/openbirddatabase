@@ -15,7 +15,7 @@ names:
   pt: cantador-galego
   ru: Желтогрудая муравьянка
   ja: キムネナキアリドリ
-  zh: Yellow-breasted Warbling Antbird
+  zh: ''
   nl: Geelborstmierzanger
   pl: jaguarek rdzawoboczny
   tr: Sarı Göğüslü Ötücü Karıncakuşu

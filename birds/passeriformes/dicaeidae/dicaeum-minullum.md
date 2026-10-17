@@ -12,7 +12,7 @@ names:
   es: Picaflores Sencillo
   fr: Dicée olivâtre
   de: Einfarb-Mistelfresser
-  pt: plain flowerpecker
+  pt: ''
   ru: Бурый цветоед
   ja: ムジハナドリ
   zh: 纯色啄花鸟

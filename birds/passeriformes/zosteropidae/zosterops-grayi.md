@@ -12,7 +12,7 @@ names:
   es: Anteojitos de Gran Kai
   fr: Zostérops de Grande Kai
   de: Keibrillenvogel
-  pt: kai besar white-eye
+  pt: ''
   ru: Жемчужнобрюхая белоглазка
   ja: ケイメジロ
   nl: Kai-Besarbrilvogel

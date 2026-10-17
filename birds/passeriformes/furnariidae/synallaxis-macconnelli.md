@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15607.0
 names:
   scientific: Synallaxis macconnelli
-  fa: nan
+  fa: ''
   en: McConnell's Spinetail
   es: Pijuí de Mcconnell
   fr: Synallaxe de McConnell

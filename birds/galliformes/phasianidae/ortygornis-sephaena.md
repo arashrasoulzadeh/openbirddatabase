@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1632.0
 names:
   scientific: Ortygornis sephaena
-  fa: nan
+  fa: ''
   en: Crested Francolin
   es: Francolín Capirotado
   fr: Francolin huppé
   de: Schopffrankolin
-  pt: crested francolin
+  pt: ''
   ru: Хохлатый франколин
   ja: カミナガシャコ
   nl: Kuiffrankolijn

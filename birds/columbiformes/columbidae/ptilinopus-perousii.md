@@ -15,7 +15,7 @@ names:
   pt: many-colored fruit-dove
   ru: Многоцветный фруктовый голубь
   ja: ニシキヒメアオバト
-  zh: Many-colored Fruit Dove
+  zh: ''
   nl: Regenboogjufferduif
   pl: owocożer tęczowy
   tr: Çok Renkli Meyve Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Pinzón de Anteojos
   fr: Roselin de Burton
   de: Rotmaskengimpel
-  pt: spectacled finch
+  pt: ''
   ru: Очковый вьюрок
   ja: アカマユマシコ
   zh: 红眉金翅雀

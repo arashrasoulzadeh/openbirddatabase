@@ -12,7 +12,7 @@ names:
   es: Charlatán Variegado
   fr: Garrulaxe varié
   de: Buntflügelhäherling
-  pt: variegated laughingthrush
+  pt: ''
   ru: Пестрокрылая кустарница
   ja: ヒマラヤガビチョウ
   zh: 杂色噪鹛

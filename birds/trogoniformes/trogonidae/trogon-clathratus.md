@@ -12,7 +12,7 @@ names:
   es: Trogón Colibarrado
   fr: Trogon échelette
   de: Sperberschwanztrogon
-  pt: lattice-tailed trogon
+  pt: ''
   ru: Пестрохвостый трогон
   ja: シマオグロキヌバネドリ
   nl: Rasterstaarttrogon

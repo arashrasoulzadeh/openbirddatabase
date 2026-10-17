@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1940.0
 names:
   scientific: Patagioenas cayennensis
-  fa: nan
+  fa: ''
   en: Pale-vented Pigeon
   es: Paloma Colorada
   fr: Pigeon rousset

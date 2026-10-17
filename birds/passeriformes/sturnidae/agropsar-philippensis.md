@@ -12,7 +12,7 @@ names:
   es: Estornino Carirrojo
   fr: Étourneau à joues marron
   de: Violettrückenstar
-  pt: chestnut-cheeked starling
+  pt: ''
   ru: Японский скворец
   ja: コムクドリ
   zh: 紫背椋鸟

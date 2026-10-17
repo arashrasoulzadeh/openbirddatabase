@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 12232.0
 names:
   scientific: Coracopsis barklyi
-  fa: nan
+  fa: ''
   en: Seychelles Black Parrot
   es: Loro de las Seychelles
   fr: Vaza des Seychelles
@@ -15,7 +15,7 @@ names:
   pt: seychelles parrot
   ru: Сейшельский ваза
   ja: セイシェルインコ
-  zh: Seychelles Black Parrot
+  zh: ''
   nl: Praslinpapegaai
   pl: papuzica seszelska
   tr: Seyşeller Kara Papağanı

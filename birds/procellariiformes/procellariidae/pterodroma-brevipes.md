@@ -12,7 +12,7 @@ names:
   es: Petrel Acollarado
   fr: Pétrel à collier
   de: Brustband-Sturmvogel
-  pt: collared petrel
+  pt: ''
   ru: Коротконогий тайфунник
   ja: カワリヒメシロハラミズナギドリ
   nl: Halsbandstormvogel

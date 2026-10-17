@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35075.0
 names:
   scientific: Tangara callophrys
-  fa: nan
+  fa: ''
   en: Opal-crowned Tanager
   es: Tangara Opalina
   fr: Calliste à sourcils clairs

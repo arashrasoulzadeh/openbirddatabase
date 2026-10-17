@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2123.0
 names:
   scientific: Macropygia modiglianii
-  fa: nan
+  fa: ''
   en: Barusan Cuckoo-Dove
   es: Tórtola Cuco de las Barusan
   fr: Phasianelle de Modigliani
   de: Sumatrataube
-  pt: barusan cuckoo-dove
+  pt: ''
   ru: Суматранская кукушковая горлица
   ja: バルサン
   nl: Barusankoekoeksduif

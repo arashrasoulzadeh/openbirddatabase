@@ -12,7 +12,7 @@ names:
   es: Cálao Papú
   fr: Calao papou
   de: Papuahornvogel
-  pt: blyth's hornbill
+  pt: ''
   ru: Новогвинейский калао
   ja: パプアシワコブサイチョウ
   zh: 布萊斯犀鳥

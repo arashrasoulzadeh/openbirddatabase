@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2614.0
 names:
   scientific: Ramphiculus subgularis
-  fa: nan
+  fa: ''
   en: Banggai Fruit Dove
   es: Tilopo de las Banggai
   fr: Ptilope des Banggai
@@ -15,7 +15,7 @@ names:
   pt: banggai fruit-dove
   ru: Бородатый фруктовый голубь
   ja: バンガイヒメアオバト
-  zh: Banggai Fruit Dove
+  zh: ''
   nl: Banggai-jufferduif
   pl: owocożer ciemnobrody
   tr: Banggai Meyve Kumrusu

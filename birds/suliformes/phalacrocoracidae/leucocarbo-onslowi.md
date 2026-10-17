@@ -15,7 +15,7 @@ names:
   pt: chatham islands shag
   ru: Чатемский баклан
   ja: チャタムウ
-  zh: Chatham Shag
+  zh: ''
   nl: Onslowaalscholver
   pl: kormoran plamisty
   tr: Chatham Alaca Karabatağı

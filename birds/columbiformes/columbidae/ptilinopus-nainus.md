@@ -15,7 +15,7 @@ names:
   pt: dwarf fruit-dove
   ru: Карликовый фруктовый голубь
   ja: コビトアオバト
-  zh: Dwarf Fruit Dove
+  zh: ''
   nl: Dwergjufferduif
   pl: owocożer karłowaty
   tr: Küçük Meyve Kumrusu

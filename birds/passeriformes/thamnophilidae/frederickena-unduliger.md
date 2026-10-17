@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13458.0
 names:
   scientific: Frederickena unduliger
-  fa: nan
+  fa: ''
   en: Undulated Antshrike
   es: Batará Ondulado
   fr: Batara ondé

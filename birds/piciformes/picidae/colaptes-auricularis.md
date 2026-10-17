@@ -15,7 +15,7 @@ names:
   pt: gray-crowned woodpecker
   ru: Серошапочный дятел
   ja: ハイガシラモリゲラ
-  zh: Grey-crowned Woodpecker
+  zh: ''
   nl: Grijskruinspecht
   pl: dzięcioł czerwonowąsy
   tr: Gri Başlıklı Ağaçkakan

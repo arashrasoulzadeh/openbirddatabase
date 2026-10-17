@@ -12,7 +12,7 @@ names:
   es: Crombec Isabelino
   fr: Crombec isabelle
   de: Isabellsylvietta
-  pt: somali crombec
+  pt: ''
   ru: Сомалийский кромбек
   ja: ソマリーハシナガチビオムシクイ
   nl: Izabelkrombek

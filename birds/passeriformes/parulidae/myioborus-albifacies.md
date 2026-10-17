@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34381.0
 names:
   scientific: Myioborus albifacies
-  fa: nan
+  fa: ''
   en: White-faced Whitestart
   es: Candelita Cariblanca
   fr: Paruline à face blanche
@@ -15,7 +15,7 @@ names:
   pt: white-faced redstart
   ru: Белощёкая канделита
   ja: カオジロアメリカムシクイ
-  zh: White-faced Whitestart
+  zh: ''
   nl: Witwangzanger
   pl: pleszówka białolica
   tr: Ak Yüzlü Ötleğen

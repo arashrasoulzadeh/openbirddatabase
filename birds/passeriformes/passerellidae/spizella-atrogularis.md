@@ -12,7 +12,7 @@ names:
   es: Chingolo Barbinegro
   fr: Bruant à menton noir
   de: Schwarzkinnammer
-  pt: black-chinned sparrow
+  pt: ''
   ru: Черногорлая малая овсянка
   ja: アゴグロヒメドリ
   nl: Zwartkingors

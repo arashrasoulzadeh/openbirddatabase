@@ -12,7 +12,7 @@ names:
   es: Chara Papán
   fr: Geai enfumé
   de: Braunhäher
-  pt: brown jay
+  pt: ''
   ru: Бурая сойка
   ja: チャイロカケス
   nl: Bruine gaai

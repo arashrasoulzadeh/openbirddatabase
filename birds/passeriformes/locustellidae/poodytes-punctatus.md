@@ -12,7 +12,7 @@ names:
   es: Yerbera Maorí
   fr: Mégalure matata
   de: Farnsänger
-  pt: new zealand fernbird
+  pt: ''
   ru: Новозеландская котата
   ja: シダセッカ
   zh: 紐西蘭蕨鶯

@@ -12,7 +12,7 @@ names:
   es: Obispo de Abanico
   fr: Euplecte à épaules orangées
   de: Stummelweber
-  pt: fan-tailed widowbird
+  pt: ''
   ru: Красноплечий ткачик
   ja: アカガタホウオウ
   nl: Roodschouderwidavink

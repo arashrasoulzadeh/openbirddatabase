@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29233.0
 names:
   scientific: Cossypha dichroa
-  fa: nan
+  fa: ''
   en: Chorister Robin-Chat
   es: Cosifa Bicolor
   fr: Cossyphe choriste
   de: Spottrötel
-  pt: chorister robin-chat
+  pt: ''
   ru: Двухцветный рыжехвост
   ja: チャバラツグミヒタキ
   nl: Choristerlawaaimaker

@@ -12,7 +12,7 @@ names:
   es: Chirigüe de Taczanowski
   fr: Sicale de Taczanowski
   de: Blasskehl-Gilbtangare
-  pt: sulphur-throated finch
+  pt: ''
   ru: Желтогорлый зерноед
   ja: キノドノジコ
   nl: Geelkinsaffraangors

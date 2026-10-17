@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5168.0
 names:
   scientific: Chionomesa fimbriata
-  fa: nan
+  fa: ''
   en: Glittering-throated Emerald
   es: Amazilia Listada
   fr: Ariane de Linné

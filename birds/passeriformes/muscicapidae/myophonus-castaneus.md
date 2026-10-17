@@ -15,7 +15,7 @@ names:
   pt: sumatran whistling-thrush
   ru: Каштановокрылая синяя птица
   ja: クリバネルリチョウ
-  zh: Brown-winged Whistling Thrush
+  zh: ''
   nl: Sumatraanse fluitlijster
   pl: gwizdokos kasztanowaty
   tr: Sumatra Kahverengi Islıkçı Bülbülü

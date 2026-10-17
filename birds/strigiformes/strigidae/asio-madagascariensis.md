@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9263.0
 names:
   scientific: Asio madagascariensis
-  fa: nan
+  fa: ''
   en: Madagascar Owl
   es: Búho Malgache
   fr: Hibou malgache
   de: Madagaskar-Waldohreule
-  pt: madagascar owl
+  pt: ''
   ru: Мадагаскарская сова
   ja: マダガスカルトラフズク
   zh: 马岛耳鸮

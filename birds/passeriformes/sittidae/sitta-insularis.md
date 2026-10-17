@@ -12,7 +12,7 @@ names:
   es: Trepador de las Bahamas
   fr: Sittelle des Bahamas
   de: Bahamakleiber
-  pt: bahama nuthatch
+  pt: ''
   ru: Багамский поползень
   ja: バハマゴジュウカラ
   nl: Bahamaboomklever

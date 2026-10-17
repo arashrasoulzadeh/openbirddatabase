@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 23912.0
 names:
   scientific: Bradypterus sylvaticus
-  fa: nan
+  fa: ''
   en: Knysna Warbler
   es: Zarzalero del Knysna
   fr: Mégalure de Knysna
   de: Kapbuschsänger
-  pt: knysna warbler
+  pt: ''
   ru: Капская бурогрудка
   ja: オリーブオウギセッカ
   zh: 灌丛短翅莺

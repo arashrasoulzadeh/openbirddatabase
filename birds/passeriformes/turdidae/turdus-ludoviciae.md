@@ -12,7 +12,7 @@ names:
   es: Zorzal Somalí
   fr: Merle de Somalie
   de: Somalidrossel
-  pt: somali thrush
+  pt: ''
   ru: Сомалийский дрозд
   ja: カオグロハイツグミ
   nl: Somalische lijster

@@ -12,7 +12,7 @@ names:
   es: Golondrina Aserrada
   fr: Hirondelle à ailes hérissées
   de: Graukehlschwalbe
-  pt: northern rough-winged swallow
+  pt: ''
   ru: Североамериканская ласточка
   ja: キタオビナシショウドウツバメ
   zh: 北方紅翎粗翅燕

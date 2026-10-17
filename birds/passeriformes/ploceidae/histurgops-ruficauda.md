@@ -12,7 +12,7 @@ names:
   es: Tejedor Colirrojo
   fr: Histurgopse à queue rouge
   de: Rotschwanzweber
-  pt: rufous-tailed weaver
+  pt: ''
   ru: Краснохвостый коробиндо
   ja: クリオオニハタドリ
   nl: Roodstaartwever

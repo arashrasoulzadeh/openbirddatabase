@@ -12,7 +12,7 @@ names:
   es: Maluro Hombroblanco
   fr: Mérion à épaulettes
   de: Weißschulter-Staffelschwanz
-  pt: white-shouldered fairywren
+  pt: ''
   ru: Белоплечий малюр
   ja: カタジロオーストラリアムシクイ
   nl: Witschouderelfje

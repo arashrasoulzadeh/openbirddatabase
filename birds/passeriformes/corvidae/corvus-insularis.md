@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21606.0
 names:
   scientific: Corvus insularis
-  fa: nan
+  fa: ''
   en: Bismarck Crow
   es: Cuervo de las Bismarck
   fr: Corneille des Bismarck
   de: Heinrothkrähe
-  pt: bismarck crow
+  pt: ''
   ru: Новобританская ворона
   ja: ビスマルクガラス
   nl: Bismarckkraai

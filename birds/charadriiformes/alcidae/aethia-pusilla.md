@@ -12,7 +12,7 @@ names:
   es: Mérgulo Mínimo
   fr: Starique minuscule
   de: Zwergalk
-  pt: least auklet
+  pt: ''
   ru: Конюга-крошка
   ja: コウミスズメ
   zh: 小海雀

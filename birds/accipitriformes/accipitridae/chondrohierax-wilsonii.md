@@ -12,7 +12,7 @@ names:
   es: Milano de Cuba
   fr: Bec-en-croc de Cuba
   de: Kubaweih
-  pt: cuban kite
+  pt: ''
   ru: Коршун Вильсона
   ja: キューバカギハシトビ
   zh: 古巴鉤嘴鳶

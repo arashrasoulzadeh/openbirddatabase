@@ -15,7 +15,7 @@ names:
   pt: lesser black coucal
   ru: Черноклювый кукаль
   ja: アカジマバンケン
-  zh: Black-billed Coucal
+  zh: ''
   nl: Bernsteinspoorkoekoek
   pl: kukal papuaski
   tr: Bernstein Kukalı

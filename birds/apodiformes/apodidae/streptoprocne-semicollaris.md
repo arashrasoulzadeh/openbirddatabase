@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3853.0
 names:
   scientific: Streptoprocne semicollaris
-  fa: nan
+  fa: ''
   en: White-naped Swift
   es: Vencejo Nuquiblanco Mexicano
   fr: Martinet à nuque blanche
   de: Weißnackensegler
-  pt: white-naped swift
+  pt: ''
   ru: Полуошейниковый стриж
   ja: シロエリトゲオアマツバメ
   zh: 白枕黑雨燕

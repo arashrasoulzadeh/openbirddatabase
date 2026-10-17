@@ -12,7 +12,7 @@ names:
   es: Cabezón Cocora
   fr: Cabézon de Frantzius
   de: Aztekenbartvogel
-  pt: prong-billed barbet
+  pt: ''
   ru: Зубцеклювая бородатка
   ja: エダハシゴシキドリ
   zh: 厚嘴拟啄木鸟

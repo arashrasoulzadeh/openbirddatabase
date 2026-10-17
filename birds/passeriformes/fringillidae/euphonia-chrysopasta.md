@@ -15,7 +15,7 @@ names:
   pt: gaturamo-verde
   ru: Уздечковая эуфония
   ja: シロアゴフウキンチョウ
-  zh: White-lored Euphonia
+  zh: ''
   nl: Goudbuikorganist
   pl: organka białolica
   tr: Sarıca Öfonya

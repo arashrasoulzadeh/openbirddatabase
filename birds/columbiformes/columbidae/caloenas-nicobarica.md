@@ -12,7 +12,7 @@ names:
   es: Paloma de las Nicobar
   fr: Nicobar à camail
   de: Kragentaube
-  pt: nicobar pigeon
+  pt: ''
   ru: Гривистый голубь
   ja: ミノバト
   zh: 尼科巴鸠

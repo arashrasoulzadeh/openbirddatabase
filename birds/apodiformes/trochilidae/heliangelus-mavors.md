@@ -12,7 +12,7 @@ names:
   es: Colibrí de Marte
   fr: Héliange mars
   de: Orangekehl-Sonnennymphe
-  pt: orange-throated sunangel
+  pt: ''
   ru: Оранжевогорлый феб
   ja: キエリテンシハチドリ
   zh: 橙喉领蜂鸟

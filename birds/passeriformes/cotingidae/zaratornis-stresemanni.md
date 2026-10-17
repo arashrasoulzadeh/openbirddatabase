@@ -12,7 +12,7 @@ names:
   es: Cotinga Cariblanco
   fr: Cotinga à joues blanches
   de: Weißohrkotinga
-  pt: white-cheeked cotinga
+  pt: ''
   ru: Белощёкая котинга
   ja: ホオジロカザリドリ
   zh: 白頰傘鳥

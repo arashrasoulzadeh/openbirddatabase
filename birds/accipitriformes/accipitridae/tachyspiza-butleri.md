@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 8173.0
 names:
   scientific: Tachyspiza butleri
-  fa: nan
+  fa: ''
   en: Nicobar Sparrowhawk
   es: Gavilán de las Nicobar
   fr: Épervier des Nicobar
   de: Nikobarensperber
-  pt: nicobar sparrowhawk
+  pt: ''
   ru: Никобарский тювик
   ja: ニコバルハイタカ
   zh: 尼科巴雀鷹

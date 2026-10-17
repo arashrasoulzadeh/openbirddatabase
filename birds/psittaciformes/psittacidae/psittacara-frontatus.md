@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 13192.0
 names:
   scientific: Psittacara frontatus
-  fa: nan
+  fa: ''
   en: Cordilleran Parakeet
   es: Aratinga Cordillerana
   fr: Conure casquée
   de: Kordillerensittich
-  pt: cordilleran parakeet
+  pt: ''
   nl: Cordillera-aratinga
   pl: szmaragdolotka peruwiańska
   tr: Güneyli Wagler Papağanı

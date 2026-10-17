@@ -12,7 +12,7 @@ names:
   es: Escribano Culiocre
   fr: Bruant de Yéso
   de: Mandschurenammer
-  pt: ochre-rumped bunting
+  pt: ''
   ru: Рыжешейная овсянка
   ja: コジュリン
   zh: 红颈苇鹀

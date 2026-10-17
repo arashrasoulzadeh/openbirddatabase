@@ -12,7 +12,7 @@ names:
   es: Semillero Jamaicano
   fr: Pèrenoir mantelé
   de: Goldbug-Gimpeltangare
-  pt: yellow-shouldered grassquit
+  pt: ''
   ru: Ямайский семилеро
   ja: キゴロモコメワリ
   nl: Jamaicaanse grondvink

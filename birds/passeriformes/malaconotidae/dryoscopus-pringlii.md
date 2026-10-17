@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20049.0
 names:
   scientific: Dryoscopus pringlii
-  fa: nan
+  fa: ''
   en: Pringle's Puffback
   es: Cubla de Pringle
   fr: Cubla de Pringle
   de: Zwerg-Schneeballwürger
-  pt: pringle's puffback
+  pt: ''
   ru: Малая пухоспинка
   ja: コセグロフクレヤブモズ
   nl: Dwergpoederdonsklauwier

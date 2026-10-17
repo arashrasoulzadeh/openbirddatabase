@@ -12,7 +12,7 @@ names:
   es: Francolín de Shelley
   fr: Francolin de Shelley
   de: Shelleyfrankolin
-  pt: shelley's francolin
+  pt: ''
   ru: Кустарниковый франколин
   ja: フタスジシャコ
   zh: 谢氏鹧鸪

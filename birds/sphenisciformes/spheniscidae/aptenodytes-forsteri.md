@@ -12,7 +12,7 @@ names:
   es: Pingüino Emperador
   fr: Manchot empereur
   de: Kaiserpinguin
-  pt: emperor penguin
+  pt: ''
   ru: Императорский пингвин
   ja: コウテイペンギン
   zh: 皇帝企鵝

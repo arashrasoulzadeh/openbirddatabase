@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 20952.0
 names:
   scientific: Myiagra freycineti
-  fa: nan
+  fa: ''
   en: Guam Flycatcher
   es: Monarca de Guam
   fr: Monarque de Guam
   de: Guammonarch
-  pt: guam flycatcher
+  pt: ''
   ru: Гуамская миагра
   ja: マリアナヒラハシ
   zh: 關島闊嘴鳥

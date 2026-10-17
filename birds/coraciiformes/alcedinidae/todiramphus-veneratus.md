@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10133.0
 names:
   scientific: Todiramphus veneratus
-  fa: nan
+  fa: ''
   en: Society Kingfisher
   es: Alción Venerado
   fr: Martin-chasseur vénéré
   de: Tahitiliest
-  pt: society kingfisher
+  pt: ''
   ru: Таитянская альциона
   ja: ゴマフショウビン
   zh: 大溪地翡翠

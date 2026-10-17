@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 29574.0
 names:
   scientific: Ficedula platenae
-  fa: nan
+  fa: ''
   en: Palawan Flycatcher
   es: Papamoscas de Palawan
   fr: Gobemouche de Palawan
   de: Palawanschnäpper
-  pt: palawan flycatcher
+  pt: ''
   ru: Палаванская мухоловка
   ja: パラワンヒタキ
   nl: Palawanvliegenvanger

@@ -12,7 +12,7 @@ names:
   es: Zorzal Japonés
   fr: Merle du Japon
   de: Scheckendrossel
-  pt: japanese thrush
+  pt: ''
   ru: Белобрюхий дрозд
   ja: クロツグミ
   zh: 乌灰鸫

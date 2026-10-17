@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34233.0
 names:
   scientific: Basileuterus delattrii
-  fa: nan
+  fa: ''
   en: Chestnut-capped Warbler
   es: Reinita Coronicastaña
   fr: Paruline de Delattre
   de: Rostkappen-Waldsänger
-  pt: chestnut-capped warbler
+  pt: ''
   nl: Kastanjekruinzanger
   pl: koronówka rdzawolica
   tr: Sürmeli Kızıl Alınlı Ötleğen

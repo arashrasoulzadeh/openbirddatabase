@@ -12,7 +12,7 @@ names:
   es: Cerceta de la Puna
   fr: Sarcelle de la puna
   de: Punaente
-  pt: puna teal
+  pt: ''
   ru: Чирок пуны
   ja: プナシマアジ
   zh: 普納高原鴨

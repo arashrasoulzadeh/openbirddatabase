@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 25550.0
 names:
   scientific: Dasycrotapha plateni
-  fa: nan
+  fa: ''
   en: Mindanao Pygmy Babbler
   es: Timalí de Mindanao
   fr: Zostérops de Platen
@@ -15,7 +15,7 @@ names:
   pt: mindanao pygmy-babbler
   ru: Минданаосская пестроголовка
   ja: コビトモリチメドリ
-  zh: Mindanao Pygmy Babbler
+  zh: ''
   nl: Mindanaodwergboomtimalia
   pl: cierniofilipinek mały
   tr: Mindanao Küçük Gözlükçüsü

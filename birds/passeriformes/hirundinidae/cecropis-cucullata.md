@@ -12,7 +12,7 @@ names:
   es: Golondrina Cabecirrufa
   fr: Hirondelle à tête rousse
   de: Kaprötelschwalbe
-  pt: greater striped swallow
+  pt: ''
   ru: Капская ласточка
   ja: ズアカコシアカツバメ
   nl: Kaapse zwaluw

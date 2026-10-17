@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10174.0
 names:
   scientific: Todiramphus colonus
-  fa: nan
+  fa: ''
   en: Islet Kingfisher
   es: Alción Colonizador
   fr: Martin-chasseur de Louisiade
@@ -15,7 +15,7 @@ names:
   pt: colonist kingfisher
   ru: Луизиадская альциона
   ja: ルイジアードショウビン
-  zh: Islet Kingfisher
+  zh: ''
   nl: Louisiadenijsvogel
   pl: łowczyk koralowy
   tr: Luisiad Adaları Yalıçapkını

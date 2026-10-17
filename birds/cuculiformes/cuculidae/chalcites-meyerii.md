@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3323.0
 names:
   scientific: Chalcites meyerii
-  fa: nan
+  fa: ''
   en: White-eared Bronze Cuckoo
   es: Cuclillo Orejiblanco
   fr: Coucou de Meyer
@@ -15,7 +15,7 @@ names:
   pt: white-eared bronze-cuckoo
   ru: Краснокрылая кукушка
   ja: パプアテリカッコウ
-  zh: White-eared Bronze Cuckoo
+  zh: ''
   nl: Witoorbronskoekoek
   pl: kukułeczka białoucha
   tr: Beyaz Yakalı Zümrüt Guguğu

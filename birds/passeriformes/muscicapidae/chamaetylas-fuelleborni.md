@@ -12,7 +12,7 @@ names:
   es: Alete Pechiblanco
   fr: Cossyphe à poitrine blanche
   de: Weißbrust-Braunschwanz
-  pt: white-chested alethe
+  pt: ''
   ru: Белогрудый алет
   ja: ムナジロムジヒタキ
   nl: Witborstalethe

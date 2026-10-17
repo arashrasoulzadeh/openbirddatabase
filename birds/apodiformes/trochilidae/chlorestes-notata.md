@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5209.0
 names:
   scientific: Chlorestes notata
-  fa: nan
+  fa: ''
   en: Blue-chinned Sapphire
   es: Esmeralda Gorjiazul
   fr: Colibri à menton bleu

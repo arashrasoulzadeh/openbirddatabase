@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15357.0
 names:
   scientific: Phacellodomus sibilatrix
-  fa: nan
+  fa: ''
   en: Little Thornbird
   es: Espinero Chico
   fr: Synallaxe siffleur

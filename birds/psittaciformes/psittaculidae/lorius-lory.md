@@ -12,7 +12,7 @@ names:
   es: Lori Tricolor
   fr: Lori tricolore
   de: Frauenlori
-  pt: black-capped lory
+  pt: ''
   ru: Дамский лори
   ja: オトメズグロインコ
   zh: 黑頂吸蜜鸚鵡

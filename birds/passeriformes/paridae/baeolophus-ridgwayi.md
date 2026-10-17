@@ -12,7 +12,7 @@ names:
   es: Herrerillo de Ridgway
   fr: Mésange des genévriers
   de: Wacholdermeise
-  pt: juniper titmouse
+  pt: ''
   ru: Можжевельниковая гренадерка
   ja: ヒガシハイエボシガラ
   nl: Ridgwaymees

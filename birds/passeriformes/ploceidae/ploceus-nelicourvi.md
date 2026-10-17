@@ -12,7 +12,7 @@ names:
   es: Tejedor Malgache
   fr: Tisserin nélicourvi
   de: Grünweber
-  pt: nelicourvi weaver
+  pt: ''
   ru: Серобрюхий ткач
   ja: マダガスカルハタオリ
   nl: Nelicourviwever

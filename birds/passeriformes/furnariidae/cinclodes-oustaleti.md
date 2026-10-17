@@ -15,7 +15,7 @@ names:
   pt: gray-flanked cinclodes
   ru: Серобокая трясохвостка
   ja: ヒメカワカマドドリ
-  zh: Grey-flanked Cinclodes
+  zh: ''
   nl: Grijsflankwipstaart
   pl: trzęsiogon szaroboczny
   tr: Boz Karınlı Sinklot

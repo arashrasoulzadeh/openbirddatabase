@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32923.0
 names:
   scientific: Peucaea mystacalis
-  fa: nan
+  fa: ''
   en: Bridled Sparrow
   es: Chingolo Embridado
   fr: Bruant à moustaches
   de: Zügelammer
-  pt: bridled sparrow
+  pt: ''
   ru: Усатая овсянка
   ja: ノドグロスズメモドキ
   nl: Teugelgors

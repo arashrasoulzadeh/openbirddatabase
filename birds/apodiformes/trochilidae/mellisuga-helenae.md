@@ -12,7 +12,7 @@ names:
   es: Colibrí Zunzuncito
   fr: Colibri d'Elena
   de: Bienenelfe
-  pt: bee hummingbird
+  pt: ''
   ru: Колибри-пчёлка
   ja: マメハチドリ
   zh: 吸蜜蜂鳥

@@ -12,7 +12,7 @@ names:
   es: Suimanga Cingalés
   fr: Souimanga à croupion pourpre
   de: Indiennektarvogel
-  pt: purple-rumped sunbird
+  pt: ''
   ru: Лимонная нектарница
   ja: クリセタイヨウチョウ
   zh: 紫腰太陽鳥

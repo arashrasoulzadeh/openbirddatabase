@@ -15,7 +15,7 @@ names:
   pt: red-throated crag-martin
   ru: Африканская скалистая ласточка
   ja: ノドアカアフリカチャイロツバメ
-  zh: Red-throated Rock Martin
+  zh: ''
   nl: Kleine Rotszwaluw
   pl: jaskółka mała
   tr: Esmer Küçük Kaya Kırlangıcı

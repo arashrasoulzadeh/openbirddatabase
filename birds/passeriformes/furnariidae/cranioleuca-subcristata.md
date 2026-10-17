@@ -12,7 +12,7 @@ names:
   es: Curutié Copetón
   fr: Synallaxe huppé
   de: Strichelscheitel-Baumschlüpfer
-  pt: crested spinetail
+  pt: ''
   ru: Хохлатая курутия
   ja: シマカムリカマドドリ
   nl: Kuifstekelstaart

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11943.0
 names:
   scientific: Micrastur semitorquatus
-  fa: nan
+  fa: ''
   en: Collared Forest Falcon
   es: Halcón Montés Collarejo
   fr: Carnifex à collier
@@ -15,7 +15,7 @@ names:
   pt: falcão-relógio
   ru: Ошейниковый лесной сокол
   ja: クビワモリハヤブサ
-  zh: Collared Forest Falcon
+  zh: ''
   nl: Grote bosvalk
   pl: trębacz zmienny
   tr: Halkalı Orman Doğanı

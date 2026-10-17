@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28394.0
 names:
   scientific: Geokichla joiceyi
-  fa: nan
+  fa: ''
   en: Seram Thrush
   es: Zorzal de Ceram
   fr: Grive de Céram
   de: Seramdrossel
-  pt: seram thrush
+  pt: ''
   ru: Серамский дрозд
   ja: セラムツグミ
   nl: Seramlijster

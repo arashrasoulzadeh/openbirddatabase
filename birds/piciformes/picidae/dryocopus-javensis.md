@@ -12,7 +12,7 @@ names:
   es: Picamaderos Ventriblanco
   fr: Pic à ventre blanc
   de: Weißbauchspecht
-  pt: white-bellied woodpecker
+  pt: ''
   ru: Белобрюхая желна
   ja: キタタキ
   zh: 白腹黑啄木鸟

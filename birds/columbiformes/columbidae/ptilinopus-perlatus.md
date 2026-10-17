@@ -15,7 +15,7 @@ names:
   pt: pink-spotted fruit-dove
   ru: Жемчужнокрылый фруктовый голубь
   ja: アカボシヒメアオバト
-  zh: Pink-spotted Fruit Dove
+  zh: ''
   nl: Pareljufferduif
   pl: owocożer perłoskrzydły
   tr: Pembe Benekli Meyve Kumrusu

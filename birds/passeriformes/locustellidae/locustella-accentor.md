@@ -12,7 +12,7 @@ names:
   es: Zarzalero del Kinabalu
   fr: Locustelle du Kinabalu
   de: Borneoschwirl
-  pt: friendly bush warbler
+  pt: ''
   ru: Кинабальская пестрогрудка
   ja: ゴマフオウギセッカ
   zh: 岩短翅蝗莺

@@ -12,7 +12,7 @@ names:
   es: Verdillo Luisucho
   fr: Viréon à front d'or
   de: Goldstirnvireo
-  pt: golden-fronted greenlet
+  pt: ''
   ru: Желтолобый виреончик
   ja: キンビタイヒメモズモドキ
   nl: Goudvoorhoofdvireo

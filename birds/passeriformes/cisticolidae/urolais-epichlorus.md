@@ -12,7 +12,7 @@ names:
   es: Prinia Rabilarga
   fr: Apalis verte
   de: Langschwanz-Feinsänger
-  pt: green longtail
+  pt: ''
   ru: Зелёная приния
   ja: ミドリオナガムシクイ
   nl: Groene prinia

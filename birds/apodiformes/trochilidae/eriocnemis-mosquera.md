@@ -12,7 +12,7 @@ names:
   es: Calzadito de Mosquera
   fr: Érione à poitrine d'or
   de: Goldbrust-Höschenkolibri
-  pt: golden-breasted puffleg
+  pt: ''
   ru: Златогрудый эрион
   ja: キンムネワタアシハチドリ
   zh: 金胸毛腿蜂鸟

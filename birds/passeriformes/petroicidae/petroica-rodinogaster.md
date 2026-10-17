@@ -12,7 +12,7 @@ names:
   es: Petroica Encarnada
   fr: Miro incarnat
   de: Rosaschnäpper
-  pt: pink robin
+  pt: ''
   ru: Малиновогрудая петроика
   ja: セグロサンショクヒタキ
   zh: 粉红鸲鹟

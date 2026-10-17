@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11725.0
 names:
   scientific: Campethera punctuligera
-  fa: nan
+  fa: ''
   en: Fine-spotted Woodpecker
   es: Pito Salpicado
   fr: Pic à taches noires

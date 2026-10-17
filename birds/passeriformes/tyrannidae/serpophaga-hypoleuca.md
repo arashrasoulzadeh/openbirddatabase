@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16749.0
 names:
   scientific: Serpophaga hypoleuca
-  fa: nan
+  fa: ''
   en: River Tyrannulet
   es: Piojito Ribereño
   fr: Tyranneau des rivières

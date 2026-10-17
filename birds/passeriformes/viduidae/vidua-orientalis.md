@@ -15,7 +15,7 @@ names:
   pt: sahel paradise-whydah
   ru: Пышнохвостая райская вдовушка
   ja: オビロホウオウジャク
-  zh: Sahel Paradise Whydah
+  zh: ''
   nl: Sahelparadijswida
   pl: wdówka ozdobna
   tr: Sahra Altı Vidyası

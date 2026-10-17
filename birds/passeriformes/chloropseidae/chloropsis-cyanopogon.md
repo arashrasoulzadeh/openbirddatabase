@@ -12,7 +12,7 @@ names:
   es: Verdín Gorjiazul
   fr: Verdin barbe-bleue
   de: Blaubart-Blattvogel
-  pt: lesser green leafbird
+  pt: ''
   ru: Малая листовка
   ja: コノハドリ
   nl: Blauwbaardbladvogel

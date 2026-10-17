@@ -12,7 +12,7 @@ names:
   es: Mirlo Serrano
   fr: Merle lustré
   de: Samtdrossel
-  pt: glossy-black thrush
+  pt: ''
   ru: Блестящий дрозд
   ja: ナンベイクロウタドリ
   nl: Fluweellijster

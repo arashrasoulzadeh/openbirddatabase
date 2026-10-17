@@ -12,7 +12,7 @@ names:
   es: Picoespina Occidental
   fr: Méliphage festonné
   de: Buntkopf-Honigfresser
-  pt: western spinebill
+  pt: ''
   ru: Западная титиара
   ja: ニシキリハシミツスイ
   zh: 西尖嘴吸蜜鳥

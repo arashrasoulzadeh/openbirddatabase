@@ -12,7 +12,7 @@ names:
   es: Carpintero Cabecirrojo
   fr: Pic à tête rouge
   de: Rotkopfspecht
-  pt: red-headed woodpecker
+  pt: ''
   ru: Красноголовый дятел
   ja: ズアカキツツキ
   zh: 紅頭啄木

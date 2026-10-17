@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Taczanowski
   fr: Locustelle de Taczanowski
   de: Taczanowskischwirl
-  pt: chinese bush warbler
+  pt: ''
   ru: Сибирская пестрогрудка
   ja: シベリアオウギセッカ
   zh: 中华短翅蝗莺

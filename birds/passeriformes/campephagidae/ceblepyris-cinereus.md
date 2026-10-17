@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18650.0
 names:
   scientific: Ceblepyris cinereus
-  fa: nan
+  fa: ''
   en: Madagascar Cuckooshrike
   es: Oruguero Malgache
   fr: Échenilleur malgache
   de: Madagaskarraupenfänger
-  pt: madagascar cuckooshrike
+  pt: ''
   ru: Мадагаскарский воронец
   ja: マダガスカルオオサンショウクイ
   zh: 馬島鵑鵙

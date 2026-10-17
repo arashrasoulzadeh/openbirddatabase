@@ -12,7 +12,7 @@ names:
   es: Mielero de Micronesia
   fr: Myzomèle de Micronésie
   de: Mikronesienhonigfresser
-  pt: micronesian myzomela
+  pt: ''
   ru: Микронезийская медовка
   ja: ミクロネシアミツスイ
   zh: 密克羅尼西亞吸蜜鳥

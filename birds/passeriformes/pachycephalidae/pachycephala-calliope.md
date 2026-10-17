@@ -6,15 +6,15 @@ iucn_status: LC
 taxon_order: 19454.0
 names:
   scientific: Pachycephala calliope
-  fa: nan
+  fa: ''
   en: Tenggara Whistler
   es: Silbador Calíope
   fr: Siffleur à poitrine fauve
   de: Goldbauch-Dickkopf
-  pt: tenggara whistler
+  pt: ''
   ru: Белогорлый свистун
   ja: ニシキバラモズヒタキ
-  zh: Rusty-breasted Whistler
+  zh: ''
   nl: Roestborstfluiter
   pl: fletówka timorska
   tr: Tenggara Islıkçısı

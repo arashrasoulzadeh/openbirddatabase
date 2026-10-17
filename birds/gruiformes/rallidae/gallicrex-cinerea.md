@@ -12,7 +12,7 @@ names:
   es: Gallineta Crestada
   fr: Râle à crête
   de: Schildralle
-  pt: watercock
+  pt: ''
   ru: Рогатая камышница
   ja: ツルクイナ
   zh: 董鸡

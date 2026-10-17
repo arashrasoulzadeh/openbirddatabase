@@ -15,7 +15,7 @@ names:
   pt: alma-de-biafada
   ru: Абиссинский рогатый ворон
   ja: ジサイチョウ
-  zh: Abyssinian Ground Hornbill
+  zh: ''
   nl: Noordelijke hoornraaf
   pl: dzioboróg abisyński
   tr: Habeş Yer Boynuzgagası

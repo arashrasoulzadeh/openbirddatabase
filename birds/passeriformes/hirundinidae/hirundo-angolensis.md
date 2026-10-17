@@ -12,7 +12,7 @@ names:
   es: Golondrina Angoleña
   fr: Hirondelle d'Angola
   de: Angolaschwalbe
-  pt: angola swallow
+  pt: ''
   ru: Ангольская ласточка
   ja: ハイバラツバメ
   zh: 安哥拉岩燕

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34577.0
 names:
   scientific: Amaurospiza carrizalensis
-  fa: nan
+  fa: ''
   en: Carrizal Seedeater
   es: Semillero de Carrizal
   fr: Évêque du carrizal
   de: Carrizalkardinal
-  pt: carrizal seedeater
+  pt: ''
   ru: Бамбуковый кардинальчик
   ja: カリザルシコンコメワリ
   nl: Carrizaldikbekje

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7071.0
 names:
   scientific: Hydrobates tethys
-  fa: nan
+  fa: ''
   en: Wedge-rumped Storm Petrel
   es: Paíño de Galápagos
   fr: Océanite téthys
@@ -15,7 +15,7 @@ names:
   pt: wedge-rumped storm-petrel
   ru: Галапагосская качурка
   ja: ガラパゴスウミツバメ
-  zh: Wedge-rumped Storm Petrel
+  zh: ''
   nl: Galapagosstormvogeltje
   pl: nawałnik galapagoski
   tr: Kama Sokumlu Fırtınakırlangıcı

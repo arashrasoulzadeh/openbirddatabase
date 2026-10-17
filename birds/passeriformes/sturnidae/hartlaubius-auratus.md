@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27899.0
 names:
   scientific: Hartlaubius auratus
-  fa: nan
+  fa: ''
   en: Madagascar Starling
   es: Estornino Malgache
   fr: Étourneau malgache
   de: Madagaskarstar
-  pt: madagascar starling
+  pt: ''
   ru: Мадагаскарский скворец
   ja: マダガスカルムクドリ
   nl: Madagaskarspreeuw

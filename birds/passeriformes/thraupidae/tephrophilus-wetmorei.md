@@ -12,7 +12,7 @@ names:
   es: Tangara de Wetmore
   fr: Tangara de Wetmore
   de: Wetmorebergtangare
-  pt: masked mountain tanager
+  pt: ''
   ru: Желтобровая танагра
   ja: カオグロキバラフウキンチョウ
   zh: 花脸山裸鼻雀

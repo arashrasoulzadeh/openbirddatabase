@@ -15,7 +15,7 @@ names:
   pt: bounty islands shag
   ru: Баунтийский баклан
   ja: バウンティヒメウ
-  zh: Bounty Shag
+  zh: ''
   nl: Bountyaalscholver
   pl: kormoran wyspowy
   tr: Bounty Adası Karabatağı

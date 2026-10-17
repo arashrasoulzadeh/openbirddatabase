@@ -15,7 +15,7 @@ names:
   pt: bushtit
   ru: Серый ополовничек
   ja: ヤブガラ
-  zh: American Bushtit
+  zh: ''
   nl: Struikmees
   pl: raniuszek amerykański
   tr: Çalı Uzunkuyruğu

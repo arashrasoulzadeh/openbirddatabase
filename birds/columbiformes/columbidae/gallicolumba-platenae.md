@@ -12,7 +12,7 @@ names:
   es: Paloma Apuñalada de Mindoro
   fr: Gallicolombe de Mindoro
   de: Platentaube
-  pt: mindoro bleeding-heart
+  pt: ''
   ru: Миндорский кровавогрудый голубь
   ja: ミンドロヒムネバト
   nl: Mindorodolksteekduif

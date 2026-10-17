@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21830.0
 names:
   scientific: Poecilodryas cerviniventris
-  fa: nan
+  fa: ''
   en: Buff-sided Robin
   es: Petroica Ventricanela
   fr: Miro à flancs chamois
   de: Isabellflankenschnäpper
-  pt: buff-sided robin
+  pt: ''
   ru: Рыжебокая дриада
   ja: ワキアカヒタキ
   zh: 棕胁杂色鹟

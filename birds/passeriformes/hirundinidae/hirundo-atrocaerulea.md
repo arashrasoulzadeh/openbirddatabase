@@ -15,7 +15,7 @@ names:
   pt: montane blue swallow
   ru: Атласная ласточка
   ja: クロハリオツバメ
-  zh: Blue Swallow
+  zh: ''
   nl: Blauwe zwaluw
   pl: jaskółka długosterna
   tr: Mavi Kırlangıç

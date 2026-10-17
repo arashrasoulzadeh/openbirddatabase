@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14569.0
 names:
   scientific: Sclerurus scansor
-  fa: nan
+  fa: ''
   en: Rufous-breasted Leaftosser
   es: Tirahojas Ogarití
   fr: Sclérure à poitrine rousse

@@ -12,7 +12,7 @@ names:
   es: Carpintero Californiano
   fr: Pic chrysoïde
   de: Wüstengoldspecht
-  pt: gilded flicker
+  pt: ''
   ru: Золотистый дятел
   ja: ミナミハシボソキツツキ
   nl: Californische grondspecht

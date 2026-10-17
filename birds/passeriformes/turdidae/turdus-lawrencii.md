@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28719.0
 names:
   scientific: Turdus lawrencii
-  fa: nan
+  fa: ''
   en: Lawrence's Thrush
   es: Zorzal Imitador
   fr: Merle de Lawrence

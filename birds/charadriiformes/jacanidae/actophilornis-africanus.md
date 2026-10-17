@@ -12,7 +12,7 @@ names:
   es: Jacana Africana
   fr: Jacana à poitrine dorée
   de: Blaustirn-Blatthühnchen
-  pt: african jacana
+  pt: ''
   ru: Африканская якана
   ja: アフリカレンカク
   zh: 長腳雉鴴

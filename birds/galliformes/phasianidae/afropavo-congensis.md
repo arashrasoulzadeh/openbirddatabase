@@ -15,7 +15,7 @@ names:
   pt: congo peacock
   ru: Конголезский павлин
   ja: コンゴクジャク
-  zh: Congo Peafowl
+  zh: ''
   nl: Congopauw
   pl: paw kongijski
   tr: Kongo Tavuskuşu

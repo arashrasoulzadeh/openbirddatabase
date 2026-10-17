@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 19441.0
 names:
   scientific: Pachycephala vanikorensis
-  fa: nan
+  fa: ''
   en: Vanikoro Whistler
   es: Silbador de Vanikoro
   fr: Siffleur de Vanikoro
-  pt: vanikoro whistler
+  pt: ''
   ru: Ваникорский свистун
   ja: テモツモズヒタキ
   nl: Vanikorofluiter

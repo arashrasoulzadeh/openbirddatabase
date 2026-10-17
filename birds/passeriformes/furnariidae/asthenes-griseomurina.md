@@ -12,7 +12,7 @@ names:
   es: Piscuiz Ratón
   fr: Synallaxe souris
   de: Olivrückencanastero
-  pt: mouse-colored thistletail
+  pt: ''
   ru: Мышиный чертополошник
   ja: ネズミトゲオカマドドリ
   nl: Grijze distelstaart

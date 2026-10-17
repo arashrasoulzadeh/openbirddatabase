@@ -12,7 +12,7 @@ names:
   es: Turpial Puertorriqueño
   fr: Oriole de Porto Rico
   de: Puerto-Rico-Trupial
-  pt: puerto rican oriole
+  pt: ''
   ru: Пуэрториканский трупиал
   ja: プエルトリコムクドリモドキ
   nl: Puertoricaanse troepiaal

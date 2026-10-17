@@ -12,7 +12,7 @@ names:
   es: Picoloro Leonado
   fr: Paradoxornis à front fauve
   de: Gelbstirn-Papageimeise
-  pt: fulvous parrotbill
+  pt: ''
   ru: Желтолобая сутора
   ja: アカバネダルマエナガ
   zh: 黄额鸦雀

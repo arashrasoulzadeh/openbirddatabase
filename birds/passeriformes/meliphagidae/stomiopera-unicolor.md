@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17785.0
 names:
   scientific: Stomiopera unicolor
-  fa: nan
+  fa: ''
   en: White-gaped Honeyeater
   es: Mielero Unicolor
   fr: Méliphage unicolore
   de: Wulsthonigfresser
-  pt: white-gaped honeyeater
+  pt: ''
   ru: Одноцветный медосос
   ja: クチシロミツスイ
   zh: 白頰紋吸蜜鳥

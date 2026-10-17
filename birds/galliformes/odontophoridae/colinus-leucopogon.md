@@ -12,7 +12,7 @@ names:
   es: Colín Gorjiblanco
   fr: Colin à face blanche
   de: Fleckenwachtel
-  pt: spot-bellied bobwhite
+  pt: ''
   ru: Белогрудый перепел
   ja: ノドジロコリン
   zh: 斑胸齿鹑

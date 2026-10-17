@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4852.0
 names:
   scientific: Selasphorus flammula
-  fa: nan
+  fa: ''
   en: Volcano Hummingbird
   es: Colibrí Volcanero
   fr: Colibri flammule
   de: Vulkanelfe
-  pt: volcano hummingbird
+  pt: ''
   ru: Вулкановый колибри
   ja: バラエリフトオハチドリ
   zh: 粉喉煌蜂鸟

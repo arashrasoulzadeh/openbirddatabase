@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 8665.0
 names:
   scientific: Otus thilohoffmanni
-  fa: nan
+  fa: ''
   en: Serendib Scops Owl
   es: Autillo de Thilo Hoffmann
   fr: Petit-duc de Sérendip
@@ -15,7 +15,7 @@ names:
   pt: serendib scops-owl
   ru: Цейлонская совка
   ja: セレンディブコノハズク
-  zh: Serendib Scops Owl
+  zh: ''
   nl: Serendipdwergooruil
   pl: syczek cejloński
   tr: Seylan İshakkuşu

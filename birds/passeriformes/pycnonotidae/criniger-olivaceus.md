@@ -12,7 +12,7 @@ names:
   es: Bulbul Barbigualdo
   fr: Bulbul à barbe jaune
   de: Olivrücken-Haarbülbül
-  pt: yellow-bearded greenbul
+  pt: ''
   ru: Желтобородый бюльбюль
   ja: キイロヒゲヒヨドリ
   nl: Groene baardbuulbuul

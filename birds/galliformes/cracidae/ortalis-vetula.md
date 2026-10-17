@@ -12,7 +12,7 @@ names:
   es: Chachalaca Norteña
   fr: Ortalide chacamel
   de: Braunflügelguan
-  pt: plain chachalaca
+  pt: ''
   ru: Бурокрылая чачалака
   ja: ムジヒメシャクケイ
   zh: 小灰頭稚冠雉

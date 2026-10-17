@@ -12,7 +12,7 @@ names:
   es: Serín Estriado
   fr: Serin strié
   de: Strichelgirlitz
-  pt: streaky seedeater
+  pt: ''
   ru: Пёстрый канареечник
   ja: タテフカナリア
   zh: 條紋絲雀

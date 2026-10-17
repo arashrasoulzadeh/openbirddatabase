@@ -12,7 +12,7 @@ names:
   es: Chotacabras Papú
   fr: Engoulevent papou
   de: Papuanachtschwalbe
-  pt: papuan nightjar
+  pt: ''
   ru: Папуанский козодой
   ja: パプアヒゲナシヨタカ
   zh: 巴布亚毛腿夜鹰

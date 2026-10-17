@@ -13,7 +13,7 @@ names:
   fr: Ptilope de Raiatea
   de: Raiateafruchttaube
   pt: raiatea fruit-dove
-  zh: Raiatea Fruit Dove
+  zh: ''
   nl: Raiateajufferduif
   pl: owocożer żółtorzytny
   tr: Raiatea Meyve Kumrusu

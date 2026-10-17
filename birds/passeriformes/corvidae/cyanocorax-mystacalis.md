@@ -12,7 +12,7 @@ names:
   es: Chara Coliblanca
   fr: Geai à moustaches
   de: Weißschwanz-Blaurabe
-  pt: white-tailed jay
+  pt: ''
   ru: Белоусая сойка
   ja: オジロルリサンジャク
   zh: 白尾蓝鸦

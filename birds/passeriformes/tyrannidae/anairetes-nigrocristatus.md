@@ -12,7 +12,7 @@ names:
   es: Cachudito Crestinegro
   fr: Taurillon à cimier noir
   de: Schwarzhauben-Tachurityrann
-  pt: black-crested tit-tyrant
+  pt: ''
   ru: Чернохохлый гренадерчик
   ja: クロカンムリカラタイランチョウ
   nl: Zwartkuifmeestiran

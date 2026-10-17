@@ -15,7 +15,7 @@ names:
   pt: surucuá-violáceo
   ru: Фиолетовый трогон
   ja: ヒメキヌバネドリ
-  zh: Guianan Trogon
+  zh: ''
   nl: Guyanatrogon
   pl: trogon fioletowogłowy
   tr: Guyana Trogonu

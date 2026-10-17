@@ -12,7 +12,7 @@ names:
   es: Talégalo de Wallace
   fr: Mégapode de Wallace
   de: Wallace-Großfußhuhn
-  pt: moluccan megapode
+  pt: ''
   ru: Молуккский большеног
   ja: モルッカツカツクリ
   zh: 摩鹿加塚雉

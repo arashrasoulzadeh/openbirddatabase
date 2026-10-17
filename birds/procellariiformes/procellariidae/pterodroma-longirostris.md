@@ -12,7 +12,7 @@ names:
   es: Petrel de Isla Más Afuera
   fr: Pétrel de Stejneger
   de: Stejnegersturmvogel
-  pt: stejneger's petrel
+  pt: ''
   ru: Длинноклювый тайфунник
   ja: ヒメシロハラミズナギドリ
   nl: Stejnegerstormvogel

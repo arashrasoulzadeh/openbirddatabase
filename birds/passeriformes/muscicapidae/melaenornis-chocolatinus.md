@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28937.0
 names:
   scientific: Melaenornis chocolatinus
-  fa: nan
+  fa: ''
   en: Abyssinian Slaty Flycatcher
   es: Papamoscas Chocolate
   fr: Gobemouche chocolat
@@ -15,7 +15,7 @@ names:
   pt: abyssinian slaty-flycatcher
   ru: Эфиопская мухоловка
   ja: スレートヒタキ
-  zh: Abyssinian Slaty Flycatcher
+  zh: ''
   nl: Bruine drongovliegenvanger
   pl: mucharka brunatna
   tr: Bozca Drongo Sinekkapanı

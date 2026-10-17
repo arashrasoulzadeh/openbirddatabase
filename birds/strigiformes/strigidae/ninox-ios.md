@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9381.0
 names:
   scientific: Ninox ios
-  fa: nan
+  fa: ''
   en: Cinnabar Boobook
   es: Nínox Bermejo
   fr: Ninoxe rouilleuse
   de: Zinnoberkauz
-  pt: cinnabar boobook
+  pt: ''
   ru: Сулавесская иглоногая сова
   ja: シュイロアオバズク
   nl: Roestbruine valkuil

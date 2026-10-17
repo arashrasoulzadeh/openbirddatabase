@@ -12,7 +12,7 @@ names:
   es: Suimanga de Bocage
   fr: Souimanga de Bocage
   de: Bocagenektarvogel
-  pt: bocage's sunbird
+  pt: ''
   ru: Сверкающая нектраница
   ja: クロムラサキオナガタイヨウチョウ
   zh: 包氏花蜜鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14781.0
 names:
   scientific: Xiphocolaptes albicollis
-  fa: nan
+  fa: ''
   en: White-throated Woodcreeper
   es: Trepatroncos Gorjiblanco
   fr: Grimpar à gorge blanche

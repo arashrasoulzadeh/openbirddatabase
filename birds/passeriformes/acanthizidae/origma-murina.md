@@ -7,15 +7,15 @@ iucn_status: LC
 taxon_order: 18299.0
 names:
   scientific: Origma murina
-  fa: nan
+  fa: ''
   en: Rusty Mouse-warbler
   es: Acantiza Ratona
   fr: Séricorne fauve
   de: Braunrückenhuscher
-  pt: rusty mouse-warbler
+  pt: ''
   ru: Рыжеватая мышевидка
   ja: ネズミムシクイ
-  zh: Rusty Mouse-warbler
+  zh: ''
   nl: Bruine struiksluiper
   pl: paprotek płowy
   tr: Kızılca Farebülbülü

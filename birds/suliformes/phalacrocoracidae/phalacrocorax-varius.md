@@ -15,7 +15,7 @@ names:
   pt: pied cormorant
   ru: Пегий баклан
   ja: マミジロウ
-  zh: Australian Pied Cormorant
+  zh: ''
   nl: Bonte aalscholver
   pl: kormoran srokaty
   tr: Alaca Karabatak

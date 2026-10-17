@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26800.0
 names:
   scientific: Pterorhinus sannio
-  fa: nan
+  fa: ''
   en: White-browed Laughingthrush
   es: Charlatán Payaso
   fr: Garrulaxe à sourcils blancs
   de: Weißwangenhäherling
-  pt: white-browed laughingthrush
+  pt: ''
   ru: Китайская кустарница
   ja: カオジロガビチョウ
   zh: 白颊噪鹛

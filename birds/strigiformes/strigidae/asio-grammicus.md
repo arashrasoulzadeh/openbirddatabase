@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9252.0
 names:
   scientific: Asio grammicus
-  fa: nan
+  fa: ''
   en: Jamaican Owl
   es: Búho Jamaicano
   fr: Hibou de Jamaïque
   de: Jamaikaeule
-  pt: jamaican owl
+  pt: ''
   ru: Ямайская сова
   ja: ジャマイカズク
   nl: Jamaicaanse uil

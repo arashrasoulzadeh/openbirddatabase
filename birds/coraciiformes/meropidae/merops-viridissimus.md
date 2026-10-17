@@ -12,7 +12,7 @@ names:
   es: Abejaruco Esmeralda Africano
   fr: Guêpier vert
   de: Sahelsmaragdspint
-  pt: african green bee-eater
+  pt: ''
   ru: Изумрудная щурка
   nl: Afrikaanse kleine groene bijeneter
   pl: żołna szmaragdowa

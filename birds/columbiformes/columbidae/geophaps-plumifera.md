@@ -12,7 +12,7 @@ names:
   es: Paloma Plumífera Ventriblanca
   fr: Colombine plumifère
   de: Rotschopftaube
-  pt: spinifex pigeon
+  pt: ''
   ru: Острохохлый бронзовокрыл
   ja: ショウキバト
   zh: 冠翎岩鸠

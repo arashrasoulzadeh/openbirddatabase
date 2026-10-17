@@ -12,7 +12,7 @@ names:
   es: Lori Negro
   fr: Lori noir
   de: Schwarzlori
-  pt: black lory
+  pt: ''
   ru: Чёрный лори
   ja: スミインコ
   zh: 黑吸蜜鹦鹉

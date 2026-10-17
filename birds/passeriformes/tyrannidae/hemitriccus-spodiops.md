@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16332.0
 names:
   scientific: Hemitriccus spodiops
-  fa: nan
+  fa: ''
   en: Yungas Tody-Tyrant
   es: Titirijí Boliviano
   fr: Todirostre de Bolivie
   de: Yungastodityrann
-  pt: yungas tody-tyrant
+  pt: ''
   ru: Боливийский тоди-тиранн
   ja: ボリビアコビトドリモドキ
   nl: Grijsteugeltodietiran

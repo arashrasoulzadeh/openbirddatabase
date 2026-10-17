@@ -12,7 +12,7 @@ names:
   es: Halcón Berigora
   fr: Faucon bérigora
   de: Habichtfalke
-  pt: brown falcon
+  pt: ''
   ru: Беригора
   ja: チャイロハヤブサ
   zh: 褐隼

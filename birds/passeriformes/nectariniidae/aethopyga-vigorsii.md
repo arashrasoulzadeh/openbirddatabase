@@ -12,7 +12,7 @@ names:
   es: Suimanga de Vigors
   fr: Souimanga de Vigors
   de: Graubauch-Nektarvogel
-  pt: vigors's sunbird
+  pt: ''
   ru: Малабарская нектарница
   ja: イシキゴシタイヨウチョウ
   nl: Vigorshoningzuiger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25684.0
 names:
   scientific: Zosterops griseovirescens
-  fa: nan
+  fa: ''
   en: Annobon White-eye
   es: Anteojitos de Annobón
   fr: Zostérops d'Annobon
   de: Annobónbrillenvogel
-  pt: annobon white-eye
+  pt: ''
   ru: Аннобонская белоглазка
   ja: アノボンメジロ
   nl: Annobonbrilvogel

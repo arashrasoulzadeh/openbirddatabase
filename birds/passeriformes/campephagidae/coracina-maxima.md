@@ -12,7 +12,7 @@ names:
   es: Oruguero Terrestre
   fr: Échenilleur terrestre
   de: Grundraupenfänger
-  pt: ground cuckooshrike
+  pt: ''
   ru: Земляной воронец
   ja: ジサンショウクイ
   zh: 细嘴地鹃鵙

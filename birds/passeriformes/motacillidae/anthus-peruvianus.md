@@ -12,7 +12,7 @@ names:
   es: Bisbita Peruano
   fr: Pipit du Pérou
   de: Perupieper
-  pt: peruvian pipit
+  pt: ''
   ru: Перуанский конёк
   ja: ペルータヒバリ
   nl: Peruaanse pieper

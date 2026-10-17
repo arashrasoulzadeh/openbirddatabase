@@ -12,7 +12,7 @@ names:
   es: Capuchino Ventriblanco
   fr: Capucin à ventre blanc
   de: Weißbauch-Bronzemännchen
-  pt: white-bellied munia
+  pt: ''
   ru: Белобрюхая муния
   ja: シロハラキンパラ
   zh: 白胸文鳥

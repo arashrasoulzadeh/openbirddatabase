@@ -12,7 +12,7 @@ names:
   es: Cucal de Mindoro
   fr: Coucal de Steere
   de: Mindorokuckuck
-  pt: black-hooded coucal
+  pt: ''
   ru: Миндорский кукаль
   ja: ミンドロバンケン
   zh: 菲律賓鴉鵑

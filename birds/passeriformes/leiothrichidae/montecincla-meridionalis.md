@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 26499.0
 names:
   scientific: Montecincla meridionalis
-  fa: nan
+  fa: ''
   en: Ashambu Laughingthrush
   es: Charlatán de Los Ashambu
   fr: Garrulaxe du Travancore
   de: Graubrusthäherling
-  pt: ashambu laughingthrush
+  pt: ''
   ru: Траванкорская кустарница
   ja: アシャンブガビチョウ
   zh: 阿沙部噪鹛

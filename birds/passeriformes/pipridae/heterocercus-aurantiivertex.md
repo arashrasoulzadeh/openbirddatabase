@@ -15,7 +15,7 @@ names:
   pt: dançarino-de-crista-laranja
   ru: Оранжевошапочный манакин
   ja: マルオマイコドリ
-  zh: Orange-crested Manakin
+  zh: ''
   nl: Oranjekruinmanakin
   pl: manakin andyjski
   tr: Turuncu Taçlı Manakin

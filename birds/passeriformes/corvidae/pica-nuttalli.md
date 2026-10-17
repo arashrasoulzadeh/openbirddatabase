@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21477.0
 names:
   scientific: Pica nuttalli
-  fa: nan
+  fa: ''
   en: Yellow-billed Magpie
   es: Urraca de Nuttall
   fr: Pie à bec jaune
   de: Gelbschnabelelster
-  pt: yellow-billed magpie
+  pt: ''
   ru: Желтоклювая сорока
   ja: キバシカササギ
   nl: Geelsnavelekster

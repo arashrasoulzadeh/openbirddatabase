@@ -12,7 +12,7 @@ names:
   es: Amazona Imperial
   fr: Amazone impériale
   de: Kaiseramazone
-  pt: imperial amazon
+  pt: ''
   ru: Императорский амазон
   ja: ミカドボウシインコ
   zh: 帝王亞馬遜鸚鵡

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28888.0
 names:
   scientific: Fraseria ocreata
-  fa: nan
+  fa: ''
   en: Fraser's Forest Flycatcher
   es: Papamoscas Forestal
   fr: Gobemouche forestier
@@ -15,7 +15,7 @@ names:
   pt: african forest-flycatcher
   ru: Лесная мухоловка
   ja: モリヒタキ
-  zh: Fraser's Forest Flycatcher
+  zh: ''
   nl: Stricklandbosvliegenvanger
   pl: mucharka łuskowana
   tr: Ebruli Sinekkapan

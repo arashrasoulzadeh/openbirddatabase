@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10685.0
 names:
   scientific: Caloramphus hayii
-  fa: nan
+  fa: ''
   en: Sooty Barbet
   es: Barbudo Pardo de Malasia
   fr: Barbu de Hay
   de: Braunbartvogel
-  pt: sooty barbet
+  pt: ''
   ru: Скромный бородастик
   ja: ススイロゴシキドリ
   zh: 馬來棕擬啄木

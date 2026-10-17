@@ -15,7 +15,7 @@ names:
   pt: mariquita-amarela
   ru: Мангровая древесница
   ja: キイロアメリカムシクイ
-  zh: Mangrove Warbler
+  zh: ''
   nl: Mangrovezanger
   pl: lasówka złotawa
   tr: Mangrov Sarı Ötleğeni

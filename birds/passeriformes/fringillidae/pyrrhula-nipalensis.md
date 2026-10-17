@@ -12,7 +12,7 @@ names:
   es: Camachuelo Pardo
   fr: Bouvreuil brun
   de: Schuppenkopfgimpel
-  pt: brown bullfinch
+  pt: ''
   ru: Бурый снегирь
   ja: チャイロウソ
   zh: 褐灰雀

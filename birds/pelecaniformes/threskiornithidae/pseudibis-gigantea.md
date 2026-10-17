@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7505.0
 names:
   scientific: Pseudibis gigantea
-  fa: nan
+  fa: ''
   en: Giant Ibis
   es: Ibis Gigante
   fr: Ibis géant
   de: Riesenibis
-  pt: giant ibis
+  pt: ''
   ru: Гигантский ибис
   ja: オニアカアシトキ
   nl: Reuzenibis

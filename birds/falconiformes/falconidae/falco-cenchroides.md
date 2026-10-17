@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12021.0
 names:
   scientific: Falco cenchroides
-  fa: nan
+  fa: ''
   en: Nankeen Kestrel
   es: Cernícalo Australiano
   fr: Crécerelle d'Australie
   de: Graubartfalke
-  pt: nankeen kestrel
+  pt: ''
   ru: Седобородая пустельга
   ja: オーストラリアチョウゲンボウ
   zh: 澳洲隼

@@ -15,7 +15,7 @@ names:
   pt: greater koa-finch
   ru: Оранжевогрудая коа
   ja: コアハワイマシコ
-  zh: Greater Koa Finch
+  zh: ''
   nl: Grote koavink
   pl: hawajka złotogłowa
   tr: Büyük Kona İspinozu

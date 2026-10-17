@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5422.0
 names:
   scientific: Mustelirallus albicollis
-  fa: nan
+  fa: ''
   en: Ash-throated Crake
   es: Polluela Turura
   fr: Râle plombé

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9362.0
 names:
   scientific: Ninox japonica
-  fa: nan
+  fa: ''
   en: Northern Boobook
   es: Nínox Japonés
   fr: Ninoxe boréale
   de: Japankauz
-  pt: northern boobook
+  pt: ''
   ru: Иглоногая сова
   ja: アオバズク
   zh: 北鹰鸮

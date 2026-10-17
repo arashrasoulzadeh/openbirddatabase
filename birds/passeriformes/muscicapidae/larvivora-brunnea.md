@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Indio
   fr: Rossignol indien
   de: Orangenachtigall
-  pt: indian blue robin
+  pt: ''
   ru: Индийский соловей
   ja: アカハラコルリ
   zh: 栗腹歌鸲

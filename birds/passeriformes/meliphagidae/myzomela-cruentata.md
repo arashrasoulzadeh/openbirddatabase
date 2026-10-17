@@ -12,7 +12,7 @@ names:
   es: Mielero Rojo
   fr: Myzomèle vermillon
   de: Bluthonigfresser
-  pt: red myzomela
+  pt: ''
   ru: Кровавокрасная мизомела
   ja: アカミツスイ
   nl: Rode dwerghoningeter

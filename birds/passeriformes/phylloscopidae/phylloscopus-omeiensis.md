@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24920.0
 names:
   scientific: Phylloscopus omeiensis
-  fa: nan
+  fa: ''
   en: Martens's Warbler
   es: Mosquitero de Martens
   fr: Pouillot de Martens
   de: Martenslaubsänger
-  pt: martens's warbler
+  pt: ''
   ru: Эмейшаньская очковая пеночка
   ja: ガビモリムシクイ
   zh: 峨眉鹟莺

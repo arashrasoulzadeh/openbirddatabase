@@ -12,7 +12,7 @@ names:
   es: Picoloro Pechinegro
   fr: Paradoxornis de Gould
   de: Schwarzkehl-Papageimeise
-  pt: black-breasted parrotbill
+  pt: ''
   ru: Желтоклювая сутора
   ja: ムナグロダルマエナガ
   zh: 斑胸鸦雀

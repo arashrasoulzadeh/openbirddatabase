@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30113.0
 names:
   scientific: Dicaeum hanieli
-  fa: nan
+  fa: ''
   en: Timor Flowerpecker
   es: Picaflores de Timor
   fr: Dicée de Timor
   de: Timor-Purpurmistelfresser
-  pt: timor flowerpecker
+  pt: ''
   nl: Timorese Honingvogel
   pl: kwiatówka timorska
   tr: Timor Öksekuşu

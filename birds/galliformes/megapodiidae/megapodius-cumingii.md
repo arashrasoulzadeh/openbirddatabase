@@ -12,7 +12,7 @@ names:
   es: Talégalo Filipino
   fr: Mégapode des Philippines
   de: Philippinen-Großfußhuhn
-  pt: philippine megapode
+  pt: ''
   ru: Филиппинский большеног
   ja: パラワンツカツクリ
   zh: 菲律賓塚雉

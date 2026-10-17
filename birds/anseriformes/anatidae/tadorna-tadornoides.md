@@ -12,7 +12,7 @@ names:
   es: Tarro Australiano
   fr: Tadorne d'Australie
   de: Halsbandgans
-  pt: australian shelduck
+  pt: ''
   ru: Австралийский огарь
   ja: クビワアカツクシガモ
   zh: 棕胸麻鸭

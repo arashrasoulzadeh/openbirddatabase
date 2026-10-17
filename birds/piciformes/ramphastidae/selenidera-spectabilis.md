@@ -12,7 +12,7 @@ names:
   es: Tucanete Orejigualdo
   fr: Toucanet à oreilles d'or
   de: Gelbohrarassari
-  pt: yellow-eared toucanet
+  pt: ''
   ru: Желтоухий туканчик
   ja: アオハシコチュウハシ
   nl: Geeloorpepervreter

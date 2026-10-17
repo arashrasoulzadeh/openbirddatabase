@@ -12,7 +12,7 @@ names:
   es: Chachalaca Alirroja
   fr: Ortalide babillarde
   de: Rotflügelguan
-  pt: chestnut-winged chachalaca
+  pt: ''
   ru: Краснокрылая чачалака
   ja: チャバネヒメシャクケイ
   zh: 栗翅小冠雉

@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 12522.0
 names:
   scientific: Nannopsittacus melanogenia
-  fa: nan
+  fa: ''
   en: Dusky-cheeked Fig Parrot
   es: Lorito Carinegro
   fr: Psittacule à joues noires
   de: Aruzwergpapagei
   pt: dusky-cheeked fig-parrot
   ja: ホオグロイチジクインコ
-  zh: Dusky-cheeked Fig Parrot
+  zh: ''
   nl: Roetwangvijgpapegaai
   pl: figówka maskowa
   tr: Aru İncir Papağanı

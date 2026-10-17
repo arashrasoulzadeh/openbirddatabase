@@ -12,7 +12,7 @@ names:
   es: Monterita Sietevestidos Andina
   fr: Chipiu noiron
   de: Rotbrust-Finkentangare
-  pt: black-and-chestnut warbling finch
+  pt: ''
   ru: Белобрюхая монтерита
   ja: クロクリマユシトド
   nl: Kastanjebuikboomgors

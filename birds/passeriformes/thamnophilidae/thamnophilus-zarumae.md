@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13515.0
 names:
   scientific: Thamnophilus zarumae
-  fa: nan
+  fa: ''
   en: Chapman's Antshrike
   es: Batará de Chapman
   fr: Batara de Chapman
   de: Fahlflanken-Ameisenwürger
-  pt: chapman's antshrike
+  pt: ''
   ru: Светлогузый колючник
   ja: アンデスシマアリモズ
   zh: 查氏蚁鵙

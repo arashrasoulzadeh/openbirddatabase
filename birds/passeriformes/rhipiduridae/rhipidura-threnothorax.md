@@ -15,7 +15,7 @@ names:
   pt: sooty thicket-fantail
   ru: Пестрогрудая веерохвостка
   ja: ヤブオウギビタキ
-  zh: Sooty Thicket Fantail
+  zh: ''
   nl: Roetwaaierstaart
   pl: wachlarzówka białobroda
   tr: Yağız Katmerkuyruk

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 7068.0
 names:
   scientific: Hydrobates monteiroi
-  fa: nan
+  fa: ''
   en: Monteiro's Storm Petrel
   es: Paíño de Monteiro
   fr: Océanite de Monteiro
@@ -15,7 +15,7 @@ names:
   pt: painho-de-monteiro
   ru: Азорская качурка
   ja: モンテーロウミツバメ
-  zh: Monteiro's Storm Petrel
+  zh: ''
   nl: Monteiro's stormvogeltje
   pl: nawałnik azorski
   tr: Azor Fırtınakırlangıcı

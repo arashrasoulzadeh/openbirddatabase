@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13314.0
 names:
   scientific: Erythropitta celebensis
-  fa: nan
+  fa: ''
   en: Sulawesi Pitta
   es: Pita de Célebes
   fr: Brève des Célèbes
   de: Sulawesi-Blaubrustpitta
-  pt: sulawesi pitta
+  pt: ''
   ru: Сулавесская питта
   ja: スラウェシヤイロチョウ
   nl: Sulawesipitta

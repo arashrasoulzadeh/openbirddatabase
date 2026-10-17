@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15681.0
 names:
   scientific: Synallaxis cherriei
-  fa: nan
+  fa: ''
   en: Chestnut-throated Spinetail
   es: Pijuí Gorjicastaño
   fr: Synallaxe à gorge marron

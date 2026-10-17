@@ -15,7 +15,7 @@ names:
   pt: luzon redstart
   ru: Ручьевая горихвостка
   ja: ルソンカワビタキ
-  zh: Luzon Water Redstart
+  zh: ''
   nl: Luzonroodstaart
   pl: pleszka nadwodna
   tr: Kesmeli Kızılkuyruk

@@ -12,7 +12,7 @@ names:
   es: Vireo Puertorriqueño
   fr: Viréo de Porto Rico
   de: Puerto-Rico-Vireo
-  pt: puerto rican vireo
+  pt: ''
   ru: Пуэрториканский виреон
   ja: プエルトリコモズモドキ
   nl: Puertoricaanse vireo

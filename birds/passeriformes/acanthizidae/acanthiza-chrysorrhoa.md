@@ -12,7 +12,7 @@ names:
   es: Acantiza Culigualda
   fr: Acanthize à croupion jaune
   de: Gelbbürzel-Dornschnabel
-  pt: yellow-rumped thornbill
+  pt: ''
   ru: Желтопоясничная шипоклювка
   ja: コモントゲハシムシクイ
   zh: 黄尾刺嘴莺

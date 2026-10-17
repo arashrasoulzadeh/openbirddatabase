@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32127.0
 names:
   scientific: Hemignathus lucidus
-  fa: nan
+  fa: ''
   en: Oahu Nukupuu
   es: Nukupuu de Oahu
   fr: Nukupuu d'Oahu
   de: Oahu-Sichelkleidervogel
-  pt: oahu nukupuu
+  pt: ''
   ru: Желтогорлая нукупуу
   ja: オアフカワリハシハワイミツスイ
   zh: 短嘴導顎雀

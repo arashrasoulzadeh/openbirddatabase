@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15108.0
 names:
   scientific: Cinclodes excelsior
-  fa: nan
+  fa: ''
   en: Stout-billed Cinclodes
   es: Remolinera Ecuatoriana
   fr: Cinclode du paramo
   de: Schuppenbrust-Uferwipper
-  pt: stout-billed cinclodes
+  pt: ''
   ru: Эквадорская трясохвостка
   ja: キマユジカマドドリ
   nl: Grootsnavelwipstaart

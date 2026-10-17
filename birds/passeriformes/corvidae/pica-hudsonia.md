@@ -12,7 +12,7 @@ names:
   es: Urraca de Hudson
   fr: Pie d'Amérique
   de: Hudsonelster
-  pt: black-billed magpie
+  pt: ''
   ru: Черноклювая сорока
   ja: アメリカカササギ
   nl: Amerikaanse ekster

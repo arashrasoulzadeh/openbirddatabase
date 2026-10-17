@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26717.0
 names:
   scientific: Garrulax taewanus
-  fa: nan
+  fa: ''
   en: Taiwan Hwamei
   es: Charlatán de Formosa
   fr: Garrulaxe de Taïwan
   de: Taiwanhäherling
-  pt: taiwan hwamei
+  pt: ''
   ru: Тайваньская кустарница
   ja: タイワンガビチョウ
   zh: 台湾画眉

@@ -15,7 +15,7 @@ names:
   pt: tiny greenbul
   ru: Стройный бюльбюль
   ja: ヒメミドリヒヨドリ
-  zh: Lowland Tiny Greenbul
+  zh: ''
   nl: Slanke loofbuulbuul
   pl: jasnobrzuch mały
   tr: Minik Yaprakbülbülü

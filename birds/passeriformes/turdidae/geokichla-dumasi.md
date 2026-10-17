@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28393.0
 names:
   scientific: Geokichla dumasi
-  fa: nan
+  fa: ''
   en: Buru Thrush
   es: Zorzal de Buru
   fr: Grive de Dumas
   de: Burudrossel
-  pt: buru thrush
+  pt: ''
   ru: Молуккский дрозд
   ja: ブルジツグミ
   nl: Molukse lijster

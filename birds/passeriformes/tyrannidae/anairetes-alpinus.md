@@ -12,7 +12,7 @@ names:
   es: Cachudito Pechicenizo
   fr: Taurillon gris
   de: Graubrust-Tachurityrann
-  pt: ash-breasted tit-tyrant
+  pt: ''
   ru: Серогрудый гренадерчик
   ja: タカネカラタイランチョウ
   zh: 灰胸雀霸鹟

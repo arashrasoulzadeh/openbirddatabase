@@ -12,7 +12,7 @@ names:
   es: Serín Pechirrayado
   fr: Serin rayé
   de: Streifenbrustgirlitz
-  pt: stripe-breasted seedeater
+  pt: ''
   nl: Streepborstkanarie
   pl: afrokulczyk wyżynny
   tr: Çizgili Boz İskete

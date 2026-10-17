@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29300.0
 names:
   scientific: Stiphrornis mabirae
-  fa: nan
+  fa: ''
   en: Yellow-breasted Forest Robin
   es: Petirrojo Selvático de Mabira
   fr: Rougegorge du Congo
   de: Gelbbrust-Waldrötel
-  pt: yellow-breasted forest robin
+  pt: ''
   nl: Geelborstbosakalat
   pl: afrorudzik żółtogardły
   tr: Sarı Göğüslü Orman Bülbülü

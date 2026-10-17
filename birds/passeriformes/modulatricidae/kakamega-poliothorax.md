@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29933.0
 names:
   scientific: Kakamega poliothorax
-  fa: nan
+  fa: ''
   en: Grey-chested Babbler
   es: Tordina de Kakamega
   fr: Kakameg à poitrine grise
@@ -15,7 +15,7 @@ names:
   pt: gray-chested babbler
   ru: Какамега
   ja: ハイムネジチメドリ
-  zh: Grey-chested Babbler
+  zh: ''
   nl: Grijsborstlijstertimalia
   pl: górodrozd szaroboczny
   tr: Gri Gerdanlı Islıkçıardıç

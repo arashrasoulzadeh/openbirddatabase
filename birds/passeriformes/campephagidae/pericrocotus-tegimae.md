@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18637.0
 names:
   scientific: Pericrocotus tegimae
-  fa: nan
+  fa: ''
   en: Ryukyu Minivet
   es: Minivet de las Ryukyu
   fr: Minivet des Ryu Kyu
   de: Japanmennigvogel
-  pt: ryukyu minivet
+  pt: ''
   ru: Рюкюйский личинкоед
   ja: リュウキュウサンショウクイ
   zh: 琉球山椒鸟

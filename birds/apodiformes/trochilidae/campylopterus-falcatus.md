@@ -12,7 +12,7 @@ names:
   es: Colibrí Lazulita
   fr: Campyloptère lazulite
   de: Rotschwanz-Degenflügel
-  pt: lazuline sabrewing
+  pt: ''
   ru: Краснохвостый саблекрыл
   ja: ルリムネケンバネハチドリ
   zh: 棕尾刀翅蜂鸟

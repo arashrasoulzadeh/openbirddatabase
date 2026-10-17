@@ -12,7 +12,7 @@ names:
   es: Serín de Ankober
   fr: Serin d'Ankober
   de: Ankobergirlitz
-  pt: ankober serin
+  pt: ''
   ru: Анкоберский канареечник
   ja: アンコベルカナリア
   nl: Ankoberkanarie

@@ -15,7 +15,7 @@ names:
   pt: olive flycatcher
   ru: Оливковый мухолов
   ja: オリーブフサボウシハエトリ
-  zh: Olive Tufted Flycatcher
+  zh: ''
   nl: Yungastiran
   pl: czubogłowik oliwkowy
   tr: Güney Sorguçlu Sinekkapan

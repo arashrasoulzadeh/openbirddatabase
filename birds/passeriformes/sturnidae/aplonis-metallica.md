@@ -12,7 +12,7 @@ names:
   es: Estornino Lustroso
   fr: Stourne luisant
   de: Weberstar
-  pt: metallic starling
+  pt: ''
   ru: Металлический скворец
   ja: オナガテリカラスモドキ
   nl: Violette purperspreeuw

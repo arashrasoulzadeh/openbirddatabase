@@ -12,7 +12,7 @@ names:
   es: Batis Carinegro
   fr: Pririt à joues noires
   de: Keniaschnäpper
-  pt: eastern black-headed batis
+  pt: ''
   ru: Малый батис
   ja: ズグロセワタビタキ
   nl: Oostelijke savannevliegenvanger

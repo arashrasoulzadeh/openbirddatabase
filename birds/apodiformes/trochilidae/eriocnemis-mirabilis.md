@@ -12,7 +12,7 @@ names:
   es: Calzadito Admirable
   fr: Érione multicolore
   de: Blaubauch-Höschenkolibri
-  pt: colorful puffleg
+  pt: ''
   ru: Удивительный эрион
   ja: ニシキワタアシハチドリ
   zh: 彩毛腿蜂鳥

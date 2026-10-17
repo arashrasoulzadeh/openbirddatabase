@@ -12,7 +12,7 @@ names:
   es: Paloma Migratoria
   fr: Tourte voyageuse
   de: Wandertaube
-  pt: passenger pigeon
+  pt: ''
   ru: Странствующий голубь
   ja: リョコウバト
   zh: 旅鴿

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8357.0
 names:
   scientific: Haliastur indus
-  fa: nan
+  fa: ''
   en: Brahminy Kite
   es: Milano Brahmán
   fr: Milan sacré

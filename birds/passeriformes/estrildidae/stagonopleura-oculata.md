@@ -12,7 +12,7 @@ names:
   es: Diamante Orejirrojo
   fr: Diamant oculé
   de: Rotohramadine
-  pt: red-eared firetail
+  pt: ''
   ru: Красноухая амадина
   ja: キョウジョスズメ
   zh: 红耳火尾雀

@@ -12,7 +12,7 @@ names:
   es: Tinamú Chileno
   fr: Tinamou perdrix
   de: Chiletinamu
-  pt: chilean tinamou
+  pt: ''
   ru: Чилийский тинаму
   ja: チリーシギダチョウ
   zh: 智利斑䳍

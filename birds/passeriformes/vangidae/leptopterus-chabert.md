@@ -12,7 +12,7 @@ names:
   es: Vanga Chabert
   fr: Artamie chabert
   de: Elstervanga
-  pt: chabert vanga
+  pt: ''
   ru: Сорочья ванга
   ja: チェバートオオハシモズ
   nl: Brilvanga

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13596.0
 names:
   scientific: Thamnophilus melanonotus
-  fa: nan
+  fa: ''
   en: Black-backed Antshrike
   es: Batará Dorsinegro
   fr: Batara à dos noir
   de: Schwarzweiß-Ameisenwürger
-  pt: black-backed antshrike
+  pt: ''
   ru: Черноспинный колючник
   ja: セグロエボシアリモズ
   nl: Zwartrugmierklauwier

@@ -12,7 +12,7 @@ names:
   es: Apalis de Lynes
   fr: Apalis de Lynes
   de: Namulifeinsänger
-  pt: namuli apalis
+  pt: ''
   ru: Сероголовый апалис
   ja: ナムリイロムシクイ
   nl: Namuliapalis

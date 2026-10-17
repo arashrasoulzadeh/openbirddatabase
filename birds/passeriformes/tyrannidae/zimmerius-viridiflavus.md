@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16811.0
 names:
   scientific: Zimmerius viridiflavus
-  fa: nan
+  fa: ''
   en: Peruvian Tyrannulet
   es: Mosquerito Peruano
   fr: Tyranneau à face jaune
   de: Gelbstreif-Kleintyrann
-  pt: peruvian tyrannulet
+  pt: ''
   ru: Перуанский москитолов
   ja: ペルーキマユコタイランチョウ
   nl: Geelwangvliegenpikker

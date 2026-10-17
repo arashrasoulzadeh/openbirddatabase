@@ -12,7 +12,7 @@ names:
   es: Zorzal Escamoso
   fr: Grive dama
   de: Himalajaerddrossel
-  pt: scaly thrush
+  pt: ''
   ru: Чешуйчатый дрозд
   ja: ミナミトラツグミ
   zh: 小虎斑地鸫

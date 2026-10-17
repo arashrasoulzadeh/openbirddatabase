@@ -12,7 +12,7 @@ names:
   es: Arborófila Pechiparda
   fr: Torquéole à poitrine brune
   de: Braunbrust-Buschwachtel
-  pt: bar-backed partridge
+  pt: ''
   ru: Пестробокая лесная куропатка
   ja: チャムネミヤマテッケイ
   zh: 褐胸山鹧鸪

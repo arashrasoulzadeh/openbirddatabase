@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18192.0
 names:
   scientific: Philemon subcorniculatus
-  fa: nan
+  fa: ''
   en: Seram Friarbird
   es: Filemón de Ceram
   fr: Polochion de Céram
   de: Seramlederkopf
-  pt: seram friarbird
+  pt: ''
   ru: Серамский кожеголов
   ja: セラムハゲミツスイ
   nl: Seramlederkop

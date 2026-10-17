@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16670.0
 names:
   scientific: Myiopagis flavivertex
-  fa: nan
+  fa: ''
   en: Yellow-crowned Elaenia
   es: Fiofío Coroniamarillo
   fr: Élénie à couronne d'or

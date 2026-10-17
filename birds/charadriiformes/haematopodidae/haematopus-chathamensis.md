@@ -12,7 +12,7 @@ names:
   es: Ostrero de las Chatham
   fr: Huîtrier des Chatham
   de: Chathamausternfischer
-  pt: chatham islands oystercatcher
+  pt: ''
   ru: Чатемский кулик-сорока
   ja: チャタムミヤコドリ
   nl: Chathamscholekster

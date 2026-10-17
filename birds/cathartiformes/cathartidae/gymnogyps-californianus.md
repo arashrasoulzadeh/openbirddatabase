@@ -12,7 +12,7 @@ names:
   es: Cóndor Californiano
   fr: Condor de Californie
   de: Kalifornienkondor
-  pt: california condor
+  pt: ''
   ru: Калифорнийский кондор
   ja: カリフォルニアコンドル
   zh: 加州神鷲

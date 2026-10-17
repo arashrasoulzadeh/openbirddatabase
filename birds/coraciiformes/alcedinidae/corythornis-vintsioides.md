@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Malgache
   fr: Martin-pêcheur vintsi
   de: Malegassenzwergfischer
-  pt: malagasy kingfisher
+  pt: ''
   ru: Черноклювый зимородок
   ja: マダガスカルカンムリカワセミ
   nl: Zwartsnavelijsvogel

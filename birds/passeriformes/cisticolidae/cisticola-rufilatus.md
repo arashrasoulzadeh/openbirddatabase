@@ -12,7 +12,7 @@ names:
   es: Cistícola Gris
   fr: Cisticole grise
   de: Rotschwanz-Zistensänger
-  pt: tinkling cisticola
+  pt: ''
   ru: Краснохвостая цистикола
   ja: マミジロセッカ
   nl: Roodstaartgraszanger

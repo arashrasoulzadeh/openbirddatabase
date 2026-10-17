@@ -15,7 +15,7 @@ names:
   pt: greater prairie-chicken
   ru: Степной тетерев
   ja: ソウゲンライチョウ
-  zh: Greater Prairie Chicken
+  zh: ''
   nl: Prairiehoen
   pl: preriokur dwuczuby
   tr: Büyük Çayır Tavuğu

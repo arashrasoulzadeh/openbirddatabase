@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero de Madagascar
   fr: Busard de Madagascar
   de: Madagaskarweihe
-  pt: malagasy harrier
+  pt: ''
   ru: Мадагаскарский лунь
   ja: マダガスカルチュウヒ
   nl: Madagaskarkiekendief

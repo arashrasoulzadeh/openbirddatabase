@@ -12,7 +12,7 @@ names:
   es: Hormiguero Castaño
   fr: Fourmilier à masque blanc
   de: Weißmasken-Ameisenvogel
-  pt: white-masked antbird
+  pt: ''
   ru: Масковая аракура
   ja: シロガオアリドリ
   nl: Witmaskermiervogel

@@ -12,7 +12,7 @@ names:
   es: Diamante Moteado
   fr: Diamant à gouttelettes
   de: Diamantamadine
-  pt: diamond firetail
+  pt: ''
   ru: Бриллиантовая амадина
   ja: オオキンカチョウ
   zh: 斑胁火尾雀

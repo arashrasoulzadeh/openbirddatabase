@@ -12,7 +12,7 @@ names:
   es: Chochita de Isla Stewart
   fr: Bécassine d'Iredale
   de: Stewartschnepfe
-  pt: south island snipe
+  pt: ''
   ru: Новозеландский хакавай
   ja: ナントウムジシギ
   zh: 南岛沙锥

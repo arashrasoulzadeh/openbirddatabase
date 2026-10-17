@@ -15,7 +15,7 @@ names:
   pt: beautiful fruit-dove
   ru: Красношапочный фруктовый голубь
   ja: ノドジロヒメアオバト
-  zh: Beautiful Fruit Dove
+  zh: ''
   nl: Temminckjufferduif
   pl: owocożer białolicy
   tr: Kestane Kuşaklı Meyve Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Picamaderos Poderoso
   fr: Pic puissant
   de: Zimtbindenspecht
-  pt: powerful woodpecker
+  pt: ''
   ru: Рыжеполосый дятел
   ja: クロビタイエボシゲラ
   nl: Bruinbandspecht

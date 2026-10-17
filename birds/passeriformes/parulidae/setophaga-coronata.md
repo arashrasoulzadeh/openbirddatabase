@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34159.0
 names:
   scientific: Setophaga coronata
-  fa: nan
+  fa: ''
   en: Yellow-rumped Warbler
   es: Reinita Coronada
   fr: Paruline à croupion jaune

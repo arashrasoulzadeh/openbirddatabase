@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17895.0
 names:
   scientific: Ptilotula keartlandi
-  fa: nan
+  fa: ''
   en: Grey-headed Honeyeater
   es: Mielero Cabecigrís
   fr: Méliphage à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-headed honeyeater
   ru: Сероголовый медосос
   ja: ハイビタイコバシミツスイ
-  zh: Grey-headed Honeyeater
+  zh: ''
   nl: Grijskophoningeter
   pl: złotouch szarogłowy
   tr: Gri Başlı Balkuşu

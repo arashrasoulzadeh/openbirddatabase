@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5844.0
 names:
   scientific: Thinornis forbesi
-  fa: nan
+  fa: ''
   en: Forbes's Plover
   es: Chorlitejo de Forbes
   fr: Pluvier de Forbes

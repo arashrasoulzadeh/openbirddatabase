@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29808.0
 names:
   scientific: Oenanthe pleschanka
-  fa: nan
+  fa: ''
   en: Pied Wheatear
   es: Collalba Pía
   fr: Traquet pie

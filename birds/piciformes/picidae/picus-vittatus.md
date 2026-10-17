@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11652.0
 names:
   scientific: Picus vittatus
-  fa: nan
+  fa: ''
   en: Laced Woodpecker
   es: Pito Colinegro
   fr: Pic médiastin
   de: Netzbauchspecht
-  pt: laced woodpecker
+  pt: ''
   ru: Пестробрюхий дятел
   ja: タケアオゲラ
   zh: 花腹绿啄木鸟

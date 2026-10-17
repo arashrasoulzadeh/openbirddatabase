@@ -12,7 +12,7 @@ names:
   es: Carricerín Cejinegro
   fr: Rousserolle de Schrenck
   de: Brauenrohrsänger
-  pt: black-browed reed warbler
+  pt: ''
   ru: Пестроголовая камышевка
   ja: コヨシキリ
   zh: 黑眉苇莺

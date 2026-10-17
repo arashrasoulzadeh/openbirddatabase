@@ -12,7 +12,7 @@ names:
   es: Acentor Pechirrufo
   fr: Accenteur à poitrine rousse
   de: Strichelbraunelle
-  pt: rufous-breasted accentor
+  pt: ''
   ru: Рыжегрудая завирушка
   ja: アカチャイワヒバリ
   zh: 棕胸岩鹨

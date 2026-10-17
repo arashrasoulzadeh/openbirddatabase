@@ -12,7 +12,7 @@ names:
   es: Francolín Gorjiamarillo
   fr: Francolin à cou jaune
   de: Gelbkehlfrankolin
-  pt: yellow-necked spurfowl
+  pt: ''
   ru: Желтогорлый франколин
   ja: ハゲノドシャコ
   zh: 黃頸彩鷓鴣

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 19380.0
 names:
   scientific: Pachycephala rufogularis
-  fa: nan
+  fa: ''
   en: Red-lored Whistler
   es: Silbador Gorjirrufo
   fr: Siffleur à face rousse
   de: Rotzügel-Dickkopf
-  pt: red-lored whistler
+  pt: ''
   ru: Рыжелицый свистун
   ja: ノドアカモズヒタキ
   zh: 红眼先啸鹟

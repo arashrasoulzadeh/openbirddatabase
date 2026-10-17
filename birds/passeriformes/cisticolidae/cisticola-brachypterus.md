@@ -15,7 +15,7 @@ names:
   pt: siffling cisticola
   ru: Короткокрылая цистикола
   ja: クチブエセッカ
-  zh: Short-winged Cisticola
+  zh: ''
   nl: Kortvleugelgraszanger
   pl: chwastówka sawannowa
   tr: Kısa Kanatlı Yelpazekuyruk

@@ -12,7 +12,7 @@ names:
   es: Monarca de Isla Rennell
   fr: Monarque de Rennell
   de: Rennellmonarch
-  pt: rennell shrikebill
+  pt: ''
   ru: Реннелльский олевао
   ja: レンネルオオハシヒタキ
   nl: Rennellklauwiermonarch

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 1558.0
 names:
   scientific: Lophura pyronota
-  fa: nan
+  fa: ''
   en: Bornean Crestless Fireback
   es: Faisán Colicanelo de Borneo
   fr: Faisan pyronote
   de: Borneo-Gelbschwanzfasan
-  pt: bornean crestless fireback
+  pt: ''
   ru: Вилохвостая лофура
   zh: 婆罗洲火背鹇
   nl: Borneose vuurrugfazant

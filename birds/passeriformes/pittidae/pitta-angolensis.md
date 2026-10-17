@@ -12,7 +12,7 @@ names:
   es: Pita Angoleña
   fr: Brève d'Angola
   de: Angolapitta
-  pt: african pitta
+  pt: ''
   ru: Ангольская питта
   ja: アフリカヤイロチョウ
   zh: 非洲八色鶇

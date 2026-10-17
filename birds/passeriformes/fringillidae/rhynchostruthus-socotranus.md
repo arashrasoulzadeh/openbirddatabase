@@ -15,7 +15,7 @@ names:
   pt: socotra grosbeak
   ru: Сокотранский вьрок
   ja: ソコトラキンバネマシコ
-  zh: Socotra Golden-winged Grosbeak
+  zh: ''
   nl: Socotragoudvleugelvink
   pl: złotopiórek sokotrzański
   tr: Sukutra Kocabaşı

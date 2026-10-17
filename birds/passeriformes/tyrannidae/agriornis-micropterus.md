@@ -15,7 +15,7 @@ names:
   pt: gaúcho-de-barriga-cinza
   ru: Короткокрылый гаучо
   ja: モズタイランチョウ
-  zh: Grey-bellied Shrike-Tyrant
+  zh: ''
   nl: Grijsbuikklauwiertiran
   pl: dzierzbotyran szary
   tr: Gri Kasap Tiranı

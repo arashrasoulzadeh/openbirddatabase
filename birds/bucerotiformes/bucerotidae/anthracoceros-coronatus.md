@@ -15,7 +15,7 @@ names:
   pt: malabar pied-hornbill
   ru: Индийская птица-носорог
   ja: カササギサイチョウ
-  zh: Malabar Pied Hornbill
+  zh: ''
   nl: Malabarneushoornvogel
   pl: dzioborożec orientalny
   tr: Hint Alaca Boynuzgagası

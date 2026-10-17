@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26791.0
 names:
   scientific: Pterorhinus ruficollis
-  fa: nan
+  fa: ''
   en: Rufous-necked Laughingthrush
   es: Charlatán Cuellirrufo
   fr: Garrulaxe à col roux
   de: Rothalshäherling
-  pt: rufous-necked laughingthrush
+  pt: ''
   ru: Красношейная кустарница
   ja: アカエリガビチョウ
   zh: 栗颈噪鹛

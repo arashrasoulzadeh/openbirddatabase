@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8790.0
 names:
   scientific: Otus sauzieri
-  fa: nan
+  fa: ''
   en: Mauritius Scops Owl
   es: Autillo de Mauricio
   fr: Petit-duc de Maurice
@@ -15,7 +15,7 @@ names:
   pt: mauritius scops-owl
   ru: Маврикийская сплюшка
   ja: モーリシャスコノハズク
-  zh: Mauritius Scops Owl
+  zh: ''
   nl: Mauritiusdwergooruil
   pl: uszatnik duży
   tr: Morityus İshakkuşu

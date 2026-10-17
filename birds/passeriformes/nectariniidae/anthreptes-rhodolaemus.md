@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjirrojo
   fr: Souimanga à gorge rouge
   de: Rotkehl-Nektarvogel
-  pt: red-throated sunbird
+  pt: ''
   ru: Красногорлая нектарница
   ja: ノドアカコバシタイヨウチョウ
   zh: 棕喉食蜜鳥

@@ -15,7 +15,7 @@ names:
   pt: australian king-parrot
   ru: Королевский попугай
   ja: キンショウジョウインコ
-  zh: Australian King Parrot
+  zh: ''
   nl: Australische koningsparkiet
   pl: szkarłatka królewska
   tr: Avustralya Kral Papağanı

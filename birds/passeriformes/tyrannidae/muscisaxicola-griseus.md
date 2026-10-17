@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17086.0
 names:
   scientific: Muscisaxicola griseus
-  fa: nan
+  fa: ''
   en: Taczanowski's Ground Tyrant
   es: Dormilona de Taczanowski
   fr: Dormilon gris
@@ -15,7 +15,7 @@ names:
   pt: taczanowski's ground-tyrant
   ru: Серая дормилона
   ja: ネズミイワタイランチョウ
-  zh: Taczanowski's Ground Tyrant
+  zh: ''
   nl: Taczanowskigrondtiran
   pl: skałotyran szary
   tr: Taczanowski Yer Tiranı

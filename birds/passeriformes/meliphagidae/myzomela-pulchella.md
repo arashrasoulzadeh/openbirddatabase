@@ -12,7 +12,7 @@ names:
   es: Mielero de Nueva Irlanda
   fr: Myzomèle de Nouvelle-Irlande
   de: Neuirland-Honigfresser
-  pt: new ireland myzomela
+  pt: ''
   ru: Красивая медовка
   ja: ニューアイルランドミツスイ
   nl: Nieuw-Ierlanddwerghoningeter

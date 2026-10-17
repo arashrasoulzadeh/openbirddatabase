@@ -12,7 +12,7 @@ names:
   es: Zorzal de Nueva Bretaña
   fr: Grive de Nouvelle-Bretagne
   de: Bismarckerddrossel
-  pt: new britain thrush
+  pt: ''
   ru: Новобританский дрозд
   ja: ニューブリテンジツグミ
   nl: Bismarckgoudlijster

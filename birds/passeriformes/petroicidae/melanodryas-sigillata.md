@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21847.0
 names:
   scientific: Melanodryas sigillata
-  fa: nan
+  fa: ''
   en: White-winged Robin
   es: Petroica Aliblanca
   fr: Miro à ailes blanches
   de: Spiegeldickichtschnäpper
-  pt: white-winged robin
+  pt: ''
   ru: Белокрылая дриада
   ja: ハジロパプアヒタキ
   nl: Witvleugelstruikvliegenvanger

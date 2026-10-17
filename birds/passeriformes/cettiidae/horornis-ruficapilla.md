@@ -12,7 +12,7 @@ names:
   es: Cetia de Fiyi
   fr: Bouscarle des Fidji
   de: Fidschiseidensänger
-  pt: fiji bush warbler
+  pt: ''
   ru: Фиджийская широкохвостка
   ja: フィジームシクイ
   nl: Fijistruikzanger

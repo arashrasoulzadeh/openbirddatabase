@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29191.0
 names:
   scientific: Cyornis ruficrissa
-  fa: nan
+  fa: ''
   en: Crocker Jungle Flycatcher
   es: Papamoscas del Kinabalu
   fr: Gobemouche du Kinabalu
   de: Kinabaludschungelschnäpper
-  pt: crocker jungle flycatcher
+  pt: ''
   ja: クロッカーミツリンヒタキ
   nl: Crockerjunglevliegenvanger
   pl: dżunglówka rdzawopióra

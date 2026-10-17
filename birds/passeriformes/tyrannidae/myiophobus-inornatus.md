@@ -12,7 +12,7 @@ names:
   es: Mosquero Sencillo
   fr: Moucherolle simple
   de: Zimtflügel-Schnäppertyrann
-  pt: unadorned flycatcher
+  pt: ''
   ru: Бурокрылая курэта
   ja: ムジフタスジハエトリ
   nl: Carrikertiran

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 5156.0
 names:
   scientific: Chrysuronia lilliae
-  fa: nan
+  fa: ''
   en: Sapphire-bellied Hummingbird
   es: Colibrí Ventrizafiro
   fr: Colibri de Lillie
   de: Blaubauchkolibri
-  pt: sapphire-bellied hummingbird
+  pt: ''
   ru: Сапфировобрюхий колибри
   ja: ルリハラハチドリ
   nl: Saffierbuikkolibrie

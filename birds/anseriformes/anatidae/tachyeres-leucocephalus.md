@@ -15,7 +15,7 @@ names:
   pt: white-headed steamer-duck
   ru: Белоголовая утка-пароход
   ja: アルゼンチンフナガモ
-  zh: Chubut Steamer Duck
+  zh: ''
   nl: Witkopbooteend
   pl: torpedówka białogłowa
   tr: Ak Başlı Forsa Ördeği

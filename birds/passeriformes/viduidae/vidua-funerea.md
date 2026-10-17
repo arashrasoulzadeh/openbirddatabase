@@ -12,7 +12,7 @@ names:
   es: Viuda Sombría
   fr: Combassou noir
   de: Trauerwitwe
-  pt: dusky indigobird
+  pt: ''
   ru: Бледноногая вдовушка
   ja: クロシコンチョウ
   zh: 杂色维达雀

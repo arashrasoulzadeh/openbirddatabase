@@ -12,7 +12,7 @@ names:
   es: Monarca Samoano
   fr: Monarque des Samoa
   de: Samoamonarch
-  pt: samoan flycatcher
+  pt: ''
   ru: Самоанская миагра
   ja: サモアヒラハシ
   zh: 白腹阔嘴鹟

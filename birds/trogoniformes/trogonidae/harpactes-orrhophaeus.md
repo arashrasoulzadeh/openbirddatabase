@@ -12,7 +12,7 @@ names:
   es: Trogón Canela
   fr: Trogon cannelle
   de: Zimtbürzeltrogon
-  pt: cinnamon-rumped trogon
+  pt: ''
   ru: Коричневогузый трогон
   ja: ズグロキヌバネドリ
   nl: Bruinrugtrogon

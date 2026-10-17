@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Cachemira
   fr: Locustelle du Cachemire
   de: Himalajaschwirl
-  pt: west himalayan bush warbler
+  pt: ''
   ru: Кашмирская пестрогрудка
   ja: カシミールオウギセkカ
   nl: West-Himalayaanse struikzanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13905.0
 names:
   scientific: Cercomacroides parkeri
-  fa: nan
+  fa: ''
   en: Parker's Antbird
   es: Hormiguero de Parker
   fr: Grisin de Graves
   de: Parkerameisenfänger
-  pt: parker's antbird
+  pt: ''
   ru: Колумбийская муравьянка
   ja: パーカークロアリドリ
   nl: Parkermiervogel

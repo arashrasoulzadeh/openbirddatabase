@@ -12,7 +12,7 @@ names:
   es: Remolinera Araucana
   fr: Cinclode à ventre sombre
   de: Streifenbrust-Uferwipper
-  pt: dark-bellied cinclodes
+  pt: ''
   ru: Патагонская трясохвостка
   ja: パタゴニアカワカマドドリ
   nl: Grijsbuikwipstaart

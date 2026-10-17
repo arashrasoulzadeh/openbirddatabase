@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9385.0
 names:
   scientific: Ninox squamipila
-  fa: nan
+  fa: ''
   en: Seram Boobook
   es: Nínox de Ceram
   fr: Ninoxe des Moluques
   de: Seramkauz
-  pt: seram boobook
+  pt: ''
   ru: Молуккская иглоногая сова
   ja: セラムアオバズク
   nl: Seramvalkuil

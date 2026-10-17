@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4188.0
 names:
   scientific: Tachornis phoenicobia
-  fa: nan
+  fa: ''
   en: Antillean Palm Swift
   es: Vencejillo Antillano
   fr: Martinet petit-rollé
   de: Kubasegler
-  pt: antillean palm swift
+  pt: ''
   ru: Антильский стрижик
   ja: アメリカヤシアマツバメ
   zh: 西印棕雨燕

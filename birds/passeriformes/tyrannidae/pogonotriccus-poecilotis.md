@@ -15,7 +15,7 @@ names:
   pt: variegated bristle-tyrant
   ru: Пёстрый тираннчик
   ja: ミヤマヒゲハエトリ
-  zh: Variegated Bristle Tyrant
+  zh: ''
   nl: Bonte looftiran
   pl: tyranczyk rdzawopręgi
   tr: Değişken Yaprak Tiranı

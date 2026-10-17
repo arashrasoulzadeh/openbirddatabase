@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14032.0
 names:
   scientific: Sipia berlepschi
-  fa: nan
+  fa: ''
   en: Stub-tailed Antbird
   es: Hormiguero Colimocho
   fr: Alapi à queue courte
   de: Kurzschwanz-Ameisenvogel
-  pt: stub-tailed antbird
+  pt: ''
   ru: Короткохвостая муравьеловка
   ja: タンビアリドリ
   nl: Kortstaartmiervogel

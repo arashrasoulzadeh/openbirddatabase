@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26083.0
 names:
   scientific: Erythrogenys mcclellandi
-  fa: nan
+  fa: ''
   en: Spot-breasted Scimitar Babbler
   es: Cimitarra Moteada
   fr: Pomatorhin de McClelland

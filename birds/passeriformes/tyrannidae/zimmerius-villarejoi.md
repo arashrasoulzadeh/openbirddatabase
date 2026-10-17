@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16796.0
 names:
   scientific: Zimmerius villarejoi
-  fa: nan
+  fa: ''
   en: Mishana Tyrannulet
   es: Mosquerito de Villarejo
   fr: Tyranneau de Villarejo
   de: Mishana-Kleintyrann
-  pt: mishana tyrannulet
+  pt: ''
   ru: Мишанский москитолов
   ja: ミシャナコタイランチョウ
   nl: Mishanavliegenpikker

@@ -15,7 +15,7 @@ names:
   pt: joão-de-cabeça-cinza
   ru: Сероголовая курутия
   ja: ハイガシラカマドドリ
-  zh: Grey-headed Spinetail
+  zh: ''
   nl: Grijskopstekelstaart
   pl: moczarnik popielaty
   tr: Gri Başlı Dikenkuyruk

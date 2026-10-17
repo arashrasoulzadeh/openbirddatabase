@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 18913.0
 names:
   scientific: Edolisoma nesiotis
-  fa: nan
+  fa: ''
   en: Yap Cicadabird
   es: Oruguero de Isla Yap
   fr: Échenilleur de Yap
   de: Yapraupenfänger
-  pt: yap cicadabird
+  pt: ''
   ru: Япский цикадник
   ja: ヤップセミサンショウクイ
   nl: Yaprupsvogel

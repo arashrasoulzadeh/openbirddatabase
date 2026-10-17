@@ -12,7 +12,7 @@ names:
   es: Bulbul de Cabanis
   fr: Bulbul de Cabanis
   de: Cabanisbülbül
-  pt: cabanis's greenbul
+  pt: ''
   ru: Рувензорский бюльбюль
   ja: ニシキスジチャイロヒヨドリ
   nl: Cabanisloofbuulbuul

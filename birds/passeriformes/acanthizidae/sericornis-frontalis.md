@@ -12,7 +12,7 @@ names:
   es: Sedosito Cejiblanco
   fr: Séricorne à sourcils blancs
   de: Weißbrauensericornis
-  pt: white-browed scrubwren
+  pt: ''
   ru: Белобровая кустовка
   ja: マミジロヤブムシクイ
   zh: 白眉丝刺莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17354.0
 names:
   scientific: Myiarchus antillarum
-  fa: nan
+  fa: ''
   en: Puerto Rican Flycatcher
   es: Copetón Puertorriqueño
   fr: Tyran de Porto Rico
   de: Puerto-Rico-Schopftyrann
-  pt: puerto rican flycatcher
+  pt: ''
   ru: Пуэрториканский миарх
   ja: プエルトリコヒタキモドキ
   zh: 波多黎各蠅霸鶲

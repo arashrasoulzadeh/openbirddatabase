@@ -15,7 +15,7 @@ names:
   pt: falcão-mateiro
   ru: Двуполосый лесной сокол
   ja: ヒメモリハヤブサ
-  zh: Lined Forest Falcon
+  zh: ''
   nl: Gebandeerde bosvalk
   pl: trębacz popielaty
   tr: Çizgili Orman Doğanı

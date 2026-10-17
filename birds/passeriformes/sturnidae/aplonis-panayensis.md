@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27730.0
 names:
   scientific: Aplonis panayensis
-  fa: nan
+  fa: ''
   en: Asian Glossy Starling
   es: Estornino Bronceado
   fr: Stourne bronzé
   de: Malaienstar
-  pt: asian glossy starling
+  pt: ''
   ru: Красноглазый скворец
   ja: ミドリカラスモドキ
   zh: 亚洲辉椋鸟

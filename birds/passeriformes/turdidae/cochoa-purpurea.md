@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28244.0
 names:
   scientific: Cochoa purpurea
-  fa: nan
+  fa: ''
   en: Purple Cochoa
   es: Cochoa Púrpura
   fr: Cochoa violet
   de: Purpurschnäpperdrossel
-  pt: purple cochoa
+  pt: ''
   ru: Пурпурная кохоа
   ja: ムラサキミヤマツグミ
   zh: 紫宽嘴鸫

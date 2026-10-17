@@ -12,7 +12,7 @@ names:
   es: Cucarachero Pechirrayado
   fr: Troglodyte flammé
   de: Streifenbrust-Zaunkönig
-  pt: stripe-breasted wren
+  pt: ''
   ru: Карибский крапивник
   ja: タテジママユミソサザイ
   zh: 紋胸葦鷦鷯

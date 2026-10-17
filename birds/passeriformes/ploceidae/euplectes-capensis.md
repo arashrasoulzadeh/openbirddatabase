@@ -12,7 +12,7 @@ names:
   es: Obispo Culigualdo
   fr: Euplecte à croupion jaune
   de: Samtweber
-  pt: yellow bishop
+  pt: ''
   ru: Желтоспинный ткачик
   ja: キゴシオウゴンチョウ
   nl: Fluweelwidavink

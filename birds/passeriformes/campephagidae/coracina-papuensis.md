@@ -12,7 +12,7 @@ names:
   es: Oruguero Papú
   fr: Échenilleur choucari
   de: Weißbauch-Raupenfänger
-  pt: white-bellied cuckooshrike
+  pt: ''
   ru: Белобрюхий воронец
   ja: パプアオオサンショウクイ
   nl: Witbuikrupsvogel

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13569.0
 names:
   scientific: Thamnophilus pelzelni
-  fa: nan
+  fa: ''
   en: Planalto Slaty Antshrike
   es: Batará Pizarroso del Planalto
   fr: Batara de Pelzeln
@@ -15,7 +15,7 @@ names:
   pt: choca-do-planalto
   ru: Бразильский колючник
   ja: プラナルトハイイロモズ
-  zh: Planalto Slaty Antshrike
+  zh: ''
   nl: Planaltomierklauwier
   pl: chronka białobrzucha
   tr: Planalto Gri Karıncaavcısı

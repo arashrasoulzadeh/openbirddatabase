@@ -12,7 +12,7 @@ names:
   es: Cigüeña de Abdim
   fr: Cigogne d'Abdim
   de: Abdimstorch
-  pt: abdim's stork
+  pt: ''
   ru: Дождевой аист
   ja: アオハシコウ
   zh: 白腹鸛

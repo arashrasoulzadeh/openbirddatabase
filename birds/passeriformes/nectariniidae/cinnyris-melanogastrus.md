@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30391.0
 names:
   scientific: Cinnyris melanogastrus
-  fa: nan
+  fa: ''
   en: Gorgeous Sunbird
   es: Suimanga Colilargo Masái
   fr: Souimanga à ventre noir
   de: Schwarzbauch-Nektarvogel
-  pt: gorgeous sunbird
+  pt: ''
   nl: Zwartbuikfeeënhoningzuiger
   pl: nektarnik czarnobrzuchy
   tr: Harika Nektarkuşu

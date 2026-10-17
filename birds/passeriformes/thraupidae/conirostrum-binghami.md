@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 35248.0
 names:
   scientific: Conirostrum binghami
-  fa: nan
+  fa: ''
   en: Giant Conebill
   es: Conirrostro Gigante
   fr: Conirostre géant
   de: Riesenspitzschnabel
-  pt: giant conebill
+  pt: ''
   ru: Большой конусоклюв
   ja: オオミツドリ
   nl: Reuzenspitssnavel

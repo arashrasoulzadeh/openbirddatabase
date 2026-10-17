@@ -12,7 +12,7 @@ names:
   es: Garceta Intermedia
   fr: Héron intermédiaire
   de: Asienmittelreiher
-  pt: medium egret
+  pt: ''
   ru: Средняя белая цапля
   ja: チュウサギ
   zh: 中白鹭

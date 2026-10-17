@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4051.0
 names:
   scientific: Aerodramus leucophaeus
-  fa: nan
+  fa: ''
   en: Polynesian Swiftlet
   es: Salangana Polinesia
   fr: Salangane de la Société

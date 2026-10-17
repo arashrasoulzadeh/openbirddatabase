@@ -12,7 +12,7 @@ names:
   es: Tiñosa Picofina
   fr: Noddi marianne
   de: Schlankschnabelnoddi
-  pt: lesser noddy
+  pt: ''
   ru: Малая кланяющаяся крачка
   ja: インドヒメクロアジサシ
   zh: 小玄燕鷗

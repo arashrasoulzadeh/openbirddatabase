@@ -12,7 +12,7 @@ names:
   es: Tetraka de Appert
   fr: Farifotra d'Appert
   de: Appertmadagaskarsänger
-  pt: appert's tetraka
+  pt: ''
   ru: Белогорлая тетрака
   ja: コバネマダガスカルヒヨドリ
   nl: Apperttetraka

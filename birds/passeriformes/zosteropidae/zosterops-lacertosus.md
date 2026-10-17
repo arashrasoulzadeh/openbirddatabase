@@ -12,7 +12,7 @@ names:
   es: Anteojitos de Sanford
   fr: Zostérops de Sanford
   de: Sanfordbrillenvogel
-  pt: sanford's white-eye
+  pt: ''
   ru: Быстрая вудфордия
   ja: サンタクルーズオオメジロ
   nl: Sanfordbrilvogel

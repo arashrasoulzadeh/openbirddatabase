@@ -12,7 +12,7 @@ names:
   es: Amazona de Hombro Gualda
   fr: Amazone à épaulettes jaunes
   de: Gelbschulteramazone
-  pt: yellow-shouldered amazon
+  pt: ''
   ru: Желтоплечий амазон
   ja: キボウシインコ
   zh: 黃肩亞馬遜鸚鵡

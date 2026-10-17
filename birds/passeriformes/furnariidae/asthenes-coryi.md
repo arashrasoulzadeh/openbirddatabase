@@ -12,7 +12,7 @@ names:
   es: Piscuiz de Cory
   fr: Synallaxe de Cory
   de: Ockerbrauencanastero
-  pt: ochre-browed thistletail
+  pt: ''
   ru: Рыжебровый чертополошник
   ja: キビタイトゲオカマドドリ
   nl: Okerbrauwdistelstaart

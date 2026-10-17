@@ -12,7 +12,7 @@ names:
   es: Turpial Dorsidorado
   fr: Oriole noir et or
   de: Schwarzflügeltrupial
-  pt: yellow-backed oriole
+  pt: ''
   ru: Желтоспинный трупиал
   ja: ハグロムクドリモドキ
   nl: Geelrugtroepiaal

@@ -12,7 +12,7 @@ names:
   es: Paloma Piquirroja
   fr: Pigeon à bec rouge
   de: Rotschnabeltaube
-  pt: red-billed pigeon
+  pt: ''
   ru: Желтоклювый голубь
   ja: アカハシバト
   zh: 紅嘴鴿

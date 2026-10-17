@@ -12,7 +12,7 @@ names:
   es: Monarca de Fiyi
   fr: Monarque des Fidji
   de: Fidschimonarch
-  pt: fiji shrikebill
+  pt: ''
   ru: Фиджийский олевао
   ja: フィジーオオハシヒタキ
   nl: Fijiklauwiermonarch

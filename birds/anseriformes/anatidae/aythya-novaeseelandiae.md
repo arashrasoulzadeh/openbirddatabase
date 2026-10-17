@@ -12,7 +12,7 @@ names:
   es: Porrón Maorí
   fr: Fuligule de Nouvelle-Zélande
   de: Maoriente
-  pt: new zealand scaup
+  pt: ''
   ru: Новозеландская чернеть
   ja: ニュージーランドスズガモ
   zh: 紐西蘭潛鴨

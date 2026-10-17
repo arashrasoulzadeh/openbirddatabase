@@ -12,7 +12,7 @@ names:
   es: Mango Jamaicano
   fr: Mango de Jamaïque
   de: Jamaikamangokolibri
-  pt: jamaican mango
+  pt: ''
   ru: Ямайский манго
   ja: ジャマイカマンゴーハチドリ
   zh: 牙买加芒果蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Estornino Cingalés
   fr: Étourneau de Ceylan
   de: Greisenstar
-  pt: white-faced starling
+  pt: ''
   ru: Ланкийский скворец
   ja: シロガオムクドリ
   nl: Maskerspreeuw

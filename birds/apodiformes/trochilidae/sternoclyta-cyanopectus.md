@@ -12,7 +12,7 @@ names:
   es: Colibrí Pechiazul
   fr: Colibri à poitrine violette
   de: Veilchenbrustkolibri
-  pt: violet-chested hummingbird
+  pt: ''
   ru: Лиловогрудый колибри
   ja: スミレムネハチドリ
   zh: 紫罗兰胸蜂鸟

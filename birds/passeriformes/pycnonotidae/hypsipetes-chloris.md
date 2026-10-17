@@ -14,7 +14,7 @@ names:
   de: Halmaheragoldbülbül
   pt: halmahera golden-bulbul
   ja: ハルマヘラキン'イロヒヨドリ
-  zh: Halmahera Golden Bulbul
+  zh: ''
   nl: Halmaherabuulbuul
   pl: szczeciak zielonawy
   tr: Halmahera Altınbülbülü

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26204.0
 names:
   scientific: Pellorneum ruficeps
-  fa: nan
+  fa: ''
   en: Puff-throated Babbler
   es: Tordina Pechiestriada
   fr: Akalat à poitrine tachetée
   de: Streifenbrust-Erddrossling
-  pt: puff-throated babbler
+  pt: ''
   ru: Пятнистогрудая тимелия-говорушка
   ja: ムナフジチメドリ
   zh: 棕头幽鹛

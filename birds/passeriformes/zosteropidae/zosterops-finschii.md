@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25835.0
 names:
   scientific: Zosterops finschii
-  fa: nan
+  fa: ''
   en: Dusky White-eye
   es: Anteojitos de Finsch
   fr: Zostérops de Finsch
   de: Palaubrillenvogel
-  pt: dusky white-eye
+  pt: ''
   ru: Палауанская белоглазка
   ja: ウスグロメジロ
   zh: 暗繡眼

@@ -12,7 +12,7 @@ names:
   es: Timalí de Whitehead
   fr: Zostérops de Whitehead
   de: Rostgesicht-Streifenbrillenvogel
-  pt: chestnut-faced babbler
+  pt: ''
   ru: Очковая пеструшка
   ja: ホオアカモリチメドリ
   zh: 怀氏穗鹛

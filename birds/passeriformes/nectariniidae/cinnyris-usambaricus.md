@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 30384.0
 names:
   scientific: Cinnyris usambaricus
-  fa: nan
+  fa: ''
   en: Usambara Double-collared Sunbird
   es: Suimanga de Los Usambara
   fr: Souimanga des Usambara
   de: Usambaranektarvogel
-  pt: usambara double-collared sunbird
+  pt: ''
   ru: Узамбарская нектарница
   ja: ウサンバラゴシキタイヨウチョウ
   nl: Usambarahoningzuiger

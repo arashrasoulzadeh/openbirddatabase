@@ -12,7 +12,7 @@ names:
   es: Zorzal de las Tanimbar
   fr: Grive à poitrine fauve
   de: Tanimbarerddrossel
-  pt: fawn-breasted thrush
+  pt: ''
   ru: Танимбарский дрозд
   ja: タニンバルトラツグミ
   nl: Tanimbargoudlijster

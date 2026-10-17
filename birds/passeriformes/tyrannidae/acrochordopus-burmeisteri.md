@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16788.0
 names:
   scientific: Acrochordopus burmeisteri
-  fa: nan
+  fa: ''
   en: Rough-legged Tyrannulet
   es: Mosquerito de Burmeister
   fr: Tyranneau pattu

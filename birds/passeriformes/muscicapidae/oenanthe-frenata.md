@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29795.0
 names:
   scientific: Oenanthe frenata
-  fa: nan
+  fa: ''
   en: Rusty-breasted Wheatear
   es: Collalba Pechirroja
   fr: Traquet à poitrine rousse
   de: Braunbrust-Steinschmätzer
-  pt: rusty-breasted wheatear
+  pt: ''
   nl: Bruinborsttapuit
   pl: białorzytka rdzawobrzucha
   tr: Kızıl Göğüslü Kuyrukkakan

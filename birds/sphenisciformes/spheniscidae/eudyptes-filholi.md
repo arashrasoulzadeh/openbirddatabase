@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6966.0
 names:
   scientific: Eudyptes filholi
-  fa: nan
+  fa: ''
   en: Eastern Rockhopper Penguin
   es: Pingüino Saltarrocas Oriental
   fr: Gorfou de Filhol
   de: Kerguelenpinguin
-  pt: eastern rockhopper penguin
+  pt: ''
   nl: Oostelijke rotspinguïn
   pl: pingwin różowodzioby
   tr: Doğulu Zıplar Penguen

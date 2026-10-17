@@ -15,7 +15,7 @@ names:
   pt: pitt island shag
   ru: Зеленолицый баклан
   ja: ピットウ
-  zh: Pitt Shag
+  zh: ''
   nl: Pittaalscholver
   pl: kormoran zielonolicy
   tr: Küçük Parekareka Karabatağı

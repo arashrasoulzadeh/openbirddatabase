@@ -12,7 +12,7 @@ names:
   es: Maluro Amable
   fr: Mérion ravissant
   de: Schmuckstaffelschwanz
-  pt: lovely fairywren
+  pt: ''
   ru: Расписной малюр
   ja: ケープヨークオーストラリアムシクイ
   zh: 娇美细尾鹩莺

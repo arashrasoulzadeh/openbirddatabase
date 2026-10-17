@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Pálido
   fr: Pluvier élégant
   de: Rotband-Regenpfeifer
-  pt: chestnut-banded plover
+  pt: ''
   ru: Краснополосый зуёк
   ja: クリオビチドリ
   nl: Kaapse plevier

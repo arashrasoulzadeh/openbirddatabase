@@ -15,7 +15,7 @@ names:
   pt: gray-bellied flowerpiercer
   ru: Серобрюхий цветокол
   ja: ハイバラハナサシミツドリ
-  zh: Grey-bellied Flowerpiercer
+  zh: ''
   nl: Grijsbuikberghoningkruiper
   pl: haczykodziobek szarobrzuchy
   tr: Gri Karınlı Çiçekdelen

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33643.0
 names:
   scientific: Cacicus sclateri
-  fa: nan
+  fa: ''
   en: Ecuadorian Cacique
   es: Cacique Ecuatoriano
   fr: Cassique d'Équateur
   de: Trauerkassike
-  pt: ecuadorian cacique
+  pt: ''
   ru: Эквадорский кассик
   ja: ヒメクロツリスドリ
   nl: Rouwbuidelspreeuw

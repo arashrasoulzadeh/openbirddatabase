@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 30362.0
 names:
   scientific: Cinnyris stuhlmanni
-  fa: nan
+  fa: ''
   en: Rwenzori Double-collared Sunbird
   es: Suimanga de Stuhlmann
   fr: Souimanga de Stuhlmann
@@ -15,7 +15,7 @@ names:
   pt: stuhlmann's sunbird
   ru: Рувензорская некарница
   ja: ザイールゴシキタイヨウチョウ
-  zh: Rwenzori Double-collared Sunbird
+  zh: ''
   nl: Stuhlmannhoningzuiger
   pl: nektarnik górski
   tr: Stuhlmann Nektarkuşu

@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 29206.0
 names:
   scientific: Dessonornis anomalus
-  fa: nan
+  fa: ''
   en: Olive-flanked Ground Robin
   es: Cosifa Anómala
   fr: Cossyphe à flancs olive
@@ -15,7 +15,7 @@ names:
   pt: olive-flanked robin-chat
   ru: Тёмный рыжехвост
   ja: ムジツグミヒタキ
-  zh: Olive-flanked Ground Robin
+  zh: ''
   nl: Bruinflankjanfrederik
   pl: złotokosik oliwkowy
   tr: Gri-Siyah Kızılca Bülbül

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 15385.0
 names:
   scientific: Asthenes berlepschi
-  fa: nan
+  fa: ''
   en: Berlepsch's Canastero
   es: Canastero de Berlepsch
   fr: Synallaxe de Berlepsch
   de: Cordillera-Real-Canastero
-  pt: berlepsch's canastero
+  pt: ''
   ru: Горный канастеро
   ja: ボリビアキタカマドドリ
   nl: Berlepschcanastero

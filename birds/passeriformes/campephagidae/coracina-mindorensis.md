@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18745.0
 names:
   scientific: Coracina mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Cuckooshrike
   es: Oruguero de Mindoro
   fr: Échenilleur de Mindoro
-  pt: mindoro cuckooshrike
+  pt: ''
   ja: ミンドロカッコウサンショウクイ
   nl: Mindororupsvogel
   pl: kruczyna mindorska

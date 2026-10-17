@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16023.0
 names:
   scientific: Pachyramphus viridis
-  fa: nan
+  fa: ''
   en: Green-backed Becard
   es: Anambé Verdoso
   fr: Bécarde verte

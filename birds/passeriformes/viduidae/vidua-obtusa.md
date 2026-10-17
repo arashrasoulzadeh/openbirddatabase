@@ -15,7 +15,7 @@ names:
   pt: broad-tailed paradise-whydah
   ru: Широкохвостая райская вдовушка
   ja: ミナミオビロホウオウジャク
-  zh: Broad-tailed Paradise Whydah
+  zh: ''
   nl: Breedstaartparadijswida
   pl: wdówka szerokosterna
   tr: Geniş Kuyruklu Vidya

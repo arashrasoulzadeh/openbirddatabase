@@ -12,7 +12,7 @@ names:
   es: Pergolero Dorado
   fr: Jardinier de Newton
   de: Säulenlaubenvogel
-  pt: golden bowerbird
+  pt: ''
   ru: Золотистый шалашник
   ja: オウゴンニワシドリ
   zh: 金亭鸟

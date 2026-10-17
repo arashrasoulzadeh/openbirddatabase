@@ -12,7 +12,7 @@ names:
   es: Mielero del Wakolo
   fr: Myzomèle de Forbes
   de: Wakolohonigfresser
-  pt: wakolo myzomela
+  pt: ''
   ru: Ваколская медовка
   ja: モルッカミツスイ
   nl: Molukse dwerghoningeter

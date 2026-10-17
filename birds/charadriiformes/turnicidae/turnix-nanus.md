@@ -12,7 +12,7 @@ names:
   es: Torillo Enano
   fr: Turnix nain
   de: Schwarzbürzel-Laufhühnchen
-  pt: black-rumped buttonquail
+  pt: ''
   ru: Натальская трёхперстка
   ja: ホオアカミフウズラ
   zh: 黑腰三趾鹑

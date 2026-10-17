@@ -12,7 +12,7 @@ names:
   es: Toco Angoleño
   fr: Calao de Monteiro
   de: Fleckentoko
-  pt: monteiro's hornbill
+  pt: ''
   ru: Намибийский токо
   ja: シロボシコサイチョウ
   nl: Monteirotok

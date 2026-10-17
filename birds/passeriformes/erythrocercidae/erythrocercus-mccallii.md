@@ -12,7 +12,7 @@ names:
   es: Monarca Capirrufo
   fr: Érythrocerque à tête rousse
   de: Rotkappen-Spreizschwanz
-  pt: chestnut-capped flycatcher
+  pt: ''
   ru: Серая рыжехвостка
   ja: クリガシラヒメヒタキ
   nl: Roodkopelfmonarch

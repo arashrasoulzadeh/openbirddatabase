@@ -12,7 +12,7 @@ names:
   es: Torillo de Sumba
   fr: Turnix de Sumba
   de: Sumbalaufhühnchen
-  pt: sumba buttonquail
+  pt: ''
   ru: Сумбанская трёхперстка
   ja: スンバミフウズラ
   zh: 松巴三趾鹑

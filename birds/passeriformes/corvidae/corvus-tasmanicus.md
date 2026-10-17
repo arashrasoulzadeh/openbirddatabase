@@ -12,7 +12,7 @@ names:
   es: Cuervo de Tasmania
   fr: Corbeau de Tasmanie
   de: Tasmankrähe
-  pt: forest raven
+  pt: ''
   ru: Тасманийский ворон
   ja: モリガラス
   zh: 林渡鴉

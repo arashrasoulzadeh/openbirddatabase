@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 8756.0
 names:
   scientific: Otus pembaensis
-  fa: nan
+  fa: ''
   en: Pemba Scops Owl
   es: Autillo de Pemba
   fr: Petit-duc de Pemba
@@ -15,7 +15,7 @@ names:
   pt: pemba scops-owl
   ru: Пембанская сплюшка
   ja: ペンバオオコノハズク
-  zh: Pemba Scops Owl
+  zh: ''
   nl: Pembadwergooruil
   pl: syczek ognisty
   tr: Pemba Adası İshakkuşu

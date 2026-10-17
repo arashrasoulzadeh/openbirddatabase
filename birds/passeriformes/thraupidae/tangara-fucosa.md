@@ -12,7 +12,7 @@ names:
   es: Tangara Nuquiverde
   fr: Calliste à nuque verte
   de: Grünnackentangare
-  pt: green-naped tanager
+  pt: ''
   ru: Жемчужногрудая танагра
   ja: アオエリフウキンチョウ
   zh: 绿枕靓唐纳雀

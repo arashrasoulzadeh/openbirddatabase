@@ -12,7 +12,7 @@ names:
   es: Lanisoma Andina
   fr: Lanisome de Buckley
   de: Gelbkehlbekarde
-  pt: andean laniisoma
+  pt: ''
   ru: Андская ланисома
   nl: Andesklauwiercotinga
   pl: łuskowik andyjski

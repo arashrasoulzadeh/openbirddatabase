@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35063.0
 names:
   scientific: Tangara brasiliensis
-  fa: nan
+  fa: ''
   en: White-bellied Tanager
   es: Tangara Ventriblanca
   fr: Calliste à ventre blanc

@@ -13,7 +13,7 @@ names:
   de: Perlbronzemännchen
   pt: white-spotted munia
   ru: Пятнистая амадина
-  zh: White-spotted Mannikin
+  zh: ''
   nl: Stippelbronzemannetje
   pl: mniszka perlista
   tr: İncili Munya

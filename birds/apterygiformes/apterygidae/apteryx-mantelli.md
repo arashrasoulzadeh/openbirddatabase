@@ -12,7 +12,7 @@ names:
   es: Kiwi Norteño
   fr: Kiwi de Mantell
   de: Nordstreifenkiwi
-  pt: north island brown kiwi
+  pt: ''
   ru: Северный киви
   ja: ホクトウキーウィ
   zh: 北岛褐几维鸟

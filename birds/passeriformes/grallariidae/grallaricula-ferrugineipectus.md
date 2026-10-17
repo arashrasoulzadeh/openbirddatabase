@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14348.0
 names:
   scientific: Grallaricula ferrugineipectus
-  fa: nan
+  fa: ''
   en: Rusty-breasted Antpitta
   es: Ponchito Pechicastaño Sureño
   fr: Grallaire à poitrine rousse
   de: Rostbrust-Ameisenpitta
-  pt: rusty-breasted antpitta
+  pt: ''
   ru: Ржавогрудая питтуля
   ja: チャムネヒメジアリドリ
   nl: Roestborstdwergmierpitta

@@ -12,7 +12,7 @@ names:
   es: Agachadiza Andina
   fr: Bécassine des paramos
   de: Andenbekassine
-  pt: jameson's snipe
+  pt: ''
   ru: Андский бекас
   ja: アンデスタシギ
   nl: Andessnip

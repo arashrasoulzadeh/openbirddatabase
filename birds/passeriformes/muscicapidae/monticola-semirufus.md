@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29664.0
 names:
   scientific: Monticola semirufus
-  fa: nan
+  fa: ''
   en: White-winged Cliff Chat
   es: Roquero Abisinio
   fr: Monticole demi-roux
@@ -15,7 +15,7 @@ names:
   pt: white-winged cliff-chat
   ru: Белокрылый камнелаз
   ja: ハジロガケヒタキ
-  zh: White-winged Cliff Chat
+  zh: ''
   nl: Witvleugelkliftapuit
   pl: smolarek białoskrzydły
   tr: Ak Kanatlı İncirkızılı

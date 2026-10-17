@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29425.0
 names:
   scientific: Myophonus insularis
-  fa: nan
+  fa: ''
   en: Taiwan Whistling Thrush
   es: Arrenga de Formosa
   fr: Arrenga de Taïwan

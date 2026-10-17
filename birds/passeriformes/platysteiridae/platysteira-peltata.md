@@ -12,7 +12,7 @@ names:
   es: Batis Carunculado Gorjinegro
   fr: Pririt à gorge noire
   de: Schwarzkehl-Lappenschnäpper
-  pt: black-throated wattle-eye
+  pt: ''
   ru: Черногорлая серёжкоглазка
   ja: クビワメガネヒタキ
   nl: Zwartkeellelvliegenvanger

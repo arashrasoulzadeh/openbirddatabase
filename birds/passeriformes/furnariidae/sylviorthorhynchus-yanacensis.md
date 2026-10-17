@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15315.0
 names:
   scientific: Sylviorthorhynchus yanacensis
-  fa: nan
+  fa: ''
   en: Tawny Tit-Spinetail
   es: Tijeral de Yánac
   fr: Synallaxe fauve
   de: Roststirn-Meisenschlüpfer
-  pt: tawny tit-spinetail
+  pt: ''
   ru: Бурая колючехвостка
   ja: チャイロエナガカマドドリ
   nl: Bruine meesstekelstaart

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3241.0
 names:
   scientific: Coccyzus minor
-  fa: nan
+  fa: ''
   en: Mangrove Cuckoo
   es: Cuclillo de Manglar
   fr: Coulicou manioc

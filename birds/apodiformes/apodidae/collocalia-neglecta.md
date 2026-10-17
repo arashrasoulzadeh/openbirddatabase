@@ -12,7 +12,7 @@ names:
   es: Salangana Pardusca
   fr: Salangane négligée
   de: Sundasalangane
-  pt: drab swiftlet
+  pt: ''
   ru: Тиморская салангана
   ja: スナイロアナツバメ
   nl: Vale dwergsalangaan

@@ -12,7 +12,7 @@ names:
   es: Prinia Gorjiblanca
   fr: Apalis à gorge blanche
   de: Weißkehl-Feinsänger
-  pt: white-chinned prinia
+  pt: ''
   ru: Белогорлая приния
   ja: ノドジロハウチワドリ
   nl: Witkeelprinia

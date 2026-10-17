@@ -12,7 +12,7 @@ names:
   es: Akikiki de Kauai
   fr: Akikiki de Kauai
   de: Weißkehl-Kleidervogel
-  pt: akikiki
+  pt: ''
   ru: Акикики
   ja: カウアイキバシリ
   zh: 考岛悬木雀

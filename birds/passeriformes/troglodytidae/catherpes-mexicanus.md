@@ -12,7 +12,7 @@ names:
   es: Cucarachero Barranquero
   fr: Troglodyte des canyons
   de: Schluchtenzaunkönig
-  pt: canyon wren
+  pt: ''
   ru: Каньонный крапивник
   ja: ムナジロミソサザイ
   zh: 墨西哥鹪鹩

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35100.0
 names:
   scientific: Tangara rufigenis
-  fa: nan
+  fa: ''
   en: Rufous-cheeked Tanager
   es: Tangara Carirrufa
   fr: Calliste à joues rousses
   de: Rotwangentangare
-  pt: rufous-cheeked tanager
+  pt: ''
   ru: Рыжещёкая танагра
   ja: ホオアカフウキンチョウ
   zh: 棕颊唐加拉雀

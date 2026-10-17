@@ -12,7 +12,7 @@ names:
   es: Egotelo Barrado
   fr: Égothèle de Bennett
   de: Bennetthöhlenschwalm
-  pt: barred owlet-nightjar
+  pt: ''
   ru: Полосатый совиный козодой
   ja: シロエリズクヨタカ
   nl: Bennettdwergnachtzwaluw

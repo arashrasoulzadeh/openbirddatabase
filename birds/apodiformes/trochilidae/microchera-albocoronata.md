@@ -12,7 +12,7 @@ names:
   es: Colibrí Coroniblanco
   fr: Colibri à coiffe blanche
   de: Schneekappenkolibri
-  pt: snowcap
+  pt: ''
   ru: Белошапочный колибри
   ja: ワタボウシハチドリ
   zh: 白顶蜂鸟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5056.0
 names:
   scientific: Saucerottia hoffmanni
-  fa: nan
+  fa: ''
   en: Blue-vented Hummingbird
   es: Amazilia Azul
   fr: Ariane de Hoffmann
   de: Blausteißamazilie
-  pt: blue-vented hummingbird
+  pt: ''
   nl: Costaricaanse blauwbuikamazilia
   pl: szmaragdzik stalowy
   tr: Mavi Etekli Kolibri

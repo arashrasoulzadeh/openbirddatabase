@@ -12,7 +12,7 @@ names:
   es: Mango Pechiverde
   fr: Mango de Prévost
   de: Grünbrust-Mangokolibri
-  pt: green-breasted mango
+  pt: ''
   ru: Зеленогрудый манго
   ja: アオムネマンゴーハチドリ
   zh: 绿胸芒果蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Picamaderos de Guayaquil
   fr: Pic de Guayaquil
   de: Guayaquilspecht
-  pt: guayaquil woodpecker
+  pt: ''
   ru: Гуаякильский дятел
   ja: コシジマエボシゲラ
   zh: 厄瓜多啄木鸟

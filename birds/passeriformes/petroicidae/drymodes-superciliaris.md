@@ -15,7 +15,7 @@ names:
   pt: northern scrub-robin
   ru: Белолицая дриопа
   ja: キタメグロヤブコマ
-  zh: Northern Scrub Robin
+  zh: ''
   nl: Cape-Yorkfluiter
   pl: krzakor jasnolicy
   tr: Kuzeyli Çalı Bülbülü

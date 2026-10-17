@@ -12,7 +12,7 @@ names:
   es: Cuco Malgache
   fr: Coucou de Madagascar
   de: Madagaskarkuckuck
-  pt: madagascar cuckoo
+  pt: ''
   ru: Мадагаскарская кукушка
   ja: マダガスカルホトトギス
   zh: 馬島杜鵑

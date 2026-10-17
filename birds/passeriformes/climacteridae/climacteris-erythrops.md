@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17585.0
 names:
   scientific: Climacteris erythrops
-  fa: nan
+  fa: ''
   en: Red-browed Treecreeper
   es: Corretroncos Cejirrojo
   fr: Échelet à sourcils roux
   de: Rostbrauen-Baumrutscher
-  pt: red-browed treecreeper
+  pt: ''
   ru: Краснобровая ложнопищуха
   ja: ベニマユキノボリ
   nl: Roodbrauwkruiper

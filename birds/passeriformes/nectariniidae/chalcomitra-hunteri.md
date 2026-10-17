@@ -12,7 +12,7 @@ names:
   es: Suimanga de Hunter
   fr: Souimanga de Hunter
   de: Purpurbürzel-Glanzköpfchen
-  pt: hunter's sunbird
+  pt: ''
   ru: Огненогрудая нектарница
   ja: ノドグロヒムネタイヨウチョウ
   nl: Hunterhoningzuiger

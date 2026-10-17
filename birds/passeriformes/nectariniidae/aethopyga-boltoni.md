@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30590.0
 names:
   scientific: Aethopyga boltoni
-  fa: nan
+  fa: ''
   en: Apo Sunbird
   es: Suimanga de Bolton
   fr: Souimanga de Bolton
   de: Mindanaonektarvogel
-  pt: apo sunbird
+  pt: ''
   ru: Минданаосская нектарница
   ja: アポタイヨウチョウ
   nl: Apohoningzuiger

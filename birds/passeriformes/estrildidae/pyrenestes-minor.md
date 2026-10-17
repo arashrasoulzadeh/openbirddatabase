@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquigorda Chica
   fr: Petit Pyréneste
   de: Kleinastrild
-  pt: lesser seedcracker
+  pt: ''
   ru: Пурпурный толстоклюв
   ja: コタネワリキンパラ
   zh: 小裂籽雀

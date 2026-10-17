@@ -12,7 +12,7 @@ names:
   es: Pito Sultán Grande
   fr: Pic de Tickell
   de: Goldmantel-Sultanspecht
-  pt: greater flameback
+  pt: ''
   ru: Большой дятел-султан
   ja: オオコガネゲラ
   zh: 大金背啄木鸟

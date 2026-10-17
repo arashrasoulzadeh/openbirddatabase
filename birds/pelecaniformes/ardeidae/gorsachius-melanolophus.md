@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7620.0
 names:
   scientific: Gorsachius melanolophus
-  fa: nan
+  fa: ''
   en: Malayan Night Heron
   es: Martinete Malayo
   fr: Bihoreau malais
   de: Wellenreiher
-  pt: malayan night heron
+  pt: ''
   ru: Чернохохлая кваква
   ja: ズグロミゾゴイ
   zh: 黑冠鳽

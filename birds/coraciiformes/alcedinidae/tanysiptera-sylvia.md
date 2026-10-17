@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10287.0
 names:
   scientific: Tanysiptera sylvia
-  fa: nan
+  fa: ''
   en: Buff-breasted Paradise Kingfisher
   es: Alción Colilargo Silvia
   fr: Martin-chasseur sylvain
@@ -15,7 +15,7 @@ names:
   pt: buff-breasted paradise-kingfisher
   ru: Белохвостый райский зимородок
   ja: シラオラケットカワセミ
-  zh: Buff-breasted Paradise Kingfisher
+  zh: ''
   nl: Australische vlagstaartijsvogel
   pl: sterowik białogrzbiety
   tr: Turuncu Göğüslü Cennet Yalıçapkını

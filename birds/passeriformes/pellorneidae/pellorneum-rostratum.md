@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26268.0
 names:
   scientific: Pellorneum rostratum
-  fa: nan
+  fa: ''
   en: White-chested Babbler
   es: Tordina Pechiblanca
   fr: Akalat à front noir
   de: Mangrovemausdrossling
-  pt: white-chested babbler
+  pt: ''
   ru: Мангровый усатоклюв
   ja: ムナジロムジチメドリ
   nl: Mangrovemuistimalia

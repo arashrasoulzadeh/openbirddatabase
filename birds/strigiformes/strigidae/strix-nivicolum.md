@@ -12,7 +12,7 @@ names:
   es: Cárabo del Himalaya
   fr: Chouette de l'Himalaya
   de: Himalajakauz
-  pt: himalayan owl
+  pt: ''
   ru: Гималайская неясыть
   ja: ヒマラヤフクロウ
   zh: 灰林鸮

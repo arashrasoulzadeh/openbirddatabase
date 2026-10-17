@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24993.0
 names:
   scientific: Phylloscopus ogilviegranti
-  fa: nan
+  fa: ''
   en: Kloss's Leaf Warbler
   es: Mosquitero de Ogilvie-Grant
   fr: Pouillot d'Ogilvie-Grant
   de: Ogilvielaubsänger
-  pt: kloss's leaf warbler
+  pt: ''
   ru: Индокитайская пеночка
   ja: ミナミオジロムシクイ
   zh: 白斑尾柳莺

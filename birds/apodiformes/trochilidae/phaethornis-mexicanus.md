@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4279.0
 names:
   scientific: Phaethornis mexicanus
-  fa: nan
+  fa: ''
   en: Mexican Hermit
   es: Ermitaño Mexicano
   fr: Ermite de Hartert
   de: Mexikoschattenkolibri
-  pt: mexican hermit
+  pt: ''
   ru: Мексиканский колибри-отшельник
   ja: メキシコユミハチドリ
   zh: 墨西哥隐蜂鸟

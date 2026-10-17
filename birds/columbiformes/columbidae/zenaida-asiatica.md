@@ -12,7 +12,7 @@ names:
   es: Zenaida Aliblanca
   fr: Tourterelle à ailes blanches
   de: Weißflügeltaube
-  pt: white-winged dove
+  pt: ''
   ru: Белокрылая горлица
   ja: ハジロバト
   zh: 白翅哀鴿

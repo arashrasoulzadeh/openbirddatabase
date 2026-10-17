@@ -12,7 +12,7 @@ names:
   es: Cacique Verdioscuro
   fr: Cassique olivâtre
   de: Grünschnabel-Stirnvogel
-  pt: dusky-green oropendola
+  pt: ''
   ru: Оливковая оропендола
   ja: オリーブミドリオオツリスドリ
   nl: Groensnaveloropendola

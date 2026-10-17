@@ -12,7 +12,7 @@ names:
   es: Tijeral Colinegro
   fr: Synallaxe mésange
   de: Zimtspiegel-Meisenschlüpfer
-  pt: plain-mantled tit-spinetail
+  pt: ''
   ru: Синицевая колючехвостка
   ja: エナガカマドドリ
   nl: Staartmeesstekelstaart

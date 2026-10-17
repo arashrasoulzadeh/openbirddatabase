@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17368.0
 names:
   scientific: Pitangus sulphuratus
-  fa: nan
+  fa: ''
   en: Great Kiskadee
   es: Bienteveo Común
   fr: Tyran quiquivi

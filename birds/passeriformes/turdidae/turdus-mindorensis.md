@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28513.0
 names:
   scientific: Turdus mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Island Thrush
   es: Mirlo de Mindoro
   fr: Merle de Mindoro
   pt: mindoro island-thrush
   ja: ミンドロハイガシラツグミ
-  zh: Mindoro Island Thrush
+  zh: ''
   nl: Mindoromerel
   pl: drozd mindorski
   tr: Mindoro Ardıcı

@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 26547.0
 names:
   scientific: Actinodura strigula
-  fa: nan
+  fa: ''
   en: Bar-throated Minla
   es: Minla Colicastaña
   fr: Actinodure à gorge striée

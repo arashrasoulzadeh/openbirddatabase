@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16669.0
 names:
   scientific: Myiopagis subplacens
-  fa: nan
+  fa: ''
   en: Pacific Elaenia
   es: Fiofío del Pacífico
   fr: Élénie striée
   de: Weißbrauen-Olivtyrann
-  pt: pacific elaenia
+  pt: ''
   ru: Эквадорская эления
   ja: ニシキクイタダキモドキ
   nl: Ecuadoraanse elenia

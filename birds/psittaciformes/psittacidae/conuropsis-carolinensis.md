@@ -12,7 +12,7 @@ names:
   es: Cotorra de Carolina
   fr: Conure de Caroline
   de: Carolinasittich
-  pt: carolina parakeet
+  pt: ''
   ru: Каролинский попугай
   ja: カロライナインコ
   zh: 卡羅萊納長尾鸚鵡

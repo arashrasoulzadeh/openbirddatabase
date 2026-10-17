@@ -12,7 +12,7 @@ names:
   es: Miná Religioso
   fr: Mainate religieux
   de: Bergbeo
-  pt: common hill myna
+  pt: ''
   ru: Священная майна
   ja: キュウカンチョウ
   zh: 鹩哥

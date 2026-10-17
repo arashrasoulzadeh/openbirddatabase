@@ -12,7 +12,7 @@ names:
   es: Collalba de Botta
   fr: Traquet de Botta
   de: Ockerbrust-Steinschmätzer
-  pt: buff-breasted wheatear
+  pt: ''
   ru: Рыжегрудая каменка
   ja: チャムネサバクヒタキ
   zh: 红胸鵖

@@ -15,7 +15,7 @@ names:
   pt: black-capped woodland-warbler
   ru: Черношапочная пеночка
   ja: ズグロハヤシムシクイ
-  zh: Black-capped Woodland Warbler
+  zh: ''
   nl: Herbertboszanger
   pl: świstunka czarnołbista
   tr: Kara Tepeli Çıvgın

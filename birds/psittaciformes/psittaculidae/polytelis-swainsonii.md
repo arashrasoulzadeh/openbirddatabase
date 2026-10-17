@@ -12,7 +12,7 @@ names:
   es: Perico Soberbio
   fr: Perruche de Barraband
   de: Schildsittich
-  pt: superb parrot
+  pt: ''
   ru: Роскошный попугай
   ja: ミカヅキインコ
   nl: Barrabandparkiet

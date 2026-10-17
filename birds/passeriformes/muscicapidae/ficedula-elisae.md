@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29499.0
 names:
   scientific: Ficedula elisae
-  fa: nan
+  fa: ''
   en: Green-backed Flycatcher
   es: Papamoscas de Elise
   fr: Gobemouche à dos vert
   de: Grünrückenschnäpper
-  pt: green-backed flycatcher
+  pt: ''
   ru: Китайская мухоловка
   ja: キムネビタキ
   zh: 绿背姬鹟

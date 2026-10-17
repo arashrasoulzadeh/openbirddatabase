@@ -12,7 +12,7 @@ names:
   es: Ceniciento de Sri Lanka
   fr: Téphrodorne de Ceylan
   de: Ceylonvanga
-  pt: sri lanka woodshrike
+  pt: ''
   ru: Ланкийский личинколов
   ja: スリランカサンショウクイ
   nl: Ceylonese rupsklauwier

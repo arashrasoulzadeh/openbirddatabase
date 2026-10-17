@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 12730.0
 names:
   scientific: Loriculus pusillus
-  fa: nan
+  fa: ''
   en: Yellow-throated Hanging Parrot
   es: Lorículo de Java
   fr: Coryllis à gorge jaune
@@ -15,7 +15,7 @@ names:
   pt: yellow-throated hanging-parrot
   ru: Желтогорлый лорикулюс
   ja: キムネサトウチョウ
-  zh: Yellow-throated Hanging Parrot
+  zh: ''
   nl: Dwergvleermuisparkiet
   pl: zwisogłówka żółtogardła
   tr: Sarı Göğüslü Cennet Papağanı

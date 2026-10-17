@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2617.0
 names:
   scientific: Alectroenas sganzini
-  fa: nan
+  fa: ''
   en: Comoro Blue Pigeon
   es: Paloma Azul de las Comoras
   fr: Founingo des Comores
@@ -15,7 +15,7 @@ names:
   pt: comoro blue-pigeon
   ru: Коморский гривун
   ja: コモロルリバト
-  zh: Comoro Blue Pigeon
+  zh: ''
   nl: Comorenblauwduif
   pl: koralczyk srebrnogłowy
   tr: Komor Mavi Güvercini

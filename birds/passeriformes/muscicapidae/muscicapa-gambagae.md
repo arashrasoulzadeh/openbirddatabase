@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28829.0
 names:
   scientific: Muscicapa gambagae
-  fa: nan
+  fa: ''
   en: Gambaga Flycatcher
   es: Papamoscas de Gambaga
   fr: Gobemouche de Gambaga
   de: Gambagaschnäpper
-  pt: gambaga flycatcher
+  pt: ''
   ru: Гамбагская мухоловка
   ja: アフリカムナフヒタキ
   nl: Gambagavliegenvanger

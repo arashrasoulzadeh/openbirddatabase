@@ -12,7 +12,7 @@ names:
   es: Cuervo de Palawan
   fr: Corneille de Palawan
   de: Palawankrähe
-  pt: palawan crow
+  pt: ''
   ja: パラワンガラス
   nl: Palawankraai
   pl: wrona palawańska

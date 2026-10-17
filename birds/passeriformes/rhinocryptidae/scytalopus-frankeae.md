@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14419.0
 names:
   scientific: Scytalopus frankeae
-  fa: nan
+  fa: ''
   en: Jalca Tapaculo
   es: Churrín de la Jalca
   fr: Mérulaxe de Franke
   de: Nebelwaldtapaculo
-  pt: jalca tapaculo
+  pt: ''
   ru: Горный тапакуло
   ja: ジャルカオタテドリ
   nl: Jalcatapaculo

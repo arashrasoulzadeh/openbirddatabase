@@ -12,7 +12,7 @@ names:
   es: Carbonero Variado
   fr: Mésange variée
   de: Buntmeise
-  pt: varied tit
+  pt: ''
   ru: Тиссовая синица
   ja: ヤマガラ
   zh: 杂色山雀

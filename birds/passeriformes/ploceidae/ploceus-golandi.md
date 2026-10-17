@@ -12,7 +12,7 @@ names:
   es: Tejedor de Clarke
   fr: Tisserin de Clarke
   de: Golandweber
-  pt: kilifi weaver
+  pt: ''
   ru: Береговой ткач
   ja: キムネクロハタオリ
   nl: Kilifiwever

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14259.0
 names:
   scientific: Grallaria hypoleuca
-  fa: nan
+  fa: ''
   en: White-bellied Antpitta
   es: Tororoí Ventriblanco
   fr: Grallaire à ventre blanc
   de: Blassbauch-Ameisenpitta
-  pt: white-bellied antpitta
+  pt: ''
   ru: Светлобрюхая питтовая муравьеловка
   ja: シロハラクリセジアリドリ
   nl: Roodrugmierpitta

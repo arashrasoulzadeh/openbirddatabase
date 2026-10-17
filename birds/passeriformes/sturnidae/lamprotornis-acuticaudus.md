@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27975.0
 names:
   scientific: Lamprotornis acuticaudus
-  fa: nan
+  fa: ''
   en: Sharp-tailed Starling
   es: Estornino Colifino
   fr: Choucador à queue fine
   de: Keilschwanz-Glanzstar
-  pt: sharp-tailed starling
+  pt: ''
   ru: Клинохвостый спрео
   ja: クサビオテリムク
   nl: Pijlstaartglansspreeuw

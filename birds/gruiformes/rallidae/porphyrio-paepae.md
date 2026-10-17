@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 5517.0
 names:
   scientific: Porphyrio paepae
-  fa: nan
+  fa: ''
   en: Marquesan Swamphen
   es: Calamón de las Marquesas
   fr: Talève des Marquises
   de: Marquesaspurpurhuhn
-  pt: marquesan swamphen
+  pt: ''
   ru: Маркизская султанка
   ja: マルキーズセイケイ
   zh: 馬克薩斯水雞

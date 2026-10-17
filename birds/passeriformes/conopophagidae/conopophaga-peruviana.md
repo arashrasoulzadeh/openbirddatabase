@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14175.0
 names:
   scientific: Conopophaga peruviana
-  fa: nan
+  fa: ''
   en: Ash-throated Gnateater
   es: Jejenero Peruano
   fr: Conopophage du Pérou

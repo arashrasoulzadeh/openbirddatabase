@@ -12,7 +12,7 @@ names:
   es: Monarca Satinado
   fr: Monarque satiné
   de: Seidenmonarch
-  pt: satin flycatcher
+  pt: ''
   ru: Шёлковая миагра
   ja: ビロードヒラハシ
   zh: 缎辉阔嘴鹟

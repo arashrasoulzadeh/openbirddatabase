@@ -12,7 +12,7 @@ names:
   es: Busardo Colirrojo
   fr: Buse à queue rousse
   de: Rotschwanzbussard
-  pt: red-tailed hawk
+  pt: ''
   ru: Краснохвостый канюк
   ja: アカオノスリ
   zh: 紅尾鵟

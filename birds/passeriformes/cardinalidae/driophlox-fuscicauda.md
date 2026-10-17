@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34480.0
 names:
   scientific: Driophlox fuscicauda
-  fa: nan
+  fa: ''
   en: Red-throated Ant Tanager
   es: Habia Gorjirroja
   fr: Habia à gorge rouge
@@ -15,7 +15,7 @@ names:
   pt: red-throated ant-tanager
   ru: Джунглевая хабия
   ja: ノドアカアリフウキンチョウ
-  zh: Red-throated Ant Tanager
+  zh: ''
   nl: Roodkeelmiertangare
   pl: habia czerwonogardła
   tr: Kırmızı Gerdanlı Karınca Kardinali

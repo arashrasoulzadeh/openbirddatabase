@@ -12,7 +12,7 @@ names:
   es: Prinia Coronirrufa
   fr: Prinia à calotte rousse
   de: Rostscheitelprinie
-  pt: rufous-crowned prinia
+  pt: ''
   nl: Roestkruinprinia
   pl: prinia rdzawogłowa
   tr: Kızıl Başlı Prinya

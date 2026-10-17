@@ -12,7 +12,7 @@ names:
   es: Cortarramas Peruano
   fr: Rara du Pérou
   de: Graubrust-Pflanzenmäher
-  pt: peruvian plantcutter
+  pt: ''
   ru: Перуанский листорез
   ja: ペルークサカリドリ
   nl: Peruaanse zaagvink

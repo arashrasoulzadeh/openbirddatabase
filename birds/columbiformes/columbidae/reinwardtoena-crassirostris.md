@@ -12,7 +12,7 @@ names:
   es: Paloma Rabuda Crestada
   fr: Phasianelle huppée
   de: Helmtaube
-  pt: crested cuckoo-dove
+  pt: ''
   ru: Хохлатая длиннохвостая горлица
   ja: カンムリマイヒメバト
   nl: Gekuifde langstaartduif

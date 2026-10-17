@@ -12,7 +12,7 @@ names:
   es: Pardillo Somalí
   fr: Linotte de Warsangli
   de: Somalihänfling
-  pt: warsangli linnet
+  pt: ''
   ru: Сомалийская коноплянка
   ja: ハイイロヒワ
   nl: Somalische kneu

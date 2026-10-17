@@ -15,7 +15,7 @@ names:
   pt: peruvian diving-petrel
   ru: Перуанский ныряющий буревестник
   ja: ペルーモグリウミツバメ
-  zh: Peruvian Diving Petrel
+  zh: ''
   nl: Chileens alkstormvogeltje
   pl: nurzec peruwiański
   tr: Garnot Dalıcı Fırtınakuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15342.0
 names:
   scientific: Leptasthenura setaria
-  fa: nan
+  fa: ''
   en: Araucaria Tit-Spinetail
   es: Tijeral de las Araucarias
   fr: Synallaxe à filets

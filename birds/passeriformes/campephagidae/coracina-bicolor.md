@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18666.0
 names:
   scientific: Coracina bicolor
-  fa: nan
+  fa: ''
   en: Pied Cuckooshrike
   es: Oruguero Bicolor
   fr: Échenilleur bicolore
   de: Zweifarben-Raupenfänger
-  pt: pied cuckooshrike
+  pt: ''
   ru: Пегий воронец
   ja: シロハラオオサンショウクイ
   zh: 双色鹃鵙

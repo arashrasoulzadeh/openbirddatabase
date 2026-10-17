@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Nicéforo
   fr: Troglodyte de Niceforo
   de: Santanderzaunkönig
-  pt: niceforo's wren
+  pt: ''
   ru: Кустарниковый крапивник
   ja: オリーブマユミソサザイ
   nl: Niceforowinterkoning

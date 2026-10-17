@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Piquilargo
   fr: Moqueur à long bec
   de: Langschnabel-Spottdrossel
-  pt: long-billed thrasher
+  pt: ''
   ru: Длинноклювый пересмешник
   ja: ハシナガツグミモドキ
   nl: Langsnavelspotlijster

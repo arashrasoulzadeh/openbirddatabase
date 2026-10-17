@@ -12,7 +12,7 @@ names:
   es: Momoto Capiazul
   fr: Motmot à tête bleue
   de: Blauscheitelmotmot
-  pt: blue-capped motmot
+  pt: ''
   ru: Северный момот
   ja: アオズキンハチクイモドキ
   nl: Blauwkruinmotmot

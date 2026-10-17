@@ -12,7 +12,7 @@ names:
   es: Pato de Jungla
   fr: Nette à ailes blanches
   de: Weißflügelente
-  pt: white-winged duck
+  pt: ''
   ru: Белокрылая утка
   ja: ハジロモリガモ
   zh: 白翅栖鸭

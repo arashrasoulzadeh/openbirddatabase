@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Californiano
   fr: Moqueur de Californie
   de: Kalifornienspottdrossel
-  pt: california thrasher
+  pt: ''
   ru: Калифорнийский пересмешник
   ja: オオムジツグミモドキ
   nl: Californische spotlijster

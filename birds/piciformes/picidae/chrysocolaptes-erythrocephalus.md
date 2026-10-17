@@ -12,7 +12,7 @@ names:
   es: Pito Sultán Cabecirrojo
   fr: Pic à face rouge
   de: Rotkopf-Sultanspecht
-  pt: red-headed flameback
+  pt: ''
   ru: Красноголовый дятел-султан
   ja: ズアカコガネゲラ
   nl: Roodkopgoudrugspecht

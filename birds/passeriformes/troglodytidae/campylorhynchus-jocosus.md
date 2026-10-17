@@ -12,7 +12,7 @@ names:
   es: Cucarachero del Balsas
   fr: Troglodyte de Boucard
   de: Harlekinzaunkönig
-  pt: boucard's wren
+  pt: ''
   ru: Пятнистогрудый крапивник
   ja: ホシサボテンミソサザイ
   zh: 波氏曲嘴鹪鹩

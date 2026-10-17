@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 2321.0
 names:
   scientific: Geotrygon leucometopia
-  fa: nan
+  fa: ''
   en: White-fronted Quail-Dove
   es: Paloma Perdiz Dominicana
   fr: Colombe d'Hispaniola
   de: Hispaniolataube
-  pt: white-fronted quail-dove
+  pt: ''
   ru: Белолобая перепелиная горлица
   ja: シロビタイウズラバト
   zh: 白额鹑鸠

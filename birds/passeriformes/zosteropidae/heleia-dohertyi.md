@@ -15,7 +15,7 @@ names:
   pt: dark-crowned heleia
   ru: Хохлатая элейя
   ja: カンムリメジロ
-  zh: Crested White-eye
+  zh: ''
   nl: Kuifbrilvogel
   pl: okularowiec czubaty
   tr: Tepeli Gözlükçü

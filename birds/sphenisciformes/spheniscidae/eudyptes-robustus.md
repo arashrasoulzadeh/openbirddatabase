@@ -12,7 +12,7 @@ names:
   es: Pingüino de las Snares
   fr: Gorfou des Snares
   de: Snaresinselpinguin
-  pt: snares penguin
+  pt: ''
   ru: Снарский пингвин
   ja: ハシブトペンギン
   zh: 誘惑企鵝

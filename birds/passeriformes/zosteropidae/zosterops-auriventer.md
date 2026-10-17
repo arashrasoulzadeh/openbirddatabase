@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25792.0
 names:
   scientific: Zosterops auriventer
-  fa: nan
+  fa: ''
   en: Hume's White-eye
   es: Anteojitos de Hume
   fr: Zostérops de Hume
   de: Humebrillenvogel
-  pt: hume's white-eye
+  pt: ''
   ru: Малаккская белоглазка
   zh: 休氏繡眼
   nl: Maleise brilvogel

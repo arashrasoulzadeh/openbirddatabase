@@ -11,7 +11,7 @@ names:
   en: Yellow-throated Fiji Whistler
   es: Silbador de Fiyi Gorjigualdo
   fr: Siffleur de Waya
-  pt: yellow-throated fiji whistler
+  pt: ''
   nl: Geelkeelfijifluiter
   pl: fletówka żółtoczelna
   tr: Sarı Boğazlı Fiji Islıkçısı

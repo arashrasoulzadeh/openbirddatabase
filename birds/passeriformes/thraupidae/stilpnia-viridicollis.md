@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34996.0
 names:
   scientific: Stilpnia viridicollis
-  fa: nan
+  fa: ''
   en: Silver-backed Tanager
   es: Tangara Dorsiplateada
   fr: Calliste argenté
@@ -15,7 +15,7 @@ names:
   pt: silvery tanager
   ru: Серебристая танагра
   ja: ギンイロフウキンチョウ
-  zh: Silver-backed Tanager
+  zh: ''
   nl: Zilvertangare
   pl: tangarka siwogrzbieta
   tr: Gümüşi Tangara

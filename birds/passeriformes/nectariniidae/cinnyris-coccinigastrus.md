@@ -12,7 +12,7 @@ names:
   es: Suimanga Espléndido
   fr: Souimanga éclatant
   de: Vielfarben-Nektarvogel
-  pt: splendid sunbird
+  pt: ''
   ru: Роскошная нектарница
   ja: ニシキタイヨウチョウ
   nl: Roodbuikhoningzuiger

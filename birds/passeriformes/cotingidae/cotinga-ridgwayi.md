@@ -12,7 +12,7 @@ names:
   es: Cotinga Turquesa
   fr: Cotinga turquoise
   de: Ridgwaykotinga
-  pt: turquoise cotinga
+  pt: ''
   ru: Сапфировая котинга
   ja: コスタリカルリカザリドリ
   zh: 綠松石傘鳥

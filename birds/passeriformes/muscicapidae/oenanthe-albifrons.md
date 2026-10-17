@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29813.0
 names:
   scientific: Oenanthe albifrons
-  fa: nan
+  fa: ''
   en: White-fronted Black Chat
   es: Collalba Frentiblanca
   fr: Traquet à front blanc
@@ -15,7 +15,7 @@ names:
   pt: white-fronted black-chat
   ru: Белолобый муравьеед
   ja: シロビタイアリヒタキ
-  zh: White-fronted Black Chat
+  zh: ''
   nl: Witkapmiertapuit
   pl: białorzytka białoczelna
   tr: Ak Alınlı Kuyrukkakan

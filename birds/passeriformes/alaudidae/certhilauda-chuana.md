@@ -12,7 +12,7 @@ names:
   es: Alondra Chuana
   fr: Alouette à ongles courts
   de: Akazien-Langschnabellerche
-  pt: short-clawed lark
+  pt: ''
   ru: Короткокоготный жаворонок
   ja: コウゲンヤブヒバリ
   zh: 短爪歌百靈

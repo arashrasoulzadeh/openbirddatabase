@@ -7,13 +7,13 @@ iucn_status: NT
 taxon_order: 2766.0
 names:
   scientific: Ducula oenothorax
-  fa: nan
+  fa: ''
   en: Enggano Imperial Pigeon
   es: Dúcula de Enggano
   fr: Carpophage d'Enggano
   de: Engganofruchttaube
   pt: enggano imperial-pigeon
-  zh: Enggano Imperial Pigeon
+  zh: ''
   nl: Engganomuskaatduif
   pl: muszkatela szaroszyja
   tr: Enggano Has Güvercini

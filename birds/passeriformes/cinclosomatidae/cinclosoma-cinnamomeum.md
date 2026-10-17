@@ -12,7 +12,7 @@ names:
   es: Zordala Canela
   fr: Cinclosome cannelle
   de: Zimtflöter
-  pt: cinnamon quail-thrush
+  pt: ''
   ru: Коричневый флейтист
   ja: ニッケイウズラチメドリ
   zh: 桂红鹑鸫

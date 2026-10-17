@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27720.0
 names:
   scientific: Aplonis zelandica
-  fa: nan
+  fa: ''
   en: Rusty-winged Starling
   es: Estornino de Melanesia
   fr: Stourne mélanésien
   de: Rostflügelstar
-  pt: rusty-winged starling
+  pt: ''
   ru: Ржавокрылый скворец
   ja: ニューヘブリデスカラスモドキ
   nl: Vanuatupurperspreeuw

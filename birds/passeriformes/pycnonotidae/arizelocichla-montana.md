@@ -12,7 +12,7 @@ names:
   es: Bulbul Montano
   fr: Bulbul concolore
   de: Einfarbbülbül
-  pt: cameroon mountain greenbul
+  pt: ''
   ru: Бамендский бюльбюль
   ja: ミヤマアオヒヨドリ
   nl: Bergbuulbuul

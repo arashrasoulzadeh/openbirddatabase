@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34889.0
 names:
   scientific: Anisognathus somptuosus
-  fa: nan
+  fa: ''
   en: Blue-winged Mountain Tanager
   es: Tangara Aliazul
   fr: Tangara somptueux
   de: Blauflügel-Bergtangare
-  pt: blue-winged mountain tanager
+  pt: ''
   ru: Желтошапочная танагра
   ja: アオバネヤマフウキンチョウ
   nl: Blauwvleugelbergtangare

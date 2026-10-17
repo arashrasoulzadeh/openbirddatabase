@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9131.0
 names:
   scientific: Athene roseoaxillaris
-  fa: nan
+  fa: ''
   en: Makira Owl
   es: Nínox de San Cristóbal
   fr: Chevêche de Makira
   de: Makirakauz
-  pt: makira owl
+  pt: ''
   nl: Makira-uil
   pl: pójdźka cynamonowa
   tr: Makira Bubuğu

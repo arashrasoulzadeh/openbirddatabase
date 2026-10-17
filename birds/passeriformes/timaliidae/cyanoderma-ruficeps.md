@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25976.0
 names:
   scientific: Cyanoderma ruficeps
-  fa: nan
+  fa: ''
   en: Rufous-capped Babbler
   es: Timalí Coronirrojo
   fr: Timalie de Blyth
   de: Rotkopf-Buschtimalie
-  pt: rufous-capped babbler
+  pt: ''
   ru: Рыжешапочная тимелия
   ja: ズアカチメドリ
   zh: 红头穗鹛

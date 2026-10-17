@@ -12,7 +12,7 @@ names:
   es: Anteojitos Embridado
   fr: Zostérops bridé
   de: Guambrillenvogel
-  pt: bridled white-eye
+  pt: ''
   ru: Белоглазка-говорушка
   ja: マリアナメジロ
   zh: 馬里亞納繡眼

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12568.0
 names:
   scientific: Hypocharmosyna placentis
-  fa: nan
+  fa: ''
   en: Red-flanked Lorikeet
   es: Lori Flanquirrojo
   fr: Lori coquet
   de: Schönlori
-  pt: red-flanked lorikeet
+  pt: ''
   ru: Краснобокий лорикет
   ja: アオミミインコ
   nl: Prachtlori

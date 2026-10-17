@@ -15,7 +15,7 @@ names:
   pt: red-crested malkoha
   ru: Краснохохлая малкоа
   ja: カンムリバンケンモドキ
-  zh: Rough-crested Malkoha
+  zh: ''
   nl: Roodbrauwmalkoha
   pl: kukuła czerwonoczuba
   tr: Tepeli Malkoha

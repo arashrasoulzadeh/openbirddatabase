@@ -15,7 +15,7 @@ names:
   pt: española ground-finch
   ru: Опунциевый галапагосский вьюрок
   ja: オオサボテンフィンチ
-  zh: Espanola Cactus Finch
+  zh: ''
   nl: Españolagrondvink
   pl: darwinka grubodzioba
   tr: Büyük Kaktüs İspinozu

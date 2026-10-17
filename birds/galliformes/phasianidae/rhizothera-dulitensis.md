@@ -12,7 +12,7 @@ names:
   es: Perdiz del Dulit
   fr: Perdrix du Dulit
   de: Dulitwachtel
-  pt: dulit partridge
+  pt: ''
   ru: Белобрюхая куропатка
   ja: サラワクハシナガシャコ
   zh: 白腹长嘴山鹑

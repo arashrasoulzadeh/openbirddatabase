@@ -12,7 +12,7 @@ names:
   es: Suimanga Real
   fr: Souimanga royal
   de: Königsnektarvogel
-  pt: regal sunbird
+  pt: ''
   ru: Королевская нектарница
   ja: シリアカゴシキタイヨウチョウ
   nl: Koningshoningzuiger

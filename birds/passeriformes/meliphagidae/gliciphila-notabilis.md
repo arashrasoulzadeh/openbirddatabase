@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18051.0
 names:
   scientific: Gliciphila notabilis
-  fa: nan
+  fa: ''
   en: White-bellied Honeyeater
   es: Mielero Ventriblanco
   fr: Méliphage des Nouvelles-Hébrides
@@ -15,7 +15,7 @@ names:
   pt: vanuatu honeyeater
   ru: Белобрюхий медовник
   ja: ニューヘブリデスミツスイ
-  zh: White-bellied Honeyeater
+  zh: ''
   nl: Witbuikhoningeter
   pl: miodaczek białobrzuchy
   tr: Vanuatu Balkuşu

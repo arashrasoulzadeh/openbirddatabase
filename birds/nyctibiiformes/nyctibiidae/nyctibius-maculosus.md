@@ -12,7 +12,7 @@ names:
   es: Nictibio Andino
   fr: Ibijau des Andes
   de: Andentagschläfer
-  pt: andean potoo
+  pt: ''
   ru: Андский уратао
   ja: アンデスタチヨタカ
   nl: Andesreuzennachtzwaluw

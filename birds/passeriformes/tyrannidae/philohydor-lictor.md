@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17365.0
 names:
   scientific: Philohydor lictor
-  fa: nan
+  fa: ''
   en: Lesser Kiskadee
   es: Bienteveo Chico
   fr: Tyran licteur

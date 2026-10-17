@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19381.0
 names:
   scientific: Pachycephala inornata
-  fa: nan
+  fa: ''
   en: Gilbert's Whistler
   es: Silbador de Gilbert
   fr: Siffleur de Gilbert
   de: Schwarzzügel-Dickkopf
-  pt: gilbert's whistler
+  pt: ''
   ru: Красногорлый свистун
   ja: メグロモズヒタキ
   zh: 吉氏啸鹟

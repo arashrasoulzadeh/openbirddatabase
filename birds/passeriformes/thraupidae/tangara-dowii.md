@@ -12,7 +12,7 @@ names:
   es: Tangara Caripinta
   fr: Calliste pailleté
   de: Glanzfleckentangare
-  pt: spangle-cheeked tanager
+  pt: ''
   ru: Жемчужнощёкая танагра
   ja: サザナミフウキンチョウ
   zh: 斑颊靓唐纳雀

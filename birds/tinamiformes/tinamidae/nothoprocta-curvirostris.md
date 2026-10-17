@@ -12,7 +12,7 @@ names:
   es: Tinamú del Páramo
   fr: Tinamou curvirostre
   de: Krummschnabeltinamu
-  pt: curve-billed tinamou
+  pt: ''
   ru: Кривоклювый тинаму
   ja: ハシボソシギダチョウ
   zh: 弯嘴斑䳍

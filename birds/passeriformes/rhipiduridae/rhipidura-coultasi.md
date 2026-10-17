@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 20235.0
 names:
   scientific: Rhipidura coultasi
-  fa: nan
+  fa: ''
   en: White-gorgeted Fantail
   es: Abanico de Coultas
   fr: Rhipidure de Coultas
   de: Mayrfächerschwanz
-  pt: white-gorgeted fantail
+  pt: ''
   nl: Witbefwaaierstaart
   pl: wachlarzówka żałobna
   tr: Benekli Göğüslü Katmerkuyruk

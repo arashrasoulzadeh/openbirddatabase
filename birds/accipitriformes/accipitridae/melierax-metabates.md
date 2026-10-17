@@ -15,7 +15,7 @@ names:
   pt: açor-cantador
   ru: Тёмный певчий ястреб
   ja: ウタオオタカ
-  zh: Dark Chanting Goshawk
+  zh: ''
   nl: Donkere zanghavik
   pl: jastrzębiak ciemny
   tr: Ötücü Çakır

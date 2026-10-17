@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5854.0
 names:
   scientific: Thinornis placidus
-  fa: nan
+  fa: ''
   en: Long-billed Plover
   es: Chorlitejo Piquilargo
   fr: Pluvier à long bec
   de: Ussuriregenpfeifer
-  pt: long-billed plover
+  pt: ''
   ru: Уссурийский зуёк
   ja: イカルチドリ
   zh: 长嘴剑鸻

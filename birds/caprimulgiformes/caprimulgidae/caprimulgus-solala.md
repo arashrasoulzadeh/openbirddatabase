@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Nechisar
   fr: Engoulevent du Nechisar
   de: Nechisarnachtschwalbe
-  pt: nechisar nightjar
+  pt: ''
   ru: Нечисарский козодой
   ja: エチオピアヨタカ
   zh: 内基萨夜鹰

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12341.0
 names:
   scientific: Psittinus abbotti
-  fa: nan
+  fa: ''
   en: Simeulue Parrot
   es: Lorito de Simeulue
   fr: Perruche d'Abbott
   de: Grünbürzelpapagei
-  pt: simeulue parrot
+  pt: ''
   zh: 錫米盧鸚鵡
   nl: Simeuluepapegaai
   pl: modrorzytka zielonogrzbieta

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34761.0
 names:
   scientific: Loriotus luctuosus
-  fa: nan
+  fa: ''
   en: White-shouldered Tanager
   es: Tangara Luctuosa
   fr: Tangara à épaulettes blanches

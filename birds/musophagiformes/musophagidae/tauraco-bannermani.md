@@ -12,7 +12,7 @@ names:
   es: Turaco de Bannerman
   fr: Touraco doré
   de: Bannermanturako
-  pt: bannerman's turaco
+  pt: ''
   ru: Камерунский турако
   ja: ニシアカガシラエボシドリ
   nl: Bannermantoerako

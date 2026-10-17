@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17856.0
 names:
   scientific: Bolemoreus frenatus
-  fa: nan
+  fa: ''
   en: Bridled Honeyeater
   es: Mielero Embridado
   fr: Méliphage bridé
   de: Buntschnabel-Honigfresser
-  pt: bridled honeyeater
+  pt: ''
   ru: Пестроклювый медосос
   ja: キスジミツスイ
   nl: Bontbekhoningeter

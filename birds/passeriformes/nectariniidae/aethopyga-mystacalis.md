@@ -12,7 +12,7 @@ names:
   es: Suimanga de Java
   fr: Souimanga écarlate
   de: Scharlachnektarvogel
-  pt: javan sunbird
+  pt: ''
   ru: Ослепительная нектарница
   ja: ヒイロタイヨウチョウ
   nl: Scharlaken honingzuiger

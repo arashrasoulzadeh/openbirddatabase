@@ -12,7 +12,7 @@ names:
   es: Vireo Aliamarillo
   fr: Viréo à ailes jaunes
   de: Gelbbindenvireo
-  pt: yellow-winged vireo
+  pt: ''
   ru: Желтополосый виреон
   ja: キバネモズモドキ
   nl: Geelbandvireo

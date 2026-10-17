@@ -12,7 +12,7 @@ names:
   es: Pijuí Oscuro
   fr: Synallaxe obscur
   de: Dunkeldickichtschlüpfer
-  pt: dusky spinetail
+  pt: ''
   ru: Траурная иглохвостка
   ja: アカボウシカマドドリ
   nl: Rouwstekelstaart

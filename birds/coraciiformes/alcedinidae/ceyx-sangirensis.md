@@ -7,13 +7,13 @@ iucn_status: CR
 taxon_order: 9977.0
 names:
   scientific: Ceyx sangirensis
-  fa: nan
+  fa: ''
   en: Sangihe Dwarf Kingfisher
   es: Martín Pigmeo de las Sangihe
   fr: Martin-pêcheur des Sangihe
   de: Talaudzwergfischer
   pt: sangihe dwarf-kingfisher
-  zh: Sangihe Dwarf Kingfisher
+  zh: ''
   nl: Sangirdwergijsvogel
   pl: zimorodek fioletoworzytny
   tr: Sangihe Küçük Yalıçapkını

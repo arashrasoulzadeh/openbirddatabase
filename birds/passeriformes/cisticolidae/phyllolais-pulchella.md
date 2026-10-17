@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23049.0
 names:
   scientific: Phyllolais pulchella
-  fa: nan
+  fa: ''
   en: Buff-bellied Warbler
   es: Prinia Ventripálida
   fr: Phyllolaïs à ventre fauve
   de: Akaziensänger
-  pt: buff-bellied warbler
+  pt: ''
   ru: Акациевый апалис
   ja: アカシアムシクイ
   nl: Acacia-apalis

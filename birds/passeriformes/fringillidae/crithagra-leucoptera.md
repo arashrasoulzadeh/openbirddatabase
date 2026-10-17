@@ -12,7 +12,7 @@ names:
   es: Serín de las Proteas
   fr: Serin bifascié
   de: Proteagirlitz
-  pt: protea canary
+  pt: ''
   ru: Белокрылый канареечник
   ja: ハジロカナリア
   nl: Witbandkanarie

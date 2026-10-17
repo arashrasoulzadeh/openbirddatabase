@@ -12,7 +12,7 @@ names:
   es: Zarzalero de Formosa
   fr: Locustelle de Taïwan
   de: Taiwanschwirl
-  pt: taiwan bush warbler
+  pt: ''
   ru: Тайваньская пестрогрудка
   ja: タイワンオウギセッカ
   zh: 台湾短翅蝗莺

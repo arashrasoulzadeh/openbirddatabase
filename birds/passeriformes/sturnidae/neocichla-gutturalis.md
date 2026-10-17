@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27929.0
 names:
   scientific: Neocichla gutturalis
-  fa: nan
+  fa: ''
   en: Babbling Starling
   es: Estornino Gorjinegro
   fr: Choucador à gorge noire
   de: Weißflügelstar
-  pt: babbling starling
+  pt: ''
   ru: Белокрылый скворец
   ja: ハジロムクドリ
   nl: Witvleugelspreeuw

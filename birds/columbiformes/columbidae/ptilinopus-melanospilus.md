@@ -15,7 +15,7 @@ names:
   pt: black-naped fruit-dove
   ru: Чернозатылочный фруктовый голубь
   ja: カルカヤバト
-  zh: Black-naped Fruit Dove
+  zh: ''
   nl: Zwartnekjufferduif
   pl: owocożer żółtobrody
   tr: Kara Enseli Meyve Kumrusu

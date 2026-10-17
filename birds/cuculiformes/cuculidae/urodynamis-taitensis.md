@@ -12,10 +12,10 @@ names:
   es: Koel Colilargo
   fr: Coucou de Nouvelle-Zélande
   de: Langschwanzkoel
-  pt: long-tailed koel
+  pt: ''
   ru: Длиннохвостый коэль
   ja: キジカッコウ
-  zh: Pacific Long-tailed Cuckoo
+  zh: ''
   nl: Langstaartkoël
   pl: kukiel długosterny
   tr: Uzun Kuyruklu Koel

@@ -12,7 +12,7 @@ names:
   es: Batarito Bicolor
   fr: Batara occidental
   de: Anthrazitameisenvogel
-  pt: bicolored antvireo
+  pt: ''
   ru: Западный батарито
   ja: ニショクアリモズ
   zh: 西蚁鵙

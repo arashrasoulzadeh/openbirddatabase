@@ -15,7 +15,7 @@ names:
   pt: flightless steamer-duck
   ru: Магелланова утка-пароход
   ja: オオフナガモ
-  zh: Fuegian Steamer Duck
+  zh: ''
   nl: Reuzenbooteend
   pl: torpedówka magellańska
   tr: Macellan Forsa Ördeği

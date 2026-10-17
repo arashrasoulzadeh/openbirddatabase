@@ -12,7 +12,7 @@ names:
   es: Cuitlacoche Ocelado
   fr: Moqueur ocellé
   de: Tropfenspottdrossel
-  pt: ocellated thrasher
+  pt: ''
   ru: Глазчатый пересмешник
   ja: クロボシツグミモドキ
   nl: Gevlekte spotlijster

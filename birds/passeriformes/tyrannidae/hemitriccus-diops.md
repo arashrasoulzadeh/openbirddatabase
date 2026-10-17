@@ -15,7 +15,7 @@ names:
   pt: olho-falso
   ru: Бамбуковый тоди-тиранн
   ja: コビトドリモドキ
-  zh: Drab-breasted Bamboo Tyrant
+  zh: ''
   nl: Teugelvlektodietiran
   pl: smukłodziobek szaropierśny
   tr: Gri Karınlı Bambu Tiranı

@@ -12,7 +12,7 @@ names:
   es: Pitajo Pechirrufo
   fr: Pitajo à poitrine rousse
   de: Orangebrust-Schmätzertyrann
-  pt: rufous-breasted chat-tyrant
+  pt: ''
   ru: Рыжегрудая тираннита
   ja: ムネアカヒタキタイランチョウ
   nl: Roodborsttapuittiran

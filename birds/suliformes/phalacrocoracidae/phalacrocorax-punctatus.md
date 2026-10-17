@@ -12,7 +12,7 @@ names:
   es: Cormorán Moteado
   fr: Cormoran moucheté
   de: Tüpfelscharbe
-  pt: spotted shag
+  pt: ''
   ru: Пятнистый баклан
   ja: ゴマダラウ
   nl: Gevlekte aalscholver

@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Flanquirrojo
   fr: Eurylaime à flancs roux
   de: Weißbinden-Breitrachen
-  pt: rufous-sided broadbill
+  pt: ''
   ru: Черноголовый ширококлюв
   ja: ワキアカアフリカヒロハシ
   zh: 棕胁阔嘴鸟

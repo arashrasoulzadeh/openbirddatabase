@@ -12,7 +12,7 @@ names:
   es: Gerigón Pechipardo
   fr: Gérygone à cou brun
   de: Baumfarngerygone
-  pt: brown-breasted gerygone
+  pt: ''
   ru: Бурогрудая геригона
   ja: タカネセンニョムシクイ
   nl: Boomvarenmangrovezanger

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31981.0
 names:
   scientific: Chlorophonia musica
-  fa: nan
+  fa: ''
   en: Hispaniolan Euphonia
   es: Eufonia de la Española
   fr: Organiste louis-d'or
   de: Hispaniolaorganist
-  pt: hispaniolan euphonia
+  pt: ''
   ru: Синешапочная эуфония
   zh: 藍頭歌雀
   nl: Hispaniolaorganist

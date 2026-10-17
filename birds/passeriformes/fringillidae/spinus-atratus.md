@@ -12,7 +12,7 @@ names:
   es: Jilguero Negro
   fr: Tarin noir
   de: Schwarzzeisig
-  pt: black siskin
+  pt: ''
   ru: Чёрный чиж
   ja: クロヒワ
   nl: Zwarte sijs

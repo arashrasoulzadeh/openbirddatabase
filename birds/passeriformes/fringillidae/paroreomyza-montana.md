@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 32107.0
 names:
   scientific: Paroreomyza montana
-  fa: nan
+  fa: ''
   en: Maui Alauahio
   es: Alauahio de Maui
   fr: Alauahio de Maui
   de: Mauiastläufer
-  pt: maui alauahio
+  pt: ''
   ru: Жёлтая алауахио
   ja: マウイキバシリ
   nl: Mauikruiper

@@ -12,7 +12,7 @@ names:
   es: Churrín Patudo
   fr: Mérulaxe à grands pieds
   de: Großfußtapaculo
-  pt: large-footed tapaculo
+  pt: ''
   ru: Большеногий тапакуло
   ja: オオアシオタテドリ
   nl: Grootpoottapaculo

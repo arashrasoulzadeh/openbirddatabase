@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3745.0
 names:
   scientific: Phyllaemulor bracteatus
-  fa: nan
+  fa: ''
   en: Rufous Potoo
   es: Nictibio Rufo
   fr: Ibijau roux

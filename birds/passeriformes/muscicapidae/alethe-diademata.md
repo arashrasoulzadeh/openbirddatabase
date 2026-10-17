@@ -12,7 +12,7 @@ names:
   es: Alete Diademado
   fr: Alèthe à huppe rousse
   de: Diadembraunschwanz
-  pt: white-tailed alethe
+  pt: ''
   ru: Диадемовая алета
   ja: アカズキンムジヒタキ
   nl: Diadeemalethe

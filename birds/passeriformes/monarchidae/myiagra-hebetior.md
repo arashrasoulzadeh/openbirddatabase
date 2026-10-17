@@ -12,7 +12,7 @@ names:
   es: Monarca Apagado
   fr: Monarque terne
   de: Mussaumonarch
-  pt: mussau flycatcher
+  pt: ''
   ru: Беличий монарх
   ja: ムサウススイロヒラハシ
   nl: Sint-Matthiasmonarch

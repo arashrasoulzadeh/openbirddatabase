@@ -7,12 +7,12 @@ iucn_status: EW
 taxon_order: 10171.0
 names:
   scientific: Todiramphus cinnamominus
-  fa: nan
+  fa: ''
   en: Guam Kingfisher
   es: Alción de Guam
   fr: Martin-chasseur cannelle
   de: Zimtliest
-  pt: guam kingfisher
+  pt: ''
   ru: Гуамская альциона
   ja: ズアカショウビン
   zh: 桂紅翡翠

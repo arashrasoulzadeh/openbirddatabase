@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25752.0
 names:
   scientific: Zosterops dehaani
-  fa: nan
+  fa: ''
   en: Morotai White-eye
   es: Anteojitos de Morotai
   fr: Zostérops de Morotai
   de: Morotaibrillenvogel
-  pt: morotai white-eye
+  pt: ''
   ru: Моротайская белоглазка
   nl: Morotaibrilvogel
   pl: szlarnik ciemnouchy

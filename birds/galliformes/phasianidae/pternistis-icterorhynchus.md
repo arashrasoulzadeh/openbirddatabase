@@ -12,7 +12,7 @@ names:
   es: Francolín Piquigualdo
   fr: Francolin à bec jaune
   de: Gelbschnabelfrankolin
-  pt: heuglin's spurfowl
+  pt: ''
   ru: Желтоклювый франколин
   ja: キバシシャコ
   nl: Geelsnavelfrankolijn

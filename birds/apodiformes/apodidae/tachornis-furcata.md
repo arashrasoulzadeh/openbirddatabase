@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4191.0
 names:
   scientific: Tachornis furcata
-  fa: nan
+  fa: ''
   en: Pygmy Palm Swift
   es: Vencejillo Venezolano
   fr: Martinet pygmée
   de: Däumlingssegler
-  pt: pygmy palm swift
+  pt: ''
   ru: Карликовый стрижик
   ja: ヒメエンビアマツバメ
   nl: Dwerggierzwaluw

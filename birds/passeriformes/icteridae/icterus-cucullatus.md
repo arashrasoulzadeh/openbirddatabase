@@ -12,7 +12,7 @@ names:
   es: Turpial Enmascarado
   fr: Oriole masqué
   de: Maskentrupial
-  pt: hooded oriole
+  pt: ''
   ru: Масковый трупиал
   ja: ムナグロムクドリモドキ
   zh: 巾冠拟鹂

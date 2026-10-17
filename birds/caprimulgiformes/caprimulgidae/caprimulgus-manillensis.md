@@ -12,7 +12,7 @@ names:
   es: Chotacabras Filipino
   fr: Engoulevent des Philippines
   de: Philippinennachtschwalbe
-  pt: philippine nightjar
+  pt: ''
   ru: Филиппинский козодой
   ja: フィリピンオビロヨタカ
   zh: 菲律宾夜鹰

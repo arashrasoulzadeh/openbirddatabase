@@ -15,7 +15,7 @@ names:
   pt: ornate fruit-dove
   ru: Украшенный фруктовый голубь
   ja: ゴシキヒメアオバト
-  zh: Ornate Fruit Dove
+  zh: ''
   nl: Ornaatjufferduif
   pl: owocożer ozdobny
   tr: Süslü Meyve Kumrusu

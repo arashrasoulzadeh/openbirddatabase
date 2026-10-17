@@ -12,7 +12,7 @@ names:
   es: Filemón Chillón
   fr: Polochion criard
   de: Lärmlederkopf
-  pt: noisy friarbird
+  pt: ''
   ru: Крикливый кожеголов
   ja: ズグロハゲミツスイ
   zh: 噪吮蜜鳥

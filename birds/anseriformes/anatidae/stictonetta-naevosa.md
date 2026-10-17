@@ -12,7 +12,7 @@ names:
   es: Pato Pecoso
   fr: Stictonette tachetée
   de: Affengans
-  pt: freckled duck
+  pt: ''
   ru: Крапчатая утка
   ja: ゴマフガモ
   zh: 澳洲斑鴨

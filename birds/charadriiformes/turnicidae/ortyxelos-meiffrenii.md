@@ -12,7 +12,7 @@ names:
   es: Torillo Alaudino
   fr: Turnix à ailes blanches
   de: Lerchenlaufhühnchen
-  pt: quail-plover
+  pt: ''
   ru: Жаворонковая трёхперстка
   ja: ハジロミフウズラ
   zh: 白翅三趾鹑

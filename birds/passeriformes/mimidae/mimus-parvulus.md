@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28085.0
 names:
   scientific: Mimus parvulus
-  fa: nan
+  fa: ''
   en: Galapagos Mockingbird
   es: Sinsonte de Galápagos
   fr: Moqueur des Galapagos
   de: Galápagosspottdrossel
-  pt: galapagos mockingbird
+  pt: ''
   ru: Галапагосский пересмешник
   ja: ガラパゴスマネシツグミ
   zh: 加岛嘲鸫

@@ -12,7 +12,7 @@ names:
   es: Tejedor Dorsipinto
   fr: Tisserin à cape jaune
   de: Gelbkappenweber
-  pt: yellow-capped weaver
+  pt: ''
   ru: Желтошапочный ткач
   ja: セスジハタオリ
   nl: Geelkruinwever

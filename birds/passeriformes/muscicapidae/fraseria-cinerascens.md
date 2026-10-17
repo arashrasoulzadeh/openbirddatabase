@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28885.0
 names:
   scientific: Fraseria cinerascens
-  fa: nan
+  fa: ''
   en: White-browed Forest Flycatcher
   es: Papamoscas Cejiblanco
   fr: Gobemouche à sourcils blancs
@@ -15,7 +15,7 @@ names:
   pt: white-browed forest-flycatcher
   ru: Белобровая мухоловка
   ja: マミジロモリヒタキ
-  zh: White-browed Forest Flycatcher
+  zh: ''
   nl: Witbrauwbosvliegenvanger
   pl: mucharka białobrewa
   tr: Ak Kaşlı Sinekkapan

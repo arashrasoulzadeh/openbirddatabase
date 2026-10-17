@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32899.0
 names:
   scientific: Chlorospingus tacarcunae
-  fa: nan
+  fa: ''
   en: Tacarcuna Chlorospingus
   es: Clorospingo del Tacarcuna
   fr: Chlorospin du Tacarcuna
   de: Tacarcuna-Grünammer
-  pt: tacarcuna chlorospingus
+  pt: ''
   ru: Такаркунский дромник
   ja: メジロヤブフウキンチョウ
   nl: Tacarcunatangare

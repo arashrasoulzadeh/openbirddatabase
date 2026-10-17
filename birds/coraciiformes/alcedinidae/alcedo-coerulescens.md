@@ -15,7 +15,7 @@ names:
   pt: small blue kingfisher
   ru: Бело-голубой зимородок
   ja: ヒメアオカワセミ
-  zh: Cerulean Kingfisher
+  zh: ''
   nl: Turkooisijsvogel
   pl: zimorodek błękitny
   tr: Gökçe Yalıçapkını

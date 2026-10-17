@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 34217.0
 names:
   scientific: Setophaga chrysoparia
-  fa: nan
+  fa: ''
   en: Golden-cheeked Warbler
   es: Reinita Caridorada
   fr: Paruline à dos noir
   de: Goldwangen-Waldsänger
-  pt: golden-cheeked warbler
+  pt: ''
   ru: Золотощёкая древесница
   ja: キホオアメリカムシクイ
   nl: Geelwangzanger

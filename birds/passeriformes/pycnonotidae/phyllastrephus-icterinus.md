@@ -12,7 +12,7 @@ names:
   es: Bulbul Icterino
   fr: Bulbul ictérin
   de: Zeisigbülbül
-  pt: icterine greenbul
+  pt: ''
   ru: Жёлто-зелёный бюльбюль
   ja: コキバラオリーブヒヨドリ
   nl: Kleine loofbuulbuul

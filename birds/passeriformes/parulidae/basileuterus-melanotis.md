@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34268.0
 names:
   scientific: Basileuterus melanotis
-  fa: nan
+  fa: ''
   en: Black-eared Warbler
   es: Reinita Tica
   fr: Paruline du Costa Rica
@@ -15,7 +15,7 @@ names:
   pt: costa rican warbler
   ru: Черноухая корольковка
   ja: コスタリカアメリカムシクイ
-  zh: Black-eared Warbler
+  zh: ''
   nl: Costaricaanse zanger
   pl: koronówka kostarykańska
   tr: Kosta Rika Ötleğeni

@@ -12,7 +12,7 @@ names:
   es: Cuervo Australiano
   fr: Corbeau d'Australie
   de: Neuhollandkrähe
-  pt: australian raven
+  pt: ''
   ru: Австралийский ворон
   ja: ミナミワタリガラス
   zh: 澳洲渡鴉

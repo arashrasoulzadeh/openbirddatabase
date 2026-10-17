@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5734.0
 names:
   scientific: Hesperoburhinus bistriatus
-  fa: nan
+  fa: ''
   en: Double-striped Thick-knee
   es: Alcaraván Venezolano
   fr: Oedicnème bistrié

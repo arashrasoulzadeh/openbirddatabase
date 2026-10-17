@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12579.0
 names:
   scientific: Charmosyna josefinae
-  fa: nan
+  fa: ''
   en: Josephine's Lorikeet
   es: Lori de Josefina
   fr: Lori de Josephine
   de: Josefinenlori
-  pt: josephine's lorikeet
+  pt: ''
   ru: Лорикет Жозефины
   ja: コウゴウインコ
   nl: Josefinalori

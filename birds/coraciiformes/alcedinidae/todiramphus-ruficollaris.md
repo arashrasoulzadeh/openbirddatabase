@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10132.0
 names:
   scientific: Todiramphus ruficollaris
-  fa: nan
+  fa: ''
   en: Mewing Kingfisher
   es: Alción de Isla Mangaia
   fr: Martin-chasseur de Mangaia
   de: Mangaialiest
-  pt: mewing kingfisher
+  pt: ''
   ru: Рыжешейная альциона
   ja: マンガイアショウビン
   zh: 庫克島翡翠

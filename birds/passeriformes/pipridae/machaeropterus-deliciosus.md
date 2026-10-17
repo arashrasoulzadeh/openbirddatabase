@@ -12,7 +12,7 @@ names:
   es: Saltarín Alitorcido
   fr: Manakin à ailes blanches
   de: Keulenschwingenpipra
-  pt: club-winged manakin
+  pt: ''
   ru: Рыжая пипра
   ja: キガタヒメマイコドリ
   zh: 梅花翅侏儒鳥

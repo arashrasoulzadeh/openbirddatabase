@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24937.0
 names:
   scientific: Phylloscopus tenellipes
-  fa: nan
+  fa: ''
   en: Pale-legged Leaf Warbler
   es: Mosquitero Paticlaro
   fr: Pouillot à pattes claires
   de: Ussurilaubsänger
-  pt: pale-legged leaf warbler
+  pt: ''
   ru: Бледноногая пеночка
   ja: アムールムシクイ
   zh: 淡脚柳莺

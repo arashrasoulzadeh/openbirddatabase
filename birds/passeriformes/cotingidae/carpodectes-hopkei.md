@@ -12,7 +12,7 @@ names:
   es: Cotinga Blanco
   fr: Cotinga blanc
   de: Schwarzfleckenkotinga
-  pt: black-tipped cotinga
+  pt: ''
   ru: Белая котинга
   ja: クロボシユキカザリドリ
   zh: 南美白伞鸟

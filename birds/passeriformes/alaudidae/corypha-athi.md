@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 22573.0
 names:
   scientific: Corypha athi
-  fa: nan
+  fa: ''
   en: Sentinel Lark
   es: Alondra Centinela
   fr: Alouette de Hartert
-  pt: sentinel lark
+  pt: ''
   nl: Schildwachtleeuwerik
   pl: skowroniec masajski
   tr: Gözcü Toygar

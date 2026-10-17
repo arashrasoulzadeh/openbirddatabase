@@ -15,7 +15,7 @@ names:
   pt: hispaniolan palm-crow
   ru: Пальмовый ворон
   ja: ヤシガラス
-  zh: Hispaniolan Palm Crow
+  zh: ''
   nl: Hispaniolapalmkraai
   pl: wrona haitańska
   tr: Espanola Palmiye Kargası

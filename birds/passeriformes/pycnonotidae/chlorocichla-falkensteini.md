@@ -15,7 +15,7 @@ names:
   pt: yellow-necked greenbul
   ru: Желтошейный бюльбюль
   ja: キノドアオヒヨドリ
-  zh: Falkenstein's Greenbul
+  zh: ''
   nl: Geelnekbuulbuul
   pl: żółtobrzuch czerwonooki
   tr: Falkenstein Yaprakbülbülü

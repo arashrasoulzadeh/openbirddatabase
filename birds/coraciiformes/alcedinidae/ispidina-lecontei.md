@@ -12,7 +12,7 @@ names:
   es: Martín Pigmeo del Congo
   fr: Martin-pêcheur à tête rousse
   de: Braunkopf-Zwergfischer
-  pt: african dwarf kingfisher
+  pt: ''
   ru: Карликовый зимородок
   ja: コビトカワセミ
   nl: Bruinkopdwergijsvogel

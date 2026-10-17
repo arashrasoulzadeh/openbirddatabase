@@ -12,7 +12,7 @@ names:
   es: Hormiguero Bicolor
   fr: Fourmilier bicolore
   de: Weißkehl-Ameisenvogel
-  pt: bicolored antbird
+  pt: ''
   ru: Двухцветная гологлазка
   ja: ニショクアリドリ
   nl: Tweekleurige miervogel

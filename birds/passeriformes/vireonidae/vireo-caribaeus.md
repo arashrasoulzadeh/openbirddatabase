@@ -12,7 +12,7 @@ names:
   es: Vireo de San Andrés
   fr: Viréo de San Andrés
   de: San-Andrés-Vireo
-  pt: san andres vireo
+  pt: ''
   ru: Карибский виреон
   ja: セントアンドルーモズモドキ
   nl: San-Andresvireo

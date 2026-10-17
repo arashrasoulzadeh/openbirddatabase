@@ -12,7 +12,7 @@ names:
   es: Bisbita de la Puna
   fr: Pipit de la puna
   de: Punapieper
-  pt: puna pipit
+  pt: ''
   ru: Конёк пуны
   nl: Punapieper
   pl: świergotek Taczanowskiego

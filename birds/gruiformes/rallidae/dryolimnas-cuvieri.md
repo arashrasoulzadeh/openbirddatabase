@@ -12,7 +12,7 @@ names:
   es: Rascón de Cuvier
   fr: Râle de Cuvier
   de: Cuvierralle
-  pt: white-throated rail
+  pt: ''
   ru: Белогорлый пастушок
   ja: ノドジロクイナ
   zh: 白喉秧雞

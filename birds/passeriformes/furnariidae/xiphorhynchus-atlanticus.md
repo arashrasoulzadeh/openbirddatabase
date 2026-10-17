@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 14795.0
 names:
   scientific: Xiphorhynchus atlanticus
-  fa: nan
+  fa: ''
   en: Ceara Woodcreeper
   es: Trepatroncos Atlántico
   fr: Grimpar atlantique

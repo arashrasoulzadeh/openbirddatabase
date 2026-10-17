@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16289.0
 names:
   scientific: Pseudotriccus ruficeps
-  fa: nan
+  fa: ''
   en: Rufous-headed Pygmy Tyrant
   es: Tiranuelo Cabecirrojo
   fr: Tyranneau à tête rousse
@@ -15,7 +15,7 @@ names:
   pt: rufous-headed pygmy-tyrant
   ru: Рыжеголовый каполего
   ja: ズアカハエトリモドキ
-  zh: Rufous-headed Pygmy Tyrant
+  zh: ''
   nl: Roodkopdwergtiran
   pl: tyranulek rudogłowy
   tr: Kırmızı Başlı Küçük Tiran

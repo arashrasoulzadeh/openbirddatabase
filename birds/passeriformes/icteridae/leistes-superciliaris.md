@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33595.0
 names:
   scientific: Leistes superciliaris
-  fa: nan
+  fa: ''
   en: White-browed Meadowlark
   es: Loica Cejiblanca
   fr: Sturnelle à sourcils blancs

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18880.0
 names:
   scientific: Edolisoma ceramense
-  fa: nan
+  fa: ''
   en: Pale Cicadabird
   es: Oruguero Pálido
   fr: Échenilleur pâle
   de: Blassraupenfänger
-  pt: pale cicadabird
+  pt: ''
   ru: Серамский цикадник
   ja: ウスズミオオサンショウクイ
   zh: 灰白鹃鵙

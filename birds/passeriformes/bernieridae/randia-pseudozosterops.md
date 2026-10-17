@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23979.0
 names:
   scientific: Randia pseudozosterops
-  fa: nan
+  fa: ''
   en: Rand's Warbler
   es: Randia Malgache
   fr: Randie malgache
   de: Randmadagaskarsänger
-  pt: rand's warbler
+  pt: ''
   ru: Рандия
   ja: マダガスカルムシクイ
   nl: Randzanger

@@ -15,7 +15,7 @@ names:
   pt: black-breasted munia
   ru: Черногрудая муния
   ja: ミヤマキンパラ
-  zh: Black-breasted Mannikin
+  zh: ''
   nl: Baliemrietvink
   pl: mniszka czarnopierśna
   tr: Kara Göğüslü Munya

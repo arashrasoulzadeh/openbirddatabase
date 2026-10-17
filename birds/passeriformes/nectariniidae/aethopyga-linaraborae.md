@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 30586.0
 names:
   scientific: Aethopyga linaraborae
-  fa: nan
+  fa: ''
   en: Lina's Sunbird
   es: Suimanga de Lina
   fr: Souimanga de Lina
   de: Linanektarvogel
-  pt: lina's sunbird
+  pt: ''
   ru: Острохвостая нектарница
   ja: リーナタイヨウチョウ
   nl: Linahoningzuiger

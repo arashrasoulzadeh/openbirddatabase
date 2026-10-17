@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14186.0
 names:
   scientific: Conopophaga ardesiaca
-  fa: nan
+  fa: ''
   en: Slaty Gnateater
   es: Jejenero Pizarroso
   fr: Conopophage ardoisé
   de: Schiefermückenfresser
-  pt: slaty gnateater
+  pt: ''
   ru: Сизый гусеницеед
   ja: ネズミアリサザイ
   nl: Leigrijze muggeneter

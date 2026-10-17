@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25245.0
 names:
   scientific: Aegithalos niveogularis
-  fa: nan
+  fa: ''
   en: White-throated Bushtit
   es: Mito Gorjiblanco
   fr: Orite à gorge blanche
@@ -15,7 +15,7 @@ names:
   pt: white-throated tit
   ru: Белогорлый ополовник
   ja: ノドジロヤマガラモドキ
-  zh: White-throated Bushtit
+  zh: ''
   nl: Witkeelstaartmees
   pl: raniuszek białogardły
   tr: Ak Boğazlı Uzunkuyruk

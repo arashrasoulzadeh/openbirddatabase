@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Mindoro
   fr: Calao de Mindoro
   de: Mindorohornvogel
-  pt: mindoro hornbill
+  pt: ''
   ru: Миндорский калао
   ja: ミンドロカオグロサイチョウ
   nl: Mindoroneushoornvogel

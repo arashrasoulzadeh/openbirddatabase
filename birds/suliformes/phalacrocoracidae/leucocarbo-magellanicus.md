@@ -15,7 +15,7 @@ names:
   pt: magellanic cormorant
   ru: Магелланов баклан
   ja: クロクビムナジロヒメウ
-  zh: Rock Shag
+  zh: ''
   nl: Magelhaenaalscholver
   pl: kormoran skalny
   tr: Macellan Karabatağı

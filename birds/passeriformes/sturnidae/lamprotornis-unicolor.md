@@ -12,7 +12,7 @@ names:
   es: Estornino Cenizo
   fr: Choucador cendré
   de: Grauglanzstar
-  pt: ashy starling
+  pt: ''
   ru: Шиферный спрео
   ja: ハイイロオナガテリムク
   nl: Grijze glansspreeuw

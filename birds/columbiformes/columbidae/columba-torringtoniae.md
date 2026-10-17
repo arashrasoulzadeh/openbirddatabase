@@ -15,7 +15,7 @@ names:
   pt: sri lanka wood-pigeon
   ru: Цейлонский вяхирь
   ja: セイロンカノコモリバト
-  zh: Sri Lanka Wood Pigeon
+  zh: ''
   nl: Ceylonese houtduif
   pl: gołąb liliowy
   tr: Seylan Tahtalısı

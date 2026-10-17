@@ -12,7 +12,7 @@ names:
   es: Ruiseñor de Swynnerton
   fr: Rougegorge de Swynnerton
   de: Swynnertonrötel
-  pt: swynnerton's robin
+  pt: ''
   ru: Ошейниковый заряночник
   ja: ハイガシラヤブコマ
   nl: Swynnertonpaapje

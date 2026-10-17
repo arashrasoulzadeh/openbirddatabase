@@ -12,7 +12,7 @@ names:
   es: Cucal Violáceo
   fr: Coucal violet
   de: Purpurkuckuck
-  pt: violaceous coucal
+  pt: ''
   ru: Фиолетовый кукаль
   ja: スミレバンケン
   nl: Violette spoorkoekoek

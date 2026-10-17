@@ -12,7 +12,7 @@ names:
   es: Rayadito de Isla Más Afuera
   fr: Synallaxe de Mas Afuera
   de: Inselschlüpfer
-  pt: masafuera rayadito
+  pt: ''
   ru: Островная райадито
   ja: マサフエラハリオカマドドリ
   zh: 马萨岛雷雀

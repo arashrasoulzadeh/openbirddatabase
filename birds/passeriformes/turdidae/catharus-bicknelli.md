@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28321.0
 names:
   scientific: Catharus bicknelli
-  fa: nan
+  fa: ''
   en: Bicknell's Thrush
   es: Zorzalito de Bicknell
   fr: Grive de Bicknell
   de: Bicknellmusendrossel
-  pt: bicknell's thrush
+  pt: ''
   ru: Пестрогорлый соловьиный дрозд
   ja: ヒスパニオラチャツグミ
   zh: 比克內爾夜鶇

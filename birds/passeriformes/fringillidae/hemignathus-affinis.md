@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 32128.0
 names:
   scientific: Hemignathus affinis
-  fa: nan
+  fa: ''
   en: Maui Nukupuu
   es: Nukupuu de Maui
   fr: Nukupuu de Maui
   de: Maui-Sichelkleidervogel
-  pt: maui nukupuu
+  pt: ''
   ru: Мауйская нукупуу
   ja: マウイカワリハシハワイミツスイ
   nl: Mauinukupuu

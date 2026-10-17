@@ -12,7 +12,7 @@ names:
   es: Churrín Sombrío
   fr: Mérulaxe sombre
   de: Rußtapaculo
-  pt: dusky tapaculo
+  pt: ''
   ru: Тёмный тапакуло
   ja: コゲチャタンビオタテドリ
   nl: Donkere tapaculo

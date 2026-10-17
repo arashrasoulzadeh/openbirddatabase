@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11970.0
 names:
   scientific: Daptrius chimango
-  fa: nan
+  fa: ''
   en: Chimango Caracara
   es: Caracara Chimango
   fr: Caracara chimango

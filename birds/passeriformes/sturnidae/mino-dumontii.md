@@ -12,7 +12,7 @@ names:
   es: Miná Carigualdo
   fr: Mino de Dumont
   de: Papuaatzel
-  pt: yellow-faced myna
+  pt: ''
   ru: Желтолицый мино
   ja: キガオムクドリ
   zh: 黃臉樹八哥

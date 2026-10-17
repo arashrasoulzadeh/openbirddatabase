@@ -12,7 +12,7 @@ names:
   es: Vencejo de Sálim Ali
   fr: Martinet de Salim Ali
   de: Hochlandsegler
-  pt: salim ali's swift
+  pt: ''
   ru: Тибетский стриж
   ja: サリムアリアマツバメ
   nl: Tibetaanse gierzwaluw

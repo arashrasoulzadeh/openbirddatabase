@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15422.0
 names:
   scientific: Asthenes modesta
-  fa: nan
+  fa: ''
   en: Cordilleran Canastero
   es: Canastero Pálido
   fr: Synallaxe des rocailles
   de: Graslandcanastero
-  pt: cordilleran canastero
+  pt: ''
   ru: Андский канастеро
   ja: ミヤマカマドドリ
   nl: Andescanastero

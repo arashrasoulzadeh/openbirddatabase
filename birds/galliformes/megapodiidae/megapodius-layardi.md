@@ -12,7 +12,7 @@ names:
   es: Talégalo de Vanuatu
   fr: Mégapode de Layard
   de: Vanuatu-Großfußhuhn
-  pt: vanuatu megapode
+  pt: ''
   ru: Вануатский большеног
   ja: バヌアツツカツクリ
   nl: Vanuatuboshoen

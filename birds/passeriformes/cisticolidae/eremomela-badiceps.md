@@ -12,7 +12,7 @@ names:
   es: Eremomela Capirotada
   fr: Érémomèle à tête brune
   de: Rotkappeneremomela
-  pt: rufous-crowned eremomela
+  pt: ''
   ru: Красношапочная желтобрюшка
   ja: チャボウシヒメムシクイ
   nl: Roodkoperemomela

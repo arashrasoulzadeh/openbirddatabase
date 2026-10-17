@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10562.0
 names:
   scientific: Gymnobucco calvus
-  fa: nan
+  fa: ''
   en: Naked-faced Barbet
   es: Barbudo Calvo
   fr: Barbican chauve
   de: Glatzenbartvogel
-  pt: naked-faced barbet
+  pt: ''
   ru: Гололицая либия
   ja: ハゲガオゴシキドリ
   nl: Kaalkopbaardvogel

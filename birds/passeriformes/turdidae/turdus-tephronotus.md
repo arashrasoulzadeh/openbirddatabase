@@ -15,7 +15,7 @@ names:
   pt: african bare-eyed thrush
   ru: Очковый дрозд
   ja: キメジリオリーブツグミ
-  zh: Bare-eyed Thrush
+  zh: ''
   nl: Brillijster
   pl: drozd okularowy
   tr: Afrika Çıplak Gözlü Ardıcı

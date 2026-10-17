@@ -12,7 +12,7 @@ names:
   es: Esmeralda de la Española
   fr: Émeraude d'Hispaniola
   de: Hispaniolasmaragdkolibri
-  pt: hispaniolan emerald
+  pt: ''
   ru: Гаитянский изумруд
   ja: クロモンヒメエメラルドハチドリ
   zh: 中美翠蜂鸟

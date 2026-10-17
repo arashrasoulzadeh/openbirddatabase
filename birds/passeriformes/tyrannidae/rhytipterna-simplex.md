@@ -15,7 +15,7 @@ names:
   pt: vissiá
   ru: Серый тиранн-плакса
   ja: ハイイロナゲキタイランチョウ
-  zh: Greyish Mourner
+  zh: ''
   nl: Grijze treurtiran
   pl: pokutnik szary
   tr: Gri Ağıtçı Tiran

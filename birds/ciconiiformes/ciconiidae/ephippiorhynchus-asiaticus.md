@@ -12,7 +12,7 @@ names:
   es: Jabirú Asiático
   fr: Jabiru d'Asie
   de: Riesenstorch
-  pt: black-necked stork
+  pt: ''
   ru: Азиатский седлоклюв
   ja: セイタカコウ
   zh: 黑颈鹳

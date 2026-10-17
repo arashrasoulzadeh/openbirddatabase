@@ -15,7 +15,7 @@ names:
   pt: black-throated bobwhite
   ru: Юкатанский перепел
   ja: ノドグロコリン
-  zh: Yucatan Bobwhite
+  zh: ''
   nl: Zwartkeelboomkwartel
   pl: przepiór białobrewy
   tr: Kara Boğazlı Kolin

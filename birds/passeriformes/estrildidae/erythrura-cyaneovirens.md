@@ -12,7 +12,7 @@ names:
   es: Diamante Verdiazul
   fr: Diamant vert-bleu
   de: Königspapageiamadine
-  pt: royal parrotfinch
+  pt: ''
   ru: Короткохвостая попугайная амадина
   ja: セイキヒノマルチョウ
   nl: Koningspapegaaiamadine

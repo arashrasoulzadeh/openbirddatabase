@@ -15,7 +15,7 @@ names:
   pt: white-breasted fruit-dove
   ru: Белозобый фруктовый голубь
   ja: ムナジロヒメアオバト
-  zh: White-bibbed Fruit Dove
+  zh: ''
   nl: Witbefjufferduif
   pl: owocożer nadobny
   tr: Ak Göğüslü Meyve Kumrusu

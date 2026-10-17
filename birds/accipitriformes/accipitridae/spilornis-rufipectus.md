@@ -15,7 +15,7 @@ names:
   pt: sulawesi serpent-eagle
   ru: Сулавесский змееяд
   ja: スラウェシチュウヒワシ
-  zh: Sulawesi Serpent Eagle
+  zh: ''
   nl: Celebesslangenarend
   pl: wężojad celebeski
   tr: Selebes Yılan Kartalı

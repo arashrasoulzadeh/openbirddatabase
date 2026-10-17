@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19555.0
 names:
   scientific: Pachycephala monacha
-  fa: nan
+  fa: ''
   en: Black-headed Whistler
   es: Silbador Monje
   fr: Siffleur moine
   de: Schwarzgrau-Dickkopf
-  pt: black-headed whistler
+  pt: ''
   ru: Черноголовый свистун
   ja: ニューギニアズグロモズヒタキ
   zh: 阿鲁啸鹟

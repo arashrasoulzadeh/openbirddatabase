@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24563.0
 names:
   scientific: Hypsipetes guimarasensis
-  fa: nan
+  fa: ''
   en: Visayan Bulbul
   es: Bulbul de Sámar
   fr: Bulbul de Guimaras
   de: Visayasbülbül
-  pt: visayan bulbul
+  pt: ''
   ru: Висаянский бюльбюль
   ja: ヴィサヤヒヨドリ
   nl: Visayabuulbuul

@@ -12,7 +12,7 @@ names:
   es: Oropéndola Ensangrentada
   fr: Loriot ensanglanté
   de: Javapirol
-  pt: javan oriole
+  pt: ''
   ru: Малиновогрудая иволга
   ja: ヒムネスミゴロモ
   zh: 緋胸黃鸝

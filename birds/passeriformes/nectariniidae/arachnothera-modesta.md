@@ -15,7 +15,7 @@ names:
   pt: gray-breasted spiderhunter
   ru: Серогрудая пауколовка
   ja: ハイムネクモカリドリ
-  zh: Grey-breasted Spiderhunter
+  zh: ''
   nl: Grijsborstspinnenjager
   pl: pajęcznik ubogi
   tr: Gri Göğüslü Örümcekavcısı

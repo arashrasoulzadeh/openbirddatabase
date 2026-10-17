@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5159.0
 names:
   scientific: Chrysuronia grayi
-  fa: nan
+  fa: ''
   en: Blue-headed Sapphire
   es: Amazilia Cabeciazul
   fr: Ariane ulysse
   de: Blaukopf-Saphirkolibri
-  pt: blue-headed sapphire
+  pt: ''
   ru: Синеголовый сапфир
   ja: ズアオサファイアハチドリ
   nl: Blauwkopsaffierkolibrie

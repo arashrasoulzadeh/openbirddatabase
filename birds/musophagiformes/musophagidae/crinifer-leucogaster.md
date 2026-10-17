@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2978.0
 names:
   scientific: Crinifer leucogaster
-  fa: nan
+  fa: ''
   en: White-bellied Go-away-bird
   es: Turaco Ventriblanco
   fr: Touraco à ventre blanc
   de: Weißbauch-Lärmvogel
-  pt: white-bellied go-away-bird
+  pt: ''
   ru: Белобрюхий бананоед
   ja: シロハラハイイロエボシドリ
   nl: Witbuiktoerako

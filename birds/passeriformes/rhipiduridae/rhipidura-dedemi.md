@@ -12,7 +12,7 @@ names:
   es: Abanico de Van Dedem
   fr: Rhipidure de Céram
   de: Seramfächerschwanz
-  pt: streak-breasted fantail
+  pt: ''
   ru: Серамская веерохвостка
   ja: セラムオウギビタキ
   nl: Vandedemwaaierstaart

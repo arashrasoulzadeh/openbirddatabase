@@ -12,7 +12,7 @@ names:
   es: Arrendajo Canadiense
   fr: Mésangeai du Canada
   de: Meisenhäher
-  pt: canada jay
+  pt: ''
   ru: Канадская кукша
   ja: カナダカケス
   zh: 灰噪鸦

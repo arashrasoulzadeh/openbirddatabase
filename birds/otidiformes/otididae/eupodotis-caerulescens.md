@@ -15,7 +15,7 @@ names:
   pt: blue bustard
   ru: Голубой корхан
   ja: アオショウノガン
-  zh: Blue Korhaan
+  zh: ''
   nl: Blauwe trap
   pl: dropik modry
   tr: Mavi Toy

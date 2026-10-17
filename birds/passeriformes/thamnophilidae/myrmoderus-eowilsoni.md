@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14044.0
 names:
   scientific: Myrmoderus eowilsoni
-  fa: nan
+  fa: ''
   en: Cordillera Azul Antbird
   es: Hormiguerito de Cordillera Azul
   fr: Alapi de Wilson
   de: Blauband-Ameisenvogel
-  pt: cordillera azul antbird
+  pt: ''
   ru: Укаяльская муравьеловка
   ja: サエズリアリドリ
   nl: Cordillera-Azulmiervogel

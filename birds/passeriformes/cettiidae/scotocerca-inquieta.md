@@ -15,7 +15,7 @@ names:
   pt: fuinha-dos-espinheiros
   ru: Скотоцерка
   ja: スナチムシクイ
-  zh: Streaked Scrub Warbler
+  zh: ''
   nl: Maquiszanger
   pl: skotniczka
   tr: Sürmeli Küçük Ötleğen

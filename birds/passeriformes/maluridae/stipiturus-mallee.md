@@ -15,7 +15,7 @@ names:
   pt: mallee emuwren
   ru: Маллийный эмухвост
   ja: クリビタイエミュームシクイ
-  zh: Mallee Emu-wren
+  zh: ''
   nl: Mallee-emoesluiper
   pl: szczeciogonek eukaliptusowy
   tr: Malliy Emubülbülü

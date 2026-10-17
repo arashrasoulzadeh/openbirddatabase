@@ -12,7 +12,7 @@ names:
   es: Papamoscas Embridado
   fr: Gobemouche bridé
   de: Weißbrauen-Dschungelschnäpper
-  pt: eyebrowed jungle flycatcher
+  pt: ''
   ru: Кинабальская гилейница
   ja: メジロミツリンヒタキ
   nl: Kinabalujunglevliegenvanger

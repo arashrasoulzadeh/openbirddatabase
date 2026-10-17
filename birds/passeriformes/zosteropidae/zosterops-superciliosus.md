@@ -12,7 +12,7 @@ names:
   es: Anteojitos de Woodford
   fr: Zostérops de Woodford
   de: Woodfordbrillenvogel
-  pt: bare-eyed white-eye
+  pt: ''
   ru: Белобровая белоглазка
   ja: レンネルオオメジロ
   nl: Woodfordbrilvogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8006.0
 names:
   scientific: Nisaetus alboniger
-  fa: nan
+  fa: ''
   en: Blyth's Hawk-Eagle
   es: Águila de Indonesia
   fr: Aigle de Blyth
   de: Borneohaubenadler
-  pt: blyth's hawk-eagle
+  pt: ''
   ru: Пестрогрудый хохлатый орёл
   ja: カオグロクマタカ
   zh: 馬來鷹鵰

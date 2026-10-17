@@ -12,7 +12,7 @@ names:
   es: Colín Cantor
   fr: Colin chanteur
   de: Singwachtel
-  pt: singing quail
+  pt: ''
   ru: Певчий перепел
   ja: ユビナガウズラ
   zh: 歌鹑

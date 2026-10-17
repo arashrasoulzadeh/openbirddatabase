@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18870.0
 names:
   scientific: Edolisoma montanum
-  fa: nan
+  fa: ''
   en: Black-bellied Cuckooshrike
   es: Oruguero Ventrinegro
   fr: Échenilleur à ventre noir
@@ -15,7 +15,7 @@ names:
   pt: black-bellied cicadabird
   ru: Горный цикадник
   ja: クロハラオオサンショウクイ
-  zh: Black-bellied Cuckooshrike
+  zh: ''
   nl: Bergrupsvogel
   pl: gąsienicojad czarnobrzuchy
   tr: Kara Karınlı Tırtılyiyen

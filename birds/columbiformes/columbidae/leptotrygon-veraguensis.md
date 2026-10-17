@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz de Veragua
   fr: Colombe de Veraguas
   de: Veraguataube
-  pt: olive-backed quail-dove
+  pt: ''
   ru: Оливковая перепелиная горлица
   ja: ホオジロウズラバト
   zh: 绿背鹑鸠

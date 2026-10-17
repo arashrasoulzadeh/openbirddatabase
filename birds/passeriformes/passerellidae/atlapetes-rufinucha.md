@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33513.0
 names:
   scientific: Atlapetes rufinucha
-  fa: nan
+  fa: ''
   en: Bolivian Brushfinch
   es: Atlapetes Nuquirrufo
   fr: Tohi à nuque rousse
   de: Rotnacken-Buschammer
-  pt: bolivian brushfinch
+  pt: ''
   ru: Боливийская атлапета
   ja: アカエリヤブシトド
   nl: Roodnekstruikgors

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 3183.0
 names:
   scientific: Phaenicophaeus diardi
-  fa: nan
+  fa: ''
   en: Black-bellied Malkoha
   es: Malcoha Ventrinegro
   fr: Malcoha de Diard
   de: Diardkuckuck
-  pt: black-bellied malkoha
+  pt: ''
   ru: Чернобрюхая малкоа
   ja: クロバンケンモドキ
   zh: 綠嘴地鵑

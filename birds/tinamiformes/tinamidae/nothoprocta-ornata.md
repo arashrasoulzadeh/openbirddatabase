@@ -12,7 +12,7 @@ names:
   es: Tinamú Pisacca
   fr: Tinamou orné
   de: Pisaccatinamu
-  pt: ornate tinamou
+  pt: ''
   ru: Украшенный тинаму
   ja: ゴマダラシギダチョウ
   zh: 丽色斑䳍

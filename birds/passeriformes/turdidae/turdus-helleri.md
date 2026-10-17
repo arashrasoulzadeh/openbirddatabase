@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 28468.0
 names:
   scientific: Turdus helleri
-  fa: nan
+  fa: ''
   en: Taita Thrush
   es: Zorzal de Los Taita
   fr: Merle des Taita
   de: Taitadrossel
-  pt: taita thrush
+  pt: ''
   ru: Тайтасский дрозд
   ja: ズグロオリーブツグミ
   zh: 泰塔鶇

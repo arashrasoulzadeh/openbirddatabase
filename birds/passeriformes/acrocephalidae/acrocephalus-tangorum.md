@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 23667.0
 names:
   scientific: Acrocephalus tangorum
-  fa: nan
+  fa: ''
   en: Manchurian Reed Warbler
   es: Carricerín Manchú
   fr: Rousserolle mandchoue
   de: Mandschurenrohrsänger
-  pt: manchurian reed warbler
+  pt: ''
   ru: Маньчжурская камышевка
   ja: マンシュウイナダヨシキリ
   zh: 远东苇莺

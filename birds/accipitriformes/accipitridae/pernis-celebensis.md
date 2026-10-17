@@ -15,7 +15,7 @@ names:
   pt: sulawesi honey-buzzard
   ru: Красногрудый осоед
   ja: ヨコジマハチクマ
-  zh: Barred Honey Buzzard
+  zh: ''
   nl: Celebeswespendief
   pl: trzmielojad prążkowany
   tr: Çizgili Arı Şahini

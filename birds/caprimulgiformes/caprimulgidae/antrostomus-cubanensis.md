@@ -12,7 +12,7 @@ names:
   es: Chotacabras Cubano
   fr: Engoulevent de Cuba
   de: Kubanachtschwalbe
-  pt: cuban nightjar
+  pt: ''
   ru: Кубинский козодой
   ja: キューバヨタカ
   zh: 古巴夜鹰

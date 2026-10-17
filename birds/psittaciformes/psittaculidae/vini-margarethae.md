@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 12588.0
 names:
   scientific: Vini margarethae
-  fa: nan
+  fa: ''
   en: Duchess Lorikeet
   es: Lori de Margarita
   fr: Lori de Margaret
   de: Margarethenlori
-  pt: duchess lorikeet
+  pt: ''
   ru: Лорикет Маргариты
   ja: キフジンインコ
   nl: Hertoginnenlori

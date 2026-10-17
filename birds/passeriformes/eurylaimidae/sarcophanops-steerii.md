@@ -12,7 +12,7 @@ names:
   es: Eurilaimo de Mindanao
   fr: Eurylaime de Steere
   de: Lappenbreitrachen
-  pt: wattled broadbill
+  pt: ''
   ru: Очковый рогоклюв
   ja: モンツキヒロハシ
   zh: 肉垂阔嘴鸟

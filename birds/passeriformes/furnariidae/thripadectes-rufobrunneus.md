@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15247.0
 names:
   scientific: Thripadectes rufobrunneus
-  fa: nan
+  fa: ''
   en: Streak-breasted Treehunter
   es: Trepamusgos Pechirrayado
   fr: Anabate des ravins
   de: Ockerkehl-Baumspäher
-  pt: streak-breasted treehunter
+  pt: ''
   ru: Пестрогрудый лесовик
   ja: ズグロムシクイカマドドリ
   nl: Streepborstboomjager

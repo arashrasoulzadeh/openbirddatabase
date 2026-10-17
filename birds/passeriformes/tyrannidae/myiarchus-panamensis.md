@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17308.0
 names:
   scientific: Myiarchus panamensis
-  fa: nan
+  fa: ''
   en: Panama Flycatcher
   es: Copetón Panameño
   fr: Tyran du Panama
   de: Panamaschopftyrann
-  pt: panama flycatcher
+  pt: ''
   ru: Панамский миарх
   ja: パナマヒタキモドキ
   nl: Panamese tiran

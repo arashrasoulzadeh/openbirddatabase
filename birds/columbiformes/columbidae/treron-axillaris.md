@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2501.0
 names:
   scientific: Treron axillaris
-  fa: nan
+  fa: ''
   en: Philippine Green Pigeon
   es: Vinago Axilar
   fr: Colombar des Philippines
@@ -15,7 +15,7 @@ names:
   pt: philippine green-pigeon
   ru: Филиппинский зеленый голубь
   ja: フィリピンアオバト
-  zh: Philippine Green Pigeon
+  zh: ''
   nl: Filipijnse papegaaiduif
   pl: treron modrogłowy
   tr: Filipin Yeşil Güvercini

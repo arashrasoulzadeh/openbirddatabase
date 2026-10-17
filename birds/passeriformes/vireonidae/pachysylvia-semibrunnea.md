@@ -12,7 +12,7 @@ names:
   es: Verdillo Nuquirrufo
   fr: Viréon à nuque rousse
   de: Rostnackenvireo
-  pt: rufous-naped greenlet
+  pt: ''
   ru: Каштановоголовый виреончик
   ja: アカエリヒメモズモドキ
   nl: Roestnekvireo

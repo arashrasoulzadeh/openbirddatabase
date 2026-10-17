@@ -12,7 +12,7 @@ names:
   es: Colín Elegante
   fr: Colin élégant
   de: Douglaswachtel
-  pt: elegant quail
+  pt: ''
   ru: Элегантный перепел
   ja: エボシウズラ
   zh: 华丽翎鹑

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 3982.0
 names:
   scientific: Aerodramus francicus
-  fa: nan
+  fa: ''
   en: Mascarene Swiftlet
   es: Salangana de las Mascareñas
   fr: Salangane des Mascareignes
   de: Maskarenensalangane
-  pt: mascarene swiftlet
+  pt: ''
   ru: Маскаренская салангана
   ja: ショクヨウアナツバメ
   zh: 小灰腰金丝燕

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2474.0
 names:
   scientific: Phapitreron amethystinus
-  fa: nan
+  fa: ''
   en: Amethyst Brown Dove
   es: Vinago Pardo Amatista
   fr: Phapitréron améthyste
@@ -15,7 +15,7 @@ names:
   pt: amethyst brown-dove
   ru: Аметистовая горлица
   ja: オオテリアオバト
-  zh: Amethyst Brown Dove
+  zh: ''
   nl: Grote bruine vruchtduif
   pl: brązaczek ametystowy
   tr: Ametist Esmer Kumrusu

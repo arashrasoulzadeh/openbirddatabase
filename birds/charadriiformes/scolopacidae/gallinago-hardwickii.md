@@ -12,7 +12,7 @@ names:
   es: Agachadiza Japonesa
   fr: Bécassine du Japon
   de: Japanbekassine
-  pt: latham's snipe
+  pt: ''
   ru: Японский бекас
   ja: オオジシギ
   nl: Japanse snip

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 5398.0
 names:
   scientific: Gallirallus poecilopterus
-  fa: nan
+  fa: ''
   en: Bar-winged Rail
   es: Rascón Alibarrado
   fr: Râle des Fidji
   de: Fidschiralle
-  pt: bar-winged rail
+  pt: ''
   ru: Фиджийский трескун
   ja: フィジークイナ
   nl: Fijiral

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18928.0
 names:
   scientific: Edolisoma sula
-  fa: nan
+  fa: ''
   en: Sula Cicadabird
   es: Oruguero de las Sula
   fr: Échenilleur des Sula
   de: Sularaupenfänger
-  pt: sula cicadabird
+  pt: ''
   ru: Суланский цикадник
   ja: スラサンショウクイ
   zh: 苏岛鹃鵙

@@ -6,13 +6,13 @@ iucn_status: LC
 taxon_order: 28518.0
 names:
   scientific: Turdus nigrorum
-  fa: nan
+  fa: ''
   en: Negros Island Thrush
   es: Mirlo de Negros
   fr: Merle de Mindanao
   pt: mindanao island-thrush
   ja: ミンダナオハイガシラツグミ
-  zh: Mindanao Island Thrush
+  zh: ''
   nl: Mindanaomerel
   pl: drozd mindanajski
   tr: Mindanao Ardıcı

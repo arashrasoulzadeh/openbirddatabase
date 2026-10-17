@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 13789.0
 names:
   scientific: Herpsilochmus pileatus
-  fa: nan
+  fa: ''
   en: Bahia Antwren
   es: Tiluchí Pileado
   fr: Grisin à coiffe noire

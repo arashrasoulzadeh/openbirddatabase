@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29575.0
 names:
   scientific: Ficedula disposita
-  fa: nan
+  fa: ''
   en: Furtive Flycatcher
   es: Papamoscas Furtivo
   fr: Gobemouche furtif
   de: Luzonschnäpper
-  pt: furtive flycatcher
+  pt: ''
   ru: Скрытная мухоловка
   ja: ミヤマチャイロヒタキ
   nl: Luzonvliegenvanger

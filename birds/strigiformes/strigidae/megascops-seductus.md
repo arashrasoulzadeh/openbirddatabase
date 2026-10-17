@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8851.0
 names:
   scientific: Megascops seductus
-  fa: nan
+  fa: ''
   en: Balsas Screech Owl
   es: Autillo del Balsas
   fr: Petit-duc du Balsas
@@ -15,7 +15,7 @@ names:
   pt: balsas screech-owl
   ru: Бальсовая совка
   ja: バルサスオオコノハズク
-  zh: Balsas Screech Owl
+  zh: ''
   nl: Balsasschreeuwuil
   pl: syczoń samotny
   tr: Balsas Puhucuğu

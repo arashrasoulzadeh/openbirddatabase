@@ -12,7 +12,7 @@ names:
   es: Pato del Labrador
   fr: Eider du Labrador
   de: Labradorente
-  pt: labrador duck
+  pt: ''
   ru: Лабрадорская гага
   ja: カササギガモ
   zh: 拉布拉多鴨

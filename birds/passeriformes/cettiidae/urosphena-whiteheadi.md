@@ -12,7 +12,7 @@ names:
   es: Buscarla Colicorta de Borneo
   fr: Bouscarle de Bornéo
   de: Borneostutzschwanz
-  pt: bornean stubtail
+  pt: ''
   ru: Борнейская короткохвотска
   ja: ボルネオヤブサメ
   zh: 印尼短尾莺

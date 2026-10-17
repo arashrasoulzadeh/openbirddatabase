@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 31929.0
 names:
   scientific: Hemimacronyx chloris
-  fa: nan
+  fa: ''
   en: Yellow-breasted Pipit
   es: Bisbita Pechigualdo
   fr: Pipit à gorge jaune
   de: Gelbbrustpieper
-  pt: yellow-breasted pipit
+  pt: ''
   ru: Желтогрудый шпорничек
   ja: キテンタヒバリ
   nl: Geelborstpieper

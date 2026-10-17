@@ -12,7 +12,7 @@ names:
   es: Orejerito Amarillo
   fr: Tyranneau masqué
   de: Rostzügel-Laubtyrann
-  pt: rufous-lored tyrannulet
+  pt: ''
   ru: Желтоватый каричи
   ja: キバラヒゲハエトリ
   nl: Geelbuiklooftiran

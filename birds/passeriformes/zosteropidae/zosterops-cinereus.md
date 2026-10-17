@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25837.0
 names:
   scientific: Zosterops cinereus
-  fa: nan
+  fa: ''
   en: Kosrae White-eye
   es: Anteojitos de Isla Kosrae
   fr: Zostérops cendré
   de: Kosraebrillenvogel
-  pt: kosrae white-eye
+  pt: ''
   ru: Серая белоглазка
   ja: コスラエメジロ
   nl: Kusaiebrilvogel

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13801.0
 names:
   scientific: Herpsilochmus dorsimaculatus
-  fa: nan
+  fa: ''
   en: Spot-backed Antwren
   es: Tiluchí Dorsimanchado
   fr: Grisin strié

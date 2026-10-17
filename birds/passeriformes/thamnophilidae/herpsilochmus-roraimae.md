@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13802.0
 names:
   scientific: Herpsilochmus roraimae
-  fa: nan
+  fa: ''
   en: Roraiman Antwren
   es: Tiluchí del Roraima
   fr: Grisin du Roraima

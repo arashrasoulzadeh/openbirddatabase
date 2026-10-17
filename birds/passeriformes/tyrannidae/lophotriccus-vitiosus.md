@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16311.0
 names:
   scientific: Lophotriccus vitiosus
-  fa: nan
+  fa: ''
   en: Double-banded Pygmy Tyrant
   es: Cimerillo Bilistado
   fr: Microtyran bifascié
@@ -15,7 +15,7 @@ names:
   pt: maria-fiteira
   ru: Серохохлая чубатка
   ja: フタスジカンムリハエトリ
-  zh: Double-banded Pygmy Tyrant
+  zh: ''
   nl: Dubbelbanddwergtiran
   pl: łuskoczubek czarnopióry
   tr: Çift Şeritli Taçlı Tiran

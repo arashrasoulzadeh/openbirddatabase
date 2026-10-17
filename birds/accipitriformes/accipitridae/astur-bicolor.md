@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8269.0
 names:
   scientific: Astur bicolor
-  fa: nan
+  fa: ''
   en: Bicolored Hawk
   es: Gavilán Bicolor
   fr: Épervier bicolore

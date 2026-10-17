@@ -12,7 +12,7 @@ names:
   es: Ánade Negro
   fr: Canard noirâtre
   de: Schwarzente
-  pt: african black duck
+  pt: ''
   ru: Африканская кряква
   ja: シラボシガモ
   zh: 非洲黑鴨

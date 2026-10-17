@@ -12,7 +12,7 @@ names:
   es: Picoloro Gorjinegro
   fr: Paradoxornis à menton noir
   de: Grauohr-Papageimeise
-  pt: black-throated parrotbill
+  pt: ''
   ru: Черногорлая сутора
   ja: キバネダルマエナガ
   zh: 橙额鸦雀

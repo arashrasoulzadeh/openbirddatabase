@@ -12,7 +12,7 @@ names:
   es: Suimanga Keniata
   fr: Souimanga du Kenya
   de: Schwalbennektarvogel
-  pt: eastern violet-backed sunbird
+  pt: ''
   ru: Пурпурноспинная нектарница
   ja: ヒガシスミレコバシタイヨウチョウ
   zh: 東紫背食蜜鳥

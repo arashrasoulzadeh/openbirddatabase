@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4717.0
 names:
   scientific: Heliodoxa rubricauda
-  fa: nan
+  fa: ''
   en: Brazilian Ruby
   es: Colibrí Colirrojo
   fr: Colibri rubis-émeraude

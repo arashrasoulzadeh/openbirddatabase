@@ -12,7 +12,7 @@ names:
   es: Tirano Silbador
   fr: Tyran de Couch
   de: Texaskönigstyrann
-  pt: couch's kingbird
+  pt: ''
   ru: Техасский тиранн
   ja: ヒガシオリーブタイランチョウ
   zh: 庫奇氏王霸鶲

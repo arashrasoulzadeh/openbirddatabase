@@ -12,7 +12,7 @@ names:
   es: Turdoide Culiblanco
   fr: Cratérope à croupion blanc
   de: Weißbürzel-Drosselhäherling
-  pt: white-rumped babbler
+  pt: ''
   ru: Белопоясничная дроздовка
   ja: コシジロヤブチメドリ
   zh: 白腰鶇鶥

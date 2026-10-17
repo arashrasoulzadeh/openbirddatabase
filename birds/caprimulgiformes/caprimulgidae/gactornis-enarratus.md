@@ -12,7 +12,7 @@ names:
   es: Chotacabras Acollarado
   fr: Engoulevent à nuque rousse
   de: Halsband-Nachtschwalbe
-  pt: collared nightjar
+  pt: ''
   ru: Ошейниковый козодой
   ja: キエリヨタカ
   zh: 领夜鹰

@@ -12,7 +12,7 @@ names:
   es: Zorzal Dorsiplomizo
   fr: Merle de Reeve
   de: Schiefermanteldrossel
-  pt: plumbeous-backed thrush
+  pt: ''
   ru: Мышиный дрозд
   ja: ペルーツグミ
   nl: Loodruglijster

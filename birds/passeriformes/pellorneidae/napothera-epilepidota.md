@@ -12,7 +12,7 @@ names:
   es: Ratina Cejuda
   fr: Petite Turdinule
   de: Fleckenzwergdrossling
-  pt: eyebrowed wren-babbler
+  pt: ''
   ru: Пестрогрудая подкоренница
   ja: コサザイチメドリ
   zh: 纹胸鹪鹛

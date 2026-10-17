@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3880.0
 names:
   scientific: Chaetura cinereiventris
-  fa: nan
+  fa: ''
   en: Grey-rumped Swift
   es: Vencejo Ceniciento
   fr: Martinet à croupion gris
@@ -15,7 +15,7 @@ names:
   pt: andorinhão-de-sobre-cinzento
   ru: Гвианский иглохвост
   ja: ハイゴシハリオアマツバメ
-  zh: Grey-rumped Swift
+  zh: ''
   nl: Grijsstuitgierzwaluw
   pl: kominiarczyk szarawy
   tr: Gri Belli İğnekuyruk

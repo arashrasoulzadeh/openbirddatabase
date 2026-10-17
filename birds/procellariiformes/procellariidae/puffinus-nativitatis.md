@@ -12,7 +12,7 @@ names:
   es: Pardela de Kiritimati
   fr: Puffin de la Nativité
   de: Weihnachtssturmtaucher
-  pt: christmas shearwater
+  pt: ''
   ru: Рождественский буревестник
   ja: コミズナギドリ
   zh: 黑鹱

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14041.0
 names:
   scientific: Myrmoderus ferrugineus
-  fa: nan
+  fa: ''
   en: Ferruginous-backed Antbird
   es: Hormiguero Ferruginoso
   fr: Alapi à cravate noire

@@ -12,7 +12,7 @@ names:
   es: Loro Ecléctico de Sumba
   fr: Éclectus de Sumba
   de: Cornelia-Edelpapagei
-  pt: sumba eclectus
+  pt: ''
   nl: Soemba-edelpapegaai
   pl: barwnica sundajska
   tr: Sumba Eklektus Papağanı

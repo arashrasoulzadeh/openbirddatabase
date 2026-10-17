@@ -15,7 +15,7 @@ names:
   pt: sulawesi brown flycatcher
   ru: Сулавесская мухоловка
   ja: スラウェシサメビタキ
-  zh: Sulawesi Streaked Flycatcher
+  zh: ''
   nl: Sulawesivliegenvanger
   pl: muchołówka celebeska
   tr: Selebes Boz Sinekkapanı

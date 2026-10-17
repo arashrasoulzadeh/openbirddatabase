@@ -15,7 +15,7 @@ names:
   pt: gansinho-australiano
   ru: Австралийский блестящий чирок
   ja: アオマメガン
-  zh: Green Pygmy Goose
+  zh: ''
   nl: Groene dwergeend
   pl: kaczuszka australijska
   tr: Yeşil Pamuk Ördek

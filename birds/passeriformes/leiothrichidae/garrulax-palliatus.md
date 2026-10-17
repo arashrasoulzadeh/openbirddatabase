@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26734.0
 names:
   scientific: Garrulax palliatus
-  fa: nan
+  fa: ''
   en: Sunda Laughingthrush
   es: Charlatán de la Sonda
   fr: Garrulaxe mantelé
   de: Schieferhäherling
-  pt: sunda laughingthrush
+  pt: ''
   ru: Зондская кустарница
   ja: チャバネガビチョウ
   zh: 灰褐噪鶥

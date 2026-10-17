@@ -12,7 +12,7 @@ names:
   es: Piquero Nazca
   fr: Fou de Grant
   de: Nazcatölpel
-  pt: nazca booby
+  pt: ''
   ru: Насканская олуша
   ja: ナスカカツオドリ
   zh: 橙嘴鲣鸟

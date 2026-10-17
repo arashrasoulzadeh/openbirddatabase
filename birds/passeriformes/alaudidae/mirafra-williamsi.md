@@ -12,7 +12,7 @@ names:
   es: Alondra de Williams
   fr: Alouette de Williams
   de: Williamslerche
-  pt: williams's lark
+  pt: ''
   ru: Кенийский жаворонок
   ja: ケニアヤブヒバリ
   zh: 威氏歌百灵

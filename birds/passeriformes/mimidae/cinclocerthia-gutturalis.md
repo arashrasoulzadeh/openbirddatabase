@@ -15,7 +15,7 @@ names:
   pt: gray trembler
   ru: Шиферный пересмешник
   ja: ハイイロフルエドリ
-  zh: Grey Trembler
+  zh: ''
   nl: Grijze sidderspotlijster
   pl: dygacz szary
   tr: Gri Karıştırıcı

@@ -12,7 +12,7 @@ names:
   es: Pitajo Cejidorado
   fr: Pitajo à sourcils d'or
   de: Gelbbrauen-Schmätzertyrann
-  pt: golden-browed chat-tyrant
+  pt: ''
   ru: Златобровая тираннита
   ja: キマユヒタキタイランチョウ
   nl: Goudbrauwtapuittiran

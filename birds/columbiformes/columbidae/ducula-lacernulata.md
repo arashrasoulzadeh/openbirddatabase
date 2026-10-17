@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2830.0
 names:
   scientific: Ducula lacernulata
-  fa: nan
+  fa: ''
   en: Dark-backed Imperial Pigeon
   es: Dúcula Dorsioscura
   fr: Carpophage mantelé
@@ -15,7 +15,7 @@ names:
   pt: dark-backed imperial-pigeon
   ru: Темноспинный плодовый голубь
   ja: セグロミカドバト
-  zh: Dark-backed Imperial Pigeon
+  zh: ''
   nl: Javaanse muskaatduif
   pl: muszkatela ciemnogrzbieta
   tr: Kara Sırtlı Has Güvercin

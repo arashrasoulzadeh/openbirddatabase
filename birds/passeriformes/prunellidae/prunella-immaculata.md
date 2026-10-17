@@ -12,7 +12,7 @@ names:
   es: Acentor Inmaculado
   fr: Accenteur immaculé
   de: Waldbraunelle
-  pt: maroon-backed accentor
+  pt: ''
   ru: Белоглазая завирушка
   ja: クリイロイワヒバリ
   zh: 栗背岩鹨

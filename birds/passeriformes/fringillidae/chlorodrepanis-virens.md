@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32135.0
 names:
   scientific: Chlorodrepanis virens
-  fa: nan
+  fa: ''
   en: Hawaii Amakihi
   es: Amakihi de Hawái
   fr: Amakihi familier
   de: Hawaii-Amakihikleidervogel
-  pt: hawaii amakihi
+  pt: ''
   ru: Зелёная амакихи
   ja: ハワイミツスイ
   nl: Amakihi

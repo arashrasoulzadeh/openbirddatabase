@@ -12,7 +12,7 @@ names:
   es: Camachuelo Picogrueso
   fr: Durbec des sapins
   de: Hakengimpel
-  pt: pine grosbeak
+  pt: ''
   ru: Щур
   ja: ギンザンマシコ
   zh: 松雀

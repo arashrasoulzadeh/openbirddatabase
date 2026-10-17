@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Mérida
   fr: Troglodyte du Mérida
   de: Méridazaunkönig
-  pt: merida wren
+  pt: ''
   ru: Меридский крапивник
   ja: ミヤマヌマミソサザイ
   zh: 沼泽鹪鹩

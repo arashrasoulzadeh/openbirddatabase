@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8212.0
 names:
   scientific: Tachyspiza melanochlamys
-  fa: nan
+  fa: ''
   en: Black-mantled Goshawk
   es: Gavilán Rufinegro
   fr: Autour à manteau noir
   de: Schwarzmantelhabicht
-  pt: black-mantled goshawk
+  pt: ''
   ru: Черноспинный ястреб
   ja: クロアカオオタカ
   zh: 黑背鷹

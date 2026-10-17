@@ -12,7 +12,7 @@ names:
   es: Verderón Cabecinegro
   fr: Verdier d'Oustalet
   de: Schwarzkopf-Grünfink
-  pt: black-headed greenfinch
+  pt: ''
   ru: Черноголовая зеленушка
   ja: ズグロカワラヒワ
   zh: 黑头金翅雀

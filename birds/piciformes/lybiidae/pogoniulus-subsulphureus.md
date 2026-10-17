@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10596.0
 names:
   scientific: Pogoniulus subsulphureus
-  fa: nan
+  fa: ''
   en: Yellow-throated Tinkerbird
   es: Barbudito Gorjigualdo
   fr: Barbion à gorge jaune
   de: Gelbkehl-Bartvogel
-  pt: yellow-throated tinkerbird
+  pt: ''
   ru: Желтогорлый медник
   ja: キノドヒメゴシキドリ
   nl: Geelkeelketellapper

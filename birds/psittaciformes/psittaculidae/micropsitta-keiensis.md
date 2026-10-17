@@ -15,7 +15,7 @@ names:
   pt: yellow-capped pygmy-parrot
   ru: Желтоголовый карликовый попугайчик
   ja: キガシラケラインコ
-  zh: Yellow-capped Pygmy Parrot
+  zh: ''
   nl: Geelkruinspechtpapegaai
   pl: karłówka skromna
   tr: Sarı Başlı Cüce Papağan

@@ -12,7 +12,7 @@ names:
   es: Lori Escuamiverde
   fr: Loriquet vert
   de: Schuppenlori
-  pt: scaly-breasted lorikeet
+  pt: ''
   ru: Чешуйчатый лорикет
   ja: コセイガイインコ
   zh: 鱗胸吸蜜鸚鵡

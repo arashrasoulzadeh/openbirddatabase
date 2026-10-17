@@ -12,7 +12,7 @@ names:
   es: Trepador Hermoso
   fr: Sittelle superbe
   de: Schmuckkleiber
-  pt: beautiful nuthatch
+  pt: ''
   ru: Поползень-красавец
   ja: ビナンゴジュウカラ
   zh: 丽䴓

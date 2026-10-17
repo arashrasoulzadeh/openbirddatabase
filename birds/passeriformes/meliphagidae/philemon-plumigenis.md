@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18191.0
 names:
   scientific: Philemon plumigenis
-  fa: nan
+  fa: ''
   en: Tanimbar Friarbird
   es: Filemón de las Kai
   fr: Polochion des Tanimbar
   de: Tanimbarlederkopf
-  pt: tanimbar friarbird
+  pt: ''
   ru: Танимбарский кожеголов
   ja: タニンバルハゲミツスイ
   nl: Tanimbarlederkop

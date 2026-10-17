@@ -12,7 +12,7 @@ names:
   es: Pavón Porú
   fr: Hocco de Daubenton
   de: Gelblappenhokko
-  pt: yellow-knobbed curassow
+  pt: ''
   ru: Желтоклювый кракс
   ja: キコブホウカンチョウ
   zh: 黃瘤鳳冠雉

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20554.0
 names:
   scientific: Lycocorax obiensis
-  fa: nan
+  fa: ''
   en: Obi Paradise-crow
   es: Ave del Paraíso Corvina de Obi
   fr: Paradisier d'Obi
   de: Obiparadieskrähe
-  pt: obi paradise-crow
+  pt: ''
   nl: Obiparadijskraai
   pl: grabiec lśniący
   tr: Obi İpekkargası

@@ -12,10 +12,10 @@ names:
   es: Vireo Alcaudón Frenticastaño
   fr: Allotrie à front marron
   de: Rotstirn-Würgervireo
-  pt: trilling shrike-babbler
+  pt: ''
   ru: Краснолобая птерутия
   ja: ジャワクリビタイモズチメドリ
-  zh: Trilling Shrike-babbler
+  zh: ''
   nl: Javaanse briltimalia
   pl: dzierzbogłów rdzawoczelny
   tr: Kızıl Alınlı Kasapkuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29371.0
 names:
   scientific: Brachypteryx floris
-  fa: nan
+  fa: ''
   en: Flores Shortwing
   es: Alicorto de Flores
   fr: Brachyptère de Florès
   de: Flores-Bergkurzflügel
-  pt: flores shortwing
+  pt: ''
   ja: フローレスコバネヒタキ
   nl: Floreskortvleugel
   pl: kusochwostka białogardła

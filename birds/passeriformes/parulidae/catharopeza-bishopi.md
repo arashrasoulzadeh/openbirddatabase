@@ -12,7 +12,7 @@ names:
   es: Reinita de San Vicente
   fr: Paruline de Saint-Vincent
   de: Pfeifwaldsänger
-  pt: whistling warbler
+  pt: ''
   ru: Свистящая древесница
   ja: メジロアメリカムシクイ
   nl: Sint-Vincentzanger

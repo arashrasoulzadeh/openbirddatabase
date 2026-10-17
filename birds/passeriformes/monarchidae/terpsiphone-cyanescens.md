@@ -15,7 +15,7 @@ names:
   pt: blue paradise-flycatcher
   ru: Кобальтовая райская мухоловка
   ja: アオサンコウチョウ
-  zh: Blue Paradise Flycatcher
+  zh: ''
   nl: Blauwe paradijsmonarch
   pl: muchodławka błękitna
   tr: Palavan Monarkı

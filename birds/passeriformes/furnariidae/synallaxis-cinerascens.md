@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15574.0
 names:
   scientific: Synallaxis cinerascens
-  fa: nan
+  fa: ''
   en: Grey-bellied Spinetail
   es: Pijuí Ceniciento
   fr: Synallaxe grisin
@@ -15,7 +15,7 @@ names:
   pt: pi-puí
   ru: Серобрюхая иглохвостка
   ja: ハイバラオナガカマドドリ
-  zh: Grey-bellied Spinetail
+  zh: ''
   nl: Grijsbuikstekelstaart
   pl: ogończyk szarobrzuchy
   tr: Gri Karınlı Dikenkuyruk

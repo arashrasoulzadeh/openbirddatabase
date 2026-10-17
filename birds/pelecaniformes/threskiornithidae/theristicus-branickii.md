@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 7488.0
 names:
   scientific: Theristicus branickii
-  fa: nan
+  fa: ''
   en: Andean Ibis
   es: Bandurria Andina
   fr: Ibis des Andes
   de: Andenibis
-  pt: andean ibis
+  pt: ''
   ru: Андский ибис
   ja: アンデストキ
   nl: Andesibis

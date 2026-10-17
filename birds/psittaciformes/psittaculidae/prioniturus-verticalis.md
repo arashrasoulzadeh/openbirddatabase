@@ -15,7 +15,7 @@ names:
   pt: blue-winged racquet-tail
   ru: Синекрылый ракетохвост
   ja: アオバネウチワインコ
-  zh: Blue-winged Racket-tail
+  zh: ''
   nl: Suluvlagstaartpapegaai
   pl: listkogonka czerwonoczapkowa
   tr: Sulu Raket Kuyruklu Papağanı

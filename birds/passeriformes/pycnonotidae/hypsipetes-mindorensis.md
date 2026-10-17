@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24548.0
 names:
   scientific: Hypsipetes mindorensis
-  fa: nan
+  fa: ''
   en: Mindoro Bulbul
   es: Bulbul de Mindoro
   fr: Bulbul de Mindoro
   de: Mindorobülbül
-  pt: mindoro bulbul
+  pt: ''
   ru: Миндорский бюльбюль
   ja: ミンドロヒヨドリ
   nl: Mindorobuulbuul

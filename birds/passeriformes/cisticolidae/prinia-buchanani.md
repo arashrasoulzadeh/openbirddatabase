@@ -12,7 +12,7 @@ names:
   es: Prinia Frentirrufa
   fr: Prinia à front roux
   de: Roststirnprinie
-  pt: rufous-fronted prinia
+  pt: ''
   ru: Рыжелобая приния
   ja: ズアカハウチワドリ
   nl: Roodkruinprinia

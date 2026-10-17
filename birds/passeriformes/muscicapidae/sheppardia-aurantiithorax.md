@@ -12,7 +12,7 @@ names:
   es: Akelat de Rubeho
   fr: Rougegorge de Tanzanie
   de: Rubehorötel
-  pt: rubeho akalat
+  pt: ''
   ru: Рубехский заряночник
   ja: ムネアカムジヒタキ
   nl: Rebuhojanfrederik

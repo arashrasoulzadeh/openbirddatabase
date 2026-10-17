@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8222.0
 names:
   scientific: Tachyspiza henicogramma
-  fa: nan
+  fa: ''
   en: Moluccan Goshawk
   es: Azor Moluqueño
   fr: Autour des Moluques
   de: Halmaherahabicht
-  pt: moluccan goshawk
+  pt: ''
   ru: Молуккский ястреб
   ja: チャバラオオタカ
   zh: 摩鹿加雀鷹

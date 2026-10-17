@@ -12,7 +12,7 @@ names:
   es: Amazona Puertorriqueña
   fr: Amazone de Porto Rico
   de: Puerto-Rico-Amazone
-  pt: puerto rican amazon
+  pt: ''
   ru: Пуэрториканский амазон
   ja: アカビタイボウシインコ
   zh: 波多黎各鸚鵡

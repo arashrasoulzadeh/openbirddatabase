@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29772.0
 names:
   scientific: Myrmecocichla tholloni
-  fa: nan
+  fa: ''
   en: Congo Moor Chat
   es: Zorzal Hormiguero del Congo
   fr: Traquet du Congo
   de: Kongoschmätzer
-  pt: congo moor chat
+  pt: ''
   ru: Луговая термитница
   ja: ハイイロアリヒタキ
   nl: Congomiertapuit

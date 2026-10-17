@@ -12,7 +12,7 @@ names:
   es: Egotelo Montano
   fr: Égothèle montagnard
   de: Berghöhlenschwalm
-  pt: mountain owlet-nightjar
+  pt: ''
   ru: Горный совиный козодой
   ja: ミヤマズクヨタカ
   nl: Bergdwergnachtzwaluw

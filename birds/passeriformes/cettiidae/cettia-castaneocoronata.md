@@ -12,7 +12,7 @@ names:
   es: Tesia Cabecicastaña
   fr: Bouscarle à tête marron
   de: Rotkopf-Seidensänger
-  pt: chestnut-headed tesia
+  pt: ''
   ru: Красноголовая короткохвостка
   ja: クリガシラコビトサザイ
   zh: 栗头地莺

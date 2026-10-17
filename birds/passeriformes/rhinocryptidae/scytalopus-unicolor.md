@@ -12,7 +12,7 @@ names:
   es: Churrín Unicolor
   fr: Mérulaxe unicolore
   de: Hellbauchtapaculo
-  pt: unicolored tapaculo
+  pt: ''
   ru: Одноцветный тапакуло
   ja: クロオタテドリ
   nl: Salvintapaculo

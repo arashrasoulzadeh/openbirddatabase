@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3895.0
 names:
   scientific: Chaetura egregia
-  fa: nan
+  fa: ''
   en: Pale-rumped Swift
   es: Vencejo Egregio
   fr: Martinet de Bolivie

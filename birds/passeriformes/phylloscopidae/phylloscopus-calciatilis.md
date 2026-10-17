@@ -12,7 +12,7 @@ names:
   es: Mosquitero Roquero
   fr: Pouillot calciatile
   de: Karstlaubsänger
-  pt: limestone leaf warbler
+  pt: ''
   ru: Карстовая пеночка
   ja: セッカイガンムシクイ
   zh: 灰岩柳莺

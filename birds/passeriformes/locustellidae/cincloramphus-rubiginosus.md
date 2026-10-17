@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23869.0
 names:
   scientific: Cincloramphus rubiginosus
-  fa: nan
+  fa: ''
   en: Rusty Thicketbird
   es: Yerbera Herrumbrosa
   fr: Mégalure rubigineuse
   de: Maronenbuschsänger
-  pt: rusty thicketbird
+  pt: ''
   ru: Бисмаркская клинохвостка
   ja: ハシリツグミモドキ
   nl: Bismarckzanger

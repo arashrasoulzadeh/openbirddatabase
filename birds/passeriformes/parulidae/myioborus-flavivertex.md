@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34383.0
 names:
   scientific: Myioborus flavivertex
-  fa: nan
+  fa: ''
   en: Yellow-crowned Whitestart
   es: Candelita Coronigualda
   fr: Paruline à cimier jaune
@@ -15,7 +15,7 @@ names:
   pt: yellow-crowned redstart
   ru: Желтошапочная канделита
   ja: キクイタダキアメリカムシクイ
-  zh: Yellow-crowned Whitestart
+  zh: ''
   nl: Geelkruinzanger
   pl: pleszówka żółtołbista
   tr: Sarı Taçlı Ötleğen

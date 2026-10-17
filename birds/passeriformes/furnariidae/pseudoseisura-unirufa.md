@@ -15,7 +15,7 @@ names:
   pt: casaca-de-couro-de-crista-cinza
   ru: Рыжая качолота
   ja: アカエボシカマドドリ
-  zh: Grey-crested Cacholote
+  zh: ''
   nl: Grijskuifcachalote
   pl: kamionek szaroczuby
   tr: Kızıl Kaşolot

@@ -12,7 +12,7 @@ names:
   es: Colibrí Real
   fr: Héliange royal
   de: Blausonnennymphe
-  pt: royal sunangel
+  pt: ''
   ru: Королевский феб
   ja: ロイヤルテンシハチドリ
   zh: 皇帝领蜂鸟

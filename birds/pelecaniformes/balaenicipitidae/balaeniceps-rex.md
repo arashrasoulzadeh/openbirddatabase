@@ -12,7 +12,7 @@ names:
   es: Picozapato
   fr: Bec-en-sabot du Nil
   de: Schuhschnabel
-  pt: shoebill
+  pt: ''
   ru: Китоглав
   ja: ハシビロコウ
   zh: 鯨頭鸛

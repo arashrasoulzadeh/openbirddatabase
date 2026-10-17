@@ -15,7 +15,7 @@ names:
   pt: south african swallow
   ru: Южноафриканская ласточка
   ja: ナンアサンショクツバメ
-  zh: South African Cliff Swallow
+  zh: ''
   nl: Kaapse klifzwaluw
   pl: jaskółka towarzyska
   tr: Güney Afrika Kırlangıcı

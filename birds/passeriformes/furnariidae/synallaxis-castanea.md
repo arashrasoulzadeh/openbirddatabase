@@ -12,7 +12,7 @@ names:
   es: Pijuí Gorjinegro
   fr: Synallaxe de Vaurie
   de: Schwarzkehl-Dickichtschlüpfer
-  pt: black-throated spinetail
+  pt: ''
   ru: Черногорлая иглохвостка
   ja: ノドグロオナガカマドドリ
   nl: Kastanjestekelstaart

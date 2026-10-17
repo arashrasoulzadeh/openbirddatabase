@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 21519.0
 names:
   scientific: Coloeus dauuricus
-  fa: nan
+  fa: ''
   en: Daurian Jackdaw
   es: Grajilla Oriental
   fr: Choucas de Daourie

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 7589.0
 names:
   scientific: Botaurus novaezelandiae
-  fa: nan
+  fa: ''
   en: New Zealand Bittern
   es: Avetorillo Maorí
   fr: Blongios à dos noir
   de: Schwarzrückendommel
-  pt: new zealand bittern
+  pt: ''
   ru: Новозеландский волчок
   ja: オーストラリアヨシゴイ
   nl: Nieuw-Zeelandse woudaap

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16870.0
 names:
   scientific: Lathrotriccus euleri
-  fa: nan
+  fa: ''
   en: Euler's Flycatcher
   es: Mosquero de Euler
   fr: Moucherolle d'Euler

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9661.0
 names:
   scientific: Lophoceros fasciatus
-  fa: nan
+  fa: ''
   en: Congo Pied Hornbill
   es: Toco Blanquinegro del Congo
   fr: Calao longibande
   de: Elstertoko
-  pt: congo pied hornbill
+  pt: ''
   ru: Пёстрый ток
   ja: シロクロコサイチョウ
   zh: 斑尾彎嘴犀鳥

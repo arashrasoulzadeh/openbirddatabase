@@ -12,7 +12,7 @@ names:
   es: Tejedor Insigne
   fr: Tisserin à cape brune
   de: Braunkappenweber
-  pt: brown-capped weaver
+  pt: ''
   ru: Бурошапочный ткач
   ja: チャボウシハタオリ
   nl: Bruinkopwever

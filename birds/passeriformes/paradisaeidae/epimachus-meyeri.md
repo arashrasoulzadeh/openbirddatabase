@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Meyer
   fr: Paradisier de Meyer
   de: Braunbauch-Paradieshopf
-  pt: brown sicklebill
+  pt: ''
   ru: Коричневый райский шилоклюв
   ja: チャイロカマハシフウチョウ
   nl: Bruine sikkelsnavel

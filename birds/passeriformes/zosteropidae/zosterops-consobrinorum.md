@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25740.0
 names:
   scientific: Zosterops consobrinorum
-  fa: nan
+  fa: ''
   en: Pale-bellied White-eye
   es: Anteojitos Ventripálido
   fr: Zostérops à ventre pâle
@@ -15,7 +15,7 @@ names:
   pt: sulawesi white-eye
   ru: Сулавесская белоглазка
   ja: セレベスハントウメジロ
-  zh: Pale-bellied White-eye
+  zh: ''
   nl: Sulawesibrilvogel
   pl: szlarnik jasnobrzuchy
   tr: Selebes Gözlükçüsü

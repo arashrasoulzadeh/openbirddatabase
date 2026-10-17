@@ -12,7 +12,7 @@ names:
   es: Serín Gris
   fr: Serin gris
   de: Südbrauengirlitz
-  pt: streaky-headed seedeater
+  pt: ''
   ru: Пестроголовый канареечник
   ja: ホオグロカナリア
   nl: Streepkopkanarie

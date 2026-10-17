@@ -12,7 +12,7 @@ names:
   es: Chachalaca Culirroja
   fr: Ortalide à ventre roux
   de: Rotsteißguan
-  pt: rufous-vented chachalaca
+  pt: ''
   ru: Краснохвостая чачалака
   ja: ワキアカヒメシャクケイ
   zh: 棕臀稚冠雉

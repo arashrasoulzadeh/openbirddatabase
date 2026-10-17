@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34638.0
 names:
   scientific: Paroaria baeri
-  fa: nan
+  fa: ''
   en: Crimson-fronted Cardinal
   es: Cardenilla Frentirroja
   fr: Paroare de Baer

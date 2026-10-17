@@ -14,7 +14,7 @@ names:
   de: Grauflügel-Trompetervogel
   ru: Серокрылый трубач
   ja: ラッパチョウ
-  zh: Grey-winged Trumpeter
+  zh: ''
   nl: Trompetvogel
   pl: gruchacz siwoskrzydły
   tr: Boz Kanatlı Borazankuşu

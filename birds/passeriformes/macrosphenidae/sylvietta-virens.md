@@ -12,7 +12,7 @@ names:
   es: Crombec Verde
   fr: Crombec vert
   de: Grünmantelsylvietta
-  pt: green crombec
+  pt: ''
   ru: Зелёный кромбек
   ja: ミドリチビオムシクイ
   nl: Groene krombek

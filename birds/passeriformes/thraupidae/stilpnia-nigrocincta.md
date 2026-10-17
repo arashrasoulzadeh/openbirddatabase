@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35021.0
 names:
   scientific: Stilpnia nigrocincta
-  fa: nan
+  fa: ''
   en: Masked Tanager
   es: Tangara Pechinegra
   fr: Calliste masqué

@@ -12,7 +12,7 @@ names:
   es: Arborófila de David
   fr: Torquéole de David
   de: Davidbuschwachtel
-  pt: orange-necked partridge
+  pt: ''
   ru: Оранжевогорлая лесная куропатка
   ja: サイゴンミヤマテッケイ
   zh: 橙頸山鷓鴣

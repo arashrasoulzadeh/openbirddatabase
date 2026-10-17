@@ -12,7 +12,7 @@ names:
   es: Vencejo Papú
   fr: Martinet papou
   de: Papuasegler
-  pt: papuan spinetail
+  pt: ''
   ru: Папуанский колючехвост
   ja: パプアハリオアマツバメ
   nl: Nieuw-Guinese gierzwaluw

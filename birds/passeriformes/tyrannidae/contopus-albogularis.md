@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16905.0
 names:
   scientific: Contopus albogularis
-  fa: nan
+  fa: ''
   en: White-throated Pewee
   es: Pibí Gorjiblanco
   fr: Moucherolle à bavette blanche

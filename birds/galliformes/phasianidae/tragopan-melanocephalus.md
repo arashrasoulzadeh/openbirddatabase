@@ -12,7 +12,7 @@ names:
   es: Tragopán Dorsigrís
   fr: Tragopan de Hastings
   de: Schwarzkopftragopan
-  pt: western tragopan
+  pt: ''
   ru: Черноголовый трагопан
   ja: ハイイロジュケイ
   zh: 黑头角雉

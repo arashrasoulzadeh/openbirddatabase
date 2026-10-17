@@ -12,7 +12,7 @@ names:
   es: Eufonia Gorjiamarilla
   fr: Organiste à gorge jaune
   de: Schwalbenorganist
-  pt: yellow-throated euphonia
+  pt: ''
   ru: Ласточковая эуфония
   ja: キノドスミレフウキンチョウ
   nl: Geelkeelorganist

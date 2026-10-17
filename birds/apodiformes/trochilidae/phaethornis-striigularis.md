@@ -12,7 +12,7 @@ names:
   es: Ermitaño Gorjiestriado
   fr: Ermite à gorge rayée
   de: Streifenkehl-Schattenkolibri
-  pt: stripe-throated hermit
+  pt: ''
   ru: Пестрогорлый колибри-отшельник
   ja: シマノドユミハチドリ
   zh: 纹喉隐蜂鸟

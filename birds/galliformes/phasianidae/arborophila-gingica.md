@@ -12,7 +12,7 @@ names:
   es: Arborófila de Fujián
   fr: Torquéole de Sonnerat
   de: Chinabuschwachtel
-  pt: white-necklaced partridge
+  pt: ''
   ru: Китайская лесная куропатка
   ja: フッケンミヤマテッケイ
   zh: 白眉山鹧鸪

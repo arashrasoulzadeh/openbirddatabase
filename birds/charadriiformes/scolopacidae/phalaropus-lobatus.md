@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6121.0
 names:
   scientific: Phalaropus lobatus
-  fa: nan
+  fa: ''
   en: Red-necked Phalarope
   es: Falaropo Picofino
   fr: Phalarope à bec étroit

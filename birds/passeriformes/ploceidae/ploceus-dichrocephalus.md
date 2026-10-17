@@ -12,7 +12,7 @@ names:
   es: Tejedor de Salvadori
   fr: Tisserin de Salvadori
   de: Gelbrückenweber
-  pt: juba weaver
+  pt: ''
   ru: Желтоспинный ткач
   ja: チャガシラハタオリ
   nl: Jubbawever

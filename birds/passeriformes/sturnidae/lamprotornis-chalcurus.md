@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27989.0
 names:
   scientific: Lamprotornis chalcurus
-  fa: nan
+  fa: ''
   en: Bronze-tailed Starling
   es: Estornino Colibronceado
   fr: Choucador à queue violette
   de: Erzglanzstar
-  pt: bronze-tailed starling
+  pt: ''
   ru: Бронзовохвостый спрео
   ja: ブロンズテリムク
   nl: Bronsstaartglansspreeuw

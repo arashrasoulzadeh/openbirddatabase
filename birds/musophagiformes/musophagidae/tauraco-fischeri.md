@@ -12,7 +12,7 @@ names:
   es: Turaco de Fischer
   fr: Touraco de Fischer
   de: Fischerturako
-  pt: fischer's turaco
+  pt: ''
   ru: Береговой турако
   ja: フィッシャーエボシドリ
   nl: Fischers toerako

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30501.0
 names:
   scientific: Cinnyris lotenius
-  fa: nan
+  fa: ''
   en: Loten's Sunbird
   es: Suimanga de Loten
   fr: Souimanga de Loten
   de: Lotennektarvogel
-  pt: loten's sunbird
+  pt: ''
   ru: Длинноклювая нектарница
   ja: クリムネタイヨウチョウ
   zh: 長嘴花蜜鳥

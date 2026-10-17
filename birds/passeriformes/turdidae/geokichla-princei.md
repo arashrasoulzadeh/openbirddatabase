@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28370.0
 names:
   scientific: Geokichla princei
-  fa: nan
+  fa: ''
   en: Grey Ground Thrush
   es: Zorzal de Ghana
   fr: Grive olivâtre
@@ -15,7 +15,7 @@ names:
   pt: gray ground-thrush
   ru: Ганский дрозд
   ja: フタオビツグミ
-  zh: Grey Ground Thrush
+  zh: ''
   nl: Grijze lijster
   pl: drozdaczek szary
   tr: Gana Ardıcı

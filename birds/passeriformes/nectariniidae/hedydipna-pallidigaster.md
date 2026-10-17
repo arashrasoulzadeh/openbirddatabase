@@ -12,7 +12,7 @@ names:
   es: Suimanga de Amani
   fr: Souimanga d'Amani
   de: Amaninektarvogel
-  pt: amani sunbird
+  pt: ''
   ru: Светлобрюхая нектарница
   ja: シロハラコバシタイヨウチョウ
   nl: Amanihoningzuiger

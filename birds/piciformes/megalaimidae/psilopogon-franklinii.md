@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10756.0
 names:
   scientific: Psilopogon franklinii
-  fa: nan
+  fa: ''
   en: Golden-throated Barbet
   es: Barbudo de Franklin
   fr: Barbu de Franklin
   de: Goldkehl-Bartvogel
-  pt: golden-throated barbet
+  pt: ''
   ru: Желтогорлый бородастик
   ja: キンノドゴシキドリ
   zh: 金喉拟啄木鸟

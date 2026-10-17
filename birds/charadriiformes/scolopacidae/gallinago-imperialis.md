@@ -12,7 +12,7 @@ names:
   es: Agachadiza Imperial
   fr: Bécassine impériale
   de: Kaiserbekassine
-  pt: imperial snipe
+  pt: ''
   ru: Королевский бекас
   ja: セジマタシギ
   nl: Keizersnip

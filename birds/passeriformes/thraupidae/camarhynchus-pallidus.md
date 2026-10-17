@@ -12,7 +12,7 @@ names:
   es: Pinzón de Darwin Carpintero
   fr: Géospize pique-bois
   de: Spechtdarwinfink
-  pt: woodpecker finch
+  pt: ''
   ru: Дятловый дарвинов вьюрок
   ja: キツツキフィンチ
   zh: 拟鴷树雀

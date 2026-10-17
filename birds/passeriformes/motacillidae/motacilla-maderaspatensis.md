@@ -12,7 +12,7 @@ names:
   es: Lavandera India
   fr: Bergeronnette indienne
   de: Weißbrauenstelze
-  pt: white-browed wagtail
+  pt: ''
   ru: Белобровая трясогузка
   ja: オオハクセキレイ
   zh: 大斑鹡鸰

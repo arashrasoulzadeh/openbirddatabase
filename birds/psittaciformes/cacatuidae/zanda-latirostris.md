@@ -15,7 +15,7 @@ names:
   pt: carnaby's black-cockatoo
   ru: Белохвостый траурный какаду
   ja: キミミクロオウム
-  zh: Carnaby's Black Cockatoo
+  zh: ''
   nl: Kortsnavelraafkaketoe
   pl: żałobnica eukaliptusowa
   tr: Carnaby Siyah Kakadusu

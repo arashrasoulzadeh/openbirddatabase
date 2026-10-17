@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17082.0
 names:
   scientific: Muscisaxicola maculirostris
-  fa: nan
+  fa: ''
   en: Spot-billed Ground Tyrant
   es: Dormilona Chica
   fr: Dormilon à bec maculé
@@ -15,7 +15,7 @@ names:
   pt: gaúcha-de-bico-manchado
   ru: Пестроклювая дормилона
   ja: コバシイワタイランチョウ
-  zh: Spot-billed Ground Tyrant
+  zh: ''
   nl: Leeuwerikgrondtiran
   pl: skałotyran plamkodzioby
   tr: Benek Gagalı Yer Tiranı

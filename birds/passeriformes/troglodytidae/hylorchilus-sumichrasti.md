@@ -12,7 +12,7 @@ names:
   es: Cucarachero Picofino
   fr: Troglodyte à bec fin
   de: Schmalschnabel-Zaunkönig
-  pt: sumichrast's wren
+  pt: ''
   ru: Тонкоклювый крапивник
   ja: ハシナガミソサザイ
   nl: Dunsnavelwinterkoning

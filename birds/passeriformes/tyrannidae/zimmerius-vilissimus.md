@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16799.0
 names:
   scientific: Zimmerius vilissimus
-  fa: nan
+  fa: ''
   en: Guatemalan Tyrannulet
   es: Mosquerito Nimio
   fr: Tyranneau gobemoucheron
   de: Weißstreif-Kleintyrann
-  pt: guatemalan tyrannulet
+  pt: ''
   ru: Очковый москитолов
   ja: マミジロコタイランチョウ
   nl: Brilvliegenpikker

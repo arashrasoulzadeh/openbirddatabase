@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 25714.0
 names:
   scientific: Zosterops modestus
-  fa: nan
+  fa: ''
   en: Seychelles White-eye
   es: Anteojitos de las Seychelles
   fr: Zostérops des Seychelles
   de: Mahébrillenvogel
-  pt: seychelles white-eye
+  pt: ''
   ru: Сейшельская белоглазка
   ja: セーシェルメジロ
   zh: 塞席爾繡眼

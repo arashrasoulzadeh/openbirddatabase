@@ -12,7 +12,7 @@ names:
   es: Turpial de Audubon
   fr: Oriole d'Audubon
   de: Schwarzkopftrupial
-  pt: audubon's oriole
+  pt: ''
   ru: Черноголовый трупиал
   ja: ズグロムクドリモドキ
   nl: Zwartkoptroepiaal

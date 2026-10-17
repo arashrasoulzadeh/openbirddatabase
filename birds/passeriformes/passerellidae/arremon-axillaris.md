@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33068.0
 names:
   scientific: Arremon axillaris
-  fa: nan
+  fa: ''
   en: Yellow-mandibled Sparrow
   es: Cerquero Pectoral Norteño
   fr: Tohi galonné
   de: Halbring-Buschammer
-  pt: yellow-mandibled sparrow
+  pt: ''
   nl: Meridagors
   pl: strojnogłowik żółtoskrzydły
 taxonomy:

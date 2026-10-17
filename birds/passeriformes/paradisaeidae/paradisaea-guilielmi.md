@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Imperial
   fr: Paradisier de Guillaume
   de: Kaiserparadiesvogel
-  pt: emperor bird-of-paradise
+  pt: ''
   ru: Императорская райская птица
   ja: シロカザリフウチョウ
-  zh: Emperor Bird-of-paradise
+  zh: ''
   nl: Keizerparadijsvogel
   pl: cudowronka białopióra
   tr: İmparator Cennetkuşu

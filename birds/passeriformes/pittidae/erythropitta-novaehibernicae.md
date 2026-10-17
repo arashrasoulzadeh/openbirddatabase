@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13333.0
 names:
   scientific: Erythropitta novaehibernicae
-  fa: nan
+  fa: ''
   en: Bismarck Pitta
   es: Pita de Nueva Irlanda
   fr: Brève de Nouvelle-Irlande
   de: Neuirland-Blaubrustpitta
-  pt: bismarck pitta
+  pt: ''
   ru: Латангайская питта
   nl: Bismarckpitta
   pl: kurtaczek archipelagowy

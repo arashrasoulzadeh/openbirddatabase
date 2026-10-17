@@ -12,7 +12,7 @@ names:
   es: Picaflores Liso
   fr: Dicée concolore
   de: Nilgirimistelfresser
-  pt: nilgiri flowerpecker
+  pt: ''
   ru: Одноцветный цветоед
   ja: アオハナドリ
   zh: 純色啄花

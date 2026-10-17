@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3239.0
 names:
   scientific: Coccyzus euleri
-  fa: nan
+  fa: ''
   en: Pearly-breasted Cuckoo
   es: Cuclillo Ventriblanco
   fr: Coulicou d'Euler

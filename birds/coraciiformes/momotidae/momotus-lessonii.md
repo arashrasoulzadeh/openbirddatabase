@@ -12,7 +12,7 @@ names:
   es: Momoto Diademado
   fr: Motmot de Lesson
   de: Diademmotmot
-  pt: lesson's motmot
+  pt: ''
   ru: Диадемовый момот
   ja: レッソンハチクイモドキ
   nl: Diadeemmotmot

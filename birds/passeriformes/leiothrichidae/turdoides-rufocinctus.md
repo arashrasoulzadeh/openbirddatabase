@@ -14,7 +14,7 @@ names:
   pt: red-collared mountain-babbler
   ru: Красношейная дроздовка
   ja: アカエリハシジロチメドリ
-  zh: Red-collared Babbler
+  zh: ''
   nl: Rothschildbergtimalia
   pl: stoczyk obrożny
   tr: Kızıl Boyunlu Yedikardeş

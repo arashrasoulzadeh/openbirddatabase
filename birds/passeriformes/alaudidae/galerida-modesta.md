@@ -12,7 +12,7 @@ names:
   es: Cogujada Modesta
   fr: Cochevis modeste
   de: Sonnenlerche
-  pt: sun lark
+  pt: ''
   ru: Солнечный жаворонок
   ja: コカンムリヒバリ
   zh: 太陽鳳頭百靈

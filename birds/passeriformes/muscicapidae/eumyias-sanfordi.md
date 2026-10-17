@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 29074.0
 names:
   scientific: Eumyias sanfordi
-  fa: nan
+  fa: ''
   en: Matinan Blue Flycatcher
   es: Papamoscas de Sanford
   fr: Gobemouche de Sanford
@@ -14,7 +14,7 @@ names:
   pt: matinan flycatcher
   ru: Минахасская нильтава
   ja: サンホードヒメアオヒタキ
-  zh: Matinan Blue Flycatcher
+  zh: ''
   nl: Sanfordniltava
   pl: dżunglówka szarawa
   tr: Sanford Sinekkapanı

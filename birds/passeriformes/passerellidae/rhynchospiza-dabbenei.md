@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32907.0
 names:
   scientific: Rhynchospiza dabbenei
-  fa: nan
+  fa: ''
   en: Yungas Sparrow
   es: Chingolo de Los Yungas
   fr: Bruant des yungas
   de: Yungasammer
-  pt: yungas sparrow
+  pt: ''
   ru: Юнгасская овсянка
   ja: ユンガススズメモドキ
   nl: Yungasgors

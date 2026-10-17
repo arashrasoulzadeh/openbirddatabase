@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30920.0
 names:
   scientific: Pachyphantes superciliosus
-  fa: nan
+  fa: ''
   en: Compact Weaver
   es: Tejedor Piquigrueso
   fr: Tisserin gros-bec
   de: Brauenweber
-  pt: compact weaver
+  pt: ''
   ru: Желтобровый ткач
   ja: アフリカコウヨウジャク
   nl: Bruinstuitwever

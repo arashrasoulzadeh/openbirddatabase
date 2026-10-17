@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11942.0
 names:
   scientific: Micrastur buckleyi
-  fa: nan
+  fa: ''
   en: Buckley's Forest Falcon
   es: Halcón Montés de Buckley
   fr: Carnifex de Buckley
@@ -15,7 +15,7 @@ names:
   pt: falcão-de-buckley
   ru: Амазонский лесной сокол
   ja: シロエリモリハヤブサ
-  zh: Buckley's Forest Falcon
+  zh: ''
   nl: Traylorbosvalk
   pl: trębacz obrożny
   tr: Buckley Orman Doğanı

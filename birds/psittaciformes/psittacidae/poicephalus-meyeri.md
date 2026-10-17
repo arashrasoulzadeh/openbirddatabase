@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12773.0
 names:
   scientific: Poicephalus meyeri
-  fa: nan
+  fa: ''
   en: Meyer's Parrot
   es: Lorito de Meyer
   fr: Perroquet de Meyer
   de: Goldbugpapagei
-  pt: meyer's parrot
+  pt: ''
   ru: Желтолобый попугай
   ja: ムラクモインコ
   nl: Meyerpapegaai

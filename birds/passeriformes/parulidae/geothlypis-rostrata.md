@@ -12,7 +12,7 @@ names:
   es: Mascarita de las Bahamas
   fr: Paruline des Bahamas
   de: Bahamagelbkehlchen
-  pt: bahama yellowthroat
+  pt: ''
   ru: Багамская желтогрудка
   ja: バハマカオグロムシクイ
   nl: Bahamamaskerzanger

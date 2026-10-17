@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12969.0
 names:
   scientific: Amazona guildingii
-  fa: nan
+  fa: ''
   en: St. Vincent Amazon
   es: Amazona de San Vicente
   fr: Amazone de Saint-Vincent
   de: Königsamazone
-  pt: st. vincent amazon
+  pt: ''
   ru: Королевский амазон
   ja: オウボウシインコ
   zh: 聖芬生鸚鵡

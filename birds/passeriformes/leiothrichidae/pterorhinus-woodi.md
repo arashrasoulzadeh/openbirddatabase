@@ -12,7 +12,7 @@ names:
   es: Babax Indio
   fr: Babaxe de Wood
   de: Victoriahäherling
-  pt: mount victoria babax
+  pt: ''
   ru: Певчая кустарница
   nl: Chinbabax
   pl: sójkowiec śpiewny

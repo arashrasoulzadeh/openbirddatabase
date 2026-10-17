@@ -12,7 +12,7 @@ names:
   es: Fodi de Aldabra
   fr: Foudi d'Aldabra
   de: Aldabraweber
-  pt: aldabra fody
+  pt: ''
   ru: Альдабранский фуди
   ja: アルダブラベニノジコ
   zh: 阿尔达布拉艳织雀

@@ -12,7 +12,7 @@ names:
   es: Monarca de Tahití
   fr: Monarque de Tahiti
   de: Tahitimonarch
-  pt: tahiti monarch
+  pt: ''
   ru: Таитянская помарея
   ja: タヒチヒタキ
   nl: Tahitimonarch

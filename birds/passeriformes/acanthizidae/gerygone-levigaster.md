@@ -12,7 +12,7 @@ names:
   es: Gerigón de Manglar
   fr: Gérygone des mangroves
   de: Mangrovegerygone
-  pt: mangrove gerygone
+  pt: ''
   ru: Мангровая геригона
   ja: マングローブセンニョムシクイ
   zh: 棕胸噪刺莺

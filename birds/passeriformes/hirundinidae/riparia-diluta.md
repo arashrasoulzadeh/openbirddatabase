@@ -12,7 +12,7 @@ names:
   es: Avión Pálido
   fr: Hirondelle pâle
   de: Fahluferschwalbe
-  pt: pale martin
+  pt: ''
   ru: Бледная береговушка
   ja: ウスショウドウツバメ
   zh: 淡色沙燕

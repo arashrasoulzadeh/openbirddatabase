@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25741.0
 names:
   scientific: Zosterops anomalus
-  fa: nan
+  fa: ''
   en: Black-ringed White-eye
   es: Anteojitos Anómalo
   fr: Zostérops à gorge citron
   de: Sulawesibrillenvogel
-  pt: black-ringed white-eye
+  pt: ''
   ru: Макассарская белоглазка
   ja: セレベスマカッサルメジロ
   zh: 檸喉繡眼

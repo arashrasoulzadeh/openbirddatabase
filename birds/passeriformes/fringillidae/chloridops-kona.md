@@ -12,7 +12,7 @@ names:
   es: Kona
   fr: Psittirostre à gros bec
   de: Konakleidervogel
-  pt: kona grosbeak
+  pt: ''
   ru: Большеклювая кона
   ja: ハワイマシコ
   zh: 科納松雀

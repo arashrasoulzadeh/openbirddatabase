@@ -12,7 +12,7 @@ names:
   es: Papamoscas Ultramarino
   fr: Gobemouche ultramarin
   de: Weißbrauenschnäpper
-  pt: ultramarine flycatcher
+  pt: ''
   ru: Ультрамариновая мухоловка
   ja: マユヒタキ
   zh: 白眉蓝姬鹟

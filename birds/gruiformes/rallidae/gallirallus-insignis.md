@@ -15,7 +15,7 @@ names:
   pt: new britain rail
   ru: Новобританский трескун
   ja: ニューブリテンクイナ
-  zh: Pink-legged Rail
+  zh: ''
   nl: Nieuw-Brittanniëral
   pl: wodnik różowonogi
   tr: Yeni Britanya Yelvesi

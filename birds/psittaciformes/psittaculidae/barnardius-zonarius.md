@@ -12,7 +12,7 @@ names:
   es: Perico de Port Lincoln
   fr: Perruche à col jaune
   de: Ringsittich
-  pt: australian ringneck
+  pt: ''
   ru: Воротничковый попугай
   ja: コダイマキエインコ
   zh: 澳環頸鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Correcaminos Grande
   fr: Grand Géocoucou
   de: Wegekuckuck
-  pt: greater roadrunner
+  pt: ''
   ru: Калифорнийская кукушка-подорожник
   ja: オオミチバシリ
   zh: 走鵑

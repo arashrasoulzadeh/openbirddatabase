@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35412.0
 names:
   scientific: Incaspiza laeta
-  fa: nan
+  fa: ''
   en: Buff-bridled Inca Finch
   es: Incaspiza Bigotudo
   fr: Incaspize à moustaches
@@ -15,7 +15,7 @@ names:
   pt: buff-bridled inca-finch
   ru: Усатая пизарита-инка
   ja: ノドグロインカシトド
-  zh: Buff-bridled Inca Finch
+  zh: ''
   nl: Geelbaardincagors
   pl: ineczka wąsata
   tr: Ak Bıyıklı İnka İspinozu

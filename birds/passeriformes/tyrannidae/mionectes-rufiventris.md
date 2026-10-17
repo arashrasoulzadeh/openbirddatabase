@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16231.0
 names:
   scientific: Mionectes rufiventris
-  fa: nan
+  fa: ''
   en: Grey-hooded Flycatcher
   es: Mosquero Ladrillito
   fr: Pipromorphe à ventre roux
@@ -15,7 +15,7 @@ names:
   pt: abre-asa-de-cabeça-cinza
   ru: Рыжебрюхий тираннчик
   ja: ハイガシラオリーブハエトリ
-  zh: Grey-hooded Flycatcher
+  zh: ''
   nl: Grijskappipratiran
   pl: muchotyranik szarogłowy
   tr: Gri Başlıklı Tiranület

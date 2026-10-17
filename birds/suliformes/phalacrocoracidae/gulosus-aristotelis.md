@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7418.0
 names:
   scientific: Gulosus aristotelis
-  fa: nan
+  fa: ''
   en: European Shag
   es: Cormorán Moñudo
   fr: Cormoran huppé

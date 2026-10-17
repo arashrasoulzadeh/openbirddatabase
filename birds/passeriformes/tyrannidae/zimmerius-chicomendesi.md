@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 16797.0
 names:
   scientific: Zimmerius chicomendesi
-  fa: nan
+  fa: ''
   en: Chico's Tyrannulet
   es: Mosquerito de Chico Mendes
   fr: Tyranneau de Mendes

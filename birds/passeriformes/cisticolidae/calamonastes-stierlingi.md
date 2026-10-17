@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23004.0
 names:
   scientific: Calamonastes stierlingi
-  fa: nan
+  fa: ''
   en: Stierling's Wren-Warbler
   es: Camaróptera del Stierling
   fr: Camaroptère de Stierling
   de: Wellenkehl-Bindensänger
-  pt: stierling's wren-warbler
+  pt: ''
   ru: Ястребиная зебрина
   nl: Kleine savannezanger
   pl: zebrynka pasiasta

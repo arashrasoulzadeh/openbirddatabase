@@ -12,7 +12,7 @@ names:
   es: Cuervo Violeta
   fr: Corneille violacée
   de: Seramkrähe
-  pt: violet crow
+  pt: ''
   ru: Серамская ворона
   ja: セラムガラス
   nl: Violette kraai

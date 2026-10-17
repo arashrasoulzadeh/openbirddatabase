@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16305.0
 names:
   scientific: Lophotriccus pileatus
-  fa: nan
+  fa: ''
   en: Scale-crested Pygmy Tyrant
   es: Cimerillo Andino
   fr: Microtyran chevelu
@@ -15,7 +15,7 @@ names:
   pt: scale-crested pygmy-tyrant
   ru: Рыжехохлая чубатка
   ja: カンムリハエトリ
-  zh: Scale-crested Pygmy Tyrant
+  zh: ''
   nl: Schubkuifdwergtiran
   pl: łuskoczubek rdzawopióry
   tr: And Taçlı Tiranı

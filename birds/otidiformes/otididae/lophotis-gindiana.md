@@ -12,7 +12,7 @@ names:
   es: Sisón Moñudo Etíope
   fr: Outarde d'Oustalet
   de: Äthiopientrappe
-  pt: buff-crested bustard
+  pt: ''
   ru: Светлохохлый корхан
   ja: キタカンムリショウノガン
   zh: 軟冠鴇

@@ -12,7 +12,7 @@ names:
   es: Lavandera Forestal
   fr: Bergeronnette de forêt
   de: Baumstelze
-  pt: forest wagtail
+  pt: ''
   ru: Древесная трясогузка
   ja: イワミセキレイ
   zh: 山鹡鸰

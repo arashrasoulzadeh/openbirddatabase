@@ -15,7 +15,7 @@ names:
   pt: mascarene paradise-flycatcher
   ru: Маскаренская райская мухоловка
   ja: マスカリンサンコウチョウ
-  zh: Mascarene Paradise Flycatcher
+  zh: ''
   nl: Mascarenenparadijsmonarch
   pl: muchodławka maskareńska
   tr: Maskarenya Monarkı

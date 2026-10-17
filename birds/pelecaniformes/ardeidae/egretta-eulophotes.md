@@ -12,7 +12,7 @@ names:
   es: Garceta China
   fr: Aigrette de Chine
   de: Schneereiher
-  pt: chinese egret
+  pt: ''
   ru: Желтоклювая цапля
   ja: カラシラサギ
   zh: 黄嘴白鹭

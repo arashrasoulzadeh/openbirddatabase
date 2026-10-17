@@ -15,7 +15,7 @@ names:
   pt: lesser ground-robin
   ru: Малая дриада
   ja: ヒメパプアヤマツグミ
-  zh: Lesser Ground Robin
+  zh: ''
   nl: Kortstaartlijstervliegenvanger
   pl: piechotek mały
   tr: Küçük Yer Bülbülü

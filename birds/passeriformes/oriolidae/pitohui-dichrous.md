@@ -12,7 +12,7 @@ names:
   es: Pitohuí Bicolor
   fr: Pitohui bicolore
   de: Zweifarbpirol
-  pt: hooded pitohui
+  pt: ''
   ru: Двухцветный питоху
   ja: ズグロモリモズ
   zh: 黑頭林鵙鶲

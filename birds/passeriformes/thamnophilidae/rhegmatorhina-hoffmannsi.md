@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14095.0
 names:
   scientific: Rhegmatorhina hoffmannsi
-  fa: nan
+  fa: ''
   en: White-breasted Antbird
   es: Hormiguero Pechiblanco
   fr: Fourmilier à poitrine blanche

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33649.0
 names:
   scientific: Cacicus cela
-  fa: nan
+  fa: ''
   en: Yellow-rumped Cacique
   es: Cacique Lomiamarillo
   fr: Cassique cul-jaune

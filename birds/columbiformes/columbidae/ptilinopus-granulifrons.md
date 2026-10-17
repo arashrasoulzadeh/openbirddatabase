@@ -15,7 +15,7 @@ names:
   pt: carunculated fruit-dove
   ru: Бородавчатый фруктовый голубь
   ja: トサカヒメアオバト
-  zh: Carunculated Fruit Dove
+  zh: ''
   nl: Obi-jufferduif
   pl: owocożer brodawkowy
   tr: İbikli Meyve Kumrusu

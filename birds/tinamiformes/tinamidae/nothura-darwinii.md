@@ -12,7 +12,7 @@ names:
   es: Tinamú de Darwin
   fr: Tinamou de Darwin
   de: Darwintinamu
-  pt: darwin's nothura
+  pt: ''
   ru: Дарвинова нотура
   ja: ダーウィンシギダチョウ
   zh: 达尔文拟䳍

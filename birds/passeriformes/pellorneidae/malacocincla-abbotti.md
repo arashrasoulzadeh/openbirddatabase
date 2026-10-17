@@ -12,7 +12,7 @@ names:
   es: Tordina de Abbott
   fr: Akalat d'Abbott
   de: Rotschwanz-Mausdrossling
-  pt: abbott's babbler
+  pt: ''
   ru: Краснохвостый шелкопёр
   ja: ハシブトムジチメドリ
   zh: 阿氏雅鹛

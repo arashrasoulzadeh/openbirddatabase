@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 27714.0
 names:
   scientific: Aplonis brunneicapillus
-  fa: nan
+  fa: ''
   en: White-eyed Starling
   es: Estornino Ojiblanco
   fr: Stourne aux yeux blancs
   de: Weißaugenstar
-  pt: white-eyed starling
+  pt: ''
   ru: Вилохвостый скворец
   ja: メジロカラスモドキ
   nl: Witoogpurperspreeuw

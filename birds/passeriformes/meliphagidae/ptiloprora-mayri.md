@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18068.0
 names:
   scientific: Ptiloprora mayri
-  fa: nan
+  fa: ''
   en: Mayr's Honeyeater
   es: Mielero de Mayr
   fr: Méliphage de Mayr
   de: Mayrhonigfresser
-  pt: mayr's honeyeater
+  pt: ''
   ru: Горный нектароед
   ja: キタセスジミツスイ
   nl: Mayrhoningeter

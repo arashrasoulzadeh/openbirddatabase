@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3544.0
 names:
   scientific: Quechuavis decussata
-  fa: nan
+  fa: ''
   en: Tschudi's Nightjar
   es: Chotacabras Ñañarca Chico
   fr: Engoulevent de Tschudi
   de: Schmalspiegel-Nachtschwalbe
-  pt: tschudi's nightjar
+  pt: ''
   ru: Атакамский козодой
   ja: チューディヨタカ
   nl: Peruaanse nachtzwaluw

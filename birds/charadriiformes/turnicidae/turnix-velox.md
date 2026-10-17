@@ -12,7 +12,7 @@ names:
   es: Torillo Veloz
   fr: Petit Turnix
   de: Zwerglaufhühnchen
-  pt: little buttonquail
+  pt: ''
   ru: Австралийская трёхперстка
   ja: マメミフウズラ
   zh: 小三趾鹑

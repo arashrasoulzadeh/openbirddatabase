@@ -15,7 +15,7 @@ names:
   pt: gray-breasted seedsnipe
   ru: Серогрудый зобатый бегунок
   ja: ノドジロヒバリチドリ
-  zh: Grey-breasted Seedsnipe
+  zh: ''
   nl: Punakwartelsnip
   pl: andówka szaropierśna
   tr: Gri Göğüslü Tohumçulluğu

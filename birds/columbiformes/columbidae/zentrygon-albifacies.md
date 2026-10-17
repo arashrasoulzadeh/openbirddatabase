@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2374.0
 names:
   scientific: Zentrygon albifacies
-  fa: nan
+  fa: ''
   en: White-faced Quail-Dove
   es: Paloma Perdiz Cariblanca
   fr: Colombe des nuages
   de: Weißgesichttaube
-  pt: white-faced quail-dove
+  pt: ''
   ru: Белолицая перепелиная горлица
   ja: カオジロウズラバト
   zh: 灰头白脸鹑鸠

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33880.0
 names:
   scientific: Quiscalus nicaraguensis
-  fa: nan
+  fa: ''
   en: Nicaraguan Grackle
   es: Zanate Nicaragüense
   fr: Quiscale du Nicaragua
   de: Nicaraguagrackel
-  pt: nicaraguan grackle
+  pt: ''
   ru: Никарагуанский гракл
   ja: ニカラグアクロムクドリモドキ
   zh: 尼加拉瓜擬八哥

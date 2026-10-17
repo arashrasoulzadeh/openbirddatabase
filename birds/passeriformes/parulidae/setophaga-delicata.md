@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34193.0
 names:
   scientific: Setophaga delicata
-  fa: nan
+  fa: ''
   en: St. Lucia Warbler
   es: Reinita de Santa Lucía
   fr: Paruline de Sainte-Lucie
   de: Saint-Lucia-Waldsänger
-  pt: st. lucia warbler
+  pt: ''
   ru: Санталюсийская древесница
   ja: セントルシアアメリカミシクイ
   nl: Sint-Luciazanger

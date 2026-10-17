@@ -12,7 +12,7 @@ names:
   es: Vencejo Oriental
   fr: Martinet malais
   de: Malaiensegler
-  pt: house swift
+  pt: ''
   ru: Домовый стриж
   ja: ヒメアマツバメ
   zh: 小白腰雨燕

@@ -15,7 +15,7 @@ names:
   pt: bornean green-magpie
   ru: Борнейская цисса
   ja: ボルネオタンビヘキサン
-  zh: Bornean Green Magpie
+  zh: ''
   nl: Kinabalukitta
   pl: kitta białooka
   tr: Borneo Yeşil Saksağanı

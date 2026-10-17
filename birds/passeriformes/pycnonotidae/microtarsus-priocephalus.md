@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24619.0
 names:
   scientific: Microtarsus priocephalus
-  fa: nan
+  fa: ''
   en: Grey-headed Bulbul
   es: Bulbul Cabecigrís
   fr: Bulbul colombar
@@ -15,7 +15,7 @@ names:
   pt: gray-headed bulbul
   ru: Сероголовый бюльбюль
   ja: ハイガシラヒヨドリ
-  zh: Grey-headed Bulbul
+  zh: ''
   nl: Grijskopbuulbuul
   pl: bilbil szarogłowy
   tr: Gri Başlı Arapbülbülü

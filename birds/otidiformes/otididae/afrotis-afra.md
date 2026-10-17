@@ -15,7 +15,7 @@ names:
   pt: black bustard
   ru: Чёрный корхан
   ja: クロエリショウノガン
-  zh: Southern Black Korhaan
+  zh: ''
   nl: Zwarte trap
   pl: dropik czarny
   tr: Kara Toy

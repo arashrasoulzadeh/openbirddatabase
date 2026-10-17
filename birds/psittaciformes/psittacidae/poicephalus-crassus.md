@@ -7,15 +7,15 @@ iucn_status: LC
 taxon_order: 12785.0
 names:
   scientific: Poicephalus crassus
-  fa: nan
+  fa: ''
   en: Niam-niam Parrot
   es: Lorito Nianiam
   fr: Perroquet des Niam-niams
   de: Niamniampapagei
-  pt: niam-niam parrot
+  pt: ''
   ru: Центральноафриканский попугай
   ja: アカメチャガシラハネナガインコ
-  zh: Niam-niam Parrot
+  zh: ''
   nl: Niam-Niampapegaai
   pl: afrykanka kapturowa
   tr: Niam-Niam Papağanı

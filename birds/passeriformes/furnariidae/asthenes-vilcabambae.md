@@ -12,7 +12,7 @@ names:
   es: Piscuiz de Vilcabamba
   fr: Synallaxe de Vilcabamba
   de: Rostkehlcanastero
-  pt: vilcabamba thistletail
+  pt: ''
   ru: Чешуебрюхий чертополошник
   ja: ビルカバンバトゲオカマドドリ
   nl: Vilcabambadistelstaart

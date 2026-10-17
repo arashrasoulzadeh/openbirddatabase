@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5921.0
 names:
   scientific: Anarhynchus bicinctus
-  fa: nan
+  fa: ''
   en: Double-banded Plover
   es: Chorlitejo Bicinchado
   fr: Pluvier à double collier
   de: Doppelband-Regenpfeifer
-  pt: double-banded plover
+  pt: ''
   ru: Двухполосый зуёк
   ja: チャオビチドリ
   nl: Dubbelbandplevier

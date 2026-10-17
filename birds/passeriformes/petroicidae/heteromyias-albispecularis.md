@@ -15,7 +15,7 @@ names:
   pt: arfak robin
   ru: Пепельная белокосая мухоловка
   ja: マミジロヤブヒタキ
-  zh: Ashy Robin
+  zh: ''
   nl: Harlekijnstruikvliegenvanger
   pl: gwizdacz popielaty
   tr: Afrak Bülbülü

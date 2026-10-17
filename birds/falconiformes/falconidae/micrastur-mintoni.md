@@ -15,7 +15,7 @@ names:
   pt: falcão-críptico
   ru: Краснолицый лесной сокол
   ja: インベイモリハヤブサ
-  zh: Cryptic Forest Falcon
+  zh: ''
   nl: Mintonbosvalk
   pl: trębacz skryty
   tr: Saklı Orman Doğanı

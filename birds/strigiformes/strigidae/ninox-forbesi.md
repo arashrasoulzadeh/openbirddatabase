@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9384.0
 names:
   scientific: Ninox forbesi
-  fa: nan
+  fa: ''
   en: Tanimbar Boobook
   es: Nínox de las Tanimbar
   fr: Ninoxe des Tanimbar
   de: Tanimbarkauz
-  pt: tanimbar boobook
+  pt: ''
   ru: Танимбарская иглоногая сова
   ja: タニンバルアオバズク
   nl: Tanimbarvalkuil

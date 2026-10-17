@@ -12,7 +12,7 @@ names:
   es: Palila de Nihoa
   fr: Psittirostre de Nihoa
   de: Nihoakleidervogel
-  pt: nihoa finch
+  pt: ''
   ru: Нихоанская вьюрковая цветочница
   ja: ニホアハワイマシコ
   nl: Nihoavink

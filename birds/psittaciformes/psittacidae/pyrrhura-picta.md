@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13039.0
 names:
   scientific: Pyrrhura picta
-  fa: nan
+  fa: ''
   en: Painted Parakeet
   es: Cotorra Pintada
   fr: Conure versicolore

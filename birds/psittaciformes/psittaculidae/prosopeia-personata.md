@@ -15,7 +15,7 @@ names:
   pt: masked shining-parrot
   ru: Масковый попугай-арлекин
   ja: メンカブリインコ
-  zh: Masked Shining Parrot
+  zh: ''
   nl: Maskerparkiet
   pl: fidżyjka ognistobrzucha
   tr: Maskeli Papağan

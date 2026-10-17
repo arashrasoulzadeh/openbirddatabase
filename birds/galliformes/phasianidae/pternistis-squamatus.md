@@ -12,7 +12,7 @@ names:
   es: Francolín Escamoso
   fr: Francolin écaillé
   de: Schuppenfrankolin
-  pt: scaly spurfowl
+  pt: ''
   ru: Чешуйчатый франколин
   ja: ウロコシャコ
   nl: Geschubde frankolijn

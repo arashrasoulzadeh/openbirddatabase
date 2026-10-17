@@ -12,7 +12,7 @@ names:
   es: Carpintero de Gila
   fr: Pic des saguaros
   de: Gilaspecht
-  pt: gila woodpecker
+  pt: ''
   ru: Кактусовый дятел
   ja: サバクシマセゲラ
   nl: Gilaspecht

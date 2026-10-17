@@ -6,12 +6,12 @@ iucn_status: NT
 taxon_order: 5011.0
 names:
   scientific: Goldmania bella
-  fa: nan
+  fa: ''
   en: Pirre Hummingbird
   es: Colibrí del Pirre
   fr: Colibri du Pirré
   de: Rotgesichtkolibri
-  pt: pirre hummingbird
+  pt: ''
   ru: Панамский колибри
   ja: ビジョハチドリ
   zh: 棕颊蜂鸟

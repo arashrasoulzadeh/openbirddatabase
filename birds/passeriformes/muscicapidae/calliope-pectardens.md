@@ -12,7 +12,7 @@ names:
   es: Ruiseñor de David
   fr: Rossignol de David
   de: Feuerkehlnachtigall
-  pt: firethroat
+  pt: ''
   ru: Красногрудый соловей
   ja: ムネアカノゴマ
   zh: 金胸歌鸲

@@ -12,7 +12,7 @@ names:
   es: Colibrí Cora
   fr: Colibri cora
   de: Corakolibri
-  pt: peruvian sheartail
+  pt: ''
   ru: Перуанский искрохвост
   ja: ホソフタオハチドリ
   zh: 矛尾蜂鸟

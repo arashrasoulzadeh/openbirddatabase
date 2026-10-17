@@ -12,7 +12,7 @@ names:
   es: Carbonero de Sichuán
   fr: Mésange de Weigold
   de: Sichuanmeise
-  pt: sichuan tit
+  pt: ''
   ru: Сычуаньская гаичка
   ja: シセンコガラ
   zh: 川褐头山雀

@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 25659.0
 names:
   scientific: Zosterops semiflavus
-  fa: nan
+  fa: ''
   en: Marianne White-eye
   es: Anteojitos de Isla Marianne
   fr: Zostérops de Marianne
   de: Mariannebrillenvogel
-  pt: marianne white-eye
+  pt: ''
   ru: Сейшельская каштановобокая белоглазка
   ja: マリアンヌメジロ
   nl: Mariannebrilvogel

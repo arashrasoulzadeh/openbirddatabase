@@ -12,7 +12,7 @@ names:
   es: Maullador Bronceado
   fr: Jardinier des Geisler
   de: Braunscheitel-Laubenvogel
-  pt: tan-capped catbird
+  pt: ''
   ru: Пятнистая птица-кошка
   ja: チャガシラネコドリ
   zh: 褐冠貓鳥

@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 13030.0
 names:
   scientific: Pyrrhura pfrimeri
-  fa: nan
+  fa: ''
   en: Pfrimer's Parakeet
   es: Cotorra de Goiás
   fr: Conure de Pfrimer

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17743.0
 names:
   scientific: Meliphaga lewinii
-  fa: nan
+  fa: ''
   en: Lewin's Honeyeater
   es: Mielero de Lewin
   fr: Méliphage de Lewin
   de: Goldohr-Honigfresser
-  pt: lewin's honeyeater
+  pt: ''
   ru: Золотоухий медосос
   ja: キミミミツスイ
   nl: Geeloorhoningeter

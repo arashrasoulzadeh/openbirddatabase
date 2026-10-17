@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16087.0
 names:
   scientific: Pachyramphus minor
-  fa: nan
+  fa: ''
   en: Pink-throated Becard
   es: Anambé Gorjirrosa
   fr: Bécarde de Lesson

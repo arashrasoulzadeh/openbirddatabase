@@ -15,7 +15,7 @@ names:
   pt: halmahera oriole
   ru: Тёмная иволга
   ja: ハルマヘラコウライウグイス
-  zh: Dusky-brown Oriole
+  zh: ''
   nl: Halmaherawielewaal
   pl: wilga brązowa
   tr: Halmahera Sarıasması

@@ -12,7 +12,7 @@ names:
   es: Hemispingo Oleaginoso
   fr: Tangara ocré
   de: Olivrücken-Finkentangare
-  pt: oleaginous hemispingus
+  pt: ''
   ru: Оливковая пипира
   ja: チャイロモリフウキンチョウ
   nl: Olijfbruine tangare

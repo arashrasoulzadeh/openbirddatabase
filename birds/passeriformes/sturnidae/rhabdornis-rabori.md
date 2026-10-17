@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27695.0
 names:
   scientific: Rhabdornis rabori
-  fa: nan
+  fa: ''
   en: Visayan Rhabdornis
   es: Rabdornis de Rabor
   fr: Rhabdornis des Visayas
   de: Graukopf-Kleiberstar
-  pt: visayan rhabdornis
+  pt: ''
   ja: ビサヤキバシリモドキ
   nl: Visayakruiper
   pl: filipińczyk szarołbisty

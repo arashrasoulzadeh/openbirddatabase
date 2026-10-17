@@ -12,7 +12,7 @@ names:
   es: Tangara de Lentejuelas
   fr: Calliste béryl
   de: Silberfleckentangare
-  pt: beryl-spangled tanager
+  pt: ''
   ru: Берилловая танагра
   ja: ギンボシフウキンチョウ
   zh: 辉斑唐加拉雀

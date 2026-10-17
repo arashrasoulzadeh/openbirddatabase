@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14961.0
 names:
   scientific: Lepidocolaptes albolineatus
-  fa: nan
+  fa: ''
   en: Guianan Woodcreeper
   es: Trepatroncos Listado
   fr: Grimpar lancéolé

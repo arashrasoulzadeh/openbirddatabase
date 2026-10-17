@@ -15,7 +15,7 @@ names:
   pt: black-and-yellow silky-flycatcher
   ru: Чёрно-жёлтый шелкохвост
   ja: セグロレンジャクモドキ
-  zh: Black-and-yellow Phainoptila
+  zh: ''
   nl: Geelflankzijdevliegenvanger
   pl: atłasowiec żółtoboczny
   tr: Sarı-Siyah İpeklisinekkapan

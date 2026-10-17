@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13455.0
 names:
   scientific: Mackenziaena leachii
-  fa: nan
+  fa: ''
   en: Large-tailed Antshrike
   es: Batará Pintado
   fr: Batara de Leach

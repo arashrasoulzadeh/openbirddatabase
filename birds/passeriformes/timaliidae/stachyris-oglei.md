@@ -12,7 +12,7 @@ names:
   es: Timalí Gorjiblanco
   fr: Timalie d'Austen
   de: Weißkehl-Buschtimalie
-  pt: snowy-throated babbler
+  pt: ''
   ru: Белогорлая тимелия
   ja: ミミグロモリチメドリ
   zh: 奥氏穗鹛

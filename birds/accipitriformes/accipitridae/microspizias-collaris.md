@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8337.0
 names:
   scientific: Microspizias collaris
-  fa: nan
+  fa: ''
   en: Semicollared Hawk
   es: Gavilancito Torcaz
   fr: Épervier à collier interrompu
   de: Halsbandsperber
-  pt: semicollared hawk
+  pt: ''
   ru: Белогорлый ястреб-крошка
   ja: ナンベイアカエリツミ
   nl: Kraagsperwer

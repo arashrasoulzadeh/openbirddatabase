@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 30473.0
 names:
   scientific: Cinnyris aurora
-  fa: nan
+  fa: ''
   en: Palawan Sunbird
   es: Suimanga de Palawan
   fr: Souimanga aurore
-  pt: palawan sunbird
+  pt: ''
   nl: Palawanhoningzuiger
   pl: nektarnik palawański
   tr: Şafak Nektarkuşu

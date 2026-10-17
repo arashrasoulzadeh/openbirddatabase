@@ -12,7 +12,7 @@ names:
   es: Busardo Montañés
   fr: Buse montagnarde
   de: Bergbussard
-  pt: mountain buzzard
+  pt: ''
   ru: Горный канюк
   ja: マダラノスリ
   nl: Bergbuizerd

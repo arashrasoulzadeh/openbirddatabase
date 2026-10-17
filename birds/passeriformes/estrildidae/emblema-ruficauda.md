@@ -12,7 +12,7 @@ names:
   es: Diamante Colirrojo
   fr: Diamant à queue rousse
   de: Binsenamadine
-  pt: star finch
+  pt: ''
   ru: Краснохвостая амадина
   ja: コモンチョウ
   zh: 星雀

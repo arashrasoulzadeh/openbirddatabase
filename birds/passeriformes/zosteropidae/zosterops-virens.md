@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25703.0
 names:
   scientific: Zosterops virens
-  fa: nan
+  fa: ''
   en: Cape White-eye
   es: Anteojitos de El Cabo
   fr: Zostérops du Cap
   de: Kapbrillenvogel
-  pt: cape white-eye
+  pt: ''
   ru: Капская белоглазка
   ja: ケープメジロ
   zh: 南非繡眼

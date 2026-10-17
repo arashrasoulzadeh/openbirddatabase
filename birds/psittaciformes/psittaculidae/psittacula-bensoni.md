@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 12388.0
 names:
   scientific: Psittacula bensoni
-  fa: nan
+  fa: ''
   en: Mascarene Grey Parakeet
   es: Loro Gris de Mauricio
   fr: Perruche de Benson
   de: Mauritiusgraupapagei
   pt: mauritius gray parrot
   ru: Серый кольчатый попугай
-  zh: Mascarene Grey Parakeet
+  zh: ''
   nl: Thiriouxparkiet
   pl: aleksandretta szara
   tr: Morityus Papağanı

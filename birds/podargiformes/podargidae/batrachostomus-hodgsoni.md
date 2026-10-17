@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3789.0
 names:
   scientific: Batrachostomus hodgsoni
-  fa: nan
+  fa: ''
   en: Hodgson's Frogmouth
   es: Podargo Colilargo
   fr: Podarge de Hodgson
   de: Langschwanzschwalm
-  pt: hodgson's frogmouth
+  pt: ''
   ru: Длиннохвостый лягушкорот
   ja: メスボシガマグチヨタカ
   zh: 黑顶蟆口鸱

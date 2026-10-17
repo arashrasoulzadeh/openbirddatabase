@@ -11,7 +11,7 @@ names:
   es: Lori Solitario
   fr: Lori des Fidji
   de: Einsiedlerlori
-  pt: collared lory
+  pt: ''
   ru: Лори-отшельник
   ja: ハナレインコ
   zh: 領吸蜜鸚鵡

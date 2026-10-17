@@ -12,7 +12,7 @@ names:
   es: Cetia Coreana
   fr: Bouscarle mandchoue
   de: Mandschurenseidensänger
-  pt: manchurian bush warbler
+  pt: ''
   ru: Короткокрылая камышевка
   ja: チョウセンウグイス
   zh: 远东树莺

@@ -12,7 +12,7 @@ names:
   es: Pito Dorsiblanco
   fr: Pic de Goa
   de: Goldschulterspecht
-  pt: white-naped woodpecker
+  pt: ''
   ru: Золотокрылый дятел-султан
   ja: セグロコガネゲラ
   nl: Witnekspecht

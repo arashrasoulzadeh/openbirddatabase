@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21905.0
 names:
   scientific: Stenostira scita
-  fa: nan
+  fa: ''
   en: Fairy Flycatcher
   es: Papamoscas Duende
   fr: Mignard enchanteur
   de: Elfenschnäpper
-  pt: fairy flycatcher
+  pt: ''
   ru: Комаролов-эльф
   ja: センニョヒタキ
   zh: 仙玉鹟

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14257.0
 names:
   scientific: Grallaria albigula
-  fa: nan
+  fa: ''
   en: White-throated Antpitta
   es: Tororoí Gorjiblanco
   fr: Grallaire à gorge blanche
   de: Grauflanken-Ameisenpitta
-  pt: white-throated antpitta
+  pt: ''
   ru: Белогорлая питтовая муравьеловка
   ja: シロハラジアリドリ
   nl: Grijsborstmierpitta

@@ -15,7 +15,7 @@ names:
   pt: antioquia bristle-tyrant
   ru: Колумбийский тираннчик
   ja: アンティオキアヒゲハエトリ
-  zh: Antioquia Bristle Tyrant
+  zh: ''
   nl: Antioquialooftiran
   pl: tyrańczyk kolumbijski
   tr: Antiokya Yaprak Tiranı

@@ -12,7 +12,7 @@ names:
   es: Chochita de las Chatham
   fr: Bécassine des Chatham
   de: Chathamschnepfe
-  pt: chatham islands snipe
+  pt: ''
   ru: Чатемский хакавай
   ja: チャタムジシギ
   nl: Chathamsnip

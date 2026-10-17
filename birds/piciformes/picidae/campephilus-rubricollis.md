@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11553.0
 names:
   scientific: Campephilus rubricollis
-  fa: nan
+  fa: ''
   en: Red-necked Woodpecker
   es: Picamaderos Cuellirrojo
   fr: Pic à cou rouge

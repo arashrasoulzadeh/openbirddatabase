@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24512.0
 names:
   scientific: Hemixos flavala
-  fa: nan
+  fa: ''
   en: Ashy Bulbul
   es: Bulbul Ceniciento
   fr: Bulbul à ailes vertes
   de: Aschbülbül
-  pt: ashy bulbul
+  pt: ''
   ru: Желтокрылый бюльбюль
   ja: キバネヒヨドリ
   zh: 灰短脚鹎

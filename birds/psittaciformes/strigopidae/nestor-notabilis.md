@@ -12,7 +12,7 @@ names:
   es: Kea
   fr: Nestor kéa
   de: Kea
-  pt: kea
+  pt: ''
   ru: Кеа
   ja: ミヤマオウム
   zh: 啄羊鸚鵡

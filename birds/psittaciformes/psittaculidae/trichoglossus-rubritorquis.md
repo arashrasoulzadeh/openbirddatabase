@@ -12,7 +12,7 @@ names:
   es: Lori Cuellirojo
   fr: Loriquet à col rouge
   de: Rotnackenlori
-  pt: red-collared lorikeet
+  pt: ''
   ru: Красношейный лорикет
   ja: アカエリゴシキセイガイインコ
   zh: 紅領吸蜜鸚鵡

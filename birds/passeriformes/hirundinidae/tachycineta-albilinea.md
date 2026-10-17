@@ -12,7 +12,7 @@ names:
   es: Golondrina de Manglar
   fr: Hirondelle des mangroves
   de: Mangroveschwalbe
-  pt: mangrove swallow
+  pt: ''
   ru: Мангровая ласточка
   ja: シロオビミドリツバメ
   zh: 紅樹燕

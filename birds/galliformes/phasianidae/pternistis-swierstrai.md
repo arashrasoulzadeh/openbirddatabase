@@ -12,7 +12,7 @@ names:
   es: Francolín de Swierstra
   fr: Francolin de Swierstra
   de: Swierstrafrankolin
-  pt: swierstra's spurfowl
+  pt: ''
   ru: Ангольский франколин
   ja: クロクビワシャコ
   nl: Swierstrafrankolijn

@@ -12,7 +12,7 @@ names:
   es: Podargo Ocelado
   fr: Podarge ocellé
   de: Marmorschwalm
-  pt: marbled frogmouth
+  pt: ''
   ru: Мраморный лягушкорот
   ja: チャイロガマグチヨタカ
   nl: Marmeruilnachtzwaluw

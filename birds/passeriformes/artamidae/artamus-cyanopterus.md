@@ -12,7 +12,7 @@ names:
   es: Artamo Sombrío
   fr: Langrayen sordide
   de: Rußschwalbenstar
-  pt: dusky woodswallow
+  pt: ''
   ru: Белокрылый артам
   ja: ウスズミモリツバメ
   zh: 暗紅燕鵙

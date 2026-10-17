@@ -12,7 +12,7 @@ names:
   es: Alondra de El Cabo
   fr: Alouette à long bec
   de: Kap-Langschnabellerche
-  pt: cape long-billed lark
+  pt: ''
   ru: Кривоклювый африканский жаворонок
   ja: ハシボソヒバリ
   nl: Kaapse langsnavelleeuwerik

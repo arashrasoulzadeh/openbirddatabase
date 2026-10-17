@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34315.0
 names:
   scientific: Myiothlypis rivularis
-  fa: nan
+  fa: ''
   en: Riverbank Warbler
   es: Reinita Ribereña
   fr: Paruline des rives

@@ -12,7 +12,7 @@ names:
   es: Ganga India
   fr: Ganga indien
   de: Bindenflughuhn
-  pt: painted sandgrouse
+  pt: ''
   ru: Индийский рябок
   ja: サザナミサケイ
   zh: 彩沙鸡

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 11797.0
 names:
   scientific: Celeus galeatus
-  fa: nan
+  fa: ''
   en: Helmeted Woodpecker
   es: Carpintero Caricanelo
   fr: Pic casqué

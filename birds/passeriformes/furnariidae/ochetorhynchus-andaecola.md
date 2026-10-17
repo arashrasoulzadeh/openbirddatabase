@@ -12,7 +12,7 @@ names:
   es: Bandurrita Roquera
   fr: Chilia des Andes
   de: Rostschwanz-Erdhacker
-  pt: rock earthcreeper
+  pt: ''
   ru: Скальная чилия
   ja: カマハシイワカマドドリ
   nl: Rotsaardkruiper

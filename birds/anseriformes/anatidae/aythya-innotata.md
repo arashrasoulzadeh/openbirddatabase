@@ -12,7 +12,7 @@ names:
   es: Porrón Malgache
   fr: Fuligule de Madagascar
   de: Madagaskarmoorente
-  pt: madagascar pochard
+  pt: ''
   ru: Мадагаскарский нырок
   ja: マダガスカルメジロガモ
   zh: 馬達加斯加潛鴨

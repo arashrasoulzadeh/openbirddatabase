@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 30256.0
 names:
   scientific: Chalcomitra fuliginosa
-  fa: nan
+  fa: ''
   en: Carmelite Sunbird
   es: Suimanga Carmelita
   fr: Souimanga carmélite
   de: Rußglanzköpfchen
-  pt: carmelite sunbird
+  pt: ''
   ru: Красно-бурая нектарница
   ja: チョコレートタイヨウチョウ
   nl: Karmeliethoningzuiger

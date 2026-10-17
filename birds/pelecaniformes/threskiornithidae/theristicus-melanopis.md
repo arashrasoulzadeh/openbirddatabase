@@ -12,7 +12,7 @@ names:
   es: Bandurria Austral
   fr: Ibis à face noire
   de: Schwarzzügelibis
-  pt: black-faced ibis
+  pt: ''
   ru: Чернолицый ибис
   ja: カオグロトキ
   nl: Zwartmaskeribis

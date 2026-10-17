@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15145.0
 names:
   scientific: Philydor pyrrhodes
-  fa: nan
+  fa: ''
   en: Cinnamon-rumped Foliage-gleaner
   es: Ticotico Lomicanelo
   fr: Anabate flamboyant

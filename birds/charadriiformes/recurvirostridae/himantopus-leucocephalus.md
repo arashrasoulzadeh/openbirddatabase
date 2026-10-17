@@ -12,7 +12,7 @@ names:
   es: Cigüeñuela Australiana
   fr: Échasse d'Australie
   de: Weißgesicht-Stelzenläufer
-  pt: pied stilt
+  pt: ''
   ru: Австралийский ходулочник
   ja: オーストラリアセイタカシギ
   zh: 澳洲长脚鹬

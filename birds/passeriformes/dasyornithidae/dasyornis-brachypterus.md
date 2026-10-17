@@ -12,7 +12,7 @@ names:
   es: Picocerdas Oriental
   fr: Dasyorne brun
   de: Olivscheitel-Borstenvogel
-  pt: eastern bristlebird
+  pt: ''
   ru: Буроголовая щетинкоклювка
   ja: ヒゲムシクイ
   zh: 棕刺莺

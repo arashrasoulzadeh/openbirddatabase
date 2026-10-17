@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12609.0
 names:
   scientific: Lorius chlorocercus
-  fa: nan
+  fa: ''
   en: Yellow-bibbed Lory
   es: Lori Acollarado
   fr: Lori à collier jaune
   de: Grünschwanzlori
-  pt: yellow-bibbed lory
+  pt: ''
   ru: Зеленохвостый лори
   ja: ヨダレカケズグロインコ
   nl: Geelbeflori

@@ -12,7 +12,7 @@ names:
   es: Oo de Kauai
   fr: Moho de Kauai
   de: Schuppenkehlmoho
-  pt: kauai oo
+  pt: ''
   ru: Чешуегорлый мохо
   ja: キモモミツスイ
   zh: 奧亞吸蜜鳥

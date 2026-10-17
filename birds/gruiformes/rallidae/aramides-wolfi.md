@@ -15,7 +15,7 @@ names:
   pt: brown wood-rail
   ru: Бурый саракура
   ja: チャイロモリクイナ
-  zh: Brown Wood Rail
+  zh: ''
   nl: Bruine bosral
   pl: chruścielak brunatny
   tr: Wolf Orman Kılavuzu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32915.0
 names:
   scientific: Peucaea ruficauda
-  fa: nan
+  fa: ''
   en: Stripe-headed Sparrow
   es: Chingolo Cabecilistado
   fr: Bruant ligné
   de: Rostschwanzammer
-  pt: stripe-headed sparrow
+  pt: ''
   ru: Ржавохвостая овсянка
   ja: ホオグロスズメモドキ
   nl: Roeststaartgors

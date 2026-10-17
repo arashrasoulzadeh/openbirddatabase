@@ -12,7 +12,7 @@ names:
   es: Semillero de San Cristóbal
   fr: Pèrenoir de Saint-Kitts
   de: Kittsgimpeltangare
-  pt: st. kitts bullfinch
+  pt: ''
   ja: セントキッツクロウソ
   nl: Sint-Kittsdikbekje
   pl: gilówka duża

@@ -12,7 +12,7 @@ names:
   es: Turaco Piquinegro
   fr: Touraco à bec noir
   de: Schwarzschnabelturako
-  pt: black-billed turaco
+  pt: ''
   ru: Черноклювый турако
   ja: ハシグロエボシドリ
   nl: Zwartsnaveltoerako

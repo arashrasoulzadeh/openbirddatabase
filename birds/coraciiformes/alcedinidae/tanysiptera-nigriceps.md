@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 10290.0
 names:
   scientific: Tanysiptera nigriceps
-  fa: nan
+  fa: ''
   en: Black-capped Paradise Kingfisher
   es: Alción Colilargo Cabecinegro
   fr: Martin-chasseur à tête noire
   de: Schwarzkappenliest
   pt: black-capped paradise-kingfisher
   ru: Черношапочный райский зимородок
-  zh: Black-capped Paradise Kingfisher
+  zh: ''
   nl: Zwartkopvlagstaartijsvogel
   pl: sterowik czarnogłowy
   tr: Kara Başlıklı Cennet Yalıçapkını

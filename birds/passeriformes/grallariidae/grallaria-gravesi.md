@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14281.0
 names:
   scientific: Grallaria gravesi
-  fa: nan
+  fa: ''
   en: Chachapoyas Antpitta
   es: Tororoí de Graves
   fr: Grallaire de Graves
   de: Chachapoyasameisenpitta
-  pt: chachapoyas antpitta
+  pt: ''
   ja: チャチャポヤスジアリドリ
   nl: Chachapoyasmierpitta
   pl: kusaczka andyjska

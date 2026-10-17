@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13038.0
 names:
   scientific: Pyrrhura emma
-  fa: nan
+  fa: ''
   en: Venezuelan Parakeet
   es: Cotorra de Emma
   fr: Conure d'Emma
   de: Blauscheitelsittich
-  pt: venezuelan parakeet
+  pt: ''
   ru: Венесуэльская которра
   nl: Venezolaanse parkiet
   pl: rudosterka wenezuelska

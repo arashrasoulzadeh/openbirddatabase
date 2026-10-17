@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8804.0
 names:
   scientific: Megascops albogularis
-  fa: nan
+  fa: ''
   en: White-throated Screech Owl
   es: Autillo Gorjiblanco
   fr: Petit-duc à gorge blanche
@@ -15,7 +15,7 @@ names:
   pt: white-throated screech-owl
   ru: Белогорлая совка
   ja: ノドジロオオコノハズク
-  zh: White-throated Screech Owl
+  zh: ''
   nl: Witkeelschreeuwuil
   pl: syczoń białogardły
   tr: Ak Boğazlı Puhucuk

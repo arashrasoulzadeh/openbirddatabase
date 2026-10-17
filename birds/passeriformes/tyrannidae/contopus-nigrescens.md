@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16906.0
 names:
   scientific: Contopus nigrescens
-  fa: nan
+  fa: ''
   en: Blackish Pewee
   es: Pibí Negruzco
   fr: Moucherolle noirâtre

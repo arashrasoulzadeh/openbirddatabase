@@ -15,7 +15,7 @@ names:
   pt: gray-breasted flycatcher
   ru: Серогрудый мухолов
   ja: ハイムネメジロハエトリ
-  zh: Grey-breasted Flycatcher
+  zh: ''
   nl: Grijsborstfeetiran
   pl: tyranula szaropierśna
   tr: Gri Göğüslü Sinekkapan

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23969.0
 names:
   scientific: Thamnornis chloropetoides
-  fa: nan
+  fa: ''
   en: Thamnornis
   es: Zarzalero Kiritika
   fr: Kiritika malgache
   de: Kiritika-Madagaskarsänger
-  pt: thamnornis
+  pt: ''
   ru: Пустынная тетрака
   ja: キリチカムシクイ
   zh: 凯瑞薮莺

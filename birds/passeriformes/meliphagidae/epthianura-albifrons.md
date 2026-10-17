@@ -12,7 +12,7 @@ names:
   es: Eptianuro Pío
   fr: Epthianure à front blanc
   de: Weißgesicht-Trugschmätzer
-  pt: white-fronted chat
+  pt: ''
   ru: Белолицая пустынница
   ja: カオジロオーストラリアヒタキ
   nl: Maskerschijnpaapje

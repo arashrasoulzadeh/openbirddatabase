@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25832.0
 names:
   scientific: Zosterops oblitus
-  fa: nan
+  fa: ''
   en: Guadalcanal White-eye
   es: Anteojitos de Guadalcanal
   fr: Zostérops de Guadalcanal
   de: Guadalcanal-Brillenvogel
-  pt: guadalcanal white-eye
+  pt: ''
   nl: Guadalcanalbrilvogel
   pl: szlarnik szarogardły
   tr: Guadalkanal Adası Gözlükçüsü

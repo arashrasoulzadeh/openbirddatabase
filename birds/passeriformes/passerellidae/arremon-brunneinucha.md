@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33081.0
 names:
   scientific: Arremon brunneinucha
-  fa: nan
+  fa: ''
   en: Chestnut-capped Brushfinch
   es: Cerquero Coronicastaño
   fr: Tohi à nuque brune
   de: Braunkopf-Buschammer
-  pt: chestnut-capped brushfinch
+  pt: ''
   ru: Каштановоголовый тохи
   ja: クリボウシヤブシトド
   nl: Bruinkruinstruikgors

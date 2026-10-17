@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18186.0
 names:
   scientific: Philemon inornatus
-  fa: nan
+  fa: ''
   en: Timor Friarbird
   es: Filemón de Timor
   fr: Polochion sobre

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14749.0
 names:
   scientific: Xiphocolaptes promeropirhynchus
-  fa: nan
+  fa: ''
   en: Strong-billed Woodcreeper
   es: Trepatroncos Picofuerte
   fr: Grimpar géant

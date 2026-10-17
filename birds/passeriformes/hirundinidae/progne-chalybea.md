@@ -15,7 +15,7 @@ names:
   pt: andorinha-grande
   ru: Серогрудая ласточка
   ja: ハイムネムラサキツバメ
-  zh: Grey-breasted Martin
+  zh: ''
   nl: Grijsborstpurperzwaluw
   pl: jaskółczak szarogardły
   tr: Gri Göğüslü Kırlangıç

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16390.0
 names:
   scientific: Poecilotriccus albifacies
-  fa: nan
+  fa: ''
   en: White-cheeked Tody-Flycatcher
   es: Titirijí Cariblanco
   fr: Todirostre à face blanche

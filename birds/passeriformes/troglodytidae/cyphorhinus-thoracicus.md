@@ -12,7 +12,7 @@ names:
   es: Cucarachero Dorsicastaño del Sur
   fr: Troglodyte ferrugineux
   de: Kastanienbrust-Zaunkönig
-  pt: southern chestnut-breasted wren
+  pt: ''
   ru: Коричневогрудый толстоклювый крапивник
   ja: クリムネウタミソサザイ
   zh: 栗胸歌鹪鹩

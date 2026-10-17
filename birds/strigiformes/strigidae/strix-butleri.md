@@ -12,7 +12,7 @@ names:
   es: Cárabo de Omán
   fr: Chouette de Butler
   de: Omankauz
-  pt: omani owl
+  pt: ''
   ru: Оманская неясыть
   ja: オマーンフクロウ
   zh: 漠林鴞

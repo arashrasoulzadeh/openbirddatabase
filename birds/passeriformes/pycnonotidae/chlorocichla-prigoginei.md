@@ -12,7 +12,7 @@ names:
   es: Bulbul de Prigogine
   fr: Bulbul de Prigogine
   de: Prigoginebülbül
-  pt: prigogine's greenbul
+  pt: ''
   ru: Бенийский бюльбюль
   ja: プリゴジンアオヒヨドリ
   nl: Prigoginebuulbuul

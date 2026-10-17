@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18170.0
 names:
   scientific: Xanthotis polygrammus
-  fa: nan
+  fa: ''
   en: Spotted Honeyeater
   es: Mielero Manchado
   fr: Méliphage moucheté
   de: Drosselhonigfresser
-  pt: spotted honeyeater
+  pt: ''
   ru: Дроздовый медосос
   ja: ヤジリミツスイ
   nl: Gevlekte honingeter

@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 31960.0
 names:
   scientific: Fringilla canariensis
-  fa: nan
+  fa: ''
   en: Canary Islands Chaffinch
   es: Pinzón de Canarias
   fr: Pinson des Canaries
   de: Kanarenbuchfink
-  pt: canary islands chaffinch
+  pt: ''
   ru: Канарский зяблик
   ja: カナリアズアオアトリ
   zh: 加那利島蒼頭燕雀

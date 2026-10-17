@@ -12,7 +12,7 @@ names:
   es: Carpintero Yucateco
   fr: Pic du Yucatan
   de: Yucatánspecht
-  pt: yucatan woodpecker
+  pt: ''
   ru: Юкатанский дятел
   ja: ユカタンシマセゲラ
   nl: Yucatanspecht

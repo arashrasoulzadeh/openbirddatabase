@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10073.0
 names:
   scientific: Halcyon badia
-  fa: nan
+  fa: ''
   en: Chocolate-backed Kingfisher
   es: Alción Castaño
   fr: Martin-chasseur marron
   de: Kastanienliest
-  pt: chocolate-backed kingfisher
+  pt: ''
   ru: Каштановый зимородок
   ja: セグロショウビン
   zh: 栗背翡翠

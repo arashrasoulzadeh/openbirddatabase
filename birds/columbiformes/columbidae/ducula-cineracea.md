@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2834.0
 names:
   scientific: Ducula cineracea
-  fa: nan
+  fa: ''
   en: Timor Imperial Pigeon
   es: Dúcula de Timor
   fr: Carpophage cendrillon
@@ -15,7 +15,7 @@ names:
   pt: pombo-imperial-de-timor
   ru: Тиморский плодовый голубь
   ja: チモールミカドバト
-  zh: Timor Imperial Pigeon
+  zh: ''
   nl: Timorese muskaatduif
   pl: muszkatela płowobrzucha
   tr: Kül Rengi Has Güvercin

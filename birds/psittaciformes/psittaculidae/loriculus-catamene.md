@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 12723.0
 names:
   scientific: Loriculus catamene
-  fa: nan
+  fa: ''
   en: Sangihe Hanging Parrot
   es: Lorículo de Gran Sangir
   fr: Coryllis des Sangihe
@@ -15,7 +15,7 @@ names:
   pt: sangihe hanging-parrot
   ru: Сангийский лорикулюс
   ja: サンギヘサトウチョウ
-  zh: Sangihe Hanging Parrot
+  zh: ''
   nl: Sangirvleermuisparkiet
   pl: zwisogłówka czerwonorzytna
   tr: Sangihe Cennet Papağanı

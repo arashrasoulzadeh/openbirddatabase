@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 9723.0
 names:
   scientific: Anorrhinus tickelli
-  fa: nan
+  fa: ''
   en: Tickell's Brown Hornbill
   es: Cálao Pardo de Tickell
   fr: Calao brun
@@ -15,7 +15,7 @@ names:
   pt: rusty-cheeked hornbill
   ru: Бурая птица-носорог
   ja: ビルマサイチョウ
-  zh: Tickell's Brown Hornbill
+  zh: ''
   nl: Tenasserimneushoornvogel
   pl: dzioborożec rdzawobrzuchy
   tr: Kahverengi Boynuzgaga

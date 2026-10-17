@@ -12,7 +12,7 @@ names:
   es: Frutero Pechinaranja
   fr: Cotinga jucunda
   de: Orangebrustkotinga
-  pt: orange-breasted fruiteater
+  pt: ''
   ru: Оранжевогрудый ягодоед
   ja: ミヤマキムネミドリカザリドリ
   nl: Oranjebuikcotinga

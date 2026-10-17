@@ -12,7 +12,7 @@ names:
   es: Bulbul Cabeciblanco
   fr: Bulbul à tête blanche
   de: Thompsonbülbül
-  pt: white-headed bulbul
+  pt: ''
   ru: Белоголовый бюльбюль
   ja: シロズキンヒヨドリ
   nl: Binghambuulbuul

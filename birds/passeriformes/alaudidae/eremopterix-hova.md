@@ -12,7 +12,7 @@ names:
   es: Alondra Malgache
   fr: Moinelette malgache
   de: Madagaskarlerche
-  pt: madagascar lark
+  pt: ''
   ru: Мадагаскарский жаворонок
   ja: マダガスカルヤブヒバリ
   zh: 馬島歌百靈

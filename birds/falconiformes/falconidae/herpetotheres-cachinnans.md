@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 11939.0
 names:
   scientific: Herpetotheres cachinnans
-  fa: nan
+  fa: ''
   en: Laughing Falcon
   es: Halcón Reidor
   fr: Macagua rieur

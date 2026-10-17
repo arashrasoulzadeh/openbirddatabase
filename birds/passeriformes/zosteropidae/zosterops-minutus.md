@@ -12,7 +12,7 @@ names:
   es: Anteojitos Menudo
   fr: Zostérops minute
   de: Ameisenbrillenvogel
-  pt: small lifou white-eye
+  pt: ''
   ru: Муравьиная белоглазка
   ja: リフコメジロ
   zh: 姬繡眼

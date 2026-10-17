@@ -12,7 +12,7 @@ names:
   es: Abanico de Kadavu
   fr: Rhipidure de Kandavu
   de: Kadavufächerschwanz
-  pt: kadavu fantail
+  pt: ''
   ru: Фиджийская веерохвостка
   ja: クビワオウギビタキ
   nl: Kadavuwaaierstaart

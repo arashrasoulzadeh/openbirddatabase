@@ -12,7 +12,7 @@ names:
   es: Caracara de Isla Guadalupe
   fr: Caracara de Guadalupe
   de: Guadalupekarakara
-  pt: guadalupe caracara
+  pt: ''
   ru: Гуадалупская каракара
   ja: グアダルーペカラカラ
   zh: 瓜達盧長腿兀鷹

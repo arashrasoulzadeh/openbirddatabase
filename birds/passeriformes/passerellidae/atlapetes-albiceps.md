@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33470.0
 names:
   scientific: Atlapetes albiceps
-  fa: nan
+  fa: ''
   en: White-headed Brushfinch
   es: Atlapetes Cabeciblanco
   fr: Tohi à tête blanche
   de: Weißkopf-Buschammer
-  pt: white-headed brushfinch
+  pt: ''
   ru: Белоголовая атлапета
   ja: シロガオヤブシトド
   nl: Witkopstruikgors

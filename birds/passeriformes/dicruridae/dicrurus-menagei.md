@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 20529.0
 names:
   scientific: Dicrurus menagei
-  fa: nan
+  fa: ''
   en: Tablas Drongo
   es: Drongo de Tablas
   fr: Drongo de Tablas
   de: Tablasdrongo
-  pt: tablas drongo
+  pt: ''
   ru: Табласский дронго
   ja: タブラスオウチュウ
   nl: Tablasdrongo

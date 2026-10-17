@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10041.0
 names:
   scientific: Cittura sanghirensis
-  fa: nan
+  fa: ''
   en: Sangihe Lilac Kingfisher
   es: Martín Cazador de las Sangihe
   fr: Martin-chasseur des Sangihe
   de: Lilaliest
-  pt: sangihe lilac kingfisher
+  pt: ''
   nl: Lila ijsvogel
   pl: liliouch czarnoczelny
   tr: Sangihe Leylak Yanaklı Yalıçapkını

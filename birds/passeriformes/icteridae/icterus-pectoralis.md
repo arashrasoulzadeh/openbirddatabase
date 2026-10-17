@@ -12,7 +12,7 @@ names:
   es: Turpial Pechipinto
   fr: Oriole maculé
   de: Tropfentrupial
-  pt: spot-breasted oriole
+  pt: ''
   ru: Пестрогрудый трупиал
   ja: ムナフムクドリモドキ
   nl: Vlekborsttroepiaal

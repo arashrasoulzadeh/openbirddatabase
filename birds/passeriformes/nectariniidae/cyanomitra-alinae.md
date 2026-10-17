@@ -12,7 +12,7 @@ names:
   es: Suimanga Cabeciazul
   fr: Souimanga d'Aline
   de: Ruwenzorinektarvogel
-  pt: blue-headed sunbird
+  pt: ''
   ru: Синеголовая нектарница
   ja: ルリガシラタイヨウチョウ
   nl: Ruwenzorihoningzuiger

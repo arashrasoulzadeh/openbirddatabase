@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 30368.0
 names:
   scientific: Cinnyris ludovicensis
-  fa: nan
+  fa: ''
   en: Ludwig's Double-collared Sunbird
   es: Suimanga Angoleño
   fr: Souimanga d'Angola

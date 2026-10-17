@@ -12,7 +12,7 @@ names:
   es: Colibrí Zumbadorcito
   fr: Colibri nain
   de: Zwergelfe
-  pt: vervain hummingbird
+  pt: ''
   ru: Колибри-шмель
   ja: コビトハチドリ
   zh: 小吸蜜蜂鸟

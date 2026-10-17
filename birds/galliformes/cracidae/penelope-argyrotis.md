@@ -12,7 +12,7 @@ names:
   es: Pava Camata
   fr: Pénélope à queue barrée
   de: Bindenschwanzguan
-  pt: band-tailed guan
+  pt: ''
   ru: Белолобая пенелопа
   ja: オビオシャクケイ
   zh: 斑尾冠雉

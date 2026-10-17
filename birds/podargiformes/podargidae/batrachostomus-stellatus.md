@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 3787.0
 names:
   scientific: Batrachostomus stellatus
-  fa: nan
+  fa: ''
   en: Gould's Frogmouth
   es: Podargo Estrellado
   fr: Podarge étoilé
   de: Schuppenschwalm
-  pt: gould's frogmouth
+  pt: ''
   ru: Чешуйчатый лягушкорот
   ja: ウロコガマグチヨタカ
   zh: 鱗腹蟆口鴟

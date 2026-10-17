@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22009.0
 names:
   scientific: Sittiparus olivaceus
-  fa: nan
+  fa: ''
   en: Iriomote Tit
   es: Carbonero de Iriomote
   fr: Mésange d'Iriomote
   de: Iriomote-Buntmeise
-  pt: iriomote tit
+  pt: ''
   ru: Ириомотская синица
   ja: オリイヤマガラ
   zh: 琉球雜色山雀

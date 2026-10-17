@@ -15,7 +15,7 @@ names:
   pt: mouse-colored sunbird
   ru: Мышиная нектарница
   ja: ネズミタイヨウチョウ
-  zh: Grey Sunbird
+  zh: ''
   nl: Grijze honingzuiger
   pl: nektarnik szary
   tr: Fare Grisi Nektarkuşu

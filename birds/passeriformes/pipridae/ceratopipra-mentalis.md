@@ -12,7 +12,7 @@ names:
   es: Saltarín Cabecirrojo Norteño
   fr: Manakin à cuisses jaunes
   de: Gelbhosenpipra
-  pt: red-capped manakin
+  pt: ''
   ru: Желтоусая пипра
   ja: キモモマイコドリ
   nl: Geelbroekmanakin

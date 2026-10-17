@@ -15,7 +15,7 @@ names:
   pt: kordofan rufous sparrow
   ru: Кордофанский воробей
   ja: ケニアスズメ
-  zh: Kordofan Sparrow
+  zh: ''
   nl: Soedanese mus
   pl: wróbel sudański
   tr: Kordofan Serçesi

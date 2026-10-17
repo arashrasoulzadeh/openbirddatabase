@@ -12,7 +12,7 @@ names:
   es: Mielero Adornado
   fr: Méliphage orné
   de: Gelbscheitel-Honigfresser
-  pt: yellow-plumed honeyeater
+  pt: ''
   ru: Кольчатый медосос
   ja: ムナフコバシミツスイ
   nl: Malleehoningeter

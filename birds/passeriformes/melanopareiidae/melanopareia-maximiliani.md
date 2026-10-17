@@ -12,7 +12,7 @@ names:
   es: Pecholuna del Chaco
   fr: Cordon-noir à dos olive
   de: Olivscheitel-Bandvogel
-  pt: olive-crowned crescentchest
+  pt: ''
   ru: Оливковая серпогрудка
   ja: ムナオビオタテドリ
   nl: Olijfkruinmaansluiper

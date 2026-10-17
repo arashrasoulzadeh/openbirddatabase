@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33486.0
 names:
   scientific: Atlapetes latinuchus
-  fa: nan
+  fa: ''
   en: Yellow-breasted Brushfinch
   es: Atlapetes Pechiamarillo
   fr: Tohi à miroir
   de: Gelbbrust-Buschammer
-  pt: yellow-breasted brushfinch
+  pt: ''
   ru: Желтогрудая атлапета
   ja: キムネヤブシトド
   nl: Geelborststruikgors

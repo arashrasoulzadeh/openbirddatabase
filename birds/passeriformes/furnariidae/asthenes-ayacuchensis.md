@@ -12,7 +12,7 @@ names:
   es: Piscuiz de Ayacucho
   fr: Synallaxe d'Ayacucho
   de: Kastanienkehlcanastero
-  pt: ayacucho thistletail
+  pt: ''
   ru: Перуанский чертополошник
   ja: アヤクーチョトゲオカマドドリ
   nl: Ayacuchodistelstaart

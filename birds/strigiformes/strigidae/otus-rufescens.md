@@ -15,7 +15,7 @@ names:
   pt: reddish scops-owl
   ru: Красноватая сплюшка
   ja: アカチャコノハズク
-  zh: Reddish Scops Owl
+  zh: ''
   nl: Rosse dwergooruil
   pl: syczek sundajski
   tr: Kızıl İshakkuşu

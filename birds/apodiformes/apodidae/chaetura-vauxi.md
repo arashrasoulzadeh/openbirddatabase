@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3897.0
 names:
   scientific: Chaetura vauxi
-  fa: nan
+  fa: ''
   en: Vaux's Swift
   es: Vencejo de Vaux
   fr: Martinet de Vaux
   de: Graubauchsegler
-  pt: vaux's swift
+  pt: ''
   ru: Серобрюхий иглохвост
   ja: ノドジロハリオアマツバメ
   zh: 沃氏雨燕

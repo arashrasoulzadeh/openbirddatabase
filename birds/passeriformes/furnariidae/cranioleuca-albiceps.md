@@ -12,7 +12,7 @@ names:
   es: Curutié Coronado
   fr: Synallaxe à bandeaux
   de: Hellscheitel-Baumschlüpfer
-  pt: light-crowned spinetail
+  pt: ''
   ru: Белохохлая курутия
   ja: シロガシラカマドドリ
   nl: Witkruinstekelstaart

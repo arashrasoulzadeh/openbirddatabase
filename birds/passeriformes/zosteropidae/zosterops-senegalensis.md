@@ -12,7 +12,7 @@ names:
   es: Anteojitos Senegalés
   fr: Zostérops jaune
   de: Senegalbrillenvogel
-  pt: northern yellow white-eye
+  pt: ''
   ru: Африканская белоглазка
   ja: キイロメジロ
   zh: 黃繡眼

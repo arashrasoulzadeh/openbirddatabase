@@ -12,7 +12,7 @@ names:
   es: Irena Común
   fr: Irène vierge
   de: Türkisfeenvogel
-  pt: asian fairy-bluebird
+  pt: ''
   ru: Голубая ирена
   ja: ルリコノハドリ
   zh: 和平鸟

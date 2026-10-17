@@ -12,7 +12,7 @@ names:
   es: Acentor Japonés
   fr: Accenteur du Japon
   de: Rötelbraunelle
-  pt: japanese accentor
+  pt: ''
   ru: Японская завирушка
   ja: カヤクグリ
   zh: 红岩鹨

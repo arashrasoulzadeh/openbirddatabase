@@ -12,7 +12,7 @@ names:
   es: Pingüino Ojigualdo
   fr: Manchot antipode
   de: Gelbaugenpinguin
-  pt: yellow-eyed penguin
+  pt: ''
   ru: Великолепный пингвин
   ja: キンメペンギン
   zh: 黃眼企鵝

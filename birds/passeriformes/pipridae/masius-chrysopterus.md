@@ -12,7 +12,7 @@ names:
   es: Saltarín Alidorado
   fr: Manakin à ailes d'or
   de: Goldschwingenpipra
-  pt: golden-winged manakin
+  pt: ''
   ru: Желтокрылый манакин
   ja: キンカムリマイコドリ
   nl: Goudvleugelmanakin

@@ -12,7 +12,7 @@ names:
   es: Cisticola Coliblanco
   fr: Cisticole d'Andersen
   de: Weißschwanz-Zistensänger
-  pt: white-tailed cisticola
+  pt: ''
   nl: Witstaartgraszanger
   pl: chwastówka białosterna
   tr: Ak Kuyruklu Yelpazekuyruk

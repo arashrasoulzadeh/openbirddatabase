@@ -15,7 +15,7 @@ names:
   pt: white-bellied thicket-fantail
   ru: Чернозобая веерохвостка
   ja: ムナジロオウギビタキ
-  zh: White-bellied Thicket Fantail
+  zh: ''
   nl: Witborstwaaierstaart
   pl: wachlarzówka plamista
   tr: Ak Karınlı Kara Katmerkuyruk

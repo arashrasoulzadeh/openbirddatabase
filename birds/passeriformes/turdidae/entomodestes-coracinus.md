@@ -12,7 +12,7 @@ names:
   es: Solitario Negro
   fr: Grive coracine
   de: Schwarzklarino
-  pt: black solitaire
+  pt: ''
   ru: Чёрный кларино
   ja: クロヒトリツグミ
   nl: Zwarte solitaire

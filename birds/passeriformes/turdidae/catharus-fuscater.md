@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28274.0
 names:
   scientific: Catharus fuscater
-  fa: nan
+  fa: ''
   en: Slaty-backed Nightingale-Thrush
   es: Zorzalito Sombrío
   fr: Grive ardoisée
   de: Graurücken-Musendrossel
-  pt: slaty-backed nightingale-thrush
+  pt: ''
   ru: Белоглазый соловьиный дрозд
   ja: ウスグロチャツグミ
   nl: Grijsrugdwerglijster

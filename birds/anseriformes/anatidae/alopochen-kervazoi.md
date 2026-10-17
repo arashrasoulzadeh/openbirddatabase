@@ -15,7 +15,7 @@ names:
   pt: reunion shelduck
   ru: Реюнионский гусь
   ja: レユニオンツクシガモ
-  zh: Reunion Sheldgoose
+  zh: ''
   nl: Réuniongans
   pl: kazarka reuniońska
   tr: Reünyon Kazı

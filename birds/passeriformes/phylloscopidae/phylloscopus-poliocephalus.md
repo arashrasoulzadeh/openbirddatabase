@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25019.0
 names:
   scientific: Phylloscopus poliocephalus
-  fa: nan
+  fa: ''
   en: Island Leaf Warbler
   es: Mosquitero Isleño
   fr: Pouillot des îles
   de: Insellaubsänger
-  pt: island leaf warbler
+  pt: ''
   ru: Нумфорская пеночка
   ja: ニューギニアムシクイ
   nl: Papoeaboszanger

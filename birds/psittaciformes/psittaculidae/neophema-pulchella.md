@@ -12,7 +12,7 @@ names:
   es: Periquito Turquesa
   fr: Perruche turquoisine
   de: Schönsittich
-  pt: turquoise parrot
+  pt: ''
   ru: Лазурный травяной попугайчик
   ja: キキョウインコ
   zh: 綠松石草鸚鵡

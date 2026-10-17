@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 13972.0
 names:
   scientific: Myrmoborus melanurus
-  fa: nan
+  fa: ''
   en: Black-tailed Antbird
   es: Hormiguero Colinegro
   fr: Alapi à queue noire

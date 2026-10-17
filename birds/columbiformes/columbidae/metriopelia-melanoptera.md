@@ -12,7 +12,7 @@ names:
   es: Palomita Alinegra
   fr: Colombe à ailes noires
   de: Weißbugtäubchen
-  pt: black-winged ground dove
+  pt: ''
   ru: Чернокрылая земляная горлица
   ja: ハグロハシリバト
   nl: Grote punaduif

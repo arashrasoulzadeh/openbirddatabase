@@ -12,7 +12,7 @@ names:
   es: Cormorán de Java
   fr: Cormoran de Vieillot
   de: Kleinscharbe
-  pt: little cormorant
+  pt: ''
   ru: Яванский баклан
   ja: アジアコビトウ
   zh: 黑颈鸬鹚

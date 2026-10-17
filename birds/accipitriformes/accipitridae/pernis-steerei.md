@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 7918.0
 names:
   scientific: Pernis steerei
-  fa: nan
+  fa: ''
   en: Philippine Honey Buzzard
   es: Abejero de Filipinas
   fr: Bondrée de Steere
   de: Philippinenwespenbussard
   pt: philippine honey-buzzard
   ru: Филиппинский осоед
-  zh: Philippine Honey Buzzard
+  zh: ''
   nl: Filipijnse wespendief
   pl: trzmielojad krótkoczuby
   tr: Filipin Arı Şahini

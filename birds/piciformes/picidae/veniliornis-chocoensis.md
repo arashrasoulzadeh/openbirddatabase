@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11513.0
 names:
   scientific: Veniliornis chocoensis
-  fa: nan
+  fa: ''
   en: Choco Woodpecker
   es: Carpintero del Chocó
   fr: Pic du Choco
   de: Chocóspecht
-  pt: choco woodpecker
+  pt: ''
   ru: Чокский дятел
   ja: チョコハゲラ
   nl: Chocospecht

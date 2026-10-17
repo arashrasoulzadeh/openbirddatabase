@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34084.0
 names:
   scientific: Setophaga fusca
-  fa: nan
+  fa: ''
   en: Blackburnian Warbler
   es: Reinita Gorjinaranja
   fr: Paruline à gorge orangée

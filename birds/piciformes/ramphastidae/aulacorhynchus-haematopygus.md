@@ -12,7 +12,7 @@ names:
   es: Tucanete Culirrojo
   fr: Toucanet à croupion rouge
   de: Blutbürzelarassari
-  pt: crimson-rumped toucanet
+  pt: ''
   ru: Краснопоясничный туканет
   ja: コシアカミドリチュウハシ
   nl: Roodstuitarassari

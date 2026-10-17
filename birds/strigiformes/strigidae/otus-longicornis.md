@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8769.0
 names:
   scientific: Otus longicornis
-  fa: nan
+  fa: ''
   en: Luzon Scops Owl
   es: Autillo de Luzón
   fr: Petit-duc longicorne
@@ -15,7 +15,7 @@ names:
   pt: luzon scops-owl
   ru: Лузонская сплюшка
   ja: ルソンコノハズク
-  zh: Luzon Scops Owl
+  zh: ''
   nl: Luzondwergooruil
   pl: syczek luzoński
   tr: Luzon İshakkuşu

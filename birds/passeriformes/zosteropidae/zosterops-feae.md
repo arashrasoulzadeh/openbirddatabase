@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25685.0
 names:
   scientific: Zosterops feae
-  fa: nan
+  fa: ''
   en: Sao Tome White-eye
   es: Anteojitos de Santo Tomé
   fr: Zostérops de Fea
   de: São-Tomé-Brillenvogel
-  pt: sao tome white-eye
+  pt: ''
   ru: Сантомейская белоглазка
   ja: サントメメジロ
   nl: Sao-Tomébrilvogel

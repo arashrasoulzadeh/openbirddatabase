@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 20186.0
 names:
   scientific: Chlorophoneus kupeensis
-  fa: nan
+  fa: ''
   en: Mount Kupe Bushshrike
   es: Bubú del Kupé
   fr: Gonolek du Kupé
   de: Halsbandwürger
-  pt: mount kupe bushshrike
+  pt: ''
   ru: Ошейниковый гладиатор
   ja: ノドジロハイイロモズ
   nl: Kupébosklauwier

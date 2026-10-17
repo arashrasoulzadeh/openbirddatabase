@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7726.0
 names:
   scientific: Ardea coromanda
-  fa: nan
+  fa: ''
   en: Eastern Cattle Egret
   es: Garcilla Bueyera Oriental
   fr: Héron de Coromandel

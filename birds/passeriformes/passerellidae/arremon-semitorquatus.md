@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33073.0
 names:
   scientific: Arremon semitorquatus
-  fa: nan
+  fa: ''
   en: Half-collared Sparrow
   es: Cerquero Semiacollarado
   fr: Tohi à semi-collier

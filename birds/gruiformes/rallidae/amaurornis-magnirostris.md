@@ -12,7 +12,7 @@ names:
   es: Gallineta de las Talaud
   fr: Râle à gros bec
   de: Karakelong-Kielralle
-  pt: talaud bush-hen
+  pt: ''
   ru: Талаудский карео
   ja: タラウドバンクイナ
   nl: Talaudwaterhoen

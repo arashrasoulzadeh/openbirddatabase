@@ -12,7 +12,7 @@ names:
   es: Amazona Cabecigualda
   fr: Amazone à tête jaune
   de: Gelbkopfamazone
-  pt: yellow-headed amazon
+  pt: ''
   ru: Желтоголовый амазон
   ja: キガシラボウシインコ
   zh: 雙黃頭亞馬遜鸚鵡

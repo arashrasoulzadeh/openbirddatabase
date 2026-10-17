@@ -12,7 +12,7 @@ names:
   es: Mérgulo Californiano Aliclaro
   fr: Guillemot de Scripps
   de: Kalifornienalk
-  pt: scripps's murrelet
+  pt: ''
   ru: Калифорнийский старик
   ja: スクリップスウミスズメ
   nl: Scrippsalk

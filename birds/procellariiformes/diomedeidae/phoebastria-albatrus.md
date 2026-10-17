@@ -12,7 +12,7 @@ names:
   es: Albatros Colicorto
   fr: Albatros à queue courte
   de: Kurzschwanzalbatros
-  pt: short-tailed albatross
+  pt: ''
   ru: Белоспинный альбатрос
   ja: アホウドリ
   zh: 短尾信天翁

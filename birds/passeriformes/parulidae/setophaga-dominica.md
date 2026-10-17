@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34171.0
 names:
   scientific: Setophaga dominica
-  fa: nan
+  fa: ''
   en: Yellow-throated Warbler
   es: Reinita Gorjiamarilla
   fr: Paruline à gorge jaune

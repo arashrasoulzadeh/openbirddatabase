@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28686.0
 names:
   scientific: Turdus chiguanco
-  fa: nan
+  fa: ''
   en: Chiguanco Thrush
   es: Mirlo Chiguanco
   fr: Merle chiguanco
   de: Chiguancodrossel
-  pt: chiguanco thrush
+  pt: ''
   ru: Дрозд-чигуанко
   ja: ナンベイツグミ
   nl: Chiguancolijster

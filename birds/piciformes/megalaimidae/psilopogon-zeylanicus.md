@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10748.0
 names:
   scientific: Psilopogon zeylanicus
-  fa: nan
+  fa: ''
   en: Brown-headed Barbet
   es: Barbudo Cabecipardo
   fr: Barbu à tête brune
   de: Braunkopf-Bartvogel
-  pt: brown-headed barbet
+  pt: ''
   ru: Буроголовый бородастик
   ja: ミドリオオゴシキドリ
   zh: 棕头绿拟啄木鸟

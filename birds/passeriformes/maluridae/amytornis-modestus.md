@@ -12,7 +12,7 @@ names:
   es: Maluro Picogordo
   fr: Amytis à bec fort
   de: Dickschnabel-Grasschlüpfer
-  pt: thick-billed grasswren
+  pt: ''
   ru: Скромный амитис
   ja: ハシブトセスジムシクイ
   zh: 厚嘴鹩莺

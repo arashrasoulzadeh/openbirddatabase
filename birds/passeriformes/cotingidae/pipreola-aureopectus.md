@@ -12,7 +12,7 @@ names:
   es: Frutero Pechidorado
   fr: Cotinga à poitrine d'or
   de: Goldbrustkotinga
-  pt: golden-breasted fruiteater
+  pt: ''
   ru: Златогрудый ягодоед
   ja: キムネミドリカザリドリ
   nl: Goudbuikcotinga

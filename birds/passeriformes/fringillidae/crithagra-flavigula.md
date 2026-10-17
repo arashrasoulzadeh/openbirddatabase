@@ -15,7 +15,7 @@ names:
   pt: yellow-throated serin
   ru: Желтогорлый канареечник
   ja: キノドカナリア
-  zh: Yellow-throated Seedeater
+  zh: ''
   nl: Shoakanarie
   pl: afrokulczyk żółtogardły
   tr: Sarı Gerdanlı İskete

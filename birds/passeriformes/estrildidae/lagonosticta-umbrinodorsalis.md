@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31428.0
 names:
   scientific: Lagonosticta umbrinodorsalis
-  fa: nan
+  fa: ''
   en: Chad Firefinch
   es: Amaranta de Chad
   fr: Amarante du Tchad
   de: Tschadamarant
-  pt: chad firefinch
+  pt: ''
   ru: Чадский амарант
   ja: チャドコウギョクチョウ
   zh: 赖氏火雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35546.0
 names:
   scientific: Sporophila funerea
-  fa: nan
+  fa: ''
   en: Thick-billed Seed Finch
   es: Semillero Piquigrueso
   fr: Sporophile à bec fort
@@ -15,7 +15,7 @@ names:
   pt: thick-billed seed-finch
   ru: Толстоклювый просяночник
   ja: ハシブトヒメウソ
-  zh: Thick-billed Seed Finch
+  zh: ''
   nl: Diksnavelzaadkraker
   pl: ryżołusk żałobny
   tr: Küçük Koca Tohumcul

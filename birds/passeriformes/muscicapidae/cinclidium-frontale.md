@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Frentiazul
   fr: Notodèle à front bleu
   de: Blauschmätzer
-  pt: blue-fronted robin
+  pt: ''
   ru: Каллене
   ja: オグロコンヒタキ
   zh: 蓝额长脚地鸲

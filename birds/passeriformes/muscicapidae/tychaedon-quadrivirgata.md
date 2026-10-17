@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28957.0
 names:
   scientific: Tychaedon quadrivirgata
-  fa: nan
+  fa: ''
   en: Bearded Scrub Robin
   es: Alzacola Bigotudo
   fr: Agrobate à moustaches
@@ -15,7 +15,7 @@ names:
   pt: bearded scrub-robin
   ru: Белогорлый тугайный соловей
   ja: ヒガシハジロヤブコマドリ
-  zh: Bearded Scrub Robin
+  zh: ''
   nl: Streepkopwaaierstaart
   pl: drozdówek białosterny
   tr: Kızılca Çalı Bülbülü

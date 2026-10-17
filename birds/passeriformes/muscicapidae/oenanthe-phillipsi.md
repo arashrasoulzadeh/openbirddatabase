@@ -12,7 +12,7 @@ names:
   es: Collalba Somalí
   fr: Traquet de Somalie
   de: Somalisteinschmätzer
-  pt: somali wheatear
+  pt: ''
   ru: Сомалийская каменка
   ja: ソマリハシグロヒタキ
   nl: Somalische tapuit

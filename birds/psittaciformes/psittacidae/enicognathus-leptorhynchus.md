@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13079.0
 names:
   scientific: Enicognathus leptorhynchus
-  fa: nan
+  fa: ''
   en: Slender-billed Parakeet
   es: Cotorra Choroy
   fr: Conure à long bec
   de: Langschnabelsittich
-  pt: slender-billed parakeet
+  pt: ''
   ru: Длинноклювая которра
   ja: ハシナガインコ
   zh: 細喙鸚鵡

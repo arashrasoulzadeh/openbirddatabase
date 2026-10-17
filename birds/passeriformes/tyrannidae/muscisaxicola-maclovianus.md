@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17099.0
 names:
   scientific: Muscisaxicola maclovianus
-  fa: nan
+  fa: ''
   en: Dark-faced Ground Tyrant
   es: Dormilona Carinegra
   fr: Dormilon bistré
@@ -15,7 +15,7 @@ names:
   pt: gaúcha-de-cara-suja
   ru: Темнолицая дормилона
   ja: カオグロイワタイランチョウ
-  zh: Dark-faced Ground Tyrant
+  zh: ''
   nl: Maskergrondtiran
   pl: skałotyran ciemnolicy
   tr: Esmer Yüzlü Yer Tiranı

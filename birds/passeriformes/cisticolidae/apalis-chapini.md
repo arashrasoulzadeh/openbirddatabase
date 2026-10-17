@@ -12,7 +12,7 @@ names:
   es: Apalis de Chapin
   fr: Apalis de Chapin
   de: Chapinfeinsänger
-  pt: chapin's apalis
+  pt: ''
   ru: Рыжезобый апалис
   ja: タンザニアクリノドイロムシクイ
   nl: Chapinapalis

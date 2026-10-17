@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23841.0
 names:
   scientific: Locustella chengi
-  fa: nan
+  fa: ''
   en: Sichuan Bush Warbler
   es: Zarzalero de Sichuán
   fr: Locustelle de Cheng
   de: Sichuanschwirl
-  pt: sichuan bush warbler
+  pt: ''
   ru: Сычуаньская пестрогрудка
   ja: シセンオオセッカ
   zh: 四川短翅蝗莺

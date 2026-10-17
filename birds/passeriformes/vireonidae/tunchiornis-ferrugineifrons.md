@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 19127.0
 names:
   scientific: Tunchiornis ferrugineifrons
-  fa: nan
+  fa: ''
   en: Rufous-fronted Greenlet
   es: Verdillo Coronileonado
   fr: Viréon à front rouille

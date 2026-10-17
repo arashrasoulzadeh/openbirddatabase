@@ -12,7 +12,7 @@ names:
   es: Cálao Chico de Célebes
   fr: Calao des Célèbes
   de: Gelbmasken-Hornvogel
-  pt: sulawesi hornbill
+  pt: ''
   ru: Желтолицый калао
   ja: カオジロサイチョウ
   zh: 白颊犀鸟

@@ -15,7 +15,7 @@ names:
   pt: philippine cockatoo
   ru: Филиппинский какаду
   ja: フィリピンオウム
-  zh: Red-vented Cockatoo
+  zh: ''
   nl: Filipijnse kaketoe
   pl: kakadu filipińska
   tr: Filipin Kakadusu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12222.0
 names:
   scientific: Coracopsis vasa
-  fa: nan
+  fa: ''
   en: Greater Vasa Parrot
   es: Loro Vasa
   fr: Grand Vaza
   de: Vasapapagei
-  pt: greater vasa parrot
+  pt: ''
   ru: Большой ваза
   ja: クロインコ
   nl: Grote vasapapegaai

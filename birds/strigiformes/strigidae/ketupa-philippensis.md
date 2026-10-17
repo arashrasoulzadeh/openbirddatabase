@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8993.0
 names:
   scientific: Ketupa philippensis
-  fa: nan
+  fa: ''
   en: Philippine Eagle-Owl
   es: Búho Filipino
   fr: Grand-duc des Philippines
   de: Streifenuhu
-  pt: philippine eagle-owl
+  pt: ''
   ru: Филиппинский филин
   ja: フィリピンワシミミズク
   nl: Filipijnse oehoe

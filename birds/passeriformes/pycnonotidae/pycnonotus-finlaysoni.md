@@ -12,7 +12,7 @@ names:
   es: Bulbul de Finlayson
   fr: Bulbul de Finlayson
   de: Streifenkehlbülbül
-  pt: stripe-throated bulbul
+  pt: ''
   ru: Пестрогорлый бюльбюль
   ja: キビタイヒヨドリ
   zh: 纹喉鹎

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 6120.0
 names:
   scientific: Phalaropus fulicarius
-  fa: nan
+  fa: ''
   en: Red Phalarope
   es: Falaropo Picogrueso
   fr: Phalarope à bec large

@@ -12,7 +12,7 @@ names:
   es: Babax de Kozlov
   fr: Babaxe de Koslov
   de: Koslowhäherling
-  pt: tibetan babax
+  pt: ''
   ru: Тибетская кустарница
   ja: コスローヒゲチメドリ
   zh: 棕草鹛

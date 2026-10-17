@@ -12,7 +12,7 @@ names:
   es: Avefría Javanesa
   fr: Vanneau hirondelle
   de: Javakiebitz
-  pt: javan lapwing
+  pt: ''
   ru: Яванский чибис
   ja: ジャワトサカゲリ
   zh: 爪哇麦鸡

@@ -12,7 +12,7 @@ names:
   es: Tucán del Chocó
   fr: Toucan du Choco
   de: Küstentukan
-  pt: choco toucan
+  pt: ''
   ru: Чокский тукан
   ja: チョコキムネオオハシ
   zh: 喬科鵎鵼

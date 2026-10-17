@@ -12,7 +12,7 @@ names:
   es: Cucarachero Pechirrufo
   fr: Troglodyte des halliers
   de: Rotbrust-Zaunkönig
-  pt: rufous-breasted wren
+  pt: ''
   ru: Рыжегрудый крапивник
   ja: クリムネマユミソサザイ
   nl: Roodborstwinterkoning

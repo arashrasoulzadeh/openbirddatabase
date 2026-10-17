@@ -12,7 +12,7 @@ names:
   es: Pintada Vulturina
   fr: Pintade vulturine
   de: Geierperlhuhn
-  pt: vulturine guineafowl
+  pt: ''
   ru: Грифовая цесарка
   ja: フサホロホロチョウ
   zh: 鹫珠鸡

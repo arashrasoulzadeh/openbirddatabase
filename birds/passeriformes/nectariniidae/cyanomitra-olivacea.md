@@ -12,7 +12,7 @@ names:
   es: Suimanga Oliváceo
   fr: Souimanga olivâtre
   de: Olivnektarvogel
-  pt: olive sunbird
+  pt: ''
   ru: Оливковая нектарница
   ja: オリーブタイヨウチョウ
   nl: Olijfgroene honingzuiger

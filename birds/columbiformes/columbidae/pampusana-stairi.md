@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 2184.0
 names:
   scientific: Pampusana stairi
-  fa: nan
+  fa: ''
   en: Shy Ground Dove
   es: Paloma Perdiz de las Fiyi
   fr: Gallicolombe de Stair
   de: Purpurschultertaube
-  pt: shy ground dove
+  pt: ''
   ru: Пурпурнокрылый куриный голубь
   ja: トンガバト
   nl: Tongapatrijsduif

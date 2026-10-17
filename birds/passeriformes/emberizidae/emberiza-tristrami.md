@@ -12,7 +12,7 @@ names:
   es: Escribano de Tristram
   fr: Bruant de Tristram
   de: Tristramammer
-  pt: tristram's bunting
+  pt: ''
   ru: Таежная овсянка
   ja: シロハラホオジロ
   zh: 白眉鹀

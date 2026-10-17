@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17712.0
 names:
   scientific: Certhionyx variegatus
-  fa: nan
+  fa: ''
   en: Pied Honeyeater
   es: Mielero Pío
   fr: Méliphage varié
   de: Elsterhonigfresser
-  pt: pied honeyeater
+  pt: ''
   ru: Сорочья эвкалиптница
   ja: ハジロクロミツスイ
   zh: 白肩黑吸蜜鸟

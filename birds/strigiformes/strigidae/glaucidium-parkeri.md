@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9024.0
 names:
   scientific: Glaucidium parkeri
-  fa: nan
+  fa: ''
   en: Subtropical Pygmy Owl
   es: Mochuelo de Parker
   fr: Chevêchette de Parker
@@ -15,7 +15,7 @@ names:
   pt: subtropical pygmy-owl
   ru: Субтропический сычик
   ja: アネッタイスズメフクロウ
-  zh: Subtropical Pygmy Owl
+  zh: ''
   nl: Parkerdwerguil
   pl: sóweczka ciemna
   tr: Parker Serçe Baykuşu

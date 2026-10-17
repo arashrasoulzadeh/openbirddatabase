@@ -12,7 +12,7 @@ names:
   es: Cúa Crestado
   fr: Coua huppé
   de: Schopfseidenkuckuck
-  pt: crested coua
+  pt: ''
   ru: Хохлатая тивука
   ja: カンムリジカッコウ
   zh: 凤头马岛鹃

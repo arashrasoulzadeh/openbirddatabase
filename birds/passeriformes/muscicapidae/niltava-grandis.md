@@ -12,7 +12,7 @@ names:
   es: Papamoscas Grande
   fr: Grand Gobemouche
   de: Kobaltblauschnäpper
-  pt: large niltava
+  pt: ''
   ru: Большая нильтава
   ja: オオアオヒタキ
   zh: 大仙鹟

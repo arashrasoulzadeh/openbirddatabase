@@ -12,7 +12,7 @@ names:
   es: Ostrero Negro Australiano
   fr: Huîtrier fuligineux
   de: Rußausternfischer
-  pt: sooty oystercatcher
+  pt: ''
   ru: Австралийский кулик-сорока
   ja: オーストラリアクロミヤコドリ
   zh: 澳洲黑蛎鹬

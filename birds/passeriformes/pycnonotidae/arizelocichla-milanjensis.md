@@ -12,7 +12,7 @@ names:
   es: Bulbul del Mulanje
   fr: Bulbul montagnard
   de: Olivbrustbülbül
-  pt: stripe-cheeked greenbul
+  pt: ''
   ru: Пестроухий зелёный бюльбюль
   ja: ホオスジアオヒヨ
   nl: Streepwangbuulbuul

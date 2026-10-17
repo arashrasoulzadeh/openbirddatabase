@@ -12,7 +12,7 @@ names:
   es: Mielero Habano
   fr: Méliphage chamois
   de: Geradschnabel-Honigfresser
-  pt: tawny straightbill
+  pt: ''
   ru: Буланый нектаролюб
   ja: ヤブミツスイ
   nl: Rosse timaliahoningeter

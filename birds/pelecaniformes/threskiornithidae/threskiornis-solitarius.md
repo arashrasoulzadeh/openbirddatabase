@@ -12,7 +12,7 @@ names:
   es: Ibis de Reunión
   fr: Ibis de La Réunion
   de: Réunionibis
-  pt: reunion ibis
+  pt: ''
   ru: Реюньонский ибис
   ja: レユニオンドードー
   zh: 留尼旺孤鴿

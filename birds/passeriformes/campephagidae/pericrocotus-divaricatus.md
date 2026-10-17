@@ -12,7 +12,7 @@ names:
   es: Minivet Ceniciento
   fr: Minivet cendré
   de: Graumennigvogel
-  pt: ashy minivet
+  pt: ''
   ru: Серый личинкоед
   ja: サンショウクイ
   zh: 灰山椒鸟

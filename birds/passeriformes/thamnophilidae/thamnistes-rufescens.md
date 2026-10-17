@@ -12,7 +12,7 @@ names:
   es: Batará Andino
   fr: Batara de Cabanis
   de: Rostbrust-Ameisenwürger
-  pt: rufescent antshrike
+  pt: ''
   ru: Рыжеватая чока
   ja: アカチャアリモズ
   nl: Roestmierklauwier

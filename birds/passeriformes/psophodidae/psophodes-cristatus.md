@@ -12,7 +12,7 @@ names:
   es: Zordala Picocuña Oriental
   fr: Psophode babillard
   de: Buschflöter
-  pt: chirruping wedgebill
+  pt: ''
   ru: Хохлатая птица-бич
   ja: カンムリハシリチメドリ
   zh: 东啸冠鸫

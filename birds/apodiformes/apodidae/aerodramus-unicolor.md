@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3985.0
 names:
   scientific: Aerodramus unicolor
-  fa: nan
+  fa: ''
   en: Indian Swiftlet
   es: Salangana de Malabar
   fr: Salangane de Malabar
   de: Malabarsalangane
-  pt: indian swiftlet
+  pt: ''
   ru: Индийская салангана
   ja: インドショクヨウアナツバメ
   zh: 印度金丝燕

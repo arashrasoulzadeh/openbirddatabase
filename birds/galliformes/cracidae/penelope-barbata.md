@@ -12,7 +12,7 @@ names:
   es: Pava Barbuda
   fr: Pénélope barbue
   de: Bartguan
-  pt: bearded guan
+  pt: ''
   ru: Бородатая пенелопа
   ja: ヒゲシャクケイ
   zh: 须冠雉

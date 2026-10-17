@@ -12,7 +12,7 @@ names:
   es: Cardenal de la Guajira
   fr: Cardinal vermillon
   de: Purpurkardinal
-  pt: vermilion cardinal
+  pt: ''
   ru: Пурпурный кардинал
   ja: ミナミショウジョウコウカンチョウ
   zh: 鳳頭主紅雀

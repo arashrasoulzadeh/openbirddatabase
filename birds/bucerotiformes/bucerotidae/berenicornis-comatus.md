@@ -12,7 +12,7 @@ names:
   es: Cálao Cabeciblanco
   fr: Calao coiffé
   de: Langschopf-Hornvogel
-  pt: white-crowned hornbill
+  pt: ''
   ru: Белохохлый калао
   ja: シロクロサイチョウ
   zh: 長冠犀鳥

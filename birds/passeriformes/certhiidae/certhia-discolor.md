@@ -12,7 +12,7 @@ names:
   es: Agateador Gorjipardo
   fr: Grimpereau discolore
   de: Sikkimbaumläufer
-  pt: sikkim treecreeper
+  pt: ''
   ru: Сиккимская пищуха
   ja: チャバラキバシリ
   zh: 褐喉旋木雀

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16369.0
 names:
   scientific: Hemitriccus minimus
-  fa: nan
+  fa: ''
   en: Zimmer's Tody-Tyrant
   es: Titirijí de Zimmer
   fr: Todirostre de Zimmer

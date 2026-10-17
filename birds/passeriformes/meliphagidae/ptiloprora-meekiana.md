@@ -15,7 +15,7 @@ names:
   pt: yellow-streaked honeyeater
   ru: Желтоватый нектароед
   ja: オリーブセスジミツスイ
-  zh: Yellowish-streaked Honeyeater
+  zh: ''
   nl: Meekhoningeter
   pl: paskowik żółtawy
   tr: Meek Balkuşu

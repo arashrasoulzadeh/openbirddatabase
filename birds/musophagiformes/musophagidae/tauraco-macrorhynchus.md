@@ -12,7 +12,7 @@ names:
   es: Turaco Piquigualdo
   fr: Touraco à gros bec
   de: Blaurückenturako
-  pt: yellow-billed turaco
+  pt: ''
   ru: Желтоклювый турако
   ja: ハシブトエボシドリ
   nl: Geelsnaveltoerako

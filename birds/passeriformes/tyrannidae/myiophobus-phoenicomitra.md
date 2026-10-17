@@ -12,7 +12,7 @@ names:
   es: Mosquero Crestinaranja
   fr: Moucherolle à cimier orange
   de: Olivrücken-Schnäppertyrann
-  pt: orange-crested flycatcher
+  pt: ''
   ru: Оливковая курэта
   ja: アカイタダキフタスジハエトリ
   nl: Oranjekuiftiran

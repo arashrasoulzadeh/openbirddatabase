@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22220.0
 names:
   scientific: Machlolophus holsti
-  fa: nan
+  fa: ''
   en: Yellow Tit
   es: Carbonero de Formosa
   fr: Mésange de Taïwan

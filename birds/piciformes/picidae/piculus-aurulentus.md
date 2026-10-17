@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 11850.0
 names:
   scientific: Piculus aurulentus
-  fa: nan
+  fa: ''
   en: Yellow-browed Woodpecker
   es: Carpintero Cejigualdo
   fr: Pic à bandeaux
@@ -15,7 +15,7 @@ names:
   pt: pica-pau-dourado
   ru: Желтобровый дятел
   ja: マミジロモリゲラ
-  zh: Yellow-browed Woodpecker
+  zh: ''
   nl: Witbrauwspecht
   pl: dzięcioł złotogardły
   tr: Altın Kaşlı Ağaçkakan

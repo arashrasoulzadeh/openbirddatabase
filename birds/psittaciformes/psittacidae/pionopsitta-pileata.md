@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12850.0
 names:
   scientific: Pionopsitta pileata
-  fa: nan
+  fa: ''
   en: Pileated Parrot
   es: Lorito Pileado
   fr: Caïque mitré

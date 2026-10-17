@@ -12,7 +12,7 @@ names:
   es: Charlatán Acollarado Grande
   fr: Garrulaxe à plastron
   de: Brustbandhäherling
-  pt: greater necklaced laughingthrush
+  pt: ''
   ru: Пестрощёкая кустарница
   ja: クビワガビチョウ
   zh: 黑领噪鹛

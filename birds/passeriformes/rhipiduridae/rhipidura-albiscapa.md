@@ -15,7 +15,7 @@ names:
   pt: gray fantail
   ru: Серая веерохвостка
   ja: ハイイロオウギビタキ
-  zh: Grey Fantail
+  zh: ''
   nl: Grijze waaierstaart
   pl: wachlarzówka szara
   tr: Gri Katmerkuyruk

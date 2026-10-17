@@ -15,7 +15,7 @@ names:
   pt: flautim-oliváceo
   ru: Оливковая сельвиния
   ja: オリーブツグミマイコドリ
-  zh: Guianan Schiffornis
+  zh: ''
   nl: Guyanaschiffornis
   pl: gwizdowik oliwkowy
   tr: Zeytuni Şiforn

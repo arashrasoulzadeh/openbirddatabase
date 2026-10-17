@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22250.0
 names:
   scientific: Melaniparus fasciiventer
-  fa: nan
+  fa: ''
   en: Stripe-breasted Tit
   es: Carbonero del Ruwenzori
   fr: Mésange à ventre strié
   de: Schwarzbrust-Rußmeise
-  pt: stripe-breasted tit
+  pt: ''
   ru: Рувензорская синица
   ja: ムナグロガラ
   nl: Ruwenzorimees

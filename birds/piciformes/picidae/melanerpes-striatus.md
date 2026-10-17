@@ -12,7 +12,7 @@ names:
   es: Carpintero de la Española
   fr: Pic d'Hispaniola
   de: Haitispecht
-  pt: hispaniolan woodpecker
+  pt: ''
   ru: Гаитянский дятел
   ja: ヒスパニオラシマセゲラ
   nl: Hispaniolaspecht

@@ -15,7 +15,7 @@ names:
   pt: philippine serpent-eagle
   ru: Филиппинский змееяд
   ja: フィリピンカンムリワシ
-  zh: Philippine Serpent Eagle
+  zh: ''
   nl: Filipijnse slangenarend
   pl: wężojad filipiński
   tr: Filipin Yılan Kartalı

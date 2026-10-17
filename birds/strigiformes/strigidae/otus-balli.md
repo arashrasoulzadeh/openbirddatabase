@@ -15,7 +15,7 @@ names:
   pt: andaman scops-owl
   ru: Андаманская совка
   ja: アンダマンコノハズク
-  zh: Andaman Scops Owl
+  zh: ''
   nl: Andamanendwergooruil
   pl: syczek andamański
   tr: Andaman İshakkuşu

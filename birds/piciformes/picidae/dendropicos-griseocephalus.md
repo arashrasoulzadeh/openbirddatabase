@@ -12,7 +12,7 @@ names:
   es: Pito Oliváceo
   fr: Pic olive
   de: Goldrückenspecht
-  pt: olive woodpecker
+  pt: ''
   ru: Бронзовоспинный дятел
   ja: ハイガシラゲラ
   zh: 非洲灰啄木鳥

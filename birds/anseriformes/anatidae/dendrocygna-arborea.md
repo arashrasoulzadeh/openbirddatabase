@@ -15,7 +15,7 @@ names:
   pt: west indian whistling-duck
   ru: Кубинская древесная утка
   ja: ハシグロリュウキュウガモ
-  zh: West Indian Whistling Duck
+  zh: ''
   nl: West-Indische fluiteend
   pl: drzewica karaibska
   tr: Karayip Islıkçı Ördeği

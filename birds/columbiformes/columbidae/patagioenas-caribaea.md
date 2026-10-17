@@ -12,7 +12,7 @@ names:
   es: Paloma Jamaicana
   fr: Pigeon de Jamaïque
   de: Karibentaube
-  pt: ring-tailed pigeon
+  pt: ''
   ru: Ямайский голубь
   ja: ジャマイカオビオバト
   zh: 環尾鴿

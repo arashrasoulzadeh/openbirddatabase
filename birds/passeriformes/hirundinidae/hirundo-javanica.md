@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24174.0
 names:
   scientific: Hirundo javanica
-  fa: nan
+  fa: ''
   en: Pacific Swallow
   es: Golondrina del Pacífico
   fr: Hirondelle de Java

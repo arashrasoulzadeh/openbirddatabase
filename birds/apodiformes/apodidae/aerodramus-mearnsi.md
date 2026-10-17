@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3990.0
 names:
   scientific: Aerodramus mearnsi
-  fa: nan
+  fa: ''
   en: Philippine Swiftlet
   es: Salangana Filipina
   fr: Salangane de Mearns
   de: Braunbürzelsalangane
-  pt: philippine swiftlet
+  pt: ''
   ru: Филиппинская салангана
   ja: フィリピンムジアナツバメ
   zh: 菲律宾金丝燕

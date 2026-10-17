@@ -15,7 +15,7 @@ names:
   pt: rufous-headed ground-roller
   ru: Рыжеголовая земляная ракша
   ja: チャガシラハシリブッポウソウ
-  zh: Rufous-headed Ground Roller
+  zh: ''
   nl: Crossleygrondscharrelaar
   pl: kurtokraska rudogłowa
   tr: Boyalı Yerkuzgunu

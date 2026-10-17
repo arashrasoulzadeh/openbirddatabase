@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16378.0
 names:
   scientific: Hemitriccus cinnamomeipectus
-  fa: nan
+  fa: ''
   en: Cinnamon-breasted Tody-Tyrant
   es: Titirijí Pechicanelo
   fr: Todirostre du Pérou
   de: Zimtbrust-Todityrann
-  pt: cinnamon-breasted tody-tyrant
+  pt: ''
   ru: Рыжебрюхий тоди-тиранн
   ja: シナモンコビトドリモドキ
   nl: Kaneelborsttodietiran

@@ -12,7 +12,7 @@ names:
   es: Tangara Carafuego
   fr: Calliste à face rouge
   de: Rotstirntangare
-  pt: flame-faced tanager
+  pt: ''
   ru: Огненнолицая танагра
   ja: アカガオフウキンチョウ
   zh: 火脸唐加拉雀

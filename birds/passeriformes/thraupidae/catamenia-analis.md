@@ -12,7 +12,7 @@ names:
   es: Semillero Colifajado
   fr: Cataménie maculée
   de: Spiegelsamenfresser
-  pt: band-tailed seedeater
+  pt: ''
   ru: Пестрохвостый семеноед
   ja: オビオタネワリ
   nl: Witstaartcatamenia

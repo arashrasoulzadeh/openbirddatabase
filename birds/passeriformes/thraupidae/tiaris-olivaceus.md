@@ -12,7 +12,7 @@ names:
   es: Semillero Tomeguín
   fr: Tiaris grand-chanteur
   de: Goldbrauen-Gimpeltangare
-  pt: yellow-faced grassquit
+  pt: ''
   ru: Желтолицый семилеро
   ja: キマユクビワスズメ
   zh: 黄脸草雀

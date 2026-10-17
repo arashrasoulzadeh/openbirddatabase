@@ -15,7 +15,7 @@ names:
   pt: petrel-grande
   ru: Южный гигантский буревестник
   ja: オオフルマカモメ
-  zh: Southern Giant Petrel
+  zh: ''
   nl: Zuidelijke reuzenstormvogel
   pl: petrelec olbrzymi
   tr: Antarktik Dev Fırtınakuşu

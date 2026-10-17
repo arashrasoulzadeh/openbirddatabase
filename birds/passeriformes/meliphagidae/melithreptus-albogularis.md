@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18126.0
 names:
   scientific: Melithreptus albogularis
-  fa: nan
+  fa: ''
   en: White-throated Honeyeater
   es: Mielero Goliblanco
   fr: Méliphage à menton blanc
   de: Weißkehl-Honigfresser
-  pt: white-throated honeyeater
+  pt: ''
   ru: Белогорлая медвянка
   ja: ノドジロハチマキミツスイ
   zh: 白喉抚蜜鸟

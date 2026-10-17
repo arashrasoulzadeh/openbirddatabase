@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33033.0
 names:
   scientific: Arremon costaricensis
-  fa: nan
+  fa: ''
   en: Costa Rican Brushfinch
   es: Cerquero Costarricense
   fr: Tohi du Costa Rica
   de: Grauband-Buschammer
-  pt: costa rican brushfinch
+  pt: ''
   ru: Костариканский тохи
   ja: コスタリカヤブシトド
   nl: Costaricaanse struikgors

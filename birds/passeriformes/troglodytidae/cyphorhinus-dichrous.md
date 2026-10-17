@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27631.0
 names:
   scientific: Cyphorhinus dichrous
-  fa: nan
+  fa: ''
   en: Northern Chestnut-breasted Wren
   es: Cucarachero Dorsicastaño del Norte
   fr: Troglodyte dichroïte
   de: Kappenzaunkönig
-  pt: northern chestnut-breasted wren
+  pt: ''
   nl: Noordelijke bruinborstwinterkoning
   pl: strzyżoń dwubarwny
   tr: Kuzeyli Kestane Göğüslü Çıtkuşu

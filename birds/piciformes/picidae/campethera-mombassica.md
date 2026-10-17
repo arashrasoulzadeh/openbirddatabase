@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11741.0
 names:
   scientific: Campethera mombassica
-  fa: nan
+  fa: ''
   en: Mombasa Woodpecker
   es: Pito de Mombasa
   fr: Pic de Mombasa
   de: Mombasaspecht
-  pt: mombasa woodpecker
+  pt: ''
   ru: Момбасский дятел
   ja: モンバサアオゲラ
   zh: 蒙巴沙啄木

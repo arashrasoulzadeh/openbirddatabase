@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 9566.0
 names:
   scientific: Trogon chrysochloros
-  fa: nan
+  fa: ''
   en: Atlantic Black-throated Trogon
   es: Trogón Amarillo Sureño
   fr: Trogon de Pelzeln

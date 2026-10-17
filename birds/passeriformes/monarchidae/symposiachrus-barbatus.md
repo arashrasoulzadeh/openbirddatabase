@@ -12,7 +12,7 @@ names:
   es: Monarca Blanquinegro
   fr: Monarque pie
   de: Weißbartmonarch
-  pt: solomons monarch
+  pt: ''
   ru: Белобородый монарх
   ja: マダラカササギビタキ
   nl: Witbaardmonarch

@@ -12,7 +12,7 @@ names:
   es: Llorón de Verapaz
   fr: Antriade du Verapaz
   de: Trauerbekarde
-  pt: northern schiffornis
+  pt: ''
   ru: Тёмная сельвиния
   ja: キタツグミマイコドリ
   nl: Noordelijke schiffornis

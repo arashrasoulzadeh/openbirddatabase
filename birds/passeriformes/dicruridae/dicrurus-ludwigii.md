@@ -12,7 +12,7 @@ names:
   es: Drongo de Ludwig
   fr: Drongo de Ludwig
   de: Geradschwanzdrongo
-  pt: square-tailed drongo
+  pt: ''
   ru: Прямохвостый дронго
   ja: カクビオウチュウ
   zh: 路氏方尾卷尾

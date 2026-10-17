@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17841.0
 names:
   scientific: Melidectes foersteri
-  fa: nan
+  fa: ''
   en: Huon Melidectes
   es: Mielero de Foerster
   fr: Méliphage de Foerster
   de: Foersterhonigfresser
-  pt: huon melidectes
+  pt: ''
   ru: Хуонский медосос
   ja: フェルスターヤマミツスイ
   nl: Försterhoningeter

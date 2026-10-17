@@ -12,7 +12,7 @@ names:
   es: Fodi de las Seychelles
   fr: Foudi des Seychelles
   de: Seychellenweber
-  pt: seychelles fody
+  pt: ''
   ru: Сейшельский фуди
   ja: セーシェルベニノジコ
   zh: 塞舌爾艷織雀

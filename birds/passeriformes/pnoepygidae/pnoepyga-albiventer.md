@@ -12,7 +12,7 @@ names:
   es: Ratina Ventriblanca
   fr: Microure à ventre blanc
   de: Himalajazwergpfeifer
-  pt: scaly-breasted cupwing
+  pt: ''
   ru: Чешучатая бесхвостка
   ja: ヒメサザイチメドリ
   zh: 鳞胸鹪鹛

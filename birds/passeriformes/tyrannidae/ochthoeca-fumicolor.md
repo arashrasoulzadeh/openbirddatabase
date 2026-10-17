@@ -12,7 +12,7 @@ names:
   es: Pitajo Dorsipardo
   fr: Pitajo à dos brun
   de: Fahlbrauen-Schmätzertyrann
-  pt: brown-backed chat-tyrant
+  pt: ''
   ru: Буроспинная тираннита
   ja: チャイロヒタキタイランチョウ
   nl: Bruinrugtapuittiran

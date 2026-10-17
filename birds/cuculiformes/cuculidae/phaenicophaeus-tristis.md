@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3186.0
 names:
   scientific: Phaenicophaeus tristis
-  fa: nan
+  fa: ''
   en: Green-billed Malkoha
   es: Malcoha Sombrío
   fr: Malcoha sombre
   de: Grünschnabelkuckuck
-  pt: green-billed malkoha
+  pt: ''
   ru: Длиннохвостая малкоа
   ja: オニクロバンケンモドキ
   zh: 绿嘴地鹃

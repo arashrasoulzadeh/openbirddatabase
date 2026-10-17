@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Cuellinegro
   fr: Couturière à col noir
   de: Dunkelkehl-Schneidervogel
-  pt: dark-necked tailorbird
+  pt: ''
   ru: Черногорлая портниха
   ja: ノドグロサイホウチョウ
   zh: 黑喉缝叶莺

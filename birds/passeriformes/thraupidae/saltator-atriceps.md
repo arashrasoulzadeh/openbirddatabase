@@ -12,7 +12,7 @@ names:
   es: Pepitero Cabecinegro
   fr: Saltator à tête noire
   de: Schwarzscheitelsaltator
-  pt: black-headed saltator
+  pt: ''
   ru: Черноголовый сальтатор
   ja: ズグロイカル
   nl: Zwartkopsaltator

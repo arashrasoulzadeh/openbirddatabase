@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 30454.0
 names:
   scientific: Cinnyris ornatus
-  fa: nan
+  fa: ''
   en: Ornate Sunbird
   es: Suimanga Ornado
   fr: Souimanga orné
   de: Orientalischer Nektarvogel
-  pt: ornate sunbird
+  pt: ''
   zh: 黄腹花蜜鸟
   nl: Soendahoningzuiger
   pl: nektarnik sundajski

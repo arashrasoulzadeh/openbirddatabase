@@ -12,7 +12,7 @@ names:
   es: Busardo Plomizo
   fr: Buse plombée
   de: Bleibussard
-  pt: plumbeous hawk
+  pt: ''
   ru: Свинцовый крабоед
   ja: ヒメアオノスリ
   nl: Donkergrijze buizerd

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24911.0
 names:
   scientific: Phylloscopus whistleri
-  fa: nan
+  fa: ''
   en: Whistler's Warbler
   es: Mosquitero de Whistler
   fr: Pouillot de Whistler
   de: Whistlerlaubsänger
-  pt: whistler's warbler
+  pt: ''
   ru: Гималайская очковая пеночка
   ja: インドモリムシクイ
   zh: 韦氏鹟莺

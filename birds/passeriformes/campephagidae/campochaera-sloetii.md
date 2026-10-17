@@ -12,7 +12,7 @@ names:
   es: Oruguero Dorado
   fr: Échenilleur doré
   de: Goldraupenfänger
-  pt: golden cuckooshrike
+  pt: ''
   ru: Золотистый гусеничник
   ja: オレンジサンショウクイ
   zh: 橙鹃鵙

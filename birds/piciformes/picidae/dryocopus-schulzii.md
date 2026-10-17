@@ -12,7 +12,7 @@ names:
   es: Picamaderos Chaqueño
   fr: Pic lucifer
   de: Schwarzbauchspecht
-  pt: black-bodied woodpecker
+  pt: ''
   ru: Чернобрюхая желна
   ja: ヒメクマゲラ
   nl: Zwartbuikhelmspecht

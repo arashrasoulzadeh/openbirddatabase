@@ -12,7 +12,7 @@ names:
   es: Curruca Abisinia
   fr: Fauvette d'Abyssinie
   de: Hochland-Grasmücke
-  pt: african hill babbler
+  pt: ''
   ru: Африканская славка-монашка
   ja: アビシニアムジチメドリ
   zh: 非洲雅鹛

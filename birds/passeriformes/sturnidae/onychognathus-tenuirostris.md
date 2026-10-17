@@ -12,7 +12,7 @@ names:
   es: Estornino Picofino
   fr: Rufipenne à bec fin
   de: Zimtflügelstar
-  pt: slender-billed starling
+  pt: ''
   ru: Тонкоклювый скворец
   ja: ハシボソテリムク
   nl: Kaneelvleugelspreeuw

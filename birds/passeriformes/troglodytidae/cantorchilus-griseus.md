@@ -15,7 +15,7 @@ names:
   pt: garrincha-cinza
   ru: Серый крапивник
   ja: タンビマユミソサザイ
-  zh: Grey Wren
+  zh: ''
   nl: Grijze winterkoning
   pl: pręgostrzyżyk szary
   tr: Gri Çıtkuşu

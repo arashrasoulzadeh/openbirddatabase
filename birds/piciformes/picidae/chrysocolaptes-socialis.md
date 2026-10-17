@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11531.0
 names:
   scientific: Chrysocolaptes socialis
-  fa: nan
+  fa: ''
   en: Malabar Flameback
   es: Pito Sultán Malabar
   fr: Pic de Malabar
   de: Malabarsultanspecht
-  pt: malabar flameback
+  pt: ''
   nl: Malabargoudrugspecht
   pl: sułtan indyjski
   tr: Malabar Alevsırtı

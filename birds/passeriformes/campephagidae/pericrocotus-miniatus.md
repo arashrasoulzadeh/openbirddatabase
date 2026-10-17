@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18598.0
 names:
   scientific: Pericrocotus miniatus
-  fa: nan
+  fa: ''
   en: Sunda Minivet
   es: Minivet de la Sonda
   fr: Minivet vermillon
   de: Sundamennigvogel
-  pt: sunda minivet
+  pt: ''
   ru: Зондский личинкоед
   ja: スンダベニサンショウクイ
   zh: 巽他山椒鸟

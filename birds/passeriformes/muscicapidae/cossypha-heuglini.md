@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29225.0
 names:
   scientific: Cossypha heuglini
-  fa: nan
+  fa: ''
   en: White-browed Robin-Chat
   es: Cosifa de Heuglin
   fr: Cossyphe de Heuglin
   de: Weißbrauenrötel
-  pt: white-browed robin-chat
+  pt: ''
   ru: Белобровый рыжехвост
   ja: マミジロツグミヒタキ
   zh: 白眉歌䳭

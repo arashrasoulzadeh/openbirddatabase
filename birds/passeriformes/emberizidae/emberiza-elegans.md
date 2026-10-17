@@ -12,7 +12,7 @@ names:
   es: Escribano Elegante
   fr: Bruant élégant
   de: Gelbkehlammer
-  pt: yellow-throated bunting
+  pt: ''
   ru: Желтогорлая овсянка
   ja: ミヤマホオジロ
   zh: 黄喉鹀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4689.0
 names:
   scientific: Urochroa bougueri
-  fa: nan
+  fa: ''
   en: Rufous-gaped Hillstar
   es: Colibrí de Bouguer Occidental
   fr: Colibri de Bouguer
   de: Orangerachenkolibri
-  pt: rufous-gaped hillstar
+  pt: ''
   ru: Оранжевоусый колибри
   ja: ルリムネハチドリ
   zh: 白尾蓝胸蜂鸟

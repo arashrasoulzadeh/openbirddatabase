@@ -12,7 +12,7 @@ names:
   es: Curutié Cariestriado
   fr: Synallaxe grimpeur
   de: Olivrücken-Baumschlüpfer
-  pt: line-cheeked spinetail
+  pt: ''
   ru: Эквадорская курутия
   ja: ホオスジカマドドリ
   nl: Streepwangstekelstaart

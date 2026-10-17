@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18138.0
 names:
   scientific: Melithreptus gularis
-  fa: nan
+  fa: ''
   en: Black-chinned Honeyeater
   es: Mielero Barbinegro
   fr: Méliphage à menton noir
   de: Schwarzkinn-Honigfresser
-  pt: black-chinned honeyeater
+  pt: ''
   ru: Чернозобая медвянка
   ja: ノドグロハチマキミツスイ
   zh: 黑颏抚蜜鸟

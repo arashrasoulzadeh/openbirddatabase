@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8276.0
 names:
   scientific: Astur chilensis
-  fa: nan
+  fa: ''
   en: Chilean Hawk
   es: Gavilán Chileno
   fr: Épervier du Chili
   de: Chilehabicht
-  pt: chilean hawk
+  pt: ''
   ru: Чилийский ястреб
   ja: チリーハイタカ
   zh: 智利鷹

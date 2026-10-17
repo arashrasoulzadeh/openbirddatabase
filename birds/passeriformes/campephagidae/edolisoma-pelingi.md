@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18926.0
 names:
   scientific: Edolisoma pelingi
-  fa: nan
+  fa: ''
   en: Banggai Cicadabird
   es: Oruguero de Las Banggai
   fr: Échenilleur de Peleng
-  pt: banggai cicadabird
+  pt: ''
   ja: バンガイサンショウクイ
   nl: Banggairupsvogel
   pl: gąsienicojad czarniawy

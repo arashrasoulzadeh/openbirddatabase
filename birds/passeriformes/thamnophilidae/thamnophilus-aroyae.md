@@ -12,7 +12,7 @@ names:
   es: Batará Montano
   fr: Batara montagnard
   de: Hochland-Ameisenwürger
-  pt: upland antshrike
+  pt: ''
   ru: Горный колючник
   ja: コウゲンアリモズ
   zh: 山蚁鵙

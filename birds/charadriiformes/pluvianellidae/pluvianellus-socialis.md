@@ -12,7 +12,7 @@ names:
   es: Chorlito de Magallanes
   fr: Pluvianelle magellanique
   de: Magellanregenpfeifer
-  pt: magellanic plover
+  pt: ''
   ru: Магелланова ржанка
   ja: マゼランチドリ
   zh: 麥哲倫鴴科

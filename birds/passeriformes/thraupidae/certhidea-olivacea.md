@@ -12,7 +12,7 @@ names:
   es: Pinzón de Darwin Oliváceo
   fr: Géospize olive
   de: Waldsänger-Darwinfink
-  pt: green warbler-finch
+  pt: ''
   ru: Тонкоклювый дарвинов вьюрок
   ja: ムシクイフィンチ
   zh: 绿莺雀

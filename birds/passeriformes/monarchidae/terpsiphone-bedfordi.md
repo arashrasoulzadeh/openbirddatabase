@@ -15,7 +15,7 @@ names:
   pt: bedford's paradise-flycatcher
   ru: Рувензорская райская мухоловка
   ja: ミヤマサンコウチョウ
-  zh: Bedford's Paradise Flycatcher
+  zh: ''
   nl: Bedfordparadijsmonarch
   pl: muchodławka ciemna
   tr: Badford Monarkı

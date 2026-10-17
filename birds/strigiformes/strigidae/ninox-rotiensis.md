@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9340.0
 names:
   scientific: Ninox rotiensis
-  fa: nan
+  fa: ''
   en: Rote Boobook
   es: Nínox de Rote
   fr: Ninoxe de Rote
   de: Rotikauz
-  pt: rote boobook
+  pt: ''
   ja: ロテアオバズク
   nl: Rotiboeboek
   pl: sowica pręgoskrzydła

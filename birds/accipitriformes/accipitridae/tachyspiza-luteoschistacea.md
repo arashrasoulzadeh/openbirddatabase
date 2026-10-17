@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 8223.0
 names:
   scientific: Tachyspiza luteoschistacea
-  fa: nan
+  fa: ''
   en: Slaty-mantled Goshawk
   es: Gavilán de Nueva Bretaña
   fr: Autour bleu et gris
   de: Schiefermantelhabicht
-  pt: slaty-mantled goshawk
+  pt: ''
   ru: Шиферный ястреб
   ja: アオハイタカ
   zh: 藍灰雀鷹

@@ -12,7 +12,7 @@ names:
   es: Bubú Abisinio
   fr: Gonolek d'Abyssinie
   de: Äthiopienwürger
-  pt: ethiopian boubou
+  pt: ''
   ru: Эфиопский бубу
   ja: エチオピアヤブモズ
   nl: Ethiopische fiskaal

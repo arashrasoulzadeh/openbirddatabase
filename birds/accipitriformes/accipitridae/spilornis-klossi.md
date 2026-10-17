@@ -15,7 +15,7 @@ names:
   pt: nicobar serpent-eagle
   ru: Никобарский змееяд
   ja: ニコバルカンムリワシ
-  zh: Great Nicobar Serpent Eagle
+  zh: ''
   nl: Groot-Nicobarslangenarend
   pl: wężojad nikobarski
   tr: Nikobar Yılan Kartalı

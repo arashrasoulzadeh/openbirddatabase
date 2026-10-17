@@ -12,7 +12,7 @@ names:
   es: Cucarachero Antioqueño
   fr: Troglodyte de Serna
   de: Antioquiazaunkönig
-  pt: antioquia wren
+  pt: ''
   ru: Меделинский крапивник
   ja: アンティオキアマユミソサザイ
   nl: Antioquiawinterkoning

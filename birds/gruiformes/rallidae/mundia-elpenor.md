@@ -12,7 +12,7 @@ names:
   es: Polluela de Isla Ascensión
   fr: Râle de l'Ascension
   de: Ascensionralle
-  pt: ascension crake
+  pt: ''
   ru: Бескрылый пастушок
   ja: アセンションクイナ
   zh: 阿森松秧鸡

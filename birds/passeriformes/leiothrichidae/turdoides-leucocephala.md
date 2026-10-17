@@ -15,7 +15,7 @@ names:
   pt: cretzschmar's babbler
   ru: Белоголовая дроздовка
   ja: シロガシラヤブチメドリ
-  zh: White-headed Babbler
+  zh: ''
   nl: Witkopbabbelaar
   pl: tymal białogłowy
   tr: Ak Başlı Yedikardeş

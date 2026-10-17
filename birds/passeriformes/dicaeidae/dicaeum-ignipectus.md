@@ -12,7 +12,7 @@ names:
   es: Picaflores Pechofuego
   fr: Dicée à gorge feu
   de: Feuerbrust-Mistelfresser
-  pt: fire-breasted flowerpecker
+  pt: ''
   ru: Огненногрудый цветоед
   ja: ハナドリ
   zh: 红胸啄花鸟

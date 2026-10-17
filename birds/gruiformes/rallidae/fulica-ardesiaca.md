@@ -15,7 +15,7 @@ names:
   pt: slate-colored coot
   ru: Андская лысуха
   ja: ハイイロオオバン
-  zh: Andean Coot
+  zh: ''
   nl: Punakoet
   pl: łyska andyjska
   tr: And Mekesi

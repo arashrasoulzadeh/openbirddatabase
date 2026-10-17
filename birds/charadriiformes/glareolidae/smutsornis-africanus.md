@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6308.0
 names:
   scientific: Smutsornis africanus
-  fa: nan
+  fa: ''
   en: Double-banded Courser
   es: Corredor Escamoso Chico
   fr: Courvite à double collier
   de: Doppelband-Rennvogel
-  pt: double-banded courser
+  pt: ''
   ru: Двухполосый бегунок
   ja: フタオビスナバシリ
   zh: 雙領走鴴

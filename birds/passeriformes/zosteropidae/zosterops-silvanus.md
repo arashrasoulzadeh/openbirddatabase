@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 25688.0
 names:
   scientific: Zosterops silvanus
-  fa: nan
+  fa: ''
   en: Taita White-eye
   es: Anteojitos Serrano de Los Taita
   fr: Zostérops des Taita
   de: Taitabrillenvogel
-  pt: taita white-eye
+  pt: ''
   ru: Тайтасская белоглазка
   ja: タイタメジロ
   zh: 泰塔繡眼

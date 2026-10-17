@@ -12,7 +12,7 @@ names:
   es: Martín Pescador Menudo
   fr: Martin-pêcheur poucet
   de: Mangrovezwergfischer
-  pt: little kingfisher
+  pt: ''
   ru: Малый зимородок
   ja: ヒメミツユビカワセミ
   zh: 小翠鸟

@@ -12,7 +12,7 @@ names:
   es: Agachona Grande
   fr: Attagis de Gay
   de: Rotbauch-Höhenläufer
-  pt: rufous-bellied seedsnipe
+  pt: ''
   ru: Краснобрюхий зобатый бегунок
   ja: オオヒバリチドリ
   nl: Andeskwartelsnip

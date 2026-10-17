@@ -15,7 +15,7 @@ names:
   pt: bornean banded-pitta
   ru: Желтолицая питта
   ja: ボルネオシマヤイロチョウ
-  zh: Bornean Banded Pitta
+  zh: ''
   nl: Borneose blauwstaartpitta
   pl: kurtaczek złotawy
   tr: Borneo Yazılı Pittası

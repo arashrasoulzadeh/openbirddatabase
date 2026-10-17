@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 5082.0
 names:
   scientific: Saucerottia castaneiventris
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Hummingbird
   es: Amazilia Ventricastaña
   fr: Ariane à ventre roux
   de: Braunbauchamazilie
-  pt: chestnut-bellied hummingbird
+  pt: ''
   ru: Каштановобрюхая амазилия
   ja: クリハラエメラルドハチドリ
   nl: Bruinbuikamazilia

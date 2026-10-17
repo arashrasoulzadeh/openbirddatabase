@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16442.0
 names:
   scientific: Todirostrum chrysocrotaphum
-  fa: nan
+  fa: ''
   en: Yellow-browed Tody-Flycatcher
   es: Titirijí Cejiamarillo
   fr: Todirostre bridé

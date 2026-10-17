@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 25878.0
 names:
   scientific: Zosterops strenuus
-  fa: nan
+  fa: ''
   en: Robust White-eye
   es: Anteojitos Robusto
   fr: Zostérops robuste
   de: Lord-Howe-Brillenvogel
-  pt: robust white-eye
+  pt: ''
   ru: Лордхауская белоглазка
   ja: ロードハウメジロ
   zh: 碩繡眼鳥

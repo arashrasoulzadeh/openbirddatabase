@@ -12,7 +12,7 @@ names:
   es: Torillo Pechinegro
   fr: Turnix à poitrine noire
   de: Schwarzbrust-Laufhühnchen
-  pt: black-breasted buttonquail
+  pt: ''
   ru: Черногрудая трёхперстка
   ja: ムナグロミフウズラ
   zh: 黑胸三趾鹑

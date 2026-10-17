@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 15255.0
 names:
   scientific: Automolus cervinigularis
-  fa: nan
+  fa: ''
   en: Fawn-throated Foliage-gleaner
   es: Ticotico Gorjiclaro Occidental
   fr: Anabate de Sclater
-  pt: fawn-throated foliage-gleaner
+  pt: ''
   nl: Bruinkeelbladspeurder
   pl: liściak północny
   tr: Meksika Yaprakkarıştıranı

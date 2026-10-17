@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17323.0
 names:
   scientific: Myiarchus cinerascens
-  fa: nan
+  fa: ''
   en: Ash-throated Flycatcher
   es: Copetón Cenizo
   fr: Tyran à gorge cendrée
   de: Kalifornienschopftyrann
-  pt: ash-throated flycatcher
+  pt: ''
   ru: Пепельногорлый миарх
   ja: ハイノドヒタキモドキ
   nl: Grijskeeltiran

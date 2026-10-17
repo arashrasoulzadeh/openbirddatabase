@@ -12,7 +12,7 @@ names:
   es: Ganso Cenizo
   fr: Céréopse cendré
   de: Hühnergans
-  pt: cape barren goose
+  pt: ''
   ru: Куриный гусь
   ja: ロウバシガン
   zh: 蠟嘴雁

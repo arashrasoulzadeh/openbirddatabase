@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1477.0
 names:
   scientific: Phasianus colchicus
-  fa: nan
+  fa: ''
   en: Common Pheasant
   es: Faisán Vulgar
   fr: Faisan de Colchide

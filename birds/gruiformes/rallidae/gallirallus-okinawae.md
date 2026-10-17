@@ -12,7 +12,7 @@ names:
   es: Rascón de Okinawa
   fr: Râle d'Okinawa
   de: Okinawaralle
-  pt: okinawa rail
+  pt: ''
   ru: Окинавский трескун
   ja: ヤンバルクイナ
   zh: 沖繩秧雞

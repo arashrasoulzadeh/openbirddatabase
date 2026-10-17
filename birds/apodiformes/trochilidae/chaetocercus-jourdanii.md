@@ -12,7 +12,7 @@ names:
   es: Colibrí de Jourdan
   fr: Colibri de Jourdan
   de: Rotfahnenelfe
-  pt: rufous-shafted woodstar
+  pt: ''
   ru: Красногорлый эльф
   ja: ハリオハチドリ
   zh: 棕尾林蜂鸟

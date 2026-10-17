@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 12646.0
 names:
   scientific: Trichoglossus johnstoniae
-  fa: nan
+  fa: ''
   en: Mindanao Lorikeet
   es: Lori de Mindanao
   fr: Loriquet de Johnstone
   de: Mindanaolori
-  pt: mindanao lorikeet
+  pt: ''
   ru: Джонстонов лорикет
   ja: アポインコ
   nl: Johnstonelori

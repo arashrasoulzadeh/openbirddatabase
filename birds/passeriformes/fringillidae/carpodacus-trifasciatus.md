@@ -12,7 +12,7 @@ names:
   es: Camachuelo Tribarrado
   fr: Roselin à trois bandes
   de: Bindengimpel
-  pt: three-banded rosefinch
+  pt: ''
   ru: Полосатокрылая чечевица
   ja: ミスジマシコ
   zh: 斑翅朱雀

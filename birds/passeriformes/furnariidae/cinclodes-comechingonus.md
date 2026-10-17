@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15091.0
 names:
   scientific: Cinclodes comechingonus
-  fa: nan
+  fa: ''
   en: Cordoba Cinclodes
   es: Remolinera de Córdoba
   fr: Cinclode gris
   de: Rostspitzen-Uferwipper
-  pt: cordoba cinclodes
+  pt: ''
   ru: Кордобская трясохвостка
   ja: コメチンゴネスカワカマドドリ
   nl: Sierrawipstaart

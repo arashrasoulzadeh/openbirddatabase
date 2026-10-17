@@ -12,7 +12,7 @@ names:
   es: Apalis Acollarado
   fr: Apalis à collier
   de: Halsband-Feinsänger
-  pt: bar-throated apalis
+  pt: ''
   ru: Ожерелковый апалис
   ja: ムナオビイロムシクイ
   nl: Halsbandapalis

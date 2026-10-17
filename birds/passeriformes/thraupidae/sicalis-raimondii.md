@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35493.0
 names:
   scientific: Sicalis raimondii
-  fa: nan
+  fa: ''
   en: Raimondi's Yellow Finch
   es: Chirigüe de Raimondi
   fr: Sicale de Raimondi
@@ -15,7 +15,7 @@ names:
   pt: raimondi's yellow-finch
   ru: Береговой зерноед
   ja: ペルーキンノジコ
-  zh: Raimondi's Yellow Finch
+  zh: ''
   nl: Grijsflanksaffraangors
   pl: szafranka peruwiańska
   tr: Raimondi Kanarya İspinozu

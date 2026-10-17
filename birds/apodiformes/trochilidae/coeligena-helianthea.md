@@ -12,7 +12,7 @@ names:
   es: Inca Ventrivioleta
   fr: Inca porphyre
   de: Rosenbauchkolibri
-  pt: blue-throated starfrontlet
+  pt: ''
   ru: Синегорлый инка
   ja: ゴシキインカハチドリ
   zh: 蓝喉星额蜂鸟

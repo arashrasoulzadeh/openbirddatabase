@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 35768.0
 names:
   scientific: Geospiza acutirostris
-  fa: nan
+  fa: ''
   en: Genovesa Ground Finch
   es: Pinzón de Darwin Picofino de Genovesa
   fr: Géospize de Genovesa
@@ -15,7 +15,7 @@ names:
   pt: genovesa ground-finch
   ru: Хеновесский галапагосский вьюрок
   ja: ハシナガガラパゴスフィンチ
-  zh: Genovesa Ground Finch
+  zh: ''
   nl: Genovesagrondvink
   pl: darwinka szydłodzioba
   tr: Genovesa Yer İspinozu

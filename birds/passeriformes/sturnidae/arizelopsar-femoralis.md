@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 27935.0
 names:
   scientific: Arizelopsar femoralis
-  fa: nan
+  fa: ''
   en: Abbott's Starling
   es: Estornino de Abbott
   fr: Choucador d'Abbott
   de: Abbottstar
-  pt: abbott's starling
+  pt: ''
   ru: Двухцветный скворец
   ja: ムナグロムクドリ
   nl: Abbottspreeuw

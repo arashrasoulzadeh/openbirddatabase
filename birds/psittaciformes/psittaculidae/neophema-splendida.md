@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12443.0
 names:
   scientific: Neophema splendida
-  fa: nan
+  fa: ''
   en: Scarlet-chested Parrot
   es: Periquito Espléndido
   fr: Perruche splendide
   de: Glanzsittich
-  pt: scarlet-chested parrot
+  pt: ''
   ru: Красногрудый травяной попугайчик
   ja: ヒムネキキョウインコ
   zh: 緋胸草鸚鵡

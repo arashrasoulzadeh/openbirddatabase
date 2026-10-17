@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13570.0
 names:
   scientific: Thamnophilus ambiguus
-  fa: nan
+  fa: ''
   en: Sooretama Slaty Antshrike
   es: Batará Pizarroso de Sooretama
   fr: Batara de Sooretama
@@ -15,7 +15,7 @@ names:
   pt: choca-de-sooretama
   ru: Атлантический колючник
   ja: ソーレタマハイイロモズ
-  zh: Sooretama Slaty Antshrike
+  zh: ''
   nl: Sooretamamierklauwier
   pl: chronka atlantycka
   tr: Sooretama Gri Karıncaavcısı

@@ -12,7 +12,7 @@ names:
   es: Ibis Oliváceo
   fr: Ibis olive
   de: Olivibis
-  pt: olive ibis
+  pt: ''
   ru: Оливковый ибис
   ja: オリーブトキ
   nl: Olijfgroene ibis

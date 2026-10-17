@@ -12,7 +12,7 @@ names:
   es: Turpial Coliamarillo
   fr: Oriole à queue jaune
   de: Gelbschwanztrupial
-  pt: yellow-tailed oriole
+  pt: ''
   ru: Желтохвостый трупиал
   ja: キガタムクドリモドキ
   nl: Geelstaarttroepiaal

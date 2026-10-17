@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23011.0
 names:
   scientific: Calamonastes simplex
-  fa: nan
+  fa: ''
   en: Grey Wren-Warbler
   es: Camaróptera Sencilla
   fr: Camaroptère modeste
@@ -15,7 +15,7 @@ names:
   pt: gray wren-warbler
   ru: Серая зебрина
   ja: ハイイロコムシクイ
-  zh: Grey Wren-Warbler
+  zh: ''
   nl: Somalische savannezanger
   pl: zebrynka ciemna
   tr: Somali Yazılı Kamaropteri

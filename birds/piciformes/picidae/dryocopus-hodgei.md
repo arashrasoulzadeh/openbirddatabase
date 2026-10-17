@@ -12,7 +12,7 @@ names:
   es: Picamaderos de las Andamán
   fr: Pic des Andaman
   de: Andamanenspecht
-  pt: andaman woodpecker
+  pt: ''
   ru: Андаманская желна
   ja: アンダマンキタタキ
   nl: Andamanenspecht

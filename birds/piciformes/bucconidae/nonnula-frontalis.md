@@ -15,7 +15,7 @@ names:
   pt: gray-cheeked nunlet
   ru: Серощёкая ленивка
   ja: ハイガオアマドリ
-  zh: Grey-cheeked Nunlet
+  zh: ''
   nl: Noordelijke grijswangtrappist
   pl: drzym szarolicy
   tr: Gri Yanaklı Keşişkuşu

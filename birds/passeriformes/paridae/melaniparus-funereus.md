@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22246.0
 names:
   scientific: Melaniparus funereus
-  fa: nan
+  fa: ''
   en: Dusky Tit
   es: Carbonero Cenizo
   fr: Mésange enfumée
   de: Einfarb-Rußmeise
-  pt: dusky tit
+  pt: ''
   ru: Тёмная синица
   ja: クロガラ
   nl: Gabonese mees

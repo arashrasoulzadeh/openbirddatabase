@@ -12,7 +12,7 @@ names:
   es: Oropéndola Encapuchada
   fr: Loriot à capuchon noir
   de: Bengalenpirol
-  pt: black-hooded oriole
+  pt: ''
   ru: Черноголовая иволга
   ja: ズグロコウライウグイス
   zh: 黑头黄鹂

@@ -12,7 +12,7 @@ names:
   es: Alondra de Rudd
   fr: Alouette de Rudd
   de: Transvaalspornlerche
-  pt: rudd's lark
+  pt: ''
   ru: Короткохвостый жаворонок
   ja: ニセヤブヒバリ
   zh: 拉氏歌百灵

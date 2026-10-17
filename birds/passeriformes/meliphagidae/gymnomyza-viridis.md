@@ -15,7 +15,7 @@ names:
   pt: yellow-billed giant-honeyeater
   ru: Желтоклювый мао
   ja: キバシオオミツスイ
-  zh: Yellow-billed Giant Honeyeater
+  zh: ''
   nl: Geelsnavelhoningeter
   pl: miodowiec zielony
   tr: Sarı Gagalı Balkuşu

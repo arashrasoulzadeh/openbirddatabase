@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3782.0
 names:
   scientific: Batrachostomus harterti
-  fa: nan
+  fa: ''
   en: Dulit Frogmouth
   es: Podargo del Dulit
   fr: Podarge de Hartert
   de: Bergschwalm
-  pt: dulit frogmouth
+  pt: ''
   ru: Саравакский лягушкорот
   ja: サラワクガマグチヨタカ
   zh: 栗頰蟆口鴟

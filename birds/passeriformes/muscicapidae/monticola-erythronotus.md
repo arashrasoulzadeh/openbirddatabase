@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 29647.0
 names:
   scientific: Monticola erythronotus
-  fa: nan
+  fa: ''
   en: Amber Mountain Rock Thrush
   es: Roquero de Lavauden
   fr: Monticole de l'Ambre
   pt: amber mountain rock-thrush
-  zh: Amber Mountain Rock Thrush
+  zh: ''
   nl: Amberrotslijster
   pl: nagórnik modrogłowy
   tr: Amber Dağı Taşkızılı

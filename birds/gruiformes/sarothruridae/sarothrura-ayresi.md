@@ -12,7 +12,7 @@ names:
   es: Polluela Especulada
   fr: Râle à miroir
   de: Spiegelralle
-  pt: white-winged flufftail
+  pt: ''
   ru: Белокрылая жемчужная курочка
   ja: アフリカシマクイナ
   nl: Witvleugelral

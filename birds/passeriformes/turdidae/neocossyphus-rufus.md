@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28153.0
 names:
   scientific: Neocossyphus rufus
-  fa: nan
+  fa: ''
   en: Red-tailed Ant Thrush
   es: Zorzal Colirrufo
   fr: Néocossyphe à queue rousse
@@ -15,7 +15,7 @@ names:
   pt: red-tailed ant-thrush
   ru: Горихвостковый мухоловкодрозд
   ja: アリクイツグミ
-  zh: Red-tailed Ant Thrush
+  zh: ''
   nl: Roodstaartlijster
   pl: wahal cynamonowy
   tr: Kızıl Kuyruklu Karınca Ardıcı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5455.0
 names:
   scientific: Porzana carolina
-  fa: nan
+  fa: ''
   en: Sora
   es: Polluela Sora
   fr: Marouette de Caroline
   de: Carolinasumpfhuhn
-  pt: sora
+  pt: ''
   ru: Каролинский погоныш
   ja: カオグロクイナ
   zh: 黑臉田雞

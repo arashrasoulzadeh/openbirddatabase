@@ -12,7 +12,7 @@ names:
   es: Buitre Picofino
   fr: Vautour à long bec
   de: Dünnschnabelgeier
-  pt: slender-billed vulture
+  pt: ''
   ru: Тонкоклювый сип
   ja: ハシボソハゲワシ
   zh: 细嘴兀鹫

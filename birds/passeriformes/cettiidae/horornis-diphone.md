@@ -12,7 +12,7 @@ names:
   es: Cetia Japonesa
   fr: Bouscarle chanteuse
   de: Japanseidensänger
-  pt: japanese bush warbler
+  pt: ''
   ru: Бамбуковая камышевка
   ja: ウグイス
   zh: 日本树莺

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 770.0
 names:
   scientific: Mergus serrator
-  fa: nan
+  fa: ''
   en: Red-breasted Merganser
   es: Serreta Mediana
   fr: Harle huppé

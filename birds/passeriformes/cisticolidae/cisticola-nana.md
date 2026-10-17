@@ -12,7 +12,7 @@ names:
   es: Cistícola Enano
   fr: Cisticole naine
   de: Dornbusch-Zistensänger
-  pt: tiny cisticola
+  pt: ''
   ru: Цистикола-крошка
   ja: ヒメセッカ
   zh: 小扇尾莺

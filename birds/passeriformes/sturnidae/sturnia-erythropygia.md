@@ -12,7 +12,7 @@ names:
   es: Estornino Cabeciblanco
   fr: Étourneau à tête blanche
   de: Andamanenstar
-  pt: white-headed starling
+  pt: ''
   ru: Белоголовый скворец
   ja: アンダマンムクドリ
   zh: 白頭椋鳥

@@ -12,7 +12,7 @@ names:
   es: Cormorán de El Cabo
   fr: Cormoran du Cap
   de: Kapscharbe
-  pt: cape cormorant
+  pt: ''
   ru: Капский баклан
   ja: キノドハナグロウ
   zh: 南非鸬鹚

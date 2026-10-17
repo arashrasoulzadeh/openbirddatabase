@@ -15,7 +15,7 @@ names:
   pt: white-fronted scops-owl
   ru: Белолобая совка
   ja: ハナジロコノハズク
-  zh: White-fronted Scops Owl
+  zh: ''
   nl: Maleise dwergooruil
   pl: syczek białoczelny
   tr: Malay İshakkuşu

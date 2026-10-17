@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16316.0
 names:
   scientific: Lophotriccus eulophotes
-  fa: nan
+  fa: ''
   en: Long-crested Pygmy Tyrant
   es: Cimerillo Crestilargo
   fr: Microtyran eulophe
@@ -15,7 +15,7 @@ names:
   pt: maria-topetuda
   ru: Длиннохохлая чубатка
   ja: エボシハエトリ
-  zh: Long-crested Pygmy Tyrant
+  zh: ''
   nl: Langkuifdwergtiran
   pl: łuskoczubek długopióry
   tr: Uzun Taçlı Tiran

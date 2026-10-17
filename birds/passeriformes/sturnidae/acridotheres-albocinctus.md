@@ -12,7 +12,7 @@ names:
   es: Miná Acollarado
   fr: Martin à collier
   de: Halsbandmaina
-  pt: collared myna
+  pt: ''
   ru: Ошейниковая майна
   ja: シロエリハッカ
   zh: 白领八哥

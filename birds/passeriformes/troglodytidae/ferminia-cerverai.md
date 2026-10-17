@@ -12,7 +12,7 @@ names:
   es: Cucarachero de Zapata
   fr: Troglodyte de Zapata
   de: Kubazaunkönig
-  pt: zapata wren
+  pt: ''
   ru: Кубинский крапивник
   ja: セジマミソサザイ
   zh: 扎巴鹪鹩属

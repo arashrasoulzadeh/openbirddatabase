@@ -15,7 +15,7 @@ names:
   pt: gray-olive greenbul
   ru: Оливково-серый бюльбюль
   ja: ハイイロオリーブヒヨドリ
-  zh: Grey-olive Greenbul
+  zh: ''
   nl: Grijze loofbuulbuul
   pl: jasnobrzuch szarawy
   tr: Boz-Gri Yaprakbülbülü

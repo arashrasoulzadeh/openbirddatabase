@@ -15,7 +15,7 @@ names:
   pt: white-browed bushchat
   ru: Пустынный чекан
   ja: ハシナガノビタキ
-  zh: White-browed Bush Chat
+  zh: ''
   nl: Woestijnpaapje
   pl: kląskawka białobrewa
   tr: Çöl Taşkuşu

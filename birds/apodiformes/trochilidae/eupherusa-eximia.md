@@ -12,7 +12,7 @@ names:
   es: Colibrí Colirrayado
   fr: Colibri à épaulettes
   de: Streifenschwanzkolibri
-  pt: stripe-tailed hummingbird
+  pt: ''
   ru: Пестрохвостая эферуса
   ja: クロスジオジロハチドリ
   zh: 纹尾蜂鸟

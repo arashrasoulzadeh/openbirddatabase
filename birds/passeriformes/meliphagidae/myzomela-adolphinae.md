@@ -15,7 +15,7 @@ names:
   pt: elfin myzomela
   ru: Горная медовка
   ja: ヤマズアカミツスイ
-  zh: Mountain Myzomela
+  zh: ''
   nl: Arfakdwerghoningeter
   pl: miodówka górska
   tr: Küçük Mizomela

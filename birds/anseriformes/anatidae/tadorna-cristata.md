@@ -12,7 +12,7 @@ names:
   es: Tarro Crestado
   fr: Tadorne de Corée
   de: Schopfgans
-  pt: crested shelduck
+  pt: ''
   ru: Хохлатая пеганка
   ja: カンムリツクシガモ
   zh: 冠麻鸭

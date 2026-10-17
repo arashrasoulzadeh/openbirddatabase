@@ -12,7 +12,7 @@ names:
   es: Oropéndola Granate
   fr: Loriot pourpré
   de: Blutpirol
-  pt: maroon oriole
+  pt: ''
   ru: Бордовая иволга
   ja: ヒゴロモ
   zh: 朱鹂

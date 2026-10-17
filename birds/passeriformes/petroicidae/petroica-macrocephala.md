@@ -12,7 +12,7 @@ names:
   es: Petroica Carbonera
   fr: Miro mésange
   de: Maorischnäpper
-  pt: tomtit
+  pt: ''
   ru: Маорийская петроика
   ja: ニュージーランドヒタキ
   zh: 雀鸲鹟

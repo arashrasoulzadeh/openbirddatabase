@@ -12,7 +12,7 @@ names:
   es: Eremomela Culigualda
   fr: Érémomèle à ventre jaune
   de: Somalieremomela
-  pt: yellow-vented eremomela
+  pt: ''
   ru: Саванная желтобрюшка
   ja: コキバラヒメムシクイ
   nl: Somalische eremomela

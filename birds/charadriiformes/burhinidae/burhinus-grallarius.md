@@ -15,7 +15,7 @@ names:
   pt: bush thick-knee
   ru: Австралийская авдотка
   ja: オーストラリアイシチドリ
-  zh: Bush Stone-curlew
+  zh: ''
   nl: Australische griel
   pl: kulon australijski
   tr: Uzun Kuyruklu Kocagöz

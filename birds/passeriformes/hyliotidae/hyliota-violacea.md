@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21901.0
 names:
   scientific: Hyliota violacea
-  fa: nan
+  fa: ''
   en: Violet-backed Hyliota
   es: Hiliota Violácea
   fr: Hyliote à dos violet
   de: Violettmantelhyliota
-  pt: violet-backed hyliota
+  pt: ''
   ru: Фиолетовая хилиота
   ja: シロハラムシクイヒタキ
   nl: Violetrughyliota

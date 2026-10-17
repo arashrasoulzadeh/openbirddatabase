@@ -12,7 +12,7 @@ names:
   es: Cuervo Cubano
   fr: Corneille de Cuba
   de: Kubakrähe
-  pt: cuban crow
+  pt: ''
   ru: Кубинская ворона
   ja: キューバガラス
   zh: 古巴鴉

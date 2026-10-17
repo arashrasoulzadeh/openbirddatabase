@@ -12,7 +12,7 @@ names:
   es: Zorzal Antillano
   fr: Grive à pieds jaunes
   de: Antillendrossel
-  pt: forest thrush
+  pt: ''
   ru: Антильский дрозд
   ja: キバシウロコツグミ
   nl: Antillenlijster

@@ -12,7 +12,7 @@ names:
   es: Carpintero Frentidorado
   fr: Pic à front doré
   de: Goldstirnspecht
-  pt: golden-fronted woodpecker
+  pt: ''
   ru: Златолобый дятел
   ja: キバナシマセゲラ
   nl: Goudvoorhoofdspecht

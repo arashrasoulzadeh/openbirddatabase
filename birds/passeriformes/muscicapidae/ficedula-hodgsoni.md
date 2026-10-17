@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29530.0
 names:
   scientific: Ficedula hodgsoni
-  fa: nan
+  fa: ''
   en: Pygmy Flycatcher
   es: Papamoscas Pigmeo
   fr: Gobemouche pygmée
   de: Zwergblauschnäpper
-  pt: pygmy flycatcher
+  pt: ''
   ru: Мухоловка-крошка
   ja: コビトアオヒタキ
   nl: Dwergvliegenvanger

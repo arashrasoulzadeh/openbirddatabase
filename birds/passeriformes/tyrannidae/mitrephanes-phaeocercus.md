@@ -15,7 +15,7 @@ names:
   pt: tufted flycatcher
   ru: Хохлатый мухолов
   ja: フサボウシハエトリ
-  zh: Northern Tufted Flycatcher
+  zh: ''
   nl: Geelbuiktiran
   pl: czubogłowik ochrowy
   tr: Kuzey Sorguçlu Sinekkapan

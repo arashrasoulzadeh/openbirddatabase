@@ -12,7 +12,7 @@ names:
   es: Carpinterito Cejiblanco
   fr: Picumne à sourcils blancs
   de: Rötelmausspecht
-  pt: white-browed piculet
+  pt: ''
   ru: Белобровый дятелок
   ja: インドミツユビコゲラ
   zh: 白眉棕啄木鸟

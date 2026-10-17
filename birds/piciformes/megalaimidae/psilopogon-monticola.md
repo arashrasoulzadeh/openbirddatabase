@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10760.0
 names:
   scientific: Psilopogon monticola
-  fa: nan
+  fa: ''
   en: Mountain Barbet
   es: Barbudo Montano
   fr: Barbu montagnard
   de: Borneobartvogel
-  pt: mountain barbet
+  pt: ''
   ru: Горный бородастик
   ja: ヤマゴシキドリ
   zh: 山地拟啄木鸟

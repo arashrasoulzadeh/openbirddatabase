@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14412.0
 names:
   scientific: Scytalopus zimmeri
-  fa: nan
+  fa: ''
   en: Zimmer's Tapaculo
   es: Churrín de Zimmer
   fr: Mérulaxe de Zimmer
   de: Graukehltapaculo
-  pt: zimmer's tapaculo
+  pt: ''
   ru: Серогорлый тапакуло
   ja: ボリビアミヤマオタテドリ
   nl: Zimmertapaculo

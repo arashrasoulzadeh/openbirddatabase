@@ -12,7 +12,7 @@ names:
   es: Colibrí Picolanza Mayor
   fr: Porte-lance de Louise
   de: Grünstirn-Lanzettschnabel
-  pt: green-fronted lancebill
+  pt: ''
   ru: Зеленолобый ланцетоклюв
   ja: ミドリビタイヤリハチドリ
   zh: 绿额矛嘴蜂鸟

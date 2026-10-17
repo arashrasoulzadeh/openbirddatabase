@@ -12,7 +12,7 @@ names:
   es: Mérgulo Japonés
   fr: Guillemot du Japon
   de: Japanalk
-  pt: japanese murrelet
+  pt: ''
   ru: Хохлатый старик
   ja: カンムリウミスズメ
   zh: 冠海雀

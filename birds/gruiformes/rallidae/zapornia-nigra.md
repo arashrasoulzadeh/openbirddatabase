@@ -7,14 +7,14 @@ iucn_status: EX
 taxon_order: 5604.0
 names:
   scientific: Zapornia nigra
-  fa: nan
+  fa: ''
   en: Tahiti Crake
   es: Polluela de Miller
   fr: Marouette de Miller
   de: Tahitisumpfhuhn
   pt: miller's rail
   ru: Таитянский погоныш
-  zh: Tahiti Crake
+  zh: ''
   nl: Tahitiporseleinhoen
   pl: kureczka polinezyjska
   tr: Miller Yelvesi

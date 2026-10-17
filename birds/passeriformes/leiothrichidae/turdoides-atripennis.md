@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26655.0
 names:
   scientific: Turdoides atripennis
-  fa: nan
+  fa: ''
   en: Capuchin Babbler
   es: Charlatán Capuchino
   fr: Phyllanthe capucin
   de: Kapuzinerdrosselhäherling
-  pt: capuchin babbler
+  pt: ''
   ru: Капюшоновая дроздовка
   ja: タンビモリチメドリ
   nl: Kapucijntimalia

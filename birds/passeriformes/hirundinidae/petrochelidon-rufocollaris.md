@@ -12,7 +12,7 @@ names:
   es: Golondrina Cuellirrufa
   fr: Hirondelle à bande rousse
   de: Rotnackenschwalbe
-  pt: chestnut-collared swallow
+  pt: ''
   ru: Красношейная ласточка
   ja: クリイロツバメ
   nl: Peruaanse klifzwaluw

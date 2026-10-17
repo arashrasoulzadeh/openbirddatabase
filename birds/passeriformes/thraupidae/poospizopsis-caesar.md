@@ -12,7 +12,7 @@ names:
   es: Monterita Pechicastaña
   fr: Tangara césar
   de: Grauflanken-Finkentangare
-  pt: chestnut-breasted mountain finch
+  pt: ''
   ru: Королевская монтерита
   ja: ノドジロマユシトド
   nl: Grijsflankboomgors

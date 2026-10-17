@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 4541.0
 names:
   scientific: Metallura iracunda
-  fa: nan
+  fa: ''
   en: Perija Metaltail
   es: Metalura Iracunda
   fr: Métallure dorée
   de: Rotschwanz-Glanzschwänzchen
-  pt: perija metaltail
+  pt: ''
   ru: Золотистый металлохвост
   ja: アカオハチドリ
   zh: 佩里辉尾蜂鸟

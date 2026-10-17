@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26817.0
 names:
   scientific: Pterorhinus lanceolatus
-  fa: nan
+  fa: ''
   en: Chinese Babax
   es: Babax Chino
   fr: Babaxe lancéolé
   de: Bartstreifhäherling
-  pt: chinese babax
+  pt: ''
   ru: Масковая кустарница
   ja: ヒゲチメドリ
   zh: 矛纹草鹛

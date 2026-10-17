@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22254.0
 names:
   scientific: Melaniparus thruppi
-  fa: nan
+  fa: ''
   en: Acacia Tit
   es: Carbonero Somalí
   fr: Mésange somalienne
@@ -15,7 +15,7 @@ names:
   pt: somali tit
   ru: Сомалийская синица
   ja: ソマリハイイロガラ
-  zh: Acacia Tit
+  zh: ''
   nl: Somalische mees
   pl: sikora sawannowa
   tr: Somali Baştankarası

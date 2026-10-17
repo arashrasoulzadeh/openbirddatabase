@@ -15,7 +15,7 @@ names:
   pt: periquito-da-caatinga
   ru: Кактусовая аратинга
   ja: シャボテンインコ
-  zh: Caatinga Parakeet
+  zh: ''
   nl: Cactusparkiet
   pl: konura kaktusowa
   tr: Kaktüs Papağanı

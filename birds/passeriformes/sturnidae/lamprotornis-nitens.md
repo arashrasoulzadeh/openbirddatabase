@@ -12,7 +12,7 @@ names:
   es: Estornino de El Cabo
   fr: Choucador à épaulettes rouges
   de: Rotschulter-Glanzstar
-  pt: cape starling
+  pt: ''
   ru: Капский спрео
   ja: アカガタテリムク
   nl: Roodschouderglansspreeuw

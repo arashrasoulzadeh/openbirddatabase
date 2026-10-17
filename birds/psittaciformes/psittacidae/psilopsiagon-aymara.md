@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12805.0
 names:
   scientific: Psilopsiagon aymara
-  fa: nan
+  fa: ''
   en: Grey-hooded Parakeet
   es: Catita Aimará
   fr: Toui aymara
@@ -15,7 +15,7 @@ names:
   pt: gray-hooded parakeet
   ru: Сероголовый калита
   ja: ユウギリインコ
-  zh: Grey-hooded Parakeet
+  zh: ''
   nl: Aymaraparkiet
   pl: stokówka ciemnogłowa
   tr: Aymara Papağanı

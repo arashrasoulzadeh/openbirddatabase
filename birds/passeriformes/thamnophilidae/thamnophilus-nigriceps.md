@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13549.0
 names:
   scientific: Thamnophilus nigriceps
-  fa: nan
+  fa: ''
   en: Black Antshrike
   es: Batará Negro
   fr: Batara noir
   de: Schwarzameisenwürger
-  pt: black antshrike
+  pt: ''
   ru: Чёрный колючник
   ja: クロアリモズ
   zh: 黑蚁鵙

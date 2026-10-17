@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 23950.0
 names:
   scientific: Bradypterus graueri
-  fa: nan
+  fa: ''
   en: Grauer's Swamp Warbler
   es: Zarzalero de Grauer
   fr: Mégalure de Grauer
   de: Kivubuschsänger
-  pt: grauer's swamp warbler
+  pt: ''
   ru: Рувензорская бурогрудка
   ja: オオアフリカスゲヨシキリ
   zh: 谷氏短翅莺

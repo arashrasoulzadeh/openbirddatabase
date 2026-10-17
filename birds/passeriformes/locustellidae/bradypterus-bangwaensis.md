@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23915.0
 names:
   scientific: Bradypterus bangwaensis
-  fa: nan
+  fa: ''
   en: Bangwa Forest Warbler
   es: Zarzalero del Bangwa
   fr: Mégalure du Cameroun
@@ -15,7 +15,7 @@ names:
   pt: bangwa warbler
   ru: Камерунская бурогрудка
   ja: バングワオウギセッカ
-  zh: Bangwa Forest Warbler
+  zh: ''
   nl: Bangwastruikzanger
   pl: krótkolotka rdzawobrewa
   tr: Bangwa Ötleğeni

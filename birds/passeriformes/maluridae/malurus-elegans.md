@@ -12,7 +12,7 @@ names:
   es: Maluro Elegante
   fr: Mérion élégant
   de: Silberkopf-Staffelschwanz
-  pt: red-winged fairywren
+  pt: ''
   ru: Элегантный малюр
   ja: ウスアオオーストラリアムシクイ
   zh: 红翅细尾鹩莺

@@ -12,7 +12,7 @@ names:
   es: Vencejo de Tailandia
   fr: Martinet de Cook
   de: Indochinasegler
-  pt: cook's swift
+  pt: ''
   ru: Индокитайский стриж
   ja: クックアマツバメ
   zh: 印支白腰雨燕

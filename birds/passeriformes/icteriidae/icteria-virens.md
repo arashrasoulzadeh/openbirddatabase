@@ -12,7 +12,7 @@ names:
   es: Reinita Grande
   fr: Ictérie polyglotte
   de: Flötenstärling
-  pt: yellow-breasted chat
+  pt: ''
   ru: Иктерия
   ja: オオアメリカムシクイ
   zh: 黄胸大𱉼莺

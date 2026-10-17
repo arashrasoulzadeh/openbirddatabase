@@ -15,7 +15,7 @@ names:
   pt: visayan pygmy-babbler
   ru: Висаянская пестроголовка
   ja: ビサヤモリチメドリ
-  zh: Visayan Pygmy Babbler
+  zh: ''
   nl: Samardwergboomtimalia
   pl: cierniofilipinek samarski
   tr: Visayas Küçük Gözlükçüsü

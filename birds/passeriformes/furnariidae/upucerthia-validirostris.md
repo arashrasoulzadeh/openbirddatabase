@@ -12,7 +12,7 @@ names:
   es: Bandurrita Ocrácea
   fr: Upucerthie fauve
   de: Langschnabel-Erdhacker
-  pt: buff-breasted earthcreeper
+  pt: ''
   ru: Длинноклювый норник
   ja: キムネカマハシカマドドリ
   nl: Bruinborstaardkruiper

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17428.0
 names:
   scientific: Myiodynastes bairdii
-  fa: nan
+  fa: ''
   en: Baird's Flycatcher
   es: Bienteveo de Baird
   fr: Tyran de Baird
   de: Rostflügel-Maskentyrann
-  pt: baird's flycatcher
+  pt: ''
   ru: Пёстрый тиранн Бэрда
   ja: オオブチタイランチョウ
   nl: Bairdtiran

@@ -15,7 +15,7 @@ names:
   pt: new ireland munia
   ru: Полосатогрудая муния
   ja: ニューアイルランドシマコキン
-  zh: Forbes's Mannikin
+  zh: ''
   nl: Forbesnon
   pl: mniszka płowa
   tr: Forbes Munyası

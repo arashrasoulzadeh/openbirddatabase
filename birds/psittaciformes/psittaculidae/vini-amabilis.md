@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12593.0
 names:
   scientific: Vini amabilis
-  fa: nan
+  fa: ''
   en: Red-throated Lorikeet
   es: Lori Gorjirrojo
   fr: Lori à gorge rouge
   de: Rotschenkellori
-  pt: red-throated lorikeet
+  pt: ''
   ru: Красногорлый украшенный лори
   ja: アカズボンインコ
   nl: Roodkeellori

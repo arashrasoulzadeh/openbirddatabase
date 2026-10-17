@@ -15,7 +15,7 @@ names:
   pt: white-headed woodhoopoe
   ru: Белоголовый древесный удод
   ja: カオジロモリヤツガシラ
-  zh: White-headed Wood Hoopoe
+  zh: ''
   nl: Witkopkakelaar
   pl: sierpodudek białogłowy
   tr: Ak Başlı İbibik

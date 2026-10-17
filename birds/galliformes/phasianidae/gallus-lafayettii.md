@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1628.0
 names:
   scientific: Gallus lafayettii
-  fa: nan
+  fa: ''
   en: Sri Lanka Junglefowl
   es: Gallo de Sri Lanka
   fr: Coq de Lafayette
   de: Ceylonhuhn
-  pt: sri lanka junglefowl
+  pt: ''
   ru: Цейлонский петух
   ja: セイロンヤケイ
   zh: 斯里蘭卡叢林原雞

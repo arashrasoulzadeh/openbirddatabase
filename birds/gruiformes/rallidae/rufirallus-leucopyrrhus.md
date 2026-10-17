@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5620.0
 names:
   scientific: Rufirallus leucopyrrhus
-  fa: nan
+  fa: ''
   en: Red-and-white Crake
   es: Polluela Rojiblanca
   fr: Râle blanc et roux

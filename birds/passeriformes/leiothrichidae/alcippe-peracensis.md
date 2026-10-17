@@ -12,7 +12,7 @@ names:
   es: Fulveta Montana
   fr: Alcippe bridé
   de: Malaienzweigdrossling
-  pt: mountain fulvetta
+  pt: ''
   ru: Горная альциппа
   ja: アマチメドリ
   zh: 山雀鶥

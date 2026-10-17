@@ -12,7 +12,7 @@ names:
   es: Apalis de Sharpe
   fr: Apalis de Sharpe
   de: Kurzschwanz-Feinsänger
-  pt: sharpe's apalis
+  pt: ''
   ru: Короткохвостый апалис
   ja: ウスグロイロムシクイ
   nl: Kortstaartapalis

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34027.0
 names:
   scientific: Geothlypis flavovelata
-  fa: nan
+  fa: ''
   en: Altamira Yellowthroat
   es: Mascarita de Altamira
   fr: Paruline à couronne jaune
   de: Goldscheitel-Gelbkehlchen
-  pt: altamira yellowthroat
+  pt: ''
   ru: Златоголовая желтогрудка
   ja: キズキンカオグロムシクイ
   nl: Geelkruinmaskerzanger

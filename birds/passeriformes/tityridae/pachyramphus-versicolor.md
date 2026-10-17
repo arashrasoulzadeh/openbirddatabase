@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16029.0
 names:
   scientific: Pachyramphus versicolor
-  fa: nan
+  fa: ''
   en: Barred Becard
   es: Anambé Barrado
   fr: Bécarde barrée
   de: Wellenbekarde
-  pt: barred becard
+  pt: ''
   ru: Пёстрый бекард
   ja: シマカザリドリモドキ
   nl: Gebandeerde bekarde

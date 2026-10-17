@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10532.0
 names:
   scientific: Trachylaemus purpuratus
-  fa: nan
+  fa: ''
   en: Eastern Yellow-billed Barbet
   es: Barbudo Piquigualdo Oriental
   fr: Barbican pourpré
   de: Gelbschnabel-Bartvogel
-  pt: eastern yellow-billed barbet
+  pt: ''
   ru: Желтоклювый трахифонус
   ja: キバシオナガゴシキドリ（purpuratus／elgonensis）
   nl: Oostelijke geelsnavelbaardvogel

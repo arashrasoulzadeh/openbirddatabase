@@ -12,7 +12,7 @@ names:
   es: Lavandera Malgache
   fr: Bergeronnette malgache
   de: Madagaskarstelze
-  pt: madagascar wagtail
+  pt: ''
   ru: Мадагаскарская трясогузка
   ja: マダガスカルセキレイ
   zh: 马岛鹡鸰

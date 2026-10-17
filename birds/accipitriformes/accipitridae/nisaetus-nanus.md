@@ -12,7 +12,7 @@ names:
   es: Águila de Wallace
   fr: Aigle de Wallace
   de: Dschungelhaubenadler
-  pt: wallace's hawk-eagle
+  pt: ''
   ru: Джунглевый хохлатый орёл
   ja: ウォーレスクマタカ
   zh: 小鷹鵰

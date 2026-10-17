@@ -12,7 +12,7 @@ names:
   es: Brillante Gorjirrosado
   fr: Brillant à gorge rose
   de: Rotkehl-Brillantkolibri
-  pt: pink-throated brilliant
+  pt: ''
   ru: Красногорлый бриллиант
   ja: ヒノマルテリハチドリ
   zh: 粉喉辉蜂鸟

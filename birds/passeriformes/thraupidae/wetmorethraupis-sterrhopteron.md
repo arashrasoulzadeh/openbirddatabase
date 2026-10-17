@@ -12,7 +12,7 @@ names:
   es: Tangara Golinaranja
   fr: Tangara à gorge orangée
   de: Veilchenschultertangare
-  pt: orange-throated tanager
+  pt: ''
   ru: Оранжевогорлая танагра
   ja: ウエトモアフウキンチョウ
   zh: 橙喉唐纳雀

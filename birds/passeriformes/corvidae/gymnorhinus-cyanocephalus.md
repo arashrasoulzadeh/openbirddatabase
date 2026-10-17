@@ -12,7 +12,7 @@ names:
   es: Chara Piñonera
   fr: Geai des pinèdes
   de: Schlankschnabelhäher
-  pt: pinyon jay
+  pt: ''
   ru: Остроклювая сойка
   ja: マツカケス
   zh: 藍頭鴉

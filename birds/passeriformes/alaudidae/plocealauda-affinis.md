@@ -15,7 +15,7 @@ names:
   pt: jerdon's bushlark
   ru: Деканский жаворонок
   ja: ジャードンヤブヒバリ
-  zh: Jerdon's Bush Lark
+  zh: ''
   nl: Jerdonleeuwerik
   pl: skowroniec indyjski
   tr: Jerdon Toygarı

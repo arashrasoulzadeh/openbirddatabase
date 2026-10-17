@@ -15,7 +15,7 @@ names:
   pt: southern emuwren
   ru: Прибрежный эмухвост
   ja: エミュームシクイ
-  zh: Southern Emu-wren
+  zh: ''
   nl: Roodooremoesluiper
   pl: szczeciogonek smugowany
   tr: Güneyli Emubülbülü

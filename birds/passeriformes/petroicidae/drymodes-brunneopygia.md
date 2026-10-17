@@ -15,7 +15,7 @@ names:
   pt: southern scrub-robin
   ru: Скромная дриопа
   ja: ミナミメグロヤブコマ
-  zh: Southern Scrub Robin
+  zh: ''
   nl: Malleefluiter
   pl: krzakor ciemnolicy
   tr: Güneyli Çalı Bülbülü

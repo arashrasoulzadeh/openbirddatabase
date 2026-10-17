@@ -12,7 +12,7 @@ names:
   es: Golondrina Ventrirrufa
   fr: Hirondelle baie
   de: Thairötelschwalbe
-  pt: rufous-bellied swallow
+  pt: ''
   ru: Рыжебрюхая ласточка
   ja: マラヤコイシアカツバメ
   zh: 棕嘴斑腰燕

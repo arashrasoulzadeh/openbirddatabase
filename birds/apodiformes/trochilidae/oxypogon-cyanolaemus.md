@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 4534.0
 names:
   scientific: Oxypogon cyanolaemus
-  fa: nan
+  fa: ''
   en: Blue-bearded Helmetcrest
   es: Colibrí Chivito de Santa Marta
   fr: Colibri à barbe bleue
   de: Blaubart-Helmkolibri
-  pt: blue-bearded helmetcrest
+  pt: ''
   ru: Синебородая горная нимфа
   ja: アオヒゲルメットハチドリ
   zh: 蓝髯蜂鸟

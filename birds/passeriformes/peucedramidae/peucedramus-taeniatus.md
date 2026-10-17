@@ -12,7 +12,7 @@ names:
   es: Ocotero
   fr: Fauvine des pins
   de: Trugwaldsänger
-  pt: olive warbler
+  pt: ''
   ru: Ренита
   ja: オリーブアメリカムシクイ
   zh: 橄榄绿森莺

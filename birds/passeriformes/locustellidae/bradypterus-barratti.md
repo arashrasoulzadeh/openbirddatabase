@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23916.0
 names:
   scientific: Bradypterus barratti
-  fa: nan
+  fa: ''
   en: Barratt's Warbler
   es: Zarzalero de Barratt
   fr: Mégalure des fourrés
   de: Barrattbuschsänger
-  pt: barratt's warbler
+  pt: ''
   ru: Певчая бурогрудка
   ja: ヤブオウギセッカ
   zh: 薮短翅莺

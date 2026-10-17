@@ -12,7 +12,7 @@ names:
   es: Ermitaño Piquilargo
   fr: Ermite à longue queue
   de: Langschnabel-Schattenkolibri
-  pt: long-billed hermit
+  pt: ''
   ru: Длинноклювый колибри-отшельник
   ja: ハシナガユミハチドリ
   zh: 西长尾隐蜂鸟

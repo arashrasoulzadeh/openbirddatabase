@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9388.0
 names:
   scientific: Ninox theomacha
-  fa: nan
+  fa: ''
   en: Papuan Boobook
   es: Nínox Papú
   fr: Ninoxe brune
   de: Einfarbkauz
-  pt: papuan boobook
+  pt: ''
   ru: Одноцветная иглоногая сова
   ja: セグロアオバズク
   nl: Bruine valkuil

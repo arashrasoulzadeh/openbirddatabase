@@ -12,7 +12,7 @@ names:
   es: Abejaruco Cabeciazul Oriental
   fr: Guêpier à tête bleue
   de: Saphirspint
-  pt: blue-headed bee-eater
+  pt: ''
   ru: Сапфировая щурка
   ja: ムラサキハチクイ
   nl: Blauwkopbijeneter

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34194.0
 names:
   scientific: Setophaga graciae
-  fa: nan
+  fa: ''
   en: Grace's Warbler
   es: Reinita de Grace
   fr: Paruline de Grace
   de: Arizonawaldsänger
-  pt: grace's warbler
+  pt: ''
   ru: Аризонская древесница
   ja: グレースアメリカムシクイ
   nl: Gracezanger

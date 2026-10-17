@@ -14,7 +14,7 @@ names:
   de: Príncipe-Zwergohreule
   pt: mocho-d'orelhas-do-príncipe
   ja: プリンシペコノハズク
-  zh: Principe Scops Owl
+  zh: ''
   nl: Principedwergooruil
   pl: syczek książęcy
   tr: Prinsipe İshakkuşu

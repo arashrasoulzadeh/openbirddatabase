@@ -15,7 +15,7 @@ names:
   pt: papuan scrub-robin
   ru: Серощёкая дриопа
   ja: パプアメグロヤブコマ
-  zh: Papuan Scrub Robin
+  zh: ''
   nl: Papoeafluiter
   pl: krzakor brązowogrzbiety
   tr: Papua Çalı Bülbülü

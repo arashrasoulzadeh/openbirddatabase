@@ -15,7 +15,7 @@ names:
   pt: lesser prairie-chicken
   ru: Луговой тетерев
   ja: ヒメソウゲンライチョウ
-  zh: Lesser Prairie Chicken
+  zh: ''
   nl: Klein prairiehoen
   pl: preriokur mały
   tr: Küçük Çayır Tavuğu

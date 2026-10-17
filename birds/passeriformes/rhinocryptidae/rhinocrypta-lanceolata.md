@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14383.0
 names:
   scientific: Rhinocrypta lanceolata
-  fa: nan
+  fa: ''
   en: Crested Gallito
   es: Gallito Copetón
   fr: Tourco huppé
   de: Schopftapaculo
-  pt: crested gallito
+  pt: ''
   ru: Хохлатый галлито
   ja: カンムリオタテドリ
   nl: Kuifgallito

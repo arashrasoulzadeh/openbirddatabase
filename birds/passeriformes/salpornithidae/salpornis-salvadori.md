@@ -12,7 +12,7 @@ names:
   es: Agateador Moteado Africano
   fr: Salpornis de Salvadori
   de: Afrikastammsteiger
-  pt: african spotted creeper
+  pt: ''
   ru: Африканский пятнистая пищуха
   ja: アフリカホシキバシリ
   nl: Afrikaanse gevlekte boomkruiper

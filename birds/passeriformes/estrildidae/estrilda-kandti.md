@@ -12,7 +12,7 @@ names:
   es: Estrilda de Kandt
   fr: Astrild de Kandt
   de: Kandtastrild
-  pt: kandt's waxbill
+  pt: ''
   ru: Рифтовый астрильд
   ja: ミヤマズグロカエデチョウ
   nl: Kandtastrild

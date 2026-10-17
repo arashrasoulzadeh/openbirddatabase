@@ -12,7 +12,7 @@ names:
   es: Colibrí Coliblanco
   fr: Campyloptère à queue blanche
   de: Weißschwanz-Degenflügel
-  pt: white-tailed sabrewing
+  pt: ''
   ru: Белохвостый саблекрыл
   ja: オジロケンバネハチドリ
   zh: 白尾刀翅蜂鸟

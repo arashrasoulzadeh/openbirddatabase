@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26004.0
 names:
   scientific: Pomatorhinus phayrei
-  fa: nan
+  fa: ''
   en: Brown-crowned Scimitar Babbler
   es: Cimitarra Coroniparda
   fr: Pomatorhin de Phayre

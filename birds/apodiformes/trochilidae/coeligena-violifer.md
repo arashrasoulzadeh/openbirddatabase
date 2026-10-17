@@ -12,7 +12,7 @@ names:
   es: Inca Boliviano
   fr: Inca violifère
   de: Veilchenkehlkolibri
-  pt: violet-throated starfrontlet
+  pt: ''
   ru: Фиолетовогорлый инка
   ja: ルリノドインカハチドリ
   zh: 紫喉星额蜂鸟

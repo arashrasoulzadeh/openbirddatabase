@@ -12,7 +12,7 @@ names:
   es: Ibis Calvo
   fr: Ibis du Cap
   de: Kahlkopfibis
-  pt: southern bald ibis
+  pt: ''
   ru: Лысый ибис
   ja: ハゲトキ
   zh: 禿䴉

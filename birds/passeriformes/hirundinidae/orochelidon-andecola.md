@@ -12,7 +12,7 @@ names:
   es: Golondrina Andina
   fr: Hirondelle des Andes
   de: Andenschwalbe
-  pt: andean swallow
+  pt: ''
   ru: Андская ласточка
   ja: アンデスガケツバメ
   nl: Andeszwaluw

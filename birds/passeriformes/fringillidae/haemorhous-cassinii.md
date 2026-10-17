@@ -12,7 +12,7 @@ names:
   es: Camachuelo de Cassin
   fr: Roselin de Cassin
   de: Cassingimpel
-  pt: cassin's finch
+  pt: ''
   ru: Красношапочная чечевица
   ja: ズアカマシコ
   zh: 卡氏朱雀

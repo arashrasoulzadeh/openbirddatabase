@@ -12,7 +12,7 @@ names:
   es: Pergolero Dentado
   fr: Jardinier à bec denté
   de: Zahnlaubenvogel
-  pt: tooth-billed bowerbird
+  pt: ''
   ru: Зубцеклювый садовник
   ja: ハバシニワシドリ
   zh: 锯嘴猫鸟

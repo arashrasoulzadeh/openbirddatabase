@@ -12,7 +12,7 @@ names:
   es: Suimanga Coliverde
   fr: Souimanga à queue verte
   de: Grünschwanz-Nektarvogel
-  pt: green-tailed sunbird
+  pt: ''
   ru: Гималайская нектарница
   ja: ミドリオタイヨウチョウ
   zh: 绿喉太阳鸟

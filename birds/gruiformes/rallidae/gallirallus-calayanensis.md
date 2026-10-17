@@ -12,7 +12,7 @@ names:
   es: Rascón de Isla Calayán
   fr: Râle de Calayan
   de: Calayanralle
-  pt: calayan rail
+  pt: ''
   ru: Калаянский трескун
   ja: カラヤンクイナ
   zh: 卡拉杨秧鸡

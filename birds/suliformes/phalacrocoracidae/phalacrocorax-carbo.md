@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7397.0
 names:
   scientific: Phalacrocorax carbo
-  fa: nan
+  fa: ''
   en: Great Cormorant
   es: Cormorán Grande
   fr: Grand Cormoran

@@ -12,7 +12,7 @@ names:
   es: Bulbul Picofino
   fr: Bulbul à bec grêle
   de: Schmalschnabelbülbül
-  pt: slender-billed greenbul
+  pt: ''
   ru: Узкоклювый бюльбюль
   ja: ハシボソアオヒヨ
   nl: Dunsnavelbuulbuul

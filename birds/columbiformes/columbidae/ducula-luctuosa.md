@@ -15,7 +15,7 @@ names:
   pt: silver-tipped imperial-pigeon
   ru: Белый плодовый голубь
   ja: セレベスソデグロバト
-  zh: Silver-tipped Imperial Pigeon
+  zh: ''
   nl: Witte muskaatduif
   pl: muszkatela biała
   tr: Sütlüce Has Güvercin

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3651.0
 names:
   scientific: Caprimulgus aegyptius
-  fa: nan
+  fa: ''
   en: Egyptian Nightjar
   es: Chotacabras Egipcio
   fr: Engoulevent du désert

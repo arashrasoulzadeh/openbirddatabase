@@ -12,7 +12,7 @@ names:
   es: Chingolo Coronirrufo
   fr: Tohi à calotte fauve
   de: Rostscheitelammer
-  pt: rufous-crowned sparrow
+  pt: ''
   ru: Рыжешапочная овсянка
   ja: ズアカスズメモドキ
   zh: 棕顶猛雀鹀

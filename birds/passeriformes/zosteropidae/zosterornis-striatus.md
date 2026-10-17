@@ -15,7 +15,7 @@ names:
   pt: luzon striped-babbler
   ru: Лусонская пеструшка
   ja: スジグロモリチメドリ
-  zh: Luzon Striped Babbler
+  zh: ''
   nl: Gestreepte boomtimalia
   pl: filipinek kreskowany
   tr: Luzon Çizgili Gözlükçüsü

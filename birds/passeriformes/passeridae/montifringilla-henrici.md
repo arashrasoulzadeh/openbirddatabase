@@ -12,7 +12,7 @@ names:
   es: Gorrión de Henri
   fr: Niverolle d'Henri
   de: Tibetschneesperling
-  pt: tibetan snowfinch
+  pt: ''
   ru: Тибетский снежный воробей
   ja: チベットユキスズメ
   zh: 藏雪雀

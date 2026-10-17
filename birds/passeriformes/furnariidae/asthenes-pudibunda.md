@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15442.0
 names:
   scientific: Asthenes pudibunda
-  fa: nan
+  fa: ''
   en: Canyon Canastero
   es: Piscuiz Peruano
   fr: Synallaxe des canyons
   de: Rostschwanzcanastero
-  pt: canyon canastero
+  pt: ''
   ru: Каньонный канастеро
   ja: タニサボテンカマドドリ
   nl: Canyoncanastero

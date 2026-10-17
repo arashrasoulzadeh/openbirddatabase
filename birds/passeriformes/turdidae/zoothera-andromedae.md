@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28212.0
 names:
   scientific: Zoothera andromedae
-  fa: nan
+  fa: ''
   en: Sunda Thrush
   es: Zorzal de Andrómeda
   fr: Grive andromède

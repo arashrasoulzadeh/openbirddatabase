@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 8875.0
 names:
   scientific: Megascops gilesi
-  fa: nan
+  fa: ''
   en: Santa Marta Screech Owl
   es: Autillo de Santa Marta
   fr: Petit-duc de Santa Marta
@@ -15,7 +15,7 @@ names:
   pt: santa marta screech-owl
   ru: Сантамартийская совка
   ja: サンタマルタオオコノハズク
-  zh: Santa Marta Screech Owl
+  zh: ''
   nl: Santa-Martaschreeuwuil
   pl: syczoń stokowy
   tr: Santa Marta Puhucuğu

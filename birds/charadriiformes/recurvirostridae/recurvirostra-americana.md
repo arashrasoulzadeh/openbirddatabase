@@ -12,7 +12,7 @@ names:
   es: Avoceta Americana
   fr: Avocette d'Amérique
   de: Braunhals-Säbelschnäbler
-  pt: american avocet
+  pt: ''
   ru: Американская шилоклювка
   ja: アメリカソリハシセイタカシギ
   zh: 紅胸反嘴鴴

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26602.0
 names:
   scientific: Liocichla ripponi
-  fa: nan
+  fa: ''
   en: Scarlet-faced Liocichla
   es: Charlatán de Rippon
   fr: Garrulaxe de Rippon
   de: Rotgesicht-Bunthäherling
-  pt: scarlet-faced liocichla
+  pt: ''
   ru: Краснолицая лиоцихла
   ja: ヒガオヤブドリ
   zh: 红翅薮鹛

@@ -15,7 +15,7 @@ names:
   pt: malayan banded-pitta
   ru: Белокрылая питта
   ja: マラヤシマヤイロチョウ
-  zh: Malayan Banded Pitta
+  zh: ''
   nl: Maleise blauwstaartpitta
   pl: kurtaczek malajski
   tr: Malay Yazılı Pittası

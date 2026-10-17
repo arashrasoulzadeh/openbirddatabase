@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 11711.0
 names:
   scientific: Campethera tullbergi
-  fa: nan
+  fa: ''
   en: Tullberg's Woodpecker
   es: Pito de Tullberg
   fr: Pic de Tullberg
   de: Tullbergspecht
-  pt: tullberg's woodpecker
+  pt: ''
   ru: Полосатогорлая кампетера
   ja: アフリカヤマゲラ
   zh: 喀麥隆啄木

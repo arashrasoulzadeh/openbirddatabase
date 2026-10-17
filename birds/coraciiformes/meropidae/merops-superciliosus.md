@@ -12,7 +12,7 @@ names:
   es: Abejaruco Malgache
   fr: Guêpier de Madagascar
   de: Madagaskarspint
-  pt: olive bee-eater
+  pt: ''
   ru: Оливковая щурка
   ja: マダガスカルハチクイ
   nl: Madagaskarbijeneter

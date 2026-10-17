@@ -15,7 +15,7 @@ names:
   pt: rajah scops-owl
   ru: Совка-раджа
   ja: ラジャーオオコノハズク
-  zh: Rajah Scops Owl
+  zh: ''
   nl: Radjahdwergooruil
   pl: syczek białouchy
   tr: Raca İshakkuşu

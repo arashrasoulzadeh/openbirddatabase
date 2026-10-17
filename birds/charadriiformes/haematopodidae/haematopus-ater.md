@@ -12,7 +12,7 @@ names:
   es: Ostrero Negro Americano
   fr: Huîtrier noir
   de: Chileausternfischer
-  pt: blackish oystercatcher
+  pt: ''
   ru: Тёмный кулик-сорока
   ja: ミナミクロミヤコドリ
   zh: 黑蠣鷸

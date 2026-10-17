@@ -12,7 +12,7 @@ names:
   es: Picamaderos Imperial
   fr: Pic impérial
   de: Kaiserspecht
-  pt: imperial woodpecker
+  pt: ''
   ru: Императорский дятел
   ja: テイオウキツツキ
   zh: 帝啄木鳥

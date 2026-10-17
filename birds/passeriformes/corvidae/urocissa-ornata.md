@@ -15,7 +15,7 @@ names:
   pt: sri lanka blue-magpie
   ru: Ланкийская лазоревая сорока
   ja: セイロンサンジャク
-  zh: Sri Lanka Blue Magpie
+  zh: ''
   nl: Blauwe kitta
   pl: kitta ozdobna
   tr: Seylan Mavi Saksağanı

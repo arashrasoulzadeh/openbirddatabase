@@ -15,7 +15,7 @@ names:
   pt: large-tailed dove
   ru: Андская голубка
   ja: シロガオシャコバト
-  zh: Yungas Dove
+  zh: ''
   nl: Witwangduif
   pl: gołębik białolicy
   tr: Yungas Kumrusu

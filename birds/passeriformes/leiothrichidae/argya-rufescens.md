@@ -12,7 +12,7 @@ names:
   es: Turdoide Cingalés
   fr: Cratérope de Ceylan
   de: Orangeschnabel-Drosselhäherling
-  pt: orange-billed babbler
+  pt: ''
   ru: Оранжевоклювая дроздовка
   ja: セイロンヤブチメドリ
   zh: 橙嘴鶇鶥

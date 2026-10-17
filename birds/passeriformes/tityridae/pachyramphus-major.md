@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16062.0
 names:
   scientific: Pachyramphus major
-  fa: nan
+  fa: ''
   en: Grey-collared Becard
   es: Anambé Mexicano
   fr: Bécarde du Mexique
@@ -15,7 +15,7 @@ names:
   pt: gray-collared becard
   ru: Мексиканский бекард
   ja: オオカザリドリモドキ
-  zh: Grey-collared Becard
+  zh: ''
   nl: Grijskraagbekarde
   pl: bekardzik szaroszyi
   tr: Orta Amerika Bekardı

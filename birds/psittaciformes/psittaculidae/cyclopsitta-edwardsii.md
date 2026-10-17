@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12550.0
 names:
   scientific: Cyclopsitta edwardsii
-  fa: nan
+  fa: ''
   en: Edwards's Fig Parrot
   es: Lorito de Edwards
   fr: Psittacule d'Edwards
@@ -15,7 +15,7 @@ names:
   pt: edwards's fig-parrot
   ru: Желтоухий фиговый попугайчик
   ja: アカノドミミカザリインコ
-  zh: Edwards's Fig Parrot
+  zh: ''
   nl: Edwardsvijgpapegaai
   pl: figówka czerwonobroda
   tr: Edwards İncir Papağanı

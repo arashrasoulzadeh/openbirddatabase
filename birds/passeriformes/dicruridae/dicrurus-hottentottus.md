@@ -12,7 +12,7 @@ names:
   es: Drongo Crestudo
   fr: Drongo à crinière
   de: Haarbuschdrongo
-  pt: hair-crested drongo
+  pt: ''
   ru: Индийский дронго
   ja: カンムリオウチュウ
   zh: 发冠卷尾

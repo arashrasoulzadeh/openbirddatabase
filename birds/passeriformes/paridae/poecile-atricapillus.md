@@ -12,7 +12,7 @@ names:
   es: Carbonero Cabecinegro
   fr: Mésange à tête noire
   de: Schwarzkopfmeise
-  pt: black-capped chickadee
+  pt: ''
   ru: Черношапочная гаичка
   ja: アメリカコガラ
   zh: 黑顶山雀

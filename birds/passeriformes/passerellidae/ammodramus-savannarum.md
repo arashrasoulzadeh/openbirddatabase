@@ -12,7 +12,7 @@ names:
   es: Chingolo Saltamontes
   fr: Bruant sauterelle
   de: Heuschreckenammer
-  pt: grasshopper sparrow
+  pt: ''
   ru: Кузнечиковая овсянка-барсучок
   ja: イナゴヒメドリ
   zh: 黃胸草鵐

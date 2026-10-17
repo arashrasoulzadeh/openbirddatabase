@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2970.0
 names:
   scientific: Crinifer concolor
-  fa: nan
+  fa: ''
   en: Grey Go-away-bird
   es: Turaco Unicolor
   fr: Touraco concolore
@@ -15,7 +15,7 @@ names:
   pt: gray go-away-bird
   ru: Серый бананоед
   ja: ムジハイイロエボシドリ
-  zh: Grey Go-away-bird
+  zh: ''
   nl: Vale toerako
   pl: hałaśnik szary
   tr: Gri Turako

@@ -7,7 +7,7 @@ iucn_status: DD
 taxon_order: 23348.0
 names:
   scientific: Bathmocercus cerviniventris
-  fa: nan
+  fa: ''
   en: Black-headed Rufous Warbler
   es: Prinia Cabecinegra
   fr: Bathmocerque à capuchon
@@ -15,7 +15,7 @@ names:
   pt: black-capped rufous-warbler
   ru: Рыжая черногрудка
   ja: ズグロアカムシクイ
-  zh: Black-headed Rufous Warbler
+  zh: ''
   nl: Zwartkapvoszanger
   pl: strumieńczyk czarnogłowy
   tr: Sarı Karınlı Kızıl Ötleğen

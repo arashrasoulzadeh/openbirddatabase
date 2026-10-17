@@ -12,7 +12,7 @@ names:
   es: Amazona Guayabera
   fr: Amazone à couronne lilas
   de: Blaukappenamazone
-  pt: lilac-crowned amazon
+  pt: ''
   ru: Синешапочный амазон
   ja: フジイロボウシインコ
   zh: 紫冠亞馬遜鸚鵡

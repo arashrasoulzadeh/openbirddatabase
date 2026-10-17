@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 15481.0
 names:
   scientific: Limnoctites rectirostris
-  fa: nan
+  fa: ''
   en: Straight-billed Reedhaunter
   es: Pajonalera Piquirrecta
   fr: Synallaxe à bec droit

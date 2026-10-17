@@ -15,7 +15,7 @@ names:
   pt: southern ground-hornbill
   ru: Кафрский рогатый ворон
   ja: ミナミジサイチョウ
-  zh: Southern Ground Hornbill
+  zh: ''
   nl: Zuidelijke hoornraaf
   pl: dzioboróg kafryjski
   tr: Nübye Yer Boynuzgagası

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25011.0
 names:
   scientific: Phylloscopus presbytes
-  fa: nan
+  fa: ''
   en: Timor Leaf Warbler
   es: Mosquitero de Timor
   fr: Pouillot de Timor

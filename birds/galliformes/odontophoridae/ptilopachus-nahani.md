@@ -12,7 +12,7 @@ names:
   es: Gallinita de Nahan
   fr: Poulette de Nahan
   de: Nahanwachtel
-  pt: nahan's partridge
+  pt: ''
   ru: Итурийский сикипи
   ja: コンゴモリシャコ
   nl: Nahanfrankolijn

@@ -12,7 +12,7 @@ names:
   es: Cucarachero Cabeciblanco
   fr: Troglodyte à tête blanche
   de: Weißkopf-Zaunkönig
-  pt: white-headed wren
+  pt: ''
   ru: Белоголовый крапивник
   ja: シロガシラサボテンミソサザイ
   zh: 白头曲嘴鹪鹩

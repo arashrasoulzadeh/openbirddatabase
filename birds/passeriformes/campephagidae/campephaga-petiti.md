@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18771.0
 names:
   scientific: Campephaga petiti
-  fa: nan
+  fa: ''
   en: Petit's Cuckooshrike
   es: Oruguero de Petit
   fr: Échenilleur de Petit
   de: Kongoraupenfänger
-  pt: petit's cuckooshrike
+  pt: ''
   ru: Чёрный личинколюб
   ja: コンゴクロサンショウクイ
   zh: 紅腹鵑鵙

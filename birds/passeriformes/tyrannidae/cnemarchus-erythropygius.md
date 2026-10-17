@@ -15,7 +15,7 @@ names:
   pt: red-rumped bush-tyrant
   ru: Красногузая гевара
   ja: コシアカヤブタイランチョウ
-  zh: Red-rumped Bush Tyrant
+  zh: ''
   nl: Roodstuitstruiktiran
   pl: andotyran
   tr: Kızıl Kuyruklu Çalı Tiranı

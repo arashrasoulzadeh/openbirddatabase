@@ -12,7 +12,7 @@ names:
   es: Indicador Variegado
   fr: Indicateur varié
   de: Strichelstirn-Honiganzeiger
-  pt: scaly-throated honeyguide
+  pt: ''
   ru: Пестролобый медоуказчик
   ja: ウロコミツオシエ
   nl: Schubkeelhoningspeurder

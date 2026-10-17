@@ -12,7 +12,7 @@ names:
   es: Suimanga de Guimarás
   fr: Souimanga de Steere
   de: Braunnacken-Nektarvogel
-  pt: maroon-naped sunbird
+  pt: ''
   ru: Панайская нектарница
   ja: クリエリタイヨウチョウ
   nl: Roodnekhoningzuiger

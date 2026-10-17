@@ -12,7 +12,7 @@ names:
   es: Pita Arcoiris
   fr: Brève iris
   de: Regenbogenpitta
-  pt: rainbow pitta
+  pt: ''
   ru: Радужная питта
   ja: ムナグロヤイロチョウ
   zh: 彩虹八色鶇

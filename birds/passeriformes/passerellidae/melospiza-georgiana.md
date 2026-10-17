@@ -12,7 +12,7 @@ names:
   es: Chingolo Pantanero
   fr: Bruant des marais
   de: Sumpfammer
-  pt: swamp sparrow
+  pt: ''
   ru: Болотная зонотрихия
   ja: ヌマウタスズメ
   zh: 沼澤帶鵐

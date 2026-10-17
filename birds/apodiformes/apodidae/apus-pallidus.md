@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 4102.0
 names:
   scientific: Apus pallidus
-  fa: nan
+  fa: ''
   en: Pallid Swift
   es: Vencejo Pálido
   fr: Martinet pâle

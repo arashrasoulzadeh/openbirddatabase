@@ -12,7 +12,7 @@ names:
   es: Palomita Cascabelita
   fr: Colombe de Cécile
   de: Nacktgesichttäubchen
-  pt: bare-faced ground dove
+  pt: ''
   ru: Гологлазая земляная горлица
   ja: アカガオハシリバト
   nl: Naaktoogpunaduif

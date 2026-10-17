@@ -7,7 +7,7 @@ iucn_status: CR
 taxon_order: 16270.0
 names:
   scientific: Phylloscartes ceciliae
-  fa: nan
+  fa: ''
   en: Alagoas Tyrannulet
   es: Orejerito de Alagoas
   fr: Tyranneau de Cecilia

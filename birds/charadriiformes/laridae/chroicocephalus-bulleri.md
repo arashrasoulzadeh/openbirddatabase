@@ -12,7 +12,7 @@ names:
   es: Gaviota Maorí
   fr: Mouette de Buller
   de: Maorimöwe
-  pt: black-billed gull
+  pt: ''
   ru: Маорийская чайка
   ja: ハシグロカモメ
   nl: Zwartsnavelmeeuw

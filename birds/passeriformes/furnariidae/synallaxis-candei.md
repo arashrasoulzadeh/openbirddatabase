@@ -12,7 +12,7 @@ names:
   es: Pijuí Barbiblanco
   fr: Synallaxe à moustaches
   de: Weißbart-Dickichtschlüpfer
-  pt: white-whiskered spinetail
+  pt: ''
   ru: Усатая иглохвостка
   ja: シロヒゲカマドドリ
   nl: Zwartoorstekelstaart

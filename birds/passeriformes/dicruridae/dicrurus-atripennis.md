@@ -12,7 +12,7 @@ names:
   es: Drongo Selvático
   fr: Drongo de forêt
   de: Glanzdrongo
-  pt: shining drongo
+  pt: ''
   ru: Блестящий дронго
   ja: テリハオウチュウ
   zh: 輝卷尾

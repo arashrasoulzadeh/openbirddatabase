@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20315.0
 names:
   scientific: Rhipidura habibiei
-  fa: nan
+  fa: ''
   en: Peleng Fantail
   es: Abanico de Peleng
   fr: Rhipidure de Peleng
   de: Pelengfächerschwanz
-  pt: peleng fantail
+  pt: ''
   ru: Пеленгская веерохвостка
   ja: ペレンオウギビタキ
   nl: Pelengwaaierstaart

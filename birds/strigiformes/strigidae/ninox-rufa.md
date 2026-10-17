@@ -12,7 +12,7 @@ names:
   es: Nínox Rojizo
   fr: Ninoxe rousse
   de: Rostkauz
-  pt: rufous owl
+  pt: ''
   ru: Рыжая иглоногая сова
   ja: アカチャアオバズク
   zh: 棕鹰鸮

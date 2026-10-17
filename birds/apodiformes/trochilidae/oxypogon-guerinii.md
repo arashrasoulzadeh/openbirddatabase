@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4536.0
 names:
   scientific: Oxypogon guerinii
-  fa: nan
+  fa: ''
   en: Green-bearded Helmetcrest
   es: Colibrí Chivito de Bogotá
   fr: Colibri casqué
   de: Grünbart-Helmkolibri
-  pt: green-bearded helmetcrest
+  pt: ''
   ru: Шлемоносная горная нимфа
   ja: ヘルメットハチドリ
   zh: 髯蜂鸟

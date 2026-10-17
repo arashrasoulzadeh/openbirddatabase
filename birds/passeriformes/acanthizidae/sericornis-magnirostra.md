@@ -12,7 +12,7 @@ names:
   es: Sedosito Picudo
   fr: Séricorne à grand bec
   de: Fahlstirnsericornis
-  pt: large-billed scrubwren
+  pt: ''
   ru: Большеклювая кустовка
   ja: ハシナガヤブムシクイ
   zh: 巨嘴絲刺鶯

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34964.0
 names:
   scientific: Ixothraupis varia
-  fa: nan
+  fa: ''
   en: Dotted Tanager
   es: Tangara Manchada
   fr: Calliste tacheté

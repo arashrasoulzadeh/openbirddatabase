@@ -12,7 +12,7 @@ names:
   es: Serín Yemení
   fr: Serin du Yémen
   de: Jemengirlitz
-  pt: yemen serin
+  pt: ''
   ru: Йеменский канареечник
   ja: アラビアカナリア
   nl: Jemenitische kanarie

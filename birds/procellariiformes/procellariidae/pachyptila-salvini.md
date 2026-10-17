@@ -12,7 +12,7 @@ names:
   es: Prión de Salvin
   fr: Prion de Salvin
   de: Salvin-Entensturmvogel
-  pt: salvin's prion
+  pt: ''
   ru: Сальвинов прион
   ja: チュウヒロハシクジラドリ
   nl: Salvinprion

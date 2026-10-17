@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16950.0
 names:
   scientific: Empidonax virescens
-  fa: nan
+  fa: ''
   en: Acadian Flycatcher
   es: Mosquero Verdoso
   fr: Moucherolle vert

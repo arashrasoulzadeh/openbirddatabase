@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14309.0
 names:
   scientific: Myrmothera fulviventris
-  fa: nan
+  fa: ''
   en: White-lored Antpitta
   es: Tororoí Ventricanela Ecuatoriano
   fr: Grallaire à ventre fauve
   de: Weißwangen-Ameisenpitta
-  pt: white-lored antpitta
+  pt: ''
   ru: Серошапочный торорой
   ja: シロビタイモリジアリドリ
   nl: Zwartkapmierpitta

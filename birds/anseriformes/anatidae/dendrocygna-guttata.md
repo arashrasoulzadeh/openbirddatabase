@@ -15,7 +15,7 @@ names:
   pt: spotted whistling-duck
   ru: Пятнистая древесная утка
   ja: シラボシリュウキュウガモ
-  zh: Spotted Whistling Duck
+  zh: ''
   nl: Gevlekte fluiteend
   pl: drzewica plamista
   tr: Benekli Islıkçı Ördek

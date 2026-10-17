@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19523.0
 names:
   scientific: Pachycephala melanorhyncha
-  fa: nan
+  fa: ''
   en: Biak Whistler
   es: Silbador de Biak
   fr: Siffleur de Biak
   de: Bikakdickkopf
-  pt: biak whistler
+  pt: ''
   ru: Биакский свистун
   ja: ビアクモズヒタキ
   nl: Biakfluiter

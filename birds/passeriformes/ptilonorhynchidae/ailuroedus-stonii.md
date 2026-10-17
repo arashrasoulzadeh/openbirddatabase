@@ -12,7 +12,7 @@ names:
   es: Maullador Pechiocre
   fr: Jardinier de Stone
   de: Ockerbauch-Laubenvogel
-  pt: ochre-breasted catbird
+  pt: ''
   ru: Охристобрюхая птица-кошка
   ja: キムネネコドリ
   zh: 赭胸园丁鸟

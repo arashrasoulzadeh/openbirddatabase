@@ -12,7 +12,7 @@ names:
   es: Sibia Moteada
   fr: Crocias tacheté
   de: Fleckenwürgerhäherling
-  pt: spotted crocias
+  pt: ''
   ru: Светлогрудая кроция
   ja: ジャワワキフチメドリ
   zh: 斑南洋鶥

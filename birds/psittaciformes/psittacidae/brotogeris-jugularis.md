@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12836.0
 names:
   scientific: Brotogeris jugularis
-  fa: nan
+  fa: ''
   en: Orange-chinned Parakeet
   es: Catita Churica
   fr: Toui à menton d'or
   de: Tovisittich
-  pt: orange-chinned parakeet
+  pt: ''
   ru: Оранжевогорлая катита
   ja: ミドリインコ
   nl: Toviparkiet

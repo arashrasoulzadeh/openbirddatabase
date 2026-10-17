@@ -12,7 +12,7 @@ names:
   es: Cuervo de Flores
   fr: Corneille de Florès
   de: Floreskrähe
-  pt: flores crow
+  pt: ''
   ru: Флоресская ворона
   ja: フロレスガラス
   zh: 佛羅烏鴉

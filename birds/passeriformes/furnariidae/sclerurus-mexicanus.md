@@ -15,7 +15,7 @@ names:
   pt: vira-folha-de-peito-vermelho
   ru: Светлогорлый тенелюб
   ja: ノドアカヤブクグリ
-  zh: Tawny-throated Leaftosser
+  zh: ''
   nl: Bruinkeelbladkrabber
   pl: liściarek rdzawy
   tr: Orta Amerika Yaprakçevireni

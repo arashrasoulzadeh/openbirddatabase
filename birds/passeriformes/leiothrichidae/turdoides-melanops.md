@@ -12,7 +12,7 @@ names:
   es: Turdoide Enmascarado
   fr: Cratérope masqué
   de: Schwarzgesicht-Drosselhäherling
-  pt: black-faced babbler
+  pt: ''
   ru: Чернолицая дроздовка
   ja: ハナグロヤブチメドリ
   zh: 黑臉鶇鶥

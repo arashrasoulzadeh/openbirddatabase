@@ -12,7 +12,7 @@ names:
   es: Paloma Oscura
   fr: Pigeon de Goodson
   de: Goodsontaube
-  pt: dusky pigeon
+  pt: ''
   ru: Тёмный голубь
   ja: ウスグロバト
   zh: 烏鴿

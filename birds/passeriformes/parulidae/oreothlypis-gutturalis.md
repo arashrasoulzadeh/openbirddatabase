@@ -12,7 +12,7 @@ names:
   es: Reinita Flamígera
   fr: Paruline embrasée
   de: Feuerwaldsänger
-  pt: flame-throated warbler
+  pt: ''
   ru: Огненогрудая древесница
   ja: ノドアカアメリカムシクイ
   nl: Vuurkeelzanger

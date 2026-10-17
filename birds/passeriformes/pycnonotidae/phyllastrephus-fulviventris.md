@@ -12,7 +12,7 @@ names:
   es: Bulbul Ventrirrufo
   fr: Bulbul à ventre fauve
   de: Angolabülbül
-  pt: pale-olive greenbul
+  pt: ''
   ru: Ангольский бюльбюль
   ja: ムジオリーブヒヨドリ
   nl: Angolese loofbuulbuul

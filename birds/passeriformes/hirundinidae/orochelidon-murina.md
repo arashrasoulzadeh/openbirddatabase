@@ -12,7 +12,7 @@ names:
   es: Golondrina Ventriparda
   fr: Hirondelle à ventre brun
   de: Mausschwalbe
-  pt: brown-bellied swallow
+  pt: ''
   ru: Сероватая ласточка
   ja: チャバラアイイロツバメ
   nl: Muiszwaluw

@@ -12,7 +12,7 @@ names:
   es: Tarabilla del Amur
   fr: Tarier de Stejneger
   de: Stejnegerschwarzkehlchen
-  pt: amur stonechat
+  pt: ''
   ru: Восточный черноголовый чекан
   ja: ノビタキ
   zh: 东亚石䳭

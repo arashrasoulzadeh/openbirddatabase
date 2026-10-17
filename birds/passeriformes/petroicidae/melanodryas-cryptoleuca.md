@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21856.0
 names:
   scientific: Melanodryas cryptoleuca
-  fa: nan
+  fa: ''
   en: Smoky Robin
   es: Petroica Sombría
   fr: Miro ombré
   de: Rußdickichtschnäpper
-  pt: smoky robin
+  pt: ''
   ru: Дымчатая дриада
   ja: ハイイロパプアヒタキ
   nl: Grijze struikvliegenvanger

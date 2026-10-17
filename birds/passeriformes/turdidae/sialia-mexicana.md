@@ -12,7 +12,7 @@ names:
   es: Azulejo Occidental
   fr: Merlebleu de l'Ouest
   de: Blaukehl-Hüttensänger
-  pt: western bluebird
+  pt: ''
   ru: Западная сиалия
   ja: チャカタルリツグミ
   zh: 西藍鴝

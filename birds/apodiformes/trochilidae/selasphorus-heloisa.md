@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 4846.0
 names:
   scientific: Selasphorus heloisa
-  fa: nan
+  fa: ''
   en: Bumblebee Hummingbird
   es: Colibrí de Eloísa
   fr: Colibri héloïse
   de: Rosenkehlelfe
-  pt: bumblebee hummingbird
+  pt: ''
   ru: Колибри-эльф
   ja: コアカヒゲハチドリ
   zh: 大瑰喉蜂鸟

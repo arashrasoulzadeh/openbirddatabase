@@ -12,7 +12,7 @@ names:
   es: Papamoscas Malayo
   fr: Gobemouche malais
   de: Malaienblauschnäpper
-  pt: malaysian blue flycatcher
+  pt: ''
   ru: Малайская нильтава
   ja: マレーシアヒメアオヒタキ
   nl: Maleise niltava

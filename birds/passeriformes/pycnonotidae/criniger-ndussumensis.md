@@ -12,7 +12,7 @@ names:
   es: Bulbul Barbiblanco
   fr: Bulbul de Reichenow
   de: Weißkehl-Haarbülbül
-  pt: white-bearded greenbul
+  pt: ''
   ru: Белобородый бюльбюль
   ja: コンゴシロヒゲヒヨドリ
   nl: Reichenowbaardbuulbuul

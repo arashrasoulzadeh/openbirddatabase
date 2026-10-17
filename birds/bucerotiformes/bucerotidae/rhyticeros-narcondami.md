@@ -12,7 +12,7 @@ names:
   es: Cálao de Isla Narcondam
   fr: Calao de Narcondam
   de: Narcondamhornvogel
-  pt: narcondam hornbill
+  pt: ''
   ru: Андаманский калао
   ja: ヒメシワコブサイチョウ
   zh: 拿可丹皺盔犀鳥

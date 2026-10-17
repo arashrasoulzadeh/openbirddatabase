@@ -12,7 +12,7 @@ names:
   es: Turpial de Montserrat
   fr: Oriole de Montserrat
   de: Montserrattrupial
-  pt: montserrat oriole
+  pt: ''
   ru: Монтсерратский трупиал
   ja: モントセラートムクドリモドキ
   nl: Montserrattroepiaal

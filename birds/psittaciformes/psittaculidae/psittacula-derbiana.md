@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12369.0
 names:
   scientific: Psittacula derbiana
-  fa: nan
+  fa: ''
   en: Lord Derby's Parakeet
   es: Cotorra de Derby
   fr: Perruche de Derby

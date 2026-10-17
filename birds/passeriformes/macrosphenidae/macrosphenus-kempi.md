@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22904.0
 names:
   scientific: Macrosphenus kempi
-  fa: nan
+  fa: ''
   en: Kemp's Longbill
   es: Picolargo de Kemp
   fr: Nasique de Kemp
   de: Rostflanken-Bülbülgrasmücke
-  pt: kemp's longbill
+  pt: ''
   ru: Рыжебокий долгонос
   ja: チャイロハシナガムシクイ
   nl: Bruine langsnavelzanger

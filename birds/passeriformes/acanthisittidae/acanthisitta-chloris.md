@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13219.0
 names:
   scientific: Acanthisitta chloris
-  fa: nan
+  fa: ''
   en: Rifleman
   es: Acantisita Verdoso
   fr: Xénique grimpeur
   de: Grünstummelschwanz
-  pt: rifleman
+  pt: ''
   ru: Зелёный стрелок
   ja: ミドリイワサザイ
   zh: 刺鹩

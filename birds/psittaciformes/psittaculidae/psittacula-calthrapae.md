@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12368.0
 names:
   scientific: Psittacula calthrapae
-  fa: nan
+  fa: ''
   en: Layard's Parakeet
   es: Cotorra de Sri Lanka
   fr: Perruche de Layard
   de: Blauschwanzsittich
-  pt: layard's parakeet
+  pt: ''
   ru: Изумрудный кольчатый попугай
   ja: セイロンミドリワカケインコ
   zh: 艷綠領鸚鵡

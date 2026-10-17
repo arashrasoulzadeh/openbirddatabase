@@ -12,7 +12,7 @@ names:
   es: Colibrí del Atacama
   fr: Colibri vesper
   de: Atacamakolibri
-  pt: oasis hummingbird
+  pt: ''
   ru: Оазисный колибри
   ja: オアシスハチドリ
   zh: 绿洲蜂鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16088.0
 names:
   scientific: Pachyramphus validus
-  fa: nan
+  fa: ''
   en: Crested Becard
   es: Anambé Grande
   fr: Bécarde huppée

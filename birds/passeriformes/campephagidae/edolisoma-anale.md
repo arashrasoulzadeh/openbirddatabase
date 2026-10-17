@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18864.0
 names:
   scientific: Edolisoma anale
-  fa: nan
+  fa: ''
   en: New Caledonian Cuckooshrike
   es: Oruguero de Nueva Caledonia
   fr: Échenilleur de montagne
   de: Rotsteiß-Raupenfänger
-  pt: new caledonian cuckooshrike
+  pt: ''
   ru: Новокаледонский цикадник
   ja: カレドニアオオサンショウクイ
   zh: 山鹃鵙

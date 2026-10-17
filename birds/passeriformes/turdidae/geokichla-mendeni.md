@@ -12,7 +12,7 @@ names:
   es: Zorzal de Peleng
   fr: Grive de Menden
   de: Pelengdrossel
-  pt: red-and-black thrush
+  pt: ''
   ru: Пеленгский дрозд
   ja: ペレングジツグミ
   nl: Pelenglijster

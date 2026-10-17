@@ -12,7 +12,7 @@ names:
   es: Mosquerito Capirotado
   fr: Tyranneau à tête noire
   de: Schwarzkappen-Kleintyrann
-  pt: black-capped tyrannulet
+  pt: ''
   ru: Черноголовый москитеро
   ja: ズグロコタイランチョウ
   nl: Monniksvliegenpikker

@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Espléndida
   fr: Paradisier splendide
   de: Prachtparadieselster
-  pt: splendid astrapia
+  pt: ''
   ru: Великолепная астрапия
   ja: フトオオナガフウチョウ
   zh: 光彩長尾風鳥

@@ -12,7 +12,7 @@ names:
   es: Oruguero Cabecinegro
   fr: Échenilleur à tête noire
   de: Schwarzkopf-Raupenfänger
-  pt: black-headed cuckooshrike
+  pt: ''
   ru: Чернокрылый личинкоед-свистун
   ja: ズグロアサクラサンショウクイ
   zh: 黑頭鵑鵙

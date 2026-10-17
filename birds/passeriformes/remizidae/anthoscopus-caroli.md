@@ -15,7 +15,7 @@ names:
   pt: african penduline-tit
   ru: Белолобый ремез
   ja: アフリカツリスガラ
-  zh: Grey Penduline Tit
+  zh: ''
   nl: Acaciakapokmees
   pl: remizek zmienny
   tr: Doğu Afrika Çulhakuşu

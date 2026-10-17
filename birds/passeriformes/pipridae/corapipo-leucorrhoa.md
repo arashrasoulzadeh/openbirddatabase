@@ -12,7 +12,7 @@ names:
   es: Saltarín Gorjiblanco Occidental
   fr: Manakin orné
   de: Weißkehlpipra
-  pt: white-bibbed manakin
+  pt: ''
   ru: Белощёкий манакин
   ja: シロムネマイコドリ
   nl: Oostelijke witbefmanakin

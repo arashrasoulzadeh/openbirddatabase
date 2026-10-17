@@ -12,7 +12,7 @@ names:
   es: Pingüino de Schlegel
   fr: Gorfou de Schlegel
   de: Haubenpinguin
-  pt: royal penguin
+  pt: ''
   ru: Пингвин Маккуори
   ja: ロイヤルペンギン
   zh: 皇家企鵝

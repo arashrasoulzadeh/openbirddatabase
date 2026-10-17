@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2535.0
 names:
   scientific: Treron griveaudi
-  fa: nan
+  fa: ''
   en: Comoro Green Pigeon
   es: Vinago de las Comoras
   fr: Colombar des Comores
@@ -15,7 +15,7 @@ names:
   pt: comoro green-pigeon
   ru: Коморский зелёный голубь
   ja: コモロアオバト
-  zh: Comoro Green Pigeon
+  zh: ''
   nl: Comorenpapegaaiduif
   pl: treron komorski
   tr: Komor Yeşil Güvercini

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21672.0
 names:
   scientific: Melanocharis piperata
-  fa: nan
+  fa: ''
   en: Spotted Berrypecker
   es: Picabayas Moteado
   fr: Piquebaie de De Vis
   de: Fleckenbeerenpicker
-  pt: spotted berrypecker
+  pt: ''
   nl: Gevlekte bessenpikker
   pl: jagodziak długodzioby
   tr: Benekli Meyvekuşu

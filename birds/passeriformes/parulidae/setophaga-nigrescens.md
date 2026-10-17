@@ -15,7 +15,7 @@ names:
   pt: black-throated gray warbler
   ru: Траурная древесница
   ja: ノドグロハイアメリカムシクイ
-  zh: Black-throated Grey Warbler
+  zh: ''
   nl: Grijze zwartkeelzanger
   pl: lasówka białowąsa
   tr: Kara Şeritli Ötleğen

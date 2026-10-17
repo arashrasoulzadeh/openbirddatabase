@@ -12,7 +12,7 @@ names:
   es: Rascón de Dieffenbach
   fr: Râle de Dieffenbach
   de: Dieffenbachralle
-  pt: dieffenbach's rail
+  pt: ''
   ru: Новозеландский трескун
   ja: チャタムオビクイナ
   zh: 獃秧雞

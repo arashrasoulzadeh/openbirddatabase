@@ -12,7 +12,7 @@ names:
   es: Lavandera Clara
   fr: Bergeronnette à longue queue
   de: Langschwanzstelze
-  pt: mountain wagtail
+  pt: ''
   ru: Длиннохвостая трясогузка
   ja: ハイイロハクセキレイ
   nl: Bergkwikstaart

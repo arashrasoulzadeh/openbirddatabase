@@ -12,7 +12,7 @@ names:
   es: Tejedor Bengalí
   fr: Tisserin du Bengale
   de: Bengalenweber
-  pt: black-breasted weaver
+  pt: ''
   ru: Бенгальский ткач
   ja: ノドグロコウヨウジャク
   zh: 黑胸织雀

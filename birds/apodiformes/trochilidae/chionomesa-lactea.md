@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5176.0
 names:
   scientific: Chionomesa lactea
-  fa: nan
+  fa: ''
   en: Sapphire-spangled Emerald
   es: Amazilia Zafirina
   fr: Ariane saphirine

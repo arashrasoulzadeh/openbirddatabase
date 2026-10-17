@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13791.0
 names:
   scientific: Herpsilochmus praedictus
-  fa: nan
+  fa: ''
   en: Predicted Antwren
   es: Tiluchí de Purús
   fr: Grisin prédit

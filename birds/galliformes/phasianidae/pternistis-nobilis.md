@@ -12,7 +12,7 @@ names:
   es: Francolín Noble
   fr: Francolin noble
   de: Edelfrankolin
-  pt: handsome spurfowl
+  pt: ''
   ru: Угандийский франколин
   ja: ウツクシシャコ
   nl: Bamboefrankolijn

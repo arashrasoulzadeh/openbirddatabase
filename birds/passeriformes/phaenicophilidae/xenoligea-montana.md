@@ -12,7 +12,7 @@ names:
   es: Reinita Montana
   fr: Petit Quatre-yeux
   de: Spiegelpalmtangare
-  pt: white-winged warbler
+  pt: ''
   ru: Белокрылая эспаньола
   ja: ハジロアメリカムシクイ
   nl: Witvleugelzanger

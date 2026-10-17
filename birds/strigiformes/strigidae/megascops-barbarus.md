@@ -15,7 +15,7 @@ names:
   pt: bearded screech-owl
   ru: Бородатая совка
   ja: ヒゲオオコノハズク
-  zh: Bearded Screech Owl
+  zh: ''
   nl: Santa-Barbaraschreeuwuil
   pl: syczoń oczkowany
   tr: Sakallı Puhucuk

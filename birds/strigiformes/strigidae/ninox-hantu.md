@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9386.0
 names:
   scientific: Ninox hantu
-  fa: nan
+  fa: ''
   en: Buru Boobook
   es: Nínox de Buru
   fr: Ninoxe de Buru
   de: Burukauz
-  pt: buru boobook
+  pt: ''
   ja: ブルアオバズク
   nl: Buruvalkuil
   pl: sowica rdzawobrzucha

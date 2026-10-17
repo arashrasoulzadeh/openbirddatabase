@@ -15,7 +15,7 @@ names:
   pt: mauritius blue-pigeon
   ru: Маврикийский синий голубь
   ja: モーリシャスルリバト
-  zh: Mauritius Blue Pigeon
+  zh: ''
   nl: Mauritiusblauwduif
   pl: koralczyk maurytyjski
   tr: Morityus Mavi Güvercini

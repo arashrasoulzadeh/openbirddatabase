@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16034.0
 names:
   scientific: Pachyramphus rufus
-  fa: nan
+  fa: ''
   en: Cinereous Becard
   es: Anambé Cinéreo
   fr: Bécarde cendrée

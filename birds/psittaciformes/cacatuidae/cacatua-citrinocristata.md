@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 12211.0
 names:
   scientific: Cacatua citrinocristata
-  fa: nan
+  fa: ''
   en: Citron-crested Cockatoo
   es: Cacatúa de Sumba
   fr: Cacatoès à huppe orange
   de: Orangehaubenkakadu
-  pt: citron-crested cockatoo
+  pt: ''
   ja: コキサカオウム
   nl: Oranjekuifkaketoe
   pl: kakadu cytrynowoczuba

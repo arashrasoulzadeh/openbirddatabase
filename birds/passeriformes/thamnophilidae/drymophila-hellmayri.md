@@ -12,7 +12,7 @@ names:
   es: Tiluchí de Santa Marta
   fr: Grisin de Santa Marta
   de: Santa-Marta-Ameisenfänger
-  pt: santa marta antbird
+  pt: ''
   ru: Сантамартийская муравьянка
   ja: サンタマルタアリドリ
   nl: Santa-Martamiervogel

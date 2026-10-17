@@ -12,7 +12,7 @@ names:
   es: Serín Árabe
   fr: Serin d'Arabie
   de: Medinagirlitz
-  pt: arabian serin
+  pt: ''
   ru: Аравийский канареечник
   ja: オリーブカナリア
   nl: Arabische kanarie

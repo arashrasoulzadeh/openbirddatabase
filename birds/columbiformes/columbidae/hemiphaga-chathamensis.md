@@ -12,7 +12,7 @@ names:
   es: Paloma de las Chatham
   fr: Carpophage des Chatham
   de: Chathamfruchttaube
-  pt: chatham islands pigeon
+  pt: ''
   ru: Чатемский плодовый голубь
   ja: チャタムバト
   nl: Chathamduif

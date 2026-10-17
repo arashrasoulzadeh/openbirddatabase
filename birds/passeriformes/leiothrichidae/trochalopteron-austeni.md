@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26439.0
 names:
   scientific: Trochalopteron austeni
-  fa: nan
+  fa: ''
   en: Brown-capped Laughingthrush
   es: Charlatán de Austen
   fr: Garrulaxe d'Austen
   de: Braunkappenhäherling
-  pt: brown-capped laughingthrush
+  pt: ''
   ru: Пестрогрудая кустарница
   ja: サザナミガビチョウ
   zh: 褐顶噪鹛

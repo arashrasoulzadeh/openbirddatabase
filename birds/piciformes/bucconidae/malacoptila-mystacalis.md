@@ -12,7 +12,7 @@ names:
   es: Buco Bigotudo
   fr: Tamatia à moustaches
   de: Schnurrbart-Faulvogel
-  pt: moustached puffbird
+  pt: ''
   ru: Усатая пуховка
   ja: シラヒゲオオガシラ
   nl: Knevelbaardkoekoek

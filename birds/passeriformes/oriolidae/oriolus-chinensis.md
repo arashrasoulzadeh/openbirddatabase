@@ -12,7 +12,7 @@ names:
   es: Oropéndola China
   fr: Loriot de Chine
   de: Schwarznackenpirol
-  pt: black-naped oriole
+  pt: ''
   ru: Китайская иволга
   ja: コウライウグイス
   zh: 黑枕黄鹂

@@ -12,7 +12,7 @@ names:
   es: Anteojitos Capirotado
   fr: Zostérops à calotte noire
   de: Schwarzstirn-Brillenvogel
-  pt: black-capped white-eye
+  pt: ''
   ru: Чернолобая белоглазка
   ja: ズグロメジロ
   zh: 黑冠繡眼

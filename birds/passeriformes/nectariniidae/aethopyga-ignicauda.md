@@ -12,7 +12,7 @@ names:
   es: Suimanga Colafuego
   fr: Souimanga queue-de-feu
   de: Feuerschwanz-Nektarvogel
-  pt: fire-tailed sunbird
+  pt: ''
   ru: Огненнохвостая нектарница
   ja: アカオタイヨウチョウ
   zh: 火尾太阳鸟

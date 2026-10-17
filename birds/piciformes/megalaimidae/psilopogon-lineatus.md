@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10744.0
 names:
   scientific: Psilopogon lineatus
-  fa: nan
+  fa: ''
   en: Lineated Barbet
   es: Barbudo Listado
   fr: Barbu rayé
   de: Streifenbartvogel
-  pt: lineated barbet
+  pt: ''
   ru: Полосатый бородастик
   ja: シロボシオオゴシキドリ
   zh: 斑头绿拟啄木鸟

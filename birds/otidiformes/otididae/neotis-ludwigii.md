@@ -12,7 +12,7 @@ names:
   es: Avutarda de Namibia
   fr: Outarde de Ludwig
   de: Ludwigtrappe
-  pt: ludwig's bustard
+  pt: ''
   ru: Южноафриканская дрофа
   ja: ナンアチュウノガン
   zh: 黑頭鴇

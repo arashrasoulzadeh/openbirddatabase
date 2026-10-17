@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35421.0
 names:
   scientific: Rhopospina alaudina
-  fa: nan
+  fa: ''
   en: Band-tailed Sierra Finch
   es: Yal Platero
   fr: Incaspize à queue barrée
   de: Lerchenammertangare
-  pt: band-tailed sierra finch
+  pt: ''
   ru: Пятнистохвостая пизарита
   ja: オビオヤマシトド
   nl: Bandstaartsierragors

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16338.0
 names:
   scientific: Hemitriccus obsoletus
-  fa: nan
+  fa: ''
   en: Brown-breasted Bamboo Tyrant
   es: Titirijí Pechipardo
   fr: Todirostre à poitrine brune
@@ -15,7 +15,7 @@ names:
   pt: catraca
   ru: Бурогрудый тоди-тиранн
   ja: チャムネコビトドリモドキ
-  zh: Brown-breasted Bamboo Tyrant
+  zh: ''
   nl: Bruinborsttodietiran
   pl: smukłodziobek bambusowy
   tr: Esmer Karınlı Bambu Tiranı

@@ -12,7 +12,7 @@ names:
   es: Pita de Luzón
   fr: Brève de Koch
   de: Bartpitta
-  pt: whiskered pitta
+  pt: ''
   ru: Усатая питта
   ja: ルソンヤイロチョウ
   zh: 呂宋八色鶇

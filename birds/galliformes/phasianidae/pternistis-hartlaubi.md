@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 1810.0
 names:
   scientific: Pternistis hartlaubi
-  fa: nan
+  fa: ''
   en: Hartlaub's Spurfowl
   es: Francolín de Hartlaub
   fr: Francolin de Hartlaub
   de: Hartlaubfrankolin
-  pt: hartlaub's spurfowl
+  pt: ''
   ru: Намибийский франколин
   ja: マダラシャコ
   nl: Hartlaubfrankolijn

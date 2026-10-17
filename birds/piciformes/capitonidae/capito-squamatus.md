@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10790.0
 names:
   scientific: Capito squamatus
-  fa: nan
+  fa: ''
   en: Orange-fronted Barbet
   es: Cabezón Escamoso
   fr: Cabézon à nuque blanche
   de: Weißnacken-Bartvogel
-  pt: orange-fronted barbet
+  pt: ''
   ru: Оранжеволобая бородатка
   ja: ヒビタイゴシキドリ
   nl: Geschubde baardvogel

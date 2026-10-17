@@ -12,7 +12,7 @@ names:
   es: Silbador Nuquirrufo
   fr: Carillonneur à nuque rousse
   de: Oliv-Haubendickkopf
-  pt: rufous-naped bellbird
+  pt: ''
   ru: Рыжешапочная птица-колокольчик
   ja: アカエリモズヒタキ
   zh: 棕颈啸鹟

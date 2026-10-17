@@ -12,7 +12,7 @@ names:
   es: Cucarachero Desértico
   fr: Troglodyte des cactus
   de: Kaktuszaunkönig
-  pt: cactus wren
+  pt: ''
   ru: Кактусовый крапивник
   ja: サボテンミソサザイ
   zh: 棕曲嘴鷦鷯

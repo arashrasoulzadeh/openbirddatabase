@@ -12,7 +12,7 @@ names:
   es: Carraca Curol
   fr: Courol vouroudriou
   de: Kuckucksroller
-  pt: cuckoo-roller
+  pt: ''
   ru: Курол
   ja: オオブッポウソウ
   zh: 鹃鴗

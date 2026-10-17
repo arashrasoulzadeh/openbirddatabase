@@ -15,7 +15,7 @@ names:
   pt: gray thrasher
   ru: Серый пересмешник
   ja: ハイイロツグミモドキ
-  zh: Grey Thrasher
+  zh: ''
   nl: Grijze spotlijster
   pl: przedrzeźniacz szary
   tr: Gri Çöpçü

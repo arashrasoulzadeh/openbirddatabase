@@ -15,7 +15,7 @@ names:
   pt: african golden-weaver
   ru: Золотистый ткач
   ja: コガネハタオリ
-  zh: Eastern Golden Weaver
+  zh: ''
   nl: Goudwever
   pl: wikłacz żółty
   tr: Doğulu Altın Dokumacı

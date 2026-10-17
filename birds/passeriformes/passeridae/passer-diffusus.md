@@ -15,7 +15,7 @@ names:
   pt: southern gray-headed sparrow
   ru: Дамарский воробей
   ja: ミナミハイガシラスズメ
-  zh: Southern Grey-headed Sparrow
+  zh: ''
   nl: Mozambikaanse mus
   pl: wróbel blady
   tr: Güneyli Bozbaş Serçe

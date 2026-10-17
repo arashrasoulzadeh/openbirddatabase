@@ -12,7 +12,7 @@ names:
   es: Pijuí Centroamericano
   fr: Synallaxe à poitrine rousse
   de: Rotbrust-Dickichtschlüpfer
-  pt: rufous-breasted spinetail
+  pt: ''
   ru: Рыжегрудая иглохвостка
   ja: ムネアカオナガカマドドリ
   nl: Roodborststekelstaart

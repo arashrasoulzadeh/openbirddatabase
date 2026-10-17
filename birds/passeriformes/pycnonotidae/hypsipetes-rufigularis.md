@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 24568.0
 names:
   scientific: Hypsipetes rufigularis
-  fa: nan
+  fa: ''
   en: Zamboanga Bulbul
   es: Bulbul Gorjirrufo
   fr: Bulbul à gorge rousse
   de: Rotkehlbülbül
-  pt: zamboanga bulbul
+  pt: ''
   ru: Красногорлый бюльбюль
   ja: ミンダナオチャムネヒヨドリ
   nl: Zamboangabuulbuul

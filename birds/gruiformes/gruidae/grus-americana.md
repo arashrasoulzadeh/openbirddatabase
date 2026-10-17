@@ -12,7 +12,7 @@ names:
   es: Grulla Trompetera
   fr: Grue blanche
   de: Schreikranich
-  pt: whooping crane
+  pt: ''
   ru: Американский журавль
   ja: アメリカシロヅル
   zh: 美洲鶴

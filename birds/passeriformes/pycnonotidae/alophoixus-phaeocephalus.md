@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24453.0
 names:
   scientific: Alophoixus phaeocephalus
-  fa: nan
+  fa: ''
   en: Yellow-bellied Bulbul
   es: Bulbul Capirotado
   fr: Bulbul à calotte grise
   de: Schwefelbülbül
-  pt: yellow-bellied bulbul
+  pt: ''
   ru: Сероголовый бюльбюль-бородач
   ja: ハイガシラアゴカンムリヒヨドリ
   nl: Grijskopbaardbuulbuul

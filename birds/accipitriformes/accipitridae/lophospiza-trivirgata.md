@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8085.0
 names:
   scientific: Lophospiza trivirgata
-  fa: nan
+  fa: ''
   en: Crested Goshawk
   es: Azor Moñudo
   fr: Autour huppé
   de: Schopfhabicht
-  pt: crested goshawk
+  pt: ''
   ru: Хохлатый ястреб
   ja: カンムリオオタカ
   zh: 凤头鹰

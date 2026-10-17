@@ -12,7 +12,7 @@ names:
   es: Picudo Ventrigualdo
   fr: Toxoramphe à ventre jaune
   de: Gelbbauch-Pfriemschnabel
-  pt: yellow-bellied longbill
+  pt: ''
   ru: Желтобрюхий иглоклюв
   ja: ハシナガミツスイ
   nl: Geelbuikhoningjager

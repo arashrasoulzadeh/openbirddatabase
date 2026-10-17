@@ -12,7 +12,7 @@ names:
   es: Cotorra de las Seychelles
   fr: Perruche des Seychelles
   de: Seychellensittich
-  pt: seychelles parakeet
+  pt: ''
   ru: Сейшельский попугай
   ja: ミドリオオホンセイインコ
   zh: 塞席爾鸚鵡

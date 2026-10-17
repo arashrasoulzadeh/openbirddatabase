@@ -12,7 +12,7 @@ names:
   es: Abanico Ventriblanco
   fr: Rhipidure à ventre blanc
   de: Kurzfuß-Fächerschwanz
-  pt: white-bellied fantail
+  pt: ''
   ru: Белобрюхая веерохвостка
   ja: シロハラオウギビタキ
   nl: Kortpootwaaierstaart

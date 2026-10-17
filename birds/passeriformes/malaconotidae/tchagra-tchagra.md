@@ -12,7 +12,7 @@ names:
   es: Chagra de El Cabo
   fr: Tchagra du Cap
   de: Kaptschagra
-  pt: southern tchagra
+  pt: ''
   ru: Капская чагра
   ja: マユジロヤブモズ
   nl: Kaapse tsjagra

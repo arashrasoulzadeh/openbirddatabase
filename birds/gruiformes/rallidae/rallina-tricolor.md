@@ -12,7 +12,7 @@ names:
   es: Polluela Tricolor
   fr: Râle tricolore
   de: Dreifarbenralle
-  pt: red-necked crake
+  pt: ''
   ru: Трёхцветный пастушок
   ja: ミナミオオクイナ
   nl: Driekleurige ral

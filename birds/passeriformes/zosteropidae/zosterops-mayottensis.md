@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25722.0
 names:
   scientific: Zosterops mayottensis
-  fa: nan
+  fa: ''
   en: Mayotte White-eye
   es: Anteojitos de Mayotte
   fr: Zostérops de Mayotte
   de: Dotterbrust-Brillenvogel
-  pt: mayotte white-eye
+  pt: ''
   ru: Майоттская белоглазка
   ja: マヨットメジロ
   zh: 栗喉繡眼

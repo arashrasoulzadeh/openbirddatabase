@@ -15,7 +15,7 @@ names:
   pt: cujubi
   ru: Красногорлый гуан
   ja: アカノドナキシャクケイ
-  zh: Red-throated Piping Guan
+  zh: ''
   nl: Roodkeelgoean
   pl: grdacz czerwonogardły
   tr: Al Gerdanlı Islıkçı Guan

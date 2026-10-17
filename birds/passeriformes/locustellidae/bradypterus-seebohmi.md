@@ -15,7 +15,7 @@ names:
   pt: gray emutail
   ru: Мадагаскарская эмухвостка
   ja: ハイイロエミューセッカ
-  zh: Grey Emutail
+  zh: ''
   nl: Madagaskargrasvogel
   pl: bagnik
   tr: Gri Tülkuyruk

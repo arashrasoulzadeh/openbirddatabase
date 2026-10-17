@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5039.0
 names:
   scientific: Talaphorus chlorocercus
-  fa: nan
+  fa: ''
   en: Olive-spotted Hummingbird
   es: Colibrí Blanquioliva
   fr: Colibri à queue verte

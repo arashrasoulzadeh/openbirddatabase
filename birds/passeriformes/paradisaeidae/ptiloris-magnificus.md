@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Goliazul
   fr: Paradisier gorge-d'acier
   de: Prachtparadiesvogel
-  pt: magnificent riflebird
+  pt: ''
   ru: Великолепный веерокрыл
   ja: オオウロコフウチョウ
   zh: 丽色掩鼻风鸟

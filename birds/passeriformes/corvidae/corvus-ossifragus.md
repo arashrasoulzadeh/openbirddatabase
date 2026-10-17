@@ -12,7 +12,7 @@ names:
   es: Cuervo Pescador
   fr: Corneille de rivage
   de: Fischkrähe
-  pt: fish crow
+  pt: ''
   ru: Рыбная ворона
   ja: ウオガラス
   zh: 魚鴉

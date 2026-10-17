@@ -12,7 +12,7 @@ names:
   es: Bulbul Caripelado
   fr: Bulbul hualon
   de: Kahlgesichtbülbül
-  pt: bare-faced bulbul
+  pt: ''
   ru: Лысый бюльбюль
   ja: ハゲガオヒヨドリ
   nl: Kaalkopbuulbuul

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27711.0
 names:
   scientific: Aplonis magna
-  fa: nan
+  fa: ''
   en: Long-tailed Starling
   es: Estornino de Biak
   fr: Stourne à longue queue
   de: Biakstar
-  pt: long-tailed starling
+  pt: ''
   ru: Биакский скворец
   ja: オナガカラスモドキ
   zh: 长尾丽椋鸟

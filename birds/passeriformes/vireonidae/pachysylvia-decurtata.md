@@ -12,7 +12,7 @@ names:
   es: Verdillo Menor
   fr: Viréon menu
   de: Graukappenvireo
-  pt: lesser greenlet
+  pt: ''
   ru: Короткохвостый виреончик
   ja: メジロヒメモズモドキ
   nl: Kleine vireo

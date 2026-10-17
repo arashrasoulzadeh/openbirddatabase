@@ -12,7 +12,7 @@ names:
   es: Chotacabras de la Española
   fr: Engoulevent d'Hispaniola
   de: Hispaniolanachtschwalbe
-  pt: hispaniolan nightjar
+  pt: ''
   ru: Гаитянский козодой
   zh: 斯岛夜鹰
   nl: Hispaniolanachtzwaluw

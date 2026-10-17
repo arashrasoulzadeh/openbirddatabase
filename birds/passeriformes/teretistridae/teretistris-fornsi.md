@@ -12,7 +12,7 @@ names:
   es: Reinita de Oriente
   fr: Chillina d'Oriente
   de: Gelbbrust-Kubasänger
-  pt: oriente warbler
+  pt: ''
   ru: Желтогрудый щебетун
   ja: ヒガシキューバムシクイ
   nl: Grijskruinzanger

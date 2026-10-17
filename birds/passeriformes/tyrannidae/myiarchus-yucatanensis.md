@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17279.0
 names:
   scientific: Myiarchus yucatanensis
-  fa: nan
+  fa: ''
   en: Yucatan Flycatcher
   es: Copetón Yucateco
   fr: Tyran du Yucatan
   de: Yucatánschopftyrann
-  pt: yucatan flycatcher
+  pt: ''
   ru: Юкатанский миарх
   ja: ユカタンヒタキモドキ
   nl: Yucatantiran

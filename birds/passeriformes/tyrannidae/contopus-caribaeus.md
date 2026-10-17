@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16927.0
 names:
   scientific: Contopus caribaeus
-  fa: nan
+  fa: ''
   en: Cuban Pewee
   es: Pibí Cubano
   fr: Moucherolle tête-fou
   de: Kubaschnäppertyrann
-  pt: cuban pewee
+  pt: ''
   ru: Кубинский пиви
   ja: ダイアンチルヒタキモドキ
   nl: Bruinbuikpiewie

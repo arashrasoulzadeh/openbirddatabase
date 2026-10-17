@@ -14,7 +14,7 @@ names:
   de: Graukehl-Nektarvogel
   pt: gray-throated sunbird
   ru: Серогорлая нектарница
-  zh: Grey-throated Sunbird
+  zh: ''
   nl: Grijskeelhoningzuiger
   pl: nektarzyk szarogardły
   tr: Gri Boğazlı Nektarkuşu

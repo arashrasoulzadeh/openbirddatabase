@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Soberbia de Vogelkop
   fr: Paradisier superbe
   de: Wondiwoi-Kragenparadiesvogel
-  pt: vogelkop lophorina
+  pt: ''
   ru: Арфакская лофорина
   ja: フォーヘルコップカタカケフウチョウ
   zh: 华美风鸟

@@ -12,7 +12,7 @@ names:
   es: Alcaudón Colilargo
   fr: Pie-grièche à longue queue
   de: Langschwanzwürger
-  pt: long-tailed fiscal
+  pt: ''
   ru: Сероспинный фискал
   ja: オグロオナガモズ
   zh: 东非长尾伯劳

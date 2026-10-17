@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17064.0
 names:
   scientific: Knipolegus cabanisi
-  fa: nan
+  fa: ''
   en: Plumbeous Tyrant
   es: Viudita Andina Meridional
   fr: Ada de Cabanis
@@ -15,7 +15,7 @@ names:
   pt: plumbeous black-tyrant
   ru: Свинцовая вдовка
   ja: ナマリイロタイランチョウ
-  zh: Plumbeous Tyrant
+  zh: ''
   nl: Berliozmoortiran
   pl: wdowik ołowiany
   tr: Bolivya And Esmer Tiranı

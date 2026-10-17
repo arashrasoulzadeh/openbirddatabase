@@ -12,7 +12,7 @@ names:
   es: Cardenal Norteño
   fr: Cardinal rouge
   de: Rotkardinal
-  pt: northern cardinal
+  pt: ''
   ru: Красный кардинал
   ja: ショウジョウコウカンチョウ
   zh: 北美紅雀

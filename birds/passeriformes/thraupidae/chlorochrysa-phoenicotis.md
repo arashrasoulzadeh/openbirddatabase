@@ -12,7 +12,7 @@ names:
   es: Tangara Verde
   fr: Tangara étincelant
   de: Rotohr-Bunttangare
-  pt: glistening-green tanager
+  pt: ''
   ru: Красноухая танагра
   ja: エメラルドフウキンチョウ
   nl: Zilver-groene tangare

@@ -12,7 +12,7 @@ names:
   es: Carpintero de Lewis
   fr: Pic de Lewis
   de: Blutgesichtspecht
-  pt: lewis's woodpecker
+  pt: ''
   ru: Краснолицый дятел
   ja: ルイスキツツキ
   zh: 刘氏啄木鸟

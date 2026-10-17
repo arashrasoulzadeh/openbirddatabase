@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Africano
   fr: Eurylaime du Cap
   de: Schwarzscheitel-Breitrachen
-  pt: african broadbill
+  pt: ''
   ru: Пёстрый ширококлюв
   ja: アフリカヒロハシ
   zh: 非洲阔嘴鸟

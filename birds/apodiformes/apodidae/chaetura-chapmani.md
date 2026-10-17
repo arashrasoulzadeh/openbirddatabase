@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3906.0
 names:
   scientific: Chaetura chapmani
-  fa: nan
+  fa: ''
   en: Chapman's Swift
   es: Vencejo de Chapman
   fr: Martinet de Chapman

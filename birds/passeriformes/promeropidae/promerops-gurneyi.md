@@ -12,7 +12,7 @@ names:
   es: Mielero Abejaruco de Gurney
   fr: Promérops de Gurney
   de: Natalhonigvogel
-  pt: gurney's sugarbird
+  pt: ''
   ru: Натальская сахарная птица
   ja: ヒガシオナガミツスイ
   nl: Gurneysuikervogel

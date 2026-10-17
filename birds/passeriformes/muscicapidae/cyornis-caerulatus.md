@@ -12,7 +12,7 @@ names:
   es: Papamoscas Picoancho
   fr: Gobemouche à grand bec
   de: Sundablauschnäpper
-  pt: sunda blue flycatcher
+  pt: ''
   ru: Ширококлювая нильтава
   ja: クロアゴヒメアオヒタキ
   zh: 大嘴仙鹟

@@ -15,7 +15,7 @@ names:
   pt: maria-preta-de-bico-azulado
   ru: Блестящая вдовка
   ja: クロタイランチョウ
-  zh: Blue-billed Black Tyrant
+  zh: ''
   nl: Blauwsnavelmoortiran
   pl: wdowik modrodzioby
   tr: Mavi Gagalı Esmer Tiran

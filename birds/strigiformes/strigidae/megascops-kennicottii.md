@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8855.0
 names:
   scientific: Megascops kennicottii
-  fa: nan
+  fa: ''
   en: Western Screech Owl
   es: Autillo Californiano
   fr: Petit-duc des montagnes
@@ -15,7 +15,7 @@ names:
   pt: western screech-owl
   ru: Западная совка
   ja: ニシアメリカオオコノハズク
-  zh: Western Screech Owl
+  zh: ''
   nl: Westelijke schreeuwuil
   pl: syczoń zachodni
   tr: Batılı Puhucuk

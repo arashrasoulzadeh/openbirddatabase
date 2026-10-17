@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15183.0
 names:
   scientific: Syndactyla dimidiata
-  fa: nan
+  fa: ''
   en: Planalto Foliage-gleaner
   es: Ticotico del Planalto
   fr: Anabate mantelé
@@ -15,7 +15,7 @@ names:
   pt: limpa-folha-do-brejo
   ru: Рыжеватый сростнопал
   ja: チャイロマユカマドドリ
-  zh: Planalto Foliage-gleaner
+  zh: ''
   nl: Roestrugbladspeurder
   pl: liściowiec cynamonowy
   tr: Kızıl Mantolu Yaprakkarıştıran

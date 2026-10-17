@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2777.0
 names:
   scientific: Ducula oceanica
-  fa: nan
+  fa: ''
   en: Micronesian Imperial Pigeon
   es: Dúcula de Micronesia
   fr: Carpophage de Micronésie
@@ -15,7 +15,7 @@ names:
   pt: micronesian imperial-pigeon
   ru: Микронезийский плодовый голубь
   ja: コブバト
-  zh: Micronesian Imperial Pigeon
+  zh: ''
   nl: Micronesische muskaatduif
   pl: muszkatela szarogłowa
   tr: Mikronezya Has Güvercini

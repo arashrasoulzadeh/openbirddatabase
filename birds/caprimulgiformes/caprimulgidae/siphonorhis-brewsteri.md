@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 3579.0
 names:
   scientific: Siphonorhis brewsteri
-  fa: nan
+  fa: ''
   en: Least Poorwill
   es: Chotacabras Torico
   fr: Engoulevent grouillécor
@@ -15,7 +15,7 @@ names:
   pt: least pauraque
   ru: Доминиканский козодой
   ja: ヒスパニオラコヨタカ
-  zh: Least Poorwill
+  zh: ''
   nl: Haïtiaanse nachtzwaluw
   pl: lelkowiec mniejszy
   tr: Küçük Porak

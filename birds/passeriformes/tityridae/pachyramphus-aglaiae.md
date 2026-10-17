@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16073.0
 names:
   scientific: Pachyramphus aglaiae
-  fa: nan
+  fa: ''
   en: Rose-throated Becard
   es: Anambé Degollado
   fr: Bécarde à gorge rose
   de: Rosenkehlbekarde
-  pt: rose-throated becard
+  pt: ''
   ru: Розовогорлый бекард
   ja: バラノドカザリドリモドキ
   nl: Grote bekarde

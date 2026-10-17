@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28844.0
 names:
   scientific: Bradornis comitatus
-  fa: nan
+  fa: ''
   en: Dusky-blue Flycatcher
   es: Papamoscas Pizarroso
   fr: Gobemouche ardoisé
   de: Waldrandschnäpper
-  pt: dusky-blue flycatcher
+  pt: ''
   ru: Тёмно-синяя мухоловка
   ja: ススイロヒタキ
   nl: Dofblauwe vliegenvanger

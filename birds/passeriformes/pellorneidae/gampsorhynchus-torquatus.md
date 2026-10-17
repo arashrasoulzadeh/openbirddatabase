@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26172.0
 names:
   scientific: Gampsorhynchus torquatus
-  fa: nan
+  fa: ''
   en: Collared Babbler
   es: Timalí Acollarado
   fr: Gampsorin à collier
   de: Halsband-Baumdrossling
-  pt: collared babbler
+  pt: ''
   ru: Ожереловая белоголовка
   ja: エリモズチメドリ
   zh: 领鵙鹛

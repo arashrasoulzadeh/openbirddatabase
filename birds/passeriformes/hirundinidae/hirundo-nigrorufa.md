@@ -12,7 +12,7 @@ names:
   es: Golondrina Rojinegra
   fr: Hirondelle roux et noir
   de: Rostbauchschwalbe
-  pt: black-and-rufous swallow
+  pt: ''
   ru: Чёрно-рыжая ласточка
   ja: クロアカツバメ
   nl: Benguelazwaluw

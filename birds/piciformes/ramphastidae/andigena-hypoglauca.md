@@ -15,7 +15,7 @@ names:
   pt: gray-breasted mountain-toucan
   ru: Голубой перцеяд
   ja: サンショクヤマオオハシ
-  zh: Grey-breasted Mountain Toucan
+  zh: ''
   nl: Zwartmaskerbergtoekan
   pl: andotukan niebieski
   tr: Gri Göğüslü Dağ Tukaneti

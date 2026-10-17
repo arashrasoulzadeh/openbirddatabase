@@ -12,7 +12,7 @@ names:
   es: Pitajo Gris
   fr: Pitajo à sourcils blancs
   de: Graubauch-Schmätzertyrann
-  pt: white-browed chat-tyrant
+  pt: ''
   ru: Белобровая тираннита
   ja: マミジロヒタキタイランチョウ
   nl: Witbrauwtapuittiran

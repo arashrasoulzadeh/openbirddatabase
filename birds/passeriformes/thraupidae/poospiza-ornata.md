@@ -12,7 +12,7 @@ names:
   es: Monterita Canela
   fr: Chipiu cannelle
   de: Schmuckfinkentangare
-  pt: cinnamon warbling finch
+  pt: ''
   ru: Украшенная монтерита
   ja: ニッケイマユシトド
   nl: Prachtboomgors

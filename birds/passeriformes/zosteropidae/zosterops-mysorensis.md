@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25830.0
 names:
   scientific: Zosterops mysorensis
-  fa: nan
+  fa: ''
   en: Biak White-eye
   es: Anteojitos de Biak
   fr: Zostérops de Biak
   de: Biakbrillenvogel
-  pt: biak white-eye
+  pt: ''
   ru: Биакская белоглазка
   ja: ビアクメジロ
   zh: 比阿绣眼鸟

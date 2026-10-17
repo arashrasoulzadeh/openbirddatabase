@@ -15,7 +15,7 @@ names:
   pt: caranguejeiro
   ru: Рачья ржанка
   ja: カニチドリ
-  zh: Crab-plover
+  zh: ''
   nl: Krabplevier
   pl: krabożer
   tr: Yengeç Yağmurcunu

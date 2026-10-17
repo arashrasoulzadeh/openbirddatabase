@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12397.0
 names:
   scientific: Psittacella brehmii
-  fa: nan
+  fa: ''
   en: Brehm's Tiger Parrot
   es: Lorito Tigre de Brehm
   fr: Perruche de Brehm
@@ -15,7 +15,7 @@ names:
   pt: brehm's tiger-parrot
   ru: Тигровый попугай
   ja: キクビワインコ
-  zh: Brehm's Tiger Parrot
+  zh: ''
   nl: Grote tijgerparkiet
   pl: brązogłówka prążkowana
   tr: Brehm Kaplan Papağanı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7734.0
 names:
   scientific: Ardea brachyrhyncha
-  fa: nan
+  fa: ''
   en: Yellow-billed Egret
   es: Garceta Piquicorta
   fr: Héron à bec jaune
   de: Afrikamittelreiher
-  pt: yellow-billed egret
+  pt: ''
   ja: アフリカチュウサギ
   nl: Geelsnavelzilverreiger
   pl: czapla żółtogoleniowa

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25671.0
 names:
   scientific: Zosterops stenocricotus
-  fa: nan
+  fa: ''
   en: Forest White-eye
   es: Anteojitos Forestal
   fr: Zostérops forestier
   de: Waldbrillenvogel
-  pt: forest white-eye
+  pt: ''
   ru: Камерунская белоглазка
   zh: 林繡眼
   nl: Bosbrilvogel

@@ -12,7 +12,7 @@ names:
   es: Eufonia Ventricanela
   fr: Organiste cul-roux
   de: Roststeißorganist
-  pt: fulvous-vented euphonia
+  pt: ''
   ru: Желтобрюхая эуфония
   ja: シリアカスミレフウキンチョウ
   nl: Roestbuikorganist

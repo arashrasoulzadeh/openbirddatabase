@@ -12,7 +12,7 @@ names:
   es: Colibrí de Tepuí
   fr: Colibri des tépuis
   de: Tepuiglanzkehlchen
-  pt: tepui goldenthroat
+  pt: ''
   ru: Тепуйский колибри
   ja: オジロマルオハチドリ
   zh: 黑嘴金喉蜂鸟

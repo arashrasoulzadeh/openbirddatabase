@@ -12,7 +12,7 @@ names:
   es: Drongo Malgache
   fr: Drongo malgache
   de: Madagaskardrongo
-  pt: crested drongo
+  pt: ''
   ru: Хохлатый дронго
   ja: マダガスカルオウチュウ
   zh: 冠卷尾

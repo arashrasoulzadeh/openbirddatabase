@@ -15,7 +15,7 @@ names:
   pt: yellow-tufted pipit
   ru: Каменный конёк
   ja: フナシイワタヒバリ
-  zh: African Rock Pipit
+  zh: ''
   nl: Kopjespieper
   pl: świergotek natalski
   tr: Afrika Kaya İncirkuşu

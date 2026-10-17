@@ -12,7 +12,7 @@ names:
   es: Fiofío de Pallatanga
   fr: Élénie de Pallantanga
   de: Sierraolivtyrann
-  pt: sierran elaenia
+  pt: ''
   ru: Андская эления
   ja: キイロシラギクタイランチョウ
   nl: Andeselenia

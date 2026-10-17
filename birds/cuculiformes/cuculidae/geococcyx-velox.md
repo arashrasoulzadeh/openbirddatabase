@@ -12,7 +12,7 @@ names:
   es: Correcaminos Chico
   fr: Géocoucou véloce
   de: Rennkuckuck
-  pt: lesser roadrunner
+  pt: ''
   ru: Малая кукушка-подорожник
   ja: コミチバシリ
   zh: 小走鵑

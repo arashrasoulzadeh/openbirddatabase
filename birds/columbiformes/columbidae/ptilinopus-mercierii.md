@@ -15,7 +15,7 @@ names:
   pt: red-moustached fruit-dove
   ru: Маркизский фруктовый голубь
   ja: アカヒゲヒメアオバト
-  zh: Red-moustached Fruit Dove
+  zh: ''
   nl: Roodbaardjufferduif
   pl: owocożer czerwonowąsy
   tr: Bıyıklı Meyve Kumrusu

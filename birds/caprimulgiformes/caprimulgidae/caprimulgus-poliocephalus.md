@@ -12,7 +12,7 @@ names:
   es: Chotacabras Montano
   fr: Engoulevent d'Abyssinie
   de: Höhennachtschwalbe
-  pt: montane nightjar
+  pt: ''
   ru: Абиссинский козодой
   ja: アビシニアヨタカ
   zh: 灰头夜鹰

@@ -12,7 +12,7 @@ names:
   es: Pintada Plumífera
   fr: Pintade plumifère
   de: Schlichthauben-Perlhuhn
-  pt: plumed guineafowl
+  pt: ''
   ru: Хохлатая цесарка
   ja: コカンムリホロホロチョウ
   nl: Kuifparelhoen

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28789.0
 names:
   scientific: Muscicapa ferruginea
-  fa: nan
+  fa: ''
   en: Ferruginous Flycatcher
   es: Papamoscas Herrumbroso
   fr: Gobemouche ferrugineux
   de: Rostschnäpper
-  pt: ferruginous flycatcher
+  pt: ''
   ru: Ржавчатая мухоловка
   ja: ミヤマヒタキ
   zh: 棕尾褐鹟

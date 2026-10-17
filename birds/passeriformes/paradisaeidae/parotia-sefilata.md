@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Pennant
   fr: Paradisier sifilet
   de: Strahlenparadiesvogel
-  pt: western parotia
+  pt: ''
   ru: Арфакская паротия
   ja: カンザシフウチョウ
   zh: 西六线风鸟

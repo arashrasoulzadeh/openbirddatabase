@@ -12,7 +12,7 @@ names:
   es: Picaflores Bicolor
   fr: Dicée bicolore
   de: Zweifarben-Mistelfresser
-  pt: bicolored flowerpecker
+  pt: ''
   ru: Двухцветный цветоед
   ja: ニショクハナドリ
   zh: 雙色啄花

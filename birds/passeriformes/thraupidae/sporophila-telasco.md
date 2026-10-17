@@ -12,7 +12,7 @@ names:
   es: Semillero Gorjicastaño
   fr: Sporophile télasco
   de: Braunkehlspelzer
-  pt: chestnut-throated seedeater
+  pt: ''
   ru: Каштановогорлый просяночник
   ja: クリノドヒメウソ
   nl: Roodkindikbekje

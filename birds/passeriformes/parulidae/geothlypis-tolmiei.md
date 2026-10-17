@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34005.0
 names:
   scientific: Geothlypis tolmiei
-  fa: nan
+  fa: ''
   en: MacGillivray's Warbler
   es: Reinita de Tolmie
   fr: Paruline des buissons
   de: Dickichtwaldsänger
-  pt: macgillivray's warbler
+  pt: ''
   ru: Приречная хвойница
   ja: ニシノドグロアメリカムシクイ
   nl: Rouwkopzanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5777.0
 names:
   scientific: Recurvirostra avosetta
-  fa: nan
+  fa: ''
   en: Pied Avocet
   es: Avoceta Común
   fr: Avocette élégante

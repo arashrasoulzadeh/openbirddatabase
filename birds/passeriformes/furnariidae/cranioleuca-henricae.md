@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 15504.0
 names:
   scientific: Cranioleuca henricae
-  fa: nan
+  fa: ''
   en: Bolivian Spinetail
   es: Curutié Boliviano
   fr: Synallaxe d'Inquisivi
   de: La-Paz-Baumschlüpfer
-  pt: bolivian spinetail
+  pt: ''
   ru: Боливийская курутия
   ja: インキジヴィカザリドリ
   nl: Boliviaanse stekelstaart

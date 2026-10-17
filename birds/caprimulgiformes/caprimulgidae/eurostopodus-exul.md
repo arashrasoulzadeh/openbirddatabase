@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Nueva Caledonia
   fr: Engoulevent calédonien
   de: Neukaledonien-Nachtschwalbe
-  pt: new caledonian nightjar
+  pt: ''
   ru: Новокаледонский козодой
   ja: ニューカレドニアヨタカ
   nl: Nieuw-Caledonische nachtzwaluw

@@ -12,7 +12,7 @@ names:
   es: Gaviota Tijereta
   fr: Mouette à queue fourchue
   de: Gabelschwanzmöwe
-  pt: swallow-tailed gull
+  pt: ''
   ru: Галапагосская чайка
   ja: アカメカモメ
   zh: 燕尾鷗

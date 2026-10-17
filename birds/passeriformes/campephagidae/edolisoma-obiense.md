@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18927.0
 names:
   scientific: Edolisoma obiense
-  fa: nan
+  fa: ''
   en: Obi Cicadabird
   es: Oruguero de Obi
   fr: Échenilleur d'Obi
   de: Obiraupenfänger
-  pt: obi cicadabird
+  pt: ''
   ja: オビサンショウクイ
   nl: Obirupsvogel
   pl: gąsienicojad popielaty

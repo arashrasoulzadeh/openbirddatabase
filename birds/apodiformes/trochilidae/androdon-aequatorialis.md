@@ -12,7 +12,7 @@ names:
   es: Colibrí Piquidentado
   fr: Colibri d'Équateur
   de: Zahnschnabelkolibri
-  pt: tooth-billed hummingbird
+  pt: ''
   ru: Зубцеклювый колибри
   ja: ハバシハチドリ
   zh: 齿嘴蜂鸟

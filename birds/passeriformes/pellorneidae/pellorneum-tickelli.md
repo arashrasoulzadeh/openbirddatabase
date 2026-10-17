@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26254.0
 names:
   scientific: Pellorneum tickelli
-  fa: nan
+  fa: ''
   en: Buff-breasted Babbler
   es: Tordina de Tickell
   fr: Akalat de Tickell
   de: Rostbrust-Erddrossling
-  pt: buff-breasted babbler
+  pt: ''
   ru: Светлогрудая тимелия-говорушка
   ja: チャムネムジチメドリ
   zh: 棕胸幽鹛

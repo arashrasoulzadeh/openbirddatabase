@@ -12,7 +12,7 @@ names:
   es: Cogujada Picogorda
   fr: Cochevis à gros bec
   de: Dickschnabellerche
-  pt: large-billed lark
+  pt: ''
   ru: Большеклювый жаворонок
   ja: ハシブトカンムリヒバリ
   zh: 長嘴鳳頭百靈

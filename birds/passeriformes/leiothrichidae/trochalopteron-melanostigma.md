@@ -12,7 +12,7 @@ names:
   es: Charlatán Orejiplateado
   fr: Garrulaxe de Blyth
   de: Silberohrhäherling
-  pt: silver-eared laughingthrush
+  pt: ''
   ru: Серебристощёкая кустарница
   ja: ハイミミガビチョウ
   zh: 银耳噪鹛

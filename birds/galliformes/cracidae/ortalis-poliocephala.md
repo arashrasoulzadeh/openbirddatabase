@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 951.0
 names:
   scientific: Ortalis poliocephala
-  fa: nan
+  fa: ''
   en: West Mexican Chachalaca
   es: Chachalaca Pechigrís
   fr: Ortalide de Wagler
   de: Graubrustguan
-  pt: west mexican chachalaca
+  pt: ''
   ru: Серогрудая чачалака
   ja: メキシコヒメシャクケイ
   zh: 墨西哥小冠雉

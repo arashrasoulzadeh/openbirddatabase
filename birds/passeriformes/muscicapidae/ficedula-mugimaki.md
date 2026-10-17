@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29507.0
 names:
   scientific: Ficedula mugimaki
-  fa: nan
+  fa: ''
   en: Mugimaki Flycatcher
   es: Papamoscas Mugimaki
   fr: Gobemouche mugimaki
   de: Mugimakischnäpper
-  pt: mugimaki flycatcher
+  pt: ''
   ru: Таежная мухоловка
   ja: ムギマキ
   zh: 鸲姬鹟

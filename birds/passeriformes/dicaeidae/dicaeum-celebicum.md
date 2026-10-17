@@ -15,7 +15,7 @@ names:
   pt: gray-sided flowerpecker
   ru: Сулавесский цветоед
   ja: ノドアカハナドリ
-  zh: Grey-sided Flowerpecker
+  zh: ''
   nl: Zwartflankhoningvogel
   pl: kwiatówka szaroboczna
   tr: Selebes Öksekuşu

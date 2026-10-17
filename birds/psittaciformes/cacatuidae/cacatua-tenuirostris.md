@@ -12,7 +12,7 @@ names:
   es: Cacatúa Picofina
   fr: Cacatoès nasique
   de: Nasenkakadu
-  pt: long-billed corella
+  pt: ''
   ru: Носатый какаду
   ja: テンジクバタン
   zh: 长喙凤头鹦鹉

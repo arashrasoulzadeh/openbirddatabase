@@ -12,7 +12,7 @@ names:
   es: Zenaida de Galápagos
   fr: Tourterelle des Galapagos
   de: Galápagostaube
-  pt: galapagos dove
+  pt: ''
   ru: Галапагосская горлица
   ja: ガラパゴスバト
   zh: 加岛哀鸽

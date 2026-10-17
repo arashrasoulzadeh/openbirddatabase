@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14283.0
 names:
   scientific: Grallaria obscura
-  fa: nan
+  fa: ''
   en: Junin Antpitta
   es: Tororoí de Junín
   fr: Grallaire de Junin
   de: Junínameisenpitta
-  pt: junin antpitta
+  pt: ''
   ja: フニンジアリドリ
   nl: Junínmierpitta
   pl: kusaczka jednobarwna

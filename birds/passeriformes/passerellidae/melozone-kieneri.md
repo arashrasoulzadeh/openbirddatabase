@@ -15,7 +15,7 @@ names:
   pt: rusty-crowned ground-sparrow
   ru: Рыжешейный тохи
   ja: アカガシラシトド
-  zh: Rusty-crowned Ground Sparrow
+  zh: ''
   nl: Roestnekgors
   pl: ziemnołuszcz rdzawoszyi
   tr: Kızıl Tepeli Yer Serçesi

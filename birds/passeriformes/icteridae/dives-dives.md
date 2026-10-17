@@ -12,7 +12,7 @@ names:
   es: Zanate Cantor
   fr: Quiscale chanteur
   de: Trauerstärling
-  pt: melodious blackbird
+  pt: ''
   ru: Певчий трупиал
   ja: ウタムクドリモドキ
   nl: Rouwtroepiaal

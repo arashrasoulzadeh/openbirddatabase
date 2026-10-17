@@ -15,7 +15,7 @@ names:
   pt: equatorial graytail
   ru: Краснолобый серохвост
   ja: セキドウウチワカマドドリ
-  zh: Equatorial Greytail
+  zh: ''
   nl: Streepkopgrijsstaart
   pl: szarogonek kreskowany
   tr: Ekvator Grikuyruğu

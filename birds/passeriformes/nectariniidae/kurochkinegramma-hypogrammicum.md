@@ -12,7 +12,7 @@ names:
   es: Arañero Nuquiazul
   fr: Arachnothère strié
   de: Streifennektarvogel
-  pt: purple-naped spiderhunter
+  pt: ''
   ru: Фиолетовогузая пауколовка
   ja: ムナフタイヨウチョウ
   zh: 蓝枕花蜜鸟

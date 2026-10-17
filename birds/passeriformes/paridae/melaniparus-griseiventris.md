@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22249.0
 names:
   scientific: Melaniparus griseiventris
-  fa: nan
+  fa: ''
   en: Miombo Tit
   es: Carbonero del Miombo
   fr: Mésange à ventre gris
   de: Miomborußmeise
-  pt: miombo tit
+  pt: ''
   ru: Серобрюхая синица
   ja: キタハイイロガラ
   nl: Miombomees

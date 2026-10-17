@@ -12,7 +12,7 @@ names:
   es: Terrera Cariblanca
   fr: Moinelette de Fischer
   de: Braunscheitellerche
-  pt: fischer's sparrow-lark
+  pt: ''
   ru: Бурошапочный жаворонок
   ja: スズメヒバリ
   zh: 白頰雀百靈

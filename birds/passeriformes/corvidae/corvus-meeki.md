@@ -12,7 +12,7 @@ names:
   es: Cuervo de Bougainville
   fr: Corneille de Meek
   de: Bougainvillekrähe
-  pt: bougainville crow
+  pt: ''
   ru: Бугенвильская ворона
   ja: ブーゲンビルガラス
   zh: 布岛乌鸦

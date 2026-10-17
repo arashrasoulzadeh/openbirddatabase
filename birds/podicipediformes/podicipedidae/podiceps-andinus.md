@@ -12,7 +12,7 @@ names:
   es: Zampullín Colombiano
   fr: Grèbe des Andes
   de: Andentaucher
-  pt: colombian grebe
+  pt: ''
   ru: Андская поганка
   ja: コロンビアカイツブリ
   zh: 哥倫比亞鷿鷈

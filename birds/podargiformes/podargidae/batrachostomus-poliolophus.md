@@ -12,7 +12,7 @@ names:
   es: Podargo Colicorto
   fr: Podarge à tête grise
   de: Sumatraschwalm
-  pt: sumatran frogmouth
+  pt: ''
   ru: Сероголовый лягушкорот
   ja: スマトラガマグチヨタカ
   zh: 蒼頭蟆口鴟

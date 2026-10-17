@@ -12,7 +12,7 @@ names:
   es: Pardela de Galápagos
   fr: Puffin des Galapagos
   de: Galápagossturmtaucher
-  pt: galapagos shearwater
+  pt: ''
   ru: Галапагосский буревестник
   ja: ガラパゴスミズナギドリ
   zh: 加岛鹱

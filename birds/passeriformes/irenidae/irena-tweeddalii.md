@@ -12,7 +12,7 @@ names:
   es: Irena de Palawan
   fr: Irène de Tweeddale
   de: Azurfeenvogel
-  pt: palawan fairy-bluebird
+  pt: ''
   nl: Palawanblauwrug
   pl: turkuśnik lazurowy
   tr: Palawan Mavi İrenası

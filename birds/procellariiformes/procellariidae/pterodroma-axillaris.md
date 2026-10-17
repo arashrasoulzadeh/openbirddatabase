@@ -12,7 +12,7 @@ names:
   es: Petrel de las Chatham
   fr: Pétrel des Chatham
   de: Chathamsturmvogel
-  pt: chatham islands petrel
+  pt: ''
   ru: Чатемский тайфунник
   ja: チャタムミズナギドリ
   zh: 新西蘭圓尾鸌

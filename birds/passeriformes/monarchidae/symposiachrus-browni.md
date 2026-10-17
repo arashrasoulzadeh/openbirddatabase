@@ -12,7 +12,7 @@ names:
   es: Monarca de Brown
   fr: Monarque de Brown
   de: Salomonenmonarch
-  pt: kolombangara monarch
+  pt: ''
   ru: Соломонский монарх
   ja: ホオジロカササギビタキ
   nl: Kolombangaramonarch

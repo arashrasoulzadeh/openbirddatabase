@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34733.0
 names:
   scientific: Microspingus melanoleucus
-  fa: nan
+  fa: ''
   en: Black-capped Warbling Finch
   es: Monterita Cabecinegra
   fr: Tangara à capuchon noir

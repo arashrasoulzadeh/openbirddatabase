@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16759.0
 names:
   scientific: Serpophaga griseicapilla
-  fa: nan
+  fa: ''
   en: Straneck's Tyrannulet
   es: Piojito de Straneck
   fr: Tyranneau de Straneck

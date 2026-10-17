@@ -12,7 +12,7 @@ names:
   es: Cálao Gorjinegro
   fr: Calao festonné
   de: Furchenhornvogel
-  pt: wreathed hornbill
+  pt: ''
   ru: Волнистый калао
   ja: シワコブサイチョウ
   zh: 花冠皱盔犀鸟

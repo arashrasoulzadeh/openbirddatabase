@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18054.0
 names:
   scientific: Glycichaera fallax
-  fa: nan
+  fa: ''
   en: Green-backed Honeyeater
   es: Mielero Dorsiverde
   fr: Méliphage trompeur
   de: Grünmantel-Honigfresser
-  pt: green-backed honeyeater
+  pt: ''
   ru: Белоглазая титиара
   ja: メジロミツスイ
   nl: Brilvogelhoningeter

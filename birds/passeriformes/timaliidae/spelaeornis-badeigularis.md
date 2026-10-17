@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25985.0
 names:
   scientific: Spelaeornis badeigularis
-  fa: nan
+  fa: ''
   en: Mishmi Wren-Babbler
   es: Ratina Mishmi
   fr: Timalie des Mishmi
   de: Mishmi-Zaunkönigtimalie
-  pt: mishmi wren-babbler
+  pt: ''
   ru: Красногрудый тинглин
   ja: チャノドサザイチメドリ
   zh: 锈喉鹩鹛

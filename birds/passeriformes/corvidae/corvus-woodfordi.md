@@ -15,7 +15,7 @@ names:
   pt: guadalcanal crow
   ru: Белоклювая ворона
   ja: ソロモンガラス
-  zh: White-billed Crow
+  zh: ''
   nl: Witsnavelkraai
   pl: wrona jasnodzioba
   tr: Ak Gagalı Karga

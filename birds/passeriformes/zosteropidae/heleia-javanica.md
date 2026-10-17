@@ -12,10 +12,10 @@ names:
   es: Anteojitos de Java
   fr: Zostérops javanais
   de: Javabrillenvogel
-  pt: javan heleia
+  pt: ''
   ru: Яванская элейя
   ja: ジャワハイノドメジロ
-  zh: Mees's White-eye
+  zh: ''
   nl: Javaanse bergbrilvogel
   pl: okularowiec żółtobrzuchy
   tr: Cava Gözlükçüsü

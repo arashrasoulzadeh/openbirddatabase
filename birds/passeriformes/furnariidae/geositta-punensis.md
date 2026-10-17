@@ -12,7 +12,7 @@ names:
   es: Minero Puneño
   fr: Géositte de la puna
   de: Altiplano-Erdhacker
-  pt: puna miner
+  pt: ''
   ru: Землекоп пуны
   ja: コウゲンジカマドドリ
   nl: Punaholengraver

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3315.0
 names:
   scientific: Chalcites basalis
-  fa: nan
+  fa: ''
   en: Horsfield's Bronze Cuckoo
   es: Cuclillo de Horsfield
   fr: Coucou de Horsfield

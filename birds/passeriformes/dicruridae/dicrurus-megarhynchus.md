@@ -15,7 +15,7 @@ names:
   pt: ribbon-tailed drongo
   ru: Длиннохвостый дронго
   ja: フキナガシオウチュウ
-  zh: Paradise Drongo
+  zh: ''
   nl: Nieuw-Ierlanddrongo
   pl: dziwogon wstęgosterny
   tr: Kurdela Kuyruklu Drongo

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18150.0
 names:
   scientific: Foulehaio procerior
-  fa: nan
+  fa: ''
   en: Kikau
   es: Mielero Carunculado de Viti Levu
   fr: Méliphage d'Ovalau
@@ -15,7 +15,7 @@ names:
   pt: western wattled-honeyeater
   ru: Кикау
   ja: ニシニクダレミツスイ
-  zh: Kikau
+  zh: ''
   nl: Kikauhoningeter
   pl: atolowiec czarnowąsy
   tr: Sarı Bezeli Büyük Balkuşu

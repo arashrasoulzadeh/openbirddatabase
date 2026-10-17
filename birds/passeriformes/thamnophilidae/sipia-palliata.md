@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14030.0
 names:
   scientific: Sipia palliata
-  fa: nan
+  fa: ''
   en: Magdalena Antbird
   es: Hormiguero Guardarribera Oriental
   fr: Alapi du Magdalena
   de: Magdalenaameisenvogel
-  pt: magdalena antbird
+  pt: ''
   ru: Магдаленская муравьеловка
   ja: マグダレナアリドリ
   nl: Magdalenamiervogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29773.0
 names:
   scientific: Myrmecocichla monticola
-  fa: nan
+  fa: ''
   en: Mountain Chat
   es: Zorzal Hormiguero Montano
   fr: Traquet montagnard
   de: Bergschmätzer
-  pt: mountain chat
+  pt: ''
   ru: Горная термитница
   ja: カタジロサバクヒタキ
   zh: 山鵖

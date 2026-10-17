@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 18875.0
 names:
   scientific: Edolisoma timoriense
-  fa: nan
+  fa: ''
   en: Timor Cicadabird
   es: Oruguero de Timor
   fr: Échenilleur de Timor
-  pt: timor cicadabird
+  pt: ''
   nl: Timorese rupsvogel
   pl: gąsienicojad timorski
   tr: Timor Tırtılyiyeni

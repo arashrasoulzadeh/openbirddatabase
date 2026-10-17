@@ -12,7 +12,7 @@ names:
   es: Prinia Cenicienta
   fr: Prinia cendrée
   de: Rostbauchprinie
-  pt: ashy prinia
+  pt: ''
   ru: Рыжебрюхая приния
   ja: シロハラハウチワドリ
   zh: 灰山鷦鶯

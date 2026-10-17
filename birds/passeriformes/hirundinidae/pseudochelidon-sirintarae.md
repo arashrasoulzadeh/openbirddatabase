@@ -12,7 +12,7 @@ names:
   es: Avión Ribereño Asiático
   fr: Pseudolangrayen d'Asie
   de: Weißaugenschwalbe
-  pt: white-eyed river martin
+  pt: ''
   ru: Белоглазая ласточка
   ja: アジアカワツバメ
   zh: 白眼河燕

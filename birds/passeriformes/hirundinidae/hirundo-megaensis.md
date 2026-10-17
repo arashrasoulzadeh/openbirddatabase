@@ -12,7 +12,7 @@ names:
   es: Golondrina Coliblanca
   fr: Hirondelle à queue blanche
   de: Weißschwanzschwalbe
-  pt: white-tailed swallow
+  pt: ''
   ru: Белохвостая ласточка
   ja: オジロツバメ
   zh: 白尾燕

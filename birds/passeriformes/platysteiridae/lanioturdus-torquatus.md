@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19833.0
 names:
   scientific: Lanioturdus torquatus
-  fa: nan
+  fa: ''
   en: White-tailed Shrike
   es: Laniotordo
   fr: Lanielle à queue blanche
   de: Erdschnäpper
-  pt: white-tailed shrike
+  pt: ''
   ru: Земляной батис
   ja: コマドリモズ
   nl: Tapuitklauwier

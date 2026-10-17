@@ -12,7 +12,7 @@ names:
   es: Estornino Piquirrojo
   fr: Étourneau soyeux
   de: Seidenstar
-  pt: red-billed starling
+  pt: ''
   ru: Красноклювый скворец
   ja: ギンムクドリ
   zh: 丝光椋鸟

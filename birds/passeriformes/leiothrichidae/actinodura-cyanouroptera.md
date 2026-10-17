@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26538.0
 names:
   scientific: Actinodura cyanouroptera
-  fa: nan
+  fa: ''
   en: Blue-winged Minla
   es: Actinodura Aliazul
   fr: Actinodure à ailes bleues
   de: Blauflügelsiva
-  pt: blue-winged minla
+  pt: ''
   ru: Синекрылый шива
   ja: ルリハコバシチメドリ
   zh: 蓝翅希鹛

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19495.0
 names:
   scientific: Pachycephala modesta
-  fa: nan
+  fa: ''
   en: Brown-backed Whistler
   es: Silbador Modesto
   fr: Siffleur modeste
   de: Braunrücken-Dickkopf
-  pt: brown-backed whistler
+  pt: ''
   ru: Буроспинный свистун
   ja: コモズヒタキ
   zh: 褐背啸鹟

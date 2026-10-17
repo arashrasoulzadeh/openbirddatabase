@@ -12,7 +12,7 @@ names:
   es: Ibis Oriental
   fr: Ibis à tête noire
   de: Schwarzkopfibis
-  pt: black-headed ibis
+  pt: ''
   ru: Черноголовый ибис
   ja: クロトキ
   zh: 黑头白鹮

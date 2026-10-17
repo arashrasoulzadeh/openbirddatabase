@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12818.0
 names:
   scientific: Nannopsittaca dachilleae
-  fa: nan
+  fa: ''
   en: Manu Parrotlet
   es: Cotorrita Amazónica
   fr: Toui de D'Achille
@@ -15,7 +15,7 @@ names:
   pt: periquito-da-amazônia
   ru: Перуанский попугай-крошка
   ja: アマゾンスズメインコ
-  zh: Manu Parrotlet
+  zh: ''
   nl: Amazoneparkiet
   pl: stokóweczka szmaragdowa
   tr: Manu Papağanı

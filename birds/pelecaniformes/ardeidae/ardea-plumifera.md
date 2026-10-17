@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7741.0
 names:
   scientific: Ardea plumifera
-  fa: nan
+  fa: ''
   en: Plumed Egret
   es: Garceta Plumífera
   fr: Héron plumifère
   de: Pazifikmittelreiher
-  pt: plumed egret
+  pt: ''
   ja: オーストラリアチュウサギ
   zh: 澳洲中白鹭
   nl: Pluimzilverreiger

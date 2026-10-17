@@ -12,7 +12,7 @@ names:
   es: Pájaro Ratón Cabeciblanco
   fr: Coliou à tête blanche
   de: Weißkopf-Mausvogel
-  pt: white-headed mousebird
+  pt: ''
   ru: Белоголовая птица-мышь
   ja: シロガシラネズミドリ
   zh: 白头鼠鸟

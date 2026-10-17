@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16952.0
 names:
   scientific: Empidonax traillii
-  fa: nan
+  fa: ''
   en: Willow Flycatcher
   es: Mosquero Saucero
   fr: Moucherolle des saules

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24045.0
 names:
   scientific: Riparia cowani
-  fa: nan
+  fa: ''
   en: Madagascar Martin
   es: Avión Paludícola Malgache
   fr: Hirondelle de Madagascar

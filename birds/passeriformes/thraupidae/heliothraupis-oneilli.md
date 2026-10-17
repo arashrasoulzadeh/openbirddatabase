@@ -12,7 +12,7 @@ names:
   es: Tangara de San Pedro
   fr: Tangara inti
   de: Intitangare
-  pt: inti tanager
+  pt: ''
   zh: 明黄唐加拉雀
   nl: Intitangare
   pl: żałobnik żółtawy

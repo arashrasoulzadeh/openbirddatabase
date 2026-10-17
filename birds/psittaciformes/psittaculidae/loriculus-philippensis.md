@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12707.0
 names:
   scientific: Loriculus philippensis
-  fa: nan
+  fa: ''
   en: Philippine Hanging Parrot
   es: Lorículo Filipino
   fr: Coryllis des Philippines
@@ -15,7 +15,7 @@ names:
   pt: philippine hanging-parrot
   ru: Филиппинский лорикулюс
   ja: シュバシサトウチョウ
-  zh: Philippine Hanging Parrot
+  zh: ''
   nl: Filipijnse vleermuisparkiet
   pl: zwisogłówka czerwonoczelna
   tr: Filipin Cennet Papağanı

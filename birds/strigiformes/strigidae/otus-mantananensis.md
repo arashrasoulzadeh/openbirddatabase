@@ -15,7 +15,7 @@ names:
   pt: mantanani scops-owl
   ru: Мантананийская совка
   ja: ボルネオコノハズク
-  zh: Mantanani Scops Owl
+  zh: ''
   nl: Mantananidwergooruil
   pl: syczek rafowy
   tr: Mantanani İshakkuşu

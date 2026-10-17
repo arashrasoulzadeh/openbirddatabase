@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16765.0
 names:
   scientific: Phyllomyias sclateri
-  fa: nan
+  fa: ''
   en: Sclater's Tyrannulet
   es: Mosquerito de Sclater
   fr: Tyranneau de Sclater
   de: Graubrust-Kleintyrann
-  pt: sclater's tyrannulet
+  pt: ''
   ru: Буроспинный москитеро
   ja: メジロコタイランチョウ
   nl: Streepbuikvliegenpikker

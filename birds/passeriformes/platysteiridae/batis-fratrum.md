@@ -12,7 +12,7 @@ names:
   es: Batis de Woodward
   fr: Pririt des Woodward
   de: Mosambikschnäpper
-  pt: woodwards' batis
+  pt: ''
   ru: Рыжегрудый батис
   ja: チャムネセワタビタキ
   nl: Woodwardvliegenvanger

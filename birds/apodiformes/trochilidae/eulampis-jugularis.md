@@ -12,7 +12,7 @@ names:
   es: Colibrí Caribeño Gorjimorado
   fr: Colibri madère
   de: Purpurkehl-Antillenkolibri
-  pt: purple-throated carib
+  pt: ''
   ru: Пурпурногорлый колибри
   ja: オウギハチドリ
   zh: 紫喉蜂鸟

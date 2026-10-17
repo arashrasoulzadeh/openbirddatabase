@@ -12,7 +12,7 @@ names:
   es: Ánade de Laysán
   fr: Canard de Laysan
   de: Laysanente
-  pt: laysan duck
+  pt: ''
   ru: Лайсанский чирок
   ja: レイサンマガモ
   zh: 列山島野鴨

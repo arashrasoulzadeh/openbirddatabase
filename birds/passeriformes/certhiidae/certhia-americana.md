@@ -12,7 +12,7 @@ names:
   es: Agateador Americano
   fr: Grimpereau brun
   de: Amerikabaumläufer
-  pt: brown creeper
+  pt: ''
   ru: Американская пищуха
   ja: アメリカキバシリ
   zh: 美洲旋木雀

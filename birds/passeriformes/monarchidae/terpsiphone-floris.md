@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 20737.0
 names:
   scientific: Terpsiphone floris
-  fa: nan
+  fa: ''
   en: Tenggara Paradise Flycatcher
   es: Monarca del Paraíso de Flores
   fr: Tchitrec de la Sonde
   de: Sundaparadiesschnäpper
   pt: tenggara paradise-flycatcher
   ja: ショウスンダサンコウチョウ
-  zh: Tenggara Paradise Flycatcher
+  zh: ''
   nl: Kleine-Soendaparadijsmonarch
   pl: muchodławka sundajska
   tr: Tenggara Monarkı

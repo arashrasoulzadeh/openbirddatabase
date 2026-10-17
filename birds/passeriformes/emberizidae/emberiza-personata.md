@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 32838.0
 names:
   scientific: Emberiza personata
-  fa: nan
+  fa: ''
   en: Masked Bunting
   es: Escribano Enmascarado
   fr: Bruant de Temminck
   de: Strohammer
-  pt: masked bunting
+  pt: ''
   ru: Маскированная овсянка
   ja: アオジ
   zh: 日本灰头鹀

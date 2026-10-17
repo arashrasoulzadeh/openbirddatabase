@@ -15,7 +15,7 @@ names:
   pt: pacific imperial-pigeon
   ru: Тихоокеанский плодовый голубь
   ja: ミナミコブバト
-  zh: Pacific Imperial Pigeon
+  zh: ''
   nl: Pacifische muskaatduif
   pl: muszkatela brodawkowata
   tr: Pasifik Has Güvercini

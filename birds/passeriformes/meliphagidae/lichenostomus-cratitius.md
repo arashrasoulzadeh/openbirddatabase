@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17804.0
 names:
   scientific: Lichenostomus cratitius
-  fa: nan
+  fa: ''
   en: Purple-gaped Honeyeater
   es: Mielero de Boqueras
   fr: Méliphage grimé
   de: Purpurzügel-Honigfresser
-  pt: purple-gaped honeyeater
+  pt: ''
   ru: Рыжеусый медосос
   ja: フジビタイコバシミツスイ
   nl: Purperteugelhoningeter

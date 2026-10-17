@@ -12,7 +12,7 @@ names:
   es: Piscuiz de Anteojos
   fr: Synallaxe à lunettes
   de: Brillencanastero
-  pt: eye-ringed thistletail
+  pt: ''
   ru: Очковый чертополошник
   ja: メガネトゲオカマドドリ
   nl: Oogringdistelstaart

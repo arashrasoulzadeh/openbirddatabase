@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9092.0
 names:
   scientific: Taenioptynx sylvaticus
-  fa: nan
+  fa: ''
   en: Sunda Owlet
   es: Mochuelo de la Sonda
   fr: Chevêchette de la Sonde
   de: Sundazwergkauz
-  pt: sunda owlet
+  pt: ''
   ja: スンダメフクロウ
   zh: 巽他鵂鶹
   nl: Soendadwerguil

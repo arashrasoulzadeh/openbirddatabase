@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26500.0
 names:
   scientific: Heterophasia picaoides
-  fa: nan
+  fa: ''
   en: Long-tailed Sibia
   es: Sibia Colilarga
   fr: Garrulaxe à longue queue
   de: Langschweifsibia
-  pt: long-tailed sibia
+  pt: ''
   ru: Сорочья сибия
   ja: オナガウタイチメドリ
   zh: 长尾奇鹛

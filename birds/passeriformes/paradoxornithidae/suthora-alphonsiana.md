@@ -12,7 +12,7 @@ names:
   es: Picoloro Gorjigrís
   fr: Paradoxornis à gorge cendrée
   de: Graukehl-Papageimeise
-  pt: ashy-throated parrotbill
+  pt: ''
   ru: Серогорлая сутора
   ja: ハイノドダルマエナガ
   zh: 灰喉鸦雀

@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 28100.0
 names:
   scientific: Mimus graysoni
-  fa: nan
+  fa: ''
   en: Socorro Mockingbird
   es: Sinsonte de Isla Socorro
   fr: Moqueur de Socorro
   de: Socorrospottdrossel
-  pt: socorro mockingbird
+  pt: ''
   ru: Сокоррский пересмешник
   ja: ソコロマネシツグミ
   nl: Socorrospotlijster

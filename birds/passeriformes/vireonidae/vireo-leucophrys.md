@@ -12,7 +12,7 @@ names:
   es: Vireo Coronipardo
   fr: Viréo à calotte brune
   de: Braunkappenvireo
-  pt: brown-capped vireo
+  pt: ''
   ru: Светлобровый виреон
   ja: チャボウシウタイモズモドキ
   nl: Witbrauwvireo

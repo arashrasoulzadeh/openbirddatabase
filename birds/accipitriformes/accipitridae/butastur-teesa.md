@@ -12,7 +12,7 @@ names:
   es: Busardo Tisa
   fr: Busautour aux yeux blancs
   de: Weißaugenbussard
-  pt: white-eyed buzzard
+  pt: ''
   ru: Белоглазый сарыч
   ja: メジロサシバ
   zh: 白眼鵟鹰

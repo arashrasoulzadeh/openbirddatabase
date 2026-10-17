@@ -12,7 +12,7 @@ names:
   es: Cotorrita de Piura
   fr: Toui céleste
   de: Himmelsperlingspapagei
-  pt: pacific parrotlet
+  pt: ''
   ru: Западный воробьиный попугайчик
   ja: マメルリハシインコ
   nl: Blauwe muspapegaai

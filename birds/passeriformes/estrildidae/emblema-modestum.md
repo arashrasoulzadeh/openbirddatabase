@@ -12,7 +12,7 @@ names:
   es: Diamante Modesto
   fr: Diamant modeste
   de: Zeresamadine
-  pt: plum-headed finch
+  pt: ''
   ru: Полосатая амадина
   ja: サクラスズメ
   zh: 褐头星雀

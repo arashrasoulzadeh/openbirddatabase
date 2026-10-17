@@ -12,7 +12,7 @@ names:
   es: Batis Oculto
   fr: Pririt de Lawson
   de: Plantagenschnäpper
-  pt: west african batis
+  pt: ''
   ja: ニシアフリカセワタビタキ
   nl: Nimbavliegenvanger
   pl: krępnik przepasany

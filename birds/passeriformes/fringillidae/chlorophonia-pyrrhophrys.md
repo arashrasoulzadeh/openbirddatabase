@@ -12,7 +12,7 @@ names:
   es: Clorofonia Pechicastaña
   fr: Organiste à ventre brun
   de: Schwarzbrauenorganist
-  pt: chestnut-breasted chlorophonia
+  pt: ''
   ru: Каштановогрудый органист
   ja: クリムネフウキンチョウ
   zh: 栗胸綠雀

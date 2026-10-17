@@ -12,7 +12,7 @@ names:
   es: Rascón de Isla Rodrigues
   fr: Râle de Rodrigues
   de: Rodriguesralle
-  pt: rodrigues rail
+  pt: ''
   ru: Родригесский пастушок
   ja: ロドリゲスクイナ
   zh: 羅德里格斯秧雞

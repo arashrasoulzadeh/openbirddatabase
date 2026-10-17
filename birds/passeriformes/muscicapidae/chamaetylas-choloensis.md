@@ -12,7 +12,7 @@ names:
   es: Alete de Cholo
   fr: Cossyphe du Cholo
   de: Thyolobraunschwanz
-  pt: thyolo alethe
+  pt: ''
   ru: Мозамбикский алет
   ja: ノドジロムジヒタキ
   nl: Thyolobergalethe

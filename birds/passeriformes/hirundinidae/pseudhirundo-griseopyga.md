@@ -15,7 +15,7 @@ names:
   pt: andorinha-rabicinza
   ru: Серопоясничная ласточка
   ja: カワリツバメ
-  zh: Grey-rumped Swallow
+  zh: ''
   nl: Grijsstuitzwaluw
   pl: szarorzytka
   tr: Gri Sokumlu Kırlangıç

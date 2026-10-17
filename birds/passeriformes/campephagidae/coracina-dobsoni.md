@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18751.0
 names:
   scientific: Coracina dobsoni
-  fa: nan
+  fa: ''
   en: Andaman Cuckooshrike
   es: Oruguero de las Las Andamán
   fr: Échenilleur des Andaman
   de: Andamanenraupenfänger
-  pt: andaman cuckooshrike
+  pt: ''
   ru: Андаманский воронец
   ja: アンダマンオオサンショウクイ
   nl: Andamanenrupsvogel

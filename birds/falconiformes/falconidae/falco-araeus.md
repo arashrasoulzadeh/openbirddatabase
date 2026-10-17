@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12016.0
 names:
   scientific: Falco araeus
-  fa: nan
+  fa: ''
   en: Seychelles Kestrel
   es: Cernícalo de las Seychelles
   fr: Crécerelle des Seychelles
   de: Seychellenfalke
-  pt: seychelles kestrel
+  pt: ''
   ru: Сейшельская пустельга
   ja: セーシェルチョウゲンボウ
   zh: 塞舌爾隼

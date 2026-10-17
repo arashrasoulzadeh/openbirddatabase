@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Berlepsch
   fr: Paradisier de Berlepsch
   de: Berlepschparadiesvogel
-  pt: bronze parotia
+  pt: ''
   ru: Бронзовая паротия
   ja: ブロンズカンザシフウチョウ
   nl: Berlepschparotia

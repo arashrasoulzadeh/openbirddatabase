@@ -12,7 +12,7 @@ names:
   es: Cucarachero Ondeado
   fr: Troglodyte fascié
   de: Bindenzaunkönig
-  pt: fasciated wren
+  pt: ''
   ru: Мраморный крапивник
   ja: ヨコジマサボテンミソサザイ
   zh: 横斑曲嘴鹪鹩

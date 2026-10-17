@@ -12,7 +12,7 @@ names:
   es: Pitohuí Negro
   fr: Siffleur noir
   de: Schwarzdickkopf
-  pt: black pitohui
+  pt: ''
   ru: Чёрный свистун
   ja: クロモリモズ
   nl: Zwarte pitohui

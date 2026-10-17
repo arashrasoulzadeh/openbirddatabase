@@ -12,10 +12,10 @@ names:
   es: Sastrecillo Cabecicastaño
   fr: Couturière à calotte rousse
   de: Philippinenschneidervogel
-  pt: visayan tailorbird
+  pt: ''
   ru: Филиппинская портниха
   ja: フィリピンサイホウチョウ
-  zh: Philippine Tailorbird
+  zh: ''
   nl: Filipijnse snijdervogel
   pl: krawczyk kreskowany
   tr: Filipin Terzikuşu

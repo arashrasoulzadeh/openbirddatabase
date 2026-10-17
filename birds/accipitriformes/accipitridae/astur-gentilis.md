@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8283.0
 names:
   scientific: Astur gentilis
-  fa: nan
+  fa: ''
   en: Eurasian Goshawk
   es: Azor Euroasiático
   fr: Autour des palombes

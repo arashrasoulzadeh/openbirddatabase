@@ -12,7 +12,7 @@ names:
   es: Garrapatero Asurcado
   fr: Ani à bec cannelé
   de: Riefenschnabelani
-  pt: groove-billed ani
+  pt: ''
   ru: Морщинистоклювая ани
   ja: ミゾハシカッコウ
   zh: 溝嘴犀鵑

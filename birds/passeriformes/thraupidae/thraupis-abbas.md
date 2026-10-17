@@ -12,7 +12,7 @@ names:
   es: Tangara Aliamarilla
   fr: Tangara à miroir jaune
   de: Olivflügeltangare
-  pt: yellow-winged tanager
+  pt: ''
   ru: Желтокрылая танагра
   ja: モンキフウキンチョウ
   zh: 黄翅裸鼻雀

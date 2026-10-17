@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 23897.0
 names:
   scientific: Cincloramphus rufus
-  fa: nan
+  fa: ''
   en: Long-legged Thicketbird
   es: Yerbera de Fiyi
   fr: Mégalure des Fidji
   de: Langbein-Buschsänger
-  pt: long-legged thicketbird
+  pt: ''
   ru: Длинноногая клинохвостка
   ja: ハチマキムシクイ
   nl: Fijizanger

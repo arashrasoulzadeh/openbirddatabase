@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 15616.0
 names:
   scientific: Synallaxis beverlyae
-  fa: nan
+  fa: ''
   en: Rio Orinoco Spinetail
   es: Pijuí del Orinoco
   fr: Synallaxe de Beverly
   de: Orinokodickichtschlüpfer
-  pt: rio orinoco spinetail
+  pt: ''
   ru: Оринокская иглохвостка
   ja: オリノコオナガカマドドリ
   nl: Orinocostekelstaart

@@ -12,7 +12,7 @@ names:
   es: Yerbera Coliancha
   fr: Mégalure à queue large
   de: Rundschwanzsänger
-  pt: broad-tailed grassbird
+  pt: ''
   ru: Малабарская долгохвостка
   ja: フトオセッカ
   nl: Breedstaartzanger

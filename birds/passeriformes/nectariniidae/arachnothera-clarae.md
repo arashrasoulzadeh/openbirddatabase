@@ -12,7 +12,7 @@ names:
   es: Arañero Caricalvo
   fr: Arachnothère à face nue
   de: Nacktwangen-Spinnenjäger
-  pt: naked-faced spiderhunter
+  pt: ''
   ru: Голощёкая пауколовка
   ja: ホオハゲクモカリドリ
   nl: Naaktwangspinnenjager

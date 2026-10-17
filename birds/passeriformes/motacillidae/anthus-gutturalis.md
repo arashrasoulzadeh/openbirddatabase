@@ -12,7 +12,7 @@ names:
   es: Bisbita Papú
   fr: Pipit de Nouvelle-Guinée
   de: Papuapieper
-  pt: alpine pipit
+  pt: ''
   ru: Очковый конёк
   ja: パプアタヒバリ
   nl: Papoeapieper

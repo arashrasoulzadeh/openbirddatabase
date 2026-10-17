@@ -12,7 +12,7 @@ names:
   es: Cotorrita de Anteojos
   fr: Toui à lunettes
   de: Brillensperlingspapagei
-  pt: spectacled parrotlet
+  pt: ''
   ru: Очковый воробьиный попугайчик
   ja: アオメルリハシインコ
   nl: Gebrilde muspapegaai

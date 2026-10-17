@@ -15,7 +15,7 @@ names:
   pt: hooded mountain-toucan
   ru: Черноголовый перцеяд
   ja: キバシヤマオオハシ
-  zh: Hooded Mountain Toucan
+  zh: ''
   nl: Zwartkopbergtoekan
   pl: andotukan czarnogłowy
   tr: Maskeli Dağ Tukaneti

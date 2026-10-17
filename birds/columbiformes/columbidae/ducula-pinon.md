@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2815.0
 names:
   scientific: Ducula pinon
-  fa: nan
+  fa: ''
   en: Pinon's Imperial Pigeon
   es: Dúcula de Pinon
   fr: Carpophage de Pinon
@@ -15,7 +15,7 @@ names:
   pt: pinon's imperial-pigeon
   ru: Красноглазый плодовый голубь
   ja: アカメミカドバト
-  zh: Pinon's Imperial Pigeon
+  zh: ''
   nl: Pinonmuskaatduif
   pl: muszkatela czerwonooka
   tr: Pinon Has Güvercini

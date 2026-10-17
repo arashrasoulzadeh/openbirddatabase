@@ -12,7 +12,7 @@ names:
   es: Sedosito Tasmano
   fr: Séricorne de Tasmanie
   de: Stammhuscher
-  pt: scrubtit
+  pt: ''
   ru: Синицевый шипоклюв
   ja: メジロヤブムシクイ
   nl: Kleine Tasmaanse struiksluiper

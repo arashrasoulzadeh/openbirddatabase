@@ -12,7 +12,7 @@ names:
   es: Chochín de Clarión
   fr: Troglodyte de Clarion
   de: Clariónzaunkönig
-  pt: clarion wren
+  pt: ''
   ru: Кларионский крапивник
   ja: クラリオンミソサザイ
   zh: 號角鷦鷯

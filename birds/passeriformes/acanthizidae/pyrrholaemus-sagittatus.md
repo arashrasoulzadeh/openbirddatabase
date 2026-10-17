@@ -12,7 +12,7 @@ names:
   es: Sedosito Moteado
   fr: Séricorne fléché
   de: Grundhuscher
-  pt: speckled warbler
+  pt: ''
   ru: Пёстрый шипоклюв
   ja: タテフムシクイ
   nl: Pieperstruiksluiper

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8377.0
 names:
   scientific: Icthyophaga sanfordi
-  fa: nan
+  fa: ''
   en: Sanford's Sea Eagle
   es: Pigargo de las Salomón
   fr: Pygargue de Sanford
@@ -15,7 +15,7 @@ names:
   pt: sanford's sea-eagle
   ru: Соломонский орлан
   ja: ソロモンウミワシ
-  zh: Sanford's Sea Eagle
+  zh: ''
   nl: Salomonszeearend
   pl: bielik melanezyjski
   tr: Solomon Deniz Kartalı

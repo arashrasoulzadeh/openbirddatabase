@@ -15,7 +15,7 @@ names:
   pt: chestnut-quilled rock-pigeon
   ru: Краснокрылый каменный голубь
   ja: チャバネイワバト
-  zh: Chestnut-quilled Rock Pigeon
+  zh: ''
   nl: Roodvleugelkwartelduif
   pl: aborygenek rdzawopióry
   tr: Kızıl Telekli Keklik Kumrusu

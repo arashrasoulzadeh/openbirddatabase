@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14351.0
 names:
   scientific: Grallaricula leymebambae
-  fa: nan
+  fa: ''
   en: Rufous-breasted Antpitta
   es: Ponchito Pechicastaño Norteño
   fr: Grallaire de Leymebamba
@@ -15,7 +15,7 @@ names:
   pt: leymebamba antpitta
   ru: Рыжая питтуля
   ja: レイメバンバヒメジアリドリ
-  zh: Rufous-breasted Antpitta
+  zh: ''
   nl: Oranjeborstdwergmierpitta
   pl: drobik białogardły
   tr: Leymebamba Yerçavuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8876.0
 names:
   scientific: Megascops roboratus
-  fa: nan
+  fa: ''
   en: West Peruvian Screech Owl
   es: Autillo Peruano
   fr: Petit-duc du Pérou
@@ -15,7 +15,7 @@ names:
   pt: peruvian screech-owl
   ru: Перуанская совка
   ja: シロエリオオコノハズク
-  zh: West Peruvian Screech Owl
+  zh: ''
   nl: Marañonschreeuwuil
   pl: syczoń peruwiański
   tr: Peru Puhucuğu

@@ -12,7 +12,7 @@ names:
   es: Cuervo Cuelliblanco
   fr: Corbeau à nuque blanche
   de: Geierrabe
-  pt: white-necked raven
+  pt: ''
   ru: Белошейный ворон
   ja: シロエリオオハシガラス
   zh: 非洲渡鴉

@@ -12,7 +12,7 @@ names:
   es: Bulbul Malayo
   fr: Bulbul malais
   de: Strichelbrustbülbül
-  pt: streaked bulbul
+  pt: ''
   ru: Штрихованный бюльбюль
   ja: シロスジヒヨドリ
   zh: 紋綠背短腳鵯

@@ -12,7 +12,7 @@ names:
   es: Tarabilla Sudafricana
   fr: Tarier bifascié
   de: Fahlschulterschmätzer
-  pt: buff-streaked chat
+  pt: ''
   ru: Зулусская каменка
   ja: マミジロサバクヒタキ
   nl: Streeptapuit

@@ -12,7 +12,7 @@ names:
   es: Picamaderos Norteamericano
   fr: Grand Pic
   de: Helmspecht
-  pt: pileated woodpecker
+  pt: ''
   ru: Хохлатая желна
   ja: エボシクマゲラ
   zh: 北美黑啄木鳥

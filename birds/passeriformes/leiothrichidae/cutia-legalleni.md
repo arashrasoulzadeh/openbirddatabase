@@ -12,7 +12,7 @@ names:
   es: Cutia Vietnamita
   fr: Cutie de Le Gallen
   de: Wellenbauchcutia
-  pt: vietnamese cutia
+  pt: ''
   ru: Вьетнамская кутия
   ja: ベトナムセアカチメドリ
   zh: 越南姬鶥

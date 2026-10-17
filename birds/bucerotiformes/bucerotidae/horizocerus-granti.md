@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9693.0
 names:
   scientific: Horizocerus granti
-  fa: nan
+  fa: ''
   en: Eastern Dwarf Hornbill
   es: Toco Negro Oriental
   fr: Calao de Grant
   de: Kongotoko
-  pt: eastern dwarf hornbill
+  pt: ''
   nl: Congolese zwarte tok
   pl: dzioborożec kongijski
   tr: Benekli Küçük Kara Boynuzgaga

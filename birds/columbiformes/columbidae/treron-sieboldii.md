@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2573.0
 names:
   scientific: Treron sieboldii
-  fa: nan
+  fa: ''
   en: White-bellied Green Pigeon
   es: Vinago Japonés
   fr: Colombar de Siebold

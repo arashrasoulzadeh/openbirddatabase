@@ -12,7 +12,7 @@ names:
   es: Charlatán Modesto
   fr: Garrulaxe modeste
   de: Goldschuppenhäherling
-  pt: scaly laughingthrush
+  pt: ''
   ru: Золотистокрылая кустарница
   ja: ウロコガビチョウ
   zh: 纯色噪鹛

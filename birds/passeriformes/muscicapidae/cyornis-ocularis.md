@@ -12,7 +12,7 @@ names:
   es: Papamoscas de las Joló
   fr: Gobemouche des Sulu
   de: Suludschungelschnäpper
-  pt: sulu jungle flycatcher
+  pt: ''
   ja: スールーミツリンヒタキ
   nl: Sulujunglevliegenvanger
   pl: dżunglówka okularowa

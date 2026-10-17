@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 3242.0
 names:
   scientific: Coccyzus ferrugineus
-  fa: nan
+  fa: ''
   en: Cocos Cuckoo
   es: Cuclillo de Isla del Coco
   fr: Coulicou de Cocos
   de: Cocoskuckuck
-  pt: cocos cuckoo
+  pt: ''
   ru: Кокосская пиайя
   ja: ココスカッコウ
   zh: 可岛美洲鹃

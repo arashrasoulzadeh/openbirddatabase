@@ -12,7 +12,7 @@ names:
   es: Corredor del Godavari
   fr: Courvite de Jerdon
   de: Godavarirennvogel
-  pt: jerdon's courser
+  pt: ''
   ru: Индийский бегунок
   ja: クビワスナバシリ
   nl: Jerdonrenvogel

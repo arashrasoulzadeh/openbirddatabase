@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 24875.0
 names:
   scientific: Phylloscopus ijimae
-  fa: nan
+  fa: ''
   en: Ijima's Leaf Warbler
   es: Mosquitero de Ijima
   fr: Pouillot d'Ijima
   de: Ijimalaubsänger
-  pt: ijima's leaf warbler
+  pt: ''
   ru: Ижимская пеночка
   ja: イイジマムシクイ
   zh: 饭岛柳莺

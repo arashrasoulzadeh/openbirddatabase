@@ -12,7 +12,7 @@ names:
   es: Chotacabras Tucuchillo
   fr: Engoulevent de Ridgway
   de: Braunhals-Nachtschwalbe
-  pt: buff-collared nightjar
+  pt: ''
   ru: Рыжешейный козодой
   ja: クビワヨタカ
   zh: 黄领夜鹰

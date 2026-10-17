@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22973.0
 names:
   scientific: Drymocichla incana
-  fa: nan
+  fa: ''
   en: Red-winged Grey Warbler
   es: Prinia Alicastaña
   fr: Apalis grise
@@ -15,7 +15,7 @@ names:
   pt: red-winged gray warbler
   ru: Краснокрылый апалис
   ja: アカバネハイイロムシクイ
-  zh: Red-winged Grey Warbler
+  zh: ''
   nl: Roodvleugelzanger
   pl: kameruńczyk
   tr: Kırmızı Kanatlı Prinya

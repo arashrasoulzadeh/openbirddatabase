@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25957.0
 names:
   scientific: Cyanoderma melanothorax
-  fa: nan
+  fa: ''
   en: Crescent-chested Babbler
   es: Timalí Perlado
   fr: Timalie perlée
   de: Schwarzstrich-Buschtimalie
-  pt: crescent-chested babbler
+  pt: ''
   ru: Ошейниковая тимелия
   ja: ミカヅキモリチメドリ
   zh: 珠颊穗鹛

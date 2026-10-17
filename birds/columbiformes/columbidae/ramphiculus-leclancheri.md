@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2607.0
 names:
   scientific: Ramphiculus leclancheri
-  fa: nan
+  fa: ''
   en: Black-chinned Fruit Dove
   es: Tilopo Barbinegro
   fr: Ptilope de Leclancher

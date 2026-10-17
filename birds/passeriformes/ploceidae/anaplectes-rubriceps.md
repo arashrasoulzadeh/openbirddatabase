@@ -12,7 +12,7 @@ names:
   es: Tejedor Cabecirrojo
   fr: Anaplecte écarlate
   de: Scharlachweber
-  pt: red-headed weaver
+  pt: ''
   ru: Красноголовый малимб
   ja: アカガシラモリハタオリ
   nl: Scharlaken wever

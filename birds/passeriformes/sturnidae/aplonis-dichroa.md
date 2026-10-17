@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27719.0
 names:
   scientific: Aplonis dichroa
-  fa: nan
+  fa: ''
   en: Makira Starling
   es: Estornino de San Cristóbal
   fr: Stourne de San Cristobal
   de: Makirastar
-  pt: makira starling
+  pt: ''
   ru: Санкристобальский скворец
   ja: サンクリストバルカラスモドキ
   nl: Makirapurperspreeuw

@@ -12,7 +12,7 @@ names:
   es: Terrera Colirroja
   fr: Ammomane à queue rouge
   de: Rotschwanzlerche
-  pt: rufous-tailed lark
+  pt: ''
   ru: Рыжехвостый жаворонок
   ja: インドスナヒバリ
   zh: 棕尾漠百灵

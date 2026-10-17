@@ -12,7 +12,7 @@ names:
   es: Atlapetes Embridado
   fr: Tohi bridé
   de: Brillenbuschammer
-  pt: white-rimmed brushfinch
+  pt: ''
   ru: Очковая атлапета
   ja: メジロヤブシトド
   nl: Brilstruikgors

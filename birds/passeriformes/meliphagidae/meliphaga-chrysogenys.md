@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17750.0
 names:
   scientific: Meliphaga chrysogenys
-  fa: nan
+  fa: ''
   en: Orange-cheeked Honeyeater
   es: Mielero Carinaranja
   fr: Méliphage des Maoke
   de: Goldwangen-Honigfresser
-  pt: orange-cheeked honeyeater
+  pt: ''
   ru: Золотощёкий медосос
   ja: オオキミミミツスイ
   nl: Goudwanghoningeter

@@ -12,7 +12,7 @@ names:
   es: Mosquero Pechioliva
   fr: Moucherolle à poitrine olive
   de: Grauflecken-Schnäppertyrann
-  pt: olive-chested flycatcher
+  pt: ''
   ru: Оливковогрудая курэта
   ja: オリーブフタスジハエトリ
   nl: Olijfkuiftiran

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 29380.0
 names:
   scientific: Larvivora tanensis
-  fa: nan
+  fa: ''
   en: Izu Robin
   es: Ruiseñor de las Izu
   fr: Rossignol des Izu
   de: Izunachtigall
-  pt: izu robin
+  pt: ''
   ja: タネコマドリ
   nl: Izuroodborst
   pl: słowik wyspowy

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16816.0
 names:
   scientific: Zimmerius petersi
-  fa: nan
+  fa: ''
   en: Venezuelan Tyrannulet
   es: Mosquerito Venezolano
   fr: Tyranneau de Peters
   de: Mirandakleintyrann
-  pt: venezuelan tyrannulet
+  pt: ''
   ru: Венесуэльский москитолов
   ja: ベネズエラコタイランチョウ
   nl: Venezolaanse vliegenpikker

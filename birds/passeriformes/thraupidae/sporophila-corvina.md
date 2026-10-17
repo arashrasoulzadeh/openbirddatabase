@@ -12,7 +12,7 @@ names:
   es: Semillero Corvino
   fr: Sporophile variable
   de: Dunkelspelzer
-  pt: variable seedeater
+  pt: ''
   ru: Чёрный просяночник
   ja: カワリヒメウソ
   nl: Zwartrugdikbekje

@@ -12,7 +12,7 @@ names:
   es: Gorrión Castaño
   fr: Moineau d'Emin
   de: Maronensperling
-  pt: chestnut sparrow
+  pt: ''
   ru: Каштановый воробей
   ja: クリイロスズメ
   zh: 栗麻雀

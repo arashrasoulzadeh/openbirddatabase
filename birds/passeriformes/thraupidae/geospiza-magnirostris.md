@@ -15,7 +15,7 @@ names:
   pt: large ground-finch
   ru: Большой галапагосский вьюрок
   ja: オオガラパゴスフィンチ
-  zh: Large Ground Finch
+  zh: ''
   nl: Grote grondvink
   pl: darwinka wielkodzioba
   tr: Büyük Yer İspinozu

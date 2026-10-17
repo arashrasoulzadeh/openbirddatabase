@@ -12,7 +12,7 @@ names:
   es: Oruguero Lineado
   fr: Échenilleur linéolé
   de: Gelbaugen-Raupenfänger
-  pt: barred cuckooshrike
+  pt: ''
   ru: Желтоглазый воронец
   ja: ヨコジマカッコウサンショウクイ
   zh: 黄眼鹃鵙

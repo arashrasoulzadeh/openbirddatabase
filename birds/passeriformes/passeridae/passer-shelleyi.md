@@ -15,7 +15,7 @@ names:
   pt: shelley's rufous sparrow
   ru: Нильский воробей
   ja: シロナイルスズメ
-  zh: Shelley's Sparrow
+  zh: ''
   nl: Savannemus
   pl: wróbel nilowy
   tr: Shelley Serçesi

@@ -15,7 +15,7 @@ names:
   pt: pardal-de-terra
   ru: Кабо-вердианский воробей
   ja: ケープベルデセアカスズメ
-  zh: Iago Sparrow
+  zh: ''
   nl: Kaapverdische mus
   pl: wróbel rudogrzbiety
   tr: İago Serçesi

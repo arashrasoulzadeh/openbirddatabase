@@ -15,7 +15,7 @@ names:
   pt: florida scrub-jay
   ru: Флоридская сойка
   ja: フロリダカケス
-  zh: Florida Scrub Jay
+  zh: ''
   nl: Floridastruikgaai
   pl: modrowronka zaroślowa
   tr: Florida Çalı Kargası

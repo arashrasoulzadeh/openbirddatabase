@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26649.0
 names:
   scientific: Argya earlei
-  fa: nan
+  fa: ''
   en: Striated Babbler
   es: Turdoide de Earle
   fr: Cratérope strié
   de: Stricheldrosselhäherling
-  pt: striated babbler
+  pt: ''
   ru: Пёстрая дроздовка
   ja: セジマヤブチメドリ
   zh: 纹背鸫鹛

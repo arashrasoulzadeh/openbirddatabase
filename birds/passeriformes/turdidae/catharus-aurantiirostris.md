@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28256.0
 names:
   scientific: Catharus aurantiirostris
-  fa: nan
+  fa: ''
   en: Orange-billed Nightingale-Thrush
   es: Zorzalito Piquigualdo
   fr: Grive à bec orange

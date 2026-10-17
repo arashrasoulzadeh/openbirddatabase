@@ -12,7 +12,7 @@ names:
   es: Cistícola Alirrojo
   fr: Cisticole roussâtre
   de: Uferzistensänger
-  pt: rufous-winged cisticola
+  pt: ''
   ru: Рыжекрылая цистикола
   ja: ササフセッカ
   nl: Zwartruggraszanger

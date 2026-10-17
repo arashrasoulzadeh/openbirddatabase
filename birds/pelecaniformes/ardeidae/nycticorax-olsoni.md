@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 7619.0
 names:
   scientific: Nycticorax olsoni
-  fa: nan
+  fa: ''
   en: Ascension Night Heron
   es: Martinete de Isla Ascensión
   fr: Bihoreau de l'Ascension
   de: Ascension-Nachtreiher
-  pt: ascension night heron
+  pt: ''
   ru: Вознесенская кваква
   zh: 阿森松夜鹭
   nl: Ascensionkwak

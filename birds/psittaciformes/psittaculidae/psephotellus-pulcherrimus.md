@@ -12,7 +12,7 @@ names:
   es: Perico del Paraíso
   fr: Perruche de paradis
   de: Paradiessittich
-  pt: paradise parrot
+  pt: ''
   ru: Райский попугайчик
   ja: ゴクラクインコ
   zh: 天堂長尾鸚鵡

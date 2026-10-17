@@ -15,7 +15,7 @@ names:
   pt: cigarra-do-campo
   ru: Эполетовая танагра
   ja: カタジロフウキンチョウ
-  zh: Shrike-like Tanager
+  zh: ''
   nl: Witbandtangare
   pl: dzierzbotanagra
   tr: Örümcekkuşu Tangarası

@@ -12,7 +12,7 @@ names:
   es: Camachuelo Escarlata
   fr: Roselin cipaye
   de: Scharlachgimpel
-  pt: scarlet finch
+  pt: ''
   ru: Алая чечевица
   ja: シュイロマシコ
   zh: 血雀

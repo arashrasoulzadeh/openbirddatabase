@@ -7,11 +7,11 @@ iucn_status: LC
 taxon_order: 3391.0
 names:
   scientific: Cacomantis addendus
-  fa: nan
+  fa: ''
   en: Solomons Brush Cuckoo
   es: Cuco de las Salomón
   fr: Coucou des Salomon
-  pt: solomons brush cuckoo
+  pt: ''
   ja: ソロモンハイガシラヒメカッコウ
   nl: Salomonsstruikkoekoek
   pl: kukułka melanezyjska

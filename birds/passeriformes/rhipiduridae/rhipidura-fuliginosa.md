@@ -12,7 +12,7 @@ names:
   es: Abanico Maorí
   fr: Rhipidure à collier
   de: Neuseeland-Fächerschwanz
-  pt: new zealand fantail
+  pt: ''
   ru: Новозеландская веерохвостка
   ja: ニュージーランドオウギビタキ
   zh: 新西兰扇尾鹟

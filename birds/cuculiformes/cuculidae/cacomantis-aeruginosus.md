@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3376.0
 names:
   scientific: Cacomantis aeruginosus
-  fa: nan
+  fa: ''
   en: Moluccan Brush Cuckoo
   es: Cuco Moluqueño
   fr: Coucou de Heinrich
   de: Molukkenkuckuck
-  pt: moluccan brush cuckoo
+  pt: ''
   ru: Молуккская кукушка
   ja: モルッカハイガシラヒメカッコウ
   nl: Molukse struikkoekoek

@@ -12,7 +12,7 @@ names:
   es: Paují Unicornio Boliviano
   fr: Hocco unicorne
   de: Hornhokko
-  pt: horned curassow
+  pt: ''
   ru: Рогатый гокко
   ja: ミナミカブトホウカンチョウ
   zh: 角盔凤冠雉

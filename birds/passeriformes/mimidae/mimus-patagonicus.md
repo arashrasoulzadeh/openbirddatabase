@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 28071.0
 names:
   scientific: Mimus patagonicus
-  fa: nan
+  fa: ''
   en: Patagonian Mockingbird
   es: Sinsonte Patagón
   fr: Moqueur de Patagonie
   de: Patagonienspottdrossel
-  pt: patagonian mockingbird
+  pt: ''
   ru: Патагонский пересмешник
   ja: パタゴニアマネシツグミ
   nl: Patagonische spotlijster

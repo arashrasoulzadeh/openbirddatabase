@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4542.0
 names:
   scientific: Metallura tyrianthina
-  fa: nan
+  fa: ''
   en: Tyrian Metaltail
   es: Metalura Tiria
   fr: Métallure émeraude
   de: Smaragdkehl-Glanzschwänzchen
-  pt: tyrian metaltail
+  pt: ''
   ru: Изумрудный металлохвост
   ja: エメラルドテリオハチドリ
   zh: 紫輝尾蜂鳥

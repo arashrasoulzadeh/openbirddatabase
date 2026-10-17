@@ -12,7 +12,7 @@ names:
   es: Urraca Negra Malaya
   fr: Platysmure à ailes blanches
   de: Rabenhäher
-  pt: malayan black magpie
+  pt: ''
   ru: Траурная сорока
   ja: マレーシアクロカケス
   zh: 白翅鹊

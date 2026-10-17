@@ -15,7 +15,7 @@ names:
   pt: saracura-do-mangue
   ru: Сизогрудый саракура
   ja: ヒメモリクイナ
-  zh: Little Wood Rail
+  zh: ''
   nl: Kleine bosral
   pl: chruścielak oliwkowy
   tr: Mangrov Orman Kılavuzu

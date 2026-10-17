@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21896.0
 names:
   scientific: Hyliota australis
-  fa: nan
+  fa: ''
   en: Southern Hyliota
   es: Hiliota Austral
   fr: Hyliote australe
   de: Mashonalandhyliota
-  pt: southern hyliota
+  pt: ''
   ru: Южная хилиота
   ja: ビロードムシクイヒタキ
   nl: Mashonahyliota

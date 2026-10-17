@@ -12,7 +12,7 @@ names:
   es: Escribano de Smith
   fr: Plectrophane de Smith
   de: Goldbauch-Spornammer
-  pt: smith's longspur
+  pt: ''
   ru: Расписной подорожник
   ja: ヒバリツメナガホオジロ
   zh: 黄腹铁爪鹀

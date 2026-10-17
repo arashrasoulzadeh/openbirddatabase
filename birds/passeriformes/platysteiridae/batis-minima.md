@@ -15,7 +15,7 @@ names:
   pt: verreaux's batis
   ru: Лесной батис
   ja: ヒメセワタビタキ
-  zh: Gabon Batis
+  zh: ''
   nl: Gabonese vliegenvanger
   pl: krępnik gaboński
   tr: Gabon Batisi

@@ -15,7 +15,7 @@ names:
   pt: juriti-de-testa-branca
   ru: Серолобая голубка
   ja: ハイビタイシャコバト
-  zh: Grey-fronted Dove
+  zh: ''
   nl: Grijskruinduif
   pl: gołębik szaroczelny
   tr: Gri Alınlı Kumru

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26094.0
 names:
   scientific: Erythrogenys erythrocnemis
-  fa: nan
+  fa: ''
   en: Black-necklaced Scimitar Babbler
   es: Cimitarra Estriada
   fr: Pomatorhin tacheté

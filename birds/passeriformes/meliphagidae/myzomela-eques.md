@@ -12,7 +12,7 @@ names:
   es: Mielero Barbirrojo
   fr: Myzomèle à menton rouge
   de: Rotkehl-Honigfresser
-  pt: ruby-throated myzomela
+  pt: ''
   ru: Красногорлая медовка
   ja: アカボシミツスイ
   nl: Roodkindwerghoningeter

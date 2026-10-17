@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25810.0
 names:
   scientific: Zosterops fuscicapilla
-  fa: nan
+  fa: ''
   en: Capped White-eye
   es: Anteojitos de Los Arfak
   fr: Zostérops mitré
   de: Arfakbrillenvogel
-  pt: capped white-eye
+  pt: ''
   ru: Арфакская белоглазка
   ja: キバラヤマメジロ
   nl: Arfakbrilvogel

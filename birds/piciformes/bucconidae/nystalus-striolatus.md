@@ -14,7 +14,7 @@ names:
   de: Strichelfaulvogel
   ru: Полосатая пуховка
   ja: タテフオオガシラ
-  zh: Eastern Striolated Puffbird
+  zh: ''
   nl: Gestreepte baardkoekoek
   pl: drzym białogardły
   tr: Doğulu Çizgili Pufkuşu

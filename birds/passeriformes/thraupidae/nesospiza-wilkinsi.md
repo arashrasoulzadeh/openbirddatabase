@@ -12,7 +12,7 @@ names:
   es: Yal de Wilkins
   fr: Nésospize de Wilkins
   de: Dickschnabel-Ammertangare
-  pt: wilkins's finch
+  pt: ''
   ru: Большеклювый овсяночник
   ja: トリスタンマシコ
   zh: 威氏岛雀

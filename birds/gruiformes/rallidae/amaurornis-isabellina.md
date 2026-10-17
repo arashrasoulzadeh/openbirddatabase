@@ -12,7 +12,7 @@ names:
   es: Gallineta Isabelina
   fr: Râle isabelle
   de: Isabellkielralle
-  pt: isabelline bush-hen
+  pt: ''
   ru: Карео
   ja: チャバラバンクイナ
   nl: Sulawesiwaterhoen

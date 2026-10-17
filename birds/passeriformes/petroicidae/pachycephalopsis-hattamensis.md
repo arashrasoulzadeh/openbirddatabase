@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21721.0
 names:
   scientific: Pachycephalopsis hattamensis
-  fa: nan
+  fa: ''
   en: Green-backed Robin
   es: Petroica Dorsiverde
   fr: Miro à dos vert
   de: Grünrücken-Dickichtschnäpper
-  pt: green-backed robin
+  pt: ''
   ru: Зеленоспинная дриада
   ja: パプアヤブヒタキ
   zh: 绿丛鹟

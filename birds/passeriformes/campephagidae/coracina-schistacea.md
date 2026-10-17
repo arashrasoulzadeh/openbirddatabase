@@ -12,7 +12,7 @@ names:
   es: Oruguero Pizarroso
   fr: Échenilleur schistacé
   de: Schieferraupenfänger
-  pt: slaty cuckooshrike
+  pt: ''
   ru: Аспидный воронец
   ja: スーラオニサンショウクイ
   zh: 青灰鹃鵙

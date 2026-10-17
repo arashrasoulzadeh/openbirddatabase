@@ -15,7 +15,7 @@ names:
   pt: iraúna-da-guiana
   ru: Венесуэльский гракл
   ja: キンフサムクドリモドキ
-  zh: Golden-tufted Mountain Grackle
+  zh: ''
   nl: Goudokseltroepiaal
   pl: epoletowiec złoty
   tr: Tepui Kiskalı

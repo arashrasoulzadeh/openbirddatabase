@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19692.0
 names:
   scientific: Oriolus consanguineus
-  fa: nan
+  fa: ''
   en: Black-and-crimson Oriole
   es: Oropéndola Consanguínea
   fr: Loriot de Ramsay
   de: Rotbrustpirol
-  pt: black-and-crimson oriole
+  pt: ''
   ja: ヒムネスミゴロモ
   zh: 緋胸黃鸝
   nl: Soendabloedwielewaal

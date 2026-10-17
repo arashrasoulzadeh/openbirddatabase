@@ -12,7 +12,7 @@ names:
   es: Alcaudón Americano
   fr: Pie-grièche migratrice
   de: Louisianawürger
-  pt: loggerhead shrike
+  pt: ''
   ru: Американский сорокопут
   ja: アメリカオオモズ
   zh: 呆頭伯勞

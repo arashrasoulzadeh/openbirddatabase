@@ -12,7 +12,7 @@ names:
   es: Frutero Hermoso
   fr: Cotinga magnifique
   de: Weißfleckenkotinga
-  pt: handsome fruiteater
+  pt: ''
   ru: Пятнистокрылый ягодоед
   ja: ゴシキカザリドリ
   nl: Prachtcotinga

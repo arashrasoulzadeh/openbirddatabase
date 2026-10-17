@@ -12,7 +12,7 @@ names:
   es: Tejedor Cabeciverde
   fr: Tisserin à tête olive
   de: Olivkopfweber
-  pt: olive-headed weaver
+  pt: ''
   ru: Оливковоголовый ткач
   ja: キビタイハタオリ
   nl: Olijfkopwever

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12221.0
 names:
   scientific: Psittrichas fulgidus
-  fa: nan
+  fa: ''
   en: Pesquet's Parrot
   es: Loro Aguileño
   fr: Psittrichas de Pesquet
   de: Borstenkopfpapagei
-  pt: pesquet's parrot
+  pt: ''
   ru: Грифовый попугай
   ja: アラゲインコ
   zh: 派斯奎特氏鹦鹉

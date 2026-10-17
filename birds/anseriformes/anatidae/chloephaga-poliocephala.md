@@ -12,7 +12,7 @@ names:
   es: Cauquén Cabecigrís
   fr: Ouette à tête grise
   de: Graukopfgans
-  pt: ashy-headed goose
+  pt: ''
   ru: Сероголовый гусь
   ja: コバシガン
   zh: 灰頭草雁

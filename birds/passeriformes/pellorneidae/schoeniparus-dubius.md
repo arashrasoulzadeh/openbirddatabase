@@ -12,7 +12,7 @@ names:
   es: Fulveta Coronirrufa
   fr: Pseudominla à calotte rouille
   de: Braunkappen-Zweigdrossling
-  pt: rusty-capped fulvetta
+  pt: ''
   ru: Ржаволобая альциппа
   ja: マミジロチメドリ
   zh: 褐胁雀鹛

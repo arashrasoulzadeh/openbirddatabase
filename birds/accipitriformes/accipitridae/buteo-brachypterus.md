@@ -12,7 +12,7 @@ names:
   es: Busardo Malgache
   fr: Buse de Madagascar
   de: Madagaskarbussard
-  pt: madagascar buzzard
+  pt: ''
   ru: Мадагаскарский канюк
   ja: マダガスカルノスリ
   zh: 馬島鵟

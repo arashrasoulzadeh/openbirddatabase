@@ -12,7 +12,7 @@ names:
   es: Vireo de Hutton
   fr: Viréo de Hutton
   de: Huttonvireo
-  pt: hutton's vireo
+  pt: ''
   ru: Короткоклювый виреон
   ja: スナイロモズモドキ
   zh: 郝氏莺雀

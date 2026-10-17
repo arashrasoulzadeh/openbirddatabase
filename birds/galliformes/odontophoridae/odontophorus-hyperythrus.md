@@ -15,7 +15,7 @@ names:
   pt: chestnut wood-quail
   ru: Каштановый зубцеклювый перепел
   ja: チャノドウズラ
-  zh: Chestnut Wood Quail
+  zh: ''
   nl: Witoortandkwartel
   pl: przepiór kasztanowaty
   tr: Kızıl Göğüslü Kurşuni Tokro

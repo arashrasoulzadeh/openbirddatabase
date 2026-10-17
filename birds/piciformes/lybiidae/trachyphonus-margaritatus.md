@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10542.0
 names:
   scientific: Trachyphonus margaritatus
-  fa: nan
+  fa: ''
   en: Yellow-breasted Barbet
   es: Barbudo Perlado
   fr: Barbican perlé
   de: Perlenbartvogel
-  pt: yellow-breasted barbet
+  pt: ''
   ru: Жемчужная чубатка
   ja: キムネオナガゴシキドリ
   nl: Geelborstbaardvogel

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 23634.0
 names:
   scientific: Iduna pallida
-  fa: nan
+  fa: ''
   en: Eastern Olivaceous Warbler
   es: Zarcero Pálido
   fr: Hypolaïs pâle

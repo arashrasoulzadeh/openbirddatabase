@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8225.0
 names:
   scientific: Tachyspiza fasciata
-  fa: nan
+  fa: ''
   en: Brown Goshawk
   es: Azor Australiano
   fr: Autour australien

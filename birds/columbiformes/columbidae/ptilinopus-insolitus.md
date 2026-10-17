@@ -15,7 +15,7 @@ names:
   pt: knob-billed fruit-dove
   ru: Шишколобый фруктовый голубь
   ja: コブヒメアオバト
-  zh: Knob-billed Fruit Dove
+  zh: ''
   nl: Knobbeljufferduif
   pl: owocożer guzodzioby
   tr: Topuz Gagalı Meyve Kumrusu

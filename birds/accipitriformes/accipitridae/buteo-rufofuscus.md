@@ -12,7 +12,7 @@ names:
   es: Busardo Augur Meridional
   fr: Buse rounoir
   de: Felsenbussard
-  pt: jackal buzzard
+  pt: ''
   ru: Скальный канюк
   ja: アカクロノスリ
   zh: 暗棕鵟

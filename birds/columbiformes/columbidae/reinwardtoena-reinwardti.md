@@ -12,7 +12,7 @@ names:
   es: Paloma Rabuda Papú
   fr: Phasianelle de Reinwardt
   de: Reinwardttaube
-  pt: great cuckoo-dove
+  pt: ''
   ru: Каштановая длиннохвостая горлица
   ja: マイヒメバト
   nl: Reinwardtlangstaartduif

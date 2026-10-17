@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13598.0
 names:
   scientific: Thamnophilus amazonicus
-  fa: nan
+  fa: ''
   en: Amazonian Antshrike
   es: Batará Amazónico
   fr: Batara d'Amazonie

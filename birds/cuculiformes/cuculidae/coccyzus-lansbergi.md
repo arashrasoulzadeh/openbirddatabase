@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3245.0
 names:
   scientific: Coccyzus lansbergi
-  fa: nan
+  fa: ''
   en: Grey-capped Cuckoo
   es: Cuclillo Cabecigrís
   fr: Coulicou à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-capped cuckoo
   ru: Сероголовая пиайя
   ja: ハイズキンカッコウ
-  zh: Grey-capped Cuckoo
+  zh: ''
   nl: Grijskopkoekoek
   pl: kukawik rdzawy
   tr: Gri Başlı Guguk

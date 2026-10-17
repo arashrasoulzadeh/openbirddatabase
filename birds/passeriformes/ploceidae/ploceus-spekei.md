@@ -12,7 +12,7 @@ names:
   es: Tejedor de Speke
   fr: Tisserin de Speke
   de: Somaliweber
-  pt: speke's weaver
+  pt: ''
   ru: Сомалийский ткач
   ja: カオグロウロコハタオリ
   nl: Spekewever

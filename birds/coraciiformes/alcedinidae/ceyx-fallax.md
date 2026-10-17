@@ -15,7 +15,7 @@ names:
   pt: sulawesi dwarf-kingfisher
   ru: Сулавесский лесной зимородок
   ja: セレベスカワセミ
-  zh: Sulawesi Dwarf Kingfisher
+  zh: ''
   nl: Sulawesidwergijsvogel
   pl: zimorodek pąsowy
   tr: Selebes Küçük Yalıçapkını

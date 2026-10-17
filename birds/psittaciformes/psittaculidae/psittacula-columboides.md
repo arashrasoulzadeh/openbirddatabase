@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12367.0
 names:
   scientific: Psittacula columboides
-  fa: nan
+  fa: ''
   en: Blue-winged Parakeet
   es: Cotorra de Malabar
   fr: Perruche de Malabar
@@ -15,7 +15,7 @@ names:
   pt: malabar parakeet
   ru: Малабарский кольчатый попугай
   ja: ミドリワカケインコ
-  zh: Blue-winged Parakeet
+  zh: ''
   nl: Malabarparkiet
   pl: aleksandretta seledynowa
   tr: Malabar Yeşil Papağanı

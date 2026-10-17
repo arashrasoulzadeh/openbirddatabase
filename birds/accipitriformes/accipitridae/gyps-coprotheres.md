@@ -15,7 +15,7 @@ names:
   pt: cape griffon
   ru: Капский сип
   ja: ケープシロエリハゲワシ
-  zh: Cape Vulture
+  zh: ''
   nl: Kaapse gier
   pl: sęp przylądkowy
   tr: Kap Akbabası

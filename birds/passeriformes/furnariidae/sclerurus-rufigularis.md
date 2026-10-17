@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14544.0
 names:
   scientific: Sclerurus rufigularis
-  fa: nan
+  fa: ''
   en: Short-billed Leaftosser
   es: Tirahojas Piquicorto
   fr: Sclérure à bec court

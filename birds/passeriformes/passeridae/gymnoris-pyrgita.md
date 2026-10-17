@@ -12,7 +12,7 @@ names:
   es: Gorrión Moteado
   fr: Moineau à point jaune
   de: Sahelsteinsperling
-  pt: yellow-spotted bush sparrow
+  pt: ''
   ru: Саванный воробей
   ja: アフリカコイワスズメ
   nl: Sahelrotsmus

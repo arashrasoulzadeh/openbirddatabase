@@ -15,7 +15,7 @@ names:
   pt: sokoke scops-owl
   ru: Сококская сплюшка
   ja: ハイイロコノハズク
-  zh: Sokoke Scops Owl
+  zh: ''
   nl: Sokokedwergooruil
   pl: syczek brunatny
   tr: Sokoke İshakkuşu

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28156.0
 names:
   scientific: Neocossyphus poensis
-  fa: nan
+  fa: ''
   en: White-tailed Ant Thrush
   es: Zorzal de Fernando Póo
   fr: Néocossyphe à queue blanche
@@ -15,7 +15,7 @@ names:
   pt: white-tailed ant-thrush
   ru: Бурый мухоловкодрозд
   ja: オジロアリクイツグミ
-  zh: White-tailed Ant Thrush
+  zh: ''
   nl: Witstaartlijster
   pl: wahal białosterny
   tr: Ak Kuyruklu Karınca Ardıcı

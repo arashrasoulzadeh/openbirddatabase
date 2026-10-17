@@ -12,7 +12,7 @@ names:
   es: Minivet Colilargo
   fr: Minivet rouge
   de: Langschwanz-Mennigvogel
-  pt: long-tailed minivet
+  pt: ''
   ru: Длиннохвостый личинкоед
   ja: オナガベニサンショウクイ
   zh: 长尾山椒鸟

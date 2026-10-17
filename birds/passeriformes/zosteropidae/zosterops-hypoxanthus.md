@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25826.0
 names:
   scientific: Zosterops hypoxanthus
-  fa: nan
+  fa: ''
   en: Bismarck White-eye
   es: Anteojitos de las Bismarck
   fr: Zostérops des Bismarck
@@ -15,7 +15,7 @@ names:
   pt: black-headed white-eye
   ru: Бисмаркская белоглазка
   ja: ビスマルクメジロ
-  zh: Bismarck White-eye
+  zh: ''
   nl: Bismarckbrilvogel
   pl: szlarnik melanezyjski
   tr: Bismark Gözlükçüsü

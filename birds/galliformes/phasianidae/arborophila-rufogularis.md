@@ -12,7 +12,7 @@ names:
   es: Arborófila Golirrufa
   fr: Torquéole à gorge rousse
   de: Rotkehl-Buschwachtel
-  pt: rufous-throated partridge
+  pt: ''
   ru: Красногорлая лесная куропатка
   ja: ノドアカミヤマテッケイ
   zh: 红喉山鹧鸪

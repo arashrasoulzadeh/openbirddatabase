@@ -12,7 +12,7 @@ names:
   es: Ánade Juarjal
   fr: Canard huppé
   de: Schopfente
-  pt: crested duck
+  pt: ''
   ru: Хохлатая утка
   ja: カンムリガモ
   zh: 瘤鸭

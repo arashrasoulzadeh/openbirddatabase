@@ -15,7 +15,7 @@ names:
   pt: king-of-saxony bird-of-paradise
   ru: Вымпелопёр
   ja: フキナガシフウチョウ
-  zh: King of Saxony Bird-of-paradise
+  zh: ''
   nl: Wimpeldrager
   pl: wstęgogłów
   tr: Mavi Tuğlı Cennetkuşu

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18782.0
 names:
   scientific: Lalage maculosa
-  fa: nan
+  fa: ''
   en: Polynesian Triller
   es: Oruguero Polinesio
   fr: Échenilleur de Polynésie
   de: Südsee-Raupenfänger
-  pt: polynesian triller
+  pt: ''
   ru: Пятнистый личинкоед-свистун
   ja: ポリネシアナキサンショウクイ
   zh: 斑鳴鵑鵙

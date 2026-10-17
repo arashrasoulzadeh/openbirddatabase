@@ -15,7 +15,7 @@ names:
   pt: sri lanka myna
   ru: Ланкийская майна
   ja: セイロンキュウカンチョウ
-  zh: Sri Lanka Hill Myna
+  zh: ''
   nl: Ceylonbeo
   pl: gwarek cejloński
   tr: Seylan Çiğdecisi

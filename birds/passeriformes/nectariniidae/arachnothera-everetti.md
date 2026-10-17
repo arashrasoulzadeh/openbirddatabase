@@ -12,7 +12,7 @@ names:
   es: Arañero de Borneo
   fr: Arachnothère d'Everett
   de: Borneospinnenjäger
-  pt: bornean spiderhunter
+  pt: ''
   ru: Борнейская пауколовка
   ja: ムナフクモカリドリ
   nl: Everettspinnenjager

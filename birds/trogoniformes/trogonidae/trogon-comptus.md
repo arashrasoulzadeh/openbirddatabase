@@ -15,7 +15,7 @@ names:
   pt: blue-tailed trogon
   ru: Чокский трогон
   ja: アイオキヌバネドリ
-  zh: Choco Trogon
+  zh: ''
   nl: Blauwstaarttrogon
   pl: trogon białooki
   tr: Lacivert Kuyruklu Trogon

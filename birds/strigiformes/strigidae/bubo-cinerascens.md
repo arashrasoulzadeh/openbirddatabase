@@ -15,7 +15,7 @@ names:
   pt: grayish eagle-owl
   ru: Серый филин
   ja: アビシニアンワシミミズク
-  zh: Greyish Eagle-Owl
+  zh: ''
   nl: Grijze oehoe
   pl: puchacz szary
   tr: Dumanlı Puhu

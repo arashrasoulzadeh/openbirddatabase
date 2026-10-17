@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10710.0
 names:
   scientific: Psilopogon duvaucelii
-  fa: nan
+  fa: ''
   en: Black-eared Barbet
   es: Barbudo Orejinegro
   fr: Barbu à oreillons noirs
   de: Schwarzohr-Bartvogel
-  pt: black-eared barbet
+  pt: ''
   ru: Синеухий бородастик
   ja: アオミミゴシキドリ
   zh: 藍耳擬啄木

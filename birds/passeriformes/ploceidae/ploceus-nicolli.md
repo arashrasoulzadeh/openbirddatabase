@@ -12,7 +12,7 @@ names:
   es: Tejedor de Los Usambara
   fr: Tisserin des Usambara
   de: Usambaraweber
-  pt: usambara weaver
+  pt: ''
   ru: Узамбарский ткач
   ja: ウサンバラハタオリ
   nl: Usambarawever

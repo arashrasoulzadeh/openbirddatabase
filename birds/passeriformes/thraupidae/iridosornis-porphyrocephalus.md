@@ -12,7 +12,7 @@ names:
   es: Tangara Capiazul
   fr: Tangara à cape bleue
   de: Purpurmantel-Bergtangare
-  pt: purplish-mantled tanager
+  pt: ''
   ru: Фиолетовая танагра
   ja: ニジフウキンチョウ
   nl: Purpermanteltangare

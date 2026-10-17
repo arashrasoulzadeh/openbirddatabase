@@ -12,7 +12,7 @@ names:
   es: Carricero de Guam
   fr: Rousserolle rossignol
   de: Guamrohrsänger
-  pt: nightingale reed warbler
+  pt: ''
   ru: Соловьиная камышовка
   ja: ナンヨウヨシキリ
   zh: 歌鸲苇莺

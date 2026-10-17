@@ -12,7 +12,7 @@ names:
   es: Cucal Faisán
   fr: Coucal faisan
   de: Fasanschwanzkuckuck
-  pt: pheasant coucal
+  pt: ''
   ru: Фазаний кукаль
   ja: キジバンケン
   nl: Fazantspoorkoekoek

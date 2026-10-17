@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24685.0
 names:
   scientific: Pycnonotus luteolus
-  fa: nan
+  fa: ''
   en: White-browed Bulbul
   es: Bulbul Cejiblanco
   fr: Bulbul à sourcils blancs
   de: Weißbrauenbülbül
-  pt: white-browed bulbul
+  pt: ''
   ru: Индийский бюльбюль
   ja: マミジロヒヨドリ
   zh: 白眉鵯

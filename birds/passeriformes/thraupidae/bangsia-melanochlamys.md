@@ -12,7 +12,7 @@ names:
   es: Tangara Negrigualda
   fr: Tangara à cape noire
   de: Blauschulter-Bergtangare
-  pt: black-and-gold tanager
+  pt: ''
   ru: Чёрно-золотая танагра
   ja: クロキバラフウキンチョウ
   zh: 黑金唐纳雀

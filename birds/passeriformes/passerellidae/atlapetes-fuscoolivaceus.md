@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33467.0
 names:
   scientific: Atlapetes fuscoolivaceus
-  fa: nan
+  fa: ''
   en: Dusky-headed Brushfinch
   es: Atlapetes Sombrío
   fr: Tohi sombre
   de: Rußkopf-Buschammer
-  pt: dusky-headed brushfinch
+  pt: ''
   ru: Темноголовая атлапета
   ja: キバラヤブシトド
   nl: Roetkopstruikgors

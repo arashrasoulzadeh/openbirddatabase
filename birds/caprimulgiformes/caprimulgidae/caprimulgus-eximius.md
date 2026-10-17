@@ -12,7 +12,7 @@ names:
   es: Chotacabras Dorado
   fr: Engoulevent doré
   de: Prachtnachtschwalbe
-  pt: golden nightjar
+  pt: ''
   ru: Золотистый козодой
   ja: キンイロヨタカ
   zh: 金夜鹰

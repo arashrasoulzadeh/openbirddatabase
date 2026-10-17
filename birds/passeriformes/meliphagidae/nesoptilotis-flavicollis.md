@@ -12,7 +12,7 @@ names:
   es: Mielero Cuelligualdo
   fr: Méliphage à gorge jaune
   de: Gelbkehl-Honigfresser
-  pt: yellow-throated honeyeater
+  pt: ''
   ru: Желтозобая медвянка
   ja: キノドミツスイ
   zh: 黄喉吸蜜鸟

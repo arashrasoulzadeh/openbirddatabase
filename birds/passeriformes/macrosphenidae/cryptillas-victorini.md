@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22903.0
 names:
   scientific: Cryptillas victorini
-  fa: nan
+  fa: ''
   en: Victorin's Warbler
   es: Zarzalero de Victorin
   fr: Cryptille de Victorin
   de: Grauwangensänger
-  pt: victorin's warbler
+  pt: ''
   ru: Рыжеватая скрытница
   ja: ケープオウギセッカ
   zh: 维氏短翅莺

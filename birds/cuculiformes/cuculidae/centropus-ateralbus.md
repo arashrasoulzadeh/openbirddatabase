@@ -15,7 +15,7 @@ names:
   pt: pied coucal
   ru: Белогорлый кукаль
   ja: ニューブリテンバンケン
-  zh: White-necked Coucal
+  zh: ''
   nl: Bismarckspoorkoekoek
   pl: kukal srokaty
   tr: Alaca Kukal

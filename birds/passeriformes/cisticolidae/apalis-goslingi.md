@@ -12,7 +12,7 @@ names:
   es: Apalis de Gosling
   fr: Apalis de Gosling
   de: Flussfeinsänger
-  pt: gosling's apalis
+  pt: ''
   ru: Лесной апалис
   ja: カメルーンイロムシクイ
   nl: Goslingapalis

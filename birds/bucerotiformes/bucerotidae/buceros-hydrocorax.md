@@ -12,7 +12,7 @@ names:
   es: Cálao Rojizo
   fr: Calao à casque plat
   de: Feuerhornvogel
-  pt: rufous hornbill
+  pt: ''
   ru: Огненный гомрай
   ja: アカサイチョウ
   zh: 北棕犀鳥

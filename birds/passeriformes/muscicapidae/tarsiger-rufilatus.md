@@ -12,7 +12,7 @@ names:
   es: Ruiseñor del Himalaya
   fr: Robin de l'Himalaya
   de: Himalajablauschwanz
-  pt: himalayan bluetail
+  pt: ''
   ru: Гималайская синехвостка
   ja: ヒマラヤルリビタキ
   zh: 蓝眉林鸲

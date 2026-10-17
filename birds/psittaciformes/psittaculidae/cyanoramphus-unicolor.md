@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 12455.0
 names:
   scientific: Cyanoramphus unicolor
-  fa: nan
+  fa: ''
   en: Antipodes Parakeet
   es: Perico de las Antípodas
   fr: Perruche des Antipodes
   de: Einfarbsittich
-  pt: antipodes parakeet
+  pt: ''
   ru: Антиподов какарики
   ja: ムジアオハシインコ
   zh: 安蒂波德斯长尾小鹦鹉

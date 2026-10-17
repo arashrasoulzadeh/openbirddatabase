@@ -15,7 +15,7 @@ names:
   pt: sao tome short-tail
   ru: Короткохвост
   ja: サントメムシクイ
-  zh: Sao Tome Shorttail
+  zh: ''
   nl: Bocagelangsnavelzanger
   pl: kusopliszka
   tr: Sao Tome Kuyruksallayanı

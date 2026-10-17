@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27706.0
 names:
   scientific: Aplonis crassa
-  fa: nan
+  fa: ''
   en: Tanimbar Starling
   es: Estornino de las Tanimbar
   fr: Stourne des Tanimbar
   de: Tanimbarstar
-  pt: tanimbar starling
+  pt: ''
   ru: Танимбарский скворец
   ja: タニンバルカラスモドキ
   nl: Tanimbarpurperspreeuw

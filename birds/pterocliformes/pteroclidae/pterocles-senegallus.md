@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2876.0
 names:
   scientific: Pterocles senegallus
-  fa: nan
+  fa: ''
   en: Spotted Sandgrouse
   es: Ganga Moteada
   fr: Ganga tacheté

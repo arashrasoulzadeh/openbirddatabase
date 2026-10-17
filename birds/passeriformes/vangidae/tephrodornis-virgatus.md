@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19938.0
 names:
   scientific: Tephrodornis virgatus
-  fa: nan
+  fa: ''
   en: Large Woodshrike
   es: Ceniciento Grande
   fr: Téphrodorne bridé
   de: Waldvanga
-  pt: large woodshrike
+  pt: ''
   ru: Большой личинколов
   ja: オオモズサンショウクイ
   zh: 钩嘴林鵙

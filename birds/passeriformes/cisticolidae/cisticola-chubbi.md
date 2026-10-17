@@ -12,7 +12,7 @@ names:
   es: Cistícola de Chubb
   fr: Cisticole de Chubb
   de: Farnzistensänger
-  pt: chubb's cisticola
+  pt: ''
   ru: Каштановошапочная цистикола
   ja: クロガオセッカ
   nl: Chubbgraszanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13797.0
 names:
   scientific: Herpsilochmus sticturus
-  fa: nan
+  fa: ''
   en: Spot-tailed Antwren
   es: Tiluchí Colipunteado
   fr: Grisin givré

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17586.0
 names:
   scientific: Climacteris picumnus
-  fa: nan
+  fa: ''
   en: Brown Treecreeper
   es: Corretroncos Pardo
   fr: Échelet brun
   de: Spechtbaumrutscher
-  pt: brown treecreeper
+  pt: ''
   ru: Бурая ложнопищуха
   ja: チャイロキノボリ
   zh: 褐短嘴旋木雀

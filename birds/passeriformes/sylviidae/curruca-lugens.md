@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25318.0
 names:
   scientific: Curruca lugens
-  fa: nan
+  fa: ''
   en: Brown Parisoma
   es: Curruca Parda
   fr: Fauvette brune
   de: Braungrasmücke
-  pt: brown parisoma
+  pt: ''
   ru: Бурая синицевая славка
   ja: チャイロカラムシクイ
   zh: 褐林莺

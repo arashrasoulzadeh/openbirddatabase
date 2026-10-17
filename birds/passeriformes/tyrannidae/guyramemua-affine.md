@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 17015.0
 names:
   scientific: Guyramemua affine
-  fa: nan
+  fa: ''
   en: Chapada Flycatcher
   es: Fiofío de la Chapada
   fr: Moucherolle des Isler

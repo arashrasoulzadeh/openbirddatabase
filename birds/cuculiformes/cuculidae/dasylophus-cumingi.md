@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3200.0
 names:
   scientific: Dasylophus cumingi
-  fa: nan
+  fa: ''
   en: Scale-feathered Malkoha
   es: Malcoha Frisado
   fr: Malcoha frisé
   de: Schuppenhalskuckuck
-  pt: scale-feathered malkoha
+  pt: ''
   ru: Белолицая малкоа
   ja: ウロコバンケンモドキ
   nl: Schubhalsmalkoha

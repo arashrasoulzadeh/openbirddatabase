@@ -12,7 +12,7 @@ names:
   es: Eufonia del Magdalena
   fr: Organiste du Magdalena
   de: Samtstirnorganist
-  pt: velvet-fronted euphonia
+  pt: ''
   ru: Бархатнолобая эуфония
   ja: クロビタイスミレフウキンチョウ
   nl: Pluchekruinorganist

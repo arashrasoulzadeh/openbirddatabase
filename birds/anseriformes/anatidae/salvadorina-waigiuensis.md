@@ -12,7 +12,7 @@ names:
   es: Ánade Papú
   fr: Canard de Salvadori
   de: Salvadoriente
-  pt: salvadori's teal
+  pt: ''
   ru: Полосатая утка
   ja: サザナミガモ
   zh: 花紋鴨

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2490.0
 names:
   scientific: Treron bicinctus
-  fa: nan
+  fa: ''
   en: Orange-breasted Green Pigeon
   es: Vinago Bicinta
   fr: Colombar à double collier

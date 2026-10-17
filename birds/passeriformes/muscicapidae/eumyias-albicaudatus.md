@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29082.0
 names:
   scientific: Eumyias albicaudatus
-  fa: nan
+  fa: ''
   en: Nilgiri Flycatcher
   es: Papamoscas de Los Nilgiri
   fr: Gobemouche des Nilgiri
   de: Nilgirischnäpper
-  pt: nilgiri flycatcher
+  pt: ''
   ru: Нильгирийская мухоловка
   ja: インドアイイロヒタキ
   nl: Nilgirivliegenvanger

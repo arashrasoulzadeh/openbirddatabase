@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24812.0
 names:
   scientific: Phylloscopus kansuensis
-  fa: nan
+  fa: ''
   en: Gansu Leaf Warbler
   es: Mosquitero de Gansu
   fr: Pouillot du Gansu
   de: Kansulaubsänger
-  pt: gansu leaf warbler
+  pt: ''
   ru: Ганьсуйская зарничка
   ja: カンスームシクイ
   zh: 甘肃柳莺

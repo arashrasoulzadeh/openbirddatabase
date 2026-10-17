@@ -12,7 +12,7 @@ names:
   es: Sastrecillo Orejiblanco
   fr: Couturière oreillarde
   de: Graukopf-Schneidervogel
-  pt: white-eared tailorbird
+  pt: ''
   ru: Белоухая портниха
   ja: ミミジロサイホウチョウ
   nl: Grijskopsnijdervogel

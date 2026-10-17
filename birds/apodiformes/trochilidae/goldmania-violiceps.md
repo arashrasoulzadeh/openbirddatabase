@@ -12,7 +12,7 @@ names:
   es: Colibrí de Goldman
   fr: Colibri à calotte violette
   de: Violettkappenkolibri
-  pt: violet-capped hummingbird
+  pt: ''
   ru: Фиолетовошапочный колибри
   ja: ムラサキボウシハチドリ
   zh: 紫顶蜂鸟

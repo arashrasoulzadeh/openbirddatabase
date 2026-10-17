@@ -12,7 +12,7 @@ names:
   es: Malvasía Andina
   fr: Érismature des Andes
   de: Andenruderente
-  pt: andean duck
+  pt: ''
   ru: Андская савка
   ja: アンデスタテガモ
   zh: 安第斯硬尾鸭

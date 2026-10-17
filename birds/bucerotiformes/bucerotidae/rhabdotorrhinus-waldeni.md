@@ -15,7 +15,7 @@ names:
   pt: writhe-billed hornbill
   ru: Рыжеголовый калао
   ja: アカガシラサイチョウ
-  zh: Walden's Hornbill
+  zh: ''
   nl: Waldenjaarvogel
   pl: dzioborożec kasztanowogłowy
   tr: Walden Boynuzgagası

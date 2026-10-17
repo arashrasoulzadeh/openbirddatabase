@@ -12,7 +12,7 @@ names:
   es: Petroica Limón
   fr: Miro à ventre citron
   de: Limonenbauchschnäpper
-  pt: lemon-bellied flyrobin
+  pt: ''
   ru: Лимоннобрюхая дриада
   ja: レモンオリーブヒタキ
   zh: 黄胸小鹟

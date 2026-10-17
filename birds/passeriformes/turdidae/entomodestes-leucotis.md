@@ -12,7 +12,7 @@ names:
   es: Solitario Orejiblanco
   fr: Grive oreillarde
   de: Weißohrklarino
-  pt: white-eared solitaire
+  pt: ''
   ru: Трёхцветный кларино
   ja: ミミジロクロヒトリツグミ
   nl: Witoorsolitaire

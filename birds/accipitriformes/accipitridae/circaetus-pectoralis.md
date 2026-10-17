@@ -15,7 +15,7 @@ names:
   pt: black-chested snake-eagle
   ru: Черногрудый змееяд
   ja: ムナグロチュウヒワシ
-  zh: Black-chested Snake Eagle
+  zh: ''
   nl: Zwartborstslangenarend
   pl: gadożer białobrzuchy
   tr: Kara Göğüslü Yılan Kartalı

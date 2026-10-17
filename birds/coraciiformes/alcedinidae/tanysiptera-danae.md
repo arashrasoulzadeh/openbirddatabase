@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 10286.0
 names:
   scientific: Tanysiptera danae
-  fa: nan
+  fa: ''
   en: Brown-headed Paradise Kingfisher
   es: Alción Colilargo Dánae
   fr: Martin-chasseur rose
@@ -15,7 +15,7 @@ names:
   pt: brown-headed paradise-kingfisher
   ru: Буроспинный райский зимородок
   ja: チャガシララケットカワセミ
-  zh: Brown-headed Paradise Kingfisher
+  zh: ''
   nl: Bruinrugvlagstaartijsvogel
   pl: sterowik brązowy
   tr: Boz Başlı Cennet Yalıçapkını

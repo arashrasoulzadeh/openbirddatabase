@@ -12,7 +12,7 @@ names:
   es: Turdoide Caricalvo
   fr: Cratérope à joues nues
   de: Nacktwangen-Drosselhäherling
-  pt: bare-cheeked babbler
+  pt: ''
   ru: Голощёкая дроздовка
   ja: ハゲシロクロヤブチメドリ
   zh: 裸頰鶇鶥

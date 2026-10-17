@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 400.0
 names:
   scientific: Oressochen melanopterus
-  fa: nan
+  fa: ''
   en: Andean Goose
   es: Cauquén Guayata
   fr: Ouette des Andes
   de: Andengans
-  pt: andean goose
+  pt: ''
   ru: Андский гусь
   ja: アンデスガン
   zh: 黑翅草雁

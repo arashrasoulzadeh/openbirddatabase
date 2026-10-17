@@ -12,7 +12,7 @@ names:
   es: Tetraka Piquicorto
   fr: Farifotra zostérops
   de: Kurzschnabel-Madagaskarsänger
-  pt: spectacled tetraka
+  pt: ''
   ru: Очковая тетрака
   ja: コバシマダガスカルヒヨドリ
   zh: 短嘴旋木鵯

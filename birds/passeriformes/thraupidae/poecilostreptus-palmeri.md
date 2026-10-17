@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34993.0
 names:
   scientific: Poecilostreptus palmeri
-  fa: nan
+  fa: ''
   en: Grey-and-gold Tanager
   es: Tangara Grisdorada
   fr: Calliste or-gris
@@ -15,7 +15,7 @@ names:
   pt: gray-and-gold tanager
   ru: Серо-золотая танагра
   ja: ノドジロフウキンチョウ
-  zh: Grey-and-gold Tanager
+  zh: ''
   nl: Palmertangare
   pl: tangarka srokata
   tr: Gri-Altuni Tangara

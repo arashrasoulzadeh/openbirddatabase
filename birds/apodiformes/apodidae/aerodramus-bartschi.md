@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 4045.0
 names:
   scientific: Aerodramus bartschi
-  fa: nan
+  fa: ''
   en: Mariana Swiftlet
   es: Salangana de Guam
   fr: Salangane de Guam
   de: Marianensalangane
-  pt: mariana swiftlet
+  pt: ''
   ru: Гуамская салангана
   ja: グアムムジアナツバメ
   zh: 关岛金丝燕

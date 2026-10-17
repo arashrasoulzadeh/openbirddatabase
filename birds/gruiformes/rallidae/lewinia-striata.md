@@ -12,7 +12,7 @@ names:
   es: Rascón Rufigrís
   fr: Râle strié
   de: Graubrustralle
-  pt: slaty-breasted rail
+  pt: ''
   ru: Серогрудый трескун
   ja: ハシナガクイナ
   nl: Gebandeerde ral

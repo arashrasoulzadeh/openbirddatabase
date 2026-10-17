@@ -12,7 +12,7 @@ names:
   es: Serín Carinegro
   fr: Serin à masque noir
   de: Zügelgirlitz
-  pt: black-faced canary
+  pt: ''
   ru: Чернолицый канареечник
   ja: カオグロカナリア
   nl: Maskerkanarie

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34565.0
 names:
   scientific: Granatellus venustus
-  fa: nan
+  fa: ''
   en: Red-breasted Chat
   es: Reinita Mexicana
   fr: Granatelle multicolore
   de: Rotbrust-Sängerkardinal
-  pt: red-breasted chat
+  pt: ''
   ru: Красногрудая гранателла
   ja: ムネアカアメリカムシクイ
   nl: Rode granaatzanger

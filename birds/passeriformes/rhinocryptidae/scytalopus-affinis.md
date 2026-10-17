@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14403.0
 names:
   scientific: Scytalopus affinis
-  fa: nan
+  fa: ''
   en: Ancash Tapaculo
   es: Churrín de Ancash
   fr: Mérulaxe affin
   de: Ancashtapaculo
-  pt: ancash tapaculo
+  pt: ''
   ru: Анкашский тапакуло
   ja: アンカシュオタテドリ
   nl: Ancashtapaculo

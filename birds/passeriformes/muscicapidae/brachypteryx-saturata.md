@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29369.0
 names:
   scientific: Brachypteryx saturata
-  fa: nan
+  fa: ''
   en: Sumatran Shortwing
   es: Alicorto de Sumatra
   fr: Brachyptère de Sumatra
   de: Sumatra-Bergkurzflügel
-  pt: sumatran shortwing
+  pt: ''
   ja: スマトラコバネヒタキ
   nl: Sumatraanse kortvleugel
   pl: kusochwostka sumatrzańska

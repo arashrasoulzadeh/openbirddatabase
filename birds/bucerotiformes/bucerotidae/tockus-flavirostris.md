@@ -12,7 +12,7 @@ names:
   es: Toco Piquigualdo Norteño
   fr: Calao à bec jaune
   de: Gelbschnabeltoko
-  pt: eastern yellow-billed hornbill
+  pt: ''
   ru: Желтоклювый токо
   ja: ヒガシキバシコサイチョウ
   nl: Ethiopische geelsnaveltok

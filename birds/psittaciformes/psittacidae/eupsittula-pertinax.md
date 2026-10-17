@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13102.0
 names:
   scientific: Eupsittula pertinax
-  fa: nan
+  fa: ''
   en: Brown-throated Parakeet
   es: Aratinga Pertinaz
   fr: Conure cuivrée

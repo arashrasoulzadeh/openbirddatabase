@@ -15,7 +15,7 @@ names:
   pt: visayan blue-fantail
   ru: Висаянская синяя веерохвостка
   ja: ヴィサヤアオオウギビタキ
-  zh: Visayan Blue Fantail
+  zh: ''
   nl: Oost-Visayawaaierstaart
   pl: wachlarzówka granatowa
   tr: Visayas Mavi Katmerkuyruk

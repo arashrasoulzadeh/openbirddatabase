@@ -12,7 +12,7 @@ names:
   es: Zarapito Chico
   fr: Courlis nain
   de: Zwergbrachvogel
-  pt: little curlew
+  pt: ''
   ru: Кроншнеп-малютка
   ja: コシャクシギ
   zh: 小杓鹬

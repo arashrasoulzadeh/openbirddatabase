@@ -12,7 +12,7 @@ names:
   es: Tangara Coronigualda
   fr: Calliste à tête dorée
   de: Gelbkopftangare
-  pt: saffron-crowned tanager
+  pt: ''
   ru: Желтоголовая танагра
   ja: キガシラフウキンチョウ
   zh: 黄顶唐加拉雀

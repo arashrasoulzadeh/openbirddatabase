@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34883.0
 names:
   scientific: Anisognathus igniventris
-  fa: nan
+  fa: ''
   en: Scarlet-bellied Mountain Tanager
   es: Tangara Ventriescarlata
   fr: Tangara à ventre rouge
   de: Mennigohr-Bergtangare
-  pt: scarlet-bellied mountain tanager
+  pt: ''
   ru: Огненнобрюхая танагра
   ja: アカハラヤマフウキンチョウ
   nl: Roodoorbergtangare

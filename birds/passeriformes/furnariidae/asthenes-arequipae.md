@@ -12,7 +12,7 @@ names:
   es: Canastero de Arequipa
   fr: Synallaxe à ailes sombres
   de: Dunkelflügelcanastero
-  pt: dark-winged canastero
+  pt: ''
   ru: Темнокрылый канастеро
   ja: チャバネカマドドリ
   nl: Zwartvleugelcanastero

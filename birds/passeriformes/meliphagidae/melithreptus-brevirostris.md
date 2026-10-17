@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18132.0
 names:
   scientific: Melithreptus brevirostris
-  fa: nan
+  fa: ''
   en: Brown-headed Honeyeater
   es: Mielero Cabecipardo
   fr: Méliphage à tête brune
   de: Braunkopf-Honigfresser
-  pt: brown-headed honeyeater
+  pt: ''
   ru: Буроголовая медвянка
   ja: チャガシラハチマキミツスイ
   nl: Bruinkophoningeter

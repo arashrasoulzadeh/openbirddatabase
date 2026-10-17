@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34630.0
 names:
   scientific: Paroaria coronata
-  fa: nan
+  fa: ''
   en: Red-crested Cardinal
   es: Cardenilla Crestada
   fr: Paroare huppé

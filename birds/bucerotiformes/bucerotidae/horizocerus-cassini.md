@@ -12,7 +12,7 @@ names:
   es: Cálao Crestiblanco Oriental
   fr: Calao de Cassin
   de: Östlicher Weißschopf-Hornvogel
-  pt: eastern long-tailed hornbill
+  pt: ''
   nl: Oostelijke langstaarttok
   pl: dzioborożec czarnolicy
   tr: Doğulu Ak Tepeli Boynuzgaga

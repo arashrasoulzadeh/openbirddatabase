@@ -12,7 +12,7 @@ names:
   es: Solitario Variado
   fr: Solitaire varié
   de: Buntklarino
-  pt: varied solitaire
+  pt: ''
   ru: Разноцветный кларино
   ja: キタキバシヒトリツグミ
   nl: Bonte solitaire

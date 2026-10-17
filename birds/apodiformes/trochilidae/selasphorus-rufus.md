@@ -12,7 +12,7 @@ names:
   es: Colibrí Rufo
   fr: Colibri roux
   de: Rotrücken-Zimtelfe
-  pt: rufous hummingbird
+  pt: ''
   ru: Рыжий колибри
   ja: アカフトオハチドリ
   zh: 棕煌蜂鳥

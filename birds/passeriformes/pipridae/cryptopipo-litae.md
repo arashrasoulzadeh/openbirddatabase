@@ -11,7 +11,7 @@ names:
   en: Choco Manakin
   es: Saltarín del Chocó
   fr: Manakin du Choco
-  pt: choco manakin
+  pt: ''
   nl: Chocomanakin
   pl: gorzynek północny
   tr: Çoko Manakini

@@ -15,7 +15,7 @@ names:
   pt: gray-backed fiscal
   ru: Сероплечий фискал
   ja: ハグロオナガモズ
-  zh: Grey-backed Fiscal
+  zh: ''
   nl: Grijsrugklapekster
   pl: dzierzba srokoszowata
   tr: Gri Sırtlı Fiskal

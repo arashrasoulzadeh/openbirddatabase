@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 31149.0
 names:
   scientific: Lonchura caniceps
-  fa: nan
+  fa: ''
   en: Grey-headed Mannikin
   es: Capuchino Canoso
   fr: Capucin gris
@@ -15,7 +15,7 @@ names:
   pt: gray-headed munia
   ru: Сероголовая муния
   ja: ハイガシラヘキチョウ
-  zh: Grey-headed Mannikin
+  zh: ''
   nl: Grijskopnon
   pl: mniszka szarogłowa
   tr: Gri Başlı Munya

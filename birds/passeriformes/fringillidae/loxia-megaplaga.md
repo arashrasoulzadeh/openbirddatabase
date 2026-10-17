@@ -12,7 +12,7 @@ names:
   es: Piquituerto de la Española
   fr: Bec-croisé d'Hispaniola
   de: Hispaniolakreuzschnabel
-  pt: hispaniolan crossbill
+  pt: ''
   ru: Гаитянский клёст
   ja: ヒスパニオライスカ
   nl: Hispaniolakruisbek

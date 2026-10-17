@@ -12,7 +12,7 @@ names:
   es: Gerigón de Biak
   fr: Gérygone de Biak
   de: Biakgerygone
-  pt: biak gerygone
+  pt: ''
   ru: Биакская геригона
   ja: ビアクセンニョムシクイ
   zh: 比亞克噪刺鶯

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12786.0
 names:
   scientific: Poicephalus rufiventris
-  fa: nan
+  fa: ''
   en: Red-bellied Parrot
   es: Lorito Ventrirrojo
   fr: Perroquet à ventre rouge
   de: Rotbauchpapagei
-  pt: red-bellied parrot
+  pt: ''
   ru: Краснобрюхий попугай
   ja: アカハラハネナガインコ
   nl: Roodbuikpapegaai

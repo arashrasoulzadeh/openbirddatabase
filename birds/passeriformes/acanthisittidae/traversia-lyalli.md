@@ -7,7 +7,7 @@ iucn_status: EX
 taxon_order: 13218.0
 names:
   scientific: Traversia lyalli
-  fa: nan
+  fa: ''
   en: Lyall's Wren
   es: Acantisita de Isla Stephen
   fr: Xénique de Stephens
@@ -15,7 +15,7 @@ names:
   pt: stephens island wren
   ru: Траверзия
   ja: スチーフンイワサザイ
-  zh: Lyall's Wren
+  zh: ''
   nl: Stephens-Islandwinterkoning
   pl: łazik południowy
   tr: Stefen Adası Zeniği

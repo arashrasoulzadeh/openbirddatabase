@@ -12,7 +12,7 @@ names:
   es: Sargento Humeral
   fr: Petit Carouge
   de: Braunschulterstärling
-  pt: tawny-shouldered blackbird
+  pt: ''
   ru: Каштановоплечий трупиал
   ja: チャガタハゴロモガラス
   nl: Bruinboegtroepiaal

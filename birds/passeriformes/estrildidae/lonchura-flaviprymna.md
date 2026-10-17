@@ -15,7 +15,7 @@ names:
   pt: yellow-rumped munia
   ru: Жёлтопоясничная муния
   ja: ムジコキン
-  zh: Yellow-rumped Mannikin
+  zh: ''
   nl: Gele rietvink
   pl: mniszka nadobna
   tr: Sarı Belli Munya

@@ -12,7 +12,7 @@ names:
   es: Estrilda Melba
   fr: Beaumarquet melba
   de: Buntastrild
-  pt: green-winged pytilia
+  pt: ''
   ru: Пёстрый астрильд
   ja: ニシキスズメ
   zh: 綠翅斑腹雀

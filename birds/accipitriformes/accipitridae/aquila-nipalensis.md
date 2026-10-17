@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 8049.0
 names:
   scientific: Aquila nipalensis
-  fa: nan
+  fa: ''
   en: Steppe Eagle
   es: Águila Esteparia
   fr: Aigle des steppes

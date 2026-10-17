@@ -15,7 +15,7 @@ names:
   pt: indian scimitar-babbler
   ru: Желтоклювый саблеклюв
   ja: インドマミジロマルハシ
-  zh: Indian Scimitar Babbler
+  zh: ''
   nl: Indiase kruiplijster
   pl: łączniak żółtodzioby
   tr: Hint Kıvrıkgagası

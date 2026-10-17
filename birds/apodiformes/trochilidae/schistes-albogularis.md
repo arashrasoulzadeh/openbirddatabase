@@ -12,7 +12,7 @@ names:
   es: Colibrí Picocuña Occidental
   fr: Colibri à collier blanc
   de: West-Bunthalskolibri
-  pt: white-throated daggerbill
+  pt: ''
   ru: Ошейниковый кинжалоклюв
   ja: ノドジロキリハシハチドリ
   zh: 白喉楔嘴蜂鸟

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 1527.0
 names:
   scientific: Lophura swinhoii
-  fa: nan
+  fa: ''
   en: Swinhoe's Pheasant
   es: Faisán de Swinhoe
   fr: Faisan de Swinhoe
   de: Swinhoefasan
-  pt: swinhoe's pheasant
+  pt: ''
   ru: Тайваньский фазан
   ja: サンケイ
   zh: 蓝腹鹇

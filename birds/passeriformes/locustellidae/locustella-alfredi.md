@@ -12,7 +12,7 @@ names:
   es: Zarzalero del Bambú
   fr: Locustelle des bambous
   de: Bambusschwirl
-  pt: bamboo warbler
+  pt: ''
   ru: Бамбуковая пестрогрудка
   ja: タケヤブオウギセッカ
   nl: Grijsborststruikzanger

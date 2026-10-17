@@ -12,7 +12,7 @@ names:
   es: Cálao Malayo
   fr: Calao charbonnier
   de: Malaienhornvogel
-  pt: black hornbill
+  pt: ''
   ru: Чёрная птица-носорог
   ja: クロサイチョウ
   zh: 黑犀鳥

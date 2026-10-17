@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25855.0
 names:
   scientific: Zosterops splendidus
-  fa: nan
+  fa: ''
   en: Ranongga White-eye
   es: Anteojitos Espléndido
   fr: Zostérops de Ranongga
   de: Ranonggabrillenvogel
-  pt: ranongga white-eye
+  pt: ''
   ru: Ранонгганская белоглазка
   ja: ガノンガメジロ
   nl: Ranonggabrilvogel

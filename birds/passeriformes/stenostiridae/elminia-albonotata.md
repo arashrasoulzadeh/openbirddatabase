@@ -12,7 +12,7 @@ names:
   es: Elminia Coliblanca
   fr: Elminie à queue frangée
   de: Berghaubenschnäpper
-  pt: white-tailed crested flycatcher
+  pt: ''
   ru: Горная хохлатая мухоловка
   ja: オジロカンムリヒタキ
   nl: Bergkuifvliegenvanger

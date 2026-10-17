@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 2202.0
 names:
   scientific: Pampusana kubaryi
-  fa: nan
+  fa: ''
   en: White-fronted Ground Dove
   es: Paloma Perdiz de las Carolinas
   fr: Gallicolombe de Kubary
@@ -15,7 +15,7 @@ names:
   pt: caroline islands ground dove
   ru: Каролинский куриный голубь
   ja: マミムナジロバト
-  zh: White-fronted Ground Dove
+  zh: ''
   nl: Carolinenpatrijsduif
   pl: wyspiarek karoliński
   tr: Caroline Adası Yer Kumrusu

@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz de Célebes
   fr: Gallicolombe tristigmate
   de: Hopftaube
-  pt: sulawesi ground dove
+  pt: ''
   ru: Сулавесский куриный голубь
   ja: セレベスウズラバト
   nl: Sulawesipatrijsduif

@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 26472.0
 names:
   scientific: Trochalopteron yersini
-  fa: nan
+  fa: ''
   en: Collared Laughingthrush
   es: Charlatán de Yersin
   fr: Garrulaxe de Yersin
   de: Halsbandhäherling
-  pt: collared laughingthrush
+  pt: ''
   ru: Расписная кустарница
   ja: ギンミミガビチョウ
   zh: 纹枕噪鹛

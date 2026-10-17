@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14290.0
 names:
   scientific: Grallaria milleri
-  fa: nan
+  fa: ''
   en: Brown-banded Antpitta
   es: Tororoí Bandeado
   fr: Grallaire ceinturée
   de: Brustband-Ameisenpitta
-  pt: brown-banded antpitta
+  pt: ''
   ru: Бурая питтовая муравьеловка
   ja: チャオビジアリドリ
   nl: Caldasmierpitta

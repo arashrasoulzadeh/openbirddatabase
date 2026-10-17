@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 19424.0
 names:
   scientific: Pachycephala jacquinoti
-  fa: nan
+  fa: ''
   en: Tongan Whistler
   es: Silbador de Tonga
   fr: Siffleur des Tonga
   de: Tongadickkopf
-  pt: tongan whistler
+  pt: ''
   ru: Тонганский свистун
   ja: トンガモズヒタキ
   zh: 汤岛啸鹟

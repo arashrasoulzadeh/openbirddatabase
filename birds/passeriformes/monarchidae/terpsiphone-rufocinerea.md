@@ -15,7 +15,7 @@ names:
   pt: rufous-vented paradise-flycatcher
   ru: Камерунская райская мухоловка
   ja: クロハラサンコウチョウ
-  zh: Rufous-vented Paradise Flycatcher
+  zh: ''
   nl: Gabonese paradijsmonarch
   pl: muchodławka rdzaworzytna
   tr: Kızıl Etekli Monark

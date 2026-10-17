@@ -12,7 +12,7 @@ names:
   es: Mosquero Hermoso
   fr: Moucherolle superbe
   de: Graukronen-Schnäppertyrann
-  pt: handsome flycatcher
+  pt: ''
   ru: Златогрудая курэта
   ja: キムネフタスジハエトリ
   nl: Goudborsttiran

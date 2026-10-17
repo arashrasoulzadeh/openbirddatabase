@@ -12,7 +12,7 @@ names:
   es: Bisbita Colicorto
   fr: Pipit à queue courte
   de: Kurzschwanzpieper
-  pt: short-tailed pipit
+  pt: ''
   ru: Короткохвостый конёк
   ja: ヒメタヒバリ
   nl: Kortstaartpieper

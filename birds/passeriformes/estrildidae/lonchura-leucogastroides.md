@@ -12,7 +12,7 @@ names:
   es: Capuchino de Java
   fr: Capucin javanais
   de: Javabronzemännchen
-  pt: javan munia
+  pt: ''
   ru: Яванская муния
   ja: コシグロキンパラ
   zh: 黑喉文鳥（爪哇文鳥）

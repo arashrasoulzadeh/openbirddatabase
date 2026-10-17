@@ -15,7 +15,7 @@ names:
   pt: jacutinga
   ru: Очковый гуан
   ja: カオグロナキシャクケイ
-  zh: Black-fronted Piping Guan
+  zh: ''
   nl: Zwartmaskergoean
   pl: grdacz czarnoczelny
   tr: Maskeli Islıkçı Guan

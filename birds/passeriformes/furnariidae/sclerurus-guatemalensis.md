@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14549.0
 names:
   scientific: Sclerurus guatemalensis
-  fa: nan
+  fa: ''
   en: Scaly-throated Leaftosser
   es: Tirahojas Guatemalteco
   fr: Sclérure écaillé
   de: Fleckenbrust-Laubwender
-  pt: scaly-throated leaftosser
+  pt: ''
   ru: Чешуегорлый тенелюб
   ja: ウロコヤブクグリ
   nl: Schubkeelbladkrabber

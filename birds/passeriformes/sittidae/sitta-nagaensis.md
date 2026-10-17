@@ -12,7 +12,7 @@ names:
   es: Trepador de las Naga
   fr: Sittelle des Naga
   de: Rostflankenkleiber
-  pt: chestnut-vented nuthatch
+  pt: ''
   ru: Каштановобокий поползень
   ja: ミナミゴジュウカラ
   zh: 栗臀䴓

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 32138.0
 names:
   scientific: Chlorodrepanis flava
-  fa: nan
+  fa: ''
   en: Oahu Amakihi
   es: Amakihi de Oahu
   fr: Amakihi d'Oahu
   de: Oahu-Amakihikleidervogel
-  pt: oahu amakihi
+  pt: ''
   ru: Жёлтая амакихи
   ja: オアフミツスイ
   nl: Oahu-amakihi

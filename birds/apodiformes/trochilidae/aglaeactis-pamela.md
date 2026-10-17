@@ -12,7 +12,7 @@ names:
   es: Colibrí Negrito
   fr: Colibri paméla
   de: Schwarzkopfkolibri
-  pt: black-hooded sunbeam
+  pt: ''
   ru: Черноголовая ирида
   ja: ズグロニジハチドリ
   zh: 黑头闪羽蜂鸟

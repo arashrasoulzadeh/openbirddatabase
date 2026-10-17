@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12018.0
 names:
   scientific: Falco moluccensis
-  fa: nan
+  fa: ''
   en: Spotted Kestrel
   es: Cernícalo Moluqueño
   fr: Crécerelle des Moluques

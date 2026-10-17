@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 33072.0
 names:
   scientific: Arremon franciscanus
-  fa: nan
+  fa: ''
   en: Sao Francisco Sparrow
   es: Cerquero Franciscano
   fr: Tohi du Sao Francisco

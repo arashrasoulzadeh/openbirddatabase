@@ -12,7 +12,7 @@ names:
   es: Busardo Semiplomizo
   fr: Buse semiplombée
   de: Möwenbussard
-  pt: semiplumbeous hawk
+  pt: ''
   ru: Сероголовая агуйла
   ja: セアオノスリ
   nl: Kleine bonte buizerd

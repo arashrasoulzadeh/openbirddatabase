@@ -15,7 +15,7 @@ names:
   pt: pictorella munia
   ru: Жемчужногрудая муния
   ja: ムナジロシマコキン
-  zh: Pictorella Mannikin
+  zh: ''
   nl: Witborstrietvink
   pl: pastelarka
   tr: Kırçıl Göğüslü Munya

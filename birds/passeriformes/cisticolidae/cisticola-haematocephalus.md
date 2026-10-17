@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23456.0
 names:
   scientific: Cisticola haematocephalus
-  fa: nan
+  fa: ''
   en: Coastal Cisticola
   es: Cistícola Costero
   fr: Cisticole côtière
   de: Küstenzistensänger
-  pt: coastal cisticola
+  pt: ''
   ru: Береговая цистикола
   nl: Kustgraszanger
   pl: chwastówka nadbrzeżna

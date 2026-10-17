@@ -12,7 +12,7 @@ names:
   es: Mirlo Acollarado
   fr: Merle à collier blanc
   de: Weißhalsdrossel
-  pt: white-collared blackbird
+  pt: ''
   ru: Ошейниковый дрозд
   ja: シロエリツグミ
   zh: 白颈鸫

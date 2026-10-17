@@ -12,7 +12,7 @@ names:
   es: Pito Abisinio
   fr: Pic d'Abyssinie
   de: Wacholderspecht
-  pt: abyssinian woodpecker
+  pt: ''
   ru: Абиссинский дятел
   ja: キタアフリカコゲラ
   zh: 非洲金背啄木鳥

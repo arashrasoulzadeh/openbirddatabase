@@ -12,7 +12,7 @@ names:
   es: Pava Pajuil
   fr: Pénélope pajuil
   de: Schluchtenguan
-  pt: highland guan
+  pt: ''
   ru: Малый гуан
   ja: ヒメクロシャクケイ
   zh: 黑山冠雉

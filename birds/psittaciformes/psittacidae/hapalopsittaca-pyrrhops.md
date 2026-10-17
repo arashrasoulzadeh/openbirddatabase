@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 12857.0
 names:
   scientific: Hapalopsittaca pyrrhops
-  fa: nan
+  fa: ''
   en: Red-faced Parrot
   es: Lorito Ecuatoriano
   fr: Caïque de Salvin
   de: Salvinpapagei
-  pt: red-faced parrot
+  pt: ''
   ru: Краснолицый лорито
   ja: ホオアカインコ
   nl: Vuuroogpapegaai

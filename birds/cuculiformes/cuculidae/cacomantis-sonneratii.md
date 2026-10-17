@@ -12,7 +12,7 @@ names:
   es: Cuco Bayo
   fr: Coucou de Sonnerat
   de: Sonneratkuckuck
-  pt: banded bay cuckoo
+  pt: ''
   ru: Полосатая кукушка
   ja: クリイロヒメカッコウ
   zh: 栗斑杜鹃

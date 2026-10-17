@@ -15,7 +15,7 @@ names:
   pt: golden masked-owl
   ru: Золотистая сипуха
   ja: ニューブリテンメンフクロウ
-  zh: Golden Masked Owl
+  zh: ''
   nl: Nieuw-Brittanniëkerkuil
   pl: płomykówka złotawa
   tr: Yeni Britanya Peçeli Baykuşu

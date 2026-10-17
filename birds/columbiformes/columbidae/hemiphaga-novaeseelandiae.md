@@ -12,7 +12,7 @@ names:
   es: Paloma Maorí
   fr: Carpophage de Nouvelle-Zélande
   de: Maorifruchttaube
-  pt: new zealand pigeon
+  pt: ''
   ru: Маорийский плодовый голубь
   ja: ニュージーランドバト
   zh: 新西蘭鳩

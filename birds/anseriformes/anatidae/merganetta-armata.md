@@ -12,7 +12,7 @@ names:
   es: Pato Torrentero
   fr: Merganette des torrents
   de: Sturzbachente
-  pt: torrent duck
+  pt: ''
   ru: Ручьевая утка
   ja: ヤマガモ
   zh: 湍鴨

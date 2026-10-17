@@ -12,7 +12,7 @@ names:
   es: Picocerdas Rufo
   fr: Dasyorne roux
   de: Rotkopf-Borstenvogel
-  pt: rufous bristlebird
+  pt: ''
   ru: Рыжеголовая щетинкоклювка
   ja: ズアカヒゲムシクイ
   zh: 短翅刺莺

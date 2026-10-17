@@ -12,7 +12,7 @@ names:
   es: Vireo Alcaudón Ventrirrufo
   fr: Allotrie à ventre roux
   de: Rotbauch-Würgervireo
-  pt: black-headed shrike-babbler
+  pt: ''
   ru: Краснобрюхая птерутия
   ja: セアカモズチメドリ
   zh: 棕腹鵙鹛

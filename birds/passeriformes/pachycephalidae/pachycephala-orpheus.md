@@ -12,7 +12,7 @@ names:
   es: Silbador de Timor
   fr: Siffleur orphée
   de: Orpheusdickkopf
-  pt: fawn-breasted whistler
+  pt: ''
   ru: Тиморский свистун
   ja: チモールモズヒタキ
   zh: 褐胸啸鹟

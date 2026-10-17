@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 832.0
 names:
   scientific: Megapodius bernsteinii
-  fa: nan
+  fa: ''
   en: Sula Megapode
   es: Talégalo de las Sula
   fr: Mégapode de Bernstein
   de: Sula-Großfußhuhn
-  pt: sula megapode
+  pt: ''
   ru: Суласский большеног
   ja: スラツカツクリ
   zh: 蘇拉塚雉

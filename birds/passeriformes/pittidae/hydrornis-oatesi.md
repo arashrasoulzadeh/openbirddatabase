@@ -12,7 +12,7 @@ names:
   es: Pita Rojiza
   fr: Brève à nuque fauve
   de: Rostnackenpitta
-  pt: rusty-naped pitta
+  pt: ''
   ru: Каштановоголовая питта
   ja: チャガシラヤイロチョウ
   zh: 栗头八色鸫

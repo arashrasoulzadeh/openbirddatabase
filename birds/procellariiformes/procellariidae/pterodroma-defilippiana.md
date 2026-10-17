@@ -12,7 +12,7 @@ names:
   es: Petrel Chileno
   fr: Pétrel de Filippi
   de: Juan-Fernández-Sturmvogel
-  pt: masatierra petrel
+  pt: ''
   ru: Чилийский тайфунник
   ja: フェルナンデスミズナギドリ
   nl: Masatierrastormvogel

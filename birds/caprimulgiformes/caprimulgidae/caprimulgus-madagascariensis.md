@@ -12,7 +12,7 @@ names:
   es: Chotacabras Malgache
   fr: Engoulevent malgache
   de: Madagaskarnachtschwalbe
-  pt: madagascar nightjar
+  pt: ''
   ru: Мадагаскарский козодой
   ja: マダガスカルヨタカ
   zh: 马岛夜鹰

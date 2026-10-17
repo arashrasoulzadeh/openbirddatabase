@@ -12,7 +12,7 @@ names:
   es: Pavón Cornudo
   fr: Oréophase cornu
   de: Zapfenguan
-  pt: horned guan
+  pt: ''
   ru: Рогатый гуан
   ja: ツノシャクケイ
   zh: 角冠雉

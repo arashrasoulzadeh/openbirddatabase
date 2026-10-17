@@ -12,7 +12,7 @@ names:
   es: Monarca de San Matías
   fr: Monarque des Saint-Matthias
   de: Weißbrustmonarch
-  pt: mussau monarch
+  pt: ''
   ru: Белоспинный монарх
   ja: シロカササギビタキ
   nl: Witrugmonarch

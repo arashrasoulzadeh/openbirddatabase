@@ -12,7 +12,7 @@ names:
   es: Aguilucho Lagunero Oriental
   fr: Busard d'Orient
   de: Mangroveweihe
-  pt: eastern marsh harrier
+  pt: ''
   ru: Восточный лунь
   ja: チュウヒ
   zh: 白腹鹞

@@ -12,7 +12,7 @@ names:
   es: Prinia Alibarrada
   fr: Prinia bifasciée
   de: Sundaprinie
-  pt: bar-winged prinia
+  pt: ''
   ru: Полосатокрылая приния
   ja: フタスジハウチワドリ
   nl: Javaanse prinia

@@ -12,7 +12,7 @@ names:
   es: Lechuza Tenebrosa
   fr: Effraie ombrée
   de: Rußeule
-  pt: sooty owl
+  pt: ''
   ru: Чёрная сипуха
   ja: ススイロメンフクロウ
   nl: Zwarte kerkuil

@@ -12,7 +12,7 @@ names:
   es: Charrán Ventrinegro
   fr: Sterne à ventre noir
   de: Schwarzbauch-Seeschwalbe
-  pt: black-bellied tern
+  pt: ''
   ru: Чернобрюхая крачка
   ja: インドアジサシ
   zh: 黑腹燕鸥

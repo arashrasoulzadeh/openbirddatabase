@@ -12,7 +12,7 @@ names:
   es: Abanico de Manus
   fr: Rhipidure de l'Amirauté
   de: Manusfächerschwanz
-  pt: manus fantail
+  pt: ''
   ru: Манусская веерохвостка
   ja: マヌスオウギビタキ
   nl: Manuswaaierstaart

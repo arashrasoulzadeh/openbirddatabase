@@ -12,7 +12,7 @@ names:
   es: Prionopo Piquirrojo
   fr: Bagadais à bec rouge
   de: Rotschnabel-Brillenvanga
-  pt: red-billed helmetshrike
+  pt: ''
   ru: Красноклювый шлемоголов
   ja: アカハシメガネモズ
   nl: Roodsnavelklauwier

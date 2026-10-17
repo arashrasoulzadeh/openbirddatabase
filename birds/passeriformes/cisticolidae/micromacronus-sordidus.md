@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 22932.0
 names:
   scientific: Micromacronus sordidus
-  fa: nan
+  fa: ''
   en: Mindanao Miniature Babbler
   es: Timalí Enano de Mindanao
   fr: Camaroptère de Mindanao
@@ -15,7 +15,7 @@ names:
   pt: mindanao plumed-warbler
   ru: Минданаосский плащепёр
   ja: ミンダナオヒメコシミノチメドリ
-  zh: Mindanao Miniature Babbler
+  zh: ''
   nl: Mindanaoboszangertimalia
   pl: tymaleczka myszata
   tr: Mindanao Telliötleğeni

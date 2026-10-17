@@ -12,7 +12,7 @@ names:
   es: Jilguero Rojo
   fr: Tarin rouge
   de: Kapuzenzeisig
-  pt: red siskin
+  pt: ''
   ru: Огненный чиж
   ja: ショウジョウヒワ
   zh: 黑頭紅金翅雀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25408.0
 names:
   scientific: Fulvetta striaticollis
-  fa: nan
+  fa: ''
   en: Chinese Fulvetta
   es: Fulveta China
   fr: Fulvetta montagnarde
   de: Berggrasmücke
-  pt: chinese fulvetta
+  pt: ''
   ru: Пеcтрогорлая фульветта
   ja: カンスーチメドリ
   nl: Chinese fulvetta

@@ -12,7 +12,7 @@ names:
   es: Camachuelo Cejirrosado
   fr: Roselin à sourcils roses
   de: Rosenbrauengimpel
-  pt: pink-browed rosefinch
+  pt: ''
   ru: Краснобровая чечевица
   ja: バラマユマシコ
   zh: 玫红眉朱雀

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33511.0
 names:
   scientific: Atlapetes canigenis
-  fa: nan
+  fa: ''
   en: Cuzco Brushfinch
   es: Atlapetes de Cuzco
   fr: Tohi à joues grises
   de: Schieferbuschammer
-  pt: cuzco brushfinch
+  pt: ''
   ru: Серобрюхая атлапета
   ja: クスコヤブシトド
   nl: Grijze struikgors

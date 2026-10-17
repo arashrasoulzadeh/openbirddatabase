@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29229.0
 names:
   scientific: Cossypha natalensis
-  fa: nan
+  fa: ''
   en: Red-capped Robin-Chat
   es: Cosifa de Natal
   fr: Cossyphe à calotte rousse
   de: Natalrötel
-  pt: red-capped robin-chat
+  pt: ''
   ru: Оранжевый рыжехвост
   ja: ズアカツグミヒタキ
   zh: 红顶歌鵖

@@ -12,7 +12,7 @@ names:
   es: Subepalo Rojizo
   fr: Anabasitte rousse
   de: Rostbrust-Stachelschwanz
-  pt: ruddy treerunner
+  pt: ''
   ru: Рыжий щетинкохвост
   ja: サビイロヒゲオカマドドリ
   nl: Rode boomloper

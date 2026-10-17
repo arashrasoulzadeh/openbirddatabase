@@ -12,7 +12,7 @@ names:
   es: Gaviota de Cortés
   fr: Goéland de Cortez
   de: Gelbfußmöwe
-  pt: yellow-footed gull
+  pt: ''
   ru: Желтоногая чайка
   ja: キアシオオセグロカモメ
   nl: Mexicaanse meeuw

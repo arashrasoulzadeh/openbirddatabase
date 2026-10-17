@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13906.0
 names:
   scientific: Cercomacroides tyrannina
-  fa: nan
+  fa: ''
   en: Dusky Antbird
   es: Hormiguero Tirano
   fr: Grisin sombre

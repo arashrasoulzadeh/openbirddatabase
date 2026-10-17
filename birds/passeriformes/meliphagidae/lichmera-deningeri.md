@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18095.0
 names:
   scientific: Lichmera deningeri
-  fa: nan
+  fa: ''
   en: Buru Honeyeater
   es: Mielero de Buru
   fr: Méliphage de Buru
   de: Buruhonigfresser
-  pt: buru honeyeater
+  pt: ''
   ru: Буруанский медолюб
   ja: ブルオリーブミツスイ
   zh: 布魯岩吸蜜鳥

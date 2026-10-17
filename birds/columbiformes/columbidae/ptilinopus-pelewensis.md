@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2722.0
 names:
   scientific: Ptilinopus pelewensis
-  fa: nan
+  fa: ''
   en: Palau Fruit Dove
   es: Tilopo de las Palaos
   fr: Ptilope des Palau
@@ -15,7 +15,7 @@ names:
   pt: palau fruit-dove
   ru: Палауский фруктовый голубь
   ja: ホリイヒメアオバト
-  zh: Palau Fruit Dove
+  zh: ''
   nl: Palaujufferduif
   pl: owocożer szaroszyi
   tr: Palau Meyve Kumrusu

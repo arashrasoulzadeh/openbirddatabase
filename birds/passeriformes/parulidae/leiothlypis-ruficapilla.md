@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33981.0
 names:
   scientific: Leiothlypis ruficapilla
-  fa: nan
+  fa: ''
   en: Nashville Warbler
   es: Reinita de Nashville
   fr: Paruline à joues grises
   de: Rubinfleck-Waldsänger
-  pt: nashville warbler
+  pt: ''
   ru: Красношапочная древесница
   ja: ズアカアメリカムシクイ
   nl: Nashvillezanger

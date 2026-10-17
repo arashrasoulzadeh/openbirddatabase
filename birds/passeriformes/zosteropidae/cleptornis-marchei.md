@@ -12,7 +12,7 @@ names:
   es: Anteojitos Dorado
   fr: Zostérops doré
   de: Goldbrillenvogel
-  pt: golden white-eye
+  pt: ''
   ru: Золотистая тахоу
   ja: オウゴンミツスイ
   zh: 金绣眼鸟属

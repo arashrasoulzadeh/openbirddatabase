@@ -12,7 +12,7 @@ names:
   es: Gavilán del Ovambo
   fr: Épervier des Ovampos
   de: Ovambosperber
-  pt: ovambo sparrowhawk
+  pt: ''
   ru: Краснобокий перепелятник
   ja: サバンナハイタカ
   zh: 南非雀鷹

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18178.0
 names:
   scientific: Plectorhyncha lanceolata
-  fa: nan
+  fa: ''
   en: Striped Honeyeater
   es: Mielero Lanceolado
   fr: Méliphage lancéolé
   de: Strichelhonigfresser
-  pt: striped honeyeater
+  pt: ''
   ru: Пестроспинный медосос
   ja: ヒヨミツスイ
   nl: Gestreepte honingeter

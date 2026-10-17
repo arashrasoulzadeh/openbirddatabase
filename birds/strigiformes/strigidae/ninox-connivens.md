@@ -12,7 +12,7 @@ names:
   es: Nínox Ladrador
   fr: Ninoxe aboyeuse
   de: Kläfferkauz
-  pt: barking owl
+  pt: ''
   ru: Лающая иглоногая сова
   ja: オーストラリアアオバズク
   zh: 吠鹰鸮

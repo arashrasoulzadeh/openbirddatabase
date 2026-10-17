@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 9990.0
 names:
   scientific: Ceyx meeki
-  fa: nan
+  fa: ''
   en: North Solomons Dwarf Kingfisher
   es: Martín Pigmeo de Santa Isabel
   fr: Martin-pêcheur d'Isabel
   de: Bougainville-Zwergfischer
   pt: north solomons dwarf-kingfisher
   ru: Украшенный лесной зимородок
-  zh: North Solomons Dwarf Kingfisher
+  zh: ''
   nl: Noord-Salomonsdwergijsvogel
   pl: zimorodek łuskowany
   tr: Kuzey Solomon Küçük Yalıçapkını

@@ -12,7 +12,7 @@ names:
   es: Monarca de Everett
   fr: Monarque d'Everett
   de: Everettmonarch
-  pt: tanahjampea monarch
+  pt: ''
   ru: Белопоясный монарх
   ja: シロビタイカササギビタキ
   nl: Djampeamonarch

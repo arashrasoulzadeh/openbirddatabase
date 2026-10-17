@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 35413.0
 names:
   scientific: Incaspiza watkinsi
-  fa: nan
+  fa: ''
   en: Little Inca Finch
   es: Incaspiza Chico
   fr: Incaspize de Watkins
@@ -15,7 +15,7 @@ names:
   pt: little inca-finch
   ru: Мараньонская пизарита-инка
   ja: ヒメインカシトド
-  zh: Little Inca Finch
+  zh: ''
   nl: Kleine incagors
   pl: ineczka mała
   tr: Küçük İnka İspinozu

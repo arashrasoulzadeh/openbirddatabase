@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5276.0
 names:
   scientific: Rallus crepitans
-  fa: nan
+  fa: ''
   en: Clapper Rail
   es: Rascón Crepitante
   fr: Râle tapageur
   de: Klapperralle
-  pt: clapper rail
+  pt: ''
   ru: Карибский пастушок
   ja: ヒガシオニクイナ
   zh: 長嘴秧雞

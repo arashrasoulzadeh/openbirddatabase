@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35472.0
 names:
   scientific: Sicalis lebruni
-  fa: nan
+  fa: ''
   en: Patagonian Yellow Finch
   es: Chirigüe Austral
   fr: Sicale de Patagonie
@@ -15,7 +15,7 @@ names:
   pt: patagonian yellow-finch
   ru: Патагонский зерноед
   ja: パタゴニアキンノジコ
-  zh: Patagonian Yellow Finch
+  zh: ''
   nl: Patagonische saffraangors
   pl: szafranka patagońska
   tr: Patagonya Kanarya İspinozu

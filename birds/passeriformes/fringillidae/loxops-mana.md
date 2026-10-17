@@ -12,7 +12,7 @@ names:
   es: Akikiki de Hawái
   fr: Loxopse mana
   de: Mana-Akepakleidervogel
-  pt: hawaii creeper
+  pt: ''
   ru: Пищуховая цветочница
   ja: ハワイキバシリ
   nl: Hawaïkruiper

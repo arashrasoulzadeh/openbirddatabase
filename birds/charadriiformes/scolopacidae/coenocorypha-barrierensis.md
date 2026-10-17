@@ -12,7 +12,7 @@ names:
   es: Chochita de Isla Norte
   fr: Bécassine de Hauturu
   de: Nordinselschnepfe
-  pt: north island snipe
+  pt: ''
   ru: Маорийский хакавай
   ja: ホクトウムジシギ
   nl: Noordereilandsnip

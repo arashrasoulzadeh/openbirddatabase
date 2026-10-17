@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14406.0
 names:
   scientific: Scytalopus opacus
-  fa: nan
+  fa: ''
   en: Paramo Tapaculo
   es: Churrín Paramero
   fr: Mérulaxe du paramo
   de: Kordillerentapaculo
-  pt: paramo tapaculo
+  pt: ''
   ru: Тапакуло парамо
   ja: パラモオタテドリ
   nl: Paramotapaculo

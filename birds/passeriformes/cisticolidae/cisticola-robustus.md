@@ -12,7 +12,7 @@ names:
   es: Cistícola Robusto
   fr: Cisticole robuste
   de: Amharazistensänger
-  pt: stout cisticola
+  pt: ''
   ru: Большая цистикола
   ja: エリアカセッカ
   nl: Grote graszanger

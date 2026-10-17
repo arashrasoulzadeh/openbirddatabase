@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso de Loria
   fr: Cnémophile de Loria
   de: Loriasamtvogel
-  pt: loria's satinbird
+  pt: ''
   ru: Чёрная лория
   ja: ルリフウチョウモドキ
   nl: Loriasatijnvogel

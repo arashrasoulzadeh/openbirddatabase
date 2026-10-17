@@ -12,7 +12,7 @@ names:
   es: Mosquerito de Isla del Coco
   fr: Tyranneau de Cocos
   de: Kokosinseltyrann
-  pt: cocos tyrannulet
+  pt: ''
   ru: Кокосский комароед
   ja: ココスタイランチョウ
   nl: Cocosvliegenpikker

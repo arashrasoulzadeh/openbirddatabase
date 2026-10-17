@@ -15,7 +15,7 @@ names:
   pt: moluccan king-parrot
   ru: Трёхцветный попугай
   ja: オウインコ
-  zh: Moluccan King Parrot
+  zh: ''
   nl: Molukse koningsparkiet
   pl: szkarłatka niebieskogrzbieta
   tr: Maluku Kral Papağanı

@@ -12,7 +12,7 @@ names:
   es: Jilguero de Lawrence
   fr: Chardonneret gris
   de: Maskenzeisig
-  pt: lawrence's goldfinch
+  pt: ''
   ru: Масковый чиж
   ja: カオグロキンヒワ
   nl: Maskergeelvink

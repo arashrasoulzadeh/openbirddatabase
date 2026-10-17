@@ -15,7 +15,7 @@ names:
   pt: andaman serpent-eagle
   ru: Андаманский змееяд
   ja: アンダマンカンムリワシ
-  zh: Andaman Serpent Eagle
+  zh: ''
   nl: Andamanenslangenarend
   pl: wężojad andamański
   tr: Andaman Yılan Kartalı

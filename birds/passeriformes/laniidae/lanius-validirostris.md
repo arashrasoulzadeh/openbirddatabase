@@ -12,7 +12,7 @@ names:
   es: Alcaudón Filipino
   fr: Pie-grièche des Philippines
   de: Philippinenwürger
-  pt: mountain shrike
+  pt: ''
   ru: Филиппинский сорокопут
   ja: フィリピンモズ
   zh: 灰顶伯劳

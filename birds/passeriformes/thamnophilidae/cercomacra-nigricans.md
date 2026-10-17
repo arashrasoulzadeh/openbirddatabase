@@ -12,7 +12,7 @@ names:
   es: Hormiguero Azabache
   fr: Grisin de jais
   de: Schwarzbauch-Ameisenfänger
-  pt: jet antbird
+  pt: ''
   ru: Траурная муравьянка
   ja: クロアリドリ
   zh: 辉黑蚁鸟

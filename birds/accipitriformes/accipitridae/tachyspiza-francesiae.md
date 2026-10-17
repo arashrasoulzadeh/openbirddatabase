@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8179.0
 names:
   scientific: Tachyspiza francesiae
-  fa: nan
+  fa: ''
   en: Frances's Sparrowhawk
   es: Gavilán de Frances
   fr: Épervier de Frances
   de: Echsensperber
-  pt: frances's sparrowhawk
+  pt: ''
   ru: Мадагаскарский тювик
   ja: シロハラハイタカ
   zh: 馬達加斯加鷹

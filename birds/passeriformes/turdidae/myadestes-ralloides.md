@@ -12,7 +12,7 @@ names:
   es: Solitario Andino
   fr: Solitaire des Andes
   de: Andenklarino
-  pt: andean solitaire
+  pt: ''
   ru: Андский кларино
   ja: キバシヒトリツグミ
   nl: Andessolitaire

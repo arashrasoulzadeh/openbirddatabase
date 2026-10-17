@@ -12,7 +12,7 @@ names:
   es: Maluro del Eyre
   fr: Amytis de l'Eyre
   de: Finkenschnabel-Grasschlüpfer
-  pt: eyrean grasswren
+  pt: ''
   ru: Белобрюхий амитис
   ja: シロハラセスジムシクイ
   zh: 埃坎草鹩莺

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24972.0
 names:
   scientific: Phylloscopus occipitalis
-  fa: nan
+  fa: ''
   en: Western Crowned Warbler
   es: Mosquitero Occipital
   fr: Pouillot couronné
   de: Dachskopf-Laubsänger
-  pt: western crowned warbler
+  pt: ''
   ru: Зеленокрылая пеночка
   ja: ニシセンダイムシクイ
   zh: 大冕柳莺

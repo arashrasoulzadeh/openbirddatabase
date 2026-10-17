@@ -12,7 +12,7 @@ names:
   es: Ánade Mexicano
   fr: Canard du Mexique
   de: Mexikoente
-  pt: mexican duck
+  pt: ''
   ru: Мексиканская кряква
   ja: メキシコガモ
   zh: 墨西哥鴨

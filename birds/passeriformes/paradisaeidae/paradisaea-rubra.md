@@ -12,10 +12,10 @@ names:
   es: Ave del Paraíso Roja
   fr: Paradisier rouge
   de: Rotparadiesvogel
-  pt: red bird-of-paradise
+  pt: ''
   ru: Красная райская птица
   ja: ベニフウチョウ
-  zh: Red Bird-of-paradise
+  zh: ''
   nl: Rode paradijsvogel
   pl: cudowronka czerwona
   tr: Kırmızı Cennetkuşu

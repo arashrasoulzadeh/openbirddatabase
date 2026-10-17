@@ -12,7 +12,7 @@ names:
   es: Vanga Rufo
   fr: Schetbé roux
   de: Rotvanga
-  pt: rufous vanga
+  pt: ''
   ru: Рыжая ванга
   ja: アカオオハシモズ
   nl: Rosse vanga

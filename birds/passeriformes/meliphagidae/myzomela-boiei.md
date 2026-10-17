@@ -12,7 +12,7 @@ names:
   es: Mielero de las Banda
   fr: Myzomèle de Banda
   de: Inselhonigfresser
-  pt: banda myzomela
+  pt: ''
   ru: Танимбарская медовка
   ja: バンダミツスイ
   nl: Tanimbardwerghoningeter

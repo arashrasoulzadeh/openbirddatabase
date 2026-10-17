@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12817.0
 names:
   scientific: Nannopsittaca panychlora
-  fa: nan
+  fa: ''
   en: Tepui Parrotlet
   es: Cotorrita de Tepuí
   fr: Toui des tépuis

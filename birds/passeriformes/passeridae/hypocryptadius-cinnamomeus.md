@@ -12,7 +12,7 @@ names:
   es: Anteojitos Canelo
   fr: Ibon cannelle
   de: Zimtsperling
-  pt: cinnamon ibon
+  pt: ''
   ru: Ибон
   ja: ニッケイメジロ
   nl: Kaneelbruine brilvogel

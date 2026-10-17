@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17748.0
 names:
   scientific: Meliphaga fordiana
-  fa: nan
+  fa: ''
   en: Kimberley Honeyeater
   es: Mielero de Kimberley
   fr: Méliphage du Kimberley
   de: Kimberleyhonigfresser
-  pt: kimberley honeyeater
+  pt: ''
   ru: Скальный медосос
   ja: キンバリーミツスイ
   nl: Kimberleyhoningeter

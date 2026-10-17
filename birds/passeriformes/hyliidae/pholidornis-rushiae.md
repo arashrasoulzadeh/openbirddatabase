@@ -15,7 +15,7 @@ names:
   pt: tit-hylia
   ru: Пестрогрудая хилия
   ja: カラハタオリ
-  zh: Tit Hylia
+  zh: ''
   nl: Meeshylia
   pl: remiziak
   tr: Çizgili Hilya

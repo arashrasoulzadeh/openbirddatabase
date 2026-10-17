@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23964.0
 names:
   scientific: Bernieria madagascariensis
-  fa: nan
+  fa: ''
   en: Long-billed Bernieria
   es: Tetraka Piquilargo
   fr: Tétraka malgache
   de: Gmelinmadagaskarsänger
-  pt: long-billed bernieria
+  pt: ''
   ru: Длинноклювая тетрака
   ja: テトラカヒヨドリ
   zh: 馬島旋木鵯

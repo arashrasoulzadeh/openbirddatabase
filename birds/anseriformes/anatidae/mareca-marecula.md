@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 526.0
 names:
   scientific: Mareca marecula
-  fa: nan
+  fa: ''
   en: Amsterdam Wigeon
   es: Ánade de Isla Amsterdam
   fr: Canard d'Amsterdam
@@ -15,7 +15,7 @@ names:
   pt: amsterdam duck
   ru: Нелетающая свиязь
   ja: アムステルダムガモ
-  zh: Amsterdam Wigeon
+  zh: ''
   nl: Amsterdamsmient
   pl: świstun krótkodzioby
   tr: Amsterdam Adası Fiyusu

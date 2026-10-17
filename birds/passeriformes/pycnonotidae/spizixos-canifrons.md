@@ -12,7 +12,7 @@ names:
   es: Bulbul Picogrueso
   fr: Bulbul à gros bec
   de: Finkenbülbül
-  pt: crested finchbill
+  pt: ''
   ru: Вьюрковый бюльбюль
   ja: カンムリカヤノボリ
   zh: 凤头雀嘴鹎

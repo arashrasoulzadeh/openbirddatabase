@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12226.0
 names:
   scientific: Coracopsis nigra
-  fa: nan
+  fa: ''
   en: Lesser Vasa Parrot
   es: Loro Negro
   fr: Vaza noir
   de: Rabenpapagei
-  pt: lesser vasa parrot
+  pt: ''
   ru: Малый ваза
   ja: コクロインコ
   nl: Kleine vasapapegaai

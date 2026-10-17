@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17850.0
 names:
   scientific: Melidectes rufocrissalis
-  fa: nan
+  fa: ''
   en: Yellow-browed Melidectes
   es: Mielero Cejiamarillo
   fr: Méliphage de Reichenow
   de: Reichenowhonigfresser
-  pt: yellow-browed melidectes
+  pt: ''
   ru: Серёжчатый медосос
   ja: ライヘノーヤマミツスイ
   nl: Geelbrauwhoningeter

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14960.0
 names:
   scientific: Lepidocolaptes duidae
-  fa: nan
+  fa: ''
   en: Duida Woodcreeper
   es: Trepatroncos del Duida
   fr: Grimpar du Duida

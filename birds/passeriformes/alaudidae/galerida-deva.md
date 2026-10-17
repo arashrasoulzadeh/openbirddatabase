@@ -15,7 +15,7 @@ names:
   pt: tawny lark
   ru: Охристый жаворонок
   ja: デカンカンムリヒバリ
-  zh: Sykes's Lark
+  zh: ''
   nl: Sykeskuifleeuwerik
   pl: dzierlatka dekańska
   tr: Deva Toygarı

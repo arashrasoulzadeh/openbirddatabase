@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 27727.0
 names:
   scientific: Aplonis pelzelni
-  fa: nan
+  fa: ''
   en: Pohnpei Starling
   es: Estornino de Ponapé
   fr: Stourne de Ponapé
   de: Pelzelnstar
-  pt: pohnpei starling
+  pt: ''
   ru: Понпейский скворец
   ja: ヒメカラスモドキ
   zh: 暗色輝椋鳥

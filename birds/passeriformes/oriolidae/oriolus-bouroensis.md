@@ -15,7 +15,7 @@ names:
   pt: buru oriole
   ru: Буруанская иволга
   ja: ブルコウライウグイス
-  zh: Black-eared Oriole
+  zh: ''
   nl: Zwartoorwielewaal
   pl: wilga czarnoucha
   tr: Buru Sarıasması

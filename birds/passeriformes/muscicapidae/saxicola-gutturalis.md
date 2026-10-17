@@ -15,7 +15,7 @@ names:
   pt: cartaxo-de-timor
   ru: Тиморский чекан
   ja: チモールノビタキ
-  zh: White-bellied Bush Chat
+  zh: ''
   nl: Timorpaapje
   pl: kląskawka białobrzucha
   tr: Timor Taşkuşu

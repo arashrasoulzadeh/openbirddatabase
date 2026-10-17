@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14003.0
 names:
   scientific: Myrmelastes leucostigma
-  fa: nan
+  fa: ''
   en: Spot-winged Antbird
   es: Hormiguero Alimoteado
   fr: Alapi ponctué

@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 10372.0
 names:
   scientific: Brachypteracias leptosomus
-  fa: nan
+  fa: ''
   en: Short-legged Ground Roller
   es: Carraca Terrestre Paticorta
   fr: Brachyptérolle leptosome
@@ -15,7 +15,7 @@ names:
   pt: short-legged ground-roller
   ru: Коротконогая земляная ракша
   ja: ジブッポウソウ
-  zh: Short-legged Ground Roller
+  zh: ''
   nl: Gebandeerde grondscharrelaar
   pl: ziemnokraska obrożna
   tr: Yerkuzgunu

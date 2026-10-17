@@ -12,7 +12,7 @@ names:
   es: Jacana Bronceada
   fr: Jacana bronzé
   de: Bronzeblatthühnchen
-  pt: bronze-winged jacana
+  pt: ''
   ru: Бронзовокрылая якана
   ja: アジアレンカク
   zh: 铜翅水雉

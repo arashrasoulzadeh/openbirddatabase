@@ -12,7 +12,7 @@ names:
   es: Cistícola Dorsinegro
   fr: Cisticole à dos noir
   de: Schwarzrücken-Zistensänger
-  pt: black-backed cisticola
+  pt: ''
   ru: Темноспинная цистикола
   ja: セグロセッカ
   nl: Pollegraszanger

@@ -12,7 +12,7 @@ names:
   es: Carpintero Pitío
   fr: Pic du Chili
   de: Bänderspecht
-  pt: chilean flicker
+  pt: ''
   ru: Чилийский дятел
   ja: チリーアレチゲラ
   nl: Chileense grondspecht

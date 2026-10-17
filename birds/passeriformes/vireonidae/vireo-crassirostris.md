@@ -12,7 +12,7 @@ names:
   es: Vireo Piquigrueso
   fr: Viréo à bec fort
   de: Dickschnabelvireo
-  pt: thick-billed vireo
+  pt: ''
   ru: Толстоклювый виреон
   ja: ハシブトモズモドキ
   nl: Dikbekvireo

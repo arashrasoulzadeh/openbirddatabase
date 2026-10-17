@@ -12,7 +12,7 @@ names:
   es: Zampullín del Titicaca
   fr: Grèbe microptère
   de: Titikakataucher
-  pt: titicaca grebe
+  pt: ''
   ru: Титикакская поганка
   ja: コバネカイツブリ
   zh: 短翅鸊鷉

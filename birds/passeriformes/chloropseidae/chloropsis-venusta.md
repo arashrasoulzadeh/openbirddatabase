@@ -12,7 +12,7 @@ names:
   es: Verdín Frentiazul
   fr: Verdin à front bleu
   de: Blaustirn-Blattvogel
-  pt: blue-masked leafbird
+  pt: ''
   ru: Синелобая листовка
   ja: アオメコノハドリ
   nl: Blauwmaskerbladvogel

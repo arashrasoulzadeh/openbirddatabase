@@ -14,7 +14,7 @@ names:
   de: Graubrust-Degenflügel
   ru: Серогрудый саблекрыл
   ja: ハイバラケンバネハチドリ
-  zh: Grey-breasted Sabrewing
+  zh: ''
   nl: Grijsborstsabelvleugel
   pl: zapylak szary
   tr: Gri Karınlı Kılıçkanat

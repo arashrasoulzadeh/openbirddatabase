@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15888.0
 names:
   scientific: Phibalura flavirostris
-  fa: nan
+  fa: ''
   en: Swallow-tailed Cotinga
   es: Cotinga Tijereta
   fr: Cotinga à queue fourchue

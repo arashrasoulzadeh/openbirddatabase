@@ -12,7 +12,7 @@ names:
   es: Tórtola Cuco de las Sula
   fr: Phasianelle des Sula
   de: Sulataube
-  pt: sula cuckoo-dove
+  pt: ''
   ru: Суланская длиннохвостая горлица
   ja: スラクロバト
   nl: Soelakoekoeksduif

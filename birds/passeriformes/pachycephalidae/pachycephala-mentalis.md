@@ -12,7 +12,7 @@ names:
   es: Silbador Barbinegro
   fr: Siffleur à menton noir
   de: Schwarzkinn-Dickkopf
-  pt: black-chinned whistler
+  pt: ''
   ru: Хальмахерский свистун
   ja: クロアゴモズヒタキ
   nl: Zwartkinfluiter

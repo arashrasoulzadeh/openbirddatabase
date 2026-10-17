@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 17446.0
 names:
   scientific: Empidonomus aurantioatrocristatus
-  fa: nan
+  fa: ''
   en: Crowned Slaty Flycatcher
   es: Tuquito Gris
   fr: Tyran oriflamme

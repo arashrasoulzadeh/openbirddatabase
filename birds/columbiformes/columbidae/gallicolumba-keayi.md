@@ -12,7 +12,7 @@ names:
   es: Paloma Apuñalada de Negros
   fr: Gallicolombe de Negros
   de: Negrostaube
-  pt: negros bleeding-heart
+  pt: ''
   ru: Негросский кровавогрудый голубь
   ja: ネグロスヒムネバト
   nl: Negrosdolksteekduif

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14407.0
 names:
   scientific: Scytalopus canus
-  fa: nan
+  fa: ''
   en: Paramillo Tapaculo
   es: Churrín del Paramillo
   fr: Mérulaxe du paramillo
   de: Antioquiatapaculo
-  pt: paramillo tapaculo
+  pt: ''
   ru: Сизый тапакуло
   ja: パラミヨタテドリ
   zh: 帕拉米略山窜鸟

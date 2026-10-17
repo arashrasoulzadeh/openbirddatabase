@@ -12,7 +12,7 @@ names:
   es: Verdugo Pío
   fr: Grand Réveilleur
   de: Weißbürzel-Krähenstar
-  pt: pied currawong
+  pt: ''
   ru: Пегий куравонг
   ja: フエガラス
   zh: 斑噪钟雀

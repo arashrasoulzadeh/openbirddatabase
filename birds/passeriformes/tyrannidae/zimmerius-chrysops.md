@@ -12,7 +12,7 @@ names:
   es: Mosquerito Caridorado
   fr: Tyranneau à face d'or
   de: Goldgesicht-Kleintyrann
-  pt: golden-faced tyrannulet
+  pt: ''
   ru: Златолицый москитолов
   ja: キマユコタイランチョウ
   nl: Goudwangvliegenpikker

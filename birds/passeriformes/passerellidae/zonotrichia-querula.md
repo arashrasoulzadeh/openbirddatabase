@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 33198.0
 names:
   scientific: Zonotrichia querula
-  fa: nan
+  fa: ''
   en: Harris's Sparrow
   es: Chingolo de Harris
   fr: Bruant à face noire
   de: Harrisammer
-  pt: harris's sparrow
+  pt: ''
   ru: Лесная зонотрихия
   ja: カオグロシトド
   zh: 赫里氏帶鵐

@@ -12,7 +12,7 @@ names:
   es: Carpintero Rufo
   fr: Pic brun
   de: Rötelspecht
-  pt: rufous woodpecker
+  pt: ''
   ru: Рыжий дятел
   ja: クリチャゲラ
   zh: 栗啄木鸟

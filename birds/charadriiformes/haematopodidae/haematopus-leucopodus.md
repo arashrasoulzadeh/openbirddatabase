@@ -12,7 +12,7 @@ names:
   es: Ostrero Magallánico
   fr: Huîtrier de Garnot
   de: Magellanausternfischer
-  pt: magellanic oystercatcher
+  pt: ''
   ru: Магелланов кулик-сорока
   ja: マゼランミヤコドリ
   zh: 麥哲倫蠣鷸

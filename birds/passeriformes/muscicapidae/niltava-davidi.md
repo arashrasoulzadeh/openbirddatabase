@@ -12,7 +12,7 @@ names:
   es: Papamoscas de David
   fr: Gobemouche de David
   de: Davidblauschnäpper
-  pt: fujian niltava
+  pt: ''
   ru: Давидова нильтава
   ja: フッケンアオヒタキ
   zh: 棕腹大仙鹟

@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 7163.0
 names:
   scientific: Pachyptila macgillivrayi
-  fa: nan
+  fa: ''
   en: MacGillivray's Prion
   es: Prión de Macgillivray
   fr: Prion de MacGillivray
   de: MacGillivray-Entensturmvogel
-  pt: macgillivray's prion
+  pt: ''
   nl: Goughprion
   pl: petrelek amsterdamski
   tr: Macgillivray Priyonu

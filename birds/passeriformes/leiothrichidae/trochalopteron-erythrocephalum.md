@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26473.0
 names:
   scientific: Trochalopteron erythrocephalum
-  fa: nan
+  fa: ''
   en: Chestnut-crowned Laughingthrush
   es: Charlatán Coronicastaño
   fr: Garrulaxe à tête rousse
   de: Rotscheitelhäherling
-  pt: chestnut-crowned laughingthrush
+  pt: ''
   ru: Рыжеголовая кустарница
   ja: ズアカガビチョウ
   zh: 红头噪鹛

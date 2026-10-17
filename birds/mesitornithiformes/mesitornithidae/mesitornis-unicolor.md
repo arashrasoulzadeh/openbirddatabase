@@ -12,7 +12,7 @@ names:
   es: Mesito Unicolor
   fr: Mésite unicolore
   de: Einfarb-Stelzenralle
-  pt: brown mesite
+  pt: ''
   ru: Бурый месит
   ja: クリイロクイナモドキ
   nl: Bruine steltral

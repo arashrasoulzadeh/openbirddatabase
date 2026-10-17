@@ -12,7 +12,7 @@ names:
   es: Amaranta Parda
   fr: Amarante nitidule
   de: Braunbürzelamarant
-  pt: brown firefinch
+  pt: ''
   ru: Коричневый амарант
   ja: チャイロコウギョクチョウ
   zh: 褐背火雀

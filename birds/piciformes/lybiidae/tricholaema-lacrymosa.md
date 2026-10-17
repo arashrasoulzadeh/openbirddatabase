@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10637.0
 names:
   scientific: Tricholaema lacrymosa
-  fa: nan
+  fa: ''
   en: Spot-flanked Barbet
   es: Barbudo Lacrimoso
   fr: Barbican funèbre
   de: Tränenbartvogel
-  pt: spot-flanked barbet
+  pt: ''
   ru: Плачущая либия
   ja: クロボシコゴシキドリ
   nl: Rouwbaardvogel

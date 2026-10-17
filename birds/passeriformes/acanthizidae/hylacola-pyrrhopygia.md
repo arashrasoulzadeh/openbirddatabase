@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18262.0
 names:
   scientific: Hylacola pyrrhopygia
-  fa: nan
+  fa: ''
   en: Chestnut-rumped Heathwren
   es: Sedosito Culirrojo
   fr: Séricorne à croupion roux
   de: Heidehuscher
-  pt: chestnut-rumped heathwren
+  pt: ''
   ru: Лесной ложнокрапивник
   ja: コシアカアレチムシクイ
   nl: Vuurstuitheidesluiper

@@ -12,7 +12,7 @@ names:
   es: Tesia de Neumann
   fr: Bouscarle de Neumann
   de: Kivustutzschwanz
-  pt: neumann's warbler
+  pt: ''
   ru: Рувензорская короткохвостка
   ja: コビトサザイモドキ
   nl: Neumannstruikzanger

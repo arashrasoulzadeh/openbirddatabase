@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4497.0
 names:
   scientific: Oreotrochilus leucopleurus
-  fa: nan
+  fa: ''
   en: White-sided Hillstar
   es: Colibrí Cordillerano
   fr: Colibri à flancs blancs
   de: Weißflankenkolibri
-  pt: white-sided hillstar
+  pt: ''
   ru: Белобокая ореада
   ja: ワキジロヤマハチドリ
   zh: 白胁山蜂鸟

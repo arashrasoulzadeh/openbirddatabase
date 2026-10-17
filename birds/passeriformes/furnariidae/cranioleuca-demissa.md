@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15518.0
 names:
   scientific: Cranioleuca demissa
-  fa: nan
+  fa: ''
   en: Tepui Spinetail
   es: Curutié de Tepuí
   fr: Synallaxe des tépuis

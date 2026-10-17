@@ -12,7 +12,7 @@ names:
   es: Oropéndola Picofina
   fr: Loriot à bec effilé
   de: Dünnschnabelpirol
-  pt: slender-billed oriole
+  pt: ''
   ru: Тонкоклювая иволга
   ja: ミナミコウライウグイス
   zh: 细嘴黄鹂

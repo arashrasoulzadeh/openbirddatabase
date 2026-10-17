@@ -12,7 +12,7 @@ names:
   es: Suimanga Pechiblanco
   fr: Souimanga à ventre blanc
   de: Weißbauch-Nektarvogel
-  pt: white-bellied sunbird
+  pt: ''
   ru: Белобрюхая нектарница
   ja: シロハラタイヨウチョウ
   nl: Witbuikhoningzuiger

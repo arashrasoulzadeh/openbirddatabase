@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 27985.0
 names:
   scientific: Lamprotornis purpureus
-  fa: nan
+  fa: ''
   en: Purple Starling
   es: Estornino Purpúreo
   fr: Choucador pourpré

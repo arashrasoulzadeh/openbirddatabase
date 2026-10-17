@@ -12,7 +12,7 @@ names:
   es: Copetón Montañero
   fr: Tyran givré
   de: Andenschopftyrann
-  pt: pale-edged flycatcher
+  pt: ''
   ru: Андский миарх
   ja: シロヘリオオヒタキモドキ
   nl: Taczanowskitiran

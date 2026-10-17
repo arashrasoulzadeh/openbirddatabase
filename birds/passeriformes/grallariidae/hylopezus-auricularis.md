@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 14307.0
 names:
   scientific: Hylopezus auricularis
-  fa: nan
+  fa: ''
   en: Masked Antpitta
   es: Tororoí Enmascarado
   fr: Grallaire oreillarde
   de: Braunwangen-Ameisenpitta
-  pt: masked antpitta
+  pt: ''
   ru: Масковый торорой
   ja: メンガタモリジアリドリ
   nl: Maskermierpitta

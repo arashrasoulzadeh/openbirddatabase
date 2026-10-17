@@ -12,7 +12,7 @@ names:
   es: Gorrión Afgano
   fr: Niverolle d'Afghanistan
   de: Hindukusch-Erdsperling
-  pt: afghan snowfinch
+  pt: ''
   ru: Афганский земляной воробей
   ja: テレサユキスズメ
   zh: 阿富汗雪雀

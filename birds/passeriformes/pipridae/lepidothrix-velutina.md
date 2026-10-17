@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15733.0
 names:
   scientific: Lepidothrix velutina
-  fa: nan
+  fa: ''
   en: Velvety Manakin
   es: Saltarín Aterciopelado
   fr: Manakin velouté
   de: Samtpipra
-  pt: velvety manakin
+  pt: ''
   nl: Fluweelmanakin
   pl: gorzyczek aksamitny
   tr: Kadife Manakin

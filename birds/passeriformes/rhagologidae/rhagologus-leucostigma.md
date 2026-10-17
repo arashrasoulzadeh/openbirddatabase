@@ -12,7 +12,7 @@ names:
   es: Silbador Moteado
   fr: Rhagologue maillé
   de: Beerenjäger
-  pt: mottled berryhunter
+  pt: ''
   ru: Крапчатый толстоголов
   ja: フイリモズヒタキ
   zh: 斑啸鹟

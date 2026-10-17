@@ -12,7 +12,7 @@ names:
   es: Chachalaca Ventricastaña
   fr: Ortalide à ventre marron
   de: Rotbauchguan
-  pt: rufous-bellied chachalaca
+  pt: ''
   ru: Рыжебрюхая чачалака
   ja: アカハラヒメシャクケイ
   zh: 棕腹小冠雉

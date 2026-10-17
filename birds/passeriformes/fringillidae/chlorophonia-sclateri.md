@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 31982.0
 names:
   scientific: Chlorophonia sclateri
-  fa: nan
+  fa: ''
   en: Puerto Rican Euphonia
   es: Eufonia de Puerto Rico
   fr: Organiste de Porto Rico
-  pt: puerto rican euphonia
+  pt: ''
   nl: Puertoricaanse organist
   pl: tęczanka portorykańska
   tr: Porto Riko Öfonyası

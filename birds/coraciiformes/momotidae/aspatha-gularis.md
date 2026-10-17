@@ -12,7 +12,7 @@ names:
   es: Momoto Gorjiazul
   fr: Motmot à gorge bleue
   de: Blaukehlmotmot
-  pt: blue-throated motmot
+  pt: ''
   ru: Синегорлый момот
   ja: アオノドハチクイモドキ
   nl: Blauwkeelmotmot

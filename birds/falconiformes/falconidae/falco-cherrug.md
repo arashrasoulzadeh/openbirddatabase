@@ -7,7 +7,7 @@ iucn_status: EN
 taxon_order: 12108.0
 names:
   scientific: Falco cherrug
-  fa: nan
+  fa: ''
   en: Saker Falcon
   es: Halcón Sacre
   fr: Faucon sacre

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 34787.0
 names:
   scientific: Lanio leucothorax
-  fa: nan
+  fa: ''
   en: White-throated Shrike-Tanager
   es: Tangara Gorjiblanca
   fr: Tangara à gorge blanche
   de: Weißkehl-Würgertangare
-  pt: white-throated shrike-tanager
+  pt: ''
   ru: Белогорлая сорокопутовая танагра
   ja: ノドジロモズフウキンチョウ
   nl: Witkeelklauwiertangare

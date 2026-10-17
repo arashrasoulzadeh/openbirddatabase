@@ -15,7 +15,7 @@ names:
   pt: andorinha-de-peito-ruivo
   ru: Рыжегрудая ласточка
   ja: アカハラコシアカツバメ
-  zh: Red-breasted Swallow
+  zh: ''
   nl: Roodborstzwaluw
   pl: jaskółka rdzawobrzucha
   tr: Kızıl Göğüslü Kırlangıç

@@ -15,7 +15,7 @@ names:
   pt: chestnut-bellied imperial-pigeon
   ru: Каштановобрюхий плодовый голубь
   ja: ソロモンミカドバト
-  zh: Chestnut-bellied Imperial Pigeon
+  zh: ''
   nl: Brenchleymuskaatduif
   pl: muszkatela kasztanowobrzucha
   tr: Kestane Karınlı Has Güvercin

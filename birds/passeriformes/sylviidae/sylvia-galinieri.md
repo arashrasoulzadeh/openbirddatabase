@@ -12,7 +12,7 @@ names:
   es: Charlatán Abisinio
   fr: Fauvette de Galinier
   de: Roststeiß-Grasmücke
-  pt: abyssinian catbird
+  pt: ''
   ru: Серая абиссиния
   ja: ネコチメドリ
   zh: 猫鹛

@@ -12,7 +12,7 @@ names:
   es: Colibrí Gigante
   fr: Colibri géant
   de: Riesenkolibri
-  pt: giant hummingbird
+  pt: ''
   ru: Исполинский колибри
   ja: オオハチドリ
   zh: 巨蜂鳥

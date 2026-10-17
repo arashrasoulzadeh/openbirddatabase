@@ -15,7 +15,7 @@ names:
   pt: tipio
   ru: Короткоклювый зерноед
   ja: セスジキンノジコ
-  zh: Grassland Yellow Finch
+  zh: ''
   nl: Graslandsaffraangors
   pl: szafranka skromna
   tr: Çayır Kanarya İspinozu

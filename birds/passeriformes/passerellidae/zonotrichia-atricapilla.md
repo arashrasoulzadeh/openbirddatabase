@@ -12,7 +12,7 @@ names:
   es: Chingolo Coronidorado
   fr: Bruant à couronne dorée
   de: Kronenammer
-  pt: golden-crowned sparrow
+  pt: ''
   ru: Чернобровая овсянка
   ja: キガシラシトド
   zh: 金冠带鹀

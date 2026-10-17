@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24932.0
 names:
   scientific: Phylloscopus plumbeitarsus
-  fa: nan
+  fa: ''
   en: Two-barred Warbler
   es: Mosquitero Patigrís
   fr: Pouillot à deux barres

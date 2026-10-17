@@ -12,7 +12,7 @@ names:
   es: Monarca Chico
   fr: Monarque menu
   de: Teebaummonarch
-  pt: paperbark flycatcher
+  pt: ''
   ru: Вертлявая миагра
   ja: ヒメフタイロヒタキ
   zh: 小嬉戏阔嘴鹟

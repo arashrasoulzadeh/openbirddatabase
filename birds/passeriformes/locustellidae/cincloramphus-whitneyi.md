@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23894.0
 names:
   scientific: Cincloramphus whitneyi
-  fa: nan
+  fa: ''
   en: Santo Thicketbird
   es: Yerbera de Espíritu Santo
   fr: Mégalure de Whitney
   de: Santobuschsänger
-  pt: santo thicketbird
+  pt: ''
   ru: Одноцветная новобританская славка
   nl: Vanuatuzanger
   pl: krzakowik melanezyjski

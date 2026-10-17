@@ -15,7 +15,7 @@ names:
   pt: gray-headed robin
   ru: Серолобая дриада
   ja: ハイガシラヤブヒタキ
-  zh: Grey-headed Robin
+  zh: ''
   nl: Grijskopstruikvliegenvanger
   pl: gwizdacz szarołbisty
   tr: Gri Başlı Bülbül

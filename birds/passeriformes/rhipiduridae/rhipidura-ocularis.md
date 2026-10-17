@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 20373.0
 names:
   scientific: Rhipidura ocularis
-  fa: nan
+  fa: ''
   en: Guadalcanal Fantail
   es: Abanico de Guadalcanal
   fr: Rhipidure de Guadalcanal
   de: Guadalcanal-Fächerschwanz
-  pt: guadalcanal fantail
+  pt: ''
   nl: Guadalcanalwaaierstaart
   pl: wachlarzówka białoplama
   tr: Guadalkanal Kahverengi Katmerkuyruğu

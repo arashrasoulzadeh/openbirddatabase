@@ -15,7 +15,7 @@ names:
   pt: zombeteiro-de-bico-vermelho
   ru: Пестрохвостый древесный удод
   ja: ミドリモリヤツガシラ
-  zh: Green Wood Hoopoe
+  zh: ''
   nl: Groene kakelaar
   pl: sierpodudek purpurowy
   tr: Yeşil Ağaç İbibiği

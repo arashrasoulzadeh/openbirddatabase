@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24620.0
 names:
   scientific: Microtarsus melanocephalos
-  fa: nan
+  fa: ''
   en: Black-headed Bulbul
   es: Bulbul Cabecinegro
   fr: Bulbul cap-noir
   de: Schwarzkopfbülbül
-  pt: black-headed bulbul
+  pt: ''
   ru: Черноголовый бюльбюль
   ja: ズグロヒヨドリ
   zh: 黑头鹎

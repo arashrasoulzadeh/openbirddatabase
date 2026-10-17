@@ -12,7 +12,7 @@ names:
   es: Arrendajo de Lidth
   fr: Geai de Lidth
   de: Prachthäher
-  pt: lidth's jay
+  pt: ''
   ru: Украшенная сойка
   ja: ルリカケス
   zh: 琉球松鴉

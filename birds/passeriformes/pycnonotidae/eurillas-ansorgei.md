@@ -12,7 +12,7 @@ names:
   es: Bulbul de Ansorge
   fr: Bulbul d'Ansorge
   de: Ansorgebülbül
-  pt: ansorge's greenbul
+  pt: ''
   ru: Зелёный бюльбюль
   ja: チャイロアオヒヨ
   nl: Ansorgebuulbuul

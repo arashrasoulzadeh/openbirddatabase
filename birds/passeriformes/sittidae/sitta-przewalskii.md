@@ -12,7 +12,7 @@ names:
   es: Trepador de Przewalski
   fr: Sittelle de Przewalski
   de: Przewalskikleiber
-  pt: przevalski's nuthatch
+  pt: ''
   ru: Поползень Пржевальского
   ja: セイカイゴジュウカラ
   zh: 白脸䴓

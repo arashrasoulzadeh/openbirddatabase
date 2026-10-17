@@ -12,7 +12,7 @@ names:
   es: Estrilda Capirotada
   fr: Astrild à tête noire
   de: Kappenastrild
-  pt: black-headed waxbill
+  pt: ''
   ru: Черношапочный астрильд
   ja: ズグロカエデチョウ
   zh: 黑头梅花雀

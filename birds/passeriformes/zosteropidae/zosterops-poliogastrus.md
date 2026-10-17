@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25678.0
 names:
   scientific: Zosterops poliogastrus
-  fa: nan
+  fa: ''
   en: Ethiopian White-eye
   es: Anteojitos Serrano Etíope
   fr: Zostérops alticole
   de: Bergbrillenvogel
-  pt: ethiopian white-eye
+  pt: ''
   ru: Желтобрюхая белоглазка
   ja: アフリカヤマメジロ
   zh: 環繡眼

@@ -15,7 +15,7 @@ names:
   pt: tecelão-de-máscara-setentrional
   ru: Красноглазый ткач
   ja: メンガタハタオリ
-  zh: Southern Masked Weaver
+  zh: ''
   nl: Maskerwever
   pl: wikłacz maskowy
   tr: Güneyli Maskeli Dokumacı

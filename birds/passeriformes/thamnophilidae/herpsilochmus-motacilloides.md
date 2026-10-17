@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 13793.0
 names:
   scientific: Herpsilochmus motacilloides
-  fa: nan
+  fa: ''
   en: Creamy-bellied Antwren
   es: Tiluchí Motaciloide
   fr: Grisin motacilloïde
   de: Fahlbauch-Ameisenfänger
-  pt: creamy-bellied antwren
+  pt: ''
   ru: Трясогузковый эсперито
   ja: キバラマユアリサザイ
   zh: 白腹蚁鹩

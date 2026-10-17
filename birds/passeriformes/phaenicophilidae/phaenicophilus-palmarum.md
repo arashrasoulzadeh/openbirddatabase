@@ -12,10 +12,10 @@ names:
   es: Cuatroojos Coroninegro
   fr: Katje à couronne noire
   de: Schwarzscheitel-Palmtangare
-  pt: black-crowned palm-tanager
+  pt: ''
   ru: Черношапочная пальмагра
   ja: ズグロヤシフウキンチョウ
-  zh: Black-crowned Palm-tanager
+  zh: ''
   nl: Zwartkruinpalmtangare
   pl: hispaniolczyk czarnołbisty
   tr: Dört Gözlü Palmiye Tangarası

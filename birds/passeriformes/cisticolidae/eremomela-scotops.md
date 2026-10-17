@@ -12,7 +12,7 @@ names:
   es: Eremomela Coroniverde
   fr: Érémomèle à calotte verte
   de: Grünkappeneremomela
-  pt: green-capped eremomela
+  pt: ''
   ru: Зелёношапочная желтобрюшка
   ja: ミドリボウシヒメムシクイ
   nl: Groenkoperemomela

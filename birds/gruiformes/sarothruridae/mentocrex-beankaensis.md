@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 5219.0
 names:
   scientific: Mentocrex beankaensis
-  fa: nan
+  fa: ''
   en: Tsingy Forest Rail
   es: Rascón del Tsingy
   fr: Râle des tsingy
   de: Tsingyralle
-  pt: tsingy forest rail
+  pt: ''
   ru: Цингийская лесная курочка
   ja: ツィンギクイナ
   nl: Tsingyral

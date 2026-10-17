@@ -12,7 +12,7 @@ names:
   es: Bisbita Rayado
   fr: Pipit de Sundevall
   de: Streifenpieper
-  pt: striped pipit
+  pt: ''
   ru: Полосатый конёк
   ja: スジハラタヒバリ
   nl: Gestreepte pieper

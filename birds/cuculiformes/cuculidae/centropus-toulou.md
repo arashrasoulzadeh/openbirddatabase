@@ -12,7 +12,7 @@ names:
   es: Cucal Malgache
   fr: Coucal toulou
   de: Tulukuckuck
-  pt: malagasy coucal
+  pt: ''
   ru: Мадагаскарский кукаль
   ja: アフリカバンケン
   nl: Toeloespoorkoekoek

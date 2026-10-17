@@ -12,7 +12,7 @@ names:
   es: Toco Damara
   fr: Calao de Namibie
   de: Damaratoko
-  pt: damara red-billed hornbill
+  pt: ''
   ru: Дамарский токо
   ja: ダマラアカハシコサイチョウ
   nl: Damaratok

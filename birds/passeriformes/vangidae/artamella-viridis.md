@@ -12,7 +12,7 @@ names:
   es: Vanga Cabeciblanco
   fr: Artamelle à tête blanche
   de: Weißkopfvanga
-  pt: white-headed vanga
+  pt: ''
   ru: Белоголовая ванга
   ja: シロガシラオオハシモズ
   nl: Witkopvanga

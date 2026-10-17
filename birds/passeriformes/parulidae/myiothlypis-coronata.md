@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34334.0
 names:
   scientific: Myiothlypis coronata
-  fa: nan
+  fa: ''
   en: Russet-crowned Warbler
   es: Reinita Coronirroja
   fr: Paruline à diadème
   de: Goldscheitel-Waldsänger
-  pt: russet-crowned warbler
+  pt: ''
   ru: Корольковый певун
   ja: アカイタダキアメリカムシクイ
   nl: Goudkruinzanger

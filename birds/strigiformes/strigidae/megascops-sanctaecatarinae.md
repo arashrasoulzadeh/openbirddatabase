@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8849.0
 names:
   scientific: Megascops sanctaecatarinae
-  fa: nan
+  fa: ''
   en: Long-tufted Screech Owl
   es: Autillo de Santa Catarina
   fr: Petit-duc à aigrettes longues
@@ -15,7 +15,7 @@ names:
   pt: corujinha-do-sul
   ru: Длинноухая совка
   ja: ミミナガオオコノハズク
-  zh: Long-tufted Screech Owl
+  zh: ''
   nl: Langoorschreeuwuil
   pl: syczoń długodzioby
   tr: Uzun Kulaklı Puhucuk

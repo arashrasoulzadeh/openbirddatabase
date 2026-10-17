@@ -12,7 +12,7 @@ names:
   es: Churrín Aliblanco
   fr: Mérulaxe de Krabbe
   de: Weißflügeltapaculo
-  pt: white-winged tapaculo
+  pt: ''
   ru: Белокрылый тапакуло
   nl: Witvleugeltapaculo
   pl: krytonosek białoskrzydły

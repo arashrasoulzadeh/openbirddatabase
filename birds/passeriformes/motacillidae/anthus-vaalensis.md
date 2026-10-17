@@ -12,7 +12,7 @@ names:
   es: Bisbita del Vaal
   fr: Pipit du Vaal
   de: Vaalpieper
-  pt: buffy pipit
+  pt: ''
   ru: Песочный конёк
   ja: スジナシタヒバリ
   nl: Vaalrivierpieper

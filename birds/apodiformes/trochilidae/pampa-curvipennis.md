@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4926.0
 names:
   scientific: Pampa curvipennis
-  fa: nan
+  fa: ''
   en: Wedge-tailed Sabrewing
   es: Colibrí Ruiseñor
   fr: Campyloptère pampa
   de: Blaukron-Degenflügel
-  pt: wedge-tailed sabrewing
+  pt: ''
   ru: Соловьиный саблекрыл
   ja: クサビオケンバネハチドリ
   nl: Wigstaartsabelvleugel

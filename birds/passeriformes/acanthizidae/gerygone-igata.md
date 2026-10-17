@@ -15,7 +15,7 @@ names:
   pt: gray gerygone
   ru: Новозеландская геригона
   ja: ニュージーランドセンニョムシクイ
-  zh: Grey Gerygone
+  zh: ''
   nl: Maorimangrovezanger
   pl: krzakówka popielata
   tr: Gri Gerigon

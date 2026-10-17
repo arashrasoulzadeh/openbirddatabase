@@ -12,7 +12,7 @@ names:
   es: Ermitaño Ventrihabano
   fr: Ermite à ventre fauve
   de: Orangebauch-Schattenkolibri
-  pt: tawny-bellied hermit
+  pt: ''
   ru: Ржавчатый колибри-отшельник
   ja: キバラユミハチドリ
   zh: 茶腹隐蜂鸟

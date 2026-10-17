@@ -12,7 +12,7 @@ names:
   es: Polluela Australiana
   fr: Marouette d'Australie
   de: Flusssumpfhuhn
-  pt: australian crake
+  pt: ''
   ru: Австралийский погоныш
   ja: ミナミヒメクイナ
   zh: 斑田鸡

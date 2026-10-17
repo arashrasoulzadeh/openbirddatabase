@@ -15,7 +15,7 @@ names:
   pt: barking imperial-pigeon
   ru: Фиджийский плодовый голубь
   ja: フィジーミカドバト
-  zh: Barking Imperial Pigeon
+  zh: ''
   nl: Pealemuskaatduif
   pl: muszkatela płowa
   tr: Peale Has Güvercini

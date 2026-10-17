@@ -12,7 +12,7 @@ names:
   es: Tangara Alisera
   fr: Tangara à ventre jaune
   de: Goldkappentangare
-  pt: rust-and-yellow tanager
+  pt: ''
   ru: Рыжелицая пипира
   ja: セミドリフウキンチョウ
   nl: Goudkaptangare

@@ -12,7 +12,7 @@ names:
   es: Bubú Tropical
   fr: Grand Gonolek
   de: Tropenwürger
-  pt: tropical boubou
+  pt: ''
   ru: Пегий бубу
   ja: スズゴエヤブモズ
   nl: Tropische fiskaal

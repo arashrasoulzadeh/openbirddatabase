@@ -12,7 +12,7 @@ names:
   es: Petrel de Isla Henderson
   fr: Pétrel de Henderson
   de: Hendersonsturmvogel
-  pt: henderson petrel
+  pt: ''
   ru: Хендерсонский тайфунник
   ja: ヘンダーソンミズナギドリ
   nl: Hendersonstormvogel

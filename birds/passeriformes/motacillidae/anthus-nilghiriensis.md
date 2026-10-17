@@ -12,7 +12,7 @@ names:
   es: Bisbita de Los Nilgiri
   fr: Pipit des Nilgiri
   de: Nilgiripieper
-  pt: nilgiri pipit
+  pt: ''
   ru: Нильгирийский конёк
   ja: ニルギリタヒバリ
   nl: Nilgiripieper

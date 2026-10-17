@@ -12,7 +12,7 @@ names:
   es: Perdiz Piquilarga
   fr: Perdrix à long bec
   de: Langschnabelwachtel
-  pt: long-billed partridge
+  pt: ''
   ru: Длинноклювая куропатка
   ja: ハシナガシャコ
   zh: 長嘴山鶉

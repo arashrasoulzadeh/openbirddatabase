@@ -12,7 +12,7 @@ names:
   es: Vireo Plomizo
   fr: Viréo plombé
   de: Weißstirnvireo
-  pt: plumbeous vireo
+  pt: ''
   ru: Свинцовый виреон
   ja: ハイイロフタスジモズモドキ
   nl: Loodkleurige vireo

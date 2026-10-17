@@ -12,7 +12,7 @@ names:
   es: Salangana Papú
   fr: Salangane papoue
   de: Papuasalangane
-  pt: three-toed swiftlet
+  pt: ''
   ru: Папуанская салангана
   ja: パプアカワアナツバメ
   zh: 巴布亚金丝燕

@@ -12,7 +12,7 @@ names:
   es: Paloma Perdiz Pechidorada
   fr: Gallicolombe à poitrine d'or
   de: Goldbrusttaube
-  pt: cinnamon ground dove
+  pt: ''
   ru: Желтогрудый куриный голубь
   ja: キンムネバト
   nl: Geelhartpatrijsduif

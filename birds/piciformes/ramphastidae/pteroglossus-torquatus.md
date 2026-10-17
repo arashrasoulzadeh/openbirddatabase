@@ -12,7 +12,7 @@ names:
   es: Arasarí Acollarado
   fr: Araçari à collier
   de: Halsbandarassari
-  pt: collared aracari
+  pt: ''
   ru: Ошейниковый арасари
   ja: ムナフチュウハシ
   nl: Halsbandarassari

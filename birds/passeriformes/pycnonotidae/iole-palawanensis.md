@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24494.0
 names:
   scientific: Iole palawanensis
-  fa: nan
+  fa: ''
   en: Sulphur-bellied Bulbul
   es: Bulbul de Palawan
   fr: Bulbul de Palawan
   de: Gelbaugenbülbül
-  pt: sulphur-bellied bulbul
+  pt: ''
   ru: Золотистоглазый бюльбюль
   ja: キンメヒヨドリ
   nl: Goudoogbuulbuul

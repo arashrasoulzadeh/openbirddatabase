@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18151.0
 names:
   scientific: Foulehaio carunculatus
-  fa: nan
+  fa: ''
   en: Polynesian Wattled Honeyeater
   es: Mielero Carunculado Común
   fr: Méliphage foulehaio
@@ -15,7 +15,7 @@ names:
   pt: eastern wattled-honeyeater
   ru: Серёжчатый фулехайо
   ja: ニクダレミツスイ
-  zh: Polynesian Wattled Honeyeater
+  zh: ''
   nl: Grote fijihoningeter
   pl: atolowiec koralowy
   tr: Sarı Bezeli Balkuşu

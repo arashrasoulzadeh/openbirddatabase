@@ -12,7 +12,7 @@ names:
   es: Zarzalero Pardo
   fr: Locustelle russule
   de: Hodgsonschwirl
-  pt: brown bush warbler
+  pt: ''
   ru: Бурая пестрогрудка
   ja: チャイロオウギセッカ
   zh: 棕褐短翅蝗莺

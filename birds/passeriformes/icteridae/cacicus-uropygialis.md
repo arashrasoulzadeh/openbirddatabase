@@ -12,7 +12,7 @@ names:
   es: Cacique Lomiescarlata
   fr: Cassique à dos rouge
   de: Zinnoberbürzelkassike
-  pt: scarlet-rumped cacique
+  pt: ''
   ru: Краснопоясничный кассик
   ja: ヒゴシツリスドリ
   nl: Bloedstuitbuidelspreeuw

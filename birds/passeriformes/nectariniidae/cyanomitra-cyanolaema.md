@@ -12,7 +12,7 @@ names:
   es: Suimanga Gorjiazul
   fr: Souimanga à gorge bleue
   de: Braunrücken-Nektarvogel
-  pt: blue-throated brown sunbird
+  pt: ''
   ru: Кобальтовогрудая нектарница
   ja: ルリノドタイヨウチョウ
   nl: Bruinrughoningzuiger

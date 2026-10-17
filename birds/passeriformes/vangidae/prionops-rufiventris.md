@@ -12,7 +12,7 @@ names:
   es: Prionopo Ventrirrojo
   fr: Bagadais à ventre roux
   de: Gabunbrillenvanga
-  pt: rufous-bellied helmetshrike
+  pt: ''
   ru: Рыжебрюхий шлемоголов
   ja: アカハラメガネモズ
   nl: Roestbuikklauwier

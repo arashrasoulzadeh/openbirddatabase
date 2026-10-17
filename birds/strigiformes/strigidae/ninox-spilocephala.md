@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 9371.0
 names:
   scientific: Ninox spilocephala
-  fa: nan
+  fa: ''
   en: Mindanao Boobook
   es: Nínox de Mindanao
   fr: Ninoxe de Mindanao
   de: Mindanaokauz
-  pt: mindanao boobook
+  pt: ''
   ru: Минданаоская иглоногая сова
   ja: ミンダナオアオバズク
   nl: Mindanaovalkuil

@@ -12,7 +12,7 @@ names:
   es: Sedosito Grande
   fr: Séricorne montagnard
   de: Bergsericornis
-  pt: large scrubwren
+  pt: ''
   ru: Большая кустовка
   ja: ミヤマヤブムシクイ
   nl: Grote struiksluiper

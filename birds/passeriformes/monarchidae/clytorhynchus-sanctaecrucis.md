@@ -12,7 +12,7 @@ names:
   es: Monarca de las Santa Cruz
   fr: Monarque des Santa Cruz
   de: Nendömonarch
-  pt: santa cruz shrikebill
+  pt: ''
   ru: Сантакрусский олевао
   ja: サンタクルス島オオハシヒタキ
   nl: Nendoklauwiermonarch

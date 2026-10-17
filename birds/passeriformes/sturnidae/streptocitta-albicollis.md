@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 27788.0
 names:
   scientific: Streptocitta albicollis
-  fa: nan
+  fa: ''
   en: White-necked Myna
   es: Miná Cuelliblanco
   fr: Streptocitte à cou blanc
   de: Weißhalsatzel
-  pt: white-necked myna
+  pt: ''
   ru: Белошейный лемба
   ja: カササギムクドリ
   nl: Witnekmaina

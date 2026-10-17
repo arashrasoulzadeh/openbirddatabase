@@ -12,7 +12,7 @@ names:
   es: Orejero Coronigrís
   fr: Pipromorphe à tête grise
   de: Schieferkappen-Laubtyrann
-  pt: slaty-capped flycatcher
+  pt: ''
   ru: Пепельноголовый ореджеро
   ja: ハシボソハエトリ
   nl: Grijskruinoortiran

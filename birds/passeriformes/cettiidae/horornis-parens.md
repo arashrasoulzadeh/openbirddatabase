@@ -15,7 +15,7 @@ names:
   pt: shade warbler
   ru: Макирская широкохвостка
   ja: サンクリストバルウグイス
-  zh: Shade Bush Warbler
+  zh: ''
   nl: Makirastruikzanger
   pl: wierzbownik melanezyjski
   tr: Makira Çalıbülbülü

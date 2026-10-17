@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12899.0
 names:
   scientific: Amazona festiva
-  fa: nan
+  fa: ''
   en: Festive Amazon
   es: Amazona Festiva
   fr: Amazone tavoua

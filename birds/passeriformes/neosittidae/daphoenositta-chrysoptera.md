@@ -12,7 +12,7 @@ names:
   es: Neosita Variable
   fr: Néositte variée
   de: Spiegelkleiber
-  pt: varied sittella
+  pt: ''
   ru: Изменчивая сителла
   ja: オーストラリアゴジュウカラ
   zh: 雜色澳鳾

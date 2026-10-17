@@ -12,7 +12,7 @@ names:
   es: Viuda Senegalesa
   fr: Combassou du Sénégal
   de: Rotfußwitwe
-  pt: village indigobird
+  pt: ''
   ru: Красноногая вдовушка
   ja: シコンチョウ
   zh: 靛蓝维达雀

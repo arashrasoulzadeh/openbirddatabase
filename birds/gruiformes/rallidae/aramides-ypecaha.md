@@ -15,7 +15,7 @@ names:
   pt: saracuruçu
   ru: Гигантский саракура
   ja: オオモリクイナ
-  zh: Giant Wood Rail
+  zh: ''
   nl: Reuzenbosral
   pl: chruścielak wielki
   tr: Büyük Orman Kılavuzu

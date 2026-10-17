@@ -12,7 +12,7 @@ names:
   es: Amaranta Carinegra
   fr: Amarante masqué
   de: Larvenamarant
-  pt: black-faced firefinch
+  pt: ''
   ru: Масковый амарант
   ja: クロガオコウギョクチョウ
   zh: 黑脸火雀

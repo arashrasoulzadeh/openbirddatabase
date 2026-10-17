@@ -15,7 +15,7 @@ names:
   pt: white-bellied pygmy-tyrant
   ru: Белобрюхая аруна
   ja: ペルーコビトタイランチョウ
-  zh: White-bellied Pygmy Tyrant
+  zh: ''
   nl: Witborstdwergtiran
   pl: tyraneczek białobrzuchy
   tr: Ak Karınlı Küçük Tiran

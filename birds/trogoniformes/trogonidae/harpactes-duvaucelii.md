@@ -12,7 +12,7 @@ names:
   es: Trogón Culirrojo
   fr: Trogon de Duvaucel
   de: Rotbürzeltrogon
-  pt: scarlet-rumped trogon
+  pt: ''
   ru: Красногузый трогон
   ja: コシアカキヌバネドリ
   zh: 紅臀咬鵑

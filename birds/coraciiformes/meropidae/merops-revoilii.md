@@ -12,7 +12,7 @@ names:
   es: Abejaruco Somalí
   fr: Guêpier de Révoil
   de: Somalispint
-  pt: somali bee-eater
+  pt: ''
   ru: Сомалийская щурка
   ja: ソマリーハチクイ
   nl: Somalische bijeneter

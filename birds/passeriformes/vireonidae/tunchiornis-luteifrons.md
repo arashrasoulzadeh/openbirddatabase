@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 19130.0
 names:
   scientific: Tunchiornis luteifrons
-  fa: nan
+  fa: ''
   en: Guianan Greenlet
   es: Verdillo Coroniverde
   fr: Viréon à calotte olive

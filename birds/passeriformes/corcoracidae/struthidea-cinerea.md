@@ -12,7 +12,7 @@ names:
   es: Corvino Apóstol
   fr: Apôtre gris
   de: Aposteltöpferkrähe
-  pt: apostlebird
+  pt: ''
   ru: Птица-апостол
   ja: ハイイロツチスドリ
   zh: 灰鴕鷚

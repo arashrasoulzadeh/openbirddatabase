@@ -12,7 +12,7 @@ names:
   es: Yuhina Birmana
   fr: Yuhina de Birmanie
   de: Graunackenyuhina
-  pt: burmese yuhina
+  pt: ''
   ru: Бирманская юхина
   ja: ビルマカンムリチメドリ
   nl: Birmese meestimalia

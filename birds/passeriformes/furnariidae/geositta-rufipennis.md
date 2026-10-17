@@ -12,7 +12,7 @@ names:
   es: Minero Rojizo
   fr: Géositte à ailes rousses
   de: Rotschwanz-Erdhacker
-  pt: rufous-banded miner
+  pt: ''
   ru: Краснохвостый землекоп
   ja: アカバネジカマドドリ
   nl: Roodbandholengraver

@@ -12,7 +12,7 @@ names:
   es: Monarca Barbinegro
   fr: Monarque à menton noir
   de: Sundamonarch
-  pt: banda sea monarch
+  pt: ''
   ru: Танимбарский монарх
   ja: タニンバルカササギビタキ
   nl: Zwartkinmonarch

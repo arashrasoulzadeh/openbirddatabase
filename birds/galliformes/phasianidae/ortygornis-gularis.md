@@ -12,7 +12,7 @@ names:
   es: Francolín Palustre
   fr: Francolin multiraie
   de: Sumpffrankolin
-  pt: swamp francolin
+  pt: ''
   ru: Болотный турач
   ja: ヌマシャコ
   zh: 沼泽鹧鸪

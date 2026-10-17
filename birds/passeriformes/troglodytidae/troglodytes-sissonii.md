@@ -12,7 +12,7 @@ names:
   es: Chochín de Isla Socorro
   fr: Troglodyte de Socorro
   de: Socorrozaunkönig
-  pt: socorro wren
+  pt: ''
   ru: Сокоррский крапивник
   ja: ソコロシロハラミソサザイ
   zh: 索科洛葦鷦鷯

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16229.0
 names:
   scientific: Mionectes roraimae
-  fa: nan
+  fa: ''
   en: Sierra de Lema Flycatcher
   es: Mosquero de Sierra de Lema
   fr: Pipromorphe des tépuis

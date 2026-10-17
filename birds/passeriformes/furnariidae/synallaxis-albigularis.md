@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15613.0
 names:
   scientific: Synallaxis albigularis
-  fa: nan
+  fa: ''
   en: Dark-breasted Spinetail
   es: Pijuí Pechioscuro
   fr: Synallaxe à gorge blanche

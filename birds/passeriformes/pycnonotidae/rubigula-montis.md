@@ -12,7 +12,7 @@ names:
   es: Bulbul de Borneo
   fr: Bulbul de Bornéo
   de: Borneobülbül
-  pt: bornean bulbul
+  pt: ''
   ru: Златогрудый бюльбюль
   ja: ボルネオヒヨドリ
   zh: 婆罗洲鹎

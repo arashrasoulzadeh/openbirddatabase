@@ -12,7 +12,7 @@ names:
   es: Solitario Gorjirrufo
   fr: Solitaire siffleur
   de: Bartklarino
-  pt: rufous-throated solitaire
+  pt: ''
   ru: Красногорлый кларино
   ja: アカノドヒトリツグミ
   nl: Roodkeelsolitaire

@@ -12,7 +12,7 @@ names:
   es: Buco Barbón
   fr: Tamatia de Lafresnaye
   de: Weißzügel-Faulvogel
-  pt: white-whiskered puffbird
+  pt: ''
   ru: Белоусая пуховка
   ja: コシラヒゲオオガシラ
   nl: Witsnorbaardkoekoek

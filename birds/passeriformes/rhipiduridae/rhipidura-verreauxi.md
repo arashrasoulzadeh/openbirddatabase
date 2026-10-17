@@ -12,7 +12,7 @@ names:
   es: Abanico Moteado de Nueva Caledonia
   fr: Rhipidure tacheté
   de: Neukaledonien-Fleckenfächerschwanz
-  pt: new caledonian streaked fantail
+  pt: ''
   ru: Пятнистая веерохвостка
   ja: タテフオウギビタキ
   nl: Nieuw-Caledonische waaierstaart

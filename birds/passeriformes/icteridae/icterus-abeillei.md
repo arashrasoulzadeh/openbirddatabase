@@ -12,7 +12,7 @@ names:
   es: Turpial Dorsinegro
   fr: Oriole d'Abeillé
   de: Schwarzmanteltrupial
-  pt: black-backed oriole
+  pt: ''
   ru: Мексиканский трупиал
   ja: メキシコムクドリモドキ
   nl: Zwartstuittroepiaal

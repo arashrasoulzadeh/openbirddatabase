@@ -12,7 +12,7 @@ names:
   es: Pergolero de Macgregor
   fr: Jardinier de MacGregor
   de: Goldhauben-Laubenvogel
-  pt: macgregor's bowerbird
+  pt: ''
   ru: Золотохохлый садовник
   ja: カンムリニワシドリ
   zh: 冠园丁鸟

@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 28903.0
 names:
   scientific: Fraseria lendu
-  fa: nan
+  fa: ''
   en: Chapin's Flycatcher
   es: Papamoscas de Chapin
   fr: Gobemouche de Chapin
   de: Lenduschnäpper
-  pt: chapin's flycatcher
+  pt: ''
   ru: Лендуйская мухоловка
   ja: コンゴサメビタキ
   nl: Chapinvliegenvanger

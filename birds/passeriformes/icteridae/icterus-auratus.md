@@ -12,7 +12,7 @@ names:
   es: Turpial Yucateco
   fr: Oriole orange
   de: Goldtrupial
-  pt: orange oriole
+  pt: ''
   ru: Золотистый трупиал
   ja: コオレンジムクドリモドキ
   nl: Yucatantroepiaal

@@ -12,7 +12,7 @@ names:
   es: Suimanga Violeta
   fr: Souimanga violet
   de: Violettmantel-Nektarvogel
-  pt: western violet-backed sunbird
+  pt: ''
   ru: Фиолетовоспинная нектарница
   ja: スミレコバシタイヨウチョウ
   zh: 西紫背食蜜鳥

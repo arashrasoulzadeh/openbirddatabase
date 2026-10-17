@@ -12,7 +12,7 @@ names:
   es: Paloma Rabuda de Nueva Bretaña
   fr: Phasianelle de Brown
   de: Bismarcktaube
-  pt: pied cuckoo-dove
+  pt: ''
   ru: Пегая длиннохвостая горлица
   ja: ニューブリテンマイヒメバト
   nl: Bismarcklangstaartduif

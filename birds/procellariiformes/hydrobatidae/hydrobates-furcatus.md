@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7049.0
 names:
   scientific: Hydrobates furcatus
-  fa: nan
+  fa: ''
   en: Fork-tailed Storm Petrel
   es: Paíño Rabihorcado
   fr: Océanite à queue fourchue
@@ -15,7 +15,7 @@ names:
   pt: fork-tailed storm-petrel
   ru: Сизая качурка
   ja: ハイイロウミツバメ
-  zh: Fork-tailed Storm Petrel
+  zh: ''
   nl: Parelgrijs stormvogeltje
   pl: nawałnik popielaty
   tr: Akça Fırtınakırlangıcı

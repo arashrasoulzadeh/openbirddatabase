@@ -12,7 +12,7 @@ names:
   es: Rascón de Bogotá
   fr: Râle de Bogota
   de: Bogotáralle
-  pt: bogota rail
+  pt: ''
   ru: Боготский пастушок
   ja: ナンベイクイナ
   zh: 波哥大秧雞

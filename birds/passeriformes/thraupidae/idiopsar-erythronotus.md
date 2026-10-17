@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35371.0
 names:
   scientific: Idiopsar erythronotus
-  fa: nan
+  fa: ''
   en: White-throated Sierra Finch
   es: Yal Gorjiblanco
   fr: Idiopsar bicolore
   de: Weißkehl-Ammertangare
-  pt: white-throated sierra finch
+  pt: ''
   ru: Белогорлая диука
   ja: ノドジロヤマシトド
   nl: Witkeelsierragors

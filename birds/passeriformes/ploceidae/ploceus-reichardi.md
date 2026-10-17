@@ -15,7 +15,7 @@ names:
   pt: tanganyika masked-weaver
   ru: Танганьикский ткач
   ja: タンザニアメンガタハタオリ
-  zh: Tanzanian Masked Weaver
+  zh: ''
   nl: Reichardwever
   pl: wikłacz tanzański
   tr: Reichard Dokumacısı

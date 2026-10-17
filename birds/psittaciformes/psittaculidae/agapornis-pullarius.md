@@ -12,7 +12,7 @@ names:
   es: Inseparable Carirrojo
   fr: Inséparable à tête rouge
   de: Orangeköpfchen
-  pt: red-headed lovebird
+  pt: ''
   ru: Краснолицый неразлучник
   ja: コハナインコ
   zh: 紅面情侶鸚鵡

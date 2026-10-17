@@ -12,7 +12,7 @@ names:
   es: Acantiza Piloto
   fr: Pycnoptile compagnon
   de: Rötelkehlhuscher
-  pt: pilotbird
+  pt: ''
   ru: Птица-попутчик
   ja: アンナイドリ
   nl: Loodsvogel

@@ -12,7 +12,7 @@ names:
   es: Cistícola Borana
   fr: Cisticole des Borans
   de: Boranzistensänger
-  pt: boran cisticola
+  pt: ''
   ru: Боранская цистикола
   ja: エチオピアセッカ
   nl: Borangraszanger

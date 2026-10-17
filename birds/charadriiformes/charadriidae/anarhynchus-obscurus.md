@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5925.0
 names:
   scientific: Anarhynchus obscurus
-  fa: nan
+  fa: ''
   en: New Zealand Plover
   es: Chorlito Maorí
   fr: Pluvier roux
@@ -15,7 +15,7 @@ names:
   pt: red-breasted dotterel
   ru: Маорийский зуёк
   ja: ニュージーランドチドリ
-  zh: New Zealand Plover
+  zh: ''
   nl: Rosse plevier
   pl: sieweczka nowozelandzka
   tr: Yeni Zelanda Cılıbıtı

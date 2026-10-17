@@ -12,7 +12,7 @@ names:
   es: Cernícalo Zorruno
   fr: Crécerelle renard
   de: Fuchsfalke
-  pt: fox kestrel
+  pt: ''
   ru: Лисья пустельга
   ja: キツネチョウゲンボウ
   nl: Vosvalk

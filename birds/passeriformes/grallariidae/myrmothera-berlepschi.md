@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14312.0
 names:
   scientific: Myrmothera berlepschi
-  fa: nan
+  fa: ''
   en: Amazonian Antpitta
   es: Tororoí Amazónico
   fr: Grallaire d'Amazonie

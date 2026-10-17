@@ -12,7 +12,7 @@ names:
   es: Maluro Negro
   fr: Amytis noir
   de: Schwarzkehl-Grasschlüpfer
-  pt: black grasswren
+  pt: ''
   ru: Чернобрюхий амитис
   ja: クロセスジムシクイ
   nl: Zwarte grassluiper

@@ -12,10 +12,10 @@ names:
   es: Anteojitos Enmascarado
   fr: Zostérops de Goodfellow
   de: Gnomenbrillenvogel
-  pt: mindanao heleia
+  pt: ''
   ru: Филиппинская элейя
   ja: ホオグロメジロ
-  zh: Mindanao White-eye
+  zh: ''
   nl: Mindanaobergbrilvogel
   pl: okularowiec maskowy
   tr: Mindanao Gözlükçüsü

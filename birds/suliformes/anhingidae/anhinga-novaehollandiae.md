@@ -12,7 +12,7 @@ names:
   es: Anhinga Australiana
   fr: Anhinga d'Australie
   de: Austral-Schlangenhalsvogel
-  pt: australasian darter
+  pt: ''
   ru: Австралийская змеешейка
   ja: オーストラリアヘビウ
   zh: 大洋洲蛇鹈

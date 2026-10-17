@@ -12,7 +12,7 @@ names:
   es: Petrel Aliblanco
   fr: Pétrel de Gould
   de: Weißflügel-Sturmvogel
-  pt: gould's petrel
+  pt: ''
   ru: Белокрылый тайфунник
   ja: ミナミシロハラミズナギドリ
   nl: Gouldstormvogel

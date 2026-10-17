@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10787.0
 names:
   scientific: Capito maculicoronatus
-  fa: nan
+  fa: ''
   en: Spot-crowned Barbet
   es: Cabezón Pechiblanco
   fr: Cabézon à calotte tachetée
   de: Tropfenbartvogel
-  pt: spot-crowned barbet
+  pt: ''
   ru: Желтогрудая бородатка
   ja: シボリズキンゴシキドリ
   nl: Roodflankbaardvogel

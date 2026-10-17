@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29584.0
 names:
   scientific: Ficedula timorensis
-  fa: nan
+  fa: ''
   en: Black-banded Flycatcher
   es: Papamoscas de Timor
   fr: Gobemouche de Timor

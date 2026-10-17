@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3424.0
 names:
   scientific: Hierococcyx pectoralis
-  fa: nan
+  fa: ''
   en: Philippine Hawk-Cuckoo
   es: Cuco Filipino
   fr: Coucou des Philippines
   de: Philippinenkuckuck
-  pt: philippine hawk-cuckoo
+  pt: ''
   ru: Филиппинская кукушка
   ja: フィリピンジュウイチ
   nl: Filipijnse sperwerkoekoek

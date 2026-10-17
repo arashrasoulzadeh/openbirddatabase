@@ -12,7 +12,7 @@ names:
   es: Bisbita Dorado
   fr: Pipit doré
   de: Goldpieper
-  pt: golden pipit
+  pt: ''
   ru: Золотистый шпорник
   ja: マキバドリモドキ
   zh: 金鹨属

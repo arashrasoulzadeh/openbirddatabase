@@ -12,7 +12,7 @@ names:
   es: Egotelo Afín
   fr: Égothèle affin
   de: Arfakhöhlenschwalm
-  pt: vogelkop owlet-nightjar
+  pt: ''
   ru: Арфакский совиный козодой
   ja: ドベライズクヨタカ
   nl: Vogelkopdwergnachtzwaluw

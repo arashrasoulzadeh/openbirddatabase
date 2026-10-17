@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15184.0
 names:
   scientific: Syndactyla roraimae
-  fa: nan
+  fa: ''
   en: Tepui Foliage-gleaner
   es: Ticotico Gorjiblanco
   fr: Anabate à gorge blanche
@@ -15,7 +15,7 @@ names:
   pt: barranqueiro-de-roraima
   ru: Рораймский сростнопал
   ja: ノドジロカマドドリ
-  zh: Tepui Foliage-gleaner
+  zh: ''
   nl: Witkeelbladspeurder
   pl: liściowiec maskowy
   tr: Tepui Yaprakkarıştıranı

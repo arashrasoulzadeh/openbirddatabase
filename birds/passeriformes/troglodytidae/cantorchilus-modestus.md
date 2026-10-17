@@ -12,7 +12,7 @@ names:
   es: Cucarachero Modesto
   fr: Troglodyte modeste
   de: Cabaniszaunkönig
-  pt: cabanis's wren
+  pt: ''
   ru: Буланый крапивник
   ja: ムジミソサザイ
   nl: Vale winterkoning

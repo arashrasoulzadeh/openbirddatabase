@@ -12,7 +12,7 @@ names:
   es: Trogón Citrino
   fr: Trogon citrin
   de: Graukopftrogon
-  pt: citreoline trogon
+  pt: ''
   ru: Желтоглазый трогон
   ja: ウスハグロキヌバネドリ
   nl: Grijskoptrogon

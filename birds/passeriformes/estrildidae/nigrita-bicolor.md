@@ -12,7 +12,7 @@ names:
   es: Negrita Pechirrufa
   fr: Nigrette à ventre roux
   de: Zweifarbenschwärzling
-  pt: chestnut-breasted nigrita
+  pt: ''
   ru: Двухцветная нигрита
   ja: チャバラクロキンパラ
   zh: 栗胸黑雀

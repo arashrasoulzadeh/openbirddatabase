@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18257.0
 names:
   scientific: Hylacola cauta
-  fa: nan
+  fa: ''
   en: Shy Heathwren
   es: Sedosito Tímido
   fr: Séricorne timide
   de: Sandhuscher
-  pt: shy heathwren
+  pt: ''
   ru: Скрытный ложнокрапивник
   ja: オグロアレチムシクイ
   nl: Malleeheidesluiper

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28796.0
 names:
   scientific: Muscicapa segregata
-  fa: nan
+  fa: ''
   en: Sumba Brown Flycatcher
   es: Papamoscas de Sumba Claro
   fr: Gobemouche de Sumba
   de: Sumbaschnäpper
-  pt: sumba brown flycatcher
+  pt: ''
   ru: Сумбанская мухоловка
   ja: スンバサメビタキ
   nl: Soembavliegenvanger

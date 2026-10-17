@@ -12,7 +12,7 @@ names:
   es: Acantiza Enana
   fr: Acanthize nain
   de: Gelbbauch-Dornschnabel
-  pt: yellow thornbill
+  pt: ''
   ru: Жёлтая шипоклювка
   ja: ヒメトゲハシムシクイ
   nl: Gele doornsnavel

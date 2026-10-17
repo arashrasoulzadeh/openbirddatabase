@@ -12,7 +12,7 @@ names:
   es: Ánade Picolimón
   fr: Canard à bec jaune
   de: Gelbschnabelente
-  pt: yellow-billed duck
+  pt: ''
   ru: Желтоносая кряква
   ja: キバシガモ
   zh: 非洲黃嘴鴨

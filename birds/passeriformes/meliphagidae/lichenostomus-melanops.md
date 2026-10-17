@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17799.0
 names:
   scientific: Lichenostomus melanops
-  fa: nan
+  fa: ''
   en: Yellow-tufted Honeyeater
   es: Mielero Orejigualdo
   fr: Méliphage cornu
   de: Gelbstirn-Honigfresser
-  pt: yellow-tufted honeyeater
+  pt: ''
   ru: Желтохохлый медосос
   ja: キムネミツスイ
   nl: Geelpluimhoningeter

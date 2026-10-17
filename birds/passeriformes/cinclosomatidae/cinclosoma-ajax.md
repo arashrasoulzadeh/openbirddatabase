@@ -12,7 +12,7 @@ names:
   es: Zordala Pintada
   fr: Cinclosome ajax
   de: Ajaxflöter
-  pt: painted quail-thrush
+  pt: ''
   ru: Желтоглазый флейтист
   ja: パプアウズラチメドリ
   nl: Nieuw-Guinese kwartellijster

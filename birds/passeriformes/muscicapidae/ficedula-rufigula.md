@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29576.0
 names:
   scientific: Ficedula rufigula
-  fa: nan
+  fa: ''
   en: Rufous-throated Flycatcher
   es: Papamoscas Gorjirrufo
   fr: Gobemouche à gorge rousse
   de: Celebesschnäpper
-  pt: rufous-throated flycatcher
+  pt: ''
   ru: Рыжегорлая мухоловка
   ja: セレベスヒタキ
   nl: Roodkeelvliegenvanger

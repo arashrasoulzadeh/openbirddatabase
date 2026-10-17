@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26709.0
 names:
   scientific: Garrulax merulinus
-  fa: nan
+  fa: ''
   en: Spot-breasted Laughingthrush
   es: Charlatán Pechipinto
   fr: Garrulaxe à poitrine tachetée
   de: Fleckenhäherling
-  pt: spot-breasted laughingthrush
+  pt: ''
   ru: Пятнистогрудая кустарница
   ja: ムナボシガビチョウ
   zh: 斑胸噪鹛

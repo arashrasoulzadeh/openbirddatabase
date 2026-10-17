@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16895.0
 names:
   scientific: Contopus lugubris
-  fa: nan
+  fa: ''
   en: Dark Pewee
   es: Pibí Oscuro
   fr: Moucherolle ombré
   de: Trauerschnäppertyrann
-  pt: dark pewee
+  pt: ''
   ru: Тёмный пиви
   ja: ハイイロヒタキモドキ
   nl: Barrancapiewie

@@ -12,7 +12,7 @@ names:
   es: Cuco Ventrirrojo
   fr: Coucou de Chine
   de: Weißnackenkuckuck
-  pt: northern hawk-cuckoo
+  pt: ''
   ru: Ширококрылая кукушка
   ja: ジュウイチ
   nl: Chinese sperwerkoekoek

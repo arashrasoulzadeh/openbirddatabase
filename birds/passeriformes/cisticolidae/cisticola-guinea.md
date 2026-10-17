@@ -12,7 +12,7 @@ names:
   es: Cistícola de Dorst
   fr: Cisticole de Dorst
   de: Dorstzistensänger
-  pt: dorst's cisticola
+  pt: ''
   ru: Саванная цистикола
   ja: ニシズアカセッカ
   nl: Klaaggraszanger

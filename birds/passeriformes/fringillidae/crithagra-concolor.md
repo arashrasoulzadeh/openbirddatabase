@@ -12,7 +12,7 @@ names:
   es: Picogordo de Santo Tomé
   fr: Serin de Sao Tomé
   de: Einfarbgirlitz
-  pt: sao tome grosbeak
+  pt: ''
   ru: Сантомейский канареечник
   ja: サントメマシコ
   nl: Sao-Tomékanarie

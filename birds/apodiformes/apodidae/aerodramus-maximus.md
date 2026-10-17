@@ -12,7 +12,7 @@ names:
   es: Salangana Nidonegro
   fr: Salangane à nid noir
   de: Schwarznestsalangane
-  pt: black-nest swiftlet
+  pt: ''
   ru: Большая салангана
   ja: オオアナツバメ
   zh: 大金丝燕

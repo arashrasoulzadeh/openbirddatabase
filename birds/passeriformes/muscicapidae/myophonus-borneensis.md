@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 29422.0
 names:
   scientific: Myophonus borneensis
-  fa: nan
+  fa: ''
   en: Bornean Whistling Thrush
   es: Arrenga de Borneo
   fr: Arrenga de Bornéo
@@ -15,7 +15,7 @@ names:
   pt: bornean whistling-thrush
   ru: Борнейская синяя птица
   ja: ボルネオルリチョウ
-  zh: Bornean Whistling Thrush
+  zh: ''
   nl: Borneose fluitlijster
   pl: gwizdokos ciemny
   tr: Borneo Islıkçı Bülbülü

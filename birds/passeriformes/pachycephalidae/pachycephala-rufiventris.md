@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19558.0
 names:
   scientific: Pachycephala rufiventris
-  fa: nan
+  fa: ''
   en: Rufous Whistler
   es: Silbador Rufo
   fr: Siffleur itchong
   de: Schlichtmantel-Dickkopf
-  pt: rufous whistler
+  pt: ''
   ru: Ожерелковый свистун
   ja: アカハラモズヒタキ
   zh: 棕啸鹟

@@ -12,7 +12,7 @@ names:
   es: Ratina Colicorta
   fr: Turdinule à queue courte
   de: Stutzschwanzdrossling
-  pt: streaked wren-babbler
+  pt: ''
   ru: Короткохвостая подкоренница
   ja: ノドフサザイチメドリ
   zh: 短尾鹪鹛

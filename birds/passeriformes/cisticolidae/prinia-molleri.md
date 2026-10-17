@@ -12,7 +12,7 @@ names:
   es: Prinia de Santo Tomé
   fr: Prinia de Sao Tomé
   de: São-Tomé-Prinie
-  pt: sao tome prinia
+  pt: ''
   ru: Сантомейская приния
   ja: サントメハウチワドリ
   nl: Sao-Toméprinia

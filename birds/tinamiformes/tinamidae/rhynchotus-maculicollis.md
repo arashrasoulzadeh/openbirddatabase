@@ -12,7 +12,7 @@ names:
   es: Tinamú Huayco
   fr: Tinamou huayco
   de: Streifenhalstinamu
-  pt: huayco tinamou
+  pt: ''
   ru: Пестрошейный тинаму
   ja: ニシアカバネシギダチョウ
   zh: 哨音红翅䳍

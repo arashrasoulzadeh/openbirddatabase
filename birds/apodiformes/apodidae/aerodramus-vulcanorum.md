@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4015.0
 names:
   scientific: Aerodramus vulcanorum
-  fa: nan
+  fa: ''
   en: Volcano Swiftlet
   es: Salangana de Los Volcanes
   fr: Salangane des volcans
   de: Vulkansalangane
-  pt: volcano swiftlet
+  pt: ''
   ru: Вулканическая салангана
   ja: ミヤマアナツバメ
   nl: Vulkaansalangaan

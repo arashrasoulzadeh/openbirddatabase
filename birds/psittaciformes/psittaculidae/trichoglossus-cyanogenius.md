@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12658.0
 names:
   scientific: Trichoglossus cyanogenius
-  fa: nan
+  fa: ''
   en: Black-winged Lory
   es: Lori Alinegro
   fr: Loriquet à joues bleues
   de: Schwarzschulterlori
-  pt: black-winged lory
+  pt: ''
   ru: Чернокрылый лори
   ja: クラカケヒインコ
   nl: Zwartvleugellori

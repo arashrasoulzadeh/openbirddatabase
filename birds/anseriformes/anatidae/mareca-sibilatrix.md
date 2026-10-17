@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 524.0
 names:
   scientific: Mareca sibilatrix
-  fa: nan
+  fa: ''
   en: Chiloe Wigeon
   es: Silbón Overo
   fr: Canard de Chiloé

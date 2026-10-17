@@ -12,7 +12,7 @@ names:
   es: Pardela Gavia
   fr: Puffin volage
   de: Flattersturmtaucher
-  pt: fluttering shearwater
+  pt: ''
   ru: Буроспинный буревестник
   ja: ミナミミズナギドリ
   nl: Vlinderpijlstormvogel

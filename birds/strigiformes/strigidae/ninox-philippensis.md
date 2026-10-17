@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 9367.0
 names:
   scientific: Ninox philippensis
-  fa: nan
+  fa: ''
   en: Luzon Boobook
   es: Nínox de Luzón
   fr: Ninoxe des Philippines
   de: Luzonkauz
-  pt: luzon boobook
+  pt: ''
   ru: Филиппинская иглоногая сова
   ja: フィリピンアオバズク
   nl: Luzonvalkuil

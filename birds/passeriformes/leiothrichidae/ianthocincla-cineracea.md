@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26762.0
 names:
   scientific: Ianthocincla cineracea
-  fa: nan
+  fa: ''
   en: Moustached Laughingthrush
   es: Charlatán Ceniciento
   fr: Garrulaxe cendré
   de: Grauflügelhäherling
-  pt: moustached laughingthrush
+  pt: ''
   ru: Сойковая кустарница
   ja: ヒゲガビチョウ
   zh: 灰翅噪鹛

@@ -12,7 +12,7 @@ names:
   es: Obispo Encapuchado
   fr: Euplecte à nuque rouge
   de: Kapuzenweber
-  pt: red-cowled widowbird
+  pt: ''
   nl: Capuchonwidavink
   pl: wikłacz abisyński
   tr: Al Başlıklı Dulkuşu

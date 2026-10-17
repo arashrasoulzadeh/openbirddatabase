@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 5619.0
 names:
   scientific: Rufirallus fasciatus
-  fa: nan
+  fa: ''
   en: Black-banded Crake
   es: Polluela Barreada
   fr: Râle fascié

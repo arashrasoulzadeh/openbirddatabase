@@ -12,7 +12,7 @@ names:
   es: Ibis de Davison
   fr: Ibis de Davison
   de: Weißschulteribis
-  pt: white-shouldered ibis
+  pt: ''
   ru: Белоплечий ибис
   ja: カタジロトキ
   zh: 白肩黑鹮

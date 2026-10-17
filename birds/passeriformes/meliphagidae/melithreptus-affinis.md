@@ -12,7 +12,7 @@ names:
   es: Mielero Carinegro
   fr: Méliphage à tête noire
   de: Schwarzkopf-Honigfresser
-  pt: black-headed honeyeater
+  pt: ''
   ru: Черноголовая медвянка
   ja: ズグロミツスイ
   nl: Zwartkophoningeter

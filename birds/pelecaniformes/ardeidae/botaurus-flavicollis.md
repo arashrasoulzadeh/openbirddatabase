@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 7574.0
 names:
   scientific: Botaurus flavicollis
-  fa: nan
+  fa: ''
   en: Black Bittern
   es: Avetorillo Negro
   fr: Blongios à cou jaune

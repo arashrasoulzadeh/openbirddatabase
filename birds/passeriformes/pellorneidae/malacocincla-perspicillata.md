@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 26336.0
 names:
   scientific: Malacocincla perspicillata
-  fa: nan
+  fa: ''
   en: Black-browed Babbler
   es: Tordina Cejinegra
   fr: Akalat à sourcils noirs
   de: Schwarzbrauen-Mausdrossling
-  pt: black-browed babbler
+  pt: ''
   ru: Чернобровый шелкопёр
   ja: クロマユムジチメドリ
   zh: 黑眉雅鶥

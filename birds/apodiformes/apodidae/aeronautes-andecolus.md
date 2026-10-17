@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4164.0
 names:
   scientific: Aeronautes andecolus
-  fa: nan
+  fa: ''
   en: Andean Swift
   es: Vencejo Andino
   fr: Martinet des Andes
   de: Andensegler
-  pt: andean swift
+  pt: ''
   ru: Андский стриж
   ja: アンデスアマツバメ
   zh: 安第斯雨燕

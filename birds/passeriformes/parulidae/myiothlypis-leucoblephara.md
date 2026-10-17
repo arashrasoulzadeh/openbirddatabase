@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34303.0
 names:
   scientific: Myiothlypis leucoblephara
-  fa: nan
+  fa: ''
   en: White-rimmed Warbler
   es: Reinita Silbona
   fr: Paruline à paupières blanches
@@ -15,7 +15,7 @@ names:
   pt: pula-pula-assobiador
   ru: Серобрюхий певун
   ja: セミドリアメリカムシクイ
-  zh: White-rimmed Warbler
+  zh: ''
   nl: Witbrauwzanger
   pl: koronówka siwogłowa
   tr: Ak Kenarlı Ötleğen

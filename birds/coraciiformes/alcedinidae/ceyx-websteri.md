@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 9948.0
 names:
   scientific: Ceyx websteri
-  fa: nan
+  fa: ''
   en: Bismarck Kingfisher
   es: Martín Pescador de las Bismarck
   fr: Martin-pêcheur des Bismarck
   de: Bismarckzwergfischer
-  pt: bismarck kingfisher
+  pt: ''
   ru: Бисмаркский зимородок
   ja: ビスマークカワセミ
   nl: Bismarckijsvogel

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25442.0
 names:
   scientific: Paradoxornis aemodius
-  fa: nan
+  fa: ''
   en: Great Parrotbill
   es: Picoloro Grande
   fr: Grand Paradoxornis
   de: Riesenpapageimeise
-  pt: great parrotbill
+  pt: ''
   ru: Большая сутора
   ja: オオダルマエナガ
   zh: 红嘴鸦雀

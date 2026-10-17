@@ -12,7 +12,7 @@ names:
   es: Sisón Ventrinegro de Hartlaub
   fr: Outarde de Hartlaub
   de: Hartlaubtrappe
-  pt: hartlaub's bustard
+  pt: ''
   ru: Суданский корхан
   ja: クロビタイチュウノガン
   zh: 灰黑腹鴇

@@ -12,7 +12,7 @@ names:
   es: Prión Piquicorto
   fr: Prion colombe
   de: Feensturmvogel
-  pt: fairy prion
+  pt: ''
   ru: Голубиный прион
   ja: ヒメクジラドリ
   nl: Duifprion

@@ -12,7 +12,7 @@ names:
   es: Gaviota Occidental
   fr: Goéland d'Audubon
   de: Westmöwe
-  pt: western gull
+  pt: ''
   ru: Западная чайка
   ja: アメリカオオセグロカモメ
   zh: 西美鷗

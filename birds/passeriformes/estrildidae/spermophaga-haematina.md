@@ -12,7 +12,7 @@ names:
   es: Estrilda Piquigorda Cabecinegra
   fr: Becbleu sanguin
   de: Rotbrust-Samenknacker
-  pt: western bluebill
+  pt: ''
   ru: Кровавогрудый синеклюв
   ja: クロガオアオハシキンパラ
   zh: 红胸蓝嘴雀

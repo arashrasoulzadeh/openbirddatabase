@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25234.0
 names:
   scientific: Aegithalos exilis
-  fa: nan
+  fa: ''
   en: Pygmy Bushtit
   es: Mito Pigmeo
   fr: Orite pygmée
@@ -15,7 +15,7 @@ names:
   pt: pygmy tit
   ru: Карликовый ополовничек
   ja: ジャワエナガ
-  zh: Pygmy Bushtit
+  zh: ''
   nl: Dwergmees
   pl: raniuszek malutki
   tr: Küçük Uzunkuyruk

@@ -12,7 +12,7 @@ names:
   es: Toco Abisinio
   fr: Calao de Hemprich
   de: Hemprichtoko
-  pt: hemprich's hornbill
+  pt: ''
   ru: Абиссинский токо
   ja: クロズキンコサイチョウ
   zh: 亨普氏彎嘴犀鳥

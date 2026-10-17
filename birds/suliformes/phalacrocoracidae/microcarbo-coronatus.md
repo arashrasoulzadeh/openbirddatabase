@@ -12,7 +12,7 @@ names:
   es: Cormorán Coronado
   fr: Cormoran couronné
   de: Kronenscharbe
-  pt: crowned cormorant
+  pt: ''
   ru: Венценосный баклан
   ja: ミナミアフリカコビトウ
   nl: Kroonaalscholver

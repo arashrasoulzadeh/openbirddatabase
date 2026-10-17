@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34003.0
 names:
   scientific: Geothlypis velata
-  fa: nan
+  fa: ''
   en: Southern Yellowthroat
   es: Mascarita Sureña
   fr: Paruline voilée

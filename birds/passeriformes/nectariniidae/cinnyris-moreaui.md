@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 30388.0
 names:
   scientific: Cinnyris moreaui
-  fa: nan
+  fa: ''
   en: Moreau's Sunbird
   es: Suimanga de Moreau
   fr: Souimanga de Moreau
   de: Moreaunektarvogel
-  pt: moreau's sunbird
+  pt: ''
   ru: Укагурская нектарница
   ja: タンザニアゴシキタイヨウチョウ
   nl: Moreauhoningzuiger

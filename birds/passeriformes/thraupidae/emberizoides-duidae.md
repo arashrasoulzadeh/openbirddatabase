@@ -15,7 +15,7 @@ names:
   pt: duida grass-finch
   ru: Венесуэльская колудито
   ja: ドゥイダクサビオノジコ
-  zh: Duida Grass Finch
+  zh: ''
   nl: Duidagrasgors
   pl: trznadlówka duża
   tr: Duida Otlak İspinozu

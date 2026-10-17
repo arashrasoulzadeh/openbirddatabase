@@ -12,7 +12,7 @@ names:
   es: Oruguero Pío
   fr: Échenilleur térat
   de: Weißstirn-Raupenfänger
-  pt: pied triller
+  pt: ''
   ru: Сорочий личинкоед-свистун
   ja: マダラナキサンショウクイ
   zh: 黑鸣鹃鵙

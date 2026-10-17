@@ -12,7 +12,7 @@ names:
   es: Maluro Gorjiblanco
   fr: Amytis à gorge blanche
   de: Weißkehl-Grasschlüpfer
-  pt: white-throated grasswren
+  pt: ''
   ru: Белогорлый амитис
   ja: ノドジロクロセスジムシクイ
   zh: 白喉草鹩莺

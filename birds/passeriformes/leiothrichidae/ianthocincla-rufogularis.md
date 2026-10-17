@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26754.0
 names:
   scientific: Ianthocincla rufogularis
-  fa: nan
+  fa: ''
   en: Rufous-chinned Laughingthrush
   es: Charlatán Golirrufo
   fr: Garrulaxe à gorge rousse
   de: Rostkinnhäherling
-  pt: rufous-chinned laughingthrush
+  pt: ''
   ru: Рыжебородая кустарница
   ja: キアゴガビチョウ
   zh: 棕颏噪鹛

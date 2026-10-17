@@ -12,7 +12,7 @@ names:
   es: Escribano Japonés
   fr: Bruant du Japon
   de: Schwefelammer
-  pt: yellow bunting
+  pt: ''
   ru: Японская желтая овсянка
   ja: ノジコ
   nl: Zwavelgors

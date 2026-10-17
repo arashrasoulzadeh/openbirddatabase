@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17786.0
 names:
   scientific: Purnella albifrons
-  fa: nan
+  fa: ''
   en: White-fronted Honeyeater
   es: Mielero Frentiblanco
   fr: Méliphage à front blanc
   de: Weißstirn-Honigfresser
-  pt: white-fronted honeyeater
+  pt: ''
   ru: Белолобый медосос
   ja: シロビタイキバネミツスイ
   zh: 白额澳蜜鸟

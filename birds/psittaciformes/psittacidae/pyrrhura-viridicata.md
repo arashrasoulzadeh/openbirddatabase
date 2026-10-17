@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 13051.0
 names:
   scientific: Pyrrhura viridicata
-  fa: nan
+  fa: ''
   en: Santa Marta Parakeet
   es: Cotorra de Santa Marta
   fr: Conure de Santa Marta
   de: Santa-Marta-Sittich
-  pt: santa marta parakeet
+  pt: ''
   ru: Сантамартийская которра
   ja: ミドリアカオウロコインコ
   nl: Santa-Martaparkiet

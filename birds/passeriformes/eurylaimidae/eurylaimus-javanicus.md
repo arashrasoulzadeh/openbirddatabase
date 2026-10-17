@@ -12,7 +12,7 @@ names:
   es: Eurilaimo Bandeado
   fr: Eurylaime de Horsfield
   de: Purpurbreitrachen
-  pt: banded broadbill
+  pt: ''
   ru: Яванский рогоклюв
   ja: アズキヒロハシ
   zh: 斑闊嘴鳥

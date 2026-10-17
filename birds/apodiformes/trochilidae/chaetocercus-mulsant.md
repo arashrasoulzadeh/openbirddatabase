@@ -12,7 +12,7 @@ names:
   es: Colibrí de Mulsant
   fr: Colibri de Mulsant
   de: Weißbauchelfe
-  pt: white-bellied woodstar
+  pt: ''
   ru: Острохвостый эльф
   ja: シロハラチビハチドリ
   zh: 白腹林蜂鸟

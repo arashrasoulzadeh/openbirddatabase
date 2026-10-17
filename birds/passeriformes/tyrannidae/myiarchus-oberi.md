@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17355.0
 names:
   scientific: Myiarchus oberi
-  fa: nan
+  fa: ''
   en: Lesser Antillean Flycatcher
   es: Copetón de Ober
   fr: Tyran janeau
   de: Kleinantillen-Schopftyrann
-  pt: lesser antillean flycatcher
+  pt: ''
   ru: Антильский миарх
   ja: ドミニカヒタキモドキ
   nl: Bruinvleugeltiran

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14430.0
 names:
   scientific: Scytalopus intermedius
-  fa: nan
+  fa: ''
   en: Utcubamba Tapaculo
   es: Churrín de Utcubamba
   fr: Mérulaxe de l'Utcubamba
   de: Utcubambatapaculo
-  pt: utcubamba tapaculo
+  pt: ''
   ru: Уткубамбский тапакуло
   ja: ウテクバンバオタテドリ
   nl: Utcubambatapaculo

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15251.0
 names:
   scientific: Automolus rufipileatus
-  fa: nan
+  fa: ''
   en: Chestnut-crowned Foliage-gleaner
   es: Ticotico Coronicastaño
   fr: Anabate à couronne rousse

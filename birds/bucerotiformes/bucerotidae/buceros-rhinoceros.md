@@ -12,7 +12,7 @@ names:
   es: Cálao Rinoceronte
   fr: Calao rhinocéros
   de: Rhinozeroshornvogel
-  pt: rhinoceros hornbill
+  pt: ''
   ru: Малайский гомрай
   ja: サイチョウ
   zh: 馬來犀鳥

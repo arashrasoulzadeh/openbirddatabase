@@ -12,7 +12,7 @@ names:
   es: Cálao Bicorne
   fr: Calao bicorne
   de: Doppelhornvogel
-  pt: great hornbill
+  pt: ''
   ru: Двурогий калао
   ja: オオサイチョウ
   zh: 双角犀鸟

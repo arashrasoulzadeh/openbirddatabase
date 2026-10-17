@@ -12,7 +12,7 @@ names:
   es: Chara de Steller
   fr: Geai de Steller
   de: Diademhäher
-  pt: steller's jay
+  pt: ''
   ru: Стеллерова сойка
   ja: ステラーカケス
   zh: 暗冠藍鴉

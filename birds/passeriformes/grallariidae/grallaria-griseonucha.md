@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14248.0
 names:
   scientific: Grallaria griseonucha
-  fa: nan
+  fa: ''
   en: Grey-naped Antpitta
   es: Tororoí Nuquigrís
   fr: Grallaire à nuque grise
@@ -15,7 +15,7 @@ names:
   pt: gray-naped antpitta
   ru: Сероголовая питтовая муравьеловка
   ja: ハイエリジアリドリ
-  zh: Grey-naped Antpitta
+  zh: ''
   nl: Grijsnekmierpitta
   pl: kusaczka szarokarkowa
   tr: Gri Enseli Yerçavuşu

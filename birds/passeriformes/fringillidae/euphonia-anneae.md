@@ -12,7 +12,7 @@ names:
   es: Eufonia Coronirrufa
   fr: Organiste à couronne rousse
   de: Braunscheitelorganist
-  pt: tawny-capped euphonia
+  pt: ''
   ru: Корольковая эуфония
   ja: チャボウシスミレフウキンチョウ
   nl: Bruinkruinorganist

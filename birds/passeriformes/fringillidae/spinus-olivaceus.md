@@ -12,7 +12,7 @@ names:
   es: Jilguero Oliváceo
   fr: Tarin olivâtre
   de: Olivzeisig
-  pt: olivaceous siskin
+  pt: ''
   ru: Оливковый чиж
   ja: オリーブヒワ
   nl: Olijfgele sijs

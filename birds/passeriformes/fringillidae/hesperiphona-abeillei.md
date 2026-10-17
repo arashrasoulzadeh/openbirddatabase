@@ -12,7 +12,7 @@ names:
   es: Picogordo Encapuchado
   fr: Gros-bec à capuchon
   de: Kapuzenkernbeißer
-  pt: hooded grosbeak
+  pt: ''
   ru: Капюшоновый дубонос
   ja: ズグロシメ
   zh: 黑頂冠蠟嘴雀

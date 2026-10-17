@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 878.0
 names:
   scientific: Penelope bridgesi
-  fa: nan
+  fa: ''
   en: Yungas Guan
   es: Pava de Los Yungas
   fr: Pénélope des yungas
   de: Yungasguan
-  pt: yungas guan
+  pt: ''
   zh: 央葛斯冠雉
   nl: Yungassjakohoen
   pl: penelopa kreskowana

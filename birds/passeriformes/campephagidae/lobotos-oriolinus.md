@@ -15,7 +15,7 @@ names:
   pt: oriole cuckooshrike
   ru: Восточный серёжчатый личинколюб
   ja: ヒガシホオダレサンショウクイ
-  zh: Eastern Wattled Cuckooshrike
+  zh: ''
   nl: Gabonese rupsvogel
   pl: liszkojad płatkolicy
   tr: Yeşil-Sarı Tırtılyiyen

@@ -12,7 +12,7 @@ names:
   es: Fodi de Mauricio
   fr: Foudi de Maurice
   de: Mauritiusweber
-  pt: mauritius fody
+  pt: ''
   ru: Маврикийский фуди
   ja: モーリシャスベニノジコ
   zh: 毛里求斯艷織雀

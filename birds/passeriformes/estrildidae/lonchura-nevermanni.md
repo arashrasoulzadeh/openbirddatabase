@@ -15,7 +15,7 @@ names:
   pt: gray-crowned munia
   ru: Черногорлая муния
   ja: キゴシヘキチョウ
-  zh: Grey-crowned Mannikin
+  zh: ''
   nl: Witkruinnon
   pl: mniszka czarnobroda
   tr: Kır Yüzlü Munya

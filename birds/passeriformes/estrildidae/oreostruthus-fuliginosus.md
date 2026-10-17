@@ -12,7 +12,7 @@ names:
   es: Diamante Montano
   fr: Diamant des montagnes
   de: Bergamadine
-  pt: mountain firetail
+  pt: ''
   ru: Горная амадина
   ja: ワキアカスズメ
   zh: 红胁火尾雀

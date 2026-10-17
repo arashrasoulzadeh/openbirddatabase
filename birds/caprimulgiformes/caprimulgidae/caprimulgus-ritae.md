@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 3671.0
 names:
   scientific: Caprimulgus ritae
-  fa: nan
+  fa: ''
   en: Timor Nightjar
   es: Chotacabras de Timor
   fr: Engoulevent de Timor
   de: Timornachtschwalbe
-  pt: timor nightjar
+  pt: ''
   ja: ティモールヨタカ
   nl: Timorese nachtzwaluw
   pl: lelek timorski

@@ -15,7 +15,7 @@ names:
   pt: choquinha-estriada
   ru: Гвианский муравьелов
   ja: タテジマヒメアリサザイ
-  zh: Guianan Streaked Antwren
+  zh: ''
   nl: Guyanamiersluiper
   pl: mrówiaczek pasiasty
   tr: Surinam Karıncaçıvgını

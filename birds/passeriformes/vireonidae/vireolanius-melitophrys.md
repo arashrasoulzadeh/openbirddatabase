@@ -12,7 +12,7 @@ names:
   es: Vireón Pechicastaño
   fr: Smaragdan ceinturé
   de: Brustbandvireo
-  pt: chestnut-sided shrike-vireo
+  pt: ''
   ru: Каштановогрудый сорокопутовый виреон
   ja: ワキアカミドリモズ
   nl: Bruinflankklauwiervireo

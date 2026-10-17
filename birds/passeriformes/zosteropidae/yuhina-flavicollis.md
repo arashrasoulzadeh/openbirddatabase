@@ -12,7 +12,7 @@ names:
   es: Yuhina Bigotuda
   fr: Yuhina à cou roux
   de: Gelbnackenyuhina
-  pt: whiskered yuhina
+  pt: ''
   ru: Усатая юхина
   ja: チャエリカンムリチメドリ
   zh: 黄颈凤鹛

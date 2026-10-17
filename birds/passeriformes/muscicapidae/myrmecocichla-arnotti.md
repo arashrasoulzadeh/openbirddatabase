@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 29779.0
 names:
   scientific: Myrmecocichla arnotti
-  fa: nan
+  fa: ''
   en: Arnot's Chat
   es: Zorzal Hormiguero de Arnot
   fr: Traquet d'Arnot
   de: Arnotschmätzer
-  pt: arnot's chat
+  pt: ''
   ru: Белоплечая термитница
   ja: シロガシラアリヒタキ
   nl: Arnotmiertapuit

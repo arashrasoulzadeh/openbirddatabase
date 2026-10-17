@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 2204.0
 names:
   scientific: Pampusana xanthonura
-  fa: nan
+  fa: ''
   en: White-throated Ground Dove
   es: Paloma Perdiz de las Marianas
   fr: Gallicolombe pampusane
   de: Jungferntaube
-  pt: white-throated ground dove
+  pt: ''
   ru: Белогорлый куриный голубь
   ja: ムナジロバト
   nl: Marianenpatrijsduif

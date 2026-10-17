@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 8737.0
 names:
   scientific: Otus manadensis
-  fa: nan
+  fa: ''
   en: Sulawesi Scops Owl
   es: Autillo de Célebes
   fr: Petit-duc de Manado
@@ -15,7 +15,7 @@ names:
   pt: sulawesi scops-owl
   ru: Сулавесская сплюшка
   ja: スラウェシコノハズク
-  zh: Sulawesi Scops Owl
+  zh: ''
   nl: Sulawesidwergooruil
   pl: syczek jasnobrzuchy
   tr: Selebes İshakkuşu

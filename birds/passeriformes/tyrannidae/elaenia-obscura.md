@@ -12,7 +12,7 @@ names:
   es: Fiofío Oscuro
   fr: Élénie obscure
   de: Hochland-Olivtyrann
-  pt: highland elaenia
+  pt: ''
   ru: Тёмная эления
   ja: タカネキクタイランチョウ
   nl: Hooglandelenia

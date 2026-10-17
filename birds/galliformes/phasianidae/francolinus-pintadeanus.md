@@ -12,7 +12,7 @@ names:
   es: Francolín Chino
   fr: Francolin perlé
   de: Perlfrankolin
-  pt: chinese francolin
+  pt: ''
   ru: Жемчужный турач
   ja: コモンシャコ
   zh: 中华鹧鸪

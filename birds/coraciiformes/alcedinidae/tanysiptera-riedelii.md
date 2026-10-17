@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10283.0
 names:
   scientific: Tanysiptera riedelii
-  fa: nan
+  fa: ''
   en: Biak Paradise Kingfisher
   es: Alción Colilargo de Biak
   fr: Martin-chasseur de Biak
@@ -15,7 +15,7 @@ names:
   pt: biak paradise-kingfisher
   ru: Биакский райский зимородок
   ja: ビアクラケットカワセミ
-  zh: Biak Paradise Kingfisher
+  zh: ''
   nl: Biakvlagstaartijsvogel
   pl: sterowik łuskowany
   tr: Biak Cennet Yalıçapkını

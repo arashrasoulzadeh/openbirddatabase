@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 15386.0
 names:
   scientific: Asthenes baeri
-  fa: nan
+  fa: ''
   en: Short-billed Canastero
   es: Canastero Chaqueño
   fr: Synallaxe à bec court

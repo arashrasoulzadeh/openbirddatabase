@@ -12,7 +12,7 @@ names:
   es: Estornino Ventrirrufo
   fr: Choucador à ventre roux
   de: Rotbauch-Glanzstar
-  pt: chestnut-bellied starling
+  pt: ''
   ru: Краснобрюхий спрео
   ja: ハイガシラテリムク
   zh: 栗腹丽椋鸟

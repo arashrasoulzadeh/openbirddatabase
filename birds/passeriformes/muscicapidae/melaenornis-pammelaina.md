@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 28923.0
 names:
   scientific: Melaenornis pammelaina
-  fa: nan
+  fa: ''
   en: Southern Black Flycatcher
   es: Papamoscas Sudafricano
   fr: Gobemouche sud-africain
@@ -15,7 +15,7 @@ names:
   pt: southern black-flycatcher
   ru: Траурная мухоловка
   ja: ミナミクロヒタキ
-  zh: Southern Black Flycatcher
+  zh: ''
   nl: Kaapse drongovliegenvanger
   pl: mucharka lśniąca
   tr: Güneyli Drongo Sinekkapanı

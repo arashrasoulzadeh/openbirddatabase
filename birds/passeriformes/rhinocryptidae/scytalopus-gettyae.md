@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 14432.0
 names:
   scientific: Scytalopus gettyae
-  fa: nan
+  fa: ''
   en: Junin Tapaculo
   es: Churrín de Junín
   fr: Mérulaxe de Getty
   de: Juníntapaculo
-  pt: junin tapaculo
+  pt: ''
   ru: Хунинский тапакуло
   ja: フニンオタテドリ
   nl: Junintapaculo

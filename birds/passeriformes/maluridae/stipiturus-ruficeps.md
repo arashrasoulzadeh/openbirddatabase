@@ -15,7 +15,7 @@ names:
   pt: rufous-crowned emuwren
   ru: Рыжеголовый эмухвост
   ja: ズアカエミュームシクイ
-  zh: Rufous-crowned Emu-wren
+  zh: ''
   nl: Roodkopemoesluiper
   pl: szczeciogonek rdzawogłowy
   tr: Kızıl Başlıklı Emubülbülü

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16069.0
 names:
   scientific: Pachyramphus marginatus
-  fa: nan
+  fa: ''
   en: Black-capped Becard
   es: Anambé Capirotado
   fr: Bécarde à calotte noire

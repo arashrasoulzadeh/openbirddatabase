@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 1525.0
 names:
   scientific: Crossoptilon auritum
-  fa: nan
+  fa: ''
   en: Blue Eared Pheasant
   es: Faisán Orejudo Azul
   fr: Hokki bleu

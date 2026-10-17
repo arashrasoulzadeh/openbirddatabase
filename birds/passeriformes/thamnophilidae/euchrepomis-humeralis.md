@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13438.0
 names:
   scientific: Euchrepomis humeralis
-  fa: nan
+  fa: ''
   en: Chestnut-shouldered Antwren
   es: Tiluchí Hombrocastaño
   fr: Grisin à épaules rousses

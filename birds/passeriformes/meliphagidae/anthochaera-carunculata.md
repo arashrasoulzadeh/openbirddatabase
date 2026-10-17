@@ -12,7 +12,7 @@ names:
   es: Mielero Carunculado
   fr: Méliphage barbe-rouge
   de: Rotlappen-Honigfresser
-  pt: red wattlebird
+  pt: ''
   ru: Краснолопастный серёжкоух
   ja: アカミミダレミツスイ
   zh: 紅垂蜜鳥

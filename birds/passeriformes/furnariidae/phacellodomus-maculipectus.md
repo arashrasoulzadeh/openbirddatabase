@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15359.0
 names:
   scientific: Phacellodomus maculipectus
-  fa: nan
+  fa: ''
   en: Spot-breasted Thornbird
   es: Espinero Pechimoteado
   fr: Synallaxe maculé
   de: Sprenkelbrust-Bündelnister
-  pt: spot-breasted thornbird
+  pt: ''
   ru: Пятнистогрудый эспинеро
   ja: ムネホシアレチカマドドリ
   nl: Vlekborststekelkruin

@@ -12,7 +12,7 @@ names:
   es: Pitajo de Piura
   fr: Pitajo de Piura
   de: Buntflügel-Schmätzertyrann
-  pt: piura chat-tyrant
+  pt: ''
   ru: Пиурская тираннита
   ja: ペルーヒタキタイランチョウ
   nl: Piuratapuittiran

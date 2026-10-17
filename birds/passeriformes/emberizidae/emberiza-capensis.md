@@ -12,7 +12,7 @@ names:
   es: Escribano de el Cabo
   fr: Bruant du Cap
   de: Kapammer
-  pt: cape bunting
+  pt: ''
   ru: Капская овсянка
   ja: ケープホオジロ
   nl: Kaapse gors

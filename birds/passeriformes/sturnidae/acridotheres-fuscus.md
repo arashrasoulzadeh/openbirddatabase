@@ -12,7 +12,7 @@ names:
   es: Miná de Jungla
   fr: Martin forestier
   de: Dschungelmaina
-  pt: jungle myna
+  pt: ''
   ru: Джунглевая майна
   ja: モリハッカ
   zh: 丛林八哥

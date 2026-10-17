@@ -12,7 +12,7 @@ names:
   es: Cardenilla Enmascarada
   fr: Paroare masqué
   de: Schwarzohrtangare
-  pt: masked cardinal
+  pt: ''
   ru: Масковая танагра-кардинал
   ja: メンガタコウカンチョウ
   nl: Maskerkardinaal

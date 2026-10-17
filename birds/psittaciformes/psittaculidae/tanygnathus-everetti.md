@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 12424.0
 names:
   scientific: Tanygnathus everetti
-  fa: nan
+  fa: ''
   en: Blue-backed Parrot
   es: Loro de Everett
   fr: Perruche d'Everett
   de: Blaurückenpapagei
-  pt: blue-backed parrot
+  pt: ''
   ru: Синеспинный попугай
   ja: ササハインコ
   nl: Blauwstuitpapegaai

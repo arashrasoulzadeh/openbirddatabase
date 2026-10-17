@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25986.0
 names:
   scientific: Spelaeornis troglodytoides
-  fa: nan
+  fa: ''
   en: Bar-winged Wren-Babbler
   es: Ratina Alibarrada
   fr: Timalie troglodyte
   de: Binden-Zaunkönigtimalie
-  pt: bar-winged wren-babbler
+  pt: ''
   ru: Каштановый тинглин
   ja: シマオサザイチメドリ
   zh: 斑翅鹩鹛

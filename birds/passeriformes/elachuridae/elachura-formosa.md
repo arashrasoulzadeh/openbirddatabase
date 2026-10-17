@@ -12,7 +12,7 @@ names:
   es: Ratina Moteada
   fr: Élachure tachetée
   de: Fleckenbrust-Kurzschwanz
-  pt: spotted elachura
+  pt: ''
   ru: Пятнистая элахура
   ja: シロボシサザイチメドリ
   zh: 丽星鹩鹛

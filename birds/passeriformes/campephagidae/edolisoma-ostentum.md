@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 18869.0
 names:
   scientific: Edolisoma ostentum
-  fa: nan
+  fa: ''
   en: White-winged Cuckooshrike
   es: Oruguero Aliblanco
   fr: Échenilleur à ailes blanches
   de: Spiegelraupenfänger
-  pt: white-winged cuckooshrike
+  pt: ''
   ru: Белокрылый цикадник
   ja: ハジロオオサンショウクイ
   zh: 白翅鹃鵙

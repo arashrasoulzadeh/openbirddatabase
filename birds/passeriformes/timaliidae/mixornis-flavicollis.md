@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 25904.0
 names:
   scientific: Mixornis flavicollis
-  fa: nan
+  fa: ''
   en: Grey-cheeked Tit-Babbler
   es: Timalí Carigrís
   fr: Timalie à face grise
@@ -15,7 +15,7 @@ names:
   pt: gray-cheeked tit-babbler
   ru: Охристогрудая тимелия
   ja: ハイガオムシクイチメドリ
-  zh: Grey-cheeked Tit-Babbler
+  zh: ''
   nl: Grijsnektimalia
   pl: gromadniczek szarouchy
   tr: Gri Yanaklı Timalya

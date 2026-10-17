@@ -15,7 +15,7 @@ names:
   pt: elegant crested-tinamou
   ru: Хохлатый тинаму
   ja: カンムリシギダチョウ
-  zh: Elegant Crested Tinamou
+  zh: ''
   nl: Kuiftinamoe
   pl: kusacz pampasowy
   tr: Tepeli Tinamu

@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Balabac
   fr: Gobemouche de Balabac
   de: Palawanblauschnäpper
-  pt: palawan blue flycatcher
+  pt: ''
   ru: Палаванская нильтава
   ja: ラムゼイヒメアオヒタキ
   nl: Balabakniltava

@@ -15,7 +15,7 @@ names:
   pt: uirapuru-de-peito-branco
   ru: Белогрудый крапивник
   ja: ムナジロモリミソサザイ
-  zh: White-breasted Wood Wren
+  zh: ''
   nl: Boswinterkoning
   pl: stokowczyk białopierśny
   tr: Ak Gerdanlı Çıtkuşu

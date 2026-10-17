@@ -12,7 +12,7 @@ names:
   es: Bubú Pechigualdo
   fr: Gonolek à ventre jaune
   de: Gelbbauchwürger
-  pt: yellow-breasted boubou
+  pt: ''
   ru: Желтобрюхий гонолек
   ja: キバラセグロヤブモズ
   nl: Zwart-gele fiskaal

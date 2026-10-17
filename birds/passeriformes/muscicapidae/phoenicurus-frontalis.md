@@ -12,7 +12,7 @@ names:
   es: Colirrojo Frentiazul
   fr: Rougequeue à front bleu
   de: Blaustirn-Rotschwanz
-  pt: blue-fronted redstart
+  pt: ''
   ru: Синелобая горихвостка
   ja: ルリビタイジョウビタキ
   zh: 蓝额红尾鸲

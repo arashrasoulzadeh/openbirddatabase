@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19400.0
 names:
   scientific: Pachycephala meyeri
-  fa: nan
+  fa: ''
   en: Vogelkop Whistler
   es: Silbador de Vogelkop
   fr: Siffleur du Vogelkop
   de: Braunohr-Dickkopf
-  pt: vogelkop whistler
+  pt: ''
   ru: Арфакский свистун
   ja: ハイガシラモズヒタキ
   zh: 弗格克啸鹟

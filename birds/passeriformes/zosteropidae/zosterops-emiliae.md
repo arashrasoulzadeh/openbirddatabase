@@ -15,7 +15,7 @@ names:
   pt: mountain black-eye
   ru: Масковая белоглазка
   ja: メグロメジロ
-  zh: Mountain Blackeye
+  zh: ''
   nl: Zwartringbrilvogel
   pl: okularowiec zielony
   tr: Kara Gözlüklü Gözlükçü

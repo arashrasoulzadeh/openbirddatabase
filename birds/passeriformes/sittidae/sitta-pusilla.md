@@ -12,7 +12,7 @@ names:
   es: Trepador Cabecipardo
   fr: Sittelle à tête brune
   de: Braunkopfkleiber
-  pt: brown-headed nuthatch
+  pt: ''
   ru: Буроголовый поползень
   ja: チャガシラヒメゴジュウカラ
   nl: Bruinkopboomklever

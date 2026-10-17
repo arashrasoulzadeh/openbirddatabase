@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16647.0
 names:
   scientific: Pseudocolopteryx acutipennis
-  fa: nan
+  fa: ''
   en: Subtropical Doradito
   es: Doradito Oliváceo
   fr: Doradite à ailes pointues

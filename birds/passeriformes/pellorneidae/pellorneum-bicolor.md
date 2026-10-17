@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26271.0
 names:
   scientific: Pellorneum bicolor
-  fa: nan
+  fa: ''
   en: Ferruginous Babbler
   es: Tordina Bicolor
   fr: Akalat ferrugineux
   de: Zimtmausdrossling
-  pt: ferruginous babbler
+  pt: ''
   ru: Двухцветный усатоклюв
   ja: サビイロムジチメドリ
   zh: 鏽色雅鶥

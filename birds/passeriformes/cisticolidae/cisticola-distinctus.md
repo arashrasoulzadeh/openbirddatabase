@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23443.0
 names:
   scientific: Cisticola distinctus
-  fa: nan
+  fa: ''
   en: Lynes's Cisticola
   es: Cistícola de Lynes
   fr: Cisticole de Lynes
   de: Lyneszistensänger
-  pt: lynes's cisticola
+  pt: ''
   ru: Смуглая цистикола
   ja: ヒガシシロハラセッカ
   nl: Masaigraszanger

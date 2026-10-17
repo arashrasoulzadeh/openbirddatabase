@@ -12,7 +12,7 @@ names:
   es: Chorlitejo Andino
   fr: Pluvier de la puna
   de: Punaregenpfeifer
-  pt: puna plover
+  pt: ''
   ru: Степной зуёк
   ja: プナフタオビチドリ
   nl: Punaplevier

@@ -12,7 +12,7 @@ names:
   es: Monterita de Cochabamba
   fr: Chipiu de Cochabamba
   de: Cochabamba-Finkentangare
-  pt: cochabamba mountain finch
+  pt: ''
   ru: Горная монтерита
   ja: アカハラマユシトド
   nl: Cochabambaboomgors

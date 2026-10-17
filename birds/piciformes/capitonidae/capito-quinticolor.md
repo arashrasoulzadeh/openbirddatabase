@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 10797.0
 names:
   scientific: Capito quinticolor
-  fa: nan
+  fa: ''
   en: Five-colored Barbet
   es: Cabezón Cincocolores
   fr: Cabézon à cinq couleurs
   de: Fünffarben-Bartvogel
-  pt: five-colored barbet
+  pt: ''
   ru: Пятицветная бородатка
   ja: コロンビアゴシキドリ
   nl: Vijfkleurenbaardvogel

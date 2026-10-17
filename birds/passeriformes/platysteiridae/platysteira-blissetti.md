@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19847.0
 names:
   scientific: Platysteira blissetti
-  fa: nan
+  fa: ''
   en: Red-cheeked Wattle-eye
   es: Batis Carunculado de Blissett
   fr: Pririt de Blissett
   de: Glanzlappenschnäpper
-  pt: red-cheeked wattle-eye
+  pt: ''
   ru: Краснощёкая серёжкоглазка
   ja: ホオアカメガネヒタキ
   nl: Roodwanglelvliegenvanger

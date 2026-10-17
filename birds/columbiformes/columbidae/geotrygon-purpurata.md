@@ -7,12 +7,12 @@ iucn_status: EN
 taxon_order: 2309.0
 names:
   scientific: Geotrygon purpurata
-  fa: nan
+  fa: ''
   en: Purple Quail-Dove
   es: Paloma Perdiz Purpúrea
   fr: Colombe violacée
   de: Indigotaube
-  pt: purple quail-dove
+  pt: ''
   ru: Пурпурноголовая перепелиная горлица
   ja: ムラサキウズラバト
   nl: Blauwkruinkwartelduif

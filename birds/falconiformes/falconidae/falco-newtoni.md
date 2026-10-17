@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 12012.0
 names:
   scientific: Falco newtoni
-  fa: nan
+  fa: ''
   en: Malagasy Kestrel
   es: Cernícalo de Aldabra
   fr: Crécerelle malgache
   de: Madagaskarfalke
-  pt: malagasy kestrel
+  pt: ''
   ru: Мадагаскарская пустельга
   ja: マダガスカルチョウゲンボウ
   zh: 馬島隼

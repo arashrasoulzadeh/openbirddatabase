@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25409.0
 names:
   scientific: Fulvetta ludlowi
-  fa: nan
+  fa: ''
   en: Brown-throated Fulvetta
   es: Fulveta de Ludlow
   fr: Fulvetta de Ludlow
   de: Braunohr-Grasmücke
-  pt: brown-throated fulvetta
+  pt: ''
   ru: Коричневая фульветта
   ja: チャノドチメドリ
   zh: 路德雀鹛

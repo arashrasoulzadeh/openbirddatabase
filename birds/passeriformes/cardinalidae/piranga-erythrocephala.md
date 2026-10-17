@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34454.0
 names:
   scientific: Piranga erythrocephala
-  fa: nan
+  fa: ''
   en: Red-headed Tanager
   es: Piranga Cabecirroja
   fr: Piranga érythrocéphale
   de: Rotkopfkardinal
-  pt: red-headed tanager
+  pt: ''
   ru: Краснолицая пиранга
   ja: ズアカフウキンチョウ
   nl: Roodkoptangare

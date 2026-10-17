@@ -12,7 +12,7 @@ names:
   es: Oruguero de Java
   fr: Échenilleur de Java
   de: Javaraupenfänger
-  pt: oriental cuckooshrike
+  pt: ''
   ru: Яванский сорокопутовый личинкоед
   ja: オオオニサンショウクイ
   zh: 大鹃鵙

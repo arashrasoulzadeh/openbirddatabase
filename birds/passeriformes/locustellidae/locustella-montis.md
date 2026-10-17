@@ -12,7 +12,7 @@ names:
   es: Zarzalero de la Sonda
   fr: Locustelle de Java
   de: Javaschwirl
-  pt: javan bush warbler
+  pt: ''
   ru: Яванская пестрогрудка
   ja: ジャワオオセッカ
   nl: Javaanse struikzanger

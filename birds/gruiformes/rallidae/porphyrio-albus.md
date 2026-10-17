@@ -15,7 +15,7 @@ names:
   pt: lord howe swamphen
   ru: Белая султанка
   ja: ロードハウセイケイ
-  zh: White Swamphen
+  zh: ''
   nl: Lord-Howepurperkoet
   pl: modrzyk mały
   tr: Beyaz Sazhorozu

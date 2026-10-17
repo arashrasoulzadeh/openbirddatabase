@@ -12,7 +12,7 @@ names:
   es: Tejedor Canela
   fr: Tisserin cannelle
   de: Zimtweber
-  pt: cinnamon weaver
+  pt: ''
   ru: Суданский ткач
   ja: ニッケイハタオリ
   nl: Kaneelwever

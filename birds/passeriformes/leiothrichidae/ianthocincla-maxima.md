@@ -12,7 +12,7 @@ names:
   es: Charlatán Gigante
   fr: Garrulaxe géant
   de: Riesenhäherling
-  pt: giant laughingthrush
+  pt: ''
   ru: Большая кустарница
   ja: オオシロボシガビチョウ
   zh: 大噪鹛

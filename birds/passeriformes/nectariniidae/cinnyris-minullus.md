@@ -12,7 +12,7 @@ names:
   es: Suimanga Enano
   fr: Souimanga minule
   de: Zwergnektarvogel
-  pt: tiny sunbird
+  pt: ''
   ru: Крошечная нектарница
   ja: コゴシキタイヨウチョウ
   nl: Kabouterhoningzuiger

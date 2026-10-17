@@ -12,7 +12,7 @@ names:
   es: Frutero Escamoso
   fr: Cotinga écaillé
   de: Schuppenkotinga
-  pt: scaled fruiteater
+  pt: ''
   ru: Чешуйчатый ягодоед
   ja: ウロコカザリドリ
   zh: 鳞斑食果伞鸟属

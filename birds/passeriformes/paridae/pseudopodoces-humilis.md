@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22169.0
 names:
   scientific: Pseudopodoces humilis
-  fa: nan
+  fa: ''
   en: Ground Tit
   es: Carbonero Terrestre
   fr: Mésange de Hume
   de: Tibetmeise
-  pt: ground tit
+  pt: ''
   ru: Тибетская ложносойка, земляная синица
   ja: ヒメサバクガラス
   zh: 地山雀

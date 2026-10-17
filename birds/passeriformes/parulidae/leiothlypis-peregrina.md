@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 33972.0
 names:
   scientific: Leiothlypis peregrina
-  fa: nan
+  fa: ''
   en: Tennessee Warbler
   es: Reinita de Tennessee
   fr: Paruline obscure

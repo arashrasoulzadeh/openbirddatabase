@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18873.0
 names:
   scientific: Edolisoma dohertyi
-  fa: nan
+  fa: ''
   en: Pale-shouldered Cicadabird
   es: Oruguero de Sumba
   fr: Échenilleur de Sumba
   de: Sumbaraupenfänger
-  pt: pale-shouldered cicadabird
+  pt: ''
   ru: Светлокрылый цикадник
   ja: スンバオオサンショウクイ
   zh: 多氏鹃鵙

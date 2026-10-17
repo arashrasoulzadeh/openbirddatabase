@@ -15,7 +15,7 @@ names:
   pt: surucuá-pequeno
   ru: Амазонский трогон
   ja: アマゾンキヌバネドリ
-  zh: Amazonian Trogon
+  zh: ''
   nl: Amazonetrogon
   pl: trogon amazoński
   tr: Amazon Trogonu

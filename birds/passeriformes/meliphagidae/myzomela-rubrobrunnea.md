@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17958.0
 names:
   scientific: Myzomela rubrobrunnea
-  fa: nan
+  fa: ''
   en: Biak Myzomela
   es: Mielero de Biak
   fr: Myzomèle brun-roux
   de: Biakhonigfresser
-  pt: biak myzomela
+  pt: ''
   ja: ビアクコゲチャミツスイ
   nl: Biakdwerghoningeter
   pl: miodówka kreskowana

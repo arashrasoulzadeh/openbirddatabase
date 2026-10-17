@@ -12,7 +12,7 @@ names:
   es: Pitohuí Ventriblanco
   fr: Siffleur à ventre clair
   de: Fleckenbrust-Dickkopf
-  pt: white-bellied pitohui
+  pt: ''
   ru: Пестрогрудый питуи
   ja: ムナフモリモズ
   nl: Vlekborstpitohui

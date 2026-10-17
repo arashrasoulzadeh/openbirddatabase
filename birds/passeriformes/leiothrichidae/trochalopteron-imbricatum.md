@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26449.0
 names:
   scientific: Trochalopteron imbricatum
-  fa: nan
+  fa: ''
   en: Bhutan Laughingthrush
   es: Charlatán de Bután
   fr: Garrulaxe du Bhoutan
   de: Braunhäherling
-  pt: bhutan laughingthrush
+  pt: ''
   ru: Бутанская кустарница
   ja: ブータンガビチョウ
   zh: 丽星噪鹛

@@ -12,7 +12,7 @@ names:
   es: Vencejo Gigante
   fr: Martinet géant
   de: Eilsegler
-  pt: brown-backed needletail
+  pt: ''
   ru: Большой колючехвост
   ja: オオハリオアマツバメ
   zh: 褐背针尾雨燕

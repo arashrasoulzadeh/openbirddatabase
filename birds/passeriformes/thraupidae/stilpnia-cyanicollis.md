@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35027.0
 names:
   scientific: Stilpnia cyanicollis
-  fa: nan
+  fa: ''
   en: Blue-necked Tanager
   es: Tangara Cabeciazul
   fr: Calliste à cou bleu

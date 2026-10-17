@@ -12,7 +12,7 @@ names:
   es: Polluela de Boehm
   fr: Râle de Böhm
   de: Strichelbrustralle
-  pt: streaky-breasted flufftail
+  pt: ''
   ru: Пестрогрудая жемчужная курочка
   ja: アカエリシマクイナ
   nl: Streepborstral

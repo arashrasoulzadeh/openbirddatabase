@@ -12,7 +12,7 @@ names:
   es: Buco Barrado
   fr: Tamatia barré
   de: Tigerfaulvogel
-  pt: barred puffbird
+  pt: ''
   ru: Рябая пуховка
   ja: ヨコジマオオガシラ
   nl: Gebandeerde baardkoekoek

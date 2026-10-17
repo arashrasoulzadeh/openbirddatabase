@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19500.0
 names:
   scientific: Pachycephala aurea
-  fa: nan
+  fa: ''
   en: Golden-backed Whistler
   es: Silbador Áureo
   fr: Siffleur à cape jaune
   de: Gelbrücken-Dickkopf
-  pt: golden-backed whistler
+  pt: ''
   ru: Желтоспинный свистун
   ja: キイロモズヒタキ
   zh: 黄背啸鹟

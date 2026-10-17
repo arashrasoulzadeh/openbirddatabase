@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34250.0
 names:
   scientific: Basileuterus culicivorus
-  fa: nan
+  fa: ''
   en: Golden-crowned Warbler
   es: Reinita Coroniestriada
   fr: Paruline à couronne dorée

@@ -12,7 +12,7 @@ names:
   es: Picaflores de Nehrkorn
   fr: Dicée à tête rouge
   de: Nehrkornmistelfresser
-  pt: crimson-crowned flowerpecker
+  pt: ''
   ru: Красношапочный цветоед
   ja: ズアカハナドリ
   zh: 紅冠啄花

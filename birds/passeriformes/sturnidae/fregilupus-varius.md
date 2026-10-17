@@ -15,7 +15,7 @@ names:
   pt: reunion starling
   ru: Реюньонский скворец
   ja: カンムリムクドリ
-  zh: Hoopoe Starling
+  zh: ''
   nl: Hopspreeuw
   pl: szpak reunioński
   tr: Hüthüt Sığırcığı

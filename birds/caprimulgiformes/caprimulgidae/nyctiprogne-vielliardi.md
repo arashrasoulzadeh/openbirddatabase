@@ -15,7 +15,7 @@ names:
   pt: bacurau-do-são-francisco
   ru: Одноцветный сумеречник
   ja: カーティンガアメリカヨタカ
-  zh: Plain-tailed Nighthawk
+  zh: ''
   nl: Bahianachtzwaluw
   pl: lelkowiec kasztanowaty
   tr: Düz Kuyruklu Gecedoğanı

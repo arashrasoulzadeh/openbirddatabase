@@ -12,7 +12,7 @@ names:
   es: Paloma Blanquinegra
   fr: Pigeon leucomèle
   de: Weißbrusttaube
-  pt: white-headed pigeon
+  pt: ''
   ru: Белоголовый вяхирь
   ja: シロガシラカラスバト
   zh: 白头鸽

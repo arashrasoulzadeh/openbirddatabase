@@ -12,7 +12,7 @@ names:
   es: Polluela Venezolana
   fr: Râle de Levraud
   de: Venezuelaralle
-  pt: rusty-flanked crake
+  pt: ''
   ru: Ржавобокий коростелёк
   ja: ワキアカコビトクイナ
   nl: Roestflankdwergral

@@ -12,7 +12,7 @@ names:
   es: Tapaculo Chucao
   fr: Tourco rougegorge
   de: Rotkehltapaculo
-  pt: chucao tapaculo
+  pt: ''
   ru: Зарянковый тюрко
   ja: ムナフオタテドリ
   nl: Roodkeeltapaculo

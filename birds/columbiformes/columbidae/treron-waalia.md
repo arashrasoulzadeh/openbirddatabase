@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2534.0
 names:
   scientific: Treron waalia
-  fa: nan
+  fa: ''
   en: Bruce's Green Pigeon
   es: Vinago Waalia
   fr: Colombar waalia
@@ -15,7 +15,7 @@ names:
   pt: pomba-verde-amarela
   ru: Желтобрюхий зелёный голубь
   ja: キバラアオバト
-  zh: Bruce's Green Pigeon
+  zh: ''
   nl: Waaliaduif
   pl: treron żółtobrzuchy
   tr: Afrika Yeşil Güvercini

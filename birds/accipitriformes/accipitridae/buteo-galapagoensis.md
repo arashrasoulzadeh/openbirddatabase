@@ -12,7 +12,7 @@ names:
   es: Busardo de Galápagos
   fr: Buse des Galapagos
   de: Galápagosbussard
-  pt: galapagos hawk
+  pt: ''
   ru: Галапагосский канюк
   ja: ガラパゴスノスリ
   zh: 加岛鵟

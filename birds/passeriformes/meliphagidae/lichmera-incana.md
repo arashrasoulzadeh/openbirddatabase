@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18085.0
 names:
   scientific: Lichmera incana
-  fa: nan
+  fa: ''
   en: Grey-eared Honeyeater
   es: Mielero Orejigrís
   fr: Méliphage à oreillons gris
@@ -15,7 +15,7 @@ names:
   pt: gray-eared honeyeater
   ru: Сероухий медолюб
   ja: ギンミミミツスイ
-  zh: Grey-eared Honeyeater
+  zh: ''
   nl: Vanuatuhoningeter
   pl: miodojadek szarouchy
   tr: Gri Yanaklı Balkuşu

@@ -12,7 +12,7 @@ names:
   es: Inca de Perijá
   fr: Inca de la Perija
   de: Perijákolibri
-  pt: perija starfrontlet
+  pt: ''
   zh: 佩里哈星额蜂鸟
   nl: Perija-incakolibrie
   pl: elfik rdzawoskrzydły

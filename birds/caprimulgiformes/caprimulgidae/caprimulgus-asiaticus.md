@@ -12,7 +12,7 @@ names:
   es: Chotacabras Hindú
   fr: Engoulevent indien
   de: Indiennachtschwalbe
-  pt: indian nightjar
+  pt: ''
   ru: Индийский козодой
   ja: インドヨタカ
   zh: 印度夜鷹

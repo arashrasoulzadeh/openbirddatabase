@@ -12,7 +12,7 @@ names:
   es: Monarca Gorjinegro
   fr: Monarque à gorge noire
   de: Schwarzkehlmonarch
-  pt: black-throated shrikebill
+  pt: ''
   ru: Сорокопутовый олевао
   ja: カオグロオオハシヒタキ
   nl: Zwartkeelklauwiermonarch

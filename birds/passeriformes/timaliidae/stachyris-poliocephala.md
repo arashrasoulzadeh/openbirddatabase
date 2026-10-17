@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 26115.0
 names:
   scientific: Stachyris poliocephala
-  fa: nan
+  fa: ''
   en: Grey-headed Babbler
   es: Timalí Cabecigrís
   fr: Timalie à tête grise
@@ -15,7 +15,7 @@ names:
   pt: gray-headed babbler
   ru: Темноголовая тимелия
   ja: ハイガシラモリチメドリ
-  zh: Grey-headed Babbler
+  zh: ''
   nl: Grijskopboomtimalia
   pl: cierniodziób sędziwy
   tr: Gri Başlı Çalı Timalyası

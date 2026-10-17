@@ -12,7 +12,7 @@ names:
   es: Paloma Apuñalada de Luzón
   fr: Gallicolombe poignardée
   de: Dolchstichtaube
-  pt: luzon bleeding-heart
+  pt: ''
   ru: Лузонский кровавогрудый голубь
   ja: ヒムネバト
   zh: 吕宋鸡鸠

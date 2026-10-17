@@ -12,7 +12,7 @@ names:
   es: Monterita Cejirrufa
   fr: Tangara à front roux
   de: Rostbrauen-Finkentangare
-  pt: rusty-browed warbling finch
+  pt: ''
   ru: Рыжебровая монтерита
   ja: アカマユシトド
   nl: Roestbrauwboomgors

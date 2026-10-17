@@ -12,7 +12,7 @@ names:
   es: Polluela Listada
   fr: Râle vergeté
   de: Strichelralle
-  pt: white-striped forest rail
+  pt: ''
   ru: Белополосый пастушок
   ja: セスジパプアクイナ
   nl: Bonte kaneelral

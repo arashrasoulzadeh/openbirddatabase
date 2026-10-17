@@ -12,7 +12,7 @@ names:
   es: Canastero Estriado
   fr: Synallaxe à queue marbrée
   de: Roststirncanastero
-  pt: scribble-tailed canastero
+  pt: ''
   ru: Пестрохвостый канастеро
   ja: マダラオカマドドリ
   nl: Vlekstaartcanastero

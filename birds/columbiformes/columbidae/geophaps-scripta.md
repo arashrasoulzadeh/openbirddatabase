@@ -12,7 +12,7 @@ names:
   es: Paloma Escrita
   fr: Colombine marquetée
   de: Buchstabentaube
-  pt: squatter pigeon
+  pt: ''
   ru: Куропатковый бронзовокрыл
   ja: ライチョウバト
   zh: 矮岩鸠

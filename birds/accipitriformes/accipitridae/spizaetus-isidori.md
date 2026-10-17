@@ -12,7 +12,7 @@ names:
   es: Águila Poma
   fr: Aigle d'Isidore
   de: Kastanienbauchadler
-  pt: black-and-chestnut eagle
+  pt: ''
   ru: Траурный хохлатый орёл
   ja: アカクロクマタカ
   zh: 黑栗雕

@@ -12,7 +12,7 @@ names:
   es: Alcaraván Acuático
   fr: Oedicnème vermiculé
   de: Wassertriel
-  pt: water thick-knee
+  pt: ''
   ru: Водяная авдотка
   ja: ミズベイシチドリ
   zh: 水石鴴

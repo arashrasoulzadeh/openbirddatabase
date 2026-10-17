@@ -12,7 +12,7 @@ names:
   es: Ostrero Pío Australiano
   fr: Huîtrier à long bec
   de: Australausternfischer
-  pt: pied oystercatcher
+  pt: ''
   ru: Длинноклювый кулик-сорока
   ja: オーストラリアミヤコドリ
   zh: 澳洲斑蛎鹬

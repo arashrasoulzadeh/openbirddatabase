@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15236.0
 names:
   scientific: Thripadectes holostictus
-  fa: nan
+  fa: ''
   en: Striped Treehunter
   es: Trepamusgos Listado
   fr: Anabate strié
   de: Strichelbaumspäher
-  pt: striped treehunter
+  pt: ''
   ru: Исчерченный лесовик
   ja: キスジムシクイカマドドリ
   nl: Gestreepte boomjager

@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 16255.0
 names:
   scientific: Pogonotriccus venezuelanus
-  fa: nan
+  fa: ''
   en: Venezuelan Bristle Tyrant
   es: Orejerito Venezolano
   fr: Tyranneau du Venezuela
@@ -15,7 +15,7 @@ names:
   pt: venezuelan bristle-tyrant
   ru: Венесуэльский тираннчик
   ja: ベネズエラヒゲハエトリ
-  zh: Venezuelan Bristle Tyrant
+  zh: ''
   nl: Geelteugellooftiran
   pl: tyranczyk wenezuelski
   tr: Venezüela Yaprak Tiranı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10781.0
 names:
   scientific: Psilopogon chersonesus
-  fa: nan
+  fa: ''
   en: Turquoise-throated Barbet
   es: Barbudo Gorjiazul Tailandés
   fr: Barbu de Kra
   de: Türkiskehl-Bartvogel
-  pt: turquoise-throated barbet
+  pt: ''
   ja: アオミドリノドゴシキドリ
   zh: 绿喉拟啄木鸟
   nl: Turkooiskeelbaardvogel

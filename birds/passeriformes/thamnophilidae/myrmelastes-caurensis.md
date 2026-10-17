@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14011.0
 names:
   scientific: Myrmelastes caurensis
-  fa: nan
+  fa: ''
   en: Caura Antbird
   es: Hormiguero del Caura
   fr: Alapi du Caura

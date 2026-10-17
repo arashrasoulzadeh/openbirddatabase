@@ -12,7 +12,7 @@ names:
   es: Camachuelo Frentirrojo
   fr: Roselin à gorge rouge
   de: Felsengimpel
-  pt: red-fronted rosefinch
+  pt: ''
   ru: Красный вьюрок
   ja: ムネアカマシコ
   zh: 红胸朱雀

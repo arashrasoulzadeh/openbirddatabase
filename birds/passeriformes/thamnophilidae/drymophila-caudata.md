@@ -12,7 +12,7 @@ names:
   es: Tiluchí de Santander
   fr: Grisin à longue queue
   de: Langschwanz-Ameisenfänger
-  pt: east andean antbird
+  pt: ''
   ru: Длиннохвостая муравьянка
   ja: オナガアリドリ
   zh: 长尾蚁鸟

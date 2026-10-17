@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 25905.0
 names:
   scientific: Mixornis prillwitzi
-  fa: nan
+  fa: ''
   en: Kangean Tit-Babbler
   es: Timalí de las Kangean
   fr: Timalie des Kangean
   de: Kangeanmeisentimalie
-  pt: kangean tit-babbler
+  pt: ''
   zh: 康岛纹胸鹛
   nl: Kangeantimalia
   pl: gromadniczek ubogi

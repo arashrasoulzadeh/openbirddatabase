@@ -12,7 +12,7 @@ names:
   es: Talégalo de las Nicobar
   fr: Mégapode des Nicobar
   de: Nikobaren-Großfußhuhn
-  pt: nicobar megapode
+  pt: ''
   ru: Никобарский большеног
   ja: ニコバルツカツクリ
   nl: Nicobarenboshoen

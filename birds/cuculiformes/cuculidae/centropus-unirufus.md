@@ -12,7 +12,7 @@ names:
   es: Cucal Rufo
   fr: Coucal roux
   de: Bambuskuckuck
-  pt: rufous coucal
+  pt: ''
   ru: Рыжий кукаль
   ja: アカチャバンケン
   nl: Rosse spoorkoekoek

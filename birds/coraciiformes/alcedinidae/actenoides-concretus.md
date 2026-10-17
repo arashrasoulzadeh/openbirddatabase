@@ -12,7 +12,7 @@ names:
   es: Alción Malayo
   fr: Martin-chasseur trapu
   de: Malaienliest
-  pt: rufous-collared kingfisher
+  pt: ''
   ru: Малайский зимородок
   ja: アオヒゲショウビン
   zh: 栗領翡翠

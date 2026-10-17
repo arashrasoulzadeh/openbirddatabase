@@ -12,7 +12,7 @@ names:
   es: Yerbera Japonesa
   fr: Locustelle du Japon
   de: Riedschwirl
-  pt: marsh grassbird
+  pt: ''
   ru: Японский сверчок
   ja: オオセッカ
   zh: 斑背大尾莺

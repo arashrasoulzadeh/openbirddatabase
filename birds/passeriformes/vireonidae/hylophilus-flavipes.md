@@ -12,7 +12,7 @@ names:
   es: Verdillo Paticlaro
   fr: Viréon à pattes claires
   de: Buschvireo
-  pt: scrub greenlet
+  pt: ''
   ru: Кустарниковый виреончик
   ja: ヤブヒメモズモドキ
   nl: Struikvireo

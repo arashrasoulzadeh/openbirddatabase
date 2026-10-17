@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 13018.0
 names:
   scientific: Pyrrhura lepida
-  fa: nan
+  fa: ''
   en: Pearly Parakeet
   es: Cotorra Pulcra
   fr: Conure perlée

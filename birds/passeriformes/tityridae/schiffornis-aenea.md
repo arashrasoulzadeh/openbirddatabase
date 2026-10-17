@@ -12,7 +12,7 @@ names:
   es: Llorón Bronceado
   fr: Antriade des contreforts
   de: Braunrückenbekarde
-  pt: foothill schiffornis
+  pt: ''
   ru: Эквадорская сельвиния
   ja: サンロクツグミマイコドリ
   nl: Heuvelschiffornis

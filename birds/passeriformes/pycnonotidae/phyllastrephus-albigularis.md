@@ -12,7 +12,7 @@ names:
   es: Bulbul Gorjiblanco
   fr: Bulbul à gorge blanche
   de: Schuppenkopfbülbül
-  pt: white-throated greenbul
+  pt: ''
   ru: Белозобый бюльбюль
   ja: ノドジロミドリヒヨドリ
   nl: Witkeelloofbuulbuul

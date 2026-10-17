@@ -15,7 +15,7 @@ names:
   pt: red-crested bustard
   ru: Рыжехохлый корхан
   ja: カンムリショウノガン
-  zh: Red-crested Korhaan
+  zh: ''
   nl: Roodkuiftrap
   pl: dropik rdzawoczuby
   tr: Güney Afrika Cüce Toyu

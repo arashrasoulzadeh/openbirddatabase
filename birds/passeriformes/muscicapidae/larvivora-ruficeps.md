@@ -12,7 +12,7 @@ names:
   es: Ruiseñor Cabecirrojo
   fr: Rossignol à tête rousse
   de: Rotkopfnachtigall
-  pt: rufous-headed robin
+  pt: ''
   ru: Рыжеголовый соловей
   ja: ズアカコマドリ
   zh: 棕头歌鸲

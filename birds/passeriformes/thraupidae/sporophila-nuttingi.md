@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35550.0
 names:
   scientific: Sporophila nuttingi
-  fa: nan
+  fa: ''
   en: Nicaraguan Seed Finch
   es: Semillero Nicaragüense
   fr: Sporophile de Nutting
@@ -15,7 +15,7 @@ names:
   pt: nicaraguan seed-finch
   ru: Никарагуанский просяночник
   ja: ニカラグアオオコメワリ
-  zh: Nicaraguan Seed Finch
+  zh: ''
   nl: Nicaraguaanse zaadkraker
   pl: ryżołusk czarny
   tr: Nikaragua Koca Tohumculu

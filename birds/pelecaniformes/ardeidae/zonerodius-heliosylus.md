@@ -12,7 +12,7 @@ names:
   es: Avetigre Papú
   fr: Onoré phaéton
   de: Bindenreiher
-  pt: forest bittern
+  pt: ''
   ru: Лесная выпь
   ja: パプアトラフサギ
   zh: 林鳽属

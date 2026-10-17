@@ -12,7 +12,7 @@ names:
   es: Cachudito Ágil
   fr: Taurillon agile
   de: Brauentachurityrann
-  pt: agile tit-tyrant
+  pt: ''
   ru: Длиннохвостый качудито
   ja: タテジマカラタイランチョウ
   zh: 敏雀霸鶲

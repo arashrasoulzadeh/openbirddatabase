@@ -12,7 +12,7 @@ names:
   es: Petroica Flanquinegra
   fr: Miro à flancs noirs
   de: Boaschnäpper
-  pt: black-sided robin
+  pt: ''
   ru: Дриада-пеструшка
   ja: クロシロマユヒタキ
   nl: Zwartflankvliegenvanger

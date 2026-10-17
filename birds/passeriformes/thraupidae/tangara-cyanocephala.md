@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 35078.0
 names:
   scientific: Tangara cyanocephala
-  fa: nan
+  fa: ''
   en: Red-necked Tanager
   es: Tangara Militar
   fr: Calliste à tête bleue

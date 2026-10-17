@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 2612.0
 names:
   scientific: Ramphiculus mangoliensis
-  fa: nan
+  fa: ''
   en: Sula Fruit Dove
   es: Tilopo de las Sula
   fr: Ptilope des Sula
@@ -15,7 +15,7 @@ names:
   pt: sula fruit-dove
   ru: Суланский фруктовый голубь
   ja: スラヒメアオバト
-  zh: Sula Fruit Dove
+  zh: ''
   nl: Soelajufferduif
   pl: owocożer sulański
   tr: Sula Meyve Kumrusu

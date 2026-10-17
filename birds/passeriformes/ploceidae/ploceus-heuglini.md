@@ -15,7 +15,7 @@ names:
   pt: heuglin's masked-weaver
   ru: Чернолицый ткач
   ja: ニシメンガタハタオリ
-  zh: Heuglin's Masked Weaver
+  zh: ''
   nl: Heuglinwever
   pl: wikłacz czarnolicy
   tr: Heuglin Dokumacısı

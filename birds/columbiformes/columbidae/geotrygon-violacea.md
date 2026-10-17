@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2317.0
 names:
   scientific: Geotrygon violacea
-  fa: nan
+  fa: ''
   en: Violaceous Quail-Dove
   es: Paloma Perdiz Violácea
   fr: Colombe à nuque violette

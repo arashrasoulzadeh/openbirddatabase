@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16746.0
 names:
   scientific: Serpophaga cinerea
-  fa: nan
+  fa: ''
   en: Torrent Tyrannulet
   es: Piojito Guardarríos
   fr: Tyranneau des torrents
   de: Sturzbach-Kleintyrann
-  pt: torrent tyrannulet
+  pt: ''
   ru: Серый пиохито
   ja: カトリタイランチョウ
   nl: Bergbeektachuri

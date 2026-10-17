@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 22585.0
 names:
   scientific: Corypha sharpii
-  fa: nan
+  fa: ''
   en: Russet Lark
   es: Alondra de Sharpe
   fr: Alouette de Sharpe
   de: Fahllerche
-  pt: russet lark
+  pt: ''
   nl: Elliotleeuwerik
   pl: skowroniec miedziany
   tr: Sharpe Toygarı

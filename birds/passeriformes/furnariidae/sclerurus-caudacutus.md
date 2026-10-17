@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14553.0
 names:
   scientific: Sclerurus caudacutus
-  fa: nan
+  fa: ''
   en: Black-tailed Leaftosser
   es: Tirahojas Colinegro
   fr: Sclérure des ombres

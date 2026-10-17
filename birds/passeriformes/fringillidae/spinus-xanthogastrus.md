@@ -12,7 +12,7 @@ names:
   es: Jilguero Ventriamarillo
   fr: Tarin à ventre jaune
   de: Gelbbauchzeisig
-  pt: yellow-bellied siskin
+  pt: ''
   ru: Желтобрюхий чиж
   ja: キバラクロヒワ
   nl: Geelbuiksijs

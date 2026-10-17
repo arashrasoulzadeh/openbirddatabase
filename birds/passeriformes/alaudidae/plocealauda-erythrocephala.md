@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 22476.0
 names:
   scientific: Plocealauda erythrocephala
-  fa: nan
+  fa: ''
   en: Indochinese Bush Lark
   es: Alondra Indochina
   fr: Alouette d'Indochine
@@ -15,7 +15,7 @@ names:
   pt: indochinese bushlark
   ru: Индокитайский жаворонок
   ja: ズアカヤブヒバリ
-  zh: Indochinese Bush Lark
+  zh: ''
   nl: Indochinese struikleeuwerik
   pl: skowroniec indochiński
   tr: Çinhindi Çalı Toygarı

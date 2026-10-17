@@ -12,7 +12,7 @@ names:
   es: Chara de Omiltemi
   fr: Geai masqué
   de: Weißkehlhäher
-  pt: white-throated jay
+  pt: ''
   ru: Белогорлая сойка
   ja: ノドジロアオカケス
   zh: 白喉蓝头鹊

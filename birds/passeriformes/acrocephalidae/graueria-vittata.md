@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 23614.0
 names:
   scientific: Graueria vittata
-  fa: nan
+  fa: ''
   en: Grauer's Warbler
   es: Mosquitero Barrado
   fr: Grauérie striée
   de: Sperberbrustsänger
-  pt: grauer's warbler
+  pt: ''
   ru: Грауерия
   ja: サザナミムシクイ
   zh: 格氏丛莺

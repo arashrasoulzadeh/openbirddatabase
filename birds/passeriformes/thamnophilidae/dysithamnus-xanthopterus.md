@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13648.0
 names:
   scientific: Dysithamnus xanthopterus
-  fa: nan
+  fa: ''
   en: Rufous-backed Antvireo
   es: Batarito Dorsirrufo
   fr: Batara à dos roux

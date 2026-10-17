@@ -12,7 +12,7 @@ names:
   es: Codorniz Coromandélica
   fr: Caille nattée
   de: Regenwachtel
-  pt: rain quail
+  pt: ''
   ru: Черногрудый перепел
   ja: ムナグロウズラ
   zh: 黑胸鹌鹑

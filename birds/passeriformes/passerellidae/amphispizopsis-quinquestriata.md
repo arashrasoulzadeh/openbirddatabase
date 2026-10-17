@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 33015.0
 names:
   scientific: Amphispizopsis quinquestriata
-  fa: nan
+  fa: ''
   en: Five-striped Sparrow
   es: Chingolo Cincorrayas
   fr: Bruant pentaligne
   de: Fünfstreifenammer
-  pt: five-striped sparrow
+  pt: ''
   ru: Пятиполосая овсянка
   ja: ムナフスズメモドキ
   nl: Vijfstrepengors

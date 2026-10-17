@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 20322.0
 names:
   scientific: Rhipidura semicollaris
-  fa: nan
+  fa: ''
   en: Supertramp Fantail
   es: Abanico Semiacollarado
   fr: Rhipidure à semi-collier
-  pt: supertramp fantail
+  pt: ''
   nl: Witkinwaaierstaart
   pl: wachlarzówka półobrożna
   tr: Gezgin Katmerkuyruk

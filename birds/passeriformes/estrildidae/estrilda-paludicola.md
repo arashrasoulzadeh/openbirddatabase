@@ -12,7 +12,7 @@ names:
   es: Estrilda Pechiparda
   fr: Astrild à poitrine fauve
   de: Sumpfastrild
-  pt: fawn-breasted waxbill
+  pt: ''
   ru: Болотный астрильд
   ja: チャムネカエデチョウ
   zh: 黄胸梅花雀

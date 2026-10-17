@@ -12,7 +12,7 @@ names:
   es: Carbonerito Elegante
   fr: Orite mitrée
   de: Schopfhähnchen
-  pt: crested tit-warbler
+  pt: ''
   ru: Хохлатая расписная синичка
   ja: カンムリムシクイ
   zh: 凤头雀莺

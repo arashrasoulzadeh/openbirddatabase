@@ -12,7 +12,7 @@ names:
   es: Camachuelo del Sinaí
   fr: Roselin du Sinaï
   de: Einödgimpel
-  pt: sinai rosefinch
+  pt: ''
   ru: Синайская чечевица
   ja: サバクマシコ
   zh: 西奈淡色朱雀

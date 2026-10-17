@@ -15,7 +15,7 @@ names:
   pt: makira moorhen
   ru: Лесная камышница
   ja: サンクリストバルオグロバン
-  zh: Makira Woodhen
+  zh: ''
   nl: Makirawaterhoen
   pl: kokoszka czerwonodzioba
   tr: Kara Alınlı Sutavuğu

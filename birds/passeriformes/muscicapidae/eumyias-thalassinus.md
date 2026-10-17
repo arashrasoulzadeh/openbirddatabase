@@ -12,7 +12,7 @@ names:
   es: Papamoscas Verdín
   fr: Gobemouche vert-de-gris
   de: Lazulischnäpper
-  pt: verditer flycatcher
+  pt: ''
   ru: Небесная мухоловка
   ja: ロクショウヒタキ
   zh: 铜蓝鹟

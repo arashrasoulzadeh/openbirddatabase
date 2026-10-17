@@ -12,7 +12,7 @@ names:
   es: Alción Lapislázuli
   fr: Martin-chasseur lazuli
   de: Lazuliliest
-  pt: lazuli kingfisher
+  pt: ''
   ru: Лазурная альциона
   ja: ミナミモルッカショウビン
   zh: 南摩鹿加翡翠

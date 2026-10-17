@@ -12,7 +12,7 @@ names:
   es: Azor de Doria
   fr: Autour de Doria
   de: Salvadorihabicht
-  pt: doria's hawk
+  pt: ''
   ru: Новогвинейский ястреб
   ja: パプアオオタカ
   nl: Doriahavik

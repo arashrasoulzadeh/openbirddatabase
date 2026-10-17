@@ -12,7 +12,7 @@ names:
   es: Pitajo Pechicastaño
   fr: Pitajo à plastron
   de: Maronenbrust-Schmätzertyrann
-  pt: maroon-belted chat-tyrant
+  pt: ''
   ru: Каштановогрудая тираннита
   nl: Kastanjebandtapuittiran
   pl: kląszczyk kasztanowopierśny

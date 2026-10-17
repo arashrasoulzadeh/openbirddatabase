@@ -12,7 +12,7 @@ names:
   es: Petroica Escarlata
   fr: Miro boodang
   de: Australscharlachschnäpper
-  pt: scarlet robin
+  pt: ''
   ru: Австралийская петроика
   ja: サンショクヒタキ
   zh: 緋紅鴝鶲

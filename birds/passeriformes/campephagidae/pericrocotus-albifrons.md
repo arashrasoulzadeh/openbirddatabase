@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 18573.0
 names:
   scientific: Pericrocotus albifrons
-  fa: nan
+  fa: ''
   en: Jerdon's Minivet
   es: Minivet de Jerdon
   fr: Minivet birman
   de: Myanmarmennigvogel
-  pt: jerdon's minivet
+  pt: ''
   ru: Белолобый личинкоед
   ja: インドベニサンショウクイ
   nl: Birmese menievogel

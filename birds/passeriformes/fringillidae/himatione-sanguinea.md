@@ -12,7 +12,7 @@ names:
   es: Apapane
   fr: Picchion cramoisi
   de: Apapanekleidervogel
-  pt: apapane
+  pt: ''
   ru: Малиновая апапане
   ja: アカハワイミツスイ
   zh: 白臀蜜鳥

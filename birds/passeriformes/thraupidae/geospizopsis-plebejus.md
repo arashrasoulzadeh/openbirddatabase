@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 35385.0
 names:
   scientific: Geospizopsis plebejus
-  fa: nan
+  fa: ''
   en: Ash-breasted Sierra Finch
   es: Yal Plebeyo
   fr: Haplospize plébéien
   de: Aschbrust-Ammertangare
-  pt: ash-breasted sierra finch
+  pt: ''
   ru: Пепельногрудый овсяночник
   ja: ハイムネヤマシトド
   nl: Grijsborstsierragors

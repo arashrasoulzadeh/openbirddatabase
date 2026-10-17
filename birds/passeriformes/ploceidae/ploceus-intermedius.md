@@ -15,7 +15,7 @@ names:
   pt: lesser masked-weaver
   ru: Масковый ткач
   ja: メンハタオリドリ
-  zh: Lesser Masked Weaver
+  zh: ''
   nl: Kleine textorwever
   pl: wikłacz sawannowy
   tr: Ortanca Dokumacı

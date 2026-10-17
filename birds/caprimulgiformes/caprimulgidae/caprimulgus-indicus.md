@@ -12,7 +12,7 @@ names:
   es: Chotacabras de Jungla
   fr: Engoulevent de jungle
   de: Dschungelnachtschwalbe
-  pt: jungle nightjar
+  pt: ''
   ru: Джунглевый козодой
   ja: ジャングルヨタカ
   zh: 印度夜鹰

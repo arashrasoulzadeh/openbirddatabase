@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14227.0
 names:
   scientific: Grallaria haplonota
-  fa: nan
+  fa: ''
   en: Plain-backed Antpitta
   es: Tororoí Torero
   fr: Grallaire à dos uni
   de: Ockerbart-Ameisenpitta
-  pt: plain-backed antpitta
+  pt: ''
   ru: Буроспинная питтовая муравьеловка
   ja: チャイロジアリドリ
   nl: Bruinrugmierpitta

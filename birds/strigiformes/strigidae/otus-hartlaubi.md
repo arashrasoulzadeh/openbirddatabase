@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 8757.0
 names:
   scientific: Otus hartlaubi
-  fa: nan
+  fa: ''
   en: Sao Tome Scops Owl
   es: Autillo de Santo Tomé
   fr: Petit-duc de Sao Tomé
@@ -15,7 +15,7 @@ names:
   pt: sao tome scops-owl
   ru: Сантомейская сплюшка
   ja: サントメコノハズク
-  zh: Sao Tome Scops Owl
+  zh: ''
   nl: Hartlaubdwergooruil
   pl: syczek groźny
   tr: Sao Tome İshakkuşu

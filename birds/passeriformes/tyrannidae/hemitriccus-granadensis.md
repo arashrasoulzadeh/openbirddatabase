@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 16370.0
 names:
   scientific: Hemitriccus granadensis
-  fa: nan
+  fa: ''
   en: Black-throated Tody-Tyrant
   es: Titirijí Gorjinegro
   fr: Todirostre à gorge noire
   de: Schwarzkehl-Todityrann
-  pt: black-throated tody-tyrant
+  pt: ''
   ru: Черногорлый тоди-тиранн
   ja: ノドグロコビトドリモドキ
   nl: Zwartkeeltodietiran

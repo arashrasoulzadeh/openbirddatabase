@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 8185.0
 names:
   scientific: Tachyspiza poliocephala
-  fa: nan
+  fa: ''
   en: Grey-headed Goshawk
   es: Gavilán Cabecigrís
   fr: Autour à tête grise
@@ -14,7 +14,7 @@ names:
   pt: gray-headed goshawk
   ru: Сероголовый тетеревятник
   ja: ハイガシラオオタカ
-  zh: Grey-headed Goshawk
+  zh: ''
   nl: Bleke sperwer
   pl: krogulec nowogwinejski
   tr: Gri Başlı Atmaca

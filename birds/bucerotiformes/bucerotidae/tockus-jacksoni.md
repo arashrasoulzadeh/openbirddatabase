@@ -12,7 +12,7 @@ names:
   es: Toco de Jackson
   fr: Calao de Jackson
   de: Jacksontoko
-  pt: jackson's hornbill
+  pt: ''
   ru: Кенийский токо
   ja: アビシニアコサイチョウ
   zh: 杰氏弯嘴犀鸟

@@ -12,7 +12,7 @@ names:
   es: Elanio Golondrina
   fr: Élanion naucler
   de: Schwalbenschwanzaar
-  pt: scissor-tailed kite
+  pt: ''
   ru: Ласточковый коршун
   ja: アフリカツバメトビ
   zh: 剪尾鳶

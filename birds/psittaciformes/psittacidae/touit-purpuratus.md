@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12798.0
 names:
   scientific: Touit purpuratus
-  fa: nan
+  fa: ''
   en: Sapphire-rumped Parrotlet
   es: Cotorrita Purpurada
   fr: Toui à queue pourprée

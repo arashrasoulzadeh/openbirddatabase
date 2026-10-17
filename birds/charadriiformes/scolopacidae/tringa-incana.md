@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 6134.0
 names:
   scientific: Tringa incana
-  fa: nan
+  fa: ''
   en: Wandering Tattler
   es: Playero de Alaska
   fr: Chevalier errant
   de: Wanderwasserläufer
-  pt: wandering tattler
+  pt: ''
   ru: Американский пепельный улит
   ja: メリケンキアシシギ
   zh: 漂鹬

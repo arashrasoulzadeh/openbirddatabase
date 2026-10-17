@@ -12,7 +12,7 @@ names:
   es: Monarca de Richards
   fr: Monarque de Richards
   de: Kappenmonarch
-  pt: white-capped monarch
+  pt: ''
   ru: Белоголовый монарх
   ja: ソロモンカササギビタキ
   nl: Richardsmonarch

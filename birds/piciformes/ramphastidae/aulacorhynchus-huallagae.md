@@ -12,7 +12,7 @@ names:
   es: Tucanete del Huallaga
   fr: Toucanet à sourcils jaunes
   de: Gelbbrauenarassari
-  pt: yellow-browed toucanet
+  pt: ''
   ru: Желтобровый туканет
   ja: キマユミドリチュウハシ
   nl: Geelbrauwarassari

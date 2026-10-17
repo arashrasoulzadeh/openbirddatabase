@@ -6,12 +6,12 @@ iucn_status: LC
 taxon_order: 22577.0
 names:
   scientific: Corypha somalica
-  fa: nan
+  fa: ''
   en: Somali Lark
   es: Alondra Somalí
   fr: Alouette de Somalie
   de: Somaliriesenlerche
-  pt: somali lark
+  pt: ''
   ru: Буланый жаворонок
   ja: ソマリーヤブヒバリ
   nl: Somalische leeuwerik

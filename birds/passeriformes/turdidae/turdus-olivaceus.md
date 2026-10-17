@@ -12,7 +12,7 @@ names:
   es: Zorzal Oliváceo
   fr: Merle olivâtre
   de: Kapdrossel
-  pt: olive thrush
+  pt: ''
   ru: Капский дрозд
   ja: オリーブツグミ
   zh: 橄欖鶇

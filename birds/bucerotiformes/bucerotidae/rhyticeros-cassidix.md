@@ -12,7 +12,7 @@ names:
   es: Cálao Grande de Célebes
   fr: Calao à cimier
   de: Helmhornvogel
-  pt: knobbed hornbill
+  pt: ''
   ru: Сулавесский калао
   ja: アカコブサイチョウ
   zh: 蘇拉皺盔犀鳥

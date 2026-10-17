@@ -12,7 +12,7 @@ names:
   es: Guardabosques Alicurvo
   fr: Piauhau à faucilles
   de: Rotbürzelkotinga
-  pt: scimitar-winged piha
+  pt: ''
   ru: Рыжегузая пиха
   ja: カマバネカザリドリ
   nl: Sikkelvleugelpiha

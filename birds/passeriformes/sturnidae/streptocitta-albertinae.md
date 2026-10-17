@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 27791.0
 names:
   scientific: Streptocitta albertinae
-  fa: nan
+  fa: ''
   en: Bare-eyed Myna
   es: Miná Caricalvo
   fr: Streptocitte des Sula
   de: Sulaatzel
-  pt: bare-eyed myna
+  pt: ''
   ru: Сорочий лемба
   ja: スーラカササギムクドリ
   nl: Soelamaina

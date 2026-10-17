@@ -12,7 +12,7 @@ names:
   es: Timalí Ojigualdo
   fr: Moupinie aux yeux d'or
   de: Goldaugen-Grasmücke
-  pt: yellow-eyed babbler
+  pt: ''
   ru: Желтоглазый рогозник
   ja: キンメセンニュウチメドリ
   zh: 金眼鹛雀

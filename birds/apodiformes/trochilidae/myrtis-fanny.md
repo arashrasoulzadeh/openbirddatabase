@@ -12,7 +12,7 @@ names:
   es: Colibrí de Myrtis
   fr: Colibri de Fanny
   de: Türkiskehlelfe
-  pt: purple-collared woodstar
+  pt: ''
   ru: Бирюзовый эльф
   ja: オウギオハチドリ
   zh: 紫领蜂鸟

@@ -12,7 +12,7 @@ names:
   es: Corredor Escamoso Grande
   fr: Courvite à triple collier
   de: Bindenrennvogel
-  pt: three-banded courser
+  pt: ''
   ru: Трёхполосый бегунок
   ja: ウロコクビワスナバシリ
   nl: Driebandrenvogel

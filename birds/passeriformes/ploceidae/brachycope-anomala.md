@@ -12,7 +12,7 @@ names:
   es: Tejedor Anómalo
   fr: Brachycope du Congo
   de: Kurzschwanzweber
-  pt: bob-tailed weaver
+  pt: ''
   ru: Короткохвостый ткач
   ja: カワリオウゴンチョウ
   zh: 短尾织雀

@@ -12,7 +12,7 @@ names:
   es: Cistícola de Levaillant
   fr: Cisticole à sonnette
   de: Vleyzistensänger
-  pt: levaillant's cisticola
+  pt: ''
   ru: Мухоловковая цистикола
   ja: アカボウシセッカ
   nl: Valleigraszanger

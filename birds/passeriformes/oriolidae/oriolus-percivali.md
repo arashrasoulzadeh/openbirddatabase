@@ -15,7 +15,7 @@ names:
   pt: black-tailed oriole
   ru: Горная иволга
   ja: ズキンコウライウグイス
-  zh: Mountain Oriole
+  zh: ''
   nl: Bergwielewaal
   pl: wilga górska
   tr: Dağ Sarıasması

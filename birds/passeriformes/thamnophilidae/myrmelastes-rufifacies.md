@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 14010.0
 names:
   scientific: Myrmelastes rufifacies
-  fa: nan
+  fa: ''
   en: Rufous-faced Antbird
   es: Hormiguero del Tapajós
   fr: Alapi à face rousse

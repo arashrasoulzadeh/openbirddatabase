@@ -7,12 +7,12 @@ iucn_status: DD
 taxon_order: 4016.0
 names:
   scientific: Aerodramus whiteheadi
-  fa: nan
+  fa: ''
   en: Whitehead's Swiftlet
   es: Salangana de Whitehead
   fr: Salangane de Whitehead
   de: Philippinensalangane
-  pt: whitehead's swiftlet
+  pt: ''
   ru: Лузонская салангана
   ja: フィリピンアナツバメ
   zh: 怀氏金丝燕

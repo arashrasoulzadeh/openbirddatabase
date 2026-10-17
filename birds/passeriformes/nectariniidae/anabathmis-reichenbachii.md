@@ -12,7 +12,7 @@ names:
   es: Suimanga de Reichenbach
   fr: Souimanga de Reichenbach
   de: Reichenbach-Nektarvogel
-  pt: reichenbach's sunbird
+  pt: ''
   ru: Нектарница-сильфида
   ja: ルリムネタイヨウチョウ
   nl: Reichenbachhoningzuiger

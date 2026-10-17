@@ -12,7 +12,7 @@ names:
   es: Terrera Orejiblanca
   fr: Moinelette à oreillons blancs
   de: Weißwangenlerche
-  pt: chestnut-backed sparrow-lark
+  pt: ''
   ru: Белощёкий жаворонок
   ja: ホオジロスズメヒバリ
   zh: 栗背雀百靈

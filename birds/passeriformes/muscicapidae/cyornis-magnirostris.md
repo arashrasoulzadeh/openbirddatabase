@@ -12,7 +12,7 @@ names:
   es: Papamoscas de Arunachal Pradesh
   fr: Gobemouche à bec fort
   de: Dickschnabel-Blauschnäpper
-  pt: large blue flycatcher
+  pt: ''
   ru: Большеклювая нильтава
   ja: オオヒメアオヒタキ
   zh: 大蓝仙鹟

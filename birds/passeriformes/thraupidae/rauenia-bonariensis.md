@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 34920.0
 names:
   scientific: Rauenia bonariensis
-  fa: nan
+  fa: ''
   en: Blue-and-yellow Tanager
   es: Tangara Naranjera
   fr: Tangara fourchu

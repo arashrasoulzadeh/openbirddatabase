@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 2877.0
 names:
   scientific: Pterocles orientalis
-  fa: nan
+  fa: ''
   en: Black-bellied Sandgrouse
   es: Ganga Ortega
   fr: Ganga unibande

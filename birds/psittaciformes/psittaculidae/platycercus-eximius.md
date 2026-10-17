@@ -12,7 +12,7 @@ names:
   es: Perico Multicolor
   fr: Perruche omnicolore
   de: Rosellasittich
-  pt: eastern rosella
+  pt: ''
   ru: Белощёкая розелла
   ja: ナナクサインコ
   zh: 澳東玫瑰鸚鵡

@@ -12,7 +12,7 @@ names:
   es: Papamoscas Dorsioliva
   fr: Gobemouche à dos olive
   de: Olivrücken-Dschungelschnäpper
-  pt: fulvous-chested jungle flycatcher
+  pt: ''
   ru: Оливковая джунглевая мухоловка
   ja: オリーブミツリンヒタキ
   zh: 绿背林鹟

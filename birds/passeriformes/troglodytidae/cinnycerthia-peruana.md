@@ -12,7 +12,7 @@ names:
   es: Cucarachero Peruano
   fr: Troglodyte brun
   de: Peruzaunkönig
-  pt: peruvian wren
+  pt: ''
   ru: Перуанский крапивник
   ja: ヒメアカミソサザイ
   zh: 棕褐鹪鹩

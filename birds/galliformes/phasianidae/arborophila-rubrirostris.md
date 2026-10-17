@@ -12,7 +12,7 @@ names:
   es: Arborófila Piquirroja
   fr: Torquéole à bec rouge
   de: Rotschnabel-Buschwachtel
-  pt: red-billed partridge
+  pt: ''
   ru: Красноклювая лесная куропатка
   ja: アカハシミヤマテッケイ
   zh: 紅嘴山鷓鴣

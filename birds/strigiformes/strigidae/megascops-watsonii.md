@@ -14,7 +14,7 @@ names:
   de: Watsonkreischeule
   ru: Буробрюхая совка
   ja: チャバラオオコノハズク
-  zh: Tawny-bellied Screech Owl
+  zh: ''
   nl: Donkerbruine schreeuwuil
   pl: syczoń amazoński
   tr: Amazon Puhucuğu

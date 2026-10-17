@@ -12,7 +12,7 @@ names:
   es: Mielero Coronado
   fr: Méliphage à calotte fauve
   de: Goldscheitel-Honigfresser
-  pt: tawny-crowned honeyeater
+  pt: ''
   ru: Желтоголовый медовник
   ja: カレハミツスイ
   nl: Goudkruinhoningeter

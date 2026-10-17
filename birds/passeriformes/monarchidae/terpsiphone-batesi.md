@@ -15,7 +15,7 @@ names:
   pt: bates's paradise-flycatcher
   ru: Экваториальная райская мухоловка
   ja: ベイツサンコウチョウ
-  zh: Bates's Paradise Flycatcher
+  zh: ''
   nl: Batespradijsmonarch
   pl: muchodławka kongijska
   tr: Bates Monarkı

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3537.0
 names:
   scientific: Uropsalis segmentata
-  fa: nan
+  fa: ''
   en: Swallow-tailed Nightjar
   es: Chotacabras Golondrina
   fr: Engoulevent à queue d'aronde
   de: Schwalbenschwanz-Nachtschwalbe
-  pt: swallow-tailed nightjar
+  pt: ''
   ru: Ласточкохвостый козодой
   ja: ツバメヨタカ
   zh: 小燕尾夜鹰

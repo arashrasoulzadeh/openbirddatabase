@@ -12,7 +12,7 @@ names:
   es: Curutié de Santa Marta
   fr: Synallaxe des broméliades
   de: Santa-Marta-Baumschlüpfer
-  pt: streak-capped spinetail
+  pt: ''
   ru: Пестрощёкая курутия
   ja: コロンビアカマドドリ
   nl: Streepkopstekelstaart

@@ -12,7 +12,7 @@ names:
   es: Abanico Dimorfo
   fr: Rhipidure dimorphe
   de: Gebirgsfächerschwanz
-  pt: dimorphic fantail
+  pt: ''
   ru: Короткоклювая веерохвостка
   ja: カワリオウギビタキ
   nl: Dimorfe waaierstaart

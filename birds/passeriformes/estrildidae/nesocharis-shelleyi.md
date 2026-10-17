@@ -12,7 +12,7 @@ names:
   es: Olivino Carinegro
   fr: Dos-vert à tête noire
   de: Meisenastrild
-  pt: shelley's oliveback
+  pt: ''
   ru: Синицевый астрильд
   ja: オリーブキンパラ
   zh: 小绿背织雀

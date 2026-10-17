@@ -7,7 +7,7 @@ iucn_status: VU
 taxon_order: 2485.0
 names:
   scientific: Treron fulvicollis
-  fa: nan
+  fa: ''
   en: Cinnamon-headed Green Pigeon
   es: Vinago Cabecirrufo
   fr: Colombar à cou roux

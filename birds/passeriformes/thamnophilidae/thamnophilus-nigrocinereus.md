@@ -15,7 +15,7 @@ names:
   pt: choca-preta-e-cinza
   ru: Серо-чёрный колючник
   ja: シラナミアリモズ
-  zh: Blackish-grey Antshrike
+  zh: ''
   nl: Zwart-grijze mierklauwier
   pl: chronka ciemna
   tr: İsrengi Karıncaavcısı

@@ -12,7 +12,7 @@ names:
   es: Barbudo Coroniazul
   fr: Barbu souci-col
   de: Temminckbartvogel
-  pt: flame-fronted barbet
+  pt: ''
   ru: Оранжеволобый бородастик
   ja: ズアオゴシキドリ
   zh: 蓝顶拟啄木鸟

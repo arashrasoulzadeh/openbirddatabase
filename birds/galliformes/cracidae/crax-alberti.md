@@ -12,7 +12,7 @@ names:
   es: Pavón Piquiazul
   fr: Hocco d'Albert
   de: Blaulappenhokko
-  pt: blue-billed curassow
+  pt: ''
   ru: Синеклювый кракс
   ja: アオコブホウカンチョウ
   zh: 藍嘴鳳冠雉

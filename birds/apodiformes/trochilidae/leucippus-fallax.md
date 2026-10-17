@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 5028.0
 names:
   scientific: Leucippus fallax
-  fa: nan
+  fa: ''
   en: Buffy Hummingbird
   es: Colibrí Ante
   fr: Colibri trompeur
   de: Zimtbrustkolibri
-  pt: buffy hummingbird
+  pt: ''
   ru: Ржавогрудый левкипп
   ja: ミズベハチドリ
   zh: 淡黄薮蜂鸟

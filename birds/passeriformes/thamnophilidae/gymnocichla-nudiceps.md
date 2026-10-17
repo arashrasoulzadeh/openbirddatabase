@@ -12,7 +12,7 @@ names:
   es: Hormiguero Calvo
   fr: Alapi à tête nue
   de: Nacktstirn-Ameisenvogel
-  pt: bare-crowned antbird
+  pt: ''
   ru: Лысая муравьеловка
   ja: ハゲアリドリ
   zh: 裸顶蚁鸟

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16196.0
 names:
   scientific: Tachuris rubrigastra
-  fa: nan
+  fa: ''
   en: Many-colored Rush Tyrant
   es: Sietecolores
   fr: Tyranneau omnicolore

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13901.0
 names:
   scientific: Cercomacroides laeta
-  fa: nan
+  fa: ''
   en: Willis's Antbird
   es: Hormiguero de Willis
   fr: Grisin de Willis

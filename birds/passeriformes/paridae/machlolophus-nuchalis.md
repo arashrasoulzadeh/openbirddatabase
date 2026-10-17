@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 22219.0
 names:
   scientific: Machlolophus nuchalis
-  fa: nan
+  fa: ''
   en: White-naped Tit
   es: Carbonero Nuquiblanco
   fr: Mésange à ailes blanches
   de: Weißflügelmeise
-  pt: white-naped tit
+  pt: ''
   ru: Пегая синица
   ja: ハジロシジュウカラ
   nl: Witvleugelmees

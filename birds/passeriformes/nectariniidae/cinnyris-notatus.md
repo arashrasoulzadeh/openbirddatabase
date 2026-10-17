@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 30491.0
 names:
   scientific: Cinnyris notatus
-  fa: nan
+  fa: ''
   en: Malagasy Green Sunbird
   es: Suimanga Piquilargo
   fr: Souimanga angaladian
@@ -15,7 +15,7 @@ names:
   pt: malagasy sunbird
   ru: Нефритовая нектарница
   ja: マダガスカルタイヨウチョウ
-  zh: Malagasy Green Sunbird
+  zh: ''
   nl: Madagaskarhoningzuiger
   pl: nektarnik malgaski
   tr: Madagaskar Nektarkuşu

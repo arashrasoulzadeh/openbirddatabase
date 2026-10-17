@@ -12,7 +12,7 @@ names:
   es: Olivino Acollarado
   fr: Dos-vert à collier
   de: Halsbandastrild
-  pt: white-collared oliveback
+  pt: ''
   ru: Ошейниковый астрильд
   ja: シロエリオリーブキンパラ
   zh: 白领绿背织雀

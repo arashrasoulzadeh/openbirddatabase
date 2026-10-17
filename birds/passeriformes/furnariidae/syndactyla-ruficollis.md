@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 15180.0
 names:
   scientific: Syndactyla ruficollis
-  fa: nan
+  fa: ''
   en: Rufous-necked Foliage-gleaner
   es: Ticotico Cuellirrufo
   fr: Anabate à cou roux
   de: Rosthals-Blattspäher
-  pt: rufous-necked foliage-gleaner
+  pt: ''
   ru: Рыжешейный сростнопал
   ja: アカエリカマドドリ
   nl: Roodnekbladspeurder

@@ -7,13 +7,13 @@ iucn_status: EX
 taxon_order: 7104.0
 names:
   scientific: Pterodroma rupinarum
-  fa: nan
+  fa: ''
   en: St. Helena Petrel
   es: Petrel Grande de Isla Santa Elena
   fr: Pétrel de Sainte-Hélène
   de: Helena-Riesensturmvogel
   pt: large st. helena petrel
-  zh: St. Helena Petrel
+  zh: ''
   nl: Sint-Helenastormvogel
   pl: burzyk atlantycki
   tr: Sen Helen Fırtınakuşu

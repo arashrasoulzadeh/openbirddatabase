@@ -12,7 +12,7 @@ names:
   es: Colibrí Verdemar Menor
   fr: Colibri cyanote
   de: Berg-Veilchenohrkolibri
-  pt: lesser violetear
+  pt: ''
   ru: Зелоногрудый фиалкоух
   ja: ヒメミドリハチドリ
   zh: 小紫耳蜂鸟

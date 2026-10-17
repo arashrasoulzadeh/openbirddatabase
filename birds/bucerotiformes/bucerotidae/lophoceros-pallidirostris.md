@@ -12,7 +12,7 @@ names:
   es: Toco Piquiclaro
   fr: Calao à bec pâle
   de: Blassschnabeltoko
-  pt: pale-billed hornbill
+  pt: ''
   ru: Бледноклювый токо
   ja: ハシジロコサイチョウ
   zh: 淡嘴彎嘴犀鳥

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 22008.0
 names:
   scientific: Sittiparus castaneoventris
-  fa: nan
+  fa: ''
   en: Chestnut-bellied Tit
   es: Carbonero Ventricastaño
   fr: Mésange de Gould
   de: Taiwanbuntmeise
-  pt: chestnut-bellied tit
+  pt: ''
   ru: Каштановобрюхая синица
   ja: タイワンヤマガラ
   zh: 台湾杂色山雀

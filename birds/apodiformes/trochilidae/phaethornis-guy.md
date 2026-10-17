@@ -12,7 +12,7 @@ names:
   es: Ermitaño Verde
   fr: Ermite vert
   de: Grünschattenkolibri
-  pt: green hermit
+  pt: ''
   ru: Зелёный колибри-отшельник
   ja: ミドリユミハチドリ
   zh: 绿隐蜂鸟

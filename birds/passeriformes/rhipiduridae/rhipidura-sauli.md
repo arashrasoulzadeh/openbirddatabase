@@ -12,7 +12,7 @@ names:
   es: Abanico Cabeciazul de Tablas
   fr: Rhipidure de Tablas
   de: Tablasfächerschwanz
-  pt: tablas fantail
+  pt: ''
   ru: Табласская веерохвостка
   ja: タブラスオウギビタキ
   nl: Tablaswaaierstaart

@@ -12,7 +12,7 @@ names:
   es: Mosquero Llanero
   fr: Moucherolle à ventre roux
   de: Zimtbauch-Phoebetyrann
-  pt: say's phoebe
+  pt: ''
   ru: Рыжебрюхий фиби
   ja: チャイロツキヒメハエトリ
   nl: Rosse phoebe

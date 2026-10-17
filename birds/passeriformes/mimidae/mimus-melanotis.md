@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 28094.0
 names:
   scientific: Mimus melanotis
-  fa: nan
+  fa: ''
   en: San Cristobal Mockingbird
   es: Sinsonte de San Cristóbal
   fr: Moqueur de San Cristobal
   de: San-Cristóbal-Spottdrossel
-  pt: san cristobal mockingbird
+  pt: ''
   ru: Санкристобальский пересмешник
   ja: サンクリストバルマネシツグミ
   zh: 圣岛嘲鸫

@@ -12,7 +12,7 @@ names:
   es: Gaviota Californiana
   fr: Goéland de Californie
   de: Kalifornienmöwe
-  pt: california gull
+  pt: ''
   ru: Калифорнийская чайка
   ja: カリフォルニアカモメ
   zh: 加州鸥

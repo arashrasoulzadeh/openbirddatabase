@@ -12,7 +12,7 @@ names:
   es: Pico de Arizona
   fr: Pic d'Arizona
   de: Arizonaspecht
-  pt: arizona woodpecker
+  pt: ''
   ru: Аризонский дятел
   ja: アリゾナアカゲラ
   nl: Arizonaspecht

@@ -15,7 +15,7 @@ names:
   pt: gray-hooded sunbird
   ru: Седоголовая нектарница
   ja: ハチスカタイヨウチョウ
-  zh: Grey-hooded Sunbird
+  zh: ''
   nl: Grijskaphoningzuiger
   pl: kwiatownik szarogłowy
   tr: Haçisuka Nektarkuşu

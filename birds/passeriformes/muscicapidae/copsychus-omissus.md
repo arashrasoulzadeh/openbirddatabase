@@ -6,11 +6,11 @@ iucn_status: LC
 taxon_order: 29031.0
 names:
   scientific: Copsychus omissus
-  fa: nan
+  fa: ''
   en: Larwo Shama
   es: Shama de Java
   fr: Shama de Java
-  pt: larwo shama
+  pt: ''
   ja: ジャワシキチョウ
   nl: Larwoshama
   pl: sroczek jawajski

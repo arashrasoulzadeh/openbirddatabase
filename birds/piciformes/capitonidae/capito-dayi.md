@@ -7,7 +7,7 @@ iucn_status: NT
 taxon_order: 10786.0
 names:
   scientific: Capito dayi
-  fa: nan
+  fa: ''
   en: Black-girdled Barbet
   es: Cabezón Brasileño
   fr: Cabézon du Brésil

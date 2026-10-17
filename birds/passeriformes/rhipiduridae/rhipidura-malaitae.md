@@ -12,7 +12,7 @@ names:
   es: Abanico de Malaita
   fr: Rhipidure de Malaita
   de: Malaitafächerschwanz
-  pt: malaita fantail
+  pt: ''
   ru: Малаитская веерохвостка
   ja: マライタオウギビタキ
   nl: Malaitawaaierstaart

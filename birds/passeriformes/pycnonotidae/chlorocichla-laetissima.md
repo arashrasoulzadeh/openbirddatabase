@@ -12,7 +12,7 @@ names:
   es: Bulbul Alegre
   fr: Bulbul joyeux
   de: Dotterbülbül
-  pt: joyful greenbul
+  pt: ''
   ru: Крикливый бюльбюль
   ja: タノシタアオヒヨドリ
   zh: 娇绿鸫鹎

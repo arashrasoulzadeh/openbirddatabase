@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21776.0
 names:
   scientific: Devioeca papuana
-  fa: nan
+  fa: ''
   en: Canary Flyrobin
   es: Petroica Papú
   fr: Miro papou
   de: Papuaschnäpper
-  pt: canary flyrobin
+  pt: ''
   ru: Канареечная дриада
   ja: パプアオリーブヒタキ
   nl: Papoeavliegenvanger

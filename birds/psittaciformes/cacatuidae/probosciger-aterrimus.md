@@ -12,7 +12,7 @@ names:
   es: Cacatúa Enlutada
   fr: Cacatoès noir
   de: Palmkakadu
-  pt: palm cockatoo
+  pt: ''
   ru: Чёрный какаду
   ja: ヤシオウム
   zh: 棕树凤头鹦鹉

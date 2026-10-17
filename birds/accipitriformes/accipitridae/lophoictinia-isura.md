@@ -12,7 +12,7 @@ names:
   es: Milano Colicuadrado
   fr: Bondrée à queue carrée
   de: Milanweih
-  pt: square-tailed kite
+  pt: ''
   ru: Чубатый коршун
   ja: シラガトビ
   zh: 方尾鸢

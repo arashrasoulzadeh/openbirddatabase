@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 13815.0
 names:
   scientific: Herpsilochmus rufimarginatus
-  fa: nan
+  fa: ''
   en: Rufous-margined Antwren
   es: Tiluchí Alirrufo Sureño
   fr: Grisin à ailes rousses

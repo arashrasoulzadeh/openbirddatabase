@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 18059.0
 names:
   scientific: Ptiloprora plumbea
-  fa: nan
+  fa: ''
   en: Leaden Honeyeater
   es: Mielero Plomizo
   fr: Méliphage gris-de-plomb
   de: Bleikehl-Honigfresser
-  pt: leaden honeyeater
+  pt: ''
   ru: Свинцовый нектароед
   ja: ネズミセスジミツスイ
   nl: Loodkeelhoningeter

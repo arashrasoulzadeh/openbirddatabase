@@ -12,7 +12,7 @@ names:
   es: Mielerito Reluciente
   fr: Guit-guit brillant
   de: Azurnaschvogel
-  pt: shining honeycreeper
+  pt: ''
   ru: Желтоногий саи
   ja: アオミツドリ
   zh: 辉旋蜜雀

@@ -12,7 +12,7 @@ names:
   es: Abejaruco Esmeralda Árabe
   fr: Guêpier à sourcils bleus
   de: Blaukehl-Smaragdspint
-  pt: arabian green bee-eater
+  pt: ''
   ru: Аравийская щурка
   nl: Arabische kleine groene bijeneter
   pl: żołna niebieskolica

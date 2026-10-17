@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 26237.0
 names:
   scientific: Pellorneum nigrocapitatum
-  fa: nan
+  fa: ''
   en: Malayan Black-capped Babbler
   es: Tordina Coroninegra
   fr: Akalat à calotte noire
   de: Malaienerddrossling
-  pt: malayan black-capped babbler
+  pt: ''
   zh: 馬來黑冠幽鶥
   nl: Maleise jungletimalia
   pl: dżunglak szarolicy

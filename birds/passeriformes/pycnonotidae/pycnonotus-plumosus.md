@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 24669.0
 names:
   scientific: Pycnonotus plumosus
-  fa: nan
+  fa: ''
   en: Olive-winged Bulbul
   es: Bulbul Aliverde
   fr: Bulbul à ailes olive
   de: Olivschwingenbülbül
-  pt: olive-winged bulbul
+  pt: ''
   ru: Малайский бюльбюль
   ja: アカメヒヨドリ
   zh: 橄綠褐鵯

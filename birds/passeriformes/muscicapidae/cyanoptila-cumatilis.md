@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 29072.0
 names:
   scientific: Cyanoptila cumatilis
-  fa: nan
+  fa: ''
   en: Zappey's Flycatcher
   es: Papamoscas de Zappey
   fr: Gobemouche de Zappey
   de: Türkisblauschnäpper
-  pt: zappey's flycatcher
+  pt: ''
   ru: Бирюзовая мухоловка
   ja: カラオオルリ
   zh: 琉璃蓝鹟

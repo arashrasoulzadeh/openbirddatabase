@@ -12,7 +12,7 @@ names:
   es: Petrel de Galápagos
   fr: Pétrel des Galapagos
   de: Galápagossturmvogel
-  pt: galapagos petrel
+  pt: ''
   ru: Галапагосский тайфунник
   ja: ガラパゴスシロハラミズナギドリ
   zh: 暗腰圆尾鹱

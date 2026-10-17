@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 3889.0
 names:
   scientific: Chaetura spinicaudus
-  fa: nan
+  fa: ''
   en: Band-rumped Swift
   es: Vencejo Lomiblanco
   fr: Martinet spinicaude

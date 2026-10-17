@@ -12,7 +12,7 @@ names:
   es: Mielero Elegante
   fr: Méliphage de Rand
   de: Graustirn-Honigfresser
-  pt: elegant honeyeater
+  pt: ''
   ru: Элегантный медосос
   ja: ズグロキミミミツスイ
   nl: Sierlijke honingeter

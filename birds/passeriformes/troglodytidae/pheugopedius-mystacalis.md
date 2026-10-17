@@ -12,7 +12,7 @@ names:
   es: Cucarachero Bigotudo Montano
   fr: Troglodyte à favoris
   de: Bartstreif-Zaunkönig
-  pt: whiskered wren
+  pt: ''
   ru: Бородатый крапивник
   ja: ハイガシラマユミソサザイ
   nl: Andeswinterkoning

@@ -15,7 +15,7 @@ names:
   pt: mindanao racquet-tail
   ru: Минданаоский ракетохвост
   ja: ミンダナオズアカウチワインコ
-  zh: Mindanao Racket-tail
+  zh: ''
   nl: Mindanaovlagstaartpapegaai
   pl: listkogonka uboga
   tr: Mindanao Raket Kuyruklu Papağanı

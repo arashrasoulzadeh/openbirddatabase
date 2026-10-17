@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 10741.0
 names:
   scientific: Psilopogon faiostrictus
-  fa: nan
+  fa: ''
   en: Green-eared Barbet
   es: Barbudo Orejiverde
   fr: Barbu grivelé
   de: Grünohr-Bartvogel
-  pt: green-eared barbet
+  pt: ''
   ru: Зеленоухий бородастик
   ja: ミミアオゴシキドリ
   zh: 黄纹拟啄木鸟

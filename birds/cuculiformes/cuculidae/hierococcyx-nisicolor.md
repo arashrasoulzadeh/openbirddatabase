@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 3425.0
 names:
   scientific: Hierococcyx nisicolor
-  fa: nan
+  fa: ''
   en: Hodgson's Hawk-Cuckoo
   es: Cuco Silbador
   fr: Coucou de Hodgson
   de: Pfeifkuckuck
-  pt: hodgson's hawk-cuckoo
+  pt: ''
   ru: Свистящая кукушка
   ja: インドシナジュウイチ
   nl: Indochinese sperwerkoekoek

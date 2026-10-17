@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 8299.0
 names:
   scientific: Astur meyerianus
-  fa: nan
+  fa: ''
   en: Meyer's Goshawk
   es: Azor de Meyer
   fr: Autour de Meyer
   de: Papuahabicht
-  pt: meyer's goshawk
+  pt: ''
   ru: Новогвинейский тетеревятник
   ja: シロハラオオタカ
   zh: 白頰雀鷹

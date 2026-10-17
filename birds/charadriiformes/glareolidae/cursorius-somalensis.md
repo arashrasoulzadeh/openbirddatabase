@@ -12,7 +12,7 @@ names:
   es: Corredor Somalí
   fr: Courvite de Somalie
   de: Somalirennvogel
-  pt: somali courser
+  pt: ''
   ru: Сомалийский бегунок
   ja: ソマリスナバシリ
   nl: Somalische renvogel

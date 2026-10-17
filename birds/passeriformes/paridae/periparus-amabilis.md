@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 21995.0
 names:
   scientific: Periparus amabilis
-  fa: nan
+  fa: ''
   en: Palawan Tit
   es: Carbonero de Palawan
   fr: Mésange de Palawan
   de: Kapuzenmeise
-  pt: palawan tit
+  pt: ''
   ru: Палаванская синица
   ja: パラワンガラ
   nl: Palawanmees

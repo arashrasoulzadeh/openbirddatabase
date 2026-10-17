@@ -12,7 +12,7 @@ names:
   es: Codorniz Pectoral
   fr: Caille des chaumes
   de: Schwarzbrustwachtel
-  pt: stubble quail
+  pt: ''
   ru: Ожереловый перепел
   ja: オーストラリアウズラ
   zh: 澳洲鹌鹑

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 12406.0
 names:
   scientific: Psittacella madaraszi
-  fa: nan
+  fa: ''
   en: Madarasz's Tiger Parrot
   es: Lorito Tigre de Madarasz
   fr: Perruche de Madarasz
@@ -15,7 +15,7 @@ names:
   pt: madarasz's tiger-parrot
   ru: Чешуйчатоголовый попугай
   ja: マダラガシラインコ
-  zh: Madarasz's Tiger Parrot
+  zh: ''
   nl: Madarasztijgerparkiet
   pl: brązogłówka mała
   tr: Madarasz Kaplan Papağanı

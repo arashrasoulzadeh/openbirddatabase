@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 24910.0
 names:
   scientific: Phylloscopus tephrocephalus
-  fa: nan
+  fa: ''
   en: Grey-crowned Warbler
   es: Mosquitero Coronigrís
   fr: Pouillot à calotte grise

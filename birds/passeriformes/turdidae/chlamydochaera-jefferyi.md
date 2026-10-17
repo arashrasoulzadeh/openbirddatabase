@@ -15,7 +15,7 @@ names:
   pt: fruit-hunter
   ru: Черногрудый тавау
   ja: キンガオサンショウクイ
-  zh: Fruithunter
+  zh: ''
   nl: Rupslijster
   pl: kruczodrozd
   tr: Borneo Ardıcı

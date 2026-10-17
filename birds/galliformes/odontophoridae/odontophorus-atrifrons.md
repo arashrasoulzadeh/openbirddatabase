@@ -15,7 +15,7 @@ names:
   pt: black-fronted wood-quail
   ru: Чернолобый зубцеклювый перепел
   ja: クロビタイウズラ
-  zh: Black-fronted Wood Quail
+  zh: ''
   nl: Zwartmaskertandkwartel
   pl: przepiór czarnolicy
   tr: Kara Yüzlü Tokro

@@ -12,7 +12,7 @@ names:
   es: Toco de Bradfield
   fr: Calao de Bradfield
   de: Felsentoko
-  pt: bradfield's hornbill
+  pt: ''
   ru: Скальный токо
   ja: ニシカンムリコサイチョウ
   zh: 南非彎嘴犀鳥

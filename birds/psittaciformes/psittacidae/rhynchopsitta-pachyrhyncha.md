@@ -12,7 +12,7 @@ names:
   es: Cotorra Serrana Occidental
   fr: Conure à gros bec
   de: Kiefernsittich
-  pt: thick-billed parrot
+  pt: ''
   ru: Толстоклювый арара
   ja: ハシブトインコ
   zh: 厚嘴鸚哥

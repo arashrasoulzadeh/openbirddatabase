@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 17986.0
 names:
   scientific: Myzomela irianawidodoae
-  fa: nan
+  fa: ''
   en: Rote Myzomela
   es: Mielero de Roti
   fr: Myzomèle de Rote
   de: Rotihonigfresser
-  pt: rote myzomela
+  pt: ''
   ru: Ротанская медовка
   ja: ロテミツスイ
   nl: Rotidwerghoningeter

@@ -7,12 +7,12 @@ iucn_status: EX
 taxon_order: 4862.0
 names:
   scientific: Riccordia bracei
-  fa: nan
+  fa: ''
   en: Brace's Emerald
   es: Esmeralda de Brace
   fr: Émeraude de New Providence
   de: Bahamasmaragdkolibri
-  pt: brace's emerald
+  pt: ''
   ru: Багамскимй изумруд
   ja: バハマヒメエメラルドハチドリ
   nl: Bahamaanse smaragdkolibrie

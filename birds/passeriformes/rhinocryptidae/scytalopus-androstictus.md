@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14405.0
 names:
   scientific: Scytalopus androstictus
-  fa: nan
+  fa: ''
   en: Loja Tapaculo
   es: Churrín de Loja
   fr: Mérulaxe de Loja
   de: Lojatapaculo
-  pt: loja tapaculo
+  pt: ''
   ru: Белоплечий тапакуло
   ja: ロハオタテドリ
   nl: Lojatapaculo

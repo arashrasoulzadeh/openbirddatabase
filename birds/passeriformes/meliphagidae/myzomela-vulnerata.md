@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18041.0
 names:
   scientific: Myzomela vulnerata
-  fa: nan
+  fa: ''
   en: Black-breasted Myzomela
   es: Mielero Culirrojo
   fr: Myzomèle de Timor

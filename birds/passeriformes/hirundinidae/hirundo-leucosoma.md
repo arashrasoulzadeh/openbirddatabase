@@ -12,7 +12,7 @@ names:
   es: Golondrina Alipinta
   fr: Hirondelle à ailes tachetées
   de: Scheckflügelschwalbe
-  pt: pied-winged swallow
+  pt: ''
   ru: Ласточка-пеструшка
   ja: ハジロシロクロツバメ
   nl: Bontvleugelzwaluw

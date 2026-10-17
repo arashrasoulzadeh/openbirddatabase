@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 14946.0
 names:
   scientific: Lepidocolaptes lacrymiger
-  fa: nan
+  fa: ''
   en: Montane Woodcreeper
   es: Trepatroncos Montano
   fr: Grimpar montagnard
   de: Bergwald-Baumsteiger
-  pt: montane woodcreeper
+  pt: ''
   ru: Горный древолаз
   ja: ミヤマオニキバシリ
   nl: Bergmuisspecht

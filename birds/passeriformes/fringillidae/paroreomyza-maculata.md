@@ -7,12 +7,12 @@ iucn_status: CR
 taxon_order: 32105.0
 names:
   scientific: Paroreomyza maculata
-  fa: nan
+  fa: ''
   en: Oahu Alauahio
   es: Alauahio de Oahu
   fr: Alauahio d'Oahu
   de: Oahuastläufer
-  pt: oahu alauahio
+  pt: ''
   ru: Пестрокрылая алауахио
   ja: キバシリハワイミツスイ
   zh: 瓦島管舌雀

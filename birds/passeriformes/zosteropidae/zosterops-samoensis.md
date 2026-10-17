@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 25877.0
 names:
   scientific: Zosterops samoensis
-  fa: nan
+  fa: ''
   en: Samoan White-eye
   es: Anteojitos de Samoa
   fr: Zostérops des Samoa
   de: Samoabrillenvogel
-  pt: samoan white-eye
+  pt: ''
   ru: Самоанская белоглазка
   ja: サモアメジロ
   nl: Savaibrilvogel

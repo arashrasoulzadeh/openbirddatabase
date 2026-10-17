@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 18079.0
 names:
   scientific: Lichmera indistincta
-  fa: nan
+  fa: ''
   en: Brown Honeyeater
   es: Mielero Pardo
   fr: Méliphage brunâtre

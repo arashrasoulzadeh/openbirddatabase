@@ -12,7 +12,7 @@ names:
   es: Autillo Cubano
   fr: Petit-duc de Cuba
   de: Kubaeule
-  pt: bare-legged owl
+  pt: ''
   ru: Кубинская совка
   ja: ユビナガフクロウ
   nl: Cubaanse schreeuwuil

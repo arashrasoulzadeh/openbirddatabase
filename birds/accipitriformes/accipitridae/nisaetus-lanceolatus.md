@@ -12,7 +12,7 @@ names:
   es: Águila de Célebes
   fr: Aigle des Célèbes
   de: Celebeshaubenadler
-  pt: sulawesi hawk-eagle
+  pt: ''
   ru: Сулавесский хохлатый орёл
   ja: セレベスクマタカ
   nl: Celebeskuifarend

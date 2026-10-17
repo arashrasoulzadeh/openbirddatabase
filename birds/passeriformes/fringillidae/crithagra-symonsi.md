@@ -12,7 +12,7 @@ names:
   es: Serín del Drakensberg
   fr: Serin de Symons
   de: Basutogirlitz
-  pt: drakensberg siskin
+  pt: ''
   ru: Лесотский канареечник
   ja: ドラケンスバーグヒワ
   nl: Basutokanarie

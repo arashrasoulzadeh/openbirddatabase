@@ -12,7 +12,7 @@ names:
   es: Serín Piquigordo Sureño
   fr: Serin de Buchanan
   de: Buchanangirlitz
-  pt: southern grosbeak-canary
+  pt: ''
   ru: Большеклювый канареечник
   ja: ケニアハシブトカナリア
   nl: Zuidelijke dikbekkanarie

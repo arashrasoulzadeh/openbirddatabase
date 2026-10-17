@@ -12,7 +12,7 @@ names:
   es: Podargo de Java
   fr: Podarge de Java
   de: Javaschwalm
-  pt: javan frogmouth
+  pt: ''
   ru: Яванский лягушкорот
   ja: ジャワガマグチヨタカ
   zh: 爪哇蟆口鴟

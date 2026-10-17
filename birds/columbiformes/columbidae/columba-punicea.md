@@ -12,7 +12,7 @@ names:
   es: Paloma Purpúrea
   fr: Pigeon marron
   de: Kupfertaube
-  pt: pale-capped pigeon
+  pt: ''
   ru: Пурпурный вяхирь
   ja: ムラサキモリバト
   zh: 紫林鸽

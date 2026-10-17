@@ -12,7 +12,7 @@ names:
   es: Vencejo del Ituri
   fr: Martinet de Chapin
   de: Iturisegler
-  pt: black spinetail
+  pt: ''
   ru: Итурийский колючехвост
   ja: コンゴハリオアマツバメ
   nl: Iturigierzwaluw

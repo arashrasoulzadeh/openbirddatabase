@@ -12,7 +12,7 @@ names:
   es: Turpial Castaño
   fr: Oriole des vergers
   de: Gartentrupial
-  pt: orchard oriole
+  pt: ''
   ru: Садовый трупиал
   ja: アカクロムクドリモドキ
   zh: 果園擬黃鸝

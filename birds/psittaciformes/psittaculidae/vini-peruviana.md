@@ -12,7 +12,7 @@ names:
   es: Lori Monjita
   fr: Lori nonnette
   de: Saphirlori
-  pt: blue lorikeet
+  pt: ''
   ru: Синий лори-отшельник
   ja: ノドジロルリインコ
   nl: Saffierlori

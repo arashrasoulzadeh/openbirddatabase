@@ -12,7 +12,7 @@ names:
   es: Alicorto Grande
   fr: Brachyptère des Célèbes
   de: Celebeskurzflügel
-  pt: great shortwing
+  pt: ''
   ru: Сулавесский короткокрыл
   ja: セレベスコバネヒタキ
   nl: Sulawesikortvleugel

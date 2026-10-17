@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 19425.0
 names:
   scientific: Pachycephala caledonica
-  fa: nan
+  fa: ''
   en: New Caledonian Whistler
   es: Silbador de Nueva Caledonia
   fr: Siffleur calédonien
   de: Ockerbauch-Dickkopf
-  pt: new caledonian whistler
+  pt: ''
   ru: Новокаледонский свистун
   ja: ノドジロモズヒタキ
   zh: 新喀啸鹟

@@ -15,7 +15,7 @@ names:
   pt: red-faced pytilia
   ru: Краснощёкий астрильд
   ja: キバネビジョスズメ
-  zh: Yellow-winged Pytilia
+  zh: ''
   nl: Roodmaskerastrild
   pl: melba czerwonolica
   tr: Sarı Kanatlı Pitilya

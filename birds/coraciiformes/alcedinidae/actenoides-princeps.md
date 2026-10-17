@@ -12,7 +12,7 @@ names:
   es: Alción Príncipe
   fr: Martin-chasseur royal
   de: Prinzenliest
-  pt: scaly-breasted kingfisher
+  pt: ''
   ru: Королевский зимородок
   ja: チャイロショウビン
   nl: Streepkopbosijsvogel

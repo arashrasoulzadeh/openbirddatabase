@@ -12,7 +12,7 @@ names:
   es: Urraca de Sumatra
   fr: Témia coiffée
   de: Sumatrabaumelster
-  pt: sumatran treepie
+  pt: ''
   ru: Суматранская китта
   ja: シラガオナガ
   zh: 馬來樹鵲

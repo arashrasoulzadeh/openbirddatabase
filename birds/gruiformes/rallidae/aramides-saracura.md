@@ -15,7 +15,7 @@ names:
   pt: saracura-do-mato
   ru: Лесной саракура
   ja: ハイムネモリクイナ
-  zh: Slaty-breasted Wood Rail
+  zh: ''
   nl: Vale bosral
   pl: chruścielak śniady
   tr: Kurşuni Orman Kılavuzu

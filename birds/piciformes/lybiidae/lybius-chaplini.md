@@ -7,12 +7,12 @@ iucn_status: VU
 taxon_order: 10663.0
 names:
   scientific: Lybius chaplini
-  fa: nan
+  fa: ''
   en: Chaplin's Barbet
   es: Barbudo de Chaplin
   fr: Barbican de Chaplin
   de: Feigenbartvogel
-  pt: chaplin's barbet
+  pt: ''
   ru: Пегая либия
   ja: キバネゴシキドリ
   nl: Chaplinbaardvogel

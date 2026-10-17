@@ -12,7 +12,7 @@ names:
   es: Pingüino de Humboldt
   fr: Manchot de Humboldt
   de: Humboldtpinguin
-  pt: humboldt penguin
+  pt: ''
   ru: Гумбольдтов пингвин
   ja: フンボルトペンギン
   zh: 漢波德企鵝

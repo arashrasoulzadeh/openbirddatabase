@@ -12,7 +12,7 @@ names:
   es: Mielerito Collarejo
   fr: Tangara sucrier
   de: Halsband-Naschvogel
-  pt: golden-collared honeycreeper
+  pt: ''
   ru: Ошейниковый саи
   ja: ハシナガフウキンチョウ
   zh: 金领旋蜜雀

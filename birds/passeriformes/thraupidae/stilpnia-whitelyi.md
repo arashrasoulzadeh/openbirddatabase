@@ -6,7 +6,7 @@ iucn_status: LC
 taxon_order: 34995.0
 names:
   scientific: Stilpnia whitelyi
-  fa: nan
+  fa: ''
   en: Black-hooded Tanager
   es: Tangara Capuchinegra
   fr: Calliste de Whitely

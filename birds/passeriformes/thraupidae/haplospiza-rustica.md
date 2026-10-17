@@ -12,7 +12,7 @@ names:
   es: Yal Pizarroso
   fr: Haplospize ardoisé
   de: Schieferammertangare
-  pt: slaty finch
+  pt: ''
   ru: Шиферный овсяночник
   ja: ウスズミシトド
   nl: Leikleurige musgors

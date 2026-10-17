@@ -12,7 +12,7 @@ names:
   es: Ermitaño Boliviano
   fr: Ermite de Stuart
   de: Stuartschattenkolibri
-  pt: white-browed hermit
+  pt: ''
   ru: Белобровый колибри-отшельник
   ja: マミジロユミハチドリ
   zh: 白眉隐蜂鸟

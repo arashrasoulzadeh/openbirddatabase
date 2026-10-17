@@ -12,7 +12,7 @@ names:
   es: Ave del Paraíso Piquiblanca
   fr: Paradisier à bec blanc
   de: Weißschnabel-Paradieshopf
-  pt: pale-billed sicklebill
+  pt: ''
   ru: Бурохвостый райский шилоклюв
   ja: シロカマハシフウチョウ
   nl: Bruijnsikkelsnavel

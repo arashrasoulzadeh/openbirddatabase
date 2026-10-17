@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34863.0
 names:
   scientific: Cnemathraupis eximia
-  fa: nan
+  fa: ''
   en: Black-chested Mountain Tanager
   es: Tangara Dorsiverde
   fr: Tangara à poitrine noire
   de: Schwarzbrust-Bergtangare
-  pt: black-chested mountain tanager
+  pt: ''
   ru: Черногрудая танагра
   ja: ムナグロキバラフウキンチョウ
   nl: Zwartborstbergtangare

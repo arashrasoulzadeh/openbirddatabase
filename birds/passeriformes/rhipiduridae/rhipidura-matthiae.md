@@ -12,7 +12,7 @@ names:
   es: Abanico de San Matías
   fr: Rhipidure des Saint-Matthias
   de: Schwarzbrust-Fächerschwanz
-  pt: mussau fantail
+  pt: ''
   ru: Белоусая веерохвостка
   ja: シロビタイオウギビタキ
   nl: Zwartborstwaaierstaart

@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 31945.0
 names:
   scientific: Macronyx grimwoodi
-  fa: nan
+  fa: ''
   en: Grimwood's Longclaw
   es: Bisbita de Grimwood
   fr: Sentinelle de Grimwood
   de: Grimwoodpieper
-  pt: grimwood's longclaw
+  pt: ''
   ru: Розовогорлый шпорник
   ja: クロスジツメナガタヒバリ
   nl: Grimwoodlangklauw

@@ -7,14 +7,14 @@ iucn_status: LC
 taxon_order: 34459.0
 names:
   scientific: Habia rubica
-  fa: nan
+  fa: ''
   en: Red-crowned Ant Tanager
   es: Habia Coronirroja
   fr: Habia à couronne rouge
   de: Karmesinkardinal
   ru: Карминная хабия
   ja: ズアカアリフウキンチョウ
-  zh: Red-crowned Ant Tanager
+  zh: ''
   nl: Rode miertangare
   pl: habia mrówcza
   tr: Kızıl Tepeli Karınca Kardinali

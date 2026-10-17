@@ -12,7 +12,7 @@ names:
   es: Mosquero Amarillo
   fr: Moucherolle flavescent
   de: Gelbzügel-Schnäppertyrann
-  pt: flavescent flycatcher
+  pt: ''
   ru: Желтоватая курэта
   ja: キバラフタスジハエトリ
   nl: Goudtiran

@@ -7,12 +7,12 @@ iucn_status: NT
 taxon_order: 11299.0
 names:
   scientific: Dendropicos stierlingi
-  fa: nan
+  fa: ''
   en: Stierling's Woodpecker
   es: Pito de Stierling
   fr: Pic de Stierling
   de: Stierlingspecht
-  pt: stierling's woodpecker
+  pt: ''
   ru: Малавийский дятел
   ja: エリグロゲラ
   zh: 斯氏啄木鳥

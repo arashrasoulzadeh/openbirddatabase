@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 9989.0
 names:
   scientific: Ceyx collectoris
-  fa: nan
+  fa: ''
   en: New Georgia Dwarf Kingfisher
   es: Martín Pigmeo de Nueva Georgia
   fr: Martin-pêcheur de Nouvelle-Géorgie
@@ -15,7 +15,7 @@ names:
   pt: new georgia dwarf-kingfisher
   ru: Ньюджорджийский зимородок
   ja: ニュージョージアカワセミ
-  zh: New Georgia Dwarf Kingfisher
+  zh: ''
   nl: New-Georgiadwergijsvogel
   pl: zimorodek rdzawouchy
   tr: Yeni Georgia Küçük Yalıçapkını

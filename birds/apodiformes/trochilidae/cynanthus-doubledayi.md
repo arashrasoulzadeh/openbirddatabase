@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 4877.0
 names:
   scientific: Cynanthus doubledayi
-  fa: nan
+  fa: ''
   en: Turquoise-crowned Hummingbird
   es: Colibrí Piquiancho de Guerrero
   fr: Colibri de Doubleday
   de: Blaugesichtkolibri
-  pt: turquoise-crowned hummingbird
+  pt: ''
   ru: Мексиканский изумруд
   ja: ミナミアカハシハチドリ
   zh: 双日阔嘴蜂鸟

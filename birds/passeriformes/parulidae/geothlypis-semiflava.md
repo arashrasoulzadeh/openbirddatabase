@@ -7,12 +7,12 @@ iucn_status: LC
 taxon_order: 34013.0
 names:
   scientific: Geothlypis semiflava
-  fa: nan
+  fa: ''
   en: Olive-crowned Yellowthroat
   es: Mascarita Coronioliva
   fr: Paruline des bambous
   de: Olivscheitel-Gelbkehlchen
-  pt: olive-crowned yellowthroat
+  pt: ''
   ru: Оливковоголовая желтогрудка
   ja: オリーブズキンカオグロムシクイ
   nl: Groenkruinmaskerzanger

@@ -7,7 +7,7 @@ iucn_status: LC
 taxon_order: 16768.0
 names:
   scientific: Phyllomyias fasciatus
-  fa: nan
+  fa: ''
   en: Planalto Tyrannulet
   es: Mosquerito Oliváceo
   fr: Tyranneau fascié
