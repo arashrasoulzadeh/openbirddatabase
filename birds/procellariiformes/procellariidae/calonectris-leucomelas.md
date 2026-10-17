@@ -26,6 +26,10 @@ taxonomy:
   species: leucomelas
 morphology:
   body_mass_g: 530.5
+  bill_length_mm: 48.9
+  tarsus_length_mm: 48.2
+  wing_length_mm: 319.2
+  tail_length_mm: 131.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: true
+  range_size_km2: 32884751.0
 habitat:
   primary: Sea
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

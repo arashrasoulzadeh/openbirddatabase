@@ -26,6 +26,10 @@ taxonomy:
   species: crecca
 morphology:
   body_mass_g: 325.0
+  bill_length_mm: 36.2
+  tarsus_length_mm: 26.4
+  wing_length_mm: 178.8
+  tail_length_mm: 61.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 31784517.0
 habitat:
   primary: Wetland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

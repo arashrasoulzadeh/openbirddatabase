@@ -26,6 +26,10 @@ taxonomy:
   species: teesa
 morphology:
   body_mass_g: 325.0
+  bill_length_mm: 30.6
+  tarsus_length_mm: 60.4
+  wing_length_mm: 295.4
+  tail_length_mm: 191.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 3969936.0
 habitat:
   primary: Savanna
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

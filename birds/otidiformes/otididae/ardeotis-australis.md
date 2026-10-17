@@ -26,6 +26,10 @@ taxonomy:
   species: australis
 morphology:
   body_mass_g: 4570.0
+  bill_length_mm: 79.3
+  tarsus_length_mm: 175.5
+  wing_length_mm: 592.5
+  tail_length_mm: 304.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: false
+  range_size_km2: 6717249.0
 habitat:
   primary: Grassland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

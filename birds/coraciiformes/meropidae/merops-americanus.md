@@ -24,6 +24,10 @@ taxonomy:
   species: americanus
 morphology:
   body_mass_g: 36.3
+  bill_length_mm: 41.5
+  tarsus_length_mm: 12.2
+  wing_length_mm: 116.3
+  tail_length_mm: 129.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -32,6 +36,7 @@ distribution:
   - I
   endemic: false
   island_endemic: true
+  range_size_km2: 259375.0
 habitat:
   primary: Plains
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

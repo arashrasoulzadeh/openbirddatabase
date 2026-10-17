@@ -26,6 +26,10 @@ taxonomy:
   species: aura
 morphology:
   body_mass_g: 1495.5
+  bill_length_mm: 51.5
+  tarsus_length_mm: 54.0
+  wing_length_mm: 508.5
+  tail_length_mm: 244.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 28126443.0
 habitat:
   primary: Savanna
   secondary: []
@@ -141,7 +146,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

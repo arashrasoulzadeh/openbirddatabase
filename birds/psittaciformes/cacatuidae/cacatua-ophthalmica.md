@@ -26,6 +26,10 @@ taxonomy:
   species: ophthalmica
 morphology:
   body_mass_g: 520.6666666666666
+  bill_length_mm: 40.7
+  tarsus_length_mm: 29.0
+  wing_length_mm: 291.0
+  tail_length_mm: 169.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 32331.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

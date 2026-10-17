@@ -26,6 +26,10 @@ taxonomy:
   species: apoda
 morphology:
   body_mass_g: 197.5
+  bill_length_mm: 39.9
+  tarsus_length_mm: 49.9
+  wing_length_mm: 212.8
+  tail_length_mm: 146.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 99262.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

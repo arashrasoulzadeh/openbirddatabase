@@ -26,6 +26,10 @@ taxonomy:
   species: maleo
 morphology:
   body_mass_g: 1543.75
+  bill_length_mm: 42.5
+  tarsus_length_mm: 82.2
+  wing_length_mm: 290.8
+  tail_length_mm: 132.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - W
   endemic: false
   island_endemic: true
+  range_size_km2: 146297.0
 habitat:
   primary: Forest
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

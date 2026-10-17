@@ -26,6 +26,10 @@ taxonomy:
   species: meridionalis
 morphology:
   body_mass_g: 463.0
+  bill_length_mm: 55.1
+  tarsus_length_mm: 38.2
+  wing_length_mm: 284.3
+  tail_length_mm: 172.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - Z
   endemic: false
   island_endemic: true
+  range_size_km2: 71121.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: ultima
 morphology:
   body_mass_g: 380.0
+  bill_length_mm: 27.0
+  tarsus_length_mm: 33.5
+  wing_length_mm: 260.0
+  tail_length_mm: 112.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 66311109.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: xanthoprymna
 morphology:
   body_mass_g: 21.45
+  bill_length_mm: 17.1
+  tarsus_length_mm: 23.5
+  wing_length_mm: 90.2
+  tail_length_mm: 58.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 102691.0
 habitat:
   primary: Rocky
   secondary: []
@@ -138,7 +143,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: chrysaetos
 morphology:
   body_mass_g: 4258.333333333333
+  bill_length_mm: 56.8
+  tarsus_length_mm: 101.4
+  wing_length_mm: 603.1
+  tail_length_mm: 307.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - C
   endemic: false
   island_endemic: false
+  range_size_km2: 39450258.0
 habitat:
   primary: Grassland
   secondary: []
@@ -188,7 +193,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

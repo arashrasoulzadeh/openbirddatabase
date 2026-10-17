@@ -26,6 +26,10 @@ taxonomy:
   species: collurio
 morphology:
   body_mass_g: 28.666666666666668
+  bill_length_mm: 18.7
+  tarsus_length_mm: 23.8
+  wing_length_mm: 93.7
+  tail_length_mm: 75.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 10799324.0
 habitat:
   primary: Shrub
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

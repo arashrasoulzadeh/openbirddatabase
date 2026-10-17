@@ -26,6 +26,10 @@ taxonomy:
   species: striata
 morphology:
   body_mass_g: 12.25
+  bill_length_mm: 16.5
+  tarsus_length_mm: 19.7
+  wing_length_mm: 52.9
+  tail_length_mm: 41.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 1133963.0
 habitat:
   primary: Forest
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

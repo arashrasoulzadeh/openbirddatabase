@@ -26,6 +26,10 @@ taxonomy:
   species: columba
 morphology:
   body_mass_g: 493.6666666666667
+  bill_length_mm: 36.5
+  tarsus_length_mm: 32.0
+  wing_length_mm: 173.4
+  tail_length_mm: 46.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: false
+  range_size_km2: 1700815.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

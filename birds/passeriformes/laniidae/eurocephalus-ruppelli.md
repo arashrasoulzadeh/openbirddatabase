@@ -26,6 +26,10 @@ taxonomy:
   species: ruppelli
 morphology:
   body_mass_g: 51.666666666666664
+  bill_length_mm: 22.9
+  tarsus_length_mm: 23.7
+  wing_length_mm: 124.9
+  tail_length_mm: 96.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1835005.0
 habitat:
   primary: Woodland
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

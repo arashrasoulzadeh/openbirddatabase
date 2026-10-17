@@ -26,6 +26,10 @@ taxonomy:
   species: rusticolus
 morphology:
   body_mass_g: 1325.0
+  bill_length_mm: 36.0
+  tarsus_length_mm: 56.7
+  wing_length_mm: 368.0
+  tail_length_mm: 201.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: false
+  range_size_km2: 8809464.0
 habitat:
   primary: Plains
   secondary: []
@@ -138,7 +143,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

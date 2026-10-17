@@ -26,6 +26,10 @@ taxonomy:
   species: caeruleogrisea
 morphology:
   body_mass_g: 138.75
+  bill_length_mm: 41.6
+  tarsus_length_mm: 30.2
+  wing_length_mm: 164.9
+  tail_length_mm: 138.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 404850.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

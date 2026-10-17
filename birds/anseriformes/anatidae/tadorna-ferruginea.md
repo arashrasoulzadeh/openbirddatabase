@@ -26,6 +26,10 @@ taxonomy:
   species: ferruginea
 morphology:
   body_mass_g: 1318.3333333333333
+  bill_length_mm: 47.0
+  tarsus_length_mm: 54.5
+  wing_length_mm: 355.5
+  tail_length_mm: 124.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 18403211.0
 habitat:
   primary: Wetland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

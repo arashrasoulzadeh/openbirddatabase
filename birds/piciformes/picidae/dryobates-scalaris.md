@@ -26,6 +26,10 @@ taxonomy:
   species: scalaris
 morphology:
   body_mass_g: 27.380000000000003
+  bill_length_mm: 19.0
+  tarsus_length_mm: 17.8
+  wing_length_mm: 96.8
+  tail_length_mm: 58.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 2902465.0
 habitat:
   primary: Desert
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

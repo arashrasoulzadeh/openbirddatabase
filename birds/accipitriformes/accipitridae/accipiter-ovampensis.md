@@ -26,6 +26,10 @@ taxonomy:
   species: ovampensis
 morphology:
   body_mass_g: 200.66666666666666
+  bill_length_mm: 20.5
+  tarsus_length_mm: 49.4
+  wing_length_mm: 222.4
+  tail_length_mm: 155.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 7295780.0
 habitat:
   primary: Woodland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

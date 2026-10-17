@@ -26,6 +26,10 @@ taxonomy:
   species: hendersoni
 morphology:
   body_mass_g: 124.0
+  bill_length_mm: 43.7
+  tarsus_length_mm: 41.0
+  wing_length_mm: 139.4
+  tail_length_mm: 101.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 1783211.0
 habitat:
   primary: Desert
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

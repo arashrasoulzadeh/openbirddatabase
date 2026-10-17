@@ -25,6 +25,10 @@ taxonomy:
   species: nigriceps
 morphology:
   body_mass_g: 6.05
+  bill_length_mm: 11.6
+  tarsus_length_mm: 17.9
+  wing_length_mm: 47.4
+  tail_length_mm: 52.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 222914.0
 habitat:
   primary: Shrub
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

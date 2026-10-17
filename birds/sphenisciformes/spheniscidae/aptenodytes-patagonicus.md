@@ -26,6 +26,10 @@ taxonomy:
   species: patagonicus
 morphology:
   body_mass_g: 11983.333333333334
+  bill_length_mm: 105.6
+  tarsus_length_mm: 52.2
+  wing_length_mm: 167.2
+  tail_length_mm: 63.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - S
   endemic: false
   island_endemic: false
+  range_size_km2: 24905.0
 habitat:
   primary: Sea
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

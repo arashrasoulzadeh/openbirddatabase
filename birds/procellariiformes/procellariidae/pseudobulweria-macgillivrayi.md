@@ -26,6 +26,10 @@ taxonomy:
   species: macgillivrayi
 morphology:
   body_mass_g: 132.5
+  bill_length_mm: 30.2
+  tarsus_length_mm: 36.4
+  wing_length_mm: 204.0
+  tail_length_mm: 82.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 146911.0
 habitat:
   primary: Sea
   secondary: []
@@ -124,7 +129,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

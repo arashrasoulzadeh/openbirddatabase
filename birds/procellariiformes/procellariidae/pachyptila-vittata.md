@@ -25,6 +25,10 @@ taxonomy:
   species: vittata
 morphology:
   body_mass_g: 187.0
+  bill_length_mm: 38.0
+  tarsus_length_mm: 33.4
+  wing_length_mm: 195.2
+  tail_length_mm: 94.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - SZ
   endemic: false
   island_endemic: true
+  range_size_km2: 50803002.0
 habitat:
   primary: Sea
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

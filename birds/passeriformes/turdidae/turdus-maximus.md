@@ -26,6 +26,10 @@ taxonomy:
   species: maximus
 morphology:
   body_mass_g: 101.25
+  bill_length_mm: 25.3
+  tarsus_length_mm: 36.0
+  wing_length_mm: 151.7
+  tail_length_mm: 126.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 458460.0
 habitat:
   primary: Shrub
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

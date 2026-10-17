@@ -26,6 +26,10 @@ taxonomy:
   species: ostralegus
 morphology:
   body_mass_g: 600.0
+  bill_length_mm: 76.1
+  tarsus_length_mm: 49.9
+  wing_length_mm: 250.3
+  tail_length_mm: 106.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 9505625.0
 habitat:
   primary: Coastal
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

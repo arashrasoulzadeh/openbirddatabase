@@ -26,6 +26,10 @@ taxonomy:
   species: leucocephala
 morphology:
   body_mass_g: 242.33333333333334
+  bill_length_mm: 27.8
+  tarsus_length_mm: 26.7
+  wing_length_mm: 190.8
+  tail_length_mm: 121.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 238971.0
 habitat:
   primary: Coastal
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

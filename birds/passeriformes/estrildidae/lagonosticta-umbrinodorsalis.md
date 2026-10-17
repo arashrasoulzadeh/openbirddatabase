@@ -26,6 +26,10 @@ taxonomy:
   species: umbrinodorsalis
 morphology:
   body_mass_g: 9.0
+  bill_length_mm: 12.8
+  tarsus_length_mm: 13.4
+  wing_length_mm: 50.2
+  tail_length_mm: 40.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 42140.0
 habitat:
   primary: Rocky
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

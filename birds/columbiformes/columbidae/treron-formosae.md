@@ -26,6 +26,10 @@ taxonomy:
   species: formosae
 morphology:
   body_mass_g: 221.5
+  bill_length_mm: 23.3
+  tarsus_length_mm: 27.5
+  wing_length_mm: 195.1
+  tail_length_mm: 127.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 36642.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

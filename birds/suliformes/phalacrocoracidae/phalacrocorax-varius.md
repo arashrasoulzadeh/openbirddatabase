@@ -26,6 +26,10 @@ taxonomy:
   species: varius
 morphology:
   body_mass_g: 1868.1666666666667
+  bill_length_mm: 75.1
+  tarsus_length_mm: 63.8
+  wing_length_mm: 295.4
+  tail_length_mm: 136.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AZ
   endemic: false
   island_endemic: false
+  range_size_km2: 4379236.0
 habitat:
   primary: Coastal
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

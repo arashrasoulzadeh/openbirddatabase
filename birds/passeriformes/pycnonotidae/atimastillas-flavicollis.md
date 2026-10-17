@@ -25,6 +25,10 @@ taxonomy:
   species: flavicollis
 morphology:
   body_mass_g: 47.5
+  bill_length_mm: 22.9
+  tarsus_length_mm: 24.7
+  wing_length_mm: 105.4
+  tail_length_mm: 98.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1683203.0
 habitat:
   primary: Woodland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

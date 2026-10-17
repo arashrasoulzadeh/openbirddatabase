@@ -25,6 +25,10 @@ taxonomy:
   species: occidentalis
 morphology:
   body_mass_g: 10.125
+  bill_length_mm: 12.4
+  tarsus_length_mm: 17.8
+  wing_length_mm: 66.9
+  tail_length_mm: 52.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 338855.0
 habitat:
   primary: Forest
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

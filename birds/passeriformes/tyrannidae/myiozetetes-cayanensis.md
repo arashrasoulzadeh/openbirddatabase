@@ -25,6 +25,10 @@ taxonomy:
   species: cayanensis
 morphology:
   body_mass_g: 26.125
+  bill_length_mm: 14.4
+  tarsus_length_mm: 20.4
+  wing_length_mm: 84.1
+  tail_length_mm: 71.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 7536062.0
 habitat:
   primary: Shrub
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -25,6 +25,10 @@ taxonomy:
   species: leucophrys
 morphology:
   body_mass_g: 13.5
+  bill_length_mm: 14.8
+  tarsus_length_mm: 21.8
+  wing_length_mm: 75.7
+  tail_length_mm: 68.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 781893.0
 habitat:
   primary: Shrub
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

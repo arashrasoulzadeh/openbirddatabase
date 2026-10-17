@@ -26,6 +26,10 @@ taxonomy:
   species: ducorpsii
 morphology:
   body_mass_g: 459.5
+  bill_length_mm: 33.2
+  tarsus_length_mm: 21.6
+  wing_length_mm: 248.5
+  tail_length_mm: 114.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 32953.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

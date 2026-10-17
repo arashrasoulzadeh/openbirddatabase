@@ -24,6 +24,10 @@ taxonomy:
   species: lawrencei
 morphology:
   body_mass_g: 3.05
+  bill_length_mm: 20.4
+  tarsus_length_mm: 3.5
+  wing_length_mm: 50.2
+  tail_length_mm: 31.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 415.0
 habitat:
   primary: Shrub
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

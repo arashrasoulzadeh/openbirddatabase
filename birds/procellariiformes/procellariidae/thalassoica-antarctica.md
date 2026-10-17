@@ -26,6 +26,10 @@ taxonomy:
   species: antarctica
 morphology:
   body_mass_g: 658.3333333333334
+  bill_length_mm: 44.8
+  tarsus_length_mm: 43.5
+  wing_length_mm: 296.2
+  tail_length_mm: 111.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - S
   endemic: false
   island_endemic: false
+  range_size_km2: 58576534.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

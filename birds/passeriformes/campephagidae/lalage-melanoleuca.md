@@ -26,6 +26,10 @@ taxonomy:
   species: melanoleuca
 morphology:
   body_mass_g: 46.083333333333336
+  bill_length_mm: 23.3
+  tarsus_length_mm: 24.1
+  wing_length_mm: 111.5
+  tail_length_mm: 77.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: true
+  range_size_km2: 104069.0
 habitat:
   primary: Forest
   secondary: []
@@ -122,7 +127,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

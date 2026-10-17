@@ -26,6 +26,10 @@ taxonomy:
   species: serripennis
 morphology:
   body_mass_g: 14.3
+  bill_length_mm: 10.4
+  tarsus_length_mm: 11.1
+  wing_length_mm: 107.2
+  tail_length_mm: 47.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 9837317.0
 habitat:
   primary: Shrub
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

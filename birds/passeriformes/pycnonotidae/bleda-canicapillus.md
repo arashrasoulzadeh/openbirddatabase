@@ -26,6 +26,10 @@ taxonomy:
   species: canicapillus
 morphology:
   body_mass_g: 40.625
+  bill_length_mm: 20.1
+  tarsus_length_mm: 25.5
+  wing_length_mm: 98.4
+  tail_length_mm: 91.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1094054.0
 habitat:
   primary: Forest
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

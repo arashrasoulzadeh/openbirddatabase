@@ -25,6 +25,10 @@ taxonomy:
   species: major
 morphology:
   body_mass_g: 62.083333333333336
+  bill_length_mm: 26.3
+  tarsus_length_mm: 33.7
+  wing_length_mm: 90.6
+  tail_length_mm: 81.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 12899628.0
 habitat:
   primary: Woodland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

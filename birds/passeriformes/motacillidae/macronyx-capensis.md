@@ -26,6 +26,10 @@ taxonomy:
   species: capensis
 morphology:
   body_mass_g: 49.43333333333334
+  bill_length_mm: 21.0
+  tarsus_length_mm: 34.2
+  wing_length_mm: 94.4
+  tail_length_mm: 66.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 815796.0
 habitat:
   primary: Grassland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

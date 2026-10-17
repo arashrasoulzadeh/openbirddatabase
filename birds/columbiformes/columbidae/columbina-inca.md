@@ -26,6 +26,10 @@ taxonomy:
   species: inca
 morphology:
   body_mass_g: 45.166666666666664
+  bill_length_mm: 16.1
+  tarsus_length_mm: 15.5
+  wing_length_mm: 92.5
+  tail_length_mm: 88.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 2760668.0
 habitat:
   primary: Woodland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

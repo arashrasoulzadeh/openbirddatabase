@@ -25,6 +25,10 @@ taxonomy:
   species: auritum
 morphology:
   body_mass_g: 1936.0
+  bill_length_mm: 68.2
+  tarsus_length_mm: 64.2
+  wing_length_mm: 311.8
+  tail_length_mm: 154.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -132,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: repressa
 morphology:
   body_mass_g: 118.75
+  bill_length_mm: 40.6
+  tarsus_length_mm: 18.2
+  wing_length_mm: 241.4
+  tail_length_mm: 136.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 797049.0
 habitat:
   primary: Coastal
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

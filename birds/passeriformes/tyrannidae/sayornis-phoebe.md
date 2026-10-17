@@ -26,6 +26,10 @@ taxonomy:
   species: phoebe
 morphology:
   body_mass_g: 19.133333333333333
+  bill_length_mm: 17.4
+  tarsus_length_mm: 17.7
+  wing_length_mm: 83.9
+  tail_length_mm: 70.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 6246276.0
 habitat:
   primary: Woodland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

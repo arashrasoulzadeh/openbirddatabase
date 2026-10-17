@@ -26,6 +26,10 @@ taxonomy:
   species: citrinella
 morphology:
   body_mass_g: 11.5
+  bill_length_mm: 13.1
+  tarsus_length_mm: 17.4
+  wing_length_mm: 57.5
+  tail_length_mm: 44.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AW
   endemic: false
   island_endemic: false
+  range_size_km2: 70905.0
 habitat:
   primary: Shrub
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

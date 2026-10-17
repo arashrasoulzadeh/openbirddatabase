@@ -26,6 +26,10 @@ taxonomy:
   species: crumenifer
 morphology:
   body_mass_g: 6366.666666666667
+  bill_length_mm: 316.0
+  tarsus_length_mm: 265.5
+  wing_length_mm: 708.5
+  tail_length_mm: 266.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 12361409.0
 habitat:
   primary: Savanna
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

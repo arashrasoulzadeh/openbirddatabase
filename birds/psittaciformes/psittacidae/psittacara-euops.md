@@ -25,6 +25,10 @@ taxonomy:
   species: euops
 morphology:
   body_mass_g: 87.0
+  bill_length_mm: 21.4
+  tarsus_length_mm: 14.0
+  wing_length_mm: 132.5
+  tail_length_mm: 121.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: true
+  range_size_km2: 18724.0
 habitat:
   primary: Savanna
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

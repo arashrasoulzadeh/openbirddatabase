@@ -26,6 +26,10 @@ taxonomy:
   species: percernis
 morphology:
   body_mass_g: 34.0
+  bill_length_mm: 29.7
+  tarsus_length_mm: 30.1
+  wing_length_mm: 100.6
+  tail_length_mm: 92.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 478.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

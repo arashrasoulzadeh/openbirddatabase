@@ -25,6 +25,10 @@ taxonomy:
   species: passerinii
 morphology:
   body_mass_g: 30.583333333333332
+  bill_length_mm: 18.7
+  tarsus_length_mm: 22.9
+  wing_length_mm: 75.9
+  tail_length_mm: 70.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 209548.0
 habitat:
   primary: Shrub
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

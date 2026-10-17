@@ -26,6 +26,10 @@ taxonomy:
   species: lapponica
 morphology:
   body_mass_g: 441.3333333333333
+  bill_length_mm: 92.5
+  tarsus_length_mm: 53.2
+  wing_length_mm: 210.1
+  tail_length_mm: 74.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - EZ
   endemic: false
   island_endemic: false
+  range_size_km2: 1469087.0
 habitat:
   primary: Grassland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

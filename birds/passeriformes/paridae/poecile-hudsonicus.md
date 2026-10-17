@@ -26,6 +26,10 @@ taxonomy:
   species: hudsonicus
 morphology:
   body_mass_g: 10.499999999999998
+  bill_length_mm: 10.1
+  tarsus_length_mm: 16.3
+  wing_length_mm: 64.8
+  tail_length_mm: 58.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 7102488.0
 habitat:
   primary: Forest
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

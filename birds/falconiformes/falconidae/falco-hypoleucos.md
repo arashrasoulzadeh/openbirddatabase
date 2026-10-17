@@ -26,6 +26,10 @@ taxonomy:
   species: hypoleucos
 morphology:
   body_mass_g: 473.0
+  bill_length_mm: 24.1
+  tarsus_length_mm: 42.1
+  wing_length_mm: 307.4
+  tail_length_mm: 144.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: false
+  range_size_km2: 5366725.0
 habitat:
   primary: Woodland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

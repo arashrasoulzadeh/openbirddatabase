@@ -25,6 +25,10 @@ taxonomy:
   species: albicauda
 morphology:
   body_mass_g: 87.65
+  bill_length_mm: 32.4
+  tarsus_length_mm: 39.7
+  wing_length_mm: 141.3
+  tail_length_mm: 113.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 579914.0
 habitat:
   primary: Shrub
   secondary: []
@@ -123,7 +128,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -25,6 +25,10 @@ taxonomy:
   species: magna
 morphology:
   body_mass_g: 10.08
+  bill_length_mm: 15.2
+  tarsus_length_mm: 21.9
+  wing_length_mm: 56.0
+  tail_length_mm: 48.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 45033.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

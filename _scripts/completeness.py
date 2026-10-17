@@ -15,8 +15,8 @@ from typing import Any, Dict, List, Tuple
 CORE_FIELDS: Dict[str, List[str]] = {
     "morphology": ["body_mass_g", "body_length_cm", "wingspan_cm", "bill_length_mm", "tarsus_length_mm",
                    "wing_length_mm", "tail_length_mm"],
-    "distribution": ["breeding_range", "non_breeding_range", "countries", "biogeographic_realms", "endemic",
-                     "island_endemic"],
+    "distribution": ["breeding_range", "non_breeding_range", "range_size_km2", "countries", "biogeographic_realms",
+                     "endemic", "island_endemic"],
     "habitat": ["primary", "secondary", "habitat_breadth", "elevational_min_m", "elevational_max_m", "habitat_types"],
     "diet": ["primary", "diet_breadth", "categories", "foraging_niches"],
     "behavior": ["sociality", "flock_size_typical", "territorial", "migration_status", "movement_type",

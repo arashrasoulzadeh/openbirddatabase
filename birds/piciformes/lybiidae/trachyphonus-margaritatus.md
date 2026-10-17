@@ -25,6 +25,10 @@ taxonomy:
   species: margaritatus
 morphology:
   body_mass_g: 52.8
+  bill_length_mm: 24.4
+  tarsus_length_mm: 26.1
+  wing_length_mm: 94.6
+  tail_length_mm: 90.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 2214290.0
 habitat:
   primary: Shrub
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

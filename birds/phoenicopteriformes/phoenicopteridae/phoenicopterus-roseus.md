@@ -26,6 +26,10 @@ taxonomy:
   species: roseus
 morphology:
   body_mass_g: 2953.66
+  bill_length_mm: 124.7
+  tarsus_length_mm: 294.5
+  wing_length_mm: 399.0
+  tail_length_mm: 138.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FPI
   endemic: false
   island_endemic: false
+  range_size_km2: 5093092.0
 habitat:
   primary: Wetland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

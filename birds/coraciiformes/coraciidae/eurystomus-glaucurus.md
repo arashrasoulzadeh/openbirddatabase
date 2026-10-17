@@ -26,6 +26,10 @@ taxonomy:
   species: glaucurus
 morphology:
   body_mass_g: 117.16666666666667
+  bill_length_mm: 30.0
+  tarsus_length_mm: 18.9
+  wing_length_mm: 198.0
+  tail_length_mm: 113.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FM
   endemic: false
   island_endemic: false
+  range_size_km2: 13880860.0
 habitat:
   primary: Woodland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

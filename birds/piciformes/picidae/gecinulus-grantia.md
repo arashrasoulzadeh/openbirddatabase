@@ -26,6 +26,10 @@ taxonomy:
   species: grantia
 morphology:
   body_mass_g: 76.5
+  bill_length_mm: 24.9
+  tarsus_length_mm: 24.1
+  wing_length_mm: 126.2
+  tail_length_mm: 80.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 750305.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

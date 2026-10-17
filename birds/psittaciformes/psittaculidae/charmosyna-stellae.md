@@ -23,6 +23,10 @@ taxonomy:
   species: stellae
 morphology:
   body_mass_g: 93.5
+  bill_length_mm: 22.6
+  tarsus_length_mm: 16.6
+  wing_length_mm: 137.2
+  tail_length_mm: 237.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -31,6 +35,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 132233.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

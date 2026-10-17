@@ -25,6 +25,10 @@ taxonomy:
   species: pfrimeri
 morphology:
   body_mass_g: 75.9
+  bill_length_mm: 17.4
+  tarsus_length_mm: 11.0
+  wing_length_mm: 118.4
+  tail_length_mm: 116.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 7186.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

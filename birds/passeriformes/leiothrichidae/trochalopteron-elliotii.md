@@ -26,6 +26,10 @@ taxonomy:
   species: elliotii
 morphology:
   body_mass_g: 56.0
+  bill_length_mm: 20.7
+  tarsus_length_mm: 36.5
+  wing_length_mm: 96.6
+  tail_length_mm: 130.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 1030830.0
 habitat:
   primary: Shrub
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

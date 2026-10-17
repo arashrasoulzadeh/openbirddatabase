@@ -26,6 +26,10 @@ taxonomy:
   species: chrysostoma
 morphology:
   body_mass_g: 47.0
+  bill_length_mm: 14.1
+  tarsus_length_mm: 14.8
+  wing_length_mm: 104.8
+  tail_length_mm: 125.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: false
+  range_size_km2: 171444.0
 habitat:
   primary: Woodland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -25,6 +25,10 @@ taxonomy:
   species: cookii
 morphology:
   body_mass_g: 194.33333333333334
+  bill_length_mm: 25.5
+  tarsus_length_mm: 25.8
+  wing_length_mm: 213.2
+  tail_length_mm: 93.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - OZ
   endemic: false
   island_endemic: true
+  range_size_km2: 120250836.0
 habitat:
   primary: Sea
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

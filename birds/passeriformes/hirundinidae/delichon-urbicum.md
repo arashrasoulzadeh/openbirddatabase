@@ -26,6 +26,10 @@ taxonomy:
   species: urbicum
 morphology:
   body_mass_g: 16.65
+  bill_length_mm: 10.7
+  tarsus_length_mm: 11.3
+  wing_length_mm: 108.1
+  tail_length_mm: 61.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - PF
   endemic: false
   island_endemic: false
+  range_size_km2: 16377220.0
 habitat:
   primary: Grassland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

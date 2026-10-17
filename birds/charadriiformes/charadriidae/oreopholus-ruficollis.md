@@ -26,6 +26,10 @@ taxonomy:
   species: ruficollis
 morphology:
   body_mass_g: 139.8
+  bill_length_mm: 33.2
+  tarsus_length_mm: 49.3
+  wing_length_mm: 162.7
+  tail_length_mm: 76.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 1451500.0
 habitat:
   primary: Grassland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: nobilis
 morphology:
   body_mass_g: 8.333333333333334
+  bill_length_mm: 27.4
+  tarsus_length_mm: 6.4
+  wing_length_mm: 80.3
+  tail_length_mm: 71.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 36218.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

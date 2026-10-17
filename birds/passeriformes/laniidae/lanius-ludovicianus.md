@@ -26,6 +26,10 @@ taxonomy:
   species: ludovicianus
 morphology:
   body_mass_g: 47.2
+  bill_length_mm: 21.1
+  tarsus_length_mm: 27.7
+  wing_length_mm: 96.4
+  tail_length_mm: 96.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 8852504.0
 habitat:
   primary: Grassland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

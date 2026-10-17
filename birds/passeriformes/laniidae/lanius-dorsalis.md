@@ -26,6 +26,10 @@ taxonomy:
   species: dorsalis
 morphology:
   body_mass_g: 50.25
+  bill_length_mm: 22.2
+  tarsus_length_mm: 29.0
+  wing_length_mm: 101.0
+  tail_length_mm: 90.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1312305.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

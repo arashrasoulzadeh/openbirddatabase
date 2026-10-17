@@ -26,6 +26,10 @@ taxonomy:
   species: stresemanni
 morphology:
   body_mass_g: 130.0
+  bill_length_mm: 35.7
+  tarsus_length_mm: 40.3
+  wing_length_mm: 140.8
+  tail_length_mm: 121.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 4601.0
 habitat:
   primary: Grassland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

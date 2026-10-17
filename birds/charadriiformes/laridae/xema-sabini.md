@@ -26,6 +26,10 @@ taxonomy:
   species: sabini
 morphology:
   body_mass_g: 182.16666666666666
+  bill_length_mm: 32.1
+  tarsus_length_mm: 33.3
+  wing_length_mm: 265.0
+  tail_length_mm: 114.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - C
   endemic: false
   island_endemic: false
+  range_size_km2: 563351.0
 habitat:
   primary: Coastal
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

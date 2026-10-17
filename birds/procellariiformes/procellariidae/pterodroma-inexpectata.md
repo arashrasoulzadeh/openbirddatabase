@@ -26,6 +26,10 @@ taxonomy:
   species: inexpectata
 morphology:
   body_mass_g: 344.0
+  bill_length_mm: 25.5
+  tarsus_length_mm: 31.9
+  wing_length_mm: 249.8
+  tail_length_mm: 91.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - OZ
   endemic: false
   island_endemic: true
+  range_size_km2: 119601845.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

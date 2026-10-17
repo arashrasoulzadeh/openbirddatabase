@@ -25,6 +25,10 @@ taxonomy:
   species: oorti
 morphology:
   body_mass_g: 82.35
+  bill_length_mm: 21.9
+  tarsus_length_mm: 23.2
+  wing_length_mm: 91.8
+  tail_length_mm: 64.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 78643.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: flava
 morphology:
   body_mass_g: 17.85
+  bill_length_mm: 16.0
+  tarsus_length_mm: 23.1
+  wing_length_mm: 79.5
+  tail_length_mm: 70.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 19198163.0
 habitat:
   primary: Grassland
   secondary: []
@@ -139,7 +144,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

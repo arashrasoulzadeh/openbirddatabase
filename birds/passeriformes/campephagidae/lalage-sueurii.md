@@ -26,6 +26,10 @@ taxonomy:
   species: sueurii
 morphology:
   body_mass_g: 26.0
+  bill_length_mm: 18.9
+  tarsus_length_mm: 21.0
+  wing_length_mm: 92.1
+  tail_length_mm: 72.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IW
   endemic: false
   island_endemic: true
+  range_size_km2: 259989.0
 habitat:
   primary: Shrub
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

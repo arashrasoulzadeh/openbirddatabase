@@ -25,6 +25,10 @@ taxonomy:
   species: phelpsi
 morphology:
   body_mass_g: 22.240000000000002
+  bill_length_mm: 7.3
+  tarsus_length_mm: 14.0
+  wing_length_mm: 125.0
+  tail_length_mm: 58.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 255999.0
 habitat:
   primary: Forest
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

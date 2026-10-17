@@ -26,6 +26,10 @@ taxonomy:
   species: trochilus
 morphology:
   body_mass_g: 9.533333333333333
+  bill_length_mm: 12.8
+  tarsus_length_mm: 19.3
+  wing_length_mm: 65.9
+  tail_length_mm: 52.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 15839222.0
 habitat:
   primary: Forest
   secondary: []
@@ -139,7 +144,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

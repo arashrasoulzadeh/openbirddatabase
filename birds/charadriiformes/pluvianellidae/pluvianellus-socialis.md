@@ -26,6 +26,10 @@ taxonomy:
   species: socialis
 morphology:
   body_mass_g: 84.375
+  bill_length_mm: 17.3
+  tarsus_length_mm: 19.8
+  wing_length_mm: 135.7
+  tail_length_mm: 58.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 109555.0
 habitat:
   primary: Wetland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

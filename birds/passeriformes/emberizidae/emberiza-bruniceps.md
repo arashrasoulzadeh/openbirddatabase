@@ -26,6 +26,10 @@ taxonomy:
   species: bruniceps
 morphology:
   body_mass_g: 24.333333333333332
+  bill_length_mm: 15.8
+  tarsus_length_mm: 20.1
+  wing_length_mm: 86.1
+  tail_length_mm: 68.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 4074558.0
 habitat:
   primary: Grassland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

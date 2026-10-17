@@ -26,6 +26,10 @@ taxonomy:
   species: austeni
 morphology:
   body_mass_g: 65.33333333333333
+  bill_length_mm: 19.7
+  tarsus_length_mm: 35.7
+  wing_length_mm: 90.6
+  tail_length_mm: 111.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 52815.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

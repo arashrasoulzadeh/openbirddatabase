@@ -26,6 +26,10 @@ taxonomy:
   species: tacsanowskia
 morphology:
   body_mass_g: 11.266666666666666
+  bill_length_mm: 13.2
+  tarsus_length_mm: 19.1
+  wing_length_mm: 56.1
+  tail_length_mm: 58.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 2385550.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

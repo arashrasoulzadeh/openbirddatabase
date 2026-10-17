@@ -25,6 +25,10 @@ taxonomy:
   species: trizonatus
 morphology:
   body_mass_g: 623.0
+  bill_length_mm: 34.0
+  tarsus_length_mm: 67.6
+  wing_length_mm: 345.8
+  tail_length_mm: 184.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 101451.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

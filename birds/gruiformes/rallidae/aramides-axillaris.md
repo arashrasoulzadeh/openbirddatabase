@@ -26,6 +26,10 @@ taxonomy:
   species: axillaris
 morphology:
   body_mass_g: 285.6666666666667
+  bill_length_mm: 40.5
+  tarsus_length_mm: 53.1
+  wing_length_mm: 166.2
+  tail_length_mm: 53.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 393932.0
 habitat:
   primary: Coastal
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

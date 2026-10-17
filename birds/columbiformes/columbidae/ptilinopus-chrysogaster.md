@@ -24,6 +24,10 @@ taxonomy:
   species: chrysogaster
 morphology:
   body_mass_g: 110.0
+  bill_length_mm: 19.4
+  tarsus_length_mm: 23.5
+  wing_length_mm: 136.9
+  tail_length_mm: 77.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 381.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: tucumana
 morphology:
   body_mass_g: 265.0
+  bill_length_mm: 27.8
+  tarsus_length_mm: 20.2
+  wing_length_mm: 196.8
+  tail_length_mm: 106.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 69208.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

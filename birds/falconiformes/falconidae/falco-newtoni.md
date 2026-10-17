@@ -26,6 +26,10 @@ taxonomy:
   species: newtoni
 morphology:
   body_mass_g: 124.0
+  bill_length_mm: 18.4
+  tarsus_length_mm: 35.7
+  wing_length_mm: 188.6
+  tail_length_mm: 126.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - M
   endemic: false
   island_endemic: true
+  range_size_km2: 590996.0
 habitat:
   primary: Grassland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

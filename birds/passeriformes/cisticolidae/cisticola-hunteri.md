@@ -25,6 +25,10 @@ taxonomy:
   species: hunteri
 morphology:
   body_mass_g: 15.75
+  bill_length_mm: 14.3
+  tarsus_length_mm: 23.7
+  wing_length_mm: 61.5
+  tail_length_mm: 67.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 133032.0
 habitat:
   primary: Shrub
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

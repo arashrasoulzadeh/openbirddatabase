@@ -26,6 +26,10 @@ taxonomy:
   species: typica
 morphology:
   body_mass_g: 42.95
+  bill_length_mm: 22.3
+  tarsus_length_mm: 27.0
+  wing_length_mm: 106.0
+  tail_length_mm: 85.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 117.0
 habitat:
   primary: Forest
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

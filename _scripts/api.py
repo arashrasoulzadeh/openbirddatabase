@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """FastAPI server for OpenBird database with MeiliSearch and GraphQL integration."""
 
+import asyncio
 import json
+import logging
 import os
 import random
+import time
 import yaml
 from pathlib import Path
 from typing import Optional, List, Dict, Any
@@ -33,6 +36,23 @@ SEMANTIC_RATIO = float(os.environ.get("SEMANTIC_RATIO", "0.5"))  # 0 = keywords 
 EMBEDDER_NAME = "default"
 # Search hits skip the long body_text; the species page loads full details from /species/{name}
 HIT_FIELDS_EXCLUDED = {"body_text"}
+
+# MeiliSearch must never stall the API: every call has a timeout and runs in a worker thread, and after a failure
+# the API skips MeiliSearch for a while and answers from the in-memory index instead (circuit breaker).
+MEILI_TIMEOUT = float(os.environ.get("MEILI_TIMEOUT", "3"))            # seconds for a keyword search
+HYBRID_TIMEOUT = float(os.environ.get("HYBRID_TIMEOUT", "1.5"))        # seconds for a keyword + vector search
+MEILI_BREAKER_SECONDS = float(os.environ.get("MEILI_BREAKER_SECONDS", "30"))
+HYBRID_BREAKER_SECONDS = float(os.environ.get("HYBRID_BREAKER_SECONDS", "60"))
+SLOW_REQUEST_MS = float(os.environ.get("SLOW_REQUEST_MS", "500"))      # slower requests are logged
+_meili_down_until = 0.0
+_hybrid_down_until = 0.0
+
+log = logging.getLogger("openbird")
+if not log.handlers:
+    _handler = logging.StreamHandler()
+    _handler.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
+    log.addHandler(_handler)
+    log.setLevel(logging.INFO)
 
 # Public deployment: SITE_DOMAIN is the website, API_DOMAIN is this API (see .env.example)
 SITE_DOMAIN = os.environ.get("SITE_DOMAIN", "").strip()
@@ -76,7 +96,7 @@ async def cached_response(key: str, ttl: int, producer) -> Response:
     hit = await cache_get(key)
     if hit is not None:
         return Response(hit, media_type="application/json", headers={"X-Cache": "HIT"})
-    body = to_json_bytes(await producer())
+    body = await asyncio.to_thread(to_json_bytes, await producer())  # large documents: keep the event loop free
     await cache_set(key, body, ttl)
     return Response(body, media_type="application/json", headers={"X-Cache": "MISS"})
 
@@ -104,13 +124,36 @@ graphql_app = GraphQLRouter(schema)
 # Include GraphQL router
 app.include_router(graphql_app, prefix="/graphql")
 
-# MeiliSearch client
-meili_client = None
-try:
-    meili_client = meilisearch.Client(MEILI_HOST)
-    meili_client.get_index(MEILI_INDEX_NAME)
-except:
-    pass
+# MeiliSearch client (creating it does not connect; every request has a timeout)
+meili_client = meilisearch.Client(MEILI_HOST, timeout=MEILI_TIMEOUT)
+
+# Browsers and proxies may keep these responses for a while (the data only changes with a deploy)
+_CACHE_CONTROL = (
+    ("/taxonomy", "public, max-age=3600, stale-while-revalidate=86400"),
+    ("/filters", "public, max-age=3600, stale-while-revalidate=86400"),
+    ("/stats", "public, max-age=300, stale-while-revalidate=3600"),
+    ("/species/", "public, max-age=600, stale-while-revalidate=3600"),
+    ("/search", "public, max-age=60, stale-while-revalidate=300"),
+)
+
+
+@app.middleware("http")
+async def timing_and_caching(request, call_next):
+    """Adds Server-Timing, logs slow requests and sets Cache-Control on the cacheable GET endpoints."""
+    started = time.perf_counter()
+    response = await call_next(request)
+    elapsed_ms = (time.perf_counter() - started) * 1000
+    response.headers["Server-Timing"] = f"app;dur={elapsed_ms:.0f}"
+    if elapsed_ms >= SLOW_REQUEST_MS:
+        log.warning("slow request: %s %s -> %s in %.0f ms", request.method, request.url.path, response.status_code, elapsed_ms)
+    if request.method == "GET" and response.status_code == 200 and "cache-control" not in response.headers:
+        for prefix, value in _CACHE_CONTROL:
+            if request.url.path == prefix or request.url.path.startswith(prefix):
+                response.headers["Cache-Control"] = value
+                break
+        else:
+            response.headers["Cache-Control"] = "no-store"
+    return response
 
 # Load taxonomy tree and field stats at startup
 taxonomy_tree = {}
@@ -216,16 +259,29 @@ async def root():
         ]
     }
 
-def _vector_ready() -> bool:
-    """True when the MeiliSearch index has the embedder configured."""
-    if not (meili_client and VECTOR_SEARCH):
-        return False
+def _vector_ready_sync() -> bool:
+    """True when the MeiliSearch index has the embedder configured (blocking call: run it in a thread)."""
     try:
         embedders = meili_client.index(MEILI_INDEX_NAME).get_embedders()
         return bool(embedders) and EMBEDDER_NAME in (embedders if isinstance(embedders, dict) else
                                                       getattr(embedders, "embedders", {}) or {})
     except Exception:
         return False
+
+_vector_state = {"ready": False, "checked": 0.0}
+
+async def _vector_ready() -> bool:
+    """Cached for 30 s so /health never waits on MeiliSearch (which can be busy computing vectors)."""
+    if not (meili_client and VECTOR_SEARCH):
+        return False
+    now = time.time()
+    if now - _vector_state["checked"] > 30:
+        _vector_state["checked"] = now  # set first: concurrent health checks must not pile up
+        try:
+            _vector_state["ready"] = await asyncio.wait_for(asyncio.to_thread(_vector_ready_sync), timeout=MEILI_TIMEOUT)
+        except Exception:
+            _vector_state["ready"] = False
+    return _vector_state["ready"]
 
 async def _cache_ready() -> bool:
     if not redis_client:
@@ -240,7 +296,7 @@ async def health():
     return {
         "status": "ok",
         "meilisearch": meili_client is not None,
-        "vector_search": _vector_ready(),
+        "vector_search": await _vector_ready(),
         "cache": await _cache_ready(),
     }
 
@@ -285,9 +341,10 @@ async def search_species(request: SearchRequest):
     return result
 
 async def _search_uncached(request: SearchRequest):
-    """Search species with MeiliSearch (hybrid keyword + vector), falling back to the JSON index."""
-    if not meili_client:
-        return await fallback_search(request)
+    """Search species with MeiliSearch (hybrid keyword + vector), falling back to the in-memory index."""
+    global _meili_down_until, _hybrid_down_until
+    if not meili_client or time.time() < _meili_down_until:
+        return await asyncio.to_thread(fallback_search_sync, request)
 
     index = meili_client.index(MEILI_INDEX_NAME)
     params: Dict[str, Any] = {
@@ -300,21 +357,24 @@ async def _search_uncached(request: SearchRequest):
         params["filter"] = meili_filter
 
     ratio = SEMANTIC_RATIO if request.semantic_ratio is None else request.semantic_ratio
-    if VECTOR_SEARCH and request.q.strip() and ratio > 0:
+    if VECTOR_SEARCH and request.q.strip() and ratio > 0 and time.time() >= _hybrid_down_until:
         try:
-            return index.search(
-                request.q,
-                {**params, "hybrid": {"semanticRatio": min(ratio, 1.0), "embedder": EMBEDDER_NAME}},
-            )
-        except Exception:
-            pass  # embedder not configured / model still loading: use plain keyword search
+            hybrid = {**params, "hybrid": {"semanticRatio": min(ratio, 1.0), "embedder": EMBEDDER_NAME}}
+            return await asyncio.wait_for(asyncio.to_thread(index.search, request.q, hybrid), timeout=HYBRID_TIMEOUT)
+        except Exception as error:
+            # embedder missing, model still loading, or the server is too busy: keyword search for a while
+            _hybrid_down_until = time.time() + HYBRID_BREAKER_SECONDS
+            log.warning("vector search unavailable (%s); keyword search only for %.0f s", type(error).__name__, HYBRID_BREAKER_SECONDS)
 
     try:
-        return index.search(request.q, params)
-    except Exception:
-        return await fallback_search(request)
+        return await asyncio.wait_for(asyncio.to_thread(index.search, request.q, params), timeout=MEILI_TIMEOUT)
+    except Exception as error:
+        _meili_down_until = time.time() + MEILI_BREAKER_SECONDS
+        log.warning("MeiliSearch unavailable (%s); using the in-memory index for %.0f s", type(error).__name__, MEILI_BREAKER_SECONDS)
+        return await asyncio.to_thread(fallback_search_sync, request)
 
 _species_index: Optional[List[Dict]] = None
+_search_blobs: Optional[List[str]] = None
 
 def get_species_index() -> List[Dict]:
     """Load the pre-built species index once and keep it in memory."""
@@ -324,39 +384,36 @@ def get_species_index() -> List[Dict]:
             _species_index = json.load(f)
     return _species_index
 
-async def fallback_search(request: SearchRequest):
-    """Simple fallback search using pre-built index."""
-    species_index = get_species_index()
-    
-    results = []
-    q_lower = request.q.lower()
-    
-    for doc in species_index:
-        if any(doc.get(f) != v for f, v in (request.filter_map or {}).items() if f in FILTER_FIELDS and v):
-            continue
-        match = True
-        if q_lower:
-            match = (
-                any(q_lower in (doc.get(f) or '').lower()
-                    for f in ('scientific_name', 'order', 'family', 'genus')) or
-                any(q_lower in str(v).lower()
-                    for k, v in doc.items() if k.startswith('common_name_'))
-            )
-        
-        if match:
-            results.append(doc)
-    
-    # Apply pagination
+def _blobs() -> List[str]:
+    """One lower-cased searchable string per species (scientific name, order, family, genus, every common name)."""
+    global _search_blobs
+    if _search_blobs is None:
+        _search_blobs = [
+            "\n".join(
+                [str(d.get(f) or "") for f in ("scientific_name", "order", "family", "genus")]
+                + [str(v) for k, v in d.items() if k.startswith("common_name_") and v]
+            ).lower()
+            for d in get_species_index()
+        ]
+    return _search_blobs
+
+def fallback_search_sync(request: SearchRequest):
+    """Search the in-memory index: one substring test per species, so it stays fast with 11k species."""
+    docs = get_species_index()
+    blobs = _blobs()
+    q = request.q.strip().lower()
+    filters = [(f, v) for f, v in (request.filter_map or {}).items() if f in FILTER_FIELDS and v]
+
+    results = [
+        d for d, blob in zip(docs, blobs)
+        if (not q or q in blob) and all(d.get(f) == v for f, v in filters)
+    ]
     start = request.offset
-    end = start + request.limit
-    paginated = [{k: v for k, v in d.items() if k not in HIT_FIELDS_EXCLUDED} for d in results[start:end]]
-    
-    return {
-        "hits": paginated,
-        "total": len(results),
-        "limit": request.limit,
-        "offset": request.offset
-    }
+    paginated = [{k: v for k, v in d.items() if k not in HIT_FIELDS_EXCLUDED} for d in results[start:start + request.limit]]
+    return {"hits": paginated, "total": len(results), "limit": request.limit, "offset": request.offset}
+
+async def fallback_search(request: SearchRequest):
+    return await asyncio.to_thread(fallback_search_sync, request)
 
 @app.get("/search", response_model=Dict[str, Any])
 async def search_species_get(
@@ -395,7 +452,7 @@ async def get_species(scientific_name: str, lang: str = Query("fa", description=
     slug = slug_of(scientific_name)
     translated = lang not in ("fa", "en") and TRANSLATIONS_DIR.exists()
 
-    async def produce():
+    def load():
         filepath = get_species_file(scientific_name)
         if not filepath:
             raise HTTPException(status_code=404, detail="Species not found")
@@ -404,13 +461,51 @@ async def get_species(scientific_name: str, lang: str = Query("fa", description=
             raise HTTPException(status_code=500, detail="Invalid species file")
         return with_completeness(merge_translations(fm, lang) if translated else fm)
 
+    async def produce():
+        return await asyncio.to_thread(load)  # reading and parsing the file must not block other requests
+
     # The base document is shared by fa/en; only real translation overrides get their own entry
     key = species_key(slug) + (f":{lang}" if translated else "")
     return await cached_response(key, CACHE_STATIC_TTL, produce)
 
+TAXONOMY_LANGS = {"en", "fa", "ar", "es", "fr", "de", "pt", "ru", "ja", "zh", "nl", "pl", "tr"}
+
+def _usable_name(value: Any) -> str:
+    text = str(value or "").strip()
+    return "" if text.lower() in ("", "nan", "none", "null") else text
+
+def _slim_taxonomy(lang: str) -> Dict[str, Any]:
+    """The tree with one common name per species (in `lang`) instead of every language: about a quarter of the size."""
+    slim: Dict[str, Any] = {}
+    for order, families in taxonomy_tree.items():
+        slim[order] = {}
+        for family, genera in families.items():
+            slim[order][family] = {}
+            for genus, species in genera.items():
+                entries = []
+                for sp in species:
+                    local = (
+                        sp.get("common_en") if lang == "en"
+                        else sp.get("common_fa") if lang == "fa"
+                        else (sp.get("names") or {}).get(lang)
+                    )
+                    entries.append({
+                        "scientific": sp["scientific"],
+                        "id": sp.get("id"),
+                        "name": _usable_name(local) or _usable_name(sp.get("common_en")),
+                        "common_en": _usable_name(sp.get("common_en")),
+                    })
+                slim[order][family][genus] = entries
+    return slim
+
 @app.get("/taxonomy")
-async def get_taxonomy():
-    """Get full taxonomy tree (about 4.6 MB, so it is worth caching)."""
+async def get_taxonomy(lang: Optional[str] = Query(None, description="Return one common name per species in this language")):
+    """The taxonomy tree. Without `lang` the full tree (all languages, about 4.6 MB); with `lang` a slim tree."""
+    if lang in TAXONOMY_LANGS:
+        async def produce_slim():
+            return await asyncio.to_thread(_slim_taxonomy, lang)
+        return await cached_response(f"taxonomy:{lang}", CACHE_STATIC_TTL, produce_slim)
+
     async def produce():
         return taxonomy_tree
     return await cached_response("taxonomy", CACHE_STATIC_TTL, produce)
@@ -420,7 +515,10 @@ async def get_order(order: str):
     """Get families within an order."""
     if order not in taxonomy_tree:
         raise HTTPException(status_code=404, detail="Order not found")
-    return taxonomy_tree[order]
+
+    async def produce():
+        return taxonomy_tree[order]
+    return await cached_response(f"taxonomy:{order}", CACHE_STATIC_TTL, produce)
 
 @app.get("/taxonomy/{order}/{family}")
 async def get_family(order: str, family: str):
@@ -429,7 +527,10 @@ async def get_family(order: str, family: str):
         raise HTTPException(status_code=404, detail="Order not found")
     if family not in taxonomy_tree[order]:
         raise HTTPException(status_code=404, detail="Family not found")
-    return taxonomy_tree[order][family]
+
+    async def produce():
+        return taxonomy_tree[order][family]
+    return await cached_response(f"taxonomy:{order}:{family}", CACHE_STATIC_TTL, produce)
 
 @app.get("/filters")
 async def get_filters():
@@ -451,6 +552,19 @@ async def get_stats():
             "field_stats": {k: len(v) for k, v in field_stats.items()}
         }
     return await cached_response("stats", CACHE_STATIC_TTL, produce)
+
+@app.on_event("startup")
+async def preload() -> None:
+    """Load the big in-memory structures before the first visitor needs them."""
+    def work():
+        get_species_index()
+        _blobs()
+        get_species_file("")
+        _hit_attributes()
+    started = time.perf_counter()
+    await asyncio.to_thread(work)
+    log.info("preloaded the species index in %.0f ms", (time.perf_counter() - started) * 1000)
+
 
 if __name__ == "__main__":
     import uvicorn

@@ -25,6 +25,10 @@ taxonomy:
   species: beckeri
 morphology:
   body_mass_g: 8.25
+  bill_length_mm: 11.2
+  tarsus_length_mm: 17.7
+  wing_length_mm: 53.8
+  tail_length_mm: 55.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 2305.0
 habitat:
   primary: Forest
   secondary: []
@@ -122,7 +127,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

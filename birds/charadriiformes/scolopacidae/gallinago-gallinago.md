@@ -26,6 +26,10 @@ taxonomy:
   species: gallinago
 morphology:
   body_mass_g: 114.16666666666667
+  bill_length_mm: 69.7
+  tarsus_length_mm: 30.0
+  wing_length_mm: 127.9
+  tail_length_mm: 54.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - E
   endemic: false
   island_endemic: false
+  range_size_km2: 20105910.0
 habitat:
   primary: Wetland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

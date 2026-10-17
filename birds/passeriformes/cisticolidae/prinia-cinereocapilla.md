@@ -26,6 +26,10 @@ taxonomy:
   species: cinereocapilla
 morphology:
   body_mass_g: 7.25
+  bill_length_mm: 12.0
+  tarsus_length_mm: 18.9
+  wing_length_mm: 43.2
+  tail_length_mm: 53.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 33033.0
 habitat:
   primary: Forest
   secondary: []
@@ -123,7 +128,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

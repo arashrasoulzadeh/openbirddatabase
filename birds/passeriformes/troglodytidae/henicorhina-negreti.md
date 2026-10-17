@@ -26,6 +26,10 @@ taxonomy:
   species: negreti
 morphology:
   body_mass_g: 15.98
+  bill_length_mm: 17.5
+  tarsus_length_mm: 18.1
+  wing_length_mm: 53.9
+  tail_length_mm: 25.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 1922.0
 habitat:
   primary: Forest
   secondary: []
@@ -123,7 +128,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

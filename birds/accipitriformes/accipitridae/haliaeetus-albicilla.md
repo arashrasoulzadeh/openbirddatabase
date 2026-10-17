@@ -26,6 +26,10 @@ taxonomy:
   species: albicilla
 morphology:
   body_mass_g: 4781.25
+  bill_length_mm: 74.1
+  tarsus_length_mm: 95.0
+  wing_length_mm: 599.5
+  tail_length_mm: 294.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 17404347.0
 habitat:
   primary: Coastal
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

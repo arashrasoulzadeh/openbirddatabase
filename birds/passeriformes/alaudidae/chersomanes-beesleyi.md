@@ -24,6 +24,10 @@ taxonomy:
   species: beesleyi
 morphology:
   body_mass_g: 24.75
+  bill_length_mm: 18.4
+  tarsus_length_mm: 25.8
+  wing_length_mm: 77.2
+  tail_length_mm: 37.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -127,7 +131,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

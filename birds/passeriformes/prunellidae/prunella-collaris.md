@@ -26,6 +26,10 @@ taxonomy:
   species: collaris
 morphology:
   body_mass_g: 38.58
+  bill_length_mm: 16.7
+  tarsus_length_mm: 23.6
+  wing_length_mm: 100.0
+  tail_length_mm: 63.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 10326441.0
 habitat:
   primary: Rocky
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

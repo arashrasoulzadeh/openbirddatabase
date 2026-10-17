@@ -26,6 +26,10 @@ taxonomy:
   species: modesta
 morphology:
   body_mass_g: 18.533333333333335
+  bill_length_mm: 15.3
+  tarsus_length_mm: 22.7
+  wing_length_mm: 84.3
+  tail_length_mm: 62.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 68147.0
 habitat:
   primary: Forest
   secondary: []
@@ -123,7 +128,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

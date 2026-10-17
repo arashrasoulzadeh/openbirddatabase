@@ -26,6 +26,10 @@ taxonomy:
   species: sandvicensis
 morphology:
   body_mass_g: 2150.0
+  bill_length_mm: 43.8
+  tarsus_length_mm: 80.9
+  wing_length_mm: 364.0
+  tail_length_mm: 141.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 1904.0
 habitat:
   primary: Shrub
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

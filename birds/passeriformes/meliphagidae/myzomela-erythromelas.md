@@ -25,6 +25,10 @@ taxonomy:
   species: erythromelas
 morphology:
   body_mass_g: 7.5
+  bill_length_mm: 13.2
+  tarsus_length_mm: 14.0
+  wing_length_mm: 51.2
+  tail_length_mm: 32.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 31101.0
 habitat:
   primary: Forest
   secondary: []
@@ -125,7 +130,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

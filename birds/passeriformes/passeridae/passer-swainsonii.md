@@ -26,6 +26,10 @@ taxonomy:
   species: swainsonii
 morphology:
   body_mass_g: 31.1
+  bill_length_mm: 15.0
+  tarsus_length_mm: 19.5
+  wing_length_mm: 87.0
+  tail_length_mm: 70.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 752104.0
 habitat:
   primary: Shrub
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: viscivorus
 morphology:
   body_mass_g: 126.66666666666667
+  bill_length_mm: 26.4
+  tarsus_length_mm: 32.7
+  wing_length_mm: 153.7
+  tail_length_mm: 111.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 13574081.0
 habitat:
   primary: Forest
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

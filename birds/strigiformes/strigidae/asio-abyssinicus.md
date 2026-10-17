@@ -26,6 +26,10 @@ taxonomy:
   species: abyssinicus
 morphology:
   body_mass_g: 322.5
+  bill_length_mm: 35.3
+  tarsus_length_mm: 57.6
+  wing_length_mm: 334.5
+  tail_length_mm: 162.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 153996.0
 habitat:
   primary: Shrub
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

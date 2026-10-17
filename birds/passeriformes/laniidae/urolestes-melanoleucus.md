@@ -31,6 +31,7 @@ distribution:
   biogeographic_realms: []
   endemic: false
   island_endemic: false
+  range_size_km2: 1707358.0
 habitat:
   primary: ''
   secondary: []
@@ -117,8 +118,15 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: Low
+morphology:
+  bill_length_mm: 24.4
+  tarsus_length_mm: 35.4
+  wing_length_mm: 134.6
+  tail_length_mm: 288.7
+  body_mass_g: 82.2
 ---
 
 

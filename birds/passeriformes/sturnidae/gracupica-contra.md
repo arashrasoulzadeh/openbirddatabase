@@ -26,6 +26,10 @@ taxonomy:
   species: contra
 morphology:
   body_mass_g: 83.33333333333333
+  bill_length_mm: 32.8
+  tarsus_length_mm: 33.0
+  wing_length_mm: 112.2
+  tail_length_mm: 66.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 3334095.0
 habitat:
   primary: Shrub
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

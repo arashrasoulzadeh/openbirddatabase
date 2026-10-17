@@ -26,6 +26,10 @@ taxonomy:
   species: jamesi
 morphology:
   body_mass_g: 2250.0
+  bill_length_mm: 86.5
+  tarsus_length_mm: 201.6
+  wing_length_mm: 411.7
+  tail_length_mm: 147.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 273389.0
 habitat:
   primary: Wetland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

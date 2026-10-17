@@ -26,6 +26,10 @@ taxonomy:
   species: temnurus
 morphology:
   body_mass_g: 138.0
+  bill_length_mm: 30.2
+  tarsus_length_mm: 29.2
+  wing_length_mm: 131.6
+  tail_length_mm: 171.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 266869.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

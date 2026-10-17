@@ -26,6 +26,10 @@ taxonomy:
   species: macroura
 morphology:
   body_mass_g: 7.94
+  bill_length_mm: 24.6
+  tarsus_length_mm: 3.4
+  wing_length_mm: 69.3
+  tail_length_mm: 85.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 4594118.0
 habitat:
   primary: Shrub
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

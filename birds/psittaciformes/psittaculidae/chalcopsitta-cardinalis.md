@@ -25,6 +25,10 @@ taxonomy:
   species: cardinalis
 morphology:
   body_mass_g: 191.5
+  bill_length_mm: 25.7
+  tarsus_length_mm: 20.4
+  wing_length_mm: 171.4
+  tail_length_mm: 141.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 35347.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: punctatus
 morphology:
   body_mass_g: 22.299999999999997
+  bill_length_mm: 17.5
+  tarsus_length_mm: 22.4
+  wing_length_mm: 68.2
+  tail_length_mm: 75.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - Z
   endemic: false
   island_endemic: true
+  range_size_km2: 196471.0
 habitat:
   primary: Shrub
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

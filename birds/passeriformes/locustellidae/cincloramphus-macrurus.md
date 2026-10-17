@@ -24,6 +24,10 @@ taxonomy:
   species: macrurus
 morphology:
   body_mass_g: 26.939999999999998
+  bill_length_mm: 16.4
+  tarsus_length_mm: 25.3
+  wing_length_mm: 69.0
+  tail_length_mm: 104.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -32,6 +36,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 738647.0
 habitat:
   primary: Grassland
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: rufofuscus
 morphology:
   body_mass_g: 1197.5
+  bill_length_mm: 39.8
+  tarsus_length_mm: 84.9
+  wing_length_mm: 413.2
+  tail_length_mm: 190.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1533535.0
 habitat:
   primary: Grassland
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

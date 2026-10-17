@@ -25,6 +25,10 @@ taxonomy:
   species: solitarius
 morphology:
   body_mass_g: 490.25
+  bill_length_mm: 31.8
+  tarsus_length_mm: 72.7
+  wing_length_mm: 270.2
+  tail_length_mm: 160.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 6957.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

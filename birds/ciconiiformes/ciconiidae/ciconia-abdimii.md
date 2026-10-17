@@ -26,6 +26,10 @@ taxonomy:
   species: abdimii
 morphology:
   body_mass_g: 1365.0
+  bill_length_mm: 108.0
+  tarsus_length_mm: 113.0
+  wing_length_mm: 416.5
+  tail_length_mm: 163.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 6486423.0
 habitat:
   primary: Grassland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: ceruleus
 morphology:
   body_mass_g: 51.85
+  bill_length_mm: 27.7
+  tarsus_length_mm: 22.9
+  wing_length_mm: 175.8
+  tail_length_mm: 92.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 33816689.0
 habitat:
   primary: Coastal
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

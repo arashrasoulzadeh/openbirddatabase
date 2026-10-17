@@ -25,6 +25,10 @@ taxonomy:
   species: humeralis
 morphology:
   body_mass_g: 22.866666666666664
+  bill_length_mm: 17.1
+  tarsus_length_mm: 26.9
+  wing_length_mm: 75.4
+  tail_length_mm: 71.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 644971.0
 habitat:
   primary: Woodland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

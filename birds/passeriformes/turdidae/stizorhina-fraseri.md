@@ -26,6 +26,10 @@ taxonomy:
   species: fraseri
 morphology:
   body_mass_g: 34.85
+  bill_length_mm: 15.8
+  tarsus_length_mm: 20.6
+  wing_length_mm: 94.1
+  tail_length_mm: 77.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 3553586.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

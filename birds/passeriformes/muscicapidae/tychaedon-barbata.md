@@ -26,6 +26,10 @@ taxonomy:
   species: barbata
 morphology:
   body_mass_g: 25.2
+  bill_length_mm: 17.1
+  tarsus_length_mm: 26.2
+  wing_length_mm: 81.5
+  tail_length_mm: 67.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1773141.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

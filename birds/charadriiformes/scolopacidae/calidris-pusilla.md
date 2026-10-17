@@ -26,6 +26,10 @@ taxonomy:
   species: pusilla
 morphology:
   body_mass_g: 32.22
+  bill_length_mm: 22.2
+  tarsus_length_mm: 20.7
+  wing_length_mm: 92.7
+  tail_length_mm: 39.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 2634810.0
 habitat:
   primary: Grassland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

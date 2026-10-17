@@ -26,6 +26,10 @@ taxonomy:
   species: puffinus
 morphology:
   body_mass_g: 482.25
+  bill_length_mm: 34.6
+  tarsus_length_mm: 41.7
+  wing_length_mm: 232.5
+  tail_length_mm: 73.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NPLFS
   endemic: false
   island_endemic: true
+  range_size_km2: 69101741.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

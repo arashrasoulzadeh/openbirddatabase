@@ -117,8 +117,15 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: Low
+morphology:
+  bill_length_mm: 16.8
+  tarsus_length_mm: 14.2
+  wing_length_mm: 83.3
+  tail_length_mm: 42.3
+  body_mass_g: 25.8
 ---
 
 

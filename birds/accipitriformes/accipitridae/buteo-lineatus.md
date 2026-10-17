@@ -26,6 +26,10 @@ taxonomy:
   species: lineatus
 morphology:
   body_mass_g: 608.75
+  bill_length_mm: 33.1
+  tarsus_length_mm: 74.1
+  wing_length_mm: 319.0
+  tail_length_mm: 172.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 3542030.0
 habitat:
   primary: Woodland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

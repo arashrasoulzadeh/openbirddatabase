@@ -26,6 +26,10 @@ taxonomy:
   species: ornatus
 morphology:
   body_mass_g: 26.5
+  bill_length_mm: 37.0
+  tarsus_length_mm: 10.7
+  wing_length_mm: 108.2
+  tail_length_mm: 106.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AW
   endemic: false
   island_endemic: false
+  range_size_km2: 6451756.0
 habitat:
   primary: Savanna
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

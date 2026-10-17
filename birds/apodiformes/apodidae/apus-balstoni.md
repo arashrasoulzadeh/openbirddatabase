@@ -26,6 +26,10 @@ taxonomy:
   species: balstoni
 morphology:
   body_mass_g: 46.125
+  bill_length_mm: 11.5
+  tarsus_length_mm: 11.0
+  wing_length_mm: 161.2
+  tail_length_mm: 71.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - M
   endemic: false
   island_endemic: true
+  range_size_km2: 592893.0
 habitat:
   primary: Rocky
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: maranonicus
 morphology:
   body_mass_g: 70.0
+  bill_length_mm: 24.9
+  tarsus_length_mm: 31.8
+  wing_length_mm: 116.0
+  tail_length_mm: 88.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 39622.0
 habitat:
   primary: Woodland
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: rufescens
 morphology:
   body_mass_g: 616.5
+  bill_length_mm: 101.5
+  tarsus_length_mm: 144.5
+  wing_length_mm: 313.2
+  tail_length_mm: 103.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 349146.0
 habitat:
   primary: Coastal
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

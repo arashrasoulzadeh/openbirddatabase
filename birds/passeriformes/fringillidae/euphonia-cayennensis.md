@@ -25,6 +25,10 @@ taxonomy:
   species: cayennensis
 morphology:
   body_mass_g: 14.133333333333333
+  bill_length_mm: 11.5
+  tarsus_length_mm: 15.5
+  wing_length_mm: 56.6
+  tail_length_mm: 31.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 1272525.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

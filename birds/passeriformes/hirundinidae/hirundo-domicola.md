@@ -25,6 +25,10 @@ taxonomy:
   species: domicola
 morphology:
   body_mass_g: 15.6
+  bill_length_mm: 10.7
+  tarsus_length_mm: 10.1
+  wing_length_mm: 102.6
+  tail_length_mm: 48.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -136,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

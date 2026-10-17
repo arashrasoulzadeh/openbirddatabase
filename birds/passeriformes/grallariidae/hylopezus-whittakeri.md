@@ -25,6 +25,10 @@ taxonomy:
   species: whittakeri
 morphology:
   body_mass_g: 43.13333333333333
+  bill_length_mm: 22.2
+  tarsus_length_mm: 34.9
+  wing_length_mm: 86.5
+  tail_length_mm: 39.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -122,7 +126,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

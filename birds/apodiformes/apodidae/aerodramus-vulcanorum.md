@@ -25,6 +25,10 @@ taxonomy:
   species: vulcanorum
 morphology:
   body_mass_g: 14.4
+  bill_length_mm: 7.1
+  tarsus_length_mm: 9.4
+  wing_length_mm: 120.0
+  tail_length_mm: 53.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 7991.0
 habitat:
   primary: Rocky
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

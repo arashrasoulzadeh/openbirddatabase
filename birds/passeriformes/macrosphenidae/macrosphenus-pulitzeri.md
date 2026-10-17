@@ -32,6 +32,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 5725.0
 habitat:
   primary: Forest
   secondary: []
@@ -120,8 +121,15 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
+morphology:
+  bill_length_mm: 17.7
+  tarsus_length_mm: 23.2
+  wing_length_mm: 60.0
+  tail_length_mm: 67.9
+  body_mass_g: 11.7
 ---
 
 

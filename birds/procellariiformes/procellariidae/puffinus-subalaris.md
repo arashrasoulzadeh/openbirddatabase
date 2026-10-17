@@ -26,6 +26,10 @@ taxonomy:
   species: subalaris
 morphology:
   body_mass_g: 176.5
+  bill_length_mm: 29.8
+  tarsus_length_mm: 35.2
+  wing_length_mm: 186.2
+  tail_length_mm: 71.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 5679161.0
 habitat:
   primary: Sea
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

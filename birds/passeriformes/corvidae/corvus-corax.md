@@ -26,6 +26,10 @@ taxonomy:
   species: corax
 morphology:
   body_mass_g: 878.3333333333334
+  bill_length_mm: 77.0
+  tarsus_length_mm: 67.1
+  wing_length_mm: 419.7
+  tail_length_mm: 228.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - C
   endemic: false
   island_endemic: false
+  range_size_km2: 52288450.0
 habitat:
   primary: Forest
   secondary: []
@@ -190,7 +195,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

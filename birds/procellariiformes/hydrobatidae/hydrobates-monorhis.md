@@ -26,6 +26,10 @@ taxonomy:
   species: monorhis
 morphology:
   body_mass_g: 39.55
+  bill_length_mm: 16.5
+  tarsus_length_mm: 23.2
+  wing_length_mm: 152.6
+  tail_length_mm: 71.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: true
+  range_size_km2: 19566410.0
 habitat:
   primary: Sea
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

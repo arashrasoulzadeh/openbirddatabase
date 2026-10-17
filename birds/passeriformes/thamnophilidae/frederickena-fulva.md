@@ -25,6 +25,10 @@ taxonomy:
   species: fulva
 morphology:
   body_mass_g: 81.45
+  bill_length_mm: 30.5
+  tarsus_length_mm: 35.3
+  wing_length_mm: 98.2
+  tail_length_mm: 84.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -127,7 +131,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

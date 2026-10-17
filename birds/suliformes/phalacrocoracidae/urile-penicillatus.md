@@ -25,6 +25,10 @@ taxonomy:
   species: penicillatus
 morphology:
   body_mass_g: 2280.1666666666665
+  bill_length_mm: 76.5
+  tarsus_length_mm: 65.5
+  wing_length_mm: 280.6
+  tail_length_mm: 115.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 326314.0
 habitat:
   primary: Coastal
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

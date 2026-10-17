@@ -26,6 +26,10 @@ taxonomy:
   species: americana
 morphology:
   body_mass_g: 6789.4
+  bill_length_mm: 148.8
+  tarsus_length_mm: 288.8
+  wing_length_mm: 605.8
+  tail_length_mm: 208.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 6122.0
 habitat:
   primary: Wetland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

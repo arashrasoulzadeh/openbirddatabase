@@ -26,6 +26,10 @@ taxonomy:
   species: fusca
 morphology:
   body_mass_g: 2641.6666666666665
+  bill_length_mm: 108.9
+  tarsus_length_mm: 76.2
+  wing_length_mm: 510.2
+  tail_length_mm: 268.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - S
   endemic: false
   island_endemic: true
+  range_size_km2: 61330907.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

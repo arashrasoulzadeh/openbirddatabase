@@ -25,6 +25,10 @@ taxonomy:
   species: cirrochloris
 morphology:
   body_mass_g: 8.05
+  bill_length_mm: 24.9
+  tarsus_length_mm: 4.5
+  wing_length_mm: 66.4
+  tail_length_mm: 39.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -133,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

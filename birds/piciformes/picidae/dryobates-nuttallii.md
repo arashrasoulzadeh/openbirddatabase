@@ -26,6 +26,10 @@ taxonomy:
   species: nuttallii
 morphology:
   body_mass_g: 37.85
+  bill_length_mm: 19.5
+  tarsus_length_mm: 18.0
+  wing_length_mm: 102.2
+  tail_length_mm: 70.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 183834.0
 habitat:
   primary: Woodland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

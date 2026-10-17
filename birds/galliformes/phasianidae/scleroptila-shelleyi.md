@@ -26,6 +26,10 @@ taxonomy:
   species: shelleyi
 morphology:
   body_mass_g: 494.75
+  bill_length_mm: 33.5
+  tarsus_length_mm: 38.9
+  wing_length_mm: 164.9
+  tail_length_mm: 70.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1271473.0
 habitat:
   primary: Grassland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

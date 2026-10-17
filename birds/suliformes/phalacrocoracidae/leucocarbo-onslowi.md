@@ -26,6 +26,10 @@ taxonomy:
   species: onslowi
 morphology:
   body_mass_g: 2095.0
+  bill_length_mm: 62.9
+  tarsus_length_mm: 64.1
+  wing_length_mm: 259.0
+  tail_length_mm: 103.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 7234.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

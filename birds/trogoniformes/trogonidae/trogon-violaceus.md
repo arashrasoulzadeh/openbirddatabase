@@ -26,6 +26,10 @@ taxonomy:
   species: violaceus
 morphology:
   body_mass_g: 49.0
+  bill_length_mm: 19.0
+  tarsus_length_mm: 10.8
+  wing_length_mm: 114.0
+  tail_length_mm: 104.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 7284998.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

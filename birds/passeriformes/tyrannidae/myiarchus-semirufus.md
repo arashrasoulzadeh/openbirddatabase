@@ -25,6 +25,10 @@ taxonomy:
   species: semirufus
 morphology:
   body_mass_g: 22.900000000000002
+  bill_length_mm: 24.1
+  tarsus_length_mm: 21.6
+  wing_length_mm: 87.8
+  tail_length_mm: 87.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 3794.0
 habitat:
   primary: Woodland
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

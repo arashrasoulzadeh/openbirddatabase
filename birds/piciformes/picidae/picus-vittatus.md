@@ -26,6 +26,10 @@ taxonomy:
   species: vittatus
 morphology:
   body_mass_g: 110.36666666666667
+  bill_length_mm: 32.9
+  tarsus_length_mm: 25.7
+  wing_length_mm: 126.4
+  tail_length_mm: 98.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 1352503.0
 habitat:
   primary: Forest
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

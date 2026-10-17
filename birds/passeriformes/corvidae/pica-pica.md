@@ -26,6 +26,10 @@ taxonomy:
   species: pica
 morphology:
   body_mass_g: 217.5
+  bill_length_mm: 40.8
+  tarsus_length_mm: 47.2
+  wing_length_mm: 193.3
+  tail_length_mm: 242.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 31831405.0
 habitat:
   primary: Shrub
   secondary: []
@@ -184,7 +189,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

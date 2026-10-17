@@ -25,6 +25,10 @@ taxonomy:
   species: scintillata
 morphology:
   body_mass_g: 212.5
+  bill_length_mm: 28.6
+  tarsus_length_mm: 22.5
+  wing_length_mm: 167.8
+  tail_length_mm: 110.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 311563.0
 habitat:
   primary: Savanna
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

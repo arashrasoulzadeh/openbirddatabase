@@ -26,6 +26,10 @@ taxonomy:
   species: novaeseelandiae
 morphology:
   body_mass_g: 60.0
+  bill_length_mm: 26.6
+  tarsus_length_mm: 22.3
+  wing_length_mm: 117.4
+  tail_length_mm: 59.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 4.0
 habitat:
   primary: Coastal
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

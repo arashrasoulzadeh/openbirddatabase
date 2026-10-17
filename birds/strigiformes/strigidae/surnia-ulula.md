@@ -26,6 +26,10 @@ taxonomy:
   species: ulula
 morphology:
   body_mass_g: 319.95
+  bill_length_mm: 23.2
+  tarsus_length_mm: 27.2
+  wing_length_mm: 231.4
+  tail_length_mm: 186.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: false
+  range_size_km2: 21131927.0
 habitat:
   primary: Grassland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: capillatus
 morphology:
   body_mass_g: 2837.5
+  bill_length_mm: 77.2
+  tarsus_length_mm: 63.8
+  wing_length_mm: 314.5
+  tail_length_mm: 142.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 71834.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -25,6 +25,10 @@ taxonomy:
   species: longirostre
 morphology:
   body_mass_g: 68.4
+  bill_length_mm: 34.6
+  tarsus_length_mm: 36.3
+  wing_length_mm: 99.4
+  tail_length_mm: 121.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 300962.0
 habitat:
   primary: Shrub
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

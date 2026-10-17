@@ -25,6 +25,10 @@ taxonomy:
   species: barbarus
 morphology:
   body_mass_g: 48.1
+  bill_length_mm: 26.2
+  tarsus_length_mm: 33.7
+  wing_length_mm: 106.9
+  tail_length_mm: 99.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 2828291.0
 habitat:
   primary: Savanna
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

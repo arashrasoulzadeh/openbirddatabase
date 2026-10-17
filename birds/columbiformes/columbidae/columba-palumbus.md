@@ -26,6 +26,10 @@ taxonomy:
   species: palumbus
 morphology:
   body_mass_g: 487.0
+  bill_length_mm: 27.8
+  tarsus_length_mm: 31.5
+  wing_length_mm: 246.4
+  tail_length_mm: 153.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 11947217.0
 habitat:
   primary: Woodland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

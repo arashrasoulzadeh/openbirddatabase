@@ -25,6 +25,10 @@ taxonomy:
   species: rolleti
 morphology:
   body_mass_g: 100.5
+  bill_length_mm: 39.5
+  tarsus_length_mm: 27.8
+  wing_length_mm: 112.8
+  tail_length_mm: 78.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1106456.0
 habitat:
   primary: Woodland
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

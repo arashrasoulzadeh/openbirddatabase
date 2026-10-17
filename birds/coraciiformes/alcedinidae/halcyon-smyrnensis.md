@@ -26,6 +26,10 @@ taxonomy:
   species: smyrnensis
 morphology:
   body_mass_g: 89.7
+  bill_length_mm: 59.8
+  tarsus_length_mm: 15.0
+  wing_length_mm: 113.2
+  tail_length_mm: 78.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 6823580.0
 habitat:
   primary: Artificial
   secondary: []
@@ -138,7 +143,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

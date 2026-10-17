@@ -26,6 +26,10 @@ taxonomy:
   species: longirostris
 morphology:
   body_mass_g: 6.540000000000001
+  bill_length_mm: 35.0
+  tarsus_length_mm: 4.4
+  wing_length_mm: 58.4
+  tail_length_mm: 30.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 8290214.0
 habitat:
   primary: Forest
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

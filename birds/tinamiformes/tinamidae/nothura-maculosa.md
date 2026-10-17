@@ -26,6 +26,10 @@ taxonomy:
   species: maculosa
 morphology:
   body_mass_g: 256.0
+  bill_length_mm: 19.7
+  tarsus_length_mm: 34.7
+  wing_length_mm: 124.1
+  tail_length_mm: 42.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 5645224.0
 habitat:
   primary: Grassland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -25,6 +25,10 @@ taxonomy:
   species: brevipes
 morphology:
   body_mass_g: 137.0
+  bill_length_mm: 24.8
+  tarsus_length_mm: 27.6
+  wing_length_mm: 212.2
+  tail_length_mm: 95.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - AO
   endemic: false
   island_endemic: true
+  range_size_km2: 34420908.0
 habitat:
   primary: Sea
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

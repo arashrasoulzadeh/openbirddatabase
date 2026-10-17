@@ -26,6 +26,10 @@ taxonomy:
   species: alle
 morphology:
   body_mass_g: 170.0
+  bill_length_mm: 20.2
+  tarsus_length_mm: 20.1
+  wing_length_mm: 115.8
+  tail_length_mm: 34.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: true
+  range_size_km2: 375517.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

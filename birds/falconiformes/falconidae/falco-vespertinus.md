@@ -26,6 +26,10 @@ taxonomy:
   species: vespertinus
 morphology:
   body_mass_g: 163.75
+  bill_length_mm: 17.1
+  tarsus_length_mm: 28.1
+  wing_length_mm: 237.9
+  tail_length_mm: 125.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 9360235.0
 habitat:
   primary: Plains
   secondary: []
@@ -137,7 +142,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: featherstoni
 morphology:
   body_mass_g: 1043.75
+  bill_length_mm: 54.8
+  tarsus_length_mm: 54.3
+  wing_length_mm: 218.5
+  tail_length_mm: 90.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 11945.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

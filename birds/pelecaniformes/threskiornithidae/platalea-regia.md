@@ -26,6 +26,10 @@ taxonomy:
   species: regia
 morphology:
   body_mass_g: 1731.6666666666667
+  bill_length_mm: 174.3
+  tarsus_length_mm: 120.3
+  wing_length_mm: 352.6
+  tail_length_mm: 108.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AZ
   endemic: false
   island_endemic: false
+  range_size_km2: 5888748.0
 habitat:
   primary: Wetland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

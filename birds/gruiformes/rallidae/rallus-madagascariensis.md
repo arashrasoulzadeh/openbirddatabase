@@ -26,6 +26,10 @@ taxonomy:
   species: madagascariensis
 morphology:
   body_mass_g: 128.0
+  bill_length_mm: 55.6
+  tarsus_length_mm: 37.6
+  wing_length_mm: 105.8
+  tail_length_mm: 40.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - M
   endemic: false
   island_endemic: true
+  range_size_km2: 149531.0
 habitat:
   primary: Wetland
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

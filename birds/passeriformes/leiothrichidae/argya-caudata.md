@@ -26,6 +26,10 @@ taxonomy:
   species: caudata
 morphology:
   body_mass_g: 34.28333333333333
+  bill_length_mm: 18.7
+  tarsus_length_mm: 25.3
+  wing_length_mm: 75.8
+  tail_length_mm: 107.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 3191144.0
 habitat:
   primary: Plains
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

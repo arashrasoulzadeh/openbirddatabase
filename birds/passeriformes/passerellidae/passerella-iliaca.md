@@ -26,6 +26,10 @@ taxonomy:
   species: iliaca
 morphology:
   body_mass_g: 35.25
+  bill_length_mm: 13.5
+  tarsus_length_mm: 24.1
+  wing_length_mm: 83.7
+  tail_length_mm: 71.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 5235159.0
 habitat:
   primary: Shrub
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

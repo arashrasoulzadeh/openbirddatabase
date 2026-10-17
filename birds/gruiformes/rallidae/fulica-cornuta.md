@@ -26,6 +26,10 @@ taxonomy:
   species: cornuta
 morphology:
   body_mass_g: 1863.5
+  bill_length_mm: 53.5
+  tarsus_length_mm: 76.7
+  wing_length_mm: 291.0
+  tail_length_mm: 68.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 223465.0
 habitat:
   primary: Wetland
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

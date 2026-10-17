@@ -26,6 +26,10 @@ taxonomy:
   species: robertsi
 morphology:
   body_mass_g: 10.200000000000001
+  bill_length_mm: 14.0
+  tarsus_length_mm: 22.1
+  wing_length_mm: 51.5
+  tail_length_mm: 67.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 9713.0
 habitat:
   primary: Shrub
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

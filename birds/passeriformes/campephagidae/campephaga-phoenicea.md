@@ -26,6 +26,10 @@ taxonomy:
   species: phoenicea
 morphology:
   body_mass_g: 29.099999999999998
+  bill_length_mm: 18.6
+  tarsus_length_mm: 19.7
+  wing_length_mm: 97.5
+  tail_length_mm: 85.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 4733994.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

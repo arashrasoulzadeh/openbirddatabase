@@ -25,6 +25,10 @@ taxonomy:
   species: scitulus
 morphology:
   body_mass_g: 4.7
+  bill_length_mm: 23.2
+  tarsus_length_mm: 6.7
+  wing_length_mm: 65.2
+  tail_length_mm: 39.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 797.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

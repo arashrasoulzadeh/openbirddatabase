@@ -26,6 +26,10 @@ taxonomy:
   species: subcoerulea
 morphology:
   body_mass_g: 15.066666666666668
+  bill_length_mm: 13.1
+  tarsus_length_mm: 19.5
+  wing_length_mm: 65.6
+  tail_length_mm: 68.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -134,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

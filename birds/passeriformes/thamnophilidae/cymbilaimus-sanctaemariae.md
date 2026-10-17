@@ -26,6 +26,10 @@ taxonomy:
   species: sanctaemariae
 morphology:
   body_mass_g: 30.5
+  bill_length_mm: 23.4
+  tarsus_length_mm: 24.9
+  wing_length_mm: 70.9
+  tail_length_mm: 64.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 494689.0
 habitat:
   primary: Bamboo
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

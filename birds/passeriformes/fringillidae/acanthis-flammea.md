@@ -25,6 +25,10 @@ taxonomy:
   species: flammea
 morphology:
   body_mass_g: 15.466666666666667
+  bill_length_mm: 11.4
+  tarsus_length_mm: 15.6
+  wing_length_mm: 75.8
+  tail_length_mm: 58.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: false
+  range_size_km2: 19794268.0
 habitat:
   primary: Plains
   secondary: []
@@ -141,7 +146,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

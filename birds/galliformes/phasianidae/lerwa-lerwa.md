@@ -26,6 +26,10 @@ taxonomy:
   species: lerwa
 morphology:
   body_mass_g: 581.5
+  bill_length_mm: 21.2
+  tarsus_length_mm: 37.0
+  wing_length_mm: 186.6
+  tail_length_mm: 98.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 831639.0
 habitat:
   primary: Grassland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

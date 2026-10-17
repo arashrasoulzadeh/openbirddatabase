@@ -26,6 +26,10 @@ taxonomy:
   species: donaldsoni
 morphology:
   body_mass_g: 29.75
+  bill_length_mm: 17.8
+  tarsus_length_mm: 18.6
+  wing_length_mm: 130.2
+  tail_length_mm: 99.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 751578.0
 habitat:
   primary: Shrub
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

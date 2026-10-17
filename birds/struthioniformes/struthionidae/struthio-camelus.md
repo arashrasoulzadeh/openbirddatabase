@@ -26,6 +26,10 @@ taxonomy:
   species: camelus
 morphology:
   body_mass_g: 114500.0
+  bill_length_mm: 90.5
+  tarsus_length_mm: 481.2
+  wing_length_mm: 579.0
+  tail_length_mm: 309.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 8595319.0
 habitat:
   primary: Savanna
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

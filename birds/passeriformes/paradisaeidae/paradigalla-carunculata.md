@@ -25,6 +25,10 @@ taxonomy:
   species: carunculata
 morphology:
   body_mass_g: 170.0
+  bill_length_mm: 35.2
+  tarsus_length_mm: 48.4
+  wing_length_mm: 169.1
+  tail_length_mm: 142.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 3319.0
 habitat:
   primary: Forest
   secondary: []
@@ -122,7 +127,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: chloropetoides
 morphology:
   body_mass_g: 14.5
+  bill_length_mm: 17.1
+  tarsus_length_mm: 19.2
+  wing_length_mm: 60.2
+  tail_length_mm: 65.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - M
   endemic: false
   island_endemic: true
+  range_size_km2: 69624.0
 habitat:
   primary: Shrub
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

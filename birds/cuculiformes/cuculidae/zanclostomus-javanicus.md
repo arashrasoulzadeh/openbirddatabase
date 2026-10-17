@@ -26,6 +26,10 @@ taxonomy:
   species: javanicus
 morphology:
   body_mass_g: 115.5
+  bill_length_mm: 37.2
+  tarsus_length_mm: 33.3
+  wing_length_mm: 144.2
+  tail_length_mm: 227.7
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 1534806.0
 habitat:
   primary: Forest
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

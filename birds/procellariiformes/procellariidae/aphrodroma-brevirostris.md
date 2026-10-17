@@ -26,6 +26,10 @@ taxonomy:
   species: brevirostris
 morphology:
   body_mass_g: 353.0
+  bill_length_mm: 28.4
+  tarsus_length_mm: 36.5
+  wing_length_mm: 240.2
+  tail_length_mm: 98.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - SZ
   endemic: false
   island_endemic: false
+  range_size_km2: 60101971.0
 habitat:
   primary: Sea
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

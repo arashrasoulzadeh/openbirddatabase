@@ -26,6 +26,10 @@ taxonomy:
   species: gryphus
 morphology:
   body_mass_g: 11325.0
+  bill_length_mm: 96.8
+  tarsus_length_mm: 127.4
+  wing_length_mm: 789.9
+  tail_length_mm: 359.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 2543681.0
 habitat:
   primary: Grassland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

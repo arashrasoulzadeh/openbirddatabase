@@ -26,6 +26,10 @@ taxonomy:
   species: fulvus
 morphology:
   body_mass_g: 7866.666666666667
+  bill_length_mm: 78.8
+  tarsus_length_mm: 109.9
+  wing_length_mm: 687.2
+  tail_length_mm: 291.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FPI
   endemic: false
   island_endemic: false
+  range_size_km2: 3487541.0
 habitat:
   primary: Rocky
   secondary: []
@@ -139,7 +144,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

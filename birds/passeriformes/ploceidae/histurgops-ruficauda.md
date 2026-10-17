@@ -25,6 +25,10 @@ taxonomy:
   species: ruficauda
 morphology:
   body_mass_g: 66.33333333333333
+  bill_length_mm: 22.0
+  tarsus_length_mm: 27.7
+  wing_length_mm: 118.8
+  tail_length_mm: 94.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 98236.0
 habitat:
   primary: Savanna
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

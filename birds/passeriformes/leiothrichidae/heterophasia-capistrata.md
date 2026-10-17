@@ -26,6 +26,10 @@ taxonomy:
   species: capistrata
 morphology:
   body_mass_g: 37.5
+  bill_length_mm: 20.8
+  tarsus_length_mm: 29.3
+  wing_length_mm: 101.2
+  tail_length_mm: 112.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 257460.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

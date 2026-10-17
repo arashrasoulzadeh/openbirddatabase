@@ -25,6 +25,10 @@ taxonomy:
   species: newelli
 morphology:
   body_mass_g: 382.5
+  bill_length_mm: 42.7
+  tarsus_length_mm: 46.0
+  wing_length_mm: 241.0
+  tail_length_mm: 91.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - O
   endemic: false
   island_endemic: true
+  range_size_km2: 12465672.0
 habitat:
   primary: Sea
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

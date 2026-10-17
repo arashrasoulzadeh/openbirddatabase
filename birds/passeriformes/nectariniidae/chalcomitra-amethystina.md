@@ -25,6 +25,10 @@ taxonomy:
   species: amethystina
 morphology:
   body_mass_g: 13.225
+  bill_length_mm: 24.8
+  tarsus_length_mm: 15.6
+  wing_length_mm: 65.1
+  tail_length_mm: 42.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 3590562.0
 habitat:
   primary: Woodland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

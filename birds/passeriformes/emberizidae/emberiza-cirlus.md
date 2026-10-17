@@ -26,6 +26,10 @@ taxonomy:
   species: cirlus
 morphology:
   body_mass_g: 24.5
+  bill_length_mm: 13.4
+  tarsus_length_mm: 18.2
+  wing_length_mm: 77.4
+  tail_length_mm: 68.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 2173408.0
 habitat:
   primary: Shrub
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

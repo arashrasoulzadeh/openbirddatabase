@@ -25,6 +25,10 @@ taxonomy:
   species: meyeri
 morphology:
   body_mass_g: 52.6
+  bill_length_mm: 30.9
+  tarsus_length_mm: 25.0
+  wing_length_mm: 109.4
+  tail_length_mm: 90.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 466261.0
 habitat:
   primary: Forest
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

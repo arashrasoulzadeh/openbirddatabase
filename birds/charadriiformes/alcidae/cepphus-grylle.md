@@ -26,6 +26,10 @@ taxonomy:
   species: grylle
 morphology:
   body_mass_g: 421.8666666666666
+  bill_length_mm: 38.1
+  tarsus_length_mm: 29.8
+  wing_length_mm: 154.0
+  tail_length_mm: 51.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NP
   endemic: false
   island_endemic: false
+  range_size_km2: 2115523.0
 habitat:
   primary: Sea
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

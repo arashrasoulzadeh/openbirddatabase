@@ -111,6 +111,15 @@
           "type": "array",
           "items": { "type": "string" }
         },
+        "range_size_km2": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Total area of the mapped native range in km2 (BirdLife range maps, via AVONET)"
+        },
+        "restricted_range": {
+          "type": "boolean",
+          "description": "True when the whole range is smaller than 50,000 km2 (BirdLife restricted-range species)"
+        },
         "endemic": { "type": "boolean" },
         "island_endemic": { "type": "boolean" }
       }

@@ -26,6 +26,10 @@ taxonomy:
   species: picta
 morphology:
   body_mass_g: 58.0
+  bill_length_mm: 15.6
+  tarsus_length_mm: 16.2
+  wing_length_mm: 111.1
+  tail_length_mm: 77.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 56416.0
 habitat:
   primary: Forest
   secondary: []
@@ -127,7 +132,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

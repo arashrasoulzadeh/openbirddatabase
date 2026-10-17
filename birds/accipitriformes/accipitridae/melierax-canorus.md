@@ -26,6 +26,10 @@ taxonomy:
   species: canorus
 morphology:
   body_mass_g: 765.5
+  bill_length_mm: 33.5
+  tarsus_length_mm: 100.6
+  wing_length_mm: 353.0
+  tail_length_mm: 230.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 2246755.0
 habitat:
   primary: Savanna
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

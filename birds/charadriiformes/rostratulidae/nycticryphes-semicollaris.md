@@ -26,6 +26,10 @@ taxonomy:
   species: semicollaris
 morphology:
   body_mass_g: 74.3
+  bill_length_mm: 42.7
+  tarsus_length_mm: 33.5
+  wing_length_mm: 102.9
+  tail_length_mm: 46.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 2533948.0
 habitat:
   primary: Wetland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

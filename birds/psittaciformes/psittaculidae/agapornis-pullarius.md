@@ -26,6 +26,10 @@ taxonomy:
   species: pullarius
 morphology:
   body_mass_g: 39.5
+  bill_length_mm: 16.7
+  tarsus_length_mm: 11.7
+  wing_length_mm: 90.4
+  tail_length_mm: 41.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 2650781.0
 habitat:
   primary: Woodland
   secondary: []
@@ -137,7 +142,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

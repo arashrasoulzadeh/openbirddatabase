@@ -26,6 +26,10 @@ taxonomy:
   species: atricapillus
 morphology:
   body_mass_g: 5.425
+  bill_length_mm: 11.7
+  tarsus_length_mm: 12.8
+  wing_length_mm: 34.5
+  tail_length_mm: 16.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 184279.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

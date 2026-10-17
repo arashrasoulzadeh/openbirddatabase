@@ -26,6 +26,10 @@ taxonomy:
   species: pleskei
 morphology:
   body_mass_g: 87.5
+  bill_length_mm: 38.8
+  tarsus_length_mm: 43.4
+  wing_length_mm: 118.8
+  tail_length_mm: 82.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 219917.0
 habitat:
   primary: Desert
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

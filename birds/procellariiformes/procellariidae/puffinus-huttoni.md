@@ -26,6 +26,10 @@ taxonomy:
   species: huttoni
 morphology:
   body_mass_g: 345.4166666666667
+  bill_length_mm: 41.7
+  tarsus_length_mm: 39.9
+  wing_length_mm: 209.0
+  tail_length_mm: 61.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - Z
   endemic: false
   island_endemic: true
+  range_size_km2: 3868378.0
 habitat:
   primary: Sea
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

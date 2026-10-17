@@ -26,6 +26,10 @@ taxonomy:
   species: pelagicus
 morphology:
   body_mass_g: 7078.333333333333
+  bill_length_mm: 90.6
+  tarsus_length_mm: 96.3
+  wing_length_mm: 598.5
+  tail_length_mm: 333.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 1293650.0
 habitat:
   primary: Wetland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

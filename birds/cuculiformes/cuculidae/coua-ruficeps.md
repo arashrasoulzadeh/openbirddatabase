@@ -25,6 +25,10 @@ taxonomy:
   species: ruficeps
 morphology:
   body_mass_g: 172.66666666666666
+  bill_length_mm: 27.4
+  tarsus_length_mm: 55.3
+  wing_length_mm: 164.3
+  tail_length_mm: 229.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - M
   endemic: false
   island_endemic: true
+  range_size_km2: 97597.0
 habitat:
   primary: Forest
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

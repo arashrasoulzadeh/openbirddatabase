@@ -8,7 +8,7 @@ TOTAL_CORE = sum(len(v) for v in CORE_FIELDS.values())
 def test_empty_species_is_zero_percent_with_every_field_missing():
     result = evaluate({})
     assert result["core"]["score"] == 0.0
-    assert result["core"]["total"] == TOTAL_CORE == 56
+    assert result["core"]["total"] == TOTAL_CORE == 57
     assert sum(len(v) for v in result["core"]["missing"].values()) == TOTAL_CORE
 
 

@@ -26,6 +26,10 @@ taxonomy:
   species: biarmicus
 morphology:
   body_mass_g: 15.899999999999999
+  bill_length_mm: 9.2
+  tarsus_length_mm: 19.5
+  wing_length_mm: 60.0
+  tail_length_mm: 82.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 11689099.0
 habitat:
   primary: Wetland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

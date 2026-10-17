@@ -26,6 +26,10 @@ taxonomy:
   species: mallee
 morphology:
   body_mass_g: 6.166666666666667
+  bill_length_mm: 10.1
+  tarsus_length_mm: 15.0
+  wing_length_mm: 38.9
+  tail_length_mm: 83.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 20051.0
 habitat:
   primary: Grassland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

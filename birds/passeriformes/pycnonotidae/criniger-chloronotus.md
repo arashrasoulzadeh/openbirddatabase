@@ -26,6 +26,10 @@ taxonomy:
   species: chloronotus
 morphology:
   body_mass_g: 46.48333333333333
+  bill_length_mm: 21.9
+  tarsus_length_mm: 23.7
+  wing_length_mm: 99.8
+  tail_length_mm: 89.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 1204958.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

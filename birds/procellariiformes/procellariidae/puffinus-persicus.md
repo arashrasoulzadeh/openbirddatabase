@@ -25,6 +25,10 @@ taxonomy:
   species: persicus
 morphology:
   body_mass_g: 194.0
+  bill_length_mm: 35.6
+  tarsus_length_mm: 36.9
+  wing_length_mm: 196.2
+  tail_length_mm: 70.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - FM
   endemic: false
   island_endemic: true
+  range_size_km2: 3326037.0
 habitat:
   primary: Sea
   secondary: []
@@ -125,7 +130,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

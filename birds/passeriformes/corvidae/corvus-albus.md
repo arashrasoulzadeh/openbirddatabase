@@ -26,6 +26,10 @@ taxonomy:
   species: albus
 morphology:
   body_mass_g: 550.75
+  bill_length_mm: 60.4
+  tarsus_length_mm: 61.5
+  wing_length_mm: 353.3
+  tail_length_mm: 177.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FM
   endemic: false
   island_endemic: false
+  range_size_km2: 19544750.0
 habitat:
   primary: Woodland
   secondary: []
@@ -138,7 +143,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

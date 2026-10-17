@@ -26,6 +26,10 @@ taxonomy:
   species: minutillus
 morphology:
   body_mass_g: 18.98
+  bill_length_mm: 18.8
+  tarsus_length_mm: 14.7
+  wing_length_mm: 93.2
+  tail_length_mm: 59.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AIW
   endemic: false
   island_endemic: false
+  range_size_km2: 2896886.0
 habitat:
   primary: Forest
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

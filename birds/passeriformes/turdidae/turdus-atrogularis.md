@@ -25,6 +25,10 @@ taxonomy:
   species: atrogularis
 morphology:
   body_mass_g: 90.2
+  bill_length_mm: 24.2
+  tarsus_length_mm: 32.4
+  wing_length_mm: 133.2
+  tail_length_mm: 97.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - PI
   endemic: false
   island_endemic: false
+  range_size_km2: 4253589.0
 habitat:
   primary: Forest
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: richardi
 morphology:
   body_mass_g: 32.166666666666664
+  bill_length_mm: 18.0
+  tarsus_length_mm: 29.2
+  wing_length_mm: 92.0
+  tail_length_mm: 71.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 13319039.0
 habitat:
   primary: Plains
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: asiaticus
 morphology:
   body_mass_g: 4100.0
+  bill_length_mm: 296.8
+  tarsus_length_mm: 324.2
+  wing_length_mm: 575.0
+  tail_length_mm: 298.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - AI
   endemic: false
   island_endemic: false
+  range_size_km2: 5462619.0
 habitat:
   primary: Wetland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

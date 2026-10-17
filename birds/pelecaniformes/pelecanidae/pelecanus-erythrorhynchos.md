@@ -26,6 +26,10 @@ taxonomy:
   species: erythrorhynchos
 morphology:
   body_mass_g: 6530.0
+  bill_length_mm: 319.8
+  tarsus_length_mm: 115.9
+  wing_length_mm: 561.0
+  tail_length_mm: 146.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 1206894.0
 habitat:
   primary: Wetland
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

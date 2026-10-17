@@ -26,6 +26,10 @@ taxonomy:
   species: fastosus
 morphology:
   body_mass_g: 245.75
+  bill_length_mm: 75.1
+  tarsus_length_mm: 50.1
+  wing_length_mm: 189.2
+  tail_length_mm: 585.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: true
+  range_size_km2: 80657.0
 habitat:
   primary: Forest
   secondary: []
@@ -125,7 +130,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

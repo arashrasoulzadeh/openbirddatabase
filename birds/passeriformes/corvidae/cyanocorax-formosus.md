@@ -26,6 +26,10 @@ taxonomy:
   species: formosus
 morphology:
   body_mass_g: 208.63333333333333
+  bill_length_mm: 40.7
+  tarsus_length_mm: 46.9
+  wing_length_mm: 194.6
+  tail_length_mm: 309.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 293349.0
 habitat:
   primary: Woodland
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

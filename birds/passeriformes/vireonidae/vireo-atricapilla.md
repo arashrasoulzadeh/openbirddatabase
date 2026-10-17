@@ -26,6 +26,10 @@ taxonomy:
   species: atricapilla
 morphology:
   body_mass_g: 8.649999999999999
+  bill_length_mm: 13.1
+  tarsus_length_mm: 19.8
+  wing_length_mm: 54.8
+  tail_length_mm: 42.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 315128.0
 habitat:
   primary: Shrub
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

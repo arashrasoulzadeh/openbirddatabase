@@ -26,6 +26,10 @@ taxonomy:
   species: virens
 morphology:
   body_mass_g: 13.85
+  bill_length_mm: 12.8
+  tarsus_length_mm: 17.6
+  wing_length_mm: 58.0
+  tail_length_mm: 48.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 977323.0
 habitat:
   primary: Shrub
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

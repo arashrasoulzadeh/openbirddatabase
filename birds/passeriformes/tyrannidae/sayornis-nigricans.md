@@ -26,6 +26,10 @@ taxonomy:
   species: nigricans
 morphology:
   body_mass_g: 18.75
+  bill_length_mm: 18.1
+  tarsus_length_mm: 17.4
+  wing_length_mm: 86.3
+  tail_length_mm: 77.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 2967594.0
 habitat:
   primary: Riparian
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

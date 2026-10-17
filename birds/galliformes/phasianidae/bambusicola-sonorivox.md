@@ -26,6 +26,10 @@ taxonomy:
   species: sonorivox
 morphology:
   body_mass_g: 264.0
+  bill_length_mm: 23.1
+  tarsus_length_mm: 39.2
+  wing_length_mm: 129.4
+  tail_length_mm: 80.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: true
+  range_size_km2: 31326.0
 habitat:
   primary: Shrub
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

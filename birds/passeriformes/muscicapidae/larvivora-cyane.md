@@ -26,6 +26,10 @@ taxonomy:
   species: cyane
 morphology:
   body_mass_g: 15.633333333333333
+  bill_length_mm: 15.0
+  tarsus_length_mm: 24.7
+  wing_length_mm: 74.4
+  tail_length_mm: 46.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 6965583.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

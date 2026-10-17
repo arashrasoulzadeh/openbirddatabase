@@ -26,6 +26,10 @@ taxonomy:
   species: ruber
 morphology:
   body_mass_g: 45.2
+  bill_length_mm: 20.6
+  tarsus_length_mm: 33.4
+  wing_length_mm: 81.5
+  tail_length_mm: 34.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 557484.0
 habitat:
   primary: Wetland
   secondary: []
@@ -130,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

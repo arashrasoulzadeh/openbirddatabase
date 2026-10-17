@@ -26,6 +26,10 @@ taxonomy:
   species: radiceus
 morphology:
   body_mass_g: 455.0
+  bill_length_mm: 57.1
+  tarsus_length_mm: 81.1
+  wing_length_mm: 258.6
+  tail_length_mm: 298.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: true
+  range_size_km2: 466896.0
 habitat:
   primary: Forest
   secondary: []
@@ -125,7 +130,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: fasciata
 morphology:
   body_mass_g: 2191.25
+  bill_length_mm: 45.7
+  tarsus_length_mm: 93.2
+  wing_length_mm: 486.8
+  tail_length_mm: 260.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 5630035.0
 habitat:
   primary: Rocky
   secondary: []
@@ -137,7 +142,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

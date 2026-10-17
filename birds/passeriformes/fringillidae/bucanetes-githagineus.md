@@ -26,6 +26,10 @@ taxonomy:
   species: githagineus
 morphology:
   body_mass_g: 20.5
+  bill_length_mm: 11.3
+  tarsus_length_mm: 16.2
+  wing_length_mm: 81.9
+  tail_length_mm: 53.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 7096377.0
 habitat:
   primary: Desert
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

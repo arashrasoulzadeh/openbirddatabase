@@ -26,6 +26,10 @@ taxonomy:
   species: cyanocephalus
 morphology:
   body_mass_g: 60.35
+  bill_length_mm: 22.6
+  tarsus_length_mm: 31.0
+  wing_length_mm: 126.4
+  tail_length_mm: 100.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - LN
   endemic: false
   island_endemic: false
+  range_size_km2: 5280448.0
 habitat:
   primary: Artificial
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

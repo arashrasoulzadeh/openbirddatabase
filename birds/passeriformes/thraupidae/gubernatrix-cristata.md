@@ -26,6 +26,10 @@ taxonomy:
   species: cristata
 morphology:
   body_mass_g: 47.6
+  bill_length_mm: 17.7
+  tarsus_length_mm: 24.5
+  wing_length_mm: 93.8
+  tail_length_mm: 95.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 765363.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

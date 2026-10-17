@@ -26,6 +26,10 @@ taxonomy:
   species: carbo
 morphology:
   body_mass_g: 2874.1666666666665
+  bill_length_mm: 82.7
+  tarsus_length_mm: 64.2
+  wing_length_mm: 340.2
+  tail_length_mm: 148.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - NZPFIA
   endemic: false
   island_endemic: false
+  range_size_km2: 24540702.0
 habitat:
   primary: Coastal
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

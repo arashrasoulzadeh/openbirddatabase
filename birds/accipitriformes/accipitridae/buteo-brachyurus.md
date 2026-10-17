@@ -26,6 +26,10 @@ taxonomy:
   species: brachyurus
 morphology:
   body_mass_g: 511.8333333333333
+  bill_length_mm: 31.1
+  tarsus_length_mm: 53.8
+  wing_length_mm: 307.6
+  tail_length_mm: 171.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 14372802.0
 habitat:
   primary: Forest
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: mystacea
 morphology:
   body_mass_g: 197.0
+  bill_length_mm: 26.6
+  tarsus_length_mm: 34.1
+  wing_length_mm: 162.0
+  tail_length_mm: 88.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: true
+  range_size_km2: 13980.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

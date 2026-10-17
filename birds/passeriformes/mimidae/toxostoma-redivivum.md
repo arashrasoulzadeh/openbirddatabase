@@ -25,6 +25,10 @@ taxonomy:
   species: redivivum
 morphology:
   body_mass_g: 85.5
+  bill_length_mm: 40.2
+  tarsus_length_mm: 36.4
+  wing_length_mm: 102.4
+  tail_length_mm: 133.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 167320.0
 habitat:
   primary: Shrub
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: novaehollandiae
 morphology:
   body_mass_g: 3816.6666666666665
+  bill_length_mm: 47.4
+  tarsus_length_mm: 101.3
+  wing_length_mm: 470.8
+  tail_length_mm: 153.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - A
   endemic: false
   island_endemic: false
+  range_size_km2: 557997.0
 habitat:
   primary: Shrub
   secondary: []
@@ -136,7 +141,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

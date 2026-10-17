@@ -26,6 +26,10 @@ taxonomy:
   species: hamatus
 morphology:
   body_mass_g: 419.25
+  bill_length_mm: 34.8
+  tarsus_length_mm: 46.0
+  wing_length_mm: 290.3
+  tail_length_mm: 125.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 2374863.0
 habitat:
   primary: Forest
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

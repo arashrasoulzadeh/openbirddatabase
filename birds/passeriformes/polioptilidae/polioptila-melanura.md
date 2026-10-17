@@ -25,6 +25,10 @@ taxonomy:
   species: melanura
 morphology:
   body_mass_g: 5.266666666666667
+  bill_length_mm: 10.7
+  tarsus_length_mm: 16.1
+  wing_length_mm: 47.8
+  tail_length_mm: 54.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - NL
   endemic: false
   island_endemic: false
+  range_size_km2: 1143933.0
 habitat:
   primary: Shrub
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

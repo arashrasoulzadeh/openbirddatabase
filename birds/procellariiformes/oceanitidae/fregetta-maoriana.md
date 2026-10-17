@@ -26,6 +26,10 @@ taxonomy:
   species: maoriana
 morphology:
   body_mass_g: 34.75
+  bill_length_mm: 17.3
+  tarsus_length_mm: 35.2
+  wing_length_mm: 141.0
+  tail_length_mm: 87.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - Z
   endemic: false
   island_endemic: true
+  range_size_km2: 1598996.0
 habitat:
   primary: Sea
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

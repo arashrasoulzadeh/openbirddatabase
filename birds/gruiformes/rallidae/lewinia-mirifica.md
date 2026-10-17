@@ -26,6 +26,10 @@ taxonomy:
   species: mirifica
 morphology:
   body_mass_g: 64.0
+  bill_length_mm: 26.2
+  tarsus_length_mm: 28.6
+  wing_length_mm: 96.9
+  tail_length_mm: 40.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: true
+  range_size_km2: 105069.0
 habitat:
   primary: Grassland
   secondary: []
@@ -124,7 +129,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

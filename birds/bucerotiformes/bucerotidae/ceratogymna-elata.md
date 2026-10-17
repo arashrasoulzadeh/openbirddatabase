@@ -26,6 +26,10 @@ taxonomy:
   species: elata
 morphology:
   body_mass_g: 1866.6666666666667
+  bill_length_mm: 176.8
+  tarsus_length_mm: 53.5
+  wing_length_mm: 381.9
+  tail_length_mm: 304.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 495247.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

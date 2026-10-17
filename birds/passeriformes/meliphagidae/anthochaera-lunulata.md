@@ -25,6 +25,10 @@ taxonomy:
   species: lunulata
 morphology:
   body_mass_g: 62.583333333333336
+  bill_length_mm: 32.2
+  tarsus_length_mm: 26.5
+  wing_length_mm: 122.1
+  tail_length_mm: 135.9
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - A
   endemic: false
   island_endemic: false
+  range_size_km2: 237098.0
 habitat:
   primary: Forest
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

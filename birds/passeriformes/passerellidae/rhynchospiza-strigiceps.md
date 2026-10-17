@@ -25,6 +25,10 @@ taxonomy:
   species: strigiceps
 morphology:
   body_mass_g: 21.55
+  bill_length_mm: 15.3
+  tarsus_length_mm: 19.8
+  wing_length_mm: 62.3
+  tail_length_mm: 70.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 664285.0
 habitat:
   primary: Woodland
   secondary: []
@@ -129,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

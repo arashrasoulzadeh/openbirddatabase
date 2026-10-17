@@ -26,6 +26,10 @@ taxonomy:
   species: nengeta
 morphology:
   body_mass_g: 18.333333333333332
+  bill_length_mm: 17.8
+  tarsus_length_mm: 22.1
+  wing_length_mm: 70.5
+  tail_length_mm: 64.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 3642098.0
 habitat:
   primary: Wetland
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

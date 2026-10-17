@@ -25,6 +25,10 @@ taxonomy:
   species: weynsi
 morphology:
   body_mass_g: 29.174999999999997
+  bill_length_mm: 19.0
+  tarsus_length_mm: 18.8
+  wing_length_mm: 78.2
+  tail_length_mm: 51.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 56950.0
 habitat:
   primary: Forest
   secondary: []
@@ -121,7 +126,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: georgiana
 morphology:
   body_mass_g: 17.3
+  bill_length_mm: 13.9
+  tarsus_length_mm: 21.9
+  wing_length_mm: 62.3
+  tail_length_mm: 57.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - N
   endemic: false
   island_endemic: false
+  range_size_km2: 6032763.0
 habitat:
   primary: Wetland
   secondary: []
@@ -137,7 +142,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: berthemyi
 morphology:
   body_mass_g: 90.0
+  bill_length_mm: 24.1
+  tarsus_length_mm: 37.1
+  wing_length_mm: 114.2
+  tail_length_mm: 127.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -130,7 +134,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

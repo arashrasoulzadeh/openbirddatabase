@@ -26,6 +26,10 @@ taxonomy:
   species: squatarola
 morphology:
   body_mass_g: 229.66666666666666
+  bill_length_mm: 32.0
+  tarsus_length_mm: 44.5
+  wing_length_mm: 184.4
+  tail_length_mm: 71.4
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - CZ
   endemic: false
   island_endemic: false
+  range_size_km2: 3963258.0
 habitat:
   primary: Grassland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

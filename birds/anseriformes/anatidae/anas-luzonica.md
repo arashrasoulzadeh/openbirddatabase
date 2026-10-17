@@ -26,6 +26,10 @@ taxonomy:
   species: luzonica
 morphology:
   body_mass_g: 850.1666666666666
+  bill_length_mm: 54.6
+  tarsus_length_mm: 39.2
+  wing_length_mm: 237.0
+  tail_length_mm: 84.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - I
   endemic: false
   island_endemic: true
+  range_size_km2: 279937.0
 habitat:
   primary: Wetland
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

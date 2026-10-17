@@ -26,6 +26,10 @@ taxonomy:
   species: assimilis
 morphology:
   body_mass_g: 53.0
+  bill_length_mm: 25.8
+  tarsus_length_mm: 19.8
+  wing_length_mm: 115.2
+  tail_length_mm: 71.2
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 604189.0
 habitat:
   primary: Riparian
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: leverianus
 morphology:
   body_mass_g: 74.82000000000001
+  bill_length_mm: 19.8
+  tarsus_length_mm: 25.9
+  wing_length_mm: 106.3
+  tail_length_mm: 129.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 5410821.0
 habitat:
   primary: Woodland
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: melanogaster
 morphology:
   body_mass_g: 9.25
+  bill_length_mm: 10.1
+  tarsus_length_mm: 13.3
+  wing_length_mm: 52.9
+  tail_length_mm: 42.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 17770.0
 habitat:
   primary: Shrub
   secondary: []
@@ -134,7 +139,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

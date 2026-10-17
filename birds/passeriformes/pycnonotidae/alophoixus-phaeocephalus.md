@@ -25,6 +25,10 @@ taxonomy:
   species: phaeocephalus
 morphology:
   body_mass_g: 31.8
+  bill_length_mm: 20.5
+  tarsus_length_mm: 19.9
+  wing_length_mm: 94.4
+  tail_length_mm: 80.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - I
   endemic: false
   island_endemic: false
+  range_size_km2: 1368840.0
 habitat:
   primary: Forest
   secondary: []
@@ -126,7 +131,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

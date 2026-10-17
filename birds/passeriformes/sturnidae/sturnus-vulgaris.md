@@ -26,6 +26,10 @@ taxonomy:
   species: vulgaris
 morphology:
   body_mass_g: 81.03333333333333
+  bill_length_mm: 30.2
+  tarsus_length_mm: 29.0
+  wing_length_mm: 128.3
+  tail_length_mm: 65.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - IP
   endemic: false
   island_endemic: false
+  range_size_km2: 17082192.0
 habitat:
   primary: Artificial
   secondary: []
@@ -188,7 +193,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

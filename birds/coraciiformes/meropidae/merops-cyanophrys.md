@@ -24,6 +24,10 @@ taxonomy:
   species: cyanophrys
 morphology:
   body_mass_g: 17.5
+  bill_length_mm: 32.0
+  tarsus_length_mm: 10.1
+  wing_length_mm: 89.9
+  tail_length_mm: 88.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -32,6 +36,7 @@ distribution:
   - FP
   endemic: false
   island_endemic: false
+  range_size_km2: 1195357.0
 habitat:
   primary: Desert
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

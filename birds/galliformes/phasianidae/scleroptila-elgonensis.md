@@ -23,6 +23,10 @@ taxonomy:
   species: elgonensis
 morphology:
   body_mass_g: 478.0
+  bill_length_mm: 30.4
+  tarsus_length_mm: 45.6
+  wing_length_mm: 172.1
+  tail_length_mm: 77.1
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -31,6 +35,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 18206.0
 habitat:
   primary: Grassland
   secondary: []
@@ -122,7 +127,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

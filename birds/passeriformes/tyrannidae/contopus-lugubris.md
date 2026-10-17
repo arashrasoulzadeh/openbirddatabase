@@ -25,6 +25,10 @@ taxonomy:
   species: lugubris
 morphology:
   body_mass_g: 23.025
+  bill_length_mm: 21.6
+  tarsus_length_mm: 15.2
+  wing_length_mm: 91.6
+  tail_length_mm: 73.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   endemic: false
   island_endemic: false
   restricted_range: true
+  range_size_km2: 8200.0
 habitat:
   primary: Forest
   secondary: []
@@ -128,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

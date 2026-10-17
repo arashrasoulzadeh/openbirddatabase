@@ -26,6 +26,10 @@ taxonomy:
   species: socius
 morphology:
   body_mass_g: 27.9
+  bill_length_mm: 16.7
+  tarsus_length_mm: 19.5
+  wing_length_mm: 72.3
+  tail_length_mm: 47.6
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 658356.0
 habitat:
   primary: Shrub
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

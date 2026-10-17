@@ -26,6 +26,10 @@ taxonomy:
   species: acanthizoides
 morphology:
   body_mass_g: 5.449999999999999
+  bill_length_mm: 11.3
+  tarsus_length_mm: 19.8
+  wing_length_mm: 51.1
+  tail_length_mm: 46.8
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - P
   endemic: false
   island_endemic: false
+  range_size_km2: 311800.0
 habitat:
   primary: Shrub
   secondary: []
@@ -132,7 +137,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

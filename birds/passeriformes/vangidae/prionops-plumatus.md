@@ -25,6 +25,10 @@ taxonomy:
   species: plumatus
 morphology:
   body_mass_g: 35.68333333333333
+  bill_length_mm: 20.9
+  tarsus_length_mm: 22.5
+  wing_length_mm: 107.8
+  tail_length_mm: 88.5
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -33,6 +37,7 @@ distribution:
   - F
   endemic: false
   island_endemic: false
+  range_size_km2: 10670490.0
 habitat:
   primary: Savanna
   secondary: []
@@ -135,7 +140,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

@@ -26,6 +26,10 @@ taxonomy:
   species: rubra
 morphology:
   body_mass_g: 18.0
+  bill_length_mm: 16.4
+  tarsus_length_mm: 20.9
+  wing_length_mm: 66.6
+  tail_length_mm: 41.0
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -35,6 +39,7 @@ distribution:
   endemic: false
   island_endemic: true
   restricted_range: true
+  range_size_km2: 12.0
 habitat:
   primary: Forest
   secondary: []
@@ -133,7 +138,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

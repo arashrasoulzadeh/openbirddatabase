@@ -26,6 +26,10 @@ taxonomy:
   species: flavinucha
 morphology:
   body_mass_g: 36.1
+  bill_length_mm: 19.5
+  tarsus_length_mm: 31.8
+  wing_length_mm: 137.5
+  tail_length_mm: 78.3
 distribution:
   breeding_range: ''
   non_breeding_range: ''
@@ -34,6 +38,7 @@ distribution:
   - L
   endemic: false
   island_endemic: false
+  range_size_km2: 762777.0
 habitat:
   primary: Rocky
   secondary: []
@@ -131,7 +136,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AVONET (Tobias et al. 2022)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 
