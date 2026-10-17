@@ -131,8 +131,11 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AnAge (Tacutu et al., Human Ageing Genomic Resources)
+last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 15
 ---
 
 

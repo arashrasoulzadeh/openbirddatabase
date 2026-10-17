@@ -106,6 +106,9 @@ reproduction:
   nest_type: CV,CP
   nest_placement: Tree
   nest_material: []
+  incubation_days: 22
+  clutch_size_mean: 2.5
+  broods_per_year: 1
 conservation:
   iucn_status: EX
   cites_appendix: Not listed
@@ -129,8 +132,11 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- AnAge (Tacutu et al., Human Ageing Genomic Resources)
+last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 30
 ---
 
 

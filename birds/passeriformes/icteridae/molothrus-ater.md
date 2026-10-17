@@ -115,6 +115,7 @@ reproduction:
   fledging_days: 10
   nest_type: 'NO'
   nest_material: []
+  broods_per_year: 1
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -139,8 +140,11 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- AnAge (Tacutu et al., Human Ageing Genomic Resources)
 last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 17
 ---
 
 

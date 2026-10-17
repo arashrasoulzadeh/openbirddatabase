@@ -119,6 +119,7 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
+- AnAge (Tacutu et al., Human Ageing Genomic Resources)
 last_updated: '2026-10-17'
 data_quality: Low
 morphology:
@@ -127,6 +128,8 @@ morphology:
   wing_length_mm: 61.3
   tail_length_mm: 36.7
   body_mass_g: 13.2
+demography:
+  max_longevity_years: 15
 ---
 
 
