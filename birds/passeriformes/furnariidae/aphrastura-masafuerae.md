@@ -25,13 +25,14 @@ taxonomy:
   genus: Aphrastura
   species: masafuerae
 distribution:
-  breeding_range: 'Range size: 1.0'
+  breeding_range: ''
   non_breeding_range: ''
   countries: []
   biogeographic_realms:
   - L
   endemic: false
   island_endemic: true
+  restricted_range: true
 habitat:
   primary: Shrub
   secondary: []

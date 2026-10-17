@@ -31,7 +31,7 @@ distribution:
   non_breeding_range: ''
   countries: []
   biogeographic_realms:
-  - p
+  - P
   endemic: false
   island_endemic: false
 habitat:

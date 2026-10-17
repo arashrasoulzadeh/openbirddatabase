@@ -24,13 +24,14 @@ taxonomy:
   genus: Cinnyris
   species: usambaricus
 distribution:
-  breeding_range: 'Range size: 1.0'
+  breeding_range: ''
   non_breeding_range: ''
   countries: []
   biogeographic_realms:
   - F
   endemic: false
   island_endemic: false
+  restricted_range: true
 habitat:
   primary: Forest
   secondary: []

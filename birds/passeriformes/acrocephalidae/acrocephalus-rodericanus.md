@@ -27,13 +27,14 @@ taxonomy:
 morphology:
   body_mass_g: 12.0
 distribution:
-  breeding_range: 'Range size: 1.0'
+  breeding_range: ''
   non_breeding_range: ''
   countries: []
   biogeographic_realms:
   - F
   endemic: false
   island_endemic: true
+  restricted_range: true
 habitat:
   primary: Shrub
   secondary: []

@@ -25,13 +25,14 @@ taxonomy:
   genus: Troglodytes
   species: monticola
 distribution:
-  breeding_range: 'Range size: 1.0'
+  breeding_range: ''
   non_breeding_range: ''
   countries: []
   biogeographic_realms:
   - L
   endemic: false
   island_endemic: false
+  restricted_range: true
 habitat:
   primary: Forest
   secondary: []
