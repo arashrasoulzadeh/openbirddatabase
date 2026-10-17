@@ -109,6 +109,8 @@ reproduction:
   clutch_size_min: 3
   clutch_size_max: 5
   nest_material: []
+  incubation_days: 16
+  fledging_days: 15
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -133,6 +135,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 ---

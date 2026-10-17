@@ -102,6 +102,7 @@ reproduction:
   clutch_size_max: 3
   nest_material: []
   parental_care: Female only
+  clutch_size_mean: 3.0
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -126,6 +127,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 demography:

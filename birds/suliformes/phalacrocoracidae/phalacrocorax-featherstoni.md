@@ -113,6 +113,8 @@ reproduction:
   clutch_size_max: 3
   nest_placement: Ground
   nest_material: []
+  egg_length_mm: 59.4
+  egg_width_mm: 36.8
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -137,6 +139,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 ---

@@ -117,8 +117,15 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- Amniote life-history database (Myhrvold et al. 2015)
+last_updated: '2026-10-17'
 data_quality: Low
+reproduction:
+  clutch_size_mean: 4.5
+  incubation_days: 24
+  fledging_days: 42
+demography:
+  max_longevity_years: 19
 ---
 
 

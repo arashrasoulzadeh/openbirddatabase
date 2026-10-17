@@ -101,6 +101,9 @@ behavior:
 reproduction:
   clutch_size_max: 2
   nest_material: []
+  clutch_size_mean: 2.0
+  egg_length_mm: 42.6
+  egg_width_mm: 31.8
 conservation:
   iucn_status: EX
   cites_appendix: Not listed
@@ -124,7 +127,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- Amniote life-history database (Myhrvold et al. 2015)
+last_updated: '2026-10-17'
 data_quality: High
 ---
 

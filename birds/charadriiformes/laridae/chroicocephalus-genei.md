@@ -119,6 +119,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: Low
 morphology:
@@ -129,6 +130,8 @@ morphology:
   body_mass_g: 281.0
 demography:
   max_longevity_years: 32
+reproduction:
+  clutch_size_mean: 2.2
 ---
 
 

@@ -115,6 +115,9 @@ reproduction:
   nest_placement: Ground
   nest_material: []
   parental_care: Biparental
+  broods_per_year: 1
+  egg_length_mm: 82.9
+  egg_width_mm: 53.7
 conservation:
   iucn_status: VU
   cites_appendix: Not listed
@@ -139,8 +142,11 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 30
 ---
 
 

@@ -107,6 +107,9 @@ reproduction:
   nest_type: CV,CR
   nest_placement: C
   nest_material: []
+  broods_per_year: 2
+  incubation_days: 14
+  fledging_days: 12
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -131,6 +134,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 morphology:
@@ -139,6 +143,8 @@ morphology:
   wing_length_mm: 87.2
   tail_length_mm: 107.0
   body_mass_g: 29.2
+demography:
+  max_longevity_years: 7
 ---
 
 

@@ -112,6 +112,9 @@ reproduction:
   nest_type: CP
   nest_placement: Shrub, Ground
   nest_material: []
+  broods_per_year: 2
+  incubation_days: 12
+  fledging_days: 10
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -136,8 +139,11 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 10
 ---
 
 

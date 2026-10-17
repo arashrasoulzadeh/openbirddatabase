@@ -113,6 +113,9 @@ reproduction:
   fledging_days: 42
   nest_placement: Ground
   nest_material: []
+  broods_per_year: 1
+  egg_length_mm: 70.0
+  egg_width_mm: 48.8
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -138,6 +141,7 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 demography:

@@ -109,6 +109,9 @@ reproduction:
   nest_type: CV
   nest_placement: Tree
   nest_material: []
+  clutch_size_mean: 2.0
+  incubation_days: 25
+  fledging_days: 52
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -133,8 +136,11 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 16
 ---
 
 

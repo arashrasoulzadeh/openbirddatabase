@@ -6,7 +6,7 @@
     python _scripts/enrich.py clean-names         blank placeholder / untranslated common names
     python _scripts/enrich.py clean-distribution  restricted-range flag, realm code case
 
-Sources: avonet, anage, generation, gbif, xenocanto, wikidata. Only empty fields are ever filled.
+Sources: avonet, anage, amniote, gbif, xenocanto, wikidata. Only empty fields are ever filled.
 """
 
 import argparse
@@ -20,7 +20,7 @@ from _scripts.enrich import common  # noqa: E402
 SOURCES = {
     "avonet": ("_scripts.enrich.avonet", []),
     "anage": ("_scripts.enrich.anage", []),
-    "generation": ("_scripts.enrich.generation", []),
+    "amniote": ("_scripts.enrich.amniote", []),
     "gbif": ("_scripts.enrich.gbif", []),
     "xenocanto": ("_scripts.enrich.xenocanto", []),
     "wikidata": ("_scripts.enrich.wikidata", []),

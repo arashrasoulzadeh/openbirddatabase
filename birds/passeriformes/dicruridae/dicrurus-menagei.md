@@ -104,6 +104,7 @@ reproduction:
   nest_type: CP
   nest_placement: Tree
   nest_material: []
+  clutch_size_mean: 3.6
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -128,6 +129,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 morphology:
@@ -136,6 +138,8 @@ morphology:
   wing_length_mm: 137.0
   tail_length_mm: 177.8
   body_mass_g: 79.2
+demography:
+  max_longevity_years: 8
 ---
 
 

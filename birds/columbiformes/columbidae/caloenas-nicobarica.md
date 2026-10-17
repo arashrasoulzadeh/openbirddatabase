@@ -113,6 +113,7 @@ reproduction:
   nest_placement: Tree
   nest_material: []
   incubation_days: 17
+  fledging_days: 90
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -138,6 +139,7 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 demography:

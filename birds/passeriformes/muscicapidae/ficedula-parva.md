@@ -117,6 +117,7 @@ reproduction:
   nest_placement: Building, Shrub, Tree
   nest_material: []
   parental_care: Female only
+  broods_per_year: 1
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -141,6 +142,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 ---

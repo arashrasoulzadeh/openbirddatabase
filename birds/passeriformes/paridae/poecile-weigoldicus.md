@@ -103,6 +103,10 @@ behavior:
 reproduction:
   clutch_size_max: 7
   nest_material: []
+  clutch_size_mean: 7.5
+  broods_per_year: 1
+  incubation_days: 13
+  fledging_days: 18
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -127,6 +131,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 morphology:
@@ -135,6 +140,8 @@ morphology:
   wing_length_mm: 59.9
   tail_length_mm: 46.9
   body_mass_g: 11.1
+demography:
+  max_longevity_years: 11
 ---
 
 

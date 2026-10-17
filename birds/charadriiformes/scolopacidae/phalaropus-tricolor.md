@@ -119,6 +119,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: Low
 morphology:
@@ -132,6 +133,8 @@ demography:
 reproduction:
   incubation_days: 23
   clutch_size_mean: 4.0
+  egg_length_mm: 33.2
+  egg_width_mm: 23.6
 ---
 
 

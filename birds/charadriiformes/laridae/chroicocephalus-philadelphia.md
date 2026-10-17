@@ -117,6 +117,7 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: Low
 morphology:
@@ -125,6 +126,10 @@ morphology:
   wing_length_mm: 259.4
   tail_length_mm: 95.6
   body_mass_g: 210.7
+reproduction:
+  clutch_size_mean: 3.0
+  broods_per_year: 1
+  incubation_days: 24
 ---
 
 

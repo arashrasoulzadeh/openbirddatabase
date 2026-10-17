@@ -118,10 +118,16 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: Low
 demography:
   max_longevity_years: 20
+reproduction:
+  clutch_size_mean: 4.5
+  broods_per_year: 1
+  incubation_days: 18
+  fledging_days: 32
 ---
 
 

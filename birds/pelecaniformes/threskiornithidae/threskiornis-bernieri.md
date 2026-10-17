@@ -107,6 +107,7 @@ reproduction:
   nest_type: Platform
   nest_placement: Ground, Rock, Shrub, Tree
   nest_material: []
+  broods_per_year: 1
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -131,6 +132,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 morphology:
@@ -139,6 +141,8 @@ morphology:
   wing_length_mm: 341.8
   tail_length_mm: 144.4
   body_mass_g: 1493.2
+demography:
+  max_longevity_years: 37
 ---
 
 

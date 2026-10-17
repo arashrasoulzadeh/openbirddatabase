@@ -112,6 +112,7 @@ reproduction:
   incubation_days: 27
   fledging_days: 65
   nest_material: []
+  broods_per_year: 2
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -136,8 +137,11 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
+demography:
+  max_longevity_years: 44
 ---
 
 

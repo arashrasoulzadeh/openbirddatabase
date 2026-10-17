@@ -115,6 +115,7 @@ reproduction:
   clutch_size_max: 2
   nest_type: Scrape
   nest_material: []
+  broods_per_year: 1
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -139,6 +140,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 ---

@@ -109,6 +109,7 @@ reproduction:
   incubation_days: 22
   clutch_size_mean: 2.5
   broods_per_year: 1
+  fledging_days: 18
 conservation:
   iucn_status: EX
   cites_appendix: Not listed
@@ -133,6 +134,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
+- Amniote life-history database (Myhrvold et al. 2015)
 last_updated: '2026-10-17'
 data_quality: High
 demography:
