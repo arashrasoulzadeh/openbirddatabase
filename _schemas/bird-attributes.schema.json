@@ -36,6 +36,19 @@
       "minimum": 1,
       "description": "GBIF taxon key"
     },
+    "image": {
+      "type": "object",
+      "description": "One photograph of the species, stored in images/<slug>.jpg, with its source and licence",
+      "properties": {
+        "file": {"type": "string", "description": "Path in the repo, e.g. images/parus_major.jpg"},
+        "author": {"type": "string"},
+        "license": {"type": "string", "enum": ["CC0-1.0", "CC-BY-4.0"]},
+        "source": {"type": "string"},
+        "source_url": {"type": "string", "description": "Original full-size file"},
+        "page": {"type": "string", "description": "Page of the observation/photo on the source site"}
+      },
+      "required": ["file", "license", "source"]
+    },
     "avibase_id": {
       "type": "string",
       "description": "Avibase ID"

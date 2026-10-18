@@ -126,3 +126,55 @@ def apply_source(source: str, label: str, replace: Optional[List[str]] = None, d
             if not dry_run:
                 write_species(path, fm, body)
     return {"files": files, "fields": fields, "unknown_species": missing, **{f"+{k}": v for k, v in sorted(per_field.items())}}
+
+
+class Progress:
+    """Terminal progress: one live line (bar, %, rate, ETA, ok/failed) on a TTY, a plain line every `every` items otherwise.
+    `log(msg)` prints a line above the bar (used for --verbose and failures)."""
+
+    def __init__(self, total: int, label: str, every: int = 250) -> None:
+        import time
+        self.total, self.label, self.every = total, label, every
+        self.done = self.failed = 0
+        self.started = time.time()
+        self.tty = sys.stderr.isatty()
+        self._last_len = 0
+
+    def _line(self) -> str:
+        import time
+        elapsed = max(time.time() - self.started, 0.001)
+        rate = self.done / elapsed
+        left = (self.total - self.done) / rate if rate else 0
+        pct = self.done / self.total if self.total else 1
+        filled = int(28 * pct)
+        eta = f"{int(left // 3600)}h{int(left % 3600 // 60):02d}m" if left >= 3600 else f"{int(left // 60)}m{int(left % 60):02d}s"
+        return (f"{self.label} [{'█' * filled}{'░' * (28 - filled)}] {self.done}/{self.total} {pct:5.1%}  "
+                f"{rate:4.1f}/s  ETA {eta}  failed {self.failed}")
+
+    def log(self, message: str) -> None:
+        if self.tty:
+            sys.stderr.write("\r" + " " * self._last_len + "\r")
+        print(message, file=sys.stderr, flush=True)
+        if self.tty:
+            self.render()
+
+    def render(self) -> None:
+        line = self._line()
+        sys.stderr.write("\r" + line + " " * max(0, self._last_len - len(line)))
+        sys.stderr.flush()
+        self._last_len = len(line)
+
+    def step(self, ok: bool = True) -> None:
+        self.done += 1
+        self.failed += (not ok)
+        if self.tty:
+            self.render()
+        elif self.done % self.every == 0:
+            print(self._line(), file=sys.stderr, flush=True)
+
+    def finish(self) -> None:
+        if self.tty:
+            self.render()
+            sys.stderr.write("\n")
+        else:
+            print(self._line(), file=sys.stderr, flush=True)
