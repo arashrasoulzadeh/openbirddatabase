@@ -12,7 +12,8 @@ COPY . .
 ARG NEXT_PUBLIC_API_URL
 ARG NEXT_PUBLIC_SITE_URL
 ENV NEXT_PUBLIC_API_URL=$NEXT_PUBLIC_API_URL \
-    NEXT_PUBLIC_SITE_URL=$NEXT_PUBLIC_SITE_URL
+    NEXT_PUBLIC_SITE_URL=$NEXT_PUBLIC_SITE_URL \
+    NEXT_TELEMETRY_DISABLED=1
 # The same node_modules cache is mounted again; .next/cache speeds up repeated Next.js compiles
 RUN --mount=type=cache,target=/app/node_modules \
     --mount=type=cache,target=/app/.next/cache \

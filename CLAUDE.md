@@ -31,6 +31,7 @@ Global bird species database (~11,000 species) stored as Markdown files with YAM
 
 - Species files: frontmatter holds structured attributes (78 BIRDBASE traits, 32 AVONICHE niches); body has fixed sections (Overview, Identification, Habitat, Diet, Behavior, Breeding, Conservation). Follow `_schemas/` and `docs/SCHEMA_GUIDE.md`.
 - Prefer changing scripts/templates/curations and regenerating over bulk hand-editing species files.
+- Deploy: `birds/`, `_index/`, `images/` are bind-mounted into the API/worker (not copied into the Docker image), so data updates do not require rebuilding the API image.
 - Commits use conventional prefixes (`feat:`, `fix:`, `docs:`, `test:`, `chore:`). Species changes are git-tracked per species.
 - Data is CC-BY 4.0; keep source attribution in `sources`.
 - Translations: Flutter `.arb` files are the single source for UI strings (website reuses them via `npm run i18n`).

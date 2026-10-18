@@ -77,6 +77,7 @@ verify() {
 
 if [ "$MODE" = "build" ]; then
   docker compose up -d --build --remove-orphans
+  docker compose up -d --force-recreate --no-deps api worker
   verify
   # The build cache holds node_modules, npm's and pip's download caches and Next.js's compile cache.
   # Least recently used entries go first, so the next build is still fast. Docker 27+ renamed the flag.
@@ -116,6 +117,8 @@ if [ "$ready" -ne 1 ]; then
 fi
 
 docker compose up -d --remove-orphans
+# Recreate api/worker so in-memory indexes pick up bind-mounted birds/_index from this git pull
+docker compose up -d --force-recreate --no-deps api worker
 verify
 docker image prune -f >/dev/null
 echo "Deployed ${HEAD_SHA:0:8} from prebuilt images (worker handles cache warm-up and other jobs)."

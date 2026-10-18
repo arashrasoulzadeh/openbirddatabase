@@ -14,14 +14,12 @@ COPY requirements-api.txt .
 RUN --mount=type=cache,target=/root/.cache/pip \
     pip install -r requirements-api.txt
 
-# Copy application code
+# Application code only. Species data (birds/, _index/, images/, translations/) is bind-mounted
+# from the git checkout at runtime — so a data change does not rebuild this image.
 COPY _scripts/ ./_scripts/
 COPY _schemas/ ./_schemas/
 COPY _templates/ ./_templates/
-COPY _index/ ./_index/
-COPY birds/ ./birds/
-COPY images/ ./images/
-RUN mkdir -p /app/translations
+RUN mkdir -p birds _index images translations
 
 EXPOSE 8000
 

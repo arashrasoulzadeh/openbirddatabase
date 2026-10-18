@@ -70,8 +70,10 @@ query like "small blue forest bird" or the same in Persian finds relevant specie
   `rm -rf meili_data && docker compose up -d meilisearch && docker compose --profile indexing run --rm indexer`.
 - `GET /health` `"meilisearch": true` means a live ping succeeded (not merely that the client is configured).
 
-The species data and `_index/` are baked into the API image, so code and data always match. After regenerating `_index/`
-(`python _scripts/index.py`) commit and push; CI publishes new images, then `./deploy.sh` and re-run the indexer.
+Species data (`birds/`, `_index/`, `images/`, `translations/`) is **bind-mounted** from the git checkout into the API
+and worker containers — it is not baked into the image. After regenerating `_index/` (`python _scripts/index.py`)
+commit and push; `./deploy.sh` pulls the code and recreates api/worker. Rebuild the API image only when Python
+code or dependencies change. Re-run the MeiliSearch indexer when the search documents should change.
 
 ## SEO
 
@@ -156,7 +158,7 @@ Then run `docker compose rm -sf caddy && docker compose up -d --build` and add t
 
 ## Updating and troubleshooting
 
-- Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server; re-run the indexer after the species data or `_index/` changed). It checks `/health` afterwards and prints a rollback command if the new version does not start.
+- Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server). Data-only changes need no image rebuild — git pull + api/worker recreate is enough. Re-run the indexer after `_index/` should change in MeiliSearch. Checks `/health` afterwards and prints a rollback hint if the new version does not start.
 - Changing `.env`: rebuild with `--build`; the public URLs are baked into the website build.
 - Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `worker` for cache/jobs.
 - MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
@@ -190,7 +192,8 @@ Set `ANALYTICS_ENABLED=false` to stop collecting.
 `search`, `filter`, `language_change`, `tab_view`, `load_more`, `random_bird`; the Flutter app posts page views, searches, bird clicks and language changes the same way, and users can turn that off in Settings),
 `GET /analytics/dashboard?days=`, `/pages`, `/page?path=`, `/birds/{name}`, `/live`, `/content`.
 
-**Content statistics** come from `_index/content-stats.json`. Regenerate it after the species data changes and rebuild:
+**Content statistics** are written by the worker to `/data/content-stats.json` (and still can be generated locally into
+`_index/content-stats.json`). After species data changes, restart the worker or wait for its daily job:
 `python _scripts/content_stats.py` (about a minute; "birds added over time" uses the git history, so run it in the
 checkout, not in the container).
 

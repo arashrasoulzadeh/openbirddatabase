@@ -1,5 +1,22 @@
 # Production stack: Caddy (HTTPS) -> website + API, with MeiliSearch internal.
 # Configure domains in .env (see .env.example), then: docker compose up -d --build
+#
+# Species data is bind-mounted from this git checkout (not baked into the API image), so
+# changing birds/ does not require rebuilding the API — only `git pull` + recreate api/worker.
+
+x-data-mounts: &data-mounts
+  - ./birds:/app/birds:ro
+  - ./_index:/app/_index:ro
+  - ./images:/app/images:ro
+  - ./translations:/app/translations:ro
+
+x-api-volumes: &api-volumes
+  - analytics_data:/data
+  - ./birds:/app/birds:ro
+  - ./_index:/app/_index:ro
+  - ./images:/app/images:ro
+  - ./translations:/app/translations:ro
+
 services:
   caddy:
     image: caddy:2
@@ -59,9 +76,7 @@ services:
     depends_on:
       # Redis is enough to start: MeiliSearch is optional at runtime (in-memory search + circuit breaker).
       - redis
-    volumes:
-      # species data and indexes are inside the image, so code and data always match; only analytics is stored
-      - analytics_data:/data
+    volumes: *api-volumes
     restart: unless-stopped
 
   # Response cache for the API (species, search, taxonomy...). Safe to wipe: it refills on demand.
@@ -89,8 +104,7 @@ services:
     depends_on:
       - redis
       - api
-    volumes:
-      - analytics_data:/data
+    volumes: *api-volumes
     restart: unless-stopped
 
   meilisearch:
@@ -123,6 +137,7 @@ services:
       - EMBEDDER_MODEL=${EMBEDDER_MODEL:-intfloat/multilingual-e5-small}
     depends_on:
       - meilisearch
+    volumes: *data-mounts
     profiles:
       - indexing
 
