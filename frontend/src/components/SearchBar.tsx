@@ -24,7 +24,7 @@ export default function SearchBar({ value, onChange, onSearch, loading, placehol
       isFirstRun.current = false;
       return;
     }
-    timeoutRef.current = setTimeout(() => onSearchRef.current(value), 300);
+    timeoutRef.current = setTimeout(() => onSearchRef.current(value), 120);
     return () => clearTimeout(timeoutRef.current);
   }, [value]);
 

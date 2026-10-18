@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 import { iucnLabel, valueLabel } from '@/lib/i18n/translate';
+import { taxonLabel } from '@/lib/i18n/taxa';
 
 type Options = Record<string, Record<string, number>>;
 
@@ -29,8 +30,14 @@ export default function FilterBar({ options, value, onChange }: Props) {
   const [open, setOpen] = useState(false);
   if (!options) return null;
 
-  const label = (field: keyof Filters, path: string | null, v: string) =>
-    field === 'iucn_status' ? iucnLabel(lang, v) : path ? valueLabel(lang, path, v) : v;
+  const label = (field: keyof Filters, path: string | null, v: string) => {
+    if (field === 'iucn_status') return iucnLabel(lang, v);
+    if (field === 'order') {
+      const local = taxonLabel(lang, v);
+      return local ? `${v} · ${local}` : v;
+    }
+    return path ? valueLabel(lang, path, v) : v;
+  };
 
   const activeCount = Object.values(value).filter(Boolean).length;
 

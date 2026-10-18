@@ -198,5 +198,12 @@
   "missingInformationHint": "لم تُجمع بعد بيانات لهذه الحقول لهذا النوع.",
   "expertCuratedNote": "تكتب معلومات الرعاية البيطرية والإثراء من قبل خبراء وهي متوفرة لأنواع قليلة فقط.",
   "eggLength": "طول البيضة",
-  "eggWidth": "عرض البيضة"
+  "eggWidth": "عرض البيضة",
+  "rangeSize": "مساحة النطاق",
+  "restrictedRange": "نطاق محدود",
+  "siteStatistics": "إحصاءات الموقع",
+  "understoodAs": "فُهم البحث كـ",
+  "ignoredWords": "تم تجاهل",
+  "showingResultsFor": "نتائج لـ",
+  "photoBy": "صورة"
 }

@@ -2,7 +2,7 @@
 
 import TrackedLink from './TrackedLink';
 import { useI18n } from '@/lib/i18n/I18nProvider';
-import { nameFromHit } from '@/lib/i18n/translate';
+import { displayName, nameFromHit } from '@/lib/i18n/translate';
 import IucnBadge from './IucnBadge';
 
 export default function SpeciesList({ species, query = '' }: { species: any[]; query?: string }) {
@@ -12,7 +12,7 @@ export default function SpeciesList({ species, query = '' }: { species: any[]; q
   return (
     <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
       {species.map((sp) => {
-        const name = nameFromHit(sp, lang);
+        const name = displayName(lang, nameFromHit(sp, lang));
         const english = sp.common_name_en;
         return (
           <li key={sp.id}>

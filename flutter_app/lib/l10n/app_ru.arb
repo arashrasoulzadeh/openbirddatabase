@@ -198,5 +198,12 @@
   "missingInformationHint": "Для этого вида данные по этим полям пока не собраны.",
   "expertCuratedNote": "Сведения о ветеринарном уходе и обогащении среды пишут эксперты; они есть лишь для немногих видов.",
   "eggLength": "Длина яйца",
-  "eggWidth": "Ширина яйца"
+  "eggWidth": "Ширина яйца",
+  "rangeSize": "Размер ареала",
+  "restrictedRange": "Ограниченный ареал",
+  "siteStatistics": "Статистика сайта",
+  "understoodAs": "Понято как",
+  "ignoredWords": "Не учтено",
+  "showingResultsFor": "Результаты для",
+  "photoBy": "Фото"
 }

@@ -11,6 +11,8 @@ async function getJson<T>(path: string, init?: RequestInit): Promise<T> {
 
 export interface SearchResponse {
   hits: any[];
+  interpreted?: { filters: Record<string, string[]>; words: string[]; ignored: string[] };
+  corrected_query?: string;
   total?: number;
   estimatedTotalHits?: number;
 }
@@ -20,10 +22,12 @@ export type Filters = Partial<Record<
   string
 >>;
 
-export function searchSpecies(q: string, limit = 50, offset = 0, filters: Filters = {}): Promise<SearchResponse> {
+/** `lang` makes each hit carry only English + that language's name (about a third of the bytes). */
+export function searchSpecies(q: string, limit = 50, offset = 0, filters: Filters = {}, lang?: string, init?: RequestInit): Promise<SearchResponse> {
   const params = new URLSearchParams({ q, limit: String(limit), offset: String(offset) });
+  if (lang) params.set('lang', lang);
   for (const [k, v] of Object.entries(filters)) if (v) params.set(k, v);
-  return getJson(`/search?${params}`);
+  return getJson(`/search?${params}`, init);
 }
 
 /** Available filter values with counts: { iucn_status: { LC: 1234, ... }, ... } */
@@ -31,8 +35,9 @@ export function getFilterOptions(): Promise<Record<string, Record<string, number
   return getJson('/filters', { next: { revalidate: 3600 } } as RequestInit);
 }
 
-export function getTaxonomy(): Promise<any> {
-  return getJson('/taxonomy', { next: { revalidate: 3600 } } as RequestInit);
+/** The taxonomy tree. With a language the API returns one common name per species (about a quarter of the size). */
+export function getTaxonomy(lang?: string): Promise<any> {
+  return getJson(lang ? `/taxonomy?lang=${encodeURIComponent(lang)}` : '/taxonomy', { next: { revalidate: 3600 } } as RequestInit);
 }
 
 export function getSpecies(scientificName: string, lang = 'en'): Promise<any> {

@@ -198,5 +198,12 @@
   "missingInformationHint": "Dla tego gatunku nie zebrano jeszcze danych w tych polach.",
   "expertCuratedNote": "Informacje weterynaryjne i dotyczące wzbogacania środowiska piszą eksperci i istnieją tylko dla niewielu gatunków.",
   "eggLength": "Długość jaja",
-  "eggWidth": "Szerokość jaja"
+  "eggWidth": "Szerokość jaja",
+  "rangeSize": "Wielkość zasięgu",
+  "restrictedRange": "Ograniczony zasięg",
+  "siteStatistics": "Statystyki serwisu",
+  "understoodAs": "Rozumiem jako",
+  "ignoredWords": "Pominięto",
+  "showingResultsFor": "Wyniki dla",
+  "photoBy": "Zdjęcie"
 }

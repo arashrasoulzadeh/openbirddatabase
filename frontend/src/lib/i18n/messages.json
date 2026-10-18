@@ -199,7 +199,14 @@
   "missingInformationHint": "لم تُجمع بعد بيانات لهذه الحقول لهذا النوع.",
   "expertCuratedNote": "تكتب معلومات الرعاية البيطرية والإثراء من قبل خبراء وهي متوفرة لأنواع قليلة فقط.",
   "eggLength": "طول البيضة",
-  "eggWidth": "عرض البيضة"
+  "eggWidth": "عرض البيضة",
+  "rangeSize": "مساحة النطاق",
+  "restrictedRange": "نطاق محدود",
+  "siteStatistics": "إحصاءات الموقع",
+  "understoodAs": "فُهم البحث كـ",
+  "ignoredWords": "تم تجاهل",
+  "showingResultsFor": "نتائج لـ",
+  "photoBy": "صورة"
  },
  "de": {
   "appTitle": "OpenBird",
@@ -401,7 +408,14 @@
   "missingInformationHint": "Für diese Art wurden zu diesen Feldern noch keine Daten erfasst.",
   "expertCuratedNote": "Informationen zu Tiermedizin und Beschäftigung werden von Fachleuten verfasst und gibt es nur für wenige Arten.",
   "eggLength": "Eilänge",
-  "eggWidth": "Eibreite"
+  "eggWidth": "Eibreite",
+  "rangeSize": "Größe des Verbreitungsgebiets",
+  "restrictedRange": "Kleines Verbreitungsgebiet",
+  "siteStatistics": "Website-Statistiken",
+  "understoodAs": "Verstanden als",
+  "ignoredWords": "Nicht berücksichtigt",
+  "showingResultsFor": "Ergebnisse für",
+  "photoBy": "Foto"
  },
  "en": {
   "appTitle": "OpenBird",
@@ -603,7 +617,14 @@
   "missingInformationHint": "No data has been collected for these fields for this species yet.",
   "expertCuratedNote": "Veterinary care and enrichment information is written by experts and exists for only a few species.",
   "eggLength": "Egg Length",
-  "eggWidth": "Egg Width"
+  "eggWidth": "Egg Width",
+  "rangeSize": "Range Size",
+  "restrictedRange": "Restricted Range",
+  "siteStatistics": "Site statistics",
+  "understoodAs": "Understood as",
+  "ignoredWords": "Not used",
+  "showingResultsFor": "Showing results for",
+  "photoBy": "Photo"
  },
  "es": {
   "appTitle": "OpenBird",
@@ -805,7 +826,14 @@
   "missingInformationHint": "Todavía no se han reunido datos de estos campos para esta especie.",
   "expertCuratedNote": "La información veterinaria y de enriquecimiento la redactan expertos y existe solo para unas pocas especies.",
   "eggLength": "Longitud del huevo",
-  "eggWidth": "Anchura del huevo"
+  "eggWidth": "Anchura del huevo",
+  "rangeSize": "Tamaño del área de distribución",
+  "restrictedRange": "Área de distribución restringida",
+  "siteStatistics": "Estadísticas del sitio",
+  "understoodAs": "Entendido como",
+  "ignoredWords": "Ignorado",
+  "showingResultsFor": "Resultados para",
+  "photoBy": "Foto"
  },
  "fa": {
   "appTitle": "اوپن برد",
@@ -1007,7 +1035,14 @@
   "missingInformationHint": "برای این گونه هنوز داده‌ای برای این فیلدها جمع‌آوری نشده است.",
   "expertCuratedNote": "اطلاعات مراقبت‌های دامپزشکی و غنی‌سازی را متخصصان می‌نویسند و فقط برای چند گونه موجود است.",
   "eggLength": "طول تخم",
-  "eggWidth": "عرض تخم"
+  "eggWidth": "عرض تخم",
+  "rangeSize": "اندازهٔ گسترهٔ پراکنش",
+  "restrictedRange": "گسترهٔ محدود",
+  "siteStatistics": "آمار سایت",
+  "understoodAs": "برداشت جستجو",
+  "ignoredWords": "نادیده گرفته شد",
+  "showingResultsFor": "نتایج برای",
+  "photoBy": "عکس"
  },
  "fr": {
   "appTitle": "OpenBird",
@@ -1209,7 +1244,14 @@
   "missingInformationHint": "Aucune donnée n'a encore été collectée pour ces champs pour cette espèce.",
   "expertCuratedNote": "Les informations vétérinaires et d'enrichissement sont rédigées par des experts et n'existent que pour quelques espèces.",
   "eggLength": "Longueur de l'œuf",
-  "eggWidth": "Largeur de l'œuf"
+  "eggWidth": "Largeur de l'œuf",
+  "rangeSize": "Taille de l'aire de répartition",
+  "restrictedRange": "Aire de répartition restreinte",
+  "siteStatistics": "Statistiques du site",
+  "understoodAs": "Compris comme",
+  "ignoredWords": "Ignoré",
+  "showingResultsFor": "Résultats pour",
+  "photoBy": "Photo"
  },
  "ja": {
   "appTitle": "OpenBird",
@@ -1411,7 +1453,14 @@
   "missingInformationHint": "この種のこれらの項目のデータはまだ集められていません。",
   "expertCuratedNote": "獣医ケアとエンリッチメントの情報は専門家が執筆しており、ごく一部の種にしかありません。",
   "eggLength": "卵の長さ",
-  "eggWidth": "卵の幅"
+  "eggWidth": "卵の幅",
+  "rangeSize": "分布域の面積",
+  "restrictedRange": "分布域が限られる",
+  "siteStatistics": "サイト統計",
+  "understoodAs": "検索の解釈",
+  "ignoredWords": "無視した語",
+  "showingResultsFor": "次の検索結果",
+  "photoBy": "写真"
  },
  "nl": {
   "appTitle": "OpenBird",
@@ -1613,7 +1662,14 @@
   "missingInformationHint": "Voor deze soort zijn voor deze velden nog geen gegevens verzameld.",
   "expertCuratedNote": "Informatie over diergeneeskundige zorg en verrijking wordt door experts geschreven en bestaat maar voor enkele soorten.",
   "eggLength": "Eilengte",
-  "eggWidth": "Eibreedte"
+  "eggWidth": "Eibreedte",
+  "rangeSize": "Grootte van het leefgebied",
+  "restrictedRange": "Beperkt verspreidingsgebied",
+  "siteStatistics": "Sitestatistieken",
+  "understoodAs": "Opgevat als",
+  "ignoredWords": "Genegeerd",
+  "showingResultsFor": "Resultaten voor",
+  "photoBy": "Foto"
  },
  "pl": {
   "appTitle": "OpenBird",
@@ -1815,7 +1871,14 @@
   "missingInformationHint": "Dla tego gatunku nie zebrano jeszcze danych w tych polach.",
   "expertCuratedNote": "Informacje weterynaryjne i dotyczące wzbogacania środowiska piszą eksperci i istnieją tylko dla niewielu gatunków.",
   "eggLength": "Długość jaja",
-  "eggWidth": "Szerokość jaja"
+  "eggWidth": "Szerokość jaja",
+  "rangeSize": "Wielkość zasięgu",
+  "restrictedRange": "Ograniczony zasięg",
+  "siteStatistics": "Statystyki serwisu",
+  "understoodAs": "Rozumiem jako",
+  "ignoredWords": "Pominięto",
+  "showingResultsFor": "Wyniki dla",
+  "photoBy": "Zdjęcie"
  },
  "pt": {
   "appTitle": "OpenBird",
@@ -2017,7 +2080,14 @@
   "missingInformationHint": "Ainda não foram coletados dados para estes campos desta espécie.",
   "expertCuratedNote": "As informações veterinárias e de enriquecimento são escritas por especialistas e existem para poucas espécies.",
   "eggLength": "Comprimento do ovo",
-  "eggWidth": "Largura do ovo"
+  "eggWidth": "Largura do ovo",
+  "rangeSize": "Tamanho da área de distribuição",
+  "restrictedRange": "Distribuição restrita",
+  "siteStatistics": "Estatísticas do site",
+  "understoodAs": "Entendido como",
+  "ignoredWords": "Ignorado",
+  "showingResultsFor": "Resultados para",
+  "photoBy": "Foto"
  },
  "ru": {
   "appTitle": "OpenBird",
@@ -2219,7 +2289,14 @@
   "missingInformationHint": "Для этого вида данные по этим полям пока не собраны.",
   "expertCuratedNote": "Сведения о ветеринарном уходе и обогащении среды пишут эксперты; они есть лишь для немногих видов.",
   "eggLength": "Длина яйца",
-  "eggWidth": "Ширина яйца"
+  "eggWidth": "Ширина яйца",
+  "rangeSize": "Размер ареала",
+  "restrictedRange": "Ограниченный ареал",
+  "siteStatistics": "Статистика сайта",
+  "understoodAs": "Понято как",
+  "ignoredWords": "Не учтено",
+  "showingResultsFor": "Результаты для",
+  "photoBy": "Фото"
  },
  "tr": {
   "appTitle": "OpenBird",
@@ -2421,7 +2498,14 @@
   "missingInformationHint": "Bu tür için bu alanlarda henüz veri toplanmadı.",
   "expertCuratedNote": "Veteriner bakımı ve zenginleştirme bilgileri uzmanlarca yazılır ve yalnızca birkaç tür için mevcuttur.",
   "eggLength": "Yumurta uzunluğu",
-  "eggWidth": "Yumurta genişliği"
+  "eggWidth": "Yumurta genişliği",
+  "rangeSize": "Yayılış alanı büyüklüğü",
+  "restrictedRange": "Sınırlı yayılış",
+  "siteStatistics": "Site istatistikleri",
+  "understoodAs": "Şöyle anlaşıldı",
+  "ignoredWords": "Yoksayıldı",
+  "showingResultsFor": "Şunun sonuçları",
+  "photoBy": "Fotoğraf"
  },
  "zh": {
   "appTitle": "OpenBird",
@@ -2623,6 +2707,13 @@
   "missingInformationHint": "该物种这些字段的数据尚未收集。",
   "expertCuratedNote": "兽医护理和丰容信息由专家撰写，仅部分物种有此内容。",
   "eggLength": "卵长",
-  "eggWidth": "卵宽"
+  "eggWidth": "卵宽",
+  "rangeSize": "分布范围面积",
+  "restrictedRange": "分布范围狭窄",
+  "siteStatistics": "网站统计",
+  "understoodAs": "理解为",
+  "ignoredWords": "已忽略",
+  "showingResultsFor": "显示结果：",
+  "photoBy": "照片"
  }
 }

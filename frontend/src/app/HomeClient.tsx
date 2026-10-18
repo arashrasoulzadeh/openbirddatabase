@@ -1,11 +1,13 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
+import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import SearchBar from '@/components/SearchBar';
 import SpeciesList from '@/components/SpeciesList';
 import TaxonomyTree from '@/components/TaxonomyTree';
 import FilterBar from '@/components/FilterBar';
+import SearchInterpretation, { Interpretation } from '@/components/SearchInterpretation';
 import SiteHeader from '@/components/SiteHeader';
 import { searchSpecies, getTaxonomy, getFilterOptions, getRandomSpecies, Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
@@ -14,35 +16,49 @@ import { track } from '@/lib/analytics';
 const PAGE_SIZE = 50;
 const FILTER_KEYS: (keyof Filters)[] = ['iucn_status', 'primary_habitat', 'primary_diet', 'migration_status', 'order'];
 
-export default function Home() {
-  const { t } = useI18n();
+export interface InitialSearch {
+  query: string;
+  filters: Filters;
+  lang: string;
+  hits: any[];
+  total: number;
+  interpreted?: Interpretation['interpreted'];
+  corrected_query?: string;
+}
+
+/** `initial` is the first page of results the server already fetched (so the list is in the HTML, no spinner). */
+export default function HomeClient({ initial }: { initial?: InitialSearch }) {
+  const { t, lang } = useI18n();
   const router = useRouter();
-  const [query, setQuery] = useState('');
-  const [species, setSpecies] = useState<any[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [total, setTotal] = useState(0);
+  const [query, setQuery] = useState(initial?.query ?? '');
+  const [species, setSpecies] = useState<any[]>(initial?.hits ?? []);
+  const [loading, setLoading] = useState(!initial);
+  const [total, setTotal] = useState(initial?.total ?? 0);
   const [error, setError] = useState(false);
+  const [interpretation, setInterpretation] = useState<Interpretation | null>(initial ? { interpreted: initial.interpreted, corrected_query: initial.corrected_query } : null);
   const [view, setView] = useState<'list' | 'taxonomy'>('list');
   const [taxonomy, setTaxonomy] = useState<any>(null);
-  const [filters, setFilters] = useState<Filters>({});
+  const [filters, setFilters] = useState<Filters>(initial?.filters ?? {});
   const [filterOptions, setFilterOptions] = useState<Record<string, Record<string, number>> | null>(null);
 
   const [ready, setReady] = useState(false); // URL state has been read
   const [loadingMore, setLoadingMore] = useState(false);
-  const lastKey = useRef('');   // skips identical consecutive searches
+  // skips identical consecutive searches; starts as the server-fetched search so it is not repeated
+  const lastKey = useRef(initial ? JSON.stringify([initial.query, initial.filters, initial.lang]) : '');
   const requestId = useRef(0);  // discards responses that arrive out of order
 
   const runSearch = useCallback(async (q: string, f: Filters = {}) => {
-    const key = JSON.stringify([q, f]);
+    const key = JSON.stringify([q, f, lang]);
     if (key === lastKey.current) return;
     lastKey.current = key;
     const id = ++requestId.current;
     setLoading(true);
     setError(false);
     try {
-      const data = await searchSpecies(q, PAGE_SIZE, 0, f);
+      const data = await searchSpecies(q, PAGE_SIZE, 0, f, lang);
       if (id !== requestId.current) return;
       setSpecies(data.hits || []);
+      setInterpretation({ interpreted: data.interpreted, corrected_query: data.corrected_query });
       const count = data.total ?? data.estimatedTotalHits ?? 0;
       setTotal(count);
       if (q.trim()) track('search', { query: q.trim(), value: count, props: { filters: f } });
@@ -53,14 +69,14 @@ export default function Home() {
     } finally {
       if (id === requestId.current) setLoading(false);
     }
-  }, []);
+  }, [lang]);
 
   const loadMore = async () => {
     setLoadingMore(true);
     track('load_more', { value: species.length });
     const id = requestId.current;
     try {
-      const data = await searchSpecies(query, PAGE_SIZE, species.length, filters);
+      const data = await searchSpecies(query, PAGE_SIZE, species.length, filters, lang);
       if (id !== requestId.current) return;
       setSpecies((prev) => [...prev, ...(data.hits || [])]);
     } catch (e) {
@@ -111,12 +127,15 @@ export default function Home() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready, filters, runSearch]);
 
-  // The taxonomy tree is large; fetch it only when its tab is opened
+  // The taxonomy tree is large: fetch it only when its tab is opened, one common name per species in the chosen language
   useEffect(() => {
-    if (view === 'taxonomy' && !taxonomy) {
-      getTaxonomy().then(setTaxonomy).catch((e) => console.error('Taxonomy load error:', e));
-    }
-  }, [view, taxonomy]);
+    if (view !== 'taxonomy') return;
+    let cancelled = false;
+    getTaxonomy(lang).then((tree) => !cancelled && setTaxonomy(tree)).catch((e) => console.error('Taxonomy load error:', e));
+    return () => {
+      cancelled = true;
+    };
+  }, [view, lang]);
 
   const tab = (id: 'list' | 'taxonomy', label: string) => (
     <button
@@ -174,6 +193,7 @@ export default function Home() {
       <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6">
         {view === 'list' ? (
           <div className="flex flex-col gap-5">
+            <SearchInterpretation info={interpretation} />
             <FilterBar
               options={filterOptions}
               value={filters}
@@ -222,6 +242,9 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-4 text-center text-sm text-stone-500 sm:px-6">
           <p>{t('footerText')}</p>
           <p className="mt-1">{t('dataSources')}: {t('dataSourcesSubtitle')}</p>
+          <p className="mt-2">
+            <Link href="/analytics" className="font-medium text-brand-700 hover:underline">{t('siteStatistics')}</Link>
+          </p>
         </div>
       </footer>
     </div>

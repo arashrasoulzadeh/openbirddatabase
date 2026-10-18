@@ -198,5 +198,12 @@
   "missingInformationHint": "Bu tür için bu alanlarda henüz veri toplanmadı.",
   "expertCuratedNote": "Veteriner bakımı ve zenginleştirme bilgileri uzmanlarca yazılır ve yalnızca birkaç tür için mevcuttur.",
   "eggLength": "Yumurta uzunluğu",
-  "eggWidth": "Yumurta genişliği"
+  "eggWidth": "Yumurta genişliği",
+  "rangeSize": "Yayılış alanı büyüklüğü",
+  "restrictedRange": "Sınırlı yayılış",
+  "siteStatistics": "Site istatistikleri",
+  "understoodAs": "Şöyle anlaşıldı",
+  "ignoredWords": "Yoksayıldı",
+  "showingResultsFor": "Şunun sonuçları",
+  "photoBy": "Fotoğraf"
 }

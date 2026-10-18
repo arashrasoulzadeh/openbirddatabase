@@ -3,6 +3,7 @@ import { cookies, headers } from 'next/headers';
 import { I18nProvider } from '@/lib/i18n/I18nProvider';
 import Tracker from '@/components/Tracker';
 import { SITE_URL } from '@/lib/config';
+import { sliceFor } from '@/lib/i18n/bundle';
 import { DEFAULT_LANG, LANG_COOKIE, dirOf, isLang, langFromAcceptLanguage } from '@/lib/i18n/locales';
 
 export const metadata = {
@@ -30,7 +31,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Vazirmatn:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
       </head>
       <body className="min-h-screen bg-gray-50 font-sans antialiased">
-        <I18nProvider initialLang={lang}>
+        <I18nProvider initialLang={lang} tables={sliceFor(lang)}>
           <Tracker />
           {children}
         </I18nProvider>

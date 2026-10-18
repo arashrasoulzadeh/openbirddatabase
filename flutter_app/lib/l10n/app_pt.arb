@@ -198,5 +198,12 @@
   "missingInformationHint": "Ainda não foram coletados dados para estes campos desta espécie.",
   "expertCuratedNote": "As informações veterinárias e de enriquecimento são escritas por especialistas e existem para poucas espécies.",
   "eggLength": "Comprimento do ovo",
-  "eggWidth": "Largura do ovo"
+  "eggWidth": "Largura do ovo",
+  "rangeSize": "Tamanho da área de distribuição",
+  "restrictedRange": "Distribuição restrita",
+  "siteStatistics": "Estatísticas do site",
+  "understoodAs": "Entendido como",
+  "ignoredWords": "Ignorado",
+  "showingResultsFor": "Resultados para",
+  "photoBy": "Foto"
 }

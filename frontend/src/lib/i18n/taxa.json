@@ -1,0 +1,2806 @@
+{
+ "Acanthisittidae": {
+  "en": "New Zealand wren",
+  "fa": "الیکایی نیوزلندی",
+  "ar": "رتيبة عصافير الرامي",
+  "de": "Maorischlüpfer",
+  "ru": "Новозеландские крапивники",
+  "ja": "イワサザイ科",
+  "zh": "刺鹩科",
+  "nl": "Rotswinterkoningen",
+  "pl": "Bargliki"
+ },
+ "Acanthizidae": {
+  "fa": "چکاوکان اقیانوسیه",
+  "de": "Südseegrasmücken",
+  "ru": "Шипоклювковые",
+  "ja": "トゲハシムシクイ科",
+  "zh": "刺嘴莺科",
+  "nl": "Australische zangers",
+  "pl": "Buszówkowate"
+ },
+ "Accipitridae": {
+  "fa": "بازان",
+  "ar": "بازية",
+  "de": "Habichtartige",
+  "pt": "Acipitrídeos",
+  "ru": "ястребиные",
+  "ja": "タカ科",
+  "zh": "鹰科",
+  "nl": "havikachtigen",
+  "pl": "jastrzębiowate",
+  "tr": "Atmacagiller"
+ },
+ "Accipitriformes": {
+  "fa": "بازسانان",
+  "ar": "بازيات",
+  "de": "Greifvögel",
+  "ru": "ястребообразные",
+  "ja": "タカ目",
+  "zh": "鷹形目",
+  "pl": "szponiaste"
+ },
+ "Acrocephalidae": {
+  "fa": "چکاوک درخت و مرداب",
+  "ar": "هازجية",
+  "de": "Rohrsängerartige",
+  "ru": "Камышовковые",
+  "ja": "ヨシキリ科",
+  "zh": "苇莺科",
+  "nl": "rietzangers",
+  "pl": "Trzciniaki"
+ },
+ "Aegithalidae": {
+  "en": "Long-tailed Tits, Bushtits",
+  "fa": "چرخریسکان دمدراز",
+  "fr": "Aegithalidés",
+  "de": "Schwanzmeisen",
+  "ru": "Длиннохвостые синицы",
+  "ja": "エナガ科",
+  "zh": "长尾山雀科",
+  "nl": "Staartmezen",
+  "pl": "Raniuszki",
+  "tr": "Uzunkuyrukgiller"
+ },
+ "Aegithinidae": {
+  "en": "Iora",
+  "fa": "لیموقبا",
+  "ru": "Йоровые",
+  "zh": "雀鹎属",
+  "nl": "Iora's",
+  "pl": "Paskowniki",
+  "tr": "Aegithina"
+ },
+ "Aegothelidae": {
+  "en": "owlet-nightjars",
+  "ar": "غوثلية",
+  "de": "Höhlenschwalme",
+  "ru": "Совиные козодои",
+  "ja": "ズクヨタカ科",
+  "zh": "裸鼻鸱科",
+  "nl": "dwergnachtzwaluwen",
+  "pl": "Sowniki"
+ },
+ "Aegotheliformes": {
+  "en": "Owlet-nightjar",
+  "fa": "بوفچه-شبگرد",
+  "ar": "غوثليات",
+  "ja": "ズクヨタカ科",
+  "pl": "Sownikowe"
+ },
+ "Alaudidae": {
+  "en": "Lark",
+  "fa": "چکاوک",
+  "ar": "قبرة",
+  "de": "Lerchen",
+  "ru": "жаворонковые",
+  "ja": "ヒバリ科",
+  "zh": "百灵科",
+  "nl": "leeuweriken",
+  "pl": "skowronki",
+  "tr": "Toygargiller"
+ },
+ "Alcedinidae": {
+  "en": "Kingfisher",
+  "fa": "ماهیخورکها",
+  "ar": "رفرافيات",
+  "de": "Eisvögel",
+  "pt": "Guarda-rios",
+  "ru": "зимородковые",
+  "ja": "カワセミ科",
+  "zh": "翠鸟科",
+  "nl": "IJsvogels",
+  "pl": "zimorodkowate",
+  "tr": "Yalıçapkınıgiller"
+ },
+ "Alcidae": {
+  "en": "Auk",
+  "fa": "ماهیگیرک",
+  "ar": "أوك",
+  "de": "Alkenvögel",
+  "ru": "Чистиковые",
+  "ja": "ウミスズメ科",
+  "zh": "海雀科",
+  "nl": "Alken",
+  "pl": "alki",
+  "tr": "Dalıcımartıgiller"
+ },
+ "Anatidae": {
+  "fa": "مرغابیان",
+  "ar": "بطية",
+  "de": "Entenvögel",
+  "ru": "утиные",
+  "ja": "カモ科",
+  "zh": "鸭科",
+  "pl": "kaczkowate",
+  "tr": "Ördekgiller"
+ },
+ "Anhimidae": {
+  "en": "Screamer",
+  "fa": "swift",
+  "ar": "صياح",
+  "de": "Wehrvögel",
+  "pt": "Anhimídeos",
+  "ru": "Паламедеи",
+  "ja": "サケビドリ科",
+  "zh": "叫鸭科",
+  "nl": "Hoenderkoeten",
+  "pl": "Skrzydłoszpony"
+ },
+ "Anhingidae": {
+  "fa": "مارگردن",
+  "ar": "قاذفات",
+  "de": "Schlangenhalsvögel",
+  "ru": "змеешейковые",
+  "ja": "ヘビウ属",
+  "zh": "蛇鹈科",
+  "nl": "slangenhalsvogels",
+  "pl": "Wężówki",
+  "tr": "Yılanboyungiller"
+ },
+ "Anseranatidae": {
+  "fa": "غازهای پیسه",
+  "ar": "وزبطية",
+  "de": "Spaltfußgänse",
+  "ru": "Полулапчатые гуси",
+  "nl": "Eksterganzen"
+ },
+ "Anseriformes": {
+  "fa": "غازسانان",
+  "ar": "إوزيات",
+  "de": "Gänsevögel",
+  "ru": "гусеобразные",
+  "ja": "カモ目",
+  "zh": "雁形目",
+  "nl": "eendvogels",
+  "pl": "blaszkodziobe",
+  "tr": "Kazsılar"
+ },
+ "Apodidae": {
+  "en": "Swift",
+  "fa": "بادخورکان",
+  "ar": "سمامة",
+  "de": "Segler",
+  "pt": "Andorinhão",
+  "ru": "Стрижиные",
+  "ja": "アマツバメ科",
+  "zh": "雨燕科",
+  "nl": "Gierzwaluwen",
+  "pl": "Jerzykowate",
+  "tr": "Sağangiller"
+ },
+ "Apodiformes": {
+  "fa": "بادخورکسانان",
+  "ar": "سماميات",
+  "de": "Seglervögel",
+  "ru": "стрижеобразные",
+  "ja": "アマツバメ目",
+  "zh": "雨燕目",
+  "nl": "Gierzwaluwachtigen",
+  "pl": "krótkonogie",
+  "tr": "Ebabiller"
+ },
+ "Apterygidae": {
+  "ar": "كيوية",
+  "ru": "Кивиевые",
+  "ja": "キーウィ科",
+  "zh": "鹬鸵科",
+  "tr": "Kivi"
+ },
+ "Apterygiformes": {
+  "en": "Kiwis",
+  "fa": "کیویسانان",
+  "ar": "كيويات",
+  "es": "Kiwi",
+  "de": "Kiwis",
+  "pt": "Kiwi",
+  "ru": "Кивиобразные",
+  "ja": "キーウィ目",
+  "zh": "无翼鸟目",
+  "nl": "Kiwi's",
+  "pl": "Kiwi"
+ },
+ "Aramidae": {
+  "en": "Limpkin",
+  "fa": "آرامروان",
+  "es": "Carau",
+  "de": "Rallenkranich",
+  "ru": "Арамовые",
+  "ja": "ツルモドキ科",
+  "zh": "秧鹤科",
+  "nl": "koerlans"
+ },
+ "Ardeidae": {
+  "en": "heron",
+  "fa": "حواصیل",
+  "ar": "بلشونيات",
+  "de": "Reiher",
+  "ru": "цаплевые",
+  "ja": "サギ科",
+  "zh": "鹭科",
+  "nl": "reigers",
+  "pl": "Czaplowate",
+  "tr": "Balıkçılgiller"
+ },
+ "Artamidae": {
+  "fa": "پرستوجنگلیان",
+  "fr": "Artamidées",
+  "de": "Schwalbenstarverwandte",
+  "pt": "Artamini",
+  "ru": "Ласточковые сорокопуты",
+  "ja": "モリツバメ科",
+  "zh": "燕鵙科",
+  "nl": "spitsvogels",
+  "pl": "ostroloty"
+ },
+ "Atrichornithidae": {
+  "en": "Scrub-bird",
+  "fr": "Atrichorne",
+  "de": "Dickichtvögel",
+  "pt": "Atrichornithinae",
+  "ru": "Кустарниковые птицы",
+  "ja": "クサムラドリ科",
+  "nl": "Doornkruipers",
+  "pl": "Gąszczaki"
+ },
+ "Balaenicipitidae": {
+  "fa": "نیللکلکان",
+  "ar": "أحذية النيل الأبيض",
+  "de": "Schuhschnäbel",
+  "ru": "Китоглавые",
+  "ja": "ハシビロコウ科",
+  "zh": "鲸头鹳科",
+  "nl": "Schoenbekooievaar",
+  "pl": "trzewikodzioby"
+ },
+ "Bernieridae": {
+  "fa": "سسک مالاگاسی",
+  "es": "Bernieriidae",
+  "de": "Madagaskarsänger",
+  "ja": "テトラカヒヨドリ科",
+  "zh": "马岛莺科",
+  "pl": "Madagaskarniczki"
+ },
+ "Bombycillidae": {
+  "en": "Waxwings",
+  "ar": "شمعي الجناح",
+  "pt": "Bombycilla",
+  "ru": "Свиристелевые",
+  "ja": "レンジャク科",
+  "zh": "太平鸟科",
+  "nl": "pestvogels",
+  "tr": "İpekkuyrukgiller"
+ },
+ "Brachypteraciidae": {
+  "en": "Ground roller",
+  "fa": "سبزقبای زمینی",
+  "ar": "شقراق أرضي",
+  "de": "Erdracken",
+  "pt": "Braquipteraciídeos",
+  "ru": "земляные ракши",
+  "ja": "ジブッポウソウ科",
+  "zh": "地三宝鸟科",
+  "nl": "grondscharrelaars",
+  "pl": "Ziemnokraski"
+ },
+ "Bucconidae": {
+  "en": "Puffbird",
+  "fa": "مرغ پفی",
+  "ar": "طائر النفخة",
+  "de": "Faulvögel",
+  "pt": "Buconídeos",
+  "ru": "Пуховковые",
+  "ja": "オオガシラ科",
+  "zh": "喷鴷科",
+  "nl": "baardkoekoeken",
+  "pl": "Drzymy"
+ },
+ "Bucerotidae": {
+  "en": "hornbill",
+  "fa": "منقارشاخی",
+  "ar": "أبو قرن",
+  "de": "Nashornvögel",
+  "pt": "Calau",
+  "ru": "птицы-носороги",
+  "ja": "サイチョウ科",
+  "zh": "犀鸟科",
+  "nl": "neushoornvogels",
+  "pl": "dzioborożce",
+  "tr": "Boynuzgaga"
+ },
+ "Bucerotiformes": {
+  "fa": "نوکشاخسانان",
+  "ar": "قرنيات المنقار",
+  "de": "Hornvögel und Hopfe",
+  "ru": "Птицы-носороги",
+  "ja": "サイチョウ目",
+  "zh": "犀鸟目",
+  "pl": "dzioborożcowe"
+ },
+ "Buphagidae": {
+  "en": "Oxpeckers",
+  "de": "Madenhacker",
+  "zh": "牛椋鸟科",
+  "pl": "Bąkojady"
+ },
+ "Burhinidae": {
+  "en": "Stone-curlew",
+  "fa": "چاخلقان",
+  "ar": "كروانية",
+  "fr": "œdicnèmes",
+  "de": "Triele",
+  "pt": "Burinídeos",
+  "ru": "Авдотковые",
+  "ja": "イシチドリ科",
+  "zh": "石鸻科",
+  "nl": "Grielen",
+  "pl": "Kulony",
+  "tr": "Kocagözgiller"
+ },
+ "Cacatuidae": {
+  "en": "Cockatoos",
+  "fa": "طوطی کاکل سفید",
+  "ar": "ككتوه",
+  "es": "Cacatúas",
+  "fr": "kakatoès",
+  "de": "Kakadus",
+  "pt": "Cacatuas",
+  "ru": "Какаду",
+  "ja": "オウム",
+  "zh": "凤头鹦鹉科",
+  "nl": "kaketoes",
+  "pl": "Kakaduowate",
+  "tr": "Kakadu"
+ },
+ "Calcariidae": {
+  "en": "Calcariid buntings",
+  "fa": "پنجهبلندان",
+  "de": "Sporn- und Schneeammern",
+  "ru": "Подорожниковые",
+  "ja": "ツメナガホオジロ科",
+  "zh": "铁爪鹀科",
+  "pl": "Poświerki"
+ },
+ "Callaeidae": {
+  "fa": "غبغبکیهای نیوزیلند",
+  "de": "Lappenvögel",
+  "ru": "Гуйи",
+  "ja": "ホオダレムクドリ科",
+  "zh": "垂耳鸦科",
+  "nl": "Nieuw-Zeelandse lelvogels",
+  "pl": "Koralniki"
+ },
+ "Calyptomenidae": {
+  "fa": "پهننوکان سبزوآفریقایی",
+  "de": "Pittabreitrachen",
+  "ja": "ミドリヒロハシ科",
+  "zh": "非洲阔嘴鸟科",
+  "pl": "Nosoczuby"
+ },
+ "Calyptophilidae": {
+  "zh": "䳭唐納雀科"
+ },
+ "Campephagidae": {
+  "en": "Cuckooshrike",
+  "fa": "سنگچشمکوکویان",
+  "ar": "الصرد الوقواقي",
+  "de": "Stachelbürzler",
+  "ru": "Личинкоедовые",
+  "ja": "サンショウクイ科",
+  "zh": "山椒鸟科",
+  "nl": "rupsvogels",
+  "pl": "Liszkojady"
+ },
+ "Capitonidae": {
+  "en": "New World barbet",
+  "fa": "ریشمرغان آمریکایی",
+  "ar": "بربيتية",
+  "de": "Amerikanische Bartvögel",
+  "ru": "Бородатковые",
+  "ja": "アメリカゴシキドリ科",
+  "zh": "美洲拟啄木鸟科",
+  "nl": "Amerikaanse baardvogels",
+  "pl": "Brodacze"
+ },
+ "Caprimulgidae": {
+  "en": "Nightjar",
+  "fa": "شبگردان",
+  "ar": "سبدية",
+  "de": "Nachtschwalben",
+  "pt": "Caprimulgídeos",
+  "ru": "Настоящие козодои",
+  "ja": "ヨタカ科",
+  "zh": "夜鹰科",
+  "nl": "nachtzwaluwen",
+  "pl": "Lelkowate",
+  "tr": "Çobanaldatangiller"
+ },
+ "Caprimulgiformes": {
+  "fa": "شبگردسانان",
+  "ar": "سبديات",
+  "de": "Schwalmartige",
+  "ru": "козодоеобразные",
+  "ja": "ヨタカ目",
+  "zh": "夜鷹目",
+  "nl": "nachtzwaluwachtigen",
+  "pl": "Lelkowe",
+  "tr": "Çobanaldatanlar"
+ },
+ "Cardinalidae": {
+  "fa": "کاردینال",
+  "ar": "كردينال",
+  "de": "Kardinäle",
+  "pt": "Cardinalídeos",
+  "ru": "Кардиналовые",
+  "ja": "ショウジョウコウカンチョウ科",
+  "zh": "红鸟科",
+  "nl": "kardinaalachtigen",
+  "pl": "kardynały"
+ },
+ "Cariamidae": {
+  "en": "Seriema",
+  "fa": "کاکلپیشانی",
+  "ar": "قنزعيات",
+  "es": "Chuña patas rojas",
+  "fr": "Cariamiformes",
+  "de": "Seriemas",
+  "pt": "Seriema",
+  "ru": "Кариамовые",
+  "ja": "ノガンモドキ科",
+  "zh": "叫鹤科",
+  "nl": "Seriema's",
+  "pl": "Kariamy"
+ },
+ "Cariamiformes": {
+  "fa": "کاکلیان",
+  "ar": "مقنزعيات",
+  "ru": "кариамообразные",
+  "ja": "ノガンモドキ目",
+  "zh": "叫鶴目",
+  "pl": "Kariamy"
+ },
+ "Casuariidae": {
+  "fa": "شترمرغان شاخدار",
+  "ar": "شبنمية",
+  "pt": "Casuariídeos",
+  "ru": "Казуаровые",
+  "zh": "鹤鸵科",
+  "nl": "kasuarissen",
+  "pl": "Kazuarowate"
+ },
+ "Casuariiformes": {
+  "fa": "کاسوآریسانان",
+  "ar": "شبنميات",
+  "ru": "Казуарообразные",
+  "ja": "ヒクイドリ目",
+  "zh": "鹤鸵目",
+  "nl": "kasuarissen en emoes",
+  "pl": "Kazuarowe"
+ },
+ "Cathartidae": {
+  "en": "New World vulture",
+  "fa": "کرکسهای جهان جدید",
+  "ar": "نسور العالم الجديد",
+  "de": "Neuweltgeier",
+  "pt": "Catartídeos",
+  "ru": "Американские грифы",
+  "ja": "コンドル科",
+  "zh": "新大陆秃鹫科",
+  "nl": "gieren van de Nieuwe Wereld",
+  "pl": "Kondorowate",
+  "tr": "Yeni Dünya akbabaları"
+ },
+ "Cathartiformes": {
+  "fa": "لاشخورسانان",
+  "ar": "قمقاميات",
+  "ru": "Американские грифы",
+  "zh": "美洲鷲目",
+  "pl": "Kondorowe"
+ },
+ "Certhiidae": {
+  "en": "treecreeper",
+  "fa": "دارخزک",
+  "ar": "دابة الشجر",
+  "de": "Baumläufer",
+  "ru": "пищуховые",
+  "ja": "キバシリ科",
+  "zh": "旋木雀科",
+  "nl": "echte boomkruipers",
+  "pl": "Pełzacze",
+  "tr": "Tırmaşık kuşugiller"
+ },
+ "Cettiidae": {
+  "fa": "سسکهای بیشه",
+  "de": "Seidensängerverwandte",
+  "ru": "Короткокрылые камышовки",
+  "ja": "ウグイス科",
+  "zh": "树莺科",
+  "pl": "Wierzbówki"
+ },
+ "Chaetopidae": {
+  "fa": "صخرهپر",
+  "nl": "rotsspringers",
+  "pl": "Skałoskoczki"
+ },
+ "Charadriidae": {
+  "fa": "سلیمان",
+  "ar": "زقزاقية",
+  "de": "Regenpfeifer",
+  "ru": "ржанковые",
+  "ja": "チドリ科",
+  "zh": "鸻科",
+  "nl": "kieviten en plevieren",
+  "pl": "Sieweczkowate",
+  "tr": "Yağmurcungiller"
+ },
+ "Charadriiformes": {
+  "fa": "سلیمسانان",
+  "ar": "إفجيجيات",
+  "de": "Regenpfeiferartige",
+  "ru": "ржанкообразные",
+  "ja": "チドリ目",
+  "zh": "鸻形目",
+  "nl": "steltloperachtigen",
+  "pl": "siewkowe",
+  "tr": "Yağmur kuşları"
+ },
+ "Chionidae": {
+  "tr": "Kıngagagiller"
+ },
+ "Chloropseidae": {
+  "en": "leafbird",
+  "fa": "برگنشین",
+  "ar": "طيور الورق",
+  "de": "Blattvögel",
+  "pt": "Chloropsis",
+  "ru": "листовковые",
+  "ja": "コノハドリ属",
+  "zh": "叶鹎科",
+  "nl": "bladvogels",
+  "pl": "Zieleniki"
+ },
+ "Ciconiidae": {
+  "en": "stork",
+  "fa": "لکلک",
+  "ar": "لقلق",
+  "de": "Störche",
+  "pt": "Cegonha",
+  "ru": "аистовые",
+  "ja": "コウノトリ科",
+  "zh": "鹳科",
+  "nl": "ooievaars",
+  "pl": "bocianowate",
+  "tr": "Ciconia"
+ },
+ "Ciconiiformes": {
+  "fa": "لکلکسانان",
+  "ar": "لقلقيات",
+  "de": "Schreitvögel",
+  "ru": "аистообразные",
+  "ja": "コウノトリ目",
+  "zh": "鹳形目",
+  "nl": "ooievaarachtigen",
+  "pl": "bocianowe",
+  "tr": "Leyleksiler"
+ },
+ "Cinclidae": {
+  "en": "Dippers",
+  "de": "Wasseramseln",
+  "ru": "Оляпковые",
+  "ja": "カワガラス科",
+  "zh": "河乌科",
+  "nl": "Waterspreeuwen",
+  "pl": "Pluszcze",
+  "tr": "su karatavuğugiller"
+ },
+ "Cinclosomatidae": {
+  "fa": "توکا-لیکویان",
+  "ar": "هماقيات",
+  "de": "Drosselflöter",
+  "ru": "Пёстрые флейтисты",
+  "ja": "ウズラチメドリ科",
+  "zh": "鹑鸫科",
+  "pl": "Pieszaki"
+ },
+ "Cisticolidae": {
+  "fa": "سبدنشینان",
+  "ar": "ساكنات القريضة",
+  "de": "Halmsängerartige",
+  "ru": "Цистиколовые",
+  "ja": "セッカ科",
+  "zh": "扇尾莺科",
+  "pl": "Chwastówkowate"
+ },
+ "Climacteridae": {
+  "en": "Australasian treecreeper",
+  "fa": "دارخزک استرالزی",
+  "de": "Baumrutscher",
+  "ru": "Ложнопищуховые",
+  "ja": "キノボリ科",
+  "zh": "短嘴旋木雀科",
+  "nl": "Australische kruipers",
+  "pl": "Korołazy"
+ },
+ "Cnemophilidae": {
+  "en": "Satinbird",
+  "fa": "مرغان براق",
+  "de": "Furchenvogelartige",
+  "ja": "カンムリフウチョウモドキ科",
+  "zh": "短嘴极乐鸟科",
+  "pl": "Płatkonosy"
+ },
+ "Coliidae": {
+  "en": "mousebird",
+  "fa": "موشمرغسانان",
+  "ar": "حنوريات",
+  "de": "Mausvögel",
+  "ru": "Птицы-мыши",
+  "ja": "ネズミドリ科",
+  "zh": "鼠鸟科",
+  "nl": "Muisvogels",
+  "pl": "Czepigi",
+  "tr": "Fare kuşugiller"
+ },
+ "Coliiformes": {
+  "ar": "كوليات",
+  "de": "Mausvögel",
+  "ru": "Птицы-мыши",
+  "zh": "鼠鸟目",
+  "tr": "Fare kuşları"
+ },
+ "Columbidae": {
+  "en": "pigeons and doves",
+  "fa": "کبوتر",
+  "ar": "حمامية",
+  "es": "Paloma",
+  "fr": "Pigeon",
+  "de": "Tauben",
+  "pt": "Columbídeos",
+  "ru": "голубиные",
+  "ja": "ハト科",
+  "zh": "鸠鸽科",
+  "nl": "duiven",
+  "pl": "gołębiowate",
+  "tr": "Güvercingiller"
+ },
+ "Columbiformes": {
+  "fa": "کبوترسانان",
+  "ar": "حماميات",
+  "de": "Taubenvögel",
+  "ru": "голубеобразные",
+  "ja": "ハト目",
+  "zh": "鸽形目",
+  "nl": "duifachtigen",
+  "pl": "gołębiowe",
+  "tr": "Güvercinler"
+ },
+ "Conopophagidae": {
+  "en": "gnateaters",
+  "fa": "پشهخوار",
+  "ar": "آكلات الجرجة",
+  "de": "Mückenfresser",
+  "ru": "гусеницеедовые",
+  "ja": "アリサザイ科",
+  "zh": "食蚊鸟科",
+  "nl": "muggeneters",
+  "pl": "Mrówkożery"
+ },
+ "Coraciidae": {
+  "fa": "سبزقبا",
+  "ar": "شقراقية",
+  "de": "Racken",
+  "ru": "сизоворонковые",
+  "ja": "ブッポウソウ科",
+  "zh": "佛法僧科",
+  "nl": "scharrelaars",
+  "pl": "Kraski",
+  "tr": "Gökkuzgunugiller"
+ },
+ "Coraciiformes": {
+  "fa": "سبزقباسانان",
+  "ar": "شقراقيات",
+  "de": "Rackenvögel",
+  "ru": "ракшеобразные",
+  "ja": "ブッポウソウ目",
+  "zh": "佛法僧目",
+  "nl": "scharrelaarvogels",
+  "pl": "kraskowe",
+  "tr": "Gökkuzgunumsular"
+ },
+ "Corcoracidae": {
+  "en": "Australian mudnester",
+  "fa": "گلآشیان",
+  "de": "Schlammnestkrähen",
+  "ru": "Снегирёвые сойки",
+  "ja": "オオツチスドリ科",
+  "zh": "澳鸦科",
+  "nl": "slijknestkraaien",
+  "pl": "Skałowrony"
+ },
+ "Corvidae": {
+  "en": "corvid",
+  "fa": "کلاغیان",
+  "ar": "غرابيات",
+  "de": "Rabenvögel",
+  "pt": "Corvídeos",
+  "ru": "врановые",
+  "ja": "カラス科",
+  "zh": "鸦科",
+  "nl": "kraaien",
+  "pl": "krukowate",
+  "tr": "Kargagiller"
+ },
+ "Cotingidae": {
+  "en": "Cotinga",
+  "fa": "جواهرمرغ",
+  "ar": "قطنجية",
+  "de": "Schmuckvögel",
+  "pt": "Cotingídeos",
+  "ru": "котинговые",
+  "ja": "カザリドリ科",
+  "zh": "伞鸟科",
+  "nl": "Cotinga's",
+  "pl": "Bławatniki"
+ },
+ "Cracidae": {
+  "fa": "گوشخراشان",
+  "ar": "قرازية",
+  "de": "Hokkohühner",
+  "pt": "Cracídeos",
+  "ru": "Краксы",
+  "ja": "ホウカンチョウ科",
+  "zh": "凤冠雉科",
+  "nl": "sjakohoenders en hokko's",
+  "pl": "Czubacze"
+ },
+ "Cuculidae": {
+  "en": "Cuckoo",
+  "fa": "کوکو",
+  "ar": "وقواقية",
+  "de": "Kuckucke",
+  "pt": "Cuculídeos",
+  "ru": "кукушковые",
+  "ja": "カッコウ科",
+  "zh": "杜鹃科",
+  "nl": "Koekoeken",
+  "pl": "kukułkowate",
+  "tr": "Gugukgiller"
+ },
+ "Cuculiformes": {
+  "en": "Cuckoos",
+  "fa": "کوکوسانان",
+  "ar": "واقواقيات",
+  "es": "Cucos y afines",
+  "fr": "Coucous et apparentés",
+  "de": "Kuckucksvögel",
+  "pt": "Cucos e afins",
+  "ru": "кукушкообразные",
+  "ja": "カッコウ目",
+  "zh": "鹃形目",
+  "nl": "Koekoeksvogels",
+  "pl": "kukułkowe",
+  "tr": "Guguksular"
+ },
+ "Dasyornithidae": {
+  "en": "Bristlebirds",
+  "pl": "Kolcopiórki"
+ },
+ "Dicaeidae": {
+  "en": "Flowerpecker",
+  "fa": "گلکوب",
+  "ar": "نقارات الزهر",
+  "de": "Mistelfresser",
+  "pt": "Dicaeini",
+  "ru": "Цветоедовые",
+  "ja": "ハナドリ科",
+  "zh": "啄花鸟科",
+  "nl": "bastaardhoningvogels",
+  "pl": "Kwiatówki"
+ },
+ "Dicruridae": {
+  "en": "drongo",
+  "fa": "بوچانگایان",
+  "ar": "فصيلة ديكروريدي",
+  "de": "Drongos",
+  "ru": "Дронговые",
+  "ja": "オウチュウ科",
+  "zh": "卷尾科",
+  "nl": "drongo's",
+  "pl": "dziwogony",
+  "tr": "Dicrurus"
+ },
+ "Diomedeidae": {
+  "en": "albatross",
+  "fa": "آلباتروس",
+  "ar": "قطرس",
+  "fr": "albatros",
+  "de": "Albatrosse",
+  "pt": "Albatroz",
+  "ru": "Альбатросовые",
+  "ja": "アホウドリ科",
+  "zh": "信天翁科",
+  "nl": "albatrossen",
+  "pl": "albatrosy",
+  "tr": "Albatros"
+ },
+ "Donacobiidae": {},
+ "Dromadidae": {
+  "ru": "Рачьи ржанки",
+  "nl": "Krabplevieren"
+ },
+ "Dulidae": {
+  "ar": "أبلقيات النخيل",
+  "ru": "Пальмовые чеканы",
+  "nl": "Palmtapuiten"
+ },
+ "Elachuridae": {},
+ "Emberizidae": {
+  "fa": "زردپرهایان",
+  "ar": "درسات",
+  "de": "Ammern",
+  "pt": "Emberizídeos",
+  "ru": "овсянковые",
+  "ja": "ホオジロ科",
+  "zh": "鹀科",
+  "nl": "gorzen",
+  "pl": "trznadle",
+  "tr": "Kiraz kuşugiller"
+ },
+ "Erythrocercidae": {
+  "nl": "elfmonarchen"
+ },
+ "Estrildidae": {
+  "fa": "سهره بافنده",
+  "ar": "شمعية المنقار",
+  "de": "Prachtfinken",
+  "pt": "Estrildinae",
+  "ru": "вьюрковые ткачики",
+  "ja": "カエデチョウ科",
+  "zh": "梅花雀科",
+  "nl": "Prachtvinken",
+  "pl": "astryldowate"
+ },
+ "Eulacestomatidae": {},
+ "Eupetidae": {
+  "ja": "クイナチメドリ科",
+  "pl": "Długobiegowate"
+ },
+ "Eurylaimidae": {
+  "en": "Broadbill",
+  "fa": "منقارپهن",
+  "ar": "طائر عريض المنقار",
+  "de": "Breitrachen",
+  "ru": "Рогоклювые",
+  "ja": "ヒロハシ科",
+  "zh": "阔嘴鸟科",
+  "nl": "breedbekken en hapvogels",
+  "pl": "szerokodzioby"
+ },
+ "Eurypygidae": {
+  "ar": "كورليات",
+  "ru": "Солнечные цапли",
+  "zh": "日鳽科",
+  "nl": "Zonnerallen"
+ },
+ "Eurypygiformes": {
+  "fa": "آفتاببوتیمارسانان",
+  "ja": "ジャノメドリ目",
+  "zh": "日鳽目",
+  "pl": "Słonecznicowe"
+ },
+ "Falconidae": {
+  "fa": "شاهینان",
+  "ar": "الصقرية",
+  "de": "Falkenartige",
+  "pt": "Falconídeos",
+  "ru": "Соколиные",
+  "ja": "ハヤブサ科",
+  "zh": "隼科",
+  "nl": "valkachtigen",
+  "pl": "sokołowate",
+  "tr": "Doğangiller"
+ },
+ "Falconiformes": {
+  "fa": "شاهینسانان",
+  "ar": "صقريات الشكل",
+  "de": "Falkenartige",
+  "ru": "соколообразные",
+  "ja": "ハヤブサ目",
+  "zh": "隼形目",
+  "pl": "sokołowe",
+  "tr": "Gündüz yırtıcı kuşları"
+ },
+ "Falcunculidae": {
+  "en": "Shriketit",
+  "fa": "چرخریسک-سنگچشم",
+  "pl": "Czubce"
+ },
+ "Formicariidae": {
+  "fa": "مورچهگیران",
+  "ar": "سمامن النمل",
+  "de": "Ameisendrosseln",
+  "ru": "муравьеловковые",
+  "ja": "アリツグミ科",
+  "zh": "蚁鸟科",
+  "nl": "Miervogels",
+  "pl": "Mrówkowody"
+ },
+ "Fregatidae": {
+  "en": "Frigatebirds",
+  "fa": "مرغ دله",
+  "ar": "فرقاط",
+  "de": "Fregattvögel",
+  "ru": "Фрегатовые",
+  "ja": "グンカンドリ科",
+  "zh": "军舰鸟科",
+  "nl": "Fregatvogels",
+  "pl": "Fregaty"
+ },
+ "Fringillidae": {
+  "en": "Finch",
+  "fa": "سهره",
+  "ar": "شرشوريات",
+  "de": "Finken",
+  "ru": "вьюрковые",
+  "ja": "アトリ科",
+  "zh": "燕雀科",
+  "nl": "vinkachtigen",
+  "pl": "Łuszczakowate",
+  "tr": "İspinozgiller"
+ },
+ "Furnariidae": {
+  "en": "Ovenbird",
+  "fa": "مرغان تنورساز",
+  "ar": "فرنارية",
+  "de": "Töpfervögel",
+  "pt": "Furnariídeos",
+  "ru": "печниковые",
+  "ja": "カマドドリ科",
+  "zh": "灶鸟科",
+  "nl": "ovenvogels",
+  "pl": "Garncarzowate"
+ },
+ "Galbulidae": {
+  "en": "Jacamar",
+  "fa": "رنگینتاب",
+  "ar": "يقمريات",
+  "de": "Glanzvögel",
+  "ru": "Якамаровые",
+  "ja": "キリハシ科",
+  "zh": "鹟鴷科",
+  "nl": "glansvogels",
+  "pl": "złotopióry",
+  "tr": "Jakamar"
+ },
+ "Galliformes": {
+  "fa": "ماکیانسانان",
+  "ar": "دجاجيات",
+  "es": "gallináceas",
+  "de": "Hühnervögel",
+  "pt": "Galináceos",
+  "ru": "курообразные",
+  "ja": "キジ目",
+  "zh": "鸡形目",
+  "nl": "hoendervogels",
+  "pl": "grzebiące",
+  "tr": "Tavuksular"
+ },
+ "Gaviidae": {
+  "en": "loon",
+  "fa": "غواص",
+  "ar": "غواصية",
+  "ru": "гагаровые",
+  "ja": "アビ科",
+  "zh": "潜鸟科",
+  "nl": "duikers"
+ },
+ "Gaviiformes": {
+  "fa": "غواصسانان",
+  "ar": "غواصيات",
+  "de": "Seetaucher",
+  "ru": "гагарообразные",
+  "ja": "アビ目",
+  "zh": "潜鸟目",
+  "pl": "Nury"
+ },
+ "Glareolidae": {
+  "fa": "چلچلهبیابانیان",
+  "ar": "سبريات",
+  "de": "Brachschwalbenartige",
+  "ru": "Тиркушковые",
+  "ja": "ツバメチドリ科",
+  "zh": "燕鸻科",
+  "nl": "Renvogels en vorkstaartplevieren",
+  "pl": "Żwirowcowate",
+  "tr": "Bataklık kırlangıcıgiller"
+ },
+ "Grallariidae": {
+  "en": "Antpitta",
+  "fa": "گنجشک مورچهخوار",
+  "ar": "بتة النمل",
+  "es": "Tororoíes",
+  "de": "Ameisenpittas",
+  "pt": "Gralariídeos",
+  "ru": "Гралляриевые",
+  "ja": "ジアリドリ科",
+  "zh": "短尾蚁鸫科",
+  "pl": "Kusaczki"
+ },
+ "Gruidae": {
+  "en": "Crane",
+  "fa": "کلنگان",
+  "ar": "كركية",
+  "de": "Kraniche",
+  "pt": "Grou",
+  "ru": "Настоящие журавли",
+  "ja": "ツル科",
+  "zh": "鹤科",
+  "nl": "kraanvogels",
+  "pl": "Żurawie",
+  "tr": "Turnagiller"
+ },
+ "Gruiformes": {
+  "fa": "کلنگسانان",
+  "ar": "كركيات الشكل",
+  "de": "Kranichvögel",
+  "ru": "Журавлеобразные",
+  "ja": "ツル目",
+  "zh": "鹤形目",
+  "nl": "kraanvogelachtigen",
+  "pl": "żurawiowe",
+  "tr": "Turnamsılar"
+ },
+ "Haematopodidae": {
+  "ru": "кулики-сороки",
+  "zh": "蛎鹬科",
+  "nl": "scholeksters"
+ },
+ "Heliornithidae": {
+  "fa": "بالهپایان",
+  "de": "Binsenrallen",
+  "ru": "Лапчатоногие",
+  "ja": "ヒレアシ科",
+  "zh": "日鷉科",
+  "nl": "fuutkoeten",
+  "pl": "Perkołyski"
+ },
+ "Hemiprocnidae": {
+  "en": "Treeswift",
+  "fa": "بادخورک درختی",
+  "ar": "سمامة الشجر",
+  "de": "Baumsegler",
+  "ru": "Хохлатые стрижи",
+  "ja": "カンムリアマツバメ属",
+  "zh": "凤头雨燕属",
+  "nl": "Boomgierzwaluwen",
+  "pl": "Czubiki"
+ },
+ "Hirundinidae": {
+  "en": "Swallow",
+  "fa": "پرستو",
+  "ar": "سنونو",
+  "de": "Schwalben",
+  "pt": "andorinha",
+  "ru": "ласточковые",
+  "ja": "ツバメ科",
+  "zh": "燕科",
+  "nl": "zwaluwen",
+  "pl": "Jaskółkowate",
+  "tr": "Kırlangıç"
+ },
+ "Hydrobatidae": {
+  "en": "Northern storm petrel",
+  "fa": "مرغ توفان",
+  "ar": "طير النوء الشمالي",
+  "de": "Sturmschwalben",
+  "pt": "Painho",
+  "ru": "Качурки",
+  "ja": "ウミツバメ科",
+  "zh": "海燕科",
+  "nl": "stormvogeltjes",
+  "pl": "Nawałniki",
+  "tr": "Fırtına kuşugiller"
+ },
+ "Hyliidae": {
+  "fa": "پازیتونیان",
+  "de": "Baumsänger",
+  "ja": "コバシミドリムシクイ科",
+  "zh": "绿莺科",
+  "pl": "Pokrzewczyki"
+ },
+ "Hyliotidae": {
+  "pl": "Aksamitniki"
+ },
+ "Hylocitreidae": {
+  "ja": "ミドリモズヒタキ科",
+  "zh": "林啸鹟科"
+ },
+ "Hypocoliidae": {
+  "pl": "Persówkowate"
+ },
+ "Ibidorhynchidae": {
+  "en": "Ibisbill",
+  "zh": "鹮嘴鹬科",
+  "nl": "Ibissnavels"
+ },
+ "Icteridae": {
+  "en": "Icterid",
+  "fa": "سیاهپرهایان",
+  "ar": "صفراويات",
+  "de": "Stärlinge",
+  "pt": "Icterídeos",
+  "ru": "Трупиаловые",
+  "ja": "ムクドリモドキ科",
+  "zh": "拟黄鹂科",
+  "nl": "troepialen",
+  "pl": "Kacykowate"
+ },
+ "Icteriidae": {},
+ "Ifritidae": {
+  "zh": "幽鸫科",
+  "nl": "Ifrita's"
+ },
+ "Indicatoridae": {
+  "en": "Honeyguide",
+  "fa": "عسلیاب",
+  "ar": "مرشدات العسل",
+  "de": "Honiganzeiger",
+  "pt": "Megalaimidae",
+  "ru": "медоуказчиковые",
+  "ja": "ミツオシエ科",
+  "zh": "響蜜鴷",
+  "nl": "honingspeurders",
+  "pl": "miodowody"
+ },
+ "Irenidae": {
+  "pt": "Irena",
+  "ru": "Иреновые",
+  "ja": "コノハドリ科",
+  "zh": "和平鸟属",
+  "nl": "Irena's",
+  "pl": "Turkuśniki"
+ },
+ "Jacanidae": {
+  "fa": "روآبروک",
+  "ar": "يقنة",
+  "de": "Blatthühnchen",
+  "ru": "якановые",
+  "ja": "レンカク科",
+  "zh": "雉鸻科",
+  "nl": "Jacana's",
+  "pl": "Długoszpony",
+  "tr": "Jakana"
+ },
+ "Laniidae": {
+  "en": "Shrike",
+  "fa": "سنگچشم",
+  "ar": "دقنوش",
+  "de": "Würger",
+  "ru": "Сорокопутовые",
+  "ja": "モズ科",
+  "zh": "伯劳科",
+  "nl": "klauwieren",
+  "pl": "dzierzby",
+  "tr": "Örümcek kuşugiller"
+ },
+ "Laridae": {
+  "fa": "کاکاییان",
+  "ar": "نورسية",
+  "es": "Láridos",
+  "de": "Möwenverwandte",
+  "pt": "Larídeos",
+  "ru": "чайковые",
+  "ja": "カモメ科",
+  "zh": "鸥科",
+  "nl": "meeuwen",
+  "pl": "mewy"
+ },
+ "Leiothrichidae": {
+  "en": "Laughingthrush",
+  "fa": "توکایان خندان",
+  "ar": "بهدليات",
+  "de": "Häherlinge",
+  "pt": "Leiotriquídeos",
+  "ru": "Кустарницевые",
+  "ja": "ソウシチョウ科",
+  "zh": "噪鹛科",
+  "pl": "Pekińczyki"
+ },
+ "Leptosomidae": {
+  "ru": "Куроловые",
+  "ja": "レプトソーミデ",
+  "zh": "鹃鴗科",
+  "nl": "Koerol"
+ },
+ "Leptosomiformes": {
+  "ru": "Куролообразные",
+  "ja": "レプトソーミフォルメス",
+  "zh": "鹃鴗目"
+ },
+ "Locustellidae": {
+  "fa": "گنجشکان لوکوستلیدا",
+  "ar": "شاديات الأعشاب",
+  "es": "Megaluridae",
+  "de": "Schwirlverwandte",
+  "ru": "сверчковые",
+  "ja": "センニュウ科",
+  "zh": "蝗莺科",
+  "pl": "Świerszczaki"
+ },
+ "Lybiidae": {
+  "fa": "ریشمرغان آفریقایی",
+  "ar": "بربيتاوات أفريقية",
+  "de": "Afrikanische Bartvögel",
+  "pt": "Barbaças",
+  "ru": "Африканские бородатки",
+  "ja": "アフリカゴシキドリ科",
+  "zh": "非洲拟啄木鸟科",
+  "nl": "Afrikaanse baardvogels",
+  "pl": "Wąsale"
+ },
+ "Machaerirhynchidae": {
+  "pl": "Szuflodziobki"
+ },
+ "Macrosphenidae": {
+  "fa": "سسکهای آفریقایی",
+  "de": "Bülbülgrasmücken und Sylviettas",
+  "ru": "Африканские славки",
+  "ja": "ハシナガムシクイ科",
+  "zh": "长嘴莺科",
+  "pl": "Krótkosterki"
+ },
+ "Malaconotidae": {
+  "en": "Bushshrike",
+  "fa": "سنگچشم بیشه",
+  "ar": "دقناش الشجر",
+  "de": "Buschwürger",
+  "ru": "Кустарниковые сорокопуты",
+  "ja": "ヤブモズ科",
+  "zh": "丛鵙科",
+  "pl": "Dzierzbiki"
+ },
+ "Maluridae": {
+  "en": "Australasian wren",
+  "fa": "پریگنجشکان",
+  "ar": "صعوية أسترالية",
+  "de": "Australische Sänger",
+  "ru": "Малюровые",
+  "ja": "オーストラリアムシクイ科",
+  "zh": "细尾鹩莺科",
+  "nl": "elfjes",
+  "pl": "Chwostkowate",
+  "tr": "Avustralya mücevherkuşları"
+ },
+ "Megalaimidae": {
+  "fa": "ریشمرغان آسیایی",
+  "ar": "ميغالايميديه",
+  "de": "Asiatische Bartvögel",
+  "ru": "Азиатские дятлы",
+  "ja": "ゴシキドリ科",
+  "zh": "拟啄木鸟科",
+  "nl": "Aziatische baardvogels",
+  "pl": "Pstrogłowy"
+ },
+ "Megapodiidae": {
+  "en": "megapode",
+  "fa": "مگاپود",
+  "ar": "شقبانية",
+  "de": "Großfußhühner",
+  "ru": "Большеноги",
+  "ja": "ツカツクリ科",
+  "zh": "冢雉科",
+  "nl": "grootpoothoenders",
+  "pl": "Nogale"
+ },
+ "Melampittidae": {
+  "en": "Melampitta",
+  "fa": "سیاهپیتایان",
+  "ja": "クロチメドリ科",
+  "nl": "Paradijspitta's",
+  "pl": "Czarniaki"
+ },
+ "Melanocharitidae": {
+  "fa": "شاهتوتکوبان",
+  "de": "Beerenpicker",
+  "ja": "パプアハナドリ科",
+  "zh": "啄果鸟科",
+  "pl": "Jagodziaki"
+ },
+ "Melanopareiidae": {
+  "en": "Crescentchest",
+  "pl": "Obrożniki"
+ },
+ "Meliphagidae": {
+  "en": "Honeyeater",
+  "fa": "عسلخوار",
+  "ar": "آكلات العسل",
+  "de": "Honigfresser",
+  "pt": "Melifagídeos",
+  "ru": "Медососовые",
+  "ja": "ミツスイ科",
+  "zh": "吸蜜鸟科",
+  "nl": "honingeters",
+  "pl": "Miodojady"
+ },
+ "Menuridae": {
+  "de": "Leierschwänze",
+  "ru": "лирохвостые",
+  "ja": "コトドリ科",
+  "nl": "liervogels",
+  "tr": "Lir kuşugiller"
+ },
+ "Meropidae": {
+  "en": "Bee-eater",
+  "fa": "زنبورخوار",
+  "ar": "وروارية",
+  "de": "Bienenfresser",
+  "pt": "Abelharuco",
+  "ru": "щурковые",
+  "ja": "ハチクイ科",
+  "zh": "蜂虎科",
+  "nl": "bijeneters",
+  "pl": "Żołny",
+  "tr": "Arı kuşugiller"
+ },
+ "Mesitornithidae": {
+  "en": "Mesite",
+  "fa": "یلوه پادراز",
+  "ar": "هذابيات",
+  "de": "Stelzenrallen",
+  "ru": "Мадагаскарские пастушки",
+  "ja": "クイナモドキ科",
+  "zh": "拟鹑科",
+  "nl": "Steltrallen",
+  "pl": "Madagaskarniki"
+ },
+ "Mesitornithiformes": {
+  "ru": "Мезитообразные"
+ },
+ "Mimidae": {
+  "en": "Mimid",
+  "fa": "مقلدمرغان",
+  "ar": "محاكيات",
+  "de": "Spottdrosseln",
+  "ru": "Пересмешниковые",
+  "ja": "マネシツグミ科",
+  "zh": "嘲鸫科",
+  "nl": "Spotlijsters",
+  "pl": "Przedrzeźniacze",
+  "tr": "Alaycı kuşugiller"
+ },
+ "Mitrospingidae": {
+  "fa": "کلاهپوشان",
+  "de": "Stärlingstangaren",
+  "ja": "ヨゴレフウキンチョウ科",
+  "zh": "乌脸唐纳雀科",
+  "pl": "Tanagrzyki"
+ },
+ "Modulatricidae": {
+  "fa": "گلوخالداران",
+  "de": "Sopranisten",
+  "ja": "ノドボシツグミヒタキ科",
+  "zh": "喉䳭科",
+  "nl": "Vlekkeellijsters",
+  "pl": "Górodrozdy"
+ },
+ "Mohoidae": {
+  "fa": "عسلخواران هاوایی",
+  "ar": "موهويات",
+  "ru": "Гавайские медососы",
+  "ja": "フサミツスイ科",
+  "zh": "夏威夷吸蜜鸟科",
+  "pl": "Reliktowce"
+ },
+ "Mohouidae": {
+  "pl": "Maoryski"
+ },
+ "Momotidae": {
+  "en": "motmot",
+  "fa": "دمدراز",
+  "ar": "مطموطية",
+  "de": "Sägeracken",
+  "pt": "Juruva",
+  "ru": "момотовые",
+  "ja": "ハチクイモドキ科",
+  "zh": "翠鴗科",
+  "nl": "motmots",
+  "pl": "Piłodzioby"
+ },
+ "Monarchidae": {
+  "en": "Monarch flycatcher",
+  "fa": "شاهمگسگیران",
+  "ar": "خطاف الذباب السلطاني",
+  "de": "Monarchen",
+  "ru": "Монарховые",
+  "ja": "カササギヒタキ科",
+  "zh": "王鹟科",
+  "nl": "monarchen",
+  "pl": "Monarki"
+ },
+ "Motacillidae": {
+  "en": "pipits",
+  "fa": "دمجنبانکان",
+  "ar": "تُّمَّرة",
+  "de": "Stelzen und Pieper",
+  "pt": "Motacilídeos",
+  "ru": "Трясогузковые",
+  "ja": "セキレイ科",
+  "zh": "鶺鴒科",
+  "nl": "kwikstaarten en piepers",
+  "pl": "pliszkowate",
+  "tr": "Kuyruksallayangiller"
+ },
+ "Muscicapidae": {
+  "en": "Old World flycatcher",
+  "fa": "مگسگیران",
+  "ar": "خاطفات الذباب",
+  "de": "Fliegenschnäpper",
+  "pt": "Muscicapídeos",
+  "ru": "мухоловковые",
+  "ja": "ヒタキ科",
+  "zh": "鹟科",
+  "nl": "vliegenvangers",
+  "pl": "muchołówkowate",
+  "tr": "Sinekkapangiller"
+ },
+ "Musophagidae": {
+  "en": "Turaco",
+  "fa": "موزخوار",
+  "ar": "آكلات الموز",
+  "de": "Turakos",
+  "pt": "Musophagiformes",
+  "ru": "Тураковые",
+  "ja": "エボシドリ科",
+  "zh": "蕉鵑",
+  "nl": "toerako's",
+  "pl": "Turakowate",
+  "tr": "Turako"
+ },
+ "Musophagiformes": {
+  "ru": "Туракообразные",
+  "pl": "Turakowe"
+ },
+ "Nectariniidae": {
+  "en": "sunbird",
+  "fa": "شهدخواران",
+  "ar": "تمير",
+  "de": "Nektarvögel",
+  "ru": "Нектарницевые",
+  "ja": "タイヨウチョウ科",
+  "zh": "太阳鸟科",
+  "nl": "honingzuigers",
+  "pl": "Nektarniki"
+ },
+ "Neosittidae": {
+  "en": "Sittella",
+  "fa": "نوکمرکلیها",
+  "de": "Spiegelkleiber",
+  "ru": "Сителлы",
+  "zh": "澳䴓属",
+  "pl": "Kowaliczki"
+ },
+ "Nicatoridae": {
+  "es": "Nicator",
+  "de": "Nicator",
+  "pl": "Nikatory"
+ },
+ "Notiomystidae": {},
+ "Numididae": {
+  "en": "Guinea fowl",
+  "fa": "مرغ شاخدار",
+  "ar": "غرغر",
+  "fr": "pintade",
+  "de": "Perlhühner",
+  "pt": "Numidídeos",
+  "ru": "Цесарковые",
+  "ja": "ホロホロチョウ科",
+  "zh": "珠雞科",
+  "nl": "parelhoenders",
+  "pl": "Perlice",
+  "tr": "Beçtavuğu"
+ },
+ "Nyctibiidae": {
+  "en": "Potoo",
+  "fa": "شبزی",
+  "ar": "بوتو",
+  "de": "Tagschläfer",
+  "ru": "Исполинские козодои",
+  "ja": "タチヨタカ科",
+  "zh": "钩嘴夜鹰科",
+  "nl": "Reuzennachtzwaluwen",
+  "pl": "Nocoloty"
+ },
+ "Nyctibiiformes": {
+  "pl": "Nocolotowe"
+ },
+ "Oceanitidae": {
+  "en": "Austral storm petrel",
+  "fa": "مرغ توفان جنوبی",
+  "de": "Sturmschwalben",
+  "pt": "Oceanitídeos",
+  "ja": "アシナガウミツバメ科",
+  "zh": "南风暴海燕",
+  "nl": "Zuidelijke stormvogeltjes",
+  "pl": "Oceanniki"
+ },
+ "Odontophoridae": {
+  "en": "New World quail",
+  "fa": "بلدرچین جهان جدید",
+  "ar": "سمان العالم الجديد",
+  "de": "Zahnwachteln",
+  "pt": "Odontoforídeos",
+  "ru": "Зубчатоклювые куропатки",
+  "ja": "ナンベイウズラ科",
+  "zh": "齿鹑科",
+  "pl": "Przepiórowate"
+ },
+ "Onychorhynchidae": {
+  "fa": "مگسگیران پادشاهی",
+  "ja": "オウギタイランチョウ科",
+  "pl": "Królówki"
+ },
+ "Opisthocomidae": {
+  "fa": "کاکلبهپشتان",
+  "ar": "خلفيات القنزعة",
+  "ru": "Гоациновые",
+  "nl": "Hoatzin",
+  "pl": "Hoacyny"
+ },
+ "Opisthocomiformes": {
+  "es": "Opisthocomidae",
+  "ru": "Гоационообразные",
+  "nl": "Hoatzins"
+ },
+ "Oreoicidae": {
+  "fa": "زنگولهمرغان",
+  "de": "Haubendickköpfe",
+  "ja": "カンムリモズビタキ科",
+  "zh": "钟鹟科",
+  "nl": "Oreoica's",
+  "pl": "Górniki"
+ },
+ "Oriolidae": {
+  "en": "Old World oriole",
+  "fa": "پریشاهرخان",
+  "ar": "طيور الصفارية",
+  "fr": "loriot",
+  "de": "Pirole",
+  "ru": "иволговые",
+  "ja": "コウライウグイス科",
+  "zh": "黄鹂科",
+  "nl": "wielewalen en vijgvogels",
+  "pl": "Wilgi",
+  "tr": "Sarıasmagiller"
+ },
+ "Orthonychidae": {
+  "fa": "چوبپیمایان",
+  "ru": "Чаучиллы",
+  "ja": "ハシリチメドリ属",
+  "zh": "刺尾鸫属",
+  "pl": "Ziemnodrozdy",
+  "tr": "Orthonyx"
+ },
+ "Otididae": {
+  "en": "Bustard",
+  "fa": "هوبرهایان",
+  "ar": "حبارية",
+  "de": "Trappen",
+  "pt": "Abetarda",
+  "ru": "Дрофиные",
+  "ja": "ノガン科",
+  "zh": "鸨科",
+  "nl": "trappen",
+  "pl": "Dropie",
+  "tr": "Toygiller"
+ },
+ "Otidiformes": {
+  "ar": "حباريات",
+  "ru": "Дрофообразные",
+  "zh": "鸨形目"
+ },
+ "Oxyruncidae": {
+  "zh": "尖喙鸟科"
+ },
+ "Pachycephalidae": {
+  "fa": "سوتزنان",
+  "ar": "سميكات الرؤوس",
+  "de": "Dickköpfe",
+  "ru": "Свистуновые",
+  "ja": "モズヒタキ科",
+  "zh": "啸鹟科",
+  "nl": "dikkoppen en fluiters",
+  "pl": "Fletówki"
+ },
+ "Pandionidae": {
+  "en": "ospreys",
+  "ar": "عقبان نسارية",
+  "de": "Fischadler",
+  "ru": "скопиные",
+  "ja": "ミサゴ科",
+  "zh": "鹗科",
+  "nl": "Visarenden",
+  "pl": "Rybołowy"
+ },
+ "Panuridae": {
+  "ru": "Усатые синицы",
+  "zh": "文须雀科"
+ },
+ "Paradisaeidae": {
+  "en": "birds-of-paradise",
+  "fa": "پرندگان بهشتی",
+  "ar": "طائر الجنة",
+  "fr": "oiseau de Paradis",
+  "de": "Paradiesvögel",
+  "pt": "Ave-do-paraíso",
+  "ru": "райские птицы",
+  "ja": "フウチョウ科",
+  "zh": "极乐鸟科",
+  "nl": "paradijsvogels",
+  "pl": "cudowronki",
+  "tr": "Cennetkuşu"
+ },
+ "Paradoxornithidae": {
+  "fa": "طوطینوک",
+  "de": "Papageischnäbel",
+  "ru": "суторовые",
+  "ja": "ダルマエナガ科",
+  "zh": "鸦雀科",
+  "nl": "diksnavelmezen",
+  "pl": "Ogoniatki",
+  "tr": "Bıyıklı baştankaragiller"
+ },
+ "Paramythiidae": {
+  "en": "painted berrypecker",
+  "fa": "شاهتوتکوب نگارین",
+  "ar": "آكل التوت الملون",
+  "de": "Beerenfresser",
+  "ja": "カンムリハナドリ科",
+  "zh": "冠啄果鳥科",
+  "pl": "Jagodniki"
+ },
+ "Pardalotidae": {
+  "en": "Pardalotes",
+  "de": "Panthervögel",
+  "zh": "斑啄果鸟科",
+  "nl": "diamantvogels"
+ },
+ "Paridae": {
+  "en": "Tit",
+  "fa": "چرخریسک",
+  "ar": "قرقفيات",
+  "fr": "mésange",
+  "de": "Meisen",
+  "ru": "синицевые",
+  "ja": "シジュウカラ科",
+  "zh": "山雀科",
+  "nl": "Mezen",
+  "pl": "sikory",
+  "tr": "Baştankaragiller"
+ },
+ "Parulidae": {
+  "en": "New World warbler",
+  "fa": "چرخریسکیان",
+  "ar": "هوازج العالم الجديد",
+  "de": "Waldsänger",
+  "pt": "Parulídeos",
+  "ru": "Древесницевые",
+  "ja": "アメリカムシクイ科",
+  "zh": "森莺科",
+  "nl": "Amerikaanse zangers",
+  "pl": "Lasówki",
+  "tr": "Orman ötleğenigiller"
+ },
+ "Passerellidae": {
+  "en": "New World sparrow",
+  "fa": "گنجشکان جهان جدید",
+  "ar": "عصافير العالم الجديد",
+  "de": "Neuweltammern",
+  "pt": "Passerelídeos",
+  "ja": "ゴマフスズメ科",
+  "zh": "美洲鹀科",
+  "nl": "Amerikaanse gorzen",
+  "pl": "Pasówki"
+ },
+ "Passeridae": {
+  "en": "Old World sparrow",
+  "fa": "گنجشک",
+  "ar": "عصفورية",
+  "es": "paséridos",
+  "fr": "passéridés",
+  "de": "Sperlinge",
+  "pt": "passerídeos",
+  "ru": "воробьиные",
+  "ja": "スズメ科",
+  "zh": "雀科",
+  "nl": "Mussen",
+  "pl": "wróble",
+  "tr": "Serçe"
+ },
+ "Passeriformes": {
+  "en": "passerines",
+  "fa": "گنجشکسانان",
+  "ar": "جواثم",
+  "es": "paseriformes",
+  "fr": "passereaux",
+  "de": "Sperlingsvögel",
+  "ru": "воробьинообразные",
+  "ja": "スズメ目",
+  "zh": "雀形目",
+  "nl": "zangvogels",
+  "pl": "wróblowe",
+  "tr": "Ötücü kuşlar"
+ },
+ "Pedionomidae": {
+  "ru": "Австралийские странники",
+  "ja": "クビワミフウズラ科",
+  "nl": "Trapvechtkwartels"
+ },
+ "Pelecanidae": {
+  "en": "pelicans",
+  "fa": "پلیکانان",
+  "ar": "بجعية",
+  "de": "Pelikane",
+  "ru": "Пеликановые",
+  "ja": "ペリカン科",
+  "zh": "鹈鹕科",
+  "nl": "pelikanen",
+  "pl": "Pelikany",
+  "tr": "Pelikangiller"
+ },
+ "Pelecaniformes": {
+  "fa": "مرغسقاسانان",
+  "ar": "بجعيات",
+  "ru": "пеликанообразные",
+  "ja": "ペリカン目",
+  "zh": "鹈形目",
+  "nl": "roeipotigen",
+  "pl": "pelikanowe",
+  "tr": "Pelikanlar"
+ },
+ "Pellorneidae": {
+  "en": "Ground Babblers",
+  "fa": "لیکوییهای زمینی",
+  "ar": "حيتليات",
+  "de": "Drosslinge",
+  "ru": "Земляные тимелии",
+  "ja": "ジチメドリ科",
+  "zh": "幽鹛科",
+  "pl": "Dżunglaki"
+ },
+ "Petroicidae": {
+  "en": "Australasian robin",
+  "fa": "سینهسرخهای استرالزی",
+  "ar": "أبو الحناء الأسترالي",
+  "de": "Schnäpper",
+  "ru": "Австралийские малиновки",
+  "ja": "オーストラリアヒタキ科",
+  "zh": "鸲鹟科",
+  "nl": "Australische vliegenvangers",
+  "pl": "Skalinkowate"
+ },
+ "Peucedramidae": {},
+ "Phaenicophilidae": {
+  "fa": "فرخندههای هیسپانیولا",
+  "de": "Palmtangaren",
+  "ja": "ヤシフウキンチョウ科",
+  "zh": "长尾唐纳雀科",
+  "pl": "Hispaniolczyki"
+ },
+ "Phaethontidae": {
+  "fa": "مرغ گرمسیری",
+  "ar": "طيور استوائية",
+  "pt": "Rabo-de-palha",
+  "ru": "фаэтоновые",
+  "ja": "ネッタイチョウ属",
+  "zh": "鹲科",
+  "nl": "keerkringvogels"
+ },
+ "Phaethontiformes": {
+  "fa": "نوکسرخسانان",
+  "ar": "الطيور الاستوائية",
+  "de": "Tropikvögel",
+  "ru": "фаэтонообразные",
+  "zh": "鸏形目",
+  "pl": "Faetony"
+ },
+ "Phalacrocoracidae": {
+  "en": "Cormorant",
+  "fa": "باکلان",
+  "ar": "غاقيات",
+  "fr": "cormoran",
+  "de": "Kormorane",
+  "pt": "Corvo-marinho",
+  "ru": "баклановые",
+  "ja": "ウ科",
+  "zh": "鸕鶿科",
+  "nl": "Aalscholvers",
+  "pl": "kormorany",
+  "tr": "Karabatakgiller"
+ },
+ "Phasianidae": {
+  "fa": "قرقاولیان",
+  "ar": "تدرجية",
+  "de": "Fasanenartige",
+  "ru": "фазановые",
+  "ja": "キジ科",
+  "zh": "雉科",
+  "nl": "fazantachtigen",
+  "pl": "kurowate",
+  "tr": "Sülüngiller"
+ },
+ "Philepittidae": {
+  "en": "Asity",
+  "fa": "اسیتی",
+  "ar": "أسيتي",
+  "de": "Lappenpittas",
+  "ru": "Филепиттовые",
+  "ja": "マミヤイロチョウ科",
+  "zh": "裸眉鸫科",
+  "nl": "Asities",
+  "pl": "Brodawniki"
+ },
+ "Phoenicopteridae": {
+  "en": "Flamingos",
+  "fa": "بالآتشیان",
+  "ar": "نحامية",
+  "de": "Flamingo",
+  "ru": "Фламинговые",
+  "ja": "フラミンゴ",
+  "zh": "红鹳科",
+  "nl": "Flamingo's",
+  "pl": "flamingi"
+ },
+ "Phoenicopteriformes": {
+  "fa": "بالآتشیسانان",
+  "ar": "نحاميات",
+  "de": "Flamingos",
+  "ru": "Фламингообразные",
+  "ja": "フラミンゴ目",
+  "zh": "红鹳目",
+  "pl": "flamingowe"
+ },
+ "Phoeniculidae": {
+  "en": "Wood hoopoe",
+  "fa": "هدهدهای جنگلی",
+  "ar": "هداهد الغابات",
+  "de": "Baumhopfe",
+  "ru": "Древесные удоды",
+  "ja": "モリヤツガシラ科",
+  "zh": "林戴胜科",
+  "nl": "boomhoppen",
+  "pl": "Sierpodudki"
+ },
+ "Phylloscopidae": {
+  "fa": "سسکهای برگی",
+  "ar": "دخلات الورق",
+  "de": "Laubsängerartige",
+  "ru": "пеночковые",
+  "ja": "ムシクイ科",
+  "zh": "柳莺科",
+  "nl": "boszangers",
+  "pl": "świstunki"
+ },
+ "Picathartidae": {
+  "pt": "Picathartes",
+  "pl": "Sępowronki"
+ },
+ "Picidae": {
+  "en": "Woodpecker",
+  "fa": "دارکوب",
+  "ar": "نقار الخشب",
+  "de": "Spechte",
+  "pt": "Pica-pau",
+  "ru": "дятловые",
+  "ja": "キツツキ科",
+  "zh": "啄木鸟科",
+  "nl": "spechten",
+  "pl": "dzięciołowate",
+  "tr": "Ağaçkakangiller"
+ },
+ "Piciformes": {
+  "fa": "دارکوبسانان",
+  "ar": "نقاريات الشكل",
+  "es": "Piciforme",
+  "de": "Spechtvögel",
+  "ru": "дятлообразные",
+  "ja": "キツツキ目",
+  "zh": "鴷形目",
+  "nl": "spechtvogels",
+  "pl": "dzięciołowe",
+  "tr": "Ağaçkakansılar"
+ },
+ "Pipridae": {
+  "en": "Manakin",
+  "fa": "رنگینک",
+  "ar": "ماناكن",
+  "de": "Schnurrvögel",
+  "pt": "Piprídeos",
+  "ru": "Манакиновые",
+  "ja": "マイコドリ科",
+  "zh": "侏儒鸟科",
+  "nl": "Manakins",
+  "pl": "Gorzykowate"
+ },
+ "Pittidae": {
+  "en": "Pitta",
+  "fa": "پیتا",
+  "ar": "الغناجيات",
+  "de": "Pittas",
+  "ru": "Питтовые",
+  "ja": "ヤイロチョウ科",
+  "zh": "八色鸫科",
+  "nl": "pitta's",
+  "pl": "Kurtaczki"
+ },
+ "Pityriasidae": {
+  "ru": "Калимантанские сорокопуты"
+ },
+ "Platylophidae": {
+  "ja": "カンムリカケス科"
+ },
+ "Platysteiridae": {
+  "en": "Wattle-eye",
+  "fa": "پرندههای آوازخوان آفریقایی",
+  "de": "Afrikaschnäpper",
+  "ru": "Сережкоглазки",
+  "ja": "メガネヒタキ科",
+  "zh": "疣眼鹟科",
+  "pl": "Krępaczki"
+ },
+ "Ploceidae": {
+  "fa": "مرغ جولا",
+  "ar": "حباك",
+  "de": "Webervögel",
+  "pt": "Ploceinae",
+  "ru": "ткачиковые",
+  "ja": "ハタオリドリ科",
+  "zh": "织布鸟科",
+  "nl": "wevers en verwanten",
+  "pl": "Wikłaczowate"
+ },
+ "Pluvianellidae": {
+  "ru": "Магеллановы ржанки",
+  "nl": "Magelhaenplevieren"
+ },
+ "Pluvianidae": {},
+ "Pnoepygidae": {
+  "ru": "Бесхвостковые",
+  "zh": "鳞胸鹪鹛科"
+ },
+ "Podargidae": {
+  "en": "Frogmouth",
+  "fa": "دهان قورباغهای",
+  "ar": "فم الضفدع",
+  "de": "Eulenschwalme",
+  "pt": "Boca-de-sapo",
+  "ru": "Лягушкороты",
+  "ja": "ガマグチヨタカ科",
+  "zh": "蟆口鸱科",
+  "nl": "Uilnachtzwaluwen",
+  "pl": "Paszczaki"
+ },
+ "Podargiformes": {
+  "pl": "Paszczakowe"
+ },
+ "Podicipedidae": {
+  "en": "Grebe",
+  "fa": "کشیم",
+  "ar": "غطاسيات",
+  "de": "Lappentaucher",
+  "ru": "Поганковые",
+  "ja": "カイツブリ科",
+  "zh": "鷿鷈科",
+  "nl": "futen",
+  "pl": "perkozy",
+  "tr": "Batağan"
+ },
+ "Podicipediformes": {
+  "ar": "غطاسيات",
+  "de": "Lappentaucher",
+  "ru": "Поганкообразные",
+  "zh": "䴙䴘目",
+  "pl": "perkozowe"
+ },
+ "Polioptilidae": {
+  "en": "Gnatcatcher",
+  "fa": "پشهگیر",
+  "de": "Mückenfänger",
+  "ru": "Комароловы",
+  "ja": "ブユムシクイ科",
+  "zh": "蚋莺科",
+  "nl": "Muggenvangers",
+  "pl": "Siwuszki"
+ },
+ "Pomatostomidae": {
+  "en": "Australo-Papuan babbler",
+  "fa": "لیکویینما",
+  "ar": "ثرثار أستراليا",
+  "de": "Australsäbler",
+  "ru": "Шилоклювые тимелии",
+  "ja": "オーストラリアマルハシ科",
+  "zh": "弯嘴鹛科",
+  "pl": "Stadniaki",
+  "tr": "Pomatostomus"
+ },
+ "Procellariidae": {
+  "fa": "تندبادان",
+  "ar": "نوئية",
+  "de": "Sturmvögel",
+  "pt": "Procelariídeos",
+  "ru": "Буревестниковые",
+  "ja": "ミズナギドリ科",
+  "zh": "鹱科",
+  "nl": "Stormvogels en pijlstormvogels",
+  "pl": "Burzykowate",
+  "tr": "Yelkovangiller"
+ },
+ "Procellariiformes": {
+  "fa": "کبوتردریاییسانان",
+  "ar": "نوئيات",
+  "de": "Röhrennasen",
+  "ru": "Буревестникообразные",
+  "ja": "ミズナギドリ目",
+  "zh": "鹱形目",
+  "nl": "buissnaveligen",
+  "pl": "Rurkonose",
+  "tr": "Tüp burunlu kuşlar"
+ },
+ "Promeropidae": {
+  "en": "sugarbird",
+  "fa": "شکرمرغها",
+  "ar": "حيقل",
+  "de": "Honigvögel",
+  "pt": "Papa-açúcar",
+  "ru": "Сахарные медососы",
+  "ja": "オナガミツスイ科",
+  "zh": "长尾食蜜鸟属",
+  "nl": "Afrikaanse suikervogels",
+  "pl": "Dudkowce"
+ },
+ "Prunellidae": {
+  "fa": "صعوه",
+  "de": "Braunellen",
+  "ru": "Завирушковые",
+  "ja": "イワヒバリ属",
+  "zh": "岩鹨科",
+  "nl": "heggenmussen",
+  "pl": "Płochacze",
+  "tr": "Dağ bülbülügiller"
+ },
+ "Psittacidae": {
+  "fa": "طوطی",
+  "ar": "ببغائية",
+  "de": "Eigentliche Papageien",
+  "pt": "Psitacídeos",
+  "ru": "попугаевые",
+  "ja": "ヨウム科",
+  "zh": "金刚鹦鹉科",
+  "nl": "papegaaien van Afrika en de Nieuwe Wereld",
+  "pl": "papugowate",
+  "tr": "Papağangiller"
+ },
+ "Psittaciformes": {
+  "en": "parrot",
+  "fa": "طوطیسانان",
+  "ar": "ببغاء",
+  "es": "psitaciformes",
+  "de": "Papageien",
+  "pt": "Psitaciformes",
+  "ru": "попугаеобразные",
+  "ja": "オウム目",
+  "zh": "鹦形目",
+  "nl": "papegaaiachtigen",
+  "pl": "papugowe",
+  "tr": "papağan"
+ },
+ "Psittaculidae": {
+  "fa": "طوطیکان",
+  "ar": "ببغاوات العالم القديم",
+  "es": "Psitacúlidos",
+  "de": "Altweltpapageien",
+  "pt": "Psitaculídeos",
+  "ja": "インコ科",
+  "zh": "鹦鹉科",
+  "nl": "papegaaien van de Oude Wereld",
+  "pl": "Papugi wschodnie"
+ },
+ "Psophiidae": {
+  "fa": "مرغ جارچی",
+  "ar": "بواق",
+  "ru": "Трубачи",
+  "ja": "ラッパチョウ属",
+  "zh": "喇叭鸟科",
+  "nl": "trompetvogels",
+  "pl": "Gruchacze",
+  "tr": "Borazan kuşu"
+ },
+ "Psophodidae": {
+  "fa": "نوکشلاقیان",
+  "ar": "سوطيات المنقار",
+  "de": "Australflöter",
+  "ru": "Cinclosomatidae",
+  "ja": "シラヒゲドリ科",
+  "zh": "啸冠鸫科",
+  "pl": "Trzaskacze"
+ },
+ "Pteroclidae": {
+  "en": "Sandgrouse",
+  "fa": "کوکر",
+  "ar": "قطويات",
+  "es": "Pterocliformes",
+  "fr": "Pterocliformes",
+  "de": "Flughühner",
+  "pt": "Cortiçol",
+  "ru": "Рябковые",
+  "ja": "サケイ科",
+  "zh": "沙鸡科",
+  "nl": "zandhoenders",
+  "pl": "stepówki",
+  "tr": "Bağırtlakgiller"
+ },
+ "Pterocliformes": {
+  "en": "Pteroclidiformes",
+  "de": "Pteroclidiformes",
+  "ja": "サケイ目",
+  "zh": "沙鸡目",
+  "nl": "Zandhoenderachtigen",
+  "pl": "Stepówki"
+ },
+ "Ptiliogonatidae": {},
+ "Ptilonorhynchidae": {
+  "en": "Bowerbird",
+  "fa": "مرغ کریچساز",
+  "ar": "رخيميات",
+  "de": "Laubenvögel",
+  "ru": "Шалашниковые",
+  "ja": "ニワシドリ科",
+  "zh": "园丁鸟科",
+  "nl": "prieelvogels",
+  "pl": "Altanniki"
+ },
+ "Pycnonotidae": {
+  "en": "Bulbul",
+  "fa": "بلبلان",
+  "ar": "بلبل",
+  "de": "Bülbüls",
+  "ru": "Бюльбюлевые",
+  "ja": "ヒヨドリ科",
+  "zh": "鹎科",
+  "nl": "buulbuuls",
+  "pl": "bilbile",
+  "tr": "Arap bülbülügiller"
+ },
+ "Rallidae": {
+  "en": "Rail",
+  "fa": "یلوگان",
+  "ar": "تفلقية",
+  "de": "Rallen",
+  "pt": "Ralídeos",
+  "ru": "Пастушковые",
+  "ja": "クイナ科",
+  "zh": "秧鸡科",
+  "nl": "rallen, koeten en waterhoentjes",
+  "pl": "Chruściele",
+  "tr": "Yelvegiller"
+ },
+ "Ramphastidae": {
+  "en": "toucan",
+  "fa": "توکان",
+  "ar": "طوقانية",
+  "es": "Tucanes",
+  "fr": "toucan",
+  "de": "Tukane",
+  "pt": "tucano",
+  "ru": "Тукановые",
+  "ja": "オオハシ科",
+  "zh": "大嘴鳥",
+  "nl": "toekans",
+  "pl": "Tukanowate",
+  "tr": "Tukan"
+ },
+ "Recurvirostridae": {
+  "fa": "نوکخنجریان",
+  "ar": "نكاتية",
+  "de": "Säbelschnäbler",
+  "ru": "Шилоклювковые",
+  "ja": "セイタカシギ科",
+  "zh": "反嘴鹬科",
+  "nl": "kluten",
+  "pl": "Szczudłonogi",
+  "tr": "Kılıçgagagiller"
+ },
+ "Regulidae": {
+  "de": "Goldhähnchen",
+  "ru": "Корольковые",
+  "zh": "戴菊科",
+  "pl": "Mysikróliki",
+  "tr": "Çalı kuşugiller"
+ },
+ "Remizidae": {
+  "en": "Penduline tit",
+  "fa": "چرخریسک پشتبلوطی",
+  "ar": "رميزية",
+  "de": "Beutelmeisen",
+  "ru": "ремезы",
+  "ja": "ツリスガラ科",
+  "zh": "攀雀科",
+  "nl": "Buidelmezen",
+  "pl": "Remizy",
+  "tr": "Çulha kuşugiller"
+ },
+ "Rhagologidae": {
+  "en": "berryhunters",
+  "ja": "フイリモズヒタキ科"
+ },
+ "Rheidae": {
+  "en": "Rheas",
+  "fa": "شترمرغان آمریکایی",
+  "ar": "رياوية",
+  "ru": "Нанду",
+  "zh": "美洲鸵科",
+  "nl": "Nandoes",
+  "pl": "Nandu"
+ },
+ "Rheiformes": {
+  "en": "Rheas",
+  "fa": "شترمرغسانان آمریکایی",
+  "ar": "رياويات",
+  "es": "Ñandú",
+  "fr": "Nandou",
+  "pt": "Ema",
+  "ru": "Нандуобразные",
+  "ja": "レア目",
+  "zh": "美洲鸵鸟目",
+  "nl": "Nandoes"
+ },
+ "Rhinocryptidae": {
+  "en": "Tapaculo",
+  "fa": "دمسیخ",
+  "ar": "رمازيات",
+  "de": "Bürzelstelzer",
+  "ru": "топаколовые",
+  "ja": "オタテドリ科",
+  "zh": "窜鸟科",
+  "nl": "Tapaculo's",
+  "pl": "Krytonosowate"
+ },
+ "Rhipiduridae": {
+  "en": "Fantails",
+  "fa": "دمبادبزنیان",
+  "ar": "ربدوريات",
+  "de": "Fächerschwänze",
+  "pt": "Rhipidura",
+  "ru": "Веерохвостковые",
+  "ja": "オウギビタキ属",
+  "zh": "扇尾鹟科",
+  "nl": "waaierstaarten",
+  "pl": "Wachlarzówkowate"
+ },
+ "Rhodinocichlidae": {},
+ "Rhynochetidae": {
+  "fa": "آفتاببوتیمارسانان",
+  "zh": "鷺鶴屬",
+  "nl": "Kagoes",
+  "pl": "Kagu"
+ },
+ "Rostratulidae": {
+  "en": "Painted-snipe",
+  "fa": "پاشلک شالگردنی",
+  "ar": "جوانيات",
+  "de": "Goldschnepfen",
+  "ru": "цветные бекасы",
+  "ja": "タマシギ科",
+  "zh": "彩鹬科",
+  "nl": "Goudsnippen",
+  "pl": "Złotosłonki"
+ },
+ "Sagittariidae": {
+  "fa": "دبیرمرغان",
+  "ar": "نابلية",
+  "de": "Sekretäre",
+  "ru": "Птицы-секретари",
+  "zh": "鹭鹰科",
+  "nl": "secretarisvogels"
+ },
+ "Salpornithidae": {
+  "nl": "gevlekte boomkruipers",
+  "pl": "Pełźce"
+ },
+ "Sapayoidae": {
+  "tr": "Sapayoaidae"
+ },
+ "Sarothruridae": {
+  "fa": "دمکرکیان",
+  "de": "Besenschwanzrallen",
+  "ja": "アフリカクイナ科",
+  "zh": "侏秧鸡科",
+  "pl": "Kusokurki"
+ },
+ "Scolopacidae": {
+  "en": "Sandpiper",
+  "fa": "آبچلیک",
+  "ar": "دجاج الأرض",
+  "de": "Schnepfenvögel",
+  "ru": "бекасовые",
+  "ja": "シギ科",
+  "zh": "鹬科",
+  "nl": "strandlopers en snippen",
+  "pl": "bekasowate",
+  "tr": "Çullukgiller"
+ },
+ "Scopidae": {
+  "de": "Hammerköpfe",
+  "ru": "Молотоглавые",
+  "nl": "Hamerkop",
+  "pl": "warugi"
+ },
+ "Semnornithidae": {
+  "fa": "ریشمرغان توکانی"
+ },
+ "Sittidae": {
+  "fa": "کمرکولی",
+  "ar": "خازنات البندق",
+  "pt": "Trepadeira",
+  "ru": "поползневые",
+  "ja": "ゴジュウカラ科",
+  "zh": "䴓科",
+  "nl": "boomklevers",
+  "pl": "kowalikowate"
+ },
+ "Spheniscidae": {
+  "en": "penguin",
+  "fa": "پنگوئن",
+  "ar": "بطريق",
+  "es": "pingüino",
+  "fr": "manchot",
+  "de": "Pinguine",
+  "pt": "pinguim",
+  "ru": "пингвиновые",
+  "ja": "ペンギン",
+  "zh": "企鵝科",
+  "nl": "pinguïns",
+  "pl": "pingwiny",
+  "tr": "Penguen"
+ },
+ "Sphenisciformes": {
+  "en": "Penguins",
+  "fa": "پنگوئن",
+  "ar": "بطريقيات",
+  "es": "Pingüino",
+  "de": "Pinguine",
+  "pt": "Pinguim",
+  "ru": "пингвинообразные",
+  "ja": "ペンギン",
+  "zh": "企鹅目",
+  "nl": "Pinguïns",
+  "pl": "Pingwiny",
+  "tr": "Penguenler"
+ },
+ "Steatornithidae": {
+  "fa": "مرغان روغنی",
+  "de": "Fettschwalme",
+  "ru": "Гуахаро",
+  "ja": "アブラヨタカ科",
+  "zh": "油鸱科"
+ },
+ "Steatornithiformes": {
+  "ja": "アブラヨタカ目",
+  "zh": "油鸱目"
+ },
+ "Stenostiridae": {
+  "fa": "مگسگیرهای پریسا",
+  "ar": "خطاف الذباب الجني",
+  "de": "Elfenschnäpper",
+  "ru": "Стеностировые",
+  "ja": "センニョヒタキ科",
+  "zh": "玉鹟科",
+  "pl": "Owadówki"
+ },
+ "Stercorariidae": {
+  "en": "Skua",
+  "fa": "قاپو",
+  "ar": "كركرات",
+  "de": "Raubmöwen",
+  "pt": "Mandrião",
+  "ru": "Поморниковые",
+  "ja": "トウゾクカモメ科",
+  "zh": "贼鸥科",
+  "nl": "Jagers",
+  "pl": "Wydrzyki",
+  "tr": "Korsanmartıgiller"
+ },
+ "Strigidae": {
+  "en": "true owls",
+  "fa": "جغد معمولی",
+  "ar": "بوم حقيقي",
+  "es": "Estrígidos",
+  "fr": "Strigidés",
+  "de": "Eigentliche Eulen",
+  "pt": "Estrigídeos",
+  "ru": "совиные",
+  "ja": "フクロウ科",
+  "zh": "鸱鸮科",
+  "nl": "echte uilen",
+  "pl": "puszczykowate",
+  "tr": "Baykuşgiller"
+ },
+ "Strigiformes": {
+  "en": "Owl",
+  "fa": "جغدسانان",
+  "ar": "بوميات",
+  "es": "búho",
+  "de": "Eulen",
+  "ru": "совообразные",
+  "ja": "フクロウ目",
+  "zh": "鸮形目",
+  "nl": "uilen",
+  "pl": "sowy",
+  "tr": "Baykuş"
+ },
+ "Strigopidae": {
+  "en": "New Zealand parrot",
+  "fa": "طوطی نیوزیلندی",
+  "ar": "السَّدَّافيَّة",
+  "es": "Strigopoidea",
+  "ja": "フクロウオウム科",
+  "zh": "鸮面鹦鹉科",
+  "pl": "kakapowate",
+  "tr": "Yeni Zelanda papağanı"
+ },
+ "Struthionidae": {
+  "fa": "شترمرغان",
+  "ar": "نعامية",
+  "fr": "Struthionidés",
+  "de": "Strauße",
+  "ru": "Страусовые",
+  "ja": "ダチョウ科",
+  "zh": "鸵鸟科",
+  "nl": "Struisvogels"
+ },
+ "Struthioniformes": {
+  "fa": "بیتیغهها",
+  "ar": "نعاميات",
+  "de": "Laufvögel",
+  "pt": "Estrutioniformes",
+  "ru": "Страусообразные",
+  "ja": "ダチョウ目",
+  "zh": "鸵鸟目",
+  "pl": "strusie",
+  "tr": "Deve kuşları"
+ },
+ "Sturnidae": {
+  "en": "Starling",
+  "fa": "سار",
+  "ar": "زرزوريات",
+  "de": "Stare",
+  "pt": "Esturnídeos",
+  "ru": "скворцовые",
+  "ja": "ムクドリ科",
+  "zh": "椋鸟科",
+  "nl": "spreeuwen",
+  "pl": "Szpakowate",
+  "tr": "Sığırcık"
+ },
+ "Sulidae": {
+  "fa": "بوبیان",
+  "ar": "أطيش",
+  "de": "Tölpel",
+  "pt": "Sulídeos",
+  "ru": "олушевые",
+  "ja": "カツオドリ科",
+  "zh": "鲣鸟科",
+  "nl": "genten",
+  "pl": "Głuptaki",
+  "tr": "Sümsük kuşugiller"
+ },
+ "Suliformes": {
+  "fa": "بوبیسانان",
+  "ar": "أطيشيات",
+  "ru": "олушеобразные",
+  "ja": "カツオドリ目",
+  "zh": "鲣鸟目",
+  "pl": "głuptakowe"
+ },
+ "Sylviidae": {
+  "fa": "سسکان",
+  "ar": "دخلية",
+  "de": "Grasmückenartige",
+  "ru": "Славковые",
+  "ja": "ズグロムシクイ科",
+  "zh": "莺科",
+  "nl": "zangers",
+  "pl": "pokrzewki",
+  "tr": "Ötleğengiller"
+ },
+ "Teretistridae": {},
+ "Thamnophilidae": {
+  "en": "Antbird",
+  "fa": "مورچهمرغ",
+  "ar": "طائر النمل",
+  "de": "Ameisenvögel",
+  "pt": "Tamnofilídeos",
+  "ru": "Типичные муравьеловковые",
+  "ja": "アリドリ科",
+  "zh": "蟻鵙科",
+  "pl": "Chronkowate"
+ },
+ "Thinocoridae": {
+  "en": "seedsnipe",
+  "fa": "دانهپاشلک",
+  "ar": "جهلول الحبوب",
+  "de": "Höhenläufer",
+  "ru": "Зобатые бегунки",
+  "ja": "ヒバリチドリ科",
+  "zh": "籽鹬科",
+  "nl": "Kwartelsnippen",
+  "pl": "Andówki"
+ },
+ "Thraupidae": {
+  "en": "Tanager",
+  "fa": "تناجر",
+  "ar": "تناجر",
+  "de": "Tangaren",
+  "pt": "Traupídeos",
+  "ru": "танагровые",
+  "ja": "フウキンチョウ科",
+  "zh": "裸鼻雀科",
+  "nl": "Tangaren",
+  "pl": "Tanagrowate",
+  "tr": "Tangaragiller"
+ },
+ "Threskiornithidae": {
+  "en": "Ibises and Spoonbills",
+  "fa": "مرغمقدسیان",
+  "ar": "أبو منجليات",
+  "de": "Ibisvögel",
+  "ru": "Ибисовые",
+  "ja": "トキ科",
+  "zh": "鹮科",
+  "nl": "ibissen en lepelaars",
+  "pl": "Ibisowate",
+  "tr": "Aynakgiller"
+ },
+ "Tichodromidae": {
+  "ja": "カベバシリ科",
+  "zh": "旋壁雀科"
+ },
+ "Timaliidae": {
+  "fa": "پرنده فضول دنیای کهن",
+  "ar": "ثرثار العالم القديم",
+  "de": "Timalien",
+  "pt": "Timaliídeos",
+  "ru": "тимелиевые",
+  "ja": "マルハシ科",
+  "zh": "画眉科",
+  "nl": "Timalia's",
+  "pl": "Tymaliowate"
+ },
+ "Tinamidae": {
+  "en": "Tinamou",
+  "fa": "وشم",
+  "ar": "تناميات",
+  "fr": "Tinamiformes",
+  "de": "Steißhühner",
+  "pt": "Tinamiformes",
+  "ru": "тинаму",
+  "ja": "シギダチョウ科",
+  "zh": "䳍科",
+  "nl": "Tinamoes",
+  "pl": "Kusacze",
+  "tr": "Tinamular"
+ },
+ "Tinamiformes": {
+  "en": "Tinamous",
+  "ar": "تناميات",
+  "es": "Tinamúes",
+  "fr": "Tinamous",
+  "de": "Steißhühner",
+  "pt": "Tinamideos",
+  "ru": "Тинамуобразные",
+  "ja": "シギダチョウ目",
+  "nl": "Tinamoes",
+  "pl": "kusacze"
+ },
+ "Tityridae": {
+  "fa": "تیتیریدا",
+  "ar": "رصاديات",
+  "de": "Bekarden",
+  "pt": "Titirídeos",
+  "ru": "Титировые",
+  "ja": "ハグロドリ科",
+  "zh": "南美霸鹟科",
+  "pl": "Bekardy"
+ },
+ "Todidae": {
+  "en": "Tody",
+  "fa": "تودیان",
+  "de": "Todis",
+  "pt": "Toda",
+  "ru": "Тодиевые",
+  "nl": "Todies",
+  "pl": "Płaskodziobki",
+  "tr": "Todigiller"
+ },
+ "Trochilidae": {
+  "en": "Hummingbird",
+  "fa": "مگسمرغ",
+  "ar": "طنان",
+  "de": "Kolibris",
+  "pt": "Beija-flor",
+  "ru": "колибри",
+  "ja": "ハチドリ",
+  "zh": "蜂鸟科",
+  "nl": "Kolibries",
+  "pl": "kolibry",
+  "tr": "Sinek kuşu"
+ },
+ "Troglodytidae": {
+  "en": "Wren",
+  "fa": "الیکایی",
+  "ar": "نمنمة",
+  "de": "Zaunkönige",
+  "pt": "Trogloditídeos",
+  "ru": "крапивниковые",
+  "ja": "ミソサザイ科",
+  "zh": "鹪鹩科",
+  "nl": "winterkoningen",
+  "pl": "Strzyżyki",
+  "tr": "Çit kuşugiller"
+ },
+ "Trogonidae": {
+  "en": "trogon",
+  "fa": "تروگون",
+  "ar": "نهاسية",
+  "de": "Trogone",
+  "pt": "Trogoniformes",
+  "ru": "Трогоновые",
+  "ja": "キヌバネドリ科",
+  "zh": "咬鹃科",
+  "nl": "Trogons",
+  "pl": "Trogony"
+ },
+ "Trogoniformes": {
+  "de": "Trogone",
+  "ru": "Трогонообразные",
+  "zh": "咬鹃目",
+  "nl": "Trogons",
+  "tr": "Trogonlar"
+ },
+ "Turdidae": {
+  "en": "Thrush",
+  "fa": "توکایان",
+  "ar": "سمنة",
+  "de": "Drosseln",
+  "pt": "Turdídeos",
+  "ru": "Дроздовые",
+  "ja": "ツグミ科",
+  "zh": "鸫科",
+  "nl": "lijsters",
+  "pl": "drozdowate",
+  "tr": "Karatavukgiller"
+ },
+ "Turnicidae": {
+  "en": "Buttonquail",
+  "fa": "سلیمسانان بوتونکوایل",
+  "ar": "نغبوقيات",
+  "de": "Laufhühnchen",
+  "ru": "трёхпёрстки",
+  "ja": "ミフウズラ科",
+  "zh": "三趾鹑科",
+  "nl": "Vechtkwartels",
+  "pl": "Przepiórniki",
+  "tr": "Üç parmaklı bıldırcıngiller"
+ },
+ "Tyrannidae": {
+  "en": "Tyrant flycatcher",
+  "fa": "ژیانمرغ",
+  "ar": "عصافير الملك",
+  "de": "Tyrannen",
+  "pt": "Tiranídeos",
+  "ru": "Тиранновые",
+  "ja": "タイランチョウ科",
+  "zh": "霸鶲科",
+  "nl": "Tirannen",
+  "pl": "tyrankowate"
+ },
+ "Tytonidae": {
+  "en": "Barn Owls",
+  "fa": "جغدان انبار",
+  "ar": "طيطونيات",
+  "es": "Titónidos",
+  "fr": "Tytonidés",
+  "de": "Schleiereulen",
+  "ru": "Сипуховые",
+  "ja": "メンフクロウ科",
+  "zh": "草鸮科",
+  "nl": "kerkuilen",
+  "pl": "płomykówkowate",
+  "tr": "Peçeli baykuşgiller"
+ },
+ "Unknown": {},
+ "Upupidae": {
+  "en": "Hoopoe",
+  "fa": "هدهد",
+  "ar": "هدهدية",
+  "es": "abubillas",
+  "de": "Wiedehopfe",
+  "pt": "Poupa",
+  "ru": "Удодовые",
+  "ja": "ヤツガシラ科",
+  "zh": "戴胜科",
+  "nl": "hoppen",
+  "pl": "Dudki"
+ },
+ "Urocynchramidae": {
+  "ja": "バライロマシコ科",
+  "zh": "朱鹀科"
+ },
+ "Vangidae": {
+  "en": "Vanga",
+  "fa": "وانگا",
+  "ar": "فانكية",
+  "de": "Vangawürger",
+  "ru": "Ванговые",
+  "ja": "オオハシモズ科",
+  "zh": "钩嘴鵙科",
+  "nl": "Vanga's",
+  "pl": "Wangowate"
+ },
+ "Viduidae": {
+  "fa": "نیلیمرغان",
+  "ar": "أرمليات",
+  "es": "Vidua",
+  "de": "Witwenvögel",
+  "pt": "Vidua",
+  "ru": "Вдовушковые",
+  "ja": "テンニンチョウ属",
+  "zh": "维达雀科",
+  "pl": "Wdówki"
+ },
+ "Vireonidae": {
+  "en": "Vireo",
+  "fa": "ویرئو",
+  "ar": "صادح",
+  "de": "Vireos",
+  "ru": "Виреоновые",
+  "ja": "モズモドキ科",
+  "zh": "绿鹃科",
+  "nl": "Vireo's",
+  "pl": "Wireonkowate"
+ },
+ "Zeledoniidae": {
+  "ja": "ズアカサザイ科",
+  "pl": "Zeledonki"
+ },
+ "Zosteropidae": {
+  "en": "White-eye",
+  "fa": "چشمسفید",
+  "ar": "أبيض العين",
+  "de": "Brillenvögel",
+  "ru": "Белоглазковые",
+  "ja": "メジロ科",
+  "zh": "绣眼鸟科",
+  "nl": "brilvogels",
+  "pl": "Szlarniki"
+ }
+}

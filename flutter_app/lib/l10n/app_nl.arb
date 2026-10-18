@@ -198,5 +198,12 @@
   "missingInformationHint": "Voor deze soort zijn voor deze velden nog geen gegevens verzameld.",
   "expertCuratedNote": "Informatie over diergeneeskundige zorg en verrijking wordt door experts geschreven en bestaat maar voor enkele soorten.",
   "eggLength": "Eilengte",
-  "eggWidth": "Eibreedte"
+  "eggWidth": "Eibreedte",
+  "rangeSize": "Grootte van het leefgebied",
+  "restrictedRange": "Beperkt verspreidingsgebied",
+  "siteStatistics": "Sitestatistieken",
+  "understoodAs": "Opgevat als",
+  "ignoredWords": "Genegeerd",
+  "showingResultsFor": "Resultaten voor",
+  "photoBy": "Foto"
 }

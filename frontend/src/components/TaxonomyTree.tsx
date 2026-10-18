@@ -3,7 +3,8 @@
 import TrackedLink from './TrackedLink';
 import { memo, useMemo, useState } from 'react';
 import { useI18n } from '@/lib/i18n/I18nProvider';
-import { nameFromTree } from '@/lib/i18n/translate';
+import { displayName, nameFromTree } from '@/lib/i18n/translate';
+import { taxonLabel } from '@/lib/i18n/taxa';
 
 type Genus = any[]; // species entries: { scientific, common_en, common_fa, names?, id }
 type Tree = Record<string, Record<string, Record<string, Genus>>>;
@@ -25,7 +26,8 @@ function Chevron({ open }: { open: boolean }) {
 function Row({
   label, count, open, onToggle, level,
 }: { label: string; count: number; open: boolean; onToggle: () => void; level: number }) {
-  const { t } = useI18n();
+  const { t, lang } = useI18n();
+  const local = level < 2 ? taxonLabel(lang, label) : ''; // orders and families have common names, genera do not
   return (
     <button
       type="button"
@@ -37,6 +39,7 @@ function Row({
       <span className={`${level === 0 ? 'font-semibold text-gray-900' : level === 1 ? 'font-medium text-gray-800' : 'text-sm text-gray-700'}`} dir="ltr">
         {label}
       </span>
+      {local && <span className="truncate text-sm text-stone-500">{local}</span>}
       <span className="text-xs text-gray-400 ms-auto">{t('speciesCount', { count: count.toLocaleString() })}</span>
     </button>
   );
@@ -47,7 +50,7 @@ const SpeciesRows = memo(function SpeciesRows({ species }: { species: Genus }) {
   return (
     <ul className="ms-6 border-s border-gray-200 ps-2 space-y-0.5">
       {species.map((sp) => {
-        const name = nameFromTree(sp, lang);
+        const name = displayName(lang, nameFromTree(sp, lang));
         return (
           <li key={sp.id || sp.scientific}>
             <TrackedLink

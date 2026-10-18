@@ -198,5 +198,21 @@
   "missingInformationHint": "No data has been collected for these fields for this species yet.",
   "expertCuratedNote": "Veterinary care and enrichment information is written by experts and exists for only a few species.",
   "eggLength": "Egg Length",
-  "eggWidth": "Egg Width"
+  "eggWidth": "Egg Width",
+  "rangeSize": "Range Size",
+  "restrictedRange": "Restricted Range",
+  "siteStatistics": "Site statistics",
+  "@siteStatistics": {
+    "description": "Footer link to the public statistics page"
+  },
+  "understoodAs": "Understood as",
+  "ignoredWords": "Not used",
+  "showingResultsFor": "Showing results for",
+  "@understoodAs": {
+    "description": "Label before how a search sentence was interpreted (e.g. Endangered, Forest)"
+  },
+  "photoBy": "Photo",
+  "@photoBy": {
+    "description": "Label before the photographer credit under a species photo"
+  }
 }

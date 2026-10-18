@@ -198,5 +198,12 @@
   "missingInformationHint": "Todavía no se han reunido datos de estos campos para esta especie.",
   "expertCuratedNote": "La información veterinaria y de enriquecimiento la redactan expertos y existe solo para unas pocas especies.",
   "eggLength": "Longitud del huevo",
-  "eggWidth": "Anchura del huevo"
+  "eggWidth": "Anchura del huevo",
+  "rangeSize": "Tamaño del área de distribución",
+  "restrictedRange": "Área de distribución restringida",
+  "siteStatistics": "Estadísticas del sitio",
+  "understoodAs": "Entendido como",
+  "ignoredWords": "Ignorado",
+  "showingResultsFor": "Resultados para",
+  "photoBy": "Foto"
 }

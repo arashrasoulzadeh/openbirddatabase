@@ -32,6 +32,14 @@ describe('help texts', () => {
   });
 });
 
+describe('foraging styles', () => {
+  it('has a plain-language description for all 32 styles', () => {
+    const niches = Object.keys(table).filter((k) => k.startsWith('niche.'));
+    expect(niches).toHaveLength(32);
+    expect(helpText('es', 'niche.fruit_aerial')).toBe('Fruta tomada mientras vuela suspendida');
+  });
+});
+
 describe('realms', () => {
   it('splits combined codes, ignores case, duplicates and unknown letters', () => {
     expect(splitRealms(['LN', 'p', 'L', '?', 'x'])).toEqual(['L', 'N', 'P']);

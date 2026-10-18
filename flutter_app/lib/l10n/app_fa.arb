@@ -198,5 +198,12 @@
   "missingInformationHint": "برای این گونه هنوز داده‌ای برای این فیلدها جمع‌آوری نشده است.",
   "expertCuratedNote": "اطلاعات مراقبت‌های دامپزشکی و غنی‌سازی را متخصصان می‌نویسند و فقط برای چند گونه موجود است.",
   "eggLength": "طول تخم",
-  "eggWidth": "عرض تخم"
+  "eggWidth": "عرض تخم",
+  "rangeSize": "اندازهٔ گسترهٔ پراکنش",
+  "restrictedRange": "گسترهٔ محدود",
+  "siteStatistics": "آمار سایت",
+  "understoodAs": "برداشت جستجو",
+  "ignoredWords": "نادیده گرفته شد",
+  "showingResultsFor": "نتایج برای",
+  "photoBy": "عکس"
 }

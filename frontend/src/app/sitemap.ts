@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [{ url: SITE_URL, changeFrequency: 'weekly', priority: 1 }];
   try {
-    const tree = await getTaxonomy();
+    const tree = await getTaxonomy('en');
     for (const families of Object.values<any>(tree)) {
       for (const genera of Object.values<any>(families)) {
         for (const species of Object.values<any[]>(genera)) {

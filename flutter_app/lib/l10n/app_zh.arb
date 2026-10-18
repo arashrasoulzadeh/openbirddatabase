@@ -198,5 +198,12 @@
   "missingInformationHint": "该物种这些字段的数据尚未收集。",
   "expertCuratedNote": "兽医护理和丰容信息由专家撰写，仅部分物种有此内容。",
   "eggLength": "卵长",
-  "eggWidth": "卵宽"
+  "eggWidth": "卵宽",
+  "rangeSize": "分布范围面积",
+  "restrictedRange": "分布范围狭窄",
+  "siteStatistics": "网站统计",
+  "understoodAs": "理解为",
+  "ignoredWords": "已忽略",
+  "showingResultsFor": "显示结果：",
+  "photoBy": "照片"
 }

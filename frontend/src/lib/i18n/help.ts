@@ -1,7 +1,7 @@
-import help from './help.json';
+import { tables } from './store';
 import { Lang } from './locales';
 
-const table = help as Record<string, Record<string, string>>;
+const table = tables.help;
 
 /** Plain-language explanation for a key like "field.habitat.primary" or "value.Resident"; falls back to English. */
 export function helpText(lang: Lang, key: string): string | undefined {
@@ -60,6 +60,7 @@ export function formatMeasurement(lang: Lang, path: string, value: number, unitW
   const digits = Number.isInteger(value) ? 0 : value >= 100 ? 0 : value >= 10 ? 1 : 2;
   const text = new Intl.NumberFormat(lang, { maximumFractionDigits: digits }).format(value);
   if (name === 'density_individuals_per_km2') return `${text} / km²`;
+  if (name === 'range_size_km2') return `${text} km²`;
   if (name.endsWith('_days')) return `${text} ${unitWord('days')}`;
   if (name.endsWith('_months')) return `${text} ${unitWord('months')}`;
   if (name.endsWith('_years')) return `${text} ${unitWord('years')}`;

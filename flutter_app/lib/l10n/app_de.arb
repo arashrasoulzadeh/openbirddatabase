@@ -198,5 +198,12 @@
   "missingInformationHint": "Für diese Art wurden zu diesen Feldern noch keine Daten erfasst.",
   "expertCuratedNote": "Informationen zu Tiermedizin und Beschäftigung werden von Fachleuten verfasst und gibt es nur für wenige Arten.",
   "eggLength": "Eilänge",
-  "eggWidth": "Eibreite"
+  "eggWidth": "Eibreite",
+  "rangeSize": "Größe des Verbreitungsgebiets",
+  "restrictedRange": "Kleines Verbreitungsgebiet",
+  "siteStatistics": "Website-Statistiken",
+  "understoodAs": "Verstanden als",
+  "ignoredWords": "Nicht berücksichtigt",
+  "showingResultsFor": "Ergebnisse für",
+  "photoBy": "Foto"
 }

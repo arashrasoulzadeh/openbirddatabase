@@ -1,9 +1,8 @@
-import messages from './messages.json';
-import values from './values.json';
+import { tables } from './store';
 import { Lang, DEFAULT_LANG } from './locales';
 
 type Dict = Record<string, string>;
-const all = messages as Record<string, Dict>;
+const all = tables.messages as Record<string, Dict>;
 
 /** Translate a UI string; falls back to English, then to the key. `{name}` placeholders are filled from params. */
 export function translate(lang: Lang, key: string, params?: Record<string, string | number>): string {
@@ -38,7 +37,7 @@ const FIELD_BY_NAME: Record<string, string> = {
   body_mass_g: 'bodyMass', body_length_cm: 'bodyLength', wingspan_cm: 'wingspan', bill_length_mm: 'billLength',
   tarsus_length_mm: 'tarsusLength', wing_length_mm: 'wingLength', tail_length_mm: 'tailLength',
   // distribution
-  breeding_range: 'breedingRange', non_breeding_range: 'nonBreedingRange', countries: 'countries',
+  breeding_range: 'breedingRange', range_size_km2: 'rangeSize', restricted_range: 'restrictedRange', non_breeding_range: 'nonBreedingRange', countries: 'countries',
   biogeographic_realms: 'biogeographicRealms', endemic: 'endemic', island_endemic: 'islandEndemic',
   endemic_region: 'endemicRegion',
   // habitat
@@ -96,22 +95,39 @@ export function iucnLabel(lang: Lang, code: string | undefined | null): string {
 
 // --- names -------------------------------------------------------------
 
-/** Name from a search hit (flat `common_name_xx` keys). */
-export function nameFromHit(hit: any, lang: Lang): string {
-  const localized = lang === 'en' ? hit.common_name_en : hit[`common_name_${lang}`];
-  return localized || hit.common_name_en || hit.scientific_name || '';
+const PLACEHOLDERS = new Set(['', 'nan', 'none', 'null', 'n/a']);
+
+/** A usable common name, or '' for empty values and placeholders such as the text "nan". */
+export const usableName = (value: unknown): string => {
+  const text = value === null || value === undefined ? '' : String(value).trim();
+  return PLACEHOLDERS.has(text.toLowerCase()) ? '' : text;
+};
+
+/** Common names are lowercase in several languages (Spanish, French, Portuguese, Polish...): capitalise for headings. */
+export function displayName(lang: Lang, name: string): string {
+  if (!name || /^[\u3040-\u30ff\u3400-\u9fff]/.test(name)) return name;
+  return name.charAt(0).toLocaleUpperCase(lang) + name.slice(1);
 }
 
-/** Name from a taxonomy-tree entry (`common_en`, `common_fa`, `names: {xx}`). */
+/** Name from a search hit (flat `common_name_xx` keys): selected language, then English, then the scientific name. */
+export function nameFromHit(hit: any, lang: Lang): string {
+  const localized = usableName(lang === 'en' ? hit.common_name_en : hit[`common_name_${lang}`]);
+  return localized || usableName(hit.common_name_en) || hit.scientific_name || '';
+}
+
+/** Name from a taxonomy-tree entry: slim entries carry `name`; full entries have `common_en`, `common_fa`, `names`. */
 export function nameFromTree(entry: any, lang: Lang): string {
-  const localized =
-    lang === 'en' ? entry.common_en : lang === 'fa' ? entry.common_fa : entry.names?.[lang];
-  return localized || entry.common_en || entry.scientific || '';
+  const slim = usableName(entry.name);
+  if (slim) return slim;
+  const localized = usableName(
+    lang === 'en' ? entry.common_en : lang === 'fa' ? entry.common_fa : entry.names?.[lang],
+  );
+  return localized || usableName(entry.common_en) || entry.scientific || '';
 }
 
 /** Name from a species-file `names` object. */
 export function nameFromNames(names: Record<string, string> | undefined, lang: Lang, fallback = ''): string {
-  return (names && (names[lang] || names.en)) || fallback;
+  return usableName(names?.[lang]) || usableName(names?.en) || fallback;
 }
 
 // --- data values ---------------------------------------------------------
@@ -133,7 +149,7 @@ const CATEGORICAL_PATHS = new Set([
   'reproduction.parental_care',
 ]);
 
-const valueTable = values as Record<string, Record<string, string>>;
+const valueTable = tables.values;
 
 /** True for fields whose values come from a small fixed vocabulary (and have plain-language explanations). */
 export const isCategoricalPath = (path: string) => CATEGORICAL_PATHS.has(path);

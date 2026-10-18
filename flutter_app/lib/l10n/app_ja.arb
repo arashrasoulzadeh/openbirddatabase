@@ -198,5 +198,12 @@
   "missingInformationHint": "この種のこれらの項目のデータはまだ集められていません。",
   "expertCuratedNote": "獣医ケアとエンリッチメントの情報は専門家が執筆しており、ごく一部の種にしかありません。",
   "eggLength": "卵の長さ",
-  "eggWidth": "卵の幅"
+  "eggWidth": "卵の幅",
+  "rangeSize": "分布域の面積",
+  "restrictedRange": "分布域が限られる",
+  "siteStatistics": "サイト統計",
+  "understoodAs": "検索の解釈",
+  "ignoredWords": "無視した語",
+  "showingResultsFor": "次の検索結果",
+  "photoBy": "写真"
 }

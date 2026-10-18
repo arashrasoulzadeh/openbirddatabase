@@ -133,7 +133,7 @@ export default function AnalyticsPage() {
     <div className="min-h-screen bg-stone-50">
       <header className="sticky top-0 z-30 border-b border-stone-200 bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3 sm:px-6">
-          <Link href="/" className="text-sm text-brand-700 hover:underline">← OpenBird</Link>
+          <Link href="/" className="text-sm text-brand-700 hover:underline"><span aria-hidden="true" className="inline-block rtl:rotate-180">←</span> OpenBird</Link>
           <h1 className="text-lg font-semibold text-stone-900">Analytics</h1>
           <div className="ms-auto flex flex-wrap items-center gap-2">
             <div className="flex rounded-lg bg-stone-100 p-0.5">

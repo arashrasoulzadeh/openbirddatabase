@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { Suspense } from 'react';
 import { cookies, headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { getFamily, getSpecies } from '@/lib/api';
@@ -8,9 +9,11 @@ import IucnBadge from '@/components/IucnBadge';
 import HelpTip from '@/components/HelpTip';
 import RealmChips from '@/components/RealmChips';
 import ScoreBars from '@/components/ScoreBars';
+import { taxonLabel } from '@/lib/i18n/taxa';
+import SpeciesPhoto from '@/components/SpeciesPhoto';
 import { ID_LINKS, fieldHelp, formatMeasurement, helpText, valueHelp, xenoCantoUrl } from '@/lib/i18n/help';
 import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
-import { fieldLabel, iucnLabel, isCategoricalPath, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
+import { usableName, displayName, fieldLabel, iucnLabel, isCategoricalPath, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
 
 type Props = { params: { name: string } };
 
@@ -43,7 +46,7 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
           if (name === 'xeno_canto_ids') {
             return (
               <a key={i} href={xenoCantoUrl(String(v))} target="_blank" rel="noopener noreferrer" className="rounded-md bg-brand-50 px-2 py-0.5 text-xs text-brand-800 hover:underline">
-                XC{String(v).replace(/^XC/i, '')} ↗
+                XC{String(v).replace(/^XC/i, '')} <span aria-hidden="true" className="inline-block rtl:-scale-x-100">↗</span>
               </a>
             );
           }
@@ -63,7 +66,7 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
     if (link) {
       return (
         <a href={link.url(String(value))} target="_blank" rel="noopener noreferrer" className="text-brand-700 hover:underline" title={helpText(lang, 'ui.seeOn')?.replace('{site}', link.site)}>
-          {value} ↗
+          {value} <span aria-hidden="true" className="inline-block rtl:-scale-x-100">↗</span>
         </a>
       );
     }
@@ -82,8 +85,17 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
   if (link && value) {
     return (
       <a href={link.url(String(value))} target="_blank" rel="noopener noreferrer" className="text-brand-700 hover:underline" title={helpText(lang, 'ui.seeOn')?.replace('{site}', link.site)}>
-        {String(value)} ↗
+        {String(value)} <span aria-hidden="true" className="inline-block rtl:-scale-x-100">↗</span>
       </a>
+    );
+  }
+  if (path === 'taxonomy.order' || path === 'taxonomy.family') {
+    const local = taxonLabel(lang, String(value));
+    return (
+      <span>
+        {String(value)}
+        {local && <span className="ms-2 text-xs font-normal text-stone-400">{local}</span>}
+      </span>
     );
   }
   const explanation = isCategoricalPath(path) ? valueHelp(lang, String(value)) : undefined;
@@ -119,7 +131,7 @@ function Fields({ lang, data, path = '' }: { lang: Lang; data: Record<string, an
           const items = Object.entries(v as Record<string, number>)
             .filter(([, n]) => typeof n === 'number' && n > 0)
             .sort(([, x], [, y]) => y - x)
-            .map(([key, n]) => ({ label: isShare ? niceLabel(key) : fieldLabel(lang, `${p}.${key}`), value: n }));
+            .map(([key, n]) => ({ label: isShare ? (helpText(lang, `niche.${key}`) ?? niceLabel(key)) : fieldLabel(lang, `${p}.${key}`), value: n }));
           if (!items.length) return null;
           return (
             <div key={k} className="mt-2 md:col-span-2">
@@ -152,16 +164,61 @@ export async function generateMetadata({ params }: Props) {
   const lang = currentLang();
   try {
     const sp = await getSpecies(name);
-    const local = nameFromNames(sp?.names, lang);
+    const scientific = sp?.names?.scientific || name;
+    const local = displayName(lang, nameFromNames(sp?.names, lang, ''));
+    // "Carbonero Común (Parus major) | OpenBird"; just the scientific name when there is no usable common name
+    const title = local && local.toLowerCase() !== scientific.toLowerCase() ? `${local} (${scientific}) | OpenBird` : `${scientific} | OpenBird`;
+    const description = (helpText(lang, 'ui.speciesDescription') ?? '')
+      .replace('{name}', local || scientific)
+      .replace('{scientific}', scientific);
     return {
-      title: `${local ? local + ' — ' : ''}${name} | OpenBird`,
-      description: `${name}${sp?.names?.en ? ` (${sp.names.en})` : ''}`,
+      title,
+      description,
       alternates: { canonical: `/species/${encodeURIComponent(name)}` },
-      openGraph: { type: 'article', title: `${local || name} — ${name}` },
+      openGraph: { type: 'article', title, description },
     };
   } catch {
     return { title: `${name} | OpenBird` };
   }
+}
+
+/** Same-genus species first, then the rest of the family. Streams in after the page; the page works without it. */
+async function RelatedSpecies({ taxonomy, scientific, lang, card, h2 }: { taxonomy: any; scientific: string; lang: Lang; card: string; h2: string }) {
+  let related: any[] = [];
+  try {
+    const { order, family, genus } = taxonomy || {};
+    if (order && family) {
+      const genera = await getFamily(order, family);
+      const all = Object.entries(genera).flatMap(([g, list]) => list.map((e: any) => ({ ...e, genus: g })));
+      related = all
+        .filter((e) => e.scientific !== scientific)
+        .sort((a, b) => Number(b.genus === genus) - Number(a.genus === genus))
+        .slice(0, 12);
+    }
+  } catch {
+    related = [];
+  }
+  if (!related.length) return null;
+  return (
+    <section className={card}>
+      <h2 className={h2}>{translate(lang, 'relatedSpecies')}</h2>
+      <ul className="grid gap-2 sm:grid-cols-2">
+        {related.map((r) => (
+          <li key={r.scientific}>
+            <TrackedLink
+              href={`/species/${encodeURIComponent(r.scientific)}`}
+              bird={r.scientific}
+              source="related"
+              className="block rounded-lg border border-stone-200 px-3 py-2 transition hover:border-brand-300 hover:bg-brand-50"
+            >
+              <span className="block text-sm font-medium text-stone-900">{displayName(lang, nameFromTree(r, lang))}</span>
+              <span className="block text-xs italic text-stone-400" dir="ltr">{r.scientific}</span>
+            </TrackedLink>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
 }
 
 export default async function SpeciesPage({ params }: Props) {
@@ -183,24 +240,9 @@ export default async function SpeciesPage({ params }: Props) {
   const nested = Object.entries(sections).filter(
     ([, v]) => v && typeof v === 'object' && !Array.isArray(v) && !isEmpty(v),
   );
-  const localName = nameFromNames(names, lang, names.scientific || name);
+  const localName = displayName(lang, nameFromNames(names, lang, names.scientific || name));
 
-  // Same-genus species first, then the rest of the family (best effort: the page works without it)
-  let related: any[] = [];
-  try {
-    const { order, family, genus } = sp.taxonomy || {};
-    if (order && family) {
-      const genera = await getFamily(order, family);
-      const all = Object.entries(genera).flatMap(([g, list]) => list.map((e: any) => ({ ...e, genus: g })));
-      related = all
-        .filter((e) => e.scientific !== (names.scientific || name))
-        .sort((a, b) => Number(b.genus === genus) - Number(a.genus === genus))
-        .slice(0, 12);
-    }
-  } catch {
-    related = [];
-  }
-  const english = names.en;
+  const english = usableName(names.en);
 
   const card = 'scroll-mt-24 rounded-2xl border border-stone-200 bg-white p-5 shadow-sm sm:p-6';
   const h2 = 'mb-3 border-b border-stone-100 pb-2 text-lg font-semibold text-brand-900';
@@ -244,6 +286,7 @@ export default async function SpeciesPage({ params }: Props) {
               {t('dataCompleteness')}: {Math.round(completeness.core.score * 100)}%
             </a>
           )}
+          <SpeciesPhoto image={sp.image} alt={localName} label={t('photoBy')} />
           {facts.length > 0 && (
             <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
               {facts.map(([label, value]) => (
@@ -328,26 +371,9 @@ export default async function SpeciesPage({ params }: Props) {
           </section>
         )}
 
-        {related.length > 0 && (
-          <section className={card}>
-            <h2 className={h2}>{t('relatedSpecies')}</h2>
-            <ul className="grid gap-2 sm:grid-cols-2">
-              {related.map((r) => (
-                <li key={r.scientific}>
-                  <TrackedLink
-                    href={`/species/${encodeURIComponent(r.scientific)}`}
-                    bird={r.scientific}
-                    source="related"
-                    className="block rounded-lg border border-stone-200 px-3 py-2 transition hover:border-brand-300 hover:bg-brand-50"
-                  >
-                    <span className="block text-sm font-medium text-stone-900">{nameFromTree(r, lang)}</span>
-                    <span className="block text-xs italic text-stone-400" dir="ltr">{r.scientific}</span>
-                  </TrackedLink>
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
+        <Suspense fallback={null}>
+          <RelatedSpecies taxonomy={sp.taxonomy} scientific={names.scientific || name} lang={lang} card={card} h2={h2} />
+        </Suspense>
 
         <section className={card}>
           <h2 className={h2}>{t('identifiersSources')}</h2>

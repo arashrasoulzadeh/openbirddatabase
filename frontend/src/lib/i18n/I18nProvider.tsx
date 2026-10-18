@@ -4,6 +4,7 @@ import { createContext, useCallback, useContext, useMemo, useState } from 'react
 import { useRouter } from 'next/navigation';
 import { Lang, LANG_COOKIE, dirOf } from './locales';
 import { translate } from './translate';
+import { Tables, register } from './store';
 import { track } from '../analytics';
 
 interface I18nValue {
@@ -15,7 +16,8 @@ interface I18nValue {
 
 const I18nContext = createContext<I18nValue | null>(null);
 
-export function I18nProvider({ initialLang, children }: { initialLang: Lang; children: React.ReactNode }) {
+export function I18nProvider({ initialLang, tables, children }: { initialLang: Lang; tables?: Tables; children: React.ReactNode }) {
+  if (tables) register(tables); // before any child renders; the browser only receives the current language + English
   const router = useRouter();
   const [lang, setLangState] = useState<Lang>(initialLang);
 
