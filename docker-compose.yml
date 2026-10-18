@@ -48,6 +48,8 @@ services:
       - ANALYTICS_DB=/data/analytics.db
       - ANALYTICS_TOKEN=${ANALYTICS_TOKEN:-}
       - ANALYTICS_ENABLED=${ANALYTICS_ENABLED:-true}
+      # refreshed by the worker onto the shared analytics volume
+      - CONTENT_STATS_FILE=/data/content-stats.json
       - API_WORKERS=${API_WORKERS:-2}
       # a busy MeiliSearch (vector indexing) must not freeze the API: searches time out and fall back
       - MEILI_TIMEOUT=${MEILI_TIMEOUT:-3}
@@ -68,18 +70,27 @@ services:
     command: ["redis-server", "--maxmemory", "${REDIS_MAXMEMORY:-768mb}", "--maxmemory-policy", "allkeys-lru", "--save", ""]
     restart: unless-stopped
 
-  # Pre-fills Redis with every species and the common API responses on `docker compose up`, then refreshes it every
-  # WARM_EVERY seconds (default 1 hour). Set WARM_EVERY=0 in .env for a single pass.
-  cache-warmer:
+  # Backend jobs: cache warm-up (on boot + hourly), analytics backup, content-stats refresh.
+  # Deploy does not warm the cache — this worker owns that.
+  worker:
     image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-api:${IMAGE_TAG:-latest}
-    command: python _scripts/warm_cache.py
+    command: python _scripts/worker.py
     environment:
       - REDIS_URL=redis://redis:6379/0
       - API_URL=http://api:8000
-      - WARM_EVERY=${WARM_EVERY:-3600}
+      - ANALYTICS_DB=/data/analytics.db
+      - ANALYTICS_BACKUP_DIR=/data/backups
+      - ANALYTICS_BACKUP_KEEP=${ANALYTICS_BACKUP_KEEP:-14}
+      - CONTENT_STATS_FILE=/data/content-stats.json
+      - JOBS=${WORKER_JOBS:-cache,analytics_backup,content_stats}
+      - CACHE_EVERY=${CACHE_EVERY:-3600}
+      - BACKUP_EVERY=${BACKUP_EVERY:-86400}
+      - STATS_EVERY=${STATS_EVERY:-86400}
     depends_on:
       - redis
       - api
+    volumes:
+      - analytics_data:/data
     restart: unless-stopped
 
   meilisearch:

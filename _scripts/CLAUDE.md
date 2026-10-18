@@ -17,7 +17,7 @@ Ingestion, curation, export, search and API tooling. Run from repo root with `PY
   forests"). `build_lexicon.py` merges the website translations (statuses, habitat/diet/migration values, order/family names)
   with hand-written phrases and filler words into `_index/intent-lexicon.json` (commit it; re-run after editing the phrases or
   translations). Order in `api.py`: names, then sentences, then names with typos fixed, then MeiliSearch.
-- `warm_cache.py --every 3600` (the compose default) refreshes the Redis cache hourly; species files are re-read only if they changed.
+- `worker.py` (Compose `worker` service) runs scheduled jobs: Redis cache warm-up (`warm_cache.py`), analytics DB backup, and `content_stats.py`. Deploy does not warm the cache.
 - `images/<slug>.jpg`: species photos from `enrich.py fetch photos`, served by the API at `/images/` (`IMAGES_DIR`).
 - `cache_utils.py` (keys, JSON sanitising) is shared by `api.py` and `warm_cache.py`; keep their keys in sync
   (`CACHE_PREFIX` is versioned: bump it if the cached JSON shape changes)

@@ -9,6 +9,7 @@ Run after the species data changes (it takes about a minute):  python _scripts/c
 """
 
 import json
+import os
 import subprocess
 import sys
 from collections import Counter, defaultdict
@@ -23,7 +24,8 @@ from _scripts.completeness import CORE_FIELDS, evaluate  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 BIRDS_DIR = ROOT / "birds"
 ARB_DIR = ROOT / "flutter_app" / "lib" / "l10n"
-OUT = ROOT / "_index" / "content-stats.json"
+# Worker writes to a volume path in Docker; local default stays the committed index file.
+OUT = Path(os.environ.get("CONTENT_STATS_FILE", ROOT / "_index" / "content-stats.json"))
 
 LANGS = ["en", "fa", "ar", "es", "fr", "de", "pt", "ru", "ja", "zh", "nl", "pl", "tr"]
 Loader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
@@ -162,8 +164,13 @@ def main():
             "expert_verified": {s: curated.get(s, 0) for s in ("veterinary", "enrichment")},
         },
     }
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(stats, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Wrote {OUT.relative_to(ROOT)}: {n} species, average completeness {stats['completeness']['average']:.1%}")
+    try:
+        where = OUT.relative_to(ROOT)
+    except ValueError:
+        where = OUT
+    print(f"Wrote {where}: {n} species, average completeness {stats['completeness']['average']:.1%}")
 
 
 if __name__ == "__main__":

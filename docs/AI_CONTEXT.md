@@ -101,7 +101,7 @@ MeiliSearch-compatible JSON with:
 |---|---|---|
 | API | `_scripts/api.py` (FastAPI) | `/search`, `/species/{name}`, `/taxonomy`, `/filters`, `/stats`, `/random`, `/graphql`. Config via env: `MEILI_HOST`, `SITE_DOMAIN`, `CORS_ORIGINS`, `VECTOR_SEARCH`, `SEMANTIC_RATIO`, `REDIS_URL`, `CACHE_SEARCH_TTL`, `CACHE_STATIC_TTL` |
 | Search | MeiliSearch (`_scripts/populate_meili.py`) | hybrid keyword + vector (`intfloat/multilingual-e5-small`); falls back to `_index/species-index.json` |
-| Cache | Redis (`_scripts/cache_utils.py`, `warm_cache.py`) | optional; the API works without it |
+| Cache / jobs | Redis + Compose `worker` (`worker.py`, `warm_cache.py`) | optional Redis; worker warms cache, backs up analytics, refreshes content stats |
 | Website | `frontend/` (Next.js 14) | talks to the API directly; URLs from `NEXT_PUBLIC_API_URL` / `NEXT_PUBLIC_SITE_URL` |
 | Mobile | `flutter_app/` (Flutter) | API address via `--dart-define=API_BASE_URL`; `lib/services/api_mapper.dart` maps API JSON to models |
 | Deployment | `docker-compose.yml`, `Caddyfile`, `.env` | `SITE_DOMAIN` and `API_DOMAIN`; see `docs/DEPLOYMENT.md` |

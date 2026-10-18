@@ -37,7 +37,7 @@ birds-db/
 │   └── ar/                   # Future languages
 ├── _schemas/                 # JSON Schemas for validation
 ├── _templates/               # Jinja2 templates for markdown generation
-├── _scripts/                 # Ingestion pipeline, API, indexer, cache warmer
+├── _scripts/                 # Ingestion pipeline, API, indexer, worker jobs
 ├── _index/                   # Generated search indexes (regenerate with _scripts/index.py)
 ├── _data/                    # Raw downloads (gitignored)
 ├── frontend/                 # Public website (Next.js)

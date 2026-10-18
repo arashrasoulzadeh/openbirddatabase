@@ -15,7 +15,8 @@ Two public hostnames, both configured in the repo-root `.env`:
 4. Optional search index: `docker compose --profile indexing run --rm indexer`. Without MeiliSearch the API falls back to `_index/species-index.json`.
 
 Services started by `docker-compose.yml`: `caddy` (HTTPS), `web` (Next.js), `api` (FastAPI), `meilisearch`, `redis`,
-and the one-shot `cache-warmer`. The `indexer` runs only on request (`--profile indexing`).
+and the long-running `worker` (cache warm-up, analytics backup, content stats). The `indexer` runs only on request
+(`--profile indexing`).
 
 The website talks to `https://API_DOMAIN` from the browser and to `http://api:8000` during server-side rendering. The API only allows CORS from `SITE_DOMAIN`.
 
@@ -77,22 +78,21 @@ The species data and `_index/` are baked into the API image, so code and data al
 The website serves `/sitemap.xml` (home page plus every species page, generated from the API's taxonomy and cached for an hour)
 and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
 
-## Redis cache
+## Redis cache and the worker
 
-`docker compose up` also starts Redis and a one-shot `cache-warmer`. The API caches species details, search results
-(10 minutes), the taxonomy, filters and stats in Redis; if Redis is missing or down the API still works, just slower.
+`docker compose up` starts Redis and a long-running `worker` service (`_scripts/worker.py`). The API caches species
+details, search results (10 minutes), the taxonomy, filters and stats in Redis; if Redis is missing or down the API
+still works, just slower. **Deploy does not warm the cache** — the worker does it on boot and on a timer.
 
-- **Warming the cache:** `./deploy.sh` does it after every successful deploy (skip with `--no-warm`). By hand:
-  `docker compose run --rm cache-warmer` (about a minute; it clears this app's keys first, `--no-flush` keeps them).
-  Run it after a deploy, after changing species data, or after Redis was restarted or wiped.
-- The warmer loads all species files and the common API responses (home-page search, one page per conservation
-  status, taxonomy, filters, stats). Run it again after changing data: `docker compose run --rm cache-warmer`
-  (it clears this app's keys first; pass `--no-flush` to keep them).
+- **Jobs (default):** `cache` (hourly), `analytics_backup` (daily → `/data/backups`), `content_stats` (daily →
+  `/data/content-stats.json`, read by the API). Override with `WORKER_JOBS`, `CACHE_EVERY`, `BACKUP_EVERY`, `STATS_EVERY`.
+- **Logs:** `docker compose logs -f worker`
+- **Force a cache refresh now:** `docker compose restart worker` (first pass flushes app keys, then reloads).
 - Check it: `curl -I https://API_DOMAIN/species/Parus%20major` shows `X-Cache: HIT` once cached, and
   `curl https://API_DOMAIN/health` shows `"cache": true`.
 - Settings (environment of the `api` service): `CACHE_SEARCH_TTL` (default 600 s), `CACHE_STATIC_TTL` (default 7 days).
   Redis memory is capped by `REDIS_MAXMEMORY` (default 768mb) with least-recently-used eviction.
-- Wipe it any time with `docker compose exec redis redis-cli FLUSHALL`; it refills on demand.
+- Wipe Redis any time with `docker compose exec redis redis-cli FLUSHALL`; the worker refills on its next tick (or restart it).
 
 ## Prebuilt images (recommended)
 
@@ -158,7 +158,7 @@ Then run `docker compose rm -sf caddy && docker compose up -d --build` and add t
 
 - Update: `./deploy.sh` (prebuilt images; `./deploy.sh --build` builds on the server; re-run the indexer after the species data or `_index/` changed). It checks `/health` afterwards and prints a rollback command if the new version does not start.
 - Changing `.env`: rebuild with `--build`; the public URLs are baked into the website build.
-- Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `redis cache-warmer` for the cache.
+- Logs: `docker compose logs -f api web`; add `meilisearch indexer` for search problems, `worker` for cache/jobs.
 - MeiliSearch refuses to start after an upgrade: remove `meili_data/` and re-run the indexer (the index is rebuildable).
 - Site shows no styles or the language switcher is missing: you are on an old build; rebuild and hard-refresh.
 
