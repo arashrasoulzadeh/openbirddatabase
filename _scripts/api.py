@@ -9,10 +9,11 @@ import os
 import random
 import time
 import yaml
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from collections import OrderedDict
 from contextvars import ContextVar
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict, Any, Callable
 from fastapi import FastAPI, Query, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
@@ -51,15 +52,25 @@ LOCAL_CACHE_MAX_BYTES = int(os.environ.get("LOCAL_CACHE_MAX_MB", "96")) * 1024 *
 # Fields a list view needs; with ?lang= a hit carries only English plus that language's name (~1/3 of the bytes)
 SLIM_HIT_FIELDS = ("id", "scientific_name", "genus", "family", "order", "iucn_status", "primary_habitat", "primary_diet", "migration_status", "data_quality")
 
-# MeiliSearch must never stall the API: every call has a timeout and runs in a worker thread, and after a failure
-# the API skips MeiliSearch for a while and answers from the in-memory index instead (circuit breaker).
+# MeiliSearch must never stall the API: every call has a timeout and runs in a dedicated pool (so a hung Meili
+# cannot exhaust the default thread pool used by /species and other file work). After a failure the API skips
+# MeiliSearch for a while and answers from the in-memory index instead (circuit breaker).
 MEILI_TIMEOUT = float(os.environ.get("MEILI_TIMEOUT", "3"))            # seconds for a keyword search
 HYBRID_TIMEOUT = float(os.environ.get("HYBRID_TIMEOUT", "1.5"))        # seconds for a keyword + vector search
 MEILI_BREAKER_SECONDS = float(os.environ.get("MEILI_BREAKER_SECONDS", "30"))
 HYBRID_BREAKER_SECONDS = float(os.environ.get("HYBRID_BREAKER_SECONDS", "60"))
+MEILI_POOL_SIZE = max(1, int(os.environ.get("MEILI_POOL_SIZE", "2")))
 SLOW_REQUEST_MS = float(os.environ.get("SLOW_REQUEST_MS", "500"))      # slower requests are logged
 _meili_down_until = 0.0
 _hybrid_down_until = 0.0
+_meili_pool = ThreadPoolExecutor(max_workers=MEILI_POOL_SIZE, thread_name_prefix="meili")
+_meili_health_state = {"ok": False, "checked": 0.0}
+
+
+async def _meili_call(fn: Callable[..., Any], *args: Any, timeout: float, **kwargs: Any) -> Any:
+    """Run a MeiliSearch SDK call in the dedicated pool and abandon it after `timeout` seconds."""
+    loop = asyncio.get_running_loop()
+    return await asyncio.wait_for(loop.run_in_executor(_meili_pool, lambda: fn(*args, **kwargs)), timeout=timeout)
 
 log = logging.getLogger("openbird")
 if not log.handlers:
@@ -366,16 +377,30 @@ _vector_state = {"ready": False, "checked": 0.0}
 
 async def _vector_ready() -> bool:
     """Cached for 30 s so /health never waits on MeiliSearch (which can be busy computing vectors)."""
-    if not (meili_client and VECTOR_SEARCH):
+    if not (meili_client and VECTOR_SEARCH) or time.time() < _meili_down_until:
         return False
     now = time.time()
     if now - _vector_state["checked"] > 30:
         _vector_state["checked"] = now  # set first: concurrent health checks must not pile up
         try:
-            _vector_state["ready"] = await asyncio.wait_for(asyncio.to_thread(_vector_ready_sync), timeout=MEILI_TIMEOUT)
+            _vector_state["ready"] = await _meili_call(_vector_ready_sync, timeout=min(MEILI_TIMEOUT, 1.5))
         except Exception:
             _vector_state["ready"] = False
     return _vector_state["ready"]
+
+async def _meili_reachable() -> bool:
+    """Real ping of MeiliSearch (cached 10 s). Unlike the client object, this is false when Meili is down."""
+    if not meili_client or time.time() < _meili_down_until:
+        return False
+    now = time.time()
+    if now - _meili_health_state["checked"] < 10:
+        return bool(_meili_health_state["ok"])
+    _meili_health_state["checked"] = now
+    try:
+        _meili_health_state["ok"] = bool(await _meili_call(meili_client.is_healthy, timeout=min(1.0, MEILI_TIMEOUT)))
+    except Exception:
+        _meili_health_state["ok"] = False
+    return bool(_meili_health_state["ok"])
 
 async def _cache_ready() -> bool:
     if not redis_client:
@@ -389,7 +414,7 @@ async def _cache_ready() -> bool:
 async def health():
     return {
         "status": "ok",
-        "meilisearch": meili_client is not None,
+        "meilisearch": await _meili_reachable(),
         "vector_search": await _vector_ready(),
         "cache": await _cache_ready(),
     }
@@ -542,16 +567,18 @@ async def _search_uncached(request: SearchRequest):
     if VECTOR_SEARCH and request.q.strip() and ratio > 0 and time.time() >= _hybrid_down_until:
         try:
             hybrid = {**params, "hybrid": {"semanticRatio": min(ratio, 1.0), "embedder": EMBEDDER_NAME}}
-            return await asyncio.wait_for(asyncio.to_thread(index.search, request.q, hybrid), timeout=HYBRID_TIMEOUT)
+            return await _meili_call(index.search, request.q, hybrid, timeout=HYBRID_TIMEOUT)
         except Exception as error:
             # embedder missing, model still loading, or the server is too busy: keyword search for a while
             _hybrid_down_until = time.time() + HYBRID_BREAKER_SECONDS
             log.warning("vector search unavailable (%s); keyword search only for %.0f s", type(error).__name__, HYBRID_BREAKER_SECONDS)
 
     try:
-        return await asyncio.wait_for(asyncio.to_thread(index.search, request.q, params), timeout=MEILI_TIMEOUT)
+        return await _meili_call(index.search, request.q, params, timeout=MEILI_TIMEOUT)
     except Exception as error:
         _meili_down_until = time.time() + MEILI_BREAKER_SECONDS
+        _meili_health_state["ok"] = False
+        _meili_health_state["checked"] = time.time()
         log.warning("MeiliSearch unavailable (%s); using the in-memory index for %.0f s", type(error).__name__, MEILI_BREAKER_SECONDS)
         return fast if fast is not None else await asyncio.to_thread(fallback_search_sync, request)
 

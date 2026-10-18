@@ -21,4 +21,4 @@ Foundation, ingestion (~11k species), API, website, Flutter app, analytics, depl
 ## Release / ops
 
 9. **Signed release APK + iOS build** in CI (today: unsigned debug APK only)
-10. **Verify vector search** on the server (`/health` → `"vector_search": true` after the indexer has run)
+10. **Verify MeiliSearch + vector search** on the server after deploy (`/health` → `"meilisearch": true`, `"vector_search": true`; if Meili is unhealthy wipe `meili_data/` and re-run the indexer)

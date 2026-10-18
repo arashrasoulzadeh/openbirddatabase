@@ -62,6 +62,12 @@ query like "small blue forest bird" or the same in Persian finds relevant specie
 - `VECTOR_SEARCH=false` in `.env` turns it off. If the embedder is unavailable the API falls back to keyword search.
 - Upgrading from the old MeiliSearch 1.7 image: the compose file enables a dumpless upgrade; if the container still
   refuses to start, remove `meili_data/` and re-run the indexer (the index is rebuildable).
+- MeiliSearch is optional at runtime: the API starts without it and serves search from the in-memory index
+  (`FAST_SEARCH`) while a circuit breaker skips a hung Meili. Species pages never depend on Meili.
+- Compose gives Meili a RAM cap (`MEILI_MEMORY`, default 1536m) and a `/health` probe so a runaway reindex cannot
+  take down the host. If Meili stays unhealthy: `docker compose logs meilisearch`, then
+  `rm -rf meili_data && docker compose up -d meilisearch && docker compose --profile indexing run --rm indexer`.
+- `GET /health` `"meilisearch": true` means a live ping succeeded (not merely that the client is configured).
 
 The species data and `_index/` are baked into the API image, so code and data always match. After regenerating `_index/`
 (`python _scripts/index.py`) commit and push; CI publishes new images, then `./deploy.sh` and re-run the indexer.

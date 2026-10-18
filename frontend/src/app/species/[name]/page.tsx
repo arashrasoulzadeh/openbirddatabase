@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Suspense } from 'react';
 import { cookies, headers } from 'next/headers';
 import { notFound } from 'next/navigation';
-import { getFamily, getSpecies } from '@/lib/api';
+import { ApiError, getFamily, getSpecies } from '@/lib/api';
 import SiteHeader from '@/components/SiteHeader';
 import TrackedLink from '@/components/TrackedLink';
 import IucnBadge from '@/components/IucnBadge';
@@ -24,6 +24,20 @@ const currentLang = (): Lang => {
   const c = cookies().get(LANG_COOKIE)?.value;
   return isLang(c) ? c : langFromAcceptLanguage(headers().get('accept-language'));
 };
+
+function sectionNavItems(
+  lang: Lang,
+  t: (key: string) => string,
+  nested: [string, unknown][],
+  hasCompleteness: boolean,
+) {
+  return [
+    ...nested.map(([key]) => ({ id: key, label: fieldLabel(lang, key) })),
+    { id: 'names', label: t('namesInOtherLanguages') },
+    ...(hasCompleteness ? [{ id: 'completeness', label: t('dataCompleteness') }] : []),
+    { id: 'identifiers', label: t('identifiersSources') },
+  ];
+}
 
 const isEmpty = (v: any): boolean =>
   v === null ||
@@ -245,8 +259,10 @@ export default async function SpeciesPage({ params }: Props) {
   let sp: any;
   try {
     sp = await getSpecies(name);
-  } catch {
-    notFound();
+  } catch (err) {
+    // Only a real "missing species" is a 404. API/Meili/Redis outages used to look like "not found".
+    if (err instanceof ApiError && err.status === 404) notFound();
+    throw err;
   }
 
   const { names = {}, sources, last_updated, completeness, ...sections } = sp;
@@ -316,94 +332,96 @@ export default async function SpeciesPage({ params }: Props) {
         </div>
       </section>
 
-      <main className="mx-auto max-w-4xl space-y-5 px-4 py-6 sm:px-6 lg:pr-52 xl:pr-56">
-        <SectionNav
-          label={t('sectionNav')}
-          items={[
-            ...nested.map(([key]) => ({ id: key, label: fieldLabel(lang, key) })),
-            { id: 'names', label: t('namesInOtherLanguages') },
-            ...(completeness ? [{ id: 'completeness', label: t('dataCompleteness') }] : []),
-            { id: 'identifiers', label: t('identifiersSources') },
-          ]}
-        />
+      <main className="mx-auto max-w-5xl px-4 py-6 sm:px-6">
+        {/* Physical row: content | right rail — dir=ltr keeps the timeline on the right in Persian RTL pages */}
+        <div className="lg:flex lg:flex-row lg:items-start lg:gap-8" dir="ltr">
+          <div className="min-w-0 flex-1 space-y-5" dir="auto">
+            <SectionNav label={t('sectionNav')} mode="mobile" items={sectionNavItems(lang, t, nested, !!completeness)} />
 
-        {nested.map(([key, value]) => (
-          <section key={key} id={key} className={card}>
-            <h2 className={h2}>{fieldLabel(lang, key)}</h2>
-            {key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0 && (
-              <DistributionMap countries={(value as any).countries} />
-            )}
-            <Fields
-              lang={lang}
-              data={
-                key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0
-                  ? Object.fromEntries(Object.entries(value as Record<string, any>).filter(([k]) => k !== 'countries'))
-                  : (value as Record<string, any>)
-              }
-              path={key}
-            />
-          </section>
-        ))}
-
-        <section id="names" className={card}>
-          <h2 className={h2}>{t('namesInOtherLanguages')}</h2>
-          <dl className="grid grid-cols-1 gap-x-6 gap-y-1 sm:grid-cols-2">
-            {LOCALES.filter((l) => names[l.code]).map((l) => (
-              <div key={l.code} className="flex justify-between gap-4 border-b border-stone-100 py-1.5 text-sm">
-                <dt className="text-stone-500">{nativeName(l.code)}</dt>
-                <dd className="text-end font-medium text-stone-900">{names[l.code]}</dd>
-              </div>
+            {nested.map(([key, value]) => (
+              <section key={key} id={key} className={card}>
+                <h2 className={h2}>{fieldLabel(lang, key)}</h2>
+                {key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0 && (
+                  <DistributionMap countries={(value as any).countries} />
+                )}
+                <Fields
+                  lang={lang}
+                  data={
+                    key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0
+                      ? Object.fromEntries(Object.entries(value as Record<string, any>).filter(([k]) => k !== 'countries'))
+                      : (value as Record<string, any>)
+                  }
+                  path={key}
+                />
+              </section>
             ))}
-          </dl>
-        </section>
 
-        {completeness && (
-          <section id="completeness" className={card}>
-            <h2 className={h2}>{t('dataCompleteness')}</h2>
-            <div className="flex items-baseline gap-3">
-              <span className="text-3xl font-semibold tabular-nums text-brand-800">{Math.round(completeness.core.score * 100)}%</span>
-              <span className="text-sm text-stone-500">
-                {translate(lang, 'fieldsFilled', { filled: completeness.core.filled, total: completeness.core.total })}
-              </span>
-            </div>
-            <div className="mt-2 h-2 overflow-hidden rounded-full bg-stone-100" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(completeness.core.score * 100)}>
-              <div className="h-full rounded-full bg-brand-600" style={{ width: `${Math.max(2, completeness.core.score * 100)}%` }} />
-            </div>
-            {Object.keys(completeness.core.missing).length > 0 && (
-              <div className="mt-5">
-                <h3 className="text-sm font-semibold text-stone-900">{t('missingInformation')}</h3>
-                <p className="mb-3 text-xs text-stone-500">{t('missingInformationHint')}</p>
-                <div className="space-y-2">
-                  {Object.entries(completeness.core.missing as Record<string, string[]>).map(([section, fields]) => (
-                    <details key={section} className="rounded-lg border border-stone-200 px-3 py-2">
-                      <summary className="cursor-pointer text-sm font-medium text-stone-700">
-                        {fieldLabel(lang, section)}{' '}
-                        <span className="text-xs font-normal text-stone-400">({fields.length})</span>
-                      </summary>
-                      <ul className="mt-2 flex flex-wrap gap-1.5">
-                        {fields.map((f) => (
-                          <li key={f} className="rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-600">
-                            {fieldLabel(lang, `${section}.${f}`)}
-                          </li>
-                        ))}
-                      </ul>
-                    </details>
-                  ))}
+            <section id="names" className={card}>
+              <h2 className={h2}>{t('namesInOtherLanguages')}</h2>
+              <dl className="grid grid-cols-1 gap-x-6 gap-y-1 sm:grid-cols-2">
+                {LOCALES.filter((l) => names[l.code]).map((l) => (
+                  <div key={l.code} className="flex justify-between gap-4 border-b border-stone-100 py-1.5 text-sm">
+                    <dt className="text-stone-500">{nativeName(l.code)}</dt>
+                    <dd className="text-end font-medium text-stone-900">{names[l.code]}</dd>
+                  </div>
+                ))}
+              </dl>
+            </section>
+
+            {completeness && (
+              <section id="completeness" className={card}>
+                <h2 className={h2}>{t('dataCompleteness')}</h2>
+                <div className="flex items-baseline gap-3">
+                  <span className="text-3xl font-semibold tabular-nums text-brand-800">{Math.round(completeness.core.score * 100)}%</span>
+                  <span className="text-sm text-stone-500">
+                    {translate(lang, 'fieldsFilled', { filled: completeness.core.filled, total: completeness.core.total })}
+                  </span>
                 </div>
-              </div>
+                <div className="mt-2 h-2 overflow-hidden rounded-full bg-stone-100" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(completeness.core.score * 100)}>
+                  <div className="h-full rounded-full bg-brand-600" style={{ width: `${Math.max(2, completeness.core.score * 100)}%` }} />
+                </div>
+                {Object.keys(completeness.core.missing).length > 0 && (
+                  <div className="mt-5">
+                    <h3 className="text-sm font-semibold text-stone-900">{t('missingInformation')}</h3>
+                    <p className="mb-3 text-xs text-stone-500">{t('missingInformationHint')}</p>
+                    <div className="space-y-2">
+                      {Object.entries(completeness.core.missing as Record<string, string[]>).map(([section, fields]) => (
+                        <details key={section} className="rounded-lg border border-stone-200 px-3 py-2">
+                          <summary className="cursor-pointer text-sm font-medium text-stone-700">
+                            {fieldLabel(lang, section)}{' '}
+                            <span className="text-xs font-normal text-stone-400">({fields.length})</span>
+                          </summary>
+                          <ul className="mt-2 flex flex-wrap gap-1.5">
+                            {fields.map((f) => (
+                              <li key={f} className="rounded-md bg-stone-100 px-2 py-0.5 text-xs text-stone-600">
+                                {fieldLabel(lang, `${section}.${f}`)}
+                              </li>
+                            ))}
+                          </ul>
+                        </details>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {!completeness.expert_verified && <p className="mt-4 text-xs text-stone-500">{t('expertCuratedNote')}</p>}
+              </section>
             )}
-            {!completeness.expert_verified && <p className="mt-4 text-xs text-stone-500">{t('expertCuratedNote')}</p>}
-          </section>
-        )}
 
-        <Suspense fallback={null}>
-          <RelatedSpecies taxonomy={sp.taxonomy} scientific={names.scientific || name} lang={lang} card={card} h2={h2} />
-        </Suspense>
+            <Suspense fallback={null}>
+              <RelatedSpecies taxonomy={sp.taxonomy} scientific={names.scientific || name} lang={lang} card={card} h2={h2} />
+            </Suspense>
 
-        <section id="identifiers" className={card}>
-          <h2 className={h2}>{t('identifiersSources')}</h2>
-          <Fields lang={lang} data={{ ...topLevel, sources, last_updated }} />
-        </section>
+            <section id="identifiers" className={card}>
+              <h2 className={h2}>{t('identifiersSources')}</h2>
+              <Fields lang={lang} data={{ ...topLevel, sources, last_updated }} />
+            </section>
+          </div>
+
+          {/* Desktop timeline sits beside content only — never over the green hero */}
+          <aside className="hidden w-44 shrink-0 lg:block xl:w-48">
+            <SectionNav label={t('sectionNav')} mode="desktop" items={sectionNavItems(lang, t, nested, !!completeness)} />
+          </aside>
+        </div>
       </main>
     </div>
   );

@@ -3,9 +3,17 @@ import { API_URL, API_SERVER_URL } from './config';
 // In the browser use the public API domain; during SSR prefer the internal URL.
 const base = () => (typeof window === 'undefined' ? API_SERVER_URL : API_URL);
 
+/** Thrown when the API responds with a non-OK status (so pages can tell 404 from outages). */
+export class ApiError extends Error {
+  constructor(public status: number, message: string) {
+    super(message);
+    this.name = 'ApiError';
+  }
+}
+
 async function getJson<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${base()}${path}`, init);
-  if (!res.ok) throw new Error(`API ${res.status} for ${path}`);
+  if (!res.ok) throw new ApiError(res.status, `API ${res.status} for ${path}`);
   return res.json() as Promise<T>;
 }
 

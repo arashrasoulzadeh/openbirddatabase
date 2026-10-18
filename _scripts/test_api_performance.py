@@ -23,6 +23,10 @@ class HangingMeili:
     def index(self, name):
         return HangingIndex()
 
+    def is_healthy(self):
+        time.sleep(2)
+        return True
+
 
 @pytest.fixture
 def client(monkeypatch):
@@ -33,6 +37,7 @@ def client(monkeypatch):
     monkeypatch.setattr(api, "_meili_down_until", 0.0)
     monkeypatch.setattr(api, "_hybrid_down_until", 0.0)
     monkeypatch.setattr(api, "_vector_state", {"ready": False, "checked": 0.0})
+    monkeypatch.setattr(api, "_meili_health_state", {"ok": False, "checked": 0.0})
     # one event loop for the whole test, like a real server (a fresh loop per request would wait for stuck threads)
     with TestClient(api.app) as test_client:
         yield test_client
@@ -59,7 +64,9 @@ def test_health_does_not_wait_for_a_busy_meilisearch(client):
     started = time.perf_counter()
     body = client.get("/health").json()
     assert time.perf_counter() - started < 1.5
-    assert body["status"] == "ok" and body["vector_search"] is False
+    assert body["status"] == "ok"
+    assert body["vector_search"] is False
+    assert body["meilisearch"] is False  # real ping timed out / failed, not "client object exists"
 
 
 def test_other_endpoints_stay_fast_while_a_search_is_stuck(client, monkeypatch):
