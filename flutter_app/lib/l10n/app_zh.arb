@@ -205,5 +205,9 @@
   "understoodAs": "理解为",
   "ignoredWords": "已忽略",
   "showingResultsFor": "显示结果：",
-  "photoBy": "照片"
+  "photoBy": "照片",
+  "sectionNav": "目录",
+  "occurrenceCountries": "有观测记录的国家",
+  "countriesCount": "{count} 个国家",
+  "mapAttribution": "地图标出该物种在 GBIF 有出现记录的国家。"
 }

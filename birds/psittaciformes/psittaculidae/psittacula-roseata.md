@@ -27,7 +27,17 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - BD
+  - CN
+  - IN
+  - KH
+  - MM
+  - NP
+  - SG
+  - TH
+  - VN
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -118,7 +128,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 reproduction:
   clutch_size_mean: 4.5

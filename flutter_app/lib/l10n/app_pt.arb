@@ -205,5 +205,9 @@
   "understoodAs": "Entendido como",
   "ignoredWords": "Ignorado",
   "showingResultsFor": "Resultados para",
-  "photoBy": "Foto"
+  "photoBy": "Foto",
+  "sectionNav": "Conteúdo",
+  "occurrenceCountries": "Países com observações",
+  "countriesCount": "{count} países",
+  "mapAttribution": "O mapa destaca países com registros de ocorrência no GBIF para esta espécie."
 }

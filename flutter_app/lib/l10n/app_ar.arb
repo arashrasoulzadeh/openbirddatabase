@@ -205,5 +205,9 @@
   "understoodAs": "فُهم البحث كـ",
   "ignoredWords": "تم تجاهل",
   "showingResultsFor": "نتائج لـ",
-  "photoBy": "صورة"
+  "photoBy": "صورة",
+  "sectionNav": "المحتويات",
+  "occurrenceCountries": "بلدان ذات ملاحظات",
+  "countriesCount": "{count} بلدان",
+  "mapAttribution": "تُبرز الخريطة البلدان التي تحتوي على سجلات ظهور في GBIF لهذا النوع."
 }

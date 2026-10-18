@@ -33,7 +33,25 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - BD
+  - BT
+  - CN
+  - HK
+  - IN
+  - JP
+  - KE
+  - KR
+  - LA
+  - LK
+  - MN
+  - NP
+  - RU
+  - TH
+  - TW
+  - TZ
+  - VN
+  - ZW
   biogeographic_realms:
   - FI
   endemic: false
@@ -135,7 +153,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: High
 ---
 

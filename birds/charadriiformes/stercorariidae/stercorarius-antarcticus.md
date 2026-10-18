@@ -27,7 +27,23 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AQ
+  - AR
+  - AU
+  - BR
+  - FK
+  - GS
+  - HM
+  - IN
+  - NA
+  - NZ
+  - RE
+  - SH
+  - TF
+  - UY
+  - ZA
+  - ZZ
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -120,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 morphology:
   bill_length_mm: 59.2

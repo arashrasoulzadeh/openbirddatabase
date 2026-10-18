@@ -33,7 +33,53 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AM
+  - AO
+  - AZ
+  - BG
+  - BW
+  - BY
+  - CD
+  - CZ
+  - DE
+  - DK
+  - EE
+  - EG
+  - ER
+  - ES
+  - ET
+  - FR
+  - GE
+  - GR
+  - HU
+  - IL
+  - IR
+  - KE
+  - LB
+  - LT
+  - LV
+  - MD
+  - MW
+  - MZ
+  - NA
+  - NL
+  - PL
+  - PS
+  - RO
+  - RU
+  - SD
+  - SE
+  - SK
+  - SS
+  - SY
+  - TR
+  - TZ
+  - UA
+  - UG
+  - ZA
+  - ZM
+  - ZW
   biogeographic_realms:
   - FP
   endemic: false
@@ -145,7 +191,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: High
 demography:
   max_longevity_years: 26

@@ -214,5 +214,26 @@
   "photoBy": "Photo",
   "@photoBy": {
     "description": "Label before the photographer credit under a species photo"
+  },
+  "sectionNav": "Contents",
+  "occurrenceCountries": "Countries with observations",
+  "countriesCount": "{count} countries",
+  "mapAttribution": "Map highlights countries with GBIF occurrence records for this species.",
+  "@countriesCount": {
+    "description": "Count of countries highlighted on the distribution map",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@sectionNav": {
+    "description": "Aria label for the species page section timeline"
+  },
+  "@occurrenceCountries": {
+    "description": "Heading above the occurrence countries map"
+  },
+  "@mapAttribution": {
+    "description": "Short note under the distribution map"
   }
 }

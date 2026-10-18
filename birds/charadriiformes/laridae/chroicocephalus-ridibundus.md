@@ -27,7 +27,47 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - AT
+  - BE
+  - BG
+  - BY
+  - CA
+  - CH
+  - CN
+  - CZ
+  - DE
+  - DK
+  - EE
+  - ES
+  - FI
+  - FR
+  - GB
+  - GR
+  - HR
+  - HU
+  - IE
+  - IL
+  - IM
+  - IN
+  - IS
+  - IT
+  - JP
+  - KR
+  - LT
+  - NL
+  - 'NO'
+  - PL
+  - PT
+  - RO
+  - RS
+  - RU
+  - SE
+  - TR
+  - TW
+  - UA
+  - US
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -120,7 +160,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 morphology:
   bill_length_mm: 43.4

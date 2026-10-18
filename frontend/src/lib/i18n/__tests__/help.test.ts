@@ -28,7 +28,7 @@ describe('help texts', () => {
 
   it('falls back to English for unknown languages', () => {
     expect(helpText('es', 'realm.F.name')).toBe('Afrotropical');
-    expect(helpText('fa', 'realm.F.name')).toContain('آفروتروپیکال');
+    expect(helpText('fa', 'realm.F.name')).toContain('آفروگرمسیری');
   });
 });
 

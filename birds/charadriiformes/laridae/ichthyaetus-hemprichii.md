@@ -27,7 +27,22 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - DJ
+  - EG
+  - ER
+  - IN
+  - IR
+  - KE
+  - OM
+  - QA
+  - SA
+  - SD
+  - SO
+  - TZ
+  - YE
+  - ZA
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -118,7 +133,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 morphology:
   bill_length_mm: 55.7

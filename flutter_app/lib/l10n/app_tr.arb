@@ -205,5 +205,9 @@
   "understoodAs": "Şöyle anlaşıldı",
   "ignoredWords": "Yoksayıldı",
   "showingResultsFor": "Şunun sonuçları",
-  "photoBy": "Fotoğraf"
+  "photoBy": "Fotoğraf",
+  "sectionNav": "İçindekiler",
+  "occurrenceCountries": "Gözlem kaydı olan ülkeler",
+  "countriesCount": "{count} ülke",
+  "mapAttribution": "Harita, bu tür için GBIF gözlem kaydı olan ülkeleri gösterir."
 }

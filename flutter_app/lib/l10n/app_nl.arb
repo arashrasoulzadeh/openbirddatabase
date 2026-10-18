@@ -205,5 +205,9 @@
   "understoodAs": "Opgevat als",
   "ignoredWords": "Genegeerd",
   "showingResultsFor": "Resultaten voor",
-  "photoBy": "Foto"
+  "photoBy": "Foto",
+  "sectionNav": "Inhoud",
+  "occurrenceCountries": "Landen met waarnemingen",
+  "countriesCount": "{count} landen",
+  "mapAttribution": "De kaart markeert landen met GBIF-waarnemingen voor deze soort."
 }

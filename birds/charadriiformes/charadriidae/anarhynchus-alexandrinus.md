@@ -27,7 +27,52 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - AT
+  - BD
+  - BE
+  - BG
+  - CN
+  - CV
+  - CY
+  - DE
+  - DK
+  - EG
+  - ES
+  - FR
+  - GB
+  - GR
+  - HK
+  - IL
+  - IN
+  - IR
+  - IT
+  - JP
+  - KR
+  - KW
+  - KZ
+  - LK
+  - MA
+  - MN
+  - MY
+  - NL
+  - OM
+  - PH
+  - PT
+  - QA
+  - RU
+  - SA
+  - SE
+  - SG
+  - SI
+  - SN
+  - TH
+  - TN
+  - TR
+  - TW
+  - UA
+  - VN
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -117,7 +162,8 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 ---
 

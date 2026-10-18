@@ -27,7 +27,21 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AR
+  - BO
+  - BR
+  - CA
+  - CO
+  - EC
+  - GF
+  - GP
+  - HN
+  - MX
+  - PE
+  - PR
+  - SR
+  - US
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -117,7 +131,8 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 ---
 

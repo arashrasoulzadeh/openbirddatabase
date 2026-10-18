@@ -27,7 +27,41 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - AM
+  - BE
+  - BG
+  - CN
+  - CY
+  - DE
+  - DK
+  - ES
+  - FR
+  - GE
+  - GR
+  - IL
+  - IN
+  - JP
+  - KG
+  - KR
+  - KZ
+  - MN
+  - NL
+  - 'NO'
+  - NP
+  - OM
+  - PK
+  - PT
+  - RO
+  - RU
+  - SA
+  - SE
+  - TR
+  - TW
+  - UA
+  - US
+  - UZ
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -120,7 +154,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: Low
 morphology:
   bill_length_mm: 69.9

@@ -421,7 +421,7 @@
  },
  "field.distribution.countries": {
   "en": "Countries where the species has been observed in the wild (from public observation records).",
-  "fa": "کشورهایی که این گونه در آن‌ها در طبیعت مشاهده شده است (بر پایهٔ ثبت‌های مشاهدهٔ عمومی).",
+  "fa": "کشورهایی که برای این گونه در پایگاه GBIF مشاهده ثبت شده است (نه الزاماً کل گسترهٔ زادآوری).",
   "ar": "البلدان التي لوحظ فيها هذا النوع في البرية (من سجلات الرصد العامة).",
   "es": "Países donde se ha observado la especie en libertad (según registros públicos de observación).",
   "fr": "Pays où l'espèce a été observée dans la nature (d'après les relevés d'observation publics).",
@@ -1696,7 +1696,7 @@
  },
  "realm.F.name": {
   "en": "Afrotropical",
-  "fa": "آفروتروپیکال (آفریقای جنوب صحرا)",
+  "fa": "آفروگرمسیری (آفریقای جنوب صحرا)",
   "ar": "المنطقة الأفروتروبية",
   "es": "Afrotropical",
   "fr": "Afrotropical",
@@ -1726,7 +1726,7 @@
  },
  "realm.I.name": {
   "en": "Indomalayan",
-  "fa": "هند و مالایایی",
+  "fa": "هندومالایی",
   "ar": "المنطقة الهندية الملايوية",
   "es": "Indomalaya",
   "fr": "Indomalais",
@@ -1756,7 +1756,7 @@
  },
  "realm.L.name": {
   "en": "Neotropical",
-  "fa": "نئوتروپیکال (آمریکای لاتین)",
+  "fa": "نئوگرمسیری (آمریکای لاتین)",
   "ar": "المنطقة الاستوائية الجديدة",
   "es": "Neotropical",
   "fr": "Néotropical",

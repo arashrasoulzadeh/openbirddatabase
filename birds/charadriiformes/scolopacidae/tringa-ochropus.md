@@ -33,7 +33,51 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - AT
+  - BE
+  - BG
+  - CH
+  - CN
+  - CY
+  - CZ
+  - DE
+  - DK
+  - EE
+  - ES
+  - ET
+  - FI
+  - FR
+  - GB
+  - GM
+  - GR
+  - HK
+  - HU
+  - IL
+  - IN
+  - IR
+  - IT
+  - JP
+  - KE
+  - KR
+  - LK
+  - MA
+  - MN
+  - NL
+  - 'NO'
+  - NP
+  - OM
+  - PL
+  - PT
+  - RS
+  - RU
+  - SE
+  - TH
+  - TR
+  - TW
+  - TZ
+  - UA
   biogeographic_realms:
   - E
   endemic: false
@@ -145,7 +189,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+last_updated: '2026-10-18'
 data_quality: High
 demography:
   max_longevity_years: 12

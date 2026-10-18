@@ -205,5 +205,9 @@
   "understoodAs": "Verstanden als",
   "ignoredWords": "Nicht berücksichtigt",
   "showingResultsFor": "Ergebnisse für",
-  "photoBy": "Foto"
+  "photoBy": "Foto",
+  "sectionNav": "Inhalt",
+  "occurrenceCountries": "Länder mit Nachweisen",
+  "countriesCount": "{count} Länder",
+  "mapAttribution": "Die Karte markiert Länder mit GBIF-Vorkommen dieser Art."
 }

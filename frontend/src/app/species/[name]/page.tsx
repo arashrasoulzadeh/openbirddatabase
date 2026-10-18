@@ -9,8 +9,11 @@ import IucnBadge from '@/components/IucnBadge';
 import HelpTip from '@/components/HelpTip';
 import RealmChips from '@/components/RealmChips';
 import ScoreBars from '@/components/ScoreBars';
+import DistributionMap from '@/components/DistributionMap';
+import SectionNav from '@/components/SectionNav';
 import { taxonLabel } from '@/lib/i18n/taxa';
 import SpeciesPhoto from '@/components/SpeciesPhoto';
+import { countryLabel, sortCountryCodes } from '@/lib/i18n/countries';
 import { ID_LINKS, fieldHelp, formatMeasurement, helpText, valueHelp, xenoCantoUrl } from '@/lib/i18n/help';
 import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
 import { usableName, displayName, fieldLabel, iucnLabel, isCategoricalPath, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
@@ -37,6 +40,19 @@ function Value({ lang, path, value }: { lang: Lang; path: string; value: any }) 
   const unit = (k: string) => helpText(lang, `unit.${k}`) ?? k;
 
   if (path === 'distribution.biogeographic_realms') return <RealmChips values={Array.isArray(value) ? value : [value]} />;
+
+  if (path === 'distribution.countries' && Array.isArray(value)) {
+    const codes = sortCountryCodes(lang, value.map(String));
+    return (
+      <span className="flex flex-wrap justify-end gap-1">
+        {codes.map((code) => (
+          <span key={code} className="rounded-md bg-teal-50 px-2 py-0.5 text-xs text-teal-900 ring-1 ring-inset ring-teal-100" title={code} dir="auto">
+            {countryLabel(lang, code)}
+          </span>
+        ))}
+      </span>
+    );
+  }
 
   if (Array.isArray(value)) {
     return (
@@ -300,27 +316,36 @@ export default async function SpeciesPage({ params }: Props) {
         </div>
       </section>
 
-      <main className="mx-auto max-w-4xl space-y-5 px-4 py-6 sm:px-6">
-        <nav aria-label="Sections" className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 scrollbar-hide sm:mx-0 sm:flex-wrap sm:px-0">
-          {nested.map(([key]) => (
-            <a
-              key={key}
-              href={`#${key}`}
-              className="shrink-0 rounded-full border border-stone-200 bg-white px-3 py-1 text-sm text-stone-600 hover:border-brand-300 hover:text-brand-800"
-            >
-              {fieldLabel(lang, key)}
-            </a>
-          ))}
-        </nav>
+      <main className="mx-auto max-w-4xl space-y-5 px-4 py-6 sm:px-6 lg:pr-52 xl:pr-56">
+        <SectionNav
+          label={t('sectionNav')}
+          items={[
+            ...nested.map(([key]) => ({ id: key, label: fieldLabel(lang, key) })),
+            { id: 'names', label: t('namesInOtherLanguages') },
+            ...(completeness ? [{ id: 'completeness', label: t('dataCompleteness') }] : []),
+            { id: 'identifiers', label: t('identifiersSources') },
+          ]}
+        />
 
         {nested.map(([key, value]) => (
           <section key={key} id={key} className={card}>
             <h2 className={h2}>{fieldLabel(lang, key)}</h2>
-            <Fields lang={lang} data={value as Record<string, any>} path={key} />
+            {key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0 && (
+              <DistributionMap countries={(value as any).countries} />
+            )}
+            <Fields
+              lang={lang}
+              data={
+                key === 'distribution' && Array.isArray((value as any)?.countries) && (value as any).countries.length > 0
+                  ? Object.fromEntries(Object.entries(value as Record<string, any>).filter(([k]) => k !== 'countries'))
+                  : (value as Record<string, any>)
+              }
+              path={key}
+            />
           </section>
         ))}
 
-        <section className={card}>
+        <section id="names" className={card}>
           <h2 className={h2}>{t('namesInOtherLanguages')}</h2>
           <dl className="grid grid-cols-1 gap-x-6 gap-y-1 sm:grid-cols-2">
             {LOCALES.filter((l) => names[l.code]).map((l) => (
@@ -375,7 +400,7 @@ export default async function SpeciesPage({ params }: Props) {
           <RelatedSpecies taxonomy={sp.taxonomy} scientific={names.scientific || name} lang={lang} card={card} h2={h2} />
         </Suspense>
 
-        <section className={card}>
+        <section id="identifiers" className={card}>
           <h2 className={h2}>{t('identifiersSources')}</h2>
           <Fields lang={lang} data={{ ...topLevel, sources, last_updated }} />
         </section>

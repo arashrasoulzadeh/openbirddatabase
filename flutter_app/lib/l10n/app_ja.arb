@@ -205,5 +205,9 @@
   "understoodAs": "検索の解釈",
   "ignoredWords": "無視した語",
   "showingResultsFor": "次の検索結果",
-  "photoBy": "写真"
+  "photoBy": "写真",
+  "sectionNav": "目次",
+  "occurrenceCountries": "観察記録のある国",
+  "countriesCount": "{count} か国",
+  "mapAttribution": "地図は、この種のGBIF出現記録がある国を示します。"
 }

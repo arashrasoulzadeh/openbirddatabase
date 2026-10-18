@@ -205,5 +205,9 @@
   "understoodAs": "Rozumiem jako",
   "ignoredWords": "Pominięto",
   "showingResultsFor": "Wyniki dla",
-  "photoBy": "Zdjęcie"
+  "photoBy": "Zdjęcie",
+  "sectionNav": "Spis treści",
+  "occurrenceCountries": "Kraje z obserwacjami",
+  "countriesCount": "{count} krajów",
+  "mapAttribution": "Mapa podświetla kraje z rekordami występowania GBIF dla tego gatunku."
 }
