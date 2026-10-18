@@ -20,8 +20,10 @@ COPY _schemas/ ./_schemas/
 COPY _templates/ ./_templates/
 COPY _index/ ./_index/
 COPY birds/ ./birds/
+COPY images/ ./images/
 RUN mkdir -p /app/translations
 
 EXPOSE 8000
 
-CMD ["uvicorn", "_scripts.api:app", "--host", "0.0.0.0", "--port", "8000"]
+# Two workers by default: slow work in one request (a cache miss, a busy MeiliSearch) cannot hold up the other process
+CMD ["sh", "-c", "exec uvicorn _scripts.api:app --host 0.0.0.0 --port 8000 --workers ${API_WORKERS:-2}"]

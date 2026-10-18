@@ -2,6 +2,7 @@
 """FastAPI server for OpenBird database with MeiliSearch and GraphQL integration."""
 
 import asyncio
+import gzip
 import json
 import logging
 import os
@@ -9,10 +10,13 @@ import random
 import time
 import yaml
 from pathlib import Path
+from collections import OrderedDict
+from contextvars import ContextVar
 from typing import Optional, List, Dict, Any
 from fastapi import FastAPI, Query, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 import meilisearch
 import strawberry
@@ -20,12 +24,15 @@ from strawberry.fastapi import GraphQLRouter
 from _scripts.graphql_schema import schema
 from _scripts.analytics import router as analytics_router
 from _scripts.completeness import with_completeness
+from _scripts.fast_search import FastIndex
+from _scripts.query_intent import Lexicon, parse as parse_intent
 from _scripts.cache_utils import CACHE_PREFIX, search_key, slug_of, species_key, to_json_bytes
 
 # Configuration
 BIRDS_DIR = Path("birds")
 TRANSLATIONS_DIR = Path("translations")
 INDEX_DIR = Path("_index")
+IMAGES_DIR = Path(os.environ.get("IMAGES_DIR", "images"))  # species photos: images/<slug>.jpg (see images/README.md)
 MEILI_HOST = os.environ.get("MEILI_HOST", "http://localhost:7700")
 MEILI_INDEX_NAME = "birds"
 
@@ -36,6 +43,13 @@ SEMANTIC_RATIO = float(os.environ.get("SEMANTIC_RATIO", "0.5"))  # 0 = keywords 
 EMBEDDER_NAME = "default"
 # Search hits skip the long body_text; the species page loads full details from /species/{name}
 HIT_FIELDS_EXCLUDED = {"body_text"}
+FAST_SEARCH = os.environ.get("FAST_SEARCH", "true").lower() not in ("0", "false", "no")  # in-memory ranked search first, MeiliSearch only when it finds nothing
+LOCAL_CACHE_SIZE = int(os.environ.get("LOCAL_CACHE_SIZE", "2000"))      # search responses kept in this process
+LOCAL_CACHE_TTL = int(os.environ.get("LOCAL_CACHE_TTL", "300"))         # seconds, search responses
+LOCAL_CACHE_TTL_STATIC = int(os.environ.get("LOCAL_CACHE_TTL_STATIC", "3600"))  # species, taxonomy, filters, stats
+LOCAL_CACHE_MAX_BYTES = int(os.environ.get("LOCAL_CACHE_MAX_MB", "96")) * 1024 * 1024
+# Fields a list view needs; with ?lang= a hit carries only English plus that language's name (~1/3 of the bytes)
+SLIM_HIT_FIELDS = ("id", "scientific_name", "genus", "family", "order", "iucn_status", "primary_habitat", "primary_diet", "migration_status", "data_quality")
 
 # MeiliSearch must never stall the API: every call has a timeout and runs in a worker thread, and after a failure
 # the API skips MeiliSearch for a while and answers from the in-memory index instead (circuit breaker).
@@ -91,14 +105,80 @@ async def cache_set(key: str, value: bytes, ttl: int) -> None:
     except Exception:
         pass
 
+class _Entry:
+    """A cached response body, plus its gzip form (made once, so large bodies such as /taxonomy are never recompressed)."""
+    __slots__ = ("expires", "raw", "gz")
+
+    def __init__(self, raw: bytes, gz: Optional[bytes], ttl: float) -> None:
+        self.expires, self.raw, self.gz = time.time() + ttl, raw, gz
+
+
+_local_cache: "OrderedDict[str, _Entry]" = OrderedDict()  # in this process: faster than a Redis round trip
+_local_bytes = 0
+_accepts_gzip: ContextVar[bool] = ContextVar("accepts_gzip", default=False)
+
+
+def _local_get(key: str) -> Optional[_Entry]:
+    entry = _local_cache.get(key)
+    if entry is None:
+        return None
+    if entry.expires <= time.time():
+        _local_drop(key)
+        return None
+    _local_cache.move_to_end(key)
+    return entry
+
+
+def clear_local_cache() -> None:
+    global _local_bytes
+    _local_cache.clear()
+    _local_bytes = 0
+
+
+def _local_drop(key: str) -> None:
+    global _local_bytes
+    entry = _local_cache.pop(key, None)
+    if entry:
+        _local_bytes -= len(entry.raw) + len(entry.gz or b"")
+
+
+def _local_set(key: str, entry: _Entry) -> None:
+    global _local_bytes
+    _local_drop(key)
+    _local_cache[key] = entry
+    _local_bytes += len(entry.raw) + len(entry.gz or b"")
+    while _local_cache and (len(_local_cache) > LOCAL_CACHE_SIZE or _local_bytes > LOCAL_CACHE_MAX_BYTES):
+        _local_drop(next(iter(_local_cache)))
+
+
+async def _make_entry(raw: bytes, ttl: float) -> _Entry:
+    if len(raw) < 1024:
+        return _Entry(raw, None, ttl)
+    compress = lambda: gzip.compress(raw, compresslevel=6, mtime=0)
+    return _Entry(raw, compress() if len(raw) < 100_000 else await asyncio.to_thread(compress), ttl)
+
+
+def _respond(entry: _Entry, hit: bool, layer: str) -> Response:
+    headers = {"X-Cache": "HIT" if hit else "MISS", "X-Cache-Layer": layer, "Vary": "Accept-Encoding"}
+    if entry.gz is not None and _accepts_gzip.get():
+        return Response(entry.gz, media_type="application/json", headers={**headers, "Content-Encoding": "gzip"})
+    return Response(entry.raw, media_type="application/json", headers=headers)
+
+
 async def cached_response(key: str, ttl: int, producer) -> Response:
-    """JSON response served from Redis when possible. Errors raised by `producer` are never cached."""
-    hit = await cache_get(key)
-    if hit is not None:
-        return Response(hit, media_type="application/json", headers={"X-Cache": "HIT"})
-    body = await asyncio.to_thread(to_json_bytes, await producer())  # large documents: keep the event loop free
-    await cache_set(key, body, ttl)
-    return Response(body, media_type="application/json", headers={"X-Cache": "MISS"})
+    """JSON response from the process cache, then Redis, then `producer`. Errors raised by `producer` are never cached."""
+    entry = _local_get(key)
+    if entry is not None:
+        return _respond(entry, True, "process")
+    body = await cache_get(key)
+    hit, layer = body is not None, "redis"
+    if body is None:
+        body = await asyncio.to_thread(to_json_bytes, await producer())  # large documents: keep the event loop free
+        await cache_set(key, body, ttl)
+        layer = "none"
+    entry = await _make_entry(body, min(ttl, LOCAL_CACHE_TTL_STATIC))
+    _local_set(key, entry)
+    return _respond(entry, hit, layer)
 
 app = FastAPI(
     title="OpenBird API",
@@ -106,7 +186,16 @@ app = FastAPI(
     version="1.0.0"
 )
 
-app.add_middleware(GZipMiddleware, minimum_size=1024)
+class _Gzip(GZipMiddleware):
+    """Compress JSON and text, but not photos (already compressed JPEGs)."""
+
+    async def __call__(self, scope, receive, send):
+        if scope["type"] == "http" and scope["path"].startswith("/images/"):
+            return await self.app(scope, receive, send)
+        return await super().__call__(scope, receive, send)
+
+
+app.add_middleware(_Gzip, minimum_size=1024, compresslevel=4)  # level 9 (the default) costs milliseconds per response
 app.add_middleware(
     CORSMiddleware,
     allow_origins=CORS_ORIGINS,
@@ -134,6 +223,7 @@ _CACHE_CONTROL = (
     ("/stats", "public, max-age=300, stale-while-revalidate=3600"),
     ("/species/", "public, max-age=600, stale-while-revalidate=3600"),
     ("/search", "public, max-age=60, stale-while-revalidate=300"),
+    ("/images/", "public, max-age=604800, stale-while-revalidate=86400"),
 )
 
 
@@ -141,6 +231,7 @@ _CACHE_CONTROL = (
 async def timing_and_caching(request, call_next):
     """Adds Server-Timing, logs slow requests and sets Cache-Control on the cacheable GET endpoints."""
     started = time.perf_counter()
+    _accepts_gzip.set("gzip" in request.headers.get("accept-encoding", ""))
     response = await call_next(request)
     elapsed_ms = (time.perf_counter() - started) * 1000
     response.headers["Server-Timing"] = f"app;dur={elapsed_ms:.0f}"
@@ -154,6 +245,9 @@ async def timing_and_caching(request, call_next):
         else:
             response.headers["Cache-Control"] = "no-store"
     return response
+
+# Species photos (the directory may be empty or missing; requests then simply return 404)
+app.mount("/images", StaticFiles(directory=str(IMAGES_DIR), check_dir=False), name="images")
 
 # Load taxonomy tree and field stats at startup
 taxonomy_tree = {}
@@ -325,26 +419,114 @@ def _hit_attributes() -> List[str]:
             keys.append(k)
     return keys
 
-@app.post("/search", response_model=Dict[str, Any])
-async def search_species(request: SearchRequest):
-    """Search species (cached in Redis for a few minutes)."""
+def _slim_hits(result: Dict[str, Any], lang: Optional[str]) -> Dict[str, Any]:
+    """Keep the list-view fields and the names in English + `lang` (other clients, which pass no lang, get everything)."""
+    if not lang or not isinstance(result, dict):
+        return result
+    names = {"common_name_en", f"common_name_{lang}"}
+    keep = set(SLIM_HIT_FIELDS) | names
+    return {**result, "hits": [{k: v for k, v in hit.items() if k in keep} for hit in result.get("hits", [])]}
+
+
+async def search_bytes(request: "SearchRequest", lang: Optional[str] = None) -> Response:
+    """Search response as ready-made JSON bytes: process cache, then Redis, then the search itself."""
     key = search_key(
         q=request.q.strip(), limit=request.limit, offset=request.offset, filters=request.filters,
-        filter_map=request.filter_map, attributes=request.attributes, ratio=request.semantic_ratio,
+        filter_map=request.filter_map, attributes=request.attributes, ratio=request.semantic_ratio, lang=lang or "",
     )
-    hit = await cache_get(key)
-    if hit is not None:
-        return json.loads(hit)
-    result = await _search_uncached(request)
-    if isinstance(result, dict):
-        await cache_set(key, to_json_bytes(result), CACHE_SEARCH_TTL)
-    return result
+    entry = _local_get(key)
+    if entry is not None:
+        return _respond(entry, True, "process")
+    body = await cache_get(key)
+    hit = body is not None
+    if body is None:
+        result = _slim_hits(await _search_uncached(request), lang)
+        body = to_json_bytes(result) if len(result.get("hits", [])) < 200 else await asyncio.to_thread(to_json_bytes, result)
+        await cache_set(key, body, CACHE_SEARCH_TTL)
+    entry = await _make_entry(body, LOCAL_CACHE_TTL)
+    _local_set(key, entry)
+    return _respond(entry, hit, "redis" if hit else "none")
+
+
+@app.post("/search")
+async def search_species(request: SearchRequest):
+    """Search species (cached in this process and in Redis)."""
+    return await search_bytes(request)
+
+
+_fast_index: Optional[FastIndex] = None
+
+
+def get_fast_index() -> FastIndex:
+    global _fast_index
+    if _fast_index is None:
+        _fast_index = FastIndex(get_species_index())
+    return _fast_index
+
+
+_lexicon: Optional[Lexicon] = None
+_lexicon_loaded = False
+
+
+def get_lexicon() -> Optional[Lexicon]:
+    global _lexicon, _lexicon_loaded
+    if not _lexicon_loaded:
+        _lexicon, _lexicon_loaded = Lexicon.load(INDEX_DIR / "intent-lexicon.json"), True
+    return _lexicon
+
+
+def _result(docs, total, request, **extra) -> Dict[str, Any]:
+    hits = [{k: v for k, v in d.items() if k not in HIT_FIELDS_EXCLUDED} for d in docs]
+    return {"hits": hits, "total": total, "limit": request.limit, "offset": request.offset, **extra}
+
+
+def _intent_search(request: "SearchRequest") -> Optional[Dict[str, Any]]:
+    """Sentences such as "گونه های در حال انقراض" or "owls that live in forests": known phrases become filters, the
+    leftover words search the names. Filters given in the URL must agree with the sentence (they narrow it)."""
+    lexicon = get_lexicon()
+    intent = parse_intent(request.q, lexicon) if lexicon else None
+    if intent is None:
+        return None
+    filters: Dict[str, Any] = dict(intent.filters)
+    for field, value in (request.filter_map or {}).items():
+        if field in filters and value not in filters[field]:
+            return None
+        filters[field] = [value] if field in filters else value
+    index, text = get_fast_index(), " ".join(intent.words)
+    docs, total, _ = index.search_ex(text, filters, request.limit, request.offset, fuzzy=False, whole_words=True)
+    ignored: List[str] = []
+    if not total and intent.words:  # a leftover word that matches no name (a place, a colour...): search by the filters alone
+        ignored, text = intent.words, ""
+        docs, total, _ = index.search_ex("", filters, request.limit, request.offset, fuzzy=False)
+    if not total:
+        return None
+    return _result(docs, total, request, interpreted={"filters": intent.filters, "words": intent.words if not ignored else [], "ignored": ignored})
+
+
+def fast_search_sync(request: "SearchRequest") -> Dict[str, Any]:
+    """Names first, then sentences, then names with typos fixed."""
+    index = get_fast_index()
+    docs, total, _ = index.search_ex(request.q, request.filter_map, request.limit, request.offset, fuzzy=False)
+    if total or not request.q.strip():
+        return _result(docs, total, request)
+    understood = _intent_search(request)
+    if understood is not None:
+        return understood
+    docs, total, corrected = index.search_ex(request.q, request.filter_map, request.limit, request.offset)
+    return _result(docs, total, request, **({"corrected_query": corrected} if corrected else {}))
+
 
 async def _search_uncached(request: SearchRequest):
-    """Search species with MeiliSearch (hybrid keyword + vector), falling back to the in-memory index."""
+    """Ranked in-memory search first (about 2 ms). Only when that finds nothing (typos, questions like "bird that eats
+    fish") MeiliSearch is asked, with keyword + vector search; if it is down the empty in-memory answer is returned."""
     global _meili_down_until, _hybrid_down_until
+    fast = None
+    if FAST_SEARCH and not request.attributes:
+        fast = fast_search_sync(request)
+        if fast["total"] > 0 or not request.q.strip():
+            return fast
     if not meili_client or time.time() < _meili_down_until:
-        return await asyncio.to_thread(fallback_search_sync, request)
+        return fast if fast is not None else await asyncio.to_thread(fallback_search_sync, request)
 
     index = meili_client.index(MEILI_INDEX_NAME)
     params: Dict[str, Any] = {
@@ -371,7 +553,7 @@ async def _search_uncached(request: SearchRequest):
     except Exception as error:
         _meili_down_until = time.time() + MEILI_BREAKER_SECONDS
         log.warning("MeiliSearch unavailable (%s); using the in-memory index for %.0f s", type(error).__name__, MEILI_BREAKER_SECONDS)
-        return await asyncio.to_thread(fallback_search_sync, request)
+        return fast if fast is not None else await asyncio.to_thread(fallback_search_sync, request)
 
 _species_index: Optional[List[Dict]] = None
 _search_blobs: Optional[List[str]] = None
@@ -415,12 +597,13 @@ def fallback_search_sync(request: SearchRequest):
 async def fallback_search(request: SearchRequest):
     return await asyncio.to_thread(fallback_search_sync, request)
 
-@app.get("/search", response_model=Dict[str, Any])
+@app.get("/search")
 async def search_species_get(
     q: str = "",
     limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
     semantic_ratio: Optional[float] = Query(None, ge=0, le=1),
+    lang: Optional[str] = Query(None, pattern="^[a-z]{2}$", description="Return only English and this language's common name per hit"),
     iucn_status: Optional[str] = None,
     order: Optional[str] = None,
     family: Optional[str] = None,
@@ -436,8 +619,8 @@ async def search_species_get(
             "migration_status": migration_status,
         }.items() if v
     }
-    return await search_species(
-        SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio, filter_map=filter_map or None)
+    return await search_bytes(
+        SearchRequest(q=q, limit=limit, offset=offset, semantic_ratio=semantic_ratio, filter_map=filter_map or None), lang
     )
 
 @app.get("/random")
@@ -559,6 +742,7 @@ async def preload() -> None:
     def work():
         get_species_index()
         _blobs()
+        get_fast_index()
         get_species_file("")
         _hit_attributes()
     started = time.perf_counter()

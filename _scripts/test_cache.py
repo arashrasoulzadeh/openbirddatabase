@@ -17,6 +17,7 @@ def client(monkeypatch):
     fake = fakeredis.aioredis.FakeRedis()
     monkeypatch.setattr(api, "redis_client", fake)
     monkeypatch.setattr(api, "meili_client", None)  # use the JSON index, not a MeiliSearch server
+    api.clear_local_cache()
     return TestClient(api.app)
 
 
@@ -90,8 +91,26 @@ def test_warmer_writes_the_keys_the_api_reads(tmp_path, monkeypatch):
     assert stored["names"]["en"] == "Great Tit"
     assert stored["score"] is None  # NaN would be invalid JSON
     assert stored["completeness"]["core"]["total"] == 57  # the warmer stores what the API would serve
-    assert warm_cache.flush_app_keys(fake) == 1
+    assert warm_cache.flush_app_keys(fake) == 2  # the species and the "files unchanged" marker
     assert fake.keys("*") == []
+
+
+def test_hourly_warmups_skip_species_files_that_did_not_change(tmp_path, monkeypatch, capsys):
+    birds = tmp_path / "birds" / "x"
+    birds.mkdir(parents=True)
+    (birds / "parus-major.md").write_text("---\nnames:\n  scientific: Parus major\n---\n", encoding="utf-8")
+    monkeypatch.setattr(warm_cache, "BIRDS_DIR", tmp_path / "birds")
+    fake = fakeredis.FakeRedis()
+    warm_cache.load_species(fake)
+    capsys.readouterr()
+    assert warm_cache.load_species(fake, force=False) == 1
+    assert "not reloading" in capsys.readouterr().out
+    fake.flushall()                                    # Redis restarted: the marker is gone, so everything is loaded again
+    warm_cache.load_species(fake, force=False)
+    assert "not reloading" not in capsys.readouterr().out and fake.get(CACHE_PREFIX + species_key("parus-major"))
+    (birds / "parus-major.md").write_text("---\nnames:\n  scientific: Parus major\nx: 1\n---\n", encoding="utf-8")
+    warm_cache.load_species(fake, force=False)         # a file changed: reloaded
+    assert "not reloading" not in capsys.readouterr().out
 
 
 def test_helpers():

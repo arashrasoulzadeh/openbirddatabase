@@ -48,6 +48,11 @@ services:
       - ANALYTICS_DB=/data/analytics.db
       - ANALYTICS_TOKEN=${ANALYTICS_TOKEN:-}
       - ANALYTICS_ENABLED=${ANALYTICS_ENABLED:-true}
+      - API_WORKERS=${API_WORKERS:-2}
+      # a busy MeiliSearch (vector indexing) must not freeze the API: searches time out and fall back
+      - MEILI_TIMEOUT=${MEILI_TIMEOUT:-3}
+      - FAST_SEARCH=${FAST_SEARCH:-true}
+      - HYBRID_TIMEOUT=${HYBRID_TIMEOUT:-1.5}
     depends_on:
       - meilisearch
       - redis
@@ -62,22 +67,26 @@ services:
     command: ["redis-server", "--maxmemory", "${REDIS_MAXMEMORY:-768mb}", "--maxmemory-policy", "allkeys-lru", "--save", ""]
     restart: unless-stopped
 
-  # One-shot: pre-fills Redis with every species and the common API responses on each `docker compose up`
+  # Pre-fills Redis with every species and the common API responses on `docker compose up`, then refreshes it every
+  # WARM_EVERY seconds (default 1 hour). Set WARM_EVERY=0 in .env for a single pass.
   cache-warmer:
     image: ${IMAGE_PREFIX:-ghcr.io/arashrasoulzadeh}/openbird-api:${IMAGE_TAG:-latest}
     command: python _scripts/warm_cache.py
     environment:
       - REDIS_URL=redis://redis:6379/0
       - API_URL=http://api:8000
+      - WARM_EVERY=${WARM_EVERY:-3600}
     depends_on:
       - redis
       - api
-    restart: "no"
+    restart: unless-stopped
 
   meilisearch:
     image: getmeili/meilisearch:v1.13
     environment:
       - MEILI_NO_ANALYTICS=true
+      # computing vectors is CPU heavy: leave room for the other services on a shared server
+      - MEILI_MAX_INDEXING_THREADS=${MEILI_INDEXING_THREADS:-2}
       # lets the newer engine open data created by an older version (the index is rebuildable anyway)
       - MEILI_EXPERIMENTAL_DUMPLESS_UPGRADE=true
     volumes:

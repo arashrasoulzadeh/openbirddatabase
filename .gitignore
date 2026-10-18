@@ -72,8 +72,7 @@ exports/*.yaml
 exports/*.csv
 exports/*.xlsx
 
-# Images
-images/
+# (images/ holds the species photos and is tracked on purpose)
 # Local deployment config
 .env
 meili_data/

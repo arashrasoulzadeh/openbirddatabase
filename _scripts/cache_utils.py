@@ -38,5 +38,17 @@ def sanitize(obj: Any) -> Any:
     return obj
 
 
+try:  # several times faster than json.dumps; optional
+    import orjson
+except ImportError:  # pragma: no cover
+    orjson = None
+
+
 def to_json_bytes(obj: Any) -> bytes:
-    return json.dumps(sanitize(obj), ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    obj = sanitize(obj)
+    if orjson is not None:
+        try:
+            return orjson.dumps(obj)
+        except TypeError:  # keys or values orjson does not take; the standard library copes
+            pass
+    return json.dumps(obj, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
