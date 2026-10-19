@@ -4,8 +4,8 @@
 
 @layer base {
   :root {
-    --font-sans: 'Inter', system-ui, sans-serif;
-    --font-vazir: 'Vazirmatn', 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, sans-serif;
+    --font-sans: var(--ff-inter), var(--ff-vazir), system-ui, sans-serif;
+    --font-vazir: var(--ff-vazir), 'Vazirmatn', 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, sans-serif;
   }
   
   html {

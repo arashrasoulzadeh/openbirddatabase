@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Suspense } from 'react';
-import { cookies, headers } from 'next/headers';
+import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { ApiError, getFamily, getSpecies } from '@/lib/api';
 import SiteHeader from '@/components/SiteHeader';
@@ -15,15 +15,23 @@ import { taxonLabel } from '@/lib/i18n/taxa';
 import SpeciesPhoto from '@/components/SpeciesPhoto';
 import { countryLabel, sortCountryCodes } from '@/lib/i18n/countries';
 import { ID_LINKS, fieldHelp, formatMeasurement, helpText, valueHelp, xenoCantoUrl } from '@/lib/i18n/help';
-import { LANG_COOKIE, Lang, LOCALES, isLang, langFromAcceptLanguage, nativeName } from '@/lib/i18n/locales';
+import Breadcrumbs from '@/components/Breadcrumbs';
+import JsonLd from '@/components/JsonLd';
+import { SITE_URL } from '@/lib/config';
+import { Lang, LOCALES, nativeName } from '@/lib/i18n/locales';
+import { localePath } from '@/lib/i18n/routes';
+import { requestLang } from '@/lib/i18n/server';
+import { photoUrl } from '@/lib/photos';
+import { absoluteUrl, clip, pageMetadata } from '@/lib/seo';
 import { usableName, displayName, fieldLabel, iucnLabel, isCategoricalPath, nameFromNames, nameFromTree, translate, valueLabel } from '@/lib/i18n/translate';
 
 type Props = { params: { name: string } };
 
-const currentLang = (): Lang => {
-  const c = cookies().get(LANG_COOKIE)?.value;
-  return isLang(c) ? c : langFromAcceptLanguage(headers().get('accept-language'));
-};
+const currentLang = (): Lang => requestLang(); // from the URL prefix (/fa/...), see middleware.ts
+
+const speciesPath = (name: string) => `/species/${encodeURIComponent(name)}`;
+const orderPath = (order: string) => `/order/${encodeURIComponent(order)}`;
+const familyPath = (order: string, family: string) => `/family/${encodeURIComponent(order)}/${encodeURIComponent(family)}`;
 
 function sectionNavItems(
   lang: Lang,
@@ -189,7 +197,7 @@ function Fields({ lang, data, path = '' }: { lang: Lang; data: Record<string, an
   );
 }
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const name = decodeURIComponent(params.name);
   const lang = currentLang();
   try {
@@ -198,17 +206,26 @@ export async function generateMetadata({ params }: Props) {
     const local = displayName(lang, nameFromNames(sp?.names, lang, ''));
     // "Carbonero Común (Parus major) | OpenBird"; just the scientific name when there is no usable common name
     const title = local && local.toLowerCase() !== scientific.toLowerCase() ? `${local} (${scientific}) | OpenBird` : `${scientific} | OpenBird`;
-    const description = (helpText(lang, 'ui.speciesDescription') ?? '')
-      .replace('{name}', local || scientific)
-      .replace('{scientific}', scientific);
-    return {
+    const status = sp.iucn_status || sp.conservation?.iucn_status;
+    const facts = [
+      sp.taxonomy?.family ? taxonLabel(lang, sp.taxonomy.family) || sp.taxonomy.family : '',
+      status ? iucnLabel(lang, status) : '',
+      sp.habitat?.primary ? valueLabel(lang, 'habitat.primary', sp.habitat.primary) : '',
+      sp.diet?.primary ? valueLabel(lang, 'diet.primary', sp.diet.primary) : '',
+    ].filter(Boolean);
+    const base = (helpText(lang, 'ui.speciesDescription') ?? '').replace('{name}', local || scientific).replace('{scientific}', scientific);
+    const photo = sp.image?.file as string | undefined;
+    return pageMetadata({
+      lang,
+      path: speciesPath(scientific),
       title,
-      description,
-      alternates: { canonical: `/species/${encodeURIComponent(name)}` },
-      openGraph: { type: 'article', title, description },
-    };
+      description: clip(facts.length ? `${base} ${facts.join(' · ')}` : base),
+      type: 'article',
+      image: photo ? photoUrl(photo) : undefined,
+      imageAlt: local || scientific,
+    });
   } catch {
-    return { title: `${name} | OpenBird` };
+    return { title: `${name} | OpenBird`, robots: { index: false, follow: false } }; // not found / API down: do not index an error page
   }
 }
 
@@ -288,17 +305,77 @@ export default async function SpeciesPage({ params }: Props) {
   if (sp.behavior?.migration_status) facts.push([fieldLabel(lang, 'behavior.migration_status'), valueLabel(lang, 'behavior.migration_status', sp.behavior.migration_status)]);
   const status = sp.iucn_status || sp.conservation?.iucn_status;
 
+  // Home > order > family > species: visible trail and BreadcrumbList structured data
+  const order: string | undefined = sp.taxonomy?.order;
+  const family: string | undefined = sp.taxonomy?.family;
+  const scientificName: string = names.scientific || name;
+  const crumbs = [
+    { label: 'OpenBird', href: localePath(lang, '/') },
+    ...(order ? [{ label: taxonLabel(lang, order) || order, href: localePath(lang, orderPath(order)) }] : []),
+    ...(order && family ? [{ label: taxonLabel(lang, family) || family, href: localePath(lang, familyPath(order, family)) }] : []),
+    { label: localName },
+  ];
+  const pageUrl = absoluteUrl(lang, speciesPath(scientificName));
+  const commonNames = Array.from(new Set(Object.entries(names).filter(([k]) => k !== 'scientific').map(([, v]) => usableName(v)).filter(Boolean)));
+  const sameAs = [
+    sp.gbif_key ? `https://www.gbif.org/species/${sp.gbif_key}` : '',
+    sp.ebird_code ? `https://ebird.org/species/${sp.ebird_code}` : '',
+    sp.avibase_id ? `https://avibase.bsc-eoc.org/species.jsp?avibaseid=${sp.avibase_id}` : '',
+  ].filter(Boolean);
+  const photoFile = (sp.images?.[0] ?? sp.image)?.file as string | undefined;
+  const lineage = (rank: string, value?: string, parent?: Record<string, unknown>) => (value ? { '@type': 'Taxon', name: value, taxonRank: rank, ...(parent ? { parentTaxon: parent } : {}) } : undefined);
+  const parent = lineage('genus', sp.taxonomy?.genus, lineage('family', family, lineage('order', order)));
+  const structured = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebPage',
+        '@id': `${pageUrl}#webpage`,
+        url: pageUrl,
+        name: `${localName} (${scientificName})`,
+        inLanguage: lang,
+        isPartOf: { '@id': `${SITE_URL}/#website` },
+        breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+        mainEntity: { '@id': `${pageUrl}#taxon` },
+        ...(last_updated ? { dateModified: String(last_updated) } : {}),
+        ...(photoFile ? { primaryImageOfPage: { '@type': 'ImageObject', contentUrl: photoUrl(photoFile), url: photoUrl(photoFile) } } : {}),
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `${pageUrl}#breadcrumb`,
+        itemListElement: crumbs.map((c, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name: c.label,
+          item: c.href ? SITE_URL + c.href : pageUrl,
+        })),
+      },
+      {
+        '@type': 'Taxon',
+        '@id': `${pageUrl}#taxon`,
+        name: scientificName,
+        taxonRank: 'species',
+        alternateName: commonNames,
+        ...(parent ? { parentTaxon: parent } : {}),
+        ...(sameAs.length ? { sameAs } : {}),
+        ...(photoFile ? { image: photoUrl(photoFile) } : {}),
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-stone-50">
+      <JsonLd data={structured} />
       <SiteHeader>
-        <Link href="/" className="inline-flex items-center gap-1 text-sm font-medium text-brand-700 hover:underline">
+        <Link href={localePath(lang, '/')} className="inline-flex items-center gap-1 text-sm font-medium text-brand-700 hover:underline">
           <span aria-hidden="true" className="rtl:rotate-180">←</span> {t('backToSearch')}
         </Link>
       </SiteHeader>
 
       <section className="bg-gradient-to-b from-brand-800 to-brand-700 text-white">
         <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-10">
-          <div className="flex flex-wrap items-center gap-2">
+          <Breadcrumbs light label={helpText(lang, 'taxon.breadcrumb') ?? 'Breadcrumb'} items={crumbs} />
+          <div className="mt-3 flex flex-wrap items-center gap-2">
             <IucnBadge status={status} large />
             {status && helpText(lang, `iucn.${status}`) && <HelpTip text={helpText(lang, `iucn.${status}`) as string} />}
             {sp.conservation?.iucn_tag && (

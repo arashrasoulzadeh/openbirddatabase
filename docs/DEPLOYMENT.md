@@ -88,8 +88,13 @@ MeiliSearch refuses to open data written by an old version: `docker compose stop
 
 ## SEO
 
-The website serves `/sitemap.xml` (home page plus every species page, generated from the API's taxonomy and cached for an hour)
-and `/robots.txt`. Submit `https://SITE_DOMAIN/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
+Every page has its own title, description, canonical URL, `hreflang` links for all 13 languages, Open Graph / Twitter cards and
+schema.org structured data. Languages have their own URLs (English `/species/Parus%20major`, Persian `/fa/species/Parus%20major`), so each
+can be indexed. `/sitemap.xml` (rebuilt hourly) lists ~11,400 pages with their language versions; `/robots.txt` points to it.
+After deploying: add the site in Google Search Console and Bing Webmaster Tools, submit `https://<SITE_DOMAIN>/sitemap.xml`, and check
+a page with the Rich Results Test. Crawlers always get the English page at the unprefixed URL (visitors whose browser or cookie asks for another
+language are redirected to its URL, crawlers never). If nginx sits in front, it must pass `Host` and `X-Forwarded-*` through unchanged and must not
+cache HTML for logged-out visitors across `Accept-Language`/`Cookie`.
 
 ## Redis cache and the worker
 

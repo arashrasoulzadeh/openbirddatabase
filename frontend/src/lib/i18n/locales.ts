@@ -33,3 +33,9 @@ export function langFromAcceptLanguage(header: string | null | undefined): Lang 
   }
   return DEFAULT_LANG;
 }
+
+/** Open Graph locale codes ("fa_IR") for social previews. */
+export const OG_LOCALE: Record<Lang, string> = {
+  en: 'en_US', fa: 'fa_IR', ar: 'ar_AR', es: 'es_ES', fr: 'fr_FR', de: 'de_DE', pt: 'pt_BR',
+  ru: 'ru_RU', ja: 'ja_JP', zh: 'zh_CN', nl: 'nl_NL', pl: 'pl_PL', tr: 'tr_TR',
+};

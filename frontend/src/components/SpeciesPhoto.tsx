@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { API_URL } from '@/lib/config';
+import { photoUrl } from '@/lib/photos';
 
 export interface PhotoInfo {
   file?: string;
@@ -16,8 +16,7 @@ const LICENSE_URL: Record<string, string> = {
   'CC-BY-4.0': 'https://creativecommons.org/licenses/by/4.0/',
 };
 
-// "images/passeriformes/paridae/parus-major/1.jpg" -> https://api/images/passeriformes/paridae/parus-major/1.jpg
-const srcOf = (file: string) => `${API_URL}/images/${file.replace(/^images\//, '').split('/').map(encodeURIComponent).join('/')}`;
+const srcOf = photoUrl;
 
 /**
  * The species photo (served by the API from images/) with its credit; when the species has more photos, small

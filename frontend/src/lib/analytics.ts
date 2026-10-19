@@ -1,3 +1,4 @@
+import { splitLang } from './i18n/routes';
 // First-party analytics client. Sends small events to the API (POST /analytics/event).
 // No cookies, no IP/user-agent storage: the visitor and session ids are random strings kept in the browser.
 // Visitors with Do-Not-Track / Global Privacy Control are not tracked, and the dashboard itself is never counted.
@@ -46,7 +47,7 @@ export function trackingAllowed(): boolean {
   if (typeof window === 'undefined') return false;
   const nav = navigator as Navigator & { globalPrivacyControl?: boolean };
   if (nav.doNotTrack === '1' || nav.globalPrivacyControl) return false;
-  return !window.location.pathname.startsWith('/analytics');
+  return !splitLang(window.location.pathname).path.startsWith('/analytics');
 }
 
 function referrerHost(): string | undefined {
@@ -81,7 +82,7 @@ export function track(type: EventType, data: TrackData = {}): void {
   const isFirstPage = type === 'pageview' && !sessionStorageHas();
   queue.push({
     type,
-    path: data.path ?? window.location.pathname,
+    path: data.path ?? splitLang(window.location.pathname).path, // /fa/species/X counts as /species/X (the language is its own field)
     visitor: stored(window.localStorage, VISITOR_KEY),
     session: stored(window.sessionStorage, SESSION_KEY),
     lang: document.documentElement.lang || undefined,

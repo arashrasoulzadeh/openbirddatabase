@@ -11,6 +11,7 @@ import SearchInterpretation, { Interpretation } from '@/components/SearchInterpr
 import SiteHeader from '@/components/SiteHeader';
 import { searchSpecies, getTaxonomy, getFilterOptions, getRandomSpecies, Filters } from '@/lib/api';
 import { useI18n } from '@/lib/i18n/I18nProvider';
+import { localePath } from '@/lib/i18n/routes';
 import { track } from '@/lib/analytics';
 
 const PAGE_SIZE = 50;
@@ -27,7 +28,7 @@ export interface InitialSearch {
 }
 
 /** `initial` is the first page of results the server already fetched (so the list is in the HTML, no spinner). */
-export default function HomeClient({ initial }: { initial?: InitialSearch }) {
+export default function HomeClient({ initial, browse }: { initial?: InitialSearch; browse?: React.ReactNode }) {
   const { t, lang } = useI18n();
   const router = useRouter();
   const [query, setQuery] = useState(initial?.query ?? '');
@@ -91,7 +92,7 @@ export default function HomeClient({ initial }: { initial?: InitialSearch }) {
       const sp = await getRandomSpecies();
       track('random_bird', { bird: sp.scientific_name });
       track('bird_click', { bird: sp.scientific_name, source: 'random' });
-      router.push(`/species/${encodeURIComponent(sp.scientific_name)}`);
+      router.push(localePath(lang, `/species/${encodeURIComponent(sp.scientific_name)}`));
     } catch (e) {
       console.error('Random species error:', e);
     }
@@ -236,6 +237,7 @@ export default function HomeClient({ initial }: { initial?: InitialSearch }) {
         ) : (
           <TaxonomyTree tree={taxonomy} />
         )}
+        {browse}
       </main>
 
       <footer className="border-t border-stone-200 bg-white py-6">
@@ -243,7 +245,7 @@ export default function HomeClient({ initial }: { initial?: InitialSearch }) {
           <p>{t('footerText')}</p>
           <p className="mt-1">{t('dataSources')}: {t('dataSourcesSubtitle')}</p>
           <p className="mt-2">
-            <Link href="/analytics" className="font-medium text-brand-700 hover:underline">{t('siteStatistics')}</Link>
+            <Link href={localePath(lang, '/analytics')} className="font-medium text-brand-700 hover:underline">{t('siteStatistics')}</Link>
           </p>
         </div>
       </footer>

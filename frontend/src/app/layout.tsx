@@ -1,35 +1,42 @@
 import './globals.css';
-import { cookies, headers } from 'next/headers';
+import type { Metadata, Viewport } from 'next';
+import { Inter, Vazirmatn } from 'next/font/google';
 import { I18nProvider } from '@/lib/i18n/I18nProvider';
 import Tracker from '@/components/Tracker';
 import { SITE_URL } from '@/lib/config';
 import { sliceFor } from '@/lib/i18n/bundle';
-import { DEFAULT_LANG, LANG_COOKIE, dirOf, isLang, langFromAcceptLanguage } from '@/lib/i18n/locales';
+import { dirOf } from '@/lib/i18n/locales';
+import { requestLang } from '@/lib/i18n/server';
 
-export const metadata = {
+// Fonts are downloaded at build time and served from this site (no render-blocking request to Google), with only the
+// character sets a page needs loaded.
+const inter = Inter({ subsets: ['latin', 'latin-ext', 'cyrillic'], display: 'swap', variable: '--ff-inter' });
+const vazir = Vazirmatn({ subsets: ['arabic', 'latin'], display: 'swap', variable: '--ff-vazir' });
+
+// Page-level metadata (title, description, canonical, hreflang, social cards) is set by each page with lib/seo.ts.
+export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: 'OpenBird Database', template: '%s' },
-  description: 'Global bird species database: 11,000+ species with names in 13 languages, taxonomy, habitat, diet, behavior and conservation data.',
-  openGraph: {
-    type: 'website',
-    siteName: 'OpenBird',
-    title: 'OpenBird Database',
-    description: 'Global bird species database with names in 13 languages.',
+  applicationName: 'OpenBird',
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },
   },
+  formatDetection: { telephone: false },
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#27523d',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  // Language: cookie (user choice) > browser Accept-Language > English
-  const cookie = cookies().get(LANG_COOKIE)?.value;
-  const lang = isLang(cookie) ? cookie : langFromAcceptLanguage(headers().get('accept-language')) || DEFAULT_LANG;
+  const lang = requestLang(); // from the URL: /fa/... is Persian, everything else English
 
   return (
-    <html lang={lang} dir={dirOf(lang)}>
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Vazirmatn:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-      </head>
+    <html lang={lang} dir={dirOf(lang)} className={`${inter.variable} ${vazir.variable}`}>
       <body className="min-h-screen bg-gray-50 font-sans antialiased">
         <I18nProvider initialLang={lang} tables={sliceFor(lang)}>
           <Tracker />

@@ -8,8 +8,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
-        vazir: ['Vazirmatn', 'Noto Nastaliq Urdu', 'Noto Sans Arabic', 'system-ui', 'sans-serif'],
+        sans: ['var(--ff-inter)', 'var(--ff-vazir)', 'system-ui', 'sans-serif'],
+        vazir: ['var(--ff-vazir)', 'Vazirmatn', 'Noto Nastaliq Urdu', 'Noto Sans Arabic', 'system-ui', 'sans-serif'],
       },
       colors: {
         brand: {
