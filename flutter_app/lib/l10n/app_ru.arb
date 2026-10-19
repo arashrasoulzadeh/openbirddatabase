@@ -209,5 +209,6 @@
   "sectionNav": "Содержание",
   "occurrenceCountries": "Страны с наблюдениями",
   "countriesCount": "{count} стран",
-  "mapAttribution": "На карте выделены страны с находками вида в GBIF."
+  "mapAttribution": "На карте выделены страны с находками вида в GBIF.",
+  "openOnWebsite": "Открыть на сайте"
 }

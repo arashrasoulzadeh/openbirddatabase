@@ -209,5 +209,6 @@
   "sectionNav": "目录",
   "occurrenceCountries": "有观测记录的国家",
   "countriesCount": "{count} 个国家",
-  "mapAttribution": "地图标出该物种在 GBIF 有出现记录的国家。"
+  "mapAttribution": "地图标出该物种在 GBIF 有出现记录的国家。",
+  "openOnWebsite": "在网站上打开"
 }

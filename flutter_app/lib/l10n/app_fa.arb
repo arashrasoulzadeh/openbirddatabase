@@ -209,5 +209,6 @@
   "sectionNav": "فهرست بخش‌ها",
   "occurrenceCountries": "کشورهای دارای مشاهده",
   "countriesCount": "{count} کشور",
-  "mapAttribution": "روی نقشه، کشورهایی که در GBIF برای این گونه مشاهده ثبت شده مشخص شده‌اند."
+  "mapAttribution": "روی نقشه، کشورهایی که در GBIF برای این گونه مشاهده ثبت شده مشخص شده‌اند.",
+  "openOnWebsite": "باز کردن در وب‌سایت"
 }

@@ -209,5 +209,6 @@
   "sectionNav": "Inhalt",
   "occurrenceCountries": "Länder mit Nachweisen",
   "countriesCount": "{count} Länder",
-  "mapAttribution": "Die Karte markiert Länder mit GBIF-Vorkommen dieser Art."
+  "mapAttribution": "Die Karte markiert Länder mit GBIF-Vorkommen dieser Art.",
+  "openOnWebsite": "Auf der Website öffnen"
 }

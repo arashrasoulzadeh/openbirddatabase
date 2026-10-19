@@ -235,5 +235,9 @@
   },
   "@mapAttribution": {
     "description": "Short note under the distribution map"
+  },
+  "openOnWebsite": "Open on the website",
+  "@openOnWebsite": {
+    "description": "Tooltip of the button that opens the species page on the website"
   }
 }

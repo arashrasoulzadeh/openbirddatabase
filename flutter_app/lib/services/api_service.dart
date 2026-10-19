@@ -12,12 +12,15 @@ class ApiService {
       : baseUrl = baseUrl ?? Constants.apiBaseUrl,
         _client = client ?? http.Client();
 
-  Map<String, dynamic>? _taxonomyCache;
+  final Map<String, Map<String, dynamic>> _taxonomyCache = {};
 
-  Future<SearchResult> searchSpecies(String query, {int limit = 20}) async {
+  /// [lang] makes each hit carry only English and that language's name (a third of the bytes). Sentences such as
+  /// "endangered owls in forests" and misspelled names are understood by the server in every language.
+  Future<SearchResult> searchSpecies(String query, {int limit = 20, String? lang}) async {
     final uri = Uri.parse('$baseUrl/search').replace(queryParameters: {
       'q': query,
       'limit': limit.toString(),
+      if (lang != null && lang.isNotEmpty) 'lang': lang,
     });
     final response = await _client.get(uri, headers: _headers);
     _checkResponse(response);
@@ -32,21 +35,26 @@ class ApiService {
     return Species.fromJson(flattenSpeciesJson(_decodeMap(response)));
   }
 
-  /// Downloads the full taxonomy tree once and keeps it for family lookups.
-  Future<Map<String, dynamic>> _loadTaxonomy() async {
-    final cached = _taxonomyCache;
+  /// Downloads the taxonomy tree once per language and keeps it for family lookups. With a language the server
+  /// sends one common name per species (about a quarter of the full tree).
+  Future<Map<String, dynamic>> _loadTaxonomy(String? lang) async {
+    final key = lang ?? '';
+    final cached = _taxonomyCache[key];
     if (cached != null) return cached;
-    final response = await _client.get(Uri.parse('$baseUrl/taxonomy'), headers: _headers);
+    final uri = Uri.parse('$baseUrl/taxonomy').replace(queryParameters: {
+      if (lang != null && lang.isNotEmpty) 'lang': lang,
+    });
+    final response = await _client.get(uri, headers: _headers);
     _checkResponse(response);
-    return _taxonomyCache = _decodeMap(response);
+    return _taxonomyCache[key] = _decodeMap(response);
   }
 
-  Future<List<TaxonomyNode>> getTaxonomy() async {
-    return taxonomyFromApi(await _loadTaxonomy());
+  Future<List<TaxonomyNode>> getTaxonomy({String? lang}) async {
+    return taxonomyFromApi(await _loadTaxonomy(lang));
   }
 
-  Future<List<Species>> getSpeciesByFamily(String family) async {
-    return speciesInFamilyFromTree(await _loadTaxonomy(), family);
+  Future<List<Species>> getSpeciesByFamily(String family, {String? lang}) async {
+    return speciesInFamilyFromTree(await _loadTaxonomy(lang), family, lang: lang);
   }
 
   Future<List<Species>> getSpeciesByOrder(String order) async {

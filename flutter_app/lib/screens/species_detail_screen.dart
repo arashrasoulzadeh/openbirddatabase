@@ -6,6 +6,8 @@ import 'package:openbird/providers/app_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
 import 'package:openbird/models/species.dart';
 import 'package:openbird/widgets/section_card.dart';
+import 'package:openbird/widgets/species_gallery.dart';
+import 'package:url_launcher/url_launcher.dart';
 import 'package:openbird/widgets/detail_row.dart';
 import 'package:openbird/widgets/chip_wrap.dart';
 import 'package:openbird/utils/constants.dart';
@@ -91,13 +93,19 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
       onRefresh: _refresh,
       child: CustomScrollView(
         slivers: [
-          _buildSliverAppBar(species, commonName, theme),
+          _buildSliverAppBar(species, commonName, theme, l10n, langCode),
           SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.all(16),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
+                  if (species.photos.isNotEmpty)
+                    SpeciesGallery(
+                      photos: species.photos,
+                      apiBaseUrl: context.read<AppProvider>().apiService?.baseUrl ?? Constants.apiBaseUrl,
+                      creditLabel: l10n.photoBy,
+                    ),
                   _buildIdentificationSection(species, l10n),
                   if (species.morphology != null) _buildMorphologySection(species, l10n),
                   if (species.distribution != null) _buildDistributionSection(species, l10n),
@@ -120,10 +128,26 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
     );
   }
 
-  Widget _buildSliverAppBar(Species species, String commonName, ThemeData theme) {
+  /// The same page on the website, in the app's language (it has its own address per language).
+  Future<void> _openOnWebsite(Species species, String langCode) async {
+    final prefix = langCode == 'en' ? '' : '/$langCode';
+    final uri = Uri.parse('${Constants.websiteUrl}$prefix/species/${Uri.encodeComponent(species.scientificName)}');
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri, mode: LaunchMode.externalApplication);
+    }
+  }
+
+  Widget _buildSliverAppBar(Species species, String commonName, ThemeData theme, AppLocalizations l10n, String langCode) {
     return SliverAppBar(
       expandedHeight: 200,
       pinned: true,
+      actions: [
+        IconButton(
+          icon: const Icon(Icons.open_in_new),
+          tooltip: l10n.openOnWebsite,
+          onPressed: () => _openOnWebsite(species, langCode),
+        ),
+      ],
       flexibleSpace: FlexibleSpaceBar(
         background: Container(
           decoration: BoxDecoration(

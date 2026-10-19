@@ -30,7 +30,24 @@ SearchResult searchResultFromApi(Map<String, dynamic> json, String query) {
       .map((h) => Species.fromJson((h as Map).cast<String, dynamic>()))
       .toList();
   final total = json['total'] ?? json['estimatedTotalHits'] ?? hits.length;
-  return SearchResult(species: hits, total: (total as num).toInt(), query: query);
+  final interpreted = (json['interpreted'] as Map?)?.cast<String, dynamic>() ?? const {};
+  List<String> strings(dynamic v) => v is List ? [for (final e in v) e.toString()] : const [];
+  final filters = <String, List<String>>{};
+  final rawFilters = interpreted['filters'];
+  if (rawFilters is Map) {
+    for (final e in rawFilters.entries) {
+      filters[e.key.toString()] = strings(e.value);
+    }
+  }
+  return SearchResult(
+    species: hits,
+    total: (total as num).toInt(),
+    query: query,
+    interpretedFilters: filters,
+    interpretedWords: strings(interpreted['words']),
+    ignoredWords: strings(interpreted['ignored']),
+    correctedQuery: json['corrected_query']?.toString(),
+  );
 }
 
 /// `/taxonomy` returns `{order: {family: {genus: [species...]}}}`.
@@ -60,7 +77,9 @@ List<TaxonomyNode> taxonomyFromApi(Map<String, dynamic> tree) {
 }
 
 /// Species of one family, taken from the already-downloaded `/taxonomy` tree.
-List<Species> speciesInFamilyFromTree(Map<String, dynamic> tree, String family) {
+/// With `/taxonomy?lang=xx` every entry carries one `name` in that language (about a quarter of the full tree's size);
+/// pass the same [lang] here so it is stored as that language's common name.
+List<Species> speciesInFamilyFromTree(Map<String, dynamic> tree, String family, {String? lang}) {
   final result = <Species>[];
   for (final order in tree.entries) {
     final families = order.value as Map;
@@ -74,6 +93,7 @@ List<Species> speciesInFamilyFromTree(Map<String, dynamic> tree, String family) 
           'common_name_en': sp['common_en'],
           'common_name_fa': sp['common_fa'],
           for (final e in names.entries) 'common_name_${e.key}': e.value,
+          if (lang != null && sp['name'] != null) 'common_name_$lang': sp['name'],
           'birdnet_id': sp['id'],
           'order': order.key,
           'family': family,

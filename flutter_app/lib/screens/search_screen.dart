@@ -5,6 +5,7 @@ import 'package:openbird/providers/app_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
 import 'package:openbird/models/species.dart';
 import 'package:openbird/services/analytics_service.dart';
+import 'package:openbird/widgets/search_interpretation.dart';
 import 'package:openbird/widgets/species_list_item.dart';
 import 'package:openbird/utils/constants.dart';
 
@@ -124,6 +125,7 @@ class _SearchScreenState extends State<SearchScreen> {
           ),
           if (_isLoading)
             const LinearProgressIndicator(minHeight: 2),
+          if (_result != null) SearchInterpretation(result: _result!),
           Expanded(
             child: _buildResults(),
           ),

@@ -209,5 +209,6 @@
   "sectionNav": "目次",
   "occurrenceCountries": "観察記録のある国",
   "countriesCount": "{count} か国",
-  "mapAttribution": "地図は、この種のGBIF出現記録がある国を示します。"
+  "mapAttribution": "地図は、この種のGBIF出現記録がある国を示します。",
+  "openOnWebsite": "ウェブサイトで開く"
 }

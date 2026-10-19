@@ -29,7 +29,7 @@ class AppProvider extends ChangeNotifier {
     try {
       _error = null;
       notifyListeners();
-      final result = await _apiService!.searchSpecies(query);
+      final result = await _apiService!.searchSpecies(query, lang: _languageProvider?.locale.languageCode);
       AnalyticsService.instance.track('search', query: query, value: result.total, path: '/');
       return result;
     } catch (e) {
@@ -57,7 +57,7 @@ class AppProvider extends ChangeNotifier {
     try {
       _error = null;
       notifyListeners();
-      return await _apiService!.getTaxonomy();
+      return await _apiService!.getTaxonomy(lang: _languageProvider?.locale.languageCode);
     } catch (e) {
       _error = e.toString();
       notifyListeners();
@@ -70,7 +70,7 @@ class AppProvider extends ChangeNotifier {
     try {
       _error = null;
       notifyListeners();
-      return await _apiService!.getSpeciesByFamily(family);
+      return await _apiService!.getSpeciesByFamily(family, lang: _languageProvider?.locale.languageCode);
     } catch (e) {
       _error = e.toString();
       notifyListeners();

@@ -40,6 +40,9 @@ class Species {
   final String? dataQuality;
   final String? lastUpdated;
 
+  /// Photos of the species (CC0 / CC BY, with author and source), the first one is the main photo.
+  final List<SpeciesPhoto> photos;
+
   Species({
     required this.scientificName,
     required this.commonNameEn,
@@ -78,6 +81,7 @@ class Species {
     this.sources,
     this.dataQuality,
     this.lastUpdated,
+    this.photos = const [],
   });
 
   factory Species.fromJson(Map<String, dynamic> json) {
@@ -119,6 +123,7 @@ class Species {
       sources: _asStringList(json['sources']),
       dataQuality: _asString(json['data_quality']),
       lastUpdated: _asString(json['last_updated']),
+      photos: SpeciesPhoto.listFrom(json['images'] ?? json['image']),
     );
   }
 
@@ -540,16 +545,70 @@ class TaxonomyNode {
   }
 }
 
+/// A species photo served by the API at `<API>/images/<path>`.
+class SpeciesPhoto {
+  final String file; // e.g. images/passeriformes/paridae/parus-major/1.jpg
+  final String? author;
+  final String? license; // CC0-1.0 or CC-BY-4.0
+  final String? source;
+  final String? page; // link to the original photo
+
+  SpeciesPhoto({required this.file, this.author, this.license, this.source, this.page});
+
+  /// Accepts one photo (a map), a list of photos, or nothing; anything unreadable is skipped.
+  static List<SpeciesPhoto> listFrom(dynamic v) {
+    final items = v is List ? v : (v is Map ? [v] : const []);
+    final photos = <SpeciesPhoto>[];
+    for (final item in items) {
+      if (item is! Map) continue;
+      final file = _asString(item['file']);
+      if (file == null || file.isEmpty) continue;
+      photos.add(SpeciesPhoto(
+        file: file,
+        author: _asString(item['author']),
+        license: _asString(item['license']),
+        source: _asString(item['source']),
+        page: _asString(item['page']),
+      ));
+    }
+    return photos;
+  }
+
+  String url(String apiBaseUrl) {
+    final path = file.replaceFirst(RegExp(r'^images/'), '').split('/').map(Uri.encodeComponent).join('/');
+    return '$apiBaseUrl/images/$path';
+  }
+
+  String get licenseUrl => license == 'CC0-1.0'
+      ? 'https://creativecommons.org/publicdomain/zero/1.0/'
+      : 'https://creativecommons.org/licenses/by/4.0/';
+}
+
 class SearchResult {
   final List<Species> species;
   final int total;
   final String query;
 
+  /// Set when the query was a sentence ("endangered owls in forests"): the filters it was understood as
+  /// (field -> values, e.g. iucn_status -> [CR, EN, VU]) and the leftover words used for the names.
+  final Map<String, List<String>> interpretedFilters;
+  final List<String> interpretedWords;
+  final List<String> ignoredWords;
+
+  /// Set when a typo was fixed to find results: the spelling the results are for.
+  final String? correctedQuery;
+
   SearchResult({
     required this.species,
     required this.total,
     required this.query,
+    this.interpretedFilters = const {},
+    this.interpretedWords = const [],
+    this.ignoredWords = const [],
+    this.correctedQuery,
   });
+
+  bool get isSentence => interpretedFilters.isNotEmpty;
 
   factory SearchResult.fromJson(Map<String, dynamic> json) {
     return SearchResult(
