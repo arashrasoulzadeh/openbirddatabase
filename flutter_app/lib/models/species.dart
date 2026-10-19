@@ -43,6 +43,9 @@ class Species {
   /// Photos of the species (CC0 / CC BY, with author and source), the first one is the main photo.
   final List<SpeciesPhoto> photos;
 
+  /// How many of the 57 core fields have data, and which are still empty (from the API's `completeness` report).
+  final Completeness? completeness;
+
   Species({
     required this.scientificName,
     required this.commonNameEn,
@@ -82,6 +85,7 @@ class Species {
     this.dataQuality,
     this.lastUpdated,
     this.photos = const [],
+    this.completeness,
   });
 
   factory Species.fromJson(Map<String, dynamic> json) {
@@ -124,6 +128,7 @@ class Species {
       dataQuality: _asString(json['data_quality']),
       lastUpdated: _asString(json['last_updated']),
       photos: SpeciesPhoto.listFrom(json['images'] ?? json['image']),
+      completeness: Completeness.from(json['completeness']),
     );
   }
 
@@ -199,12 +204,20 @@ class Distribution {
   final bool? islandEndemic;
   final String? endemicRegion;
 
+  /// ISO country codes (GBIF occurrence records), range size in km2 and the "restricted range" flag (under 50,000 km2).
+  final List<String>? countries;
+  final double? rangeSizeKm2;
+  final bool? restrictedRange;
+
   Distribution({
     this.breedingRange,
     this.nonBreedingRange,
     this.biogeographicRealms,
     this.islandEndemic,
     this.endemicRegion,
+    this.countries,
+    this.rangeSizeKm2,
+    this.restrictedRange,
   });
 
   factory Distribution.fromJson(Map<String, dynamic> json) {
@@ -214,6 +227,9 @@ class Distribution {
       biogeographicRealms: _asStringList(json['biogeographic_realms']),
       islandEndemic: _asBool(json['island_endemic']),
       endemicRegion: _asString(json['endemic_region']),
+      countries: _asStringList(json['countries']),
+      rangeSizeKm2: _asDouble(json['range_size_km2']),
+      restrictedRange: _asBool(json['restricted_range']),
     );
   }
 }
@@ -283,6 +299,9 @@ class Behavior {
   final double? dispersalDistanceKm;
   final String? activityPattern;
 
+  /// Xeno-canto recording ids ("XC1074952"); each opens on xeno-canto.org.
+  final List<String>? xenoCantoIds;
+
   Behavior({
     this.sociality,
     this.flockSize,
@@ -291,6 +310,7 @@ class Behavior {
     this.movementType,
     this.dispersalDistanceKm,
     this.activityPattern,
+    this.xenoCantoIds,
   });
 
   factory Behavior.fromJson(Map<String, dynamic> json) {
@@ -302,6 +322,7 @@ class Behavior {
       movementType: _asString(json['movement_type']),
       dispersalDistanceKm: (json['dispersal_distance_km'] as num?)?.toDouble(),
       activityPattern: _asString(json['activity_pattern']),
+      xenoCantoIds: _asStringList(json['xeno_canto_ids']),
     );
   }
 }
@@ -541,6 +562,40 @@ class TaxonomyNode {
       scientificName: _asString(json['scientific_name']),
       children: (json['children'] as List?)?.map((c) => TaxonomyNode.fromJson(c)).toList(),
       count: _asInt(json['count']),
+    );
+  }
+}
+
+/// The API's data-completeness report for one species (core fields only).
+class Completeness {
+  final int filled;
+  final int total;
+  final double score;
+
+  /// section -> names of the fields that have no data yet (e.g. morphology -> [body_length_cm, wingspan_cm])
+  final Map<String, List<String>> missing;
+
+  Completeness({required this.filled, required this.total, required this.score, this.missing = const {}});
+
+  static Completeness? from(dynamic v) {
+    final core = v is Map ? v['core'] : null;
+    if (core is! Map) return null;
+    final total = _asInt(core['total']) ?? 0;
+    if (total == 0) return null;
+    final missing = <String, List<String>>{};
+    final raw = core['missing'];
+    if (raw is Map) {
+      for (final e in raw.entries) {
+        final fields = _asStringList(e.value) ?? const <String>[];
+        if (fields.isNotEmpty) missing[e.key.toString()] = fields;
+      }
+    }
+    final filled = _asInt(core['filled']) ?? 0;
+    return Completeness(
+      filled: filled,
+      total: total,
+      score: _asDouble(core['score']) ?? filled / total,
+      missing: missing,
     );
   }
 }

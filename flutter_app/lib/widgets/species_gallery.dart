@@ -32,8 +32,10 @@ class _SpeciesGalleryState extends State<SpeciesGallery> {
   Future<void> _open(String url) async {
     final uri = Uri.tryParse(url);
     if (uri == null) return;
-    if (await canLaunchUrl(uri)) {
+    try {
       await launchUrl(uri, mode: LaunchMode.externalApplication);
+    } catch (_) {
+      // no app can open it: nothing to do
     }
   }
 

@@ -210,5 +210,7 @@
   "occurrenceCountries": "بلدان ذات ملاحظات",
   "countriesCount": "{count} بلدان",
   "mapAttribution": "تُبرز الخريطة البلدان التي تحتوي على سجلات ظهور في GBIF لهذا النوع.",
-  "openOnWebsite": "فتح في الموقع"
+  "openOnWebsite": "فتح في الموقع",
+  "shareBird": "مشاركة",
+  "linkCopied": "تم نسخ الرابط"
 }

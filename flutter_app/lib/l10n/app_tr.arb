@@ -210,5 +210,7 @@
   "occurrenceCountries": "Gözlem kaydı olan ülkeler",
   "countriesCount": "{count} ülke",
   "mapAttribution": "Harita, bu tür için GBIF gözlem kaydı olan ülkeleri gösterir.",
-  "openOnWebsite": "Web sitesinde aç"
+  "openOnWebsite": "Web sitesinde aç",
+  "shareBird": "Paylaş",
+  "linkCopied": "Bağlantı kopyalandı"
 }

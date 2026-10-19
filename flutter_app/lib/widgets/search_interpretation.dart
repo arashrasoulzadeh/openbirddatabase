@@ -1,26 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 import 'package:openbird/models/species.dart';
+import 'package:openbird/utils/iucn.dart';
 
 /// One line under the search box when the search was a sentence ("endangered owls in forests") or a typo was fixed.
 class SearchInterpretation extends StatelessWidget {
   final SearchResult result;
 
   const SearchInterpretation({super.key, required this.result});
-
-  static String _iucnLabel(AppLocalizations l10n, String code) {
-    switch (code) {
-      case 'LC': return l10n.iucnLC;
-      case 'NT': return l10n.iucnNT;
-      case 'VU': return l10n.iucnVU;
-      case 'EN': return l10n.iucnEN;
-      case 'CR': return l10n.iucnCR;
-      case 'EW': return l10n.iucnEW;
-      case 'EX': return l10n.iucnEX;
-      case 'DD': return l10n.iucnDD;
-      default: return code;
-    }
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -56,7 +43,7 @@ class SearchInterpretation extends StatelessWidget {
             Chip(
               visualDensity: VisualDensity.compact,
               label: Text(entry.value
-                  .map((v) => entry.key == 'iucn_status' ? _iucnLabel(l10n, v) : v)
+                  .map((v) => entry.key == 'iucn_status' ? iucnLabelFor(l10n, v) : v)
                   .join(' · ')),
             ),
           for (final word in result.interpretedWords)

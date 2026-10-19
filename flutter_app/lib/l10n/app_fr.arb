@@ -210,5 +210,7 @@
   "occurrenceCountries": "Pays avec observations",
   "countriesCount": "{count} pays",
   "mapAttribution": "La carte met en évidence les pays ayant des occurrences GBIF pour cette espèce.",
-  "openOnWebsite": "Ouvrir sur le site"
+  "openOnWebsite": "Ouvrir sur le site",
+  "shareBird": "Partager",
+  "linkCopied": "Lien copié"
 }

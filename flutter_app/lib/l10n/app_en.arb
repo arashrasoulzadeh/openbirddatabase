@@ -239,5 +239,7 @@
   "openOnWebsite": "Open on the website",
   "@openOnWebsite": {
     "description": "Tooltip of the button that opens the species page on the website"
-  }
+  },
+  "shareBird": "Share",
+  "linkCopied": "Link copied"
 }

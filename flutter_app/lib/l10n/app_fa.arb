@@ -210,5 +210,7 @@
   "occurrenceCountries": "کشورهای دارای مشاهده",
   "countriesCount": "{count} کشور",
   "mapAttribution": "روی نقشه، کشورهایی که در GBIF برای این گونه مشاهده ثبت شده مشخص شده‌اند.",
-  "openOnWebsite": "باز کردن در وب‌سایت"
+  "openOnWebsite": "باز کردن در وب‌سایت",
+  "shareBird": "اشتراک‌گذاری",
+  "linkCopied": "پیوند کپی شد"
 }

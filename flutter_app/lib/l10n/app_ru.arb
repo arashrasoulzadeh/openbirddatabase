@@ -210,5 +210,7 @@
   "occurrenceCountries": "Страны с наблюдениями",
   "countriesCount": "{count} стран",
   "mapAttribution": "На карте выделены страны с находками вида в GBIF.",
-  "openOnWebsite": "Открыть на сайте"
+  "openOnWebsite": "Открыть на сайте",
+  "shareBird": "Поделиться",
+  "linkCopied": "Ссылка скопирована"
 }

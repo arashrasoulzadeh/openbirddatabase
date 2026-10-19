@@ -16,11 +16,23 @@ class ApiService {
 
   /// [lang] makes each hit carry only English and that language's name (a third of the bytes). Sentences such as
   /// "endangered owls in forests" and misspelled names are understood by the server in every language.
-  Future<SearchResult> searchSpecies(String query, {int limit = 20, String? lang}) async {
+  ///
+  /// [filters] are exact matches (`iucn_status`, `primary_habitat`, `primary_diet`, `migration_status`, `order`);
+  /// an empty [query] with filters lists the matching species. [offset] pages through the results.
+  Future<SearchResult> searchSpecies(
+    String query, {
+    int limit = 20,
+    int offset = 0,
+    String? lang,
+    Map<String, String> filters = const {},
+  }) async {
     final uri = Uri.parse('$baseUrl/search').replace(queryParameters: {
       'q': query,
       'limit': limit.toString(),
+      if (offset > 0) 'offset': offset.toString(),
       if (lang != null && lang.isNotEmpty) 'lang': lang,
+      for (final e in filters.entries)
+        if (e.value.isNotEmpty) e.key: e.value,
     });
     final response = await _client.get(uri, headers: _headers);
     _checkResponse(response);
@@ -66,6 +78,13 @@ class ApiService {
       for (final family in (tree[order] as Map).keys)
         ...speciesInFamilyFromTree(tree, family as String),
     ];
+  }
+
+  /// A random species (search-hit shape).
+  Future<Species> getRandomSpecies() async {
+    final response = await _client.get(Uri.parse('$baseUrl/random'), headers: _headers);
+    _checkResponse(response);
+    return Species.fromJson(_decodeMap(response));
   }
 
   Future<Map<String, dynamic>> getFilters() async {

@@ -1,12 +1,18 @@
 import 'package:openbird/utils/extensions.dart';
 import 'package:openbird/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:openbird/providers/app_provider.dart';
 import 'package:openbird/providers/language_provider.dart';
 import 'package:openbird/models/species.dart';
 import 'package:openbird/widgets/section_card.dart';
 import 'package:openbird/widgets/species_gallery.dart';
+import 'package:openbird/widgets/completeness_card.dart';
+import 'package:openbird/widgets/related_species.dart';
+import 'package:openbird/utils/countries.dart';
+import 'package:openbird/utils/web_labels.dart';
+import 'package:share_plus/share_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:openbird/widgets/detail_row.dart';
 import 'package:openbird/widgets/chip_wrap.dart';
@@ -24,6 +30,7 @@ class SpeciesDetailScreen extends StatefulWidget {
 
 class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
   Species? _species;
+  String _langCode = 'en'; // set on every build: the section builders below label values in this language
   bool _isLoading = true;
   String? _error;
 
@@ -86,6 +93,7 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
       return _buildNotFound(l10n, theme);
     }
 
+    _langCode = langCode;
     final species = _species!;
     final commonName = species.getCommonName(langCode);
 
@@ -117,6 +125,9 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
                   if (species.conservation != null) _buildConservationSection(species, l10n),
                   if (species.veterinary != null) _buildVeterinarySection(species, l10n),
                   if (species.enrichment != null) _buildEnrichmentSection(species, l10n),
+                  if (species.completeness != null)
+                    CompletenessCard(completeness: species.completeness!, languageCode: langCode),
+                  RelatedSpecies(species: species, languageCode: langCode),
                   _buildSourcesSection(species, l10n),
                   const SizedBox(height: 24),
                 ],
@@ -132,9 +143,62 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
   Future<void> _openOnWebsite(Species species, String langCode) async {
     final prefix = langCode == 'en' ? '' : '/$langCode';
     final uri = Uri.parse('${Constants.websiteUrl}$prefix/species/${Uri.encodeComponent(species.scientificName)}');
-    if (await canLaunchUrl(uri)) {
+    try {
       await launchUrl(uri, mode: LaunchMode.externalApplication);
+    } catch (_) {
+      // no browser: nothing to do
     }
+  }
+
+  /// The system share sheet with the bird's name and its page on the website (in the app's language).
+  Future<void> _share(Species species, String commonName, String langCode) async {
+    final prefix = langCode == 'en' ? '' : '/$langCode';
+    final url = '${Constants.websiteUrl}$prefix/species/${Uri.encodeComponent(species.scientificName)}';
+    final text = '$commonName (${species.scientificName})\n$url';
+    try {
+      await Share.share(text, subject: commonName);
+    } catch (_) {
+      // no share sheet available (e.g. some emulators): put the link on the clipboard instead
+      await Clipboard.setData(ClipboardData(text: text));
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(AppLocalizations.of(context)!.linkCopied)));
+      }
+    }
+  }
+
+  Future<void> _openUrl(String url) async {
+    try {
+      await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
+    } catch (_) {
+      // no browser available
+    }
+  }
+
+  String _formatKm2(double value) {
+    final n = value.round().toString();
+    return n.replaceAllMapped(RegExp(r'\B(?=(\d{3})+(?!\d))'), (m) => ',');
+  }
+
+  /// A label with a bar for a score out of [max], e.g. "Invertebrates  8 / 10".
+  Widget _scoreRow(String label, double value, double max) {
+    final theme = Theme.of(context);
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 4),
+      child: Row(
+        children: [
+          SizedBox(width: 140, child: Text(label, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant))),
+          const SizedBox(width: 12),
+          Expanded(
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(4),
+              child: LinearProgressIndicator(value: (value / max).clamp(0.0, 1.0), minHeight: 8),
+            ),
+          ),
+          const SizedBox(width: 8),
+          Text(value.toStringAsFixed(value == value.roundToDouble() ? 0 : 1), style: theme.textTheme.bodySmall),
+        ],
+      ),
+    );
   }
 
   Widget _buildSliverAppBar(Species species, String commonName, ThemeData theme, AppLocalizations l10n, String langCode) {
@@ -142,6 +206,11 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
       expandedHeight: 200,
       pinned: true,
       actions: [
+        IconButton(
+          icon: const Icon(Icons.share),
+          tooltip: l10n.shareBird,
+          onPressed: () => _share(species, commonName, langCode),
+        ),
         IconButton(
           icon: const Icon(Icons.open_in_new),
           tooltip: l10n.openOnWebsite,
@@ -267,6 +336,26 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
           DetailRow(label: l10n.biogeographicRealms, value: d.biogeographicRealms!.join(', ')),
         if (d.islandEndemic == true) DetailRow(label: l10n.islandEndemic, value: l10n.yes),
         if (d.endemicRegion != null) DetailRow(label: l10n.endemicRegion, value: d.endemicRegion!),
+        if (d.rangeSizeKm2 != null) DetailRow(label: l10n.rangeSize, value: '${_formatKm2(d.rangeSizeKm2!)} km²'),
+        if (d.restrictedRange == true) DetailRow(label: l10n.restrictedRange, value: l10n.yes),
+        if (d.countries != null && d.countries!.isNotEmpty) ...[
+          const SizedBox(height: 8),
+          Text('${l10n.occurrenceCountries} (${d.countries!.length})', style: Theme.of(context).textTheme.bodyMedium?.copyWith(color: Theme.of(context).colorScheme.onSurfaceVariant)),
+          const SizedBox(height: 6),
+          Wrap(
+            spacing: 6,
+            runSpacing: 6,
+            children: [
+              for (final code in d.countries!)
+                Chip(
+                  visualDensity: VisualDensity.compact,
+                  label: Text('${flagEmoji(code)} $code', style: Theme.of(context).textTheme.labelMedium),
+                ),
+            ],
+          ),
+          const SizedBox(height: 4),
+          Text(l10n.mapAttribution, style: Theme.of(context).textTheme.bodySmall?.copyWith(color: Theme.of(context).hintColor)),
+        ],
       ],
     );
   }
@@ -276,9 +365,9 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
     return SectionCard(
       title: l10n.habitat,
       children: [
-        if (h.primary != null) DetailRow(label: l10n.primaryHabitat, value: h.primary!),
+        if (h.primary != null) DetailRow(label: l10n.primaryHabitat, value: valueLabelFor(_langCode, h.primary!)),
         if (h.secondary != null && h.secondary!.isNotNullOrEmpty)
-          DetailRow(label: l10n.secondaryHabitats, value: h.secondary!.join(', ')),
+          DetailRow(label: l10n.secondaryHabitats, value: h.secondary!.map((v) => valueLabelFor(_langCode, v)).join(', ')),
         if (h.habitatBreadth != null) DetailRow(label: l10n.habitatBreadth, value: h.habitatBreadth.toString()),
         if (h.elevationalMinM != null || h.elevationalMaxM != null)
           DetailRow(label: l10n.elevationRange, value: Formatters.formatElevationRange(h.elevationalMinM, h.elevationalMaxM)),
@@ -294,14 +383,12 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
     return SectionCard(
       title: l10n.dietForaging,
       children: [
-        if (d.primary != null) DetailRow(label: l10n.primaryDiet, value: d.primary!),
+        if (d.primary != null) DetailRow(label: l10n.primaryDiet, value: valueLabelFor(_langCode, d.primary!)),
         if (d.dietBreadth != null) DetailRow(label: l10n.dietBreadth, value: d.dietBreadth.toString()),
         if (d.foragingStrategy != null) DetailRow(label: l10n.foragingStrategy, value: d.foragingStrategy!),
+        // importance of each food type on a 0-10 scale (the old "x 100 %" made 8 look like 800 %)
         if (d.categories != null && d.categories!.isNotEmpty)
-          ...d.categories!.entries.map((e) => DetailRow(
-            label: e.key,
-            value: '${(e.value * 100).toStringAsFixed(0)}%',
-          )),
+          ...d.categories!.entries.where((e) => e.value > 0.05).map((e) => _scoreRow(fieldLabelFor(_langCode, e.key), e.value.toDouble(), 10)),
       ],
     );
   }
@@ -311,13 +398,31 @@ class _SpeciesDetailScreenState extends State<SpeciesDetailScreen> {
     return SectionCard(
       title: l10n.behavior,
       children: [
-        if (b.sociality != null) DetailRow(label: l10n.sociality, value: b.sociality!),
+        if (b.sociality != null) DetailRow(label: l10n.sociality, value: valueLabelFor(_langCode, b.sociality!)),
         if (b.flockSize != null) DetailRow(label: l10n.flockSize, value: b.flockSize!),
         if (b.territoriality != null) DetailRow(label: l10n.territoriality, value: b.territoriality!),
-        if (b.migrationStatus != null) DetailRow(label: l10n.migrationStatus, value: b.migrationStatus!),
-        if (b.movementType != null) DetailRow(label: l10n.movementType, value: b.movementType!),
+        if (b.migrationStatus != null) DetailRow(label: l10n.migrationStatus, value: valueLabelFor(_langCode, b.migrationStatus!)),
+        if (b.movementType != null) DetailRow(label: l10n.movementType, value: valueLabelFor(_langCode, b.movementType!)),
         if (b.dispersalDistanceKm != null) DetailRow(label: l10n.dispersalDistance, value: Formatters.formatDistance(b.dispersalDistanceKm!)),
-        if (b.activityPattern != null) DetailRow(label: l10n.activityPattern, value: b.activityPattern!),
+        if (b.activityPattern != null) DetailRow(label: l10n.activityPattern, value: valueLabelFor(_langCode, b.activityPattern!)),
+        if (b.xenoCantoIds != null && b.xenoCantoIds!.isNotEmpty) ...[
+          const SizedBox(height: 8),
+          Text(l10n.xenoCantoIds, style: Theme.of(context).textTheme.bodyMedium?.copyWith(color: Theme.of(context).colorScheme.onSurfaceVariant)),
+          const SizedBox(height: 6),
+          Wrap(
+            spacing: 6,
+            runSpacing: 6,
+            children: [
+              for (final id in b.xenoCantoIds!)
+                ActionChip(
+                  visualDensity: VisualDensity.compact,
+                  avatar: const Icon(Icons.graphic_eq, size: 16),
+                  label: Text(id),
+                  onPressed: () => _openUrl('https://xeno-canto.org/${id.replaceFirst(RegExp(r'^XC', caseSensitive: false), '')}'),
+                ),
+            ],
+          ),
+        ],
       ],
     );
   }

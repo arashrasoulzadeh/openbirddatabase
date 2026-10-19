@@ -210,5 +210,7 @@
   "occurrenceCountries": "Länder mit Nachweisen",
   "countriesCount": "{count} Länder",
   "mapAttribution": "Die Karte markiert Länder mit GBIF-Vorkommen dieser Art.",
-  "openOnWebsite": "Auf der Website öffnen"
+  "openOnWebsite": "Auf der Website öffnen",
+  "shareBird": "Teilen",
+  "linkCopied": "Link kopiert"
 }

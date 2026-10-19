@@ -210,5 +210,7 @@
   "occurrenceCountries": "Landen met waarnemingen",
   "countriesCount": "{count} landen",
   "mapAttribution": "De kaart markeert landen met GBIF-waarnemingen voor deze soort.",
-  "openOnWebsite": "Openen op de website"
+  "openOnWebsite": "Openen op de website",
+  "shareBird": "Delen",
+  "linkCopied": "Link gekopieerd"
 }

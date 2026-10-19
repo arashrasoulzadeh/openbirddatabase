@@ -19,6 +19,8 @@ Ingestion, curation, export, search and API tooling. Run from repo root with `PY
   translations). Order in `api.py`: names, then sentences, then names with typos fixed, then MeiliSearch.
 - `worker.py` (Compose `worker` service) runs scheduled jobs: Redis cache warm-up (`warm_cache.py`), analytics DB backup, and `content_stats.py`. Deploy does not warm the cache.
 - `images/<slug>.jpg`: species photos from `enrich.py fetch photos`, served by the API at `/images/` (`IMAGES_DIR`).
+- `gen_flutter_labels.py` writes `flutter_app/lib/utils/web_labels.dart` (field names and habitat/diet/migration values in 13 languages) from the website's
+  translations; re-run it after changing `frontend/src/lib/i18n/{messages,values}.json`.
 - `cache_utils.py` (keys, JSON sanitising) is shared by `api.py` and `warm_cache.py`; keep their keys in sync
   (`CACHE_PREFIX` is versioned: bump it if the cached JSON shape changes)
 - `analytics.py` (router mounted at `/analytics`): collects events into SQLite and aggregates them for the dashboard. Env:

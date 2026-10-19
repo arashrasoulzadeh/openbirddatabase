@@ -37,6 +37,17 @@ jobs:
           # flutter create only adds INTERNET to the debug/profile manifests; release builds need it too
           grep -q 'android.permission.INTERNET' android/app/src/main/AndroidManifest.xml || \
             sed -i 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' android/app/src/main/AndroidManifest.xml
+          # Android 11+ hides which apps can open a link: without these <queries> entries url_launcher cannot open https links
+          # (website, photo credits, GitHub) and canLaunchUrl always answers "no". The Flutter template already has a
+          # <queries> block (for PROCESS_TEXT), so the entries go inside it; if there is none, a block is added.
+          MANIFEST=android/app/src/main/AndroidManifest.xml
+          INTENTS='<intent><action android:name="android.intent.action.VIEW"/><data android:scheme="https"/></intent><intent><action android:name="android.intent.action.SEND"/><data android:mimeType="text/plain"/></intent>'
+          if grep -q '</queries>' "$MANIFEST"; then
+            sed -i "s#</queries>#    $INTENTS\n    </queries>#" "$MANIFEST"
+          else
+            sed -i "s#<application#<queries>$INTENTS</queries>\n    <application#" "$MANIFEST"
+          fi
+          grep -c 'android.intent.action.VIEW' "$MANIFEST" || true
 
       - run: flutter pub get
       - run: flutter gen-l10n

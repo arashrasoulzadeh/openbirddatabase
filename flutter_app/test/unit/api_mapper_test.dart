@@ -85,4 +85,50 @@ void main() {
       expect(Species.fromJson(flattenSpeciesJson(base)).photos, isEmpty);
     });
   });
+
+  group('website-parity fields', () {
+    final base = {
+      'names': {'scientific': 'Parus major', 'en': 'Great Tit'},
+    };
+
+    test('countries, range size and recordings are read', () {
+      final sp = Species.fromJson(flattenSpeciesJson({
+        ...base,
+        'distribution': {'countries': ['FR', 'DE'], 'range_size_km2': 1234567.0, 'restricted_range': false},
+        'behavior': {'xeno_canto_ids': ['XC1074952', 'XC1077938']},
+      }));
+      expect(sp.distribution!.countries, ['FR', 'DE']);
+      expect(sp.distribution!.rangeSizeKm2, 1234567.0);
+      expect(sp.distribution!.restrictedRange, isFalse);
+      expect(sp.behavior!.xenoCantoIds, ['XC1074952', 'XC1077938']);
+    });
+
+    test('the completeness report gives filled, total and what is missing', () {
+      final sp = Species.fromJson(flattenSpeciesJson({
+        ...base,
+        'completeness': {
+          'core': {
+            'score': 0.6,
+            'filled': 34,
+            'total': 57,
+            'missing': {
+              'morphology': ['body_length_cm', 'wingspan_cm'],
+              'habitat': [],
+            },
+          },
+        },
+      }));
+      final c = sp.completeness!;
+      expect(c.filled, 34);
+      expect(c.total, 57);
+      expect(c.score, closeTo(0.6, 1e-9));
+      expect(c.missing.keys, ['morphology']); // empty sections are dropped
+      expect(c.missing['morphology'], ['body_length_cm', 'wingspan_cm']);
+    });
+
+    test('a species without a report, or with a broken one, has no completeness', () {
+      expect(Species.fromJson(flattenSpeciesJson(base)).completeness, isNull);
+      expect(Species.fromJson(flattenSpeciesJson({...base, 'completeness': 'oops'})).completeness, isNull);
+    });
+  });
 }
