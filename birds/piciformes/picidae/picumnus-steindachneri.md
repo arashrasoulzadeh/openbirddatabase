@@ -105,7 +105,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC783876
+  - XC838736
+  - XC763337
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -131,7 +134,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

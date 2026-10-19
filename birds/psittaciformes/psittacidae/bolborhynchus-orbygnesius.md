@@ -106,7 +106,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC778861
+  - XC778862
+  - XC212732
 reproduction:
   nest_type: Burrow
   nest_placement: Ground
@@ -138,7 +141,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 9

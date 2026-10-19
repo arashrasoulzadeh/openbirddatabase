@@ -27,7 +27,8 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AU
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -95,7 +96,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1066891
+  - XC1066889
+  - XC1074098
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -121,7 +125,9 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: Low
 morphology:
   bill_length_mm: 43.7

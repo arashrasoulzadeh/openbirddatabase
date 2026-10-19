@@ -96,7 +96,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1025948
+  - XC1067027
+  - XC953003
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -122,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: Low
 morphology:
   bill_length_mm: 161.0

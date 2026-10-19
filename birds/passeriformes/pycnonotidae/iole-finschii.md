@@ -32,7 +32,10 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - ID
+  - MY
+  - TH
   biogeographic_realms:
   - I
   endemic: false
@@ -102,7 +105,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1100940
+  - XC1151672
+  - XC1162110
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -127,7 +133,9 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

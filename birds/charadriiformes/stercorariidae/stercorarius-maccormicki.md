@@ -109,7 +109,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC953125
+  - XC953124
+  - XC775433
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -136,7 +139,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: Low
 morphology:
   bill_length_mm: 52.7

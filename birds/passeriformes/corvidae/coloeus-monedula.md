@@ -27,7 +27,39 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AT
+  - BE
+  - BG
+  - BY
+  - CH
+  - CY
+  - CZ
+  - DE
+  - DK
+  - EE
+  - ES
+  - FI
+  - FR
+  - GB
+  - GR
+  - HU
+  - IE
+  - IL
+  - IM
+  - IT
+  - LT
+  - NL
+  - 'NO'
+  - PL
+  - PS
+  - PT
+  - RO
+  - RS
+  - RU
+  - SE
+  - TR
+  - UA
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -94,7 +126,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1075127
+  - XC1075128
+  - XC1071179
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -119,7 +154,9 @@ sources:
 - BirdNET Taxonomy v0.3
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: Low
 demography:
   max_longevity_years: 20

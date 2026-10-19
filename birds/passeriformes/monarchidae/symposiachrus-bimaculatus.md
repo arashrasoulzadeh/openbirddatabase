@@ -100,7 +100,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1074725
+  - XC1074724
+  - XC533495
 reproduction:
   nest_type: CP
   nest_placement: A, Shrub, Tree
@@ -131,7 +134,8 @@ sources:
 - BIRDBASE 2025
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

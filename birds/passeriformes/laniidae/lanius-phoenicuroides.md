@@ -33,7 +33,36 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AE
+  - AF
+  - BE
+  - BH
+  - CN
+  - DJ
+  - DK
+  - ET
+  - GB
+  - IL
+  - IN
+  - IR
+  - KE
+  - KG
+  - KW
+  - KZ
+  - NL
+  - 'NO'
+  - OM
+  - PK
+  - PT
+  - QA
+  - SA
+  - SE
+  - TJ
+  - TM
+  - TZ
+  - UG
+  - UZ
   biogeographic_realms:
   - PF
   endemic: false
@@ -105,7 +134,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1096345
+  - XC1096347
+  - XC1029690
 reproduction:
   clutch_size_mean: 5.0
   clutch_size_min: 3
@@ -142,7 +174,9 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
-last_updated: '2026-10-17'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 10

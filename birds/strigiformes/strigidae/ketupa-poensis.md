@@ -26,7 +26,21 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - CD
+  - CG
+  - CI
+  - CM
+  - GA
+  - GH
+  - GN
+  - GQ
+  - LR
+  - NG
+  - RW
+  - SL
+  - TZ
+  - UG
   biogeographic_realms: []
   endemic: false
   island_endemic: false
@@ -93,7 +107,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1006924
+  - XC781883
+  - XC824393
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -116,7 +133,9 @@ enrichment:
   environmental_enrichment: []
 sources:
 - BirdNET Taxonomy v0.3
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: Low
 ---
 

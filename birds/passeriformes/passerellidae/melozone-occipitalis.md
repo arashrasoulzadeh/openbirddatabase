@@ -24,7 +24,13 @@ taxonomy:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - CR
+  - GT
+  - HN
+  - MX
+  - NI
+  - SV
   biogeographic_realms:
   - L
   endemic: false
@@ -96,7 +102,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1090206
+  - XC1089631
+  - XC1089632
 reproduction:
   nest_type: CP
   nest_placement: Shrub
@@ -124,7 +133,9 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

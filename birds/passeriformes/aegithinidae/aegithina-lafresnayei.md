@@ -110,7 +110,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1147977
+  - XC875642
+  - XC875690
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -137,7 +140,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 reproduction:
   clutch_size_mean: 3.0

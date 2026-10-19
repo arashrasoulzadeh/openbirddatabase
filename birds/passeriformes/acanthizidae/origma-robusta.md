@@ -29,7 +29,10 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - ID
+  - PG
+  - ZZ
   biogeographic_realms:
   - A
   endemic: false
@@ -98,7 +101,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1026738
+  - XC1026736
+  - XC1026737
 reproduction:
   nest_type: DM
   nest_placement: Tree
@@ -126,7 +132,9 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

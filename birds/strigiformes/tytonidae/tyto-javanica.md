@@ -29,7 +29,25 @@ morphology:
 distribution:
   breeding_range: ''
   non_breeding_range: ''
-  countries: []
+  countries:
+  - AU
+  - BD
+  - FJ
+  - ID
+  - IN
+  - KH
+  - LK
+  - MM
+  - MY
+  - NC
+  - NP
+  - NZ
+  - PG
+  - SG
+  - TH
+  - VN
+  - VU
+  - WS
   biogeographic_realms:
   - IA
   endemic: false
@@ -106,7 +124,10 @@ behavior:
   vocalizations:
     song: ''
     calls: []
-  xeno_canto_ids: []
+  xeno_canto_ids:
+  - XC1087935
+  - XC1173002
+  - XC980014
 reproduction:
   incubation_days: 29
   nest_type: CV
@@ -135,7 +156,9 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- GBIF occurrence records (countries)
+- Xeno-canto recordings (via GBIF)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 
