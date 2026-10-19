@@ -318,7 +318,7 @@ export default async function SpeciesPage({ params }: Props) {
               {t('dataCompleteness')}: {Math.round(completeness.core.score * 100)}%
             </a>
           )}
-          <SpeciesPhoto image={sp.image} alt={localName} label={t('photoBy')} />
+          <SpeciesPhoto image={sp.image} images={sp.images} alt={localName} label={t('photoBy')} />
           {facts.length > 0 && (
             <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
               {facts.map(([label, value]) => (

@@ -49,6 +49,11 @@
       },
       "required": ["file", "license", "source"]
     },
+    "images": {
+      "type": "array",
+      "description": "All stored photos of the species (the first one is also `image`), files images/<slug>.jpg, <slug>-2.jpg ...",
+      "items": {"$ref": "#/properties/image"}
+    },
     "avibase_id": {
       "type": "string",
       "description": "Avibase ID"

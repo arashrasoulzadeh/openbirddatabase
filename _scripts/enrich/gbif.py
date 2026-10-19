@@ -15,6 +15,7 @@ Results are cached in _data/gbif/species.jsonl (one line per species), so an int
 """
 
 import json
+import os
 import math
 import re
 import sys
@@ -81,20 +82,31 @@ def recordings_for(s: requests.Session, key: int) -> Dict[str, Any]:
     return {"count": int(data.get("count", 0)), "ids": ids}
 
 
-def image_for(s: requests.Session, key: int) -> Optional[Dict[str, str]]:
-    """First iNaturalist photo whose OWN licence is CC0 / CC BY (the occurrence licence can differ from the photo's)."""
+PHOTO_POOL = int(os.environ.get("GBIF_PHOTO_POOL", "30"))             # photos remembered per species (fetch photos --max-photos picks how many to download)
+PHOTO_CANDIDATES = int(os.environ.get("GBIF_PHOTO_CANDIDATES", "100"))  # iNaturalist observations looked at per species
+
+
+def images_for(s: requests.Session, key: int) -> List[Dict[str, str]]:
+    """Open-licence photos (the photo's OWN licence must be CC0 / CC BY; the observation's can differ), best first:
+    one per photographer before a second one by the same person, so a gallery shows different people's work."""
     r = s.get(f"{API}/occurrence/search",
-              params={"taxonKey": key, "datasetKey": INATURALIST_DATASET, "mediaType": "StillImage", "limit": 30,
-                      "occurrenceStatus": "PRESENT"}, timeout=60)
+              params={"taxonKey": key, "datasetKey": INATURALIST_DATASET, "mediaType": "StillImage", "limit": PHOTO_CANDIDATES,
+                      "occurrenceStatus": "PRESENT"}, timeout=90)
     r.raise_for_status()
+    found, seen = [], set()
     for occ in r.json().get("results", []):
         for m in occ.get("media", []):
             licence = OPEN_LICENSES.get(str(m.get("license", "")).replace("https://", "http://").rstrip("/") + "/")
             url = str(m.get("identifier", ""))
-            if licence and m.get("type") == "StillImage" and "/original." in url:
-                return {"source_url": url, "page": m.get("references") or "", "author": m.get("creator") or m.get("rightsHolder") or "",
-                        "license": licence, "source": "iNaturalist via GBIF"}
-    return None
+            if licence and m.get("type") == "StillImage" and "/original." in url and url not in seen:
+                seen.add(url)
+                found.append({"source_url": url, "page": m.get("references") or "", "author": m.get("creator") or m.get("rightsHolder") or "",
+                              "license": licence, "source": "iNaturalist via GBIF"})
+    firsts, repeats, authors = [], [], set()
+    for photo in found:
+        (repeats if photo["author"] in authors and photo["author"] else firsts).append(photo)
+        authors.add(photo["author"])
+    return (firsts + repeats)[:PHOTO_POOL]
 
 
 def collect_one(name: str, stored: Optional[int], existing: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
@@ -102,14 +114,16 @@ def collect_one(name: str, stored: Optional[int], existing: Optional[Dict[str, A
     if existing:  # countries/recordings already cached: only the photo is missing
         row = dict(existing)
         if row.get("key"):
-            row["image"] = image_for(s, int(row["key"]))
+            row["images"] = images_for(s, int(row["key"]))
+            row["image"] = row["images"][0] if row["images"] else None  # the first one, for older readers of the cache
         return row
     key = resolve_key(s, name, stored)
     row: Dict[str, Any] = {"name": name, "key": key}
     if key:
         row["countries"] = countries_for(s, key)
         row["recordings"] = recordings_for(s, key)
-        row["image"] = image_for(s, key)
+        row["images"] = images_for(s, key)
+        row["image"] = row["images"][0] if row["images"] else None
     return row
 
 
@@ -135,7 +149,7 @@ def describe(row: Dict[str, Any]) -> str:
     c = (row.get("countries") or {}).get("counts") or {}
     return (f"key={row.get('key')} records={(row.get('countries') or {}).get('total', '-')} countries={len(c)} "
             f"recordings={len((row.get('recordings') or {}).get('ids', []))} "
-            f"photo={'yes ' + row['image']['license'] if row.get('image') else 'no'}")
+            f"photos={len(row.get('images') or [])}")
 
 
 def fetch(workers: int = 3, verbose: bool = False, limit: int = 0, delay: float = 0.0) -> str:
@@ -148,7 +162,7 @@ def fetch(workers: int = 3, verbose: bool = False, limit: int = 0, delay: float 
                 row = json.loads(line)
                 cached[row["name"]] = row  # a later line (re-fetched with a photo) replaces an earlier one
     wanted = {n: k for n, k in species_to_fetch().items() if n}
-    todo = {n: k for n, k in wanted.items() if n not in cached or ("image" not in cached[n] and cached[n].get("key"))}
+    todo = {n: k for n, k in wanted.items() if n not in cached or ("images" not in cached[n] and cached[n].get("key"))}
     if limit:
         todo = dict(list(todo.items())[:limit])
     photo_only = sum(n in cached for n in todo)
@@ -219,9 +233,20 @@ def build_recordings() -> Dict[str, Dict[str, Any]]:
             for r in rows() if (r.get("recordings") or {}).get("ids")}
 
 
-def build_images() -> Dict[str, Dict[str, Any]]:
-    """Photo metadata only; images/<slug>.jpg and `file` are added by `python _scripts/enrich.py photos`."""
-    return {r["name"]: {"image": r["image"]} for r in rows() if r.get("image")}
+def build_images() -> Dict[str, List[Dict[str, str]]]:
+    """{scientific name: the photos found for it}; photos.py downloads them and writes the patch."""
+    return {r["name"]: r["images"] for r in rows() if r.get("images")}
+
+
+def photo_lookup_status() -> tuple:
+    """(species whose cached photo list is up to date, species that still have only the old single-photo record)."""
+    current = old = 0
+    for r in rows():
+        if r.get("images") is not None:
+            current += bool(r["images"])
+        elif r.get("key"):
+            old += 1
+    return current, old
 
 
 def run(workers: int = 3, verbose: bool = False, limit: int = 0, delay: float = 0.0) -> str:

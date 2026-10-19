@@ -4,7 +4,7 @@
     python _scripts/enrich.py fetch avonet        download + build the patch file (_data/enrichment/avonet.json)
     python _scripts/enrich.py fetch gbif -v -n 20  try 20 species, one line each (drop -n/-v for the full run)
     python _scripts/enrich.py fetch gbif -w 3      countries + Xeno-canto ids + photo links for every species (slow, resumable)
-    python _scripts/enrich.py fetch photos         download the photos into images/
+    python _scripts/enrich.py fetch photos         download the photos into images/ (--max-photos N per species, default 5)
     python _scripts/enrich.py apply avonet        merge it into birds/ (add --dry-run to only count)
     python _scripts/enrich.py clean-names         blank placeholder / untranslated common names
     python _scripts/enrich.py clean-distribution  restricted-range flag, realm code case
@@ -28,6 +28,7 @@ SOURCES = {
     "gbif": ("_scripts.enrich.gbif", []),
     "xenocanto": ("_scripts.enrich.xenocanto", []),
     "photos": ("_scripts.enrich.photos", []),
+    "birdbase_extra": ("_scripts.enrich.birdbase_extra", []),
     "wikidata": ("_scripts.enrich.wikidata", []),
 }
 
@@ -40,6 +41,7 @@ def main() -> int:
     parser.add_argument("-w", "--workers", type=int, default=None, help="fetch: parallel requests (gbif default 3, photos 6; GBIF rate-limits above ~4)")
     parser.add_argument("-v", "--verbose", action="store_true", help="fetch: print a line per species")
     parser.add_argument("-n", "--limit", type=int, default=0, help="fetch: only the first N species (try -n 20 -v first)")
+    parser.add_argument("--max-photos", type=int, default=None, metavar="N", help="fetch photos: download the first N photos of each species (default 5, 0 = all that fetch gbif remembered, up to 30)")
     parser.add_argument("--delay", type=float, default=0.0, help="fetch: seconds each worker waits after a species (gentler on the API)")
     args = parser.parse_args()
 
@@ -57,6 +59,8 @@ def main() -> int:
         options = {"verbose": args.verbose, "limit": args.limit, "delay": args.delay}
         if args.workers:
             options["workers"] = args.workers
+        if args.max_photos is not None:
+            options["max_photos"] = args.max_photos
         try:
             print(module.run(**options))
         except TypeError:  # sources without progress options (avonet, anage, ...)
