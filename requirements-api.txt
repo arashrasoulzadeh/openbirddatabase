@@ -1,24 +1,12 @@
-# API Dependencies
+# API + worker image (the Dockerfile installs only this). Everything the API, the worker and the warm-up import, nothing
+# more: pandas, openpyxl, pygit2, jinja2, jsonschema, tqdm... belong to the data pipeline (requirements.txt) and made the
+# image about a third bigger to download. The worker's `git log` call uses the git binary the Dockerfile installs.
 fastapi>=0.104
 uvicorn[standard]>=0.24
 pydantic>=2.5
-pydantic-settings>=2.1
-python-multipart>=0.0.6
 meilisearch>=0.31
 redis>=5.0
 orjson>=3.9
 strawberry-graphql>=0.220
 pyyaml>=6.0
-
-# Core
-pandas>=2.1
-openpyxl>=3.1
 requests>=2.31
-jinja2>=3.1
-jsonschema>=4.20
-python-dateutil>=2.8
-tqdm>=4.66
-pygit2>=1.13
-birdfyi>=0.1
-referencing>=0.30
-rpds-py>=0.10

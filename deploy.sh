@@ -92,7 +92,11 @@ web_image() { docker compose config --images | grep 'openbird-web' | head -1; }
 ready=0
 shown_login_hint=0
 for attempt in $(seq 1 $((WAIT_MINUTES * 2))); do
-  if output="$(docker compose pull web api 2>&1)"; then
+  echo "Downloading the images (attempt $attempt)..."
+  pull_log="$(mktemp)"
+  # show the download as it happens (it used to be hidden, which made a slow download look like a hang)
+  if ( set -o pipefail; docker compose pull web api 2>&1 | tee "$pull_log" ); then
+    output="$(cat "$pull_log")"; rm -f "$pull_log"
     revision="$(docker image inspect --format '{{ index .Config.Labels "org.opencontainers.image.revision" }}' "$(web_image)" 2>/dev/null || true)"
     if [ "$revision" = "$HEAD_SHA" ]; then
       ready=1
@@ -100,6 +104,7 @@ for attempt in $(seq 1 $((WAIT_MINUTES * 2))); do
     fi
     echo "Published images are for ${revision:0:8}; waiting for CI to publish ${HEAD_SHA:0:8} ($attempt)..."
   else
+    output="$(cat "$pull_log")"; rm -f "$pull_log"
     echo "Could not pull the images yet ($attempt)..."
     if [ "$shown_login_hint" -eq 0 ] && echo "$output" | grep -qiE 'denied|unauthorized|authentication required'; then
       shown_login_hint=1
