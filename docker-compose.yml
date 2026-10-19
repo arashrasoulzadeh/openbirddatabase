@@ -4,6 +4,10 @@
 # Species data is bind-mounted from this git checkout (not baked into the API image), so
 # changing birds/ does not require rebuilding the API — only `git pull` + recreate api/worker.
 
+# Memory: every service has a cap sized for a 4 GB server (about 2.9 GB in total, the rest is for the OS), so one service
+# going wrong is stopped on its own instead of pushing the whole host into swap. Raise them in .env on a bigger server
+# (API_MEMORY, WEB_MEMORY, WORKER_MEMORY, REDIS_MEMORY, MEILI_MEMORY, API_WORKERS, VECTOR_SEARCH).
+
 x-data-mounts: &data-mounts
   - ./birds:/app/birds:ro
   - ./_index:/app/_index:ro
@@ -34,6 +38,7 @@ services:
     depends_on:
       - api
       - web
+    mem_limit: 128m
     restart: unless-stopped
 
   web:
@@ -47,8 +52,11 @@ services:
     environment:
       # Server-side rendering talks to the API over the internal network
       - API_INTERNAL_URL=http://api:8000
+      # keep Node's heap well under the container limit so it garbage-collects instead of being killed
+      - NODE_OPTIONS=--max-old-space-size=${WEB_HEAP_MB:-256}
     depends_on:
       - api
+    mem_limit: ${WEB_MEMORY:-384m}
     restart: unless-stopped
 
   api:
@@ -58,7 +66,7 @@ services:
       - MEILI_HOST=http://meilisearch:7700
       - SITE_DOMAIN=${SITE_DOMAIN}
       # hybrid keyword + vector search; set VECTOR_SEARCH=false to disable
-      - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
+      - VECTOR_SEARCH=${VECTOR_SEARCH:-false}
       - SEMANTIC_RATIO=${SEMANTIC_RATIO:-0.5}
       - REDIS_URL=redis://redis:6379/0
       # analytics events live in SQLite on a volume; the token protects the dashboard data
@@ -67,7 +75,9 @@ services:
       - ANALYTICS_ENABLED=${ANALYTICS_ENABLED:-true}
       # refreshed by the worker onto the shared analytics volume
       - CONTENT_STATS_FILE=/data/content-stats.json
-      - API_WORKERS=${API_WORKERS:-2}
+      # one worker is plenty (a cached search answers in ~1 ms); each extra worker costs ~200 MB
+      - API_WORKERS=${API_WORKERS:-1}
+      - LOCAL_CACHE_MAX_MB=${LOCAL_CACHE_MAX_MB:-48}
       # a busy MeiliSearch (vector indexing) must not freeze the API: searches time out and fall back
       - MEILI_TIMEOUT=${MEILI_TIMEOUT:-3}
       - FAST_SEARCH=${FAST_SEARCH:-true}
@@ -77,12 +87,14 @@ services:
       # Redis is enough to start: MeiliSearch is optional at runtime (in-memory search + circuit breaker).
       - redis
     volumes: *api-volumes
+    mem_limit: ${API_MEMORY:-640m}
     restart: unless-stopped
 
   # Response cache for the API (species, search, taxonomy...). Safe to wipe: it refills on demand.
   redis:
     image: redis:7-alpine
-    command: ["redis-server", "--maxmemory", "${REDIS_MAXMEMORY:-768mb}", "--maxmemory-policy", "allkeys-lru", "--save", ""]
+    command: ["redis-server", "--maxmemory", "${REDIS_MAXMEMORY:-256mb}", "--maxmemory-policy", "allkeys-lru", "--save", ""]
+    mem_limit: ${REDIS_MEMORY:-384m}
     restart: unless-stopped
 
   # Backend jobs: cache warm-up (on boot + hourly), analytics backup, content-stats refresh.
@@ -105,6 +117,7 @@ services:
       - redis
       - api
     volumes: *api-volumes
+    mem_limit: ${WORKER_MEMORY:-320m}
     restart: unless-stopped
 
   meilisearch:
@@ -112,13 +125,15 @@ services:
     environment:
       - MEILI_NO_ANALYTICS=true
       # computing vectors is CPU heavy: leave room for the other services on a shared server
-      - MEILI_MAX_INDEXING_THREADS=${MEILI_INDEXING_THREADS:-2}
+      - MEILI_MAX_INDEXING_THREADS=${MEILI_INDEXING_THREADS:-1}
+      # indexing is the memory spike: cap it so a reindex cannot fill the container
+      - MEILI_MAX_INDEXING_MEMORY=${MEILI_INDEXING_MEMORY:-384Mb}
       # lets the newer engine open data created by an older version (the index is rebuildable anyway)
       - MEILI_EXPERIMENTAL_DUMPLESS_UPGRADE=true
     volumes:
       - ./meili_data:/meili_data
     # Cap RAM so a vector reindex cannot OOM the whole host (API/web keep serving without Meili).
-    mem_limit: ${MEILI_MEMORY:-1536m}
+    mem_limit: ${MEILI_MEMORY:-1024m}
     healthcheck:
       test: ["CMD-SHELL", "wget -q -O /dev/null http://127.0.0.1:7700/health || exit 1"]
       interval: 15s
@@ -133,7 +148,7 @@ services:
     command: python _scripts/populate_meili.py
     environment:
       - MEILI_HOST=http://meilisearch:7700
-      - VECTOR_SEARCH=${VECTOR_SEARCH:-true}
+      - VECTOR_SEARCH=${VECTOR_SEARCH:-false}
       - EMBEDDER_MODEL=${EMBEDDER_MODEL:-intfloat/multilingual-e5-small}
     depends_on:
       - meilisearch

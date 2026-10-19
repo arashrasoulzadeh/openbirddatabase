@@ -75,6 +75,17 @@ and worker containers — it is not baked into the image. After regenerating `_i
 commit and push; `./deploy.sh` pulls the code and recreates api/worker. Rebuild the API image only when Python
 code or dependencies change. Re-run the MeiliSearch indexer when the search documents should change.
 
+## Small servers (4 GB RAM)
+
+Every service has a memory cap (`mem_limit` in `docker-compose.yml`, sized for a 4 GB host: API 640 MB, website 384 MB,
+worker 320 MB, Redis 384 MB with `maxmemory` 256 MB, MeiliSearch 1 GB, Caddy 128 MB). A service that misbehaves is
+restarted on its own instead of pushing the whole host into swap. Vector search is off by default and the API runs one worker;
+search, typo fixing and sentences are answered from memory. Raise the caps in `.env` on a bigger server (see `.env.example`).
+
+Check where the memory goes: `docker stats --no-stream`, `free -m`, `docker inspect -f '{{.State.OOMKilled}} {{.Name}}' $(docker ps -aq)`
+(`true` = the container was killed for exceeding its cap; raise that service's `*_MEMORY`).
+MeiliSearch refuses to open data written by an old version: `docker compose stop meilisearch && rm -rf meili_data`, start it, run the indexer.
+
 ## SEO
 
 The website serves `/sitemap.xml` (home page plus every species page, generated from the API's taxonomy and cached for an hour)

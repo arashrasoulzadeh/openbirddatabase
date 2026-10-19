@@ -60,7 +60,6 @@ class FastIndex:
     def __init__(self, docs: List[Dict[str, Any]]) -> None:
         self.docs = docs
         self.names: List[List[str]] = []  # per species: normalized names used for ranking
-        self.padded: List[List[str]] = []  # the same names with a leading space, for "a word starts with" tests
         self.blobs: List[str] = []        # per species: everything searchable in one string
         self.by_filter: Dict[Tuple[str, str], List[int]] = {}
         for i, d in enumerate(docs):
@@ -68,7 +67,6 @@ class FastIndex:
             names += [normalize(v) for k, v in d.items() if k.startswith("common_name_") and v]
             names = [n for n in dict.fromkeys(names) if n and n != "nan"]
             self.names.append(names)
-            self.padded.append([" " + n for n in names])
             self.blobs.append("\n".join(names + [normalize(d.get("order")), normalize(d.get("family"))]))
             for f in FILTER_FIELDS:
                 if d.get(f):
@@ -88,10 +86,10 @@ class FastIndex:
         counts: Counter = Counter(w for names in self.names for n in names for w in n.split() if len(w) >= 4)
         self.vocab = list(counts)
         self.vocab_count = counts
-        self.vocab_post: Dict[str, List[int]] = {}
+        self.vocab_post: Dict[str, array] = {}  # arrays, not lists: a third of the memory
         for i, w in enumerate(self.vocab):
             for g in trigrams(w):
-                self.vocab_post.setdefault(g, []).append(i)
+                self.vocab_post.setdefault(g, array("I")).append(i)
 
     def _narrow(self, tokens: List[str]) -> Optional[Iterable[int]]:
         """Species that might match every token: the posting list of the rarest 3-letter sequence among them (which may be
@@ -198,12 +196,12 @@ class FastIndex:
         scored = []
         for i in hits:
             tier, length = 4, 0
-            for n, p in zip(self.names[i], self.padded[i]):
+            for n in self.names[i]:
                 if n == phrase:
                     t = 0
                 elif n.startswith(phrase):
                     t = 1
-                elif padded_phrase in p or (rest and all(pt in p for pt in padded_tokens)):
+                elif padded_phrase in (p := " " + n) or (rest and all(pt in p for pt in padded_tokens)):
                     t = 2  # a word starts with the query (or every word starts a word, in any order)
                 else:
                     t = 3
