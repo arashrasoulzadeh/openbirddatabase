@@ -44,7 +44,12 @@ distribution:
   range_size_km2: 3975634.0
 habitat:
   primary: Plains
-  secondary: []
+  secondary:
+  - Shrubland
+  - Grassland
+  - Rocky
+  - Desert
+  - Artificial
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 3350
@@ -153,6 +158,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

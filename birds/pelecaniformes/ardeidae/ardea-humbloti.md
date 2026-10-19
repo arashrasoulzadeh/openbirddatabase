@@ -36,7 +36,9 @@ distribution:
   island_endemic: true
 habitat:
   primary: Coastal
-  secondary: []
+  secondary:
+  - Riverine
+  - Wetland
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1500
@@ -131,7 +133,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

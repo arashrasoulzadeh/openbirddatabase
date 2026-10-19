@@ -35,7 +35,11 @@ distribution:
   range_size_km2: 143588.0
 habitat:
   primary: Plains
-  secondary: []
+  secondary:
+  - Shrubland
+  - Savanna
+  - Grassland
+  - Artificial
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 0
@@ -133,7 +137,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
-last_updated: '2026-10-17'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 morphology:
   bill_length_mm: 13.8

@@ -36,7 +36,9 @@ distribution:
   island_endemic: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Shrubland
+  - Artificial
   habitat_breadth: 3
   elevational_min_m: 1200
   elevational_max_m: 1900
@@ -106,6 +108,7 @@ reproduction:
   clutch_size_min: 1
   clutch_size_max: 1
   nest_material: []
+  mating_system: Lek
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -130,6 +133,7 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

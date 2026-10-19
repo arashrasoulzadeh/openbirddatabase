@@ -43,7 +43,9 @@ distribution:
   restricted_range: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1200
@@ -116,6 +118,7 @@ reproduction:
   clutch_size_min: 2
   clutch_size_max: 2
   nest_material: []
+  mating_system: Lek
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -142,6 +145,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

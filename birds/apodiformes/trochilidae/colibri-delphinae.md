@@ -52,7 +52,9 @@ distribution:
   range_size_km2: 1200070.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Shrubland
+  - Artificial
   habitat_breadth: 3
   elevational_min_m: 100
   elevational_max_m: 2800
@@ -126,6 +128,7 @@ reproduction:
   nest_placement: A, Shrub
   nest_material: []
   clutch_size_mean: 2.0
+  mating_system: Lek
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -153,6 +156,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

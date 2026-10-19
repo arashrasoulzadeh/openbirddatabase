@@ -43,7 +43,9 @@ distribution:
   range_size_km2: 101748.0
 habitat:
   primary: Woodland
-  secondary: []
+  secondary:
+  - Forest
+  - Grassland
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2000
@@ -118,6 +120,7 @@ reproduction:
   nest_placement: Rock, Tree
   nest_material: []
   broods_per_year: 2
+  mating_system: Cooperative
 conservation:
   iucn_status: CR
   cites_appendix: Not listed
@@ -144,7 +147,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 45

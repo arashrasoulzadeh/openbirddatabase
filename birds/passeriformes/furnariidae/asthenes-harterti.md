@@ -41,7 +41,9 @@ distribution:
   range_size_km2: 23849.0
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Forest
+  - Shrubland
   habitat_breadth: 3
   elevational_min_m: 2900
   elevational_max_m: 3400
@@ -116,6 +118,7 @@ reproduction:
   nest_type: SP
   nest_placement: Cliff/Crevice
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -142,6 +145,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

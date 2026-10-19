@@ -46,7 +46,9 @@ distribution:
   range_size_km2: 2932778.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Riverine
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 500
@@ -121,6 +123,7 @@ reproduction:
   nest_type: CV
   nest_placement: C, Tree
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -147,6 +150,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

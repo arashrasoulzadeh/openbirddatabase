@@ -46,7 +46,9 @@ distribution:
   range_size_km2: 332467.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Shrubland
+  - Artificial
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 4000
@@ -116,6 +118,7 @@ reproduction:
   nest_placement: Ground, Tree
   nest_material: []
   parental_care: Female only
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -141,7 +144,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

@@ -65,7 +65,9 @@ distribution:
   range_size_km2: 2808450.0
 habitat:
   primary: Desert
-  secondary: []
+  secondary:
+  - Shrubland
+  - Artificial
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 0
@@ -170,6 +172,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

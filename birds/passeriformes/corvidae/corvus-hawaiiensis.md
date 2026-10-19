@@ -41,7 +41,9 @@ distribution:
   island_endemic: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
   habitat_breadth: 3
   elevational_min_m: 730
   elevational_max_m: 1890
@@ -142,6 +144,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

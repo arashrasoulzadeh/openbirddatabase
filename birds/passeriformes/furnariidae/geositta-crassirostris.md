@@ -41,7 +41,9 @@ distribution:
   range_size_km2: 51584.0
 habitat:
   primary: Shrub
-  secondary: []
+  secondary:
+  - Rocky
+  - Desert
   habitat_breadth: 3
   elevational_min_m: 300
   elevational_max_m: 3550
@@ -135,8 +137,11 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
+reproduction:
+  mating_system: Monogamous
 ---
 
 

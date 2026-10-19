@@ -35,7 +35,8 @@ distribution:
   restricted_range: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
   habitat_breadth: 2
   elevational_min_m: 650
   elevational_max_m: 1380
@@ -109,6 +110,7 @@ reproduction:
   incubation_days: 24
   nest_material: []
   parental_care: Female only
+  mating_system: Polygynous
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -134,6 +136,7 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

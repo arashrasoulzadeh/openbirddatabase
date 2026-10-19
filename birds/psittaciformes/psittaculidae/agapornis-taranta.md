@@ -44,7 +44,8 @@ distribution:
   range_size_km2: 407733.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Savanna
   habitat_breadth: 2
   elevational_min_m: 1800
   elevational_max_m: 3400
@@ -121,6 +122,7 @@ reproduction:
   nest_placement: Building, Tree
   nest_material: []
   parental_care: Female only
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -148,6 +150,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

@@ -118,6 +118,7 @@ reproduction:
   broods_per_year: 1
   egg_length_mm: 66.0
   egg_width_mm: 48.0
+  mating_system: Polygynous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -145,7 +146,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 16

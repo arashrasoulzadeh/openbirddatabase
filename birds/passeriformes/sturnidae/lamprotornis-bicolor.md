@@ -38,7 +38,9 @@ distribution:
   island_endemic: false
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Artificial
+  - Coastal
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 2500
@@ -111,6 +113,7 @@ reproduction:
   clutch_size_min: 2
   clutch_size_max: 6
   nest_material: []
+  mating_system: Cooperative
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -136,6 +139,7 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

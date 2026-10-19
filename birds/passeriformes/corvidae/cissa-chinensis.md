@@ -52,7 +52,10 @@ distribution:
   range_size_km2: 2108736.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
+  - Artificial
+  - Riverine
   habitat_breadth: 4
   elevational_min_m: 600
   elevational_max_m: 2100
@@ -152,6 +155,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

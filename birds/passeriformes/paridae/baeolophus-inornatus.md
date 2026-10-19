@@ -42,7 +42,9 @@ distribution:
   range_size_km2: 178258.0
 habitat:
   primary: Woodland
-  secondary: []
+  secondary:
+  - Forest
+  - Riverine
   habitat_breadth: 3
   elevational_min_m: 12
   elevational_max_m: 2194
@@ -120,6 +122,7 @@ reproduction:
   parental_care: Female only
   incubation_days: 15
   broods_per_year: 1
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -147,6 +150,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

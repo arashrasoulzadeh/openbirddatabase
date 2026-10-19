@@ -43,7 +43,11 @@ distribution:
   range_size_km2: 42140.0
 habitat:
   primary: Rocky
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
+  - Plains
+  - Riverine
   habitat_breadth: 5
   elevational_min_m: 400
   elevational_max_m: 800
@@ -135,7 +139,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

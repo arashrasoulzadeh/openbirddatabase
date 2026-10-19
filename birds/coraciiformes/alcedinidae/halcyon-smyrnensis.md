@@ -63,7 +63,13 @@ distribution:
   range_size_km2: 6823580.0
 habitat:
   primary: Artificial
-  secondary: []
+  secondary:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Riverine
+  - Coastal
+  - Wetland
   habitat_breadth: 7
   elevational_min_m: 0
   elevational_max_m: 2300
@@ -145,6 +151,7 @@ reproduction:
   nest_placement: Ground, Cavity, Tree
   nest_material: []
   parental_care: Biparental
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -172,6 +179,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

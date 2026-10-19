@@ -59,7 +59,8 @@ distribution:
   island_endemic: true
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Rocky
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
@@ -133,6 +134,7 @@ reproduction:
   nest_type: BU,CR
   nest_placement: Ground
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -158,6 +160,7 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

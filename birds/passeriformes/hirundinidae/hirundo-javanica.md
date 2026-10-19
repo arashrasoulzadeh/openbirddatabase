@@ -52,7 +52,12 @@ distribution:
   range_size_km2: 3415870.0
 habitat:
   primary: Coastal
-  secondary: []
+  secondary:
+  - Forest
+  - Grassland
+  - Rocky
+  - Artificial
+  - Wetland
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 2010
@@ -155,7 +160,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

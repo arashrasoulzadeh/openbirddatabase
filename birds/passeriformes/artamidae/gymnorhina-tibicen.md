@@ -43,7 +43,8 @@ distribution:
   range_size_km2: 6726972.0
 habitat:
   primary: Woodland
-  secondary: []
+  secondary:
+  - Savanna
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1000
@@ -148,6 +149,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

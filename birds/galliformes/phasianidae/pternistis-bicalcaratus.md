@@ -56,7 +56,11 @@ distribution:
   range_size_km2: 3597861.0
 habitat:
   primary: Savanna
-  secondary: []
+  secondary:
+  - Forest
+  - Woodland
+  - Artificial
+  - Wetland
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1500
@@ -134,6 +138,7 @@ reproduction:
   nest_placement: Ground
   nest_material: []
   broods_per_year: 1
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -161,6 +166,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

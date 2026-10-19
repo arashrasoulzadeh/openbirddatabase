@@ -48,7 +48,8 @@ distribution:
   range_size_km2: 338813.0
 habitat:
   primary: Shrub
-  secondary: []
+  secondary:
+  - Forest
   habitat_breadth: 2
   elevational_min_m: 1000
   elevational_max_m: 2800
@@ -149,6 +150,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

@@ -63,7 +63,8 @@ distribution:
   range_size_km2: 8950742.0
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Artificial
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 2200
@@ -137,6 +138,7 @@ reproduction:
   nest_type: CP
   nest_placement: Ground
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -163,6 +165,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

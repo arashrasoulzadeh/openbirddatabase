@@ -48,7 +48,8 @@ distribution:
   range_size_km2: 66311109.0
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Rocky
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 0
@@ -120,6 +121,7 @@ reproduction:
   fledging_days: 100
   nest_placement: Ground, Rock
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -145,7 +147,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

@@ -114,6 +114,7 @@ reproduction:
   clutch_size_min: 3
   clutch_size_max: 4
   nest_material: []
+  mating_system: Cooperative
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -141,6 +142,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

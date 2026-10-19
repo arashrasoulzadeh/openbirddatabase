@@ -36,7 +36,8 @@ distribution:
   restricted_range: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Artificial
   habitat_breadth: 2
   elevational_min_m: 900
   elevational_max_m: 1350
@@ -128,7 +129,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

@@ -43,7 +43,11 @@ distribution:
   range_size_km2: 205793.0
 habitat:
   primary: Riparian
-  secondary: []
+  secondary:
+  - Forest
+  - Bamboo
+  - Woodland
+  - Shrubland
   habitat_breadth: 5
   elevational_min_m: 250
   elevational_max_m: 1350
@@ -116,6 +120,7 @@ behavior:
 reproduction:
   nest_placement: Shrub
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -142,6 +147,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

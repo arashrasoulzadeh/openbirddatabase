@@ -47,7 +47,8 @@ distribution:
   range_size_km2: 3810389.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Riverine
   habitat_breadth: 2
   elevational_min_m: 50
   elevational_max_m: 1900
@@ -124,6 +125,7 @@ reproduction:
   parental_care: Male only
   egg_length_mm: 60.4
   egg_width_mm: 52.3
+  mating_system: Polygynous
 conservation:
   iucn_status: VU
   cites_appendix: Not listed
@@ -151,6 +153,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

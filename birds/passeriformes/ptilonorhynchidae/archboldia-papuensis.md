@@ -43,7 +43,8 @@ distribution:
   range_size_km2: 64610.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
   habitat_breadth: 2
   elevational_min_m: 2300
   elevational_max_m: 3660
@@ -119,6 +120,7 @@ reproduction:
   nest_type: CP
   nest_placement: Tree
   nest_material: []
+  mating_system: Polygynous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -145,6 +147,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

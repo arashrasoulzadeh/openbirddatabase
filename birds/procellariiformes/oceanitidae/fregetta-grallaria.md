@@ -61,7 +61,8 @@ distribution:
   range_size_km2: 75851931.0
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Grassland
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 450
@@ -137,6 +138,7 @@ reproduction:
   fledging_days: 68
   egg_length_mm: 36.3
   egg_width_mm: 26.4
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -163,7 +165,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

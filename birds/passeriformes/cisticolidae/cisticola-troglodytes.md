@@ -40,7 +40,11 @@ distribution:
   island_endemic: false
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Woodland
+  - Savanna
+  - Desert
+  - Riverine
   habitat_breadth: 5
   elevational_min_m: 1500
   elevational_max_m: 2200
@@ -135,8 +139,11 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
+reproduction:
+  mating_system: Monogamous
 ---
 
 

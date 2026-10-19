@@ -47,7 +47,8 @@ distribution:
   range_size_km2: 137927.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
   habitat_breadth: 2
   elevational_min_m: 1500
   elevational_max_m: 2500
@@ -124,6 +125,7 @@ reproduction:
   parental_care: Male only
   egg_length_mm: 72.5
   egg_width_mm: 48.5
+  mating_system: Cooperative
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -151,6 +153,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

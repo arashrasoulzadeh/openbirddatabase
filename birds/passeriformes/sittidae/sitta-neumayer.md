@@ -56,7 +56,9 @@ distribution:
   range_size_km2: 1244089.0
 habitat:
   primary: Rocky
-  secondary: []
+  secondary:
+  - Woodland
+  - Riverine
   habitat_breadth: 3
   elevational_min_m: 800
   elevational_max_m: 3350
@@ -134,6 +136,7 @@ reproduction:
   nest_placement: Building, Rock
   nest_material: []
   parental_care: Female only
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -161,6 +164,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

@@ -39,7 +39,8 @@ distribution:
   island_endemic: true
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Grassland
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 640
@@ -116,6 +117,7 @@ reproduction:
   broods_per_year: 1
   egg_length_mm: 128.9
   egg_width_mm: 79.8
+  mating_system: Monogamous
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -141,7 +143,8 @@ sources:
 - BIRDBASE 2025
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 60

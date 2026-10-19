@@ -46,7 +46,11 @@ distribution:
   island_endemic: false
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Artificial
   habitat_breadth: 5
   elevational_min_m: 2200
   elevational_max_m: 3300
@@ -148,6 +152,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

@@ -43,7 +43,8 @@ distribution:
   range_size_km2: 1777807.0
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Rocky
   habitat_breadth: 2
   elevational_min_m: 822
   elevational_max_m: 4268
@@ -119,6 +120,7 @@ reproduction:
   nest_placement: Rock
   nest_material: []
   broods_per_year: 1
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -146,6 +148,7 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

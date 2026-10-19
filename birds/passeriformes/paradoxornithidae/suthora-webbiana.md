@@ -45,7 +45,11 @@ distribution:
   island_endemic: false
 habitat:
   primary: Shrub
-  secondary: []
+  secondary:
+  - Forest
+  - Bamboo
+  - Artificial
+  - Wetland
   habitat_breadth: 5
   elevational_min_m: 600
   elevational_max_m: 3100
@@ -124,6 +128,7 @@ reproduction:
   nest_type: CP
   nest_placement: A, Shrub, Tree, Cliff/Crevice
   nest_material: []
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -149,6 +154,7 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

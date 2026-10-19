@@ -50,7 +50,8 @@ distribution:
   range_size_km2: 378158.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Wetland
   habitat_breadth: 2
   elevational_min_m: 600
   elevational_max_m: 2300
@@ -143,6 +144,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

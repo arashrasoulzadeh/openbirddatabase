@@ -36,7 +36,10 @@ distribution:
   range_size_km2: 2024.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
+  - Shrubland
+  - Artificial
   habitat_breadth: 4
   elevational_min_m: 1300
   elevational_max_m: 2200
@@ -131,6 +134,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 morphology:
@@ -139,6 +143,8 @@ morphology:
   wing_length_mm: 58.1
   tail_length_mm: 102.8
   body_mass_g: 15.0
+reproduction:
+  mating_system: Monogamous
 ---
 
 

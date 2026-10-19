@@ -112,6 +112,7 @@ reproduction:
   nest_material: []
   parental_care: Biparental
   broods_per_year: 1
+  mating_system: Monogamous
 conservation:
   iucn_status: EX
   cites_appendix: Not listed
@@ -137,7 +138,8 @@ sources:
 - BIRDBASE 2025
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 15

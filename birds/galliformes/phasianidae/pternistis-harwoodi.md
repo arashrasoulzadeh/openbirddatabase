@@ -36,7 +36,10 @@ distribution:
   island_endemic: false
 habitat:
   primary: Woodland
-  secondary: []
+  secondary:
+  - Shrubland
+  - Riverine
+  - Wetland
   habitat_breadth: 4
   elevational_min_m: 1200
   elevational_max_m: 2600
@@ -110,6 +113,7 @@ reproduction:
   clutch_size_min: 3
   clutch_size_max: 10
   nest_material: []
+  mating_system: Polygynous
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -135,6 +139,7 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

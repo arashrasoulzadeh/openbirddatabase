@@ -36,7 +36,9 @@ distribution:
   island_endemic: true
 habitat:
   primary: Artificial
-  secondary: []
+  secondary:
+  - Woodland
+  - Grassland
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 1400
@@ -141,6 +143,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

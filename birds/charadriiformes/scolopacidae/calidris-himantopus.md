@@ -76,7 +76,11 @@ distribution:
   range_size_km2: 399381.0
 habitat:
   primary: Wetland
-  secondary: []
+  secondary:
+  - Shrubland
+  - Grassland
+  - Artificial
+  - Coastal
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 2500
@@ -159,6 +163,7 @@ reproduction:
   fledging_days: 17
   egg_length_mm: 36.5
   egg_width_mm: 25.5
+  mating_system: Monogamous
 conservation:
   iucn_status: NT
   cites_appendix: Not listed
@@ -187,6 +192,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

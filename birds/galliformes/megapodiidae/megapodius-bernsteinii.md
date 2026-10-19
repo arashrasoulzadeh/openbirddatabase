@@ -43,7 +43,12 @@ distribution:
   range_size_km2: 4284.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Bamboo
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
   habitat_breadth: 6
   elevational_min_m: 0
   elevational_max_m: 450
@@ -122,6 +127,7 @@ reproduction:
   clutch_size_mean: 10.0
   egg_length_mm: 82.6
   egg_width_mm: 52.3
+  mating_system: Monogamous
 conservation:
   iucn_status: VU
   cites_appendix: Not listed
@@ -149,6 +155,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

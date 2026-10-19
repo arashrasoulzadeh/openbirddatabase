@@ -50,7 +50,11 @@ distribution:
   range_size_km2: 679158.0
 habitat:
   primary: Grassland
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
+  - Rocky
+  - Artificial
   habitat_breadth: 5
   elevational_min_m: 1200
   elevational_max_m: 2500
@@ -129,6 +133,7 @@ reproduction:
   nest_material: []
   parental_care: Female only
   broods_per_year: 2
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -156,6 +161,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---

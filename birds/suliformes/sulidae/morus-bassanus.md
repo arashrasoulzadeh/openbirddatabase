@@ -60,7 +60,9 @@ distribution:
   range_size_km2: 18270100.0
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Rocky
+  - Coastal
   habitat_breadth: 3
   elevational_min_m: 0
   elevational_max_m: 200
@@ -141,6 +143,7 @@ reproduction:
   broods_per_year: 1
   egg_length_mm: 79.0
   egg_width_mm: 50.0
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -212,6 +215,7 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 demography:

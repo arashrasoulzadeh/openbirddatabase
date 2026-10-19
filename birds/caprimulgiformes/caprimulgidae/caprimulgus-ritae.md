@@ -31,7 +31,8 @@ distribution:
   island_endemic: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Savanna
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 1000
@@ -118,7 +119,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

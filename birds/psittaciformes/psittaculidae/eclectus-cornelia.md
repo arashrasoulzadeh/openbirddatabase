@@ -33,7 +33,11 @@ distribution:
   restricted_range: true
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
+  - Artificial
+  - Coastal
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 950
@@ -109,6 +113,7 @@ reproduction:
   nest_placement: Tree
   nest_material: []
   parental_care: Biparental
+  mating_system: Polygynous
 conservation:
   iucn_status: EN
   cites_appendix: Not listed
@@ -133,7 +138,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

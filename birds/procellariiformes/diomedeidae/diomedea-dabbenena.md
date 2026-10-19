@@ -50,7 +50,8 @@ distribution:
   range_size_km2: 38674167.0
 habitat:
   primary: Sea
-  secondary: []
+  secondary:
+  - Shrubland
   habitat_breadth: 2
   elevational_min_m: 0
   elevational_max_m: 700
@@ -126,6 +127,7 @@ reproduction:
   incubation_days: 79
   egg_length_mm: 130.8
   egg_width_mm: 81.0
+  mating_system: Monogamous
 conservation:
   iucn_status: CR
   cites_appendix: Not listed
@@ -152,7 +154,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 demography:
   max_longevity_years: 60

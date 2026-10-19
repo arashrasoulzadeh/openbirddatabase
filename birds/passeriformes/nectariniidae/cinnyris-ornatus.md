@@ -31,7 +31,11 @@ distribution:
   island_endemic: false
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Shrubland
+  - Plains
+  - Artificial
+  - Coastal
   habitat_breadth: 5
   elevational_min_m: 0
   elevational_max_m: 1700
@@ -131,7 +135,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
-last_updated: '2026-10-02'
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
+last_updated: '2026-10-19'
 data_quality: High
 ---
 

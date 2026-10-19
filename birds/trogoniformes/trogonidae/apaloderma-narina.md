@@ -63,7 +63,13 @@ distribution:
   range_size_km2: 10932031.0
 habitat:
   primary: Forest
-  secondary: []
+  secondary:
+  - Woodland
+  - Shrubland
+  - Savanna
+  - Artificial
+  - Riverine
+  - Coastal
   habitat_breadth: 7
   elevational_min_m: 50
   elevational_max_m: 3400
@@ -145,6 +151,7 @@ reproduction:
   nest_placement: C, Tree
   nest_material: []
   parental_care: Female only
+  mating_system: Monogamous
 conservation:
   iucn_status: LC
   cites_appendix: Not listed
@@ -171,6 +178,7 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
+- BIRDBASE v2025.1 (Sekercioglu et al. 2025)
 last_updated: '2026-10-19'
 data_quality: High
 ---
