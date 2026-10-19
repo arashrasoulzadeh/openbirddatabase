@@ -333,8 +333,8 @@ export default async function SpeciesPage({ params }: Props) {
       </section>
 
       <main className="mx-auto max-w-5xl px-4 py-6 sm:px-6">
-        {/* Physical row: content | right rail — dir=ltr keeps the timeline on the right in Persian RTL pages */}
-        <div className="lg:flex lg:flex-row lg:items-start lg:gap-8" dir="ltr">
+        {/* Physical row: content | right rail. Aside stretches so sticky timeline can pin while scrolling. */}
+        <div className="lg:flex lg:flex-row lg:items-stretch lg:gap-8" dir="ltr">
           <div className="min-w-0 flex-1 space-y-5" dir="auto">
             <SectionNav label={t('sectionNav')} mode="mobile" items={sectionNavItems(lang, t, nested, !!completeness)} />
 
@@ -417,8 +417,8 @@ export default async function SpeciesPage({ params }: Props) {
             </section>
           </div>
 
-          {/* Desktop timeline sits beside content only — never over the green hero */}
-          <aside className="hidden w-44 shrink-0 lg:block xl:w-48">
+          {/* Tall aside = sticky rail stays on the physical right while the page scrolls */}
+          <aside className="relative hidden w-44 shrink-0 lg:block xl:w-48">
             <SectionNav label={t('sectionNav')} mode="desktop" items={sectionNavItems(lang, t, nested, !!completeness)} />
           </aside>
         </div>

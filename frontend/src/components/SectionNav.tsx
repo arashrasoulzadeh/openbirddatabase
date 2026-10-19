@@ -12,45 +12,61 @@ type Props = {
 };
 
 function useActiveSection(items: SectionNavItem[]) {
-  const [active, setActive] = useState(items[0]?.id ?? '');
+  const [active, setActive] = useState(() => {
+    if (typeof window === 'undefined') return items[0]?.id ?? '';
+    const hash = window.location.hash.replace(/^#/, '');
+    return items.some((i) => i.id === hash) ? hash : items[0]?.id ?? '';
+  });
 
   useEffect(() => {
     if (!items.length) return;
-    const nodes = items
-      .map((item) => document.getElementById(item.id))
-      .filter((el): el is HTMLElement => !!el);
-    if (!nodes.length) return;
+    const ids = items.map((i) => i.id);
 
-    const ratios = new Map<string, number>();
-    const obs = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          ratios.set(entry.target.id, entry.isIntersecting ? entry.intersectionRatio : 0);
+    const pickFromScroll = () => {
+      // Section whose top is closest above ~28% of the viewport is "current"
+      const line = window.innerHeight * 0.28;
+      let best = ids[0];
+      let bestDist = Number.POSITIVE_INFINITY;
+      for (const id of ids) {
+        const el = document.getElementById(id);
+        if (!el) continue;
+        const top = el.getBoundingClientRect().top;
+        const dist = Math.abs(top - line);
+        if (top <= line + 40 && dist < bestDist) {
+          bestDist = dist;
+          best = id;
         }
-        let best = items[0].id;
-        let bestRatio = -1;
-        for (const item of items) {
-          const r = ratios.get(item.id) ?? 0;
-          if (r > bestRatio) {
-            bestRatio = r;
-            best = item.id;
-          }
-        }
-        if (bestRatio > 0) setActive(best);
-      },
-      { rootMargin: '-20% 0px -55% 0px', threshold: [0, 0.15, 0.35, 0.55, 0.75] },
-    );
-    nodes.forEach((n) => obs.observe(n));
-    return () => obs.disconnect();
+      }
+      // Near the bottom of the page: force the last visible section
+      if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 80) {
+        best = ids[ids.length - 1];
+      }
+      setActive((prev) => (prev === best ? prev : best));
+    };
+
+    const onHash = () => {
+      const hash = window.location.hash.replace(/^#/, '');
+      if (ids.includes(hash)) setActive(hash);
+    };
+
+    pickFromScroll();
+    window.addEventListener('scroll', pickFromScroll, { passive: true });
+    window.addEventListener('hashchange', onHash);
+    return () => {
+      window.removeEventListener('scroll', pickFromScroll);
+      window.removeEventListener('hashchange', onHash);
+    };
   }, [items]);
 
-  return active;
+  return [active, setActive] as const;
 }
 
 /** Section timeline: sticky rail on the physical right (desktop), compact chips on mobile. */
 export default function SectionNav({ items, label, mode }: Props) {
-  const active = useActiveSection(items);
+  const [active, setActive] = useActiveSection(items);
   if (!items.length) return null;
+
+  const activeIndex = Math.max(0, items.findIndex((i) => i.id === active));
 
   if (mode === 'mobile') {
     return (
@@ -65,6 +81,7 @@ export default function SectionNav({ items, label, mode }: Props) {
               <li key={item.id} className="shrink-0">
                 <a
                   href={`#${item.id}`}
+                  onClick={() => setActive(item.id)}
                   className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs transition ${
                     on
                       ? 'bg-brand-700 font-medium text-white shadow-sm'
@@ -85,25 +102,45 @@ export default function SectionNav({ items, label, mode }: Props) {
     );
   }
 
-  // Physical-right rail (dir=ltr on the list) so Persian RTL pages do not flip the line/dots.
+  // Physical-right rail (dir=ltr) so Persian RTL pages do not flip the line/dots.
+  // Sticky lives on this nav; the aside must stretch with the page (see species page layout).
   return (
-    <nav aria-label={label} className="hidden lg:block" dir="ltr">
-      <ol className="sticky top-28 border-r-2 border-stone-200 pr-4 text-right">
-        {items.map((item) => {
+    <nav aria-label={label} className="sticky top-24 hidden lg:block" dir="ltr">
+      <ol className="relative border-r-2 border-stone-200 pr-4 text-right">
+        {/* Progress fill on the rail up to the active item */}
+        <span
+          aria-hidden="true"
+          className="pointer-events-none absolute right-0 top-0 w-0.5 -translate-x-[0px] bg-brand-600 transition-[height] duration-300"
+          style={{
+            height: items.length > 1 ? `${(activeIndex / (items.length - 1)) * 100}%` : '0%',
+            marginRight: '-1px',
+          }}
+        />
+        {items.map((item, i) => {
           const on = item.id === active;
+          const past = i < activeIndex;
           return (
             <li key={item.id} className="relative py-1.5">
               <span
                 aria-hidden="true"
-                className={`absolute top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full ring-2 ring-stone-50 transition ${
-                  on ? '-right-[1.35rem] scale-110 bg-brand-600' : '-right-[1.3rem] bg-stone-300'
+                className={`absolute top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full transition-all duration-200 ${
+                  on
+                    ? '-right-[1.35rem] scale-125 bg-brand-600 ring-4 ring-brand-200'
+                    : past
+                      ? '-right-[1.3rem] bg-brand-500'
+                      : '-right-[1.3rem] bg-stone-300 ring-2 ring-stone-50'
                 }`}
               />
               <a
                 href={`#${item.id}`}
                 dir="auto"
+                onClick={() => setActive(item.id)}
                 className={`block text-sm leading-snug transition ${
-                  on ? 'font-semibold text-brand-800' : 'text-stone-500 hover:text-brand-700'
+                  on
+                    ? 'font-semibold text-brand-800'
+                    : past
+                      ? 'text-brand-700/80 hover:text-brand-800'
+                      : 'text-stone-500 hover:text-brand-700'
                 }`}
               >
                 {item.label}
